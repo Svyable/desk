@@ -42,17 +42,13 @@ The release requires a human approval for changes to that subsystem.
 
 The founder is still asleep.
 
-This is not a failure of autonomy.
-
-It is the design working.
+That is the design working, not a failure of autonomy.
 
 A business can operate without being allowed to commit itself without limit.
 
 The distinction is the difference between a synthetic workforce and an institution.
 
-An institution is not a place where nothing waits.
-
-It is a place where the right things can continue and the right things can stop.
+An institution is a place where the right things can continue and the right things can stop, not a place where nothing waits.
 
 The one-person corporation becomes interesting when the founder can create more output than one person historically could. It becomes economically important when the organization can preserve useful behavior in the founder's absence without pretending the founder has ceased to matter.
 
@@ -256,9 +252,7 @@ Not every intuition can be written down.
 
 That is fine.
 
-The purpose is not to remove the founder from the company.
-
-It is to know precisely where the founder remains irreplaceable.
+The purpose is to know precisely where the founder remains irreplaceable, not to remove the founder from the company.
 
 That knowledge changes hiring.
 
@@ -334,9 +328,7 @@ They are simply different assets.
 
 A dental practice can be a wonderful business while depending heavily on a dentist. A writer's company can be profitable while being inseparable from the writer. A consultant may deliberately choose a firm that ends when she stops working.
 
-Durability is not a moral obligation.
-
-It is an economic property.
+Durability is an economic property, not a moral obligation.
 
 The mistake is confusing scale of output with scale of institution.
 
@@ -438,9 +430,7 @@ That last admission matters.
 
 The agentile economy will generate pressure to call every repeated behavior autonomous. Autonomy sounds like maturity. Human dependence sounds like technical debt.
 
-But a healthy institution is not one that eliminates people.
-
-It is one that knows what it depends on.
+But a healthy institution knows what it depends on; it does not eliminate people for the sake of looking autonomous.
 
 A hospital depends on clinicians.
 

@@ -12,13 +12,13 @@ Yet their autonomy had a particular shape. Engineers specified the space of acti
 
 An agent changes the shape of the path.
 
-Give a sufficiently capable agent a goal such as, “Find out why the renewal invoice is higher than last year and fix it if the increase is a mistake,” and the useful behavior cannot be reduced to one predetermined sequence. It may need to locate last year’s contract, identify the vendor, search email for an amendment, inspect the new invoice, compare line items, determine whether the increase is contractual, draft a question, wait for a response, interpret the answer, and decide whether the matter is resolved or should be escalated.
+Give a sufficiently capable agent a goal such as, “Find out why the renewal invoice is higher than last year and fix it if the increase is a mistake,” and the useful behavior cannot be reduced to one predetermined sequence. It may need to find last year’s contract, compare the new invoice, decide whether the increase is contractual, and escalate when the answer is ambiguous.
 
 The instruction describes an outcome. The route is left partly open.
 
 That opening is where the economic change begins.
 
-A conventional tool extends a person’s capability when the person operates it. An agent can accept a delegated objective and choose among tools while pursuing it. The difference is not consciousness. It is not legal personhood. It is not proof of some philosophical threshold called intelligence. It is an operational change in who or what supplies the next step.
+A conventional tool extends a person’s capability when the person operates it. An agent can accept a delegated objective and choose among tools while pursuing it. The economically relevant difference is operational: who or what supplies the next step. Consciousness, legal personhood, and philosophical thresholds called intelligence matter in other arguments; they do not change the production system here.
 
 This is why arguments about whether an agent is “really autonomous” can become less useful than they first appear. Autonomy is not a switch. A junior employee is autonomous in some ways and constrained in others. A taxi driver chooses a route but not the passenger’s destination. A fund manager may trade within a mandate but cannot wire the fund’s assets to herself. A surgeon exercises extraordinary discretion inside one domain while requiring consent for another.
 
@@ -28,9 +28,9 @@ The old software boundary was often tiny. Click this button. Execute this functi
 
 The agentile boundary is larger. Achieve this result, using these resources, under these constraints, and come back when the job is complete or when the world becomes too ambiguous or consequential to continue.
 
-That sounds like a subtle change in interface design. It is closer to the birth of a new production relation.
+That sounds like a subtle change in interface design. It is closer to a new production relation.
 
-Tools have always changed work by altering what a person can do. A hammer increases the force a hand can deliver. A crane increases the mass a crew can move. A spreadsheet increases the volume of calculation an analyst can perform. Search increases the amount of information a researcher can inspect. Email increases the number of people a manager can reach.
+Tools have always changed work by altering what a person can do. A hammer increases the force a hand can deliver. A spreadsheet increases the volume of calculation an analyst can perform. Email increases the number of people a manager can reach.
 
 Agents alter something adjacent: the amount of work a person can cause to happen without remaining inside every intermediate step.
 
@@ -94,13 +94,11 @@ Agents attack the connective tissue.
 
 They can fail there too, and often do. A tool may return ambiguous data. A model may choose the wrong source, misunderstand the task, repeat an action, stop too early, or confidently carry a mistaken assumption through several subsequent steps. The autonomy that makes an agent useful can compound error just as easily as it compounds progress.
 
-This is not a footnote to the economics. It is part of the economics.
+That failure mode belongs inside the economics, not beside it.
 
 If a human must watch every action, the agent has not removed much supervisory labor. If a human must audit the entire result from first principles, the agent may have displaced execution while preserving verification cost. If errors are rare but catastrophic, the average time saved may matter less than the tail risk introduced.
 
-The correct comparison is therefore not between a person and a flawless machine.
-
-It is between two production systems with different costs.
+The correct comparison is therefore between two production systems with different costs, not between a person and a flawless machine.
 
 One uses human attention to execute and supervise.
 
@@ -204,9 +202,7 @@ For centuries, organizations have relied on the fact that initiating work is cos
 
 Agents remove part of that friction.
 
-The result is not simply more productivity.
-
-It is more attempts.
+The result is more attempts, not simply more productivity.
 
 More experiments.
 
@@ -334,7 +330,7 @@ Who can reverse it?
 
 Who is responsible if it was wrong?
 
-These are not questions about the model’s inner life. They are questions about the surrounding system.
+Those questions concern the surrounding system, not the model’s inner life.
 
 The answer to “when does a tool become an actor?” is therefore not a date and not a benchmark.
 
@@ -388,7 +384,7 @@ High-consequence work will slow down.
 
 The agent will know when it has authority and when it has reached the edge.
 
-This is not a retreat from the idea of agents. It is what makes agents economically usable.
+That allocation is what makes agents economically usable.
 
 Human organizations already operate this way. Good managers do not either micromanage everything or abandon all control. They define domains of discretion. Good financial systems do not require the chief executive to approve every expense or allow every employee to empty the treasury. They create limits. Good institutions do not eliminate judgment. They place it.
 

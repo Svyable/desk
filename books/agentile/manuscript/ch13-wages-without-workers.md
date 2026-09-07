@@ -4,7 +4,7 @@ A payroll is a map of where an organization has decided human presence is worth 
 
 The map changes slowly until it does not.
 
-A factory adds a machine and removes a station. A bank installs an ATM and changes what branches do. A company buys software and stops hiring clerks for a particular process. A retailer opens an online channel and adds warehouses while closing some stores. Technological change rarely subtracts one occupation cleanly and leaves the rest of the economy untouched. It changes prices, demand, complementary work, organizational structure, and the kinds of jobs that become worth creating.
+A factory adds a machine and removes a station. A bank installs an ATM and changes what branches do. A company buys software and stops hiring clerks for a particular process. A retailer opens an online channel and adds warehouses while closing some stores. Technological change rarely subtracts one occupation cleanly and leaves the rest of the economy untouched. It changes prices, demand, complementary work, and the kinds of jobs that become worth creating.
 
 Agents enter this history at an awkward angle because the work they touch is unusually close to what white-collar labor markets have treated as evidence of being human.
 
@@ -14,7 +14,7 @@ These are not all of a job, but they are parts of many jobs.
 
 The first mistake is to confuse task exposure with job disappearance.
 
-An occupation is a bundle. A nurse documents, observes, reassures, coordinates, moves, teaches, interprets, responds to emergencies, and performs regulated clinical acts. A lawyer researches, drafts, negotiates, advises, discovers facts, manages risk, appears before institutions, develops business, and assumes professional responsibility. A software engineer writes code, but also understands systems, makes tradeoffs, talks to users, responds to incidents, reviews other work, and decides what should be built.
+An occupation is a bundle. A nurse documents, observes, coordinates, and performs regulated clinical acts that cannot be reduced to the paperwork alone. A lawyer researches, drafts, negotiates, advises, discovers facts, manages risk, appears before institutions, develops business, and assumes professional responsibility. A software engineer writes code, but also understands systems, makes tradeoffs, talks to users, responds to incidents, reviews other work, and decides what should be built.
 
 An agent can become excellent at some components without making the bundle unnecessary.
 
@@ -100,11 +100,7 @@ But simulation is not responsibility.
 
 The trainee who knows the answer in a sandbox has not yet learned what it feels like when a real customer is angry, a real patient is frightened, a real system is failing, or a real client will pay for the mistake. Professional judgment is partly knowledge under consequence.
 
-So the problem is not how to preserve every junior task.
-
-It is how to preserve the production of judgment after the cheapest practice tasks become machine work.
-
-That is a different question, and a better one.
+The useful problem is how to preserve the production of judgment after the cheapest practice tasks become machine work. Preserving every junior task is the wrong target.
 
 The second mistake is to assume automation always lowers wages for the people who remain.
 
@@ -146,9 +142,7 @@ The same technology can therefore weaken a worker's bargaining position inside o
 
 Which effect dominates will vary.
 
-The important variable is not merely productivity.
-
-It is optionality.
+The important variable is optionality, not merely productivity.
 
 Can the worker take the agentile capability elsewhere?
 
@@ -286,9 +280,7 @@ This sounds elementary. It becomes difficult when the output is cognitive and qu
 
 A customer-support answer can be wrong in a way the ticket system never records. A financial analysis can influence a decision months later. A persuasive legal draft can contain a subtle defect. A piece of software can pass tests and accumulate security risk.
 
-Labor replacement that depends on hidden quality degradation is not a productivity miracle.
-
-It is borrowing from the future.
+Labor replacement that depends on hidden quality degradation is borrowing from the future, dressed as a productivity miracle.
 
 The reverse is possible too. An agent can make quality better by checking every case, enforcing consistent procedure, translating clearly, and giving employees more time for exceptions. Counting only labor hours saved can understate the benefit.
 
@@ -364,15 +356,11 @@ Two people can earn the same wage and have very different exposure to the upside
 
 That is why debates about the labor share can feel abstract while household wealth feels immediate.
 
-The relevant question is not only whether capital earns more.
-
-It is who owns the capital that earns more.
+The relevant question includes who owns the capital that earns more, not only whether capital earns more.
 
 This leads directly into the next chapter.
 
-If the agentile force behaves partly like labor but arrives through assets, services, compute, models, data centers, and networks, then the ownership structure beneath it is not background detail.
-
-It is part of the distribution mechanism.
+If the agentile force behaves partly like labor but arrives through assets, services, compute, models, data centers, and networks, then the ownership structure beneath it is part of the distribution mechanism.
 
 There is also a conceptual challenge around work performed directly for individuals.
 
@@ -446,6 +434,4 @@ Governments write tax and benefit rules around all of them.
 
 As agentic production grows, these channels begin to compete over the same new surplus.
 
-This is not the end of wages.
-
-It is the beginning of a wider argument about who gets paid when useful work no longer requires a worker to be present.
+Wages remain. What widens is the argument about who gets paid when useful work no longer requires a worker to be present.

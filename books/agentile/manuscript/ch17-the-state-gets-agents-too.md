@@ -138,9 +138,7 @@ But a notice period before property is seized is not a queueing defect.
 
 A right to appeal a denial is not redundant human review.
 
-A requirement that a person understand the basis of a government action is not merely an explainability feature.
-
-It is a limit on power.
+A requirement that a person understand the basis of a government action is a limit on power, not merely an explainability feature.
 
 The agentile state therefore needs a distinction the agentile firm also needed.
 
@@ -198,9 +196,7 @@ Undue hardship.
 
 Substantial evidence.
 
-These are not bugs in legal drafting.
-
-They are places where institutions preserve judgment.
+Those open terms are places where institutions preserve judgment, not bugs in legal drafting.
 
 An agent can help interpret them.
 
@@ -322,9 +318,7 @@ Networked surveillance expanded investigatory reach.
 
 Agents can reduce the cognitive cost of using all of these systems together.
 
-The crucial change is not that the state gets more data.
-
-It is that the state gets cheaper interpretation of data.
+The crucial change is that the state gets cheaper interpretation of data, not merely more data.
 
 A human investigator can examine only so many cases.
 
@@ -372,9 +366,7 @@ Good institutions can deliver more.
 
 Bad institutions can impose more.
 
-This is not a reason to prefer incompetence.
-
-It is a reason to avoid treating competence as legitimacy.
+Preferring incompetence would be the wrong lesson. Competence is not the same thing as legitimacy.
 
 The procurement problem follows.
 
@@ -620,13 +612,7 @@ Which are necessary to reconstruct a decision?
 
 The volume can be overwhelming.
 
-Keeping everything forever is not accountability.
-
-It is storage.
-
-Keeping nothing is not efficiency.
-
-It is amnesia.
+Keeping everything forever is storage with a conscience. Keeping nothing is amnesia with a productivity metric.
 
 The state needs a theory of consequential trace.
 
@@ -670,9 +656,7 @@ An inspection agent schedules the visit.
 
 A citizen agent monitors the status.
 
-This is not science fiction in structure.
-
-It is ordinary e-government with more delegation and less clicking.
+In structure, that sequence is ordinary e-government with more delegation and less clicking.
 
 The institutional design challenge is to make the interaction fast without making public authority opaque.
 

@@ -172,9 +172,7 @@ There are thousands of useful actions that never occur because nobody has time.
 
 A small business does not perform a sophisticated procurement analysis before buying a $700 printer. A household does not run a reverse auction among twenty insurance carriers every month. A city does not individually optimize every maintenance schedule every afternoon. A researcher does not reproduce every relevant paper before citing it. The cost of thinking, searching, coordinating, and following through is larger than the expected benefit.
 
-Those are not technological impossibilities.
-
-They are economic omissions.
+Those omissions are economic, not technological impossibilities.
 
 Agentile systems attack the omission layer.
 
@@ -254,7 +252,7 @@ An agent can write thousands of lines of code and create work.
 
 It can conduct a long search and return a worse answer than a careful person would have produced in twenty minutes. It can cause the supervisor to spend an hour verifying a task that would have taken forty minutes to do directly. It can make progress look cheap by moving costs into review.
 
-This is not a temporary embarrassment to be edited out of the story. It is part of the economics.
+That awkwardness belongs inside the economics, not as a temporary embarrassment to be edited out of the story.
 
 The productivity of an agentile system depends on the whole loop: instruction, execution, supervision, verification, correction, and consequence. If the execution cost falls while the verification cost rises faster, the organization has not become more productive. It has manufactured a larger inspection department.
 

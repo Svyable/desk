@@ -2,11 +2,11 @@
 
 A corporation is a machine for letting one legal person contain many actual people.
 
-The company signs the contract, owns the assets, borrows the money, pays the taxes, and survives the afternoon when an employee resigns. Inside the legal shell, human beings divide the work into functions: sales, finance, operations, engineering, support, legal, marketing, procurement, administration. The division is so familiar that business plans often begin as organization charts.
+The company signs the contract, owns the assets, borrows the money, and survives the afternoon when an employee resigns. Inside the legal shell, human beings divide the work into familiar functions. The division is so routine that business plans often begin as organization charts.
 
 A founder learns quickly that the chart is aspirational.
 
-At the beginning, the chief executive is also the accounts-payable clerk, recruiter, copywriter, customer-support agent, purchasing department, product manager, travel coordinator, analyst, and person who remembers the domain renewal. The small company does not lack categories of work. It lacks enough economic scale to assign a person to each category.
+At the beginning, the chief executive is also the accounts-payable clerk, recruiter, support agent, and person who remembers the domain renewal. The small company does not lack categories of work. It lacks enough economic scale to assign a person to each category.
 
 This is why startups feel larger on paper than in the room.
 
@@ -20,7 +20,7 @@ Revenue can scale faster than headcount in software. A small number of founders 
 
 Agents extend the rental market from infrastructure into coordination and cognitive execution.
 
-A founder can ask one system to research competitors, another to test a product, another to reconcile payments, another to prepare a customer briefing, another to monitor support, another to translate documentation, another to inspect usage patterns, and another to draft a first pass at a contract comparison.
+A founder can ask one system to research competitors, another to reconcile payments, another to monitor support, and another to draft a first pass at a contract comparison.
 
 The founder is still doing something difficult.
 
@@ -36,11 +36,11 @@ Take a small software business selling a specialized tool to architects. In the 
 
 With agents, the founder can create partial functions earlier. A support agent handles routine questions but escalates bugs. A sales agent prepares account research but the founder joins serious calls. A finance agent reconciles invoices but an accountant reviews tax work. A testing agent explores regressions but release remains gated by automated tests and the founder's judgment.
 
-These are not complete jobs. They are capabilities purchased before the organization can afford roles.
+They are capabilities purchased before the organization can afford complete roles.
 
 That can lower the minimum efficient scale of entrepreneurship.
 
-A person with domain expertise but little management infrastructure may be able to run a more sophisticated business. A rural professional can sell globally without building an international administrative team. A researcher can commercialize a niche tool without immediately becoming a full-time operator. A crafts business can answer foreign-language inquiries and produce consistent documentation. A nonprofit can execute back-office work that once required several generalists.
+A person with domain expertise but little management infrastructure may be able to run a more sophisticated business. A rural professional can sell globally without building an international administrative team. A researcher can commercialize a niche tool without immediately becoming a full-time operator.
 
 The gain is not that everyone becomes a billionaire.
 
@@ -52,9 +52,9 @@ This is analogous to what digital distribution did for media. A physical booksto
 
 But a one-person corporation can still drown in its own output.
 
-The founder's first limit is not agent capacity. It is decision capacity.
+The founder's first limit is decision capacity, not agent capacity.
 
-A hundred agents can generate a hundred opportunities, experiments, customer requests, bug reports, partnership ideas, legal questions, and optimization proposals. The founder remains one person with one reputation and one bank account.
+A hundred agents can generate a hundred opportunities, requests, and proposals. The founder remains one person with one reputation and one bank account.
 
 This creates the same supervisory problem we saw with the thousand interns, only with no human management layer between the principal and the swarm.
 
@@ -64,11 +64,11 @@ Some tasks can be delegated end to end because failure is cheap. Others require 
 
 The distinction between “agent can produce this” and “I can responsibly rely on this” becomes existential.
 
-Large organizations contain redundancy that looks wasteful from the outside. There are second opinions, specialist departments, segregation of duties, approval limits, boards, auditors, and people whose job is to say no. A tiny synthetic firm can appear astonishingly efficient because many of these checks are absent.
+Large organizations contain redundancy that looks wasteful from the outside: second opinions, approval limits, auditors, and people whose job is to say no. A tiny synthetic firm can appear astonishingly efficient because many of these checks are absent.
 
 Then something goes wrong.
 
-A contract contains a term nobody understood. A tax assumption is wrong. A security configuration exposes customer data. An agent sends an unauthorized promise. A key model provider changes behavior. A billing account is suspended. A founder gets sick and discovers that the “autonomous company” depended on her approving four exceptions every morning.
+A contract contains a term nobody understood. An agent sends an unauthorized promise. A founder gets sick and discovers that the “autonomous company” depended on her approving four exceptions every morning.
 
 Resilience is a fixed cost too.
 
@@ -84,19 +84,19 @@ This could expand the market for some experts even while reducing the hours spen
 
 Or platforms can capture the role.
 
-The easiest one-person corporation may be a tenant of a larger corporate operating system. The platform provides identity, payments, accounting, tax, agent workers, customer acquisition, analytics, contracts, compliance, hosting, and perhaps financing. The founder supplies product judgment and customer relationships.
+The easiest one-person corporation may be a tenant of a larger corporate operating system. The platform provides identity, payments, accounting, agent workers, compliance, and hosting. The founder supplies product judgment and customer relationships.
 
 This arrangement is powerful because integration removes friction.
 
 It is dangerous for the same reason.
 
-A business that depends on one platform for sales, money, software, agent memory, and administrative continuity does not merely use a vendor. It inhabits an economy owned by the vendor.
+A business that depends on one platform for sales, money, software, agent memory, and administrative continuity inhabits an economy owned by the vendor.
 
 Platform risk is familiar to app developers, online merchants, creators, and gig workers. An account decision can destroy access to customers overnight. Agentile platforms can deepen the dependence by holding more of the organization's operational state.
 
 The portable firm becomes an important design goal.
 
-Can the founder export customer records, agent memories, procedures, evaluation sets, accounting history, credentials, and workflow definitions? Can another provider reconstruct the organization? Are the agents replaceable or have years of tacit business logic accumulated in proprietary machinery?
+Can the founder export customer records, agent memories, procedures, and workflow definitions? Can another provider reconstruct the organization? Are the agents replaceable, or have years of tacit business logic accumulated in proprietary machinery?
 
 If the answer is no, the firm may be legally independent while operationally captive.
 
@@ -110,9 +110,9 @@ This is an old question in small-business finance. A restaurant whose customers 
 
 A due-diligence agent may eventually ask a revealing question: what happens if the principal disappears for thirty days?
 
-If the company cannot answer, it is not autonomous. It is a highly leveraged sole proprietorship.
+If the company cannot answer, it is a highly leveraged sole proprietorship wearing autonomous clothing.
 
-There is nothing wrong with that. Many excellent businesses are inseparable from a person. The point is not to force every enterprise into permanence. It is to distinguish synthetic capacity from institutional continuity.
+There is nothing wrong with that. Many excellent businesses are inseparable from a person. The useful distinction is between synthetic capacity and institutional continuity, not a demand that every enterprise become permanent.
 
 The one-person corporation also complicates labor statistics and our cultural picture of entrepreneurship.
 
@@ -228,13 +228,13 @@ That is a remarkable asset if the embodiment is legible.
 
 If the business depends on thousands of prompts, undocumented exceptions, personal credentials, opaque memories, and the founder's intuitive interventions, the buyer may inherit a haunted house.
 
-Due diligence will need to inspect the synthetic organization itself. Which agents exist? What can they do? Which providers do they depend on? What evaluations prove they work? What data do they retain? Which actions can they take without approval? How are failures escalated? How much of the founder's tacit knowledge has actually been externalized?
+Due diligence will need to inspect the synthetic organization itself. Which agents exist? What can they do? Which providers do they depend on? Which actions can they take without approval? How much of the founder's tacit knowledge has actually been externalized?
 
 The answers can affect valuation.
 
 A reliable agent workforce may become transferable goodwill: a set of productive routines that continues after ownership changes. An unreliable one may be technical debt wearing a uniform.
 
-This suggests that the mature one-person corporation will not merely accumulate agents. It will document them as institutional assets.
+This suggests that the mature one-person corporation will document agents as institutional assets, not merely accumulate them.
 
 A company once kept an employee handbook.
 
@@ -244,4 +244,4 @@ The constitution will not be poetic. It will describe authority, memory, evidenc
 
 That is the real threshold worth watching.
 
-The one-person corporation becomes economically important when one person can create not just more output, but a persistent organization around an intention.
+The one-person corporation becomes economically important when one person can build a persistent organization around an intention, not merely more output.

@@ -618,9 +618,7 @@ Not every deviation is a defect.
 
 People need room to experiment, recover, complain, think slowly, and have an unproductive afternoon without generating a permanent risk score.
 
-This is not softness.
-
-It is capacity management for humans.
+That is capacity management for humans, not softness.
 
 A machine can run continuously until cost or reliability says stop.
 
@@ -660,9 +658,7 @@ Otherwise the company can become excellent at consuming expert judgment and terr
 
 That is a management responsibility no model benchmark will capture for them.
 
-This is not the death of middle management.
-
-It is a narrower and more consequential version of it.
+Middle management does not disappear. It becomes narrower and more consequential.
 
 The title may change.
 
@@ -708,6 +704,4 @@ The span of control widens.
 
 The span of consequence widens with it.
 
-The new middle manager is not the person in the middle of the org chart.
-
-It is whoever owns the boundary between what the system can decide and what still deserves a human mind.
+The new middle manager is whoever owns the boundary between what the system can decide and what still deserves a human mind, not merely the person in the middle of the org chart.

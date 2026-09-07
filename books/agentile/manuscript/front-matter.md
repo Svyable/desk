@@ -8,7 +8,7 @@
 
 There are moments when an old category stops being large enough for what has entered it.
 
-A steam engine was called a machine, which was true, but not very informative. A railway was transportation, which was also true, though a railway reorganized where cities could grow, what factories could hold in inventory, how quickly prices converged, and how far a person could imagine a market extending. Electricity was energy, but the electric motor did not merely provide another way to turn a shaft. It broke the factory’s dependence on a central drive train and eventually helped rearrange the building around the work.
+A steam engine was called a machine, which was true, but not very informative. A railway was transportation, which was also true, though a railway reorganized where cities could grow and how far a person could imagine a market extending. Electricity was energy, but the electric motor broke the factory’s dependence on a central drive train and eventually helped rearrange the building around the work.
 
 Artificial intelligence has spent most of its short commercial life inside similarly inadequate nouns. It has been software. A tool. A chatbot. Automation. A copilot. A feature.
 
@@ -16,7 +16,7 @@ All of those names still describe something real.
 
 They increasingly fail to describe the interesting part.
 
-A conventional program waits. A spreadsheet does not wake up because quarterly close is approaching. A database does not decide that two records probably refer to the same customer and then negotiate with another system to settle the ambiguity. A search box does not spend the afternoon comparing suppliers, draft three purchase orders, notice a compliance problem, ask another program for help, retry a failed workflow, and return at dinner with a folder of completed work.
+A conventional program waits. A spreadsheet does not wake up because quarterly close is approaching. A search box does not spend the afternoon comparing suppliers, draft purchase orders, notice a compliance problem, and return at dinner with a folder of completed work.
 
 An agent can begin to do those things.
 

@@ -58,9 +58,7 @@ A machine that publishes content makes identity and origin more valuable.
 
 A machine that acts autonomously makes logs, traces, evaluations, limits, and recovery mechanisms more valuable.
 
-This is not a moral observation.
-
-It is a price signal.
+That is a price signal before it is a moral observation.
 
 If the cost of producing candidate answers falls faster than the cost of deciding which answers are safe to trust, more economic value moves toward the deciding.
 
@@ -110,9 +108,7 @@ This is why coding agents can feel unusually capable even when the underlying mo
 
 The environment can verify.
 
-The model is not operating in a vacuum.
-
-It is operating inside an institution of proof.
+The model is operating inside an institution of proof, not a vacuum.
 
 That institution took decades to build.
 
@@ -146,9 +142,7 @@ That is evaluation.
 
 NIST's current work on Test, Evaluation, Verification, and Validation—TEVV—makes the point explicit. Its 2026 TEVV-Athlon framework treats evaluation as a system-specific activity extending across statistical models, language models, multimodal systems, and agents. The important word is system.
 
-An agent is not only a model response.
-
-It is a sequence of actions embedded in tools, data, permissions, users, and consequences.
+An agent is a sequence of actions embedded in tools, data, permissions, users, and consequences, not only a model response.
 
 The evaluation has to ask more than whether the prose looked good.
 
@@ -304,9 +298,7 @@ A human who approves only irreversible actions can preserve control without recr
 
 A human who investigates anomalies can improve the whole system.
 
-The question is not whether a person appears somewhere.
-
-It is how much expensive judgment is consumed per unit of reliable output.
+The question is how much expensive judgment is consumed per unit of reliable output, not whether a person appears somewhere.
 
 That number belongs next to compute cost.
 
@@ -648,9 +640,7 @@ There is no final human standing outside the system with perfect knowledge.
 
 Trust is institutional architecture built from overlapping checks.
 
-The goal is not certainty.
-
-It is to make failure detectable, bounded, attributable, and correctable at an acceptable cost.
+The goal is to make failure detectable, bounded, attributable, and correctable at an acceptable cost, not certainty.
 
 Agents do not change that objective.
 
