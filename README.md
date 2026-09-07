@@ -19,6 +19,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 
 | Public project | Desk state | Shelf state | Open |
 |---|---|---|---|
+| [**A Nation in Their Wake**](books/a-nation-in-their-wake/) | ✍️ Drafting · publication preparation | 26 of 26 | 80,217 | Twenty-six-decade American history told through consequential ships, from *Bonhomme Richard* to MV *Dali*. | [Read →](https://svyable.github.io/desk/reader/#/b/a-nation-in-their-wake/) |
 | [**Abdicating Intelligence**](books/abdicating-intelligence/) | ✍️ Released first edition source | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/abdicating-intelligence/) |
 | [**Adjacency**](books/adjacency/) | ✅ Complete draft · Published on Shelf | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/adjacency/) |
 | [**Agentile**](books/agentile/) | ✍️ Drafting | 🟡 Public proof | [Shelf →](https://svyable.github.io/shelf/reader/#/b/agentile/) |
