@@ -199,5 +199,3 @@ The sequence is the point. The United States did not become globally commercial 
 That makes *Empress of China* the right bridge from revolution to constitution. The previous decade asked whether the flag would be taken seriously in battle. This decade asks whether the same flag could clear a harbor, make a contract, sell an unfamiliar American product, buy what Americans wanted, and return with a profit.
 
 A republic becomes real in ledgers as well as treaties.
-
-<!-- PUB-AUGMENT-2026-09-06 -->
