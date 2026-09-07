@@ -185,3 +185,61 @@ From that promise grew an information system Americans now consult before planti
 The sky did not change in 1870.
 
 The country's ability to know it did.
+
+There is another property of an information commons that becomes visible only after it has been running for a long time: continuity changes what the observations mean.
+
+A single weather report tells someone what the atmosphere is doing now. A sequence of reports tells forecasters how a system is moving. A record kept for years lets engineers compare seasons, planners compare risks, and scientists ask questions the original observers were not trying to answer.
+
+That makes continuity more than administrative neatness.
+
+It is part of the measurement.
+
+A station moved without documentation can create an apparent change that belongs partly to the instrument or location. A new sensor can improve accuracy while complicating comparisons with the older record. A reporting standard can become more precise and still make yesterday and today less directly comparable. The more valuable the archive becomes, the more important it is to preserve the history of how the archive was produced.
+
+This is a quiet obligation of public measurement. The institution is not only gathering numbers. It is maintaining the conditions under which numbers from different moments can be interpreted together.
+
+Private firms can do this too, and often do it well. The difference is that commercial incentives can change with the product. A dataset useful to one generation of customers may become expensive to maintain when those customers leave. A national observation system has a different reason to keep watching even when no obvious new product depends on the next observation.
+
+The next observation is useful partly because there was a previous one.
+
+This creates a kind of compounding public capacity. The first year of data may be useful. The fiftieth year contains something the first could not: a history.
+
+The value is not automatic. Records can be badly maintained. Instruments can be uneven. Gaps can limit inference. Old measurements can be misunderstood when their collection methods are forgotten. Longevity does not turn every administrative record into scientific truth.
+
+But a durable institution can make later correction possible because there is something to revisit.
+
+That matters whenever knowledge improves.
+
+A forecast model can be replaced while the underlying observations remain useful. A new statistical method can be applied to old records. A question that seemed unimportant when data was gathered can become urgent later. The archive allows the country to learn again from an observation instead of consuming it once.
+
+This is different from a report written for a single decision.
+
+An information commons can be re-read.
+
+The distinction helps explain why measurement capacity deserves to be treated as infrastructure rather than paperwork. Roads permit later trips by people the road builder never met. An observation network permits later questions by analysts the observer never anticipated.
+
+Both create options.
+
+The weather service also demonstrates why those options depend on institutional trust. A warning is useful only if recipients believe the system is competent enough to deserve attention. Trust cannot require perfect forecasts because uncertain systems will sometimes be wrong. It depends instead on a more demanding pattern: measurements gathered consistently, uncertainty communicated honestly, errors examined, and procedures improved without pretending that uncertainty has disappeared.
+
+A system that overstates certainty can spend credibility faster than it earns accuracy.
+
+A system that hides every uncertainty is not easier to use for long. It merely transfers uncertainty to the moment when a person has to act.
+
+This makes public forecasting a translation problem as much as a prediction problem. The institution sees ensembles, probabilities, instrument readings, model disagreements, and changing conditions. The person deciding whether to leave a harbor or close a school needs a usable statement about risk.
+
+Too much compression can create false confidence. Too little can make expert information operationally useless.
+
+The service therefore sits between two failures: treating uncertainty as ignorance and treating a forecast as certainty.
+
+That middle ground is one of the less visible achievements of modern administration.
+
+The same problem appears whenever government supplies common information. Economic statistics are revised. Public-health estimates have confidence intervals and reporting delays. Maps have scales and dates. Scientific measurements contain error. A useful public-information institution does not eliminate those limitations. It makes them legible enough that other people can make decisions with them.
+
+That is why the 1870 choice mattered beyond meteorology.
+
+The federal government was accepting responsibility for a capability whose output would never be final. Tomorrow's observation could correct today's expectation. A better instrument could reveal a weakness in an older series. A storm could expose a blind spot in the network.
+
+The answer to imperfection was not to stop observing.
+
+It was to build an institution capable of observing again.
