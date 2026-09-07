@@ -38,13 +38,45 @@ It is not.
 
 A threat without a credible stopping rule can make compliance unattractive.
 
-If an adversary expects punishment to continue regardless of whether it reverses course, then the marginal benefit of restraint shrinks. If a government believes that backing down will be interpreted as weakness and exploited for additional concessions, escalation can become politically safer than retreat.
+If an adversary expects punishment to continue regardless of whether it reverses course, then the marginal benefit of restraint shrinks.
+
+If a government believes that backing down will be interpreted as weakness and exploited for additional concessions, escalation can become politically safer than retreat.
 
 This is why deterrence requires a theory of termination.
 
 The defender must know what behavior it is trying to change and what it is willing to do once that behavior changes.
 
 Otherwise resolve becomes an end in itself.
+
+## The objective ledger
+
+Every response measure should be tied to a stated operational objective inside the government even when the public language is broader.
+
+Protect commercial transit.
+
+End a specific inspection pattern.
+
+Restore an air or maritime baseline.
+
+Stop a cyber campaign.
+
+Prevent a temporary exclusion regime from becoming durable.
+
+Preserve allied access.
+
+Maintain Taiwan’s ability to communicate and trade.
+
+The objective ledger should also say what does *not* have to happen for the measure to end.
+
+The adversary does not have to concede every political dispute.
+
+It may not need to adopt the defender’s legal terminology.
+
+It may not need to admit fault publicly.
+
+It may need to change the behavior that created the coercive effect.
+
+This distinction protects strategy from mission creep.
 
 ## Gray-zone denial
 
@@ -54,7 +86,9 @@ Suppose a coercive move is framed as law enforcement, customs enforcement, a mil
 
 The coercer can insist that there is nothing to reverse.
 
-The defender may then avoid language that legitimizes the coercer’s claimed authority. It may describe the action as harassment, coercion, or an unlawful attempt to change the status quo.
+The defender may then avoid language that legitimizes the coercer’s claimed authority.
+
+It may describe the action as harassment, coercion, or an unlawful attempt to change the status quo.
 
 Now the two sides disagree not only about what should happen but about what is happening.
 
@@ -81,6 +115,36 @@ Commercial transit resumes without interference.
 Operational language can sometimes do what political language cannot.
 
 It allows behavior to change before narratives converge.
+
+## Behavior should be written as states
+
+A useful crisis architecture should define behavior states without pretending the labels settle sovereignty or law.
+
+Normal baseline.
+
+Elevated activity.
+
+Coercive interference.
+
+Partial stand-down.
+
+Verified restoration.
+
+Residual dispute.
+
+The state machine matters because an off-ramp is a transition, not a mood.
+
+Which observable facts move the situation from coercive interference to partial stand-down?
+
+Which facts establish restoration?
+
+Which residual activities are tolerable enough that responsive measures can still be reduced?
+
+Which would reset the state upward?
+
+The categories should be effect-based where possible.
+
+They allow the parties and the coalition to discuss movement even when political narratives remain incompatible.
 
 ## Domestic audiences
 
@@ -120,6 +184,26 @@ Different channels are not evidence of duplicity.
 
 They are recognition that different political functions require different bandwidth.
 
+## Audience coupling is a risk
+
+The more audiences a single message tries to satisfy, the more likely one audience will hear something the sender did not intend.
+
+This creates audience coupling.
+
+A phrase aimed at domestic reassurance can be quoted by an adversary as proof that no off-ramp exists.
+
+A private assurance leaked publicly can weaken the domestic political room required to implement it.
+
+A military clarification can be interpreted by markets as evidence that conflict is imminent.
+
+Crisis teams should therefore map which messages are expected to cross audiences and which cannot survive leakage.
+
+A private sentence should be written with the assumption that it may eventually become public.
+
+A public sentence should not close a private route the government still needs.
+
+The objective is message architecture, not message perfection.
+
 ## The problem of irreversible signals
 
 Some signals are cheap.
@@ -128,13 +212,19 @@ A statement can be withdrawn.
 
 A deployment is more expensive.
 
-A mobilization may be harder to reverse. Sanctions can create domestic constituencies that resist removal. A military engagement can create casualties and therefore new political stakes.
+A mobilization may be harder to reverse.
+
+Sanctions can create domestic constituencies that resist removal.
+
+A military engagement can create casualties and therefore new political stakes.
 
 The further a crisis moves toward irreversible actions, the narrower the off-ramp becomes.
 
 This should shape signaling choices early.
 
-The goal is not to avoid costly signals altogether. Cost is often what makes a signal credible.
+The goal is not to avoid costly signals altogether.
+
+Cost is often what makes a signal credible.
 
 The goal is to understand which costs create commitment and which create entrapment.
 
@@ -145,6 +235,64 @@ An open-ended deployment tied to broad political demands may create pressure to 
 A targeted sanction with a defined removal condition can be easier to reverse than a sprawling regime whose legal architecture takes months to unwind.
 
 Designing reversibility before a crisis is a form of preparedness.
+
+## Reversibility has dimensions
+
+A measure can be physically reversible and politically sticky.
+
+A ship can sail away in hours while the public narrative around its deployment takes weeks to unwind.
+
+A sanction can be legally suspended while banks and insurers remain cautious.
+
+A cyber defense action can be stopped while the adversary continues to assume the access remains.
+
+A public warning can be retracted while allies still plan around it.
+
+The system should therefore score reversibility across several dimensions.
+
+Physical.
+
+Legal.
+
+Commercial.
+
+Alliance.
+
+Domestic political.
+
+Adversary perception.
+
+The least reversible dimension may determine the real off-ramp.
+
+A measure should not be called temporary merely because the issuing authority can technically cancel it.
+
+## Reversibility debt
+
+Every escalatory action can create obligations that make reversal harder.
+
+Forces deployed need protection.
+
+Companies adapt contracts.
+
+Allies make public commitments.
+
+Legislatures adopt restrictions.
+
+Officials defend the action in absolute language.
+
+These accumulated commitments are reversibility debt.
+
+The debt should be visible before the action is chosen.
+
+What will have to be unwound if the objective is achieved tomorrow?
+
+Which domestic constituency will oppose termination?
+
+Which ally will interpret withdrawal as abandonment?
+
+Which commercial actor will continue behaving as though the restriction remains?
+
+The cheapest signal today can become the most expensive one to stop if the debt is hidden.
 
 ## The choreography of standing down
 
@@ -172,11 +320,45 @@ A reciprocal stand-down might involve stages: halt a particular category of oper
 
 The sequence can be asymmetric.
 
-The side that changed the status quo may need to reverse more first. Or both sides may take different but politically equivalent actions.
+The side that changed the status quo may need to reverse more first.
+
+Or both sides may take different but politically equivalent actions.
 
 Symmetry is less important than legibility.
 
 Each side must know what the next step is and what behavior from the other side unlocks it.
+
+## The off-ramp state machine
+
+A termination plan can be written as states.
+
+Offer available.
+
+Offer acknowledged.
+
+Initial restraint observed.
+
+Initial restraint verified enough for reciprocal step.
+
+Reciprocal step executed.
+
+Commercial and operational normalization underway.
+
+Residual issues isolated.
+
+Normal baseline restored or new baseline negotiated.
+
+The state machine should also define regressions.
+
+If the behavior resumes, which response automatically returns?
+
+Which requires fresh political decision?
+
+If verification is ambiguous, do both sides freeze in place or does one measure continue?
+
+If a technical delay occurs, how long before it is treated as noncompliance?
+
+These answers prevent one late ship movement or delayed license from collapsing the entire sequence by accident.
 
 ## Verification without settlement
 
@@ -196,11 +378,41 @@ Verification narrows the space for each side to tell itself that the other has n
 
 But verification has limits.
 
-Some actions are ambiguous by nature. Military readiness can change without visible movement. Cyber operations may be impossible to attribute quickly. A vessel can leave one area while another replaces it. An inspection regime can pause without being renounced.
+Some actions are ambiguous by nature.
+
+Military readiness can change without visible movement.
+
+Cyber operations may be impossible to attribute quickly.
+
+A vessel can leave one area while another replaces it.
+
+An inspection regime can pause without being renounced.
 
 An off-ramp should therefore avoid requiring certainty that cannot exist.
 
 It needs enough observable evidence to support the next step, not a complete proof of benign intent.
+
+## Verification thresholds should match the step
+
+A small reversible reciprocal action can proceed on weaker evidence than a major irreversible concession.
+
+This creates an evidence ladder.
+
+Preliminary indication.
+
+Independent corroboration.
+
+Operational confirmation.
+
+Sustained behavior over time.
+
+Political confirmation where necessary.
+
+The off-ramp should pair each step with the minimum evidence required for that step.
+
+That makes de-escalation possible under uncertainty without demanding blind trust.
+
+It also prevents the strongest evidentiary standard from being applied to every small move and freezing the sequence.
 
 ## The coalition problem
 
@@ -210,7 +422,11 @@ The United States, Japan, the Philippines, other regional partners, commercial s
 
 That makes signaling harder.
 
-A message from Washington is not automatically a message from Tokyo. A military move intended to reassure Taiwan may create different calculations in Manila. A sanction discussed among a small group can be anticipated differently by firms outside that group.
+A message from Washington is not automatically a message from Tokyo.
+
+A military move intended to reassure Taiwan may create different calculations in Manila.
+
+A sanction discussed among a small group can be anticipated differently by firms outside that group.
 
 Coalitions therefore need pre-crisis agreement not only on red lines but on relaxation conditions.
 
@@ -227,6 +443,32 @@ Without this preparation, a coalition can discover that it is easier to escalate
 Different members may have different political thresholds for declaring the crisis over.
 
 That divergence can itself become leverage for the coercer.
+
+## Coalition relaxation needs modularity
+
+Not every coalition measure has to end at the same moment.
+
+One partner may suspend a financial restriction while another keeps a military readiness measure.
+
+One may return forces to normal posture while another continues enhanced surveillance.
+
+Commercial guidance may normalize before diplomatic rhetoric does.
+
+The coalition needs a relaxation matrix.
+
+Which measures are tied to which behaviors?
+
+Which can be reversed independently?
+
+Which require common action to remain credible?
+
+Which partner has the legal authority to move first?
+
+The objective is not perfect synchronization.
+
+It is coherent modularity.
+
+A coalition should be able to de-escalate in parts without looking as though it is disintegrating.
 
 ## Private sentences
 
@@ -246,13 +488,35 @@ They are conditional propositions.
 
 Their value comes from specificity.
 
-Vague reassurance is easy to discount. A defined reciprocal action gives the recipient something to test.
+Vague reassurance is easy to discount.
+
+A defined reciprocal action gives the recipient something to test.
 
 This is where authenticated backchannels become essential.
 
 A private promise is useless if the recipient cannot know whether the sender is authorized to make it.
 
 In a synthetic-media environment, authentication becomes part of deterrence because a forged or misunderstood message could destroy a narrow exit at exactly the moment it is needed.
+
+## Private commitments need authority scope
+
+A backchannel participant should know what the sender can actually promise.
+
+Can the official suspend a sanction?
+
+Can the official change a force posture?
+
+Can the official commit an ally?
+
+Can the official promise only to recommend a step to the principal?
+
+Authority scope should be explicit enough that a conditional sentence does not become a false commitment through wishful interpretation.
+
+This matters because off-ramps often fail after a private understanding collides with the formal institutions needed to implement it.
+
+The negotiator may be sincere and still lack the authority to move the machinery.
+
+The pathway from private sentence to public or operational action has to be known.
 
 ## AI and interpretation
 
@@ -282,6 +546,22 @@ What message could reduce the most dangerous ambiguity without weakening the int
 
 Those are better questions than asking the machine what the adversary will do.
 
+## Interpretation needs update rules
+
+The system should also specify what evidence changes its interpretation.
+
+If the leading hypothesis is that the adversary sees a deployment as defensive, what behavior would falsify that view?
+
+If a private assurance appears to be working, what signal would show it has failed?
+
+If market normalization is treated as evidence of de-escalation, could the same pattern be produced by temporary risk tolerance rather than political improvement?
+
+An interpretation without an update rule becomes an anchor.
+
+AI can make anchoring stronger because the initial story arrives quickly and coherently.
+
+The crisis process should preserve explicit reversal conditions for its own narrative.
+
 ## Off-ramps are infrastructure
 
 A hotline created during a crisis is already late.
@@ -308,11 +588,63 @@ Can a message survive spoofing and cyber disruption?
 
 Those are deterrence questions too.
 
+## Exercise termination as aggressively as escalation
+
+A useful exercise should not end when the crisis reaches maximum pressure.
+
+Continue for another simulated week.
+
+Make the parties implement the stand-down.
+
+Delay one verification feed.
+
+Create a domestic political backlash to a concession.
+
+Have one insurer refuse to normalize despite government guidance.
+
+Make one ally reverse a measure faster than the others.
+
+Introduce a new incident while the old off-ramp is being implemented.
+
+Ask whether the sequence survives.
+
+Termination is not the epilogue of crisis management.
+
+It is one of its hardest operational phases.
+
+## Off-ramp expiration
+
+An offer does not remain politically available forever.
+
+A government can hold a narrow exit open while the situation is still limited.
+
+After casualties, major economic damage, or explicit public commitments, the same offer may become impossible domestically.
+
+This creates off-ramp expiration.
+
+The crisis team should understand which exits are perishable.
+
+What event would make this offer politically unavailable?
+
+How much time is likely to remain?
+
+Can the expiration condition be communicated without turning it into an ultimatum?
+
+Which measures can extend the life of the off-ramp?
+
+Time is part of the bargain.
+
+A good exit offered too late is not an exit.
+
 ## Holding the purpose
 
 The danger in a long crisis is that actions detach from objectives.
 
-A deployment made to reopen shipping becomes a symbol of credibility. A sanction imposed to stop inspections becomes a test of alliance unity. A military patrol becomes evidence of resolve that cannot be reduced without appearing weak.
+A deployment made to reopen shipping becomes a symbol of credibility.
+
+A sanction imposed to stop inspections becomes a test of alliance unity.
+
+A military patrol becomes evidence of resolve that cannot be reduced without appearing weak.
 
 Soon the original dispute is surrounded by new stakes created by the response itself.
 
@@ -324,6 +656,58 @@ It forces leaders to keep asking what behavior they are actually trying to chang
 
 Deterrence without an off-ramp can become a machine for proving resolve until nobody remembers the original objective.
 
+## The termination ledger
+
+A mature crisis architecture should be able to answer:
+
+What behavior is each response measure designed to change?
+
+What observable condition permits reduction?
+
+What evidence threshold is required for the next reciprocal step?
+
+What dimensions make the measure hard to reverse?
+
+What reversibility debt has accumulated?
+
+Which coalition measures can relax independently?
+
+Which private assurances are actually within the sender’s authority?
+
+What interpretation would falsify the current signaling strategy?
+
+Which off-ramp expires first?
+
+What commercial or legal hysteresis will remain after political stand-down?
+
+What reset condition returns the situation toward the prior baseline?
+
+Which residual dispute can remain unresolved without blocking termination?
+
+These questions turn de-escalation from aspiration into architecture.
+
+## The strongest position
+
 The strongest position is not one from which retreat is impossible.
 
 It is one from which the other side can still choose to stop.
+
+That requires credible resistance and credible restraint at the same time.
+
+A visible cost for continued coercion.
+
+A visible benefit for ending it.
+
+A sequence both sides can execute without agreeing on every political claim.
+
+Evidence thresholds that match the reversibility of each step.
+
+Coalition measures that can relax coherently rather than all at once.
+
+Private channels whose authority is understood.
+
+Exercises that practice the ugly implementation of peace as seriously as the opening of conflict.
+
+The threshold is held not only by showing where escalation begins.
+
+It is held by keeping a route back across it.
