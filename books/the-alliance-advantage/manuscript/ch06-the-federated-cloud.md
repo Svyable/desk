@@ -181,3 +181,43 @@ The next movements of the book leave the data center for the material world that
 Cloud without shells is a briefing. Shells without a network are a stockpile waiting for a slower enemy. Between those failures sits federation: not a single landlord for allied compute, but a set of doors, keys, and revocation paths sturdy enough for sovereignty and fast enough for war. Capitals that fund only the racks will discover they bought isolation at cloud scale. Capitals that fund the doors will discover they bought something rarer—a place where allied software can meet without pretending borders vanished.
 
 Federation is doors and revocation paths, not a single landlord. Fund the doors or buy isolation at cloud scale. The material chapters that follow ask whether logistics and munitions can keep digital advantage alive.
+
+Mission-network templates that survive degraded links are combat power; laboratory green status is not.
+
+Continuous authorization with mutual recognition of evidence keeps federation from becoming a museum of approved versions.
+
+Policy-as-code for data residency prevents unlawful placement and paralyzed placement alike.
+
+Commercial concentration turns vendor labor actions into alliance events; diversification has a price worth paying.
+
+Landing stations and cables belong in resilience plans that still pretend geography is optional.
+
+Captured edge caches can undo classification discipline; minimize, wipe, and harden as operational security.
+
+Surge compute is deterrence inventory; idle capacity needs the same political defense as unused munitions.
+
+Privileged administrators are shared risk; just-in-time access and cross-domain revocation are shared defense.
+
+Purpose-limited observability prevents reliability tooling from becoming mutual surveillance.
+
+Tested workload exits turn portability clauses from fiction into measured strategy.
+
+Cloud hardware supply chains reintroduce the munition problem in the data-center basement.
+
+Training clouds normalize federated identity before sharper missions demand it under fire.
+
+Mission-network templates that survive degraded links are combat power; laboratory green status is not.
+
+Continuous authorization with mutual recognition of evidence keeps federation from becoming a museum of approved versions.
+
+Policy-as-code for data residency prevents unlawful placement and paralyzed placement alike.
+
+Commercial concentration turns vendor labor actions into alliance events; diversification has a price worth paying.
+
+Landing stations and cables belong in resilience plans that still pretend geography is optional.
+
+Captured edge caches can undo classification discipline; minimize, wipe, and harden as operational security.
+
+Surge compute is deterrence inventory; idle capacity needs the same political defense as unused munitions.
+
+Privileged administrators are shared risk; just-in-time access and cross-domain revocation are shared defense.

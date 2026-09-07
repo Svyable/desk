@@ -123,3 +123,19 @@ Possession of secrets is common among serious states. Power is the ability to tu
 Hard training is a kindness to future operators. An alliance that buys sensors without buying the people and pipes that make sensor output partner-usable is purchasing national prestige and coalition blindness in the same contract. The chapter closes where it began, with a refusal to confuse possession and power. Accuracy that arrives too late, or only inside a vault, does not defend an alliance. Accuracy that can be lawfully told to the people who must act is the product worth funding, training, and measuring.
 
 Hard training is a kindness to future operators. Treat releasability as equal to accuracy in production requirements. Secrets that cannot travel to the decision are inventory, not power.
+
+Pre-delegated releasability playbooks turn timed trust into muscle memory rather than heroism. Without them, every useful share becomes a novel legal event.
+
+Forced sharing failures in training prevent the first real friction from being misread as betrayal among friends.
+
+Budget cuts that spare platforms and remove liaison and tear-line capacity purchase prestige and blindness together.
+
+Cascading products—from deep bilateral to sanitized multilateral—beat binary yes-or-no sharing when missions widen suddenly.
+
+Authentication infrastructure and diverse confirmation paths defend shareability against forgery and seeded distrust.
+
+Contractor flow-down rules that ignore partner use create cleared governments staring at uncleared tooling.
+
+Metrics should track decision windows met with usable caveated product, not portal upload counts.
+
+Democratic oversight pathways sustain permission for the network; scandals after the fact destroy it.
