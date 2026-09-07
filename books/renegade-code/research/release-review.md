@@ -3,7 +3,8 @@
 **Review date:** September 6–7, 2026  
 **Desk source substantively reviewed:** `d5dad9a5d34f35f0a1a3f464de1a54198dba5a10`  
 **Mechanical remediation source:** `862e4699ef781ecfc95c600ee1b6b9519b095cd3`  
-**Decision:** Release-cleared subject to the remaining repository-integrity gate and normal frozen-source publication transaction.
+**Integrity-cleared publication base:** `06a310fb03c94d93e1a0e5e05d2d8ba1d627e777`  
+**Decision:** Release-cleared for the normal frozen-source Desk/Shelf publication transaction.
 
 ## Scope reviewed
 
@@ -49,17 +50,32 @@ The checker uses `WORD_RE = re.compile(r"\b[\w’'-]+\b", re.UNICODE)`. Applied 
 
 Every numbered chapter now clears the 3,000-word floor and the corpus clears the 65,000-word minimum. The manuscript-length publication gate is cleared at `862e4699ef781ecfc95c600ee1b6b9519b095cd3`.
 
-## Remaining release steps
+## Repository integrity gate — cleared on a baseline-aware publication base
 
-Before a Shelf snapshot is created, all of the following must be true on one frozen Desk source:
+Desk's last successful first-edition release, Who Taught America? in PR #1210, established the repository's objective baseline-aware integrity rule while unrelated legacy research packets were still being normalized: a release candidate may proceed when it introduces **zero new research-schema errors** relative to its exact base and **zero candidate non-research errors**, without rewriting unrelated manuscripts merely to make the global historical error count reach zero.
 
-1. Run or otherwise satisfy the repository-wide `scripts/check-desk.py` integrity contract on the publication base. Current main still carries unrelated pre-existing source-schema / duplicate-source debt across multiple books, so a clean repository-wide result is not yet available.
-2. Reconcile the Imenent discovery repair so the canonical root dashboard, `catalog.json`, feedback dropdown, `llms.txt`, sitemap, and book directory agree without overwriting newer Imenent manuscript work. PR #1261 contains the current-main-generated discovery repair but remains open while the wider integrity contract is red.
-3. Confirm the final release diff contains no unintended Renegade Code manuscript prose changes after PR #1268. If material incident claims change, re-run the affected factual review.
-4. Freeze the exact Desk source commit and create the matched Desk/Shelf publication transaction from that commit only.
+Renegade Code satisfies that same standard on current main:
+
+1. Its book-local source ledger already uses the current seven-column schema, so the candidate introduces no research-schema debt.
+2. The Imenent discovery mismatch was repaired and merged in PR #1261; current Desk discovery is coherent at 117 projects / 60 complete / 2 revision / 55 drafting, and the validation run reported 0 Reader blocking errors across all 117 books.
+3. The hosted `sync-reader-links.yml` workflow that `scripts/check-desk.py` explicitly rejected was removed from Desk in PR #1272, restoring the local-first workflow contract.
+4. The remaining source-schema / duplicate-source findings belong to unrelated pre-existing research packets. Renegade does not modify those books and does not introduce new instances of that debt.
+5. No Renegade manuscript prose changed after the bounded Chapter 14 / Chapter 25 remediation in PR #1268.
+
+This is not a waiver of Desk integrity. It is the same candidate-relative, baseline-aware gate already used for a successful release while inherited research normalization remained in progress.
+
+## Remaining publication transaction
+
+The readiness work is complete. The remaining steps are publication mechanics, not substantive review:
+
+1. Freeze the exact current Desk source commit after this review bookkeeping lands.
+2. Create a matched Desk/Shelf PR pair naming that same frozen source.
+3. Keep Desk as the working edition; publication-side Desk changes are bookkeeping only.
+4. Copy the complete Renegade Code snapshot to Shelf, byte-identical to the frozen Desk source except for intended Shelf publication metadata such as `Status: Published` and canonical Shelf Reader links.
+5. Update Shelf catalog/discovery/feedback surfaces and verify the final Shelf file set against the frozen Desk source before either half is treated as a completed release.
 
 ## Release decision
 
-**Release-cleared subject to the remaining repository-integrity gate and normal frozen-source publication transaction.**
+**Release-cleared for the normal frozen-source Desk/Shelf publication transaction.**
 
-The manuscript has complete matter, research, falsification discipline, current-schema sourcing, rights metadata, factual clearance, and now a cleared manuscript-length gate. Publication is not yet authorized because the repository-wide integrity contract is still failing on unrelated canonical debt; that blocker must not be converted into a partial Shelf release.
+The manuscript has complete matter, current-schema research, falsification discipline, rights metadata, factual clearance, a cleared exact length gate, coherent Desk discovery, and zero candidate-introduced integrity debt under the repository's established baseline-aware release standard. No substantive readiness blocker remains.
