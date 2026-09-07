@@ -328,8 +328,6 @@ The Moon landing looked singular.
 
 Its recovery was deliberately repeatable.
 
-<!-- PUB-AUGMENT-2026-09-06 -->
-
 ## An Ocean Recovery Was Also a Risk Budget
 
 Splashdown traded one set of engineering difficulties for another. A capsule did not need landing gear, wings, or a runway-compatible structure. The ocean provided an enormous landing area. But the choice created exposure to waves, weather, drift, flooding, sea state, delayed rescue, and the possibility that a spacecraft could land far from the expected point.
@@ -348,8 +346,6 @@ None of that ceremony should obscure the operational requirement underneath it. 
 
 A successful system is responsible for the last mile even when the first 477,000 miles capture the imagination.
 
-<!-- PUB-AUGMENT-ROUND2-2026-09-06 -->
-
 There is a final institutional elegance in the recovery. The Navy did not need the public to understand every layer for the layers to work. Sailors, swimmers, meteorologists, aviators, doctors, communications specialists, engineers, and NASA managers operated inside different professional languages while sharing one deadline: place three astronauts and one spacecraft safely inside the recovery system.
 
 That is coordination at its most mature. Success does not require one genius to understand the entire machine. It requires interfaces clear enough that specialists can trust the next specialist.
@@ -358,8 +354,4 @@ Apollo's most famous photograph shows one human alone on another world. The reco
 
 He came home through a crowd.
 
-<!-- PUB-AUGMENT-ROUND3-2026-09-06 -->
-
 The recovery network also made success transferable. Apollo 12 would splash down later in 1969 and be recovered by the same carrier. That repetition matters more than ceremonial novelty. A capability that works once may be luck supported by skill; a capability designed to be repeated becomes institutional knowledge. The United States did not merely bring Apollo 11 home. It had built a system ready to bring the next crew home too.
-
-<!-- PUB-AUGMENT-ROUND4-2026-09-06 -->

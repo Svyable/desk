@@ -318,8 +318,6 @@ The deeper point is that industrial systems often look inexpensive because tail 
 
 *Exxon Valdez* made the hidden ledger visible.
 
-<!-- PUB-AUGMENT-2026-09-06 -->
-
 ## Preparedness Has to Be Demonstrable Before the Spill
 
 One of the durable changes after *Exxon Valdez* was the expectation that response planning should be more than a document proving compliance. A credible plan has to connect equipment, trained people, command authority, contractors, communications, and realistic assumptions about geography and weather.
@@ -336,12 +334,8 @@ That is the same institutional test the book keeps encountering. A warship exist
 
 Infrastructure becomes trustworthy only when the backup system is as real as the front-end service.
 
-<!-- PUB-AUGMENT-ROUND2-2026-09-06 -->
-
 The regulatory legacy is strongest when stated as a design principle: prevention, response, and liability belong to the same system. Engineering without response planning assumes prevention will be perfect. Response planning without liability can socialize the cost of private risk. Liability without technical standards may compensate harm after the fact while doing too little to reduce its probability.
 
 The post-*Valdez* framework tried to bind those layers together.
 
 No statute can eliminate maritime oil risk. The historical change was an insistence that the ordinary price of transporting oil include more of the cost of preparing for the day transport stops being ordinary.
-
-<!-- PUB-AUGMENT-ROUND3-2026-09-06 -->
