@@ -1,4 +1,5 @@
 import { READER_PRESENTATION_PRESETS } from './reader-presentation-contract.js';
+import { PUBLICATION_RESEARCH_README } from './publication-research-starter.js';
 
 export const PUBLICATION_FORMATS = Object.freeze({
   book: Object.freeze({ label: 'Book', format: 'Book', pieceLabel: 'Chapter 1', filename: 'chapter-01.md' }),
@@ -160,6 +161,7 @@ export function buildPublicationFiles(input = {}) {
       [`${slug}/RIGHTS.md`]: publicationRights(title, author, year),
       [`${slug}/rights.json`]: publicationRightsManifest(title, author, year),
       [`${slug}/reader.json`]: presentation,
+      [`${slug}/research/README.md`]: PUBLICATION_RESEARCH_README,
       [`${slug}/manuscript/${recipe.filename}`]: manuscript,
     },
   };
