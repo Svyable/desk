@@ -1,0 +1,47 @@
+name: Temporary publication validation
+
+on:
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  validate:
+    if: github.event.pull_request.head.ref == 'repair/imenent-catalog'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: readiness/renegade-code-depth-gate-20260907
+          fetch-depth: 0
+      - name: Add bounded Renegade depth
+        run: |
+          cat >> books/renegade-code/manuscript/ch14-the-first-day.md <<'EOF'
+
+A useful consequence follows from treating restoration as a dependency graph: **some evidence has to mature before authority can return, even when the affected service is already technically available.** A rebuilt workload may be ready to accept traffic while identity lineage is still uncertain. A clean repository may be ready to deploy while responders are still determining whether an external automation token created an untracked release path. Availability and trust are therefore different clocks.
+
+That distinction should appear in the recovery plan before an incident. Teams can define which trust roots gate which kinds of authority, and which degraded modes remain safe while evidence catches up. A customer-facing service might return in read-only mode before write paths reopen. An internal agent may regain access to logs before it regains access to deployment. A payment workflow may resume quoting and reconciliation while settlement remains human-approved. These are not improvised compromises. They are predesigned recovery states.
+
+Designing those states in advance also changes incentives during the incident. Executives no longer face a choice between total shutdown and full restoration. Operators do not have to invent a safe middle while exhausted. The organization can restore useful function without pretending uncertainty has disappeared.
+
+That is an important containment capability in its own right. A system that can only be fully on or fully off makes every investigation a business crisis. A system with narrow, tested recovery modes buys investigators time to be accurate. It turns caution from an outage into an operating state.
+EOF
+          cat >> books/renegade-code/manuscript/ch25-containment-becomes-a-product.md <<'EOF'
+
+The mature product also needs an exit path. A customer should be able to move an agent workflow to another provider without carrying forward invisible standing authority. Task identities, active grants, descendants, pending actions, and revocation state should be exportable or conclusively terminated. Otherwise switching vendors can leave the old control plane alive after the visible product has disappeared.
+
+This is the containment analogue of data portability. The important object is not only the user's files. It is the user's delegated power. A trustworthy platform can answer a final question when the relationship ends: **what authority still exists because this agent once existed?** The best answer is a machine-verifiable inventory followed by zero.
+
+That property would make containment part of competition rather than merely compliance. Customers could compare platforms not only by what their agents can accomplish, but by how cleanly those agents can be bounded, inspected, transferred, and retired. A product that makes delegation easy but exit ambiguous has solved only half the problem.
+EOF
+      - name: Validate exact Renegade length gate
+        run: python3 scripts/check-book-length.py renegade-code --json
+      - name: Commit and push Renegade remediation
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add books/renegade-code/manuscript/ch14-the-first-day.md books/renegade-code/manuscript/ch25-containment-becomes-a-product.md
+          git commit -m "Deepen Renegade Code chapters 14 and 25"
+          git push origin HEAD:readiness/renegade-code-depth-gate-20260907
