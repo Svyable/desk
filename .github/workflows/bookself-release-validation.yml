@@ -1,0 +1,22 @@
+name: Bookself release validation
+
+on:
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out frozen Bookself publication candidate
+        uses: actions/checkout@v4
+        with:
+          ref: 61a2077913ab7cc8d08ecb96fbf730e220939d71
+      - name: Validate Bookself chapter length
+        run: python3 scripts/check-book-length.py bookself --json
+      - name: Validate frozen Desk integrity
+        run: python3 scripts/check-desk.py
