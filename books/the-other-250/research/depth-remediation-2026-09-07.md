@@ -78,7 +78,7 @@ Because the Chapter 9 blob was unchanged from the literal September 6 checker so
 
 ## Release effect
 
-These passes close **nine** of the 21 sub-3,000-word chapter defects recorded by the September 6 literal checker. **Twelve numbered chapters remain below 3,000 words on that literal baseline** and require substantive deepening rather than padding.
+The passes recorded in this file close **nine** of the 21 sub-3,000-word chapter defects from the September 6 literal checker. Additional chapter-specific remediation artifacts on current Desk close Chapters 1, 2, 3, 4, 5, 7, and 13. Taken together, **16 of the 21 original defects are now closed** and **five known sub-floor chapters remain: Chapters 16, 17, 19, 20, and 21**.
 
 The chapter-only corpus was already **68,901 words**, above the 65,000-word book minimum, before these passes. The controlling mechanical debt is therefore the remaining per-chapter floors.
 
