@@ -8,7 +8,7 @@
 | **Status** | Drafting |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
-| **Chapters** | 1 of 18 drafted + prologue |
+| **Chapters** | 2 of 18 drafted + prologue |
 | **Edition** | First field edition candidate |
 | **Language** | English |
 
@@ -23,7 +23,7 @@ The first field edition publishes the framework and opening research path while 
 - [x] [Front Matter](manuscript/front-matter.md)
 - [x] [Prologue — Minutes](manuscript/prologue-minutes.md)
 - [x] [Ch 1 — The Warning Problem](manuscript/ch01-the-warning-problem.md)
-- [ ] [Ch 2 — When the Screen Was Wrong](manuscript/ch02-when-the-screen-was-wrong.md)
+- [x] [Ch 2 — When the Screen Was Wrong](manuscript/ch02-when-the-screen-was-wrong.md)
 - [ ] [Ch 3 — The Command System](manuscript/ch03-the-command-system.md)
 - [ ] [Ch 4 — Satellites, Radar, and Uncertainty](manuscript/ch04-satellites-radar-and-uncertainty.md)
 - [ ] [Ch 5 — The Fusion Machine](manuscript/ch05-the-fusion-machine.md)
