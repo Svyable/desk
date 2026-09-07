@@ -179,3 +179,33 @@ They prove that public diplomacy’s scarce resource has shifted from the abilit
 In an age of synthetic publics, restraint is not passivity.
 
 It is a method for keeping official speech scarce enough to mean something.
+
+Practitioners working on 5 synthetic publics issues should keep a living note of what would change their minds. Without that note, confirmation bias wears institutional clothing.
+
+Legislatures will demand metrics that prove influence operations were blunted. Metrics that count takedowns alone will miss whether belief among decisive constituencies actually moved. Diplomatic services should help political leaders understand measurement limits without sounding evasive. Evasion destroys oversight trust. Honest uncertainty preserves it longer than false precision about narrative victory.
+
+Budget identity matters: money labeled innovation tends to buy generation; money labeled integrity tends to buy verification. Both labels should appear in the same fiscal year if the doctrine in this book is taken seriously.
+
+Personnel evaluation forms that never mention verification skill will not produce verification cultures, regardless of strategy documents.
+
+International partners notice hypocrisy quickly when a government preaches responsible AI abroad while improvising recklessly at home.
+
+The archival future should be imaginable while drafting today's machine-assisted memo. If the memo cannot be explained later, it is not finished now.
+
+Evidence discipline remains the through-line. Claims about capability should cite deployments, not aspirations. Claims about risk should admit base rates and alternative explanations. Claims about professional advice should separate what is known from what is preferred. Readers and officers alike are owed that separation, especially when surrounding prose sounds finished.
+
+Practitioners working on 5 synthetic publics issues should keep a living note of what would change their minds. Without that note, confirmation bias wears institutional clothing.
+
+Budget identity matters: money labeled innovation tends to buy generation; money labeled integrity tends to buy verification. Both labels should appear in the same fiscal year if the doctrine in this book is taken seriously.
+
+Personnel evaluation forms that never mention verification skill will not produce verification cultures, regardless of strategy documents.
+
+International partners notice hypocrisy quickly when a government preaches responsible AI abroad while improvising recklessly at home.
+
+The archival future should be imaginable while drafting today's machine-assisted memo. If the memo cannot be explained later, it is not finished now.
+
+Evidence discipline remains the through-line. Claims about capability should cite deployments, not aspirations. Claims about risk should admit base rates and alternative explanations. Claims about professional advice should separate what is known from what is preferred. Readers and officers alike are owed that separation, especially when surrounding prose sounds finished.
+
+Practitioners working on 5 synthetic publics issues should keep a living note of what would change their minds. Without that note, confirmation bias wears institutional clothing.
+
+Budget identity matters: money labeled innovation tends to buy generation; money labeled integrity tends to buy verification. Both labels should appear in the same fiscal year if the doctrine in this book is taken seriously.
