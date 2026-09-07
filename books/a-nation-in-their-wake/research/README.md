@@ -72,4 +72,11 @@ Prefer primary records and high-authority secondary sources: Naval History and H
 
 Do not invent bridge dialogue, captain's thoughts, weather, sounds, smells, or quotations. When a vivid detail is not in a source, leave it out. Treat famous phrases such as John Paul Jones's reported reply to *Serapis* with special caution and either source the wording and its evidentiary limits or paraphrase the episode without quotation marks.
 
-The research ledgers in this folder map chapter claims to sources and include uncertainty notes. The manuscript carries the argument; the research trail carries the audit path.
+The research ledgers in this folder (`source-ledger.csv` and `chapter-evidence.md`) map chapter claims to sources and include uncertainty notes. The manuscript carries the argument; the research trail carries the audit path.
+
+## Ledgers (publication preparation)
+
+- [x] [Structured source ledger](source-ledger.csv) — high-authority sources mapped across all 26 chapters (NHHC, NARA, LOC, USHMM, NASA, NTSB, EPA, FBI, State Historian, Smithsonian, NPS, USCG, USCIS).
+- [x] [Chapter evidence ledger](chapter-evidence.md) — per-chapter central claims, source ids, rival ships, and uncertainty notes.
+
+Update both files when chapter claims change. Prefer primary and high-authority sources; verify URLs before Shelf release.
