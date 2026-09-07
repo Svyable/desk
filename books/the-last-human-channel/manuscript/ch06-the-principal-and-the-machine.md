@@ -32,6 +32,8 @@ The issue is what happens when the machine changes who gets to frame the decisio
 
 Framing is power.
 
+## The machine enters before the decision
+
 A polished briefing does not merely describe a problem.
 
 It decides what counts as the problem.
@@ -45,6 +47,40 @@ If it predicts reactions, uncertainty can look like a single forecast.
 If it drafts a speech, the policy can begin to harden before the departments responsible for implementing it have agreed on the premise.
 
 If it retrieves the most relevant precedent, it helps decide which history becomes visible.
+
+The machine therefore exercises influence before any formal delegation occurs.
+
+It selects.
+
+Orders.
+
+Compresses.
+
+Labels.
+
+Retrieves.
+
+Compares.
+
+Frames.
+
+These are preparatory functions.
+
+They are also agenda functions.
+
+The principal should not treat them as politically neutral merely because no message has yet been sent and no order has yet been signed.
+
+A system can shape the decision long before it touches authority.
+
+This suggests a first governance rule.
+
+Map influence before mapping execution.
+
+A tool does not need the ability to act externally to alter state behavior.
+
+It only needs to become the default path through which the principal sees the problem.
+
+## Informational independence is not structural independence
 
 The principal gains informational independence from the bureaucracy.
 
@@ -92,7 +128,87 @@ The staff has not disappeared.
 
 Part of the staff has become software.
 
-This creates a new form of bureaucratic politics.
+The political question therefore changes.
+
+Who staffs the machine?
+
+Not only who operates it.
+
+Who curates the sources?
+
+Who writes the system behavior?
+
+Who controls permissions?
+
+Who decides what is remembered?
+
+Who decides what is forgotten?
+
+Who defines the categories the principal sees?
+
+Who can change those categories without the principal noticing?
+
+These are governance questions because they shape the informational constitution around executive choice.
+
+## Build a principal delegation map
+
+A senior decision-support system should have an explicit **delegation map**.
+
+For every function, record whether the system may:
+
+Observe.
+
+Retrieve.
+
+Summarize.
+
+Rank.
+
+Generate options.
+
+Generate recommendations.
+
+Draft internal text.
+
+Draft external text.
+
+Task subordinate systems.
+
+Task human staff.
+
+Prepare executable instructions.
+
+Transmit messages.
+
+Execute reversible administrative changes.
+
+Create external commitments.
+
+Each category should have an authority owner.
+
+Who can approve the permission?
+
+Who can revoke it?
+
+Who can audit its use?
+
+Who is accountable when the system crosses the intended boundary?
+
+This delegation map matters because convenience can blur categories.
+
+A draft message is not a sent message.
+
+A proposed sanction is not a legal designation.
+
+A generated military option is not an operational order.
+
+A prepared talking point is not an authorized position.
+
+When software places these artifacts next to one another, the psychological distance between them can shrink.
+
+The system should preserve the distance institutionally even when preparation becomes instantaneous.
+
+## Software politics is harder to see
 
 Traditional bureaucratic politics is visible in people and institutions.
 
@@ -138,6 +254,50 @@ What important disagreement exists outside the answer?
 
 A principal should be able to inspect not just the product but the path that produced the product.
 
+## The framing ledger
+
+Because leaders cannot inspect every path in real time, the system needs a **framing ledger**.
+
+For consequential outputs, record:
+
+The question asked.
+
+The sources searched.
+
+The sources unavailable.
+
+The option-generation method.
+
+The criteria used to rank or select options.
+
+The dissenting sources retrieved.
+
+The model or tool versions involved.
+
+The human edits before presentation.
+
+The final form shown to the principal.
+
+This ledger need not appear in the principal’s face for every routine task.
+
+It should exist.
+
+It should be auditable.
+
+If a decision later turns on an omitted source or a hidden ranking rule, the institution should be able to reconstruct how the frame formed.
+
+Without that record, machine-assisted executive choice can create accountability gaps.
+
+The principal remembers choosing.
+
+The bureaucracy remembers not being asked.
+
+The software path that structured the choice has disappeared.
+
+That is an institutional failure even if the recommendation was reasonable.
+
+## Challenge must be normal, not optional
+
 This is difficult because leaders do not have time to audit every answer.
 
 That is exactly why the architecture matters.
@@ -172,6 +332,30 @@ It means exposing the cost of options that look clean at the top of a memo.
 
 Most of all, it means refusing to confuse fluency with institutional consent.
 
+A useful design is a **challenge minimum**.
+
+Before a high-consequence recommendation reaches the principal, the system must include at least:
+
+The strongest competing option.
+
+The strongest argument against the leading option.
+
+The key unresolved uncertainty.
+
+The implementing agency’s feasibility view.
+
+The legal-authority view where relevant.
+
+The allied-permission or partner-dependence view where relevant.
+
+The reversal condition.
+
+The challenge minimum does not force delay on every minor decision.
+
+It creates deliberate informational friction near consequence.
+
+## Synthesis is not consent
+
 A model can synthesize the positions of multiple agencies.
 
 It cannot manufacture the authority those agencies carry.
@@ -203,6 +387,20 @@ A commander saying the operation cannot be sustained is staking institutional re
 A finance minister saying the economic cost is unacceptable is not merely adding another feature to a model.
 
 The state is hearing from another center of authority.
+
+This suggests a distinction between **synthetic dissent** and **accountable dissent**.
+
+Synthetic dissent expands the option space.
+
+Accountable dissent allocates responsibility.
+
+A healthy principal system needs both.
+
+The machine can generate the argument the room forgot.
+
+The institution must still identify who owns the consequences.
+
+## The machine should pressure-test the interagency process
 
 This is why the principal-machine relationship cannot be designed as a replacement for interagency process.
 
@@ -256,6 +454,30 @@ A legal option can become a strategic recommendation.
 
 A military capability can become an assumption of political will.
 
+## Measure lane compression
+
+One risk can be measured.
+
+Call it **lane compression**.
+
+How much distinct institutional reasoning is compressed into one synthesized answer before the principal sees it?
+
+If five agencies supplied materially different judgments and the final brief shows one blended recommendation, lane compression is high.
+
+If the brief preserves where the differences came from and why they matter, lane compression is lower.
+
+High compression is not always bad.
+
+Principals need concise products.
+
+The danger is invisible compression.
+
+A system should tell the user when concision required collapsing major disagreement.
+
+That one signal can prevent the clean page from being mistaken for clean consensus.
+
+## False closure is the principal risk
+
 The most dangerous principal-machine failure may therefore be not false information but false closure.
 
 The system makes the decision feel more settled than the institution really is.
@@ -280,6 +502,24 @@ Traditional government produces that friction almost automatically because peopl
 
 AI-assisted government can remove the friction so efficiently that it also removes the warning embedded inside it.
 
+This suggests a **completion warning**.
+
+The system should know when it has produced a complete-looking answer from an incomplete institutional process.
+
+If allied consultation has not occurred, say so.
+
+If the implementing agency has not validated feasibility, say so.
+
+If the legal view is provisional, say so.
+
+If the intelligence picture contains unresolved dissent, say so.
+
+The warning should appear in the main product, not hidden in metadata.
+
+A polished memo should not impersonate a completed government.
+
+## Consequence should determine friction
+
 This is why the principal needs procedural stop points.
 
 Not every decision deserves one.
@@ -302,6 +542,30 @@ What cannot be reversed after the first move?
 
 The decision architecture should become more demanding as consequence rises.
 
+This can be encoded as a **consequence ladder**.
+
+Low consequence.
+
+Machine may prepare and complete within delegated administrative bounds.
+
+Moderate consequence.
+
+Human confirmation required.
+
+High consequence.
+
+Named accountable officials must review relevant lanes.
+
+Strategic consequence.
+
+Principal sees dissent, uncertainty, authority, reversibility, and external-permission status before commitment.
+
+The ladder is not a substitute for judgment.
+
+It prevents convenience from quietly moving the boundary.
+
+## Meaningful human control is not a click
+
 This is meaningful human control applied to governance rather than weapons.
 
 The human is not meaningful merely because a leader clicks approve.
@@ -311,6 +575,28 @@ The principal’s role is meaningful when the leader sees the disagreement, unde
 AI can support that role by making the decision surface richer.
 
 It can also hollow it out by making approval too easy.
+
+A useful metric is **principal intervention depth**.
+
+At what stage can the principal still change the decision meaningfully?
+
+Before the message is sent?
+
+Before the order is issued?
+
+Before subordinate systems begin implementation?
+
+Before allies or markets react?
+
+Before legal commitments attach?
+
+If the principal technically approves but the operational train is already moving, formal control may remain while practical control shrinks.
+
+That is delegation by momentum.
+
+The system should expose it.
+
+## Adversarial briefing is better than synthetic consensus
 
 One useful design is adversarial briefing.
 
@@ -355,6 +641,22 @@ Compressed time.
 Misaligned horizons.
 
 The machine can expose those things quickly.
+
+The adversarial brief should include a **robustness test**.
+
+Which option remains acceptable across several plausible interpretations of the crisis?
+
+Which option works only if one narrow forecast is correct?
+
+Which creates irreversible cost before the uncertainty resolves?
+
+Which preserves the most future choice?
+
+This shifts the principal from selecting the most persuasive prediction toward selecting policy that can survive prediction error.
+
+That is a better use of machine abundance.
+
+## Delegation creeps through workflow
 
 The next governance problem is delegation.
 
@@ -414,6 +716,84 @@ Commitment is what other actors can rely on, fear, resist, or exploit.
 
 That distinction should be visible in system permissions.
 
+## Keep a delegation-change log
+
+Permissions change over time.
+
+The system proves useful.
+
+A staff office asks to automate one more step.
+
+A crisis leads to an emergency exception.
+
+The exception remains.
+
+A leader gets used to the workflow.
+
+Authority creeps.
+
+A **delegation-change log** should record every material expansion or contraction of machine authority.
+
+What changed?
+
+Who approved it?
+
+Why?
+
+Was it temporary?
+
+When does it expire?
+
+What incident or performance evidence justified the change?
+
+What human skill or process may decay because of it?
+
+Without this log, the organization can arrive at a highly delegated system without remembering that no one ever approved the whole arrangement.
+
+The final architecture becomes the sum of conveniences.
+
+That is not governance.
+
+## Emergency authority needs an expiration clock
+
+Crisis creates pressure to widen machine permissions.
+
+That may be appropriate.
+
+A system may need faster access to data.
+
+More automated triage.
+
+Broader tasking authority.
+
+Faster workflow completion.
+
+The danger is permanence.
+
+Emergency permissions should have an **authority half-life**.
+
+After a defined period, they require explicit renewal.
+
+Not because the permission was necessarily wrong.
+
+Because crisis conditions should not silently become constitutional defaults.
+
+The half-life creates a review point.
+
+What did the expanded permission accomplish?
+
+What failed?
+
+Did humans lose skill?
+
+Did the system touch external commitment?
+
+Should the authority remain, narrow, or disappear?
+
+Temporary speed should not become permanent authority through inertia.
+
+## Personalization creates adaptive framing risk
+
 The principal also needs protection from personalization.
 
 An AI assistant that serves one leader for years may become unusually effective at anticipating preferences.
@@ -446,7 +826,23 @@ Change the vocabulary.
 
 Do not change the evidence threshold.
 
-That is another governance rule worth making explicit.
+This can be tested through **preference invariance**.
+
+Give the same evidence to different presentation profiles.
+
+Does the substantive ranking change merely because the user prefers certain styles or analogies?
+
+Does the strongest dissent stay visible?
+
+Does uncertainty retain the same prominence?
+
+If personalization changes the decision frame materially, the system is no longer only adapting communication.
+
+It is adapting judgment.
+
+That boundary deserves scrutiny.
+
+## Institutional memory should remember reasons
 
 Institutional memory creates a similar tension.
 
@@ -473,6 +869,238 @@ What happened afterward?
 Memory is useful only when it remembers the argument.
 
 Otherwise it turns history into autocomplete.
+
+This suggests a **decision memory object**.
+
+Outcome.
+
+Context.
+
+Key assumptions.
+
+Named dissent.
+
+Reversal conditions.
+
+Implementation result.
+
+Subsequent evidence.
+
+The object makes precedent richer.
+
+A principal can ask not only what was done before but whether the conditions that justified it still exist.
+
+That is institutional memory rather than behavioral imitation.
+
+## Machine tasking changes staff power
+
+If a principal can task the bureaucracy through an AI layer, the chain of command changes subtly.
+
+A model can translate the leader’s intent into dozens of staff tasks.
+
+It can follow up.
+
+Request updates.
+
+Compare completion.
+
+Escalate delays.
+
+This can improve execution.
+
+It can also create **tasking opacity**.
+
+Did the principal actually ask for this task?
+
+Did the system infer it?
+
+Did a staff member expand it?
+
+Did one office receive a stronger instruction than another because the model interpreted intent differently?
+
+Every machine-generated task should therefore carry authority provenance.
+
+Principal-directed.
+
+Staff-directed.
+
+Model-suggested and human-approved.
+
+Automatically generated within standing authority.
+
+The recipient should know what kind of task it is receiving.
+
+Otherwise machine fluency can turn suggestions into orders through format alone.
+
+## External messages need authorship integrity
+
+Diplomacy is especially sensitive because another government interprets messages as intentional acts of state.
+
+A system can help draft language.
+
+It can compare precedent.
+
+It can identify ambiguity.
+
+It can test translations.
+
+But the final message needs authorship integrity.
+
+Who authorized the content?
+
+Which part is negotiable?
+
+Which part is binding?
+
+Was the message generated from a model summary or from a settled policy?
+
+Has the relevant diplomat seen it?
+
+Has the recipient’s likely interpretation been considered by humans with relationship knowledge?
+
+A principal-machine system should never let the ease of generating language obscure the cost of sending it.
+
+Text is cheap.
+
+State intent is not.
+
+## Degraded operation protects human ownership
+
+A principal-level AI system will eventually fail.
+
+Outage.
+
+Cyber compromise.
+
+Data corruption.
+
+Vendor failure.
+
+Loss of connectivity.
+
+Suspected manipulation.
+
+The state should know what happens next.
+
+Can the principal still receive intelligence?
+
+Can agencies still produce separate views?
+
+Can a decision memo be assembled manually?
+
+Can dissent reach the leader?
+
+Can external messages be authenticated?
+
+Can staff reconstruct the recent machine-assisted reasoning?
+
+Can the government operate more slowly without losing authority?
+
+This is not nostalgia for paper.
+
+It is degraded-mode sovereignty.
+
+A system that makes the principal dramatically faster but leaves the government cognitively crippled when unavailable has created a new executive dependency.
+
+The fallback should be exercised.
+
+Human judgment decays if the machine always prepares the room.
+
+## Exercise the principal-machine boundary
+
+Senior exercises should therefore test the governance layer directly.
+
+Give the model a source set missing one crucial agency view.
+
+Let it produce a compelling but incomplete recommendation.
+
+Introduce a system update that changes ranking behavior.
+
+Make one allied consultation unavailable.
+
+Have the machine draft a message that is linguistically elegant but politically overcommitted.
+
+Create a situation in which the principal’s known preference conflicts with the strongest evidence.
+
+Simulate loss of the AI system midway through crisis.
+
+Then measure:
+
+Did the principal see what was missing?
+
+Did accountable dissent survive?
+
+Did staff distinguish suggestion from authority?
+
+Did external commitment remain human-owned?
+
+Could the process revert to degraded mode?
+
+Did emergency permissions expire?
+
+Could investigators reconstruct the framing path afterward?
+
+These are principal-system readiness metrics.
+
+The model can pass every benchmark and the governance system can still fail.
+
+The exercise should test the latter.
+
+## Measure ownership, not only speed
+
+A principal-machine architecture should track more than response latency.
+
+**Time to structured dissent.**
+
+How quickly can the leader see the strongest accountable disagreement?
+
+**Time to implementation ownership.**
+
+How quickly are named institutions attached to execution consequences?
+
+**Lane compression.**
+
+How much distinct institutional reasoning disappears inside synthesis?
+
+**Principal intervention depth.**
+
+How late can the leader still alter course before momentum creates commitment?
+
+**Delegation drift.**
+
+How much machine authority has expanded since the last formal review?
+
+**Fallback competence.**
+
+Can the institution operate without the machine?
+
+**Framing reconstructability.**
+
+Can the decision path be audited afterward?
+
+These metrics are imperfect.
+
+They are better than measuring only how much faster the principal receives an answer.
+
+Speed is useful.
+
+Ownership is the constitutional variable.
+
+## The falsifiable test
+
+The thesis can be tested.
+
+If principals using highly integrated AI systems consistently receive broader, more accurate, more accountable advice without suppressed agency dissent, without delegation drift, without personalization bias, and without degradation of fallback competence, then many of the controls proposed here may be unnecessary.
+
+If machine synthesis reliably preserves authority boundaries and external commitments remain clearly human-owned even as workflow automation expands, then principal-level AI can be governed with lighter process.
+
+The opposite pattern would strengthen the case for deliberate architecture.
+
+If fluent briefs repeatedly create false closure, if software defaults shape option sets invisibly, if emergency permissions persist, if machine-generated tasking blurs authority, if dissent becomes synthetic rather than accountable, or if principals retain formal approval while practical intervention depth shrinks, then the problem is not merely model safety.
+
+It is executive governance.
+
+## The rule
 
 The institutional rule should be simple.
 
@@ -520,4 +1148,8 @@ It can remind the room what it forgot.
 
 It can make disagreement harder to hide.
 
+It can make execution easier to trace.
+
 It should not become the room.
+
+And it should never make the room forget who is responsible for leaving it.
