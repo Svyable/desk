@@ -60,7 +60,7 @@ Representation follows use.
 
 This sounds obvious until an organization builds one universal dashboard, one canonical score, one summary field, or one model of a customer and then begins treating the compression as the person.
 
-The problem is not simplification itself. The problem is forgetting what the simplification was optimized to preserve.
+The problem is forgetting what the simplification was optimized to preserve.
 
 Every useful compression should have an implied warning label: accurate enough for this purpose.
 
@@ -170,10 +170,4 @@ Not simplicity for its own sake.
 
 Mobility.
 
-A pile cannot travel far inside a mind, a meeting, a company, or a machine.
-
-A good compression can.
-
-And once it can travel, it can meet other compressed ideas.
-
-That is where the next stage begins.
+A pile cannot travel far inside a mind, a meeting, a company, or a machine. A good compression can—and once it can travel, it can meet other compressed ideas.

@@ -282,22 +282,6 @@ Then comes the deeper move.
 
 Once you understand the constraints, choose one that makes the problem harder in a useful direction.
 
-Make it smaller.
+Make it smaller, faster, understandable, or cheap enough to try. Make it reversible, or make it survive failure.
 
-Make it faster.
-
-Make it understandable.
-
-Make it reversible.
-
-Make it survive failure.
-
-Make it work for the person with the least patience.
-
-Make it cheap enough to try.
-
-Now build.
-
-Because a constraint reaches the limit of its usefulness when it has forced a decision and the team is still arguing in abstractions.
-
-At that point the next question should have screws in it.
+A constraint reaches the limit of its usefulness when it has forced a decision and the team is still arguing in abstractions. At that point the next question should have screws in it.

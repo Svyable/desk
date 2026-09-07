@@ -10,7 +10,7 @@ A mature field learns to explain itself in its own language. The language become
 
 This is why interesting ideas so often enter through the side door.
 
-A hospital studies a racing pit crew because both environments involve coordinated handoffs under time pressure. A warehouse borrows from choreography because bodies moving through space create congestion whether they are carrying parcels or performing on a stage. A software team studies air-traffic control because both fields have to distinguish routine flow from rare but consequential exceptions. The analogy is never perfect. That is not the point. Its job is to disturb the local assumptions.
+A hospital studies a racing pit crew because both environments involve coordinated handoffs under time pressure. A software team studies air-traffic control because both fields have to distinguish routine flow from rare but consequential exceptions. The analogy is never perfect; its job is to disturb the local assumptions.
 
 Innovation benefits from proximity, but not too much proximity.
 
@@ -30,13 +30,13 @@ Sometimes this is merely awkward behavior.
 
 Sometimes it is the market sending a postcard from the future.
 
-The important question is not whether the edge case is common. It is whether it reveals a hidden demand, a brittle assumption, or a capability that becomes valuable under different conditions.
+What matters is whether the edge case reveals a hidden demand, a brittle assumption, or a capability that becomes valuable under different conditions.
 
 The same is true in science. A tidy theory explains the ordinary observations. Then a measurement refuses to fit. The temptation is to blame the instrument, the sample, the technician, the weather, the software, or the intern. Often one of those explanations is correct. But anomalies have earned their place in intellectual history because occasionally the stubborn measurement is the first visible crack in a larger model.
 
 A system reveals itself under stress.
 
-Bridges reveal load paths when weight moves across them. Organizations reveal authority when the plan breaks. Families reveal decision structures during emergencies. Supply chains reveal hidden dependencies when one component disappears. Software reveals architecture during failure. The edge condition is not a nuisance added to the real system. It is often where the real system becomes visible.
+Organizations reveal authority when the plan breaks. Software reveals architecture during failure. The edge condition is often where the real system becomes visible.
 
 This suggests a different way to aggregate information.
 
@@ -48,7 +48,7 @@ Who is the heaviest user? Who tried once and never returned? Which customer cost
 
 These questions do not produce a representative picture. They produce structural clues.
 
-There is a trap here. People who enjoy contrarian thinking can become collectors of exotic exceptions. Every field has someone who treats the existence of one anomaly as proof that the entire mainstream view is foolish. That is not edge hunting. It is vanity dressed as skepticism.
+There is a trap here. People who enjoy contrarian thinking can become collectors of exotic exceptions. Every field has someone who treats the existence of one anomaly as proof that the entire mainstream view is foolish. That is vanity dressed as skepticism.
 
 An edge matters when it changes the model, not merely when it makes a good story.
 
@@ -78,7 +78,7 @@ The human equivalent is simpler: periodically ask where your information is comi
 
 If everyone you read is a founder, you will develop founder-shaped explanations. If everyone you ask is a manager, work will look managerial. If all your evidence comes from survivors, failure will look strangely rare. If every example comes from enormous institutions, small systems will seem primitive rather than different.
 
-Aggregation is not only about quantity. It is about coverage.
+Aggregation needs coverage, not only quantity.
 
 A map with a million points can still omit the border.
 
@@ -86,7 +86,7 @@ The useful collector therefore develops an appetite for places where categories 
 
 There is a practical way to begin.
 
-Take the problem in front of you and write down five places that seem unrelated but share one structural feature with it. If your problem involves queues, look beyond your industry at airports, kitchens, emergency departments, theme parks, packet networks, and border crossings. If it involves trust, look at escrow, reputation systems, old guilds, cryptographic signatures, babysitting, and high-value auctions. If it involves coordination, look at orchestras, ports, ant colonies, construction sites, multiplayer games, and military logistics.
+Take the problem in front of you and write down a few places that seem unrelated but share one structural feature with it. If your problem involves queues, look beyond your industry at emergency departments or packet networks. If it involves trust, look at escrow or reputation systems. If it involves coordination, look at ports or construction sites.
 
 Do not import the answer. Import the question.
 
@@ -94,10 +94,4 @@ What does that other field have to notice that you have learned to ignore? What 
 
 Then come home.
 
-The center still matters. It contains the constraints your borrowed idea must survive. But after a productive trip to the edge, the center no longer looks inevitable.
-
-That is enough.
-
-You do not need the edge to hand you an invention.
-
-You need it to make the obvious look strange again.
+The center still matters. It contains the constraints your borrowed idea must survive. But after a productive trip to the edge, the center no longer looks inevitable, and the obvious can look strange again.

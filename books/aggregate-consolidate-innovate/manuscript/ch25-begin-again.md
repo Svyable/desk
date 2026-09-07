@@ -424,10 +424,4 @@ Buy uncertainty cheaply.
 
 Stop when the next iteration stops teaching.
 
-And when the result returns from the world carrying dents, complaints, surprises, evidence, and uses you never imagined, do not defend the pristine idea.
-
-Open the warehouse door.
-
-Put the new material on the table.
-
-Begin again.
+And when the result returns from the world carrying dents, complaints, surprises, evidence, and uses you never imagined, do not defend the pristine idea. Open the warehouse door and put the new material on the table.

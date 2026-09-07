@@ -16,9 +16,9 @@ Aggregation needs a temporary tolerance for disorder.
 
 The key word is temporary.
 
-A useful heap is not neglect. It is a staging area where unlike things are allowed to remain near one another long enough for relationships to become visible.
+A useful heap is a staging area where unlike things are allowed to remain near one another long enough for relationships to become visible.
 
-This is familiar to anyone who cooks from leftovers. A refrigerator contains ingredients acquired for different meals, on different days, for reasons that no longer matter. The useful question is not how elegantly they are classified. It is what can now be made from what happens to be present.
+This is familiar to anyone who cooks from leftovers. A refrigerator contains ingredients acquired for different meals, on different days, for reasons that no longer matter. The useful question is what can now be made from what happens to be present.
 
 Workshops behave similarly. So do studios, laboratories, and codebases in moments of exploration. Before there is a stable system, there is often a pile of candidate parts.
 
@@ -102,7 +102,7 @@ Models are good at imposing structure. Give a model fifty fragments and it will 
 
 Sometimes the cleanliness is counterfeit.
 
-A cluster can hide a contradiction. A summary can average away the one observation that matters. A generated label can make an uncertain pattern feel official. The danger is not that the machine organizes badly. It is that it organizes confidently before the human has decided what deserves to remain strange.
+A cluster can hide a contradiction. A summary can average away the one observation that matters. A generated label can make an uncertain pattern feel official. The danger is that the machine organizes confidently before the human has decided what deserves to remain strange.
 
 One of the most useful instructions you can give an analytical system is therefore to preserve outliers.
 
@@ -128,10 +128,4 @@ Things are promoted into durable memory, combined into patterns, turned into exp
 
 And then new material arrives.
 
-The rhythm is healthy when the heap breathes.
-
-In, around, through, out.
-
-Not everything deserves a permanent home.
-
-But before you know what belongs where, it can be useful to let a few things lie on the table together.
+The rhythm is healthy when the heap breathes: in, around, through, out. Before you know what belongs where, it can be useful to let a few things lie on the table together.

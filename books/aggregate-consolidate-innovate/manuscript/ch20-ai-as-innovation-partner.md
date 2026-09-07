@@ -68,8 +68,6 @@ Ask what a user with the opposite incentives would do.
 
 Ask which constraint the team is treating as natural law without proof.
 
-The value is not that the machine possesses secret contrarian truth.
-
 The value is that dissent becomes cheap enough to manufacture on demand.
 
 This matters because human groups are bad at maintaining adversarial thought after social consensus forms.
@@ -332,9 +330,7 @@ These roles are not fixed.
 
 Machines will become better at judgment within defined domains. Humans will delegate more. Some systems will operate with meaningful autonomy because the boundaries, feedback, and consequences are well understood.
 
-The question is not how to preserve a ceremonial human click forever.
-
-The question is where goals, values, ambiguity, accountability, and irreversible consequence require a different kind of authority.
+Ask where goals, values, ambiguity, accountability, and irreversible consequence require a different kind of authority.
 
 A good partnership moves that boundary deliberately.
 
@@ -360,9 +356,7 @@ Innovate.
 
 Even the partnership itself should be treated as an experiment.
 
-The machine is not arriving at the end of the book to replace the framework.
-
-It makes the framework more urgent.
+The machine makes the framework more urgent rather than replacing it.
 
 Because when generation accelerates, selection matters more.
 
@@ -372,12 +366,4 @@ When summaries multiply, compression choices matter more.
 
 When action becomes autonomous, standards and authority matter more.
 
-When prototypes get cheap, questions matter more.
-
-When possibility becomes abundant, commitment matters more.
-
-The machines are entering the workshop.
-
-The question is not whether they can make things.
-
-The question is what kind of workshop we become together.
+When prototypes get cheap, questions matter more. When possibility becomes abundant, commitment matters more. The machines are entering the workshop; the open question is what kind of workshop we become together.

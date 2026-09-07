@@ -154,7 +154,7 @@ Some of these statements encode expensive wisdom.
 
 Some encode one anecdote with excellent public relations.
 
-The challenge is not to eliminate folklore. It is to give folklore an audit trail.
+The challenge is to give folklore an audit trail.
 
 This becomes more important as organizations age.
 
@@ -394,14 +394,4 @@ If experiments produce reports but capital allocation ignores them, it did not l
 
 If a lesson changes one team while the next team repeats the error, learning remained local.
 
-Learning is not what the organization knows.
-
-It is what the organization can stop having to relearn.
-
-That is a harsher standard.
-
-It is also the one that matters.
-
-Because institutions do not die only from ignorance.
-
-They die from paying tuition repeatedly for the same course.
+Learning is what the organization can stop having to relearn. Institutions die less often from ignorance than from paying tuition repeatedly for the same course.

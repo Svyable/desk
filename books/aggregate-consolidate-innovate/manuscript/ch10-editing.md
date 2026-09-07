@@ -208,6 +208,4 @@ It is valuable because room has uses.
 
 A clear interface gives the next builder somewhere to connect. A shorter process gives judgment somewhere to operate. A smaller portfolio gives investment somewhere to concentrate. A tighter argument gives the reader somewhere to think.
 
-The editor is not the enemy of creation.
-
 The editor clears the bench.

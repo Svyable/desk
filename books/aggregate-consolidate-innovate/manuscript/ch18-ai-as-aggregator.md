@@ -138,7 +138,7 @@ Aggregation without provenance creates persuasive ghosts.
 
 The more fluent the system, the harder the ghosts can be to see.
 
-This is not a reason to retreat to manual research as a moral virtue.
+That is no reason to retreat to manual research as a moral virtue.
 
 It is a reason to redesign the research stack.
 
@@ -374,10 +374,4 @@ A scientist can traverse disciplinary boundaries.
 
 A builder can find mechanisms hiding under unfamiliar nouns.
 
-The old bottleneck of access is weakening.
-
-But weakening one bottleneck exposes the next.
-
-The world has become easier to gather.
-
-Now we have to decide what it means.
+The old bottleneck of access is weakening, which mainly exposes the next: the world has become easier to gather, and now we have to decide what it means.

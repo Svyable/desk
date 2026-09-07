@@ -58,9 +58,7 @@ Where does one reserve capacity?
 
 What gets degraded gracefully, and what must never degrade?
 
-The point is not that hospitals should run like data centers.
-
-The point is that mechanisms travel farther than metaphors.
+Mechanisms travel farther than metaphors; hospitals need not run like data centers.
 
 One of the most productive habits an innovator can cultivate is asking a strange but disciplined question: where else does this problem exist?
 
@@ -112,9 +110,7 @@ The same holds inside a single mind.
 
 A person who has worked in several domains carries a private library of mechanisms. A deadline in publishing reminds them of deployment discipline in software. A customer-support problem reminds them of triage. A pricing decision reminds them of capacity markets. A narrative problem reminds them of user-interface onboarding.
 
-This is not genius in the mystical sense.
-
-It is inventory with retrieval.
+It is inventory with retrieval more than mystical genius.
 
 The more varied the inventory, the more potential collisions. The better the consolidation, the more precisely the pieces can be compared.
 
@@ -210,10 +206,4 @@ Which separate steps have become cheap enough to collapse into one?
 
 Which old idea failed for a constraint that has quietly disappeared?
 
-Innovation often enters through one of these doors.
-
-It arrives carrying luggage.
-
-That is not evidence against its originality.
-
-It is how ideas survive the trip.
+Innovation often enters through one of these doors, carrying luggage. That is how ideas survive the trip.
