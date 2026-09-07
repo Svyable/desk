@@ -7,8 +7,8 @@
 **Chapters:** 26 of 26 drafted  
 **Canonical Reader:** https://svyable.github.io/desk/reader/#/b/a-nation-in-their-wake/  
 **Formats:** Markdown manuscript · canonical Desk web reader  
-**Last major refresh:** 2026-09-06  
-**Notes:** Twenty-six-decade American history told through consequential ships, from *Bonhomme Richard* to MV *Dali*. The numbered manuscript is complete, but Shelf release remains gated on chapter-length validation, source/evidence ledgers, repository checks, and a clean publication snapshot.
+**Last major refresh:** 2026-09-07  
+**Notes:** Twenty-six-decade American history told through consequential ships, from *Bonhomme Richard* to MV *Dali*. The numbered manuscript is complete. Source and chapter-evidence ledgers are now committed. Shelf release remains gated on frozen checkout length validation, residual prose/quality review, repository `check-desk` on a local tree, and a clean publication snapshot.
 
 ## The book
 
@@ -53,8 +53,8 @@ The governing image is the wake. The hull passes. The disturbance keeps travelin
 
 - [Selection and research brief](research/README.md)
 - [Canonical book brief](research/book-brief.md)
-- Chapter evidence ledger — required before release; not yet committed
-- Structured source ledger — required before release; not yet committed
+- [x] [Chapter evidence ledger](research/chapter-evidence.md)
+- [x] [Structured source ledger](research/source-ledger.csv)
 
 The manuscript treats each selection as falsifiable. Each decade has at least one serious rival, and the research trail distinguishes the chosen ship's explanatory value from claims that it single-handedly caused the transition around it.
 
@@ -69,10 +69,10 @@ Copyright © 2026 Sven Hardy Benson. All rights reserved except as explicitly gr
 
 Before release to Sven Hardy Benson’s Shelf:
 
-1. Run `python3 scripts/check-book-length.py a-nation-in-their-wake` on a frozen Desk checkout and resolve every sub-3,000-word chapter.
-2. Commit the chapter evidence ledger and structured source ledger with checkable support for every chapter’s central claims.
-3. Remove manuscript-format residue such as automation comments or noncanonical headings.
-4. Run `python3 scripts/check-desk.py` and resolve catalog/Reader mismatches.
+1. Run `python3 scripts/check-book-length.py a-nation-in-their-wake` on a frozen Desk checkout and confirm every chapter remains ≥ 3,000 words (MCP-audited chapter-only total ≈ 80,217 after HTML-comment removal; re-verify locally).
+2. Source ledger and chapter evidence ledger are present; human-review any URL or claim flagged in review.
+3. Confirm manuscript-format residue (automation HTML comments) is gone from all `chNN-*.md` files.
+4. Run `python3 scripts/check-desk.py` on a local checkout and resolve catalog/Reader mismatches.
 5. Commit the final Desk publication snapshot before using the local `scripts/release-book.sh` flow.
 
-Desk status remains Drafting until those gates pass. Shelf publication is a separate explicit release action.
+Desk status remains **Drafting** until those gates pass on a frozen checkout. Shelf publication is a separate explicit release action.
