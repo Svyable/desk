@@ -195,3 +195,17 @@ Placement systems should be held to the same standard.
 A school that sorts students is not only reading their past.
 
 It is writing part of the dataset from which it will later claim to have understood them.
+
+There is another reason to keep placement revisable: a correction can create evidence about the first decision itself.
+
+Suppose a student is moved upward after two weeks because classroom work contradicts the original placement. The institution now has more than a successful transfer. It has a documented disagreement between an initial rule and later evidence. If those disagreements are recorded systematically, they reveal where the placement process is brittle: which score ranges, prior schools, course combinations, or forms of evidence produce decisions that are most often revised.
+
+That information should not be treated as embarrassment to be cleaned out of the record.
+
+A reversal is a label on the gate.
+
+The same is true when a student moves downward without penalty. A flexible system can distinguish a reasonable uncertain placement from a stubbornly wrong one. What matters is whether the institution learns which uncertainties deserve more support, a different diagnostic, or a wider initial action set.
+
+Correction therefore does two jobs. It protects the student from an early mistake, and it teaches the institution where its confidence was misplaced.
+
+A placement system that never records its reversals throws away some of its most useful evidence.
