@@ -2,17 +2,29 @@
 
 ## Scope
 
-This bounded pass addresses one of the largest concrete defects from the last literal `scripts/check-book-length.py the-other-250` run: Chapter 11, `manuscript/ch11-the-government-starts-watching-the-sky.md`, was **2,279 words**, **721 words below** the repository's 3,000-word numbered-chapter floor.
+This bounded remediation series addresses the largest concrete defects from the last literal `scripts/check-book-length.py the-other-250` run. That run found 21 numbered chapters below the repository's 3,000-word floor while the chapter-only corpus already cleared the 65,000-word book minimum.
 
-The chapter is deepened with **768 net words** under the exact checker token expression, `\b[\w’'-]+\b`. The addition develops the existing public-information-infrastructure argument through longitudinal continuity, measurement provenance, archive option value, institutional trust, uncertainty communication, and the ability to re-read observations as knowledge improves. It introduces no new named source, dated statistic, quotation, policy date, vendor metric, or other volatile empirical claim.
+### Chapter 11 — closed
 
-Because the change is append-only, the exact prior literal count plus the exact additive delta yields a current Chapter 11 count of **3,047 words**, clearing this specific floor by 47 words.
+Chapter 11, `manuscript/ch11-the-government-starts-watching-the-sky.md`, was **2,279 words**, **721 words below** the floor.
+
+The chapter was deepened with **768 net words** under the exact checker token expression, `\b[\w’'-]+\b`. The addition develops the existing public-information-infrastructure argument through longitudinal continuity, measurement provenance, archive option value, institutional trust, uncertainty communication, and the ability to re-read observations as knowledge improves. It introduces no new named source, dated statistic, quotation, policy date, vendor metric, or other volatile empirical claim.
+
+Because the change was append-only, the exact prior literal count plus the exact additive delta yields a current Chapter 11 count of **3,047 words**, clearing this specific floor by 47 words.
+
+### Chapter 22 — closed
+
+Chapter 22, `manuscript/ch22-a-navigation-error-becomes-a-public-utility.md`, was **2,321 words**, **679 words below** the floor on the same literal baseline.
+
+The chapter is now deepened with **770 net words** under the exact checker token expression, `\b[\w’'-]+\b`. The addition stays inside the existing GPS-as-public-infrastructure argument: it develops common-reference dependence, the economics of experimentation on a government-maintained platform, continuity responsibility, resilience tradeoffs, and the difference between technical possibility and durable institutional permission. It introduces no new named source, quotation, dated statistic, or claim that changes the chapter's existing factual horizon.
+
+Because this change is append-only against a chapter with no intervening manuscript edit, the exact prior literal count plus the exact additive delta yields a current Chapter 22 count of **3,091 words**, clearing this specific floor by 91 words.
 
 ## Release effect
 
-This closes **one** of the 21 sub-3,000-word chapter defects recorded by the September 6 literal checker. It does **not** clear the title for Shelf publication. Twenty numbered chapters remain below 3,000 words on that last literal baseline and require substantive deepening rather than padding.
+These passes close **two** of the 21 sub-3,000-word chapter defects recorded by the September 6 literal checker. **Nineteen numbered chapters remain below 3,000 words on that literal baseline** and require substantive deepening rather than padding.
 
-The chapter-only corpus was already **68,901 words**, above the 65,000-word book minimum, before this pass. The controlling mechanical debt is therefore the remaining per-chapter floors.
+The chapter-only corpus was already **68,901 words**, above the 65,000-word book minimum, before either pass. The controlling mechanical debt is therefore the remaining per-chapter floors.
 
 Before publication, after all remaining chapter deficits are remediated, freeze one committed Desk source and require:
 
