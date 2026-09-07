@@ -237,3 +237,17 @@ The strange option does not need universal support.
 It needs one credible route to evidence.
 
 When every route demands prior proof, the future becomes a place where only yesterday can qualify.
+
+There is also a recovery problem after the institution decides that an unusual option is not worth exploring.
+
+A rejected proposal can improve. A small market can grow. A technical constraint can disappear. A candidate can acquire a skill that changes the relevant comparison. If the first negative judgment becomes permanent, the institution is not merely exploiting old evidence. It is preventing new evidence from changing the category.
+
+This is why some doors need a way to reopen.
+
+The reopening rule does not have to be generous. It can require a changed fact: a new prototype, independent replication, stronger demand, a different team, a lower cost, a new credential, or evidence from another institution. The point is to identify what would make yesterday's rejection newly informative rather than asking the same committee to reconsider the same file indefinitely.
+
+A closed door with a stated reopening condition is different from a closed door with no memory.
+
+The first says what evidence could matter next. The second converts a provisional judgment into a permanent absence.
+
+Discovery depends not only on trying enough strange things. It depends on allowing reality to make some of them less strange over time.
