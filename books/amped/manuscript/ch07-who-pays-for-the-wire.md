@@ -299,3 +299,133 @@ Thirty years from now, nobody should have to reconstruct the bargain from a pres
 The wire will still be there.
 
 The reasons for building it should survive too.
+
+Cancellation is where this reasoning stops being academic.
+
+A project can fail before construction starts, after equipment is ordered, after a substation is half built, or after the transmission line is energized but before the campus reaches its promised load. Those are different failures because the utility has crossed different points of no return.
+
+The tariff should know the difference.
+
+A deposit that is adequate when the utility has spent only on studies may be meaningless after transformers are ordered and rights-of-way acquired. A fixed exit fee established at application can become detached from the actual exposure as the project advances.
+
+The financial commitment should therefore mature with the physical commitment.
+
+When the utility crosses a milestone that creates a harder-to-reverse cost, the customer can cross a corresponding milestone in collateral, minimum billing, or termination liability. The two schedules do not have to be identical, but they should recognize the same fact: optionality is disappearing on both sides.
+
+This is the cancellation waterfall.
+
+At the beginning, the customer can walk away cheaply because little has been built around it.
+
+Later, walking away becomes more expensive because other customers would otherwise inherit sunk cost.
+
+After the asset enters service, the problem changes again. Some infrastructure may be transferable to other users. Some may remain valuable to the grid. Some may be stranded almost completely.
+
+That transferability should reduce the amount charged to the departing customer where it is real.
+
+If a data center paid for a line and another large customer uses the capacity three years later, the system has learned something the original allocation could not know. A rigid rule that ignores the new beneficiary can become as unfair as one that ignored the first cost causer.
+
+This suggests a principle that rate design often resists because it prefers closure.
+
+Some allocations should be revisited when the beneficiary map changes materially.
+
+Not every year.
+
+Not every time flows shift slightly.
+
+But at defined reconciliation points.
+
+The first new user arrives.
+
+The initiating customer cancels.
+
+A regional project originally justified as customer-specific becomes part of a broader transmission plan.
+
+The asset reaches a utilization threshold that shows whether the original forecast was conservative or inflated.
+
+At those moments, the regulator can ask whether the original bargain is still carrying the risk it was designed to carry.
+
+This is not retroactive punishment.
+
+It is recognition that a thirty-year asset can outlive the facts used to allocate its first invoice.
+
+The same idea can protect the data center.
+
+A first mover should not necessarily finance permanent spare capacity for later competitors simply because it was the first credible project in the queue. If its commitment made a larger shared project prudent, later users can contribute when they arrive. The initiating customer paid for certainty when certainty was scarce. It should not always pay for every benefit created afterward.
+
+That is why a well-designed contribution can behave more like infrastructure equity than a one-way fee.
+
+The customer puts real money at risk early.
+
+The grid gets enough confidence to build.
+
+Later beneficiaries can reduce the first mover's burden if the asset becomes demonstrably shared.
+
+The mechanism does not have to make the customer a legal owner of the line. It just has to preserve the economic fact that early commitment created value for later users.
+
+There is a second failure mode at the opposite end.
+
+A utility can overstate transferability.
+
+A giant substation beside a remote campus may technically be usable by somebody else and practically have no plausible second customer. A line sized for a hyperscale cluster may have little value if the cluster never materializes. Declaring an asset “system useful” because power can physically flow through it is not the same as showing that customers would have paid to build it absent the failed load.
+
+Useful is not binary.
+
+The question is how much of the investment remains economically justified under the world that actually arrived.
+
+That can require uncomfortable accounting.
+
+A line may be twenty percent stranded rather than one hundred percent stranded.
+
+A substation may be overbuilt but still useful.
+
+A transformer may be redeployed.
+
+A corridor may retain option value even while the original demand forecast collapses.
+
+Those partial outcomes matter because stranded cost often hides inside assets that still operate.
+
+The image of a stranded asset as abandoned equipment is too simple.
+
+The more common problem may be a perfectly functioning line that customers are paying for earlier, larger, or in a different place than hindsight says was necessary.
+
+This is where cost causation becomes a problem of **counterfactual capital**.
+
+What would the system have built without this customer?
+
+When would it have built it?
+
+How large would it have been?
+
+Which parts of the actual project would still exist?
+
+The answers will always involve judgment.
+
+That does not make the questions optional.
+
+Avoiding the counterfactual simply hides it inside an average rate.
+
+Data centers are large enough that the hidden assumption becomes expensive.
+
+A mature large-load tariff should therefore do four things at once.
+
+It should charge for reservation before consumption.
+
+It should increase customer commitment as utility commitment becomes irreversible.
+
+It should distinguish dedicated cost from acceleration cost and broad system benefit.
+
+And it should contain a reconciliation rule for the moment when the actual beneficiary map becomes clearer than the forecast.
+
+That is more complicated than a cheap industrial rate.
+
+It is also more honest.
+
+The data-center customer wants certainty about power.
+
+Existing customers want certainty that somebody else's ambition will not become their stranded bill.
+
+The utility wants enough certainty to order equipment before every future fact is known.
+
+Cost allocation is the contract among those three uncertainties.
+
+The wire is what gets built after they agree who is allowed to be wrong.
