@@ -8,7 +8,7 @@
 | **Status** | Drafting |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
-| **Chapters** | 4 of 18 drafted + prologue |
+| **Chapters** | 5 of 18 drafted + prologue |
 | **Edition** | First field edition candidate |
 | **Language** | English |
 
@@ -26,7 +26,7 @@ The first field edition publishes the argument and opening research path while t
 - [x] [Ch 2 — Alignment by Issue](manuscript/ch02-alignment-by-issue.md)
 - [x] [Ch 3 — The Sources of Leverage](manuscript/ch03-the-sources-of-leverage.md)
 - [x] [Ch 4 — India and the Refusal to Be Recruited](manuscript/ch04-india-and-the-refusal-to-be-recruited.md)
-- [ ] [Ch 5 — The Gulf as a Capital Power](manuscript/ch05-the-gulf-as-a-capital-power.md)
+- [x] [Ch 5 — The Gulf as a Capital Power](manuscript/ch05-the-gulf-as-a-capital-power.md)
 - [ ] [Ch 6 — Indonesia and the Maritime Middle](manuscript/ch06-indonesia-and-the-maritime-middle.md)
 - [ ] [Ch 7 — Turkey at the Hinge](manuscript/ch07-turkey-at-the-hinge.md)
 - [ ] [Ch 8 — Brazil and the Politics of Distance](manuscript/ch08-brazil-and-the-politics-of-distance.md)
