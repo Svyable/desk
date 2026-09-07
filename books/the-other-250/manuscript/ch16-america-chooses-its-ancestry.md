@@ -211,3 +211,61 @@ It turned ancestry into allocation, allocation into bureaucracy, and bureaucracy
 Forty-one years later, another Congress would choose differently.
 
 By then, the country being changed by the new law had already been shaped by the old one.
+
+There is a second reason the 1924 law matters beyond the number of admissions it denied. It trained the federal government to treat population composition as an object that could be engineered through categories.
+
+That sounds abstract until one notices how much administrative power rests inside a category. A statute can say that people from one place belong in one quota and people from another place belong in another. A census can supply the denominator. A consulate can decide which documents establish nationality. A clerk can translate a complicated family history into a box on a form. Each step looks procedural. Together they decide which identities have legal consequences.
+
+The machinery does not need to hate anyone in order to reproduce the hierarchy written into its rules.
+
+That is one of the durable lessons of Johnson-Reed. Prejudice became more powerful when it stopped depending on a prejudiced encounter and became part of an ordinary workflow. The decision could be distributed across statutes, tables, visa numbers, certificates, consular offices, inspectors, and waiting lists. No single official had to reargue the theory of national origins each morning. The classification system carried the theory forward.
+
+This is how controversial political choices become normal administration.
+
+Once that happens, repeal becomes harder than changing opinion. An institution has forms, staffing, databases, precedents, offices, professional habits, constituencies, and expectations built around the existing rule. People learn how to navigate it. Employers adapt to it. Families plan around it. Politicians discover which parts of it are popular. The system acquires defenders who may care less about the original ideology than about the stability of the arrangement that ideology produced.
+
+A durable policy therefore has two lives. There is the argument that creates it, and there is the administrative world that grows up after the argument has faded.
+
+The national-origins system survived long enough to enter that second life.
+
+This helps explain why demographic policy can outlast the coalition that first enacted it. The people who wrote a restriction may disappear from office. The language used to justify it may become embarrassing. Yet the quotas can remain because the burden of action has shifted. Keeping the system requires no new national decision. Replacing it does.
+
+Inertia favors the law already translated into procedure.
+
+The same feature makes baselines unusually important. A baseline is often presented as a technical starting point, but the choice of starting point can carry an entire political judgment. Which year counts as representative? Which population is treated as the reference America? Which distinctions are preserved in the table? Which are ignored?
+
+After the table exists, later administrators can say they are merely applying it.
+
+That is the quiet power of arithmetic in public policy. Numbers can clarify a choice, but they can also hide where the choice was made.
+
+The quota formula did not discover an objective American ethnic composition that immigration policy was required to preserve. Congress selected a historical population and gave that selection legal force. Once encoded, the result could look less like an argument about belonging and more like a calculation.
+
+The calculation was political all the way down.
+
+That matters for the book's larger claim about overlooked hinges. Wars and elections announce that history is happening. Administrative categories rarely do. They enter through schedules, definitions, filing rules, eligibility tests, and institutional routines. Yet those routines can govern millions of individual decisions for decades.
+
+The effects accumulate quietly because the unit of action is small.
+
+One denied visa does not visibly change a nation. Neither does one approved visa. But a rule applied year after year changes who can build a life inside the country and who must build it somewhere else. It changes which relatives can later sponsor relatives, which neighborhoods acquire enough population to sustain institutions, which employers develop recruiting networks, and which political constituencies eventually exist.
+
+This is demographic compounding through administration.
+
+It also complicates the language of assimilation. Restrictionists often argued that fewer arrivals would give the country time to absorb people already present. But assimilation is not a neutral process occurring after immigration policy has finished its work. The policy changes the conditions under which assimilation happens.
+
+A community that continues receiving newcomers can preserve language, newspapers, religious institutions, businesses, political organizations, and transnational ties differently from one whose migration channel has been sharply narrowed. Children grow up inside different social densities. Marriages occur inside different pools. Institutions either replenish themselves or slowly become heritage organizations.
+
+Restriction therefore changes not only how many people enter but how the people already inside become American.
+
+That is another reason the later acceptance of once-disfavored European groups should not be read as proof that the earlier fears simply dissolved on their own. Time mattered. Schooling mattered. Military service, labor, suburbanization, intermarriage, politics, economic mobility, and changing racial boundaries mattered. So did the legal interruption of the migration patterns that had made those groups seem perpetually new.
+
+The country changed the flow and then watched the stock assimilate.
+
+By the time lawmakers dismantled the national-origins quotas, the social world that made repeal possible had been partly produced by the restriction itself. That does not make repeal inevitable or restriction self-correcting. It means institutions alter the electorate and social landscape that later judge them.
+
+Policy creates some of the conditions of its own revision.
+
+That is a more unsettling form of path dependence than simple bureaucratic inertia. The law does not merely persist because offices are slow to change. It helps shape the population, interests, memories, and identities that will decide whether change is desirable.
+
+The immigration system was therefore never only a gate at the edge of the country.
+
+It was one of the mechanisms by which the country decided who would be present to argue about the next gate.
