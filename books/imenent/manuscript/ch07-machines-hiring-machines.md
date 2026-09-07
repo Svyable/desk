@@ -546,6 +546,14 @@ Recoverability may require more than another model.
 
 It may require portable authority, portable reputation, portable records, and counterparties willing to accept the fallback.
 
+A useful audit therefore has to follow two maps at once. The first is the authority graph: which actor may bind which principal, which descendants inherit what permissions, and where revocation must propagate. The second is the obligation graph: which actions have already escaped into the world as contracts, payments, subscriptions, shipments, credentials, disclosures, or records on which somebody else may reasonably rely.
+
+Those maps diverge the moment an agent finishes a task whose consequences continue. Revoking the credential that placed an order does not cancel the order. Killing the procurement agent does not make the supplier forget the contract. Replacing the parent model does not automatically tell a bank, marketplace, or counterparty that the old delegate no longer speaks for the firm.
+
+That is why re-entry requires reconstruction, not merely shutdown. A human taking back control needs to know what is still live, what can be cancelled, what must be honored, and which outsiders need an authoritative notice that the chain of delegation has changed. The evidence also has to survive revocation. A system that deletes the only useful audit trail when it terminates an agent has made stopping easier by making settlement harder.
+
+This is also where machine delegation can outperform its human equivalent. If mandates, delegation edges, expenditures, data transfers, commitments, and termination events are durably recorded outside the production agent stack, the temporary institution may be easier to reconstruct than a human organization whose authority lived in inboxes, calls, and memory. The risk is not delegation itself. It is an architecture in which expansion is automatic while reconstruction remains bespoke.
+
 The global form of this phenomenon is easy to imagine without science fiction.
 
 Millions of organizations deploy agents.
