@@ -8,7 +8,7 @@ Diplomats read local newspapers, met officials, attended receptions, traveled, c
 
 That monopoly is gone.
 
-A desk officer thousands of miles away can watch local television, search social media, read translated documents, inspect commercial satellite imagery, follow ship movements, analyze financial data, search corporate registries, compare parliamentary records, and use AI to summarize streams of public information.
+A desk officer thousands of miles away can watch local television, search social media, read translated documents, inspect commercial satellite imagery, follow ship movements, analyze financial data, search corporate registries, compare parliamentary records, and use AI to summarize enormous streams of public information.
 
 The capital can see the field.
 
@@ -20,25 +20,27 @@ The wrong answer is that the embassy becomes less necessary because information 
 
 Abundant information changes the embassy’s comparative advantage.
 
-It moves from collection toward interpretation, access, verification, and relationship-based sensing.
+It moves from collection toward interpretation, access, verification, implementation sensing, and relationship-based political intelligence.
 
-The distinction is easy to state.
+The mission becomes less valuable for telling headquarters what happened.
 
-It is harder to operationalize.
+It becomes more valuable for explaining what the visible event means inside the political system that produced it.
+
+## Public abundance changes the scarce variable
 
 Headquarters can see that a minister gave a speech.
 
-The embassy may know why the minister gave it, who wrote it, which faction opposed it, how business leaders interpreted it, and whether the language reflects a real policy change or domestic positioning.
+The embassy may know why the minister gave it, who wrote it, which faction opposed it, which phrase was inserted at the last moment, and whether the language reflects a real policy change or domestic positioning.
 
 Headquarters can see a protest.
 
-The embassy may know which organizations are participating, which are absent, whether local officials are worried, which slogans are tactical, and how the event fits into a longer political pattern.
+The embassy may know which organizations are participating, which are absent, whether local officials are worried, which slogans are tactical, and how the event fits into a longer institutional pattern.
 
 Headquarters can read every public statement.
 
 The embassy can ask questions.
 
-That last capability becomes more valuable as AI makes public information easier to process.
+That last capability becomes more valuable as AI makes public information cheaper to process.
 
 When everybody can read the statement, the scarce information is often the answer to the follow-up.
 
@@ -48,7 +50,7 @@ How serious is this?
 
 What would change your position?
 
-Who inside the government disagrees?
+Who disagrees?
 
 Which part is negotiable?
 
@@ -56,29 +58,89 @@ Which part is for domestic consumption?
 
 Which promise can actually be implemented?
 
-These questions require access.
+That is not romantic diplomacy.
 
-Access is not a database.
+It is access to political interpretation.
 
-It is a relationship that makes another human willing to clarify something that remains ambiguous in public.
+## The embassy should stop competing with the internet
 
-This can sound romantic.
+A mission that spends scarce human time reproducing information headquarters can retrieve automatically is misallocating its comparative advantage.
 
-It is operational.
+Daily press summaries.
 
-A government deciding whether another state is preparing to change policy may have thousands of public indicators and still need one conversation to understand which indicators matter.
+Routine biographies.
 
-That conversation can be wrong.
+Mechanical document comparison.
 
-The source can mislead.
+Basic statistics available in public databases.
 
-The diplomat can misinterpret.
+Transcription.
 
-Human access does not eliminate uncertainty.
+Standard translations.
 
-It creates a different kind of evidence.
+These tasks may still need quality control.
 
-That evidence is valuable because its failure modes differ from the failure modes of open-source data.
+They should not define the human workload.
+
+Every task automated at post should create an explicit follow-up question:
+
+**What higher-value human activity receives the saved time?**
+
+If the answer is nothing, productivity becomes headcount reduction rather than diplomatic capability.
+
+That may be appropriate in some posts.
+
+In strategically important missions, it can be a poor trade.
+
+## Build an access portfolio
+
+The embassy’s most important intelligence asset is not a list of contacts.
+
+It is an **access portfolio**.
+
+Which relationships provide insight into political leadership?
+
+Which reach implementation bureaucracies?
+
+Which reach security institutions?
+
+Which reach opposition parties, local government, business, labor, civil society, academia, technical communities, and regional actors?
+
+Which sources overlap?
+
+Which are independent?
+
+Which disappear if one diplomat rotates?
+
+Which are active only in routine time and which remain usable during crisis?
+
+A mission can have hundreds of contacts and still have a narrow portfolio if they all reflect the same institution or social class.
+
+Access diversity is a resilience property.
+
+## Measure relationship concentration
+
+A mission should know whether its insight depends too heavily on a few people.
+
+This can be measured through **relationship concentration**.
+
+How much of the embassy’s distinctive reporting depends on its top five relationships?
+
+How many important institutions have only one trusted route?
+
+Which relationships are personal rather than institutional?
+
+What happens when an officer leaves or a source loses position?
+
+The goal is not to commoditize relationships.
+
+It is to see fragility before a crisis exposes it.
+
+A post whose political intelligence collapses after one rotation has not built institutional access.
+
+It has borrowed personal access.
+
+## Access produces evidence with different failure modes
 
 A social-media trend can be manipulated at scale.
 
@@ -88,249 +150,108 @@ A market signal can reflect rumor.
 
 A speech can be written for several audiences.
 
-A confidential conversation can also be deceptive, but it enters the picture through a different channel.
+A confidential conversation can also deceive.
+
+Human access does not eliminate uncertainty.
+
+It creates evidence that fails differently.
+
+That difference is strategically useful.
 
 Independent failure modes create resilience.
 
-This is why the embassy should not become a human wrapper around an open-source dashboard.
+The embassy should therefore function as an **out-of-band sensor** for political meaning.
 
-It should become the node that adds forms of knowledge the dashboard cannot produce cheaply.
+Not a replacement for OSINT.
 
-The most important of those forms is context.
+A source of evidence that can challenge the conclusions generated from high-volume public data.
 
-Context is often described vaguely.
+## Build a field-center contradiction lane
 
-It can be made more precise.
+The capital and field should be expected to disagree sometimes.
 
-Institutional context.
+Headquarters sees a cross-country pattern.
 
-Which ministry owns the policy?
+The embassy says the local case is different.
 
-Which official can block it?
+Headquarters sees online outrage.
 
-Which committee actually writes the decision?
+The embassy says institutions are calm.
 
-Political context.
+Headquarters sees a policy announcement.
 
-Which constituency is the leader managing?
+The embassy says implementation is unlikely.
 
-Which election, scandal, faction, or economic pressure shapes the language?
+The system needs a **contradiction lane** that makes those differences visible rather than smoothing them into one synthesized briefing.
 
-Historical context.
+For important disagreements, record:
 
-Which phrase carries meaning because it has been used before?
+- what the center sees;
+- what the field sees;
+- which evidence differs;
+- which assumptions differ;
+- what observation would resolve the disagreement;
+- how long the disagreement can remain open before a decision is required.
 
-Which promise remains alive in private even though it disappeared from public documents?
+This turns friction into analytic value.
 
-Relational context.
+## Context can be operationalized
 
-Who trusts whom?
+Context is often invoked as a vague defense of diplomatic craft.
 
-Which official can speak candidly to which foreign counterpart?
+It can be broken into specific forms.
 
-Commercial context.
+**Institutional context:** which ministry owns the policy, which official can block it, which committee actually writes the decision.
 
-What are firms actually doing despite what the government says?
+**Political context:** which constituency, faction, election, scandal, or economic pressure shapes the language.
 
-Social context.
+**Historical context:** which phrase carries meaning because it has been used before, which private promise remains alive despite disappearing from public text.
 
-Which issue looks large online but narrow in real institutions?
+**Relational context:** who trusts whom and which channel remains usable under stress.
 
-Which issue looks quiet publicly but is becoming dangerous privately?
+**Commercial context:** what firms are doing despite public policy language.
 
-AI can retrieve fragments of all of these.
+**Social context:** which issue looks large online but narrow in real institutions, and which issue looks quiet publicly but dangerous privately.
 
-The embassy can integrate them through presence.
+The embassy’s comparative advantage lies in integrating these low-frequency signals through presence.
 
-Presence means more than being physically located in a capital.
+## Presence creates a local baseline
 
-It means being embedded in the rhythm of the place.
+Presence is more than location.
+
+It is exposure to the rhythm of the place.
 
 Knowing which meeting mattered because the usual person did not attend.
 
 Knowing that a ministry’s silence is unusual.
 
-Knowing that the business community believes an announced reform will not be implemented.
+Knowing that an announced reform will not be implemented because the bureaucracy has quietly stopped preparing for it.
 
 Knowing that a public insult is ritual rather than escalation.
 
-Knowing that a small procedural change will have large political consequences.
+Knowing that a minor procedural change will have large consequences.
 
-These are low-frequency signals.
+These observations depend on a **local baseline**.
 
-They rarely dominate a dataset.
+The mission should preserve that baseline explicitly enough that it survives rotation.
 
-They can dominate a decision.
+What is normal attendance?
 
-This is where AI creates a paradox.
+Normal delay?
 
-The better headquarters becomes at processing high-volume information, the more it may overvalue high-volume information.
+Normal rhetoric?
 
-What can be measured becomes what can be briefed.
+Normal access?
 
-What can be put on a dashboard becomes what appears objective.
+Normal bureaucratic resistance?
 
-Human reporting arrives as prose.
+The difference between anomaly and noise depends on knowing normal.
 
-It contains caveats.
+## Build an implementation map
 
-It often depends on sources who cannot be named broadly.
+Open sources are strongest at announcements.
 
-It may sound less precise than a model output.
-
-That presentation difference can become an epistemic bias.
-
-The center may trust the quantified signal because it looks systematic.
-
-The field may be correct because it knows the system generating the signal.
-
-The institution needs a way to compare these forms of evidence without automatically privileging either.
-
-This suggests a new role for diplomatic reporting.
-
-Not compete with OSINT.
-
-Annotate it.
-
-Headquarters sees a pattern.
-
-The embassy explains what local actors think the pattern means.
-
-Headquarters sees a statement change.
-
-The embassy identifies whether the change is institutionally meaningful.
-
-Headquarters sees economic stress.
-
-The embassy reports which political coalition is absorbing the cost.
-
-Headquarters sees a spike in online hostility.
-
-The embassy distinguishes genuine public anger from coordinated amplification.
-
-The field report becomes a layer over the shared public picture.
-
-That is more efficient than reproducing the picture from scratch.
-
-AI can support the process.
-
-A diplomat preparing for a meeting can retrieve every prior conversation with the official, compare public statements over time, identify unresolved commitments, review relevant trade data, and generate questions that test contradictions.
-
-Afterward, the system can compare the new conversation with the previous record and flag changes.
-
-This can make one officer more observant.
-
-It can also create false memory.
-
-A machine summary can flatten the tone of a conversation.
-
-It can mistake a sarcastic aside for a commitment.
-
-It can overemphasize repeated language because repetition is easy to detect.
-
-It can make an informal comment appear equivalent to an official statement.
-
-The diplomat should therefore use AI to organize memory, not substitute for memory.
-
-The original reporting and the human annotation still matter.
-
-This is especially important because diplomatic intelligence is often about sequence.
-
-A statement matters because of what came before it.
-
-A source’s confidence matters because the source was previously cautious.
-
-A minister’s refusal matters because the minister previously left the door open.
-
-A phrase becomes important because it disappears.
-
-AI is good at comparison.
-
-The human must decide which difference is politically meaningful.
-
-The embassy can also become a verification node.
-
-Synthetic media makes this function more important.
-
-A video appears to show a local official making an inflammatory statement.
-
-Headquarters can run technical checks.
-
-The embassy can call the office.
-
-A social-media account claims a border crossing has closed.
-
-The embassy can contact local authorities, companies, or partners nearby.
-
-A rumor circulates that a minister has resigned.
-
-The embassy can test the rumor against relationships before the government acts on it.
-
-This does not make the field infallible.
-
-It gives the state an out-of-band channel.
-
-Verification is strongest when channels are independent.
-
-The embassy becomes one of those channels.
-
-This can be critical in crisis.
-
-When digital information becomes saturated with synthetic claims, access to a known human institution acquires strategic value.
-
-The same applies in reverse.
-
-The embassy is not only a sensor for headquarters.
-
-It is a trusted transmitter to the host government.
-
-A crisis message can be sent through formal channels and reinforced through a known diplomat.
-
-The diplomat can confirm that the message is authorized.
-
-Can explain which part is flexible.
-
-Can hear the immediate reaction.
-
-Can notice whether the counterpart is confused or angry.
-
-Can clarify before the misunderstanding hardens.
-
-This is the human-channel argument operating at mission level.
-
-Digital speed increases the value of authenticated human presence at the point where interpretation becomes political.
-
-The embassy also sees institutions that open sources see poorly.
-
-Middle layers.
-
-Deputy ministers.
-
-Regulators.
-
-Military staffs.
-
-Provincial leaders.
-
-State-owned enterprises.
-
-Unions.
-
-Professional associations.
-
-Local political operators.
-
-These actors often determine implementation.
-
-A leader can announce policy.
-
-The bureaucracy decides what policy becomes.
-
-OSINT can observe the announcement instantly.
-
-The embassy may be better positioned to judge execution.
-
-This matters because foreign policy repeatedly mistakes public intent for operational capacity.
+Embassies can be strongest at implementation.
 
 The host government says it will build.
 
@@ -346,19 +267,207 @@ Which regulator has authority?
 
 It promises military access.
 
-Which local community can block the base expansion?
+Which local community, court, ministry, or budget process can block the plan?
 
-The embassy should become expert in the implementation chain.
+For consequential policies, missions should maintain an **implementation map**.
 
-That expertise is valuable precisely because headquarters can already read the policy statement.
+Decision authority.
 
-This changes staffing.
+Funding path.
 
-Foreign services built for information scarcity may rotate officers broadly to spread experience and maintain generalist careers.
+Legal authority.
 
-Open-source abundance strengthens the case for deeper local specialization in selected posts.
+Bureaucratic owner.
 
-If the machine can handle more transferable tasks, humans can invest more in non-transferable knowledge.
+Operational bottleneck.
+
+Local veto points.
+
+Commercial dependencies.
+
+Expected timeline.
+
+This helps headquarters distinguish political intent from operational capacity.
+
+## Diplomatic reporting should annotate the common picture
+
+The field no longer needs to recreate the public evidence base from scratch.
+
+Headquarters and embassy can begin from a common machine-assisted picture.
+
+The mission then adds annotation.
+
+Which indicator matters locally?
+
+Which is misleading?
+
+Which source is politically consequential?
+
+Which institution is missing from the public story?
+
+Which public change is cosmetic?
+
+Which quiet change is real?
+
+This division of labor is more efficient and more defensible than having every post produce its own miniature information universe.
+
+The center brings scale.
+
+The field brings situated interpretation.
+
+## Use AI as meeting preparation, not meeting replacement
+
+AI can retrieve every prior conversation with an official, compare public statements, identify unresolved commitments, summarize trade or security data, and generate questions that test contradictions.
+
+After the meeting, it can compare the new conversation with the record and flag changes.
+
+That can make one officer more observant.
+
+It can also create false memory.
+
+A machine summary can flatten tone.
+
+Mistake sarcasm for commitment.
+
+Treat an informal aside like an official position.
+
+Overweight repeated language because repetition is easy to detect.
+
+The system should therefore preserve a **conversation provenance chain**.
+
+Original notes.
+
+Human interpretation.
+
+Machine summary.
+
+Later analytical use.
+
+Those layers should remain distinguishable.
+
+## The most important signal may be a change in source behavior
+
+Diplomatic intelligence is often sequential.
+
+A source’s confidence matters because the source was previously cautious.
+
+A minister’s refusal matters because the minister previously left the door open.
+
+A phrase becomes important because it disappears.
+
+An official suddenly requests a private meeting after months of routine contact.
+
+A previously reliable interlocutor begins speaking in slogans.
+
+These changes can be more informative than the content itself.
+
+The mission should track **relationship deltas**.
+
+Change in access.
+
+Change in candor.
+
+Change in response time.
+
+Change in topic avoidance.
+
+Change in willingness to carry messages.
+
+These are political indicators that large public datasets often miss.
+
+## Verification becomes a core embassy function
+
+Synthetic media increases the value of independent verification.
+
+A video appears to show an official making an inflammatory statement.
+
+Headquarters can run technical checks.
+
+The embassy can call the office.
+
+A rumor says a crossing has closed.
+
+The embassy can contact authorities, firms, or partners nearby.
+
+A claim circulates that a minister resigned.
+
+The mission can test it through relationships before policy reacts.
+
+This does not make the field infallible.
+
+It gives the state an **out-of-band verification channel**.
+
+The value rises when digital information environments become contaminated.
+
+## Measure verification latency
+
+A mission should know how quickly it can verify high-consequence claims.
+
+Call this **verification latency**.
+
+How long from headquarters request to reliable local confirmation or disconfirmation?
+
+Which claims can be checked through one route?
+
+Which require several independent routes?
+
+Which institutions become unreachable outside working hours?
+
+Which technical systems help and which relationships matter more?
+
+This turns “presence” into a measurable crisis capability.
+
+## The embassy is also an authenticated transmitter
+
+The mission is not only a sensor for headquarters.
+
+It is a channel to the host government.
+
+A crisis message can be sent through formal systems and reinforced through a known diplomat.
+
+The diplomat can confirm that the message is authorized.
+
+Clarify what is flexible.
+
+Hear the immediate reaction.
+
+Notice confusion or anger.
+
+Correct misunderstanding before it hardens.
+
+Digital speed increases the value of authenticated human presence at the point where interpretation becomes political.
+
+This is not nostalgia.
+
+It is a communication redundancy with different failure modes from digital channels.
+
+## Build a crisis-channel portfolio
+
+A mission should know which human channels remain usable under different conditions.
+
+Formal ambassadorial route.
+
+Foreign-ministry working level.
+
+Military attaché channel.
+
+Leader-level intermediary.
+
+Commercial or technical contact.
+
+Third-country intermediary.
+
+Emergency consular or security channels.
+
+The purpose is not to create secret diplomacy everywhere.
+
+It is to avoid discovering in crisis that the only trusted relationship is unavailable.
+
+The **crisis-channel portfolio** should be exercised as carefully as technical communications redundancy.
+
+## Longer tours can create strategic capital
+
+If machines handle more transferable tasks, human value moves toward non-transferable knowledge.
 
 Language.
 
@@ -370,154 +479,154 @@ Sector expertise.
 
 Local political memory.
 
-Longer tours can become more valuable because the marginal value of the officer shifts from knowing facts to knowing patterns among people.
-
-This does not mean every diplomat should spend a decade in one country.
-
-It means rotations should account for the value of accumulated trust rather than assuming information can be handed over cleanly in a cable archive.
+This strengthens the case for longer assignments in selected posts.
 
 Relationships do not transfer like documents.
 
-The new officer may inherit the notes.
+The new officer can inherit the notes.
 
 They do not inherit the source’s willingness to speak.
 
-The embassy of the future should therefore be smaller only if it becomes denser.
+The relevant question is not whether every tour should be longer.
 
-Denser in expertise.
+It is where **relationship half-life** is strategically valuable enough that rotation cost should be priced explicitly.
 
-Denser in relationships.
+## Measure handover loss
 
-Denser in technical ability.
+Foreign services can track **handover loss**.
 
-Denser in institutional memory.
+What percentage of a post’s distinctive access survives officer rotation?
 
-Denser in its ability to verify and interpret.
+How long until the new officer restores equivalent relationships?
 
-A smaller mission that merely automates its old reporting may save money while losing influence.
+Which institutional insights disappear because they lived in tacit memory?
 
-A smaller mission that uses AI to eliminate low-value administrative work and reinvests the human time in access can become more capable.
+Which sources cease speaking?
 
-The distinction is organizational strategy.
+If handover loss is high in a critical post, the service should consider longer tours, overlap periods, or more deliberate relationship institutionalization.
 
-Technical literacy becomes part of diplomatic tradecraft.
+This turns a career-management decision into a strategic capability decision.
 
-An officer does not need to be a machine-learning engineer.
+## A smaller embassy should become denser, not merely thinner
 
-The officer should understand provenance.
+Automation can justify smaller missions.
 
-Synthetic media.
+It can also justify more capable ones.
 
-Cyber compromise.
+The question is what the remaining humans do.
 
-Data bias.
+A strong post becomes denser in expertise, relationships, technical literacy, verification ability, implementation knowledge, and institutional memory.
 
-Model uncertainty.
+A weak post automates routine reporting and simply removes people until no one has time to cultivate the scarce forms of insight machines cannot cheaply generate.
 
-Open-source collection methods.
+The difference is organizational strategy.
 
-The difference between a verified image and a verified interpretation.
+## Technical literacy becomes diplomatic tradecraft
+
+A diplomat does not need to become a machine-learning engineer.
+
+The officer should understand provenance, synthetic media, model uncertainty, cyber compromise, data bias, source correlation, and the difference between a verified image and a verified interpretation.
 
 The diplomat increasingly sits between machine-produced information and political meaning.
 
-That requires enough technical knowledge to know where the machine can fail.
+That requires enough technical knowledge to know where the machine can fail and enough political knowledge to know why the failure matters.
 
-It also requires enough political knowledge to know why the failure matters.
+## Build an embassy value ledger
 
-Headquarters needs its own discipline.
+Traditional output metrics can reward the wrong work.
 
-The center should not ask the field to report what the center can already retrieve automatically.
+Cable count.
 
-This sounds obvious.
+Meeting count.
 
-Bureaucracies often continue old tasks after technology removes their value.
+Event count.
 
-Daily press summaries.
+Press summaries.
 
-Routine biographies.
+The post-OSINT mission needs a different **value ledger**.
 
-Basic economic reporting available from public databases.
+What ambiguity did the mission resolve?
 
-Transcription.
+Which center assumption did it challenge?
 
-Mechanical document comparison.
-
-These can consume mission time because the formats are institutionalized.
-
-Every automated task should create an explicit question.
-
-What higher-value human work replaces it?
-
-If the answer is nothing, the institution may convert productivity into smaller staffing rather than better diplomacy.
-
-That may be appropriate in some posts.
-
-In strategically important posts, it can be a mistake.
-
-The relevant scarcity is not document production.
-
-It is trusted human attention.
-
-Diplomatic intelligence after OSINT should therefore be evaluated differently.
-
-Not how many cables did the mission produce?
-
-Not how many open-source facts did it capture first?
-
-Ask instead:
-
-What did the mission know that headquarters could not infer remotely?
-
-Which ambiguity did it resolve?
-
-Which assumption did it challenge?
-
-Which relationship created an option during crisis?
-
-Which public signal did it correctly interpret as noise?
-
-Which quiet institutional change did it identify before the change became visible?
+Which quiet institutional change did it identify before it became public?
 
 Which rumor did it verify before policy reacted?
 
-Which local constraint changed the government’s negotiating strategy?
+Which relationship created an option during crisis?
 
-These are harder metrics.
+Which implementation constraint changed negotiating strategy?
 
-They are closer to the value of presence.
+Which machine-generated assessment did local evidence correct?
 
-AI can help capture this value by making the routine evidence base common to both capital and field.
+Which public signal did the mission correctly identify as noise?
 
-The embassy no longer needs to prove that the speech happened.
+These outputs are harder to count.
 
-It can spend more of the report explaining why the speech matters.
+They are closer to why presence matters.
 
-This should improve the relationship between headquarters and missions.
+## Measure access-to-decision conversion
 
-The capital brings scale.
+Access is not valuable merely because a diplomat knows important people.
 
-The field brings depth.
+The strategic measure is **access-to-decision conversion**.
 
-The capital can compare across countries.
+Did the relationship provide information or communication that changed a real government decision, improved timing, reduced uncertainty, opened an off-ramp, or prevented misunderstanding?
 
-The embassy can distinguish which cross-country pattern breaks locally.
+This metric guards against relationship theater.
 
-The capital can maintain a global model.
+A large contact list is not influence.
 
-The embassy can tell it where the model stops matching the country.
+A trusted channel that changes one consequential decision may be.
 
-That is the new division of labor.
+## A strong counterargument: headquarters may become better than the field at interpretation too
+
+AI does not stop at collection.
+
+It can compare cases globally, retrieve institutional history, detect linguistic change, and aggregate more data than one mission can see.
+
+Headquarters may eventually outperform some embassies at local interpretation as well as public collection.
+
+That is a real possibility.
+
+The embassy should not claim permanent immunity from automation.
+
+Its value must be demonstrated.
+
+If local presence adds no distinctive evidence, no access, no verification, no implementation insight, and no trusted communication path, the mission should shrink or change.
+
+The case for diplomacy should be empirical, not ceremonial.
+
+## Falsifying the situated-judgment thesis
+
+The thesis of this chapter would weaken if headquarters models consistently interpret local political change as well as or better than field missions, if relationship-based reporting rarely changes decisions, if verification can be performed reliably through remote technical means, or if longer tours produce little improvement in access or institutional insight.
+
+Those outcomes would justify leaner physical missions and more centralized analytical capacity.
+
+The thesis strengthens if field reporting repeatedly corrects machine-generated narratives, if trusted relationships shorten verification and crisis communication, if implementation maps outperform public policy signals, and if relationship continuity creates options unavailable remotely.
+
+The question should remain testable.
+
+## When everybody can see the map, advantage moves to the person who knows why it is wrong
 
 The old geographic monopoly is gone.
 
 The need for situated judgment is not.
 
-Open-source abundance does not make presence obsolete.
+Open-source abundance makes presence more specialized.
 
-It makes presence more specialized.
+The embassy that competes with the internet on information volume will lose.
 
-The embassy that tries to compete with the internet on information volume will lose.
+The embassy that uses AI to eliminate low-value work and reinvests human time in access, interpretation, verification, implementation sensing, and authenticated communication can become more valuable than before.
 
-The embassy that uses the internet and AI to free its people for interpretation, access, and verification can become more valuable than before.
+The center brings scale.
 
-Because when everybody can see the map, advantage moves to the person who knows why the map is wrong.
+The field brings depth.
+
+The center maintains the global model.
+
+The embassy tells it where the model stops matching the country.
+
+That is the new division of labor.
+
+When everybody can see the map, advantage moves to the person who knows why the map is wrong.
