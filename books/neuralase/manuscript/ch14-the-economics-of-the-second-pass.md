@@ -412,6 +412,20 @@ This is a powerful complement to test-time scaling. Instead of spending unlimite
 
 The best second pass may be a rollback path.
 
+There is another cost that appears only when reasoning shares a scarce system with other reasoning: opportunity cost.
+
+A request can be economical in isolation and expensive in a queue. Ten extra seconds of accelerator time may look trivial for one difficult analysis. During a capacity spike, the same ten seconds can delay hundreds of shorter jobs or consume the headroom reserved for higher-consequence work. The marginal price of another pass is therefore partly determined by what else could have used the resource.
+
+This makes priority part of the reasoning budget.
+
+A system serving a payroll deadline, a casual rewrite, a production incident, and a long-horizon research task should not treat their next units of compute as interchangeable simply because they call the same model. The relevant question is not only whether another pass could improve this answer. It is whether this answer has the strongest claim on the next available unit of work.
+
+That creates a useful separation between local and global stopping rules. Locally, the model may still have promising branches. Globally, the scheduler may decide that the expected gain is not worth delaying a more consequential obligation. A well-designed system can preserve the unfinished state and resume later rather than pretending the budget ceiling means the problem was solved.
+
+Reasoning economics therefore includes preemption, not merely pricing.
+
+Sometimes the rational second pass is the one you defer.
+
 The market will ultimately price reliability, not contemplation.
 
 Users do not ultimately care how many tokens a model consumed.
