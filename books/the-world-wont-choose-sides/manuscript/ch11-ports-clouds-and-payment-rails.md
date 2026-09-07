@@ -96,62 +96,6 @@ It is a narrowing of feasible options.
 
 The strategic task is to know where the narrowing occurs.
 
-## Build a sovereignty ledger
-
-Every critical infrastructure system should have a **sovereignty ledger**.
-
-Not a patriotic label.
-
-An operational inventory of control.
-
-For each critical function, record:
-
-Who owns the asset?
-
-Who operates it?
-
-Who maintains it?
-
-Who controls software updates?
-
-Who controls administrative identity?
-
-Who controls encryption keys?
-
-Where is the data?
-
-Which legal jurisdictions can compel action?
-
-Which vendor dependencies sit underneath the visible supplier?
-
-Which financing terms create leverage?
-
-Which spare parts are single-source?
-
-Which staff skills are scarce?
-
-Which emergency authorities exist?
-
-Which functions can continue if the provider disappears?
-
-How long would substitution take?
-
-What political permission would substitution require?
-
-The sovereignty ledger turns vague concern into a map of practical control.
-
-A state may discover that a nationally owned asset depends on foreign software.
-
-A foreign-owned asset may be locally operated with strong emergency rights.
-
-A supposedly diversified stack may depend on one common identity provider.
-
-A payment alternative may exist legally but have no usable liquidity.
-
-The ledger prevents ownership from being confused with sovereignty.
-
-Sovereignty is the ability to keep a critical function politically usable under stress.
-
 ## Exit time is the hidden strategic variable
 
 The actor that helps build the system often remains present long after the ribbon cutting.
@@ -419,8 +363,6 @@ Which vendor can disable a service?
 A government can own the data while depending on somebody else’s authority to reach it.
 
 That is a different form of dependency.
-
-The sovereignty ledger should make it visible.
 
 ## Portability must be exercised
 
@@ -766,8 +708,6 @@ It is one of the most important reasons infrastructure dependence becomes foreig
 
 A state may believe it diversified each sector individually while still allowing one common jurisdiction, vendor, or network service to connect them all.
 
-The sovereignty ledger therefore needs a dependency graph across sectors.
-
 Which node appears in several layers?
 
 Which provider is a hidden common dependency?
@@ -897,8 +837,6 @@ The optimal point is mission-specific.
 Critical systems may justify more redundancy.
 
 Low-consequence services may justify concentration.
-
-The purpose of the sovereignty ledger is to make this tradeoff explicit instead of ideological.
 
 A system is not sovereign because it has many vendors.
 
@@ -1072,8 +1010,6 @@ Again, the machine can reveal structure.
 
 Statecraft decides what the structure means.
 
-This suggests one more field for the sovereignty ledger.
-
 **Permission probability.**
 
 Not a precise forecast.
@@ -1151,43 +1087,3 @@ Not self-sufficiency.
 Not rhetoric.
 
 Usable alternatives under stress.
-
-## Infrastructure is where alignment acquires memory
-
-The great-power contest over infrastructure will therefore be shaped by the terms of connection.
-
-Financing matters.
-
-Security matters.
-
-Technology quality matters.
-
-Standards matter.
-
-Maintenance matters.
-
-But so does the degree of political control embedded in the offer.
-
-A state may prefer a technically second-best system if it preserves bargaining freedom.
-
-Another may accept deeper dependency because the superior system creates economic gains large enough to justify it.
-
-There is no universal answer.
-
-The strategic mistake is pretending there is no tradeoff.
-
-Every infrastructure choice writes part of the country's future bargaining position into steel, software, finance, and law.
-
-Ports, clouds, and payment rails are not background conditions anymore.
-
-They are where alignment becomes durable.
-
-They are where yesterday’s procurement decision becomes tomorrow’s permission structure.
-
-They are where foreign policy acquires memory.
-
-A middle power does not need to own every layer of the stack.
-
-It needs to know which layer could own it.
-
-And it needs to know how long it would take to leave before leaving becomes the only remaining proof that autonomy ever existed.

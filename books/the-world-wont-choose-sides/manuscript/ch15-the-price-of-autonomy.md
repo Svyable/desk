@@ -526,7 +526,6 @@ The price of autonomy is not the money spent to avoid partners.
 
 It is the premium paid to preserve meaningful choice among them.
 
-
 ## Counting costs the state prefers not to advertise
 
 Autonomy budgets rarely appear as a single line item.
@@ -655,7 +654,6 @@ It is also the difference between a middle power that bargains and a middle powe
 
 The price of autonomy is the cost of keeping judgment available when others would prefer to buy or coerce it away.
 
-
 ## Fiscal limits and the temptation to fake diversification
 
 Many middle powers cannot fund full redundancy across defense, energy, finance, and technology at once.
@@ -678,7 +676,6 @@ This prioritization is uncomfortable because it forces governments to admit what
 
 It is also the only way autonomy survives contact with arithmetic.
 
-
 ## Prestige projects versus reversible capacity
 
 Autonomy spending often drifts toward prestige: flagship plants, signature platforms, monumental data centers, and highly visible partnerships.
@@ -698,7 +695,6 @@ Then it discovers that the expensive symbols cannot be switched, repaired, or re
 The price worth paying is the price that preserves choice under stress.
 
 Anything else is costume.
-
 
 ## The premium as policy, not mood
 

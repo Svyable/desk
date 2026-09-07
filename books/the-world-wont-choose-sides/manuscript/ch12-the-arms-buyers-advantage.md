@@ -94,46 +94,6 @@ The curve is not fixed.
 
 Good procurement policy tries to keep it from collapsing immediately after delivery.
 
-## Build a dependency passport before purchase
-
-Every major acquisition should carry a **dependency passport** before contract signature.
-
-Not only technical specifications.
-
-A map of future reliance.
-
-For each critical function, record:
-
-Who controls design authority?
-
-Who controls software updates?
-
-Who controls cryptographic material?
-
-Who provides mission data?
-
-Who can certify repairs?
-
-Who supplies engines, radars, processors, batteries, munitions, or other critical consumables?
-
-Which components have alternate sources?
-
-Which export permissions remain external?
-
-Which maintenance tools are proprietary?
-
-Which remote services are required?
-
-Which data leaves the country?
-
-Which functions can continue offline?
-
-How long can the system operate without the supplier?
-
-How long would substitution take?
-
-The passport makes the future relationship visible while the buyer still has leverage to negotiate it.
-
 ## Ownership has layers
 
 This is especially true when software becomes central to military capability.
@@ -384,32 +344,6 @@ The optimal portfolio is not maximum diversity.
 
 It is enough supplier diversity to preserve credible alternatives without making the force itself incoherent.
 
-## Build a procurement topology
-
-A defense ministry should see its force as a **procurement topology**.
-
-Platforms are nodes.
-
-Munitions, data links, maintenance systems, training pipelines, software authorities, and supply chains are edges.
-
-Color the graph by supplier jurisdiction.
-
-Then ask:
-
-Which foreign relationship touches the most mission-critical nodes?
-
-Which apparently diverse platforms share one software, engine, munition, or maintenance dependency?
-
-Which domestic system can bridge multiple suppliers?
-
-Which gateway is a single point of failure?
-
-Which supplier disruption would isolate several parts of the force at once?
-
-The graph reveals concentration hidden by fleet diversity.
-
-A country can buy from four suppliers and still have one critical dependency underneath all four.
-
 ## Procurement is a statecraft event
 
 This is a difficult discipline because defense ministries naturally evaluate platforms through capability.
@@ -583,20 +517,6 @@ If the buyer operates mixed suppliers or locally modified systems, software vers
 A fleet may share a platform name and no longer share the same operational behavior.
 
 This creates certification and training problems.
-
-The procurement system should maintain a **capability baseline ledger**.
-
-Which version is on which platform?
-
-Which munitions are certified?
-
-Which data links work?
-
-Which local modifications affect interoperability?
-
-Which supplier support agreements apply?
-
-The ledger prevents autonomy-enhancing modifications from quietly creating internal fragmentation.
 
 ## Data rights are future bargaining rights
 
@@ -906,86 +826,6 @@ That is fine.
 
 The objective is conscious dependence.
 
-## Procurement leverage has a half-life
-
-The arms buyer's leverage does not disappear at signature.
-
-It decays.
-
-Call this **buyer-leverage half-life**.
-
-The half-life is extended by:
-
-Local sustainment.
-
-Alternative suppliers.
-
-Open interfaces.
-
-Domestic engineering.
-
-Large future order potential.
-
-Data rights.
-
-Competitive upgrade options.
-
-Supplier reputation concerns.
-
-The half-life shortens as switching cost rises and alternatives disappear.
-
-A procurement strategy should therefore ask how much leverage remains five years after delivery, not only how much existed during negotiation.
-
-That is the true measure of the arms buyer's advantage.
-
-## The buyer’s autonomy ledger
-
-These mechanisms can be combined into a **buyer autonomy ledger**.
-
-For each major system, record:
-
-Dependency passport.
-
-Ownership layer.
-
-Localization level.
-
-Transfer conversion.
-
-Supplier concentration.
-
-Integration cost.
-
-Update sovereignty.
-
-Data rights.
-
-Support-free endurance.
-
-Least-substitutable component.
-
-Time to viable supplier exit.
-
-Buyer-leverage half-life.
-
-Reliability premium.
-
-Last supplier-loss exercise.
-
-The ledger should be reviewed over the lifecycle because dependence changes.
-
-A locally maintained platform may become more autonomous with time.
-
-A software-defined platform may become more dependent if update authority centralizes.
-
-A second supplier may enter.
-
-A domestic munition may reduce one tether.
-
-Autonomy is not fixed at contract signature.
-
-It can improve or decay.
-
 ## The falsifiable test
 
 The argument is testable.
@@ -999,61 +839,3 @@ If technology transfer reliably creates domestic capacity regardless of absorpti
 The opposite pattern would strengthen the thesis.
 
 If supplier leverage rises as support-free endurance falls, if political disputes reveal software or munitions vetoes, if buyers with local sustainment retain more choice, and if open interfaces or alternative suppliers shorten viable exit time, then arms procurement is indeed negotiated dependence.
-
-## Negotiated dependence
-
-The arms buyer's advantage therefore should be understood as negotiated dependence.
-
-The buyer cannot eliminate dependence entirely without enormous domestic capability.
-
-It can choose its shape.
-
-Concentrated or diversified.
-
-Transparent or hidden.
-
-Reversible or sticky.
-
-Operational or symbolic.
-
-Deep or shallow.
-
-The strategic buyer asks not only which weapon is best.
-
-It asks which dependency is tolerable.
-
-This is an uncomfortable way to think about procurement because military systems are sold through performance.
-
-Range.
-
-Speed.
-
-Payload.
-
-Accuracy.
-
-Survivability.
-
-The middle power must add another column.
-
-Political reversibility.
-
-Can this capability remain useful if the geopolitical relationship changes?
-
-If the answer is no, the purchase may still be worthwhile.
-
-But the alignment cost should be recognized rather than discovered later.
-
-A middle power that can credibly choose among suppliers possesses leverage.
-
-A middle power that can sustain those systems locally retains more of that leverage after purchase.
-
-A middle power that can integrate diverse systems turns procurement plurality into strategic optionality.
-
-A middle power that buys diversity without interoperability may simply purchase several dependencies instead of one.
-
-The buyer's real advantage is not the ability to shop around.
-
-It is the ability to keep shopping around after the first contract has been signed.
-
-And the strongest buyer is the one that can keep saying yes to a useful defense relationship without making that yes permanent across every other domain of national policy.

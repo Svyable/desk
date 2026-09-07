@@ -68,28 +68,6 @@ The relationship may remain friendly while the vulnerability becomes politically
 
 That is enough to produce diversification.
 
-## The relationship balance sheet
-
-Partners experience a relationship through a balance sheet of benefits, costs, risks, and options.
-
-Benefits can include security, market access, technology, investment, intelligence, training, diplomatic support, prestige, and institutional access.
-
-Costs can include compliance burdens, political concessions, interoperability constraints, domestic controversy, and lost alternatives.
-
-Risks include future sanctions, supplier cutoff, policy volatility, overdependence, or entrapment in somebody else's conflict.
-
-Options are the credible alternatives available if one part of the relationship becomes coercive.
-
-The balance sheet changes over time.
-
-A great power may continue delivering the same benefits while the partner values them less because substitutes improved.
-
-A new restriction can increase perceived future risk even if immediate material cost is small.
-
-A broken promise can reduce the value of a later offer because expected delivery is discounted.
-
-The relationship should therefore be judged on **expected future utility**, not only current dependence.
-
 ## The coercion premium
 
 A partner prices not only what the great power is doing now but what it could do later.
@@ -193,8 +171,6 @@ A telecom vendor affects alliance cooperation.
 A statement about a distant war affects investment discussions.
 
 The more domains become coupled, the more the relationship resembles a loyalty system rather than a portfolio partnership.
-
-Call this the **policy-coupling index**.
 
 It need not be a literal numerical score.
 
@@ -455,26 +431,6 @@ How often are promised exceptions actually granted?
 How predictable are policy changes after elections?
 
 Reliability is measured in administrative time as much as diplomatic language.
-
-## Promise half-life
-
-Every unfulfilled promise decays.
-
-At announcement, political value can be high.
-
-As delay accumulates, the partner discounts the probability of delivery.
-
-Eventually the promise becomes evidence of unreliability rather than evidence of support.
-
-This is the **promise half-life**.
-
-Different commitments have different reasonable timelines.
-
-The principle is to measure the gap between political announcement and experienced result.
-
-A great power with excellent strategic offers and poor delivery can lose to a competitor with narrower offers and reliable execution.
-
-Implementation capacity is foreign-policy power.
 
 ## Administrative latency is visible abroad
 
@@ -973,49 +929,3 @@ And if zero-tolerance alignment systems consistently outperform partnerships tha
 These are empirical tests.
 
 A theory of partnership should be judged by whether it predicts switching behavior before formal separation.
-
-## Keep the partner before winning the argument
-
-Great powers usually imagine loss at the final moment.
-
-The canceled agreement.
-
-The base access denied.
-
-The rival contract signed.
-
-The hostile vote.
-
-The formal withdrawal.
-
-By then, much of the strategic decision has already happened.
-
-The relationship was being repriced through years of smaller experiences.
-
-The weapons delay.
-
-The sanctions threat.
-
-The ignored consultation.
-
-The broken infrastructure promise.
-
-The public humiliation.
-
-The unexpected export restriction.
-
-The competitor that offered one credible alternative without demanding total loyalty.
-
-Each taught the partner something about the future value of dependence.
-
-Great powers lose partners when the expected cost of staying attached rises while the cost of alternatives falls.
-
-They keep partners when the network remains worth choosing after the partner understands the dependencies, has credible alternatives, and is still allowed to disagree without turning every disagreement into a referendum on the entire relationship.
-
-The standard is not obedience.
-
-It is voluntary reconnection.
-
-After the argument, after the pressure, after the election, after the rival offer—does the partner still choose to come back to the network?
-
-That is the relationship test that matters.

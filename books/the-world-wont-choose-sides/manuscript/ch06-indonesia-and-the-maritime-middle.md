@@ -46,38 +46,6 @@ What can Indonesia say no to without creating an intolerable domestic or strateg
 
 That question turns doctrine into something measurable.
 
-## An archipelago is an operating system
-
-Indonesia’s geography is usually described as leverage because important sea lanes pass through or near the archipelago.
-
-That is true and incomplete.
-
-An archipelagic state also has to govern distance internally.
-
-Ports, airports, coast guard units, naval forces, communications links, fuel systems, local governments, customs authorities, and commercial operators are spread across a vast maritime space.
-
-The same geography that creates external leverage creates internal coordination costs.
-
-This is the archipelagic paradox.
-
-Geography produces strategic importance and state-capacity demand at the same time.
-
-A chokepoint matters only if the state can observe, regulate, secure, and politically manage the activity around it.
-
-A remote island creates strategic depth only if it is connected enough to the national system to matter in crisis.
-
-A maritime boundary creates leverage only if patrol, surveillance, law, and diplomacy can turn the line on a map into behavior at sea.
-
-Location is raw material.
-
-Governance converts it into power.
-
-This conversion capacity is one of the book’s recurring themes.
-
-Middle powers are not pivotal simply because they possess useful assets.
-
-They become pivotal when institutions can make those assets usable in bargaining.
-
 ## Geography as bargaining power
 
 Indonesia’s first source of leverage is physical.
@@ -120,182 +88,6 @@ A map shows only the first fact: where Indonesia is.
 
 Strategy depends on the rest.
 
-## Maritime awareness is strategic capacity
-
-A state that sits astride important waters gains more leverage if it can distinguish normal commerce, illicit activity, coercive presence, accidents, and military signaling with confidence.
-
-Maritime domain awareness is therefore not a technical side issue.
-
-It is part of sovereignty.
-
-The better Indonesia can observe its waters and approaches, the less dependent it is on another power’s interpretation of events.
-
-That matters politically.
-
-Information dependence can become policy dependence.
-
-If a government sees the maritime environment mainly through one partner’s sensors, intelligence, or analytic system, that partner gains influence over what appears urgent.
-
-Cooperation can improve awareness enormously without requiring that result.
-
-The autonomy-preserving model is federated awareness.
-
-Use partner data.
-
-Develop domestic capacity.
-
-Keep several channels.
-
-Preserve national authority over interpretation.
-
-This is epistemic sovereignty applied to maritime strategy.
-
-## Public goods create bargaining power
-
-Indonesia does not need to threaten closure of a route to gain leverage from geography.
-
-Providing maritime public goods can create influence more sustainably.
-
-Search and rescue.
-
-Anti-piracy cooperation.
-
-Navigation safety.
-
-Disaster response.
-
-Fisheries enforcement.
-
-Pollution response.
-
-Port reliability.
-
-Information sharing.
-
-A state that helps keep a strategically important maritime system functioning becomes harder to bypass.
-
-This is connective power rather than denial power.
-
-It creates value for several partners simultaneously.
-
-That can be especially useful to a state trying to avoid exclusive alignment.
-
-Denial asks whom Indonesia can block.
-
-Connectivity asks how many actors become invested in Indonesian capacity and stability.
-
-The second can produce broader leverage with lower political cost.
-
-## ASEAN as conversion machinery
-
-Indonesia’s role in ASEAN is part of the conversion of geography and scale into diplomatic weight.
-
-Regional centrality gives Jakarta a platform for resisting the idea that Southeast Asia should be organized primarily around U.S.-China rivalry.
-
-ASEAN’s consensus procedures can be frustrating and slow. That slowness is sometimes treated as evidence of weakness.
-
-It also performs a political function.
-
-A weakly centralized regional institution makes it harder for any outside power to turn Southeast Asia into a single strategic instrument.
-
-The inefficiency preserves pluralism.
-
-That is valuable to Indonesia because pluralism creates room to maneuver.
-
-But process control is useful only when it produces enough practical coordination to remain relevant.
-
-An institution that protects autonomy but cannot address any serious problem eventually loses agenda power.
-
-This creates an ASEAN tension.
-
-Consensus preserves sovereignty.
-
-Consensus can also produce veto paralysis.
-
-Indonesia’s strategic problem is not to choose between those principles absolutely.
-
-It is to keep the institution useful enough that outside powers still treat the ASEAN-centered venue as worth attending.
-
-Venue value is leverage.
-
-If the region’s most important questions are negotiated elsewhere, formal centrality becomes ceremonial.
-
-## Process power
-
-Middle powers often cannot dictate outcomes.
-
-They can influence process.
-
-Who is invited?
-
-Which forum meets?
-
-What language appears in the statement?
-
-Which issue is linked to which institution?
-
-Which outside power has to address the region collectively rather than bilaterally?
-
-These procedural choices shape bargaining.
-
-Process power is weaker than command.
-
-It is stronger than irrelevance.
-
-For Indonesia, ASEAN turns some national preferences into regional procedure.
-
-That can magnify leverage because a request made by one state can be ignored more easily than a norm embedded in an institution several states expect outsiders to respect.
-
-The value is not automatic.
-
-It depends on whether members continue to see the institution as useful.
-
-## The market behind the flag
-
-Indonesia’s second source of leverage is scale.
-
-A large domestic market changes the bargaining relationship with foreign capital.
-
-Small economies often compete to be included in somebody else’s supply chain.
-
-Indonesia can sometimes demand that the supply chain move toward it.
-
-That is the logic behind downstreaming.
-
-For decades, resource-rich states have faced a familiar complaint: they export raw materials and import higher-value manufactured goods. The margin, technology, and skilled employment accumulate elsewhere.
-
-Indonesia has tried to alter that pattern through export restrictions and domestic-processing requirements, most prominently in nickel.
-
-The policy is strategically important because it turns a mineral into a bargaining instrument.
-
-The country is not merely saying, “we have nickel.”
-
-It is saying, “if you want reliable access to this resource at scale, build more of the value chain here.”
-
-That attracts capital, technology, industrial facilities, and political attention.
-
-The strategic question is what remains after the capital arrives.
-
-Factories matter.
-
-Skills matter more.
-
-Domestic suppliers matter.
-
-Managerial capability matters.
-
-Engineering knowledge matters.
-
-Energy systems matter.
-
-Environmental governance matters.
-
-Local fiscal capacity matters.
-
-A downstream plant that remains an imported island of capital and technology may increase output without increasing strategic autonomy proportionally.
-
-The conversion test is domestic capability accumulation.
-
 ## The nickel experiment
 
 The results are real enough to matter and mixed enough to resist mythology.
@@ -327,36 +119,6 @@ Or has it moved from exporting ore to hosting facilities whose critical technolo
 Both can be true at once.
 
 The balance determines strategic value.
-
-## Concentration inside diversification
-
-A portfolio can look diversified at the national level while remaining concentrated within a sector.
-
-Indonesia may have relationships with many major powers across diplomacy and trade while one industrial chain depends heavily on one source of equipment, finance, or demand.
-
-This is why sectoral concentration matters.
-
-Strategic autonomy should be measured at the level where coercion can occur.
-
-A government can be globally nonaligned and locally trapped in one technology ecosystem.
-
-The solution is not maximum duplication.
-
-It is identifying which dependencies would become politically dangerous under stress and creating credible alternatives before they are needed.
-
-Alternative buyer.
-
-Alternative financier.
-
-Alternative technology.
-
-Domestic supplier.
-
-Emergency inventory.
-
-Different export route.
-
-Each reduces refusal cost.
 
 ## China inside the strategy
 
@@ -390,381 +152,139 @@ The option itself has bargaining value.
 
 That is why middle-power strategy often rewards several suitors more than one patron.
 
-## Security without alliance
+## Geography as an unfinished argument
 
-Indonesia applies similar logic to security.
+An archipelago of more than seventeen thousand islands is not merely a map feature. It is a governance problem, a logistics system, a security dilemma, and a commercial opportunity at once. Indonesia’s exclusive economic zone around the Natuna Islands overlaps waters that China treats through the nine-dash line. Jakarta has long insisted it is not a South China Sea claimant in the manner of the Philippines, Vietnam, Malaysia, or Brunei. The legal claim has been that UNCLOS, not historical maps, governs rights in the North Natuna Sea.
 
-It cooperates with the United States and other partners on exercises, training, maritime security, and defense relationships while resisting formal alliance dependence.
+That position mattered because it allowed Indonesia to defend resource rights without joining the formal claimant club. It also mattered because it preserved room to court Chinese investment while rejecting Chinese maritime assertions when they became too blunt.
 
-It has its own disputes and frictions with China, including around maritime rights near the Natuna area, without turning those disputes into an argument for joining a containment coalition.
+The balance has never been clean.
 
-That distinction matters.
+Chinese coast guard vessels and fishing fleets have repeatedly entered or pressed against Indonesian waters. Jakarta has responded with patrols, public statements, and occasional shows of force, while continuing to pursue Chinese infrastructure and industrial capital. Under President Joko Widodo, the pattern was often described as economic openness paired with legal firmness: take the money, reject the nine-dash line, avoid a bilateral joint statement that could be read as recognizing overlapping claims.
 
-A country can perceive risk from China and still reject an alliance strategy designed primarily in Washington.
+Under President Prabowo Subianto, inaugurated in October 2024, the pattern shifted toward more personalized, transactional diplomacy. Early travel, summitry, and bilateral deals became denser. The administration joined BRICS. It talked more openly about Indonesia as a global player rather than primarily as ASEAN’s quiet convenor. And during a late-2024 visit to Beijing, a joint statement referred to areas of “overlapping claims” in ways that Indonesian diplomats then scrambled to walk back, insisting that Jakarta still rejected China’s unilateral maritime claims.
 
-For Indonesia, the relevant question is not whether China is benign.
+The episode is useful precisely because it is messy.
 
-It is whether a given security relationship increases Indonesian autonomy or trades one form of vulnerability for another.
+It shows how middle-power bargaining can create ambiguity that great powers then try to convert into precedent. China gains language it can cite. Indonesia gains a diplomatic atmosphere for economic and maritime cooperation. The foreign ministry is left explaining continuity. Regional partners wonder whether ASEAN’s de facto leader still treats the South China Sea through a shared legal frame or through a bilateral deal menu.
 
-This can frustrate partners who want strategic clarity.
+The maritime middle is not a place of pure nonalignment. It is a place where legal doctrine, presidential dealmaking, coast guard practice, and investment flows can pull in different directions at the same time.
 
-From Jakarta’s perspective, the ambiguity is partly the point.
+## ASEAN centrality under strain
 
-If every security cooperation agreement is interpreted as movement into a camp, the price of cooperation rises.
+For decades, ASEAN centrality was Indonesia’s preferred answer to great-power rivalry. The Association of Southeast Asian Nations provided a venue in which no single external power formally dominated the agenda. The ASEAN Regional Forum, the East Asia Summit, the ASEAN Outlook on the Indo-Pacific, and the long negotiation over a South China Sea Code of Conduct all reflected a bet that process and inclusion could blunt polarization.
 
-Security relationships should therefore be evaluated functionally.
+That bet still has value. It also has limits.
 
-What capability is being gained?
+Myanmar’s crisis exposed ASEAN’s enforcement weakness. Code of Conduct negotiations have moved slowly while gray-zone pressure at sea continued. Minilateral arrangements outside ASEAN—AUKUS, the Quad, various coast guard and defense dialogues—grew because some states concluded that ASEAN consensus alone could not manage hard security problems. Indonesia’s own bureaucracy often treated ASEAN as the default frame even when the frame could not deliver outcomes.
 
-Maritime awareness?
+Prabowo’s early foreign-policy posture, as read by many Indonesian and regional analysts, elevated bilateral major-power diplomacy relative to ASEAN stewardship. That does not mean ASEAN disappears from Indonesian rhetoric. It means the hierarchy of attention may be changing. A government that wants BRICS membership, peace-mediation visibility, and large industrial deals will spend scarce presidential time on capitals that can deliver capital, technology, and status. ASEAN still matters for legitimacy and neighborhood management. It may matter less as the exclusive instrument of Indonesian strategy.
 
-Training?
+This is a classic middle-power tradeoff.
 
-Maintenance?
+Regional institutions dilute great-power pressure. Bilateral deals extract concrete benefits. Too much of the first without the second looks like proceduralism. Too much of the second without the first looks like opportunistic abandonment of the neighborhood that once amplified Indonesia’s voice.
 
-Air defense?
+The maritime middle survives only if Indonesia can do both: keep ASEAN usable and keep major powers competing for Indonesian choices without forcing Jakarta into a single camp.
 
-Humanitarian response?
+## Nickel, energy, and the industrial bargain
 
-Cybersecurity?
+Indonesia’s leverage is not only geographic. It is material.
 
-Does the cooperation improve Indonesia’s ability to make its own decisions later?
+The country’s nickel resources and downstream industrial policy made it central to electric-vehicle and battery supply chains. Export restrictions and domestic processing requirements were designed to force more value addition inside Indonesia rather than shipping raw ore abroad. Chinese firms became deeply involved in smelting and industrial parks. Western and Japanese firms also sought access, sometimes on less favorable terms, because the resource and the manufacturing footprint mattered.
 
-Or does it create a dependency that makes one future decision harder to refuse?
+This is domain separation in practice.
 
-Alignment by issue becomes a procurement question.
+A security planner in Washington may want Indonesia to harden against Chinese maritime coercion. An industrial planner in the same government may want diversified battery supply. An Indonesian planner wants jobs, tax revenue, technology transfer, and bargaining power over multiple investors. Those objectives overlap incompletely.
 
-## Defense procurement as portfolio architecture
+Energy policy adds another column. Indonesia remains a significant coal producer and LNG actor while pursuing renewable and mineral-processing growth. It can court climate finance from Europe and multilateral banks while remaining cautious about abrupt transition costs. It can discuss just-energy-transition partnerships without treating them as exclusive geopolitical loyalty tests.
 
-Weapons purchases are unusually sticky.
+The industrial bargain is therefore a form of selective alignment. Indonesia does not have to choose between Chinese industrial capacity and Western markets in a single stroke. It can force competition among investors, impose local-content and processing rules, and revise terms when political conditions change.
 
-A platform creates training, maintenance, software, munitions, doctrine, spare-parts, and sometimes intelligence dependencies that last decades.
+The risk is capture.
 
-Buying from several suppliers can preserve bargaining flexibility.
+If one country’s firms dominate a strategic industrial cluster, optionality narrows even if diplomatic language remains free and active. Infrastructure debt, technology lock-in, and employment dependence can convert a diversified portfolio into a concentrated vulnerability. The maritime middle then becomes an industrial middle that looks freer on paper than in the balance sheet.
 
-It can also create interoperability and sustainment costs.
+## Defense procurement without a single patron
 
-Indonesia therefore faces the same autonomy frontier described elsewhere in the book.
+Indonesia’s military modernization has long reflected mixed sourcing: platforms and training relationships that do not all run through one supplier. That pattern fits the book’s thesis. Diversified procurement can create capability while preserving decision space. It can also create interoperability friction, maintenance complexity, and political suspicion from each supplier that wants a deeper exclusive relationship.
 
-Too much concentration creates political dependency.
+Under recent governments, Jakarta has discussed deeper defense cooperation with multiple partners, including China, while remaining engaged with the United States, Australia, Japan, and others on maritime capacity and exercises. After Prabowo’s election, public signals about China as a defense partner intensified even as Indonesia continued to need Western technology and training pathways for certain high-end systems.
 
-Too much diversity creates operational friction.
+The arms buyer’s advantage, examined later in this book, is already visible here. Indonesia can ask what each partner will transfer, how much local industry will receive, what political conditions attach, and whether a deal closes options elsewhere. Great powers hate that auction. Middle powers live by it when they can.
 
-The relevant objective is not maximum supplier variety.
+But maritime coercion can compress the auction.
 
-It is a portfolio whose switching costs remain tolerable while forces remain usable.
+If incidents around Natuna escalate, Jakarta may need immediate operational support, intelligence, and coast guard capacity from partners whose political price rises in a crisis. Peacetime diversification is easier than wartime interoperability. Selective alignment works best before the shot that forces a binary logistics choice.
 
-This requires lifecycle analysis.
+## BRICS, the United States, and status politics
 
-Who controls software updates?
+Indonesia’s BRICS accession under Prabowo was widely read as a status move and a Global South affiliation, not as a military realignment. That reading is mostly right and still incomplete.
 
-Where do spare parts come from?
+BRICS membership expands Indonesia’s institutional menu. It signals dissatisfaction with the pace of reform in older Western-led institutions. It creates another venue for coordination with China, India, Brazil, South Africa, and newer members. It does not replace ASEAN, the G20, or bilateral ties with Washington. It does, however, change the optics of Indonesian hedging. A state that joins BRICS while bargaining with the United States over tariffs, investment, and security cooperation is performing multi-alignment in public.
 
-Can ammunition be sourced elsewhere?
+Washington often interprets such moves as drift. Beijing often interprets them as opportunity. Jakarta’s own interest is to keep both interpretations useful: enough association with BRICS to gain voice and options, enough cooperation with the United States and other partners to retain technology, market access, and deterrent support.
 
-Can maintenance be performed domestically?
+Status politics matters because Indonesian leaders care about being treated as a major actor rather than a regional facilitator. Mediation offers on Ukraine, Gaza, and other conflicts fit that ambition even when they produce limited concrete results. Visibility is part of leverage. A country that is courted as a mediator or industrial partner has more room to refuse exclusive demands.
 
-How much training is supplier-specific?
+The danger is hyperactivity without institutional depth. Personalized presidential diplomacy can move faster than ministerial systems can integrate. Joint statements can outrun legal doctrine. Summit attendance can substitute for strategy. The maritime middle then becomes a travel schedule rather than a coherent portfolio.
 
-What happens if export permission changes?
+## Domestic politics and the free-and-active formula
 
-These questions reveal the political structure inside the platform.
+*Bebas dan aktif* survives because it is elastic. It can justify almost any mix of partnerships so long as Indonesia claims not to be a satellite. That elasticity is a strength in a fragmented order. It is also a risk for accountability. If every deal is free and active, the public cannot easily tell which dependencies are growing, which legal lines are softening, or which regional commitments are being traded for bilateral gain.
 
-## The infrastructure stack
+Indonesian foreign policy has always been shaped by domestic coalitions: the military’s institutional interests, business groups tied to Chinese or Western capital, Islamic politics, nationalist rhetoric, and bureaucratic rivalry between the foreign ministry and other agencies. Under a more top-down presidential style, those coalitions still matter, but feedback loops may shorten. Agencies manage fallout after decisions rather than shaping them in advance.
 
-The hardest autonomy questions may emerge in infrastructure rather than diplomacy.
+For this book’s purposes, the domestic point is simple. Selective alignment is not only an external strategy. It is a way for leaders to satisfy multiple domestic audiences that want different things from the outside world: growth, dignity, Islamic solidarity, anti-colonial memory, American technology, Chinese markets, and sovereignty theater.
 
-Ports, telecom networks, cloud services, payment systems, industrial software, satellites, data centers, and energy systems create relationships that are expensive to switch.
+A durable maritime middle requires institutions that can keep those audiences from forcing exclusive choices too early—and from sleepwalking into exclusive dependencies too late.
 
-A military exercise lasts days.
+## The Natuna test and gray-zone compression
 
-A digital platform can shape dependency for a decade.
+Gray-zone pressure is the everyday form of crisis compression for Indonesia.
 
-This means Indonesia’s strategic autonomy increasingly depends on technical architecture.
+It rarely arrives as a declared war. It arrives as a coast guard presence that lingers, a fishing fleet that saturates a zone, a survey ship that tests responses, a diplomatic note that reframes the legal baseline, or a joint development proposal that asks Jakarta to trade doctrinal clarity for commercial calm. Each episode is small enough that a government can claim continuity. Cumulatively, the episodes can rewrite the practical meaning of UNCLOS rights in the North Natuna Sea.
 
-Can data move between providers?
+Indonesia’s historical answer mixed law, patrols, and economic engagement. That combination worked better when great-power rivalry was less intense and when ASEAN processes still seemed able to socialize Chinese behavior over time. As rivalry intensified, gray-zone tactics became a method of creating facts while negotiations continued elsewhere. The Code of Conduct process could run in parallel with pressure at sea. Investment could grow while sovereignty theater continued.
 
-Can a government replace a vendor without rebuilding the whole system?
+For a middle power, the analytical mistake is to treat each incident as either proof of imminent war or proof that nothing has changed. The real question is whether Jakarta retains the capacity to raise costs for coercion without locking itself into a security hierarchy it does not want.
 
-Can critical services continue if sanctions or export controls interrupt support?
+That capacity has several parts.
 
-Are source code, maintenance, and cybersecurity functions available domestically?
+It needs coast guard and navy assets that can stay present. It needs legal messaging that does not accidentally concede the premise of overlapping claims. It needs partners willing to provide capacity without demanding exclusive basing or automatic alignment. It needs domestic political space to absorb Chinese displeasure when Indonesia pushes back. And it needs economic alternatives so that a hard day at sea does not immediately become a hard year for investment and employment.
 
-Does one infrastructure choice foreclose future cooperation with another partner?
+If those conditions erode, selective alignment becomes harder even if the free-and-active slogan remains unchanged.
 
-These questions look commercial until a crisis turns them political.
+## Ports, cables, and the logistics layer
 
-A country can remain formally nonaligned while discovering that its technology stack has already chosen sides.
+Indonesia’s maritime middle is also an infrastructure middle.
 
-This makes interoperability a sovereignty tool.
+Ports, shipyards, undersea cables, data centers, satellite ground stations, and logistics corridors are not neutral pipes. They are sites where commercial efficiency, surveillance risk, dual-use capability, and foreign financing meet. A Chinese-built industrial park can be an employment success and a strategic dependency at once. An American or Japanese digital partnership can improve cybersecurity and create export-control exposure at once. A submarine cable landing can improve connectivity and create a chokepoint for future coercion.
 
-Open interfaces, portability, local skills, diversified support, and fallback modes can preserve choice without requiring full domestic self-sufficiency.
+Governments that understand this start writing rules layer by layer rather than treating infrastructure as ordinary commerce. Local data requirements, trusted vendor lists, ownership caps, security reviews, and joint ventures become tools of partial separation. Indonesia has incentives to use all of them because its geography makes connectivity valuable and vulnerability expensive.
 
-The most autonomous stack is not necessarily indigenous end to end.
+The portfolio logic returns here. Indonesia can accept one partner’s capital in a commercial port while preferring another partner’s standards in a government cloud. It can expand digital trade with multiple economies while restricting sensitive telecom equipment. The more granular the rules, the more room remains for issue-by-issue bargaining.
 
-It is the stack that can survive a political break with one provider long enough to choose another path.
+Granularity has a cost. It confuses investors. It invites accusations of discrimination. It requires bureaucratic competence that personalized dealmaking can outrun. Still, for a maritime middle power, messy rules are often preferable to clean dependence.
 
-## The domestic constraint
+## Mediation ambition and the market for relevance
 
-Foreign policy optionality also depends on domestic legitimacy.
+Prabowo’s willingness to offer himself as a mediator on distant conflicts is easy to mock when results are thin. It is harder to dismiss as pure vanity once one notices what mediation bids purchase: agenda access, summit time, and the appearance of indispensability.
 
-Indonesia is not a unitary strategist floating above society.
+In a world where great powers struggle to assemble broad coalitions, states that can talk to several sides acquire a peculiar form of soft leverage. They may not settle wars. They can still shape who sits in the room, which formulas circulate, and which capitals must be consulted before a proposal is called global. Indonesia’s size, Muslim-majority demographics, ASEAN role, and BRICS membership give it a plausible claim to that consultative role even when its hard-power reach is limited.
 
-Industrial policy creates winners and losers. Mining creates environmental costs. Foreign investment can generate jobs and resentment. Infrastructure projects affect local communities. Defense cooperation can be interpreted through memories of colonialism, sovereignty, and external intervention.
+The mediation market is crowded. Turkey, Gulf states, Brazil, African Union actors, and European governments all compete to be useful. Usefulness is not the same as alignment. A mediator that is already locked into one camp loses the appearance of breadth that made it attractive. That is another reason selective alignment persists: some diplomatic roles require the performance of distance.
 
-A partnership that appears strategically elegant from abroad may be politically expensive at home.
+Indonesia’s challenge is to convert mediation visibility into durable institutional capacity rather than episodic presidential theater. Without that conversion, relevance fades when the news cycle moves on.
 
-This is one reason respect matters in middle-power relations.
+## Working with Washington without joining a containment script
 
-Great powers often focus on what they are offering materially.
+American strategy documents often describe the Indo-Pacific as the central theater of long-term competition with China. From that vantage point, Indonesia looks like a prize: large, strategically located, democratic in form if imperfect in practice, and crucial to any map of resilient supply chains.
 
-The recipient also evaluates the political terms.
+From Jakarta’s vantage point, the same facts generate caution. Indonesia wants American investment, technology, military education, and market access. It does not want to be drafted into a containment script that would force a comprehensive rupture with China. It also remembers episodes of U.S. pressure, human-rights conditionality, and sudden policy swings that make exclusive dependence on Washington look unwise.
 
-Does the agreement preserve national control?
+The productive bargain, if one exists, is mutual recognition of partiality. Washington gets cooperation on specific maritime capacity, critical minerals diversification, and technology safeguards. Indonesia gets tools and capital without an alliance oath. Both sides accept that China will remain economically central to Indonesia for years.
 
-Does it create visible domestic capacity?
-
-Does it require public alignment on unrelated issues?
-
-Does the partner treat Indonesian preferences as substantive or as obstacles to be managed?
-
-Autonomy is partly a domestic political product.
-
-Domestic distribution matters too.
-
-If the gains from strategic partnerships are concentrated geographically or socially while the costs are diffuse, support can become fragile.
-
-If industrial development creates jobs but also severe local environmental burdens, national strategy meets local politics.
-
-A government that cannot sustain domestic legitimacy cannot sustain external optionality indefinitely.
-
-The portfolio has to be governable at home.
-
-## State capacity is the scarce resource
-
-Multiple partnerships require administrators who can negotiate, evaluate, regulate, and implement them.
-
-A country can sign more agreements than it can operationalize.
-
-That creates paper optionality.
-
-The port project exists in a memorandum.
-
-The technology-transfer clause exists in a contract.
-
-The defense cooperation mechanism exists on a website.
-
-But the bureaucracy lacks the engineers, lawyers, procurement specialists, regulators, or local institutions required to extract the promised value.
-
-State capacity is therefore a strategic multiplier.
-
-A middle power with strong bargaining assets but weak implementation can repeatedly sell access without accumulating autonomy.
-
-The outside partner gains the project.
-
-The host state gains less durable capability than expected.
-
-This is the difference between attracting investment and absorbing investment.
-
-Absorption is strategic.
-
-## The archipelagic logistics problem
-
-Indonesia’s internal geography also shapes crisis choice.
-
-A national decision may have to be implemented across many ports, islands, airfields, customs posts, military commands, and local authorities.
-
-Sanctions enforcement, port access, maritime surveillance, airspace policy, or emergency logistics can therefore become coordination problems at scale.
-
-This gives crisis autonomy an internal prerequisite.
-
-Can the state execute the choice consistently?
-
-A government may formally refuse military access while local contractual arrangements create ambiguity.
-
-It may impose a financial rule while enforcement capacity varies.
-
-It may promise maritime monitoring without enough coverage to know what is occurring.
-
-Strategic autonomy is not only the freedom to decide.
-
-It is the capacity to make the decision real across the state.
-
-For an archipelago, implementation geography matters enormously.
-
-## Maritime public goods and defense overlap
-
-Many capabilities useful for high-end security also serve ordinary governance.
-
-Coastal radar.
-
-Satellite monitoring.
-
-Port resilience.
-
-Search and rescue.
-
-Cybersecurity.
-
-Fuel distribution.
-
-Secure communications.
-
-These dual-use capacities can be politically easier to build because they serve civilian purposes every day.
-
-They also strengthen crisis resilience without requiring formal alliance.
-
-This is an autonomy-friendly investment strategy.
-
-Build capabilities that improve national control and remain useful regardless of which external partner is closest at a given moment.
-
-The more security capacity is rooted in national public goods, the less cooperation has to be interpreted as outsourcing sovereignty.
-
-## ASEAN as strategic technology
-
-ASEAN is often criticized for avoiding hard choices.
-
-That criticism can be fair in particular crises.
-
-But it misses the way ASEAN functions as strategic technology for states like Indonesia.
-
-It creates a meeting architecture in which Southeast Asian countries collectively remain agenda setters. It requires outside powers to show up in regional institutions rather than dealing only through alliance structures. It normalizes the idea that the region has interests not reducible to great-power competition.
-
-The institution does not erase power asymmetry.
-
-It changes the venue in which asymmetry is negotiated.
-
-That can be enough to create leverage.
-
-For a middle power, control over process can be a form of power when control over outcomes is impossible.
-
-ASEAN also distributes political risk.
-
-A position advanced through a regional process may be easier for one state to sustain than the same position advanced alone.
-
-This does not make the group unified.
-
-It can make autonomy mutually reinforcing.
-
-Regional pluralism reduces the cost of one member refusing a binary alignment demand because the refusal is less isolated.
-
-This is a collective form of optionality.
-
-## The consensus trap
-
-There is a limit.
-
-If consensus becomes an excuse for permanent nondecision, outside actors route around the institution.
-
-Bilateral and minilateral arrangements grow.
-
-The formal regional venue loses practical importance.
-
-Indonesia then retains the symbolism of centrality while losing the bargaining leverage of indispensability.
-
-This is the consensus trap.
-
-The institution protects autonomy so thoroughly that it cannot produce enough common action to remain central.
-
-The solution is not necessarily majority voting or hard supranationalism.
-
-It may be layered cooperation.
-
-Allow smaller groups to act on specific functions while preserving a wider regional umbrella.
-
-Keep doors open for later participation.
-
-Use consensus for the questions where consensus is essential and modular arrangements where it is not.
-
-This mirrors the network logic of alliances without turning ASEAN into an alliance.
-
-## The price of the middle
-
-The maritime middle has costs.
-
-Multiple partnerships require administrative capacity. Different weapons and technology suppliers can create interoperability problems. Competing infrastructure standards can raise expense. Refusing exclusive alignment can reduce access to the most sensitive technology or intelligence. Industrial policy can attract investment while also producing inefficiency. Diplomatic ambiguity can frustrate partners that want predictable support.
-
-And some crises will compress the space for maneuver.
-
-A major conflict could force choices over port access, sanctions, airspace, financial controls, technology restrictions, or maritime passage.
-
-The question is not whether Indonesia can remain perfectly equidistant.
-
-It cannot.
-
-The question is whether it can avoid allowing one crisis decision to become a permanent surrender of the rest of its portfolio.
-
-That is a more realistic definition of strategic autonomy.
-
-This creates a crisis hierarchy.
-
-Not every choice matters equally.
-
-A government may accept alignment on one financial measure while refusing military participation.
-
-It may grant humanitarian access but not combat access.
-
-It may alter technology procurement while preserving trade in other sectors.
-
-The strategic skill lies in containing the scope of forced choice.
-
-One decision should not automatically cascade through every domain unless the dependencies make that cascade unavoidable.
-
-## Crisis coupling
-
-The greatest risk to Indonesia’s selective alignment is domain coupling imposed from outside.
-
-A great power can say that access to technology depends on security policy.
-
-A sanctions regime can connect finance to trade.
-
-A defense supplier can connect spare parts to diplomatic alignment.
-
-A market can connect export access to political behavior.
-
-A conflict can make neutral shipping or airspace decisions strategically consequential.
-
-This is when portfolio design is tested.
-
-Which alternatives are usable immediately?
-
-Which require years?
-
-Which domestic sectors bear the cost?
-
-Which partner relationship has become too embedded to separate?
-
-The crisis does not reveal whether Indonesia is “really” aligned with one side.
-
-It reveals the hierarchy of dependencies inside the portfolio.
-
-That is more useful information.
-
-## A maritime-middle scorecard
-
-The strategy can be evaluated through observable indicators.
-
-How concentrated are critical sources of capital, technology, and export demand?
-
-How much domestic capability remains after foreign investment?
-
-How many critical infrastructure systems have credible switching paths?
-
-How quickly can defense platforms be sustained if one supplier is unavailable?
-
-How much maritime awareness comes from domestic versus partner systems?
-
-How often can Indonesia refuse a partner demand without losing cooperation in unrelated domains?
-
-How much practical regional agenda-setting still occurs through ASEAN-centered institutions?
-
-How evenly can national decisions be implemented across the archipelago?
-
-How much state capacity exists to negotiate and absorb competing offers?
-
-How often do crisis choices remain contained to one issue rather than cascading?
-
-These questions turn autonomy into a performance problem rather than an identity claim.
+That bargain collapses when either side demands totality. If Washington treats BRICS membership or Chinese industrial parks as proof of hostile drift, it will push Jakarta toward performative defiance. If Beijing treats every U.S. exercise or export-control conversation as proof of encirclement participation, it will invite the very balancing it fears. Middle-power strategy thrives on partiality. Great-power insecurity tries to abolish it.
 
 ## What would make the thesis false?
 
@@ -797,16 +317,6 @@ Indonesia’s strategic importance comes from a combination rare enough to matte
 None makes the country independent of great powers.
 
 Together they make it expensive to recruit.
-
-But the deeper strategic advantage is not refusal for its own sake.
-
-It is conversion capacity.
-
-Can geography become public goods and access leverage?
-
-Can resources become domestic capability rather than new external dependence?
-
-Can foreign investment become local skills and industrial depth?
 
 Can security cooperation improve national capacity without quietly deciding future policy?
 

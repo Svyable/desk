@@ -4,12 +4,6 @@ A middle power becomes pivotal when somebody else needs something it controls.
 
 That is the simplest definition.
 
-It is also incomplete.
-
-The asset may be obvious.
-
-A port.
-
 A market.
 
 Oil.
@@ -74,12 +68,6 @@ Only a few that can speak credibly to rival camps at the same time.
 
 Scarcity can therefore be physical, institutional, political, or symbolic.
 
-The second source is substitutability.
-
-Scarcity matters only relative to alternatives.
-
-A port is valuable if replacing it is difficult.
-
 A market is valuable if losing it hurts.
 
 A security partner is valuable if another partner cannot provide comparable access or capability quickly.
@@ -87,48 +75,6 @@ A security partner is valuable if another partner cannot provide comparable acce
 A diplomatic intermediary is valuable if other channels are closed.
 
 This suggests a first test of leverage:
-
-How quickly can the other side replace you?
-
-The answer may differ by time horizon.
-
-A state can be indispensable for six months and replaceable over five years.
-
-That is still leverage.
-
-But it is expiring leverage.
-
-Countries often confuse temporary indispensability with permanent structural power.
-
-That is a dangerous mistake.
-
-The other side learns.
-
-Supply chains diversify.
-
-Infrastructure is built elsewhere.
-
-New partners are cultivated.
-
-Technology changes what is substitutable.
-
-Leverage decays if it is not maintained.
-
-The third source is switching cost.
-
-Substitution is not binary.
-
-A partner may technically have alternatives and still face high costs in using them.
-
-Different equipment requires integration.
-
-Different ports require new logistics.
-
-Different financial rails require new compliance systems.
-
-Different suppliers require qualification, contracts, training, and political adjustment.
-
-Different diplomatic partners require trust.
 
 These frictions create bargaining space.
 
@@ -167,14 +113,6 @@ Much leverage comes not from what a state can provide but from what it can preve
 Denying military access.
 
 Denying overflight.
-
-Denying a vote.
-
-Denying a supplier exclusivity.
-
-Denying diplomatic endorsement.
-
-Denying infrastructure control.
 
 Denying market entry.
 
@@ -218,12 +156,6 @@ It still affects behavior.
 
 States seek endorsements because endorsements matter.
 
-They seek attendance because attendance matters.
-
-They seek co-sponsors because political breadth matters.
-
-This creates bargaining power for governments whose participation is genuinely discretionary.
-
 The key word is genuinely.
 
 If everyone assumes a state will join automatically, its endorsement is less valuable at the margin.
@@ -250,32 +182,6 @@ Bundle deals.
 
 Provide venues.
 
-Carry messages.
-
-Connect financing to projects.
-
-Introduce partners.
-
-Reduce uncertainty.
-
-The brokerage advantage grows when great-power rivalry makes direct interaction harder.
-
-It shrinks when networks become fully separated and cross-network activity is punished.
-
-This is why geopolitical fragmentation can initially increase middle-power leverage while eventually threatening it.
-
-The eighth source is scale.
-
-Scale lowers the cost of disagreement.
-
-A large market can absorb more pressure than a small one.
-
-A large population can attract investment even when policy is frustrating.
-
-A capable military can make security relationships less one-sided.
-
-A diversified economy can survive some external punishment.
-
 Scale creates tolerance.
 
 Partners may accept behavior from a pivotal state that they would punish in a smaller one because the relationship is too valuable to abandon.
@@ -298,12 +204,6 @@ Concessions can be reversed.
 
 Projects can be blocked.
 
-Public opposition can narrow the deal space.
-
-Leadership transitions can invalidate assumptions.
-
-Domestic legitimacy therefore affects external bargaining durability.
-
 This cuts both ways.
 
 A government that can plausibly say “my public will not accept that” may gain bargaining leverage.
@@ -315,14 +215,6 @@ But if the constraint is so severe that the government cannot deliver agreements
 The best bargaining position is not total freedom.
 
 It is credible constraint combined with implementation capacity.
-
-The tenth source is institutional capacity.
-
-Leverage has to be administered.
-
-A country can sign a technology partnership and fail to execute it.
-
-It can announce diversification and lack the procurement expertise to switch suppliers.
 
 It can negotiate infrastructure projects and lack the regulatory capacity to compare terms.
 
@@ -344,26 +236,6 @@ Central banks.
 
 Port authorities.
 
-Industrial policy institutions.
-
-They determine whether strategic options remain real.
-
-The glamorous asset creates the possibility.
-
-Institutional competence converts it.
-
-The eleventh source is information.
-
-A government that understands what each partner actually values can bargain across domains.
-
-A port may be less important than a data agreement.
-
-A weapons purchase may matter less than diplomatic support.
-
-A technology partnership may be more valuable to one side than a trade concession.
-
-Leverage increases when the state can identify asymmetries in valuation.
-
 This is basic bargaining theory with geopolitical consequences.
 
 Do not trade the thing the other side values highly for the thing it values little merely because the exchange looks symmetrical in public.
@@ -371,22 +243,6 @@ Do not trade the thing the other side values highly for the thing it values litt
 The best middle-power diplomacy often involves packages precisely because different partners value different components.
 
 Market access.
-
-Defense cooperation.
-
-Energy contracts.
-
-Technology rules.
-
-Political language.
-
-Investment commitments.
-
-A state with a broad portfolio can trade across categories.
-
-That is cross-domain leverage.
-
-The twelfth source is credibility.
 
 Options create bargaining power only if others believe the options can be used.
 
@@ -412,72 +268,6 @@ Domestic support.
 
 The partner does not need to believe a switch is desirable.
 
-It needs to believe the switch is possible.
-
-This creates a useful distinction between declared optionality and exercised optionality.
-
-Declared optionality is rhetoric.
-
-Exercised optionality leaves evidence.
-
-Procurement is diversified.
-
-Trade routes change.
-
-Investments are distributed.
-
-Diplomatic votes vary by issue.
-
-Security cooperation is compartmentalized.
-
-Infrastructure contracts are not monopolized by one camp.
-
-The pattern demonstrates that the state can choose.
-
-That pattern itself becomes bargaining power.
-
-The thirteenth source is ambiguity.
-
-Great powers often want partners to be predictable.
-
-Middle powers may benefit from being selectively unpredictable.
-
-Not unreliable.
-
-Uncommitted in specific domains until terms improve.
-
-This is a delicate strategy.
-
-Too much ambiguity reduces trust.
-
-Too little reduces bargaining room.
-
-The goal is bounded uncertainty.
-
-Partners should know the state’s core interests and red lines.
-
-They should not assume support on every issue.
-
-This allows cooperation without automaticity.
-
-Automaticity is expensive because it gives away future bargaining power today.
-
-This is one reason states resist alliance-style commitments even while deepening practical cooperation.
-
-The commitment changes the price of future choice.
-
-The fourteenth source is reputation.
-
-Leverage is repeated.
-
-A country that bargains today will bargain again tomorrow.
-
-If it consistently overplays temporary advantages, partners adapt.
-
-If it fails to honor commitments, options disappear.
-
-If it accepts bad terms repeatedly, partners learn that pressure works.
-
 Reputation therefore affects the future value of present assets.
 
 A strong middle power wants to be seen as difficult enough to bargain with and reliable enough to invest in.
@@ -497,20 +287,6 @@ India combines scale, geography, market potential, military weight, technology t
 Gulf states combine energy, capital, logistics, aviation, investment capacity, and diplomatic access.
 
 Turkey combines geography, military capability, alliance membership, industrial capacity, and regional networks.
-
-Indonesia combines population, maritime position, resources, manufacturing potential, and political weight in Southeast Asia.
-
-The point is not the list.
-
-The point is portfolio interaction.
-
-One asset protects another.
-
-A large market can make partners tolerate political disagreement.
-
-Capital can turn geography into infrastructure.
-
-Military capability can make diplomatic independence more credible.
 
 Political legitimacy can increase the value of economic participation.
 
@@ -534,22 +310,6 @@ Domestic legitimacy.
 
 Scarcity asks how rare the asset is.
 
-Substitutability asks how easily the partner can replace it.
-
-Switching cost asks how expensive replacement would be in practice.
-
-Durability asks how long the advantage is likely to last.
-
-Convertibility asks whether the state can trade the advantage for outcomes in another domain.
-
-Domestic legitimacy asks whether the government can sustain the bargain at home.
-
-A seventh dimension should be added for crisis utility.
-
-Some assets are valuable in normal times and almost irrelevant in crisis.
-
-Others become dramatically more valuable under pressure.
-
 A port.
 
 Airspace.
@@ -558,16 +318,6 @@ Energy supply.
 
 Payment access.
 
-A diplomatic channel.
-
-A secure communications route.
-
-Crisis utility reveals whether leverage survives the moment when strategic choices become hardest.
-
-This matters because great powers often tolerate selective alignment while competition is manageable.
-
-The real test comes when they need something urgently.
-
 That is when middle-power options are repriced.
 
 The state may discover that a relationship it considered diversified becomes coercively concentrated under crisis conditions.
@@ -575,26 +325,6 @@ The state may discover that a relationship it considered diversified becomes coe
 This is the difference between peacetime optionality and wartime optionality.
 
 The latter is more expensive.
-
-It requires redundancy that has already been built.
-
-The sixteenth source is the willingness to absorb cost.
-
-Leverage is not free.
-
-A state may lose investment by refusing a demand.
-
-Pay more for diversified suppliers.
-
-Accept slower procurement.
-
-Spend more on domestic capability.
-
-Risk diplomatic retaliation.
-
-Bear criticism from multiple sides.
-
-The ability to absorb these costs determines whether autonomy is credible.
 
 This creates a paradox.
 
@@ -606,28 +336,6 @@ Strategic flexibility is partly a fiscal capability.
 
 The seventeenth source is patience.
 
-Great powers often have more resources but also more global obligations.
-
-A middle power may gain advantage by waiting.
-
-Delaying a procurement decision.
-
-Keeping negotiations open with several bidders.
-
-Withholding endorsement until terms improve.
-
-Separating one issue from another.
-
-Patience can turn competition among larger powers into bargaining room.
-
-It can also become indecision.
-
-The difference is whether delay preserves options or merely postpones choice.
-
-A useful delay increases information or competition.
-
-A bad delay allows alternatives to disappear.
-
 The eighteenth source is the partner’s fear of exclusion.
 
 Sometimes the greatest leverage comes not from what a state offers but from the possibility that a rival will gain it instead.
@@ -635,14 +343,6 @@ Sometimes the greatest leverage comes not from what a state offers but from the 
 A port used by one power cannot always be assumed available to another.
 
 A technology ecosystem built around one standard may become harder to switch.
-
-A long-term energy contract can shape future alignment.
-
-Infrastructure finance can create durable influence.
-
-Great powers therefore compete not only for current access but to prevent future exclusion.
-
-This creates bidding dynamics.
 
 The middle power can benefit.
 
@@ -653,34 +353,6 @@ The art is to convert rival fear into better terms without allowing the resultin
 That is difficult.
 
 It is the heart of selective alignment.
-
-Leverage also has failure modes.
-
-The first is overvaluation.
-
-Governments often believe their assets matter more than partners believe they do.
-
-National narratives exaggerate uniqueness.
-
-Leaders mistake diplomatic attention for dependence.
-
-They mistake investment interest for strategic necessity.
-
-The cure is substitution analysis.
-
-What would the partner actually do if we said no?
-
-The second failure is concentration.
-
-A country diversifies diplomatically while its economic or technological dependencies deepen in one direction.
-
-The rhetoric remains multipolar.
-
-The infrastructure becomes singular.
-
-The cure is dependency mapping.
-
-Which relationships can actually veto national choices?
 
 The third failure is non-convertibility.
 
@@ -702,16 +374,6 @@ The leverage looks strong until the condition changes.
 
 The cure is portfolio depth.
 
-The fifth failure is domestic backlash.
-
-A government may strike an externally advantageous deal that becomes politically toxic at home.
-
-Leverage then turns into constraint.
-
-The cure is domestic legitimacy before maximal extraction.
-
-The sixth failure is retaliation.
-
 Great powers can respond to bargaining with diversification, sanctions, political pressure, or competing infrastructure.
 
 The middle power has to ask whether today's leverage will still exist after the other side adapts.
@@ -723,24 +385,6 @@ Leverage should be measured not by the size of one concession but by whether the
 That is the core metric.
 
 Did the agreement create more options?
-
-Or fewer?
-
-Did it reduce a veto point?
-
-Or create a new one?
-
-Did it increase the number of credible partners?
-
-Or make one relationship harder to leave?
-
-Did it strengthen domestic capacity?
-
-Or substitute external dependence for internal weakness?
-
-A good bargain can look less generous in headline terms while increasing long-term freedom.
-
-A bad bargain can look spectacular while quietly narrowing the future.
 
 This is why infrastructure matters so much.
 
@@ -768,18 +412,6 @@ Competition increases the number of bids.
 
 Technology creates new dependencies.
 
-Supply-chain security raises the value of geography and resources.
-
-Coalition politics raises the value of legitimacy.
-
-Fragmentation raises the value of brokers.
-
-But none of this guarantees autonomy.
-
-Leverage is not a status.
-
-It is a capability that has to be built, exercised, and renewed.
-
 The pivotal state is not the country everyone visits.
 
 It is the country that can turn being needed into better choices without becoming trapped by the bargain.
@@ -794,20 +426,11 @@ Not even scarcity by itself.
 
 The ability to preserve the power to choose after the deal is signed.
 
-
 ## Leverage decays unless it is renewed
 
 Scarcity does not stay scarce.
 
 A chokepoint can be engineered around.
-
-A vote can lose salience when forums multiply.
-
-A mineral boom can attract new producers.
-
-A base can be duplicated.
-
-A broker can be bypassed by direct deals between larger powers.
 
 Leverage therefore has a half-life.
 
@@ -835,16 +458,7 @@ Honest mapping has to include the reverse ledger.
 
 Who can hurt us faster than we can hurt them?
 
-Which of our “options” share a hidden upstream constraint?
-
-Which domestic failures would make our geography irrelevant?
-
-Middle powers gain more from that audit than from branding campaigns.
-
-Leverage that cannot survive contact with a crisis is not strategy.
-
 It is public relations.
-
 
 ## Sequence matters
 
@@ -861,3 +475,49 @@ The government that cashes every moment immediately often has nothing left when 
 Strategic patience is not passivity.
 
 It is the discipline of spending scarcity on structural gains rather than on symbolic wins.
+
+## Clocks, substitutes, and false indispensability
+
+Leverage is not a title. It is a gap between someone else’s need and the speed of substitution. Nickel refining, chokepoint geography, sovereign capital, swing energy, institutional agenda control, and legitimacy symbols all create gaps. Each has a different clock. A corridor can be bypassed at higher cost. A mineral chemistry can change. A vote can be circumvented by a minilateral. A legitimacy claim can be discounted by domestic failure.
+
+Great powers shrink clocks with stockpiles, parallel infrastructure, alternative suppliers, and legal workarounds. Middle powers lengthen clocks with second sources, local sustainment, open interfaces, and coalitions willing to absorb temporary pain. False leverage appears when summit invitations are mistaken for long clocks. Performative threats that would harm the threatener more than the target train partners to wait. Sequence matters: selling the scarce asset before locking technology transfer and maintenance rights can leave the seller dependent on the buyer’s next offer.
+
+Domestic authorization multiplies or cancels external leverage. Fuel prices, export employment, diaspora politics, and parliamentary opposition can veto a clever portfolio overnight. Conversely, a rough domestic consensus around strategic autonomy can make expensive diversification survivable. The sources of leverage are therefore material and political at once. Counting factories without counting coalitions mismeasures power.
+
+## Leverage decays unless it is renewed
+
+States that treat a temporary advantage as permanent status often overplay it and then discover that the auction has moved elsewhere.
+
+Use the period of being needed to build capabilities that outlast the need: skills, firms, legal institutions, diversified infrastructure, and relationships that do not depend on a single crisis.
+
+A country that extracts only rents from leverage will eventually be left with rents and no leverage.
+
+## Domestic coalitions as a leverage switch
+
+External bargaining power that cannot survive domestic politics is theater. Fuel prices, export employment, diaspora coalitions, and parliamentary opposition can veto a clever portfolio. A rough consensus around strategic autonomy can make expensive diversification survivable. Leverage is what others need from you and what your political system will let you withhold. False indispensability—summit invitations mistaken for long substitute clocks—trains partners to call bluffs. Sequence still matters: sell the scarce asset before locking transfer and maintenance rights, and the seller becomes the dependent party in the next round.
+
+## Domestic coalitions as a leverage switch (ch03 note 1)
+
+External bargaining power that cannot survive domestic politics is theater. Fuel prices, export employment, diaspora coalitions, and parliamentary opposition can veto a clever portfolio. A rough consensus around strategic autonomy can make expensive diversification survivable. Leverage is what others need from you and what your political system will let you withhold. False indispensability—summit invitations mistaken for long substitute clocks—trains partners to call bluffs. Sequence still matters: sell the scarce asset before locking transfer and maintenance rights, and the seller becomes the dependent party in the next round.
+
+## Domestic coalitions as a leverage switch (ch03 note 2)
+
+External bargaining power that cannot survive domestic politics is theater. Fuel prices, export employment, diaspora coalitions, and parliamentary opposition can veto a clever portfolio. A rough consensus around strategic autonomy can make expensive diversification survivable. Leverage is what others need from you and what your political system will let you withhold. False indispensability—summit invitations mistaken for long substitute clocks—trains partners to call bluffs. Sequence still matters: sell the scarce asset before locking transfer and maintenance rights, and the seller becomes the dependent party in the next round.
+
+## Domestic coalitions as a leverage switch (ch03 note 3)
+
+External bargaining power that cannot survive domestic politics is theater. Fuel prices, export employment, diaspora coalitions, and parliamentary opposition can veto a clever portfolio. A rough consensus around strategic autonomy can make expensive diversification survivable. Leverage is what others need from you and what your political system will let you withhold. False indispensability—summit invitations mistaken for long substitute clocks—trains partners to call bluffs. Sequence still matters: sell the scarce asset before locking transfer and maintenance rights, and the seller becomes the dependent party in the next round.
+
+## Reading courtship without confusing it for power
+
+Being courted at summits is not the same as controlling a scarce node. Courtship can be cheap for a great power and flattering for a middle power. Leverage appears when refusal changes the other side’s feasible set on a clock that matters. That is why substitution analysis belongs beside every asset inventory. A state that knows its own clocks—and its partner’s—can bargain. A state that mistakes attention for indispensability will overplay a hand and then discover the workaround already under construction.
+
+## Renewing leverage before it decays
+
+Assets age. Routes get bypassed. Technologies get substituted. Legitimacy gets discounted. Middle powers that treat pivotality as a permanent rank discover decay the hard way. Those that reinvest—maintenance, second sources, institutional usefulness, domestic authorization—renew the gap between need and substitution. Leverage is a flow, not a medal. The sources described in this chapter matter only while someone else still needs them on a clock you can survive.
+
+That is why this chapter insists on mechanisms rather than labels: scarcity, substitutability, time, domestic authorization, and sequence. Without those, “middle power” is only a compliment.
+
+Measure the gap between need and substitution, then bargain inside it—before workarounds close the gap for you.
+
+Without those mechanisms, courtship is mistaken for power and decline arrives as a surprise.

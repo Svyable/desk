@@ -166,82 +166,6 @@ The relevant inequality is simple:
 
 If not, the alternative exists on paper but not at crisis speed.
 
-## Build a dependency reserve
-
-Middle powers should think about strategic autonomy the way central banks think about reserves.
-
-Not every reserve is used in normal time.
-
-Its value lies in the ability to absorb shock without surrendering immediately to the market.
-
-A **dependency reserve** can take many forms.
-
-Fuel stocks.
-
-Foreign-exchange buffers.
-
-Domestic maintenance capacity.
-
-Multiple logistics routes.
-
-Secondary cloud environments.
-
-Alternative telecommunications links.
-
-Stockpiled components.
-
-Framework contracts with substitute suppliers.
-
-Legal authority to reroute procurement.
-
-Pre-negotiated financial arrangements.
-
-Human skills that allow systems to operate without a foreign service team.
-
-This redundancy can look inefficient in ordinary years.
-
-That is the visible cost of invisible option value.
-
-The crisis is when the reserve becomes legible.
-
-## Autonomy has a half-life under coercion
-
-A country can begin a crisis with considerable room to maneuver and lose it quickly.
-
-Reserves deplete.
-
-Inventory runs down.
-
-Credit tightens.
-
-Shipping becomes harder.
-
-Political patience falls.
-
-Substitute suppliers become overloaded.
-
-Private firms comply beyond what law formally requires.
-
-Coalition pressure accumulates.
-
-Autonomy therefore has a **half-life**.
-
-How long can a state sustain its preferred policy before concentrated dependencies force adaptation?
-
-The answer differs by domain.
-
-Energy autonomy may last months.
-
-Financial autonomy may contract in days.
-
-Defense-maintenance autonomy may depend on spare-parts inventories.
-
-Political autonomy may erode as consumer prices rise.
-
-The state should know these clocks before the crisis.
-
-The shortest relevant half-life can dominate the whole portfolio.
-
 ## The private sector can collapse the portfolio early
 
 Governments are not the only actors that choose.
@@ -306,32 +230,6 @@ This is **domain compression**.
 
 Selective alignment fails when too many independent choices become one coupled choice.
 
-## Measure the compression ratio
-
-A useful metric is the **compression ratio**.
-
-Before the crisis, how many policy domains can be decided independently?
-
-During the crisis, how many remain meaningfully independent?
-
-If trade, finance, defense, technology, and diplomacy can still be sequenced separately, the compression ratio is low.
-
-If one security decision automatically determines all five, the ratio is high.
-
-The metric does not need false numerical precision to be useful.
-
-Its purpose is diagnostic.
-
-Which domain is collapsing first?
-
-Which linkage is driving the collapse?
-
-Which policy could restore separation?
-
-Which dependence is making separation impossible?
-
-This gives governments a way to think about selective alignment as architecture rather than posture.
-
 ## Not every choice has the same irreversibility
 
 Crisis decisions vary in how much future they consume.
@@ -371,30 +269,6 @@ Reserve highly irreversible choices for conditions that justify them.
 That is not timidity.
 
 It is portfolio management.
-
-## A crisis cabinet needs a control panel, not a binary switch
-
-The most difficult choices are rarely binary in the first hours.
-
-A government may condemn an action diplomatically before joining sanctions.
-
-It may deny combat access while permitting humanitarian operations.
-
-It may protect commercial shipping without joining a broader military coalition.
-
-It may restrict selected technologies while keeping consumer trade open.
-
-It may increase intelligence cooperation without changing formal alliance status.
-
-It may abstain in one institution and cooperate in another.
-
-These distinctions can look evasive to outsiders.
-
-They can also be strategically useful.
-
-Crisis policy is often a **control panel**, not one switch.
-
-The art is knowing which controls can still move independently and which combinations create irreversible coupling.
 
 ## Sequencing creates political room
 
@@ -882,110 +756,4 @@ Those outcomes would suggest that selective alignment is more fragile than this 
 
 The opposite evidence would strengthen the thesis.
 
-States that preserve partial autonomy through diversified failure domains.
-
-States that sequence cooperation differently across finance, security, technology, and diplomacy.
-
-States that absorb pressure because switching clocks are shorter than coercion clocks.
-
-States that make a painful crisis choice and then reconstruct optionality afterward.
-
-The question is empirical.
-
 Does portfolio architecture change the terms of choice?
-
-## The great-power lesson: compete to remain optional
-
-For great powers, the crisis of choice produces a counterintuitive lesson.
-
-The objective should not always be to eliminate the partner’s alternatives.
-
-A network can be stronger when participation remains genuinely chosen.
-
-Make support fast enough to matter.
-
-Keep policy conditions proportionate.
-
-Avoid linking every disagreement to every other domain.
-
-Help partners absorb the costs of cooperation.
-
-Make technology dependence legible rather than arbitrary.
-
-Allow bounded disagreement.
-
-Keep promises on a timeline that beats the partner’s crisis clock.
-
-A great power that becomes indispensable through value can retain partners longer than one that becomes indispensable through lock-in alone.
-
-The first relationship creates attachment.
-
-The second creates an incentive to escape.
-
-## The middle-power lesson: know which future you are buying
-
-Every dependency buys something.
-
-Cheap capital.
-
-Market access.
-
-Security.
-
-Technology.
-
-Energy.
-
-Infrastructure.
-
-Political support.
-
-Every dependency also creates a future condition under which somebody else may possess leverage.
-
-The work of autonomy is not to refuse the bargain.
-
-It is to know what future is being purchased with it.
-
-What can be substituted?
-
-How fast?
-
-At what cost?
-
-Which other domains become coupled?
-
-Which commitments are reversible?
-
-Which domestic constituencies will defend the relationship when it becomes expensive?
-
-Which foreign partner will still deliver when its own cost rises?
-
-Those questions turn selective alignment from posture into statecraft.
-
-## Reaching the choice with more than one future
-
-The crisis of choice is the limit case for selective alignment.
-
-It shows that autonomy has boundaries.
-
-It also shows what autonomy is for.
-
-Not to eliminate hard choices.
-
-To improve the terms on which they are made.
-
-Not to guarantee neutrality.
-
-To prevent premature captivity.
-
-Not to escape interdependence.
-
-To keep interdependence from becoming command.
-
-Not to preserve every option forever.
-
-To preserve enough independent options that a government can still decide which future to sacrifice and which future to keep.
-
-A state may eventually have to choose.
-
-The strategic achievement is reaching that moment with more than one functioning future still available.

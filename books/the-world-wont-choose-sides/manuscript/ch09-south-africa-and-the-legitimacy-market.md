@@ -674,8 +674,6 @@ One way to test this chapter is to compare visibility with result.
 
 How often does high-profile South African participation change final language, coalition composition, mediation access, institutional design, or resource flows?
 
-Call this the **legitimacy-to-outcome ratio**.
-
 High visibility with little outcome suggests symbolic overestimation.
 
 Moderate visibility with repeated bargaining gains suggests efficient conversion.
@@ -809,47 +807,3 @@ These are real tests.
 The chapter should not celebrate symbolic capital because it is flattering.
 
 It should ask what the capital buys.
-
-## Being courted is not the same as being powerful
-
-South Africa's position illustrates a broader rule of middle-power politics.
-
-Attention is not power.
-
-Invitations are not power.
-
-Visibility is not power.
-
-The ability to convert those things into durable room for national choice is power.
-
-Legitimacy can help.
-
-It can open doors.
-
-Broaden coalitions.
-
-Carry messages.
-
-Increase bargaining value.
-
-Make a state harder to caricature or ignore.
-
-But the asset survives only if the state preserves enough independence that participation remains meaningful, enough material resilience that disagreement remains possible, enough regional service that representation remains credible, and enough institutional capacity that prestige becomes delivery.
-
-The legitimacy market rewards a peculiar balance.
-
-Distinctiveness without isolation.
-
-Principle without rigidity.
-
-Coalition participation without absorption.
-
-Regional leadership without entitlement.
-
-Global ambition without pretending material constraints do not exist.
-
-South Africa's strategic leverage does not come from speaking for everyone.
-
-It comes from being a state whose choice still changes the story others are able to tell about who stands with them.
-
-That choice has value only while it remains a choice.

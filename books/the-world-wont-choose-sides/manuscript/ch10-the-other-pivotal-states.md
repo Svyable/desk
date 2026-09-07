@@ -36,723 +36,203 @@ What changes if it says no?
 
 That is the test.
 
-## Pivotality is a network position, not a status title
+## Patterns across unlike countries
 
-States often want the prestige of being called pivotal.
+Vietnam, Mexico, Poland, Kazakhstan, Ethiopia, Malaysia, and others do not share a single political model.
 
-Great powers often use the label because it flatters a partner.
+What they can share is a recurring pattern of issue-specific centrality.
 
-Neither use is analytically sufficient.
+One sits on a manufacturing relocation path.
 
-Pivotality exists when three conditions come together:
+Another on a migration and nearshoring corridor.
 
-Something important is concentrated.
+Another on energy and sea-lane geography.
 
-The state controls meaningful access to it.
+Another on institutional votes or regional legitimacy.
 
-Substitution is difficult enough that the state’s choice changes other actors’ options.
+Treating them as one club would mislead.
 
-Remove any one condition and the leverage weakens.
+The better approach is situational: ask which network is contested, which local choice alters that network, and whether the local state can convert the moment into lasting capability.
 
-A resource nobody urgently needs is not pivotal.
+Vietnam manages deep economic ties with China while expanding security and technology relationships with the United States, Japan, India, and others without a formal alliance that would erase maneuver space.
 
-A critical resource fully controlled by an outside firm may give the state less leverage than the map suggests.
+Mexico’s leverage is commercial geography beside the U.S. market in an era of friend-shoring, tariff politics, and supply-chain rivalry—useful, and also asymmetrically vulnerable.
+
+Nigeria’s claim rests on population, market size, energy, and West African weight, yet capacity gaps can turn pivotal potential into bilateral deals without strategic coherence.
+
+Kazakhstan and other corridor states keep several routes open so that no single neighbor owns the locks.
+
+Some countries will be pivotal often.
+
+Others only once.
+
+Both matter to the structure of a world that will not choose sides cleanly, because both multiply the number of decision points that resist neat bloc assignment.
+
+## The security frontline middle
+
+Some states practice selective alignment under the shadow of a nearby threat that Brazil never faces. Vietnam is the clearest Asian example. It manages a profound economic relationship with China while maintaining historical distrust and active maritime contestation in the South China Sea. It deepens defense and technology ties with the United States, Japan, India, and others without entering a formal alliance that would eliminate maneuver space. The method looks like hedging because it is hedging—but hedging with a memory of war and a border reality that makes illusion costly.
+
+The Philippines under shifting administrations shows the other face of frontline politics: oscillations between accommodation and confrontation with China, paired with a U.S. treaty alliance that can be emphasized or de-emphasized as domestic politics change. Frontline middles have less room for theatrical equidistance. Their selectivity appears inside narrower bands: basing access details, coast guard cooperation, economic project approvals, and the legal framing of maritime incidents.
+
+Poland and the Baltic states are sometimes called middle powers in European debates, but their strategic behavior after 2022 has been closer to concentrated alignment than to the autonomy portfolio described in this book. They are reminders of a boundary condition: when tanks are close and history is raw, issue-by-issue bargaining compresses toward alliance priority. The world will not choose sides evenly. Geography still sorts the menu.
+
+## The nearshoring pivot
+
+Mexico’s leverage is commercial geography. It sits beside the U.S. market in an era of friend-shoring, tariff politics, migration bargaining, fentanyl crisis diplomacy, and China-U.S. supply-chain rivalry. Mexican industrial policy and firm decisions help determine how much “de-risking” from China becomes North American manufacturing reality rather than speechwriting.
+
+Mexico can court Chinese investment in some sectors while integrating more deeply into U.S.-centered production networks in others. That is selective alignment through FDI screening, energy politics, and labor governance rather than through UN oratory. The risk is asymmetric interdependence: the United States can couple migration, security, and trade more violently than Mexico can couple anything back. Nearshoring pivots have leverage because they are useful. They have limits because they are replaceable only at high cost—and because the larger neighbor knows it.
+
+## The demographic and market pivots of Africa
+
+Nigeria’s claim rests on population, market size, creative industries, energy resources, and West African diplomatic weight. Kenya’s claim often rests on logistical hubs, digital services, diplomatic activism, and a reputation as an East African connector. Egypt’s claim combines population, control related to the Suez Canal, Mediterranean and Red Sea position, and a long record of playing external patrons against one another.
+
+These states rarely match India’s institutional diversification or the Gulf’s capital scale. They still matter when a coalition needs African votes, mineral access, counterterrorism basing, maritime corridor security, or legitimacy for a “global” initiative that would otherwise look Atlantic. China’s infrastructure financing, U.S. security cooperation, Gulf capital, and European regulatory and aid relationships create a competitive marketplace. African pivotal states often maximize that marketplace by refusing exclusive political conditionality—until debt distress, coups, or security collapse reduce their bargaining power.
+
+The Sahel’s recent upheavals show the dark side of the typology. When states lose monopoly on violence or rotate through juntas, external partners multiply (Russia’s Africa Corps and successors, Turkish drones, Gulf money, residual Western programs), but local agency can narrow to survival patronage. Pivotal status is not permanent. It can be squandered.
+
+## The corridor states
+
+Kazakhstan and other Central Asian states sit between Russian security legacies, Chinese economic gravity, European connectivity schemes, and Turkish cultural-commercial outreach. Their method is multi-vector diplomacy in the literal sense: keep several corridors open so that no single neighbor owns the locks. Energy exports, rail routes, and critical minerals make the method material. Ukraine war sanctions spillovers and Russian pressure make it dangerous.
+
+Egypt and, in a different way, Ethiopia illustrate corridor politics around the Red Sea and Nile Basin. Control of passages, dams, and ports translates into agenda power over food, energy, and military logistics. Gulf states invest heavily in these corridors precisely because corridor control is transferable leverage. The local state tries to remain the rent collector rather than the rented facility. Success varies with debt, elite cohesion, and the intensity of nearby wars.
+
+## The swing manufacturers
+
+Vietnam, Malaysia, Thailand, and, increasingly, parts of India and Mexico occupy a manufacturing swing role in electronics, solar, and other sectors affected by U.S. export controls and tariff walls. Firms reroute assembly to manage rules of origin and political risk. Governments compete to capture the rerouted investment without triggering secondary sanctions or Chinese retaliation.
+
+This is selective alignment enacted by customs codes and industrial parks. A country can host Chinese-owned factories that export into Western markets under local labels while quietly negotiating security dialogues with Washington. The arrangement lasts until regulators define content thresholds that re-politicize the supply chain. Technology without allegiance, discussed later, begins in these swing manufacturing nodes.
+
+## The legitimacy and mediation second tier
+
+Beyond South Africa, states such as Indonesia, Turkey, Qatar, and periodically Kenya or Egypt compete in mediation markets. Qatar’s role in hostage diplomacy and political talks shows how a small capital-rich state can sell channel access. The product is confidentiality and contact lists. The price is accusations of double-dealing. Second-tier mediators matter because great powers often need cutouts. They lose relevance if they become too identified with one side’s victory narrative.
+
+## Why the field matters to great powers
+
+Great powers lose when they over-index on a few celebrities of multipolarity and ignore the median pivotal state. A sanctions regime fails if corridor states bust it. A supply-chain coalition fails if swing manufacturers free-ride. A maritime coalition fails if frontline states alternate between access and distance. A legitimacy campaign fails if African and Asian second-tier states abstain.
+
+Conversely, great powers overpay when they treat every pivotal state as equally recruitable into comprehensive alignment. Most want packages: investment, technology, status, and security help, without exclusive political obedience. The coalition auction described later in the book begins in this wider field.
+
+## Vietnam’s disciplined duality
+
+Vietnam deserves a closer look because it practices one of the most disciplined dualities in Asia. Party-state ideology and historical conflict with China coexist with deep trade and investment ties to China. Security concerns in the South China Sea coexist with a careful expansion of defense relationships with the United States and other partners after normalization milestones and upgraded partnerships in the 2020s.
+
+Hanoi’s method is rule-bound hedging: diversify partners, avoid exclusive alliances, police ideological threats at home, and extract technology and capital from all sides. The discipline comes from memory. Reckless alignment swings have historically been expensive. Selective alignment is therefore not a fashion; it is a survival technique.
+
+Export manufacturing links Vietnam to Western demand and to Chinese supply inputs simultaneously. That double link is the economic expression of duality. U.S. tariff policy and Chinese industrial strategy both land on Vietnamese soil. The state bargains by offering stability and labor to investors while refusing to become a pure platform for either capital’s geopolitical projects.
+
+## Mexico and the politics of adjacency
+
+Adjacency to the United States creates a form of leverage that distance-based Brazil cannot copy. It also creates vulnerability Brazil does not share. Migration enforcement, fentanyl trafficking politics, water issues, and auto-sector integration give Washington continuous pressure points. Nearshoring competition with China gives Mexico continuous opportunity.
+
+Mexican governments attempt to ride the opportunity without drowning in the pressure. Screening Chinese investments in sensitive sectors while welcoming them in others is a classic separability play. Energy policy under different administrations alters the play’s terms. So does U.S. electoral rhetoric that treats Mexico as culprit rather than partner.
+
+If North American industrial policy becomes a true security project, Mexico’s room for Chinese commercial partnerships may narrow through rules of origin and political conditionality. If U.S. politics remains chaotic, Mexico may retain more room—and more risk—by playing for time.
+
+## Nigeria’s scale without seamless state capacity
+
+Nigeria’s pivotal potential is routinely asserted and routinely under-delivered relative to population. When oil markets, regional peace operations, fintech, or film and music industries are the topic, Nigeria looks indispensable. When electricity, security in the north, fiscal governance, or consistent diplomatic follow-through is the topic, capacity gaps appear.
+
+External partners still court Abuja because no West African strategy is serious without it. Chinese loans and construction, Gulf capital, European and American energy and security programs, and regional ECOWAS politics create a marketplace. Nigerian elites often treat that marketplace as a resource. The national interest requires converting elite access into public goods. Where that conversion fails, pivotal status becomes a set of bilateral deals without strategic coherence.
+
+## Egypt’s rented indispensability
+
+Egypt has perfected a older style of pivotal bargaining: make yourself necessary to patrons who fear the alternative. Suez Canal revenues, Red Sea security, Gaza-border dynamics, population weight, and peace-treaty architecture with Israel historically drew U.S. aid. Gulf deposits and investments fill gaps when Western conditionality tightens. Russian and Chinese ties provide additional options.
+
+The method can look like dependency rotating among patrons rather than true autonomy. The distinction matters. Rotating dependency preserves regime survival and some national bargaining power. It may not build the domestic productive base that would make optionality cheaper. Still, in crisis diplomacy, Egypt’s phone number remains near the top of lists. That is pivotal status of a transactional kind.
+
+## Philippines oscillation as data
+
+The Philippines offers time-series evidence inside one country. Administrations have swung from accommodation with China to confrontation and back toward tighter U.S. alignment, then toward recalibrations again as leadership changes. Treaty alliance with the United States sets a floor similar to Turkey’s NATO floor, but domestic politics alters how much of the floor is used.
+
+Maritime incidents at Second Thomas Shoal and elsewhere periodically compress choices. Public opinion, military professional preferences, and economic incentives do not always align. Oscillation shows that selective alignment is not only a clever plan; it can be an unstable outcome of contested domestic coalitions. Great powers that assume a permanent Philippine stance will keep being surprised.
+
+## Argentina’s ideological swing risk
+
+Argentina illustrates how pivotal potential can be burned by macroeconomic fragility and ideological whiplash. Mineral and agricultural assets attract Chinese, U.S., and European interest. Political swings can produce abrupt reorientation toward one patron narrative. Investors and diplomats then price Argentine commitments at a discount.
+
+For the typology, Argentina warns that issue-by-issue bargaining requires a minimum of institutional continuity. Without it, the state becomes a sequence of postures rather than a portfolio manager.
+
+## Gulf adjuncts and the capital periphery
+
+Smaller Gulf states beyond the Saudi-Emirati core—Qatar, Oman, Kuwait, Bahrain—illustrate adjunct pivotal roles. Qatar sells mediation channels and gas. Oman sells quiet diplomacy and geographic placement on the Arabian Sea. Kuwait and Bahrain navigate patronage, U.S. security ties, and domestic political constraints in different mixes. They do not redefine global order alone. They alter specific bargains: hostage releases, energy spot markets, basing access, and the social temperature of regional talks.
+
+Treating them as mere clients misses their discretion within clientelage. Treating them as fully autonomous equals to India misses hierarchy. The typology needs that middle language.
+
+## Pacific island and littoral footnotes
+
+Some littoral and island states matter episodically through exclusive economic zones, undersea cable landings, fisheries, and voting blocs in international organizations. Their pivotal status is narrow and real. Great powers that discover them only during a cable project or a UN vote pay premiums. Middle-power theory should include these footnotes without pretending they are India.
+
+## Preparedness when the spotlight arrives
+
+Visibility can arrive faster than capacity. A state can suddenly matter to supply chains, votes, or basing and still lack administrative depth, fiscal space, or industrial base to bargain well. Outside powers escalate attention; domestic factions sell access; the country absorbs risk without securing durable gains. Preparedness includes customs efficiency, contract enforcement, maintenance skills, foreign-ministry bandwidth, and the ability to say no without improvising a crisis. Pivotal status without those strengths is a spotlight. Vietnam’s duality, Mexico’s adjacency, Nigeria’s scale gaps, corridor states’ multi-route strategies, and episodic legitimacy brokers all illustrate the same rule: network position is not automatic leverage.
+
+They assign fixed geopolitical weight to actors whose leverage is often issue-specific, temporary, and created by the architecture of a particular network.
 
 A strategic port with five easy alternatives has less bargaining power than a less dramatic node with no quick substitute.
 
-The network position creates the leverage.
-
-## Build a pivotality scorecard
-
-A useful scorecard can test six dimensions.
-
-**Marginal effect.** How much does the state’s decision change the outcome?
-
-**Substitutability.** How easily can others replace the contribution?
-
-**Switching cost.** How expensive is it for the state to choose a different partner?
-
-**Durability.** How long will the pivotal asset remain valuable?
-
-**Convertibility.** Can temporary leverage be turned into lasting capacity?
-
-**Domestic sustainability.** Can the government maintain the bargain at home?
-
-A state that scores highly across all six has durable strategic optionality.
-
-A state that scores highly on one headline asset and poorly on the others may possess leverage that is much narrower than outside commentary suggests.
-
-## Pivotality has types
-
-Geography creates one kind.
-
-Market scale another.
-
-Industrial capacity another.
-
-Resources.
-
-Technology.
-
-Financial infrastructure.
-
-Military access.
-
-Institutional legitimacy.
-
-Diplomatic networks.
-
-Demographic weight.
-
-Regional leadership.
-
-Standards adoption.
-
-These are not interchangeable.
-
-A country pivotal because of a port should bargain differently from one pivotal because of semiconductor capacity.
-
-A state pivotal because of institutional legitimacy has different risks from one pivotal because of energy production.
-
-The asset defines the leverage.
-
-It also defines the vulnerability.
-
-Geography cannot move.
-
-Industry can relocate slowly.
-
-Capital can move quickly.
-
-Votes can change overnight.
-
-Political legitimacy can depreciate.
-
-Technology can become obsolete.
-
-Pivotality has different clocks depending on its source.
-
-## Measure the pivotality half-life
-
-A country should ask how long its current leverage is likely to last.
-
-Call this the **pivotality half-life**.
-
-How quickly can others build a substitute route?
-
-Develop a substitute technology?
-
-Qualify another supplier?
-
-Shift investment?
-
-Reform an institution?
-
-Build a different coalition?
-
-The shorter the half-life, the more important it is to convert temporary leverage into something durable before the moment passes.
-
-A country that treats temporary pivotality as permanent rank can overplay its hand.
-
-## Convert leverage before it decays
-
-The strongest middle-power strategies turn moments of pivotality into capacity.
-
-Use a supply-chain chokepoint to negotiate domestic industrial investment.
-
-Use market access to negotiate skills transfer.
-
-Use diplomatic brokerage to build institutional centrality.
-
-Use a transit role to improve infrastructure and logistics competence.
-
-Use coalition participation to gain standards influence.
-
-Use resource demand to build processing capacity rather than exporting only the raw asset.
-
-The pivotal moment matters less if it leaves nothing behind.
-
-This is **pivotality conversion**.
-
-Temporary bargaining power becomes durable only when it changes the state’s future option set.
-
-## Build a conversion ratio
-
-A state can measure how effectively it converts leverage.
-
-How much domestic capacity was created per episode of pivotal bargaining?
-
-Did a resource agreement create local processing?
-
-Did a technology partnership create transferable skills?
-
-Did infrastructure finance diversify routes or deepen dependence on one provider?
-
-Did diplomatic brokerage create lasting institutional influence?
-
-Did military cooperation create sovereign maintenance capacity?
-
-The **conversion ratio** asks whether pivotality produced durable capability or only short-term rent.
-
-A high-profile deal with a low conversion ratio can leave the country no more autonomous than before.
-
-## Need without alternatives is dependency
-
-Pivotality is often described from the perspective of the great power that needs something.
-
-That is only half the bargain.
-
 A state has leverage when others need something from it **and** it has enough alternatives to resist a bad bargain.
-
-Need without alternatives produces dependency.
-
-Need plus alternatives produces bargaining power.
-
-A country may control a resource everybody wants.
-
-If only one credible investor can develop it, the resource map overstates leverage.
-
-A state may occupy strategic geography.
-
-If its economy depends overwhelmingly on one neighbor, location can become constraint rather than power.
-
-A country may possess diplomatic legitimacy.
-
-If domestic instability makes commitments unreliable, partners discount it.
-
-Pivotality must therefore be adjusted for the capacity to choose.
-
-## Create an alternative-depth index
-
-For every pivotal asset, ask how many credible counterparties exist.
-
-How many buyers?
-
-Investors?
-
-Security partners?
-
-Technology suppliers?
-
-Financial channels?
-
-Transit routes?
-
-Diplomatic forums?
-
-Do those alternatives operate at meaningful scale?
-
-How quickly can the state switch?
-
-An **alternative-depth index** distinguishes symbolic options from real ones.
-
-Three relationships that all depend on the same upstream provider do not equal three independent alternatives.
-
-The same logic applies here as in technology and alliance networks: count failure domains, not logos.
-
-## Pivotality can be geographic
-
-Mexico illustrates how geography and economic integration can make choices consequential across manufacturing, trade, migration, energy, and cross-border infrastructure.
-
-The point is not that proximity determines policy.
-
-It is that some policies cannot be implemented efficiently without Mexican participation.
-
-That creates issue-specific bargaining space.
-
-The same interdependence creates exposure.
-
-Pivotality can feel like vulnerability from inside the pivotal state because the network makes the country important precisely by connecting it deeply enough that pressure can travel through the same links.
-
-This duality is fundamental.
-
-The network gives leverage.
-
-The network also creates channels of coercion.
-
-## Pivotality can be supply-chain based
-
-Vietnam illustrates a different configuration.
-
-Manufacturing roles, maritime geography, and relationships with multiple major powers can create value in a region where companies and governments seek additional production and logistics options.
-
-The important distinction is between economic participation and strategic allegiance.
-
-A state can benefit from supply-chain diversification without treating the investment as a political conversion.
-
-Great powers often assume capital should buy alignment.
-
-The recipient may see the transaction as participation in one network only.
-
-That gap in expectations is a recurring source of friction.
-
-## Pivotality can be industrial
-
-South Korea illustrates how advanced industrial capacity can make one country consequential across several domains at once.
-
-Semiconductors, batteries, shipbuilding, defense production, and technology standards can create overlapping forms of leverage.
-
-Dense capability does not eliminate strategic dilemmas.
-
-It multiplies them.
-
-A technology decision can become a security decision.
-
-A security decision can become a market-access problem.
-
-A supply-chain choice can become a diplomatic signal.
-
-The more capable the middle power, the more domains its choices can affect.
-
-This creates bargaining power and domain-coupling risk at the same time.
-
-## Pivotality can be regional-legitimacy based
-
-Nigeria illustrates another form.
-
-Demography, economic scale, regional institutions, and political influence can give a state weight beyond one transaction.
-
-It can shape regional norms, diplomatic legitimacy, development agendas, and security cooperation.
-
-But regional leadership is not regional ownership.
-
-Neighbors have their own interests.
-
-The pivotal state’s influence depends partly on whether others accept its role.
-
-This is why legitimacy appears repeatedly as a strategic asset.
-
-Power others resent can coerce.
-
-Power others accept can coordinate.
-
-The second is often more valuable for middle powers because coordination creates partners rather than subjects.
-
-## Pivotality can be infrastructure based
-
-Egypt illustrates the strategic importance of infrastructure and geography.
-
-A critical waterway and a position linking regional systems can create consequences far beyond physical size.
-
-The broader lesson is that global networks create local points whose failure or restriction affects actors far away.
-
-Ports.
-
-Canals.
-
-Landing stations.
-
-Airspace.
-
-Repair hubs.
-
-Customs corridors.
-
-The map of power increasingly resembles a network diagram.
-
-Look for concentration.
-
-Look for substitution time.
-
-Look for switching cost.
-
-That is where leverage hides.
-
-## Corridor states face an infrastructure paradox
-
-Central Asian states illustrate the politics of competing corridors.
-
-Geography between larger powers can look like entrapment.
-
-It can also create route competition.
-
-Energy routes.
-
-Rail.
-
-Road.
-
-Digital infrastructure.
-
-Trade corridors.
-
-Security relationships.
-
-More credible routes can create more bargaining room.
-
-But infrastructure can diversify one dependence while creating another.
-
-A railway can open trade and create debt exposure.
-
-A pipeline can add an export option and lock the producer into one buyer.
-
-A logistics hub can increase centrality and increase sanctions exposure.
-
-Infrastructure creates optionality only when control over the route is not itself concentrated beyond the state’s ability to bargain.
-
-## Every pivotal asset has a capture risk
-
-Success attracts suitors.
-
-It also attracts attempts to lock in the asset.
-
-Long-term concessions.
-
-Exclusive procurement.
-
-Standards lock-in.
-
-Debt structures.
-
-Security arrangements.
-
-Technical ecosystems.
-
-A country can monetize pivotality in a way that destroys future pivotality.
-
-This is **capture risk**.
 
 The state should ask not only how much value a deal delivers now but how much bargaining freedom remains afterward.
 
-The best deal may be one that pays slightly less today while preserving competition tomorrow.
-
-## Build a pivotality balance sheet
-
-A government should maintain a **pivotality balance sheet**.
-
-Assets:
-
-Strategic geography.
-
-Industrial capacity.
-
-Resource control.
-
-Market access.
-
-Institutional legitimacy.
-
-Technical standards.
-
-Diplomatic networks.
-
-Liabilities:
-
-Buyer concentration.
-
-Debt concentration.
-
-Maintenance dependence.
-
-Single-route exposure.
-
-Political fragility.
-
-Limited substitute suppliers.
-
-Legal lock-in.
-
-Domestic opposition.
-
-The balance sheet prevents the government from valuing the headline asset without pricing the dependencies attached to it.
-
-## Great powers often see the asset; the pivotal state sees the portfolio
-
-A larger power may want one thing.
-
-Access.
-
-A vote.
-
-A mineral.
-
-A public endorsement.
-
-A technology partnership.
-
-The middle power evaluates the whole portfolio.
-
-What does saying yes do to other relationships?
-
-What precedent does it create?
-
-Which domestic groups gain or lose?
-
-Does the agreement create a new dependency?
-
-Can the concession be reversed?
-
-Does it narrow access to another technology or market?
-
-The great power sees one transaction.
-
-The pivotal state sees portfolio effects.
-
-This is why apparently generous offers can fail.
-
-The reservation price is multidimensional.
-
-Cash alone may not buy it.
-
-## Pivotality is issue-specific
-
-The phrase “Global South” can be politically meaningful.
-
-Operationally it is too broad for strategy.
-
-Countries have different debt structures.
-
-Different security threats.
-
-Different technology dependencies.
-
-Different development priorities.
-
-Different domestic politics.
-
-Different historical relationships.
-
-The coalition that works on climate finance may not be the coalition that works on maritime security.
-
-The coalition that supports institutional reform may fracture on sanctions.
-
-This is not incoherence.
-
-It is **issue topology**.
-
-The map changes with the question.
-
-## Build issue-specific pivotality maps
-
-A serious strategy should therefore ask, for each problem:
-
-Which states have high marginal effect?
-
-Which contributions are hard to substitute?
-
-Which governments can actually deliver them?
-
-Which domestic constraints matter?
-
-Which other relationships would the requested action endanger?
-
-Which form of compensation or partnership would increase convertibility for the pivotal state?
-
-The answer will differ by issue.
-
-There is no permanent roster of decisive middle powers.
-
-There are changing networks with changing veto points.
-
-## Network centrality is not political willingness
-
 AI and network analysis can map trade, voting patterns, transport corridors, industrial dependencies, technology stacks, and diplomatic relationships at unprecedented scale.
-
-That can identify potential pivotality.
-
-It can also create false precision.
-
-Political willingness is not a graph edge.
-
-A model can identify that a country controls an important port.
-
-It cannot assume the government will grant access.
-
-It can measure voting history.
-
-It cannot guarantee the next vote.
-
-It can estimate dependence.
-
-It cannot know exactly how much domestic political pain a leader will accept to preserve autonomy.
-
-Network analysis should identify questions for diplomacy, not substitute for diplomacy.
-
-## Measure permission probability separately from asset centrality
-
-A useful planning model should separate two variables.
-
-**Asset centrality:** how important is the state’s contribution to the network?
-
-**Permission probability:** how likely is the government to make the contribution available under the relevant political conditions?
-
-High centrality with low permission can be strategically frustrating.
-
-Moderate centrality with high permission can be more useful.
-
-This distinction stops planners from treating geography as consent or industrial capacity as automatic coalition participation.
-
-The state remains a political actor, not infrastructure.
-
-## Domestic legitimacy discounts pivotal power
-
-A government can make an agreement and fail to sustain it.
-
-A base-access decision can trigger domestic backlash.
-
-A mining agreement can become politically toxic.
-
-A sanctions policy can be reversed after an election.
-
-A technology arrangement can be challenged as a sovereignty loss.
-
-Pivotality should therefore be discounted by **domestic legitimacy risk**.
-
-How broad is support for the bargain?
-
-How visible are the costs?
-
-Who can veto implementation?
-
-Can the government explain the deal as national strategy rather than external compliance?
-
-A pivotal asset controlled by a politically brittle coalition is less reliable than the physical map suggests.
-
-## Pivotality creates moral hazard
-
-A state may learn that crisis increases its bargaining value.
-
-It can delay decisions to extract concessions.
-
-Create ambiguity.
-
-Threaten to defect.
-
-Auction access.
-
-This can work in the short run.
-
-It can also damage long-run trust.
-
-Partners price reliability over time.
 
 A state that charges the highest possible price for every moment of leverage may find fewer actors willing to create future dependence on it.
 
-Strategic bargaining has an intertemporal dimension.
+The argument of this chapter would weaken if issue-specific pivotality rarely translated into bargaining leverage, if substitution proved so rapid that most local veto points were fleeting, if domestic politics consistently overwhelmed network position, or if great powers routinely bypassed pivotal states without meaningful cost.
 
-Do not maximize every auction.
+The thesis strengthens if marginal states repeatedly shape outcomes because of concentrated assets, if switching time creates bargaining room, if states convert temporary leverage into durable capacity, and if great-power coercion accelerates future diversification.
 
-Preserve the market for your future relevance.
+## The security frontline middle
 
-## Track the reliability premium
+Some states practice selective alignment under the shadow of a nearby threat that Brazil never faces. Vietnam is the clearest Asian example. It manages a profound economic relationship with China while maintaining historical distrust and active maritime contestation in the South China Sea. It deepens defense and technology ties with the United States, Japan, India, and others without entering a formal alliance that would eliminate maneuver space. The method looks like hedging because it is hedging—but hedging with a memory of war and a border reality that makes illusion costly.
 
-A pivotal state can earn a **reliability premium**.
+The Philippines under shifting administrations shows the other face of frontline politics: oscillations between accommodation and confrontation with China, paired with a U.S. treaty alliance that can be emphasized or de-emphasized as domestic politics change. Frontline middles have less room for theatrical equidistance. Their selectivity appears inside narrower bands: basing access details, coast guard cooperation, economic project approvals, and the legal framing of maritime incidents.
 
-Partners may prefer it even when alternatives are cheaper if commitments are predictable, procedures work, and sudden policy reversal is rare.
+Poland and the Baltic states are sometimes called middle powers in European debates, but their strategic behavior after 2022 has been closer to concentrated alignment than to the autonomy portfolio described in this book. They are reminders of a boundary condition: when tanks are close and history is raw, issue-by-issue bargaining compresses toward alliance priority. The world will not choose sides evenly. Geography still sorts the menu.
 
-That premium is strategic capital.
+## The nearshoring pivot
 
-It reduces the need to extract value through constant threat.
+Mexico’s leverage is commercial geography. It sits beside the U.S. market in an era of friend-shoring, tariff politics, migration bargaining, fentanyl crisis diplomacy, and China-U.S. supply-chain rivalry. Mexican industrial policy and firm decisions help determine how much “de-risking” from China becomes North American manufacturing reality rather than speechwriting.
 
-It also makes the state harder to bypass when substitutes emerge.
+Mexico can court Chinese investment in some sectors while integrating more deeply into U.S.-centered production networks in others. That is selective alignment through FDI screening, energy politics, and labor governance rather than through UN oratory. The risk is asymmetric interdependence: the United States can couple migration, security, and trade more violently than Mexico can couple anything back. Nearshoring pivots have leverage because they are useful. They have limits because they are replaceable only at high cost—and because the larger neighbor knows it.
 
-Reliability can extend the half-life of pivotality.
+## The demographic and market pivots of Africa
 
-## Great powers can win the transaction and lose the network
+Nigeria’s claim rests on population, market size, creative industries, energy resources, and West African diplomatic weight. Kenya’s claim often rests on logistical hubs, digital services, diplomatic activism, and a reputation as an East African connector. Egypt’s claim combines population, control related to the Suez Canal, Mediterranean and Red Sea position, and a long record of playing external patrons against one another.
 
-The mirror problem belongs to larger powers.
+These states rarely match India’s institutional diversification or the Gulf’s capital scale. They still matter when a coalition needs African votes, mineral access, counterterrorism basing, maritime corridor security, or legitimacy for a “global” initiative that would otherwise look Atlantic. China’s infrastructure financing, U.S. security cooperation, Gulf capital, and European regulatory and aid relationships create a competitive marketplace. African pivotal states often maximize that marketplace by refusing exclusive political conditionality—until debt distress, coups, or security collapse reduce their bargaining power.
 
-A sanction threat may produce compliance today and encourage alternative payment rails tomorrow.
+The Sahel’s recent upheavals show the dark side of the typology. When states lose monopoly on violence or rotate through juntas, external partners multiply (Russia’s Africa Corps and successors, Turkish drones, Gulf money, residual Western programs), but local agency can narrow to survival patronage. Pivotal status is not permanent. It can be squandered.
 
-An export restriction may change one procurement decision and accelerate domestic substitution.
+## The corridor states
 
-A diplomatic ultimatum may secure one vote and reduce willingness to cooperate in the next forum.
+Kazakhstan and other Central Asian states sit between Russian security legacies, Chinese economic gravity, European connectivity schemes, and Turkish cultural-commercial outreach. Their method is multi-vector diplomacy in the literal sense: keep several corridors open so that no single neighbor owns the locks. Energy exports, rail routes, and critical minerals make the method material. Ukraine war sanctions spillovers and Russian pressure make it dangerous.
 
-Coercion can win the transaction while weakening the future network.
+Egypt and, in a different way, Ethiopia illustrate corridor politics around the Red Sea and Nile Basin. Control of passages, dams, and ports translates into agenda power over food, energy, and military logistics. Gulf states invest heavily in these corridors precisely because corridor control is transferable leverage. The local state tries to remain the rent collector rather than the rented facility. Success varies with debt, elite cohesion, and the intensity of nearby wars.
 
-This is why pivotal-state politics is cumulative.
+## The swing manufacturers
 
-Every use of leverage changes future switching costs.
+Vietnam, Malaysia, Thailand, and, increasingly, parts of India and Mexico occupy a manufacturing swing role in electronics, solar, and other sectors affected by U.S. export controls and tariff walls. Firms reroute assembly to manage rules of origin and political risk. Governments compete to capture the rerouted investment without triggering secondary sanctions or Chinese retaliation.
 
-## Build a post-bargain exit indicator
+This is selective alignment enacted by customs codes and industrial parks. A country can host Chinese-owned factories that export into Western markets under local labels while quietly negotiating security dialogues with Washington. The arrangement lasts until regulators define content thresholds that re-politicize the supply chain. Technology without allegiance, discussed later, begins in these swing manufacturing nodes.
 
-After a major episode of pressure or bargaining, watch what the pivotal state builds.
+## The legitimacy and mediation second tier
 
-New suppliers?
+Beyond South Africa, states such as Indonesia, Turkey, Qatar, and periodically Kenya or Egypt compete in mediation markets. Qatar’s role in hostage diplomacy and political talks shows how a small capital-rich state can sell channel access. The product is confidentiality and contact lists. The price is accusations of double-dealing. Second-tier mediators matter because great powers often need cutouts. They lose relevance if they become too identified with one side’s victory narrative.
 
-Alternative finance?
+## Why the field matters to great powers
 
-Domestic maintenance?
+Great powers lose when they over-index on a few celebrities of multipolarity and ignore the median pivotal state. A sanctions regime fails if corridor states bust it. A supply-chain coalition fails if swing manufacturers free-ride. A maritime coalition fails if frontline states alternate between access and distance. A legitimacy campaign fails if African and Asian second-tier states abstain.
 
-New transport routes?
+Conversely, great powers overpay when they treat every pivotal state as equally recruitable into comprehensive alignment. Most want packages: investment, technology, status, and security help, without exclusive political obedience. The coalition auction described later in the book begins in this wider field.
 
-Legal firebreaks?
+## Vietnam’s disciplined duality
 
-Different technology standards?
+Vietnam deserves a closer look because it practices one of the most disciplined dualities in Asia. Party-state ideology and historical conflict with China coexist with deep trade and investment ties to China. Security concerns in the South China Sea coexist with a careful expansion of defense relationships with the United States and other partners after normalization milestones and upgraded partnerships in the 2020s.
 
-New diplomatic forums?
+Hanoi’s method is rule-bound hedging: diversify partners, avoid exclusive alliances, police ideological threats at home, and extract technology and capital from all sides. The discipline comes from memory. Reckless alignment swings have historically been expensive. Selective alignment is therefore not a fashion; it is a survival technique.
 
-These are **post-bargain exit investments**.
-
-They reveal whether the transaction increased attachment or increased the desire for autonomy.
-
-Great powers should care about this as much as the immediate concession.
-
-## The pivotal-state playbook
-
-A middle power trying to use pivotality well can follow a simple sequence.
-
-Identify the asset.
-
-Measure substitution time.
-
-Map the state’s own switching costs.
-
-Build at least one credible alternative.
-
-Define what durable capacity should be gained from the bargaining moment.
-
-Avoid concessions that destroy all future competition.
-
-Preserve domestic legitimacy.
-
-Deliver reliably once a bargain is made.
-
-Use the proceeds of leverage to deepen optionality before the asset’s half-life expires.
-
-This is statecraft rather than auctioneering.
-
-## The great-power playbook
-
-A larger power should do the inverse analysis.
-
-Identify which state truly has marginal effect.
-
-Do not confuse visibility with pivotality.
-
-Estimate the partner’s portfolio costs.
-
-Offer benefits that improve the partner’s ability to say yes without collapsing other relationships.
-
-Avoid demanding exclusivity where exclusivity is unnecessary.
-
-Deliver on a timeline that beats alternative suitors.
-
-Create convertibility for the partner: skills, maintenance, infrastructure, access, or institutional role.
-
-The more the relationship leaves the pivotal state stronger, the more likely the relationship is to survive after the specific moment of leverage passes.
-
-## Measure pivotality decay before it becomes a surprise
-
-A state should monitor leading indicators that its leverage is fading.
-
-Competitors building substitute infrastructure.
-
-New suppliers qualifying.
-
-Technology shifting away from the pivotal asset.
-
-Demand concentration falling.
-
-Institutional reforms reducing a veto.
-
-Political legitimacy weakening.
-
-Partners increasing coercive leverage over the state itself.
-
-These are **pivotality decay indicators**.
-
-The worst moment to discover leverage has expired is during the negotiation in which it was assumed.
+Export manufacturing links Vietnam to Western demand and to Chinese supply inputs simultaneously. That double link is the economic expression of duality. U.S. tariff policy and Chinese industrial strategy both land on Vietnamese soil. The state bargains by offering stability and labor to investors while refusing to become a pure platform for either capital’s geopolitical projects.
 
 ## Falsifying the pivotal-state thesis
 
@@ -765,75 +245,6 @@ The thesis strengthens if marginal states repeatedly shape outcomes because of c
 The claim is empirical.
 
 Does network position materially change the terms of choice?
-
-## The decision-maker who matters keeps changing
-
-The international system contains many local veto points.
-
-Ports.
-
-Supply chains.
-
-Votes.
-
-Airspace.
-
-Resources.
-
-Transit corridors.
-
-Standards.
-
-Industrial plants.
-
-Data centers.
-
-Repair facilities.
-
-Payment links.
-
-Each can create issue-specific leverage.
-
-The world becomes harder to divide because the decision-maker who matters keeps changing.
-
-That is not disorder.
-
-It is a different distribution of power.
-
-The pivotal state is not a permanent rank.
-
-It is a temporary role created when one network becomes important and one government’s choice changes what that network can do.
-
-The strategic winners will be the states that recognize those moments early, price their own dependencies honestly, convert leverage into durable capability, and remain worth choosing after the moment passes.
-
-
-## Patterns across unlike countries
-
-Vietnam, Mexico, Poland, Kazakhstan, Ethiopia, Malaysia, and others do not share a single political model.
-
-What they can share is a recurring pattern of issue-specific centrality.
-
-One sits on a manufacturing relocation path.
-
-Another on an energy transit system.
-
-Another on a migration and nearshoring corridor.
-
-Another on a minerals and logistics hinge.
-
-Another on a regional security theater where larger powers need local consent.
-
-The temptation is to invent a single “pivotal state” club with membership criteria.
-
-That club would mislead.
-
-The better approach is situational: ask which network is contested, which local choice alters that network, and whether the local state can convert the moment into lasting capability.
-
-Some countries will be pivotal often.
-
-Others only once.
-
-Both matter to the structure of a world that will not choose sides cleanly, because both multiply the number of decision points that resist neat bloc assignment.
 
 ## The risk of being pivotal without being prepared
 

@@ -596,7 +596,6 @@ That is not the end of geopolitics.
 
 It is what functioning geopolitics looks like when states still have choices.
 
-
 ## How auctions begin without anyone calling them auctions
 
 No foreign ministry announces that it is holding a coalition auction.
@@ -708,7 +707,6 @@ That is why the coalition auction belongs in a book about middle powers.
 It is not mainly a story about clever diplomacy.
 
 It is a story about whether temporary usefulness becomes durable autonomy—or merely another cycle of being needed and then forgotten.
-
 
 ## Audience effects and the performance of bargaining
 

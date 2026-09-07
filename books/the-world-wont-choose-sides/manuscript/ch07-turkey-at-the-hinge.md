@@ -64,12 +64,6 @@ The Middle East creates separate security and economic demands.
 
 The Caucasus and Central Asia create linguistic, historical, commercial, and strategic links.
 
-No single partnership can solve all of these problems for Ankara.
-
-That makes portfolio foreign policy rational even when it appears inconsistent from outside.
-
-Geography also creates obligations that a distant state can avoid.
-
 A Black Sea crisis affects shipping, energy, military access, and regional security directly.
 
 A conflict in Syria can create refugee, border, terrorism, and domestic political consequences inside Turkey.
@@ -79,34 +73,6 @@ Eastern Mediterranean disputes touch energy, sovereignty, and alliance relations
 The portfolio is not only ambition.
 
 It is a response to multiple theaters that cannot be outsourced to one patron.
-
-## The geography premium
-
-Geographic leverage is often described as if a state can charge rent forever for occupying useful territory.
-
-In practice, the premium depends on alternatives.
-
-Can allies use other bases?
-
-Can trade routes shift?
-
-Can pipelines be rerouted?
-
-Can intelligence be collected elsewhere?
-
-Can diplomacy proceed without Ankara?
-
-Turkey’s geographic leverage is high where substitution is expensive and lower where partners can route around it.
-
-This creates a geographic substitution test.
-
-How much time, money, or military effectiveness does the coalition lose if Turkish cooperation is absent?
-
-That is a more useful measure than saying Turkey is “strategically located.”
-
-Location creates potential.
-
-Substitution cost creates leverage.
 
 ## Russia: compete and cooperate
 
@@ -133,36 +99,6 @@ How quickly can a disagreement in one theater spread into energy, trade, tourism
 The more tightly coupled the portfolio becomes, the less room Ankara has to compartmentalize.
 
 This makes crisis coupling a better test than ordinary peacetime cooperation.
-
-## Compartmentalization needs firebreaks
-
-A state cannot rely on political skill alone to keep domains separate.
-
-It needs institutional firebreaks.
-
-Different contracts.
-
-Different agencies.
-
-Diversified suppliers.
-
-Legal boundaries.
-
-Alternative financing.
-
-Independent military capabilities.
-
-Separate communication channels.
-
-These structures limit the ability of one dispute to consume the whole relationship.
-
-Without them, compartmentalization is rhetorical.
-
-A government can say energy and security are separate.
-
-If one supplier controls enough energy to impose immediate political cost, the separation is thin.
-
-The portfolio needs architecture.
 
 ## The S-400 lesson
 
@@ -200,46 +136,6 @@ It is whether the resulting portfolio left Turkey with more usable future choice
 
 That is the autonomy test.
 
-## Procurement creates alignment through time
-
-A defense purchase is not a one-time political signal.
-
-It creates a lifecycle.
-
-Training.
-
-Maintenance.
-
-Software.
-
-Ammunition.
-
-Upgrades.
-
-Spare parts.
-
-Security procedures.
-
-Doctrine.
-
-A supplier relationship can outlast the government that signed it.
-
-This is why defense procurement is alignment stretched through time.
-
-Turkey’s domestic defense-industrial development matters partly because it can shorten that time dependency.
-
-The more functions that can be performed domestically, the lower the cost of future disagreement with an external supplier.
-
-But indigenous branding is not enough.
-
-The relevant question is the dependency stack.
-
-Which engines, sensors, chips, materials, design tools, and software remain external?
-
-Domestic assembly can coexist with foreign chokepoints.
-
-Autonomy should be measured below the label.
-
 ## NATO as asset, not identity
 
 Turkey’s behavior makes more sense if NATO is understood as an extraordinary strategic asset rather than a complete foreign-policy identity.
@@ -274,363 +170,107 @@ And membership in overlapping organizations would not prove that those organizat
 
 The analytical point is optionality, not bloc conversion.
 
-## Institutions are portfolios too
+## What a hinge actually is
 
-States can join institutions for different functions.
+A hinge state sits where systems meet: military alliances, energy corridors, migration routes, maritime law, and regional wars. Geography creates the hinge. Policy decides whether the hinge becomes leverage or vulnerability.
 
-Security.
+Turkey’s leverage comes from several assets at once. The Straits matter for Black Sea naval balance. The Incirlik airbase and broader NATO infrastructure matter for alliance operations. Turkey’s defense industry, especially unmanned systems, matters for partners who need affordable capability at scale. Its proximity to Syria, Iraq, the Eastern Mediterranean, the Caucasus, and the Black Sea means that refugee flows, energy projects, and ceasefire talks often run through Turkish preferences whether outsiders like those preferences or not.
 
-Trade.
+Vulnerability comes with the same package. Turkey faces terrorism, border instability, economic stress, earthquake recovery burdens, and inflationary politics that make foreign policy a domestic instrument. Dependence on energy imports constrains how far confrontation with suppliers can go. NATO membership provides deterrence and status but also exposes Ankara to alliance discipline and Washington’s legislative moods. Relations with the European Union remain stuck between customs-union economics and political deadlock over accession, rule-of-law disputes, and migration bargains.
 
-Development finance.
+The hinge strategy is an attempt to convert exposure into optionality: to make every major power need Turkish cooperation on something important enough that none can punish Ankara without cost.
 
-Regional diplomacy.
+## NATO as floor, not ceiling
 
-Political signaling.
+The most important clarification in Turkish strategy is often the one outsiders miss. NATO membership is not evidence that Turkey has “chosen the West” in the totalizing sense American commentary sometimes implies. For Ankara, NATO has frequently functioned as a security floor: a deterrent architecture and institutional identity that protects core interests while leaving room above the floor for autonomous deals.
 
-Access to leaders.
+That distinction became sharper after Russia’s full-scale invasion of Ukraine in February 2022. Turkey invoked the Montreux Convention early, restricting warship transit in ways that limited Moscow’s ability to reinforce the Black Sea Fleet from outside. It supplied Ukraine with drones that mattered in the early phase of the war and later pursued co-production arrangements. It helped broker grain export arrangements when global food prices and political legitimacy demanded a maritime corridor. It hosted talks and prisoner exchanges. It also refused to join Western sanctions regimes in the comprehensive form preferred in Washington and Brussels, citing national economic interest and a desire to remain a channel.
 
-A state can value one institution for military integration and another for diplomatic reach without treating them as substitutes.
+By 2024 and 2025, Turkish officials participated in peace-process diplomacy around Ukraine while continuing to argue that Black Sea commercial security required durable mechanisms beyond wartime improvisation. Incidents involving commercial shipping, insurance costs, and airspace violations kept the theater dangerous. Ankara’s line remained recognizable: support Ukrainian territorial integrity in important respects, keep talking to Russia, protect Turkish economic interests, and resist any framing that would turn Turkey into a mere forward platform for somebody else’s escalation preference.
 
-This is institutional portfolio strategy.
+In 2025 and 2026, some analysts described a quiet recalibration toward deeper NATO practical cooperation—air defense discussions with European suppliers, Black Sea demining initiatives with Bulgaria and Romania, and renewed interest in European defense-industrial funding. President Recep Tayyip Erdoğan continued to say that exploring SCO membership did not mean turning Turkey’s back on the West. The combination looks contradictory only if one assumes that institutions are exclusive clubs rather than overlapping instruments.
 
-The cost appears when institutional obligations conflict.
+For this book, the lesson is precise. Turkey treats NATO as indispensable and insufficient. Indispensable, because no SCO communiqué replaces Article 5 geography and military interoperability with allies. Insufficient, because alliance membership does not automatically deliver the weapons, EU accession progress, Kurdish-policy deference, or Eastern Mediterranean outcomes Ankara wants.
 
-Sanctions expectations.
+## Syria, migration, and the domestic hinge
 
-Security rules.
+Foreign policy in Turkey is never only foreign.
 
-Technology restrictions.
+Syria policy has been shaped by border security, refugee politics, relations with Russia and Iran, hostility to Kurdish armed groups Ankara defines as existential threats, and the electoral weight of migration. European governments discovered after 2015 that Turkish cooperation on refugee flows was a form of leverage that moral lectures could not dissolve. Migration deals, funding, and political attention became part of the bilateral bargains between Ankara and Brussels.
 
-Voting commitments.
+This is uncomfortable for liberals who want foreign policy to be a clean expression of values. It is central to how middle powers actually bargain. Domestic survival constraints create external red lines. A government that believes a border outcome threatens its security or its voters will trade across domains: energy, defense approvals, summit attendance, NATO accession politics for other states, and rhetorical alignment on distant wars.
 
-Intelligence trust.
+Turkey’s use of Finland and Sweden’s NATO accession process showed the mechanism bluntly. Ankara linked alliance expansion to its own terrorism designations, extradition demands, and bilateral grievances. Allies called it hostage-taking. Turkish officials called it reciprocity. Both descriptions capture part of the truth. In a negotiated order, accession is not only a geostrategic gift to the applicant. It is a moment when an existing member can cash institutional veto power for national aims.
 
-The more obligations couple, the harder overlapping membership becomes.
+Hinge states notice veto points. They use them.
 
-Turkey is therefore a useful test of how far institutional pluralism can go before one system demands exclusivity.
+## Energy, finance, and the non-military columns
 
-## The alliance’s frustration is part of the leverage
+Turkey’s portfolio is not only missiles and migrants.
 
-Allies prefer predictability for good reason.
+Energy relationships with Russia, including nuclear cooperation at Akkuyu and gas dependence, create constraints that pure NATO solidarity narratives ignore. Trade with China and European supply-chain roles create another set of interests. Gulf capital and tourism matter for finance and politics. Central Asian outreach fits both identity narratives and commercial strategy. African defense and construction relationships expand export markets and diplomatic presence.
 
-Military planning depends on knowing which facilities, capabilities, and political commitments will be available. Defense industrial cooperation depends on trust. Sanctions and export-control regimes depend on common expectations.
+These columns allow Turkey to answer different questions differently. It can remain a NATO ally while buying energy from Russia. It can criticize European policy while depending on European trade. It can attend SCO summits while hosting Western defense cooperation. The arrangement looks cynical because it is instrumental. Instrumentality is the method of a state that believes permanent ideological camps are a luxury for countries with fewer borders on fire.
 
-Turkey’s transactional approach can therefore impose real costs on the alliance.
+Financial vulnerability remains the soft underbelly. Currency crises, inflation, and reserve stress can force concessions that strategy papers deny. Great powers know this. So do Turkish politicians. A hinge without macroeconomic resilience eventually swings on someone else’s hinge pin.
 
-Those costs are not incidental to Ankara’s leverage.
+## Mediation as status and insurance
 
-If Turkey were perfectly predictable, partners would have less reason to make concessions to retain its cooperation.
+Turkey markets itself as a mediator because mediation is one of the few roles that converts geographic inconvenience into prestige.
 
-Uncertainty creates bargaining space.
+Hosting talks, arranging exchanges, proposing formulas, and keeping channels open to adversaries allows Ankara to claim that the region cannot be managed without it. That claim supports domestic narratives of strength. It also functions as insurance: a country useful to both sides is harder to isolate. Ukraine diplomacy, earlier Caucasus contacts, and episodic Middle East initiatives all fit the pattern.
 
-But there is a limit.
+Mediation fails often. Failure does not always destroy the asset. Even failed talks can preserve the image of connectivity. The risk is overclaiming. If Turkey promises transformative deals it cannot deliver, credibility falls. If it uses mediation theater to cover coercive regional behavior, partners discount the performance. The hinge then looks less like a broker and more like a spoiler with good stage lighting.
 
-A partner that becomes too unpredictable stops being courted and starts being routed around.
+## Black Sea rules and the Montreux instrument
 
-Exercises shift elsewhere. Supply chains diversify. Intelligence sharing narrows. Political patience declines.
+The Montreux Convention of 1936 is easy to treat as a legal antique until a war makes its clauses operational. Turkey’s decision in 2022 to restrict belligerent warship transit was a reminder that some middle-power instruments are dormant until activated. Once activated, they reshape naval balance without requiring a new treaty, a new base, or a new alliance vote.
 
-Leverage depends on being difficult to replace without becoming impossible to trust.
+That is leverage of a special kind: legal custodianship over a geographic bottleneck. Ankara cannot invent unlimited rights under Montreux, and other parties watch for overreach. But within the convention’s frame, Turkey can affect reinforcement timelines, signal seriousness, and force both Russia and NATO planners to treat Turkish preferences as part of the operating environment.
 
-That is the hinge.
+Black Sea commercial security extended the problem beyond warships. Mines, attacks on merchant vessels, insurance spikes, and drone incidents turned ordinary trade into a strategic variable for a country whose economy depends on maritime commerce. Turkish calls for durable mechanisms to protect civilian shipping were self-interested and systemically relevant. A hinge state that depends on trade cannot treat naval theater management as somebody else’s hobby.
 
-This can be expressed as a trust-substitutability frontier.
+Demining cooperation with Bulgaria and Romania, discussed in alliance-linked formats, showed how Turkey can deepen NATO practical work in one column while keeping political channels to Moscow in another. Critics call this double-dealing. Practitioners call it task separation. The book’s thesis prefers the second description when the tasks truly differ—and warns when separation becomes denial about incompatible end-states.
 
-More unpredictability can increase bargaining leverage up to the point where partners invest in substitutes.
+## Defense-industrial export as foreign policy
 
-Once substitutes mature, the same unpredictability produces less leverage and more isolation.
+Bayraktar TB2 drones did more for Turkish diplomacy than many communiqués. They created a brand of usable, relatively affordable capability associated with Ankara. Co-production talks with Ukraine and sales or talks elsewhere converted an industrial sector into a network of dependencies running toward Turkey rather than only away from it.
 
-The state therefore has to bargain before it teaches the network how to live without it.
+This matters because middle-power theory often underweights export relationships. Import diversification is defensive autonomy. Export relationships are autonomy with agenda power. Recipients that rely on Turkish maintenance, training, and munitions become stakeholders in Turkish political survival and access. They may not love Erdoğan’s domestic politics. They still need the supply chain.
 
-That is one of the most difficult timing problems in middle-power statecraft.
+European interest in scaling drone and air-defense production after watching Ukraine’s war created a new opening. Turkey wants into funding streams and co-production clubs that once treated it as a peripheral aspirant. If those clubs open, Ankara’s NATO floor thickens into an industrial ceiling of sorts—without eliminating Gulf, Asian, or African sales strategies. If those clubs stay closed, Turkey continues searching for autonomy through national champions and non-Western buyers.
 
-## The veto as currency
+## The European Union that never arrives
 
-Institutions create procedural power.
+No account of Turkish optionality is complete without the EU relationship that permanently almost happens. Customs-union economics bind Turkey to European markets. Political accession remains frozen amid disputes over rule of law, Cyprus, migration, and mutual distrust. The result is a structural teasing of alignment: deep economic entanglement without the political membership that would lock identity.
 
-In NATO, consensus gives every member influence that exceeds raw material capability in particular decisions. Turkey has demonstrated repeatedly that procedural authority can become bargaining currency.
+That half-status encourages hinge behavior. If full membership were imminent, the incentive to cultivate alternative institutional families would shrink. If economic ties were thin, the cost of confrontation with Europe would fall. Instead Turkey lives in the middle: too integrated to pivot away casually, too excluded to internalize European foreign-policy discipline as its own.
 
-This is often criticized as obstruction.
+Migration bargains, visa politics, and financial cooperation episodes repeatedly show the same pattern. Europe needs Turkish cooperation on refugees and border management. Turkey needs European markets and occasional financial reassurance. Each side resents the other’s leverage. Neither can liquidate the interdependence cheaply.
 
-Sometimes it is.
+## Domestic regime security and external bargaining
 
-It also illustrates how institutions change the distribution of power among members.
+Turkish foreign policy is also regime security policy. Contested elections, urban-rural divides, Kurdish questions, religious-secular conflict, and elite power struggles create incentives to use external crises for internal consolidation. External heroes and external villains are domestic resources.
 
-A middle power inside a consensus institution can convert its vote into negotiation across issues.
+This does not mean every foreign decision is theater. It means analysts who ignore domestic payoffs will misread bargaining toughness as pure geopolitics. A government may escalate a quarrel with a Western partner partly because the quarrel plays well at home. It may soften another quarrel because inflation voters need calm. Selective alignment is filtered through survival.
 
-That strategy can win concessions.
+Earthquake recovery, reconstruction contracts, and Gulf financing after disasters add another domestic-external loop. Capital partners that help rebuild gain political access. The hinge swings toward wherever the money and the narrative meet.
 
-It can also produce resentment if partners believe the veto is being used on unrelated matters too frequently.
+## Scenario stress: what a harder war does to the hinge
 
-Procedural leverage works best when the coalition still sees the bargain as legitimate.
+Imagine a sharper NATO-Russia clash in the Black Sea, or a Syrian escalation that forces immediate basing and airspace decisions, or a Cyprus-linked Eastern Mediterranean incident that couples energy drilling with alliance solidarity demands. In those scenarios, Turkey’s menu shrinks. Legal custodianship, mediation branding, and diversified sales cannot postpone every binary choice.
 
-Otherwise the institution begins looking for workarounds.
+The chapter’s claim is not that Turkey can avoid all binaries forever. It is that Turkey has structurally more binaries it can postpone than most allies, and that it extracts payment for eventually choosing. If future crises show Ankara repeatedly losing that extraction capacity—forced into uncompensated compliance across domains—then the hinge thesis weakens. If crises continue to end in negotiated exceptions, side payments, and task separation, the hinge remains real.
 
-A veto therefore has a yield curve.
+## Reading Erdoğan’s SCO rhetoric without panic or naivety
 
-The first use can reveal indispensability.
+When Turkish presidents speak about Shanghai Cooperation Organisation membership, Western commentary often splits into two unhelpful camps. One camp hears an imminent defection from NATO. The other camp hears empty trolling. Both miss the bargaining function of the rhetoric.
 
-Repeated use can increase the discount applied to future cooperation.
+Talking about SCO membership signals to Washington and Brussels that Turkey has alternatives worthy of attention. Talking about NATO bedrock signals to Moscow and Beijing that those alternatives have limits. The dual signal is the policy. It keeps multiple capitals competing to shape Turkish choices on air defense, Syria, Sweden-and-Finland-style accession politics, energy, and industrial cooperation.
 
-The question is not whether veto power exists.
+In September 2026 reporting and presidential remarks after SCO summitry, Erdoğan again framed broader eastern institutional engagement as diversification rather than reversal. Analysts who treat every such remark as a final identity choice are using the misleading map criticized in chapter 1. The better question is which concrete files moved after the rhetoric: aircraft, sanctions relief, customs-union modernization, Syria coordination, or Black Sea shipping rules.
 
-It is whether using it now increases or decreases the value of having it later.
-
-That is intertemporal bargaining.
-
-## Issue linkage is powerful and dangerous
-
-A state can use leverage in one domain to bargain in another.
-
-Alliance procedure for arms policy.
-
-Migration for European relations.
-
-Market access for diplomatic support.
-
-Energy for regional accommodation.
-
-This is issue linkage.
-
-Middle powers often gain leverage precisely because different great powers care about different parts of their portfolio.
-
-The danger is overlinkage.
-
-If every dispute becomes connected to every other dispute, compartmentalization collapses.
-
-Partners begin treating the whole relationship as one contested bargain.
-
-Selective alignment then becomes harder because the state itself has coupled the domains it wanted to keep separate.
-
-A disciplined portfolio therefore needs rules about which issues are worth linking and which should remain fenced.
-
-## Energy and financial constraints
-
-Autonomy has a material balance sheet.
-
-Turkey’s foreign policy is constrained by energy needs, currency pressures, investment requirements, trade exposure, and domestic economic politics.
-
-A government can speak the language of sovereignty while discovering that markets set a narrower range of feasible actions.
-
-This is why Gulf capital, European trade, Russian energy, Chinese finance or commerce, and domestic industrial capacity all matter to Turkish strategy.
-
-Multiple relationships can reduce dependence on any one partner.
-
-They can also create multiple channels of vulnerability.
-
-The relevant measure is not how many partners Turkey has.
-
-It is whether the portfolio reduces switching costs when one relationship becomes coercive.
-
-A diversified set of dependencies is not automatically autonomy.
-
-It can simply be a more complicated dependence map.
-
-This is where liquidity matters.
-
-Some dependencies can be replaced slowly.
-
-A market can shift over years.
-
-An industrial supplier can be substituted with investment.
-
-A financial crisis compresses the clock.
-
-The actor able to provide immediate liquidity can gain influence disproportionate to its long-run share of the economy.
-
-Strategic autonomy therefore has a maturity structure.
-
-Which vulnerabilities matter today?
-
-Which can be fixed over five years?
-
-A state can be diversified at the long horizon and exposed at the short one.
-
-## Defense industry as optionality
-
-Turkey’s growing domestic defense industry is strategically important because local production can reduce the cost of political disagreement.
-
-A country able to design, manufacture, integrate, and export more of its own systems has more bargaining room than one dependent on a single foreign supplier for every upgrade or munition.
-
-Indigenous capacity does not create technological independence.
-
-Complex systems still rely on foreign components, markets, and know-how.
-
-But partial capability matters.
-
-It gives Turkey more ways to absorb an embargo, substitute a component, offer security partnerships to third countries, and convert industrial relationships into diplomatic ones.
-
-This is how technology policy becomes foreign-policy optionality.
-
-Exports add another layer.
-
-A state that becomes a supplier gains relationships with buyers.
-
-Training, maintenance, co-production, and battlefield reputation can turn industrial capability into diplomatic access.
-
-The country is no longer only negotiating with suppliers.
-
-It has customers.
-
-That changes the portfolio.
-
-But export success can create new dependencies on foreign markets and components.
-
-Again, autonomy is a graph, not a label.
-
-## Mediation as position
-
-Turkey also creates leverage by being able to talk to parties that do not talk easily to one another.
-
-The value of a mediator is not moral neutrality.
-
-It is access.
-
-A state with channels to rival camps can sometimes carry messages, host negotiations, facilitate exchanges, or broker limited arrangements because neither side sees it as fully belonging to the other.
-
-This is another reason not to confuse selective alignment with equidistance.
-
-Turkey can be a treaty ally of one side and still retain enough contact with another to perform intermediary functions in selected circumstances.
-
-The relationship portfolio creates diplomatic utility.
-
-Utility becomes leverage.
-
-Mediation leverage depends on preserving credibility with both sides without pretending to be neutral on every issue.
-
-A mediator can have interests.
-
-It cannot be useful if one side believes the channel is merely an extension of the other side’s strategy.
-
-This creates a diplomatic trust frontier similar to the alliance one.
-
-Too much alignment can close the channel.
-
-Too much distance from allies can weaken the assets that made the mediator valuable.
-
-The hinge works because it remains attached to more than one structure.
-
-## Domestic politics is foreign policy
-
-Turkey’s external bargaining is inseparable from domestic political incentives.
-
-National sovereignty, strategic independence, defense-industrial pride, relations with Europe, Kurdish politics, migration, economic performance, and leadership narratives all shape how foreign agreements are presented at home.
-
-A concession that looks minor to an ally can be politically costly in Ankara if it appears to undermine autonomy.
-
-A dispute that seems economically irrational from outside may be useful domestically as proof that Turkey cannot be dictated to.
-
-Great powers negotiating with middle powers often underestimate this layer.
-
-They calculate material incentives and miss the domestic value of refusal.
-
-Respect is not decoration in these bargains.
-
-It affects the political price of cooperation.
-
-The domestic value of refusal can itself become a bargaining asset.
-
-A government can credibly tell partners that certain terms will not survive at home.
-
-Sometimes the constraint is real.
-
-Sometimes leaders shape the constraint through rhetoric and then become trapped by it.
-
-Strategic autonomy can therefore create its own domestic lock-in.
-
-The more political legitimacy depends on visible independence, the harder quiet compromise becomes.
-
-That is a cost of autonomy narratives.
-
-## The overextension risk
-
-There is a version of autonomy that becomes overextension.
-
-Too many simultaneous theaters.
-
-Too many commitments.
-
-Too many transactional relationships requiring constant management.
-
-Too much faith that every partner needs Turkey more than Turkey needs the partner.
-
-A hinge is useful because it connects structures.
-
-A hinge under too much load breaks.
-
-Turkey’s strategy weakens if economic vulnerability forces abrupt concessions, if defense diversification destroys interoperability, if allies permanently reduce trust, or if several regional bargains fail at the same time.
-
-Optionality is not infinite.
-
-It has maintenance costs.
-
-This suggests a bargaining-density limit.
-
-How many simultaneously contested relationships can the state manage without creating contradictions?
-
-How many issue linkages can bureaucracies track?
-
-How many supplier ecosystems can the military sustain?
-
-How many regional commitments can political leadership monitor closely enough to prevent one bargain from undermining another?
-
-State capacity sets the ceiling on portfolio complexity.
-
-Autonomy requires administration.
-
-## The route-around test
-
-A middle power should ask a difficult question about every leverage point.
-
-What will partners do if they stop accepting the bargain?
-
-Build another base?
-
-Find another supplier?
-
-Create a smaller coalition?
-
-Move the logistics route?
-
-Reduce intelligence sharing?
-
-Change the financing relationship?
-
-The cost of substitution is Turkey’s leverage.
-
-The speed of substitution is Turkey’s warning indicator.
-
-Once partners begin paying the cost to route around a hinge, future leverage declines even before the alternative is complete.
-
-This is why overuse of leverage can be self-liquidating.
-
-A successful bargaining tactic today can finance the partner’s escape tomorrow.
-
-## The autonomy scorecard
-
-Turkey’s strategy can be evaluated through concrete questions.
-
-How many critical military functions remain dependent on a single foreign supplier?
-
-How quickly can partners substitute for Turkish facilities or procedural cooperation?
-
-How often does bargaining produce durable concessions rather than temporary delay?
-
-How much alliance access is lost through incompatible procurement?
-
-How concentrated are short-horizon financial and energy vulnerabilities?
-
-How much domestic defense production can operate through external supply disruption?
-
-How many regional relationships remain compartmentalized during major crises?
-
-How often does a veto create a favorable bargain without accelerating institutional workarounds?
-
-How much mediation utility survives sharper alignment in one theater?
-
-How much administrative capacity exists to manage the portfolio?
-
-These measures make the hinge testable.
+Sometimes the answer is “little moved.” Rhetoric without file movement is still a reminder of optionality. Sometimes files do move. Then the hinge earned its keep.
 
 ## What would make the thesis false?
 
@@ -645,29 +285,6 @@ If bargaining tactics steadily reduce alliance benefits faster than they produce
 If allies and partners can route around Turkish leverage cheaply enough, geography and procedural power will matter less than the hinge metaphor implies.
 
 But if Turkey continues to preserve meaningful cooperation across rival systems while retaining the strategic benefits of NATO membership, it is strong evidence that alignment can remain divisible even inside a formal alliance.
-
-## Keeping the doors open
-
-Turkey lives at the hinge between leverage and overextension.
-
-Its strategy is not to remain equally close to every power.
-
-It is to keep enough doors open that no single room can dictate the terms of every conversation.
-
-That is difficult statecraft.
-
-The doors interfere with one another. Some lead to incompatible systems. Some partners demand exclusivity. Some bargains create dependencies that narrow future choice.
-
-Success therefore cannot be measured by the number of relationships Ankara accumulates.
-
-It is measured by whether the portfolio preserves the ability to choose.
-
-An ally with alternatives is still an ally.
-
-The question is how many alternatives it can add before the alternatives consume the interoperability, trust, institutional leverage, and domestic capacity that made the original alliance valuable.
-
-The hinge is powerful only while it can still turn.
-
 
 ## Living inside and outside at once
 
