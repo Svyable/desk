@@ -501,3 +501,9 @@ And they will make recovery part of the product contract.
 That is when containment stops feeling like a tax added after intelligence.
 
 It becomes part of what the customer is buying.
+
+The mature product also needs an exit path. A customer should be able to move an agent workflow to another provider without carrying forward invisible standing authority. Task identities, active grants, descendants, pending actions, and revocation state should be exportable or conclusively terminated. Otherwise switching vendors can leave the old control plane alive after the visible product has disappeared.
+
+This is the containment analogue of data portability. The important object is not only the user's files. It is the user's delegated power. A trustworthy platform can answer a final question when the relationship ends: **what authority still exists because this agent once existed?** The best answer is a machine-verifiable inventory followed by zero.
+
+That property would make containment part of competition rather than merely compliance. Customers could compare platforms not only by what their agents can accomplish, but by how cleanly those agents can be bounded, inspected, transferred, and retired. A product that makes delegation easy but exit ambiguous has solved only half the problem.
