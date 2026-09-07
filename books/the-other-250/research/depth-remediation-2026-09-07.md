@@ -28,9 +28,17 @@ The chapter is now deepened with **709 net words** under the exact checker token
 
 Because this change is append-only against a chapter with no intervening manuscript edit, the exact prior literal count plus the exact additive delta yields a current Chapter 15 count of **3,045 words**, clearing this specific floor by 45 words.
 
+### Chapter 6 — closed
+
+Chapter 6, `manuscript/ch06-a-ditch-across-new-york.md`, was **2,338 words**, **662 words below** the floor on the same literal baseline.
+
+The chapter is now deepened with **687 net words** under the exact checker token expression, `\b[\w’'-]+\b`. The addition stays inside the existing Erie-Canal-as-economic-geography argument, developing how reliable public infrastructure becomes a private financial assumption, creates a constituency for continuity, turns an initial capital decision into a long-lived maintenance relationship, and changes the burden of proof for later infrastructure proposals. It adds no quotation, dated statistic, new named source, or volatile factual claim.
+
+Because this change is append-only against a chapter with no intervening manuscript edit, the exact prior literal count plus the exact additive delta yields a current Chapter 6 count of **3,025 words**, clearing this specific floor by 25 words.
+
 ## Release effect
 
-These passes close **three** of the 21 sub-3,000-word chapter defects recorded by the September 6 literal checker. **Eighteen numbered chapters remain below 3,000 words on that literal baseline** and require substantive deepening rather than padding.
+These passes close **four** of the 21 sub-3,000-word chapter defects recorded by the September 6 literal checker. **Seventeen numbered chapters remain below 3,000 words on that literal baseline** and require substantive deepening rather than padding.
 
 The chapter-only corpus was already **68,901 words**, above the 65,000-word book minimum, before these passes. The controlling mechanical debt is therefore the remaining per-chapter floors.
 

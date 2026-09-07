@@ -139,3 +139,29 @@ The canal did not create American expansion, commerce, or urbanization.
 It made all three easier in particular places, early enough for the easier path to matter.
 
 That is what the seven-million-dollar ditch bought.
+
+The canal also changed what counted as a local decision. A merchant in Rochester who chose a warehouse, a miller in western New York who expanded capacity, or a farmer who borrowed against a larger expected market was acting on a transportation system maintained by a state government. None of those private calculations was purely private anymore. They depended on locks opening, channels being dredged, toll schedules remaining legible, repairs happening after damage, and public officials treating the route as something more durable than a political experiment.
+
+That dependence is easy to miss once infrastructure becomes ordinary. The more reliable a network is, the less its users have to think about the institutions underneath it. A boat operator could plan around a canal season. A merchant could quote a price with some expectation that goods would arrive. A lender could treat access to the route as part of the value of a farm, warehouse, or town. Reliability converted an engineering achievement into a financial assumption.
+
+This is where infrastructure begins to create its own constituency.
+
+The canal did not need every New Yorker to admire it. It needed enough people to organize businesses, property, credit, and local politics around its continued operation. Once they did, abandonment became more expensive than the original decision to build. The state was no longer deciding whether to try a canal. It was deciding how to maintain an economy that had started to assume the canal existed.
+
+That shift matters because public works are often judged as though the choice happens once. Build or do not build. Approve or reject. Spend or save. In practice, the first appropriation creates a sequence of later obligations. Locks wear out. Banks erode. Traffic patterns change. Users demand capacity. Towns ask for feeder connections. Competing technologies alter the return on new investment. The asset becomes a relationship between a government and the people who have built plans around it.
+
+The Erie Canal's success made that relationship harder to unwind, but success was not the only possible path. A failed canal could also leave debts, unfinished works, damaged landscapes, and political distrust. That is why the imitators matter. They show that the lesson was not simply that governments should build ambitious infrastructure. It was that a well-chosen route could change enough private behavior to make the public investment compound, while a badly chosen one could compound liabilities instead.
+
+The distinction is not visible from the ribbon-cutting.
+
+A canal can look equally impressive on opening day whether it is about to become a commercial spine or an expensive monument to a forecast. The evidence arrives later, in freight volumes, toll receipts, land use, business formation, maintenance demands, and the behavior of people who decide whether the route is dependable enough to build around. Infrastructure is therefore partly a bet on engineering and partly a bet on coordination after the engineering is finished.
+
+The Erie Canal won both bets often enough to become self-reinforcing.
+
+That helps explain why its legacy survived the technology that eventually outran it. Railroads could move faster, operate on different schedules, and reach places canals could not. Yet the canal had already helped create markets, cities, commercial habits, and expectations about east-west connection. The railroad did not arrive in an untouched landscape and start history over. It competed inside a geography whose values had been altered by decades of canal traffic.
+
+The deeper inheritance was institutional as well. New York had learned that a state could borrow at scale, manage a long-lived network, charge users, expand capacity, and defend a project whose benefits were distributed across many private transactions. Later generations could argue about whether to repeat that model, but they were arguing in a country where the model had already worked once in spectacular fashion.
+
+That changed the burden of proof. Before the canal, advocates had to persuade skeptics that a state might successfully alter commercial geography through a giant public work. Afterward, skeptics of the next project had to explain why the Erie precedent did not apply.
+
+Precedents are another form of infrastructure. They lower the political cost of imagining the next thing.
