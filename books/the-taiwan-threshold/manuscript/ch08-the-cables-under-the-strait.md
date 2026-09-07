@@ -150,7 +150,6 @@ The cables under the strait are not merely engineering.
 
 They are one of the places where the modern state discovers whether it can remain connected while someone tries to teach it how alone it can be made to feel.
 
-
 ## Matsu, Penghu, and the domestic cable map
 
 Taiwan’s cable problem is not only international.
@@ -219,7 +218,6 @@ The seabed will remain a place where accidents and strategy can look alike.
 
 The state’s job is to ensure that resemblance does not become a permanent license for coercion.
 
-
 ## Public confidence during a digital brownout
 
 Technical restoration is only half the cable problem. The other half is public confidence during a digital brownout.
@@ -246,7 +244,6 @@ A defender that understands it will keep returning to redundancy, law, patrols, 
 
 The threshold under the strait is held not by denying vulnerability, but by denying vulnerability its political harvest.
 
-
 ## Scenario discipline
 
 It is easy, and irresponsible, to slide from “cables are vulnerable” to “Beijing will cut them on Tuesday.”
@@ -259,43 +256,8 @@ That discipline is harder than alarm and more useful than complacency.
 
 It is also the only way to keep cable security aligned with the book’s larger thesis: the danger is sequential coercion below the war threshold, and the defense is clearer classification, higher friction for gray moves, and enough resilience that ambiguous harm does not automatically become political surrender.
 
-
 A final practical note concerns spare capacity and inventory that never appear in dramatic narratives: spare cable sections, jointing kits, trained technicians, fuel for repair ships, and pre-cleared customs processes for emergency equipment. These unglamorous stocks determine whether a fault becomes a day, a week, or a political season. Governments that fund only sensors and statements while neglecting repair logistics have bought the appearance of seriousness. The seabed will test the difference.
-
 
 Partners can help by treating repair access and cable-protection cooperation as ordinary security assistance rather than as crisis improvisation. Shared vessel watch lists, joint tabletop exercises on simultaneous maritime and cable incidents, and quiet agreements on emergency satellite capacity for priority government traffic all raise the cost of isolation strategies. None of these steps requires a treaty revolution. They require administrative seriousness in peacetime, which is often scarcer than rhetoric after an outage.
 
-
 That peacetime seriousness is the true undersea deterrent: not a promise that no cable will ever be cut, but a demonstrated capacity to restore connection fast enough that coercion cannot cash the outage as political victory.
-
-Operationally, named duty officers should own the first six hours of decision-making on this issue, with pre-cleared public language and a partner notification tree that does not depend on finding a particular principal awake.
-
-Commercially, liaison channels to carriers, insurers, exchanges, and critical manufacturers should be exercised quietly so that guidance during pressure is familiar rather than experimental.
-
-Legally, authorities for information sharing, emergency measures, and countermeasures should be mapped in binders that staff can actually open, not only in speeches about resolve.
-
-Analytically, alternative hypotheses should be kept alive longer than is comfortable, because gray-zone campaigns profit from premature certainty as much as from delayed recognition.
-
-Politically, leaders should avoid promising the public a painless path; honesty about friction is part of resilience, while denial becomes a vulnerability when friction arrives anyway.
-
-Among allies, disagreement should be expected and scheduled into consultations rather than discovered as betrayal during the first contested week.
-
-## Continuity note
-
-The gray-zone problem described here does not pause when attention moves to another domain. Officials who staff only the loudest instrument of the week will rediscover the quieter ones after compliance has already moved. Continuity across instruments—inspections with cyber, cables with finance, exercises with partner politics—is the difference between a chapter insight and an operational posture.
-
-Readers should carry forward three questions into the next chapter: what status-quo change would count as success for a coercer here; what early friction would deny consolidation; and what partner noun must be agreed before the first night phone call. Those questions are portable because the adversary’s sequence is portable.
-
-Preparation remains falsifiable. If resilience and coalition speed routinely make these instruments unattractive, the urgency of this chapter should be revised. Until that evidence is strong, the default is to assume that sequential pressure below war will keep searching for seams in classification, commerce, and attention—and to staff those seams on purpose.
-
-Practically, a ministry that cannot name a night-duty owner for this chapter’s problem within five minutes is not ready for sequential coercion. Binders, contact trees, and commercial liaison lists are unglamorous precisely because they work. The adversary’s advantage often begins where those artifacts are missing—and ends where they are rehearsed until they are boring.
-
-One more test: after the next real-world pressure cycle that resembles this chapter’s subject, write a one-page residue memo—what changed, what complied, what reversed, what partners called it, and what binder entry must be updated. If no memo appears, the learning was optional, and optional learning is how thresholds move unnoticed.
-
-Keep the invasion deterrent sharp. Staff the gray zone anyway. The sequence will not wait for a prettier name.
-
-That pairing—hard deterrent, staffed threshold—is the book’s closing discipline as much as its opening claim. If institutions practice only one half, the other half will be the seam an adversary chooses next.
-
-Call the week early. Update the binder. Sleep in shifts. Repeat.
-
-Hold the line in the nouns, then in the ships.
