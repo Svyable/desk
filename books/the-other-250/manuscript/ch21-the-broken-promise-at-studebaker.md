@@ -377,3 +377,91 @@ The money is for the workers.
 The simplicity of that sentence hides the machinery required to enforce it.
 
 Studebaker gave the machinery a human reason to exist.
+
+There is another reason Studebaker mattered: it exposed a timing problem hidden inside employment-based security.
+
+A benefit can be economically earned long before it is legally or financially secure. The worker experiences the promise through years of service. The plan experiences it through vesting schedules, funding assumptions, asset values, and future obligations. Those clocks do not always agree.
+
+That mismatch creates a peculiar form of vulnerability.
+
+Imagine two workers standing next to each other on the same factory floor. Both may have spent many years producing cars. Both may have organized family finances around retirement. Yet a difference in age, seniority, vesting status, or plan terms can determine whether the shutdown destroys a small fraction of an expected benefit or nearly all of it.
+
+The work was continuous.
+
+The protection was not.
+
+That is why pension reform became a question of fairness across time rather than only a question of corporate solvency. If compensation is deferred, the legal system has to decide when the worker's claim becomes sufficiently real that a later corporate failure cannot erase it.
+
+Vesting rules answer part of that question by limiting how long an employer can make the worker wait before the benefit becomes nonforfeitable. Funding rules answer another part by asking whether money is being set aside as the promise accumulates. Fiduciary rules address who controls those assets. Insurance addresses what happens when the promise and the assets still diverge.
+
+The architecture matters because no single safeguard is enough.
+
+A fully vested promise can still be underfunded. A well-funded plan can still be badly managed. A prudently managed plan can still be hit by employer failure or market losses. An insurance backstop can still impose limits. Retirement security is therefore produced by layers that fail differently.
+
+Studebaker made those layers visible because several kinds of risk arrived at once.
+
+Corporate risk became worker risk.
+
+Funding risk became household risk.
+
+A factory decision became a retirement decision for people who did not make it.
+
+That conversion is the chapter's deeper hinge.
+
+Modern employment constantly converts institutional choices into private consequences. A plant closes and a mortgage becomes harder to pay. A health plan changes and a family changes doctors. A pension freezes and retirement moves. A merger alters seniority. A bankruptcy turns years of expected compensation into a claim competing inside a legal process.
+
+The employee experiences these as life events.
+
+The corporation experiences them as restructuring.
+
+Law sits between the two vocabularies.
+
+ERISA did not abolish restructuring. It tried to keep a firm's freedom to change from reaching backward without limit into compensation already earned.
+
+That is an important distinction. A company cannot be required to exist forever simply because workers planned around it. Industries decline. Technologies change. Demand moves. Firms fail. A legal regime that attempted to freeze every employment relationship would create different forms of insecurity by making adaptation impossibly expensive.
+
+The more defensible objective is narrower: when change occurs, some obligations should travel through the change rather than vanish inside it.
+
+That principle appears in many mature institutions. Property claims survive the sale of a building. Debt claims survive changes in management. Insurance obligations are not treated as advertising slogans. Retirement promises, once sufficiently earned, needed a comparable institutional seriousness.
+
+Studebaker helped clarify where that seriousness was missing.
+
+The episode also complicates nostalgia for the postwar employment bargain. Stable corporate careers did provide real security for many workers, especially in large unionized firms. But part of that security depended on the continued health of the employer. A benefit tied tightly to one company can feel safer than an individual account while the company is strong and far more fragile when the company disappears.
+
+Stability can conceal concentration risk.
+
+The worker may be drawing a paycheck from the firm, holding company stock through a savings plan, relying on company health benefits, living in a town whose tax base depends on the plant, and expecting a company pension. What looks like a diversified middle-class life may actually contain several claims on the same institution.
+
+When the institution fails, the claims can fail together.
+
+That is why the geography of Studebaker matters as much as the pension formula. South Bend was not observing the collapse from a diversified national portfolio. Workers, suppliers, local stores, property owners, schools, and municipal finances were tied to the same industrial anchor.
+
+The pension shortfall extended the radius of that concentration.
+
+It meant the closure could continue subtracting income years after the last car left the line.
+
+A retirement guarantee does not repair a regional economy. It does something smaller and still important: it prevents one dimension of industrial failure from compounding without bound.
+
+That is the logic of a backstop.
+
+Backstops are often criticized because they soften consequences. Sometimes that criticism is justified. If protection is too generous or badly priced, institutions can take risks while shifting losses elsewhere. But refusing all backstops creates its own distortion when ordinary people cannot realistically monitor the solvency of every institution on which they depend.
+
+A machinist can evaluate a job.
+
+The machinist cannot continuously audit the long-term actuarial health of a pension plan while also doing the job.
+
+That information problem is one reason regulation exists.
+
+The worker can read a summary plan description and still lack the expertise, data, bargaining power, or practical freedom to respond to underfunding. Telling workers to choose better employers assumes a labor market in which pension solvency is transparent, comparable, and easily acted upon.
+
+Studebaker showed how unrealistic that assumption could be.
+
+The lesson is not that government can make long promises riskless.
+
+It is that institutions should not invite people to organize decades of life around promises whose fragility is visible only after the institution breaks.
+
+That is what turns the episode from a company failure into a national hinge.
+
+The law that followed did not save Studebaker.
+
+It changed what later employers would be allowed to mean when they said: this benefit will be there when you retire.
