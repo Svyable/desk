@@ -11,7 +11,7 @@
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
 | **Chapters**  | 18 of 18 + prologue |
-| **Release Review** | Release-cleared on factual/research/editorial grounds; mechanical gates remain: `check-book-length.py` and `check-desk.py` on one frozen Desk source |
+| **Release Review** | Factual/research/editorial clearance complete; remain blocked on substantive depth because the current broader manuscript total is 57,504 words, below the 65,000 numbered-chapter publication floor; see [research/release-review.md](research/release-review.md) |
 
 *Diplomacy at Machine Speed.*
 

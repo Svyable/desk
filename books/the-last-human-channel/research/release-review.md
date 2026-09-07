@@ -2,7 +2,7 @@
 
 ## Decision — September 6, 2026
 
-**Release-cleared on factual, research, rights, matter, and editorial grounds; objective mechanical publication gates remain.**
+**Release-cleared on factual, research, rights, matter, and editorial grounds; remain blocked on substantive manuscript depth before the objective mechanical publication gates can pass.**
 
 The manuscript is complete, the rights package is present, and claim-level publication review now covers the full book. Prologue and Chapters 1–3 are mapped in the canonical source ledger; Chapters 4–7, 8–12, and 13–18 have focused release-evidence maps reviewing their current canonical text.
 
@@ -48,14 +48,22 @@ The final review preserves these distinctions throughout the book:
 - military-AI declarations and multilateral negotiations are real governance activity but are not comprehensive, verified arms-control regimes;
 - the final human-responsibility boundary is an institutional design claim, not a claim that humans are inherently better analysts than machines.
 
-## Mechanical publication gates
+## Controlling depth blocker
 
-The substantive review is green, but publication remains blocked until one frozen committed Desk source passes both repository-conventional commands:
+The current canonical Desk dashboard reports **57,504 words across the manuscript Markdown used for the book dashboard**. That total includes material outside the 18 numbered chapters, including the prologue and front/back matter. The repository publication checker requires **at least 65,000 words across numbered chapters alone**, in addition to its per-chapter floor.
+
+Therefore the current numbered-chapter corpus cannot possibly satisfy the 65,000-word publication minimum: even the broader manuscript total is **7,496 words below** that floor, and the true numbered-chapter deficit is larger once non-numbered matter is excluded.
+
+This is substantive depth debt, not a formatting or catalog repair. Do not pad chapters to satisfy the checker. Deepen the manuscript where the argument, evidence, countercase, or institutional mechanism genuinely warrants it, while preserving the factual boundaries above.
+
+## Mechanical publication gates after substantive deepening
+
+After the depth remediation, freeze one committed Desk source and run both repository-conventional commands:
 
 1. `python3 scripts/check-book-length.py the-last-human-channel`
 2. `python3 scripts/check-desk.py`
 
-If either command reports an actual failure, remediate that concrete failure and re-run it. Do not substitute file-size estimates, partial counts, or a hosted CI gate.
+The exact length run must establish both the numbered-chapter total and every per-chapter minimum; the dashboard total is sufficient to prove the current failure but not to certify a future pass. If either command then reports another actual failure, remediate that concrete failure and re-run it.
 
 Only after both commands pass should a matched Desk/Shelf publication pair be created from the same frozen Desk commit, with Desk remaining the working edition and Shelf receiving the intentional publication snapshot.
 
