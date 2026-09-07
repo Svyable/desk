@@ -36,9 +36,7 @@ Some of the noise is productive.
 
 Serendipity is usually described as luck, but luck has structure. A person must encounter something unexpected, notice it and possess enough context to recognize its relevance.
 
-The chance encounter is not useful because it is random.
-
-It is useful because it is unexpectedly adjacent.
+The chance encounter is useful because it is unexpectedly adjacent, not because it is random.
 
 Pure randomness is easy to generate and mostly useless.
 
@@ -412,7 +410,7 @@ A surprising recommendation is partly an offer and partly a question: does this 
 
 That makes serendipity useful even when the item itself fails. A carefully chosen miss can reveal the boundary of a preference more efficiently than another safe hit near the center.
 
-This is why a discovery system should distinguish useless randomness from informative exploration. The point is not to inject weirdness so the product feels adventurous. It is to spend some attention learning where the map may be wrong, incomplete or out of date.
+This is why a discovery system should distinguish useless randomness from informative exploration: spend some attention learning where the map may be wrong, incomplete or out of date.
 
 The same logic applies inside organizations.
 
@@ -466,6 +464,4 @@ These are forms of intellectual control.
 
 The best discovery system will know the center of the map well enough to be useful and the edges well enough to help a person leave it.
 
-A good neighborhood makes the familiar reachable.
-
-A great map also shows where the road out begins.
+A good neighborhood makes the familiar reachable; a great map also shows where the road out begins.

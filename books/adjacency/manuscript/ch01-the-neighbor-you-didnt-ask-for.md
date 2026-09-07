@@ -74,9 +74,7 @@ Computers were historically much better at exactness.
 
 The vector turn closes part of that gap by making resemblance numerical enough to compute.
 
-Not perfectly. Not neutrally. Not once and for all.
-
-Enough to build systems around it.
+Not perfectly, and not once and for all. Enough to build systems around it.
 
 This is why vector search should not be understood as merely a faster way to search a database. It changes the primitive operation.
 
@@ -98,9 +96,7 @@ Implicit knowledge has always been one of humanity's largest inaccessible resour
 
 We know more collectively than any person can read. We write connections into language without labeling them as connections. A physician describes a symptom pattern in one paper and a molecular mechanism in another. Engineers publish performance results whose significance changes when a new manufacturing method arrives. Economists study one market structure while software designers unknowingly recreate its incentives. Historians describe institutional patterns that a policymaker would recognize immediately if the two vocabularies could meet.
 
-The problem is not only information abundance.
-
-It is relational abundance.
+The harder problem is relational abundance.
 
 There are too many possible pairs.
 
@@ -286,19 +282,7 @@ A discovery system earns its promise by tolerating the user's starting point.
 
 This is more important than it may appear because discovery usually begins before articulation is complete.
 
-The first sensation is often not “I need information about X.”
-
-It is “this reminds me of something.”
-
-“This feels wrong.”
-
-“I have seen a pattern like this before.”
-
-“There ought to be a material that does both.”
-
-“This photograph has the atmosphere I want.”
-
-“This customer problem sounds like an incident from years ago.”
+The first sensation is often not “I need information about X.” It is closer to “this reminds me of something,” “there ought to be a material that does both,” or “this customer problem sounds like an incident from years ago.”
 
 These are low-resolution queries. Human experts turn them into higher-resolution questions through conversation, memory and analogy. Vector systems make some of that low-resolution material computationally addressable.
 
@@ -318,8 +302,4 @@ You find something that teaches you what to look for next.
 
 A vector neighborhood is valuable because it can produce that first informative neighbor when the destination is still unnamed.
 
-And that is why the neighbor you did not ask for matters.
-
-The system is not merely answering a query.
-
-At its best, it is helping you acquire the language for the query you were not yet able to make.
+And that is why the neighbor you did not ask for matters: at its best, the system helps you acquire the language for the query you were not yet able to make.

@@ -2,7 +2,7 @@
 
 Scientific literature has a scaling problem.
 
-The problem is not that scientists stopped writing clearly enough, although they sometimes do. It is not that journals publish too many bad papers, although every field can name examples. It is simpler.
+The problem is simpler than clarity or quality, although every field can name failures of both.
 
 There is too much to read.
 
@@ -118,9 +118,7 @@ Two communities develop related language without realizing how much they overlap
 
 A new paper cites the canonical review and misses a better but less famous source.
 
-The problem is not absence of knowledge.
-
-It is distance in attention.
+The problem is distance in attention, not absence of knowledge.
 
 Vector systems can shorten some of those distances.
 
@@ -168,7 +166,7 @@ The future scientific library will likely combine them.
 
 A researcher may begin with a semantic query, traverse a concept graph, inspect nearby papers, filter by evidence type and ask an AI system to compare claims. Each representation compensates for another's weakness.
 
-This is not a minor design detail. It is a defense against false similarity.
+That design detail is a defense against false similarity.
 
 Two abstracts can sound alike while reporting contradictory results. A vector model may place them close because they discuss the same entities and methods. That proximity is useful for discovery, but the researcher must still learn that one paper supports the hypothesis and the other rejects it.
 
@@ -180,7 +178,7 @@ The paper that disproves your favorite mechanism belongs very near the paper tha
 
 A good discovery system should surface both.
 
-This is one reason scientific retrieval cannot be reduced to “find similar papers.” The goal is not homogeneity. It is intellectual coverage.
+This is one reason scientific retrieval cannot be reduced to “find similar papers.” The goal is intellectual coverage.
 
 A literature system should help a researcher find supporting evidence, competing explanations, methodological neighbors, historical precursors, negative results and adjacent techniques.
 
@@ -292,9 +290,7 @@ The same problem affects overlooked or negative results. A paper reporting a fai
 
 The machine inherits not only knowledge but the sociology of knowledge.
 
-That is not a reason to discard citation information.
-
-It is a reason to use more than one channel.
+That is a reason to use more than one channel, not to discard citation information.
 
 Text can reveal conceptual proximity.
 
@@ -384,8 +380,4 @@ The library can inspect more shelves than the scholar.
 
 The scholar can understand why one strange book changes the argument.
 
-The future of scientific discovery may depend on that division of labor.
-
-Not a machine replacing the reader.
-
-A machine changing which unread thing becomes worth reading next.
+The future of scientific discovery may depend on that division of labor: a machine changing which unread thing becomes worth reading next.

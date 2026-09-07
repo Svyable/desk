@@ -398,9 +398,7 @@ We are beginning to answer that question computationally across domains at extra
 
 The answer will never be final because relation depends on purpose.
 
-That is not a flaw.
-
-It is what makes the map useful.
+That is what makes the map useful.
 
 The future of discovery will not be one universal vector space containing the true positions of everything.
 
