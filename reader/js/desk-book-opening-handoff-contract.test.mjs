@@ -16,8 +16,6 @@ assert.ok(actionBlock, 'unified handoff should declare the cover action contract
 const actionIds = [...actionBlock.groups.body.matchAll(/'([^']+)'/g)].map((entry) => entry[1]);
 deepEqual(actionIds, ['copyPreviewBtn','citeBtn','feedbackBtn','sourceLink','historyLink','rightsLink'], 'Bookself #295 secondary action IDs should remain unchanged');
 
-// Promote Bookself's canonical route and defensive animation model rather than
-// maintaining Desk-only regex parsing and raw DOMRect interpolation.
 match(handoff, /import \{ parseHash \} from 'https:\/\/svyable\.github\.io\/shelf\/reader\/js\/router\.js';/);
 match(handoff, /export function handoffFrames\(/);
 match(handoff, /function finite\(/);
@@ -32,7 +30,6 @@ match(handoff, /clone\.animate\(handoffFrames\(pending\.sourceRect,targetRect,ki
 match(handoff, /animation\.finished\.catch\(\(\) => \{\}\)\.then\(\(\) => finishAnimation/);
 doesNotMatch(handoff, /function routeSlug\(/, 'Desk regex route parser must stay retired');
 
-// Preserve Desk's stronger keyboard/focus hierarchy as intentional divergence.
 match(handoff, /function installCoverDockHierarchy\(\)/);
 match(handoff, /document\.createElement\('details'\)/);
 match(handoff, /summary\.setAttribute\('aria-label', 'More book actions'\)/);
@@ -44,7 +41,7 @@ match(handoff, /event\.preventDefault\(\)/);
 match(handoff, /summary\.focus\(\{ preventScroll:true \}\)/);
 
 doesNotMatch(handoff, /createElement\('style'\)/, 'cover hierarchy styling should live in the handoff stylesheet');
-match(loader, /desk-book-opening-handoff\.js\?v=bookself-20260906/);
+match(loader, /desk-book-opening-handoff\.js\?v=bookself-20260907-robustness-1/);
 doesNotMatch(loader, /desk-cover-actions\.js/, 'retired split cover-action adapter must stay absent');
 
 match(css, /body\[data-stage="cover"\] \.cover-dock/);
