@@ -560,8 +560,248 @@ If it uses AI to spread itself thin across every issue, the advantage disappears
 
 If it uses AI to widen awareness while concentrating human depth where national interests are strongest, the state can become harder to ignore.
 
+## The capability-threshold ladder
+
+The small-state advantage becomes easier to measure when diplomatic capacity is treated as a ladder rather than a binary.
+
+**Absent.** The ministry cannot sustain independent attention to the issue and largely relies on partners or public reporting.
+
+**Assisted awareness.** Machine support gives officials enough coverage to follow the issue and recognize when it matters.
+
+**Independent assessment.** The state can form and defend its own view using primary material, outside evidence, legal analysis, and institutional memory.
+
+**Active participation.** The delegation can negotiate, amend text, test claims, and maintain continuity without outsourcing the file.
+
+**Agenda shaping.** The state can introduce usable drafts, frame a practical problem, or identify a coalition pathway others adopt.
+
+**Convening.** Other governments treat the state as a useful organizer, chair, broker, or repository of continuity.
+
+**Coalition service.** The state provides a repeatable public good—technical expertise, drafting, memory, coordination, trusted process, or infrastructure—that makes broader cooperation easier.
+
+AI creates leverage when it moves a ministry up the ladder on issues that matter.
+
+Using a model to summarize more documents while remaining unable to form an independent judgment is efficiency without agency.
+
+## The coverage-depth budget
+
+Every small foreign ministry has a finite human-attention budget.
+
+Machine assistance changes the allocation, not the existence, of scarcity.
+
+The ministry should therefore make its coverage-depth tradeoff explicit.
+
+Which issues need only awareness?
+
+Which require an independent national assessment?
+
+Which justify deep language, legal, technical, or regional expertise?
+
+Which areas are candidates for leadership?
+
+Which can responsibly remain partner-dependent?
+
+The answer should change with national strategy.
+
+A small maritime state may tolerate shallow coverage of several global issues while insisting on depth in shipping, ports, undersea infrastructure, maritime law, and regional security.
+
+A financial state may allocate depth differently.
+
+The point is that AI should release human hours toward chosen depth rather than silently expand the number of files until everyone is overloaded again.
+
+Saved attention is a resource.
+
+It should be budgeted.
+
+## Epistemic independence
+
+A useful test of small-state sovereignty is epistemic independence.
+
+Can the government understand why it believes what it believes?
+
+Can it trace the evidence behind an allied assessment?
+
+Can it identify where its conclusion depends on another government’s classified access rather than its own verification?
+
+Can it distinguish machine synthesis from source material?
+
+Can it generate a plausible alternative interpretation?
+
+Can it state what evidence would change its view?
+
+Epistemic independence does not mean rejecting allied intelligence.
+
+It means the state can receive it without becoming analytically captive to it.
+
+The stronger the relationship, the more valuable this can be.
+
+A partner capable of independent judgment can challenge a mistaken coalition assumption rather than merely echo it.
+
+## The institutional-memory state machine
+
+Small services are especially vulnerable to turnover because one departure can erase a large share of practical knowledge.
+
+Machine retrieval helps only if memory is structured.
+
+A useful memory state machine is:
+
+**Stored.** The record exists somewhere.
+
+**Retrievable.** Officials can find the relevant record when they know what to ask for.
+
+**Context-annotated.** The record carries enough explanation to show why it mattered, what assumptions held, and what later changed.
+
+**Decision-useful.** The system can connect precedent to a current issue without implying that the old answer automatically travels.
+
+**Renewed.** Human experts update the context after a negotiation, crisis, or policy shift.
+
+An archive that is merely searchable is not yet institutional memory.
+
+The strategic asset is memory that survives turnover without fossilizing yesterday’s assumptions.
+
+## The diplomatic sovereignty floor
+
+A small state does not need a sovereign frontier model.
+
+It does need a diplomatic sovereignty floor.
+
+That floor can include national control of the most sensitive archives, independent authentication of official messages, exportable records, local access to critical retrieval tools, a tested fallback if the primary vendor fails, clear rules for which material may enter external systems, and enough internal technical competence to audit the stack.
+
+The floor should answer one question.
+
+If the principal commercial provider becomes unavailable or politically unusable tomorrow, can the foreign ministry still conduct the most important functions of state diplomacy?
+
+If the answer is no, efficiency has crossed into strategic dependency.
+
+## Issue portfolios
+
+Small states should treat expertise as a portfolio.
+
+A portfolio contains awareness issues, participation issues, and leadership issues.
+
+The ministry can periodically ask:
+
+Where is national exposure rising?
+
+Where has the state developed unusual credibility?
+
+Where does another actor already provide better analysis cheaply?
+
+Where can one additional specialist create disproportionate leverage?
+
+Where has machine support reduced the human cost enough to make participation newly viable?
+
+Where is the country pretending to lead without enough depth?
+
+The portfolio should have exit rules too.
+
+A niche that once produced diplomatic leverage can lose relevance.
+
+A new regional problem can demand the same scarce specialists.
+
+Strategic density depends on concentration, which means saying no to some opportunities.
+
+## Influence conversion
+
+Preparation is only strategically valuable if it converts into influence.
+
+A small state can keep an influence ledger.
+
+Did its draft become negotiating text?
+
+Did its technical proposal enter a standard?
+
+Did a coalition form around an initiative it organized?
+
+Did its chairmanship reduce a bargaining deadlock?
+
+Did allies adopt a procedure it designed?
+
+Did its independent assessment change a larger partner’s view?
+
+Did the state gain access, trust, or bargaining room because of the competence?
+
+These are stronger measures than the number of AI-generated briefs.
+
+The output is not paperwork.
+
+The output is a changed diplomatic position.
+
+## The thinness trap
+
+AI can make a ministry look capable across too many domains.
+
+A polished brief creates the appearance of ownership.
+
+Translation creates the appearance of language access.
+
+Rapid drafting creates the appearance of legal depth.
+
+A model-generated option set creates the appearance of strategic analysis.
+
+This is the thinness trap.
+
+Surface competence expands faster than institutional understanding.
+
+The safeguard is escalation to human depth.
+
+Which claims require a real specialist?
+
+Which negotiations deserve original source reading?
+
+Which cultural or political interpretations cannot safely rest on machine translation?
+
+Which decisions require an officer who has lived with the file long enough to notice that the apparently relevant precedent is actually misleading?
+
+Machine breadth should make these thresholds easier to identify, not easier to ignore.
+
+## Small-state pooling
+
+Several small services can create scale through pooling without surrendering national judgment.
+
+A shared non-sensitive evaluation lab can test diplomatic AI tools.
+
+A regional language corpus can improve translation quality.
+
+Joint procurement can lower vendor cost and improve exit terms.
+
+A shared cyber team can protect small ministries that could not staff one alone.
+
+Common model-evaluation methods can expose correlated failure.
+
+Training exchanges can spread scarce technical expertise.
+
+The pooled layer should be deliberately bounded.
+
+Shared capability below.
+
+National judgment above.
+
+That arrangement turns network membership into administrative scale while preserving the state’s right to interpret and decide for itself.
+
+## Falsifying the small-state advantage
+
+The argument should remain vulnerable to evidence.
+
+The small-state advantage weakens if large foreign ministries consistently capture greater marginal gains from AI because their superior data, compute, technical staff, and classified access compound faster than small-state efficiency gains.
+
+It weakens if small services become more vendor-dependent, more cyber-vulnerable, or less capable of independent judgment after adoption.
+
+It weakens if machine breadth produces persistent policy thinness rather than useful coverage.
+
+It weakens if shared small-state infrastructure repeatedly becomes too weak, insecure, or politically difficult to sustain.
+
+It weakens if increased preparation does not convert into observable negotiating influence.
+
+Those are real tests.
+
+The small-state advantage is not a promise that technology equalizes international power.
+
+It is a narrower proposition: lower fixed costs can allow more states to cross capability thresholds that once required bureaucratic scale.
+
 That is the opportunity.
 
 Not synthetic great-power status.
 
 Sharper small-state agency.
+
+The strategic question is whether the state converts cheaper cognition into independent judgment, chosen depth, and useful coalition service—or merely produces more polished work at the same level of dependence.
