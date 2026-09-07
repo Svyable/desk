@@ -143,3 +143,53 @@ The Revolution's best-known sentence begins with truths held to be self-evident.
 In 1778, the war acquired a new balance of risk. Britain could no longer decide how much force to devote to America without asking what France might do elsewhere. The United States acquired recognition, commerce, material support, and eventually the naval partner it lacked. Spain and the Dutch Republic widened the conflict further for their own reasons. The rebellion became one theater in a global contest, and that expansion made British victory harder.
 
 A country that would later tell itself a story about standing alone survived its founding war in part because it did not.
+
+The alliance also changed the Americans' relationship to time.
+
+Before formal French entry, a bad American campaign season could threaten the rebellion directly. A lost army, an exhausted treasury, or another winter of shortages might bring the experiment closer to collapse before the political argument had time to mature. After 1778, time worked differently because Britain could no longer concentrate on ending the rebellion alone. The war had acquired other clocks: convoy seasons, naval deployments, Caribbean campaigns, European diplomacy, Spanish operations, Dutch trade disputes, and the constant possibility that a crisis far from the thirteen states would redirect ships or money.
+
+That did not make American survival automatic. It made survival more plausible as a strategy.
+
+A weaker belligerent rarely needs to defeat a stronger one everywhere. It needs to keep the stronger power from converting superiority into a decisive political result. The wider war helped the United States do that. Every additional theater complicated Britain's ability to impose a clean ending in North America. Delay became less a sign that the rebellion was merely failing slowly and more a way to let costs, elections, diplomatic pressures, and competing imperial priorities accumulate.
+
+This matters because wars are political competitions over endurance as much as military contests over territory. An empire can win battles and still lose the argument over how much more effort the objective deserves. A rebellion can lose cities and still remain alive if its institutions, armies, credit, and foreign relationships keep enough of the project functioning.
+
+French entry changed the price Britain paid for additional time.
+
+It also changed what the Americans could promise one another. Alliances operate abroad, but their effects reach inward. A government that can point to recognition by a major power has a different claim on its own citizens, creditors, soldiers, and skeptical local governments than one asking them to endure indefinitely on faith. Recognition does not settle domestic legitimacy, yet it supplies evidence that the outside world has begun treating the political experiment as something more durable than an insurrection awaiting suppression.
+
+That evidence can affect behavior before it affects constitutional theory.
+
+A merchant deciding whether to extend credit, a soldier deciding whether another enlistment is worth the risk, or a state government deciding how much scarce material to commit does not need to believe victory is certain. Each needs some basis for believing that sacrifice is not being poured into a project whose strategic position is steadily narrowing. The French alliance could not solve every procurement or morale problem, but it changed the information available to people making those decisions.
+
+The rebellion had acquired a powerful witness with money, ships, and reasons of its own to keep Britain occupied.
+
+There is a useful asymmetry here. France did not need the United States to become strong enough to replace Britain as a global power. It needed the rebellion to survive and impose costs. The United States, meanwhile, needed France to do things it could not yet do for itself. The two governments therefore entered the alliance with very different capacities and somewhat different measures of success.
+
+That is often true in alliances between unequal partners.
+
+The weaker party gains capabilities it cannot generate quickly. The stronger party gains leverage, geography, intelligence, distraction, legitimacy for a wider strategy, or a cheaper way to burden a rival. Those interests can align without becoming identical. They can also diverge the moment the weaker partner becomes more secure or the stronger partner's priorities change.
+
+Seeing 1778 this way makes the alliance less sentimental and more impressive.
+
+The Americans did not persuade France to adopt the Revolution as its own moral project. They persuaded a monarchy with its own strategic ambitions that American survival was worth backing openly. That required battlefield evidence, diplomacy, and enough institutional persistence for the new state to appear capable of remaining on the board.
+
+The achievement was therefore partly military and partly reputational.
+
+Saratoga did not merely destroy Burgoyne's army. It changed an assessment.
+
+The treaties did not merely add signatures. They changed expectations.
+
+Yorktown did not merely reward Washington's persistence. It revealed what could happen once those altered expectations had been converted into ships, troops, credit, coordination, and pressure across several theaters.
+
+The chain is easy to flatten when history is told backward from independence. Seen forward, each link was contingent. France could have delayed. American armies could have collapsed. British leaders could have found a more effective combination of force and political accommodation. Allied coordination could have failed at a critical moment.
+
+None of those possibilities is visible if independence is treated as the natural destination of 1776.
+
+The alliance is valuable precisely because it prevents that mistake.
+
+It reminds us that declarations create obligations faster than capabilities. The United States claimed the powers of a sovereign state before it possessed many of the instruments needed to exercise them reliably. Diplomacy became one way to borrow capability while domestic institutions were still being built.
+
+That is not a footnote to independence.
+
+For a fragile state, borrowing capability can be one of the ways independence survives long enough to become real.
