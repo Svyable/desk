@@ -1,193 +1,841 @@
 # Alignment by Issue
 
-The easiest way to misunderstand a middle power is to ask which side it is on.
+The language of alignment still assumes a whole country moves at once.
 
-The better question is: on which issue, under which constraints, for how long, and at what price?
+Aligned.
 
-A government can want American intelligence and Chinese trade. It can want Russian energy and European investment. It can want Gulf capital, Japanese infrastructure, Korean manufacturing, Indian pharmaceuticals, and domestic control over data. It can vote with one coalition at the United Nations, exercise with another military, borrow from a third set of institutions, and still insist that none of those relationships defines the whole of its foreign policy.
+Nonaligned.
 
-This is not incoherence. It is portfolio management.
+Allied.
 
-The portfolio metaphor matters because foreign relations are not interchangeable assets. Security, trade, finance, technology, energy, food, migration, logistics, and diplomatic legitimacy each have different switching costs. A country may have several plausible suppliers in one category and almost none in another. It may be able to diversify oil purchases in months but need decades to replace a weapons ecosystem. It may change a vote overnight but need years to move a semiconductor supply chain.
+Neutral.
 
-Alignment therefore has a geometry.
+The categories are useful for treaties and dangerous for analysis.
 
-Some relationships are shallow and reversible. Others are deep and path dependent. Some can coexist. Others collide because sanctions, technical standards, intelligence rules, or military interoperability make them mutually exclusive.
+A state can align with the United States on maritime security, buy energy from Russia, seek investment from the Gulf, trade heavily with China, vote with developing countries at the United Nations, and adopt technology rules borrowed from Europe.
 
-The practical strategy of selective alignment begins by separating these domains rather than pretending they form one indivisible package.
+None of these choices is necessarily temporary.
 
-## The security column
+They can coexist because the underlying systems are different.
 
-Security is where bloc thinking remains strongest, for good reason. Military cooperation creates obligations that ordinary commerce does not. Intelligence sharing depends on trust. Weapons systems create maintenance, training, software, ammunition, and doctrine dependencies. Bases and access agreements expose governments to risks they cannot easily compartmentalize.
+Security, trade, capital, technology, energy, and diplomacy do not travel through one hierarchy.
 
-But even security relationships vary in depth.
+This makes alignment divisible.
 
-A treaty ally is not the same as an exercise partner. An exercise partner is not the same as an arms customer. An arms customer is not the same as a country granting basing rights. Intelligence cooperation can be narrow or broad. Maritime-domain awareness can be shared without a mutual-defense guarantee. Joint production can deepen a relationship without creating automatic participation in a future war.
+The correct unit of analysis becomes the issue.
 
-Middle powers exploit these distinctions.
+What is the decision?
 
-They often seek capability without surrendering decision authority. They want access to advanced aircraft, missiles, sensors, satellites, cyber tools, training, and intelligence while preserving national discretion over when and where those capabilities will be used.
+Which dependency matters for that decision?
 
-For the supplier, this can be frustrating. The supplier sees a strategic system. The buyer sees a menu.
+Which partner can provide an alternative?
 
-The gap between those views is one of the central bargaining spaces of the new order.
+What domestic coalition must the government satisfy?
 
-## The economic column
+What would make switching costly?
 
-Trade is even harder to turn into a clean geopolitical loyalty test.
+What would make the issue spill into another domain?
 
-Supply chains are built by thousands of firms responding to cost, reliability, market access, regulation, logistics, and accumulated industrial expertise. Governments can redirect them, but rarely with the speed implied by political rhetoric.
+Those questions produce a more accurate map than asking which side the country is on.
 
-A country may view another state as a security concern while depending on it for machinery, intermediate goods, consumer products, chemicals, electronics, or demand for exports. The relationship can be politically tense and economically dense at the same time.
+The first principle of issue alignment is separability.
 
-This creates a recurring pattern: governments announce diversification while firms continue trading.
+A government can cooperate in one domain while resisting pressure in another if the two domains can remain operationally separate.
 
-That is not necessarily policy failure. Diversification is different from separation. The objective may be to reduce dependence in a few critical categories rather than dismantle the entire commercial relationship.
+That sounds obvious until the relationships deepen.
 
-The distinction is crucial. A state that wants alternatives to Chinese telecommunications equipment may still want Chinese solar panels. A government that restricts sensitive investment may still court ordinary manufacturing. A country that wants domestic semiconductor capacity may still import enormous volumes of electronics assembled elsewhere in Asia.
+A defense partnership can remain a defense partnership.
 
-Economic alignment is therefore granular.
+A trade relationship can remain a trade relationship.
 
-The question is not simply whether trade continues. It is which dependencies a government is willing to tolerate and which it begins to classify as strategic vulnerabilities.
+A technology investment can remain a commercial arrangement.
 
-## The energy column
+But every connection creates the possibility of linkage.
 
-Energy makes the portfolio logic impossible to ignore.
+The security partner can condition access on foreign-policy behavior.
 
-Molecules do not care about diplomatic narratives. Refineries have configurations. Pipelines have endpoints. Power grids have physical constraints. Tankers have routes. Long-term contracts have penalties. Consumers have prices they can afford and prices they cannot.
+The trading partner can use market access as pressure.
 
-Governments may condemn a producer while continuing to buy from it directly or indirectly because removing supply too quickly would impose unacceptable domestic costs. Others may increase purchases precisely because sanctions or political pressure create discounts.
+The technology partner can control updates, cloud infrastructure, standards, or export permissions.
 
-The moral and strategic arguments can be serious while the physical system remains stubborn.
+The financial partner can alter capital flows.
 
-This is why energy relationships often reveal the difference between preferences and constraints. A country can prefer one geopolitical outcome while choosing a purchase that appears to support another because its immediate obligation is to keep fuel available, electricity affordable, fertilizer produced, and voters from absorbing a sudden shock.
+The energy partner can change price or supply.
 
-Great powers frequently interpret these choices politically. Middle powers frequently describe them economically. Both descriptions can be true.
+Issue alignment is possible because domains are separable.
 
-## The technology column
+It becomes harder as dependencies connect them.
 
-Technology is where issue-based alignment is becoming most difficult to sustain.
+The second principle is compartmentalization.
 
-A generation ago, much of the digital stack could be treated as commercial infrastructure. Today semiconductors, AI systems, cloud platforms, telecommunications networks, satellites, cybersecurity tools, data centers, operating systems, and payment rails increasingly sit inside national-security policy.
+Middle powers often try to preserve relationships by building bureaucratic walls between domains.
 
-The result is not simply decoupling. It is a proliferation of boundary negotiations.
+Defense officials manage one partnership.
 
-Which chips are strategic? Which cloud workloads must remain sovereign? Which vendors can participate in a core network? Which models may be deployed in government? Which data may cross borders? Which source code must be inspectable? Which equipment qualifies for subsidies? Which export controls apply to a joint venture?
+Trade officials manage another.
 
-Each answer can create a different alignment.
+Energy companies manage a third.
 
-A country can accept one supplier for consumer infrastructure and reject it for military networks. It can invite foreign data-center investment while requiring local data residency. It can buy advanced hardware from one ecosystem while demanding domestic manufacturing or technology transfer as the price of access.
+Diplomats maintain political ties across all of them.
 
-The strategic unit is increasingly the layer, not the country.
+This is not disorganization.
 
-That is why the infrastructure stack becomes a bargaining stack.
+It can be strategy.
 
-## The diplomatic column
+Compartmentalization allows disagreement without total rupture.
 
-Votes, statements, summits, memberships, and mediation roles constitute another portfolio.
+A government can tell one partner:
 
-Diplomatic alignment is cheap in some circumstances and expensive in others. Supporting a resolution may cost little. Recognizing a disputed territory may cost a great deal. Joining a communiqué can be symbolic; hosting negotiations can create durable political capital.
+We disagree on this vote.
 
-Middle powers often seek institutional multiplicity because institutions themselves are sources of leverage. Membership in overlapping organizations provides information, access, status, and additional channels for bargaining.
+We still want the security exercise.
 
-From the outside, this can look contradictory. A state participates in a Western-led security dialogue and a non-Western political grouping. It attends one summit about an open Indo-Pacific and another about reforming the international order.
+We reject this technology restriction.
 
-But the contradiction may exist mainly in the observer's demand that institutions be exclusive.
+We still want investment.
 
-For the participating state, each forum may solve a different problem.
+We will buy from your competitor in this sector.
 
-## The compatibility constraint
+We still value the broader relationship.
 
-Portfolio foreign policy has limits.
+The ability to preserve the rest of the relationship after disagreement is one of the central capabilities of selective alignment.
 
-The most important is compatibility.
+The third principle is asymmetry.
 
-Some choices cannot be kept separate forever. A military that operates equipment from rival ecosystems can face integration problems. Intelligence partners may restrict what they share if sensitive networks contain untrusted technology. Sanctions can force banks to choose which payment channels they can legally use. Export controls can make a technology partnership incompatible with another supplier relationship.
+Issue alignment does not mean equidistance.
 
-Crisis compresses these choices.
+A state can be much closer to one partner on security and another on trade.
 
-In peacetime, ambiguity is often cheap. In crisis, every bridge becomes a potential route for sanctions evasion, intelligence leakage, military access, or political pressure. Governments that successfully kept domains separate may discover that their partners no longer permit the separation.
+It can perceive one country as the primary military threat while still maintaining economic exchange with it.
 
-This is the moment when selective alignment is tested rather than merely declared.
+It can depend heavily on one financial system while seeking diplomatic autonomy from the states that dominate that system.
 
-A useful measure of strategic autonomy is therefore not the number of partners a country has in normal times. It is the number of meaningful options that remain available after pressure begins.
+The portfolio is uneven.
 
-Paper options do not count.
+This matters because the language of “balancing between both sides” often implies symmetry that does not exist.
 
-A second supplier that cannot deliver during sanctions is not redundancy. A payment rail that freezes under the same jurisdiction is not diversification. A diplomatic partner unwilling to absorb costs during a crisis may provide symbolism but not strategic depth.
+The better question is:
 
-Real optionality survives stress.
+Where is dependence concentrated?
 
-## The domestic constraint
+A state can maintain diverse relationships and still have one domain that dominates all others in crisis.
 
-Foreign policy portfolios are also constrained from within.
+This is the fourth principle: crisis hierarchy.
 
-Governments do not optimize a single national-interest function. Ministries compete. Firms lobby. Militaries develop institutional preferences. Voters care about prices, jobs, identity, sovereignty, historical memory, and national status. Diasporas matter. Elections matter. Leaders matter.
+In peacetime, issues can remain separate.
 
-The same external offer can therefore produce different answers after an election or a change in coalition.
+In crisis, one issue can suddenly outrank the rest.
 
-This makes middle-power behavior less mechanically predictable than a simple balance-of-power model suggests. A government may reject an economically attractive deal because it appears humiliating. It may accept a costly defense partnership because it signals national arrival. It may preserve a legacy relationship long after its material value has declined because the relationship is embedded in institutions and political identity.
+Security can dominate trade.
 
-Strategic autonomy is partly material capacity and partly political permission.
+Energy can dominate diplomacy.
 
-A leader needs room at home to say yes and room to say no.
+Payment access can dominate commercial preference.
 
-## The price of the portfolio
+Domestic political survival can dominate all of them.
 
-Maintaining multiple relationships is not free.
+This means selective alignment should be tested not only in ordinary conditions but under stress.
 
-Redundant infrastructure costs money. Multiple weapons families require training and spare parts. Diverse suppliers complicate procurement. Diplomatic ambiguity can reduce trust. Domestic industries protected in the name of autonomy may become expensive or inefficient. Governments can overestimate their leverage and discover that partners have alternatives too.
+Which partnership becomes indispensable if the region enters conflict?
 
-There is also a reputational cost.
+Which supplier becomes irreplaceable if normal logistics fail?
 
-A state that treats every relationship transactionally may find that others do the same. Partners may withhold their most sensitive technology or intelligence. Investors may demand higher returns when policy appears unpredictable. Allies may design coalitions that work around the holdout.
+Which financial rail becomes decisive under sanctions?
 
-Optionality creates bargaining power only when the options are credible and the state itself remains valuable.
+Which security guarantee becomes more valuable than the political cost of dependence?
 
-This produces a discipline that rhetoric about autonomy sometimes misses: the middle power has to keep earning its pivotal status.
+The issue map can collapse into a hierarchy when pressure rises.
 
-Population can help. Geography can help. A large market can help. Capital, energy, minerals, manufacturing, military capability, diplomatic legitimacy, and control of logistics can help. But none guarantees leverage indefinitely.
+That is where apparent autonomy can disappear.
 
-Leverage is relational.
+The fifth principle is domestic multiplicity.
 
-It exists because somebody wants something you can provide and believes you can plausibly withhold it.
+Countries do not have one foreign-policy preference.
 
-## From allegiance to transactions
+Different domestic groups value different networks.
 
-The deeper shift is conceptual.
+The military may prefer one security partner.
 
-The twentieth-century alliance model trained strategists to think in memberships. Who belongs to which camp? Which treaty applies? Which flag appears at which summit?
+Export industries may prefer access to another market.
 
-The emerging system requires equal attention to transactions.
+Technology firms may want several capital and platform ecosystems.
 
-Who supplies the refinery? Who finances the port? Who trains the pilots? Who hosts the cloud? Who buys the exports? Who clears the payment? Who provides the satellite image? Who can call both capitals during a crisis?
+Energy consumers may prioritize price over geopolitical alignment.
 
-Those transactions form networks, and the networks do not perfectly overlap.
+Political parties may value different diplomatic identities.
 
-That imperfect overlap is the source of middle-power maneuver.
+Regional governments may have their own investment relationships.
 
-It is also the source of great-power anxiety.
+Public opinion may support cooperation with one country in one domain and distrust it in another.
 
-Washington and Beijing would each prefer, in different ways and on different issues, for partners to make choices that reinforce a coherent strategic ecosystem. Middle powers often prefer the opposite: enough interoperability to gain the benefits of a network, but not so much exclusivity that leaving one relationship becomes impossible.
+Issue alignment is therefore partly domestic coalition management.
 
-The contest is therefore partly over architecture.
+A government can maintain a diversified external portfolio because it reflects a diversified internal one.
 
-Great powers build systems whose value increases with deeper participation. Middle powers seek interfaces that let them connect without being absorbed.
+This is also a source of fragility.
 
-Standards, financing terms, local production, data rules, technology transfer, interoperability, sanctions design, visa access, and procurement conditions become instruments in that contest.
+A foreign partner can pressure the domestic coalition most dependent on it.
 
-The side offering the best package is not always the side offering the most money or the strongest security guarantee.
+Economic coercion works partly by turning external dependence into internal political pressure.
 
-Sometimes the most attractive offer is the one that leaves the recipient with the most future choices.
+The sixth principle is switching cost.
 
-That is the logic of alignment by issue.
+A state is more autonomous in a domain when it can change partners without prohibitive cost.
 
-It does not mean values disappear. It does not mean alliances cease to matter. It does not mean every state can indefinitely avoid hard choices.
+Switching an energy supplier may require new contracts and infrastructure.
 
-It means that between neutrality and permanent allegiance lies a large strategic territory where cooperation can be specific, conditional, overlapping, and reversible.
+Switching a weapons supplier may require training, maintenance, munitions, doctrine, software, and years of transition.
 
-That territory is where many of the world's pivotal states intend to live.
+Switching cloud providers may require data migration and application redesign.
 
-The next question is why some of them can bargain there more successfully than others.
+Switching payment systems may require legal, compliance, and banking changes.
 
-The answer begins with leverage.
+Switching diplomatic partners is easier rhetorically than switching infrastructure.
+
+This is why issue alignment becomes sticky over time.
+
+A transaction today can create path dependence tomorrow.
+
+The seventh principle is option maintenance.
+
+Selective alignment is not simply choosing differently across issues once.
+
+It is maintaining the ability to keep choosing differently.
+
+That requires investment.
+
+Multiple suppliers.
+
+Compatible standards.
+
+Alternative payment routes.
+
+Diverse markets.
+
+Domestic capability.
+
+Diplomatic relationships that remain active even during disagreement.
+
+Redundancy looks inefficient when nothing is wrong.
+
+It becomes autonomy when conditions change.
+
+This is why strategic autonomy is expensive.
+
+The state pays today for choices it may need later.
+
+The eighth principle is bounded loyalty.
+
+Great powers often want portfolio loyalty.
+
+Middle powers often want portfolio diversification.
+
+The disagreement can be conceptual before it is political.
+
+Washington may view a security partnership as evidence of broader strategic convergence.
+
+The partner may view it as cooperation in one domain.
+
+Beijing can make the same mistake when economic dependence is interpreted as political deference.
+
+A Gulf partner may interpret large investment as durable influence.
+
+A middle power may treat the same investment as one source among several.
+
+These mismatched expectations create the feeling of betrayal.
+
+No formal commitment changed.
+
+The partners had different theories of what the relationship implied.
+
+A mature selective-alignment strategy therefore needs expectation management.
+
+What does this agreement cover?
+
+What does it not cover?
+
+Which decisions remain sovereign and unbundled?
+
+What kinds of political support should not be assumed?
+
+Clarity can preserve relationships by limiting false expectations.
+
+The ninth principle is issue linkage.
+
+Great powers can deliberately make domains less separable.
+
+Trade access can be conditioned on security choices.
+
+Technology can be conditioned on export controls.
+
+Investment can be screened through national-security rules.
+
+Defense cooperation can be linked to data standards.
+
+Financial access can become a sanctions instrument.
+
+Infrastructure can create long-term operational access.
+
+This is domain coupling.
+
+Domain coupling reduces middle-power freedom because a choice in one area begins to trigger consequences elsewhere.
+
+The selective-alignment strategy therefore depends partly on resisting unwanted bundling.
+
+The state may accept some linkages deliberately.
+
+A security guarantee may be worth technology alignment.
+
+A trade agreement may be worth regulatory convergence.
+
+The point is not to reject coupling.
+
+It is to price it.
+
+What future choices are being surrendered in exchange for today’s benefit?
+
+The tenth principle is issue sequencing.
+
+A government does not need to decide every domain at once.
+
+It can sequence commitments.
+
+Accept investment before choosing a technology standard.
+
+Deepen military exercises before entering a formal alliance.
+
+Join one economic institution while withholding support on a diplomatic issue.
+
+Sequencing preserves bargaining room.
+
+It can also create lock-in before the government realizes the cumulative effect.
+
+Several individually modest choices can add up to de facto alignment.
+
+A cloud contract.
+
+A defense platform.
+
+A payment system.
+
+A port concession.
+
+A regulatory framework.
+
+Each can be justified separately.
+
+Together they can create a stack that becomes difficult to leave.
+
+This is why governments need portfolio-level review.
+
+Issue alignment should not mean issue blindness.
+
+The eleventh principle is stack analysis.
+
+Technology makes domains especially difficult to separate because modern systems are layered.
+
+A weapons purchase can create software dependence.
+
+Software can create cloud dependence.
+
+Cloud dependence can create data-location and cybersecurity implications.
+
+Data rules can create intelligence-sharing implications.
+
+Semiconductor access can create industrial-policy implications.
+
+Payment systems can affect technology procurement.
+
+The old categories remain politically useful.
+
+The infrastructure beneath them is increasingly connected.
+
+The state needs to understand the stack.
+
+Where does one issue quietly depend on another?
+
+Where can a partner veto a choice through an upstream layer?
+
+Where does domestic capacity create an escape route?
+
+This is the technical side of strategic autonomy.
+
+The twelfth principle is coalition modularity.
+
+Issue alignment allows coalitions to form around specific problems without requiring a universal bloc.
+
+Maritime security.
+
+Climate finance.
+
+Critical minerals.
+
+Technology standards.
+
+Counterterrorism.
+
+Public health.
+
+Infrastructure.
+
+A country can join one coalition and decline another.
+
+This can make the international order look messy.
+
+It can also make cooperation more resilient because participation does not require ideological totality.
+
+The coalition is built around the issue rather than a complete geopolitical identity.
+
+For great powers, this requires discipline.
+
+A partner’s refusal on one issue should not automatically be treated as defection from every coalition.
+
+For middle powers, it requires credibility.
+
+Selective participation cannot become an excuse to free-ride everywhere.
+
+The state has to contribute enough that partners continue to value the relationship.
+
+The thirteenth principle is vote independence.
+
+Diplomatic alignment is often measured through public positions and institutional votes.
+
+Those signals matter.
+
+They can also be misread as total alignment.
+
+A country may vote with a group because of legal principle, regional solidarity, domestic politics, or issue-specific interests while maintaining different security or economic relationships.
+
+The vote reveals something real.
+
+It does not reveal everything.
+
+Issue analysis asks what mechanism drove the choice.
+
+This avoids two opposite errors.
+
+Dismissing the vote as meaningless.
+
+Or treating it as proof that the country has chosen a camp.
+
+The fourteenth principle is economic diversification.
+
+Trade volume alone does not determine alignment.
+
+But concentrated trade can constrain policy.
+
+The relevant question is not whether a country trades heavily with one power.
+
+It is whether the country can tolerate interruption.
+
+Can exports move elsewhere?
+
+Can imports be substituted?
+
+Can firms absorb regulatory pressure?
+
+Can the financial system manage disruption?
+
+Issue alignment is more credible when economic relationships are deep but not singular.
+
+This is another form of portfolio design.
+
+The fifteenth principle is security specificity.
+
+Security relationships are among the hardest domains to compartmentalize because they involve trust, intelligence, planning, bases, weapons, doctrine, and potentially lives.
+
+A state may still define the relationship narrowly.
+
+Maritime awareness.
+
+Training.
+
+Counterterrorism.
+
+Defense technology.
+
+Border security.
+
+Access arrangements.
+
+The narrower the mission, the easier it may be to avoid automatic political alignment elsewhere.
+
+But deeper interoperability raises expectations.
+
+The more sensitive the capability shared, the more the partner may expect strategic reliability in return.
+
+This is the trust price of selective alignment.
+
+The sixteenth principle is finance.
+
+Capital appears flexible until infrastructure hardens around it.
+
+Investment can create influence through ownership, debt, technology standards, procurement relationships, or political constituencies.
+
+A middle power can use competition among investors to improve terms.
+
+It can also discover that the financing decision narrowed later strategic choices.
+
+Issue alignment therefore requires distinguishing liquid relationships from embedded relationships.
+
+A portfolio investment can be easier to unwind than a national communications backbone.
+
+An ordinary loan can be easier to refinance than a strategically unique infrastructure dependency.
+
+The more embedded the asset, the more alignment may leak across issues.
+
+The seventeenth principle is energy.
+
+Energy relationships are a classic example of issue-specific dependence.
+
+A country can disagree politically with a supplier and continue buying because price and infrastructure matter.
+
+That can be pragmatic.
+
+It can also become vulnerability if alternatives are weak.
+
+Energy illustrates the larger point.
+
+Alignment is rarely about sentiment.
+
+It is about systems of substitution.
+
+A government may want autonomy and still choose the cheapest supplier because the domestic cost of diversification is too high.
+
+That is a real constraint, not hypocrisy.
+
+The eighteenth principle is diplomatic identity.
+
+States care about how they describe themselves.
+
+Nonaligned.
+
+Strategically autonomous.
+
+Bridge.
+
+Global South leader.
+
+Regional power.
+
+Alliance member with independent interests.
+
+These identities shape which coalitions are politically acceptable.
+
+They can also become rigid narratives that obscure changing dependencies.
+
+A state may continue to describe itself as autonomous after its technology, security, or finance stack has become highly concentrated.
+
+The narrative survives the capability.
+
+This is why strategic autonomy should be measured behaviorally.
+
+Can the state disagree?
+
+Can it switch?
+
+Can it sustain the cost?
+
+Can it act differently across domains?
+
+Can it preserve relationships after disagreement?
+
+That is more meaningful than the label.
+
+The nineteenth principle is issue-specific credibility.
+
+A middle power does not need equal leverage everywhere.
+
+It may be highly autonomous diplomatically and dependent technologically.
+
+Highly autonomous in energy and dependent in security.
+
+Highly autonomous in trade and constrained in finance.
+
+This produces a leverage map.
+
+Policy should follow the map.
+
+Spend political capital defending autonomy where the choice matters most.
+
+Accept efficient dependence where switching remains easy.
+
+Invest in redundancy where coercion risk is high.
+
+Do not subsidize sovereignty everywhere merely because sovereignty sounds desirable.
+
+Selective alignment is selective internally as well as externally.
+
+The twentieth principle is failure by overconnection.
+
+The strategy fails when too many domains become coupled to one external partner.
+
+The country may still sign agreements with several powers.
+
+The decisive infrastructure has converged.
+
+One security ecosystem.
+
+One cloud stack.
+
+One payment dependency.
+
+One export market.
+
+One critical supplier.
+
+At that point, issue alignment becomes theatrical.
+
+The portfolio looks diverse at the diplomatic level and concentrated at the operational level.
+
+This gives us a test.
+
+If a government cannot choose differently in one domain without triggering unacceptable losses across several others, the domains are no longer truly separate.
+
+The twenty-first principle is failure by fragmentation.
+
+The opposite problem exists too.
+
+A country can diversify so aggressively that it creates incoherence.
+
+Too many incompatible weapons systems.
+
+Too many technical standards.
+
+Too many payment rails.
+
+Too many regulatory exceptions.
+
+Too many diplomatic promises.
+
+Optionality becomes transaction cost.
+
+The state pays for flexibility it cannot use.
+
+Selective alignment therefore has an efficient frontier.
+
+Enough diversity to preserve choice.
+
+Enough coherence to preserve capability.
+
+This is not nonalignment by instinct.
+
+It is portfolio optimization under political uncertainty.
+
+The twenty-second principle is great-power response.
+
+Great powers will not remain passive while middle powers diversify.
+
+They offer better terms.
+
+Create standards.
+
+Use export controls.
+
+Expand financing.
+
+Tighten security conditions.
+
+Build alternative supply chains.
+
+Reward loyalty.
+
+Punish defection.
+
+The middle power’s leverage partly comes from this competition.
+
+Its risk comes from the possibility that competition becomes exclusion.
+
+As rival systems become less interoperable, maintaining several networks becomes more expensive.
+
+The state may eventually face a choice it spent years trying to postpone.
+
+Selective alignment is therefore dynamic.
+
+It works best while networks remain permeable enough to overlap.
+
+The twenty-third principle is preparation for forced choice.
+
+A strategy of issue alignment should not assume forced choice will never come.
+
+It should prepare for it.
+
+Which domain matters most?
+
+Which dependency can be replaced?
+
+Which relationship can survive disagreement?
+
+Which domestic constituency will bear the cost?
+
+Which infrastructure creates the hardest lock-in?
+
+Which partnerships provide real crisis utility?
+
+The purpose of diversification is partly to make a future forced choice less catastrophic.
+
+A state may still have to choose.
+
+The quality of its preparation determines whether the choice is sovereign or coerced.
+
+This is why alignment by issue is not indecision.
+
+It is not fence-sitting by default.
+
+It is a strategy of separating decisions that do not need to be bundled, preserving alternatives where alternatives matter, and accepting that some domains will remain more constrained than others.
+
+The correct unit of analysis is the issue.
+
+The correct level of strategy is the portfolio.
+
+The correct test is the crisis.
+
+Can the state keep more than one network available when pressure rises?
+
+Can it say yes in one domain and no in another without the entire relationship collapsing?
+
+Can it bear the switching costs of autonomy?
+
+Can it recognize when an apparently narrow agreement creates stack-level dependence?
+
+Can it prevent portfolio diversity from becoming operational incoherence?
+
+Those are the real questions.
+
+The world will not choose sides cleanly because states do not experience geopolitics as one decision.
+
+They experience a sequence of decisions with different partners, dependencies, costs, and domestic coalitions.
+
+Great powers want those decisions to add up to loyalty.
+
+Middle powers want them to add up to room.
+
+Alignment by issue is the architecture of that room.
+
+
+## How issue portfolios actually form
+
+Issue alignment does not arrive as a doctrine announced in a speech.
+
+It accumulates from separate ministries solving separate problems under time pressure.
+
+A defense ministry needs spare parts and training slots.
+
+A finance ministry needs market access and currency stability.
+
+An energy ministry needs volume, price, and shipping insurance.
+
+A technology regulator needs standards that local firms can meet.
+
+A foreign ministry needs votes, venues, and language that keep domestic coalitions intact.
+
+Each of those offices can produce a rational partnership that does not match the others.
+
+Over time the set of partnerships becomes a portfolio whether or not anyone designed it that way.
+
+The political skill is noticing when the portfolio has begun to contradict itself.
+
+A state can sustain contradictions for years if the domains remain operationally separate and if no crisis forces a simultaneous choice.
+
+The danger arrives when a partner begins to treat one relationship as a lever over another.
+
+Then the portfolio stops being a set of options and becomes a set of tripwires.
+
+Issue alignment therefore requires active management.
+
+It is not enough to collect partners.
+
+The government has to track which dependencies can be linked, which cannot, and which domestic actors will resist compartmentalization when pressure rises.
+
+That work looks bureaucratic from the outside.
+
+It is often the real content of strategic autonomy.
+
+## Domestic coalitions and the limits of neat strategy
+
+Outside observers often treat middle-power hedging as elite cleverness.
+
+Domestic politics usually matter more.
+
+Export industries can demand continued access to a market that security officials distrust.
+
+Diaspora communities can harden positions on conflicts far from the capital.
+
+Religious networks, labor unions, regional governors, and state-owned firms can each hold vetoes over particular deals.
+
+A foreign policy that looks inconsistent from Washington or Beijing may be internally coherent once those constraints are visible.
+
+The issue map is therefore also a domestic map.
+
+Which constituency cares about this decision?
+
+Who pays if the relationship is reduced?
+
+Who gains if an alternative supplier is brought in?
+
+Which narrative travels more easily through local media: loyalty, autonomy, dignity, jobs, or risk?
+
+Great powers frequently misread these questions because they treat the partner as a unitary actor.
+
+Middle powers survive by not being unitary.
+
+They divide decisions across institutions precisely so that no single external demand can capture the whole state at once.
+
+That division creates friction.
+
+It also creates room.
+
+## When issues refuse to stay separate
+
+Some domains resist compartmentalization by nature.
+
+Sanctions regimes can turn an energy purchase into a financial and shipping problem overnight.
+
+Export controls can turn a commercial cloud contract into a national-security question.
+
+A war can convert a logistics corridor into a coalition loyalty test.
+
+A technology standard can quietly determine who can sell into a market five years later.
+
+The art of issue alignment is recognizing which seams are stable and which are temporary illusions.
+
+A government that assumes every relationship can be kept separate will be surprised when linkage arrives.
+
+A government that treats every relationship as inevitably linked will surrender options too early and pay for autonomy it never needed.
+
+The practical middle path is continuous triage.
+
+Preserve separability where it still works.
+
+Invest in redundancy where linkage is becoming likely.
+
+Accept deeper alignment where the alternative is exposure without compensation.
+
+Refuse package deals that demand loyalty across domains the state cannot afford to unify.
+
+This is not elegance.
+
+It is maintenance.
+
+States that treat foreign policy as maintenance rather than as identity often keep more freedom of action when the next crisis arrives.
+
+
+## Measuring the portfolio without a single score
+
+Analysts often want a single alignment index: how Western, how Chinese, how nonaligned.
+
+Issue alignment resists that compression.
+
+A more useful measurement is domain-by-domain: security dependence, trade concentration, capital exposure, technology stack risk, energy substitutability, and diplomatic voting patterns, each tracked separately over time.
+
+Movement in one domain should not be allowed to rewrite the score for all others unless linkage has actually occurred.
+
+This kind of measurement is harder to put on a television map.
+
+It is better politics.
+
+It tells a government where optionality is real, where it is eroding, and where a forthcoming deal would quietly unify what had been separate.
+
+Without measurement, issue alignment drifts into improvisation.
+
+With it, improvisation can still happen—but with a clearer sense of what is being spent.
