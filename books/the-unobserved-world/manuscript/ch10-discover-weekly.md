@@ -215,3 +215,15 @@ Can something the system does not yet understand receive enough exposure to beco
 If the answer is no, the recommender may still be excellent at delivering what people already like.
 
 It will just be less capable of discovering what they might like next.
+
+There is a second accounting problem hidden inside exposure: the platform can measure the cost of exploration immediately, while the value of discovery often arrives later.
+
+The familiar track displaced from a recommendation slot has a known expected response. The unfamiliar track has an uncertain one. If the exploratory choice is judged only by the first skip, the accounting is asymmetric from the start. The system charges curiosity for its short-run opportunity cost but gives it little credit for learning that improves future ranking, reveals a new audience, or corrects an overly narrow model of the listener.
+
+A serious exploration policy therefore needs to record what it learned, not only what the exploratory item earned.
+
+That can be modest. Did the test reduce uncertainty about a new creator? Did it reveal a cluster of listeners whose response differed from the model's expectation? Did later recommendations improve because the system learned something the exploitative policy would not have observed?
+
+Without that accounting, exploration will look like a sequence of locally inferior recommendations.
+
+The point is not to invent a financial value for every surprise. It is to stop treating information as free when exploitation consumes it and costly only when exploration creates it.
