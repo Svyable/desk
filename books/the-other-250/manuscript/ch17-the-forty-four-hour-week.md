@@ -227,3 +227,25 @@ The law lives inside the week.
 That is easy to under-appreciate because weeks repeat.
 
 Before repetition, there was a fight over whether the federal government could put a number on them at all.
+
+There is another consequence of a labor floor that is harder to see than the wage on a pay stub: it reduces the number of terms every worker must renegotiate from zero.
+
+Without a baseline, each employment relationship carries a larger private bargaining burden. How long is the ordinary week? When does extra time become extra pay? How young can a worker be? Which records matter if the parties later disagree? A strong union or scarce specialist can bargain over those questions directly. A worker with little leverage may accept the employer’s answer because the cost of contesting every term is too high.
+
+A statutory floor standardizes part of the bargaining surface.
+
+That does not eliminate negotiation. It moves it. Employers and workers can still bargain over wages above the minimum, schedules, bonuses, benefits, promotion, flexibility, and countless other conditions. But some questions begin from a public default rather than a blank page.
+
+Defaults have economic value because attention is scarce.
+
+A firm operating across many workers can build payroll systems, staffing models, and pricing around a known baseline. A worker comparing jobs can treat some minimum conditions as given rather than investigating whether each employer has invented a different definition of an ordinary week. Enforcement remains imperfect, exemptions matter, and classification disputes can reopen the uncertainty. The standard is still a coordination device.
+
+That helps explain why mature regulation can become invisible even to people who dislike particular regulatory choices. Once businesses, software, contracts, and expectations are organized around a rule, changing the rule has transition costs separate from the merits of the rule itself.
+
+Those costs do not prove that an old standard should survive. They do mean that labor law becomes part of productive infrastructure as well as a constraint on it.
+
+The most durable achievement of the FLSA may therefore be less dramatic than any single wage increase. It made the idea of a national employment floor administratively normal. Future arguments could focus on level, scope, exemption, enforcement, and adaptation because the prior question—whether private work should have federally enforceable minimum conditions at all—had already been answered in institutional practice.
+
+The floor did not end bargaining.
+
+It changed where bargaining begins.
