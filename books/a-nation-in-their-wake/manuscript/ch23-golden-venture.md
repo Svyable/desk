@@ -370,8 +370,6 @@ That systems view remains essential to any serious account of migration. The sta
 
 The ship turned an invisible route into a national image.
 
-<!-- PUB-AUGMENT-2026-09-06 -->
-
 The detention story also deserves to remain connected to deterrence. Holding migrants for months or years does more than process individual claims. Governments may hope the treatment of the current group changes the calculations of future migrants and smugglers.
 
 That converts custody into communication.
@@ -385,5 +383,3 @@ This is where border administration becomes more than sorting. The state is choo
 Ships aggregate people physically.
 
 Law has to decide when to disaggregate them morally.
-
-<!-- PUB-AUGMENT-ROUND2-2026-09-06 -->

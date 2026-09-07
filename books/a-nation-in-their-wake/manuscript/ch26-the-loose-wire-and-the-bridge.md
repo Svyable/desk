@@ -547,5 +547,3 @@ They matter because something happened around them large enough to reveal the ma
 The wake is what remains visible after the hull has passed.
 
 The country is what remains connected when it has not.
-
-<!-- PUB-AUGMENT-2026-09-06 -->
