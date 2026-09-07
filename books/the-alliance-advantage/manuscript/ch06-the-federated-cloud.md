@@ -174,8 +174,6 @@ In practical terms, the federated cloud is where several earlier chapters become
 
 With a flawed place, they become a concentrated target. With a well-designed federation, they become a commons of compute that still admits borders—borders drawn deliberately, enforced automatically, and revisable when politics and missions change.
 
-That is a narrower glory than “the alliance cloud.” It is also the only kind likely to survive contact with sovereignty, vendors, and war.
-
 The next movements of the book leave the data center for the material world that still decides whether digital advantage can be sustained: logistics, munitions, standards, and factories. Cloud without shells is a briefing. Shells without a network are a stockpile waiting for a slower enemy.
 
 Cloud without shells is a briefing. Shells without a network are a stockpile waiting for a slower enemy. Between those failures sits federation: not a single landlord for allied compute, but a set of doors, keys, and revocation paths sturdy enough for sovereignty and fast enough for war. Capitals that fund only the racks will discover they bought isolation at cloud scale. Capitals that fund the doors will discover they bought something rarer—a place where allied software can meet without pretending borders vanished.
@@ -202,34 +200,12 @@ Purpose-limited observability prevents reliability tooling from becoming mutual 
 
 Tested workload exits turn portability clauses from fiction into measured strategy.
 
-Cloud hardware supply chains reintroduce the munition problem in the data-center basement.
-
 Training clouds normalize federated identity before sharper missions demand it under fire.
-
-Mission-network templates that survive degraded links are combat power; laboratory green status is not.
-
-Continuous authorization with mutual recognition of evidence keeps federation from becoming a museum of approved versions.
-
-Policy-as-code for data residency prevents unlawful placement and paralyzed placement alike.
-
-Commercial concentration turns vendor labor actions into alliance events; diversification has a price worth paying.
-
-Landing stations and cables belong in resilience plans that still pretend geography is optional.
-
-Captured edge caches can undo classification discipline; minimize, wipe, and harden as operational security.
-
-Surge compute is deterrence inventory; idle capacity needs the same political defense as unused munitions.
-
-Privileged administrators are shared risk; just-in-time access and cross-domain revocation are shared defense.
 
 Federation is doors, keys, and revocation paths—not a single landlord. Fund the doors or buy isolation at cloud scale. Mission-network templates, continuous authorization, residency policy-as-code, tested exits, and mapped cable geography are how elastic compute becomes alliance infrastructure rather than enterprise fashion. Cloud without shells is a briefing; the material chapters insist shells and movement still decide whether digital advantage lives past week two.
 
-The unromantic work continues: measure conversion, exercise friction, fund seams, warm factories, and keep sovereignty explicit without using it as an excuse for permanent isolation.  That discipline is how networks stay honest when vocabulary runs ahead of machinery. Capitals that keep score in communiqués will be surprised by capitals that keep score in crates moved, patches applied, and magazines filled under partner markings.  Surprise of that kind is avoidable; avoiding it is the point of this book’s mechanisms.
+Reserved capacity under Article 5 conditions or equivalent regional crises should be stated in peacetime federation agreements. Silence is a latent quarrel. The quarrel deferred to wartime will be settled under television lights with incomplete facts. Write the clause. Exercise the clause. Fund the capacity the clause assumes.
 
-Across the functional and regional chapters, the same conversion test recurs under different nouns. Data, models, intelligence, cloud, logistics, munitions, standards, industry, digital governance, regional lattices, dense technical clubs, innovation absorption, sovereignty bargains, vulnerability management, and coalition tempo are not separate agendas. They are faces of one question: can distributed capability be made usable in time without demanding a single throne? Capitals that answer only with vocabulary will field inventories. Capitals that answer with seams, stocks, and practiced authorities will field forces. The difference is the alliance advantage under test—and the only difference that matters when the plug must fit.
+Purpose-limited observability among federated operators prevents reliability tooling from becoming mutual surveillance. Friends need privacy to remain friends. Friends also need enough shared telemetry to keep the backbone alive. The boundary is a design choice, not a mood.
 
-Keep the falsifiers nearby while doing the work. Coordination can cost more than it returns. Standards can stifle. Dependence can coerce. Centralized foes can win tempo fights. Those possibilities are why measurement and counter-evidence belong inside alliance management rather than in opposing op-eds alone. A thesis that cannot state its own defeat conditions is not strategy; it is branding. This book’s mechanisms remain accountable to exercises, factories, and clocks.
-
-Finally, refuse the comfort of unfinished conversion. Announcing a backbone, a forum, or a production goal is the beginning of responsibility, not its discharge. The discharge looks like a credential that works, a shell that arrives, a model that can be refused or patched across a border, a port that clears under treaty authority, and a public that understands why some autonomy was traded for speed. Those are ordinary proofs. Ordinary proofs are how alliances become extraordinary under pressure.
-
-Keep score in what crosses borders under policy—credentials, crates, patches, and authorities—because that scoreboard is the only one adversaries cannot dismiss as theater.
+Training clouds that normalize federated identity before sharper missions demand it under fire remain cheap compared with improvisation. Normalize early. Fail early. Fix early. That sequence is how federation becomes habit rather than heroism.
