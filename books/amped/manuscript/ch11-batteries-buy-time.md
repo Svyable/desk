@@ -351,3 +351,119 @@ The technology is often less novel than the institution required to make it depe
 Batteries are already good at moving electricity through time.
 
 The data-center era is forcing the grid to get better at deciding **whose time they are allowed to move**.
+
+There is one more clock inside the battery story that tends to disappear from the headline.
+
+Recharge.
+
+A storage project can look excellent if the planning model studies one isolated evening peak. The battery begins full, discharges through the difficult hours, and the event ends. The graph is clean because the battery receives a fresh morning every time the analyst runs the scenario.
+
+Real grids do not reset overnight by assumption.
+
+A heat wave can produce several stressed afternoons in a row. A winter system can remain constrained through a long cold spell. Transmission outages can overlap with high demand. A data center can experience a private reliability event on the same day the public grid wants access to its battery.
+
+The question is not only whether the battery can discharge.
+
+It is whether the system can afford to refill it before the next call.
+
+That depends on the hours between events. It depends on available generation, local transmission headroom, the battery’s charging rate, the campus load, and whatever private reserve the operator must restore for its own reliability standard.
+
+A battery that empties gracefully and recharges into a constrained grid can simply move the shortage into the recovery period.
+
+That does not make storage useless.
+
+It makes recovery part of the service definition.
+
+A serious contract can therefore specify more than discharge duration. It can specify expected recovery windows, minimum state of charge before designated risk periods, limits on market activity before a reliability call, and what happens when two events arrive closer together than expected.
+
+The battery has two hands on its clock.
+
+Discharge and recharge.
+
+Reliability depends on both.
+
+This changes the way storage should be credited in a data-center interconnection agreement.
+
+Suppose a utility allows a campus to connect before a transmission upgrade because the customer promises to cap imports during local constraint hours. The customer plans to use a battery to honor the cap. If those constraint hours occur predictably for two hours on summer evenings, the arrangement may be straightforward. If the constraint can persist for eight hours or recur the next morning, the same battery may provide much less dependable relief.
+
+The value of the asset is therefore shaped by the geometry of the constraint.
+
+Short and sharp.
+
+Long and shallow.
+
+Predictable and daily.
+
+Rare and extreme.
+
+One long event.
+
+Three events with no room to recover.
+
+Those are not equivalent planning problems even when the peak megawatts are identical.
+
+This is why capacity accreditation for storage cannot be separated from the event the grid is trying to survive. A battery can be nearly perfect for a brief local overload and poorly matched to a prolonged energy shortage. The nameplate does not tell you which one you have.
+
+Data centers make this easier to see because their own reliability systems already think in event sequences.
+
+The facility does not ask whether its UPS has “a lot of battery.” It asks what must happen during the seconds before backup generation starts, how long the generators can carry the site, what happens if one fails, and how the system returns to normal without dropping the load.
+
+The grid needs the same operational specificity when it borrows flexibility from the campus.
+
+There is also a subtle cost consequence.
+
+A battery used aggressively for grid service may need to recharge at times when electricity is expensive. The service can still be valuable if it avoids a more expensive capacity problem, but the charging cost belongs in the comparison. So do degradation, replacement, efficiency losses, and the value of preserving private resilience.
+
+The right benchmark is not “battery versus nothing.”
+
+It is battery-backed flexibility versus the next-best way to deliver the same reliability service.
+
+Sometimes that next-best option is a larger transformer.
+
+Sometimes it is a new line.
+
+Sometimes it is a gas peaker.
+
+Sometimes it is a smaller first data-center phase.
+
+Sometimes it is simply a contract that allows the load to be curtailed.
+
+Storage earns its place when buying time is cheaper or more reversible than buying steel.
+
+Reversibility is the underappreciated advantage.
+
+A transmission line built for a forecast that fails remains in the ground. A large generator built for a campus that never reaches full scale can remain in the rate base for decades. A modular battery can be expanded more gradually, redeployed in some circumstances, repurposed for different services, or simply not purchased for a phase that never materializes.
+
+That does not eliminate stranded cost.
+
+It can reduce the size of each irreversible bet.
+
+This is why storage belongs in the same chapter of infrastructure economics as staged data-center commitments. Both are ways of refusing to treat the final master plan as if it already exists.
+
+The customer earns more firm service as the load becomes real.
+
+The storage portfolio grows as the constraint becomes real.
+
+The transmission project proceeds when the long-run need survives the evidence.
+
+The grid can then use batteries as a **bridge with checkpoints** rather than as a promise that all future scarcity will be solved by chemistry.
+
+That distinction matters because batteries can otherwise become a rhetorical escape hatch. Every difficult planning debate ends with “storage will improve.” Every delayed line is assumed bridgeable. Every clean-energy gap is assumed shiftable. Every high-load-factor campus is assumed partially self-supporting.
+
+A real battery is less convenient and more valuable than that.
+
+It has a location.
+
+It has a power rating.
+
+It has an energy rating.
+
+It has a state of charge.
+
+It has a recovery time.
+
+It has an owner with competing uses for it.
+
+Once those facts are written into the contract, the grid can stop talking about batteries as an abstract category and start counting what they can actually do.
+
+That is when time becomes infrastructure.
