@@ -49,6 +49,7 @@ This is deliberately not another book about allocating intelligence, delegating 
 
 - [Research brief and falsification notes](research/README.md)
 - [Source ledger](research/source-ledger.csv)
+- [Chapter 6 — trust as controlled change](research/ch06-trust-change-control.md)
 
 ## Rights
 
