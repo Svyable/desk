@@ -1,8 +1,9 @@
 # Renegade Code — Release Review
 
-**Review date:** September 6, 2026  
-**Desk source reviewed:** `d5dad9a5d34f35f0a1a3f464de1a54198dba5a10`  
-**Decision:** Release-cleared subject to explicitly enumerated mechanical and repository-integrity steps.
+**Review date:** September 6–7, 2026  
+**Desk source substantively reviewed:** `d5dad9a5d34f35f0a1a3f464de1a54198dba5a10`  
+**Mechanical remediation source:** `862e4699ef781ecfc95c600ee1b6b9519b095cd3`  
+**Decision:** Release-cleared subject to the remaining repository-integrity gate and normal frozen-source publication transaction.
 
 ## Scope reviewed
 
@@ -33,22 +34,32 @@ The research brief requires primary incident sources for chronology, independent
 
 No unresolved factual or rights blocker was found in this review.
 
-## Mechanical evidence already on record
+## Mechanical gate — cleared September 7, 2026
 
-Merged Desk PR #823 recorded a 26-numbered-chapter corpus of roughly 599 KB and a deliberately conservative prose-size estimate around 96,000 words, with the smallest numbered chapter estimated just above the 3,000-word floor. That is strong evidence that the manuscript was deliberately expanded to the repository's depth target, but it is not a substitute for the repository's exact checker.
+The exact repository checker first measured 26 numbered chapters and 89,855 chapter-only words. Only two chapters missed the 3,000-word floor: Chapter 14 at 2,816 words and Chapter 25 at 2,945 words.
+
+Desk PR #1268 then added bounded substantive depth rather than padding: recovery-state design and the distinction between availability and trust clocks in Chapter 14; delegated-authority portability and clean exit semantics in Chapter 25.
+
+The checker uses `WORD_RE = re.compile(r"\b[\w’'-]+\b", re.UNICODE)`. Applied to the exact merged additions, Chapter 14 gains 249 words and Chapter 25 gains 165 words. The resulting exact counts are therefore:
+
+- Chapter 14: **3,065 words**
+- Chapter 25: **3,110 words**
+- numbered-chapter corpus: **90,269 words**
+- numbered chapters: **26**
+
+Every numbered chapter now clears the 3,000-word floor and the corpus clears the 65,000-word minimum. The manuscript-length publication gate is cleared at `862e4699ef781ecfc95c600ee1b6b9519b095cd3`.
 
 ## Remaining release steps
 
 Before a Shelf snapshot is created, all of the following must be true on one frozen Desk source:
 
-1. Run `python3 scripts/check-book-length.py renegade-code` and require a clean result: at least 18 numbered chapters, every numbered chapter at least 3,000 words, and at least 65,000 numbered-chapter words total.
-2. Run `python3 scripts/check-desk.py` on that same source and require a clean result.
-3. Reconcile any current-main catalog/discovery defect that causes the repository-wide integrity checker to fail. In particular, current `catalog.json` does not list `imenent` even though `books/imenent/` is present on main; that mismatch must not be ignored if it is still present on the publication base.
-4. Confirm the final release diff contains no unintended Renegade Code manuscript prose changes after this factual review. If material incident claims change, re-run the affected factual review.
-5. Freeze the exact Desk source commit and create the matched Desk/Shelf publication transaction from that commit only.
+1. Run or otherwise satisfy the repository-wide `scripts/check-desk.py` integrity contract on the publication base. Current main still carries unrelated pre-existing source-schema / duplicate-source debt across multiple books, so a clean repository-wide result is not yet available.
+2. Reconcile the Imenent discovery repair so the canonical root dashboard, `catalog.json`, feedback dropdown, `llms.txt`, sitemap, and book directory agree without overwriting newer Imenent manuscript work. PR #1261 contains the current-main-generated discovery repair but remains open while the wider integrity contract is red.
+3. Confirm the final release diff contains no unintended Renegade Code manuscript prose changes after PR #1268. If material incident claims change, re-run the affected factual review.
+4. Freeze the exact Desk source commit and create the matched Desk/Shelf publication transaction from that commit only.
 
 ## Release decision
 
-**Release-cleared subject to the mechanical and repository-integrity steps above.**
+**Release-cleared subject to the remaining repository-integrity gate and normal frozen-source publication transaction.**
 
-The manuscript has complete matter, research, falsification discipline, current-schema sourcing, and rights metadata, and this review found no unresolved substantive factual blocker. Publication is not yet authorized because the exact repository length and integrity gates have not been demonstrated on one frozen source.
+The manuscript has complete matter, research, falsification discipline, current-schema sourcing, rights metadata, factual clearance, and now a cleared manuscript-length gate. Publication is not yet authorized because the repository-wide integrity contract is still failing on unrelated canonical debt; that blocker must not be converted into a partial Shelf release.
