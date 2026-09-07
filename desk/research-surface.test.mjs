@@ -17,10 +17,11 @@ assert.equal(
 );
 
 const source = readFileSync(new URL('./research-surface.js', import.meta.url), 'utf8');
-assert.match(source, /fetch\(researchReadmeUrl\(slug\), \{ cache: 'no-store' \}\)/);
-assert.match(source, /if \(!slug \|\| !\(await researchExists\(slug\)\)\) return;/);
+assert.doesNotMatch(source, /fetch\(|researchExists|await researchExists/);
+assert.match(source, /if \(!slug\) return;/);
 assert.match(source, /research\.textContent = 'Research'/);
 assert.match(source, /research\.setAttribute\('aria-label'/);
+assert.match(source, /root\.querySelectorAll\('\.book-card\[data-slug\]'\)\.forEach\(enhanceBookCard\)/);
 assert.match(source, /observer\.observe\(root, \{ childList: true \}\)/);
 assert.match(source, /repoForm.*submit.*observer\.disconnect\(\)/s);
 assert.match(source, /URLSearchParams\(location\.search\).*has\('repo'\)/s);
