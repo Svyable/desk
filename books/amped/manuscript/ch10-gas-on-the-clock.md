@@ -80,6 +80,28 @@ Data centers complicate the transition because they add a large, often steady lo
 
 Gas can fill the temporal gap.
 
+But the phrase can hide how many clocks have to agree before the first megawatt arrives.
+
+The turbine has a manufacturing clock. The site has a permitting clock. The transmission connection has a study and construction clock. The gas system has a pipeline, compression, and transportation-contract clock. The data center has its own building and server-delivery clock. A project described in a boardroom as “gas in three years” is really a stack of dependent schedules, each capable of becoming the critical path.
+
+That distinction matters because the speed advantage is regional, not universal.
+
+A plant beside a large pipeline and an existing high-voltage corridor is a different proposition from the same plant at the end of a constrained gas lateral and a weak transmission pocket. In the second case, the supposedly fast resource can require two network expansions at once. The electric system waits for the gas system, while the gas system may need confidence that the electric load will actually materialize before committing capital.
+
+The customer’s certainty becomes part of the infrastructure schedule.
+
+This is another reason large-load contracts matter. A utility or pipeline developer is more willing to order equipment and reserve construction capacity when the customer has posted collateral, accepted minimum payments, or otherwise made cancellation expensive. The contract does not make steel arrive sooner by itself. It makes the demand claim credible enough for other actors to start spending before every uncertainty has disappeared.
+
+That can accelerate a project.
+
+It can also accelerate the wrong project.
+
+Once turbine slots are reserved, pipeline work begins, and a generator enters a utility resource plan, cancellation becomes progressively harder. The decision acquires momentum before the plant is operating. By the time a cleaner alternative becomes available, the relevant comparison may no longer be clean resource versus unbuilt gas plant. It may be clean resource versus a gas project with sunk development cost, contracted equipment, and a regulatory record already built around it.
+
+The option set narrows in stages.
+
+This is why the most consequential gas decision may occur long before concrete is poured. It can occur when a utility decides which schedule it is willing to underwrite.
+
 The economic temptation is strong because the value of getting a data center online can be enormous. A technology company may be willing to pay a premium for speed. A state may value the investment. A utility may prefer a familiar technology with known operating characteristics. The public may accept temporary emissions if the project creates a path to cleaner replacement later.
 
 Temporary arrangements have a habit of developing constituencies.
@@ -103,6 +125,28 @@ A long-term large-load contract can help.
 A customer can guarantee enough revenue to cover part of the capacity built for it. A special tariff can include exit charges or minimum bills. A generator can contract directly with a corporate buyer rather than relying entirely on regulated cost recovery.
 
 The financing should match the cause as much as possible.
+
+That sounds like a narrow rate-design point. It is actually central to whether the bridge stays temporary.
+
+A regulated plant does not need to run every hour to keep creating bills. Fuel expense falls when the plant operates less, but the capital investment remains. Debt service, depreciation, taxes, maintenance, and the utility's allowed return do not vanish merely because cleaner resources later displace the plant in dispatch.
+
+This creates a subtle tension in the bridge story.
+
+The system may achieve exactly what planners said they wanted: transmission arrives, renewable output expands, storage grows, and the gas plant runs fewer hours. Operationally, the transition is working. Financially, customers may still be paying for a large asset that was justified by a short period of scarcity.
+
+Low utilization is therefore not the same thing as low cost.
+
+That is why the original allocation of capital risk matters more than optimistic claims about future capacity factor. If one customer’s accelerated timetable caused the plant to be built years earlier than the wider system otherwise needed it, the contract can assign some of that early-life capital exposure to the customer. If regulators conclude that the broader grid would have needed the plant anyway, the cost can be shared more broadly. The hard case is pretending these are the same proposition.
+
+They are not.
+
+A plant can be useful to the system and still have been pulled forward by one customer class. Cost allocation has to deal with both facts.
+
+This also changes how stranded-asset risk should be understood. A stranded plant is not necessarily one that never runs. It can be a plant that remains technically useful but economically overbuilt for the demand that ultimately arrived, or one whose remaining book value outlasts the high-utilization period used to justify it.
+
+The stranded portion can hide inside an otherwise functioning grid.
+
+That is a more realistic risk than the dramatic image of an abandoned power station. Infrastructure can be “stranded” in the rate base while still spinning on cold nights.
 
 The second question is carbon risk.
 
@@ -199,6 +243,26 @@ Can the plant economically operate at lower utilization?
 Does the rate structure reward continued operation simply because capital has already been spent?
 
 A bridge with no exit ramp is a forecast error.
+
+The exit ramp has to work in operations as well as in a planning document.
+
+Suppose the plant is approved because a cluster needs firm capacity before a new transmission line is complete. Five years later the line enters service. The system now has a choice. It can treat the original gas unit as insurance for rare stress hours, or it can keep dispatching the plant heavily because fuel is available, contracts are in place, and the asset is already being recovered from customers.
+
+Those are different endings to the same construction decision.
+
+The first ending uses gas as a timing instrument. The second lets a timing instrument reshape the long-run generation mix.
+
+Markets and regulation can push toward either outcome. A merchant plant exposed to energy and capacity prices may run less when cheaper resources displace it, although its owners still carry contract and financing obligations. A regulated plant can also run less, but the utility and commission have to separate capital recovery from the assumption that the unit should continue producing energy simply because customers are paying for it.
+
+That separation is important.
+
+Sunk cost is not a reliability service.
+
+If the plant remains valuable because it can cover rare periods of system stress, planners should be able to describe that service and compare it with storage, demand response, transmission, or other capacity. If the plant runs mainly because the system has become accustomed to it, the bridge is governing the destination.
+
+The same discipline applies to fuel contracts. A long-term pipeline reservation can improve reliability during the bridge period, but it can also make lower future gas use financially painful. The generator may face fixed transportation charges even when it burns less fuel. A supposedly flexible power plant can sit on top of an inflexible fuel contract.
+
+Reversibility has to be designed through the whole chain.
 
 The political problem is that the data-center company and the utility may have different horizons.
 
