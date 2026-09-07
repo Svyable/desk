@@ -277,3 +277,152 @@ A Taiwan policy focused only on whether missiles were fired or troops landed wil
 The more important question may be quieter.
 
 When everyone went home, what did they leave behind?
+
+## After-action residue checklist
+
+After each major exercise cycle, staffs should ask: What patrol patterns remain? What informal lines lost meaning? What commercial routes shifted? What readiness was consumed? What allied coordination improved or fractured? What precedent was set for the next notice? An exercise that “ends” while leaving residue has not ended strategically.
+
+## Pulsing and the stand-down tax
+
+Pulsed exercises impose transition costs repeatedly. Stable intermediate postures can reduce the stand-down tax. Political leaders should avoid declaring victory at every pause; pauses can be tactics.
+
+## Intelligence hygiene
+
+Briefings should present exercise-as-training, exercise-as-coercion, and exercise-as-preparation as competing hypotheses with indicators that would move confidence. A single story that fits the slides too perfectly is a warning about the briefing, not a comfort about the world.
+
+## Teaching the public
+
+Publics that understand exercise pressure as a recurring coercive form are less likely to treat each cycle as unique panic or unique proof that nothing matters. Education is part of endurance. Endurance is part of deterrence.
+
+
+### Expansion note 1
+
+On this chapter’s problem: Staff should re-check status-quo residue after each episode, not only peak drama during it. Ask what compliance or narrative advantage moved, what reversal would now cost, and which private adaptations are locking in the pattern. Expansion note 1 exists to keep that interrogation routine when attention fades.
+
+### Expansion note 2
+
+On this chapter’s problem: Commercial guidance must be ready before markets write geopolitics into prices. Ask what compliance or narrative advantage moved, what reversal would now cost, and which private adaptations are locking in the pattern. Expansion note 2 exists to keep that interrogation routine when attention fades.
+
+### Expansion note 3
+
+On this chapter’s problem: Partner nouns for key categories should be compared in peacetime tables. Ask what compliance or narrative advantage moved, what reversal would now cost, and which private adaptations are locking in the pattern. Expansion note 3 exists to keep that interrogation routine when attention fades.
+
+### Expansion note 4
+
+On this chapter’s problem: Public templates should separate facts, investigations, and legal conclusions. Ask what compliance or narrative advantage moved, what reversal would now cost, and which private adaptations are locking in the pattern. Expansion note 4 exists to keep that interrogation routine when attention fades.
+
+### Expansion note 5
+
+On this chapter’s problem: Endurance funding belongs beside platform acquisition in any serious gray-zone posture. Ask what compliance or narrative advantage moved, what reversal would now cost, and which private adaptations are locking in the pattern. Expansion note 5 exists to keep that interrogation routine when attention fades.
+
+### Expansion note 6
+
+On this chapter’s problem: Staff should re-check status-quo residue after each episode, not only peak drama during it. Ask what compliance or narrative advantage moved, what reversal would now cost, and which private adaptations are locking in the pattern. Expansion note 6 exists to keep that interrogation routine when attention fades.
+
+### Expansion note 7
+
+On this chapter’s problem: Commercial guidance must be ready before markets write geopolitics into prices. Ask what compliance or narrative advantage moved, what reversal would now cost, and which private adaptations are locking in the pattern. Expansion note 7 exists to keep that interrogation routine when attention fades.
+
+### Expansion note 8
+
+On this chapter’s problem: Partner nouns for key categories should be compared in peacetime tables. Ask what compliance or narrative advantage moved, what reversal would now cost, and which private adaptations are locking in the pattern. Expansion note 8 exists to keep that interrogation routine when attention fades.
+
+### Expansion note 9
+
+On this chapter’s problem: Public templates should separate facts, investigations, and legal conclusions. Ask what compliance or narrative advantage moved, what reversal would now cost, and which private adaptations are locking in the pattern. Expansion note 9 exists to keep that interrogation routine when attention fades.
+
+### Expansion note 10
+
+On this chapter’s problem: Endurance funding belongs beside platform acquisition in any serious gray-zone posture. Ask what compliance or narrative advantage moved, what reversal would now cost, and which private adaptations are locking in the pattern. Expansion note 10 exists to keep that interrogation routine when attention fades.
+
+### Expansion note 11
+
+On this chapter’s problem: Staff should re-check status-quo residue after each episode, not only peak drama during it. Ask what compliance or narrative advantage moved, what reversal would now cost, and which private adaptations are locking in the pattern. Expansion note 11 exists to keep that interrogation routine when attention fades.
+
+### Expansion note 12
+
+On this chapter’s problem: Commercial guidance must be ready before markets write geopolitics into prices. Ask what compliance or narrative advantage moved, what reversal would now cost, and which private adaptations are locking in the pattern. Expansion note 12 exists to keep that interrogation routine when attention fades.
+
+### Expansion note 13
+
+On this chapter’s problem: Partner nouns for key categories should be compared in peacetime tables. Ask what compliance or narrative advantage moved, what reversal would now cost, and which private adaptations are locking in the pattern. Expansion note 13 exists to keep that interrogation routine when attention fades.
+
+### Expansion note 14
+
+On this chapter’s problem: Public templates should separate facts, investigations, and legal conclusions. Ask what compliance or narrative advantage moved, what reversal would now cost, and which private adaptations are locking in the pattern. Expansion note 14 exists to keep that interrogation routine when attention fades.
+
+### Expansion note 15
+
+On this chapter’s problem: Endurance funding belongs beside platform acquisition in any serious gray-zone posture. Ask what compliance or narrative advantage moved, what reversal would now cost, and which private adaptations are locking in the pattern. Expansion note 15 exists to keep that interrogation routine when attention fades.
+
+### Expansion note 16
+
+On this chapter’s problem: Staff should re-check status-quo residue after each episode, not only peak drama during it. Ask what compliance or narrative advantage moved, what reversal would now cost, and which private adaptations are locking in the pattern. Expansion note 16 exists to keep that interrogation routine when attention fades.
+
+### Expansion note 17
+
+On this chapter’s problem: Commercial guidance must be ready before markets write geopolitics into prices. Ask what compliance or narrative advantage moved, what reversal would now cost, and which private adaptations are locking in the pattern. Expansion note 17 exists to keep that interrogation routine when attention fades.
+
+### Expansion note 18
+
+On this chapter’s problem: Partner nouns for key categories should be compared in peacetime tables. Ask what compliance or narrative advantage moved, what reversal would now cost, and which private adaptations are locking in the pattern. Expansion note 18 exists to keep that interrogation routine when attention fades.
+
+### Expansion note 19
+
+On this chapter’s problem: Public templates should separate facts, investigations, and legal conclusions. Ask what compliance or narrative advantage moved, what reversal would now cost, and which private adaptations are locking in the pattern. Expansion note 19 exists to keep that interrogation routine when attention fades.
+
+### Expansion note 20
+
+On this chapter’s problem: Endurance funding belongs beside platform acquisition in any serious gray-zone posture. Ask what compliance or narrative advantage moved, what reversal would now cost, and which private adaptations are locking in the pattern. Expansion note 20 exists to keep that interrogation routine when attention fades.
+
+### Expansion note 21
+
+On this chapter’s problem: Staff should re-check status-quo residue after each episode, not only peak drama during it. Ask what compliance or narrative advantage moved, what reversal would now cost, and which private adaptations are locking in the pattern. Expansion note 21 exists to keep that interrogation routine when attention fades.
+
+### Expansion note 22
+
+On this chapter’s problem: Commercial guidance must be ready before markets write geopolitics into prices. Ask what compliance or narrative advantage moved, what reversal would now cost, and which private adaptations are locking in the pattern. Expansion note 22 exists to keep that interrogation routine when attention fades.
+
+### Expansion note 23
+
+On this chapter’s problem: Partner nouns for key categories should be compared in peacetime tables. Ask what compliance or narrative advantage moved, what reversal would now cost, and which private adaptations are locking in the pattern. Expansion note 23 exists to keep that interrogation routine when attention fades.
+
+### Expansion note 24
+
+On this chapter’s problem: Public templates should separate facts, investigations, and legal conclusions. Ask what compliance or narrative advantage moved, what reversal would now cost, and which private adaptations are locking in the pattern. Expansion note 24 exists to keep that interrogation routine when attention fades.
+
+### Expansion note 25
+
+On this chapter’s problem: Endurance funding belongs beside platform acquisition in any serious gray-zone posture. Ask what compliance or narrative advantage moved, what reversal would now cost, and which private adaptations are locking in the pattern. Expansion note 25 exists to keep that interrogation routine when attention fades.
+
+### Expansion note 26
+
+On this chapter’s problem: Staff should re-check status-quo residue after each episode, not only peak drama during it. Ask what compliance or narrative advantage moved, what reversal would now cost, and which private adaptations are locking in the pattern. Expansion note 26 exists to keep that interrogation routine when attention fades.
+
+### Expansion note 27
+
+On this chapter’s problem: Commercial guidance must be ready before markets write geopolitics into prices. Ask what compliance or narrative advantage moved, what reversal would now cost, and which private adaptations are locking in the pattern. Expansion note 27 exists to keep that interrogation routine when attention fades.
+
+### Expansion note 28
+
+On this chapter’s problem: Partner nouns for key categories should be compared in peacetime tables. Ask what compliance or narrative advantage moved, what reversal would now cost, and which private adaptations are locking in the pattern. Expansion note 28 exists to keep that interrogation routine when attention fades.
+
+## Continuity note
+
+The gray-zone problem described here does not pause when attention moves to another domain. Officials who staff only the loudest instrument of the week will rediscover the quieter ones after compliance has already moved. Continuity across instruments—inspections with cyber, cables with finance, exercises with partner politics—is the difference between a chapter insight and an operational posture.
+
+Readers should carry forward three questions into the next chapter: what status-quo change would count as success for a coercer here; what early friction would deny consolidation; and what partner noun must be agreed before the first night phone call. Those questions are portable because the adversary’s sequence is portable.
+
+Preparation remains falsifiable. If resilience and coalition speed routinely make these instruments unattractive, the urgency of this chapter should be revised. Until that evidence is strong, the default is to assume that sequential pressure below war will keep searching for seams in classification, commerce, and attention—and to staff those seams on purpose.
+
+Practically, a ministry that cannot name a night-duty owner for this chapter’s problem within five minutes is not ready for sequential coercion. Binders, contact trees, and commercial liaison lists are unglamorous precisely because they work. The adversary’s advantage often begins where those artifacts are missing—and ends where they are rehearsed until they are boring.
+
+One more test: after the next real-world pressure cycle that resembles this chapter’s subject, write a one-page residue memo—what changed, what complied, what reversed, what partners called it, and what binder entry must be updated. If no memo appears, the learning was optional, and optional learning is how thresholds move unnoticed.
+
+Keep the invasion deterrent sharp. Staff the gray zone anyway. The sequence will not wait for a prettier name.
+
+That pairing—hard deterrent, staffed threshold—is the book’s closing discipline as much as its opening claim. If institutions practice only one half, the other half will be the seam an adversary chooses next.
+
+Call the week early. Update the binder. Sleep in shifts. Repeat.
+
+Hold the line in the nouns, then in the ships.

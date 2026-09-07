@@ -61,3 +61,21 @@ Taiwan’s June tabletop exercise did not answer those questions. That was not i
 A crisis around Taiwan may arrive with explosions. It may also arrive with paperwork, maritime notices, inspections, insurance calls, corrupted networks, rerouted ships, and statements insisting that nothing unprecedented has occurred.
 
 Before leaders decide what to do, they will have to decide what to call it.
+
+## How to read what follows
+
+The chapters that follow do not replace invasion analysis. They relocate attention to the decision work that precedes unmistakable war: how governments classify coercion, how companies price it, how allies diverge over nouns, and how resilience changes the return on pressure. Where the book uses scenarios, they are labeled as scenarios. Where it cites official Taiwanese materials, commission bulletins, or think-tank assessments, it treats them as sources with standpoints—not as neutral scripture.
+
+The June 2026 tabletop remains a useful opening image because it made the naming problem explicit. Naming is not a literary preference. It is the first operational act. Everything else in the book is an attempt to make that act faster, more honest, and harder for sequential coercion to outrun.
+
+The chapters ahead are written to be staffed, not merely admired. If a reader finishes with better nouns and worse night-duty lists, the book has failed its own standard.
+
+Practically, a ministry that cannot name a night-duty owner for this chapter’s problem within five minutes is not ready for sequential coercion. Binders, contact trees, and commercial liaison lists are unglamorous precisely because they work. The adversary’s advantage often begins where those artifacts are missing—and ends where they are rehearsed until they are boring.
+
+One more test: after the next real-world pressure cycle that resembles this chapter’s subject, write a one-page residue memo—what changed, what complied, what reversed, what partners called it, and what binder entry must be updated. If no memo appears, the learning was optional, and optional learning is how thresholds move unnoticed.
+
+Keep the invasion deterrent sharp. Staff the gray zone anyway. The sequence will not wait for a prettier name.
+
+That pairing—hard deterrent, staffed threshold—is the book’s closing discipline as much as its opening claim. If institutions practice only one half, the other half will be the seam an adversary chooses next.
+
+Call the week early. Update the binder. Sleep in shifts. Repeat.
