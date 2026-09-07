@@ -36,218 +36,22 @@ Mediators using AI should disclose enough about their tools to parties that conf
 
 What would falsify skepticism? Repeated cases where AI-supported mediation produced durable agreements that comparable human-only processes missed, with transparent methods. Until then, humility about abundance is strategic, not Luddite.
 
-Deadlines interact badly with generative abundance because parties can always ask for another overnight draft. The operational test is whether a named official will still defend the choice after the interface changes.
+Deadlines interact badly with generative abundance because parties can always ask for another overnight draft.
 
-Chairs should set explicit draft freezes before decision sessions. Comparative history suggests the constraint is political more often than technical.
+Chairs should set explicit draft freezes before decision sessions.
 
-Constituency briefings can be assisted by models that translate technical clauses into plain language without promising what leaders have not authorized. Smaller states feel the pressure differently but not always more weakly.
+Constituency briefings can be assisted by models that translate technical clauses into plain language without promising what leaders have not authorized.
 
-Power asymmetry does not disappear when both sides have similar commercial models; the stronger party may simply generate coercive packages faster. Allies will disagree about thresholds even when they share software vendors.
+Power asymmetry does not disappear when both sides have similar commercial models; the stronger party may simply generate coercive packages faster.
 
-Cultural theories of face and honor still shape what packages are speakable. Records made in the moment prevent mythmaking later.
+Cultural theories of face and honor still shape what packages are speakable.
 
-Verification annexes deserve more human time than colorful preamble language, even if models prefer polishing preambles. Overconfidence is the recurring failure mode when fluency rises faster than evidence.
+Verification annexes deserve more human time than colorful preamble language, even if models prefer polishing preambles.
 
-Multi-party talks multiply version conflicts; shared repositories with permissioning become as important as coffee for delegates. The counter-evidence deserves a place in the briefing, not a footnote after decision.
+Multi-party talks multiply version conflicts; shared repositories with permissioning become as important as coffee for delegates.
 
-Ambiguous verbs like appropriate measures and due regard are sometimes load-bearing political technology, not drafting failures to be optimized away. Training should rehearse refusal as carefully as it rehearses acceleration.
+Ambiguous verbs like appropriate measures and due regard are sometimes load-bearing political technology, not drafting failures to be optimized away.
 
-Younger officers who grow up generating options must still learn how to recommend a single course under uncertainty. Procurement choices quietly encode these doctrines before a crisis arrives.
+Younger officers who grow up generating options must still learn how to recommend a single course under uncertainty.
 
-Closure is a political act. Tools should serve it, not postpone it indefinitely under the banner of optimization. None of this yields a slogan; it yields habits that must be staffed and protected.
-
-Deadlines interact badly with generative abundance because parties can always ask for another overnight draft. The operational test is whether a named official will still defend the choice after the interface changes.
-
-Chairs should set explicit draft freezes before decision sessions. Comparative history suggests the constraint is political more often than technical.
-
-Constituency briefings can be assisted by models that translate technical clauses into plain language without promising what leaders have not authorized. Smaller states feel the pressure differently but not always more weakly.
-
-Power asymmetry does not disappear when both sides have similar commercial models; the stronger party may simply generate coercive packages faster. Allies will disagree about thresholds even when they share software vendors.
-
-Cultural theories of face and honor still shape what packages are speakable. Records made in the moment prevent mythmaking later.
-
-Verification annexes deserve more human time than colorful preamble language, even if models prefer polishing preambles. Overconfidence is the recurring failure mode when fluency rises faster than evidence.
-
-Multi-party talks multiply version conflicts; shared repositories with permissioning become as important as coffee for delegates. The counter-evidence deserves a place in the briefing, not a footnote after decision.
-
-Ambiguous verbs like appropriate measures and due regard are sometimes load-bearing political technology, not drafting failures to be optimized away. Training should rehearse refusal as carefully as it rehearses acceleration.
-
-Younger officers who grow up generating options must still learn how to recommend a single course under uncertainty. Procurement choices quietly encode these doctrines before a crisis arrives.
-
-Closure is a political act. Tools should serve it, not postpone it indefinitely under the banner of optimization. None of this yields a slogan; it yields habits that must be staffed and protected.
-
-Deadlines interact badly with generative abundance because parties can always ask for another overnight draft. The operational test is whether a named official will still defend the choice after the interface changes.
-
-Chairs should set explicit draft freezes before decision sessions. Comparative history suggests the constraint is political more often than technical.
-
-Constituency briefings can be assisted by models that translate technical clauses into plain language without promising what leaders have not authorized. Smaller states feel the pressure differently but not always more weakly.
-
-Power asymmetry does not disappear when both sides have similar commercial models; the stronger party may simply generate coercive packages faster. Allies will disagree about thresholds even when they share software vendors.
-
-Cultural theories of face and honor still shape what packages are speakable. Records made in the moment prevent mythmaking later.
-
-Verification annexes deserve more human time than colorful preamble language, even if models prefer polishing preambles. Overconfidence is the recurring failure mode when fluency rises faster than evidence.
-
-Multi-party talks multiply version conflicts; shared repositories with permissioning become as important as coffee for delegates. The counter-evidence deserves a place in the briefing, not a footnote after decision.
-
-Ambiguous verbs like appropriate measures and due regard are sometimes load-bearing political technology, not drafting failures to be optimized away. Training should rehearse refusal as carefully as it rehearses acceleration.
-
-Younger officers who grow up generating options must still learn how to recommend a single course under uncertainty. Procurement choices quietly encode these doctrines before a crisis arrives.
-
-Closure is a political act. Tools should serve it, not postpone it indefinitely under the banner of optimization. None of this yields a slogan; it yields habits that must be staffed and protected.
-
-Deadlines interact badly with generative abundance because parties can always ask for another overnight draft. The operational test is whether a named official will still defend the choice after the interface changes.
-
-Chairs should set explicit draft freezes before decision sessions. Comparative history suggests the constraint is political more often than technical.
-
-Constituency briefings can be assisted by models that translate technical clauses into plain language without promising what leaders have not authorized. Smaller states feel the pressure differently but not always more weakly.
-
-Power asymmetry does not disappear when both sides have similar commercial models; the stronger party may simply generate coercive packages faster. Allies will disagree about thresholds even when they share software vendors.
-
-Cultural theories of face and honor still shape what packages are speakable. Records made in the moment prevent mythmaking later.
-
-Verification annexes deserve more human time than colorful preamble language, even if models prefer polishing preambles. Overconfidence is the recurring failure mode when fluency rises faster than evidence.
-
-Multi-party talks multiply version conflicts; shared repositories with permissioning become as important as coffee for delegates. The counter-evidence deserves a place in the briefing, not a footnote after decision.
-
-Ambiguous verbs like appropriate measures and due regard are sometimes load-bearing political technology, not drafting failures to be optimized away. Training should rehearse refusal as carefully as it rehearses acceleration.
-
-Younger officers who grow up generating options must still learn how to recommend a single course under uncertainty. Procurement choices quietly encode these doctrines before a crisis arrives.
-
-Closure is a political act. Tools should serve it, not postpone it indefinitely under the banner of optimization. None of this yields a slogan; it yields habits that must be staffed and protected.
-
-Deadlines interact badly with generative abundance because parties can always ask for another overnight draft. The operational test is whether a named official will still defend the choice after the interface changes.
-
-Chairs should set explicit draft freezes before decision sessions. Comparative history suggests the constraint is political more often than technical.
-
-Constituency briefings can be assisted by models that translate technical clauses into plain language without promising what leaders have not authorized. Smaller states feel the pressure differently but not always more weakly.
-
-Power asymmetry does not disappear when both sides have similar commercial models; the stronger party may simply generate coercive packages faster. Allies will disagree about thresholds even when they share software vendors.
-
-Cultural theories of face and honor still shape what packages are speakable. Records made in the moment prevent mythmaking later.
-
-Verification annexes deserve more human time than colorful preamble language, even if models prefer polishing preambles. Overconfidence is the recurring failure mode when fluency rises faster than evidence.
-
-Multi-party talks multiply version conflicts; shared repositories with permissioning become as important as coffee for delegates. The counter-evidence deserves a place in the briefing, not a footnote after decision.
-
-Ambiguous verbs like appropriate measures and due regard are sometimes load-bearing political technology, not drafting failures to be optimized away. Training should rehearse refusal as carefully as it rehearses acceleration.
-
-Younger officers who grow up generating options must still learn how to recommend a single course under uncertainty. Procurement choices quietly encode these doctrines before a crisis arrives.
-
-Closure is a political act. Tools should serve it, not postpone it indefinitely under the banner of optimization. None of this yields a slogan; it yields habits that must be staffed and protected.
-
-Deadlines interact badly with generative abundance because parties can always ask for another overnight draft. The operational test is whether a named official will still defend the choice after the interface changes.
-
-Chairs should set explicit draft freezes before decision sessions. Comparative history suggests the constraint is political more often than technical.
-
-Constituency briefings can be assisted by models that translate technical clauses into plain language without promising what leaders have not authorized. Smaller states feel the pressure differently but not always more weakly.
-
-Power asymmetry does not disappear when both sides have similar commercial models; the stronger party may simply generate coercive packages faster. Allies will disagree about thresholds even when they share software vendors.
-
-Cultural theories of face and honor still shape what packages are speakable. Records made in the moment prevent mythmaking later.
-
-Verification annexes deserve more human time than colorful preamble language, even if models prefer polishing preambles. Overconfidence is the recurring failure mode when fluency rises faster than evidence.
-
-Multi-party talks multiply version conflicts; shared repositories with permissioning become as important as coffee for delegates. The counter-evidence deserves a place in the briefing, not a footnote after decision.
-
-Ambiguous verbs like appropriate measures and due regard are sometimes load-bearing political technology, not drafting failures to be optimized away. Training should rehearse refusal as carefully as it rehearses acceleration.
-
-Younger officers who grow up generating options must still learn how to recommend a single course under uncertainty. Procurement choices quietly encode these doctrines before a crisis arrives.
-
-Closure is a political act. Tools should serve it, not postpone it indefinitely under the banner of optimization. None of this yields a slogan; it yields habits that must be staffed and protected.
-
-Deadlines interact badly with generative abundance because parties can always ask for another overnight draft. The operational test is whether a named official will still defend the choice after the interface changes.
-
-Chairs should set explicit draft freezes before decision sessions. Comparative history suggests the constraint is political more often than technical.
-
-Constituency briefings can be assisted by models that translate technical clauses into plain language without promising what leaders have not authorized. Smaller states feel the pressure differently but not always more weakly.
-
-Power asymmetry does not disappear when both sides have similar commercial models; the stronger party may simply generate coercive packages faster. Allies will disagree about thresholds even when they share software vendors.
-
-Cultural theories of face and honor still shape what packages are speakable. Records made in the moment prevent mythmaking later.
-
-Verification annexes deserve more human time than colorful preamble language, even if models prefer polishing preambles. Overconfidence is the recurring failure mode when fluency rises faster than evidence.
-
-Multi-party talks multiply version conflicts; shared repositories with permissioning become as important as coffee for delegates. The counter-evidence deserves a place in the briefing, not a footnote after decision.
-
-Ambiguous verbs like appropriate measures and due regard are sometimes load-bearing political technology, not drafting failures to be optimized away. Training should rehearse refusal as carefully as it rehearses acceleration.
-
-Younger officers who grow up generating options must still learn how to recommend a single course under uncertainty. Procurement choices quietly encode these doctrines before a crisis arrives.
-
-Closure is a political act. Tools should serve it, not postpone it indefinitely under the banner of optimization. None of this yields a slogan; it yields habits that must be staffed and protected.
-
-Deadlines interact badly with generative abundance because parties can always ask for another overnight draft. The operational test is whether a named official will still defend the choice after the interface changes.
-
-Chairs should set explicit draft freezes before decision sessions. Comparative history suggests the constraint is political more often than technical.
-
-Constituency briefings can be assisted by models that translate technical clauses into plain language without promising what leaders have not authorized. Smaller states feel the pressure differently but not always more weakly.
-
-Power asymmetry does not disappear when both sides have similar commercial models; the stronger party may simply generate coercive packages faster. Allies will disagree about thresholds even when they share software vendors.
-
-Cultural theories of face and honor still shape what packages are speakable. Records made in the moment prevent mythmaking later.
-
-Verification annexes deserve more human time than colorful preamble language, even if models prefer polishing preambles. Overconfidence is the recurring failure mode when fluency rises faster than evidence.
-
-Multi-party talks multiply version conflicts; shared repositories with permissioning become as important as coffee for delegates. The counter-evidence deserves a place in the briefing, not a footnote after decision.
-
-Ambiguous verbs like appropriate measures and due regard are sometimes load-bearing political technology, not drafting failures to be optimized away. Training should rehearse refusal as carefully as it rehearses acceleration.
-
-Younger officers who grow up generating options must still learn how to recommend a single course under uncertainty. Procurement choices quietly encode these doctrines before a crisis arrives.
-
-Closure is a political act. Tools should serve it, not postpone it indefinitely under the banner of optimization. None of this yields a slogan; it yields habits that must be staffed and protected.
-
-Deadlines interact badly with generative abundance because parties can always ask for another overnight draft. The operational test is whether a named official will still defend the choice after the interface changes.
-
-Chairs should set explicit draft freezes before decision sessions. Comparative history suggests the constraint is political more often than technical.
-
-Constituency briefings can be assisted by models that translate technical clauses into plain language without promising what leaders have not authorized. Smaller states feel the pressure differently but not always more weakly.
-
-Power asymmetry does not disappear when both sides have similar commercial models; the stronger party may simply generate coercive packages faster. Allies will disagree about thresholds even when they share software vendors.
-
-Cultural theories of face and honor still shape what packages are speakable. Records made in the moment prevent mythmaking later.
-
-Verification annexes deserve more human time than colorful preamble language, even if models prefer polishing preambles. Overconfidence is the recurring failure mode when fluency rises faster than evidence.
-
-Multi-party talks multiply version conflicts; shared repositories with permissioning become as important as coffee for delegates. The counter-evidence deserves a place in the briefing, not a footnote after decision.
-
-Ambiguous verbs like appropriate measures and due regard are sometimes load-bearing political technology, not drafting failures to be optimized away. Training should rehearse refusal as carefully as it rehearses acceleration.
-
-Younger officers who grow up generating options must still learn how to recommend a single course under uncertainty. Procurement choices quietly encode these doctrines before a crisis arrives.
-
-Closure is a political act. Tools should serve it, not postpone it indefinitely under the banner of optimization. None of this yields a slogan; it yields habits that must be staffed and protected.
-
-Deadlines interact badly with generative abundance because parties can always ask for another overnight draft. The operational test is whether a named official will still defend the choice after the interface changes.
-
-Chairs should set explicit draft freezes before decision sessions. Comparative history suggests the constraint is political more often than technical.
-
-Constituency briefings can be assisted by models that translate technical clauses into plain language without promising what leaders have not authorized. Smaller states feel the pressure differently but not always more weakly.
-
-Power asymmetry does not disappear when both sides have similar commercial models; the stronger party may simply generate coercive packages faster. Allies will disagree about thresholds even when they share software vendors.
-
-Cultural theories of face and honor still shape what packages are speakable. Records made in the moment prevent mythmaking later.
-
-Verification annexes deserve more human time than colorful preamble language, even if models prefer polishing preambles. Overconfidence is the recurring failure mode when fluency rises faster than evidence.
-
-Multi-party talks multiply version conflicts; shared repositories with permissioning become as important as coffee for delegates. The counter-evidence deserves a place in the briefing, not a footnote after decision.
-
-Practitioners working on 10 negotiating with abundance issues should keep a living note of what would change their minds. Without that note, confirmation bias wears institutional clothing.
-
-Budget identity matters: money labeled innovation tends to buy generation; money labeled integrity tends to buy verification. Both labels should appear in the same fiscal year if the doctrine in this book is taken seriously.
-
-Personnel evaluation forms that never mention verification skill will not produce verification cultures, regardless of strategy documents.
-
-International partners notice hypocrisy quickly when a government preaches responsible AI abroad while improvising recklessly at home.
-
-The archival future should be imaginable while drafting today's machine-assisted memo. If the memo cannot be explained later, it is not finished now.
-
-Evidence discipline remains the through-line. Claims about capability should cite deployments, not aspirations. Claims about risk should admit base rates and alternative explanations. Claims about professional advice should separate what is known from what is preferred. Readers and officers alike are owed that separation, especially when surrounding prose sounds finished.
-
-Practitioners working on 10 negotiating with abundance issues should keep a living note of what would change their minds. Without that note, confirmation bias wears institutional clothing.
-
-Budget identity matters: money labeled innovation tends to buy generation; money labeled integrity tends to buy verification. Both labels should appear in the same fiscal year if the doctrine in this book is taken seriously.
-
-Personnel evaluation forms that never mention verification skill will not produce verification cultures, regardless of strategy documents.
-
-International partners notice hypocrisy quickly when a government preaches responsible AI abroad while improvising recklessly at home.
-
-The archival future should be imaginable while drafting today's machine-assisted memo. If the memo cannot be explained later, it is not finished now.
+Closure is a political act. Tools should serve it, not postpone it indefinitely under the banner of optimization.

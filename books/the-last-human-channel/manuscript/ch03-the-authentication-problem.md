@@ -547,5 +547,3 @@ The categories sound basic.
 In a machine-generated information environment, basic categories become infrastructure.
 
 And infrastructure becomes visible only after it fails.
-
-Practitioners working on 3 the authentication problem issues should keep a living note of what would change their minds. Without that note, confirmation bias wears institutional clothing.

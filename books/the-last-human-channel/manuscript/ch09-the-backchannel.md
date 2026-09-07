@@ -114,7 +114,6 @@ Named responsibility is the through-line of this book. Private diplomacy is no e
 
 Close the door when necessary. Keep the responsibility attached to a person when you do.
 
-
 Implementation after a private assurance often fails in the ministries that were not in the room. A backchannel success that cannot be staffed becomes a credibility wound. Machine task lists can assign follow-ups; they cannot create ownership in offices that felt bypassed. Timing matters as much as wording.
 
 Third-country facilitators accumulate quiet leverage by hosting talks. That leverage can stabilize a process or become a bargaining chip of its own. AI briefing packs for facilitators should not mistake hospitality for neutrality without evidence. Rank of the intermediary matters as much as eloquence.
@@ -155,48 +154,4 @@ Self-deception thrives on fluent summaries that make a thin handshake look like 
 
 Honest private verbs are a gift to future implementers. They are also a constraint on leaders who enjoy the feeling of having fixed a problem in an evening. Constraints of that kind are features of serious institutions. Success in one theater does not license improvisation in another.
 
-Implementation after a private assurance often fails in the ministries that were not in the room. A backchannel success that cannot be staffed becomes a credibility wound. Machine task lists can assign follow-ups; they cannot create ownership in offices that felt bypassed. Timing matters as much as wording.
-
-Third-country facilitators accumulate quiet leverage by hosting talks. That leverage can stabilize a process or become a bargaining chip of its own. AI briefing packs for facilitators should not mistake hospitality for neutrality without evidence. Rank of the intermediary matters as much as eloquence.
-
-Diaspora politicians sometimes claim to speak privately for a homeland government. Occasionally they do. Often they do not. Verification through recognized channels remains necessary even when the interlocutor is fluent and well connected. The second confirmation path matters as much as the first message.
-
-Ceasefire monitoring depends on rapid private clarification when incidents occur. Parties will send conflicting machine-assisted incident reports within minutes. The channel that can ask a calm clarifying question may matter more than the more eloquent blame narrative. Domestic legal authority matters as much as foreign receptivity.
-
-Alliance backchannels among partners manage burden sharing and surprise. A partner who learns of a private probe from the newspaper will spend trust that a polished explanatory cable cannot replenish the next morning. Alliance consultation obligations may still apply in quiet form.
-
-Corporate executives occasionally carry messages because they have access. Governments that use them must define mandates tightly. An AI-summarized call between CEOs is not a demarche unless a state has authorized it as one. Records discipline today protects deniability claims tomorrow.
-
-Religious intermediaries have mediated conflicts where official speech was trapped by theology and prestige. Their authority is social rather than cryptographic. Tools can help them manage information; tools cannot mint moral standing. Overuse dulls the instrument.
-
-When leaders text each other directly, they create a backchannel that bypasses even their own advisers. Convenience is obvious. So is the risk of commitments made without legal and linguistic scrubbing. Underuse leaves only public theater when theater cannot carry the trade.
-
-Translation in private settings remains a soft underbelly. A single misrendered verb in a quiet room can create a commitment myth. Human interpreters with discretion clearances still belong in consequential private meetings. Fatigue makes sloppy private talk more likely at exactly the wrong hour.
-
-After scandals, reformers often propose banning private diplomacy. The likely result is not purity but amateur freelancing without tradecraft. Better to professionalize and oversee than to pretend politics will only use formal notes. Success in one theater does not license improvisation in another.
-
-Practitioners working on 9 the backannel issues should keep a living note of what would change their minds. Without that note, confirmation bias wears institutional clothing.
-
 Protocol officers and schedulers are underestimated infrastructure for private diplomacy. Who sits where, how long a pull-aside lasts, and whether note-takers are present shape what can be said. AI scheduling tools that optimize calendars without political sensitivity will accidentally eliminate the interstitial spaces where quiet talks occur. Protect those spaces on purpose.
-
-Budget identity matters: money labeled innovation tends to buy generation; money labeled integrity tends to buy verification. Both labels should appear in the same fiscal year if the doctrine in this book is taken seriously.
-
-Personnel evaluation forms that never mention verification skill will not produce verification cultures, regardless of strategy documents.
-
-International partners notice hypocrisy quickly when a government preaches responsible AI abroad while improvising recklessly at home.
-
-The archival future should be imaginable while drafting today's machine-assisted memo. If the memo cannot be explained later, it is not finished now.
-
-Evidence discipline remains the through-line. Claims about capability should cite deployments, not aspirations. Claims about risk should admit base rates and alternative explanations. Claims about professional advice should separate what is known from what is preferred. Readers and officers alike are owed that separation, especially when surrounding prose sounds finished.
-
-Practitioners working on 9 the backannel issues should keep a living note of what would change their minds. Without that note, confirmation bias wears institutional clothing.
-
-Budget identity matters: money labeled innovation tends to buy generation; money labeled integrity tends to buy verification. Both labels should appear in the same fiscal year if the doctrine in this book is taken seriously.
-
-Personnel evaluation forms that never mention verification skill will not produce verification cultures, regardless of strategy documents.
-
-International partners notice hypocrisy quickly when a government preaches responsible AI abroad while improvising recklessly at home.
-
-The archival future should be imaginable while drafting today's machine-assisted memo. If the memo cannot be explained later, it is not finished now.
-
-Evidence discipline remains the through-line. Claims about capability should cite deployments, not aspirations. Claims about risk should admit base rates and alternative explanations. Claims about professional advice should separate what is known from what is preferred. Readers and officers alike are owed that separation, especially when surrounding prose sounds finished.
