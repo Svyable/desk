@@ -268,33 +268,3 @@ They will do it under fear, fatigue, and incomplete knowledge, as they always ha
 The tools will be new.
 
 The requirement to keep a channel open long enough to prevent a mistake from becoming a fate remains the same.
-
-Practitioners working on 8 crisis time issues should keep a living note of what would change their minds. Without that note, confirmation bias wears institutional clothing.
-
-Ambulance diplomacy after natural disasters can build habits of rapid cooperation that later help in security crises—or create illusions that goodwill transfers automatically to hard security disputes. Keep the categories distinct in planning even when the same people staff both kinds of surge. Emotional carryover is real; legal authorities differ.
-
-Budget identity matters: money labeled innovation tends to buy generation; money labeled integrity tends to buy verification. Both labels should appear in the same fiscal year if the doctrine in this book is taken seriously.
-
-Personnel evaluation forms that never mention verification skill will not produce verification cultures, regardless of strategy documents.
-
-International partners notice hypocrisy quickly when a government preaches responsible AI abroad while improvising recklessly at home.
-
-The archival future should be imaginable while drafting today's machine-assisted memo. If the memo cannot be explained later, it is not finished now.
-
-Evidence discipline remains the through-line. Claims about capability should cite deployments, not aspirations. Claims about risk should admit base rates and alternative explanations. Claims about professional advice should separate what is known from what is preferred. Readers and officers alike are owed that separation, especially when surrounding prose sounds finished.
-
-Practitioners working on 8 crisis time issues should keep a living note of what would change their minds. Without that note, confirmation bias wears institutional clothing.
-
-Budget identity matters: money labeled innovation tends to buy generation; money labeled integrity tends to buy verification. Both labels should appear in the same fiscal year if the doctrine in this book is taken seriously.
-
-Personnel evaluation forms that never mention verification skill will not produce verification cultures, regardless of strategy documents.
-
-International partners notice hypocrisy quickly when a government preaches responsible AI abroad while improvising recklessly at home.
-
-The archival future should be imaginable while drafting today's machine-assisted memo. If the memo cannot be explained later, it is not finished now.
-
-Evidence discipline remains the through-line. Claims about capability should cite deployments, not aspirations. Claims about risk should admit base rates and alternative explanations. Claims about professional advice should separate what is known from what is preferred. Readers and officers alike are owed that separation, especially when surrounding prose sounds finished.
-
-Practitioners working on 8 crisis time issues should keep a living note of what would change their minds. Without that note, confirmation bias wears institutional clothing.
-
-Budget identity matters: money labeled innovation tends to buy generation; money labeled integrity tends to buy verification. Both labels should appear in the same fiscal year if the doctrine in this book is taken seriously.
