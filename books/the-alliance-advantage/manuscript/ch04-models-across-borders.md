@@ -62,7 +62,6 @@ Models across borders will not create a single allied mind.
 
 They can create a network that learns in more than one place without forgetting who remains accountable in each place. That is a narrower achievement than the marketing of AI usually promises. It is also closer to how alliances actually hold together: not by merging sovereignties, but by making selected products of sovereignty reusable in time.
 
-
 The underwater domain offers a near-term proving ground.
 
 AUKUS work on uncrewed undersea vehicles, payloads, and enabling systems pushes partners toward shared control concepts and standards while leaving room for nationally developed effects. Autonomy stacks that classify contacts, manage energy, or recommend courses will eventually sit inside that architecture. If those stacks cannot be validated against one another’s test data and operating concepts, interchangeable payloads will still meet divergent brains. The program’s industrial ambition therefore implies a model-governance ambition, even when the fact sheets emphasize hardware.
@@ -88,8 +87,6 @@ Across these domains the strategic pattern repeats.
 Models multiply the value of data and the cost of bad seams. Borders remain. The alliance advantage is the set of practices that let learning move while custody, accountability, and political authority remain legible. Empires can impose a single model family. Alliances must negotiate a family resemblance strong enough to fight with and loose enough to survive democracy.
 
 That negotiation is already underway in standards bodies, AUKUS project offices, NATO digital governance, and quiet bilateral lab agreements. It will not announce itself as a single triumph. It will appear as shorter evaluation cycles, fewer re-keyed tracks, faster safety patches, and fewer surprises inside combined formations about what the software was allowed to do.
-
-Those are measurable.
 
 They are also the right measures. Announcements about AI leadership are cheap. A model that an ally can trust, update, and constrain across a border in time to matter is expensive—and worth more than the announcement.
 
@@ -157,14 +154,4 @@ The measurable outcomes remain prosaic on purpose: allied units using partner mo
 
 Cross-border model practice will be judged less by keynote demos than by whether a partner can refuse a model, demand an evaluation, accept a patch, and still fight beside the provider the next day. That ordinary stubbornness is what keeps federation from becoming dependence dressed as innovation.
 
-Procurement language decides much of the model outcome. Contracts that treat models as static deliverables buy snapshots that rot; contracts that mandate evaluation hooks, update SLAs, logging interfaces, and allied test access push the market toward network-ready systems. Acquisition officers are model strategists whether they want the job or not. Cross-border practice will be judged by whether a partner can refuse a model, demand evaluation, accept a patch, and still fight beside the provider the next day.
-
-The unromantic work continues: measure conversion, exercise friction, fund seams, warm factories, and keep sovereignty explicit without using it as an excuse for permanent isolation.  That discipline is how networks stay honest when vocabulary runs ahead of machinery. Capitals that keep score in communiqués will be surprised by capitals that keep score in crates moved, patches applied, and magazines filled under partner markings.  Surprise of that kind is avoidable; avoiding it is the point of this book’s mechanisms.
-
-Across the functional and regional chapters, the same conversion test recurs under different nouns. Data, models, intelligence, cloud, logistics, munitions, standards, industry, digital governance, regional lattices, dense technical clubs, innovation absorption, sovereignty bargains, vulnerability management, and coalition tempo are not separate agendas. They are faces of one question: can distributed capability be made usable in time without demanding a single throne? Capitals that answer only with vocabulary will field inventories. Capitals that answer with seams, stocks, and practiced authorities will field forces. The difference is the alliance advantage under test—and the only difference that matters when the plug must fit.
-
-Keep the falsifiers nearby while doing the work. Coordination can cost more than it returns. Standards can stifle. Dependence can coerce. Centralized foes can win tempo fights. Those possibilities are why measurement and counter-evidence belong inside alliance management rather than in opposing op-eds alone. A thesis that cannot state its own defeat conditions is not strategy; it is branding. This book’s mechanisms remain accountable to exercises, factories, and clocks.
-
-Finally, refuse the comfort of unfinished conversion. Announcing a backbone, a forum, or a production goal is the beginning of responsibility, not its discharge. The discharge looks like a credential that works, a shell that arrives, a model that can be refused or patched across a border, a port that clears under treaty authority, and a public that understands why some autonomy was traded for speed. Those are ordinary proofs. Ordinary proofs are how alliances become extraordinary under pressure.
-
-Keep score in what crosses borders under policy—credentials, crates, patches, and authorities—because that scoreboard is the only one adversaries cannot dismiss as theater.
+Procurement language decides much of the model outcome. Contracts that treat models as static deliverables buy snapshots that rot; contracts that mandate evaluation hooks, update SLAs, logging interfaces, and allied test access push the market toward network-ready systems. Acquisition officers are model strategists whether they want the job or not.

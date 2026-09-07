@@ -22,8 +22,6 @@ It is the reason federation exists.
 
 Allies will not dump every sensor feed into a common lake. They will share under rules. The quality of those rules—labels, identity, access control, audit, purpose limitation, and releasability—determines whether the ecosystem is a living system or a museum of unread memoranda of understanding.
 
-Start with labelling.
-
 A piece of data without machine-readable classification, provenance, confidence, and handling caveats arrives as a human problem. A person must interpret markings, request exceptions, and decide whether the receiving system is allowed to store it. That process can be correct and still be too slow for missile defense, for maritime strike coordination, or for allocating scarce interceptors. Standardized metadata tagging and attribute-based access are not aesthetic preferences. They are the difference between a feed that can be routed automatically and a feed that waits for a duty officer.
 
 Federated identity sits beside labelling.
@@ -33,8 +31,6 @@ If users, services, and devices cannot be recognized across national boundaries 
 Discovery is the next neglected layer.
 
 Data that cannot be found might as well not exist for the decision that needed it. National systems often optimize storage and protection. They rarely optimize cross-national discoverability under policy constraints. A catalog that reveals only what a requester is entitled to see is more useful than a warehouse that contains everything and exposes nothing. Alliance data spaces, in the sense used in NATO’s digital strategy notes, are attempts to build that middle path: decentralized infrastructures with common governance so diverse actors can share without surrendering custody of the underlying stores.
-
-Custody matters.
 
 A state that retains control of its repositories while permitting policy-compliant queries has not abandoned sovereignty. It has encoded sovereignty into technical mediation. That encoding can fail. Policies can be too tight for the mission or too loose for domestic law. Interfaces can leak. Adversaries can target the brokers. The design still beats the alternative of pretending that political authority can be suspended for the convenience of a common operating picture.
 
@@ -93,7 +89,6 @@ Agree which data domains must be discoverable under federation for priority miss
 Decisions will still be human, political, and uncertain.
 
 They do not need to be ignorant of what the network already knew.
-
 
 Consider a concrete sequence that recurs in planning rooms.
 
@@ -164,15 +159,3 @@ The sequence can be stated without romance. Label. Identify. Discover. Authorize
 One more concrete failure mode closes the argument.
 
 A coalition air tasking order built on incomplete magazine data will assign sorties that cannot be armed. Everyone in the room may be acting in good faith on the extracts they were allowed to see. The missing field was sitting in another nation’s inventory system behind a policy that no one exercised until the order was already signed. Data before decisions is the insistence that such fields be reachable by design for the missions the alliance claims it can fly. Without that insistence, decision superiority remains a phrase that flatters local screens.
-
-Selective scarcity—moving the right attributes under the right authority—beats indiscriminate volume. Labelling, identity, and purpose limitation belong in the same sentence as sharing. The goal is timely lawful availability of facts that change choices, not maximal exposure. Institutions often decide first and commission data later; in alliance operations that habit is dangerous. Arrange the world so what is already known somewhere can be known, lawfully and quickly, where the decision will be made.
-
-The unromantic work continues: measure conversion, exercise friction, fund seams, warm factories, and keep sovereignty explicit without using it as an excuse for permanent isolation.  That discipline is how networks stay honest when vocabulary runs ahead of machinery. Capitals that keep score in communiqués will be surprised by capitals that keep score in crates moved, patches applied, and magazines filled under partner markings.  Surprise of that kind is avoidable; avoiding it is the point of this book’s mechanisms.
-
-Across the functional and regional chapters, the same conversion test recurs under different nouns. Data, models, intelligence, cloud, logistics, munitions, standards, industry, digital governance, regional lattices, dense technical clubs, innovation absorption, sovereignty bargains, vulnerability management, and coalition tempo are not separate agendas. They are faces of one question: can distributed capability be made usable in time without demanding a single throne? Capitals that answer only with vocabulary will field inventories. Capitals that answer with seams, stocks, and practiced authorities will field forces. The difference is the alliance advantage under test—and the only difference that matters when the plug must fit.
-
-Keep the falsifiers nearby while doing the work. Coordination can cost more than it returns. Standards can stifle. Dependence can coerce. Centralized foes can win tempo fights. Those possibilities are why measurement and counter-evidence belong inside alliance management rather than in opposing op-eds alone. A thesis that cannot state its own defeat conditions is not strategy; it is branding. This book’s mechanisms remain accountable to exercises, factories, and clocks.
-
-Finally, refuse the comfort of unfinished conversion. Announcing a backbone, a forum, or a production goal is the beginning of responsibility, not its discharge. The discharge looks like a credential that works, a shell that arrives, a model that can be refused or patched across a border, a port that clears under treaty authority, and a public that understands why some autonomy was traded for speed. Those are ordinary proofs. Ordinary proofs are how alliances become extraordinary under pressure.
-
-Keep score in what crosses borders under policy—credentials, crates, patches, and authorities—because that scoreboard is the only one adversaries cannot dismiss as theater.

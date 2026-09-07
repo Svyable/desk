@@ -375,27 +375,3 @@ Someone still has to decide what the words mean here, from this person, to this 
 The machine can render the language.
 
 The last human channel remains responsible for the meaning.
-
-Practitioners working on 4 translation without understanding issues should keep a living note of what would change their minds. Without that note, confirmation bias wears institutional clothing.
-
-Budget identity matters: money labeled innovation tends to buy generation; money labeled integrity tends to buy verification. Both labels should appear in the same fiscal year if the doctrine in this book is taken seriously.
-
-Personnel evaluation forms that never mention verification skill will not produce verification cultures, regardless of strategy documents.
-
-International partners notice hypocrisy quickly when a government preaches responsible AI abroad while improvising recklessly at home.
-
-The archival future should be imaginable while drafting today's machine-assisted memo. If the memo cannot be explained later, it is not finished now.
-
-Evidence discipline remains the through-line. Claims about capability should cite deployments, not aspirations. Claims about risk should admit base rates and alternative explanations. Claims about professional advice should separate what is known from what is preferred. Readers and officers alike are owed that separation, especially when surrounding prose sounds finished.
-
-Practitioners working on 4 translation without understanding issues should keep a living note of what would change their minds. Without that note, confirmation bias wears institutional clothing.
-
-Budget identity matters: money labeled innovation tends to buy generation; money labeled integrity tends to buy verification. Both labels should appear in the same fiscal year if the doctrine in this book is taken seriously.
-
-Personnel evaluation forms that never mention verification skill will not produce verification cultures, regardless of strategy documents.
-
-International partners notice hypocrisy quickly when a government preaches responsible AI abroad while improvising recklessly at home.
-
-The archival future should be imaginable while drafting today's machine-assisted memo. If the memo cannot be explained later, it is not finished now.
-
-Evidence discipline remains the through-line. Claims about capability should cite deployments, not aspirations. Claims about risk should admit base rates and alternative explanations. Claims about professional advice should separate what is known from what is preferred. Readers and officers alike are owed that separation, especially when surrounding prose sounds finished.
