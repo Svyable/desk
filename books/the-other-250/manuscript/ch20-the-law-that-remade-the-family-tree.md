@@ -323,3 +323,25 @@ That human unpredictability is why the law’s long reach is so striking.
 Congress changed the admission rules.
 
 Millions of people did the rest.
+
+There is a further asymmetry hidden in demographic policy: rules can change quickly, populations cannot.
+
+Congress can amend a category in a legislative session. A family that has moved, bought a home, entered a profession, opened a business, joined a congregation, or raised children has become part of the country’s social stock. Future admissions can be tightened or widened, but past admissions do not vanish when the rule changes.
+
+That gives immigration policy a peculiar form of institutional memory.
+
+A tariff can be reduced and prices respond. A tax rate can change and the next return uses the new number. Immigration law also changes incentives at the margin, but it operates on a population whose earlier legal pathways have already created relationships, knowledge, communities, and expectations. The policy’s previous outputs become part of the environment in which the next policy operates.
+
+This is why later debates can misread the baseline. Politicians speak as though a new rule chooses between two untouched futures. It rarely does. The country already contains the accumulated result of older rules: citizens with relatives abroad, employers with international recruiting habits, schools with multilingual communities, neighborhoods with cross-border ties, and institutions accustomed to drawing from a wider pool of people.
+
+The relevant question is therefore not whether a government can reverse an immigration statute. It can. The harder question is what reversal means after the statute has changed the network on which future migration decisions depend.
+
+That distinction also helps explain why demographic policy creates coalitions that outlive the legislation that first assembled them. People who arrive under one legal framework later become voters, employers, professionals, parents, neighbors, advocates, and public officials. Their children inherit citizenship rather than their parents’ visa category. A temporary political compromise can therefore alter the electorate and the constituency for later policy without anyone having designed that downstream sequence in advance.
+
+None of this makes expansion self-justifying. Durable consequences can be beneficial, costly, or both. Larger family networks can lower the private cost of migration while increasing pressure on oversubscribed legal categories. International talent flows can strengthen institutions while creating political arguments about distribution and capacity. Cultural change can enrich communities while producing real conflict over pace, identity, and public adaptation.
+
+The point is narrower: immigration law is unusually path-forming because its subjects become participants in the institution that made the rule.
+
+A road changes where people travel.
+
+An immigration law can change who later gets to decide where the road goes.
