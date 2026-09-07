@@ -356,9 +356,7 @@ Responsibility lives in composition.
 
 The vector revolution makes composition easier, which means institutions can build semantic decision pipelines faster than they can develop habits for auditing them.
 
-The corrective is not to fear distance.
-
-It is to remember that distance is being put to work.
+The corrective is to remember that distance is being put to work.
 
 Once a threshold decides visibility, once a ranking allocates attention, once a filter declares eligibility, geometry has crossed into governance.
 
@@ -476,6 +474,4 @@ Can the system admit that its map is weak here?
 
 These questions convert abstention from a model weakness into an institutional virtue.
 
-Sometimes the most intelligent result is not the nearest neighbor.
-
-It is the recognition that the neighborhood is not good enough to decide.
+Sometimes the most intelligent result is the recognition that the neighborhood is not good enough to decide.

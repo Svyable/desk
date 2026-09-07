@@ -200,9 +200,7 @@ This is not the same as requiring a human to review every result. Scalable syste
 
 Objective tests, monitoring, reversible deployments, versioned changes and appeal mechanisms can carry much of the burden.
 
-The goal is not to reinsert a meeting into every vector query.
-
-It is to make the infrastructure governable.
+The goal is to make the infrastructure governable, not to reinsert a meeting into every vector query.
 
 Governability includes the ability to answer a basic question:
 
@@ -274,9 +272,7 @@ Which experts never appear because their work is poorly described?
 
 Which alternative methods have disappeared from recommendation?
 
-The audit is not only about bias in the social sense.
-
-It is about epistemic concentration.
+The audit is about epistemic concentration as much as bias in the social sense.
 
 Every organization has centers of gravity. A vector map can reveal and reinforce them.
 
@@ -366,9 +362,7 @@ The map has history, and the institution did not keep it.
 
 Consequential discovery systems therefore need something closer to release engineering than casual model swapping. A new representation should be tested beside the old one before it silently becomes the only geography. Important queries should be compared. Large changes in candidate sets should be inspected. The old map should remain recoverable long enough to understand regressions and, where the stakes justify it, to roll back.
 
-This is not nostalgia for inferior models.
-
-It is the recognition that improvement is not scalar.
+That is the recognition that improvement is not scalar, not nostalgia for inferior models.
 
 A new embedding can be better on average and worse for a minority language. Better for conceptual search and worse for exact technical variants. Better for common products and worse for rare parts. Better for the center of a discipline and less sensitive to its frontier.
 
@@ -434,6 +428,4 @@ Invisible infrastructure is comfortable until it fails.
 
 Then everyone wants the old map, the survey notes and the name of the person who moved the road.
 
-A correctable map is good.
-
-A governable map is one whose changes can also be seen, compared and, when necessary, undone.
+A correctable map is good; a governable map is one whose changes can also be seen, compared and, when necessary, undone.

@@ -102,9 +102,7 @@ Near “songs named Blue Monday” is one map.
 
 Near “songs this listener may enjoy after Blue Monday” is another.
 
-The difference is not a bug.
-
-It is a reminder that adjacency is conditional.
+The difference is a reminder that adjacency is conditional.
 
 Even the dimensions of the space are conditional.
 
@@ -112,17 +110,13 @@ More dimensions allow a representation to encode more complex patterns, but high
 
 People often reach for a familiar visual metaphor: an embedding is a cloud of points, perhaps shown in two dimensions with pleasing clusters. Those plots can be useful, but they are reductions of reductions. A technique such as t-SNE or UMAP compresses a high-dimensional space into two dimensions for human viewing. Local neighborhoods may be emphasized while global distances distort. Clusters can look cleaner than the underlying reality.
 
-The picture is not the space.
-
-It is a postcard from the space.
+The picture is a postcard from the space, not the space itself.
 
 This matters when we interpret machine-learning representations as if the two-dimensional display had revealed an objective taxonomy. A cluster of professions, political statements, molecules or images can be informative. It can also tempt us to tell a story the visualization does not warrant.
 
 Humans are pattern-hungry animals. Give us dots and we will invent continents.
 
-The real power of high-dimensional representations is not that we can see them.
-
-It is that machines can operate inside them.
+The real power of high-dimensional representations is that machines can operate inside them, whether or not we can see them.
 
 Consider a corpus containing one hundred million passages. A query enters. The embedding model turns it into a vector. The retrieval system seeks nearby vectors. The machine does not need to render the space or explain the dimensions. It needs only to navigate the index quickly enough to return useful candidates.
 
@@ -170,9 +164,7 @@ Adjacency suggests reachability.
 
 Two neighborhoods in a city may be adjacent while remaining culturally distinct. Two scientific fields may be adjacent because a method can cross between them. Two products may be adjacent because a user considering one might plausibly consider the other, even if they do not resemble each other physically. A concept may sit beside another because one is a useful bridge to the other.
 
-The geometry of discovery is not only about finding duplicates.
-
-It is about finding traversable difference.
+The geometry of discovery is about finding traversable difference, not only duplicates.
 
 Machine-learning systems can model that difference in several ways. A retrieval stage may return many nearby candidates, followed by a reranker that considers diversity. A recommender may deliberately explore less certain items. A scientific system may search for candidates that combine similarity in one property with novelty in another. A user may move through multiple queries, each changing the local neighborhood.
 
@@ -344,11 +336,7 @@ This also explains why one universal similarity number is seductive and dangerou
 
 A score such as 0.82 looks portable. It seems to promise that any pair of objects with that score is equally related. Usually the score is only meaningful inside the particular model and distribution that produced it. A threshold that works for one corpus may behave badly after the corpus changes. A score distribution for short queries may differ from one for long passages. A new embedding model may shift all of the numbers while improving retrieval.
 
-The decimal is not the relationship.
-
-It is an instrument reading.
-
-Good engineering treats it that way.
+The decimal is an instrument reading. Good engineering treats it that way.
 
 Calibrate thresholds on the task. Inspect distributions. Test edge cases. Compare against baselines. Preserve exact constraints outside the vector when they matter. Know whether the model was trained for the comparison you are asking it to make.
 
@@ -372,6 +360,4 @@ Where does distance stop distinguishing what we care about?
 
 Those questions turn an invisible geometry into an empirical system.
 
-And they remind us that the word *near* is never the end of the explanation.
-
-It is the beginning of an experiment.
+And they remind us that the word *near* is the beginning of an experiment, never the end of the explanation.

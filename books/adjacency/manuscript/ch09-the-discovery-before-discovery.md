@@ -56,7 +56,7 @@ Vector systems intervene early in that chain. They can change what becomes worth
 
 This is candidate generation for knowledge.
 
-A materials scientist may face a chemical space too large for exhaustive experimentation. A biologist may face millions of sequences. A battery researcher may face compositions, structures and synthesis conditions whose combinations multiply faster than laboratory capacity. The goal is not to ask the machine to replace the experiment. It is to ask the machine to narrow an impossible search space into a plausible frontier.
+A materials scientist may face a chemical space too large for exhaustive experimentation. A biologist may face millions of sequences. A battery researcher may face compositions, structures and synthesis conditions whose combinations multiply faster than laboratory capacity. The useful ask is for the machine to narrow an impossible search space into a plausible frontier, not to replace the experiment.
 
 That is what every serious discovery process does anyway.
 
@@ -92,9 +92,7 @@ Suppose a field contains one million possible candidates and one thousand are ge
 
 The laboratory can now spend scarce experimental capacity in a region with a higher density of useful possibilities.
 
-That is not omniscience.
-
-It is better search economics.
+That is better search economics, not omniscience.
 
 The same logic appears in high-throughput screening, computational chemistry, protein design and materials discovery. Machine learning can rank or generate candidates, but the physical world remains the final adjudicator. A compound that looks promising in a learned space may be unstable, toxic, impossible to synthesize, expensive, brittle, poorly soluble or dependent on a mechanism the representation did not preserve.
 
@@ -112,7 +110,7 @@ The prediction creates an adjacent possibility.
 
 The laboratory decides whether the possibility survives contact.
 
-That gap is not an embarrassment. It is the structure of discovery.
+That gap is the structure of discovery, not an embarrassment.
 
 The same is true of the literature itself.
 
@@ -180,9 +178,7 @@ A small increase in candidate quality, repeated over years, can compound into a 
 
 This is the economics of discovery again.
 
-The scarce resource is not only intelligence.
-
-It is experimental attention.
+The scarce resource is experimental attention as much as intelligence.
 
 Every experiment consumes time, equipment, materials, money and human focus. Every paper carefully read excludes another paper. Every grant supports one route through the search space rather than the countless routes not taken.
 
@@ -362,10 +358,6 @@ The vocabulary of discovery should preserve the chain.
 
 Otherwise the most exciting word—*discovered*—swallows all the steps and makes it impossible to know what the machine actually contributed.
 
-The discovery before discovery is not lesser science.
+The discovery before discovery is the work of improving the frontier before the experiment commits scarce resources.
 
-It is the work of improving the frontier before the experiment commits scarce resources.
-
-A good map does not deserve credit for arriving at the destination.
-
-It deserves credit for making the expedition rational enough to attempt.
+A good map deserves credit for making the expedition rational enough to attempt, not for arriving at the destination.
