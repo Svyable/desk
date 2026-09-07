@@ -582,6 +582,12 @@ The right fallback will vary.
 
 The key is knowing the chokepoint before the incident.
 
+The practical test is not whether a fallback exists on paper. It is whether the fallback can keep the firm alive for the time replacement actually takes. A business whose critical obligations become unrecoverable after six hours does not have a meaningful recovery plan if its independent operating path requires three weeks to reconstruct usable state.
+
+That gives the board a survival window to measure. Which customer promises, payments, safety duties, regulatory obligations, or physical operations must continue while the preferred machine layer is unavailable? Which can be narrowed, delayed, or suspended without turning an incident into insolvency or a public-safety failure? The answer defines the minimum degraded business rather than nostalgically recreating the old manual company.
+
+The distinction matters because legal existence is cheap compared with operational continuity. A firm can still own its assets, have a board, possess valid contracts, and retain formal authority while being unable to quote, authenticate, reconcile, provision, schedule, settle, or coordinate at the tempo its counterparties now require. In that condition the company has not disappeared. Its practical agency has.
+
 Autonomous firms also create new questions about **corporate memory ownership**.
 
 If the machine operating layer learns the practical history of customers, suppliers, incidents, exceptions, and internal decisions, where does that memory live?
