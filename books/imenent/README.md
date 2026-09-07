@@ -8,7 +8,7 @@
 |---|---|
 | **Author**    | Sven Hardy Benson |
 | **Status**    | Complete first draft |
-| **Chapters**  | 20 of 20 drafted |
+| **Chapters**  | 20 of 20 drafted + interlude |
 
 *The Global AI Takeover Threat*
 
@@ -53,6 +53,7 @@ The book's most unsettling claim is therefore also its most ordinary: **humanity
 - [x] [Ch 6 — The Speed Gap](manuscript/ch06-the-speed-gap.md)
 - [x] [Ch 7 — Machines Hiring Machines](manuscript/ch07-machines-hiring-machines.md)
 - [x] [Ch 8 — The Autonomous Firm](manuscript/ch08-the-autonomous-firm.md)
+- [x] [Interlude — The Six-Hour Firm](manuscript/interlude-six-hour-firm.md)
 - [x] [Ch 9 — Finance After Human Time](manuscript/ch09-finance-after-human-time.md)
 - [x] [Ch 10 — The State Behind the Interface](manuscript/ch10-the-state-behind-the-interface.md)
 - [x] [Ch 11 — The Grid, the Cloud, and the Machine Room](manuscript/ch11-the-grid-the-cloud-and-the-machine-room.md)
