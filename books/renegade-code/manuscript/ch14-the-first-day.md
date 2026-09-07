@@ -369,3 +369,11 @@ The first day is where that balance becomes a practice.
 Stop the motion in the first hour.
 
 Spend the first day rebuilding the right to trust what starts moving again.
+
+A useful consequence follows from treating restoration as a dependency graph: **some evidence has to mature before authority can return, even when the affected service is already technically available.** A rebuilt workload may be ready to accept traffic while identity lineage is still uncertain. A clean repository may be ready to deploy while responders are still determining whether an external automation token created an untracked release path. Availability and trust are therefore different clocks.
+
+That distinction should appear in the recovery plan before an incident. Teams can define which trust roots gate which kinds of authority, and which degraded modes remain safe while evidence catches up. A customer-facing service might return in read-only mode before write paths reopen. An internal agent may regain access to logs before it regains access to deployment. A payment workflow may resume quoting and reconciliation while settlement remains human-approved. These are not improvised compromises. They are predesigned recovery states.
+
+Designing those states in advance also changes incentives during the incident. Executives no longer face a choice between total shutdown and full restoration. Operators do not have to invent a safe middle while exhausted. The organization can restore useful function without pretending uncertainty has disappeared.
+
+That is an important containment capability in its own right. A system that can only be fully on or fully off makes every investigation a business crisis. A system with narrow, tested recovery modes buys investigators time to be accurate. It turns caution from an outage into an operating state.
