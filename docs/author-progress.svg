@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="250" viewBox="0 0 760 250" role="img" aria-labelledby="title desc">
+  <title id="title">Author progress — September 7, 2026</title>
+  <desc id="desc">Four progress bars: complete manuscripts 60 of 120, released Shelf editions 53 of 56 public projects, complete manuscripts already represented by a final Shelf release 46 of 60, and The Other 250 chapter-floor remediations closed 15 of 21.</desc>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #24292f; }
+    .title { font-size: 18px; font-weight: 700; }
+    .sub { font-size: 12px; fill: #57606a; }
+    .label { font-size: 13px; font-weight: 600; }
+    .value { font-size: 12px; fill: #57606a; }
+    .track { fill: #d0d7de; }
+    .fill { fill: #2da44e; }
+    @media (prefers-color-scheme: dark) {
+      text { fill: #f0f6fc; }
+      .sub, .value { fill: #8c959f; }
+      .track { fill: #30363d; }
+      .fill { fill: #3fb950; }
+    }
+  </style>
+  <text x="20" y="28" class="title">Author progress</text>
+  <text x="20" y="47" class="sub">A tiny dashboard for turning working manuscripts into deliberate editions · 2026-09-07</text>
+
+  <text x="20" y="78" class="label">Complete manuscripts</text><text x="740" y="78" text-anchor="end" class="value">60 / 120 · 50%</text>
+  <rect x="20" y="87" width="720" height="12" rx="6" class="track"/><rect x="20" y="87" width="360" height="12" rx="6" class="fill"/>
+
+  <text x="20" y="124" class="label">Released Shelf editions</text><text x="740" y="124" text-anchor="end" class="value">53 / 56 · 95%</text>
+  <rect x="20" y="133" width="720" height="12" rx="6" class="track"/><rect x="20" y="133" width="681" height="12" rx="6" class="fill"/>
+
+  <text x="20" y="170" class="label">Complete manuscripts with final Shelf release</text><text x="740" y="170" text-anchor="end" class="value">46 / 60 · 77%</text>
+  <rect x="20" y="179" width="720" height="12" rx="6" class="track"/><rect x="20" y="179" width="552" height="12" rx="6" class="fill"/>
+
+  <text x="20" y="216" class="label">The Other 250 · chapter-floor fixes closed</text><text x="740" y="216" text-anchor="end" class="value">15 / 21 · 71%</text>
+  <rect x="20" y="225" width="720" height="12" rx="6" class="track"/><rect x="20" y="225" width="514" height="12" rx="6" class="fill"/>
+</svg>
