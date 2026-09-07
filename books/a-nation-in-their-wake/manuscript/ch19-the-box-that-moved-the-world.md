@@ -339,5 +339,3 @@ That makes the ship a better expression of the decade's civilian America than a 
 The military would exploit the system. Consumers would live inside it.
 
 That breadth gives *Ideal X* the decade.
-
-<!-- PUB-AUGMENT-2026-09-06 -->
