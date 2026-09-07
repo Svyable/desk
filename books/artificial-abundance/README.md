@@ -49,7 +49,17 @@ This is deliberately not another book about allocating intelligence, delegating 
 
 - [Research brief and falsification notes](research/README.md)
 - [Source ledger](research/source-ledger.csv)
+- [Chapters 1–3 — opening depth controls](research/ch01-03-opening-depth-controls.md)
+- [Chapters 5–8 — choice, trust, effort, and versions controls](research/ch05-08-choice-trust-effort-versions-controls.md)
 - [Chapter 6 — trust as controlled change](research/ch06-trust-change-control.md)
+- [Chapters 9–12 — depth pass](research/ch09-12-depth-pass.md)
+- [Chapters 9–12 — scarcity controls](research/ch09-12-scarcity-controls.md)
+- [Chapters 10–13 — expertise, responsibility, judgment, and attention](research/ch10-13-expertise-responsibility-judgment-attention.md)
+- [Chapter 11 — responsibility expansion controls](research/ch11-responsibility-expansion-controls.md)
+- [Chapters 13–16 — attention, signal, friction, and difficulty](research/ch13-16-attention-signal-friction-difficulty.md)
+- [Chapters 13–16 — revision controls](research/ch13-16-revision-controls.md)
+- [Chapter 13 — attention fact check](research/ch13-attention-fact-check.md)
+- [Chapter 13 — fake-review attention tax](research/ch13-fake-review-attention-tax.md)
 
 ## Rights
 
