@@ -6,7 +6,7 @@ import {
 } from './desk-runtime-bridge.js';
 
 const upstream = 'https://svyable.github.io/shelf/reader/js/';
-const appUrl = `${upstream}app.js?v=desk-20260907-fast-catalog-1`;
+const appUrl = `${upstream}app.js?v=desk-20260907-fast-catalog-2`;
 const viewportStabilityUrl = `${upstream}viewport-stability-runtime.js?v=r1`;
 const nativeShareUrl = `${upstream}native-share.js`;
 const libraryHomeUrl = 'https://svyable.github.io/desk/reader/css/desk-library-home.css?v=bookself-20260904';
@@ -34,7 +34,7 @@ function skipDeskCatalogCoverProbe(source) {
   const catalogLoader = input.slice(start, end);
   const coverProbe = `meta.cover = await firstExisting(
         ['cover.png', 'cover.jpg', 'cover.webp', 'cover.jpeg'].map(
-          (name) => \`books/${slug}/media/${name}\`
+          (name) => \`books/\${slug}/media/\${name}\`
         )
       );`;
   if (!catalogLoader.includes(coverProbe)) {
