@@ -10,11 +10,15 @@ import {
   slugifyTitle,
   zipStore,
 } from './new-publication.js';
+import { PUBLICATION_RESEARCH_README } from './publication-research-starter.js';
 
 assert.equal(slugifyTitle('  The Café & Moon  '), 'the-cafe-and-moon');
 assert.equal(slugifyTitle('---'), 'my-publication');
 assert.ok(STARTER_PRESETS.some(([id]) => id === 'accessible'));
 assert.equal(Object.keys(PUBLICATION_FORMATS).length, 10);
+
+const canonicalResearch = readFileSync(new URL('../books/_TEMPLATE/research/README.md', import.meta.url), 'utf8');
+assert.equal(PUBLICATION_RESEARCH_README, canonicalResearch);
 
 const bundle = buildPublicationFiles({
   format: 'report',
@@ -27,6 +31,7 @@ assert.equal(bundle.slug, 'field-notes-2026');
 assert.equal(bundle.format, 'Report');
 assert.equal(bundle.preset, 'quiet-study');
 assert.equal(bundle.catalog, '- [Field Notes: 2026](books/field-notes-2026/) — Report');
+assert.equal(Object.keys(bundle.files).length, 6);
 assert.match(bundle.files['field-notes-2026/README.md'], /\*\*Authors\*\* \| Ada \\| Editor \|/);
 assert.match(bundle.files['field-notes-2026/README.md'], /\*\*Rights\*\* \| © \d{4} Ada \\| Editor · All Rights Reserved \|/);
 assert.match(bundle.files['field-notes-2026/README.md'], /\*\*AI use\*\* \| Training, RAG, AI indexing, and generative reuse reserved \|/);
@@ -35,6 +40,11 @@ assert.match(bundle.files['field-notes-2026/README.md'], /\[rights\.json\]\(righ
 assert.match(bundle.files['field-notes-2026/README.md'], /\[What We Found\]\(manuscript\/findings\.md\)/);
 assert.deepEqual(JSON.parse(bundle.files['field-notes-2026/reader.json']), { version: 1, preset: 'quiet-study' });
 assert.match(bundle.files['field-notes-2026/manuscript/findings.md'], /## Executive summary/);
+assert.equal(bundle.files['field-notes-2026/research/README.md'], canonicalResearch);
+assert.match(bundle.files['field-notes-2026/research/README.md'], /## Source ledger/);
+assert.match(bundle.files['field-notes-2026/research/README.md'], /## Reader-facing evidence/);
+assert.match(bundle.files['field-notes-2026/research/README.md'], /## Source-material rights/);
+assert.match(bundle.files['field-notes-2026/research/README.md'], /## Before release/);
 assert.match(bundle.files['field-notes-2026/RIGHTS.md'], /© \d{4} Ada \| Editor\. All Rights Reserved\./);
 assert.match(bundle.files['field-notes-2026/RIGHTS.md'], /model training or fine-tuning/i);
 assert.match(bundle.files['field-notes-2026/RIGHTS.md'], /retrieval-augmented generation \(RAG\)/i);
@@ -69,6 +79,7 @@ assert.equal(fallback.slug, 'untitled-publication');
 assert.equal(fallback.preset, 'book');
 assert.ok(fallback.files['untitled-publication/RIGHTS.md']);
 assert.ok(fallback.files['untitled-publication/rights.json']);
+assert.equal(fallback.files['untitled-publication/research/README.md'], canonicalResearch);
 
 assert.equal(catalogSnippet({ title: 'A Book', slug: 'a-book', format: 'Book' }), '- [A Book](books/a-book/) — Book');
 assert.equal(crc32(new TextEncoder().encode('123456789')), 0xcbf43926);
@@ -78,6 +89,7 @@ const zip = zipStore({
   'sample/reader.json': '{"version":1}\n',
   'sample/RIGHTS.md': 'All Rights Reserved\n',
   'sample/rights.json': '{"schemaVersion":1}\n',
+  'sample/research/README.md': canonicalResearch,
 }, new Date(2026, 7, 25, 7, 0, 0));
 assert.equal(zip[0], 0x50);
 assert.equal(zip[1], 0x4b);
@@ -88,6 +100,7 @@ assert.match(decoded, /sample\/README\.md/);
 assert.match(decoded, /sample\/reader\.json/);
 assert.match(decoded, /sample\/RIGHTS\.md/);
 assert.match(decoded, /sample\/rights\.json/);
+assert.match(decoded, /sample\/research\/README\.md/);
 assert.equal(zip.at(-22), 0x50);
 assert.equal(zip.at(-21), 0x4b);
 assert.equal(zip.at(-20), 0x05);
@@ -98,5 +111,10 @@ const source = readFileSync(new URL('./new-publication.js', import.meta.url), 'u
 assert.doesNotMatch(source, /observer\.observe\(document\.body/);
 assert.match(source, /observer\.observe\(rootEditLink, \{ attributes: true, attributeFilter: \['href'\] \}\)/);
 assert.match(source, /catalog\.href !== target/);
+assert.match(source, /publication-research-starter\.js/);
+assert.match(source, /research\/README\.md/);
+
+const researchSource = readFileSync(new URL('./publication-research-starter.js', import.meta.url), 'utf8');
+assert.doesNotMatch(researchSource, /fetch\(|localStorage|sessionStorage|document\.|window\./);
 
 console.log('new publication studio tests ok');

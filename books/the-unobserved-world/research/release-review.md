@@ -1,5 +1,41 @@
 # Release Review — The Unobserved World
 
+## Mechanical audit update — September 7, 2026
+
+**Substantive release clearance remains intact. The bounded per-chapter depth defects found on current Desk main have been remediated; publication still requires the repository's literal full-book length and Desk-integrity checks on one frozen committed source.**
+
+After restoring Desk's zero-Actions invariant, the current manuscript was audited with the exact word-token expression used by `scripts/check-book-length.py`, `\b[\w’'-]+\b`. The aggregate chapter-only projection above 65,000 was not sufficient: five numbered chapters were still below the repository's 3,000-word per-chapter floor.
+
+Pre-remediation exact counts on Desk source `7eff8c0c097e37c306be2b7fcf6c277533730adc` were:
+
+- Chapter 9, `ch09-placement.md`: **2,949 words**;
+- Chapter 10, `ch10-discover-weekly.md`: **2,865 words**;
+- Chapter 13, `ch13-feedback-without-exploration.md`: **2,914 words**;
+- Chapter 15, `ch15-the-vanishing-weird.md`: **2,885 words**;
+- Chapter 17, `ch17-the-politics-of-the-untested.md`: **2,586 words**.
+
+The September 7 remediation is append-only and adds substantive argument rather than filler:
+
+- Chapter 9: **+195 words** on treating placement reversals as evidence about the original gate, yielding **3,144 words**;
+- Chapter 10: **+202 words** on accounting for the information value of exploration rather than only its immediate opportunity cost, yielding **3,067 words**;
+- Chapter 13: **+164 words** on feedback-channel provenance and disagreement between production and independent evidence, yielding **3,078 words**;
+- Chapter 15: **+196 words** on explicit reopening conditions after provisional negative judgments, yielding **3,081 words**;
+- Chapter 17: **+480 words** on the separate evidence problem of scaling a successful pilot and preserving reversible staged adoption, yielding **3,066 words**.
+
+The additive delta is therefore **+1,237 numbered-chapter words**. Against the previously remediated **65,480-word** chapter-only corpus, the projected current corpus is **66,717 words**. No new dated statistic, quotation, vendor metric, policy date, clinical-effect estimate, or other volatile empirical claim is introduced by this pass.
+
+This arithmetic still does not substitute for the repository checker. Before publication, freeze the committed source and run:
+
+`python3 scripts/check-book-length.py the-unobserved-world`
+
+Require `healthy: true`, at least 18 numbered chapters, every numbered chapter at or above 3,000 words, and at least 65,000 chapter-only words. Then run:
+
+`python3 scripts/check-desk.py`
+
+Require a clean candidate/repository-integrity result under the repository's current publication convention. If either check identifies another candidate-specific defect, do not release until that defect is remediated.
+
+No separate human-review gate is created by this update.
+
 ## Decision — September 6, 2026
 
 **Release-cleared on substantive factual/editorial grounds; remain blocked only until the repository’s literal mechanical checks pass on the remediated frozen source.**
@@ -110,5 +146,6 @@ If both pass and the remediated frozen source still matches the reviewed manuscr
 - [x] No unresolved factual, research, rights, matter, novelty, or editorial blocker remains in this review.
 - [x] Original mechanical chapter-only total evaluated: **61,357 words**.
 - [x] Bounded chapter-only expansion completed: **+4,123 words**, projecting **65,480 words** total.
-- [ ] Run the full `python3 scripts/check-book-length.py the-unobserved-world` command on the remediated frozen Desk source and require a pass, including every per-chapter floor.
-- [ ] Run `python3 scripts/check-desk.py` on the same frozen Desk source and require a pass.
+- [x] September 7 per-chapter audit identified and remediated five sub-3,000-word chapters with **+1,237** additional substantive words, projecting **66,717** chapter-only words.
+- [ ] Run the full `python3 scripts/check-book-length.py the-unobserved-world` command on the remediated frozen Desk source and require a pass across all 20 chapter files.
+- [ ] Run `python3 scripts/check-desk.py` on the same frozen Desk source and require a pass under the current repository publication convention.

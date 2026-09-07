@@ -2,6 +2,10 @@
 
 *Twenty-Six Overlooked Events That Made America*
 
+<!-- bookself-reader-links:start -->
+**Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/the-other-250/)
+<!-- bookself-reader-links:end -->
+
 | | |
 |---|---|
 | **Author** | Sven Hardy Benson |

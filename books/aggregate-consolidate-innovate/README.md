@@ -1,5 +1,9 @@
 # Aggregate, Consolidate, Innovate
 
+<!-- bookself-reader-links:start -->
+**Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/aggregate-consolidate-innovate/)
+<!-- bookself-reader-links:end -->
+
 | | |
 |---|---|
 | **Authors**   | Sven Hardy Benson |

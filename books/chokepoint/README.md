@@ -1,5 +1,9 @@
 # Chokepoint
 
+<!-- bookself-reader-links:start -->
+**Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/chokepoint/)
+<!-- bookself-reader-links:end -->
+
 | | |
 |---|---|
 | **Author**    | Sven Hardy Benson |

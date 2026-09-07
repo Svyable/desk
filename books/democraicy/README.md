@@ -1,5 +1,9 @@
 # DemocrAIcy
 
+<!-- bookself-reader-links:start -->
+**Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/democraicy/)
+<!-- bookself-reader-links:end -->
+
 | | |
 |---|---|
 | **Author**    | Sven Hardy Benson |

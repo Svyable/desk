@@ -2,6 +2,10 @@
 
 *How Insurance Quietly Decides What Can Be Built, Bought, Borrowed, and Rebuilt*
 
+<!-- bookself-reader-links:start -->
+**Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/the-risk-pool/) · [Published edition · Shelf Reader](https://svyable.github.io/shelf/reader/#/b/the-risk-pool/)
+<!-- bookself-reader-links:end -->
+
 | | |
 |---|---|
 | **Authors** | Sven Hardy Benson |
@@ -46,3 +50,4 @@
 - [Research brief](research/README.md)
 - [Chapter briefs and falsification notes](research/chapter-briefs.md)
 - [Source ledger](research/source-ledger.csv)
+- [Chapter 8 — California recovery counterevidence (2026-09-06)](research/ch08-california-recovery-counterevidence-2026-09-06.md)

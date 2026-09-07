@@ -1,5 +1,9 @@
 # Silent Cartel
 
+<!-- bookself-reader-links:start -->
+**Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/silent-cartel/) · [Published edition · Shelf Reader](https://svyable.github.io/shelf/reader/#/b/silent-cartel/)
+<!-- bookself-reader-links:end -->
+
 | | |
 |---|---|
 | **Author**    | Sven Hardy Benson |
@@ -45,3 +49,5 @@ Every case in this book is real, dated, and drawn from court filings, government
 ## Research
 
 The chapter-by-chapter research brief and source ledger live in [research/](research/README.md).
+
+- [Chapter 9 RealPage consent-decree status check — September 2026](research/ch09-realpage-status-2026-09.md)

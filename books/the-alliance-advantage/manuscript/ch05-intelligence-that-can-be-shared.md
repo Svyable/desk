@@ -8,59 +8,51 @@ An ally may possess information that would improve a coalition decision and stil
 
 The alliance then faces a paradox.
 
-The more sensitive the intelligence, the harder it is to convert into network power.
+The more sensitive the intelligence, the harder it can be to convert into network power.
 
 National advantage can become coalition friction.
 
-This is not irrational.
+That is not irrational.
 
-A source may be more valuable over ten years than one tactical disclosure today.
+A source may be more valuable over ten years than one tactical disclosure today. A sensor capability may lose value if an adversary learns what it can see. A government may distrust how another partner stores classified information. Different members may have different privacy rules, dissemination controls, oversight regimes, or tolerance for onward sharing.
 
-A sensor capability may lose value if an adversary learns what it can see.
+The barrier is not secrecy by itself.
 
-A country may distrust how another partner stores classified information.
+It is **risk distribution**.
 
-A government may fear that intelligence shared for one purpose will influence another policy debate.
+The country that shares may bear most of the collection risk while the coalition receives most of the immediate operational benefit.
 
-Different members may have different legal rules for privacy, intelligence oversight, or dissemination.
+If the alliance does not price that asymmetry, “share more” becomes a slogan rather than an architecture.
 
-The barrier is not simply secrecy.
+## Releasability is a capability
 
-It is risk distribution.
+Most organizations treat releasability as an administrative step applied after intelligence is produced.
 
-The country that shares may bear most of the collection risk while the coalition receives the operational benefit.
+Write the national product.
 
-That asymmetry shapes behavior.
+Mark it.
 
-The result is familiar.
+Review it.
 
-Everybody agrees that sharing is important.
+Remove what cannot move.
 
-Everybody protects the thing they believe is most important.
+Create a partner version.
 
-The coalition receives a partial picture.
+That workflow is too slow for a machine-speed operating environment.
 
-AI can make this better or worse.
+Releasability should instead be designed as a **capability**.
 
-It can help transform raw intelligence into releasable products.
+The system should know, as information enters and changes, which parts can be exposed to which partners, for what purpose, at which confidence level, and with which restrictions.
 
-A system can strip identifying details, compare classification rules, summarize sensitive reporting, generate lower-classification derivatives, identify which claims depend on protected sources, and produce multiple versions for different trust levels.
+That turns disclosure from document editing into operational design.
 
-A machine can perform some of the tedious work that has historically made intelligence releasability slow.
+The objective is not maximal sharing.
 
-That matters in crisis.
+It is timely conversion of protected knowledge into partner-useful evidence.
 
-A five-hour delay in preparing a partner-safe product may be acceptable in routine planning.
+## Build disclosure layers from the beginning
 
-It can be decisive when aircraft, ships, missiles, cyber operations, or market reactions are moving faster than the classification process.
-
-The opportunity is to make releasability part of the architecture rather than a manual translation step after the analysis is complete.
-
-This changes how intelligence should be produced.
-
-Traditionally, the analyst may write the best national assessment first and then ask what can be shared.
-
-A networked system can maintain multiple disclosure layers from the beginning.
+The same event can support several products at once.
 
 Source-protected observation.
 
@@ -72,87 +64,149 @@ Operational warning.
 
 Publicly supportable claim.
 
-The same underlying event can generate different products without pretending every audience receives the same evidence.
+These layers should not be improvised after the crisis starts.
 
-This is not information dilution.
+A system designed for coalition use should preserve them as the analysis develops.
 
-It is structured disclosure.
+That creates **structured disclosure**.
 
-The important question becomes: what does the partner need to decide?
+The partner does not necessarily receive the raw source.
 
-Not every partner needs the raw feed.
+It receives enough of the epistemic structure to understand what kind of claim it is being asked to trust.
 
-A country contributing maritime patrols may need a warning area, timing estimate, confidence level, and explanation of uncertainty.
+## Tie transparency to decision burden
 
-It may not need the identity of the human source or the technical parameters of the sensor.
+Not every partner needs the same evidence.
 
-A partner asked to impose sanctions may need a different evidentiary package.
+A country contributing maritime awareness may need a warning area, timing estimate, confidence level, and explanation of uncertainty.
 
-A partner asked to accept military risk may need more.
+A government asked to impose sanctions may need a broader evidentiary package that can survive legal and domestic scrutiny.
 
-The intelligence product should follow the decision burden.
+A partner asked to expose forces or accept escalation risk may need more still.
 
-This suggests a principle of proportional transparency.
+This suggests a principle of **proportional transparency**.
 
-The more risk the coalition asks a partner to accept, the more inspectable the basis for the request should become.
+The greater the political and operational risk the coalition asks a partner to accept, the more inspectable the basis for that request should become.
 
-A government asked to issue a diplomatic statement can act on trust more easily than a government asked to expose forces.
+“Trust us” can be sufficient for routine cooperation.
 
-A military asked to reposition assets needs enough evidence to understand the threat and the uncertainty.
+Its value declines as requested risk rises.
 
-A political leader asked to join escalation needs enough insight to defend the decision domestically.
+## Create an intelligence risk-sharing ledger
 
-This does not mean every source is revealed.
+The alliance should make the burden visible.
 
-It means “trust us” has diminishing value as the requested risk rises.
+For every high-value shared product, ask:
 
-AI can help generate these layers if the system is built for it.
+- which nation carries the source risk;
+- which nation carries the operational risk;
+- which nation carries the political risk if the assessment is wrong;
+- which nation gains the largest immediate benefit;
+- what protections or reciprocal value make the sharing bargain sustainable;
+- what happens if the source is compromised after release;
+- who bears the cost of remediation.
 
-That is a policy choice.
+This **risk-sharing ledger** makes a hidden alliance bargain explicit.
 
-The easiest architecture is often the one that maximizes national control.
+A partner contributing uniquely sensitive collection may reasonably demand stronger handling rules, better cyber assurance, or reciprocal access in another domain.
 
-Keep the raw data inside the national boundary.
+Reciprocity need not mean equal bytes.
 
-Keep the model inside the national cloud.
+It should mean the network remains worth contributing to.
 
-Send the conclusion outward.
+## Intelligence should follow the decision path
 
-That can work when alliance trust is deep and the conclusion is routine.
+A coalition product is useful only if it arrives where the decision is being made.
 
-It becomes harder under ambiguity.
+This sounds obvious.
 
-A partner receives a warning without seeing why one hypothesis defeated another.
+In practice, intelligence often stops at the security boundary.
 
-The model says confidence is high.
+The military receives one version.
 
-The source is protected.
+Diplomats another.
 
-The partner must decide whether to act.
+Economic agencies another.
 
-The opacity migrates political risk downstream.
+A partner cabinet may receive only the conclusion.
 
-This is where federated intelligence becomes strategically useful.
+A public explanation may arrive days later.
 
-The question shifts from “can we share the file?” to “can we share the capability produced by the file?”
+The alliance should map the **decision path** alongside the intelligence path.
+
+Who must decide?
+
+By when?
+
+What evidence can that institution legally receive?
+
+What caveats must survive?
+
+What lower-classification support will be needed later?
+
+Releasability should be optimized around this path rather than around the convenience of the producing service.
+
+## Use a releasability budget
+
+Secrecy is not free.
+
+Every restriction consumes time, coalition trust, or partner autonomy.
+
+Disclosure is not free either.
+
+Every release creates source, method, and compromise risk.
+
+A mature alliance can treat this tradeoff as a **releasability budget**.
+
+For each mission, which protected details are truly necessary to keep compartmented?
+
+Which can be converted into a lower-sensitivity derivative?
+
+Which caveat can be exposed without identifying the source?
+
+Which evidence can be corroborated through commercial or public means?
+
+Which restrictions are habit rather than necessity?
+
+The budget does not mean forcing disclosure to hit a quota.
+
+It means requiring the system to explain the operational cost of secrecy as well as the security cost of sharing.
+
+## Measure time to trusted release
+
+A five-hour delay in preparing a partner-safe product may be acceptable in routine planning.
+
+It can be decisive in crisis.
+
+The alliance should therefore track **time to trusted release**.
+
+Not time until a file is technically sent.
+
+Time until the relevant partner has enough trusted, usable evidence to make the intended decision.
+
+That includes classification review, translation, caveat interpretation, identity verification, and any necessary clarification.
+
+The metric exposes releasability as a coalition-speed variable.
+
+## Federated intelligence is more than file sharing
+
+The question can shift from “Can we share the file?” to “Can we share the capability produced by the file?”
 
 Sometimes the answer is yes.
 
-A country may not share a raw collection feed but may share an alert derived from it.
+A country may keep a raw feed national but share an alert derived from it.
 
-It may allow a partner’s query to run against protected data without allowing the partner to retrieve the underlying records.
+It may allow a partner query to run against protected data without releasing the underlying records.
 
-It may provide a model evaluation result without exposing classified training material.
-
-It may share a confidence judgment along with the categories of evidence that support it.
+It may share a model evaluation result without exposing classified training material.
 
 It may let an allied analyst compare hypotheses inside a controlled environment.
 
-These are forms of federated intelligence.
+It may provide a confidence judgment plus evidence categories while protecting source identity.
 
-They turn access control into an operational design problem.
+These are forms of **federated intelligence**.
 
-The architecture can be more granular than file/no file.
+They make the access model more granular than file/no file.
 
 Attribute access.
 
@@ -166,85 +220,123 @@ Purpose-limited permission.
 
 Partner-specific disclosure.
 
-The more digital the intelligence environment becomes, the more these distinctions can be encoded into systems rather than enforced only through human memory.
+The architecture becomes a political tool for separating usefulness from uncontrolled replication.
 
-That creates opportunity.
+## Query access can leak what file controls protect
 
-It also creates new attack surface.
+A system may never expose a raw record and still leak sensitive information through repeated queries.
 
-A model can reveal patterns from data that no single output appears to contain.
-
-Repeated queries can reconstruct sensitive information.
+A model can reveal patterns from data that no single answer contains.
 
 Prompts can expose classified context.
 
-Training on protected material can make future behavior difficult to audit.
+A partner can infer collection capability from refusals.
 
 Logs can become intelligence repositories of their own.
 
-A tool that is safe when answering one question may become unsafe across thousands.
+Training on protected material can make later revocation difficult.
 
-A partner may infer collection capability from what the system refuses to answer.
+A tool that is safe for one query may be unsafe across ten thousand.
 
-The AI layer therefore cannot be treated as a neutral wrapper around classification.
-
-It becomes part of the classification problem.
-
-This is why access control needs query governance.
+This is why federated access needs **query governance**.
 
 Who can ask what?
 
 How often?
 
-For which operational purpose?
+For which mission?
 
-What outputs are logged?
+Which query combinations create extraction risk?
 
-Who reviews abnormal query patterns?
+Which outputs are logged?
 
-Can the system detect extraction attempts?
+Who reviews unusual patterns?
 
-Can the model explain which protected data class influenced an answer without exposing the data itself?
+What rate limits or privacy protections apply?
 
-Can one partner’s prompt contaminate another partner’s session?
+Can one partner’s session contaminate another?
 
-These are cybersecurity questions and intelligence-policy questions at the same time.
+The model is part of the classification boundary.
 
-The coalition needs both communities in the room.
+It cannot be treated as a neutral wrapper around it.
 
-Provenance matters too.
+## Build query-loss scenarios
 
-An allied user should know whether an assessment rests on one source, several independent sources, a model inference, or historical analogy.
+Exercises should include intelligence extraction attempts that do not look like cyber intrusions.
 
-This does not require revealing the source identity.
+A legitimate user asks many individually permissible questions whose combined answers reconstruct a protected pattern.
 
-It can still communicate epistemic structure.
+A partner uses refusal behavior to infer sensor coverage.
 
-Single protected source.
+A model trained on one mission’s data reveals sensitive detail in another context.
 
-Multiple independent technical sensors.
+A logging system preserves prompts longer than the underlying source would have been retained.
 
-One public source plus classified confirmation.
+These are **query-loss scenarios**.
 
-Model-generated anomaly with no independent confirmation.
+They test whether granular access really reduces disclosure risk or merely moves it into a less visible layer.
 
-Human judgment based on mixed reporting.
+## Provenance without source exposure
 
-These labels help the partner understand what kind of confidence is being offered.
+An allied user should know whether an assessment rests on one protected source, several independent sensors, a public source plus classified confirmation, a model-generated anomaly, or mixed human judgment.
 
-Without them, machine-generated intelligence can become an authority signal detached from evidentiary structure.
+That does not require naming the source.
 
-That is dangerous.
+It requires communicating epistemic structure.
+
+Single protected human source.
+
+Multiple independent technical sources.
+
+One common upstream source transformed by several systems.
+
+Model inference without independent confirmation.
+
+Historical analogy with weak current evidence.
+
+These categories tell the partner what kind of confidence is being offered.
+
+Without them, machine-generated intelligence can become an authority signal detached from evidence.
 
 The partner sees precision.
 
 The partner does not see fragility.
 
-The same applies to uncertainty.
+## Distinguish source secrecy from reasoning secrecy
 
-A coalition intelligence product should not only communicate confidence.
+A service may have legitimate reasons to protect how it knows something.
 
-It should communicate what would change the assessment.
+That does not always justify hiding how it reasoned from the protected evidence to the conclusion.
+
+This distinction is central.
+
+**Source secrecy** protects collection.
+
+**Reasoning secrecy** can prevent partners from understanding why one hypothesis defeated another.
+
+The alliance should minimize unnecessary reasoning secrecy.
+
+Even where source identities cannot move, the partner may be able to see the logic, assumptions, alternative explanations, and sensitivity of the assessment.
+
+That makes the product more inspectable without making the source more vulnerable.
+
+## Confidence should carry lineage
+
+A confidence label should identify who or what generated it.
+
+Sensor confidence.
+
+Model confidence.
+
+Analyst confidence.
+
+Institutional confidence.
+
+Coalition confidence.
+
+These are not interchangeable.
+
+The partner should also know what would change the assessment.
 
 Which indicator is missing?
 
@@ -256,11 +348,9 @@ What evidence is expected next?
 
 What assumption is carrying the conclusion?
 
-This gives the partner a way to reason with the intelligence rather than merely receive it.
+A useful product gives the partner a way to reason with the intelligence rather than merely receive it.
 
-That increases decision quality and trust.
-
-Trust itself has layers.
+## Trust has dimensions
 
 Political trust.
 
@@ -268,35 +358,65 @@ Technical trust.
 
 Operational trust.
 
+Legal trust.
+
+Handling trust.
+
 A government may trust another state’s intentions but not its cyber hygiene.
 
-It may trust its intelligence service but worry about leaks through contractors.
+It may trust its intelligence service but worry about contractors.
 
-It may trust the partner with one source class but not another.
+It may trust a partner with one source class but not another.
 
-Alliance architectures often flatten these distinctions into a clearance category.
+Traditional clearance labels can flatten these distinctions.
 
-Digital systems can make trust more conditional.
+Digital systems can support **segmented trust**.
 
-That can improve sharing if done well.
+A partner can be allowed to query one dataset while another remains isolated.
 
-Instead of denying an entire partner because one part of its network is weak, the alliance can isolate workloads, restrict data classes, require hardware-backed identity, or create controlled access environments.
+A controlled environment can limit copy-out.
 
-Segmented trust can make more sharing possible.
+Hardware-backed identity can reduce credential risk.
 
-Zero trust is useful here not because allies are untrusted politically.
+A compromised node can be fenced without terminating every cooperative mission.
 
-Because cyber access should be based on continuous verification rather than diplomatic sentiment.
+The irony is useful.
 
-The phrase sounds cold.
+More technically conditional trust can permit more political sharing because the consequences of compromise are bounded.
 
-The result can be warmer cooperation.
+Resilience can increase generosity.
 
-If the architecture limits the damage of compromise, governments may be more willing to share.
+## Build trust recovery, not only trust admission
 
-Resilience increases generosity.
+Most access systems are designed around granting permission.
 
-Common standards make the system easier.
+The harder question is what happens after a trust failure.
+
+A partner network is compromised.
+
+A handling violation occurs.
+
+A contractor leaks data.
+
+A model is suspected of contaminating another environment.
+
+The alliance needs a **trust recovery protocol**.
+
+What access is suspended?
+
+What can continue safely?
+
+Which products need to be reclassified or invalidated?
+
+What evidence restores access?
+
+Who decides that the partner is safe enough to rejoin the workflow?
+
+How is the event prevented from becoming a permanent political grievance?
+
+A system that can recover from partial compromise is more shareable than one that treats trust as all or nothing.
+
+## Common standards are coalition infrastructure
 
 Metadata classification.
 
@@ -314,217 +434,257 @@ Audit logs.
 
 Revocation protocols.
 
-These are not glamorous intelligence reforms.
+These are not glamorous reforms.
 
 They are how intelligence becomes portable without becoming uncontrolled.
 
-A coalition that has to translate every caveat manually will remain slow.
+A coalition that translates every caveat manually will remain slow.
 
-A coalition that encodes the caveats can move faster while preserving rules.
+A coalition that encodes caveats can move faster while preserving rules.
 
-The important caveat is that standards can expose too much if poorly designed.
+But even metadata can reveal sensitive patterns.
 
-Even metadata can reveal patterns.
-
-Frequency of reporting can reveal collection intensity.
+Frequency of reporting can expose collection intensity.
 
 Source categories can reveal capabilities.
 
-A shared schema needs security analysis as much as interoperability analysis.
+A shared schema therefore needs security analysis as much as interoperability analysis.
 
-The network should share enough structure to cooperate without turning the structure into an adversary’s map.
+## Preserve national analytic identity
 
-This is the balance.
+Sharing does not require one common interpretation.
 
-Exercises are where the architecture should be tested.
+Different services may reach different conclusions because they have different sources, analytic cultures, institutional priors, or political histories.
 
-Not only whether the intelligence reaches the partner.
+That disagreement can be useful.
 
-Whether the partner can use it.
+One service may identify deception another missed.
 
-Does the warning arrive in time?
+Another may overestimate intent because its own threat history creates a bias.
 
-Does the caveat make sense?
+A shared AI fusion layer can make the assessments look more consistent than they are.
 
-Can the partner challenge the assessment?
+The alliance should resist **epistemic monoculture**.
 
-Can the national authority answer the challenge without revealing a protected source?
+Common situational awareness should preserve enough national analytic identity for disagreement to surface.
 
-Does the shared system preserve logs?
+Multiple analysts create resilience only if they are allowed to disagree.
 
-Can access be revoked quickly if a node is compromised?
+## Use a disagreement ledger
 
-What happens if the network is degraded?
+For important coalition judgments, record where national assessments diverge.
 
-Can a lower-bandwidth channel carry the essential warning?
+Different observations?
 
-What if the partner’s system uses a different confidence vocabulary?
+Different source reliability judgments?
 
-What if the coalition receives contradictory national assessments?
+Different assumptions about intent?
 
-The exercise should expose these seams before the intelligence becomes real.
+Different doctrine interpretations?
 
-Contradiction deserves special attention.
+Different risk tolerances?
 
-Alliances sometimes assume sharing will produce one common picture.
+This **disagreement ledger** prevents consensus language from erasing the structure of dissent.
 
-That is not always desirable.
+It also tells the coalition what new evidence could actually resolve the difference.
 
-Different national services may reach different conclusions because they have different sources, analytic cultures, or political assumptions.
+A disagreement based on missing data can be addressed differently from one based on political interpretation.
 
-The network should not erase this automatically.
+## Intelligence sharing should preserve option value
 
-Disagreement can be valuable.
+A partner may want access for one mission but fear that sharing will permanently expose its collection architecture.
 
-One service may identify a deception the others missed.
+The alliance can preserve option value through temporary permissions, purpose restrictions, controlled execution, derivative-only release, and revocable credentials.
 
-Another may overestimate intent because its history creates a particular bias.
+This matters because the ability to narrow sharing later can make a country more willing to share now.
 
-A shared AI fusion system can make the assessments look more consistent than they are.
+Irreversible disclosure creates caution.
 
-The alliance should preserve national analytic identity long enough for disagreement to surface.
+Reversible access can create confidence.
 
-Common situational awareness should not become common epistemic monoculture.
+## Create a disclosure reversibility scale
 
-This is the same engineered-diversity principle that applies to cyber systems.
+Not every disclosure can be undone.
 
-Multiple analysts can be redundant only if they are allowed to disagree.
+A file copied to a partner cannot be made unseen.
 
-The political problem arrives when a coalition has to act.
+A query endpoint can be closed.
 
-Leaders prefer one answer.
+A temporary credential can expire.
 
-The intelligence community may have several.
+A derived warning may reveal less than a raw feed.
 
-The system must convert disagreement into a decision without pretending disagreement disappeared.
+A model trained on protected data may retain information in a way that is difficult to remove.
 
-A partner can still agree to a precautionary action under uncertainty.
+The alliance should score disclosure modes by **reversibility**.
 
-A coalition can still share surveillance, increase readiness, or protect infrastructure while assessments differ on intent.
+The less reversible the disclosure, the stronger the justification and handling assurance should be.
 
-The key is to separate observable facts, analytic judgments, and policy choices.
+This is especially important for machine learning, where “we revoked access” may not mean “the system no longer contains value derived from the data.”
 
-AI can help structure these layers.
+## Releasability has a democratic layer
 
-It should not flatten them.
-
-This is why releasable intelligence is not necessarily less sophisticated intelligence.
-
-A good partner product can be analytically rich even when source detail is protected.
-
-It can explain the chain of reasoning.
-
-It can expose uncertainty.
-
-It can distinguish observation from inference.
-
-It can show sensitivity.
-
-It can communicate what is independently confirmed.
-
-It can say what cannot be explained because of source protection.
-
-That last sentence matters.
-
-Transparency about opacity is better than invisible opacity.
-
-The partner knows where trust begins.
-
-This supports coalition legitimacy.
-
-Governments asked to accept risk need to explain their choices to domestic institutions.
-
-Legislatures.
+Governments asked to accept risk eventually have to explain their choices.
 
 Cabinets.
 
+Legislatures.
+
 Military chains of command.
 
-Courts in some cases.
+Courts in some systems.
 
 Publics eventually.
 
-If the underlying evidence can never be discussed, the coalition may become politically fragile even when the intelligence was excellent.
+If the strategic claim can never be supported outside the innermost compartment, coalition action may become politically fragile even when the intelligence is excellent.
 
-Releasability therefore has a democratic dimension.
+The intelligence architecture should therefore preserve a path from secret evidence to defensible public explanation.
 
-The intelligence system should think ahead to which parts of an assessment may need public support without compromising collection.
+That path may include declassification, derivative analysis, commercial imagery, partner corroboration, technical forensics, or independent public evidence.
 
-This does not mean intelligence by press release.
+The goal is not intelligence by press release.
 
-It means recognizing that strategic action eventually enters politics.
+It is to avoid a coalition in which the most consequential claims are permanently impossible to inspect.
 
-The best architecture creates a path from secret evidence to defensible public explanation.
+## Build a public-evidence ladder
 
-The path may involve declassification.
+For major crisis assessments, ask in advance:
 
-Derivative analysis.
+What can remain secret?
 
-Commercial imagery.
+What can be described without source detail?
 
-Partner corroboration.
+What can be independently corroborated?
 
-Technical forensics.
+What public evidence exists already?
 
-Independent public evidence.
+What evidence could become public if necessary?
 
-The goal is not to reveal everything.
+This **public-evidence ladder** helps the coalition move from secret warning to public legitimacy without laundering classified judgment into unsupported rhetoric.
 
-It is to avoid a coalition in which the strongest strategic claims are permanently impossible to inspect outside the innermost circle.
-
-AI can help identify which parts of the claim can be supported through lower-sensitivity evidence.
-
-That is another conversion function.
-
-The system should be designed carefully to avoid laundering classified conclusions into public claims without sufficient support.
-
-Machine fluency can make that temptation stronger.
+Machine fluency makes that discipline more important, not less.
 
 A polished derivative can look more certain than the source material deserves.
 
-The same epistemic discipline must survive every classification layer.
+## Exercises should test release under pressure
 
-This brings the chapter back to the central measure.
+Do not test only whether intelligence reaches the partner.
+
+Test whether the partner can use it.
+
+Can the warning arrive within the decision window?
+
+Do the caveats survive translation?
+
+Can the partner challenge the assessment?
+
+Can the producing service answer without revealing the source?
+
+Can access be revoked if a node is compromised?
+
+Can a lower-bandwidth channel carry the essential warning?
+
+Can partners understand contradictory national assessments?
+
+Can a public version be produced before rumor dominates the information environment?
+
+Can the coalition operate after one partner loses access?
+
+These are releasability exercises, not merely intelligence exercises.
+
+## Build a coalition intelligence scoreboard
+
+The strongest service is not automatically the strongest alliance contributor.
+
+Measure contribution at the network level.
+
+Time to trusted release.
+
+Percentage of high-risk coalition decisions supported by inspectable evidence.
+
+Percentage of consequential products with preserved provenance.
+
+Time required to resolve or characterize partner disagreement.
+
+Frequency of source compromise following release.
+
+Time to trust recovery after a handling incident.
+
+Number of mission-critical products dependent on one unreleasable source.
+
+Percentage of major crisis claims with a viable public-evidence ladder.
+
+These metrics reveal whether national intelligence is actually becoming coalition power.
+
+## A strong counterargument: sharing can destroy the advantage that makes the alliance useful
+
+There is a serious case for restraint.
+
+A coalition can become more transparent and less capable if source protection weakens, if partners leak, if adversaries infer collection methods, or if the pressure to create releasable products causes national services to stop collecting or recording sensitive judgments candidly.
+
+That argument should not be waved away.
+
+The answer is not “share everything.”
+
+It is consequence-matched disclosure.
+
+Protect sources whose loss would destroy long-term advantage.
+
+Share reasoning where source identity can remain hidden.
+
+Use federated access where copying is unnecessary.
+
+Create partner products that match the decision burden.
+
+The system should optimize for coalition utility subject to collection survival, not for disclosure volume.
+
+## Falsifying the network-power thesis
+
+The thesis of this chapter would weaken if faster releasability rarely changed coalition decisions, if structured derivatives consistently produced dangerous misunderstanding, if federated access created more leakage than useful sharing, or if national analytic disagreement proved too costly for timely common action.
+
+Those outcomes would argue for narrower sharing and stronger centralization of selected coalition functions.
+
+The thesis strengthens if partners act faster with decision-matched products, if provenance improves trust without exposing sources, if segmented access increases willingness to contribute, and if public-evidence ladders improve coalition legitimacy under pressure.
+
+The argument should remain empirical.
+
+## Secrecy becomes network power only when it can cross the seam
 
 Intelligence has national value when it improves the state’s understanding.
 
 It has alliance value when it improves the network’s ability to decide and act together.
 
-Those are different things.
+Those are different achievements.
 
-An alliance may possess extraordinary aggregate intelligence capacity and still make mediocre common decisions because the useful information cannot cross the seams.
+An alliance may possess extraordinary aggregate collection and still make mediocre common decisions because the useful information cannot cross the seams.
 
-The strategic task is to convert enough protected knowledge into shared situational awareness without destroying the collection systems that created the knowledge.
+The strategic task is to convert enough protected knowledge into timely, credible, inspectable coalition advantage without destroying the collection systems that created it.
 
-That requires architecture.
+That requires graduated transparency.
 
-Graduated transparency.
+Risk-sharing ledgers.
+
+Releasability budgets.
 
 Federated access.
 
-Machine-readable caveats.
+Query governance.
 
 Provenance.
 
 Segmented trust.
 
-Query governance.
+Disagreement ledgers.
 
-Independent analysis.
+Disclosure reversibility.
 
-Rehearsed disclosure.
+Public-evidence ladders.
 
-Political pathways for explaining action.
+Exercises under pressure.
 
 None of this abolishes secrecy.
 
 It makes secrecy usable inside a coalition.
-
-That is the difference.
-
-The strongest intelligence service is not automatically the strongest alliance contributor.
-
-The strongest contributor is the one that can preserve what must remain secret while converting the rest into timely, credible, inspectable advantage for partners.
 
 Intelligence that cannot influence allied behavior is national knowledge.
 

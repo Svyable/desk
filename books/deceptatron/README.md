@@ -1,5 +1,9 @@
 # Deceptatron: Propaganda in the 2030s
 
+<!-- bookself-reader-links:start -->
+**Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/deceptatron/)
+<!-- bookself-reader-links:end -->
+
 | | |
 |---|---|
 | **Author**    | Sven Hardy Benson |
@@ -143,6 +147,7 @@ It may be the machine that learns which fragment of reality is enough.
 
 - [Research brief and falsification notes](research/README.md)
 - [Source ledger](research/source-ledger.csv)
+- [Release review](research/release-review.md)
 
 ## Rights
 

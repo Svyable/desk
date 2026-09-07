@@ -221,3 +221,37 @@ Exploit what is well established. Explore where uncertainty matters and comparis
 The politics of the untested is ultimately the politics of being allowed to change your mind.
 
 Evidence has little value in a system where changing your mind is punished more than being quietly wrong.
+
+The politics becomes harder after a pilot produces an answer.
+
+Evidence does not implement itself. A result has to survive budget cycles, administrative handoffs, legal review, procurement, bargaining, elections, and the ordinary reluctance of institutions to replace routines that people already know how to perform. A successful trial can therefore become another unobserved possibility: demonstrated under bounded conditions, then never given enough institutional exposure to reveal whether it can work at scale.
+
+That is not always a failure. A pilot may depend on unusually capable staff, temporary money, close supervision, or participants who volunteered for something new. Scaling can change the treatment. The fact that an intervention worked in a trial does not establish that a national program, a large city, or a different agency can reproduce the conditions that made it work.
+
+A learning government has to separate two questions.
+
+Did the mechanism work under the tested conditions?
+
+Can the institution carry the mechanism without destroying the conditions?
+
+Those questions require different evidence. The first may come from a credible comparison. The second comes from implementation: staffing, procurement, training, compliance, local adaptation, administrative burden, and the ability to detect when the scaled version has drifted away from the tested one.
+
+This is where pilots can become politically misleading in both directions. Supporters can treat a positive result as proof that immediate scale is warranted. Opponents can point to messy implementation as proof that the original evidence was false. Neither inference is necessary. A mechanism can be real and an implementation strategy poor. A pilot can be well executed and still fail to travel.
+
+The honest next step may be another stage rather than a victory announcement.
+
+That stage should preserve the possibility of retreat. Expand to several jurisdictions before everywhere. Require the scaled program to reproduce the outcome measures that justified expansion. Record which adaptations were necessary. Keep an explicit route back if the operating version stops resembling the tested one.
+
+This is less dramatic than launching a permanent national policy.
+
+It is also more informative.
+
+The political difficulty is that staged learning can look like hesitation. Leaders are rewarded for decisive announcements, opponents for exposing inconsistency, and agencies for demonstrating that programs under their control are working. A design that says “we have learned enough to proceed, but not enough to stop measuring” fits poorly into that theater.
+
+Yet that sentence describes most responsible institutional knowledge.
+
+Confidence should be able to rise without becoming irreversible.
+
+A government that can move from pilot to wider deployment while keeping the comparison, the archive, and the possibility of revision intact has done something more valuable than prove one program works. It has preserved a way for public authority to change its mind without pretending the earlier decision never happened.
+
+That is the political infrastructure the unobserved world requires: not permanent experimentation, but permanent permission for evidence to matter after the announcement.

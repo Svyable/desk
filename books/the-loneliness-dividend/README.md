@@ -1,5 +1,9 @@
 # Built to Be Alone
 
+<!-- bookself-reader-links:start -->
+**Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/the-loneliness-dividend/) · [Published edition · Shelf Reader](https://svyable.github.io/shelf/reader/#/b/the-loneliness-dividend/)
+<!-- bookself-reader-links:end -->
+
 | | |
 |---|---|
 | **Author**    | Sven Hardy Benson |

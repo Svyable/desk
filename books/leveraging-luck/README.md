@@ -1,5 +1,9 @@
 # Leveraging Luck
 
+<!-- bookself-reader-links:start -->
+**Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/leveraging-luck/) · [Published edition · Shelf Reader](https://svyable.github.io/shelf/reader/#/b/leveraging-luck/)
+<!-- bookself-reader-links:end -->
+
 | | |
 |---|---|
 | **Author**    | Sven Hardy Benson |

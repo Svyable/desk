@@ -1,5 +1,9 @@
 # Gradient Ascent
 
+<!-- bookself-reader-links:start -->
+**Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/gradient-ascent/)
+<!-- bookself-reader-links:end -->
+
 | | |
 |---|---|
 | **Authors**   | @svyable |

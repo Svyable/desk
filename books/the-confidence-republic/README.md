@@ -2,6 +2,10 @@
 
 *America at 250, Told Through the Scam That Defined Every Decade*
 
+<!-- bookself-reader-links:start -->
+**Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/the-confidence-republic/)
+<!-- bookself-reader-links:end -->
+
 | | |
 |---|---|
 | **Author** | Sven Hardy Benson |

@@ -1,5 +1,9 @@
 # Subsidized Intelligence
 
+<!-- bookself-reader-links:start -->
+**Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/subsidized-intelligence/)
+<!-- bookself-reader-links:end -->
+
 | | |
 |---|---|
 | **Authors**   | Sven Hardy Benson |

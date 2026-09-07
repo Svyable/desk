@@ -162,6 +162,30 @@ Millions of Puerto Ricans have embraced U.S. citizenship as part of identity and
 
 Again, two truths survive together.
 
+The arrangement also changes the meaning of federal accountability. In a state, a citizen dissatisfied with a federal policy can at least participate in choosing senators, a voting House member, and presidential electors. Those mechanisms are imperfect, and a voter may lose every contest, but the constitutional chain is legible: representation is part of the bargain. Puerto Rico lives under federal statutes without that full chain.
+
+That does not mean the island is politically voiceless. Puerto Rican officials lobby Congress and federal agencies. The resident commissioner can introduce legislation, serve on committees, build coalitions, and vote in committee under House rules. Island parties cultivate relationships with national parties. Governors can bargain with administrations. Diaspora voters in states can make Puerto Rican issues matter in elections. Power finds channels even where the formal architecture is incomplete.
+
+But those channels are not substitutes for equal voting authority. Lobbying depends on persuasion. Committee participation stops short of a final House vote. Diaspora influence is exercised by citizens after they establish residence in states. The island itself cannot send two senators or electoral votes to Washington.
+
+This distinction matters because territorial status can make national policy feel both intimate and remote. Federal decisions reach households, hospitals, ports, utilities, schools, veterans, businesses, and municipal budgets. Yet the officials making those decisions do not face the island's electorate in the same way a senator from Florida or Ohio does. The consequence is not that federal policy toward Puerto Rico is always hostile or inattentive. It is that one ordinary democratic feedback mechanism is structurally weaker.
+
+The weakness becomes easiest to see when policy turns technical. A dramatic status vote can attract national attention. A change in reimbursement formula, shipping rule, tax treatment, disaster appropriation, debt authority, or program eligibility is harder to explain and easier for mainland politics to ignore. Territorial governance is often exercised through precisely those details. The architecture of belonging is hidden in tables, definitions, waivers, and statutory exceptions.
+
+That is one reason the 1917 settlement endured. Large constitutional questions do not need to be answered every morning if thousands of smaller administrative decisions can keep the existing relationship functioning. Institutions become durable partly because people learn how to live inside them. Businesses adapt contracts. Families make migration choices. Agencies develop territorial rules. Courts accumulate doctrine. Political parties build strategies around the available options. Each adaptation can make the status quo easier to operate without making the underlying question more settled.
+
+Durability, in other words, should not be confused with consent.
+
+Nor should it be confused with stasis. Puerto Rico's relationship with the federal government has changed repeatedly since 1917. The island began electing its governor, adopted its own constitution in 1952 under congressionally authorized procedures, developed the modern Commonwealth structure, and repeatedly debated alternatives. Congress changed tax and program rules. Courts continued to define territorial power. The political argument moved even when the basic fact of nonstate U.S. territory remained.
+
+That combination—change inside continuity—is historically important. It shows how constitutional systems can absorb pressure without resolving the dispute producing it. A reform can widen local democracy, another can alter economic authority, another can change federal benefits, and yet the core question of equal national representation can remain open.
+
+The Jones-Shafroth Act therefore matters not only because of what it granted. It matters because of the institutional form it helped stabilize: citizenship without statehood, mobility without equal territorial representation, national obligation without a complete national vote. Those pairings are easy to describe as anomalies. After more than a century, anomaly is too weak a word.
+
+And the arrangement complicates the usual map of federalism. American civics is often drawn as a contest between Washington and fifty states, with municipalities nested below them. Territories sit outside that diagram even though Congress governs millions of citizens through territorial clauses, program statutes, courts, agencies, and appropriations. Puerto Rico is therefore not a peripheral exception to federalism. It is evidence that the federal system has always contained categories that the standard two-level picture leaves out. Once that is visible, debates over representation, fiscal authority, disaster response, and citizenship look less like isolated Puerto Rican controversies and more like questions about the boundaries of the Union itself.
+
+They are part of the American system.
+
 The 1910s offer other enormous candidates for an under-appreciated event: the Federal Reserve Act, federal income tax, direct election of senators, the Great Migration, American entry into World War I, the first Red Scare, women's wartime labor expansion. Choosing the Jones Act over the Federal Reserve especially invites argument.
 
 The Federal Reserve is certainly more central to national economic power.

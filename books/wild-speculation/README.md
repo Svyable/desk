@@ -2,6 +2,10 @@
 
 *Investing on the Brink of World War 3*
 
+<!-- bookself-reader-links:start -->
+**Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/wild-speculation/) · [Published edition · Shelf Reader](https://svyable.github.io/shelf/reader/#/b/wild-speculation/)
+<!-- bookself-reader-links:end -->
+
 | | |
 |---|---|
 | **Authors**   | Sven Hardy Benson |

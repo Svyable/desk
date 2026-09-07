@@ -222,6 +222,40 @@ Infrastructure creates dependence precisely because it is useful.
 
 But dependence is also a measure of consequence.
 
+The more revealing measure of GPS, however, is not how many devices can receive it. It is how many institutions have reorganized themselves around the assumption that a common position-and-time reference will be there.
+
+That is a different kind of dependence from buying a product.
+
+A delivery company can replace one brand of truck with another. A phone user can switch mapping applications. A farm can change equipment vendors. But when all of those systems expect a shared external reference, the public layer beneath the competing products becomes harder to see and harder to replace. Competition at the edge can coexist with deep dependence at the center.
+
+GPS therefore offers a useful test of what “public infrastructure” means in a digital economy. The government did not need to own the navigation application, the tractor, the cellular network, or the dispatch software. It needed to maintain a sufficiently stable common reference that private actors could make long-lived investments without negotiating a new positioning system for every use.
+
+That changed the economics of experimentation. A startup building a location service did not have to finance satellites before testing an idea. A surveyor buying a receiver did not have to persuade a national network operator to construct bespoke coverage. A state transportation agency, a utility, an airline, and a farmer could use the same underlying signal for very different purposes. The expensive coordination problem had already been solved upstream.
+
+The arrangement also transferred a peculiar responsibility to the federal government. Once civilian systems treated GPS as ordinary infrastructure, continuity became more than a military procurement question. Decisions about constellation maintenance, signal policy, modernization, interference, and backup capabilities acquired consequences far beyond the Defense Department. A system could remain military in ownership while becoming civilian in consequence.
+
+That distinction is easy to miss because successful infrastructure disappears into other institutions. Nobody opens a banking application in order to admire timing synchronization. Nobody orders a package in order to celebrate satellite navigation. The capability is valuable precisely because it can be embedded inside something else and forgotten.
+
+The forgetting creates a policy problem of its own.
+
+If a common layer becomes reliable enough, organizations stop designing every workflow around its absence. Manual alternatives decay. Expertise migrates. Procurement standards assume the signal. New products arrive that never had an earlier, non-satellite version to fall back on. The economy gets more capable and, in one narrow respect, more brittle at the same time.
+
+That is not an argument against GPS. It is an argument for treating the resilience of a public platform as part of the platform’s value. Jamming, spoofing, outages, or conflict matter more after success than before it because more activity has been built on top. The same policy choice that lowers the cost of coordination can raise the cost of losing the coordinating layer.
+
+There is a second consequence. Open access changed who was allowed to discover what satellite navigation was for.
+
+Had civilian use remained tightly permissioned, the government would have faced an impossible forecasting problem. Officials would have needed to identify valuable applications in advance, decide which users deserved access, and update those decisions as technology changed. Broad availability reversed the burden. Users could discover applications first. Public policy did not have to predict ride-hailing, precision planting, synchronized networks, or whatever came next in order for those uses to become possible.
+
+This is the strongest reason to resist describing the 1983 announcement as merely a safety measure for aviation. Aviation supplied the immediate moral and political pressure, but the durable effect came from establishing a presumption of civilian access to a general-purpose capability. Once that presumption existed, later fights concerned accuracy, reliability, standards, and security rather than whether civilians belonged on the system at all.
+
+The distinction also clarifies the counterfactual. Civilian satellite navigation probably was coming. The harder question is what kind of civilian system would have emerged, under what restrictions, and with what confidence among firms deciding whether to build around it. A market can know that a technology exists and still hesitate if access is revocable, narrow, expensive, or politically undefined. A public commitment changes the planning horizon.
+
+That does not mean every later GPS application can be credited to Reagan’s announcement. It means the announcement helped convert technical possibility into institutional permission. The satellites still had to work. Receivers still had to get cheaper. Maps, chips, standards, and software still had to improve. The commercial ecosystem did not spring from a speech.
+
+But ecosystems grow differently when a common input is expected to remain available.
+
+The quiet power of the 1983 decision was to make that expectation plausible.
+
 ## The Quiet Choice
 
 The KAL 007 shootdown was a horror.

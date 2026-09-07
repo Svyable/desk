@@ -2,6 +2,10 @@
 
 *How a Longer Future Changes the Present Before It Adds a Single Year*
 
+<!-- bookself-reader-links:start -->
+**Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/the-longevity-moment/)
+<!-- bookself-reader-links:end -->
+
 | | |
 |---|---|
 | **Author** | Sven Hardy Benson |

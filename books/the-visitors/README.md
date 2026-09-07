@@ -1,5 +1,9 @@
 # The Visitors
 
+<!-- bookself-reader-links:start -->
+**Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/the-visitors/)
+<!-- bookself-reader-links:end -->
+
 **250 Years of Foreign Dignitaries Who Changed America, One Decade at a Time**
 
 | | |
@@ -50,6 +54,7 @@ The arc begins in 1778 with Conrad Alexandre Gérard, the first French minister 
 - [Research brief, selection method, prior-art boundary, and falsification notes](research/README.md)
 - [Selection ledger](research/selection-ledger.md)
 - [Source ledger](research/source-ledger.csv)
+- [Release review](research/release-review.md)
 
 ## Publication state
 

@@ -1,5 +1,9 @@
 # Artificial Abundance
 
+<!-- bookself-reader-links:start -->
+**Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/artificial-abundance/)
+<!-- bookself-reader-links:end -->
+
 | | |
 |---|---|
 | **Authors**   | Sven Hardy Benson |
@@ -45,6 +49,7 @@ This is deliberately not another book about allocating intelligence, delegating 
 
 - [Research brief and falsification notes](research/README.md)
 - [Source ledger](research/source-ledger.csv)
+- [Chapter 6 — trust as controlled change](research/ch06-trust-change-control.md)
 
 ## Rights
 

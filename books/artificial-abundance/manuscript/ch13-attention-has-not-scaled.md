@@ -150,6 +150,60 @@ Attention can be delegated.
 
 Control over attention cannot be treated as irrelevant merely because delegation works.
 
+When the filter works well, this can feel as though the scarcity has vanished. The inbox is quiet. The dashboard shows four items instead of four thousand. The executive sees three proposals rather than the fifty drafts that produced them. A regulator receives a short list of cases ranked by apparent urgency. The visible workload shrinks.
+
+But two different scarce resources have been collapsed in that picture.
+
+One is attention as time: the minutes a person has available to read, listen, inspect, or think.
+
+The other is attention as decision authority: the power to decide which claims are allowed to consume those minutes in the first place.
+
+Automation can save the first while concentrating the second.
+
+Imagine a company where every product team can now generate detailed proposals almost for free. Before, the cost of preparing a serious proposal limited how many arrived. Afterward, there may be hundreds. A model removes duplicates, scores expected value, identifies dependencies, and sends twelve to a portfolio committee. Another system summarizes the twelve into four. The committee has become dramatically more efficient.
+
+It has also become more dependent on choices that were once visible as human triage.
+
+What counted as duplicate?
+
+Which measure of expected value mattered?
+
+Was a small but strategically strange idea penalized because there was little historical data for it?
+
+Did the filter reward projects that fit the current organization precisely because those projects were easiest to compare?
+
+Which proposal never became one of the twelve and therefore never acquired a human advocate?
+
+Nobody needs to read every rejected item to take these questions seriously. That would defeat the purpose of filtering. The point is that saved attention does not eliminate selection policy. It makes selection policy more consequential because fewer people experience the rejected alternatives directly.
+
+The scarce asset has moved from reading everything to governing the machinery that decides what deserves reading.
+
+This is why escalation rules matter. A good filter does not merely rank. It has some idea of what should interrupt the normal ranking process. A security alert that is rare but catastrophic cannot be treated the same way as a routine request that is frequent but reversible. A medical system that hides ninety-nine harmless anomalies and one dangerous one has not succeeded simply because it reduced clinician workload by ninety-nine percent.
+
+Once attention is delegated, exception design becomes part of attention itself.
+
+Who gets to interrupt the doctor?
+
+Who gets to interrupt the chief executive?
+
+Who gets to interrupt the regulator?
+
+Who gets to interrupt you?
+
+These are not only interface questions. They are allocations of scarce decision rights.
+
+The same is true in the other direction. A filter needs permission not to interrupt. Organizations are full of material that once reached senior people because forwarding it was easier than deciding that they did not need it. Better systems can absorb that noise. The benefit is real. A human being should not have to inspect every routine event merely so the institution can claim there was a person in the loop.
+
+Human attention is not sacred simply because it is human.
+
+The useful question is where attention changes the outcome.
+
+If the system can handle a routine refund, schedule a meeting, reconcile a duplicate invoice, or discard obvious spam safely, requiring a person to watch every step is not stewardship. It is another form of waste. The value moves toward the boundary cases: the objective, the thresholds, the exceptions, the appeals, the audits, and the moments when someone can still reverse course.
+
+That is a smaller surface than reviewing everything.
+
+It may also be more important.
+
 This is already visible in recommendation systems. People do not select most of the individual items placed before them. A system chooses the sequence. The user still chooses whether to continue, but the platform has enormous influence over the menu of continuation.
 
 Generative systems make the menu more fluid.
@@ -251,6 +305,22 @@ The same applies inside firms.
 A worker can use AI to produce a longer report in less time. Her manager still has to read something. If every worker produces more, the manager may face an attention tax created by everyone else's productivity gain.
 
 The local optimization becomes a global problem.
+
+A useful way to see the problem is to follow one piece of work all the way through an organization. An analyst can generate five scenarios instead of one. A manager can ask for comparisons across all five. Legal can request language for each. Finance can model each. An executive can ask for a summary that compresses the whole package back into two pages.
+
+Every local step became cheaper.
+
+The decision at the end did not become five decisions.
+
+The organization may now possess more evidence, which is valuable. It may also have created five times as many internal claims on the people whose signatures, budgets, reputations, or legal authority still determine what happens next.
+
+This is where the phrase productivity can conceal a queueing problem. If ten teams become twice as productive at producing proposals while the same three people retain approval authority, the scarce resource is not proposal quality alone. It is access to the approval surface. The faster the upstream teams move, the more pressure accumulates at the point where authority remains finite.
+
+The answer is not necessarily more approvers. Some decisions should remain concentrated because coordination itself has value. Nor is the answer to force senior people to read everything. The better response may be clearer delegation, narrower decision rights, stronger defaults, better evidence about exceptions, and fewer situations in which every cheap action climbs the hierarchy for reassurance.
+
+In other words, abundance can force organizations to redesign who is allowed to decide.
+
+That is a deeper change than faster document production.
 
 This is one reason the six-month experiment across 66 firms discussed earlier is so useful. Individual access to generative AI changed some worker behavior, including time spent on email among adopters, without producing broad detected changes in the composition of work. The tool could make parts of individual production cheaper. The organization still contained meetings, dependencies, approvals, expectations, and other structures that did not automatically reorganize.
 

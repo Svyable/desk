@@ -1,5 +1,9 @@
 # The Second Order
 
+<!-- bookself-reader-links:start -->
+**Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/the-second-order/)
+<!-- bookself-reader-links:end -->
+
 | | |
 |---|---|
 | **Authors** | Sven Hardy Benson |

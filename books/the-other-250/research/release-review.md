@@ -5,6 +5,18 @@
 **Review date:** September 6, 2026  
 **Target:** First complete Desk edition; publication candidate for Sven Hardy Benson’s Shelf
 
+## Source-ledger remediation — September 7, 2026
+
+The title-specific source-ledger schema defect identified by the September 6 mechanical/integrity review is now **closed**.
+
+`research/source-ledger.csv` has been migrated from the older ten-column `source_id,chapter,accessed_date,publication_date,author_or_institution,title,source_type,claim_or_use,url,notes` layout to the current canonical seven-column Desk contract:
+
+`id,year,author_or_institution,title,source_type,book_use,url`
+
+The migration is lossless with respect to publication-relevant provenance. Existing source IDs, chapter mapping, access dates, full publication dates where present, claim/use descriptions, URLs, and caution/overclaim notes were retained. Chapter mapping, access dates, publication-date precision beyond the year, and old `notes` content now travel inside `book_use`; the canonical `year` field uses the publication year when the old ledger supplied one and remains blank when it did not.
+
+This remediation does **not** change manuscript prose or factual clearance. The September 6 literal checker found 21 numbered chapters below the repository’s 3,000-word per-chapter floor; bounded substantive remediation has since closed Chapters 6, 8, 10, 11, 12, 14, 15, and 22, leaving **13 known sub-floor chapters** on that baseline. Publication remains blocked until those chapters are substantively deepened and the normal frozen-source mechanical/integrity checks pass.
+
 ## Editorial status
 
 - [x] Twenty-six decade chapters are present, from the 1770s through the 2020s.
@@ -18,6 +30,7 @@
 ## Research status
 
 - [x] A source ledger exists and covers all twenty-six chapters.
+- [x] The source ledger uses the current canonical seven-column Desk schema.
 - [x] Primary documents, statutes, archival collections, official data, or institutional histories anchor the chronology wherever practical.
 - [x] Counter-evidence is preserved for the most vulnerable causal claims, including Newburgh, Sputnik/NDEA, Garfield/Pendleton, HITECH/EHR adoption, GPS civilianization, and CHIPS implementation.
 - [x] Current-policy claims in the 2020s chapter are dated and qualified.
@@ -61,21 +74,37 @@ The selections most likely to attract legitimate challenge are also among the bo
 - **2000s — HITECH:** electronic records already existed. The hinge is acceleration toward national infrastructure through incentives, certification, and use requirements.
 - **2020s — CHIPS:** the decade and implementation are unfinished; the strongest current claim is the return of explicit capacity-building industrial policy, not a guaranteed manufacturing renaissance.
 
+## Mechanical validation — September 6, 2026
+
+The exact repository checker was run against Desk main `f0d41eed0d379b436db2fa83a7c20229fc7692f5`.
+
+- 26 numbered chapters are present.
+- Chapter-only total is **68,901 words**, above the 65,000-word book minimum.
+- Only Chapters 18 and 23–26 met the 3,000-word chapter floor on that frozen baseline.
+- **21 chapters were below 3,000 words**, ranging from 2,279 to 2,910 words.
+- The largest baseline deficits were Chapter 11 (721 words), Chapter 22 (679), Chapter 15 (664), Chapter 6 (662), Chapter 8 (661), Chapter 14 (661), and Chapter 12 (657).
+
+This is substantive depth debt, not a mechanical formatting defect. The manuscript must be deepened chapter by chapter; padding is not an acceptable remediation.
+
+Subsequent append-only remediation has closed eight of those literal-baseline defects: Chapter 6 is 3,025 words, Chapter 8 is 3,053, Chapter 10 is 3,052, Chapter 11 is 3,047, Chapter 12 is 3,035, Chapter 14 is 3,023, Chapter 15 is 3,045, and Chapter 22 is 3,091 under the checker’s exact token expression. **Thirteen known sub-floor chapters remain.** These arithmetic closures do not substitute for the required final full-book checker run on one frozen committed source.
+
+The same validation run also showed repository-wide research-schema debt. The title-specific schema defect it identified for `books/the-other-250/research/source-ledger.csv` has now been remediated as recorded above. The temporary validation workflow itself was not merged and was closed after recording the results.
+
 ## Release decision
 
-**Desk manuscript decision: READY FOR COMPLETE-DRAFT STATUS.**
+**Desk manuscript decision: COMPLETE DRAFT, REMAINS A PUBLICATION CANDIDATE.**
 
-The book has a complete narrative arc, twenty-six chapter selections, a research trail, explicit counterclaims, rights metadata, front matter, and a substantive coda. No known structural manuscript blocker remains.
+The book has a complete narrative arc, twenty-six chapter selections, a research trail, explicit counterclaims, rights metadata, front matter, and a substantive coda. No known factual or structural manuscript blocker remains.
 
-**Shelf decision: PUBLICATION CANDIDATE, subject to repository integration and rendered-reader checks.**
+**Shelf decision: REMAIN BLOCKED pending precise objective remediations.**
 
 Before a Shelf snapshot is labeled a released first edition:
 
-1. Merge the complete Desk manuscript onto the current `main` without overwriting newer catalog state.
-2. Regenerate the Desk catalog from the canonical book README using the repository’s current catalog tool.
-3. Verify the Desk Reader discovers all twenty-eight manuscript surfaces: front matter, twenty-six chapters, and back matter.
-4. Verify Markdown rendering, navigation order, title/subtitle/author metadata, and rights links.
+1. Deepen the remaining thirteen known sub-3,000-word chapters until every numbered chapter clears 3,000 words without padding or filler.
+2. Re-run `python3 scripts/check-book-length.py the-other-250` on one frozen Desk source and require `healthy: true`.
+3. Reconcile then-current Desk catalog/discovery state and run `python3 scripts/check-desk.py` on the same candidate source; the candidate must introduce no unresolved title-specific integrity failure.
+4. Verify the Desk Reader discovers all twenty-eight manuscript surfaces: front matter, twenty-six chapters, and back matter, with correct order and metadata.
 5. Snapshot to Shelf using the current Bookself/Shelf release mechanism rather than manually inventing a parallel publication format.
 6. Record the edition’s factual horizon for Chapter 26 as September 6, 2026.
 
-If those integration checks pass, there is no editorial reason in this review to hold the first edition.
+The release review remains substantively favorable, and the ledger-schema remediation is complete, but publication clearance is not granted until the remaining objective depth and frozen-source gates pass.

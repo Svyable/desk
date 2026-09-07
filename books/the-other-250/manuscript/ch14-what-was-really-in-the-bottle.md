@@ -191,3 +191,47 @@ That is how standards enter daily life. First as controversy, then as administra
 A bottle on a shelf looks private.
 
 The trust that lets a stranger drink it is partly public.
+
+The deeper institutional change was not simply that Washington could punish a bad bottle after it crossed a state line. It was that producers increasingly had to organize themselves in anticipation of inspection.
+
+That distinction matters because enforcement changes behavior before a case is filed.
+
+A firm that expects no outside verification can treat quality as an internal choice constrained mainly by reputation, contract, and the risk of losing customers. A firm operating under an enforceable standard has another audience. It must be able to show what it made, how it described it, and whether its processes can survive scrutiny by someone who did not participate in the sale.
+
+That creates a demand for legibility.
+
+Production becomes easier to govern when ingredients, batches, labels, methods, and responsibilities can be reconstructed after the fact. The immediate statute did not impose the mature quality systems that later generations would recognize, but the regulatory relationship pointed in that direction. The business could no longer assume that the package itself was the end of the transaction. Behind the package had to be an organization capable of explaining the package.
+
+This helps clarify why administrative capacity often compounds.
+
+An inspector who finds a problem needs a rule. A rule needs a definition. A definition needs evidence. Evidence needs records, tests, samples, and repeatable methods. Each layer creates pressure for the next one. What begins as authority to seize or condemn a misbranded product can generate demand for better laboratories, clearer categories, more consistent documentation, and more predictable procedures.
+
+The regulated side adapts in parallel.
+
+Manufacturers learn which claims invite challenge, which processes produce uncertainty, and which records make disputes easier to resolve. Lawyers translate statutory language into operating constraints. Chemists and managers translate those constraints back into production decisions. Over time, regulation becomes less like an occasional raid and more like a standing relationship between organizations.
+
+That relationship has costs.
+
+Documentation consumes labor. Standardization can favor large firms that can afford specialists. Small producers may face fixed compliance burdens that are trivial for national companies and material for local ones. A uniform rule can also make experimentation harder when a novel product does not fit an inherited category. The same infrastructure that reduces fraud can become a barrier to entry or a source of bureaucratic delay.
+
+Those are not side effects to wave away. They are part of the bargain.
+
+But the alternative has costs too, and they are often less visible because they are distributed among buyers. Every consumer who must investigate a seller, every retailer that must build a private testing regime, every insurer that must price uncertainty, and every reputable producer forced to compete against undetectable adulteration is paying for verification somehow.
+
+The policy question is therefore not whether verification has a cost.
+
+It is who performs it, when, according to what standard, and how widely the result can be reused.
+
+Public inspection can turn one act of verification into information that supports many transactions. That is one reason standards become infrastructure. A bridge lets many travelers reuse the same crossing. A trusted measurement lets many buyers reuse the same confidence.
+
+The 1906 settlement was incomplete, but it moved some verification from the edge of each transaction into a shared institution.
+
+That shift also changed what failure meant.
+
+If a buyer alone is responsible for detecting deception, a bad purchase is mainly a private misfortune. Once government claims a role in policing adulteration and misbranding, a bad product can become evidence about the adequacy of the system itself. The public begins asking not only what the seller did, but what the regulator knew, what authority it had, and why the safeguard did not work.
+
+That expectation can produce overreach. It can encourage the belief that every harm should have been preventable. No regulatory system can eliminate uncertainty, fraud, error, or bad luck. Yet the expectation also creates a feedback mechanism: repeated failures become arguments about definitions, resources, jurisdiction, and procedure rather than isolated warnings to individual buyers.
+
+In that sense, the bottle became more than an object of commerce.
+
+It became a test of institutional competence.

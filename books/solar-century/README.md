@@ -2,6 +2,10 @@
 
 *How the Sun Rewired the World's Energy Infrastructure*
 
+<!-- bookself-reader-links:start -->
+**Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/solar-century/) · [Published edition · Shelf Reader](https://svyable.github.io/shelf/reader/#/b/solar-century/)
+<!-- bookself-reader-links:end -->
+
 | | |
 |---|---|
 | **Author** | Sven Hardy Benson |

@@ -217,3 +217,15 @@ A feedback loop can make a system smarter.
 It can also make the system more certain about the world it has chosen to keep seeing.
 
 The difference is exploration.
+
+The audit trail should include the feedback channel itself.
+
+Two identical outcomes can mean different things if one arrived because the dominant policy selected the case and the other arrived through an independent sample, an appeal, an override, or an external evaluator. Collapsing those paths into one training label erases information about how the institution came to know what it knows.
+
+That provenance becomes especially useful when evidence conflicts. If ordinary production feedback is positive while random audits deteriorate, the disagreement is not noise to average away. It may be evidence that the production policy has become increasingly selective.
+
+A learning system should be able to ask not only, “What did the label say?” but “What route made this label observable?”
+
+That question is cheap compared with recreating the missing history later.
+
+Feedback provenance does not solve selective observation. It makes the selection visible enough that later analysts can distinguish a world the policy kept choosing from a world that entered through another door.

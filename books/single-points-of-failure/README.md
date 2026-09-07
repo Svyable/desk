@@ -1,5 +1,9 @@
 # Single Points of Failure
 
+<!-- bookself-reader-links:start -->
+**Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/single-points-of-failure/) · [Published edition · Shelf Reader](https://svyable.github.io/shelf/reader/#/b/single-points-of-failure/)
+<!-- bookself-reader-links:end -->
+
 | | |
 |---|---|
 | **Author**    | Sven Hardy Benson |
