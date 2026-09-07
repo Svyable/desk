@@ -426,6 +426,10 @@ A dynamic authority graph should not be invisible merely because it is dynamic.
 
 If anything, dynamism increases the need for a current map.
 
+The map alone is not enough. Recovery also depends on state: what each descendant changed, what other actors relied on those changes, and which effects have already crossed into systems controlled by somebody else. A family tree can be complete while the consequences it produced remain obscure.
+
+That is why descendant cleanup is partly a topology problem and partly a state-reconstruction problem. Re-entry requires both: who still has authority, and what has already been done under it.
+
 This has practical consequences for design.
 
 Subdelegation should not be the casual default.
@@ -523,6 +527,10 @@ A transferred asset remains transferred.
 A disclosed secret remains disclosed.
 
 Re-entry therefore requires a ledger of commitments, not merely a list of live agents.
+
+Crossing an organizational boundary makes that ledger more important and revocation less complete. Inside one company, an administrator may be able to disable an account and cancel a queue. A supplier, marketplace, payment processor, or logistics provider may instead hold a valid instruction already accepted under the original mandate.
+
+At that point the control problem changes from revocation to obligation management. Some effects can still be stopped. Others have to be unwound, compensated for, disputed, or simply lived with. A clean internal authority graph does not erase an external counterparty's reasonable reliance on an action that was valid when it was taken.
 
 The descendant problem also changes how we should think about **aggregate limits**.
 
