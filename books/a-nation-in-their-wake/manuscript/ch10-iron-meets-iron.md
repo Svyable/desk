@@ -271,5 +271,3 @@ The counterfactual therefore strengthens rather than weakens the choice. If *Mon
 The duel did not invent the future.
 
 It made the old procurement logic politically indefensible.
-
-<!-- PUB-AUGMENT-2026-09-06 -->

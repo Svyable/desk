@@ -218,8 +218,6 @@ The Gold Rush did not merely fill California.
 
 It pulled the country toward the infrastructure required to keep California attached.
 
-<!-- PUB-AUGMENT-2026-09-06 -->
-
 ## The Port Was the First Government Many Arrivals Saw
 
 San Francisco's explosive growth makes it tempting to tell the Gold Rush as a story of weak government and private improvisation. The better account is that public and private systems were being invented on top of one another at emergency speed.
@@ -241,5 +239,3 @@ The ship therefore belongs to a larger American pattern visible later in railroa
 The boundary between public infrastructure and private enterprise is not a line.
 
 It is a contract.
-
-<!-- PUB-AUGMENT-ROUND2-2026-09-06 -->

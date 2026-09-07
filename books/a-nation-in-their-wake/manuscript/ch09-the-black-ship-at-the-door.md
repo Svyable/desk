@@ -283,5 +283,3 @@ That is enough to make the encounter consequential without turning it into a cre
 The American significance is equally specific. The mission established that a Pacific commercial concern could become a presidential objective carried by a modern naval squadron. Coal, sailors, diplomacy, presidential authority, and industrial hardware were coordinated across an ocean in order to alter another state's policy. The republic had moved a long way from asking whether foreign ports would recognize its merchant flag.
 
 It was now arriving with terms.
-
-<!-- PUB-AUGMENT-2026-09-06 -->
