@@ -6,7 +6,7 @@ import {
 } from './desk-runtime-bridge.js';
 
 const upstream = 'https://svyable.github.io/shelf/reader/js/';
-const appUrl = `${upstream}app.js?v=desk-20260906-subtitle-catalog-1`;
+const appUrl = `${upstream}app.js?v=desk-20260907-fast-catalog-1`;
 const viewportStabilityUrl = `${upstream}viewport-stability-runtime.js?v=r1`;
 const nativeShareUrl = `${upstream}native-share.js`;
 const libraryHomeUrl = 'https://svyable.github.io/desk/reader/css/desk-library-home.css?v=bookself-20260904';
@@ -24,11 +24,31 @@ function sharedReaderOwnsDeskCatalogVisibility(source) {
   return /catalogEntryVisible\(\s*meta\s*,\s*window\.__IMPRINT\?\.role\s*\)/.test(input);
 }
 
+function skipDeskCatalogCoverProbe(source) {
+  const input = String(source || '');
+  const start = input.indexOf('async function loadCatalog()');
+  const end = input.indexOf('\nasync function loadBook(', start);
+  if (start < 0 || end < 0) {
+    throw new Error('Shared Reader catalog loader could not be isolated for Desk startup.');
+  }
+  const catalogLoader = input.slice(start, end);
+  const coverProbe = `meta.cover = await firstExisting(
+        ['cover.png', 'cover.jpg', 'cover.webp', 'cover.jpeg'].map(
+          (name) => \`books/${slug}/media/${name}\`
+        )
+      );`;
+  if (!catalogLoader.includes(coverProbe)) {
+    throw new Error('Shared Reader catalog cover probe changed; update Desk Reader before loading.');
+  }
+  const fastCatalogLoader = catalogLoader.replace(coverProbe, 'meta.cover = null;');
+  return `${input.slice(0, start)}${fastCatalogLoader}${input.slice(end)}`;
+}
+
 function adaptReaderSource(source) {
   if (!sharedReaderOwnsDeskCatalogVisibility(source)) {
     throw new Error('Shared Reader is missing role-aware Desk catalog visibility; update Bookself/Shelf before loading Desk Reader.');
   }
-  return rewriteSharedModuleSpecifiers(source, upstream);
+  return rewriteSharedModuleSpecifiers(skipDeskCatalogCoverProbe(source), upstream);
 }
 
 function installDeskChromePolicy() {
