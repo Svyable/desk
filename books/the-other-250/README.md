@@ -16,7 +16,7 @@
 | **Edition** | First complete draft |
 | **Language** | English |
 | **Factual horizon** | Chapter 26 current through September 6, 2026 |
-| **Release Review** | [Ready for Desk complete-draft status; Shelf candidate pending integration checks](research/release-review.md) |
+| **Release Review** | [Release-cleared subject to final mechanical/integrity gates](research/release-gate-closeout-2026-09-07.md) |
 
 *The Other 250* tells the first 250 years of the United States through one under-appreciated hinge event in every calendar decade from the 1770s through the 2020s. It is deliberately not a ranking of the biggest events. The familiar peaks remain where they belong: the Revolution, the Civil War, emancipation, industrialization, depression, world wars, civil rights, the Cold War, September 11. This book looks under those peaks for the quieter choices, institutions, accidents, systems, bargains, inventions, laws, and public works that changed what America could become next.
 
@@ -63,6 +63,7 @@ The 2020s are necessarily provisional. Chapter 26 is a first-edition judgment ab
 - [Chapter briefs and falsification notes](research/chapter-briefs.md)
 - [Source ledger](research/source-ledger.csv)
 - [Release review](research/release-review.md)
+- [Release gate closeout — September 7, 2026](research/release-gate-closeout-2026-09-07.md)
 
 ## Rights
 
