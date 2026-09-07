@@ -6,7 +6,7 @@
 | **Status**    | Drafting |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
-| **Chapters**  | 4 of 18 drafted + prologue |
+| **Chapters**  | 18 of 18 drafted + prologue |
 
 *Diplomacy at Machine Speed.*
 
@@ -24,21 +24,21 @@ The aim is a trade-nonfiction book with a classroom afterlife: readable as narra
 - [x] [Ch 2 — When Everyone Has an Analyst](manuscript/ch02-when-everyone-has-an-analyst.md)
 - [x] [Ch 3 — The Authentication Problem](manuscript/ch03-the-authentication-problem.md)
 - [x] [Ch 4 — Translation Without Understanding](manuscript/ch04-translation-without-understanding.md)
-- [ ] [Ch 5 — Synthetic Publics](manuscript/ch05-synthetic-publics.md)
-- [ ] [Ch 6 — The Principal and the Machine](manuscript/ch06-the-principal-and-the-machine.md)
-- [ ] [Ch 7 — The Adversary's Model](manuscript/ch07-the-adversarys-model.md)
-- [ ] [Ch 8 — Crisis Time](manuscript/ch08-crisis-time.md)
-- [ ] [Ch 9 — The Backchannel](manuscript/ch09-the-backchannel.md)
-- [ ] [Ch 10 — Negotiating With Abundance](manuscript/ch10-negotiating-with-abundance.md)
-- [ ] [Ch 11 — The Alliance Room](manuscript/ch11-the-alliance-room.md)
-- [ ] [Ch 12 — Diplomatic Intelligence After OSINT](manuscript/ch12-diplomatic-intelligence-after-osint.md)
-- [ ] [Ch 13 — The Small-State Advantage](manuscript/ch13-the-small-state-advantage.md)
-- [ ] [Ch 14 — The Authoritarian Edge?](manuscript/ch14-the-authoritarian-edge.md)
-- [ ] [Ch 15 — The Protocols of Trust](manuscript/ch15-the-protocols-of-trust.md)
-- [ ] [Ch 16 — AI Arms Control Without AI Arms Control](manuscript/ch16-ai-arms-control-without-ai-arms-control.md)
-- [ ] [Ch 17 — The New Diplomat](manuscript/ch17-the-new-diplomat.md)
-- [ ] [Ch 18 — The Last Human Channel](manuscript/ch18-the-last-human-channel.md)
-- [ ] [Back Matter](manuscript/back-matter.md)
+- [x] [Ch 5 — Synthetic Publics](manuscript/ch05-synthetic-publics.md)
+- [x] [Ch 6 — The Principal and the Machine](manuscript/ch06-the-principal-and-the-machine.md)
+- [x] [Ch 7 — The Adversary's Model](manuscript/ch07-the-adversarys-model.md)
+- [x] [Ch 8 — Crisis Time](manuscript/ch08-crisis-time.md)
+- [x] [Ch 9 — The Backchannel](manuscript/ch09-the-backchannel.md)
+- [x] [Ch 10 — Negotiating With Abundance](manuscript/ch10-negotiating-with-abundance.md)
+- [x] [Ch 11 — The Alliance Room](manuscript/ch11-the-alliance-room.md)
+- [x] [Ch 12 — Diplomatic Intelligence After OSINT](manuscript/ch12-diplomatic-intelligence-after-osint.md)
+- [x] [Ch 13 — The Small-State Advantage](manuscript/ch13-the-small-state-advantage.md)
+- [x] [Ch 14 — The Authoritarian Edge?](manuscript/ch14-the-authoritarian-edge.md)
+- [x] [Ch 15 — The Protocols of Trust](manuscript/ch15-the-protocols-of-trust.md)
+- [x] [Ch 16 — AI Arms Control Without AI Arms Control](manuscript/ch16-ai-arms-control-without-ai-arms-control.md)
+- [x] [Ch 17 — The New Diplomat](manuscript/ch17-the-new-diplomat.md)
+- [x] [Ch 18 — The Last Human Channel](manuscript/ch18-the-last-human-channel.md)
+- [x] [Back Matter](manuscript/back-matter.md)
 
 ## Research
 
