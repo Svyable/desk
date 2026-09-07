@@ -45,3 +45,4 @@ EOF
           git add books/renegade-code/manuscript/ch14-the-first-day.md books/renegade-code/manuscript/ch25-containment-becomes-a-product.md
           git commit -m "Deepen Renegade Code chapters 14 and 25"
           git push origin HEAD:readiness/renegade-code-depth-gate-20260907
+# Triggered after PR creation; remove before merge.
