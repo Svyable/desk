@@ -20,11 +20,19 @@ The chapter is now deepened with **770 net words** under the exact checker token
 
 Because this change is append-only against a chapter with no intervening manuscript edit, the exact prior literal count plus the exact additive delta yields a current Chapter 22 count of **3,091 words**, clearing this specific floor by 91 words.
 
+### Chapter 15 — closed
+
+Chapter 15, `manuscript/ch15-citizens-without-a-state.md`, was **2,336 words**, **664 words below** the floor on the same literal baseline.
+
+The chapter is now deepened with **709 net words** under the exact checker token expression, `\b[\w’'-]+\b`. The addition stays inside the existing Puerto Rico citizenship-and-territorial-status argument, developing federal accountability, the limits of informal political influence, the way technical federal policy can obscure territorial power, institutional durability without final settlement, and Puerto Rico's place inside the broader map of American federalism. It introduces no new quotation, dated statistic, named historical source, or volatile current claim.
+
+Because this change is append-only against a chapter with no intervening manuscript edit, the exact prior literal count plus the exact additive delta yields a current Chapter 15 count of **3,045 words**, clearing this specific floor by 45 words.
+
 ## Release effect
 
-These passes close **two** of the 21 sub-3,000-word chapter defects recorded by the September 6 literal checker. **Nineteen numbered chapters remain below 3,000 words on that literal baseline** and require substantive deepening rather than padding.
+These passes close **three** of the 21 sub-3,000-word chapter defects recorded by the September 6 literal checker. **Eighteen numbered chapters remain below 3,000 words on that literal baseline** and require substantive deepening rather than padding.
 
-The chapter-only corpus was already **68,901 words**, above the 65,000-word book minimum, before either pass. The controlling mechanical debt is therefore the remaining per-chapter floors.
+The chapter-only corpus was already **68,901 words**, above the 65,000-word book minimum, before these passes. The controlling mechanical debt is therefore the remaining per-chapter floors.
 
 Before publication, after all remaining chapter deficits are remediated, freeze one committed Desk source and require:
 
