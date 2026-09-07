@@ -332,6 +332,10 @@ That is the point.
 
 Warnings are useful when they change behavior enough to make themselves wrong.
 
+The evidence available now should not be made to carry more than it can. We can observe rapid deployment, expanding automation, growing institutional attention to AI risk, and serious work on resilience and continuity. We can analyze how those trends might create path dependence and common cognitive dependencies. We can forecast that sufficiently deep dependence could make formal authority operationally hollow. Those are three different statements.
+
+Keeping them separate matters. Current risk-management practice is not proof that the re-entry threshold has already been crossed, and current resilience work is not proof that it has been solved. The value of the argument is that it tells us what to measure before the answer becomes obvious in retrospect.
+
 There is a second reason to resist inevitability.
 
 Inevitability excuses people.
@@ -469,6 +473,10 @@ It may be stronger.
 A human approving one thousand machine recommendations under time pressure is not necessarily exercising more control than a human who designed a good policy that allows nine hundred low-risk actions automatically, escalates ninety ambiguous ones, and blocks ten categories entirely.
 
 Human control should be measured by influence over outcomes, not proximity to every transaction.
+
+More precisely, it is the range of consequential alternatives that accountable people can still make effective. A system may contain almost no human micro-approvals and preserve wide human choice if objectives can change, authority can contract, evidence can be inspected independently, suppliers or architectures can be replaced, and essential functions can survive the transition. Another system may display a human approval button on every screen while offering no economically or operationally viable way to reject the machine's path.
+
+This is the option value at stake throughout the book. The scarce thing is not the number of decisions reserved for humans. It is the set of futures that remain reachable when humans decide the present arrangement should change.
 
 That is why the phrase human in the loop can be misleading.
 
@@ -747,6 +755,10 @@ There is no heroic battle for control because control was never allowed to becom
 That future will not prove the danger was imaginary.
 
 It will prove architecture mattered.
+
+Future leaders do not need to inherit every manual process their predecessors preserved. They need to inherit choices that can still be exercised: a way to change objectives, contract authority, inspect evidence, move critical state, continue essential service through a transition, and decide that the system being recovered should not be restored in the same form.
+
+There may therefore be no last human decision in any useful sense. There will be a succession of decisions made inside systems partly built by earlier ones. The political task is to keep those later decisions from becoming ceremonial because all affordable paths have already narrowed to one.
 
 The global AI takeover threat does not begin with a machine saying no.
 
