@@ -171,3 +171,53 @@ After 1898, the country had a strategic center thousands of miles from the mainl
 The American map looked almost the same on a classroom wall if the inset box for Hawai‘i was small enough.
 
 Strategically, the map had become an ocean larger.
+
+The deeper consequence of annexation was not only that the United States acquired a strategic position. It was that strategic planners could begin treating Hawaiian access as an assumption rather than a negotiation.
+
+That distinction compounds over time.
+
+A government that merely hopes to use a harbor in a future crisis must preserve a relationship, anticipate bargaining, and plan for refusal. A government that exercises sovereignty can build docks, communications, fuel storage, roads, barracks, and administrative systems on the expectation that access will continue. Each investment then makes the next investment easier to justify because the surrounding system has already been built around the place.
+
+Infrastructure turns political control into path dependence.
+
+Once Pearl Harbor and the wider islands were incorporated into American planning, Pacific strategy could be designed around them. Ships could be routed through them. Communications networks could assume them. Military organizations could train with them in mind. Commercial firms could make their own assumptions about law, currency, contracts, and transport. The initial political decision became embedded in thousands of later decisions that were individually smaller and therefore less likely to reopen the original question.
+
+That is one way annexation becomes normal.
+
+The process does not require everyone to forget how control was acquired. It only requires enough institutions to behave as though the new arrangement will persist. Budgets are written. Property changes hands. careers are built. Schools teach a new civic framework. Businesses organize around new markets. Families make decisions based on the rules that exist rather than the rules that might have existed.
+
+Over decades, continuity produces its own constituency.
+
+That does not retroactively legitimate the beginning. It changes the political cost of reversing it.
+
+This is why historical arguments about sovereignty cannot be reduced to asking whether later generations participated in the institutions created after annexation. People adapt to the governments that govern them. Participation can express agency without erasing the coercive or disputed conditions under which the institutional order was established. Voting, military service, public employment, entrepreneurship, and cultural influence can all be real forms of belonging while historical claims about dispossession remain real too.
+
+The categories are not mutually exclusive.
+
+Hawai‘i therefore exposes a recurring problem in American expansion: political systems often become more difficult to judge precisely because they become durable. A temporary arrangement invites scrutiny. A century-old arrangement arrives surrounded by routines, identities, expectations, and investments. The passage of time can make an outcome feel inevitable even when the historical record shows that it was fiercely contested.
+
+Durability is evidence of endurance, not proof of consent.
+
+The annexation also shows why logistics deserves to be treated as constitutional history in practice. Constitutional arguments are often narrated through texts, courts, elections, and offices. But jurisdiction becomes tangible through what governments are able to build and operate. A harbor under sovereign control is a constitutional fact translated into concrete. A customs regime is sovereignty translated into paperwork. A military district is sovereignty translated into command. Postal routes, courts, land records, taxation, schools, and public works make the abstract claim of authority legible in everyday life.
+
+Territory is governed through systems.
+
+Those systems also create asymmetries in who can realistically contest the arrangement. The federal government can plan on a continental scale. Native Hawaiian organizations, local communities, and individual residents have to preserve historical memory and political claims across generations while living inside the institutions produced by the disputed settlement. That is not the same political task.
+
+The imbalance matters because forgetting is easier for the beneficiary of a settled map than for people whose claims were displaced by it.
+
+This is part of what makes the anti-annexation petitions so durable as evidence. They interrupt the comforting idea that opposition was invented later. The signatures show resistance at the moment of decision. Later adaptation cannot erase that contemporary record any more than later strategic usefulness can turn conquest into consensus.
+
+The point is not to deny that Hawai‘i became deeply American in political, economic, military, and cultural life.
+
+The point is that becoming is a history, not an alibi.
+
+That history also helps explain why the islands matter beyond the particular case. The United States repeatedly faced questions about how far its constitutional promises traveled with its power. Sometimes the answer was statehood. Sometimes it was territorial status. Sometimes it was military occupation, treaty alliance, compact, base agreement, or informal influence. The Pacific forced Americans to confront the possibility that national power could extend much farther than equal political membership.
+
+Hawai‘i ultimately became a state, but the route there should not be allowed to conceal the wider institutional experiment.
+
+A country can expand its strategic perimeter faster than it expands its democratic settlement.
+
+That gap is one of the quiet structures of American power.
+
+In 1898, Hawai‘i made the gap impossible to treat as a purely theoretical problem.
