@@ -325,3 +325,105 @@ The data center changes the demand case.
 The existing site changes the supply clock.
 
 The best projects will be the ones where those two facts meet without pretending either side has eliminated the other’s risk.
+
+An electrical address is valuable because it compresses work that a greenfield developer otherwise has to earn one study, one easement, one equipment order, and one operating relationship at a time.
+
+The transmission system already has a history with the site. Engineers know how large injections from that location have behaved. Protection schemes, switchyards, high-voltage corridors, and rights-of-way may already exist in some form. The site may have roads capable of handling industrial equipment, water systems designed for a power station, secure boundaries, and a local labor market that understands heavy electrical work.
+
+None of that means a new use can simply plug in.
+
+A retired generator coming back, a reactor uprate, a storage project, or a new large load can change power flows enough to require fresh studies and upgrades. Equipment that existed ten years ago may no longer be fit for the next duty. The grid is not obligated to treat history as permission.
+
+But history is still an asset.
+
+The difference is similar to rebuilding a house on an existing foundation versus buying an empty parcel with no road, no water, and no title work. The old foundation may need repair. It may even need replacement. You still begin with more information about what the place can support.
+
+For a data-center developer, information has schedule value.
+
+A greenfield site can be cheap on a real-estate spreadsheet and ruinously expensive in uncertainty. The land purchase is visible. The unanswered electrical questions arrive later: Which substation can serve the load? What upstream lines need rebuilding? Which transformer has to be ordered? How many years until the upgrades can be energized? What other projects are already competing for the same equipment and construction crews?
+
+An old power site does not answer all of those questions.
+
+It can reduce the number that begin at zero.
+
+That is why the value of an electrical address should not be confused with the market value of the land beneath it. Two neighboring parcels can have almost identical acreage and radically different usefulness to a power-hungry customer because one sits inside an established high-voltage relationship and the other merely sits near it.
+
+Electricity is local before it is national.
+
+The United States can have ample generating capacity in aggregate and still lack a practical path to serve five hundred new megawatts at one particular node by one particular year. The node matters. The year matters. The equipment between them matters.
+
+Nuclear sites make that geography unusually visible because the original plant forced the grid to solve those questions decades ago.
+
+That inherited solution can become a form of industrial real estate.
+
+It also changes the economics of preservation.
+
+A plant owner deciding whether to dismantle equipment, surrender optional licenses, disperse staff, or sell pieces of a site is not only deciding what to do with an old reactor. It may be deciding how much future electrical optionality to destroy. The decision can be rational if carrying costs are high and future use is remote. But the option should at least be priced as an option.
+
+The data-center boom has raised that option price.
+
+This is especially important because compute demand arrives in lumps. A region does not necessarily need a smooth extra fifty megawatts every year. It may face a proposed campus asking for hundreds of megawatts in one step, followed by another campus, followed by nothing if the economics change.
+
+Option-rich sites are useful under that uncertainty because they preserve multiple possible futures.
+
+A reactor can keep operating. A retired site can support a restart study. Existing transmission can support storage or new generation. Nearby land can become attractive to a large customer. A site that turns out not to fit one data-center plan may still retain value for the grid.
+
+That is different from building a bespoke asset whose usefulness depends on one forecast being right.
+
+The distinction matters for public policy.
+
+If regulators or governments are asked to help preserve an aging site because future large-load growth may make it valuable, the case should not rest on a single announced data-center campus. It should rest on the range of uses the site can support and on the cost of losing those options permanently.
+
+Optionality is not a blank check.
+
+It is a way to compare irreversible decisions.
+
+Keeping a site available for five more years costs money. Dismantling it can also create an irreversible loss. A rational decision asks which cost is larger under several plausible futures rather than assuming one forecast deserves certainty.
+
+That same discipline should govern the hyperscaler’s contract.
+
+A twenty-year buyer can make a restart financeable, but the contract should be tested against the possibility that the buyer’s own technology changes faster than the plant. Server generations turn over. Model architectures change. Efficiency can improve. Workloads can migrate. Corporate strategies can change.
+
+The reactor cannot migrate with them.
+
+A long contract solves that mismatch by making the customer’s promise durable even if its hardware is not. The financial obligation becomes the bridge between short-lived machines and long-lived concrete.
+
+That is powerful.
+
+It is also why credit quality is part of energy infrastructure now.
+
+A grid planner traditionally thinks in megawatts, reserve margins, and transmission contingencies. The data-center era adds a balance-sheet question: how durable is the entity promising to buy the output that justifies this asset?
+
+For a small industrial customer, that question can limit the size of any dedicated investment. For a hyperscaler with enormous cash flow and a strategic need for compute capacity, the answer can unlock projects that ordinary merchant forecasts would not support.
+
+The electricity contract becomes a financing instrument.
+
+That is the deeper institutional change.
+
+The data center is not only consuming a reactor’s output after somebody else decides to build it. Its promise can enter the causal chain before construction, before restart, before equipment orders, before staffing, and before regulators finish evaluating the project.
+
+Demand moves upstream into capital formation.
+
+Once that happens, the public question is no longer merely whether data centers use too much electricity.
+
+It is whether their balance sheets are being attached to the right physical assets.
+
+A good attachment leaves behind something the wider system can use even if the original computing forecast changes.
+
+A bad attachment creates a long-lived asset whose economics depend on one customer remaining exactly as hungry as promised.
+
+Nuclear is attractive partly because its public usefulness can survive the original deal. A reactor that keeps producing reliable low-carbon power is not rendered meaningless if one server campus changes owners or one generation of accelerators becomes more efficient. The asset still exists inside a regional grid.
+
+That durability is an advantage, not an exemption from scrutiny.
+
+A restart can still be uneconomic. An uprate can still fail its cost test. A new reactor can still arrive too late. A contract can still transfer risks in ways regulators reject. Preserving an electrical address can still cost more than it is worth.
+
+The point is not that nuclear wins.
+
+The point is that data-center demand has changed the contest.
+
+Assets once judged against a world of flat demand are being reconsidered in a world where a single customer can ask for the output of a power plant.
+
+The reactor next door is therefore more than a convenient source of clean megawatts.
+
+It is evidence that the map of the next digital economy may be drawn partly by decisions made for the last industrial one.
