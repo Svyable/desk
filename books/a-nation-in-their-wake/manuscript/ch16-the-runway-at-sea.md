@@ -297,5 +297,3 @@ That is why *Lexington* is more important than being first.
 First proves possibility.
 
 Scale teaches consequences.
-
-<!-- PUB-AUGMENT-2026-09-06 -->

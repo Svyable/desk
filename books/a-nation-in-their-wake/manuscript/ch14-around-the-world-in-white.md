@@ -287,5 +287,3 @@ The distinction is fragile.
 A force sent to reassure one government can alarm another. A deployment intended for foreign consumption can become domestic political theater. An exercise meant to prove readiness can expose maintenance problems. Presence is communication, but the sender does not control every interpretation.
 
 The Great White Fleet succeeded partly because it gave the United States evidence about itself.
-
-<!-- PUB-AUGMENT-2026-09-06 -->
