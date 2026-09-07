@@ -44,9 +44,17 @@ The chapter is now deepened with **714 net words** under the exact checker token
 
 Because this change is append-only against a chapter with no intervening manuscript edit, the exact prior literal count plus the exact additive delta yields a current Chapter 8 count of **3,053 words**, clearing this specific floor by 53 words.
 
+### Chapter 14 — closed
+
+Chapter 14, `manuscript/ch14-what-was-really-in-the-bottle.md`, was **2,339 words**, **661 words below** the floor on the same literal baseline.
+
+The chapter is now deepened with **684 net words** under the exact checker token expression, `\b[\w’'-]+\b`. The addition stays inside the existing 1906 food-and-drug-regulation argument, developing anticipatory compliance, organizational legibility, the compounding relationship between rules and administrative capacity, the allocation of verification costs, and the way public responsibility changes the meaning of regulatory failure. It introduces no new quotation, dated statistic, named source, or volatile current factual claim.
+
+Because this change is append-only against a chapter with no intervening manuscript edit, the exact prior literal count plus the exact additive delta yields a current Chapter 14 count of **3,023 words**, clearing this specific floor by 23 words.
+
 ## Release effect
 
-These passes close **five** of the 21 sub-3,000-word chapter defects recorded by the September 6 literal checker. **Sixteen numbered chapters remain below 3,000 words on that literal baseline** and require substantive deepening rather than padding.
+These passes close **six** of the 21 sub-3,000-word chapter defects recorded by the September 6 literal checker. **Fifteen numbered chapters remain below 3,000 words on that literal baseline** and require substantive deepening rather than padding.
 
 The chapter-only corpus was already **68,901 words**, above the 65,000-word book minimum, before these passes. The controlling mechanical debt is therefore the remaining per-chapter floors.
 
