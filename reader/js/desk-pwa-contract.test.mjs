@@ -25,7 +25,7 @@ for (const helper of [
   assert.match(worker, new RegExp(`shelf/reader/js/${helper.replaceAll('.', '\\.')}`));
 }
 
-assert.match(worker, /const CACHE = 'svyable-desk-reader-v22';/);
+assert.match(worker, /const CACHE = 'svyable-desk-reader-v23';/);
 assert.match(worker, /const CACHE_PREFIX = 'svyable-desk-reader-';/);
 assert.match(worker, /key\.startsWith\(CACHE_PREFIX\) && key !== CACHE/);
 assert.match(worker, /const CORE_SHELL = LOCAL_SHELL;/);
@@ -115,9 +115,10 @@ assert.match(loader, /DESK_CATALOG_AUDIT/);
 assert.match(loader, /catalogEntryVisible/);
 assert.match(loader, /skipDeskCatalogCoverProbe/);
 assert.ok(loader.includes('const coverProbe = `meta.cover = await firstExisting('));
+assert.ok(loader.includes('books/\\${slug}/media/\\${name}'));
 assert.match(loader, /meta\.cover = null/);
 assert.match(loader, /rewriteSharedModuleSpecifiers\(skipDeskCatalogCoverProbe\(source\), upstream\)/);
-assert.match(loader, /app\.js\?v=desk-20260907-fast-catalog-1/);
+assert.match(loader, /app\.js\?v=desk-20260907-fast-catalog-2/);
 assert.match(loader, /viewport-stability-runtime\.js\?v=r1/);
 assert.match(loader, /Viewport stability could not be loaded/);
 assert.match(loader, /const appAcquisition = fetchBootstrapResource\(appUrl\)\.then/);
