@@ -158,6 +158,14 @@ The important part is preserving the dispute.
 
 A system in which broad access is the default stops asking the question.
 
+It should also be possible to answer a more operational question: how quickly can that authority shrink when trust changes?
+
+A disabled credential is not the same thing as contracted authority. Descendant credentials may still be valid. Jobs may already be queued. Sessions may remain open. External systems may have accepted instructions that are now obligations rather than permissions. A copied token, a delegated service account, or an automated counterparty can keep part of the old mandate alive after the operator believes it has been revoked.
+
+The relevant test is therefore timed. After a stop decision, how long until no new high-consequence action can be authorized through the old chain? What commitments remain executable? Which descendants are still live? Can the operators find them without asking the distrusted system to describe its own reach?
+
+A revocation control that works in an interface but takes six hours to contract effective authority in a system whose consequential decisions settle in six minutes is not much of a control.
+
 The third property is authority provenance.
 
 When one agent calls another, the second actor needs more than a task description.
@@ -312,6 +320,10 @@ The relevant diversity depends on the failure being defended against.
 
 A second copy of the same thing is redundancy against hardware failure and weak protection against a shared conceptual error.
 
+That qualification belongs on every fallback claim. Independence is not a moral property and it is not created by buying two products. A backup is independent only with respect to the failure it is meant to survive. Two models on different accounts may still share a cloud control plane. Two clouds may still depend on one identity provider. A manual procedure may still require records exposed only through the automated system.
+
+Total independence from every shared dependency is usually impossible and often wasteful. The practical question is narrower: if this is the thing we fear losing or distrusting, does the recovery path still work?
+
 The sixth property is degraded operation.
 
 This may be the least glamorous and most important.
@@ -369,6 +381,10 @@ They are also governance questions because somebody has to decide whose service 
 A degraded mode makes those choices explicit before the emergency.
 
 Without one, the choices are made by failure.
+
+The useful unit here is a service envelope, not a fantasy duplicate of the pre-automation organization. A bank might preserve custody, essential settlement, fraud response, and urgent customer access while allowing ordinary requests to queue. A public agency might protect statutory deadlines and emergency services while accepting slower routine throughput. A software company might keep authentication, data integrity, billing, and customer communication alive while advanced features remain dark.
+
+The envelope should have limits that can be rehearsed: sustainable throughput, queue growth, staffing requirements, the first external dependency likely to fail, the maximum safe duration, and the state that must be retained for restoration. Degraded operation is not success. It is purchased time in which accountable people can make a better next decision.
 
 The seventh property is retained human skill.
 
@@ -687,6 +703,10 @@ Show me the time it took.
 Show me what failed.
 
 A safety claim tied to an observed recovery is stronger than a policy saying humans remain in control.
+
+The evidence should stay untidy enough to be real. A board does not need a synthetic re-entry score that pretends a hospital, a payment network, and a software company share one meaningful number. It can ask for a small bundle instead: the last exercised degraded-mode duration, measured authority-contraction time, how much consequential state can be reconstructed without the primary actor, which essential functions lack an independent recovery path, and how long restoration took from a known checkpoint.
+
+Those measures do not collapse into a universal threshold. They expose different kinds of dependence so that somebody accountable has to look at them.
 
 The most important cultural change may be recognizing fallback as capability rather than inefficiency.
 
