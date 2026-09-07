@@ -1,249 +1,690 @@
 # India and the Refusal to Be Recruited
 
-India is often described as a country moving toward the United States.
+India is the most important test of the argument that the world will not divide cleanly into two camps.
 
-That description is true enough to be useful and incomplete enough to be dangerous.
+Its strategic relationship with the United States has deepened across defense, technology, intelligence, exercises, and the Quad.
 
-The strategic relationship has deepened dramatically. Defense cooperation has expanded. The Quad gives India, the United States, Japan, and Australia a recurring forum for practical coordination. Technology and industrial initiatives have multiplied. Washington increasingly treats Indian power as important to the balance in Asia, while New Delhi sees value in American technology, capital, intelligence, defense equipment, and diplomatic support.
+Its rivalry with China is real and sharpened by the disputed Himalayan frontier.
 
-Yet India has resisted the conclusion that deeper cooperation should culminate in alliance.
+Yet India continues to resist the logic that closer cooperation with Washington should produce alliance-style obedience across other issues.
 
-That resistance is not a temporary residue of nonalignment waiting to be overcome. It is connected to a durable Indian preference: major decisions affecting Indian security should remain Indian decisions.
+That is not a contradiction inside Indian strategy.
 
-Strategic autonomy is not the absence of partnership. It is the refusal to let partnership become command.
+It is the strategy.
 
-## The memory behind the doctrine
+The clearest name for the strategy is not neutrality.
 
-India's foreign-policy vocabulary cannot be separated from the history of colonial rule and the politics of independence.
+It is non-subordination.
 
-A state born from the end of empire was unlikely to treat hierarchy as a neutral feature of international order. Nonalignment emerged in a particular Cold War context, but beneath it sat a broader instinct: India should not become an appendage of another great power's strategy.
+Neutrality implies distance from competing sides.
 
-That instinct survived the Cold War because the underlying concern survived.
+India does not maintain equal distance.
 
-The country is too large, too ambitious, too historically conscious of sovereignty, and too internally plural to fit comfortably inside a foreign policy written elsewhere.
+Its relationships are asymmetric because its interests are asymmetric.
 
-This does not mean Indian policy is uniquely principled or uniquely consistent. No major state's foreign policy is. It means that autonomy itself carries political value independent of the immediate transaction.
+China presents security concerns that other major partners do not.
 
-A deal can be materially attractive and still provoke resistance if it appears to narrow future freedom of action.
+The United States can provide capabilities, technology, markets, diplomatic cooperation, and strategic depth that matter to Indian power.
 
-This is why outsiders repeatedly mistake the direction of travel for the destination.
+Russia retains relationships and legacy connections that cannot be described as interchangeable with either Washington or Beijing.
 
-India can move closer to the United States without intending to arrive at alliance.
+BRICS, the Shanghai Cooperation Organisation, the Quad, bilateral defense relationships, trade ties, and Global South diplomacy occupy different functions.
 
-## China changes the equation
+The point is not to balance every relationship to the same weight.
 
-The strongest force pushing India toward closer security cooperation with the United States is not American persuasion.
+The point is to prevent one relationship from owning the rest.
 
-It is China.
+That is non-subordination.
 
-The two Asian giants share a long disputed frontier and a relationship marked by war, military standoffs, competition for regional influence, and profound asymmetry in economic and industrial power. The deadly 2020 clash in the Galwan Valley hardened Indian views and accelerated efforts to reduce vulnerabilities.
+Strategic autonomy has changed vocabulary across Indian governments, but the underlying objective remains recognizable: preserve freedom of action in a system where no outside power can be trusted to define India’s interests permanently.
 
-China presents India with a problem that nonalignment alone cannot solve.
+This is sometimes misunderstood as indecision.
 
-New Delhi needs capability.
+It is better understood as portfolio design.
 
-It needs surveillance, maritime awareness, resilient communications, advanced weapons, industrial depth, technology, intelligence, and partners capable of complicating Chinese planning. The United States and its allies can provide many of those things.
+A portfolio does not require every asset to be equal.
 
-This makes cooperation structurally attractive even when political cultures differ.
+It requires the investor to avoid dependence on one asset so complete that every future decision is predetermined.
 
-The key is that India wants the capability without accepting an automatic obligation to support every element of American strategy.
+India’s foreign relationships perform different strategic functions.
 
-That distinction explains much of the relationship.
+Security cooperation can hedge against China.
 
-## The Quad without an Asian NATO
+Legacy defense ties can preserve existing military capacity.
 
-The Quad illustrates India's preferred form of cooperation.
+Technology relationships can support industrial development.
 
-It is meaningful but flexible. Its members can coordinate on maritime security, technology, infrastructure, disaster response, health, and regional rules without creating a mutual-defense treaty.
+Energy purchases can serve economic needs.
 
-For critics, this can look insufficiently institutionalized.
+Participation in non-Western institutions can preserve diplomatic access and political legitimacy with states that do not want a U.S.-led order to be their only frame.
 
-For India, that may be part of the point.
+Global South diplomacy can increase India’s bargaining position by making it useful to coalitions that extend beyond formal allies.
 
-A looser structure lowers the sovereignty cost of participation. It allows practical cooperation to deepen without requiring New Delhi to precommit its response to a future contingency.
+The portfolio becomes coherent when the organizing principle is autonomy rather than symmetry.
 
-The arrangement therefore gains strength from what it does not demand.
+This helps explain why behavior that appears inconsistent from Washington may appear internally consistent from New Delhi.
 
-This is a recurring principle of middle-power courtship: a coalition can sometimes attract more consequential participation by asking for less formal allegiance.
+A U.S. policymaker can look at expanding defense cooperation and infer convergence.
 
-The American instinct is often to make successful cooperation more durable through institutions. The Indian instinct is often to preserve successful cooperation by preventing institutions from becoming too constraining.
+An Indian policymaker can look at the same cooperation and infer added capability.
 
-Neither instinct is irrational.
+Those are different concepts.
 
-They simply optimize different risks.
+Convergence asks whether two states increasingly see the world the same way.
 
-Washington worries that a partnership without binding commitments may disappear when it matters most. New Delhi worries that a partnership with binding commitments may determine in advance what 'matters most.'
+Capability asks whether cooperation gives one state more room to pursue its own strategy.
 
-## Russia and the inheritance problem
+India can want the second without promising the first.
 
-India's relationship with Russia is frequently treated as a test of whether New Delhi has truly moved toward the West.
+That distinction is central.
 
-That framing misses the structure of the dependency.
+Partnership is an input to autonomy.
 
-For decades, the Soviet Union and later Russia were central suppliers to the Indian military. Weapons relationships persist because platforms persist. Aircraft, ships, missiles, armored vehicles, maintenance systems, training pipelines, spare parts, and doctrine cannot be replaced like consumer goods.
+It is not necessarily the endpoint.
 
-India has diversified its defense procurement and expanded domestic production, but inherited systems create long tails.
+This is why the phrase “will India choose?” often asks the wrong question.
 
-Then there is energy.
+India chooses constantly.
 
-Discounted Russian crude after the invasion of Ukraine created an economic opportunity for a large energy importer. India increased purchases while Western governments sought to pressure Moscow without removing so much oil from global markets that prices exploded.
+It chooses issue by issue.
 
-From Washington or European capitals, the purchases could appear to weaken sanctions pressure.
+The more useful question is which choices it is willing to make reliably and which domains it will resist allowing those choices to determine.
 
-From New Delhi, the question was framed around national interest, energy affordability, and the refusal to let others dictate where India could buy commodities.
+A state can be a dependable partner on maritime awareness and an independent actor on sanctions.
 
-The episode demonstrated both the reach and limits of Western leverage.
+It can cooperate on technology while resisting political alignment elsewhere.
 
-India was important enough that coercing it carried costs.
+It can join one coalition and decline another.
 
-That importance created room.
+It can share intelligence on a particular threat while maintaining diplomatic relationships the partner dislikes.
 
-## The economic contradiction with China
+The pattern can frustrate governments that expect strategic intimacy to produce policy discipline.
 
-Security competition with China has not erased economic dependence on China.
+The pattern is also what makes India a model for selective alignment.
 
-This is one of the clearest examples of issue-based alignment.
+The strategy is easier because of scale.
 
-India has restricted Chinese participation in sensitive sectors, scrutinized investment, promoted domestic manufacturing, and pursued supply-chain diversification. Yet Chinese firms and inputs remain deeply embedded in important parts of the Indian economy.
+India’s market, population, military capability, geography, diplomatic weight, technology ambitions, and regional importance make disengagement costly for partners.
 
-The contradiction is not unusual.
+This creates a tolerance premium.
 
-The United States itself spent years intensifying strategic competition with China while remaining commercially intertwined. India's challenge is sharper in some respects because its industrial base is smaller relative to China's and its development needs are immense.
+A smaller state can be punished more easily for deviation because the relationship may be dispensable to the larger partner.
 
-Decoupling would impose costs India may not want to bear.
+India is harder to treat as dispensable.
 
-Dependence, however, imposes strategic risks India increasingly does not want to bear either.
+That does not make it immune to pressure.
 
-The likely policy is therefore neither embrace nor separation.
+It changes the bargaining threshold.
 
-It is selective de-risking.
+A partner must ask whether disagreement on one issue is worth sacrificing cooperation across several others.
 
-Critical dependencies become political. Ordinary commerce remains more permissive. The boundary shifts as technology changes.
+That creates room for compartmentalization.
 
-This creates a permanent negotiation inside the Indian state over what counts as critical.
+Compartmentalization is one of the key mechanisms in Indian autonomy.
 
-## The Gulf connection
+The relationship is divided into domains so that friction in one does not automatically consume the whole.
 
-India's autonomy strategy is not only about balancing Washington, Beijing, and Moscow.
+Defense.
 
-The Gulf has become increasingly central.
+Technology.
 
-Energy, trade, investment, logistics, diaspora ties, food security, technology, and regional diplomacy connect India deeply to the United Arab Emirates, Saudi Arabia, and other Gulf states. Millions of Indians have lived and worked across the region, creating dense human and financial relationships.
+Trade.
 
-These ties matter because they diversify India's western horizon.
+Energy.
 
-The Gulf is not simply an energy supplier. It is becoming a source of capital, infrastructure partnerships, technology ambition, and connectivity between South Asia, the Middle East, Europe, and Africa.
+Diplomacy.
 
-India benefits from a region that is itself becoming more strategically autonomous.
+Multilateral institutions.
 
-The relationship is therefore between two forms of diversification.
+Regional security.
 
-New Delhi wants more routes, more investors, more suppliers, and more diplomatic channels. Gulf capitals want more customers, more technology partners, more investment destinations, and less dependence on a single external security or economic relationship.
+A disagreement can remain bounded if both sides believe the wider relationship is valuable enough to protect.
 
-Their strategies fit.
+This requires discipline from both sides.
 
-## Manufacturing as sovereignty
+India has to keep some commitments credible.
 
-India's push for domestic manufacturing is usually discussed as development policy.
+Its partners have to tolerate some disagreements as normal rather than interpret every divergence as betrayal.
 
-It is also foreign policy.
+The relationship works when the boundary is clear enough that cooperation feels reliable without becoming exclusive.
 
-A country dependent on imported electronics, weapons, energy equipment, telecommunications systems, and industrial machinery has fewer options under pressure. Domestic production does not eliminate dependence, because modern manufacturing itself relies on foreign capital, components, intellectual property, machinery, and markets.
+This is not automatic.
 
-But local capacity changes the bargaining position.
+Compartmentalization has switching costs.
 
-This is why technology partnerships increasingly come with a localization question.
+Defense relationships are the clearest example.
 
-Will the product merely be sold in India, or built there? Will Indian firms participate in the supply chain? Will engineers gain know-how? Will maintenance occur domestically? Will intellectual property remain entirely abroad? Will the arrangement create a capability that survives if the political relationship deteriorates?
+A weapon system is not one purchase.
 
-The Indian preference for co-production and technology transfer is not just industrial ambition.
+It is training, maintenance, munitions, software, spare parts, doctrine, logistics, upgrades, and decades of institutional familiarity.
 
-It is an attempt to turn foreign partnership into future autonomy.
+A state cannot diversify away from a legacy supplier simply because strategic preferences have changed.
 
-Suppliers understand this, which creates tension. The most valuable technologies are precisely the ones countries are least willing to transfer.
+The installed base has weight.
 
-The bargain therefore sits at the boundary between access and control.
+Changing suppliers can produce a period in which the country operates several systems with different support chains and interoperability constraints.
 
-## The demographic and digital wager
+That can increase autonomy politically while reducing efficiency operationally.
 
-India's scale gives it another source of leverage: the possibility that a large share of future global demand, talent, and digital activity will occur there.
+This is the price of transition.
 
-Its digital public infrastructure has drawn international attention because it suggests a model in which identity, payments, and public digital rails can support private innovation at population scale.
+Technology creates similar path dependence.
 
-This creates diplomatic capital.
+Semiconductors, cloud services, telecom networks, AI systems, cybersecurity tools, industrial software, and data infrastructure all create switching costs after adoption.
 
-India can present itself not merely as a recipient of technology but as a producer of institutional models relevant to other developing countries.
+A policy of strategic autonomy cannot be evaluated only by how many vendors are present.
 
-That matters in the competition for the Global South, where legitimacy often depends on whether an offer appears adaptable to countries with different income levels and administrative capacities.
+The deeper question is whether the state can switch, substitute, localize, or operate through disruption.
 
-The ability to export a model, standard, or public good can generate influence that is different from military power.
+One provider from each camp can still produce several independent dependencies.
 
-India's aspiration is to become a rule-shaper rather than simply a rule-taker.
+Diversity is not autonomy if none of the dependencies can be escaped.
 
-That ambition is inseparable from strategic autonomy.
+India’s technology strategy therefore matters not only because of which countries it works with.
 
-## The limits of autonomy
+It matters because of what domestic capacity the relationships create.
 
-India's room for maneuver is substantial, not unlimited.
+A partnership that transfers skill, production, research capability, infrastructure, or market access can enlarge future choice.
 
-China is much larger economically. India's development requirements are enormous. Its defense modernization remains partly dependent on foreign suppliers. Energy imports expose it to external shocks. Domestic political and administrative constraints can slow execution. A severe regional crisis could force choices that ordinary diplomacy postpones.
+A partnership that merely replaces one external dependency with another may not.
 
-The hardest test would be a conflict involving China and the United States in which Indian territory was not directly attacked.
+The autonomy test is dynamic.
 
-What access would India provide? What intelligence would it share? Would it support sanctions? Would it permit logistics? Would it try to remain outside the conflict while benefiting from partners whose forces were engaged?
+Does cooperation make India more capable of acting independently later?
 
-No peacetime communiqué can fully answer those questions.
+This is why industrial policy and foreign policy increasingly overlap.
 
-That uncertainty is not accidental.
+Local manufacturing can be strategic even when it is less efficient in the short run.
 
-It is the remaining space of Indian decision.
+Domestic digital infrastructure can create bargaining room even when foreign systems are technically superior.
 
-## Why Washington keeps courting India
+Co-development can matter because it changes who controls maintenance and adaptation.
 
-If India will not become an ally, why invest so much in the partnership?
+Talent pipelines matter because expertise is a form of switching capacity.
 
-Because alliance is not the only strategic outcome that matters.
+The point is not self-sufficiency.
 
-A stronger India can constrain Chinese power even without accepting American command. Indian maritime capability can complicate the regional balance. Indian manufacturing can diversify supply chains. Indian participation can broaden diplomatic coalitions. Indian technology and talent can strengthen shared ecosystems. Indian refusal to align with China can matter even when India simultaneously refuses to align fully with the United States.
+India is too integrated into the global economy for meaningful autarky to be attractive.
 
-This is the arithmetic of partial alignment.
+The point is to avoid dependence so concentrated that political disagreement becomes operational paralysis.
 
-The partnership can be strategically valuable without being complete.
+That is the same autonomy principle visible elsewhere in this book.
 
-The challenge for Washington is psychological as much as institutional: it must distinguish disagreement from defection in a relationship that was never an alliance.
+Optionality is useful only when it can be exercised.
 
-The challenge for New Delhi is reciprocal. Strategic autonomy cannot mean expecting partners to provide their most valuable capabilities without asking what those partners receive in return.
+The relationship with China sharpens the logic because the portfolio is not built in a vacuum.
 
-Durable partnership requires a zone of overlapping interest large enough to survive the disagreements outside it.
+Security concerns create asymmetry.
 
-## The refusal as an offer
+Strategic autonomy is not an attempt to stand at equal distance between Washington and Beijing.
 
-India's refusal to be recruited is often interpreted as what it will not do.
+It is an attempt to avoid solving one dependency by entering another form of subordination.
 
-It is more useful to see what the refusal allows India to offer.
+This is an important correction to the two-bloc map.
 
-It can speak with Russia when Western capitals cannot. It can participate in the Quad without turning it into a formal alliance. It can engage the Gulf, Europe, Africa, Southeast Asia, and the Global South without presenting every relationship as an extension of American competition with China. It can cooperate with Washington from a position that retains some credibility among governments suspicious of Western hierarchy.
+A state can become more aligned against one threat without becoming fully aligned across the international system.
 
-Autonomy can therefore create connector value.
+Threat perception narrows some choices.
 
-The same distance that frustrates a great power can make the middle power useful.
+It does not automatically determine every choice.
 
-This is the paradox at the center of India's strategy.
+The stronger the threat, the more cooperation with useful partners may deepen.
 
-Washington wants India partly because India is independent enough to matter.
+The stronger the autonomy tradition, the more India will still seek to preserve decision ownership around that cooperation.
 
-If New Delhi surrendered that independence completely, it would become a more predictable partner and, in some contexts, a less distinctive one.
+This produces a relationship that can become strategically close and politically non-allied at the same time.
 
-India's leverage lies in the combination: large enough to affect the balance, threatened enough to seek partners, capable enough to contribute, and autonomous enough that its cooperation cannot simply be assumed.
+Those categories are not mutually exclusive.
 
-That is why every major relationship with India contains a negotiation inside the negotiation.
+They look mutually exclusive only if alliance is treated as the natural final stage of partnership.
 
-The immediate question may concern a jet engine, a semiconductor plant, a trade rule, an oil purchase, a summit statement, or a naval exercise.
+India challenges that assumption.
 
-The deeper question is always the same.
+The Quad is illustrative at the level of mechanism.
 
-How much cooperation can India obtain without giving away the right to decide what comes next?
+A minilateral arrangement can coordinate around shared interests without requiring one unified foreign policy across every issue.
 
-So far, its answer has been remarkably consistent.
+That structure fits a state that values practical cooperation and resists hierarchy.
 
-A great deal.
+The broader lesson is institutional.
+
+Middle powers and major non-aligned states may prefer networks that are modular enough to let them contribute without signing a package deal.
+
+Maritime security can be one module.
+
+Technology standards another.
+
+Disaster response another.
+
+Supply-chain resilience another.
+
+The coalition becomes stronger in the areas of overlap without demanding agreement where overlap does not exist.
+
+This can look less tidy than a formal bloc.
+
+It may be more politically durable.
+
+India’s participation in institutions outside the Western alliance system follows the same logic.
+
+Membership or participation does not necessarily indicate one master alignment.
+
+It can preserve access.
+
+Create negotiating space.
+
+Build legitimacy with other developing states.
+
+Prevent rival forums from becoming places where India is absent while others write the rules.
+
+Maintain communication with states whose policies India does not share.
+
+Diversify diplomatic channels.
+
+The institution has to be interpreted by function.
+
+A bloc map tends to interpret membership as identity.
+
+Selective alignment interprets membership as one instrument among several.
+
+That does not mean institutional commitments are meaningless.
+
+It means their meaning is not identical across institutions.
+
+A security dialogue, a development bank, a trade group, and a military alliance do different things.
+
+The mistake is assuming that participation in one reveals the state’s complete geopolitical destination.
+
+This is why the language of recruitment is useful.
+
+Great powers often treat cooperation as evidence that the partner should be moving toward a finished map.
+
+The map already exists.
+
+The partner’s task is to decide which side to occupy.
+
+India’s behavior implies a different theory.
+
+The map itself is negotiable.
+
+Institutions can overlap.
+
+Partnerships can be partial.
+
+Different networks can govern different domains.
+
+India is not simply locating itself on somebody else’s map.
+
+It wants enough power to help draw the map.
+
+Status therefore matters.
+
+Strategic autonomy is not only a technical strategy for diversifying dependencies.
+
+It is a political claim about India’s place in the system.
+
+A state of India’s scale does not want to be treated as an auxiliary to another power’s strategy.
+
+That expectation affects diplomacy.
+
+Consultation matters.
+
+Language matters.
+
+Public pressure matters.
+
+A request that appears reasonable as policy can become unacceptable if it is framed as proof of loyalty.
+
+The same dynamic appeared elsewhere in this book with other middle powers.
+
+Public coercion turns an issue into a sovereignty test.
+
+India’s domestic political tradition makes that especially costly.
+
+A government has to be able to explain cooperation as Indian choice rather than foreign instruction.
+
+This does not make cooperation impossible.
+
+It shapes how cooperation should be built.
+
+A partner that wants India to do more should ask what arrangement allows India to own the action politically.
+
+That may require private consultation instead of public demand.
+
+Sequencing instead of ultimatum.
+
+Technology access that creates Indian capacity instead of permanent dependency.
+
+Joint production instead of pure import.
+
+Coalitions organized around a shared objective instead of a demand for broader ideological conformity.
+
+The strategy is not indulgence.
+
+It is recognition that durable cooperation depends on domestic legitimacy.
+
+The same is true in reverse.
+
+India cannot demand unlimited flexibility while expecting partners to treat every Indian commitment as fully reliable.
+
+Sensitive technology sharing creates real security concerns.
+
+Intelligence relationships require trust.
+
+Defense interoperability can be constrained by equipment and systems from other suppliers.
+
+Sanctions regimes can create financial and legal exposure.
+
+Partners will set boundaries.
+
+Strategic autonomy works only if India can maintain credibility inside the compartments it chooses.
+
+A country that treats every commitment as provisional eventually loses the tolerance premium.
+
+Partners stop paying the cost of compartmentalization if the cooperation inside each compartment does not deliver.
+
+This is the discipline on the Indian side.
+
+Non-subordination is not non-commitment.
+
+It is selective commitment with retained sovereignty outside the selected domain.
+
+The strategy therefore has a falsification condition.
+
+It fails if the alternatives become too expensive to use.
+
+It fails if diversification produces so much technical fragmentation that the state loses operational capability.
+
+It fails if one partner becomes indispensable across enough domains that disagreement elsewhere becomes impossible.
+
+It fails if domestic capacity does not grow and the portfolio remains a collection of foreign dependencies.
+
+It fails if partners no longer believe Indian commitments are reliable enough to justify sharing valuable capabilities.
+
+It fails in crisis if the domains collapse into one another so quickly that years of selective alignment provide no meaningful room for choice.
+
+This matters because strategic autonomy can become rhetorical.
+
+A government can preserve the language of independence while the infrastructure underneath becomes concentrated.
+
+The relevant measure is not the speech.
+
+It is the switching cost.
+
+Can energy be sourced elsewhere?
+
+Can weapons be maintained?
+
+Can payment channels function?
+
+Can technology systems continue operating?
+
+Can diplomatic coalitions survive disagreement?
+
+Can the government say no without creating immediate national paralysis?
+
+That is autonomy in operational form.
+
+Crisis is the hardest test.
+
+Selective alignment works best when domains remain separable.
+
+A severe regional confrontation can couple them.
+
+Military cooperation triggers technology controls.
+
+Technology controls affect industry.
+
+Sanctions affect finance.
+
+Finance affects trade.
+
+Access decisions affect diplomacy.
+
+Domestic political pressure reduces the space for ambiguity.
+
+The portfolio begins to collapse toward a smaller number of choices.
+
+India may then have to choose more clearly than it prefers.
+
+That does not prove the prior strategy was false.
+
+The question is how much room the portfolio created before the coupling became unavoidable.
+
+Did it give India more time?
+
+More bargaining leverage?
+
+More substitute suppliers?
+
+More diplomatic channels?
+
+More domestic capability?
+
+More ability to sequence decisions instead of accepting a package imposed from outside?
+
+That is the crisis-of-choice standard applied to India.
+
+The point of autonomy is not to guarantee that no hard choice ever arrives.
+
+It is to improve the terms on which the hard choice is made.
+
+This also changes how Washington, Beijing, Moscow, and other capitals should interpret Indian behavior.
+
+The wrong question is whether one decision proves India has finally entered a camp.
+
+A defense agreement does not settle every future vote.
+
+A disagreement with Washington does not erase strategic concern about China.
+
+Participation in BRICS does not automatically define India’s security alignment.
+
+A legacy Russian relationship does not necessarily reveal India’s preferred long-term technology architecture.
+
+Each choice should be read in its domain and then connected carefully to the larger portfolio.
+
+The portfolio has direction.
+
+It is not random.
+
+But the direction is toward greater Indian agency, not necessarily toward a finished external bloc.
+
+This can be frustrating for a great power that wants predictability.
+
+The better response is to compete over which relationships increase Indian agency most effectively.
+
+Which partnership provides capability without excessive political control?
+
+Which technology arrangement creates local capacity?
+
+Which security relationship is credible under pressure?
+
+Which market remains open?
+
+Which partner tolerates bounded disagreement?
+
+Which institution gives India a meaningful role in rulemaking?
+
+These are the terms on which influence becomes durable.
+
+A relationship that asks India to subordinate itself may gain one decision and lose long-term attractiveness.
+
+A relationship that makes India stronger while respecting decision ownership can become harder to replace.
+
+This is the negotiated-order logic at national scale.
+
+Power is not only the ability to force alignment.
+
+It is the ability to make cooperation compatible with the partner’s sense of sovereignty.
+
+India’s strategy also has implications for other states.
+
+Few possess India’s scale.
+
+They cannot copy the portfolio directly.
+
+The mechanism can still travel.
+
+Identify which domains are most vulnerable to concentrated dependence.
+
+Build alternatives where switching costs are politically dangerous.
+
+Use different institutions for different functions.
+
+Avoid allowing one partnership to determine every domain unless the security bargain genuinely requires it.
+
+Invest in domestic capabilities that turn foreign cooperation into future option value.
+
+Preserve enough credibility that partners continue to share valuable things.
+
+The smaller the state, the more difficult this becomes.
+
+The logic remains.
+
+Selective alignment is not a refusal to choose.
+
+It is an attempt to keep choices divisible.
+
+India is the strongest case because it has enough scale to make divisibility visible.
+
+That visibility is why outsiders repeatedly ask when India will stop hedging and choose a side.
+
+The question assumes the answer is overdue.
+
+Indian strategy suggests the opposite.
+
+The ability to avoid unnecessary package deals is itself an asset worth preserving.
+
+That asset may shrink under severe crisis.
+
+It may become more expensive as technology systems harden into competing ecosystems.
+
+It may require greater domestic investment to remain credible.
+
+It may force painful tradeoffs between efficiency and redundancy.
+
+But as long as the alternatives remain real enough to use, the portfolio produces leverage.
+
+That is the standard.
+
+Not perfect independence.
+
+Not equal distance.
+
+Not permanent ambiguity.
+
+Meaningful freedom of action across enough domains that no outside partner can turn one important relationship into a general veto over Indian policy.
+
+India does not refuse partnership.
+
+It refuses recruitment into somebody else’s finished map.
+
+Because the deeper ambition is not to remain between maps.
+
+It is to become powerful enough to help draw them.
+
+
+## Scale changes the bargaining table
+
+India’s refusal to be recruited would matter less if the country lacked mass.
+
+Population, market size, industrial capacity, a large diaspora, a growing technology sector, and a geography that sits astride Indian Ocean routes give Indian choices consequences beyond South Asia.
+
+That scale does not produce automatic autonomy.
+
+It produces attention.
+
+Attention becomes leverage only when the government can convert it into alternative suppliers, better terms, and domestic capacity.
+
+India has done this unevenly.
+
+In some domains—energy procurement, diplomatic venue selection, and selective defense partnerships—the portfolio is real.
+
+In others—advanced semiconductors, certain dual-use technologies, and parts of the high-end defense stack—the alternatives remain thinner than official language suggests.
+
+The honest measure is not whether Indian officials speak the vocabulary of strategic autonomy.
+
+It is whether the state can still change course when a partner hardens a condition.
+
+Scale helps because partners want access to Indian demand.
+
+Scale does not eliminate the need for redundancy, industrial policy, and the patience to absorb higher short-term costs.
+
+## The recruitment pressure never disappears
+
+Every major power that courts India eventually tests whether courting can become capture.
+
+The test rarely arrives as an explicit demand to join a bloc.
+
+It arrives as an invitation to make one more practical decision that would make the next refusal more expensive.
+
+Share more intelligence.
+
+Standardize more equipment.
+
+Align a vote.
+
+Join a statement.
+
+Accept a technology stack that assumes future exclusivity.
+
+Host a facility that creates political expectations.
+
+Each step can be justified on its own terms.
+
+Together they create a path.
+
+Indian strategy has often been to take enough of the step to gain capability while leaving enough unfinished to preserve reversal.
+
+That approach frustrates partners who want clarity.
+
+It is coherent if the goal is to remain recruitable by nobody and useful to many.
+
+The risk is that unfinished business becomes underinvestment.
+
+A portfolio that is always half-built can look like autonomy while actually being delay.
+
+India’s challenge over the next decade is to turn refusal into capacity: not merely the ability to say no, but the ability to say no without losing the systems that make no meaningful.
+
+
+## Living with asymmetric friendships
+
+India’s partnerships are rarely symmetrical.
+
+One partner may matter more for advanced platforms, another for energy volume, another for diplomatic cover in particular forums, another for capital or technology niches.
+
+Asymmetry is normal.
+
+The problem arises when asymmetry is denied.
+
+If officials speak as if every relationship is equally optional, they underprepare for the domains where substitution remains weak.
+
+Strategic autonomy then becomes a mood rather than a balance sheet.
+
+A more durable approach accepts hierarchy inside the portfolio without accepting monopoly.
+
+Deepen the relationships that provide irreplaceable capability.
+
+Keep enough alternatives alive that deepening does not become capture.
+
+Review the hierarchy as technology and markets change.
+
+Refusal to be recruited does not require pretending all suitors are interchangeable.
+
+It requires refusing to let the most important suitor rewrite the rest of the map.
+
+
+## Bureaucracy as strategy
+
+Indian multi-alignment often looks like institutional habit rather than grand design.
+
+Different ministries maintain different external relationships, and coordination arrives late.
+
+That messiness has costs.
+
+It also makes total capture harder.
+
+A partner that wins over one ministry may still face another with a conflicting mandate.
+
+Autonomy can live in procedural friction as well as in doctrine.
+
+The challenge is to keep friction from becoming paralysis when a genuine crisis requires synchronized choice.
