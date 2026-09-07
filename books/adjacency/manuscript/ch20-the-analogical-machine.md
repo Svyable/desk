@@ -184,9 +184,7 @@ The system expands the analogical neighborhood instead of letting one famous pre
 
 This is a powerful use of diversity-aware retrieval.
 
-The point is not to generate balance for its own sake.
-
-It is to preserve causal uncertainty.
+The point is to preserve causal uncertainty, not to generate balance for its own sake.
 
 The present rarely belongs to one historical template.
 
@@ -296,9 +294,7 @@ The vector system makes the candidate stage scalable across all of them.
 
 The risk is that analogical abundance can become another form of generated noise.
 
-If a model can retrieve or invent thousands of plausible comparisons, the user needs criteria for value. The most useful analogy is not the one with the highest semantic similarity.
-
-It is the one that changes the problem in a productive and testable way.
+If a model can retrieve or invent thousands of plausible comparisons, the user needs criteria for value. The most useful analogy is the one that changes the problem in a productive and testable way.
 
 This is another place where cheap intelligence moves scarcity downstream.
 
@@ -438,14 +434,6 @@ An analogy generated from a model's latent knowledge can be a useful probe, but 
 
 External evidence gives analogy resistance.
 
-Without resistance, generative fluency can make almost anything sound structurally similar to anything else.
+Without resistance, generative fluency can make almost anything sound structurally similar to anything else. That is verbal elasticity.
 
-That is not discovery.
-
-It is verbal elasticity.
-
-The analogical machine becomes valuable when it helps a person move farther through the space of possible explanations while making it harder to confuse a clever bridge with a proven road.
-
-The best analogy does not tell you what to believe.
-
-It tells you what to inspect next, and where the comparison is most likely to break.
+The analogical machine becomes valuable when it helps a person move farther through the space of possible explanations while making it harder to confuse a clever bridge with a proven road. The best analogy tells you what to inspect next, and where the comparison is most likely to break.

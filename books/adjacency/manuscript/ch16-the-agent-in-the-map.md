@@ -10,9 +10,7 @@ It can search, choose, retrieve, compare, call a tool, inspect what happened, se
 
 This turns adjacency from a retrieval technique into part of a control system.
 
-The agent is not merely looking at the map.
-
-It is moving through it.
+The agent is moving through the map, not merely looking at it.
 
 Imagine a software agent asked to fix a bug in a repository large enough that no one person understands all of it anymore.
 
@@ -182,9 +180,7 @@ A legal agent can retrieve privileged material for an authorized lawyer without 
 
 The same intelligence can roam farther than it can act.
 
-This is not a concession to weak models.
-
-It is how institutions already separate exploration from commitment.
+That separation is how institutions already distinguish exploration from commitment.
 
 Draft and send are different buttons.
 
@@ -324,9 +320,7 @@ The candidate set was not the failure.
 
 A mature evaluation system should attribute error to the layer where it occurred.
 
-This is not only for blame.
-
-It determines what gets improved.
+It is also what determines what gets improved.
 
 Agent systems can otherwise fall into an expensive superstition: every failure becomes evidence that the foundation model needs to be larger.
 
@@ -444,9 +438,7 @@ One that looks structurally similar but comes from a different representation.
 
 One exact match that semantic retrieval would have ranked lower.
 
-The goal is not diversity theater.
-
-It is protection against semantic basins.
+The goal is protection against semantic basins, not diversity theater.
 
 A long-running agent can become relentlessly local. The nearest document shapes the first hypothesis. That hypothesis shapes the next query. The next query retrieves evidence from the same neighborhood. The agent becomes more confident because every new result agrees with the framing that selected it.
 
@@ -532,6 +524,4 @@ It should be able to learn from its own history without mistaking its own output
 
 And when it does change the world, we should be able to reconstruct the neighborhood that made the action look reasonable at the time.
 
-The vector space gives the agent reach.
-
-Judgment begins with deciding where that reach must stop.
+The vector space gives the agent reach; judgment begins with deciding where that reach must stop.

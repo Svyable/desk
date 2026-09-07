@@ -228,7 +228,7 @@ It can be the item that creates the best path.
 
 This turns recommendation into a trajectory problem.
 
-The system is not merely locating the user in a space. It is choosing a sequence through the space.
+The system chooses a sequence through the space, not merely a location for the user.
 
 That is where the metaphor becomes almost literal. A recommender is a guide.
 
@@ -236,9 +236,7 @@ A bad guide keeps taking you to branches of the same chain restaurant because yo
 
 A good guide understands enough of your taste to take you somewhere adjacent you would not have found alone.
 
-The difference is not just prediction accuracy.
-
-It is discovery quality.
+The difference is discovery quality, not just prediction accuracy.
 
 This matters beyond entertainment and shopping.
 
@@ -296,9 +294,7 @@ A platform can spend almost none of it and become highly exploitative. It can ke
 
 Or the platform can spend too much. Constant novelty becomes noise. A user who opens a service for reliable comfort may not want every session to feel like field research.
 
-The interesting question is not whether exploration is good.
-
-It is where uncertainty is worth purchasing.
+The interesting question is where uncertainty is worth purchasing.
 
 The answer differs by surface. A recommendation in a fast feed is cheap to test because rejection takes a swipe. A book recommendation asks for hours. A financial product recommendation can carry consequences that make casual experimentation inappropriate. An educational system may deliberately choose a concept slightly beyond the learner's demonstrated competence because challenge is part of the objective.
 
@@ -382,8 +378,4 @@ The next neighborhood changes.
 
 Recommendation is discovery because it is recursive in exactly this way. The system is not simply finding a hidden preference that already exists in full. It is participating in a sequence of encounters through which preferences become more articulated.
 
-The strongest recommenders will therefore need humility about what the past can prove.
-
-History tells you where the user has been.
-
-Discovery requires preserving routes to somewhere else.
+The strongest recommenders will therefore need humility about what the past can prove. History tells you where the user has been; discovery requires preserving routes to somewhere else.

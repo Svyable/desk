@@ -352,9 +352,7 @@ The system may also need a transition strategy. During re-embedding, some record
 
 One answer is parallel indexes. Build the new world beside the old one. Route some traffic to each. Compare. Migrate only when the new representation proves itself under realistic load and realistic queries.
 
-The expense is not waste.
-
-It is the cost of changing perception safely.
+The expense is the cost of changing perception safely.
 
 This principle becomes even more important when downstream systems learn thresholds from the old score distribution. A fraud workflow may flag cases above a similarity level. A deduplication system may merge records beneath a distance. A recommendation system may use vector scores as features for a later model.
 
@@ -424,8 +422,4 @@ Fine.
 
 Then test the application before moving the world.
 
-This is what mature cartography looks like in a learned space.
-
-Not pretending the map is permanent.
-
-Making change inspectable enough that people can trust the journey.
+This is what mature cartography looks like in a learned space: making change inspectable enough that people can trust the journey.

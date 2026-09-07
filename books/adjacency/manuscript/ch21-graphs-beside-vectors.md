@@ -78,9 +78,7 @@ Retrieve source documents connected to the path.
 
 Use a language model to synthesize the evidence.
 
-The result is not one model replacing search, databases or graphs.
-
-It is a stack of representations cooperating.
+The result is a stack of representations cooperating, not one model replacing search, databases or graphs.
 
 This architecture matters because many real questions are mixed.
 
@@ -304,7 +302,7 @@ It does not flatten every relation into one score.
 
 It tells us what kind of relation we are looking at.
 
-The practical benefit is not only interpretability. It is better reasoning.
+The practical benefit is better reasoning, not only interpretability.
 
 A language model given a list of semantically similar documents can summarize themes. Give it a graph of typed relationships and it can reason about paths. Give it structured data and it can calculate. Give it source documents and it can quote or verify.
 
@@ -316,9 +314,7 @@ The better question is, “Can it move between fuzzy relation and explicit struc
 
 That is what real discovery requires.
 
-The vector revolution is not the end of the graph.
-
-It is the moment the graph gets a new neighbor.
+The vector revolution is the moment the graph gets a new neighbor.
 
 The handoff between these representations deserves more attention than it usually receives.
 
@@ -392,9 +388,7 @@ This is more powerful than a one-way pipeline because each representation can ex
 
 The graph can tell the vector system that two semantically close records refer to legally distinct entities. The vector system can tell the graph that two apparently unrelated nodes share a body of language worth investigating. Structured time can tell both that a relation was true last year and false now. Permission systems can prevent an otherwise relevant path from becoming available to the wrong user.
 
-The result is not a universal knowledge layer.
-
-It is a negotiated boundary among different kinds of truth.
+The result is a negotiated boundary among different kinds of truth, not a universal knowledge layer.
 
 That boundary matters in public systems too.
 

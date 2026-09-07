@@ -110,7 +110,7 @@ Business incentives sit downstream of semantic relevance.
 
 This is why “recommended for you” should be understood as both a convenience and an allocation rule.
 
-A platform may care about user satisfaction, transaction probability, gross margin, advertising value, retention, fulfillment reliability, supplier diversity, legal requirements, inventory position, or strategic partnerships.
+A platform may care about user satisfaction, margin, retention, advertising value, or supplier diversity, and those objectives need not agree.
 
 The final ranking can reflect all of them.
 

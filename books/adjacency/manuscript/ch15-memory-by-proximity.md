@@ -282,9 +282,7 @@ A memory system curates.
 
 That curatorial role may become one of the most important functions of future personal AI. A person generates a lifetime of messages, documents, photographs, purchases, location history, notes and interactions. Almost everything is technically recordable. Very little belongs in active cognitive reach all the time.
 
-The useful system is not the one that remembers the most.
-
-It is the one that remembers the right thing at the right moment and knows when not to treat an old trace as current truth.
+The useful system remembers the right thing at the right moment and knows when not to treat an old trace as current truth.
 
 That is an adjacency problem under time, privacy and authority.
 
@@ -316,9 +314,7 @@ The memory system can turn experience into conservatism.
 
 Humans suffer from this too. Expertise can produce pattern recognition and fixation at the same time.
 
-The solution is not less memory.
-
-It is the ability to know when similarity is informative and when the current case deserves to be treated as new.
+The solution is the ability to know when similarity is informative and when the current case deserves to be treated as new.
 
 The most intelligent memory may sometimes retrieve a precedent and then say:
 
@@ -362,9 +358,7 @@ This also gives users a meaningful editing surface. Instead of presenting a myst
 
 The user edits the map of self the machine is allowed to use.
 
-That is not merely a privacy feature.
-
-It is epistemic maintenance.
+That is epistemic maintenance, not merely a privacy feature.
 
 Without correction, stale memories become false premises. A system can be perfectly faithful to what the user once said and increasingly wrong about who the user is now.
 
@@ -442,12 +436,4 @@ A pile of embeddings cannot answer these questions.
 
 A memory policy can.
 
-The deepest promise of vector memory is not perfect recall.
-
-It is selective continuity.
-
-The system can carry enough of the past forward to reduce repetition while leaving the user room to change.
-
-That is a harder standard than remembering everything.
-
-It is also a far more human one.
+The deepest promise of vector memory is selective continuity: carrying enough of the past forward to reduce repetition while leaving the user room to change. That is a harder standard than remembering everything, and a more human one.

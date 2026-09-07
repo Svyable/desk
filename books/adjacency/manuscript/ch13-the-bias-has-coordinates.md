@@ -160,9 +160,7 @@ New systems inherit bias.
 
 They can also remove old barriers.
 
-The right standard is not purity.
-
-It is measured improvement under explicit values.
+The right standard is measured improvement under explicit values, not purity.
 
 That requires evaluation sets designed around people who normally disappear in averages.
 
@@ -186,7 +184,7 @@ By new versus established content.
 
 By consequential failure mode.
 
-The goal is not to produce an endless dashboard of demographic statistics without purpose. It is to connect measurement to the decisions the system actually influences.
+The goal is to connect measurement to the decisions the system actually influences, not to produce an endless dashboard of demographic statistics.
 
 This matters because fairness itself has tradeoffs.
 
@@ -282,9 +280,7 @@ Examine whether model updates move sensitive neighborhoods.
 
 Trace downstream effects rather than stopping at embedding metrics.
 
-The point is not to assign moral intent to coordinates.
-
-It is to understand the behavior of a learned map before it becomes invisible infrastructure.
+The point is to understand the behavior of a learned map before it becomes invisible infrastructure.
 
 Bias is difficult partly because the geometry can make social history look natural.
 
@@ -412,9 +408,7 @@ Which scientific communities remain disconnected despite conceptual overlap?
 
 A system can look fair inside the visible neighborhood while excluding people or knowledge before anyone evaluates them.
 
-The bias is not in how the candidates are ranked.
-
-It is in who became a candidate.
+The bias may sit earlier than ranking: in who became a candidate.
 
 This distinction matters for regulation and accountability because downstream human review can only correct errors it gets to see. A recruiter may be scrupulously fair among twenty retrieved résumés while the retrieval stage systematically excludes unconventional experience. A clinician may carefully review five analogous cases while the rare but important case ranks sixth. A recommendation editor may promote diverse work among candidates already filtered through a narrow behavioral model.
 
@@ -436,6 +430,4 @@ A model contains statistical structure.
 
 An institution decides which statistical structure becomes access, opportunity, suspicion or silence.
 
-The coordinates can help us see the pattern.
-
-They cannot tell us what minimum resolution people are owed.
+The coordinates can help us see the pattern, but they cannot tell us what minimum resolution people are owed.

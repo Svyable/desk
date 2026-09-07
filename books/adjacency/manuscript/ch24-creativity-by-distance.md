@@ -34,9 +34,7 @@ The entrepreneur sees adjacent products and builds a feature comparison.
 
 Discovery becomes competent imitation.
 
-The problem is not retrieval.
-
-It is stopping at the first radius.
+The problem is stopping at the first radius.
 
 A vector space gives us a practical way to vary the radius deliberately.
 
@@ -56,9 +54,7 @@ The user controls semantic distance.
 
 That is more useful than a button labeled “be creative.”
 
-Creativity is not one temperature setting.
-
-It is movement among neighborhoods.
+Creativity is movement among neighborhoods, not one temperature setting.
 
 A strong creative process often oscillates.
 
@@ -180,7 +176,7 @@ It has details the current prompt did not anticipate.
 
 It may contain a mechanism the generative model would never have selected because nothing in the prompt pointed there.
 
-This is one reason great creative work has always depended on large reference libraries, broad experience, travel, reading, conversation, archives, museums, scenes, and apprenticeship.
+This is one reason great creative work has always depended on large reference libraries, travel, archives, and apprenticeship: enough contact with material outside the current brief.
 
 Breadth changes what can become adjacent at the right moment.
 
@@ -396,7 +392,7 @@ That uncertainty can reduce exposure.
 
 The avant-garde becomes an out-of-distribution problem.
 
-Cultural novelty has always had a distribution problem. Unfamiliar work needs curators, venues, scenes, critics, editors, teachers, and early audiences willing to create context around it.
+Cultural novelty has always had a distribution problem. Unfamiliar work needs curators, critics, and early audiences willing to create context around it.
 
 Vector recommendation does not remove that need.
 
@@ -542,18 +538,8 @@ Those are different judgments.
 
 A mature creative practice will use vector systems for what they are good at: changing what becomes reachable.
 
-The human advantage is not mystical inspiration immune to machines.
+The human advantage is the ability to decide why a particular reach matters.
 
-It is the ability to decide why a particular reach matters.
+Sometimes the right move is one step away; sometimes across disciplines; sometimes back toward a convention everyone was too eager to abandon; sometimes outside the representation entirely.
 
-Sometimes the right move is one step away.
-
-Sometimes it is across disciplines.
-
-Sometimes it is back toward a convention everyone was too eager to abandon.
-
-Sometimes it is outside the representation entirely.
-
-Creativity by distance is not a race to the edge.
-
-It is the discipline of choosing which distance changes the work, then returning with something that still belongs in the world.
+Creativity by distance is the discipline of choosing which distance changes the work, then returning with something that still belongs in the world.
