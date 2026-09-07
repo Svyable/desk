@@ -6,7 +6,7 @@
 | **Status**    | Drafting |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
-| **Chapters**  | 3 of 18 drafted + prologue |
+| **Chapters**  | 4 of 18 drafted + prologue |
 
 *Diplomacy at Machine Speed.*
 
@@ -23,7 +23,7 @@ The aim is a trade-nonfiction book with a classroom afterlife: readable as narra
 - [x] [Ch 1 — The Cable and the Clock](manuscript/ch01-the-cable-and-the-clock.md)
 - [x] [Ch 2 — When Everyone Has an Analyst](manuscript/ch02-when-everyone-has-an-analyst.md)
 - [x] [Ch 3 — The Authentication Problem](manuscript/ch03-the-authentication-problem.md)
-- [ ] [Ch 4 — Translation Without Understanding](manuscript/ch04-translation-without-understanding.md)
+- [x] [Ch 4 — Translation Without Understanding](manuscript/ch04-translation-without-understanding.md)
 - [ ] [Ch 5 — Synthetic Publics](manuscript/ch05-synthetic-publics.md)
 - [ ] [Ch 6 — The Principal and the Machine](manuscript/ch06-the-principal-and-the-machine.md)
 - [ ] [Ch 7 — The Adversary's Model](manuscript/ch07-the-adversarys-model.md)
