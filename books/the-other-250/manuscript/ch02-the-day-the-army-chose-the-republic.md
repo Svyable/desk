@@ -143,3 +143,33 @@ Written rules are strongest when political actors have already learned why the u
 A republic is not secured when it wins a war. It is secured, provisionally and repeatedly, when the people with the power to override its rules decide not to—and when the civilian institutions on the other side of that restraint become capable enough to meet their obligations.
 
 In March 1783, before the Constitution gave civilian control its later architecture, the United States rehearsed both halves of that bargain.
+
+What makes Newburgh especially useful is the timing of the restraint. The officers were not being asked to submit to a government that had demonstrated competence and generosity. They were being asked to submit to one that had failed them in ways they could measure personally. Civilian supremacy is easy to praise when civilian institutions are working. The harder test is whether it survives institutional weakness without becoming an excuse for military substitution.
+
+That distinction changes how the episode looks from the perspective of ordinary governance. A republic does not need soldiers to believe that legislators are wise. It needs soldiers to accept that political incompetence, delay, and even unfairness do not transfer sovereignty to the people with weapons. The answer to a weak Congress had to be a political repair to Congress, not an informal amendment written by the officer corps.
+
+There was also a sequencing problem. The army could act immediately. Congress could not. Military organizations are built to concentrate authority, move on orders, and respond to urgent conditions. Confederation politics moved through states, delegations, requests, bargaining, and delay. In a crisis, the faster institution can begin to look like the more legitimate one simply because it can do something. Newburgh showed the danger of confusing speed with constitutional title.
+
+That temptation does not require a formal coup plan. It can begin with something smaller: the belief that extraordinary service entitles one institution to extraordinary standing in political disputes. Once accepted, that principle is difficult to contain. Every later grievance can be described as exceptional. Every later delay can be treated as proof that ordinary politics has failed. A military body need not abolish a legislature to distort civilian government; it can change the range of choices legislators believe they are free to make.
+
+The restraint at Newburgh therefore protected more than Congress as it happened to exist in 1783. It protected the possibility that Congress could be replaced, redesigned, strengthened, and criticized through civilian politics. The Articles of Confederation were in fact inadequate to many of the tasks Americans expected the national government to perform. Preserving civilian supremacy did not preserve the Articles forever. It preserved the arena in which Americans could decide what should replace them.
+
+That is an important difference. Constitutional restraint is sometimes mistaken for institutional conservatism. Newburgh suggests almost the opposite. By refusing to let military pressure become the mechanism of reform, the officers and Washington left room for more radical civilian reconstruction later in the decade. The government could be judged deficient without treating armed leverage as the cure.
+
+The episode also complicates the familiar idea that civilian control is mainly about preventing ambitious generals from seizing power. Personal ambition is one danger, but institutional frustration may be more ordinary. A commander does not have to dream of a throne for military influence to expand. Officers can believe, sincerely, that they are defending the nation from politicians who have failed to meet basic obligations. They can see intervention as stewardship rather than usurpation.
+
+That is precisely why legitimate grievance matters so much in this story. If the officers had been inventing their injuries, their restraint would tell us less. They were owed money. They had borne costs. Their government was weak. A constitutional norm proved itself because it survived contact with a case in which the people tempted to cross the line could plausibly describe themselves as wronged.
+
+The civilian side of the bargain was not absolved by that restraint. A government that depends on duty while refusing to build the capacity to honor its commitments eventually spends down the very norm that protects it. Washington could use reputation once. No constitutional system can assume that every future crisis will produce a figure with comparable authority, or that every armed institution will accept indefinite promises.
+
+This is why fiscal capacity belongs inside the civil-military story rather than beside it. Paying obligations, maintaining credit, appropriating funds, and creating dependable administrative processes can look mundane compared with battlefield victory or constitutional convention. Yet those functions determine whether civilian rule appears as an operative system or merely a claim to obedience.
+
+Newburgh placed that problem in unusually stark form. The weak government survived the immediate confrontation, but survival did not vindicate the weakness. It bought time to fix it.
+
+That is often what restraint does in a constitutional order. It does not solve the underlying dispute. It prevents the most powerful participant from settling the dispute in a way that destroys the procedure for solving future ones.
+
+The United States would soon replace the Articles with a stronger federal structure. That later change can make the 1783 crisis look like a prelude whose ending was already known. It was not. The significance of Newburgh is that institutional reform remained available because military disappointment did not become a competing source of sovereignty.
+
+The republic did not prove that its civilian government was already good enough.
+
+It proved that even a bad civilian arrangement had to be repaired by civilian means.
