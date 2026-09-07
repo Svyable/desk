@@ -100,8 +100,6 @@ Polaroid is useful again because the transition from instant photography to digi
 
 That is what makes identity expensive.
 
-It is not a sign on the wall.
-
 It is embedded in what people consider a real business.
 
 A new opportunity can be technologically impressive and still fail the identity test.
