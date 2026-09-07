@@ -165,3 +165,33 @@ The forty miles between Washington and Baltimore were therefore not important be
 A horse still needed time.
 
 The news no longer did.
+
+The deeper test is not how quickly the signal traveled but what organizations did once they could no longer treat distance as an excuse for ignorance.
+
+A merchant who could learn a price from another city in hours rather than days did not merely receive better information. He acquired a new responsibility to act on it. A railroad superintendent who could communicate with stations along a line could no longer organize the road as though every train were effectively alone. A newspaper with access to telegraphic dispatches faced pressure to publish news while it was still news. The wire changed expectations inside institutions before it changed every institution equally.
+
+That created a second-order effect: decisions could be separated from the places where their consequences occurred.
+
+Before rapid communication, local agents often possessed practical autonomy because superiors were too far away to intervene quickly. Delay forced delegation. The telegraph did not abolish local judgment, but it made remote supervision more plausible. A headquarters could ask for updates, send instructions, revise orders, and expect a response within the same operating day. Distance remained physical while authority became less local.
+
+This was useful and dangerous for the same reason.
+
+Central offices could coordinate scarce equipment, money, people, and information across a wider system. They could also overrule people who knew the ground better. A message from far away could arrive faster than understanding. The technology narrowed one kind of information gap while leaving another intact: the person with the broadest view was not necessarily the person with the best local knowledge.
+
+That tension became part of the institutional inheritance of fast communication. Every later network that tightened the connection between headquarters and field offices, capitals and commanders, banks and branches, or platforms and users would encounter some version of it. Faster communication increases the feasible radius of control, but a feasible radius is not the same thing as a wise one.
+
+The wire also changed the economics of waiting. When a message required physical carriage, delay was built into the medium. Once an urgent alternative existed, delay became a choice that somebody might have to justify. Institutions began sorting information by the cost of lateness. Some messages could wait for the mail. Others were worth the fee for the wire. That distinction encouraged organizations to ask which facts were time-sensitive enough to deserve immediate transmission.
+
+In that sense, telegraphy created not only a faster channel but a new hierarchy of urgency.
+
+The hierarchy was imperfect. People with money, access, and organizational standing could buy speed more easily than those without them. A fast network can reduce geographic inequality while increasing inequality between insiders and outsiders. The important divide is no longer simply near versus far. It becomes connected versus unconnected, prioritized versus ordinary, transmitted now versus left for later.
+
+That is a different map of power.
+
+The physical line from Washington to Baltimore therefore mattered as more than a demonstration that electricity could carry symbols. It offered institutions a new operating assumption: some facts no longer had to age while traveling. Once that assumption became credible, businesses, governments, newspapers, railroads, and markets could begin redesigning routines around it.
+
+The redesign took decades and never moved evenly. But the possibility arrived immediately.
+
+That is why the forty-mile experiment belongs in a history of consequential infrastructure rather than a museum case of ingenious machinery. The telegraph did not merely accelerate messages that institutions already knew how to use. It changed what institutions could reasonably expect to know, how quickly they could expect to know it, and how far away a decision-maker could be while still trying to participate in the decision.
+
+Those expectations compound. Once competitors, officials, or readers learn that rapid information exists, an organization cannot simply preserve the old tempo without consequence. A firm that waits for the weekly packet may trade against someone using the wire. A newspaper that waits for physical delivery may look stale beside one buying dispatches. A manager who declines to use faster reports may be asked why. Adoption can therefore spread before the technology is cheap or universal, because the existence of a faster channel changes the standard against which slower behavior is judged. Infrastructure creates pressure not only through what it enables, but through what everyone else can now demand.

@@ -36,9 +36,17 @@ The chapter is now deepened with **687 net words** under the exact checker token
 
 Because this change is append-only against a chapter with no intervening manuscript edit, the exact prior literal count plus the exact additive delta yields a current Chapter 6 count of **3,025 words**, clearing this specific floor by 25 words.
 
+### Chapter 8 — closed
+
+Chapter 8, `manuscript/ch08-forty-miles-faster-than-time.md`, was **2,339 words**, **661 words below** the floor on the same literal baseline.
+
+The chapter is now deepened with **714 net words** under the exact checker token expression, `\b[\w’'-]+\b`. The addition stays inside the existing telegraph-as-information-infrastructure argument, developing how faster communication changes institutional expectations, the feasible radius of remote control, the economics of waiting, information-access hierarchy, and competitive pressure to adopt a faster operating tempo. It introduces no new quotation, dated statistic, named source, or volatile current factual claim.
+
+Because this change is append-only against a chapter with no intervening manuscript edit, the exact prior literal count plus the exact additive delta yields a current Chapter 8 count of **3,053 words**, clearing this specific floor by 53 words.
+
 ## Release effect
 
-These passes close **four** of the 21 sub-3,000-word chapter defects recorded by the September 6 literal checker. **Seventeen numbered chapters remain below 3,000 words on that literal baseline** and require substantive deepening rather than padding.
+These passes close **five** of the 21 sub-3,000-word chapter defects recorded by the September 6 literal checker. **Sixteen numbered chapters remain below 3,000 words on that literal baseline** and require substantive deepening rather than padding.
 
 The chapter-only corpus was already **68,901 words**, above the 65,000-word book minimum, before these passes. The controlling mechanical debt is therefore the remaining per-chapter floors.
 
