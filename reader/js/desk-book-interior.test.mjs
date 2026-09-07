@@ -3,7 +3,6 @@ import fs from 'node:fs';
 import { interiorStyleHref } from './desk-book-interior.js';
 
 let assertions = 0;
-const equal = (...args) => { assertions += 1; assert.equal(...args); };
 const match = (...args) => { assertions += 1; assert.match(...args); };
 const doesNotMatch = (...args) => { assertions += 1; assert.doesNotMatch(...args); };
 
