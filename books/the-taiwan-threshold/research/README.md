@@ -23,8 +23,8 @@ Do not infer intent from capability or from every military exercise. Separate Ta
 
 ## Chapter evidence map
 
-Chapters 1–4 establish the threshold and exercise problem. Chapters 5–11 examine quarantine, inspections, maritime pressure, cables, cyber, finance, and semiconductors. Chapters 12–14 examine partner decision thresholds. Chapters 15–18 examine machine-supported classification, signaling, crisis exercises, and deterrence design.
+Chapters 1–4 establish the threshold and exercise problem. Chapters 5–11 examine quarantine, inspections, maritime pressure, cables, cyber, finance, and semiconductors. Chapters 12–14 examine partner decision thresholds (Japan, Philippines, Washington). Chapters 15–18 examine machine-supported classification, signaling and off-ramps, crisis-table design, and holding the threshold.
 
 ## Research discipline
 
-Prefer official Taiwan and PRC documents, maritime notices, military activity data, treaty texts, commercial shipping and insurance evidence, cable incident records, cyber reporting, semiconductor filings, and contemporaneous allied policy statements. Scenario work must always be labeled as scenario work.
+Prefer official Taiwan and PRC documents, maritime notices, military activity data, treaty texts, commercial shipping and insurance evidence, cable incident records, cyber reporting, semiconductor filings, and contemporaneous allied policy statements. Scenario work must always be labeled as scenario work. Think-tank and commission analyses are claims and assessments, not adjudicated facts.
