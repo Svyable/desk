@@ -317,3 +317,27 @@ That takes time.
 Sputnik’s beeping radio told Americans something they did not want to hear: the future had been in preparation somewhere else.
 
 The policy response was to begin preparing more of it at home.
+
+The strategic logic has one more implication: education policy cannot wait for perfect forecasts.
+
+Governments are bad at knowing which specialties will be scarce fifteen years from now. Firms are not much better at horizons that long. A child entering school today may work in an industry that does not yet exist, using tools no current curriculum names.
+
+That uncertainty changes what preparedness should mean.
+
+If policy tries to train exactly the number of people required for one predicted technology, it risks building yesterday’s shortage into tomorrow’s education system. A broader capacity strategy is less precise and more resilient. Strong mathematics, science, language, writing, technical, and analytical foundations create people who can move when the problem changes.
+
+This is another form of optionality.
+
+The national-security framing of 1958 could easily have produced a narrow command model: identify the weapons disciplines, subsidize only those, and measure success by immediate military output. The more durable insight was that capability depends on a wide reservoir of educated people and institutions that can redirect attention as new needs appear.
+
+That reservoir can look inefficient in calm periods. A language program may seem excessive until a crisis makes the language scarce. A research specialty may look obscure until a new technology makes it central. A teacher trained beyond the minimum requirement may appear like surplus capacity until enrollment, curriculum, or technology shifts.
+
+Preparedness contains slack.
+
+The difficulty is that slack is politically vulnerable because its value is clearest before it is needed and hardest to prove before the event that needs it. A factory can count unused inventory. A country cannot easily count the future emergencies an educated population will handle better.
+
+Sputnik made one such absence visible by comparison.
+
+The Soviet launch did not tell Americans exactly which classroom investment would matter most. It made the cost of being surprised feel larger.
+
+That is a more durable policy lesson than panic: when the future is uncertain, capability must be built before its precise use is known.
