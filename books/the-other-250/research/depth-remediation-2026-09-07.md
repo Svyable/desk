@@ -52,9 +52,17 @@ The chapter is now deepened with **684 net words** under the exact checker token
 
 Because this change is append-only against a chapter with no intervening manuscript edit, the exact prior literal count plus the exact additive delta yields a current Chapter 14 count of **3,023 words**, clearing this specific floor by 23 words.
 
+### Chapter 12 — closed
+
+Chapter 12, `manuscript/ch12-a-job-seeker-shoots-the-president.md`, was **2,343 words**, **657 words below** the floor on the same literal baseline.
+
+The chapter is now deepened with **692 net words** under the exact checker token expression, `\b[\w’'-]+\b`. The addition stays inside the existing Garfield/Pendleton civil-service argument, developing how merit reform changes the institutional value of electoral victory, preserves operational continuity across administrations, and makes the boundary between democratic direction and bureaucratic insulation an explicit design problem. It introduces no new quotation, dated statistic, named source, or volatile current factual claim.
+
+Because this change is append-only against a chapter with no intervening manuscript edit, the exact prior literal count plus the exact additive delta yields a current Chapter 12 count of **3,035 words**, clearing this specific floor by 35 words.
+
 ## Release effect
 
-These passes close **six** of the 21 sub-3,000-word chapter defects recorded by the September 6 literal checker. **Fifteen numbered chapters remain below 3,000 words on that literal baseline** and require substantive deepening rather than padding.
+These passes close **seven** of the 21 sub-3,000-word chapter defects recorded by the September 6 literal checker. **Fourteen numbered chapters remain below 3,000 words on that literal baseline** and require substantive deepening rather than padding.
 
 The chapter-only corpus was already **68,901 words**, above the 65,000-word book minimum, before these passes. The controlling mechanical debt is therefore the remaining per-chapter floors.
 

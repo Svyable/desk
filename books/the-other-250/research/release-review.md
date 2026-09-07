@@ -15,7 +15,7 @@ The title-specific source-ledger schema defect identified by the September 6 mec
 
 The migration is lossless with respect to publication-relevant provenance. Existing source IDs, chapter mapping, access dates, full publication dates where present, claim/use descriptions, URLs, and caution/overclaim notes were retained. Chapter mapping, access dates, publication-date precision beyond the year, and old `notes` content now travel inside `book_use`; the canonical `year` field uses the publication year when the old ledger supplied one and remains blank when it did not.
 
-This remediation does **not** change manuscript prose or factual clearance. The September 6 literal checker found 21 numbered chapters below the repository’s 3,000-word per-chapter floor; bounded substantive remediation has since closed Chapters 6, 8, 11, 14, 15, and 22, leaving **15 known sub-floor chapters** on that baseline. Publication remains blocked until those chapters are substantively deepened and the normal frozen-source mechanical/integrity checks pass.
+This remediation does **not** change manuscript prose or factual clearance. The September 6 literal checker found 21 numbered chapters below the repository’s 3,000-word per-chapter floor; bounded substantive remediation has since closed Chapters 6, 8, 11, 12, 14, 15, and 22, leaving **14 known sub-floor chapters** on that baseline. Publication remains blocked until those chapters are substantively deepened and the normal frozen-source mechanical/integrity checks pass.
 
 ## Editorial status
 
@@ -86,7 +86,7 @@ The exact repository checker was run against Desk main `f0d41eed0d379b436db2fa83
 
 This is substantive depth debt, not a mechanical formatting defect. The manuscript must be deepened chapter by chapter; padding is not an acceptable remediation.
 
-Subsequent append-only remediation has closed six of those literal-baseline defects: Chapter 6 is 3,025 words, Chapter 8 is 3,053, Chapter 11 is 3,047, Chapter 14 is 3,023, Chapter 15 is 3,045, and Chapter 22 is 3,091 under the checker’s exact token expression. **Fifteen known sub-floor chapters remain.** These arithmetic closures do not substitute for the required final full-book checker run on one frozen committed source.
+Subsequent append-only remediation has closed seven of those literal-baseline defects: Chapter 6 is 3,025 words, Chapter 8 is 3,053, Chapter 11 is 3,047, Chapter 12 is 3,035, Chapter 14 is 3,023, Chapter 15 is 3,045, and Chapter 22 is 3,091 under the checker’s exact token expression. **Fourteen known sub-floor chapters remain.** These arithmetic closures do not substitute for the required final full-book checker run on one frozen committed source.
 
 The same validation run also showed repository-wide research-schema debt. The title-specific schema defect it identified for `books/the-other-250/research/source-ledger.csv` has now been remediated as recorded above. The temporary validation workflow itself was not merged and was closed after recording the results.
 
@@ -100,7 +100,7 @@ The book has a complete narrative arc, twenty-six chapter selections, a research
 
 Before a Shelf snapshot is labeled a released first edition:
 
-1. Deepen the remaining fifteen known sub-3,000-word chapters until every numbered chapter clears 3,000 words without padding or filler.
+1. Deepen the remaining fourteen known sub-3,000-word chapters until every numbered chapter clears 3,000 words without padding or filler.
 2. Re-run `python3 scripts/check-book-length.py the-other-250` on one frozen Desk source and require `healthy: true`.
 3. Reconcile then-current Desk catalog/discovery state and run `python3 scripts/check-desk.py` on the same candidate source; the candidate must introduce no unresolved title-specific integrity failure.
 4. Verify the Desk Reader discovers all twenty-eight manuscript surfaces: front matter, twenty-six chapters, and back matter, with correct order and metadata.
