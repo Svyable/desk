@@ -321,5 +321,3 @@ Before the blast, interventionists had to prove why the United States should act
 After the blast, restraint increasingly had to explain why the United States should not.
 
 That is a profound political shift for any democracy, and it can occur long before a declaration of war.
-
-<!-- PUB-AUGMENT-2026-09-06 -->
