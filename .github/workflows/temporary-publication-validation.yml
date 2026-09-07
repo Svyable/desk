@@ -18,8 +18,6 @@ jobs:
           fetch-depth: 0
       - name: Regenerate canonical Desk catalog
         run: python3 scripts/catalog.py --write
-      - name: Validate Renegade Code length
-        run: python3 scripts/check-book-length.py renegade-code --json
       - name: Validate Desk integrity
         run: python3 scripts/check-desk.py
       - name: Commit deterministic regeneration
@@ -31,3 +29,5 @@ jobs:
             git commit -m "Regenerate Desk discovery after Imenent registration"
             git push origin HEAD:repair/imenent-catalog
           fi
+      - name: Validate Renegade Code length
+        run: python3 scripts/check-book-length.py renegade-code --json
