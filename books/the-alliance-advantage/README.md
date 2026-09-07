@@ -8,7 +8,7 @@
 | **Status** | Drafting |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
-| **Chapters** | 1 of 18 drafted + prologue |
+| **Chapters** | 2 of 18 drafted + prologue |
 | **Edition** | First field edition candidate |
 | **Language** | English |
 
@@ -23,7 +23,7 @@ The first field edition publishes the framework and opening research path while 
 - [x] [Front Matter](manuscript/front-matter.md)
 - [x] [Prologue — The Plug That Does Not Fit](manuscript/prologue-the-plug-that-does-not-fit.md)
 - [x] [Ch 1 — An Alliance Is a Network](manuscript/ch01-an-alliance-is-a-network.md)
-- [ ] [Ch 2 — Interoperability](manuscript/ch02-interoperability.md)
+- [x] [Ch 2 — Interoperability](manuscript/ch02-interoperability.md)
 - [ ] [Ch 3 — Data Before Decisions](manuscript/ch03-data-before-decisions.md)
 - [ ] [Ch 4 — Models Across Borders](manuscript/ch04-models-across-borders.md)
 - [ ] [Ch 5 — Intelligence That Can Be Shared](manuscript/ch05-intelligence-that-can-be-shared.md)
