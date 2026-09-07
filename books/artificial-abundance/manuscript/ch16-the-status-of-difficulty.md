@@ -24,6 +24,36 @@ Nobody is impressed that a clerk can add a column of numbers by hand when a spre
 
 But difficulty has never been valued only for productive necessity.
 
+Before going further, it helps to separate three kinds of difficulty that technology tends to collapse.
+
+Training difficulty changes the person doing the work.
+
+Protective difficulty changes the probability or reversibility of a bad outcome.
+
+Status difficulty changes what other people infer about the person, process, or object.
+
+They can occur together, which is why the distinctions are easy to miss.
+
+A supervised medical exercise can be difficult because the trainee needs practice, because mistakes need to be contained, and because passing the exercise tells others something about competence. A long hike can train endurance, reduce access to an ecologically sensitive place, and signal membership in a group that values hardship. A difficult examination can teach, protect, and sort at once.
+
+But the three mechanisms do not rise and fall together.
+
+A machine can make the final output easy while leaving training difficulty useful. If a student can generate the answer instantly, that does not make the underlying exercise useless when the purpose is to change what the student can do without assistance later. The product of the exercise is partly the student.
+
+A machine can make an action easy while making protective difficulty more important. If a system can move money, deploy code, prescribe a change, or send a message to a million people at negligible marginal cost, a pause or permission boundary may become more valuable because execution is cheap. That difficulty belongs to the risk, not the prestige of the person enduring it.
+
+Status difficulty behaves differently again. It can become more valuable precisely because functional difficulty has disappeared. Once almost anyone can produce the visible result, some audiences will look for costly process as evidence that the result came from a scarce capability, a real commitment, or a particular kind of person.
+
+This distinction matters because the same sentence—“we should keep this hard”—can describe three very different policies.
+
+Keep it hard because people learn through the work.
+
+Keep it hard because easy execution would be dangerous.
+
+Keep it hard because otherwise the signal loses value.
+
+Only the third argument depends primarily on status.
+
 People run marathons even though cars exist.
 
 They climb mountains even though helicopters exist.
@@ -95,6 +125,32 @@ If the buyer only needs an image for a disposable banner, the production history
 If the buyer wants an original painting for a home, the three weeks may be part of what is being purchased.
 
 The same visual quality can enter two different markets because the process changes the meaning of the object.
+
+This is one of the larger economic consequences of abundance: a market that once bundled outcome and process can split into two markets.
+
+One market sells the result.
+
+The other sells participation in, evidence of, or proximity to the process.
+
+A meal and a cooking class can end with similar food, but only one sells the experience of learning to make it. A summit photograph and a climb can contain the same mountain, but only one sells the days of exertion that produced the view. A polished translation and a language lesson can convey the same sentence, but only one is meant to change the person doing the work.
+
+When technology makes the outcome cheap, the process does not have to compete on the same terms anymore.
+
+It can become a separate good.
+
+That distinction matters because “chosen costly process” is not the same thing as inefficient production. If someone wants a dining table, a machine may be the right answer. If someone wants to spend six weekends learning joinery with a cabinetmaker and leave with a table, the hours are not waste attached to the product. They are part of what was purchased.
+
+The same logic can apply to cognition.
+
+A person may use an AI system for routine translation and still pay for a language course because the desired product is not translated text. It is the ability to speak, notice, remember, and participate without always asking another system to stand between the person and the world.
+
+A student may use software to check algebra while still working some problems unaided because the desired product is not the answer sheet. It is a mind capable of recognizing what kind of problem is in front of it.
+
+A writer may use tools for research, search, or editing and still draft some passages slowly because the act of writing is helping discover what the writer thinks.
+
+The easier route does not invalidate these choices.
+
+It forces the buyer to say which product is actually wanted.
 
 This distinction already exists everywhere.
 
