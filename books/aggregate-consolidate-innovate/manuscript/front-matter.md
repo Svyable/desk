@@ -6,30 +6,30 @@
 
 There is a warehouse in every ambitious mind.
 
-At first it is almost empty. A few books. A handful of stories. A useful trick learned from somebody older. A failure whose meaning has not yet arrived. Then the shelves begin to fill. Notes accumulate. Tabs remain open. Photographs, transcripts, datasets, quotations, half-built prototypes, introductions, saved posts, papers, tools, passwords, models, and possibilities enter faster than they leave.
+It starts almost empty: a few books, a useful trick learned from somebody older, a failure whose meaning has not arrived yet. Then the shelves fill. Notes accumulate. Tabs remain open. Photographs, transcripts, datasets, quotations, half-built prototypes, introductions, papers, tools, passwords, models, and possibilities begin arriving faster than they leave.
 
-Modern life is extraordinarily good at helping us fill the warehouse.
+Modern life has become exceptionally good at loading the warehouse.
 
-It is much worse at teaching us what to do next.
+What it has not solved is what to do once the floor disappears under inventory.
 
-This book is about the next three verbs.
+This book is about three verbs: **aggregate, consolidate, innovate**.
 
-**Aggregate. Consolidate. Innovate.**
+Aggregation gives us material. Consolidation turns some of that material into forms we can think with and act on. Innovation recombines those forms, exposes them to reality, and finds out which ones survive contact.
 
-Aggregation gives us material. Consolidation turns material into something we can carry. Innovation puts the compressed pieces into new relationships and tests whether those relationships deserve to survive outside our heads.
+The order is useful, but it is not a pipeline. An experiment can produce the fact that sends you back to research. A new name can reveal that the category was wrong. A constraint can destroy an elegant model and leave behind a better primitive. Yesterday's scrap becomes tomorrow's hinge. The work is closer to a crowded shop than an assembly line.
 
-The sequence sounds tidy. Life is not. We move backward. We discover that the thing we consolidated was wrong. An experiment produces a fact worth aggregating. A new name changes what we notice. A constraint destroys an elegant plan and reveals a better one. The cycle is less assembly line than workshop: benches crowded, drawers mislabeled, yesterday's scrap becoming tomorrow's hinge.
+The three verbs also fail in characteristic ways. Collect long enough and curiosity turns into hoarding. Consolidate too aggressively and useful mess gets compressed into bureaucracy. Innovate without respect for what already works and novelty becomes a maintenance problem with good branding.
 
-Still, the verbs matter because each one corrects the characteristic excess of the others.
+The skill is movement: knowing when to widen the field, when to reduce it, and when to put an idea somewhere reality can hit it.
 
-The collector can become a hoarder. The consolidator can become a bureaucrat. The innovator can become a pyromaniac, delighted by novelty and bored by maintenance. Useful work requires movement among these temperaments rather than permanent residence in any one of them.
+That problem is becoming more important because aggregation keeps getting cheaper. Machines can retrieve, copy, transcribe, classify, summarize, and generate at a scale that would have looked extravagant to a twentieth-century research department. The abundance is real. So is the temptation to mistake it for understanding.
 
-We have entered an age in which aggregation is becoming nearly free. Machines can retrieve, copy, transcribe, classify, and generate at a scale that would have looked supernatural to a twentieth-century research department. This does not make judgment obsolete. It raises its price.
+Judgment begins after retrieval.
 
-When abundance becomes ordinary, selection becomes consequential.
+Which source deserves weight? Which disagreement matters? Which detail should survive compression? Which pattern is merely repeated because everybody copied the same assumption? What should be standardized, and what should remain awkward because the awkwardness contains information? When is another hour of research useful, and when is it fear wearing a responsible face?
 
-When selection becomes consequential, compression matters.
+Those are not information problems. They are problems of selection, structure, and consequence.
 
-And when everybody has access to many of the same raw materials, the interesting question is what you can make from them that changes reality.
+The warehouse still matters. You cannot build with materials you never gathered. But the point of the warehouse is not to admire the inventory.
 
-That is where we begin.
+Eventually you need room for a workbench.
