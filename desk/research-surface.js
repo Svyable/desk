@@ -20,21 +20,11 @@ export function researchBrowseUrl(folderHref, slug, moduleUrl = import.meta.url)
   return fallback;
 }
 
-async function researchExists(slug) {
-  if (!slug) return false;
-  try {
-    const response = await fetch(researchReadmeUrl(slug), { cache: 'no-store' });
-    return response.ok;
-  } catch {
-    return false;
-  }
-}
-
-async function enhanceBookCard(card) {
+function enhanceBookCard(card) {
   if (!(card instanceof HTMLElement) || card.dataset.researchSurfaceChecked === 'true') return;
   card.dataset.researchSurfaceChecked = 'true';
   const slug = String(card.dataset.slug || '').trim();
-  if (!slug || !(await researchExists(slug))) return;
+  if (!slug) return;
 
   const links = card.querySelector('.book-secondary-links');
   if (!links || links.querySelector(`.${RESEARCH_LINK_CLASS}`)) return;
@@ -49,7 +39,7 @@ async function enhanceBookCard(card) {
 }
 
 function enhanceVisibleCards(root) {
-  root.querySelectorAll('.book-card[data-slug]').forEach((card) => { void enhanceBookCard(card); });
+  root.querySelectorAll('.book-card[data-slug]').forEach(enhanceBookCard);
 }
 
 export function installResearchSurface(root = document.getElementById('manuscriptList')) {
