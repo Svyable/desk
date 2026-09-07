@@ -190,6 +190,10 @@ The state remains legally sovereign.
 
 Operational sovereignty has weakened.
 
+The practical test is not whether somebody can disable the model. It is what the agency can still deliver after doing so. Benefits may have to arrive before rent is due. A permit may be allowed to wait. An emergency dispatch cannot. A statutory deadline may turn delay into illegality even when the underlying decision would eventually be correct. Re-entry therefore has a service floor and a clock.
+
+A recoverable public system should be able to answer a plain question before the crisis: what minimum lawful service can continue independently, for how long, and with what quality of evidence? A fallback that preserves the minister's authority while losing the state's ability to pay, hear, decide, or explain is not much of a fallback.
+
 That phrase deserves care.
 
 Operational sovereignty does not mean government employees should personally execute every public function. States have always depended on infrastructure, contractors, banks, telecommunications systems, software, utilities, and specialized knowledge outside government.
@@ -213,6 +217,8 @@ Can officials understand how policy was translated into decisions?
 Can courts order a remedy that can actually be implemented?
 
 Can a legislature change the rule without needing the existing machine system to explain what the change will do?
+
+Substitutability is the important property, not autarky. Usable records, recognized identities, documented interfaces, transition rights, and enough retained operating capacity can keep a contractor or model replaceable even when government has no intention of performing every function itself. Dependence becomes constitutional when changing the supplier or operating mode ceases to be a credible act of public authority.
 
 This last question is easy to miss.
 
@@ -355,6 +361,8 @@ Appeal.
 Review.
 
 Judicial remedy.
+
+A remedy is a particularly demanding test. If a court suspends a class of automated decisions, the agency must be able to identify affected cases, preserve the evidence behind them, continue whatever lawful processing remains necessary, and implement the court's rule without asking the disputed layer to reconstruct its own record. Otherwise judicial authority survives on paper while its operational effect depends on the system being challenged.
 
 These mechanisms are slow partly because they allow a person to contest the state's interpretation of the person.
 
@@ -601,6 +609,8 @@ Critical decisions can preserve appeal before irreversible enforcement.
 Automated systems can record the rule version and evidence used for each action.
 
 Machine execution can be fast without making governance instantaneous.
+
+The strongest countercase is that automation can enlarge state capacity and resilience together. Better systems can reduce backlogs, document policy execution more consistently, replay cases for training, preserve richer records, and make alternative policies easier to test before deployment. If agencies use those gains to maintain portable state, executable rules, practiced fallback teams, and real transition capacity, dependence does not have to increase with capability.
 
 The greatest risk is not a robot president.
 

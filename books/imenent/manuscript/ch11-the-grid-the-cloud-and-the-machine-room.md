@@ -266,6 +266,12 @@ That floor is essential to re-entry.
 
 A system should be able to lose sophistication without losing life support.
 
+Safe shutdown and safe degraded operation are different engineering goals. The first asks whether a suspect layer can be stopped without making the system immediately dangerous. The second asks whether essential service can continue while authority, diagnosis, and replacement move onto a smaller operating surface. For a grid, a cloud platform, or a water system, the second question is often the one that decides whether the first option is usable at all.
+
+A degraded mode can still contain automation. A fixed controller, a deterministic scheduler, or a narrowly scoped model may be safer than an improvised return to fully manual operation. What matters is that operators know the envelope, can see the state that defines it, and can keep consequences bounded while the more capable layer is unavailable or untrusted.
+
+The envelope also has a clock. Backup power runs out of fuel. Manual operations run out of people and attention. Network isolation can protect one system while making coordinated restoration harder. A cloud failover may preserve compute yet discover that both sites depend on the same identity service, deployment plane, or machine-generated incident summary. Recovery plans that do not name the next binding constraint are descriptions of a moment, not plans for a recovery.
+
 This is harder than it sounds because optimization eats slack.
 
 The grid becomes more efficient when capacity can be managed closely.
@@ -413,6 +419,8 @@ How many safety systems use the same monitor?
 Diversity can be expensive.
 
 It can also be the difference between a local mistake and a common-mode failure.
+
+The same test belongs inside a single organization. A backup path may look redundant while sharing the primary path's identity service, model family, control plane, source data, communications link, or operating knowledge. That is component redundancy without re-entry independence. The fallback has another machine, but not another place to stand.
 
 This is one place where geopolitical arguments about sovereign AI intersect with the re-entry problem.
 
@@ -599,6 +607,8 @@ Essential function.
 If the answer is yes, the system has room to investigate.
 
 If the answer is no, the intelligent layer has become a hostage to continuity even if it never makes a threat.
+
+The strongest countercase is not theoretical. Critical-infrastructure engineering already contains disciplines built around isolation, independent protection, restoration, drills, and conservative authority boundaries. AI can improve anomaly detection, forecasting, maintenance, incident synthesis, and restoration planning. If operators use those gains to widen resilience margins and rehearse fallback more often, intelligence can make re-entry cheaper rather than erode it. The dependence claim has to survive that possibility.
 
 This is the design line worth defending.
 

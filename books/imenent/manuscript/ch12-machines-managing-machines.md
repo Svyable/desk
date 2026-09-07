@@ -74,6 +74,10 @@ A separate system can choose which cases deserve human attention.
 
 A human or institution governs the protocol.
 
+It helps to separate four jobs that a green dashboard can make look like one. Observation obtains state and evidence. Interpretation decides whether the evidence looks anomalous or unsafe. Intervention changes what the actor may do. Adjudication determines afterward whether the system complied and what should change. Any of these jobs can be automated. The danger is letting all four depend on the same production path and then calling the result independent oversight.
+
+A monitor without telemetry outside the actor's own account is not an independent observer. An intervention service that shares the actor's control plane may vanish during the failure it is supposed to contain. An audit trail that the production agent can rewrite is a memory, not a record. Separation of models matters less than separation of failure boundaries.
+
 This resembles mature human organizations.
 
 A trader trades.
@@ -424,6 +428,8 @@ The person needs a route from explanation to independently recorded fact.
 
 That distinction separates machine assistance from machine narrative monopoly.
 
+The compression itself should be challengeable. An accountable operator needs to be able to sample what the monitor omitted, change the interpreter, and preserve raw or independently summarized state long enough to reconstruct a consequential event. If the only human-scale account of the system is produced by the same stack under investigation, explanation has become another permission boundary.
+
 The monitor itself can fail.
 
 What then?
@@ -573,6 +579,8 @@ The analogy should not be pushed too far. A machine economy is not an airplane. 
 The world is likely to use machines to manage machines because human attention cannot scale with machine activity.
 
 Pretending otherwise would make systems less safe.
+
+The strongest countercase to the dependence thesis runs through this chapter. Continuous machine monitoring, automatic policy enforcement, adversarial checking, selective escalation, and richer audit evidence may give accountable humans more leverage over high-scale systems than they possess over many human organizations today. If oversight diversity and independent evidence improve as quickly as machine action, and intervention remains timely when failures cross the boundary, automation can increase recoverability rather than consume it.
 
 The takeover threat does not arise from the existence of automated monitors.
 
