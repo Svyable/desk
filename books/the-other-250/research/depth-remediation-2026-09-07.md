@@ -60,9 +60,17 @@ The chapter is now deepened with **692 net words** under the exact checker token
 
 Because this change is append-only against a chapter with no intervening manuscript edit, the exact prior literal count plus the exact additive delta yields a current Chapter 12 count of **3,035 words**, clearing this specific floor by 35 words.
 
+### Chapter 10 — closed
+
+Chapter 10, `manuscript/ch10-the-colleges-hidden-inside-a-war.md`, was **2,472 words**, **528 words below** the floor on the same literal baseline.
+
+The chapter is now deepened with **580 net words** under the exact checker token expression, `\b[\w’'-]+\b`. The addition stays inside the existing Morrill-Act-as-capacity-building argument, developing the value of knowledge institutions that persist between crises, the maintenance burden behind durable capability, institutional memory across problem cycles, regional variation inside a federal system, and redundancy as a form of resilience. It adds no new quotation, dated statistic, named source, or volatile current factual claim.
+
+Because the Chapter 10 blob was unchanged from the literal September 6 checker source and the change is append-only, the exact baseline count plus the exact additive delta yields a current Chapter 10 count of **3,052 words**, clearing this specific floor by 52 words.
+
 ## Release effect
 
-These passes close **seven** of the 21 sub-3,000-word chapter defects recorded by the September 6 literal checker. **Fourteen numbered chapters remain below 3,000 words on that literal baseline** and require substantive deepening rather than padding.
+These passes close **eight** of the 21 sub-3,000-word chapter defects recorded by the September 6 literal checker. **Thirteen numbered chapters remain below 3,000 words on that literal baseline** and require substantive deepening rather than padding.
 
 The chapter-only corpus was already **68,901 words**, above the 65,000-word book minimum, before these passes. The controlling mechanical debt is therefore the remaining per-chapter floors.
 
