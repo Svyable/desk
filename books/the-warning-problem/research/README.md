@@ -24,6 +24,8 @@ Historic false alarms require careful sourcing; later retellings often simplify 
 
 ## Chapter evidence map
 
+Field-edition draft status: prologue + chapters 1–18 complete on Desk.
+
 Chapters 1–6 cover warning, historical false alarms, command systems, sensors, fusion, and confidence. Chapters 7–12 cover cyber, spoofing, automation bias, human judgment, compressed timelines, and conventional-nuclear entanglement. Chapters 13–18 examine national cases, crisis communication, testing, deliberate doubt, and design for decision time.
 
 ## Research discipline

@@ -289,3 +289,99 @@ Any AI added to nuclear warning should be judged by the same standard.
 Not only how quickly it notices the attack.
 
 How well it helps the system discover that the attack on the screen is not the attack in the world.
+
+
+The National Security Archive later published declassified documents that make the political texture of those minutes clearer. On the night of the November 1979 false warning, National Security Adviser Zbigniew Brzezinski was awakened with a report of a massive Soviet attack. The warning was withdrawn before he reached the President. The episode is often told as a near-miss anecdote. Read carefully, it is also evidence that warning systems sit inside a chain of human notification whose safety depends on more than the first screen. The same documentary record shows Soviet complaints about the extreme danger of false warnings, and Secretary of Defense Harold Brown telling President Carter that false warnings were virtually inevitable while human safeguards were expected to keep them from escaping control.
+
+Inevitable false warnings are an uncomfortable design premise.
+
+They force institutions to treat disbelief as a capability rather than as a failure of nerve. They also force honesty about what "human safeguards" means. A human who receives only a single fused product, under time pressure, with incomplete provenance, is not the same safeguard as a human who can see disagreement among sensors, know whether a message path is live or under test, and challenge an assessment without career penalty.
+
+The GAO's later follow-up work in the mid-1980s kept returning to a related point: modernization of tactical warning and attack assessment did not automatically retire the risk that hardware, software, and procedures would generate misleading threat assessments. The lesson was not that computers cannot be trusted. It was that warning architectures accumulate risk as they accumulate capability unless management, testing, and observability keep pace.
+
+That lesson scales poorly if ignored and well if taken seriously.
+
+Ignored, it produces the fantasy that the next generation of sensors and models will finally eliminate false alarms. Taken seriously, it produces investment in separation between test and live paths, message tracing, independent phenomenology, and displays that show operators what is actually being transmitted onward. Those investments look bureaucratic until the night a screen is wrong.
+
+Artificial intelligence changes the cost structure of both fantasy and seriousness.
+
+The fantasy becomes cheaper because models can be marketed as reducing error rates on historical data. The seriousness becomes more expensive because the failure modes are less like a bad chip and more like a brittle pattern match under novel strategic conditions. There may be no component to swap. There may be only a distribution shift: an adversary behavior, a sensor geometry, a weather pattern, a cyber-induced gap, or a political crisis unlike the training set.
+
+In that world, the organizational habits learned from 1979 and 1980 remain the right habits.
+
+Keep simulation from contaminating operations.
+
+Make independence among sensors a designed property, not a hope.
+
+Preserve observability of what the system is sending.
+
+Train people to treat a coherent picture as a claim, not a verdict.
+
+Refuse to let long periods of correct routine performance become an argument against skepticism when the rare case arrives.
+
+The last habit is psychologically difficult.
+
+People learn from frequency. Most days, the warning system correctly ignores noise. Success becomes boredom. Boredom becomes trust. Trust becomes silence when a machine first disagrees with gut feeling in a high-stakes way. The Cold War incidents are valuable partly because they punctured boredom. They remind later generations that the system can be wrong in ways that look official.
+
+AI-assisted fusion can deepen boredom if it is mostly right most of the time.
+
+It can also deepen panic if it is dramatically wrong once.
+
+Neither outcome is destiny. Both are design problems. A system that regularly surfaces near-misses, contested assessments, and sensor disagreements during exercises keeps operators practiced at living with incomplete pictures. A system that only celebrates clean detections teaches a different lesson: that clarity is normal and doubt is failure.
+
+Clarity is not normal in nuclear warning.
+
+Doubt is part of the job description.
+
+The screens of 1979 and 1980 were wrong for reasons that engineers could eventually name. Future screens may be wrong for reasons that are statistically real and narratively unsatisfying. That is why the rest of this book spends less time on the romance of near misses and more time on the architecture that determines whether a wrong screen becomes a wrong war.
+
+
+One more distinction helps before the book leaves the historical screens behind.
+
+A false alarm that is caught inside the warning organization is a different political object from a false alarm that reaches national leadership as a live attack report. Both matter. The first tests procedures. The second tests whether procedures survived contact with fear. The 1979 and 1980 events sit in a gray zone where alert actions began and senior officials were notified even though the missiles were not real. That gray zone is where AI confidence displays will live. They will not usually be asked to launch. They will be asked to decide how loud the building becomes, how many people are woken, which forces move, and how quickly a story hardens.
+
+Those intermediate escalations are the warning problem's ordinary danger.
+
+They are also the place where better architecture pays off most often. Separation of test and live data, independent corroboration, and visible provenance do not only prevent the apocalyptic case. They reduce the frequency with which organizations rehearse panic for no reason. Panic rehearsed without learning can itself become a source of instability, because it trains people either to overreact or to stop believing the system.
+
+The historical screens teach both vigilance and humility.
+
+Vigilance, because warning must remain sensitive.
+
+Humility, because sensitivity without disciplined doubt is a machine for manufacturing crises.
+
+Wrong screens will return in new technical dress. The question is whether institutions keep the habits that survived the old dress.
+
+Incentive design under modernization pressure remains the quiet governor of safety. Measure near-miss capture, caveat survival, time-to-structured-disagreement, and graded willingness to challenge machines. What is unmeasured decays when schedules slip.
+
+Allied releasability rules should preserve uncertainty markers with the same zeal they preserve tracks. A shared picture that launders doubt into consensus exports false confidence across borders.
+
+Degraded-mode competence is a strategic asset. Crews who can fuse slowly by hand when models are suspect will outlast crews who can only consume tiles. Train the slow path.
+
+Declaratory policy about human control should reach upstream into warning and decision support, not only the final employment decision. Mediation is where AI will live first.
+
+Spoiler hypotheses belong on assessment boards during dual crises of cyber and kinetic indication. Nightmare coherence is not analysis.
+
+Confidence without corroboration should decay on a clock operators can see. Absence of expected confirmation is evidence. Inertia is not inference.
+
+Semantic firewalls between theater battle management and strategic warning are controls against entanglement in software. Seamless is not safe by default.
+
+Exercises must plant high-quality machine errors and reward the humans who catch them. If catching errors is career-limiting, the institution has automated its deafness.
+
+Procurement scorecards should value auditability and disagreement surfacing as heavily as peacetime precision. Vendors build what scorecards pay for.
+
+Crisis communication templates that explain exercises and anomalous indications reduce the chance that one side's modernization becomes the other side's impending doom narrative.
+
+Integrity shedding playbooks must be rehearsed until boring. Boring safety beats exciting danger when minutes are few.
+
+Generative fluency must never set a numeric dial. Narrate freely if needed; quantify only with tested estimators and visible conditions.
+
+Political cover for slowing down should be pre-negotiated. Asking for time in the moment feels like weakness; procedure converts it into professionalism.
+
+Historical false alarms remain manuals, not museums. Update them with AI-era failure modes rather than declaring the old lessons expired.
+
+Independent review of model dependency classes belongs outside shipping chains. Optimism under schedule pressure is not a safety analysis.
+
+Public affairs certainty theater can trap diplomacy. Align external messaging with internal uncertainty when warning is ambiguous.
+
+Red-team models whose only job is to argue overconfidence should sit beside blue fusion on the same glass. Rivalry is a feature.
