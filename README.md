@@ -13,9 +13,9 @@ Desk is the working library for Sven Hardy Benson’s books: drafts, complete ma
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
-> **Shelf: 53 author projects · 50 released · 3 public drafts/proofs**
-> **Where they live: 53 in both Desk + Shelf · 54 Desk-only · 0 Shelf-only**
-> **Release review queue: 10 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
+> **Shelf: 56 author projects · 53 released · 3 public drafts/proofs**
+> **Where they live: 56 in both Desk + Shelf · 61 Desk-only · 0 Shelf-only**
+> **Release review queue: 14 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
 |---|---|---|---|
@@ -36,18 +36,20 @@ Desk is the working library for Sven Hardy Benson’s books: drafts, complete ma
 | [**Keep Cooking**](books/keep-cooking/) | ✅ Complete draft + living afterword | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/keep-cooking/) |
 | [**Leveraging Luck**](books/leveraging-luck/) | 🔁 Revision in progress | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/leveraging-luck/) |
 | [**Look Alive**](books/look-alive/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/look-alive/) |
+| [**Neuralase**](books/neuralase/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/neuralase/) |
 | [**Nothing Counts Yet**](books/nothing-counts-yet/) | ✍️ Released working edition | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/nothing-counts-yet/) |
 | [**Open Source**](books/open-source/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/open-source/) |
 | [**Pace of Change**](books/pace-of-change/) | ✅ Complete first draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/pace-of-change/) |
 | [**Proof of Human**](books/proof-of-human/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/proof-of-human/) |
 | [**Public Pressure**](books/public-pressure/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/public-pressure/) |
+| [**Renegade Code**](books/renegade-code/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/renegade-code/) |
 | [**Restructuring America**](books/restructuring-america/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/restructuring-america/) |
 | [**Right to Try**](books/right-to-try/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/right-to-try/) |
 | [**Robust**](books/robust/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/robust/) |
 | [**Silent Cartel**](books/silent-cartel/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/silent-cartel/) |
 | [**Single Points of Failure**](books/single-points-of-failure/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/single-points-of-failure/) |
 | [**Solar Century**](books/solar-century/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/solar-century/) |
-| [**The Agentic Consumer Economy: Digital Capitalism in the 2030s**](books/the-agentic-consumer-economy/) | ✅ Complete draft · Published on Shelf | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-agentic-consumer-economy/) |
+| [**The Agentic Consumer Economy**](books/the-agentic-consumer-economy/) | ✅ Complete draft · Published on Shelf | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-agentic-consumer-economy/) |
 | [**The Cancer Key**](books/the-cancer-key/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-cancer-key/) |
 | [**The Collective**](books/the-collective/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-collective/) |
 | [**The Compatibility Dividend**](books/the-compatibility-dividend/) | ✅ Complete draft · Published on Shelf | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-compatibility-dividend/) |
@@ -62,7 +64,7 @@ Desk is the working library for Sven Hardy Benson’s books: drafts, complete ma
 | [**The Never Ending Intelligence**](books/the-never-ending-intelligence/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-never-ending-intelligence/) |
 | [**The Orphan Age**](books/the-orphan-age/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-orphan-age/) |
 | [**The Retry Generation**](books/the-retry-generation/) | ✍️ Expanded first draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-retry-generation/) |
-| [**The Risk Pool: How Insurance Quietly Decides What Can Be Built, Bought, Borrowed, and Rebuilt**](books/the-risk-pool/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-risk-pool/) |
+| [**The Risk Pool**](books/the-risk-pool/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-risk-pool/) |
 | [**The Unbounding**](books/the-unbounding/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-unbounding/) |
 | [**The Vanishing Bid**](books/the-vanishing-bid/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-vanishing-bid/) |
 | [**The Weather We Build**](books/the-weather-we-build/) | ✍️ Expanded working draft · publication edit | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-weather-we-build/) |
@@ -71,9 +73,10 @@ Desk is the working library for Sven Hardy Benson’s books: drafts, complete ma
 | [**Triumph of the Commons**](books/triumph-of-the-commons/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/triumph-of-the-commons/) |
 | [**Ubiquitous**](books/ubiquitous/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/ubiquitous/) |
 | [**Useful Noise**](books/useful-noise/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/useful-noise/) |
+| [**Who Taught America?**](books/who-taught-america/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/who-taught-america/) |
 | [**Wild Speculation**](books/wild-speculation/) | ✅ Complete draft · Published on Shelf | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/wild-speculation/) |
 
-**Desk-only complete drafts awaiting an explicit release decision:** [Bookself: The Story of Getting Started](books/bookself/), [Neuralase](books/neuralase/), [The Alliance Advantage](books/the-alliance-advantage/), [The Half-Life of Now](books/the-half-life-of-now/), [The Last Human Channel](books/the-last-human-channel/), [The Longevity Moment](books/the-longevity-moment/), [The Taiwan Threshold](books/the-taiwan-threshold/), [The Unobserved World](books/the-unobserved-world/), [The Warning Problem](books/the-warning-problem/), [The World Won’t Choose Sides](books/the-world-wont-choose-sides/)
+**Desk-only complete drafts awaiting an explicit release decision:** [Bookself](books/bookself/), [Deceptatron: Propaganda in the 2030s](books/deceptatron/), [Hallucinations](books/hallucinations/), [Imenent](books/imenent/), [The Alliance Advantage](books/the-alliance-advantage/), [The Half-Life of Now](books/the-half-life-of-now/), [The Last Human Channel](books/the-last-human-channel/), [The Longevity Moment](books/the-longevity-moment/), [The Other 250](books/the-other-250/), [The Taiwan Threshold](books/the-taiwan-threshold/), [The Unobserved World](books/the-unobserved-world/), [The Visitors](books/the-visitors/), [The Warning Problem](books/the-warning-problem/), [The World Won’t Choose Sides](books/the-world-wont-choose-sides/)
 <!-- SHELF_SUMMARY:END -->
 
 Some books here are only a chapter or two into existence. Others are complete manuscripts still being edited, tested, or reconsidered. That is intentional. **Desk shows the work in motion instead of pretending every book is at the same stage.**
@@ -132,7 +135,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Predictable**](books/predictable/) | ✍️ Drafting | 12 of 12 | 28,051 | The working thesis is that societies repeatedly make the same mistake around transformative technologies: they correctly recognize that something important has arrived, then misprice how… | [Read →](https://svyable.github.io/desk/reader/#/b/predictable/) |
 | [**Proof of Human**](books/proof-of-human/) | ✅ Complete draft | 29 of 29 | 67,065 | The book argues that the resulting scarcity is not content, which has never been more abundant, but verifiable authenticity: proof of where a piece of media came from, and proof that a… | [Read →](https://svyable.github.io/desk/reader/#/b/proof-of-human/) |
 | [**Public Pressure**](books/public-pressure/) | ✅ Complete draft | 23 of 23 | 81,215 | The working thesis is that AI did not invent distrust of technology companies, politicians, insurers, employers, financial institutions, or other centers of power. | [Read →](https://svyable.github.io/desk/reader/#/b/public-pressure/) |
-| [**Renegade Code**](books/renegade-code/) | ✅ Complete draft | 26 of 26 | 96,321 | Renegade Code asks a narrower and more practical question than whether artificial intelligence will ever “rebel”: what happens when an AI system crosses a boundary its operators believed… | [Read →](https://svyable.github.io/desk/reader/#/b/renegade-code/) |
+| [**Renegade Code**](books/renegade-code/) | ✅ Complete draft | 26 of 26 | 96,735 | Renegade Code asks a narrower and more practical question than whether artificial intelligence will ever “rebel”: what happens when an AI system crosses a boundary its operators believed… | [Read →](https://svyable.github.io/desk/reader/#/b/renegade-code/) |
 | [**Restructuring America**](books/restructuring-america/) | ✅ Complete draft | 20 of 20 | 85,169 | The book begins with the historical purpose of public works and the changing economics of intelligence. | [Read →](https://svyable.github.io/desk/reader/#/b/restructuring-america/) |
 | [**Right to Try**](books/right-to-try/) | ✅ Complete draft | 20 of 20 | 66,967 | The book rejects the easy story that innovation lives wherever regulation disappears. | [Read →](https://svyable.github.io/desk/reader/#/b/right-to-try/) |
 | [**Robust**](books/robust/) | ✅ Complete draft | 31 of 31 | 66,938 | The book’s central claim is that robustness is not resistance to change. | [Read →](https://svyable.github.io/desk/reader/#/b/robust/) |
