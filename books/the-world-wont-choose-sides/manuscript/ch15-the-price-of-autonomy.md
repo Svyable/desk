@@ -522,6 +522,564 @@ That is expensive.
 
 It is also more realistic than the fantasy of independence.
 
+## The autonomy ledger
+
+A state needs a way to see what it is paying for.
+
+Otherwise autonomy spending becomes a collection of favored projects that all claim to reduce dependence.
+
+The autonomy ledger should be organized by critical function rather than ministry.
+
+For each function, record:
+
+The primary dependency.
+
+The actor or actors that control it.
+
+The plausible coercive mechanism.
+
+The replacement path.
+
+The time required to switch.
+
+The operating depth of the alternative.
+
+The carrying cost of keeping the alternative alive.
+
+The political conditions under which switching is usable.
+
+The domestic groups that bear the cost.
+
+The domestic groups that benefit.
+
+The state should be able to answer a brutally simple question.
+
+What decision does this expenditure preserve?
+
+If the answer is vague, the autonomy claim may be symbolic.
+
+A redundant supplier is valuable when it preserves a concrete option under pressure.
+
+If nobody can name the option, the redundancy may be a subsidy looking for a strategy.
+
+## Options have operating states
+
+An alternative is not simply available or unavailable.
+
+It moves through states.
+
+**Nominal.**
+
+A relationship, supplier, route, or capability exists on paper but has little demonstrated switching value.
+
+**Qualified.**
+
+Technical, legal, and political requirements for use are understood.
+
+**Warm.**
+
+The alternative is used often enough that personnel, systems, and counterparties retain practical familiarity.
+
+**Switch-ready.**
+
+The state can move a meaningful share of the critical function within an acceptable time.
+
+**Surge-capable.**
+
+The alternative can absorb crisis demand beyond ordinary use.
+
+**Degraded.**
+
+The option still exists but has lost capacity, political access, maintenance, liquidity, staffing, or another requirement.
+
+**Dormant.**
+
+The option is legally or technically preserved but would require substantial reactivation before it matters.
+
+This state model exposes a common illusion.
+
+Governments count nominal alternatives as though they were surge-capable.
+
+They are not.
+
+Autonomy is produced by the warm and switch-ready middle of the spectrum.
+
+That is the expensive part because it requires routine use before emergency use.
+
+## Optionality decays
+
+Unused options deteriorate.
+
+Personnel leave.
+
+Certifications expire.
+
+Counterparties change systems.
+
+Spare parts become scarce.
+
+Payment relationships lose volume.
+
+Ports prioritize other traffic.
+
+Diplomatic contacts go stale.
+
+Software diverges.
+
+Legal authorities lapse.
+
+Political assumptions change.
+
+This is optionality decay.
+
+Every autonomy portfolio should therefore assign a decay rate.
+
+Some options can remain dormant for years and reactivate quickly.
+
+Others lose credibility within months.
+
+A reserve logistics route may need periodic exercise.
+
+A financial channel may need ordinary commercial flow to remain liquid.
+
+A military supplier may require continuing maintenance and ammunition purchases.
+
+A diplomatic relationship may need regular political attention to preserve trust.
+
+The maintenance schedule should match the decay rate.
+
+Otherwise the state pays to create an option and then quietly allows it to disappear.
+
+## The carrying-cost ratio
+
+Strategic autonomy is always competing with other uses of money.
+
+A useful measure is the carrying-cost ratio.
+
+How much does the state spend each year to preserve an option relative to the political and economic loss that option is designed to prevent?
+
+This does not reduce strategy to accounting.
+
+It forces strategy to become explicit enough for accounting.
+
+A high carrying cost can be justified if the covered failure would be catastrophic.
+
+A low-probability but nationally critical dependency may deserve expensive redundancy.
+
+A modest dependency with easy substitution may not.
+
+The difficult cases are options whose political symbolism is large and crisis utility is small.
+
+Those should be challenged aggressively.
+
+Insurance that cannot pay out is not insurance.
+
+## Switching time is the hidden currency
+
+Autonomy often matters less as permanent replacement than as time.
+
+How long can the state hold its position after a dependency is withdrawn?
+
+How long before an alternative becomes usable?
+
+How long before domestic economic pain forces political reversal?
+
+Call the first quantity endurance time.
+
+Call the second switching time.
+
+Call the third political tolerance time.
+
+The autonomy position is viable when the first and third are long enough to cover the second.
+
+If switching requires twelve months but domestic tolerance collapses in six weeks, the alternative is strategically irrelevant unless the state can bridge the gap.
+
+This converts autonomy into a timing problem.
+
+Stockpiles buy time.
+
+Foreign-exchange reserves buy time.
+
+Alternative suppliers buy time.
+
+Alliances buy time.
+
+Emergency legal authorities buy time.
+
+Domestic substitution buys time.
+
+The state should know how much time each layer provides and whether those layers overlap or fail together.
+
+## Correlated alternatives are fake diversification
+
+Three suppliers can still represent one dependency.
+
+They may rely on the same upstream component.
+
+The same shipping route.
+
+The same cloud provider.
+
+The same financing system.
+
+The same legal jurisdiction.
+
+The same insurer.
+
+The same machine-tool producer.
+
+The same political coalition.
+
+This is correlation risk.
+
+A portfolio should therefore be mapped beneath the visible supplier level.
+
+What common nodes sit underneath the alternatives?
+
+Which disruption would disable several options simultaneously?
+
+Which supposedly independent relationships depend on one standard or one country’s permission?
+
+The state should prefer diversity that changes the failure mode, not diversity that changes the logo.
+
+This is why resilient networks often need some architectural heterogeneity.
+
+Commonality lowers cost.
+
+Too much commonality creates shared failure.
+
+The autonomy problem is finding the point where interoperability does not become common-mode dependence.
+
+## Domain firebreaks
+
+Selective alignment depends on keeping some disagreements from cascading into every relationship.
+
+That requires domain firebreaks.
+
+A trade dispute should not automatically disable military maintenance.
+
+A diplomatic disagreement should not automatically close payment access.
+
+A technology restriction should not automatically freeze humanitarian logistics.
+
+A security disagreement should not automatically erase every commercial relationship.
+
+No government can guarantee that domains remain separate in a severe crisis.
+
+It can design relationships so coupling is not automatic.
+
+Separate legal authorities.
+
+Different contractual triggers.
+
+Multiple providers.
+
+Clear dispute-resolution mechanisms.
+
+Stockpiles that bridge temporary restrictions.
+
+Domestic authority to continue selected functions while political disputes are negotiated.
+
+The stronger the firebreaks, the more a state can disagree selectively without converting every disagreement into systemic rupture.
+
+That is autonomy in action.
+
+## The commitment-adjusted autonomy score
+
+Diversification can reduce dependence while also reducing access to high-value cooperation.
+
+A state therefore needs to evaluate autonomy after accounting for what commitment unlocks.
+
+Deep intelligence sharing may create dependency.
+
+It may also provide warning the state could not generate alone.
+
+A common weapons ecosystem may constrain procurement freedom.
+
+It may also create stockpile depth, maintenance capacity, and wartime resupply unavailable through a fragmented fleet.
+
+A major trade relationship may create exposure.
+
+It may also finance domestic capability and connect firms to a larger market.
+
+The relevant measure is commitment-adjusted autonomy.
+
+What capability does the commitment create?
+
+What veto points does it introduce?
+
+How difficult is exit?
+
+How reciprocal is the dependency?
+
+What happens if the partner becomes less reliable?
+
+What alternatives remain if the relationship degrades?
+
+The best arrangement may involve deep commitment where reciprocity is strong and switching time is manageable, combined with diversification where coercive leverage would otherwise become excessive.
+
+Autonomy is not maximized by avoiding commitment.
+
+It is maximized by committing where commitment expands usable choice.
+
+## Minimum viable sovereignty
+
+States also need to decide which functions require a sovereign floor.
+
+Not full national self-sufficiency.
+
+Minimum viable sovereignty.
+
+What capability must remain under national control even when outside networks fail?
+
+The answer will differ by country and domain.
+
+It may include emergency communications.
+
+Core government data.
+
+Selected cyber functions.
+
+Basic energy continuity.
+
+Critical maintenance.
+
+Emergency financial settlement.
+
+Public-health logistics.
+
+A narrow defense capability.
+
+The important move is to define the floor explicitly.
+
+Once the floor exists, everything above it can be optimized through partnerships with greater confidence.
+
+Without a floor, every external interruption becomes existential.
+
+With an unrealistically high floor, the state pays for national duplication it cannot sustain.
+
+Minimum viable sovereignty is the line between resilience and autarky.
+
+## Autonomy exercises
+
+Options should be exercised the way military capabilities are exercised.
+
+Do not merely ask whether the backup exists.
+
+Use it.
+
+Move a portion of payments through the alternate channel.
+
+Source a critical component from the second supplier.
+
+Operate a workload on the sovereign cloud environment.
+
+Run logistics through the alternate port.
+
+Shift a maintenance task to the domestic facility.
+
+Activate the diplomatic coordination mechanism.
+
+Test emergency procurement rules.
+
+Measure the result.
+
+How long did switching take?
+
+What failed?
+
+Which legal authority was missing?
+
+Which staff did not know the procedure?
+
+Which option had insufficient capacity?
+
+Which counterpart demanded fresh political approval?
+
+Which hidden common dependency appeared?
+
+An autonomy exercise converts an abstract hedge into evidence.
+
+It also creates the institutional memory required for the option to stay warm.
+
+## The political reserve account
+
+Material alternatives are not enough.
+
+A government also needs political reserves.
+
+Can it explain the cost of switching to the public?
+
+Can it compensate groups that will lose income?
+
+Can it maintain parliamentary or elite support during the transition?
+
+Can it prevent a supplier from exploiting domestic divisions?
+
+Can it absorb short-term inflation, shortages, or industrial disruption?
+
+Can it maintain confidence that the strategy is buying time rather than merely extending pain?
+
+This is political reserve capacity.
+
+A technically viable switch can fail because the domestic coalition behind it collapses first.
+
+That is why autonomy investments should include communication plans, legal authorities, compensation mechanisms, and realistic estimates of distributional pain.
+
+The dependency graph runs through domestic politics too.
+
+## The autonomy budget has a stopping rule
+
+Redundancy can become permanent because nobody wants to be responsible for removing resilience.
+
+That creates waste.
+
+Every autonomy investment should therefore have a stopping rule.
+
+What risk justifies the option?
+
+What threshold would make the option unnecessary?
+
+What cheaper substitute would replace it?
+
+What performance failure would prove the option is not worth maintaining?
+
+What carrying cost is too high for the political choice it preserves?
+
+When should the state consolidate again?
+
+The point is not austerity.
+
+It is discipline.
+
+Resilience that cannot be retired becomes a constituency.
+
+A portfolio filled with immortal hedges eventually consumes the resources needed to create new ones.
+
+Autonomy requires the ability to stop paying for yesterday’s risk.
+
+## The autonomy balance sheet
+
+A government should be able to summarize its position in a balance sheet.
+
+On the asset side:
+
+Warm alternatives.
+
+Stockpiles.
+
+Domestic repair capacity.
+
+Reciprocal alliances.
+
+Multiple financial routes.
+
+Diversified market access.
+
+Sovereign minimum capabilities.
+
+Diplomatic relationships.
+
+Legal authorities.
+
+Political reserves.
+
+On the liability side:
+
+Single points of failure.
+
+Long switching times.
+
+High carrying costs.
+
+Common-mode dependencies.
+
+Foreign veto points.
+
+Decaying options.
+
+Domestic groups highly exposed to retaliation.
+
+Technology stacks with no practical exit.
+
+Relationships whose depth depends on exclusivity.
+
+The balance sheet should be updated after every major crisis or policy shock.
+
+Not because autonomy can be reduced to one number.
+
+Because the structure changes.
+
+A new supplier can improve the asset side while introducing an upstream dependency on the liability side.
+
+A deeper alliance can create a new veto point while dramatically increasing surge capacity.
+
+A sovereign technology program can reduce one dependency and create a fiscal burden large enough to weaken another.
+
+The accounting has to remain relational.
+
+## The falsification test
+
+The thesis should remain vulnerable to evidence.
+
+The claim is that strategic autonomy is best understood as maintained switching capacity, domain firebreaks, time, political endurance, and reciprocal structure rather than distance from partners or the count of nominal alternatives.
+
+That claim weakens if countries with highly concentrated dependencies consistently preserve more bargaining freedom under pressure than countries that pay for operational redundancy.
+
+It weakens if warm alternatives do not perform better than nominal ones in crisis.
+
+It weakens if diversification routinely creates more common-mode failure than concentration.
+
+It weakens if deeper alignment generally reduces rather than expands usable choice after accounting for capabilities gained.
+
+It weakens if carrying-cost and switching-time analysis fail to predict which dependencies become coercive.
+
+Those are not theoretical objections.
+
+They are observable outcomes.
+
+A theory of autonomy that treats every new domestic program as success cannot learn.
+
+A theory that counts every foreign relationship as dependence cannot learn either.
+
+The test is what choices survive pressure.
+
+## The price of preserved choice
+
+The price of autonomy is not simply the cost of buying duplicates.
+
+It is the continuous cost of keeping alternatives real.
+
+Exercising them.
+
+Staffing them.
+
+Maintaining political relationships.
+
+Carrying stockpiles.
+
+Preserving legal authorities.
+
+Paying integration costs.
+
+Keeping enough domestic capability to bridge a disruption.
+
+Retiring options that no longer protect useful choices.
+
+Deepening relationships that increase capacity more than they increase vulnerability.
+
+Autonomy is therefore neither cheap hedging nor romantic self-reliance.
+
+It is portfolio management under political uncertainty.
+
+The state is not trying to avoid dependence.
+
+It is trying to prevent dependence from becoming command.
+
+That is expensive.
+
+The cost should be judged against the freedom it preserves.
+
 The price of autonomy is not the money spent to avoid partners.
 
 It is the premium paid to preserve meaningful choice among them.
