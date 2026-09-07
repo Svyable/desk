@@ -187,5 +187,3 @@ The counterfactual is therefore institutional. If *Constitution* had never won a
 That is the quieter foundation beneath “Old Ironsides.” The ship's eventual fame makes preservation easier. Her deeper importance is that she embodies the moment the republic decided maritime insecurity was not merely a problem for individual merchants to insure around.
 
 The state would build capacity before it knew exactly which war would justify it.
-
-<!-- PUB-AUGMENT-2026-09-06 -->
