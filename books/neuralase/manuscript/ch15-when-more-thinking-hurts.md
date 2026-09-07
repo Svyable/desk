@@ -448,6 +448,24 @@ The ideal is not endless openness.
 
 It is evidence-sensitive stability.
 
+Rollback has a second requirement that is easy to miss: the checkpoint itself has to remain trustworthy.
+
+A pipeline can say it preserves the best-so-far answer while quietly changing the evidence around that answer. A retrieved source is replaced by a summary. A test environment changes. A verifier is upgraded. The candidate string remains identical, but the basis on which it was validated has drifted.
+
+So a useful checkpoint is not only an answer.
+
+It is an answer plus enough of the validation state to explain why the system was willing to trust it.
+
+That does not require freezing every token of internal reasoning. It can mean preserving the source identifiers, test results, policy version, tool outputs, and constraints that made the candidate acceptable. If a later pass wants to overturn the checkpoint, the controller can compare not just two sentences but two evidentiary states.
+
+This matters because revision pressure is asymmetric. New information can legitimately weaken an old answer. Mere novelty should not. A later candidate that differs only because the model sampled another path has a weaker claim than one that resolves a failing test or incorporates a newly authoritative source.
+
+The same principle helps when the environment changes. A checkpoint can expire because the world it described expired. Preserving it does not mean worshipping it. It means knowing what would have to change before its authority should change.
+
+Rollback is therefore not nostalgia for the first answer.
+
+It is memory with standards.
+
 The hardest stop signal may be boredom.
 
 There is one surprisingly practical signal of overthinking: nothing materially new is happening.

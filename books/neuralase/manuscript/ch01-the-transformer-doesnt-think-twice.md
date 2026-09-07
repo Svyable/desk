@@ -234,6 +234,22 @@ The next generation of AI systems may therefore become less obsessed with narrat
 
 That would be progress.
 
+Operational traces also expose a distinction that benchmark tables often blur: computational depth and decision depth are not the same thing.
+
+A system can spend heavily without reopening the decision. It can retrieve five documents that all support the same premise, sample six branches that collapse to the same interpretation, or run additional latent iterations that leave the selected action unchanged. The work may be real. The decision frontier may not have moved.
+
+The opposite can happen too. One cheap observation can change everything. A unit test fails. A permission check returns no. A primary source contradicts the summary. A user says the objective was misunderstood. Very little compute has been added, but the path through the problem has changed sharply.
+
+That distinction matters for debugging because it tells us what to record. Raw duration is not enough. Neither is token count. A useful trace should show where the decision state changed: which assumption was reopened, which candidate was eliminated, which constraint became binding, which observation justified another pass.
+
+This is also a defense against theater. A product can look more deliberative because the interface pauses longer or exposes more intermediate text. The stronger evidence is whether the extra work created a new route through the problem.
+
+Depth is an input.
+
+A changed decision state is an effect.
+
+The two should not be confused.
+
 There is one final reason to establish these layers carefully. Once a loop can alter how much computation a problem receives, model capacity and system policy begin to mix.
 
 A hard prompt might receive more depth because the controller judged it consequential. Another might receive less because a user selected a fast mode. A third might receive more because the verifier failed. A fourth might never be allowed to call a tool because the permission boundary forbids it. Two users can therefore ask the same base model the same question and receive not merely different stochastic samples but different computational treatment.
