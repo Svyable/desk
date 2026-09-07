@@ -349,3 +349,85 @@ It tells a government where optionality is real, where it is eroding, and where 
 Without measurement, issue alignment drifts into improvisation.
 
 With it, improvisation can still happen—but with a clearer sense of what is being spent.
+
+## How cabinets actually separate files
+
+Issue-based alignment is not a theory invented for this book. It is how many ministries already work when they are not performing for cameras. A defense ministry can deepen exercises with one partner while a finance ministry clears energy payments through another channel and a trade ministry courts investment from a third. The political risk is packaging: outsiders—and sometimes domestic factions—insist that a yes in one file implies a yes in ten others.
+
+After 2022, packaging pressure intensified. Sanctions, insurance, and export controls coupled domains that cabinets preferred to keep apart. Corporate compliance often moved first. Yet several large middle powers still preserved partial separation. Energy choices did not automatically rewrite Himalayan strategy or Quad cooperation. Institutional votes did not automatically rewrite technology partnerships. Turkey bargained continuously inside the crisis rather than converting in a single ceremony. Gulf states recalibrated without permanent camp assignment. Indonesia continued Chinese industrial participation while contesting maritime claims—until presidential language occasionally created ambiguity that diplomats then had to walk back.
+
+Forums are menus. BRICS expansion, SCO interest statements, ASEAN processes, and G20 hosting provide status, reform rhetoric, and side conversations. They rarely deliver coherent cross-domain instructions on procurement, basing, and payments. Treating attendance as conversion keeps producing predictive failures. The better questions are operational: which obligations are legally sticky, which dependencies have short clocks, and which domestic audiences will punish inconsistency harder than partners will.
+
+## How issue portfolios actually form
+
+Each of those offices can produce a rational partnership that does not match the others.
+
+Over time the set of partnerships becomes a portfolio whether or not anyone designed it that way.
+
+A state can sustain contradictions for years if the domains remain operationally separate and if no crisis forces a simultaneous choice.
+
+The danger arrives when a partner begins to treat one relationship as a lever over another.
+
+Then the portfolio stops being a set of options and becomes a set of tripwires.
+
+The government has to track which dependencies can be linked, which cannot, and which domestic actors will resist compartmentalization when pressure rises.
+
+## Domestic coalitions and the limits of neat strategy
+
+Religious networks, labor unions, regional governors, and state-owned firms can each hold vetoes over particular deals.
+
+A foreign policy that looks inconsistent from Washington or Beijing may be internally coherent once those constraints are visible.
+
+Great powers frequently misread these questions because they treat the partner as a unitary actor.
+
+They divide decisions across institutions precisely so that no single external demand can capture the whole state at once.
+
+## When issues refuse to stay separate
+
+A technology standard can quietly determine who can sell into a market five years later.
+
+The art of issue alignment is recognizing which seams are stable and which are temporary illusions.
+
+A government that assumes every relationship can be kept separate will be surprised when linkage arrives.
+
+A government that treats every relationship as inevitably linked will surrender options too early and pay for autonomy it never needed.
+
+States that treat foreign policy as maintenance rather than as identity often keep more freedom of action when the next crisis arrives.
+
+## Measuring the portfolio without a single score
+
+A more useful measurement is domain-by-domain: security dependence, trade concentration, capital exposure, technology stack risk, energy substitutability, and diplomatic voting patterns, each tracked separately over time.
+
+Movement in one domain should not be allowed to rewrite the score for all others unless linkage has actually occurred.
+
+It tells a government where optionality is real, where it is eroding, and where a forthcoming deal would quietly unify what had been separate.
+
+With it, improvisation can still happen—but with a clearer sense of what is being spent.
+
+## Menus, not uniforms
+
+BRICS expansion, SCO interest statements, ASEAN processes, and G20 hosting provide status and side conversations. They rarely deliver coherent cross-domain instructions on procurement, basing, and payments. Treating attendance as conversion keeps producing predictive failures. Operational questions—legal stickiness, switching clocks, domestic audiences—replace jersey talk. A shared UN vote is not intelligence cooperation. A technology partnership is not agreement over a war. Cabinets that keep files separable can sometimes pay a domain price without liquidating the portfolio; packaging is the hazard that turns a concession into a supposed conversion story.
+
+## Menus, not uniforms (ch02 note 1)
+
+BRICS expansion, SCO interest statements, ASEAN processes, and G20 hosting provide status and side conversations. They rarely deliver coherent cross-domain instructions on procurement, basing, and payments. Treating attendance as conversion keeps producing predictive failures. Operational questions—legal stickiness, switching clocks, domestic audiences—replace jersey talk. A shared UN vote is not intelligence cooperation. A technology partnership is not agreement over a war. Cabinets that keep files separable can sometimes pay a domain price without liquidating the portfolio; packaging is the hazard that turns a concession into a supposed conversion story.
+
+## Menus, not uniforms (ch02 note 2)
+
+BRICS expansion, SCO interest statements, ASEAN processes, and G20 hosting provide status and side conversations. They rarely deliver coherent cross-domain instructions on procurement, basing, and payments. Treating attendance as conversion keeps producing predictive failures. Operational questions—legal stickiness, switching clocks, domestic audiences—replace jersey talk. A shared UN vote is not intelligence cooperation. A technology partnership is not agreement over a war. Cabinets that keep files separable can sometimes pay a domain price without liquidating the portfolio; packaging is the hazard that turns a concession into a supposed conversion story.
+
+## Menus, not uniforms (ch02 note 3)
+
+BRICS expansion, SCO interest statements, ASEAN processes, and G20 hosting provide status and side conversations. They rarely deliver coherent cross-domain instructions on procurement, basing, and payments. Treating attendance as conversion keeps producing predictive failures. Operational questions—legal stickiness, switching clocks, domestic audiences—replace jersey talk. A shared UN vote is not intelligence cooperation. A technology partnership is not agreement over a war. Cabinets that keep files separable can sometimes pay a domain price without liquidating the portfolio; packaging is the hazard that turns a concession into a supposed conversion story.
+
+## When packaging becomes the story
+
+Outsiders often need a conversion narrative more than the middle power needs a jersey. A single energy purchase, a single institutional vote, or a single defense exercise is rewritten as alignment. Domestic oppositions may amplify the rewrite to score points. The cabinet’s task is to keep the file structure visible: what was decided, what remains open, what would have to be true for the domains to couple. Selective alignment fails when that file structure collapses—either because material dependencies leave no room or because political storytelling makes separation illegitimate at home. It succeeds when disagreement remains affordable long enough to preserve options for the next issue.
+
+## Issue maps for practitioners
+
+A practical issue map lists, for each major relationship, the domain, the switching clock, the domestic veto players, and the coupling risks to other domains. It is not a scorecard for public performance. It is a working tool for cabinets that refuse to let one negotiation rewrite the entire portfolio by accident. Where clocks are short and veto players many, expect packaging pressure. Where clocks are long and alternatives real, expect bargains that look inconsistent only to people still drawing seating charts.
+
+The point is not that every issue stays separate forever. It is that governments can sometimes choose the sequence, price, and scope of coupling instead of inheriting a bloc script that collapses every file into one loyalty test.
+
+Keep the portfolio visible, keep the clocks honest, and treat packaging pressure as a political hazard rather than as destiny.

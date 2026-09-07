@@ -475,3 +475,49 @@ The government that cashes every moment immediately often has nothing left when 
 Strategic patience is not passivity.
 
 It is the discipline of spending scarcity on structural gains rather than on symbolic wins.
+
+## Clocks, substitutes, and false indispensability
+
+Leverage is not a title. It is a gap between someone else’s need and the speed of substitution. Nickel refining, chokepoint geography, sovereign capital, swing energy, institutional agenda control, and legitimacy symbols all create gaps. Each has a different clock. A corridor can be bypassed at higher cost. A mineral chemistry can change. A vote can be circumvented by a minilateral. A legitimacy claim can be discounted by domestic failure.
+
+Great powers shrink clocks with stockpiles, parallel infrastructure, alternative suppliers, and legal workarounds. Middle powers lengthen clocks with second sources, local sustainment, open interfaces, and coalitions willing to absorb temporary pain. False leverage appears when summit invitations are mistaken for long clocks. Performative threats that would harm the threatener more than the target train partners to wait. Sequence matters: selling the scarce asset before locking technology transfer and maintenance rights can leave the seller dependent on the buyer’s next offer.
+
+Domestic authorization multiplies or cancels external leverage. Fuel prices, export employment, diaspora politics, and parliamentary opposition can veto a clever portfolio overnight. Conversely, a rough domestic consensus around strategic autonomy can make expensive diversification survivable. The sources of leverage are therefore material and political at once. Counting factories without counting coalitions mismeasures power.
+
+## Leverage decays unless it is renewed
+
+States that treat a temporary advantage as permanent status often overplay it and then discover that the auction has moved elsewhere.
+
+Use the period of being needed to build capabilities that outlast the need: skills, firms, legal institutions, diversified infrastructure, and relationships that do not depend on a single crisis.
+
+A country that extracts only rents from leverage will eventually be left with rents and no leverage.
+
+## Domestic coalitions as a leverage switch
+
+External bargaining power that cannot survive domestic politics is theater. Fuel prices, export employment, diaspora coalitions, and parliamentary opposition can veto a clever portfolio. A rough consensus around strategic autonomy can make expensive diversification survivable. Leverage is what others need from you and what your political system will let you withhold. False indispensability—summit invitations mistaken for long substitute clocks—trains partners to call bluffs. Sequence still matters: sell the scarce asset before locking transfer and maintenance rights, and the seller becomes the dependent party in the next round.
+
+## Domestic coalitions as a leverage switch (ch03 note 1)
+
+External bargaining power that cannot survive domestic politics is theater. Fuel prices, export employment, diaspora coalitions, and parliamentary opposition can veto a clever portfolio. A rough consensus around strategic autonomy can make expensive diversification survivable. Leverage is what others need from you and what your political system will let you withhold. False indispensability—summit invitations mistaken for long substitute clocks—trains partners to call bluffs. Sequence still matters: sell the scarce asset before locking transfer and maintenance rights, and the seller becomes the dependent party in the next round.
+
+## Domestic coalitions as a leverage switch (ch03 note 2)
+
+External bargaining power that cannot survive domestic politics is theater. Fuel prices, export employment, diaspora coalitions, and parliamentary opposition can veto a clever portfolio. A rough consensus around strategic autonomy can make expensive diversification survivable. Leverage is what others need from you and what your political system will let you withhold. False indispensability—summit invitations mistaken for long substitute clocks—trains partners to call bluffs. Sequence still matters: sell the scarce asset before locking transfer and maintenance rights, and the seller becomes the dependent party in the next round.
+
+## Domestic coalitions as a leverage switch (ch03 note 3)
+
+External bargaining power that cannot survive domestic politics is theater. Fuel prices, export employment, diaspora coalitions, and parliamentary opposition can veto a clever portfolio. A rough consensus around strategic autonomy can make expensive diversification survivable. Leverage is what others need from you and what your political system will let you withhold. False indispensability—summit invitations mistaken for long substitute clocks—trains partners to call bluffs. Sequence still matters: sell the scarce asset before locking transfer and maintenance rights, and the seller becomes the dependent party in the next round.
+
+## Reading courtship without confusing it for power
+
+Being courted at summits is not the same as controlling a scarce node. Courtship can be cheap for a great power and flattering for a middle power. Leverage appears when refusal changes the other side’s feasible set on a clock that matters. That is why substitution analysis belongs beside every asset inventory. A state that knows its own clocks—and its partner’s—can bargain. A state that mistakes attention for indispensability will overplay a hand and then discover the workaround already under construction.
+
+## Renewing leverage before it decays
+
+Assets age. Routes get bypassed. Technologies get substituted. Legitimacy gets discounted. Middle powers that treat pivotality as a permanent rank discover decay the hard way. Those that reinvest—maintenance, second sources, institutional usefulness, domestic authorization—renew the gap between need and substitution. Leverage is a flow, not a medal. The sources described in this chapter matter only while someone else still needs them on a clock you can survive.
+
+That is why this chapter insists on mechanisms rather than labels: scarcity, substitutability, time, domestic authorization, and sequence. Without those, “middle power” is only a compliment.
+
+Measure the gap between need and substitution, then bargain inside it—before workarounds close the gap for you.
+
+Without those mechanisms, courtship is mistaken for power and decline arrives as a surprise.

@@ -469,3 +469,49 @@ A sanctions dispute, a shipping crisis, or a technology ban can arrive through a
 Gulf autonomy therefore depends on institutional capacity to manage contested intersections: compliance systems, diplomatic mediation, and the ability to keep commercial channels open without pretending politics has vanished.
 
 The capital power that lasts is the one that can host rivalry without becoming its hostage.
+
+## Capital, security architecture, and separate tracks
+
+Gulf strategy is no longer only basing and barrels. Sovereign wealth, industrial localization, aviation and logistics hubs, data-center bets, and mediation branding turn capital into a tool that substitutes for distance from manufacturing cores. American security architectures remain central for several Gulf states even as Chinese trade, construction, and technology relationships densify, and as European and Asian investors compete for Vision-led diversification stakes. Carnegie work on MENA in 2026 emphasizes convergence zones where both Washington and Beijing matter more than either exclusivity narrative admits.
+
+Capital buys attention, co-financing, and agenda time. It does not automatically buy trusted technology release or immunity from sanctions spillover. Networks that meet in the Gulf—energy traders, fund managers, defense attachés, sports and tourism brands, religious diplomacy—multiply interlocutors and optionality. They also create coupling risks when financial compliance moves faster than cabinets. Hedging here is often misread as imminent realignment. A more accurate reading is issue-by-issue portfolio management under regime-security constraints. Normalization deals, OPEC+ coordination, Red Sea incidents, and AI/cloud procurement each pull toward different partners. The durable pattern is refusal to let any one relationship write the others automatically.
+
+## Capital as a substitute for distance
+
+Sovereign funds, national oil companies, logistics operators, airlines, ports, and increasingly technology and industrial joint ventures allow Gulf governments to participate in multiple networks without needing physical distance from any of them.
+
+A fund can invest in American technology firms, Asian manufacturing, African infrastructure, and European assets in the same quarter.
+
+A logistics company can move goods for customers who would refuse to sit in the same coalition meeting.
+
+A sovereign wealth vehicle can finance a project that neither Washington nor Beijing wants to underwrite alone.
+
+It makes Gulf states useful as connectors precisely because they are not forced to perform ideological consistency in every market.
+
+It depends on credibility with multiple audiences, on legal and financial systems that can process contested capital, and on security arrangements that keep the physical base of that capital intact.
+
+The more Gulf states become indispensable to many networks, the more those networks care about Gulf political stability, governance of funds, and the reliability of local institutions.
+
+## What capital cannot buy
+
+A fund can also create domestic political expectations that reduce flexibility: employment promises, prestige projects, and industrial strategies that become hard to reverse when markets change.
+
+The useful investments are those that create alternative routes, skills, standards participation, and relationships that survive a single diplomatic quarrel.
+
+Gulf strategy at its strongest has treated money as a way to keep several doors open.
+
+It is proven by whether those assets leave the state freer to choose partners issue by issue when the next shock arrives.
+
+## Networks that meet in the Gulf
+
+Part of Gulf leverage comes from being a place where other people’s networks intersect.
+
+A sanctions dispute, a shipping crisis, or a technology ban can arrive through a commercial relationship that looked apolitical when signed.
+
+Gulf autonomy therefore depends on institutional capacity to manage contested intersections: compliance systems, diplomatic mediation, and the ability to keep commercial channels open without pretending politics has vanished.
+
+The capital power that lasts is the one that can host rivalry without becoming its hostage.
+
+## Separate tracks until compliance couples them
+
+Gulf capitals combine American security architectures with Asian trade and Chinese technology links while sovereign wealth finances industrial localization and mediation branding. Carnegie MENA work in 2026 emphasizes convergence zones where exclusivity narratives fail. Capital buys agenda time; it does not buy automatic trust or sanctions immunity. Red Sea incidents, OPEC+ coordination, normalization deals, and cloud procurement each pull toward different partners. The durable pattern is portfolio management under regime-security constraints—not an imminent permanent realignment.

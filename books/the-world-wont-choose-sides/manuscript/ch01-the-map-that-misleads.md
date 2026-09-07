@@ -489,3 +489,11 @@ It is, “What decision are they making, what can they refuse, what would a swit
 Those questions produce a messier map.
 
 They also produce a more useful one.
+
+## Portfolios instead of jerseys
+
+The seating chart still dominates commentary because it is easy to draw. A country is placed with Washington or Beijing, sometimes with a hesitant mark for “hedging,” and the analyst moves on. The chart fails because foreign policy is increasingly assembled as a portfolio. Security cooperation can deepen with one network while energy purchases, industrial capital, cloud contracts, and institutional votes travel through others. Domains couple under stress, but they do not all couple on the same timetable, and they do not all couple for every state.
+
+India’s combination of Quad participation, discounted Russian oil after 2022, BRICS membership, and expanding defense-industrial ties with France, the United States, and Israel is not a contradiction that awaits resolution into a jersey. It is a working portfolio with different switching costs in each column. Turkey’s NATO membership alongside energy ties, defense exports, Black Sea instruments, and periodic SCO rhetoric is the same structure under alliance constraints. Gulf strategies that keep American security architectures while expanding Asian trade and Chinese technology links show capital and security traveling on separate tracks until a crisis tries to braid them.
+
+The analytical upgrade is a coupling test. For any relationship, ask how many other decisions it constrains, how fast a substitute can be stood up, and what domestic coalition must authorize pain if the relationship is interrupted. A weapons purchase with closed software and foreign munitions is tightly coupled. A sovereign-wealth co-investment with portable terms is loosely coupled. A payment rail that can clear a critical commodity under sanctions pressure is autonomy; a summit paragraph about “local currency” that cannot clear a shipment is branding. Maps that ignore those differences teach great powers to demand conversion and teach middle powers nothing useful about where their leverage actually sits.
