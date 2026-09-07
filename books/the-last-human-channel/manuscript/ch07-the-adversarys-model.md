@@ -316,38 +316,8 @@ The argument is then about whose representation governs joint action.
 
 Settling that argument is alliance statecraft, not software configuration.
 
-The chapter closes where it began.
-
 Imagination about the adversary is necessary.
 
 Delegation of belief to a fluent representation is optional.
 
 The optional part is where professional courage still has work to do.
-
-Practitioners working on 7 the adversarys model issues should keep a living note of what would change their minds. Without that note, confirmation bias wears institutional clothing.
-
-Contractors who sell adversary models will promise updates at a tempo ministries cannot thoughtfully absorb. Change management becomes a security issue when yesterday's assumptions silently vanish inside a new software version. Pin versions used for consequential briefs. Require migration notes that humans actually read before the next crisis cell convenes.
-
-Budget identity matters: money labeled innovation tends to buy generation; money labeled integrity tends to buy verification. Both labels should appear in the same fiscal year if the doctrine in this book is taken seriously.
-
-Personnel evaluation forms that never mention verification skill will not produce verification cultures, regardless of strategy documents.
-
-International partners notice hypocrisy quickly when a government preaches responsible AI abroad while improvising recklessly at home.
-
-The archival future should be imaginable while drafting today's machine-assisted memo. If the memo cannot be explained later, it is not finished now.
-
-Evidence discipline remains the through-line. Claims about capability should cite deployments, not aspirations. Claims about risk should admit base rates and alternative explanations. Claims about professional advice should separate what is known from what is preferred. Readers and officers alike are owed that separation, especially when surrounding prose sounds finished.
-
-Practitioners working on 7 the adversarys model issues should keep a living note of what would change their minds. Without that note, confirmation bias wears institutional clothing.
-
-Budget identity matters: money labeled innovation tends to buy generation; money labeled integrity tends to buy verification. Both labels should appear in the same fiscal year if the doctrine in this book is taken seriously.
-
-Personnel evaluation forms that never mention verification skill will not produce verification cultures, regardless of strategy documents.
-
-International partners notice hypocrisy quickly when a government preaches responsible AI abroad while improvising recklessly at home.
-
-The archival future should be imaginable while drafting today's machine-assisted memo. If the memo cannot be explained later, it is not finished now.
-
-Evidence discipline remains the through-line. Claims about capability should cite deployments, not aspirations. Claims about risk should admit base rates and alternative explanations. Claims about professional advice should separate what is known from what is preferred. Readers and officers alike are owed that separation, especially when surrounding prose sounds finished.
-
-Practitioners working on 7 the adversarys model issues should keep a living note of what would change their minds. Without that note, confirmation bias wears institutional clothing.

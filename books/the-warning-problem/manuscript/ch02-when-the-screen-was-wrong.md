@@ -290,7 +290,6 @@ Not only how quickly it notices the attack.
 
 How well it helps the system discover that the attack on the screen is not the attack in the world.
 
-
 The National Security Archive later published declassified documents that make the political texture of those minutes clearer. On the night of the November 1979 false warning, National Security Adviser Zbigniew Brzezinski was awakened with a report of a massive Soviet attack. The warning was withdrawn before he reached the President. The episode is often told as a near-miss anecdote. Read carefully, it is also evidence that warning systems sit inside a chain of human notification whose safety depends on more than the first screen. The same documentary record shows Soviet complaints about the extreme danger of false warnings, and Secretary of Defense Harold Brown telling President Carter that false warnings were virtually inevitable while human safeguards were expected to keep them from escaping control.
 
 Inevitable false warnings are an uncomfortable design premise.
@@ -335,7 +334,6 @@ Doubt is part of the job description.
 
 The screens of 1979 and 1980 were wrong for reasons that engineers could eventually name. Future screens may be wrong for reasons that are statistically real and narratively unsatisfying. That is why the rest of this book spends less time on the romance of near misses and more time on the architecture that determines whether a wrong screen becomes a wrong war.
 
-
 One more distinction helps before the book leaves the historical screens behind.
 
 A false alarm that is caught inside the warning organization is a different political object from a false alarm that reaches national leadership as a live attack report. Both matter. The first tests procedures. The second tests whether procedures survived contact with fear. The 1979 and 1980 events sit in a gray zone where alert actions began and senior officials were notified even though the missiles were not real. That gray zone is where AI confidence displays will live. They will not usually be asked to launch. They will be asked to decide how loud the building becomes, how many people are woken, which forces move, and how quickly a story hardens.
@@ -351,37 +349,3 @@ Vigilance, because warning must remain sensitive.
 Humility, because sensitivity without disciplined doubt is a machine for manufacturing crises.
 
 Wrong screens will return in new technical dress. The question is whether institutions keep the habits that survived the old dress.
-
-Incentive design under modernization pressure remains the quiet governor of safety. Measure near-miss capture, caveat survival, time-to-structured-disagreement, and graded willingness to challenge machines. What is unmeasured decays when schedules slip.
-
-Allied releasability rules should preserve uncertainty markers with the same zeal they preserve tracks. A shared picture that launders doubt into consensus exports false confidence across borders.
-
-Degraded-mode competence is a strategic asset. Crews who can fuse slowly by hand when models are suspect will outlast crews who can only consume tiles. Train the slow path.
-
-Declaratory policy about human control should reach upstream into warning and decision support, not only the final employment decision. Mediation is where AI will live first.
-
-Spoiler hypotheses belong on assessment boards during dual crises of cyber and kinetic indication. Nightmare coherence is not analysis.
-
-Confidence without corroboration should decay on a clock operators can see. Absence of expected confirmation is evidence. Inertia is not inference.
-
-Semantic firewalls between theater battle management and strategic warning are controls against entanglement in software. Seamless is not safe by default.
-
-Exercises must plant high-quality machine errors and reward the humans who catch them. If catching errors is career-limiting, the institution has automated its deafness.
-
-Procurement scorecards should value auditability and disagreement surfacing as heavily as peacetime precision. Vendors build what scorecards pay for.
-
-Crisis communication templates that explain exercises and anomalous indications reduce the chance that one side's modernization becomes the other side's impending doom narrative.
-
-Integrity shedding playbooks must be rehearsed until boring. Boring safety beats exciting danger when minutes are few.
-
-Generative fluency must never set a numeric dial. Narrate freely if needed; quantify only with tested estimators and visible conditions.
-
-Political cover for slowing down should be pre-negotiated. Asking for time in the moment feels like weakness; procedure converts it into professionalism.
-
-Historical false alarms remain manuals, not museums. Update them with AI-era failure modes rather than declaring the old lessons expired.
-
-Independent review of model dependency classes belongs outside shipping chains. Optimism under schedule pressure is not a safety analysis.
-
-Public affairs certainty theater can trap diplomacy. Align external messaging with internal uncertainty when warning is ambiguous.
-
-Red-team models whose only job is to argue overconfidence should sit beside blue fusion on the same glass. Rivalry is a feature.

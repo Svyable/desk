@@ -162,34 +162,4 @@ The last human channel, at the level of the principal, is not a romantic prefere
 
 It is the insistence that the person who can bind the state remain able to explain the decision after the model that helped prepare it has been updated, replaced, or forgotten.
 
-Practitioners working on 6 the principal and the maine issues should keep a living note of what would change their minds. Without that note, confirmation bias wears institutional clothing.
-
-Cabinet secretaries who fear being bypassed by a leader's private model sessions will build counter-briefing habits, some healthy and some obstructive. Healthy habits force evidence into the open. Obstructive habits hoard information to remain indispensable. Organizational design should reward the first pattern. Otherwise AI at the top becomes another arena for court politics with better fonts.
-
-Budget identity matters: money labeled innovation tends to buy generation; money labeled integrity tends to buy verification. Both labels should appear in the same fiscal year if the doctrine in this book is taken seriously.
-
-Personnel evaluation forms that never mention verification skill will not produce verification cultures, regardless of strategy documents.
-
-International partners notice hypocrisy quickly when a government preaches responsible AI abroad while improvising recklessly at home.
-
-The archival future should be imaginable while drafting today's machine-assisted memo. If the memo cannot be explained later, it is not finished now.
-
-Evidence discipline remains the through-line. Claims about capability should cite deployments, not aspirations. Claims about risk should admit base rates and alternative explanations. Claims about professional advice should separate what is known from what is preferred. Readers and officers alike are owed that separation, especially when surrounding prose sounds finished.
-
-Practitioners working on 6 the principal and the maine issues should keep a living note of what would change their minds. Without that note, confirmation bias wears institutional clothing.
-
-Budget identity matters: money labeled innovation tends to buy generation; money labeled integrity tends to buy verification. Both labels should appear in the same fiscal year if the doctrine in this book is taken seriously.
-
-Personnel evaluation forms that never mention verification skill will not produce verification cultures, regardless of strategy documents.
-
-International partners notice hypocrisy quickly when a government preaches responsible AI abroad while improvising recklessly at home.
-
-The archival future should be imaginable while drafting today's machine-assisted memo. If the memo cannot be explained later, it is not finished now.
-
-Evidence discipline remains the through-line. Claims about capability should cite deployments, not aspirations. Claims about risk should admit base rates and alternative explanations. Claims about professional advice should separate what is known from what is preferred. Readers and officers alike are owed that separation, especially when surrounding prose sounds finished.
-
-Practitioners working on 6 the principal and the maine issues should keep a living note of what would change their minds. Without that note, confirmation bias wears institutional clothing.
-
-Budget identity matters: money labeled innovation tends to buy generation; money labeled integrity tends to buy verification. Both labels should appear in the same fiscal year if the doctrine in this book is taken seriously.
-
 A principal who cannot explain a decision without reopening the chat history has not yet made a decision the state can inherit. Inheritance is the quiet test of authority in a tool-saturated government.
