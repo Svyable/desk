@@ -10,7 +10,6 @@ const appUrl = `${upstream}app.js?v=desk-20260906-subtitle-catalog-1`;
 const viewportStabilityUrl = `${upstream}viewport-stability-runtime.js?v=r1`;
 const nativeShareUrl = `${upstream}native-share.js`;
 const libraryHomeUrl = 'https://svyable.github.io/desk/reader/css/desk-library-home.css?v=bookself-20260904';
-const bookInteriorUrl = 'https://svyable.github.io/desk/reader/css/desk-book-interior.css?v=bookself-20260905';
 const bookOpeningHandoffUrl = 'https://svyable.github.io/desk/reader/css/desk-book-opening-handoff.css?v=bookself-20260906';
 
 const DESK_CATALOG_AUDIT = Object.freeze([
@@ -52,9 +51,7 @@ function installDeskStylesheet(id, href) {
 installDeskRuntimeBridge();
 installDeskChromePolicy();
 installDeskStylesheet('deskLibraryHome', libraryHomeUrl);
-installDeskStylesheet('deskBookInterior', bookInteriorUrl);
 installDeskStylesheet('deskBookOpeningHandoff', bookOpeningHandoffUrl);
-document.documentElement.dataset.bookInterior = 'true';
 
 function installRecoveryStyles() {
   if (document.getElementById('deskBootstrapRecoveryStyle')) return;
@@ -105,6 +102,7 @@ try {
   );
   try { await import(viewportStabilityUrl); } catch (error) { console.warn('Viewport stability could not be loaded', error); }
   try { await import(nativeShareUrl); } catch (error) { console.warn('Native sharing could not be loaded', error); }
+  try { await import('./desk-book-interior.js?v=bookself-20260906-fail-open-1'); } catch (error) { console.warn('Desk premium book interior could not be loaded', error); }
   try { await import('./desk-app-shell-polish.js?v=bookself-20260906'); } catch (error) { console.warn('Desk Reader app-shell polish could not be loaded', error); }
   try { await import('./desk-book-opening-handoff.js?v=bookself-20260906'); } catch (error) { console.warn('Desk book-opening handoff could not be loaded', error); }
   try { await import('./desk-reading-app.js?v=bookself-20260905'); } catch (error) { console.warn('Desk reading-app hierarchy could not be loaded', error); }
