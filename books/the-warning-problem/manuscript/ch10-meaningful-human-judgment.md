@@ -20,104 +20,6 @@ Meaningful judgment is falsifiable in exercises. If crews cannot articulate why 
 
 The chapter's claim is demanding because it rejects comfort. Humans are not automatically safe. Machines are not automatically unsafe. Safety lives in the conditions of their pairing. Build the conditions. Then call the pairing control. Without the conditions, reserve the word.
 
-In operational terms, the argument of "Meaningful Human Judgment" becomes a set of drills, interface requirements, and refusal rules that can be inspected. If it cannot be inspected, it is not yet a control. Nuclear warning needs controls more than it needs slogans.
-
-Counter-evidence belongs in the same chapter as fear. Machine assistance can reduce fatigue, catch sensor faults, and retrieve obscure precedent. Those benefits are real. They do not cancel the mechanisms named here; they compete with them. Architecture decides the winner on any given night.
-
-Allied practice matters because one partner's overconfident display can become another's inherited urgency. Shared warning should share caveats with the same enthusiasm it shares tracks. A releasable product that strips uncertainty is not a gift.
-
-Procurement language should score systems on spoof-resistance, disagreement surfacing, and degraded-mode clarity—not only on peacetime precision. Scorecards teach vendors what to build. Teach them the right lesson.
-
-Political leaders need briefings that make uncertainty speakable without sounding like insubordination. Doctrine can authorize that speech. Without authorization, silence will dress itself as confidence.
-
-The historical record of false alarms and near misinterpretations is not a museum. It is a manual. Read it as a manual. Update it with AI-era failure modes rather than pretending the old manual expired.
-
-Measure success by preserved decision quality under stress, not by how modern the stack looks in a hearing. Modernity without judgment is cosmetics.
-
-This chapter's mechanisms reconnect to later prescriptions: guardrails, testing, designing for doubt, and protecting time to think. Mechanisms without prescriptions are diagnosis without treatment; prescriptions without mechanisms are wish lists.
-
-In operational terms, the argument of "Meaningful Human Judgment" becomes a set of drills, interface requirements, and refusal rules that can be inspected. If it cannot be inspected, it is not yet a control. Nuclear warning needs controls more than it needs slogans.
-
-Counter-evidence belongs in the same chapter as fear. Machine assistance can reduce fatigue, catch sensor faults, and retrieve obscure precedent. Those benefits are real. They do not cancel the mechanisms named here; they compete with them. Architecture decides the winner on any given night.
-
-Allied practice matters because one partner's overconfident display can become another's inherited urgency. Shared warning should share caveats with the same enthusiasm it shares tracks. A releasable product that strips uncertainty is not a gift.
-
-Procurement language should score systems on spoof-resistance, disagreement surfacing, and degraded-mode clarity—not only on peacetime precision. Scorecards teach vendors what to build. Teach them the right lesson.
-
-Political leaders need briefings that make uncertainty speakable without sounding like insubordination. Doctrine can authorize that speech. Without authorization, silence will dress itself as confidence.
-
-The historical record of false alarms and near misinterpretations is not a museum. It is a manual. Read it as a manual. Update it with AI-era failure modes rather than pretending the old manual expired.
-
-Measure success by preserved decision quality under stress, not by how modern the stack looks in a hearing. Modernity without judgment is cosmetics.
-
-This chapter's mechanisms reconnect to later prescriptions: guardrails, testing, designing for doubt, and protecting time to think. Mechanisms without prescriptions are diagnosis without treatment; prescriptions without mechanisms are wish lists.
-
-In operational terms, the argument of "Meaningful Human Judgment" becomes a set of drills, interface requirements, and refusal rules that can be inspected. If it cannot be inspected, it is not yet a control. Nuclear warning needs controls more than it needs slogans.
-
-Counter-evidence belongs in the same chapter as fear. Machine assistance can reduce fatigue, catch sensor faults, and retrieve obscure precedent. Those benefits are real. They do not cancel the mechanisms named here; they compete with them. Architecture decides the winner on any given night.
-
-Allied practice matters because one partner's overconfident display can become another's inherited urgency. Shared warning should share caveats with the same enthusiasm it shares tracks. A releasable product that strips uncertainty is not a gift.
-
-Procurement language should score systems on spoof-resistance, disagreement surfacing, and degraded-mode clarity—not only on peacetime precision. Scorecards teach vendors what to build. Teach them the right lesson.
-
-Political leaders need briefings that make uncertainty speakable without sounding like insubordination. Doctrine can authorize that speech. Without authorization, silence will dress itself as confidence.
-
-The historical record of false alarms and near misinterpretations is not a museum. It is a manual. Read it as a manual. Update it with AI-era failure modes rather than pretending the old manual expired.
-
-Measure success by preserved decision quality under stress, not by how modern the stack looks in a hearing. Modernity without judgment is cosmetics.
-
-This chapter's mechanisms reconnect to later prescriptions: guardrails, testing, designing for doubt, and protecting time to think. Mechanisms without prescriptions are diagnosis without treatment; prescriptions without mechanisms are wish lists.
-
-In operational terms, the argument of "Meaningful Human Judgment" becomes a set of drills, interface requirements, and refusal rules that can be inspected. If it cannot be inspected, it is not yet a control. Nuclear warning needs controls more than it needs slogans.
-
-Counter-evidence belongs in the same chapter as fear. Machine assistance can reduce fatigue, catch sensor faults, and retrieve obscure precedent. Those benefits are real. They do not cancel the mechanisms named here; they compete with them. Architecture decides the winner on any given night.
-
-Allied practice matters because one partner's overconfident display can become another's inherited urgency. Shared warning should share caveats with the same enthusiasm it shares tracks. A releasable product that strips uncertainty is not a gift.
-
-Procurement language should score systems on spoof-resistance, disagreement surfacing, and degraded-mode clarity—not only on peacetime precision. Scorecards teach vendors what to build. Teach them the right lesson.
-
-Political leaders need briefings that make uncertainty speakable without sounding like insubordination. Doctrine can authorize that speech. Without authorization, silence will dress itself as confidence.
-
-The historical record of false alarms and near misinterpretations is not a museum. It is a manual. Read it as a manual. Update it with AI-era failure modes rather than pretending the old manual expired.
-
-Measure success by preserved decision quality under stress, not by how modern the stack looks in a hearing. Modernity without judgment is cosmetics.
-
-This chapter's mechanisms reconnect to later prescriptions: guardrails, testing, designing for doubt, and protecting time to think. Mechanisms without prescriptions are diagnosis without treatment; prescriptions without mechanisms are wish lists.
-
-In operational terms, the argument of "Meaningful Human Judgment" becomes a set of drills, interface requirements, and refusal rules that can be inspected. If it cannot be inspected, it is not yet a control. Nuclear warning needs controls more than it needs slogans.
-
-Counter-evidence belongs in the same chapter as fear. Machine assistance can reduce fatigue, catch sensor faults, and retrieve obscure precedent. Those benefits are real. They do not cancel the mechanisms named here; they compete with them. Architecture decides the winner on any given night.
-
-Allied practice matters because one partner's overconfident display can become another's inherited urgency. Shared warning should share caveats with the same enthusiasm it shares tracks. A releasable product that strips uncertainty is not a gift.
-
-Procurement language should score systems on spoof-resistance, disagreement surfacing, and degraded-mode clarity—not only on peacetime precision. Scorecards teach vendors what to build. Teach them the right lesson.
-
-Political leaders need briefings that make uncertainty speakable without sounding like insubordination. Doctrine can authorize that speech. Without authorization, silence will dress itself as confidence.
-
-The historical record of false alarms and near misinterpretations is not a museum. It is a manual. Read it as a manual. Update it with AI-era failure modes rather than pretending the old manual expired.
-
-Measure success by preserved decision quality under stress, not by how modern the stack looks in a hearing. Modernity without judgment is cosmetics.
-
-This chapter's mechanisms reconnect to later prescriptions: guardrails, testing, designing for doubt, and protecting time to think. Mechanisms without prescriptions are diagnosis without treatment; prescriptions without mechanisms are wish lists.
-
-In operational terms, the argument of "Meaningful Human Judgment" becomes a set of drills, interface requirements, and refusal rules that can be inspected. If it cannot be inspected, it is not yet a control. Nuclear warning needs controls more than it needs slogans.
-
-Meaningful human judgment is expensive. It requires staffing, training time, interface complexity, and political willingness to hear slow answers. States that want the prestige of AI modernization without paying that expense will buy theater. Theater looks like control in peacetime slides and disappears when the first high-confidence false narrative arrives.
-
-Judgment also requires psychological safety. An officer who fears career damage for delaying a recommendation will not be meaningful. Safety is created by seniors who reward process quality, by anonymized near-miss reporting, and by separating the person who challenges from the person who is blamed if a real attack is later confirmed. Without that separation, the rational strategy is deference.
-
-Some decisions are legitimately fast. Dual phenomenology of a massive raid may not need a seminar. The point is triage: which classes of warning products require extended judgment, and which may move faster. Doctrine should classify product types. AI should not silently move a slow class into a fast class by sounding sure.
-
-Human judgment includes the judgment to use machines. Refusing helpful anomaly detection out of romanticism is also a failure. Meaningful pairing is calibrated, practiced, and reversible. Romantic refusal and romantic deference are both escapes from calibration.
-
-Recording judgments matters for learning. After-action reviews should capture what alternatives were considered and why they were rejected. Models can assist the recording. Models should not write the justification after the fact to make the decision look cleaner than it was. Clean fiction teaches the wrong next crew.
-
-Constitutional and civil control questions intersect here. Democracies that claim political control of nuclear weapons must ensure that elected leaders receive uncertainty rather than only staff-processed certainty. The format of the presidential brief is part of meaningful judgment. If the brief cannot show dissent, the democracy has automated itself at the top.
-
-Authoritarian systems face different failure modes—fear of bringing bad news upward—but still need technical conditions for judgment if they wish to avoid accidental catastrophe. The physics of false alarms does not respect regime type. The institutional fixes differ; the need for disagreement channels does not vanish.
-
-Meaningful judgment, secured, still faces a shrinking clock. The next chapter asks what happens when the minutes themselves are the scarce resource AI is asked to reclaim—and sometimes consumes.
-
 Meaningful human judgment is expensive. It requires staffing, training time, interface complexity, and political willingness to hear slow answers. States that want the prestige of AI modernization without paying that expense will buy theater. Theater looks like control in peacetime slides and disappears when the first high-confidence false narrative arrives.
 
 Judgment also requires psychological safety. An officer who fears career damage for delaying a recommendation will not be meaningful. Safety is created by seniors who reward process quality, by anonymized near-miss reporting, and by separating the person who challenges from the person who is blamed if a real attack is later confirmed. Without that separation, the rational strategy is deference.
@@ -138,88 +40,66 @@ Simulators for judgment should include incomplete information, corrupted feeds, 
 
 The authority to request more time from political leadership must be pre-negotiated. In the moment, asking for time can feel like weakness. Pre-negotiation converts it into procedure. Procedure is courage with paperwork, and paperwork is underrated in nuclear safety.
 
-Incentive design under modernization pressure remains the quiet governor of safety. Measure near-miss capture, caveat survival, time-to-structured-disagreement, and graded willingness to challenge machines. What is unmeasured decays when schedules slip.
+Meaningful judgment has a documentary history in nuclear warning even when the phrase was not used. Petrov's refusal to treat Oko's equinox false alarm as settled attack assessment was judgment under conditions: competing expectations about first-strike size, awareness of system novelty, and willingness to wait for corroboration. Open reconstructions associated with Forden, Podvig, and Postol make the physics legible. The 1979–1980 NORAD crews and commanders who stopped wrong pictures before launch decisions were judgment under conditions: dual phenomenology, procedures, and organizational permission to doubt, as GAO MASAD-81-30 and the National Security Archive's three a.m. collections document. Remove the conditions and the same humans become witnesses. The book refuses the comfort that a human somewhere equals control.
 
-Allied releasability rules should preserve uncertainty markers with the same zeal they preserve tracks. A shared picture that launders doubt into consensus exports false confidence across borders.
+NTI's analysis of AI in nuclear-weapon systems distinguishes communications, early warning, and decision support from automated launch and insists on human involvement as a design requirement, not a slogan. FAS's framework proposal and Section 1638 of the FY2025 NDAA push in the same direction while leaving upstream mediation underspecified. Extend declaratory and legal human-control conversations into warning and decision support explicitly. Mediation is where AI will live first. A policy that only polices the final switch will discover that the switch was already aimed by an unmarked model.
 
-Degraded-mode competence is a strategic asset. Crews who can fuse slowly by hand when models are suspect will outlast crews who can only consume tiles. Train the slow path.
+Time is a constituent of judgment, not an externality. Architectures that recover minutes through better sensing should earmark a fraction for corroboration and political deliberation. Write earmarks as mandatory gates: no force-generation step X until dual phenomenology or a timed structured-disagreement interval completes, unless a named exception authority overrides with recorded reason. Exceptions will be necessary. Unrecorded exceptions will become the norm. Authority to slow must be pre-negotiated so asking for time is procedure rather than career risk. After-action reviews should ask whether slowing was possible and whether it was psychologically permitted. If only acceleration is rewarded, judgment collapses into ratification.
 
-Declaratory policy about human control should reach upstream into warning and decision support, not only the final employment decision. Mediation is where AI will live first.
+Thickness of the human layer matters more than headcount. Assessment cells, red teams, allied counterparts, cyber-integrity officers, and technical specialists create thickness only when permission structures let disagreement surface upward. A single commander staring at a single fused tile is a thin layer regardless of rank. Democracies that claim political control of nuclear weapons must ensure elected leaders receive uncertainty rather than only staff-processed certainty. If the presidential brief cannot show dissent, the democracy has automated itself at the top. Make structured uncertainty briefs faster to produce than narrative certainty. Authoritarian systems face different failure modes—fear of bringing bad news upward—but still need technical conditions for judgment if they wish to avoid accidental catastrophe. Physics does not respect regime type.
 
-Spoiler hypotheses belong on assessment boards during dual crises of cyber and kinetic indication. Nightmare coherence is not analysis.
+Explainability without alternatives can become sophisticated persuasion. Feature-importance charts that accompany a single story decorate deference rather than restore judgment. Pair every explanation requirement with a mandated alternative and a falsifier. Recording judgments matters for learning. After-action reviews should capture what alternatives were considered and why they were rejected. Models can assist recording. Models should not write justifications after the fact to make decisions look cleaner than they were. Clean fiction teaches the wrong next crew. Near-miss reporting, protected from humiliation, continues the false-alarm tradition of writing things down.
 
-Confidence without corroboration should decay on a clock operators can see. Absence of expected confirmation is evidence. Inertia is not inference.
+Psychological safety is operational. An officer who fears career damage for delaying a recommendation will not be meaningful. Safety is created by seniors who reward process quality, by anonymized near-miss reporting, and by separating the person who challenges from the person blamed if a real attack is later confirmed. Without that separation, the rational strategy is deference. Deference at scale is how automation bias becomes policy.
 
-Semantic firewalls between theater battle management and strategic warning are controls against entanglement in software. Seamless is not safe by default.
+Some decisions are legitimately fast. Dual phenomenology of a massive raid may not need a seminar. Doctrine should classify product types into fast and slow lanes. AI should not silently move a slow class into a fast class by sounding sure. Classification of product types belongs in peacetime governance, including Nuclear Weapons Council attention to AI risks alongside traditional modernization, as FAS suggested in spirit when proposing joint risk frameworks.
 
-Exercises must plant high-quality machine errors and reward the humans who catch them. If catching errors is career-limiting, the institution has automated its deafness.
+Legal accountability trails depend on honest process records. After a crisis, investigators will ask what officials knew and which alternatives they considered. If the system spoke only in decorative decimals and generative prose, the trail will be a hall of mirrors. If it spoke in structured claims with conditions and recorded dissent, accountability can be real without becoming theatrical blame.
 
-Procurement scorecards should value auditability and disagreement surfacing as heavily as peacetime precision. Vendors build what scorecards pay for.
+Judgment includes the judgment to use machines. Romantic refusal of helpful anomaly detection is also failure. Meaningful pairing is calibrated, practiced, and reversible. Simulators should include incomplete information, corrupted feeds, spoiler hypotheses, and political-pressure role-players. Buy uncomfortable simulators. Grade uncomfortable excellence. The authority to request more time from political leadership must be pre-negotiated. Procedure is courage with paperwork, and paperwork is underrated in nuclear safety.
 
-Crisis communication templates that explain exercises and anomalous indications reduce the chance that one side's modernization becomes the other side's impending doom narrative.
+Meaningful judgment is expensive: staffing, training time, interface complexity, and political willingness to hear slow answers. States that want AI modernization prestige without paying that expense will buy theater. Theater looks like control in peacetime slides and disappears when the first high-confidence false narrative arrives. Pay for the conditions. Then call the pairing control. Without the conditions, reserve the word. Meaningful judgment, secured, still faces a shrinking clock.
 
-Integrity shedding playbooks must be rehearsed until boring. Boring safety beats exciting danger when minutes are few.
+Meaningful judgment has a documentary history in nuclear warning even when the phrase was not used. Petrov's refusal to treat Oko's equinox false alarm as settled attack assessment was judgment under conditions: competing expectations about first-strike size, awareness of system novelty, and willingness to wait for corroboration. Open reconstructions associated with Forden, Podvig, and Postol make the physics legible. The 1979–1980 NORAD crews and commanders who stopped wrong pictures before launch decisions were judgment under conditions: dual phenomenology, procedures, and organizational permission to doubt, as GAO MASAD-81-30 and the National Security Archive's three a.m. collections document. Remove the conditions and the same humans become witnesses. The book refuses the comfort that a human somewhere equals control.
 
-Generative fluency must never set a numeric dial. Narrate freely if needed; quantify only with tested estimators and visible conditions.
+NTI's analysis of AI in nuclear-weapon systems distinguishes communications, early warning, and decision support from automated launch and insists on human involvement as a design requirement, not a slogan. FAS's framework proposal and Section 1638 of the FY2025 NDAA push in the same direction while leaving upstream mediation underspecified. Extend declaratory and legal human-control conversations into warning and decision support explicitly. Mediation is where AI will live first. A policy that only polices the final switch will discover that the switch was already aimed by an unmarked model.
 
-Political cover for slowing down should be pre-negotiated. Asking for time in the moment feels like weakness; procedure converts it into professionalism.
+Time is a constituent of judgment, not an externality. Architectures that recover minutes through better sensing should earmark a fraction for corroboration and political deliberation. Write earmarks as mandatory gates: no force-generation step X until dual phenomenology or a timed structured-disagreement interval completes, unless a named exception authority overrides with recorded reason. Exceptions will be necessary. Unrecorded exceptions will become the norm. Authority to slow must be pre-negotiated so asking for time is procedure rather than career risk. After-action reviews should ask whether slowing was possible and whether it was psychologically permitted. If only acceleration is rewarded, judgment collapses into ratification.
 
-Historical false alarms remain manuals, not museums. Update them with AI-era failure modes rather than declaring the old lessons expired.
+Thickness of the human layer matters more than headcount. Assessment cells, red teams, allied counterparts, cyber-integrity officers, and technical specialists create thickness only when permission structures let disagreement surface upward. A single commander staring at a single fused tile is a thin layer regardless of rank. Democracies that claim political control of nuclear weapons must ensure elected leaders receive uncertainty rather than only staff-processed certainty. If the presidential brief cannot show dissent, the democracy has automated itself at the top. Make structured uncertainty briefs faster to produce than narrative certainty. Authoritarian systems face different failure modes—fear of bringing bad news upward—but still need technical conditions for judgment if they wish to avoid accidental catastrophe. Physics does not respect regime type.
 
-Independent review of model dependency classes belongs outside shipping chains. Optimism under schedule pressure is not a safety analysis.
+Explainability without alternatives can become sophisticated persuasion. Feature-importance charts that accompany a single story decorate deference rather than restore judgment. Pair every explanation requirement with a mandated alternative and a falsifier. Recording judgments matters for learning. After-action reviews should capture what alternatives were considered and why they were rejected. Models can assist recording. Models should not write justifications after the fact to make decisions look cleaner than they were. Clean fiction teaches the wrong next crew. Near-miss reporting, protected from humiliation, continues the false-alarm tradition of writing things down.
 
-Public affairs certainty theater can trap diplomacy. Align external messaging with internal uncertainty when warning is ambiguous.
+Psychological safety is operational. An officer who fears career damage for delaying a recommendation will not be meaningful. Safety is created by seniors who reward process quality, by anonymized near-miss reporting, and by separating the person who challenges from the person blamed if a real attack is later confirmed. Without that separation, the rational strategy is deference. Deference at scale is how automation bias becomes policy.
 
-Red-team models whose only job is to argue overconfidence should sit beside blue fusion on the same glass. Rivalry is a feature.
+Some decisions are legitimately fast. Dual phenomenology of a massive raid may not need a seminar. Doctrine should classify product types into fast and slow lanes. AI should not silently move a slow class into a fast class by sounding sure. Classification of product types belongs in peacetime governance, including Nuclear Weapons Council attention to AI risks alongside traditional modernization, as FAS suggested in spirit when proposing joint risk frameworks.
 
-Time recovered by earlier detection should be partially reserved for judgment by doctrine, not entirely consumed by automated option generation.
+Legal accountability trails depend on honest process records. After a crisis, investigators will ask what officials knew and which alternatives they considered. If the system spoke only in decorative decimals and generative prose, the trail will be a hall of mirrors. If it spoke in structured claims with conditions and recorded dissent, accountability can be real without becoming theatrical blame.
 
-Culture is a control surface. Evaluation forms that reward dissent against machines in peacetime create courage in crisis.
+Judgment includes the judgment to use machines. Romantic refusal of helpful anomaly detection is also failure. Meaningful pairing is calibrated, practiced, and reversible. Simulators should include incomplete information, corrupted feeds, spoiler hypotheses, and political-pressure role-players. Buy uncomfortable simulators. Grade uncomfortable excellence. The authority to request more time from political leadership must be pre-negotiated. Procedure is courage with paperwork, and paperwork is underrated in nuclear safety.
 
-The book's thesis is a design brief: improve detection without surrendering the decision environment to false confidence. Every control either serves that brief or sabotages it.
+Meaningful judgment is expensive: staffing, training time, interface complexity, and political willingness to hear slow answers. States that want AI modernization prestige without paying that expense will buy theater. Theater looks like control in peacetime slides and disappears when the first high-confidence false narrative arrives. Pay for the conditions. Then call the pairing control. Without the conditions, reserve the word. Meaningful judgment, secured, still faces a shrinking clock.
 
-Incentive design under modernization pressure remains the quiet governor of safety. Measure near-miss capture, caveat survival, time-to-structured-disagreement, and graded willingness to challenge machines. What is unmeasured decays when schedules slip.
+The presidential or top-leader brief format is part of judgment architecture. Opening with a single confidence number and a readiness recommendation has already narrowed the decision. Opening with dual phenomenology status, integrity state, alternative hypotheses, and kill-criteria leaves room. Staffs resist longer briefs under time pressure; pre-authorize short structured uncertainty briefs that are faster to produce than narrative certainty so the sane format is the easy format.
 
-Allied releasability rules should preserve uncertainty markers with the same zeal they preserve tracks. A shared picture that launders doubt into consensus exports false confidence across borders.
+Constitutional control in democracies fails silently if the top brief cannot show dissent. Authoritarian systems fail differently when bad news cannot travel upward, but they still need technical disagreement channels if they wish to avoid accidental catastrophe. The physics of false alarms does not respect regime type. Institutional fixes differ; the need for disagreement does not vanish.
 
-Degraded-mode competence is a strategic asset. Crews who can fuse slowly by hand when models are suspect will outlast crews who can only consume tiles. Train the slow path.
+Simulators for judgment that only test happy-path detection train the wrong muscle. Include incomplete information, corrupted feeds, spoiler hypotheses, and political-pressure role-players. Grade uncomfortable excellence. Buy the uncomfortable simulator even when the demo hall prefers polish.
 
-Declaratory policy about human control should reach upstream into warning and decision support, not only the final employment decision. Mediation is where AI will live first.
+After-action learning requires records that admit messiness. Models that rewrite justifications to beautify decisions produce clean fiction that mis-trains the next crew. Prohibit after-the-fact generative beautification of nuclear-adjacent decision logs. Keep the flags. Keep the dissent. Keep the ugly trustworthy record.
 
-Spoiler hypotheses belong on assessment boards during dual crises of cyber and kinetic indication. Nightmare coherence is not analysis.
+Earmarking recovered minutes sounds financial because it is. Doctrine percentages or mandatory gates convert the metaphor into procedure. Logging exceptions prevents the exception from eating the rule. Finance earmarks reserves knowing temptation will spend them; warning doctrine should be at least as adult.
 
-Confidence without corroboration should decay on a clock operators can see. Absence of expected confirmation is evidence. Inertia is not inference.
+Cross-training assessment officers with integrity officers and allied counterparts thickens the human layer only when promotion paths reward the thickness. Headcount without permission structures is decoration. Permission structures without headcount are wishful. Fund both.
 
-Semantic firewalls between theater battle management and strategic warning are controls against entanglement in software. Seamless is not safe by default.
+NTI and FAS together sketch a research and governance agenda: fail-safe protocols, joint risk frameworks, human involvement upstream. Translate the agenda into billet structures, contract clauses, and exercise grades or it remains a PDF.
 
-Exercises must plant high-quality machine errors and reward the humans who catch them. If catching errors is career-limiting, the institution has automated its deafness.
+The cost of meaningful judgment will be cited as a reason to skip it. Cite the false-alarm record as a reason not to. Theater is cheaper until it is not. Pay now in staffing and drills. Or pay later in minutes you no longer have.
 
-Procurement scorecards should value auditability and disagreement surfacing as heavily as peacetime precision. Vendors build what scorecards pay for.
+Independent parallel estimators with different inductive biases help judgment by making method-specific certainty visible before fusion. Method-specific certainty is often a clue that certainty is not yet about the world. Late, explicit, reversible fusion of confidence is a judgment design choice.
 
-Crisis communication templates that explain exercises and anomalous indications reduce the chance that one side's modernization becomes the other side's impending doom narrative.
+Allied judgment thickness requires caveat vocabularies that survive releasability. A shared picture that erases national disagreement exports false confidence. Disagreement among friends is information; design sharing to preserve it.
 
-Integrity shedding playbooks must be rehearsed until boring. Boring safety beats exciting danger when minutes are few.
+Public affairs certainty theater can trap the judgment process by creating artifacts leaders cannot walk back. Align external messaging with internal uncertainty when warning is ambiguous. Softening authority is part of meaningful control at the top.
 
-Generative fluency must never set a numeric dial. Narrate freely if needed; quantify only with tested estimators and visible conditions.
-
-Political cover for slowing down should be pre-negotiated. Asking for time in the moment feels like weakness; procedure converts it into professionalism.
-
-Historical false alarms remain manuals, not museums. Update them with AI-era failure modes rather than declaring the old lessons expired.
-
-Independent review of model dependency classes belongs outside shipping chains. Optimism under schedule pressure is not a safety analysis.
-
-Public affairs certainty theater can trap diplomacy. Align external messaging with internal uncertainty when warning is ambiguous.
-
-Red-team models whose only job is to argue overconfidence should sit beside blue fusion on the same glass. Rivalry is a feature.
-
-Time recovered by earlier detection should be partially reserved for judgment by doctrine, not entirely consumed by automated option generation.
-
-Culture is a control surface. Evaluation forms that reward dissent against machines in peacetime create courage in crisis.
-
-The book's thesis is a design brief: improve detection without surrendering the decision environment to false confidence. Every control either serves that brief or sabotages it.
-
-Incentive design under modernization pressure remains the quiet governor of safety. Measure near-miss capture, caveat survival, time-to-structured-disagreement, and graded willingness to challenge machines. What is unmeasured decays when schedules slip.
-
-Allied releasability rules should preserve uncertainty markers with the same zeal they preserve tracks. A shared picture that launders doubt into consensus exports false confidence across borders.
-
-Degraded-mode competence is a strategic asset. Crews who can fuse slowly by hand when models are suspect will outlast crews who can only consume tiles. Train the slow path.
+Finally, meaningful judgment secured still faces a shrinking clock. Conditions of judgment without earmarked minutes are conditions that vanish under compression. The next chapter asks what happens when AI is asked to reclaim minutes—and sometimes consumes them.

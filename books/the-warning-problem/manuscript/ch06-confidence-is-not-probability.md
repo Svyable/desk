@@ -72,7 +72,6 @@ Attack is an event in the world.
 
 Keeping those three from collapsing into one glowing figure is part of keeping civilization's decision procedures sane under stress. The next chapters examine how cyber operations and spoofing try to force exactly that collapse—and how automation bias completes the collapse inside the human mind even when the numbers were produced in good faith.
 
-
 The institutional history of estimative language exists because earlier generations already burned themselves on false precision. Sherman Kent's work on words of estimative probability, and later intelligence community directives that tried to bind words to bands, were attempts to stop policymakers from hearing different things in the same adjective. Nuclear warning should not casually abandon that project in favor of dashboard aesthetics. If a commander prefers numbers, map them to the same published bands and show the band, not a fetishized digit.
 
 There is also a statistical culture problem inside modern machine learning.
@@ -142,47 +141,3 @@ If AI is used to propose the alternative explanation, the human must still own t
 With confidence demoted from oracle to instrument, the book can turn to the doors through which instruments are corrupted.
 
 Numbers that cannot blush will eventually embarrass the civilization that trusted them. Teach numbers to blush.
-
-Incentive design under modernization pressure remains the quiet governor of safety. Measure near-miss capture, caveat survival, time-to-structured-disagreement, and graded willingness to challenge machines. What is unmeasured decays when schedules slip.
-
-Allied releasability rules should preserve uncertainty markers with the same zeal they preserve tracks. A shared picture that launders doubt into consensus exports false confidence across borders.
-
-Degraded-mode competence is a strategic asset. Crews who can fuse slowly by hand when models are suspect will outlast crews who can only consume tiles. Train the slow path.
-
-Declaratory policy about human control should reach upstream into warning and decision support, not only the final employment decision. Mediation is where AI will live first.
-
-Spoiler hypotheses belong on assessment boards during dual crises of cyber and kinetic indication. Nightmare coherence is not analysis.
-
-Confidence without corroboration should decay on a clock operators can see. Absence of expected confirmation is evidence. Inertia is not inference.
-
-Semantic firewalls between theater battle management and strategic warning are controls against entanglement in software. Seamless is not safe by default.
-
-Exercises must plant high-quality machine errors and reward the humans who catch them. If catching errors is career-limiting, the institution has automated its deafness.
-
-Procurement scorecards should value auditability and disagreement surfacing as heavily as peacetime precision. Vendors build what scorecards pay for.
-
-Crisis communication templates that explain exercises and anomalous indications reduce the chance that one side's modernization becomes the other side's impending doom narrative.
-
-Integrity shedding playbooks must be rehearsed until boring. Boring safety beats exciting danger when minutes are few.
-
-Generative fluency must never set a numeric dial. Narrate freely if needed; quantify only with tested estimators and visible conditions.
-
-Political cover for slowing down should be pre-negotiated. Asking for time in the moment feels like weakness; procedure converts it into professionalism.
-
-Historical false alarms remain manuals, not museums. Update them with AI-era failure modes rather than declaring the old lessons expired.
-
-Independent review of model dependency classes belongs outside shipping chains. Optimism under schedule pressure is not a safety analysis.
-
-Public affairs certainty theater can trap diplomacy. Align external messaging with internal uncertainty when warning is ambiguous.
-
-Red-team models whose only job is to argue overconfidence should sit beside blue fusion on the same glass. Rivalry is a feature.
-
-Time recovered by earlier detection should be partially reserved for judgment by doctrine, not entirely consumed by automated option generation.
-
-Culture is a control surface. Evaluation forms that reward dissent against machines in peacetime create courage in crisis.
-
-The book's thesis is a design brief: improve detection without surrendering the decision environment to false confidence. Every control either serves that brief or sabotages it.
-
-Incentive design under modernization pressure remains the quiet governor of safety. Measure near-miss capture, caveat survival, time-to-structured-disagreement, and graded willingness to challenge machines. What is unmeasured decays when schedules slip.
-
-Allied releasability rules should preserve uncertainty markers with the same zeal they preserve tracks. A shared picture that launders doubt into consensus exports false confidence across borders.

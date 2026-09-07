@@ -20,104 +20,6 @@ Allied and interagency settings multiply bias when one organization's machine pr
 
 The ethical core is accountability. A human who rubber-stamps a model has not exercised judgment. Legal and professional frameworks should treat rubber-stamping under nuclear warning conditions as a failure mode to be trained against, not as efficiency. Efficiency is the wrong god in this temple.
 
-In operational terms, the argument of "Automation Bias" becomes a set of drills, interface requirements, and refusal rules that can be inspected. If it cannot be inspected, it is not yet a control. Nuclear warning needs controls more than it needs slogans.
-
-Counter-evidence belongs in the same chapter as fear. Machine assistance can reduce fatigue, catch sensor faults, and retrieve obscure precedent. Those benefits are real. They do not cancel the mechanisms named here; they compete with them. Architecture decides the winner on any given night.
-
-Allied practice matters because one partner's overconfident display can become another's inherited urgency. Shared warning should share caveats with the same enthusiasm it shares tracks. A releasable product that strips uncertainty is not a gift.
-
-Procurement language should score systems on spoof-resistance, disagreement surfacing, and degraded-mode clarity—not only on peacetime precision. Scorecards teach vendors what to build. Teach them the right lesson.
-
-Political leaders need briefings that make uncertainty speakable without sounding like insubordination. Doctrine can authorize that speech. Without authorization, silence will dress itself as confidence.
-
-The historical record of false alarms and near misinterpretations is not a museum. It is a manual. Read it as a manual. Update it with AI-era failure modes rather than pretending the old manual expired.
-
-Measure success by preserved decision quality under stress, not by how modern the stack looks in a hearing. Modernity without judgment is cosmetics.
-
-This chapter's mechanisms reconnect to later prescriptions: guardrails, testing, designing for doubt, and protecting time to think. Mechanisms without prescriptions are diagnosis without treatment; prescriptions without mechanisms are wish lists.
-
-In operational terms, the argument of "Automation Bias" becomes a set of drills, interface requirements, and refusal rules that can be inspected. If it cannot be inspected, it is not yet a control. Nuclear warning needs controls more than it needs slogans.
-
-Counter-evidence belongs in the same chapter as fear. Machine assistance can reduce fatigue, catch sensor faults, and retrieve obscure precedent. Those benefits are real. They do not cancel the mechanisms named here; they compete with them. Architecture decides the winner on any given night.
-
-Allied practice matters because one partner's overconfident display can become another's inherited urgency. Shared warning should share caveats with the same enthusiasm it shares tracks. A releasable product that strips uncertainty is not a gift.
-
-Procurement language should score systems on spoof-resistance, disagreement surfacing, and degraded-mode clarity—not only on peacetime precision. Scorecards teach vendors what to build. Teach them the right lesson.
-
-Political leaders need briefings that make uncertainty speakable without sounding like insubordination. Doctrine can authorize that speech. Without authorization, silence will dress itself as confidence.
-
-The historical record of false alarms and near misinterpretations is not a museum. It is a manual. Read it as a manual. Update it with AI-era failure modes rather than pretending the old manual expired.
-
-Measure success by preserved decision quality under stress, not by how modern the stack looks in a hearing. Modernity without judgment is cosmetics.
-
-This chapter's mechanisms reconnect to later prescriptions: guardrails, testing, designing for doubt, and protecting time to think. Mechanisms without prescriptions are diagnosis without treatment; prescriptions without mechanisms are wish lists.
-
-In operational terms, the argument of "Automation Bias" becomes a set of drills, interface requirements, and refusal rules that can be inspected. If it cannot be inspected, it is not yet a control. Nuclear warning needs controls more than it needs slogans.
-
-Counter-evidence belongs in the same chapter as fear. Machine assistance can reduce fatigue, catch sensor faults, and retrieve obscure precedent. Those benefits are real. They do not cancel the mechanisms named here; they compete with them. Architecture decides the winner on any given night.
-
-Allied practice matters because one partner's overconfident display can become another's inherited urgency. Shared warning should share caveats with the same enthusiasm it shares tracks. A releasable product that strips uncertainty is not a gift.
-
-Procurement language should score systems on spoof-resistance, disagreement surfacing, and degraded-mode clarity—not only on peacetime precision. Scorecards teach vendors what to build. Teach them the right lesson.
-
-Political leaders need briefings that make uncertainty speakable without sounding like insubordination. Doctrine can authorize that speech. Without authorization, silence will dress itself as confidence.
-
-The historical record of false alarms and near misinterpretations is not a museum. It is a manual. Read it as a manual. Update it with AI-era failure modes rather than pretending the old manual expired.
-
-Measure success by preserved decision quality under stress, not by how modern the stack looks in a hearing. Modernity without judgment is cosmetics.
-
-This chapter's mechanisms reconnect to later prescriptions: guardrails, testing, designing for doubt, and protecting time to think. Mechanisms without prescriptions are diagnosis without treatment; prescriptions without mechanisms are wish lists.
-
-In operational terms, the argument of "Automation Bias" becomes a set of drills, interface requirements, and refusal rules that can be inspected. If it cannot be inspected, it is not yet a control. Nuclear warning needs controls more than it needs slogans.
-
-Counter-evidence belongs in the same chapter as fear. Machine assistance can reduce fatigue, catch sensor faults, and retrieve obscure precedent. Those benefits are real. They do not cancel the mechanisms named here; they compete with them. Architecture decides the winner on any given night.
-
-Allied practice matters because one partner's overconfident display can become another's inherited urgency. Shared warning should share caveats with the same enthusiasm it shares tracks. A releasable product that strips uncertainty is not a gift.
-
-Procurement language should score systems on spoof-resistance, disagreement surfacing, and degraded-mode clarity—not only on peacetime precision. Scorecards teach vendors what to build. Teach them the right lesson.
-
-Political leaders need briefings that make uncertainty speakable without sounding like insubordination. Doctrine can authorize that speech. Without authorization, silence will dress itself as confidence.
-
-The historical record of false alarms and near misinterpretations is not a museum. It is a manual. Read it as a manual. Update it with AI-era failure modes rather than pretending the old manual expired.
-
-Measure success by preserved decision quality under stress, not by how modern the stack looks in a hearing. Modernity without judgment is cosmetics.
-
-This chapter's mechanisms reconnect to later prescriptions: guardrails, testing, designing for doubt, and protecting time to think. Mechanisms without prescriptions are diagnosis without treatment; prescriptions without mechanisms are wish lists.
-
-In operational terms, the argument of "Automation Bias" becomes a set of drills, interface requirements, and refusal rules that can be inspected. If it cannot be inspected, it is not yet a control. Nuclear warning needs controls more than it needs slogans.
-
-Counter-evidence belongs in the same chapter as fear. Machine assistance can reduce fatigue, catch sensor faults, and retrieve obscure precedent. Those benefits are real. They do not cancel the mechanisms named here; they compete with them. Architecture decides the winner on any given night.
-
-Allied practice matters because one partner's overconfident display can become another's inherited urgency. Shared warning should share caveats with the same enthusiasm it shares tracks. A releasable product that strips uncertainty is not a gift.
-
-Procurement language should score systems on spoof-resistance, disagreement surfacing, and degraded-mode clarity—not only on peacetime precision. Scorecards teach vendors what to build. Teach them the right lesson.
-
-Political leaders need briefings that make uncertainty speakable without sounding like insubordination. Doctrine can authorize that speech. Without authorization, silence will dress itself as confidence.
-
-The historical record of false alarms and near misinterpretations is not a museum. It is a manual. Read it as a manual. Update it with AI-era failure modes rather than pretending the old manual expired.
-
-Measure success by preserved decision quality under stress, not by how modern the stack looks in a hearing. Modernity without judgment is cosmetics.
-
-This chapter's mechanisms reconnect to later prescriptions: guardrails, testing, designing for doubt, and protecting time to think. Mechanisms without prescriptions are diagnosis without treatment; prescriptions without mechanisms are wish lists.
-
-In operational terms, the argument of "Automation Bias" becomes a set of drills, interface requirements, and refusal rules that can be inspected. If it cannot be inspected, it is not yet a control. Nuclear warning needs controls more than it needs slogans.
-
-Laboratory studies of automation bias understate the social penalty for dissent in uniformed hierarchies. A participant in an experiment can disagree with a machine at low cost. An officer in a warning center may be disagreeing with a system that leadership has already praised as modernization success. The reputational math differs. Doctrine must therefore create cover: explicit language that challenging machine outputs is a duty, recorded in evaluation forms, demonstrated by seniors who publicly reverse a model in exercises without humiliation theater.
-
-Cognitive load interacts with bias. Under load, humans satisfice by accepting the machine's frame. Interfaces that demand less reading to see dissent—side-by-side hypotheses, one-click ablation, visible missing sensors—are bias countermeasures. Interfaces that require detective work to find caveats are bias amplifiers. Fund the first. Ban the second for nuclear-adjacent displays.
-
-There is a literature on complacency after prolonged reliable automation in aviation. Nuclear warning should steal aviation's hard lessons without pretending the domains are identical. Checklists, challenge-response protocols, and sterile cockpit rules have analogues: sterile assessment windows where generative chatter is suppressed, challenge-response between assessor and commander, checklists that force naming of alternatives. Steal shamelessly.
-
-Bias is not only toward machines. Humans bias toward charismatic briefers and toward the first story spoken. AI can worsen primacy by speaking first and fluently. A procedural rule that the first machine product is labeled provisional for a fixed interval can blunt primacy. The interval will feel arbitrary. Arbitrary intervals are how institutions encode humility.
-
-Metric gaming will appear: operators learning what the model wants, feeding it, and celebrating agreement. Red teams should hunt for gaming. Training data pipelines should be protected from operational feedback loops that teach the model the operators' shortcuts. Otherwise the center converges on a shared hallucination with excellent internal consistency.
-
-International partners will exhibit different bias cultures. Some will overtrust national champions' software. Some will undertrust foreign tools. Shared exercises should expose both patterns. An alliance that cannot talk about automation bias will import it silently through shared feeds.
-
-Finally, treat automation bias as a predictable property to engineer against, not as a moral failing of individuals. Individuals will fail predictably under the wrong design. Design is the moral object. Change the design.
-
-When bias is engineered down, meaningful judgment has room to breathe. The next chapter names the conditions of that breath.
-
 Laboratory studies of automation bias understate the social penalty for dissent in uniformed hierarchies. A participant in an experiment can disagree with a machine at low cost. An officer in a warning center may be disagreeing with a system that leadership has already praised as modernization success. The reputational math differs. Doctrine must therefore create cover: explicit language that challenging machine outputs is a duty, recorded in evaluation forms, demonstrated by seniors who publicly reverse a model in exercises without humiliation theater.
 
 Cognitive load interacts with bias. Under load, humans satisfice by accepting the machine's frame. Interfaces that demand less reading to see dissent—side-by-side hypotheses, one-click ablation, visible missing sensors—are bias countermeasures. Interfaces that require detective work to find caveats are bias amplifiers. Fund the first. Ban the second for nuclear-adjacent displays.
@@ -138,80 +40,32 @@ Cross-training between cyber integrity officers and assessment officers reduces 
 
 Vendors should be contractually obliged to support bias-resistance features: forced alternatives, ablation views, and provisional labeling. If a vendor calls these features clutter, find another vendor. Clutter is sometimes how truth survives.
 
-Incentive design under modernization pressure remains the quiet governor of safety. Measure near-miss capture, caveat survival, time-to-structured-disagreement, and graded willingness to challenge machines. What is unmeasured decays when schedules slip.
+Empirical studies of automation bias in aviation and medicine are existence proofs rather than nuclear doctrine. People defer more when aids recommend rather than merely display, when the aid has been right for a long time, when time pressure rises, and when the interface is fluent. Nuclear warning concentrates those conditions. Base rates of strategic attack are near zero, so a model that is usually right is usually right about peace. The first serious wartime disagreement arrives without a personal history of being rewarded for dissent. Laboratory participants can disagree with machines at low cost; officers may be disagreeing with systems leadership already praised as modernization success. The reputational math differs. Doctrine must create cover through evaluation forms and through seniors who reverse models in exercises without humiliation theater. Without cover, deference is rational rather than foolish. Make it contractual: named owner, test date, degraded-mode drill that fails fielding if the control is only aspirational. Aspiration is not a control. Any AI component that touches this function should carry the control as an acceptance criterion equal to detection metrics, because unmeasured safeguards decay when schedules slip.
 
-Allied releasability rules should preserve uncertainty markers with the same zeal they preserve tracks. A shared picture that launders doubt into consensus exports false confidence across borders.
+The Federation of American Scientists' risk-assessment proposal for AI in NC3 names automation bias explicitly and warns about the slide from human-in-the-loop to human-on-the-loop when generative systems produce content that looks higher quality than alternatives. Section 1638 of the FY2025 National Defense Authorization Act protects positive human action at employment. FAS correctly notes that the harder near-term problem sits upstream in early warning and decision support, where deference reshapes the picture before employment language is spoken. A human who rubber-stamps a high-confidence fusion tile has not met the spirit of positive human action even if a later order still requires a presidential voice. Extend human-control conversations into mediation or discover that the switch was already aimed by an unmarked model. Make it contractual: named owner, test date, degraded-mode drill that fails fielding if the control is only aspirational. Aspiration is not a control. Any AI component that touches this function should carry the control as an acceptance criterion equal to detection metrics, because unmeasured safeguards decay when schedules slip.
 
-Degraded-mode competence is a strategic asset. Crews who can fuse slowly by hand when models are suspect will outlast crews who can only consume tiles. Train the slow path.
+Historical false alarms displayed bias toward coherent pictures without neural nets. In the 1979–1980 NORAD incidents documented by GAO MASAD-81-30 and later tactical-warning testimony, and reconstructed in the National Security Archive's three a.m. collections, wrong pictures acquired momentum through official channels before doubt caught up. Harold Brown's observation that false warnings are inevitable and that human safeguards matter was an operational reading of that momentum. Modern fluency accelerates momentum. A generative brief that arrives in thirty seconds with citations, a confidence bar, and a recommended readiness step recreates it with better typography. Force provenance, alternatives, and provisional labeling into the same thirty seconds, or forbid the readiness step until those elements exist. Minutes spent arguing were the product, not inefficiency. Make it contractual: named owner, test date, degraded-mode drill that fails fielding if the control is only aspirational. Aspiration is not a control. Any AI component that touches this function should carry the control as an acceptance criterion equal to detection metrics, because unmeasured safeguards decay when schedules slip.
 
-Declaratory policy about human control should reach upstream into warning and decision support, not only the final employment decision. Mediation is where AI will live first.
+Burden shifting is the organizational form of automation bias. After a machine product labeled high confidence, who must speak first? If doctrine requires the dissenter to assemble a complete rebuttal while the recommending system owes only a number, bias is policy. Reverse it for nuclear-adjacent products: the recommending system must show which sensors dominate, what ablation does to confidence, which alternative explanations remain live, and what observation would kill the leading hypothesis. Only then does a human owe a rebuttal. The ritual is short. Skipping it because the number looks solid is how solid-looking numbers become destiny. If AI proposes the alternative, a human must still own which alternative is spoken. Otherwise the ritual becomes another automated performance. Make it contractual: named owner, test date, degraded-mode drill that fails fielding if the control is only aspirational. Aspiration is not a control. Any AI component that touches this function should carry the control as an acceptance criterion equal to detection metrics, because unmeasured safeguards decay when schedules slip.
 
-Spoiler hypotheses belong on assessment boards during dual crises of cyber and kinetic indication. Nightmare coherence is not analysis.
+Exercise design trains bias in or out. Plant high-quality machine errors that resemble success cases—errors that cite true indicators and leap to false intent. Grade the catch. Promote the catcher. If catching errors is career-limiting, the institution has automated its deafness. Able Archer 83's lesson about ambiguous exercise signals pairs with ambiguous machine authority. Organizations teach themselves what to fear and what to trust. Teach fear of unmarked fluency. Teach trust in structured disagreement. Seniors who publicly reverse a model without humiliation create cover junior officers can spend when it matters. Shared allied exercises should expose overtrust of national software champions and undertrust of foreign tools alike. Make it contractual: named owner, test date, degraded-mode drill that fails fielding if the control is only aspirational. Aspiration is not a control. Any AI component that touches this function should carry the control as an acceptance criterion equal to detection metrics, because unmeasured safeguards decay when schedules slip.
 
-Confidence without corroboration should decay on a clock operators can see. Absence of expected confirmation is evidence. Inertia is not inference.
+Consider a concrete vignette without inventing dialogue. A fusion model, after months of correctly classifying routine space launches and exercises, emits a high-confidence attack assessment during a crisis week citing elevated readiness, encrypted surge, and an infrared anomaly. A junior officer notices the anomaly matches cloud-glint geometry similar to Oko cases reconstructed by Forden, Podvig, and Postol, but the brief omits that analogue. Asking the room to wait for radar corroboration costs social capital the officer may lack. Doctrine that requires analogues and falsifiers in the machine product changes the capital math. The model must surface the Oko-class analogue; the human must not be the only memory of the archive. Put manuals on the glass. Make it contractual: named owner, test date, degraded-mode drill that fails fielding if the control is only aspirational. Aspiration is not a control. Any AI component that touches this function should carry the control as an acceptance criterion equal to detection metrics, because unmeasured safeguards decay when schedules slip.
 
-Semantic firewalls between theater battle management and strategic warning are controls against entanglement in software. Seamless is not safe by default.
+Recommendation-first interfaces amplify deference relative to evidence-first interfaces, a pattern repeated in aviation and health-care studies. Prefer structured evidence objects first, provisional recommendations second, forced alternative cards always. Steal sterile-cockpit and challenge-response habits. Do not steal consumer-app decisiveness. Interfaces that demand detective work to find caveats are amplifiers. Interfaces that make dissent one click away are countermeasures. Vendors who call disagreement features clutter are not ready for nuclear-adjacent displays. Put those features on acceptance criteria equal to detection metrics because unmeasured safeguards decay when schedules slip. Make it contractual: named owner, test date, degraded-mode drill that fails fielding if the control is only aspirational. Aspiration is not a control. Any AI component that touches this function should carry the control as an acceptance criterion equal to detection metrics, because unmeasured safeguards decay when schedules slip.
 
-Exercises must plant high-quality machine errors and reward the humans who catch them. If catching errors is career-limiting, the institution has automated its deafness.
+Complacency after prolonged correct performance is a statistical response to a world where strategic attack almost never happens. Peacetime Brier scores can be excellent while wartime calibration remains unknown. Publish that distinction. Train crews to say peacetime track record does not entitle wartime confidence. NTI separates stabilizing AI applications from destabilizing ones; automation bias is a pathway from the first into the second in use. Continuous monitoring for distribution shift and for unnatural agreement among supposedly independent estimators is bias resistance as much as cyber defense. Make it contractual: named owner, test date, degraded-mode drill that fails fielding if the control is only aspirational. Aspiration is not a control. Any AI component that touches this function should carry the control as an acceptance criterion equal to detection metrics, because unmeasured safeguards decay when schedules slip.
 
-Procurement scorecards should value auditability and disagreement surfacing as heavily as peacetime precision. Vendors build what scorecards pay for.
+Allied and interagency settings multiply bias when one organization's machine product becomes another's unquestioned input. Stamp machine-derived products across boundaries. A human summary of a model remains machine-derived if the human did not independently re-establish the evidence. Shared early-warning architectures that launder doubt into consensus export false confidence at interoperability-demo speed. Releasability rules should preserve uncertainty markers with the same zeal they preserve tracks. Confusion is expensive; labels are cheap. Make it contractual: named owner, test date, degraded-mode drill that fails fielding if the control is only aspirational. Aspiration is not a control. Any AI component that touches this function should carry the control as an acceptance criterion equal to detection metrics, because unmeasured safeguards decay when schedules slip.
 
-Crisis communication templates that explain exercises and anomalous indications reduce the chance that one side's modernization becomes the other side's impending doom narrative.
+Metric gaming teaches models the operators' shortcuts until agreement becomes a shared hallucination with excellent internal consistency—the spoof chapter's single-author problem rebuilt as an inside job. Red teams should hunt for gaming. Protect training-data pipelines from operational feedback loops. Cross-train cyber integrity officers with assessment officers in permanent joint watches. Automation neglect—the refusal to use helpful tools—remains the twin hazard. Calibration is the skill. Buy uncomfortable simulators. Grade uncomfortable excellence. Romantic refusal and romantic deference are both escapes from calibration. Make it contractual: named owner, test date, degraded-mode drill that fails fielding if the control is only aspirational. Aspiration is not a control. Any AI component that touches this function should carry the control as an acceptance criterion equal to detection metrics, because unmeasured safeguards decay when schedules slip.
 
-Integrity shedding playbooks must be rehearsed until boring. Boring safety beats exciting danger when minutes are few.
+Cognitive load makes fluent frames sticky. AI adds a fatigue tax: the cost of reading past polish to find suppressed alternatives. Staffing one assessor across three generative briefs staffs for deference. Shift design is bias design. Legal and professional frameworks should treat rubber-stamping under nuclear warning conditions as a failure mode to train against. Efficiency is the wrong god in this temple. After-action reviews should ask whether dissent was psychologically permitted and whether burden of proof was reversed. Reviews that only score lucky outcomes teach the wrong next crew. Make it contractual: named owner, test date, degraded-mode drill that fails fielding if the control is only aspirational. Aspiration is not a control. Any AI component that touches this function should carry the control as an acceptance criterion equal to detection metrics, because unmeasured safeguards decay when schedules slip.
 
-Generative fluency must never set a numeric dial. Narrate freely if needed; quantify only with tested estimators and visible conditions.
+A closing accounting keeps the chapter honest. It did not claim humans are always wise or machines always wrong. It claimed that deference is predictable under fluency, time pressure, and peacetime success; that burden of proof can be reversed by doctrine; that exercises must plant high-quality errors and reward catches; that allied sharing can launder machine products; and that design, not pep talks, is the moral object. Fund bias-resistance as readiness. Measure near-miss capture of machine errors. Promote dissenters. Then meaningful judgment has room to breathe—the next chapter's subject. Make it contractual: named owner, test date, degraded-mode drill that fails fielding if the control is only aspirational. Aspiration is not a control. Any AI component that touches this function should carry the control as an acceptance criterion equal to detection metrics, because unmeasured safeguards decay when schedules slip.
 
-Political cover for slowing down should be pre-negotiated. Asking for time in the moment feels like weakness; procedure converts it into professionalism.
+Procurement should treat bias-resistance features as acceptance criteria equal to detection metrics. Ablation views, provisional labeling, forced alternatives, and high-quality error vignettes belong on the scorecard. Measure near-miss capture of machine errors and graded willingness to challenge fluency. What is unmeasured decays. Culture follows measurement when measurement is honest.
 
-Historical false alarms remain manuals, not museums. Update them with AI-era failure modes rather than declaring the old lessons expired.
+International technical exchanges on deference failure modes can raise baselines without sharing exploits. Shared taxonomies of automation-bias incidents in high-consequence systems are stabilizing public goods. Secrecy that protects embarrassment is not a strategic asset. Choose the embarrassment. Fix the interface.
 
-Independent review of model dependency classes belongs outside shipping chains. Optimism under schedule pressure is not a safety analysis.
-
-Public affairs certainty theater can trap diplomacy. Align external messaging with internal uncertainty when warning is ambiguous.
-
-Red-team models whose only job is to argue overconfidence should sit beside blue fusion on the same glass. Rivalry is a feature.
-
-Time recovered by earlier detection should be partially reserved for judgment by doctrine, not entirely consumed by automated option generation.
-
-Culture is a control surface. Evaluation forms that reward dissent against machines in peacetime create courage in crisis.
-
-The book's thesis is a design brief: improve detection without surrendering the decision environment to false confidence. Every control either serves that brief or sabotages it.
-
-Incentive design under modernization pressure remains the quiet governor of safety. Measure near-miss capture, caveat survival, time-to-structured-disagreement, and graded willingness to challenge machines. What is unmeasured decays when schedules slip.
-
-Allied releasability rules should preserve uncertainty markers with the same zeal they preserve tracks. A shared picture that launders doubt into consensus exports false confidence across borders.
-
-Degraded-mode competence is a strategic asset. Crews who can fuse slowly by hand when models are suspect will outlast crews who can only consume tiles. Train the slow path.
-
-Declaratory policy about human control should reach upstream into warning and decision support, not only the final employment decision. Mediation is where AI will live first.
-
-Spoiler hypotheses belong on assessment boards during dual crises of cyber and kinetic indication. Nightmare coherence is not analysis.
-
-Confidence without corroboration should decay on a clock operators can see. Absence of expected confirmation is evidence. Inertia is not inference.
-
-Semantic firewalls between theater battle management and strategic warning are controls against entanglement in software. Seamless is not safe by default.
-
-Exercises must plant high-quality machine errors and reward the humans who catch them. If catching errors is career-limiting, the institution has automated its deafness.
-
-Procurement scorecards should value auditability and disagreement surfacing as heavily as peacetime precision. Vendors build what scorecards pay for.
-
-Crisis communication templates that explain exercises and anomalous indications reduce the chance that one side's modernization becomes the other side's impending doom narrative.
-
-Integrity shedding playbooks must be rehearsed until boring. Boring safety beats exciting danger when minutes are few.
-
-Generative fluency must never set a numeric dial. Narrate freely if needed; quantify only with tested estimators and visible conditions.
-
-Political cover for slowing down should be pre-negotiated. Asking for time in the moment feels like weakness; procedure converts it into professionalism.
-
-Historical false alarms remain manuals, not museums. Update them with AI-era failure modes rather than declaring the old lessons expired.
-
-Independent review of model dependency classes belongs outside shipping chains. Optimism under schedule pressure is not a safety analysis.
-
-Public affairs certainty theater can trap diplomacy. Align external messaging with internal uncertainty when warning is ambiguous.
-
-Red-team models whose only job is to argue overconfidence should sit beside blue fusion on the same glass. Rivalry is a feature.
-
-Time recovered by earlier detection should be partially reserved for judgment by doctrine, not entirely consumed by automated option generation.
-
-Culture is a control surface. Evaluation forms that reward dissent against machines in peacetime create courage in crisis.
+The ethical core remains accountability. A human who rubber-stamps a model has not exercised judgment. States that want AI modernization prestige without paying for bias-resistance will buy theater that looks like control in peacetime slides and disappears when the first high-confidence false narrative arrives. Pay for ablation views, provisional labeling, forced alternatives, and high-quality error vignettes on the same scorecard as detection metrics. Measure near-miss capture of machine errors. Promote the people who catch them. International exchanges on deference failure modes can raise baselines without sharing exploits. Shared taxonomies of automation-bias incidents in high-consequence systems are stabilizing public goods among rivals who will not become friends. Secrecy that protects embarrassment is not a strategic asset. Choose the embarrassment. Fix the interface. Then meaningful judgment has somewhere to stand.

@@ -180,8 +180,6 @@ That is a narrower claim than apocalypse, and a harder one to live with.
 
 It leaves no villainous algorithm to ban and be done. It leaves a continuous engineering and political task: build warning systems that notice what must be noticed, and keep enough doubt alive that noticing is not the same thing as deciding.
 
-
-
 One practical way to keep the claim honest is to notice what kinds of improvement actually buy decision time.
 
 Faster detection of a real launch can expand the interval between first notice and required choice. Better discrimination between missiles and clutter can reduce the number of alerts that consume that interval. Health monitoring that identifies a failing sensor can prevent a corrupted channel from dominating the picture. Those are real gains. They are also conditional gains. They help only if the organization spends the recovered minutes on corroboration and political judgment rather than on accelerating the rest of the response machinery to match the new machine tempo.
@@ -213,23 +211,3 @@ The chapters ahead stay close to mechanisms: how command systems actually proces
 If the argument works, a reader finishes not with a list of gadgets to fear, but with a sharper sense of which institutional choices turn better detectors into safer states—and which turn them into more persuasive screens.
 
 The warning problem is ultimately a problem of institutional character under technological temptation. Character can be trained. Temptation will not retire.
-
-Incentive design under modernization pressure remains the quiet governor of safety. Measure near-miss capture, caveat survival, time-to-structured-disagreement, and graded willingness to challenge machines. What is unmeasured decays when schedules slip.
-
-Allied releasability rules should preserve uncertainty markers with the same zeal they preserve tracks. A shared picture that launders doubt into consensus exports false confidence across borders.
-
-Degraded-mode competence is a strategic asset. Crews who can fuse slowly by hand when models are suspect will outlast crews who can only consume tiles. Train the slow path.
-
-Declaratory policy about human control should reach upstream into warning and decision support, not only the final employment decision. Mediation is where AI will live first.
-
-Spoiler hypotheses belong on assessment boards during dual crises of cyber and kinetic indication. Nightmare coherence is not analysis.
-
-Confidence without corroboration should decay on a clock operators can see. Absence of expected confirmation is evidence. Inertia is not inference.
-
-Semantic firewalls between theater battle management and strategic warning are controls against entanglement in software. Seamless is not safe by default.
-
-Exercises must plant high-quality machine errors and reward the humans who catch them. If catching errors is career-limiting, the institution has automated its deafness.
-
-Procurement scorecards should value auditability and disagreement surfacing as heavily as peacetime precision. Vendors build what scorecards pay for.
-
-Crisis communication templates that explain exercises and anomalous indications reduce the chance that one side's modernization becomes the other side's impending doom narrative.
