@@ -216,7 +216,6 @@ That knowledge is institutional.
 
 It has to be built in peacetime, under the daily pressure that is already there.
 
-
 ## ADIZ logic and the politics of identification
 
 An air defense identification zone is not territorial airspace. It is a claimed area in which a state asks aircraft to identify themselves for air-defense purposes. The legal and practical status of such zones has always involved contested expectations. Around Taiwan, repeated PLA aircraft activity inside Taiwan’s ADIZ has become one of the most publicly counted indicators of pressure.
@@ -287,7 +286,6 @@ Air and maritime pressure is the gray zone’s climate.
 
 Strategy is learning how to live and decide inside that climate without calling every cloud a war or every sunny hour a peace.
 
-
 ## Lessons from adjacent seas
 
 The South China Sea and East China Sea provide adjacent laboratories for air and maritime gray-zone tactics even though each theater has distinct legal and political features. Water cannons against Philippine vessels, persistent coast-guard presence near disputed features, dangerous intercepts of aircraft, and the use of maritime militia have all been documented in open sources over the past decade. Analysts disagree about how directly those lessons transfer to Taiwan. Transfer is never automatic. Methods can still migrate.
@@ -317,31 +315,3 @@ It is whether, after months of tracks and sorties, Taiwan and its partners still
 If those capacities erode, the coercer has already gained ground without a war.
 
 If they hold, the daily weather remains weather—and the threshold remains visible.
-
-Operationally, named duty officers should own the first six hours of decision-making on this issue, with pre-cleared public language and a partner notification tree that does not depend on finding a particular principal awake.
-
-Commercially, liaison channels to carriers, insurers, exchanges, and critical manufacturers should be exercised quietly so that guidance during pressure is familiar rather than experimental.
-
-Legally, authorities for information sharing, emergency measures, and countermeasures should be mapped in binders that staff can actually open, not only in speeches about resolve.
-
-Analytically, alternative hypotheses should be kept alive longer than is comfortable, because gray-zone campaigns profit from premature certainty as much as from delayed recognition.
-
-## Continuity note
-
-The gray-zone problem described here does not pause when attention moves to another domain. Officials who staff only the loudest instrument of the week will rediscover the quieter ones after compliance has already moved. Continuity across instruments—inspections with cyber, cables with finance, exercises with partner politics—is the difference between a chapter insight and an operational posture.
-
-Readers should carry forward three questions into the next chapter: what status-quo change would count as success for a coercer here; what early friction would deny consolidation; and what partner noun must be agreed before the first night phone call. Those questions are portable because the adversary’s sequence is portable.
-
-Preparation remains falsifiable. If resilience and coalition speed routinely make these instruments unattractive, the urgency of this chapter should be revised. Until that evidence is strong, the default is to assume that sequential pressure below war will keep searching for seams in classification, commerce, and attention—and to staff those seams on purpose.
-
-Practically, a ministry that cannot name a night-duty owner for this chapter’s problem within five minutes is not ready for sequential coercion. Binders, contact trees, and commercial liaison lists are unglamorous precisely because they work. The adversary’s advantage often begins where those artifacts are missing—and ends where they are rehearsed until they are boring.
-
-One more test: after the next real-world pressure cycle that resembles this chapter’s subject, write a one-page residue memo—what changed, what complied, what reversed, what partners called it, and what binder entry must be updated. If no memo appears, the learning was optional, and optional learning is how thresholds move unnoticed.
-
-Keep the invasion deterrent sharp. Staff the gray zone anyway. The sequence will not wait for a prettier name.
-
-That pairing—hard deterrent, staffed threshold—is the book’s closing discipline as much as its opening claim. If institutions practice only one half, the other half will be the seam an adversary chooses next.
-
-Call the week early. Update the binder. Sleep in shifts. Repeat.
-
-Hold the line in the nouns, then in the ships.
