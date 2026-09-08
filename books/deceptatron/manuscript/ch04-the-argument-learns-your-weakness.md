@@ -303,3 +303,43 @@ Attention is the first currency of persuasion because beliefs cannot be influenc
 The argument that learns your weakness may therefore begin with something almost banal.
 
 It notices what you are willing to hear.
+
+There is a second limit worth making explicit. Learning from a person is not the same as learning the person.
+
+A conversation produces evidence under particular conditions. Someone who sounds impatient at midnight may simply be tired. Someone who rejects an argument in a public thread may be performing for friends. Someone who asks an assistant to make the strongest case for a policy may be curious rather than sympathetic. A person can test a system, joke with it, lend a device to somebody else, change their mind between sessions, or deliberately supply false preferences. The adaptive system sees behavior. It still has to infer motive.
+
+That gap matters because a persuasive optimizer can become confident for the wrong reasons. A user repeatedly asks for arguments against a candidate. The system may infer opposition. The user may be preparing for a debate in which they support that candidate. A person reads five articles about a conspiracy because a relative keeps sending links. The engagement signal says interest. The social context says exasperation. A model that cannot distinguish the two may personalize itself into irrelevance.
+
+The practical danger is therefore not omniscience. It is cheap persistence combined with tolerable error.
+
+A system can misunderstand many people and still be useful to an operator if it learns enough, often enough, to improve average outcomes. The failures disappear into the denominator. The successful adaptations receive more weight. That statistical indifference is easy to miss when the interface feels conversational. The person experiences a singular exchange. The system can experience another trial.
+
+This also changes what resistance looks like.
+
+With a broadcast message, refusal is simple. Turn off the television. Throw away the mailer. Leave the rally. An adaptive service may be entangled with things the person actually wants: navigation, scheduling, search, translation, shopping, news, companionship, work. Rejecting one persuasive move does not necessarily end the relationship. The service remains useful tomorrow.
+
+That continuity gives the system opportunities, but it gives the user opportunities too.
+
+People can notice patterns. They can ask why the answer changed. They can compare outputs with friends. They can reset memory, disable personalization, switch providers, demand sources, or instruct an assistant to present the strongest competing case before recommending anything. None of those defenses makes a person immune to persuasion. They make the relationship less one-sided.
+
+Design therefore matters before regulation ever enters the room.
+
+A system could expose the memories it relied on for a recommendation. It could distinguish user-requested personalization from sponsor-requested optimization. It could keep political persuasion out of private memory by default. It could let the user preserve useful preferences while deleting inferred political traits. It could show when a recommendation was materially changed because of personal context. These are not truth labels. They are controls over the machinery that selects the argument.
+
+The distinction is important because a disclosure attached to content can arrive too late. By the time a person sees “sponsored,” the system may already have used months of interaction to decide which subject to raise, which example to choose, and which objection to anticipate. The disclosure identifies the speaker. It does not reveal the path that produced the speech.
+
+A useful transparency regime would therefore have to preserve some record of adaptation itself without publishing a person's private conversation. That is a difficult engineering and governance problem. A complete transcript is too invasive. A vague statement that “personalization may have been used” is nearly meaningless. Between those extremes lies a narrower possibility: record the categories of personal context consulted, the objective being optimized, the sponsor if there is one, and whether the system changed strategy after observing the user's response.
+
+Such records would not tell us whether the persuasion worked. They would tell us what kind of relationship was attempted.
+
+That distinction becomes especially important when many small adaptations accumulate. One message may be harmless. One recommendation may be reasonable. One reordered list may barely matter. But an assistant that repeatedly learns which doubts to avoid and which frames to emphasize can shape the menu of considerations without ever delivering a dramatic falsehood. The effect, if there is one, may come from sequence rather than any individual artifact.
+
+Sequence is difficult to audit because public debate is organized around artifacts. A television advertisement can be archived. A mailer can be photographed. A speech can be transcribed. An adaptive exchange is partly a path through alternatives that were never shown. The evidence includes absences.
+
+This is where the earlier distinction between a map and a route becomes institutional rather than metaphorical. A public platform can show the map: the policy, the approved claims, the available evidence, the sponsor. Accountability also needs some way to inspect the routes without exposing every traveler.
+
+The point is not to make persuasion uniform. Uniformity would destroy much of what makes conversation useful. The point is to prevent the ability to listen from becoming an unbounded license to optimize against the listener.
+
+The argument can learn.
+
+The citizen should be able to learn something about the argument too.
