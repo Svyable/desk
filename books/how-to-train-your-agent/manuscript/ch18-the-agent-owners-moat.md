@@ -222,7 +222,45 @@ If a mistake occurred, could you identify which rule, source, tool, or permissio
 
 These are asset questions disguised as operational questions.
 
-A good operating layer makes intelligence substitutable.
+A useful exercise is to migrate the role before you are forced to.
+
+Not the entire production system. Pick a representative piece of work and try to reproduce it with a different model, a clean account, or a fresh agent instance.
+
+What did you discover was missing?
+
+Perhaps the “training” lived in a year of conversation history nobody could inspect.
+
+Perhaps the role file referred to tools by names that existed only inside one vendor.
+
+Perhaps examples were mixed with customer secrets and could not be moved safely.
+
+Perhaps a model-specific workaround was mistaken for a business rule.
+
+Perhaps the important artifact was not the prompt at all but a spreadsheet of qualification cases the team had quietly built.
+
+A programmer recognizes this as a portability test.
+
+A nontechnical operator can run it with folders and documents.
+
+Can another capable system understand the job from what you have preserved?
+
+Can it pass the same cases?
+
+Can it be given the same narrow permissions?
+
+Can you tell which failures belong to the new worker and which reveal that the role was underspecified all along?
+
+The exercise turns portability from a slogan into evidence.
+
+It can also reveal where lock-in is rational.
+
+Sometimes a vendor has built a tool, memory system, integration, or security layer so good that moving away would destroy value. Dependency is not automatically bad. Modern companies depend on cloud providers, payment networks, databases, and operating systems because rebuilding them would be irrational.
+
+The important distinction is chosen dependency versus accidental captivity.
+
+If you know what part of the role belongs to the provider and what part belongs to your operating layer, you can make the trade consciously.
+
+A good operating layer makes intelligence more substitutable than it otherwise would be.
 
 That sounds backward. Why would you want the most magical part of the system to be replaceable?
 
