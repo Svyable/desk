@@ -138,9 +138,9 @@ Deploying a destructive database migration may not be.
 
 The boundary is not binary. Some actions are reversible at a cost. Some can be rolled back technically while reputational or legal effects persist. Some are reversible only if detected quickly.
 
-Still, reversibility gives the principal a practical way to decide where a rookie can practice.
+Still, reversibility gives the principal a practical way to decide where an unqualified role can practice.
 
-The agent's childhood should be rich in actions that leave room for correction.
+The agent's training ground should be rich in actions that leave room for correction.
 
 This is what sandboxing means at the managerial level. Let the system experience the procedure without granting every real consequence.
 
@@ -180,7 +180,35 @@ A coding agent that cannot touch production can be allowed to explore aggressive
 
 Constraint can create autonomy.
 
-This is familiar in playgrounds, laboratories, training environments, and finance systems. The boundary makes experimentation possible.
+This is familiar in laboratories, training environments, and finance systems. The boundary makes experimentation possible.
+
+A useful permission design has another property: the boundary is visible to the principal.
+
+Many users cannot tell what an agent can actually do after a few integrations have been connected. The interface shows a list of apps. It does not show the practical blast radius.
+
+A better mental inventory uses verbs and consequences.
+
+This role can read these folders.
+
+It can draft into this mailbox but cannot send externally.
+
+It can create branches but cannot merge.
+
+It can spend from this card up to this hard limit.
+
+It can reschedule these recurring appointments but cannot touch health or school events.
+
+It can create customer credits below this amount and cannot change the policy that defines eligibility.
+
+That is a permission map a normal person can understand.
+
+The technical implementation might involve OAuth scopes, service accounts, API policies, sandboxes, branch protection, budget caps, or separate credentials. The nontechnical implementation might be a delegated card, a shared calendar, a folder, an approval setting, or simply refusing to connect an account at all.
+
+Different machinery.
+
+Same principle.
+
+The best permission is often the one the model does not get to reinterpret.
 
 There is another reason not to give the rookie the keys: the role itself may be manipulated through its environment.
 
