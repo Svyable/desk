@@ -1,53 +1,193 @@
 # Minds as Predictive Gradient Navigators
 
-A mind is not a passive receiver of sensory data. It is an active predictor, continuously generating expectations about the environment and updating them based on incoming information. The function of prediction is not abstract knowledge for its own sake. It is gradient navigation. An organism that can predict where food, mates, and safety are located, and where predators, toxins, and dead ends are absent, can harvest gradients more effectively than an organism that cannot. The mind is a dissipative structure, powered by metabolic gradients, that has evolved to locate and exploit other gradients in the environment.
+A neuron keeps a battery across its membrane.
 
-The simplest form of prediction is temporal. A bacterium swimming up a glucose gradient compares the concentration now to the concentration a moment ago. If the concentration is increasing, the bacterium continues swimming in the same direction. If the concentration is decreasing, the bacterium tumbles, randomizing its direction, and tries again. The bacterium does not have a map of the gradient. It does not know where the food is. It only knows whether the gradient is getting steeper or shallower, and it uses that information to navigate. This is prediction in a minimal sense: the bacterium expects that continuing in a favorable direction will lead to higher concentrations.
+The comparison is imperfect but physically useful. Sodium, potassium, chloride, calcium, and other ions are distributed unequally inside and outside the cell. Selective permeability and active pumps maintain electrochemical differences. When ion channels open, currents flow. During an action potential, rapid changes in membrane conductance produce a traveling electrical signal. Afterward, ATP-dependent transport helps restore the ionic conditions that make future signaling possible.
 
-More complex organisms make more complex predictions. A bee navigating back to the hive integrates cues from the sun, landmarks, and the pattern of polarized light in the sky. The bee constructs an internal representation of its location and the direction to the hive, updating the representation as it flies. The representation is not a mental image in the human sense. It is a pattern of neural activity that encodes spatial relationships and guides motor commands. The bee predicts that flying in a certain direction will bring it closer to the hive, and it adjusts the direction based on sensory feedback.
+Before a brain predicts anything, it pays for these gradients.
 
-Prediction requires a model, even if the model is implicit. The bacterium's model is simple: gradients persist long enough that temporal comparisons are informative. The bee's model is more elaborate: the sun moves predictably, landmarks are stable, and the hive is in a fixed location. Human models are vastly more elaborate: objects have permanence, physical laws are reliable, other people have intentions, and the future resembles the past in systematic ways. All of these models are learned or inherited, and all of them can be wrong. A bee that learns the wrong landmarks gets lost. A human who expects a bridge to hold and finds that it has collapsed learns to update the model. Prediction is useful only if the models approximate reality.
+That is the secure thermodynamic foundation of this chapter.
 
-The brain is a gradient-dissipation machine. Neurons fire when the voltage across their membrane exceeds a threshold, driven by the flow of ions through channels and pumps. The firing generates action potentials, which propagate down axons and release neurotransmitters at synapses, where they influence the firing of downstream neurons. The entire process consumes ATP, which is synthesized in mitochondria using oxygen and glucose delivered by the bloodstream. The human brain is about 2 percent of body mass but consumes about 20 percent of the body's energy budget. The energy is dissipated as heat, satisfying the second law, but the dissipation is highly structured. The brain does not generate random heat. It processes information, and the information processing guides behavior that locates and exploits environmental gradients.
+The human brain is only a small fraction of body mass but accounts for roughly a fifth of resting energy expenditure in a typical adult. Reviews of [brain energy use](https://pmc.ncbi.nlm.nih.gov/articles/PMC4560575/) attribute much of this cost to neuronal signaling and to the ion pumps that maintain and restore electrochemical gradients, alongside substantial housekeeping costs such as protein turnover, intracellular transport, membrane maintenance, and glial activity.
 
-The predictive coding framework, developed by Friston, Rao, and others, proposes that the brain minimizes prediction error. The brain generates predictions about sensory input, compares the predictions to the actual input, and updates the predictions to reduce the discrepancy. The predictions are generated by a hierarchical model, where higher levels predict the activity of lower levels. The lower levels send prediction errors upward, and the higher levels send predictions downward. The interaction is iterative, converging on a state where the prediction errors are minimized. The result is a perceptual representation that is consistent with the sensory input and the internal model.
+The important point is not the famous 20 percent number by itself. The point is continuous dependence. Interrupt cerebral blood flow and the brain cannot simply coast indefinitely on stored electrical charge. Oxygen and metabolic substrates stop arriving, ATP production fails, ion gradients deteriorate, membrane potentials collapse, neurotransmitter handling fails, and injury follows.
 
-The hierarchical structure is critical. Low-level predictions concern simple features like edges, colors, and motions. Mid-level predictions concern objects, textures, and scenes. High-level predictions concern categories, intentions, and narratives. Each level generates predictions for the level below and receives prediction errors from it. The hierarchy allows the brain to represent the world at multiple scales of abstraction, from pixel-level details to high-level concepts. The hierarchy also allows efficient coding: instead of transmitting all sensory data, the brain transmits only the prediction errors, which are typically smaller and more informative.
+Thought is physically expensive because the tissue that supports thought is actively maintained.
 
-Predictive coding is compatible with gradient navigation. The brain predicts not only what the world is like but also what actions will lead to favorable outcomes. A favorable outcome is one that reduces uncertainty, maintains homeostasis, or increases access to resources. All of these outcomes involve locating or maintaining gradients. Food reduces the uncertainty about where the next meal will come from. Shelter reduces the uncertainty about predation and exposure. Social bonds reduce the uncertainty about cooperation and support. The brain's predictions guide actions that navigate toward these gradients.
+That does not tell us what thought *is*.
 
-Active inference extends predictive coding to action. In active inference, the brain not only updates its predictions to match sensory input but also acts on the world to make sensory input match its predictions. If the brain predicts that food is in a certain location, it can move to that location and sample the environment. If the prediction is correct, the prediction error is small. If the prediction is incorrect, the error is large, and the brain updates the prediction. The cycle of prediction, action, and error minimization drives both learning and behavior. Active inference is gradient navigation made explicit: the brain acts to bring itself into states where gradients are accessible.
+This is where the earlier version of the chapter moved too quickly. It took the true claim that neural activity depends on metabolic and electrochemical gradients and slid into a much stronger claim: that prediction, attention, memory, emotion, language, and culture are all forms of thermodynamic gradient navigation.
 
-The free-energy principle, also due to Friston, generalizes predictive coding to all of life. The principle states that living systems minimize free energy, a quantity related to prediction error and surprise. Minimizing free energy means maintaining the system in states that are consistent with its survival. An organism that frequently encounters surprising states — states that its internal model does not predict — is likely in a dangerous or inhospitable environment. An organism that minimizes surprise is likely in a familiar, resource-rich environment. The free-energy principle is not a new law of physics. It is a reformulation of the requirement that organisms maintain themselves far from equilibrium by reducing entropy locally, which requires predicting and avoiding states that would increase entropy too rapidly.
+Some are literally responses to measurable gradients. Others are not.
 
-Critics of the free-energy principle argue that it is too general to be falsifiable. Every behavior can be rationalized as minimizing free energy if the definitions are sufficiently flexible. Proponents argue that the principle makes specific predictions about neural dynamics, sensory processing, and decision-making, and that these predictions can be tested. The debate is ongoing, and the principle's status is similar to that of MEPP: it captures real patterns, but its scope and limitations are not yet clear.
+A bacterium can move in response to a chemical concentration field. A moth can orient toward a plume of odor. A fish can move across a temperature gradient. A plant can respond to light direction and gravity. In these cases, the environmental variable has a physical definition and the behavior can be measured against it.
 
-Attention is a mechanism for allocating limited resources to the most informative or relevant stimuli. The brain cannot process all incoming sensory data in detail. It selects a subset, processes it deeply, and suppresses the rest. The selection is guided by predictions. Stimuli that are unexpected, novel, or relevant to current goals capture attention because they carry more information and are more likely to require action. Stimuli that are predictable or irrelevant are ignored because they do not change the brain's model and do not require a response. Attention is not a passive filter. It is an active sampling strategy that prioritizes gradient-relevant information.
+A human deciding whether to trust a colleague is not moving up a thermodynamic gradient in any useful scientific sense.
 
-Attention can be voluntary or involuntary. Voluntary attention is goal-directed: you decide to attend to a specific object, location, or feature. Involuntary attention is stimulus-driven: a sudden motion, loud sound, or unexpected event captures attention automatically. Both types serve gradient navigation. Voluntary attention allows planning and deliberate exploration. Involuntary attention ensures that surprising or potentially dangerous events are detected quickly. The balance between the two depends on the environment and the task. In a safe, predictable environment, voluntary attention dominates. In a dangerous or unpredictable environment, involuntary attention dominates.
+The word *gradient* must not become a synonym for “anything with more and less.”
 
-Memory stores past experiences and uses them to improve future predictions. A memory of where food was found last time informs the prediction of where food will be found next time. A memory of a painful event informs the prediction that similar situations should be avoided. Memory is not a perfect recording. It is reconstructive, influenced by current beliefs, emotions, and goals. The reconstruction is not a flaw. It is a feature that allows the memory system to generalize across similar situations and update predictions based on new evidence. A memory that could not be updated would be less useful for gradient navigation than a memory that adapts.
+The most defensible bridge from thermodynamics to cognition is therefore indirect. Nervous systems evolved because flexible sensing and action can improve an organism’s performance in environments where resources, hazards, opportunities, and other organisms vary across space and time. The nervous system uses metabolic free energy to acquire information, update internal states, control movement, and learn from consequences.
 
-Different types of memory serve different functions. Episodic memory stores specific events with temporal and spatial context. Semantic memory stores general knowledge without specific context. Procedural memory stores skills and habits that are executed automatically. Working memory holds information temporarily for reasoning and decision-making. Each type is implemented in different brain regions and networks, and damage to those regions produces specific deficits. Episodic memory depends on the hippocampus, semantic memory on the temporal cortex, procedural memory on the basal ganglia and cerebellum, and working memory on the prefrontal cortex.
+That is compatible with a gradient framework without reducing cognition to entropy production.
 
-Memory is not static. It is actively maintained and updated. Long-term potentiation, a process where repeated activation of a synapse strengthens it, is thought to be a cellular mechanism of memory storage. The strengthening is selective: synapses that are frequently activated are strengthened, while inactive synapses are weakened or pruned. The selectivity ensures that the brain stores information that is repeatedly useful and discards information that is not. Sleep plays a critical role in memory consolidation, transferring information from short-term to long-term storage and reorganizing it for efficient retrieval.
+Bacterial chemotaxis provides a useful lower boundary because it shows sophisticated control without a nervous system. *Escherichia coli* does not generally compare concentrations simultaneously at two ends of its body; the cell is too small for that to be a robust strategy under many conditions. Instead, its receptor and signaling network can compare recent conditions over time and alter the probability of continuing a run or initiating a tumble. The classic experiments by Howard Berg and Douglas Brown revealed a biased random walk rather than a tiny organism steering like a submarine toward a known destination.
 
-Emotion is often treated as irrational, but it is better understood as a fast, embodied form of prediction. Fear predicts danger. Disgust predicts contamination. Joy predicts reward. Anger predicts conflict. These predictions are not verbal or conscious. They are visceral, triggering physiological responses that prepare the body for action. The responses are appropriate for gradient navigation. Fear increases heart rate and redirects blood flow to muscles, preparing for flight or fight. Disgust prevents ingestion of toxins. Joy reinforces behaviors that led to reward. Emotion is not the opposite of reason. It is a parallel system that makes predictions based on different information and operates on faster timescales.
+Calling this prediction can be helpful if the word is kept modest. The bacterium uses recent sensory history to bias future motion. It does not need to represent glucose as an object or imagine a future meal.
 
-Emotions are shaped by evolution and learning. Basic emotions like fear, disgust, joy, and anger are universal across cultures, suggesting they are innate. But the specific triggers and expressions vary with learning and culture. A person raised in a culture where spiders are considered dangerous will fear spiders more than a person raised in a culture where they are harmless. The learning is adaptive because it tailors the emotional response to the local gradient structure. Universal fears reflect gradients that have been stable across evolutionary time. Culturally specific fears reflect gradients that vary across environments.
+A nervous system expands the temporal and spatial range over which such control can operate. Sensory receptors transform light, pressure, vibration, chemicals, temperature, tissue damage, and internal physiological states into neural signals. Neural circuits integrate those signals with memory and current goals. Motor systems act before the consequences are fully known. Learning changes future responses.
 
-Language extends the reach of prediction. A speaker can describe a distant or future gradient, and the listener can update their model without direct experience. "There is a water source over the next hill" allows the listener to navigate toward water without first dehydrating and searching randomly. "Winter is coming" allows preparation for a seasonal gradient before it arrives. "That mushroom is poisonous" allows avoidance of a toxin without first being poisoned. Language is a mechanism for sharing gradient-relevant information across individuals and generations, vastly amplifying the efficiency of gradient navigation.
+The result is anticipatory behavior.
 
-Language also enables abstract reasoning and planning. Words represent concepts that can be combined in novel ways, allowing the brain to simulate scenarios that have not been experienced. "If I plant seeds in spring, I will have food in fall" is a prediction about a future gradient, made possible by language and abstraction. The prediction allows planning over timescales that exceed individual experience. Culture accumulates these predictions across generations, creating a shared gradient map that each individual inherits and refines.
+A bird can leave before winter becomes lethal. A predator can intercept rather than chase the prey’s current location. A person can carry water into a desert before becoming thirsty. An engineer can reinforce a bridge before the storm arrives.
 
-Culture is cumulative shared prediction. Techniques for finding food, building shelter, avoiding danger, and cooperating socially are learned from others, refined, and transmitted. The techniques encode predictions: this plant is edible, this construction method is stable, this alliance is reliable. The predictions are not always correct, and cultures can propagate errors as well as successes. But on average, cultural transmission allows faster learning than individual trial and error, which is why cultural species have expanded into a wider range of environments than non-cultural species.
+Prediction matters because action has delays and consequences.
 
-Cultural evolution is faster than genetic evolution because cultural information can be transmitted horizontally (between individuals of the same generation) and vertically (from parents to offspring). Genetic information is transmitted only vertically and only during reproduction. Cultural transmission allows rapid adaptation to changing environments. A technological innovation, once discovered, can spread through a population in years or decades. A genetic adaptation takes generations to spread. The speed advantage makes cultural evolution a powerful mechanism for gradient navigation in rapidly changing environments.
+Yet prediction is not one mechanism. Some responses are reflexive. Some are learned associations. Some involve model-based planning. Some rely on statistical regularities encoded in sensory circuits. Some behavior can be described well by reinforcement learning. Some by control theory. Some by Bayesian inference. Neuroscience contains multiple partly overlapping computational frameworks because brains perform many kinds of tasks.
 
-Minds are not the only systems that navigate gradients. Chemotaxis in bacteria, phototaxis in plants, and homing in salmon are all gradient-navigation behaviors, and none require minds. What minds add is flexibility. A bacterium's gradient navigation is hardwired. It swims up glucose gradients because its chemoreceptors and flagellar motors are structured to do so. A human's gradient navigation is learned. A human can seek out salt, sugar, fat, water, warmth, company, novelty, status, or meaning, depending on the context and the internal state. The flexibility is enabled by a large, plastic nervous system that can represent many possible gradients and update the representation based on experience.
+Predictive processing is one influential framework among them.
 
-The flexibility has a cost. Minds are energetically expensive, and they can make mistakes. A prediction that is too confident ignores new evidence. A prediction that is too uncertain fails to guide action. A model that is too simple misses important distinctions. A model that is too complex overfits noise and fails to generalize. The optimal balance depends on the environment, the stakes, and the available resources. Natural selection has shaped minds to navigate this trade-off, but the solution is not perfect. Minds predict well enough to survive and reproduce, not well enough to maximize any abstract optimality criterion.
+In predictive-coding models, higher or contextual signals provide expectations about lower-level sensory activity, while mismatches between prediction and input generate error signals that update the model or influence further processing. The idea has produced experimentally useful hypotheses about sensory cortex, perception, and psychiatric disorders. A 2024 *Annual Review of Neuroscience* article on [predictive processing and cortical circuits](https://doi.org/10.1146/annurev-neuro-100223-121214) reviews evidence that prediction and prediction-error-like signals can be linked to identifiable circuit mechanisms in some contexts.
 
-Consciousness is often treated as a separate phenomenon, but it may be a byproduct of prediction. The brain generates a model of the world, and part of that model is a representation of the organism itself. The self-model includes the body, the intentions, the emotions, and the perspective from which the world is observed. This self-model is not static. It is continuously updated based on sensory input, internal states, and the outcomes of actions. Consciousness may be the experience of this self-model being active, the feeling of being an agent navigating gradients in a predictable world. This is speculation, not settled science, but it is consistent with the gradient framework.
+That is a much stronger basis than the claim that the whole brain is simply “a prediction-error minimizer.”
 
-The evolution of minds is an extension of the evolution of metabolism. Both are mechanisms for locating and exploiting gradients. Metabolism operates at the molecular scale, using enzymes and membranes to channel chemical gradients into ATP synthesis and biosynthesis. Minds operate at the behavioral scale, using neurons and sense organs to channel environmental gradients into foraging, mating, and threat avoidance. Both are dissipative structures, maintained by throughput, and both have been shaped by selection to accelerate gradient dissipation while maintaining replication. The human mind is not an exception to thermodynamics. It is a particularly elaborate implementation of it. The next question is how minds extend their reach through tools.
+Predictive coding is not a settled universal description of every neural computation. Even where top-down expectations and bottom-up errors are observed, researchers still debate how broadly the architecture generalizes, which cell types carry which signals, how precision or uncertainty is represented, and how predictive accounts relate to attention, reinforcement learning, recurrent processing, and other circuit functions.
+
+A good framework in neuroscience should be forced down toward mechanisms.
+
+If a proposed prediction-error signal has no identifiable neural implementation, the theory remains more abstract. If a circuit manipulation selectively changes a predicted error computation, the theory gains weight. If another model predicts the same data with fewer assumptions, predictive language may add little.
+
+The standard is the same one this book set for thermodynamics: do not let a broad explanatory vocabulary evade comparison.
+
+The free-energy principle raises the stakes because its terminology sounds as though it should connect directly to this book.
+
+It does not, at least not in the simple way the old draft claimed.
+
+Karl Friston’s free-energy principle uses a quantity called *variational free energy*. This is an information-theoretic and statistical quantity used in approximate Bayesian inference. Under a generative model, minimizing variational free energy can make an approximate posterior distribution better match the posterior implied by observed data. It also provides a bound on surprise or negative log model evidence in the relevant formalism.
+
+Variational free energy is **not the same quantity as thermodynamic free energy** such as Gibbs or Helmholtz free energy used to calculate available work in a physical system.
+
+Friston and colleagues have been explicit about this distinction. An early paper on [free energy and the brain](https://pmc.ncbi.nlm.nih.gov/articles/PMC2660582/) states directly that variational free energy is not thermodynamic free energy and that the proposed principle is not simply a consequence of thermodynamics. Later work explores formal relationships among variational descriptions, stochastic dynamics, nonequilibrium steady states, and thermodynamic quantities, but those relationships require assumptions and should not be collapsed into wordplay.
+
+The shared term *free energy* is historically and mathematically motivated.
+
+It is also a trap for this book.
+
+The old chapter fell into it when it said that the free-energy principle was “a reformulation” of organisms maintaining themselves far from equilibrium. That turns an information-theoretic variational framework into a thermodynamic law by association. It also makes it sound as though prediction error is a form of physical waste heat.
+
+It is not.
+
+A computer running a Bayesian inference algorithm consumes electrical energy and produces heat. The variational objective optimized by the algorithm is not the joules dissipated by the processor. Lowering the loss function can require *more* physical energy if the computer performs more computation. The same conceptual separation is needed in brains.
+
+A neural system can be modeled as minimizing an informational objective while its metabolism dissipates thermodynamic free energy. Those two statements may be related through the physical implementation, but they are not identical measurements.
+
+This is the single most important category distinction in the cognitive half of the book.
+
+Active inference extends the free-energy framework from perception toward action and policy selection. In these models, an agent can alter sensory input through action as well as update beliefs. Expected free-energy formulations include terms related to preferred outcomes and information gain, allowing exploration and exploitation to be represented within one formalism.
+
+Again, that is not the same as an animal physically moving toward regions of maximum chemical exergy.
+
+An active-inference agent can seek information, avoid danger, or pursue a learned or innate preference even when the immediate action consumes energy and moves away from a resource. A mouse may leave a food-rich location because it detects a predator. A scientist may spend years on a problem with no immediate metabolic payoff. A parent may transfer resources to offspring at personal energetic cost.
+
+Behavior is organized around biological and learned value, not one thermodynamic slope.
+
+Homeostasis does provide a more literal bridge. Organisms regulate body temperature, osmolarity, blood gases, glucose concentration, pH, blood pressure, and many other physiological variables within viable ranges. These are not all held at fixed set points, and predictive or anticipatory regulation can matter. The modern term *allostasis* is often used for regulation that changes in anticipation of expected demand.
+
+A nervous system can therefore help maintain internal physical gradients by predicting external events.
+
+That claim is concrete.
+
+If a runner’s cardiovascular and respiratory systems adjust before and during exertion, neural and hormonal control helps match oxygen delivery and fuel mobilization to expected demand. If an animal remembers a water source, spatial memory can reduce the risk of dehydration. If a mammal seeks shade before core temperature becomes dangerous, behavior protects a physiological range.
+
+Cognition can serve thermodynamic viability without being reducible to thermodynamic optimization.
+
+Attention offers another case where restraint improves the story. Brains have finite processing capacity and energetic constraints, but attention is not merely “sending energy toward the most informative stimulus.” Attention changes neural gain, competition, routing, and selection according to task, salience, expectations, learned relevance, and goals. Unexpected stimuli can capture attention, but highly expected stimuli can also dominate when they are behaviorally important.
+
+There is no universal law that attention follows maximum surprise.
+
+Memory is similarly more than stored gradient information. Episodic, semantic, procedural, and working-memory phenomena depend on overlapping but distinct brain systems. The hippocampus is central to forming and retrieving many episodic and relational memories; cortical networks support long-term knowledge; basal-ganglia and cerebellar circuits contribute to skills and habits; prefrontal and parietal systems participate in working-memory control.
+
+The old chapter assigned each memory type too neatly to one region. Real brains are networks.
+
+Long-term potentiation and depression provide mechanisms of synaptic plasticity, but no single plasticity rule is “the” memory mechanism. Structural changes, gene expression, neuromodulation, replay, systems consolidation, and reconsolidation all contribute. Sleep affects many forms of learning and memory, but the claim that it simply “transfers memories from short-term to long-term storage” is a filing-cabinet metaphor, not current neuroscience.
+
+A gradient framework adds little here unless it stays at the physical level: plasticity requires biochemical reactions, ion signaling, protein synthesis, and energy. The cognitive explanation still belongs to neuroscience.
+
+Emotion is another place where an attractive reduction can become false. Fear does not simply “predict danger.” Anger does not simply “predict conflict.” Emotions involve distributed appraisals, bodily regulation, learned associations, social context, action tendencies, and conscious experience. Researchers disagree about how many basic emotions exist, whether some emotional categories are biologically universal, and how language and culture shape emotional experience.
+
+The old text claimed universality too confidently and invented a tidy spider-culture example.
+
+The revised argument needs no such certainty. Emotional systems can prepare organisms for classes of action under uncertainty, alter learning, reprioritize attention, and change physiological state. Those functions have energetic consequences because bodies act through metabolism. They are not thereby thermodynamic gradients.
+
+Language pushes the boundary farther still.
+
+Language allows one nervous system to alter another nervous system’s expectations without direct exposure to the event being described. “The bridge is closed” can prevent a wasted journey. “The berries are poisonous” can transfer information that the listener never learned through poisoning. A weather forecast can cause a million people to move vehicles, buy supplies, or evacuate before the storm arrives.
+
+Information changes action.
+
+But a sentence is not a free-energy gradient in the thermodynamic sense. Its effect depends on semantics, trust, shared conventions, institutions, and context. The same acoustic energy in an unknown language may produce almost none of the same behavior.
+
+Meaning changes causal efficacy without changing the elementary laws of physics.
+
+This is exactly why higher-level explanation is necessary.
+
+Culture extends prediction across generations. Techniques, maps, taboos, recipes, legal systems, scientific models, and myths can all encode claims about how the world behaves. Cultural transmission is often much faster than genetic change because information can spread among unrelated individuals and can be revised within a lifetime. But culture is not merely a shared “gradient map.” It transmits values, identities, institutions, aesthetic forms, errors, power relations, and arbitrary conventions as well as resource-relevant knowledge.
+
+A theory that describes all of culture as better resource acquisition would be poorer than the phenomenon.
+
+What minds add to the gradient universe is therefore not one more universal dissipation engine. They add *model-mediated control*.
+
+A thermostatic control loop reacts to temperature. A bacterium biases movement from chemical history. A nervous system can combine multiple sensory channels, remember previous outcomes, simulate possibilities, infer hidden causes, and choose actions based on goals that need not correspond to any one immediate physical gradient.
+
+The brain’s models do not suspend thermodynamics. They change which thermodynamically permitted trajectory the organism takes.
+
+That distinction may be the cleanest connection between cognition and the rest of the book.
+
+Physics supplies a possibility space. A hungry animal can spend stored chemical free energy to move north or south. Neither direction violates the second law. Sensory information, memory, and learned value can make one direction more likely because the animal expects food there.
+
+Information does not add energy to the muscles.
+
+It changes control.
+
+That is why Landauer’s principle, although important, should not be used as a shortcut from information theory to psychology. Landauer showed that logically irreversible operations such as bit erasure have minimum thermodynamic costs under specified physical implementations. It does not follow that every bit of useful information in a brain has a fixed metabolic price or that semantic meaning can be measured directly in joules.
+
+Information is physical when instantiated.
+
+Meaning is not identical to its energy cost.
+
+The energetic constraints on brains are nevertheless real enough to shape design. Neural signaling is expensive. Axons occupy space. Long-range connections have conduction delays and material costs. Synapses require maintenance. Spikes and postsynaptic currents require restoration of ion gradients. Evolution therefore operates under energetic, volumetric, developmental, and timing constraints.
+
+But an energy-efficient brain is not automatically a more intelligent brain.
+
+Reducing firing to zero would save energy and destroy function.
+
+The relevant trade-off is performance under cost, not cost alone.
+
+This returns us to the chapter title. *Minds as predictive gradient navigators* is defensible if it is read at two levels and no further.
+
+At the literal level, nervous systems are built from cells that maintain and manipulate electrochemical gradients using metabolic free energy. Many organisms use sensory systems to navigate measurable environmental differences in light, chemicals, temperature, pressure, and other physical variables.
+
+At the functional level, minds predict consequences and control action in environments where biologically and socially relevant opportunities are unevenly distributed. Calling those opportunities “gradients” can sometimes be a helpful analogy, but the analogy should not be mistaken for a new thermodynamic variable.
+
+The free-energy principle belongs to the second level as a mathematical framework for inference and control, not as evidence that the brain minimizes Gibbs free energy or exists to maximize entropy production.
+
+Consciousness remains outside what this framework can presently explain.
+
+A conscious experience occurs in a metabolically active brain. That places consciousness inside physics in the ordinary material sense. It does not tell us why particular neural processes are accompanied by experience, which computational properties are necessary or sufficient, or whether consciousness can exist in non-biological substrates. Predictive-processing theories, global-workspace theories, recurrent-processing theories, higher-order theories, integrated-information approaches, and other programs make different proposals.
+
+Thermodynamics does not adjudicate them by itself.
+
+This is an important refusal.
+
+The book becomes more credible by leaving some questions open.
+
+Brains are among the clearest examples of matter using energy to build control over future energy use. They spend metabolic resources to sense distant conditions, learn regularities, coordinate muscles, communicate with other brains, and build tools that redirect flows far beyond the body.
+
+That last capacity changes the scale of the story.
+
+A beaver changes a stream. A human builds a dam, a turbine, a transmission line, a market, and software that schedules electricity across a continent. The thermodynamic dependence remains straightforward: every tool is embodied and every computation consumes physical resources.
+
+The new question is not whether technology dissipates gradients.
+
+Of course it does.
+
+The question is how technology changes *access, control, timing, and choice* over gradients that unaided organisms could not use.
