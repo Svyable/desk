@@ -7,6 +7,14 @@ const appShellPolishUrl = new URL('./app-shell-polish.js', import.meta.url).href
 const libraryHomeUrl = new URL('../css/desk-library-home.css?v=bookself-20260904', import.meta.url).href;
 const bookOpeningHandoffUrl = new URL('../css/desk-book-opening-handoff.css?v=bookself-20260906', import.meta.url).href;
 
+function installDeskChromePolicy() {
+  if (document.getElementById('deskReaderChromePolicy')) return;
+  const style = document.createElement('style');
+  style.id = 'deskReaderChromePolicy';
+  style.textContent = `#readerOneHandedActions,.reader-one-handed-actions{display:none!important;}`;
+  document.head.appendChild(style);
+}
+
 function installDeskStylesheet(id, href) {
   if (document.getElementById(id)) return;
   const link = document.createElement('link');
@@ -16,6 +24,7 @@ function installDeskStylesheet(id, href) {
   document.head.appendChild(link);
 }
 
+installDeskChromePolicy();
 installDeskStylesheet('deskLibraryHome', libraryHomeUrl);
 installDeskStylesheet('deskBookOpeningHandoff', bookOpeningHandoffUrl);
 
