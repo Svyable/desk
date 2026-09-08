@@ -305,3 +305,295 @@ That is why the timing layer deserves independent attention.
 The propaganda of the 2030s will not only ask which argument works on which person.
 
 It will ask when.
+
+The mood layer also creates an inference problem that regulation can easily make worse.
+
+If the law prohibits exploiting a person's emotional vulnerability, somebody has to decide what counts as vulnerability.
+
+That category can become invasive very quickly.
+
+A system might infer sadness from late-night use, anger from rapid typing, anxiety from repeated searches, loneliness from message frequency, or financial stress from payment behavior. Those inferences can be wrong. Requiring companies to classify everyone's emotional condition more carefully in order to comply could perversely expand the very surveillance the rule was meant to restrain.
+
+The safer approach is often to govern inputs and uses rather than demand a perfect diagnosis.
+
+A political sponsor does not need access to private health context.
+
+A third-party advertiser does not need an assistant's memory of bereavement.
+
+A campaign does not need a platform to decide whether a user is clinically anxious before the platform can prohibit targeting based on a sensitive-health conversation.
+
+Purpose limits can be categorical where emotion inference is probabilistic.
+
+This is a recurring advantage of institutional rules over mind-reading rules.
+
+“Do not use private therapy context for political targeting” is administrable without determining the person's emotional state.
+
+“Do not target anyone who is vulnerable” sounds humane and requires a machine to label vulnerability.
+
+The first rule limits power.
+
+The second may invite more classification.
+
+A useful mood-layer defense therefore starts with context boundaries.
+
+Some spaces should be politically quiet by design.
+
+A medical assistant can discuss public policy when the user asks. That does not mean a campaign should be able to sponsor the assistant's response based on the user's diagnosis.
+
+A financial tool can explain tax law. That does not mean a political operator should be able to target someone at the moment the tool detects missed payments.
+
+A grief-support service can answer questions about benefits or elections if relevant. That does not make grief a campaign segment.
+
+The distinction is not between politics and no politics.
+
+It is between user-initiated political information and third-party optimization against sensitive context.
+
+That boundary protects agency without requiring the system to pretend politics never enters life.
+
+There is also a temporal version of purpose limitation.
+
+A signal can be legitimate for one moment and dangerous when made permanent.
+
+A person may spend a week reading obsessively about a local crime because a friend was affected. A recommender can reasonably infer short-term interest.
+
+It should hesitate before turning the week into a durable political identity.
+
+The same is true of a layoff, illness, natural disaster, divorce, protest, or market crash.
+
+Events create temporary salience.
+
+Permanent profiles convert temporary salience into long-term leverage.
+
+This suggests that political inferences need decay.
+
+Not deletion of all memory.
+
+Decay of confidence.
+
+A system can record that a topic was recently important without assuming the topic reveals a stable ideology. It can require repeated evidence before treating an inference as durable. It can let the user correct the inference. It can expire politically sensitive conclusions faster than ordinary preferences such as language or time zone.
+
+The design principle is modest.
+
+A moment should have to earn the right to become an identity.
+
+This is especially important because the system can create the mood it later measures.
+
+A feed selects alarming material.
+
+The person becomes agitated.
+
+Their behavior changes.
+
+The system reads the changed behavior as evidence that alarming material is effective.
+
+More alarming material follows.
+
+The loop no longer distinguishes the person's prior state from the system's contribution to the state.
+
+This is the emotional version of feedback contamination.
+
+It weakens claims of prediction.
+
+The platform may say it discovered that a user responds to anger.
+
+It may have discovered that repeated anger-inducing exposure can produce the behavior its model labels as engagement.
+
+Those are not the same finding.
+
+An adaptive persuasion system has even stronger incentives to confuse them because the objective may reward the induced state.
+
+If urgency increases donations, the system can learn to produce urgency and then cite urgent behavior as evidence that the person is naturally responsive to urgent appeals.
+
+This does not require consciousness or intent.
+
+A metric is enough.
+
+That is why experimentation records matter.
+
+A large political persuasion system should be able to distinguish, at least in its own logs, between signals observed before an intervention and signals produced after it.
+
+Otherwise the system cannot tell whether it found a vulnerability or manufactured one.
+
+The distinction is scientifically important and ethically important.
+
+It also creates a useful audit question.
+
+Did the system continue escalating emotional intensity because the person independently sought that material, or because the system's earlier choices changed the behavior it was measuring?
+
+No answer will be perfect.
+
+The record at least makes the question possible.
+
+The mood layer also reveals why “engagement” is such a weak stand-in for informed consent.
+
+A person can engage precisely because they are angry at what they see.
+
+They can click because they distrust it.
+
+They can reply because they want the message to stop.
+
+They can watch because the content is disturbing.
+
+They can search because they suspect a lie.
+
+Behavioral intensity does not reliably communicate permission for more persuasion.
+
+A system that treats every signal as appetite can become socially aggressive.
+
+This is familiar outside politics.
+
+A customer who calls repeatedly about a billing error does not want more bills.
+
+A patient reading extensively about a frightening diagnosis does not necessarily want more alarming health content.
+
+A worker researching layoffs does not necessarily want recruiters or financial products to target the fear.
+
+The political analog deserves the same humility.
+
+This is where user-declared boundaries become valuable.
+
+Instead of asking the model to infer whether a person is emotionally vulnerable, let the person establish contexts the optimizer may not use.
+
+Do not personalize politics from health conversations.
+
+Do not use family messages.
+
+Do not use financial distress.
+
+Do not infer politics from late-night activity.
+
+Do not carry political targeting across services.
+
+Pause political recommendations for a month.
+
+Erase the political profile.
+
+These controls are meaningful only if they govern the underlying system rather than merely the visible interface.
+
+A button that hides political posts while the model continues updating a political profile is not a reset.
+
+A setting that says “do not personalize” while sponsored ranking still uses inferred sensitivity is not meaningful separation.
+
+The technical implementation can vary.
+
+The promise should be understandable.
+
+This creates a role for product competition.
+
+An assistant can distinguish itself by refusing to monetize vulnerable moments.
+
+A platform can offer a political mode with clearer boundaries.
+
+A news service can expose when breaking coverage is provisional and give users a later corrected summary.
+
+A provider can make political memory inspectable and temporary.
+
+These are not purely defensive costs.
+
+Trust itself can be a product feature.
+
+A system that declines to exploit a user may become more valuable precisely because users know it will sometimes leave money on the table.
+
+The analogy to fiduciary behavior is imperfect but instructive.
+
+Some relationships are valuable because one side accepts limits on opportunism.
+
+A lawyer could profit from a client's secrets in many ways and is not permitted to.
+
+A doctor could exploit medical vulnerability commercially in ways society restricts.
+
+The duties create confidence that makes the relationship possible.
+
+High-trust agents may develop their own version of this logic.
+
+The mood layer also makes collective events especially important.
+
+After a disaster, attack, contested vote, or sudden market shock, millions of people can become attentive at once.
+
+This looks like the opposite of personalization.
+
+Everyone is watching the same thing.
+
+But the adaptive layer can personalize the uncertainty.
+
+One person receives reassurance.
+
+Another receives blame.
+
+Another receives procedural suspicion.
+
+Another receives graphic imagery.
+
+Another receives a story connecting the event to an unrelated grievance.
+
+The common event becomes many emotional pathways.
+
+That is why crisis communication should create stable reference points quickly.
+
+Not conclusions before evidence.
+
+Reference points.
+
+What is known.
+
+What is not known.
+
+Where the primary update will appear.
+
+When the next update is expected.
+
+Which images or claims remain unverified.
+
+A public institution that communicates uncertainty competently reduces the empty space available for adaptive narratives.
+
+It does not eliminate them.
+
+It gives citizens something sturdier to compare them with.
+
+This is a governance capacity problem as much as a content problem.
+
+An institution that has spent years becoming distrusted cannot repair credibility with a watermark during a crisis.
+
+Trust accumulates before the emergency.
+
+So does distrust.
+
+The mood layer is partly a chapter about timing because institutions have timing too.
+
+Delayed records, contradictory spokespeople, inaccessible data, and unexplained corrections create openings.
+
+Fast, honest uncertainty closes some of them.
+
+The strongest defense may therefore be boring competence.
+
+Publish the document.
+
+Correct the number.
+
+Explain what changed.
+
+Keep the old version available.
+
+Say when the answer is not known.
+
+Make the official channel easy to authenticate.
+
+Do these things before a crisis so citizens know where to look during one.
+
+None of that guarantees persuasion will fail.
+
+It changes the emotional environment in which persuasion operates.
+
+That is the right level of ambition.
+
+A democracy cannot remove fear, anger, grief, urgency, or hope from politics.
+
+Nor should it.
+
+Political judgment is not a laboratory exercise performed by people without feelings.
+
+The goal is to prevent hidden systems from converting private moments into undisclosed targeting advantages.
+
+Mood should remain part of human life.
+
+It should not quietly become somebody else's inventory.
