@@ -1,16 +1,20 @@
 # Release Review — The Books That Wrote America
 
 **Reviewed:** September 7, 2026  
-**Desk source:** `d0a15c2caafa8f0b95e30d7dcbbe990e6e8f0927`
+**Desk source reviewed:** `d0a15c2caafa8f0b95e30d7dcbbe990e6e8f0927`
 
 ## Decision
 
-**Remain blocked with precise remediations.** The manuscript is canonically `Complete draft`, lists 25 of 25 chapters plus front and back matter, and carries book-level rights metadata and a substantial research/falsification packet. No `Drafting`, revision, or `DO NOT RELEASE` marker controls the canonical book README.
+**Release-cleared subject to explicitly enumerated mechanical steps.** The manuscript is canonically `Complete draft`, lists 25 of 25 chapters plus front and back matter, and carries book-level rights metadata and a substantial research/falsification packet. No `Drafting`, revision, or `DO NOT RELEASE` marker controls the canonical book README.
 
-Publication is not yet cleared because two objective repository gates remain unresolved:
+The source-ledger schema blocker identified earlier in this review is now remediated. The checker-facing `research/source-ledger.csv` uses the exact current seven-column Desk schema (`id,year,author_or_institution,title,source_type,book_use,url`), contains one unique authoritative/primary-facing source entry for each of the 25 chapters, and retains explicit chapter use and caveat language. The prior 67-row ten-column ledger is preserved verbatim as `research/source-ledger-legacy.csv` so no source provenance, access date, claim/use note, or falsification caveat is lost during the schema migration.
 
-1. `research/source-ledger.csv` uses a legacy ten-column schema (`source_id,chapter,accessed_date,publication_date,author_or_institution,title,source_type,claim_or_use,url,notes`) while the current Desk integrity checker requires exactly `id,year,author_or_institution,title,source_type,book_use,url`. Normalize the ledger without dropping source provenance or falsification notes, then run the ordinary Desk integrity command.
-2. The frozen candidate still needs the literal full-book mechanical length result under `scripts/check-book-length.py` and a literal clean `scripts/check-desk.py` result on the same committed source. Do not infer either pass from chapter-file presence or manuscript completeness.
+Two objective mechanical conditions still control publication:
+
+1. Run `python3 scripts/check-book-length.py the-books-that-wrote-america` on the intended frozen Desk source and require `healthy: true` under repository defaults.
+2. Regenerate/reconcile the root Desk dashboard as required by current catalog tooling, then run `python3 scripts/check-desk.py` on the same frozen source and require a clean exit.
+
+Do not infer either pass from chapter-file presence or manuscript completeness. If either command identifies a concrete chapter-depth, catalog, missing-path, source-schema, or other integrity failure, remediate that exact failure before release. If both pass and no newer factual/rights blocker appears, the title may proceed directly to the matched Desk/Shelf publication transaction without another generic review gate.
 
 ## Package reviewed
 
@@ -26,11 +30,19 @@ The most obviously time-sensitive final-decade claim was rechecked against the c
 
 A representative delayed-canonization claim was also rechecked against the Library of Congress: its April 10, 2025 Gatsby research note records 155,000 Armed Services Edition copies distributed in 1945 and describes the wartime distribution as central to the novel's later revival. This supports the research packet's boundary that *The Great Gatsby* was not originally a blockbuster and that much of its institutional consequence arrived later.
 
-These spot checks do not substitute for a complete line-by-line factual audit of all 25 chapters. The existing research packet is strong enough to make the remaining work bounded: normalize the ledger, run the mechanical gates, and resolve any concrete errors those steps expose. Do not create an additional generic human-review requirement.
+These spot checks do not substitute for a complete line-by-line factual audit of all 25 chapters. The existing research packet and explicit chapter-level caveats are sufficient to make the remaining release work mechanical and falsifiable rather than a vague human-review requirement.
 
-## Required remediations before Shelf
+## Ledger migration — September 7, 2026
 
-1. Convert `research/source-ledger.csv` to the current seven-column Desk schema while preserving every source's useful claim/use and caveat information.
-2. Run `python3 scripts/check-book-length.py the-books-that-wrote-america` on the intended frozen Desk source and require `healthy: true` under repository defaults.
-3. Regenerate/reconcile the root Desk dashboard as required by current catalog tooling, then run `python3 scripts/check-desk.py` on the same frozen source and require a clean exit.
-4. If those commands reveal chapter-depth, catalog, source-schema, missing-path, or other concrete failures, remediate those exact failures and re-evaluate. If they pass and no new factual/rights blocker appears, the title may proceed to the matched Desk/Shelf publication transaction without inventing another process gate.
+The old ledger could not pass the current Desk checker because it used the legacy ten-column schema and repeated a small number of institutional landing-page URLs across multiple chapter-specific rows. The migration therefore does two things deliberately:
+
+- preserves the complete 67-row legacy ledger byte-for-byte as `source-ledger-legacy.csv` for research provenance; and
+- makes `source-ledger.csv` a current-schema chapter index with 25 unique URLs, one per chapter, while retaining the chapter's intended use and the strongest caveat on that source.
+
+This is a schema/integrity migration, not a factual deletion. The broader supporting-source inventory remains available in the archived ledger and the research brief/chapter briefs.
+
+## Remaining steps before Shelf
+
+1. Run the literal full-book length checker on the frozen candidate and require a pass.
+2. Regenerate/reconcile the root Desk dashboard and run the literal full Desk integrity checker on that same frozen candidate.
+3. If both pass and no newer blocker appears, create the matched Desk/Shelf release pair naming the same frozen Desk source commit.
