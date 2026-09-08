@@ -192,4 +192,108 @@ We are finite systems trying to make durable distinctions inside a changing phys
 
 We have to clear the notebook.
 
-The rest of the book is about what that costs, what it makes possible, and what kind of creature chooses what deserves the next page.
+Before we do, notice one more complication in the room. The interval itself is a theory.
+
+Why once a minute?
+
+If the thermostat cycles every ten minutes, one-minute sampling may be generous. If a compressor fails for twelve seconds and recovers, the notebook may miss the only event that later matters. If the room changes slowly for weeks, one-second sampling creates an expensive archive of almost identical numbers. Sampling is not merely a technical setting. It determines which kinds of change are allowed to become visible.
+
+Engineers encounter this everywhere. Audio recorded too slowly cannot preserve high-frequency sound. A medical monitor with the wrong sampling scheme can miss a brief arrhythmia. A satellite that revisits a field every sixteen days can miss a flood that rose and fell between passes. A quarterly economic statistic can conceal a violent week. A yearly biodiversity survey may never see a seasonal collapse.
+
+The missing event leaves no blank line labeled *you should have looked here*.
+
+It simply fails to enter the record.
+
+That is one reason hindsight is so cruel to measurement systems. After an accident, investigators know exactly which minutes deserve attention. Before the accident, those minutes were indistinguishable from millions of uneventful minutes. Retention policy is a wager made before the importance is known.
+
+Some systems respond by keeping a rolling buffer. An aircraft flight recorder continuously writes recent data and overwrites older material until an event makes preservation important. Security cameras often do something similar. The architecture accepts forgetting as the default while protecting a moving window around the present.
+
+This is a beautiful compromise. The system does not pretend that every second deserves eternity. It keeps enough recent history that surprise can reach backward and rescue its causes from erasure.
+
+Brains seem to do something related, although not through one literal buffer. A startling event can make details around it suddenly salient. Attention and emotion change what consolidates. A routine afternoon dissolves; the minute before a crash remains. The biology is messier than the engineering, but the selective pressure is recognizable.
+
+The future reaches backward only through mechanisms prepared in advance.
+
+There is another complication. Records compete not just for storage but for interpretive bandwidth.
+
+Suppose our room now contains a hundred sensors: temperature at twenty heights, humidity, carbon dioxide, volatile compounds, air pressure, particle counts, noise spectra, light levels, occupancy, power use, vibration, water flow, door position, and the state of every appliance. Storage is still manageable. The human keeper is not.
+
+The archive can become richer faster than the observer becomes capable of understanding it.
+
+This is why dashboards appear. Alerts. Summaries. Thresholds. Models. Somebody builds a second observer to watch the first observer.
+
+Then the second observer needs calibration.
+
+A carbon-dioxide alert fires because a threshold was chosen. A predictive-maintenance model flags vibration because training data associated a pattern with failure. An anomaly detector decides that one night is unlike previous nights. The original measurement has now acquired a layer of judgment before reaching a person.
+
+At scale, knowing becomes a hierarchy of selective machines.
+
+The sensor refuses most physical properties.
+
+The logger refuses most temporal detail.
+
+The storage policy refuses old records.
+
+The model refuses features it was not built to use.
+
+The dashboard refuses most model outputs.
+
+Attention refuses most of the dashboard.
+
+What arrives in consciousness is the surviving end of a long narrowing.
+
+That fact should make us less impressed by the feeling that we see the whole situation.
+
+We almost never do.
+
+We see the distinctions that survived the stack.
+
+The same architecture governs historical memory. An event happens. Somebody witnesses it. Some witnesses write. Some records survive. Archivists collect a subset. Catalogs make a subset discoverable. Historians read a subset. A book cites a subset. A reader remembers a subset of the book.
+
+Centuries later, a clean paragraph can feel like the past itself.
+
+It is the residue of repeated selection.
+
+This does not make historical knowledge arbitrary. Independent records can converge. Physical evidence constrains stories. Methods can expose forgery. New archives can overturn old accounts. Selection does not eliminate reality; it determines which parts remain available to test claims about it.
+
+The distinction is important because the physical limits of memory are sometimes used as an excuse for epistemic nihilism. If every observer is selective, perhaps every story is equally partial and therefore equally valid.
+
+No.
+
+A thermometer is selective and can still be wrong. Its selectivity does not erase the room’s temperature. It tells us what the instrument can legitimately claim.
+
+Finite knowledge is not the absence of truth.
+
+It is truth approached through channels with known and unknown limits.
+
+The responsible observer learns the channel too.
+
+Our notebook keeper should know the sensor’s accuracy, response time, location, and calibration. The historian should know who produced the archive. The model builder should know the sampling frame. The reader should know when a clean number hides a noisy chain.
+
+This is where the small administrative problem becomes a scientific ethic.
+
+Do not merely preserve the answer.
+
+Preserve enough about how the answer was made that a later observer can decide what the answer deserves.
+
+The notebook therefore needs margins.
+
+Who measured.
+
+With what.
+
+When.
+
+Under which conditions.
+
+What changed.
+
+What was discarded.
+
+The metadata may eventually occupy more space than the number.
+
+That is not bureaucracy defeating knowledge.
+
+It is knowledge admitting that a bare number cannot carry its own history.
+
+The rest of the book is about what that history costs, what it makes possible, and what kind of creature chooses what deserves the next page.
