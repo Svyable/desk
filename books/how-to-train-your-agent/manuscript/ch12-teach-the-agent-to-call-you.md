@@ -90,7 +90,7 @@ The principal has simply converted execution work into supervisory work.
 
 This is why escalation needs calibration.
 
-Early in childhood, over-escalation can be acceptable. A rookie asks. The principal observes which questions recur. As patterns become understood, routine cases move inside the role. The escalation rate should fall for the center of the job while remaining sensitive at the edges.
+Early in apprenticeship, over-escalation can be acceptable. An unqualified role asks. The principal observes which questions recur. As patterns become understood, routine cases move inside the role. The escalation rate should fall for the center of the job while remaining sensitive at the edges.
 
 If the same question arrives every week, one of three things is probably true.
 
@@ -150,6 +150,20 @@ Summary and receipt.
 
 Decision and evidence.
 
+Coders have an old analogy for this: a useful error message tells you what failed, where it failed, and what state matters next. “Something went wrong” is not an escalation. It is an apology wearing a status code.
+
+The same standard should apply to ordinary agent work.
+
+A travel agent should not say, “I need help booking this trip.” It should say that the lowest-priced itinerary violates the connection rule, the next option is $180 more, and the third option arrives after the family commitment; no booking has been made.
+
+A household finance agent should not say, “There's an issue with the bill.” It should say that the electricity bill is forty percent above the recent range, the meter-read period is longer than normal, and payment is due in six days; it has not disputed or paid the charge.
+
+A coding agent should not page a developer with “tests failed.” It should identify which test, whether the failure existed before the change, what it tried, and whether the working tree remains safe.
+
+Useful escalation is preprocessed uncertainty.
+
+That is the bridge between operations engineering and normal life.
+
 This becomes particularly important when the agent is better at the underlying technical work than the principal. The human may not be able to rederive the whole analysis. The escalation needs to identify what kind of authority is missing rather than ask the human to pretend to be the superior technician.
 
 A coding agent might say the two implementation options both pass tests, but one changes the public API and requires a product decision. The principal does not need to outperform the agent at coding. She needs to decide whether compatibility should be broken.
@@ -183,6 +197,24 @@ The individual who once handled tasks sequentially may now have multiple process
 This is the agent economy arriving in the nervous system.
 
 A small business owner with five active agents may discover that her real job is not issuing instructions. It is deciding which exceptions deserve her finite attention.
+
+The coding version of this problem is familiar to anyone who has lived with a noisy pager. If every minor anomaly wakes the on-call engineer, the alerting system destroys its own credibility. Teams learn to route by severity, suppress duplicates, batch nonurgent signals, and make critical pages rare enough that they still mean something.
+
+The household version is no different in principle.
+
+A family agent should not interrupt dinner because a streaming subscription rises by one dollar next month. It might put that into a weekly review. It should interrupt differently if a same-day flight is canceled, a payment appears fraudulent, or a school message changes where a child is expected to be picked up.
+
+The language of severity can stay simple.
+
+Now.
+
+Today.
+
+This week.
+
+For your records.
+
+The exact labels matter less than creating more than one channel between “silent autonomy” and “drop everything.”
 
 This makes silence meaningful.
 
