@@ -1,303 +1,93 @@
 # Chapter 11 — The Last Human Draft
 
-A draft used to be evidence that a mind had not finished.
+A draft used to be evidence that a mind had not finished. Increasingly, it may be evidence that a mind merely began.
 
-Now it may become evidence that a mind began.
+For generations, the rough draft was private territory. A sentence could be clumsy because nobody needed to see it yet. A writer could contradict herself, wander, repeat, discover the point halfway through, and return to the beginning with new knowledge. The draft was not simply a worse version of the final text. It was a thinking environment.
 
-This is a subtle change.
+Generative systems change the sequence. Instead of human roughness followed by revision, we can begin with machine fluency and move directly to selection. The page is no longer blank. It may arrive prematurely finished.
 
-For generations, the rough draft was private territory. The sentence could be clumsy because nobody needed to see it yet. The writer could contradict herself, wander, repeat, discover the point halfway through, and return to the beginning with new knowledge.
+That is often useful. A routine note, an agenda, a first pass at boilerplate, a summary of material already understood: there is no virtue in manufacturing friction for its own sake. The mistake is assuming that every task is improved when the first difficult step disappears.
 
-The draft was not merely an inferior version of the final text.
+When a person drafts from scratch, failure can be diagnostic. The sentence will not hold because the idea is vague. Two beliefs collide. The evidence is weaker than the confidence. The elegant phrase is hiding an empty claim. Composition forces unfinished thought to reveal itself.
 
-It was a thinking environment.
+A fluent generated answer can conceal the same unfinishedness beneath good syntax. The words arrive before the judgment.
 
-Then machines became very good at producing plausible first drafts.
+That distinction becomes important when the purpose of the work is not only the artifact produced but the capability left behind in the person producing it.
 
-This is useful enough that the old sequence may invert.
+In 2025, a preregistered field experiment with nearly a thousand high-school students in Turkey made this problem unusually concrete. Students practiced mathematics with ordinary resources, with a relatively unconstrained GPT-4 interface, or with a more structured AI tutor. The unconstrained system helped students perform better while they were using it. Later, when the system was removed, those students performed worse than the control group on the unassisted exam. The structured tutor also improved assisted practice, but its design emphasized teacher-provided solutions and guided hints rather than easy answer extraction; the later learning penalty largely disappeared.
 
-Instead of human roughness followed by human revision, we increasingly begin with machine fluency followed by human selection.
+The result is narrower than any slogan about AI and education. It was mathematics, one school, four review sessions, and a short-term exam. It does not prove that generative AI weakens learning in general, that writing behaves like algebra, or that withholding help is automatically wise.
 
-The page is no longer blank.
+But it exposes the right measurement problem.
 
-It is prematurely finished.
+If the task is formative, the most impressive assisted output may be the wrong thing to measure. The question is what remains when the scaffold is reduced.
 
-That can save enormous time.
+That is what this book means by **cognitive bypass**: a tool can help a person cross a difficult region without developing the capacity that region was supposed to train.
 
-It can also remove a form of cognition we did not realize the blank page was forcing us to practice.
+Sometimes bypass is exactly the point. A calculator should save a structural engineer from redoing arithmetic that is no longer educational. Navigation software can spare a traveler from memorizing streets that do not matter to the journey. A professional programmer need not hand-write every piece of boilerplate to prove moral seriousness.
 
-When you write a first draft yourself, you discover what you think by encountering your inability to say it.
+The distinction is between **output tasks** and **formation tasks**. An output task asks whether a useful artifact can be produced. A formation task asks what capability should exist inside the person afterward.
 
-The sentence fails.
+The same activity can be either. A professional translator may use every available tool because the client needs accurate text. A language student may need to construct the paragraph because the desired product is not the paragraph; it is a changed brain. A lawyer may use drafting assistance to save time. A law student may need to build the argument because the argument is where legal reasoning is being formed.
 
-Why?
-
-Perhaps the idea is vague.
-
-Perhaps two beliefs conflict.
-
-Perhaps the evidence does not support the confidence.
-
-Perhaps the beautiful phrase is hiding an empty claim.
-
-The friction of composition exposes unfinished thought.
-
-A generated draft can conceal that unfinishedness beneath grammatical competence.
-
-The words arrive before the judgment.
-
-This creates a new educational danger.
-
-A student can possess an answer whose intellectual history never occurred inside the student.
-
-The issue is not cheating in the narrow sense.
-
-The deeper issue is **cognitive bypass**.
-
-A tool can help someone cross a difficult region without the person developing the capacity that region used to train.
-
-Calculators bypass arithmetic operations, which is often exactly what we want after foundational numeracy exists.
-
-Navigation systems bypass route memorization, which frees attention but may weaken spatial knowledge.
-
-Generative writing can bypass formulation.
-
-The question is when formulation is the task.
-
-If the goal is to send a routine scheduling note, bypass away.
-
-If the goal is to understand what you believe about justice, grief, physics, history, or another person, the roughness may be the work.
-
-This is why the educational response to generative AI cannot be a simple ban or embrace.
-
-We need to distinguish **output tasks** from **formation tasks**.
-
-An output task asks: Can a useful artifact be produced?
-
-A formation task asks: What capability should exist inside the person after producing it?
-
-The same assignment can be either depending on context.
-
-A professional translator may use every available tool because the client needs accurate text.
-
-A language student may need to struggle through a paragraph because the desired product is not the paragraph. It is a changed brain.
-
-A software engineer may use an AI assistant to generate boilerplate because the value lies elsewhere.
-
-A programming student may need to write the loop because the loop is the lesson.
-
-A lawyer may use drafting assistance to save time.
-
-A law student may need to construct the argument to learn what legal reasoning feels like before fluency.
-
-The Retry Generation needs institutions capable of saying:
-
-**In this room, the inefficiency is intentional.**
-
-That sentence will sound increasingly radical.
-
-We have spent decades equating efficiency with progress. If a machine can do in seconds what a person needs an hour to do, asking the person to spend the hour can look absurd.
-
-But gyms are inefficient transportation systems.
-
-Nobody rides a stationary bicycle because it is the fastest way to reach another place.
-
-The inefficiency is the point because the work changes the worker.
+This is why “the AI can already do it” is not a complete argument against practice. A stationary bicycle is terrible transportation. It is useful because arriving somewhere else is not the point.
 
 Education contains many stationary bicycles.
 
-So does art.
+The danger is obvious enough that it can produce an equally bad response: romanticizing difficulty. Friction is not automatically formative. Confusing instructions, inaccessible materials, arbitrary delays, bad interfaces, repetitive clerical work, and preventable anxiety do not become noble because they are inconvenient.
 
-So does moral life.
+A second 2025 randomized study gives the necessary counterweight. In an introductory Harvard physics course, students using a purpose-built AI tutor learned more on the measured material than students in the comparison active-learning classes while typically spending less time. They also reported stronger engagement and motivation. The system had been deliberately structured around scaffolding, targeted feedback, self-pacing, and carefully prepared instructional content.
 
-A difficult conversation could be replaced by a perfectly phrased generated message, but perhaps composing the imperfect words is part of becoming someone capable of the relationship.
+That study is narrow too: two lessons, one course, one carefully engineered tutor. It does not show that a generic chatbot will reproduce the result across subjects or over years. What it does show is enough to break the lazy symmetry between “help” and “learning.” Assistance can weaken formation. Assistance can also strengthen it.
 
-A eulogy could be generated beautifully, but perhaps sitting with the blank page is part of mourning.
+The interesting variable is design.
 
-A wedding vow could be optimized, but perhaps the inability to say exactly what love means is information worth confronting before making the promise.
+The question is not whether the machine participates. The question is what kind of participation leaves the learner more capable when the machine becomes quieter.
 
-Not every communication problem should be solved at maximum efficiency.
+That standard also improves the idea of the **last human draft**. It is not the last document created without machine help, and it is not a purity ritual. Humans have always thought with dictionaries, editors, examples, collaborators, templates, tools, and inherited language. There was never a pristine age of unaided cognition worth recovering.
 
-Some language is an event in the person producing it.
+The last human draft is the point in a process where the person still has to originate enough structure, judgment, or explanation for the work to remain formative rather than merely approvable.
 
-This leads to the idea of the **last human draft**.
+Its location moves with the task.
 
-The last human draft is not necessarily the final text written without machine help.
+In routine business correspondence, there may be no reason to preserve it at all. In a mathematics lesson, it may be the attempt made before the first hint. In writing, it may be the outline, the claim, the evidence selection, or the ugly paragraph where a contradiction first becomes visible. In science, the important human work may sit less in sentence production than in choosing hypotheses, methods, interpretations, and standards of evidence.
 
-It is the stage in a process where the human must originate enough of the structure, judgment, or language that the artifact remains evidence of human formation rather than merely human approval.
+The useful test is functional: **Which difficulty is producing the capability we care about?**
 
-Different domains will place this boundary differently.
+If the difficulty is accidental, remove it. If the difficulty is doing real formation work, design assistance around that fact.
 
-In ordinary business correspondence, perhaps there is no need for one.
+This changes how we should think about timing. An intelligent tutor is not merely a machine that knows the answer. It is a system that knows when the answer should become available, in what form, and how much of it to reveal.
 
-In education, there often is.
+The two 2025 studies point toward this more interesting problem. In one case, easy access to answers improved practice performance while unsupported performance later deteriorated. In the other, a more structured tutor produced stronger measured learning than the comparison class. The difference cannot be reduced to “AI versus no AI.” It lives in scaffolding, task design, feedback, sequence, incentives, prior knowledge, and what the later assessment actually asks the student to do.
 
-In intimate communication, the boundary may depend on what the message represents.
+That is **useful restraint** in a testable form. Restraint is useful only if it improves later independent capability or another outcome we explicitly care about. Otherwise it is merely friction wearing a pedagogical costume.
 
-In literature, readers and writers will decide which forms of authorship they value.
+Commercial systems will often have the opposite incentive. Immediate completion feels better than delayed capability. The user asks; the system answers; the interaction feels magical. Formation is slower, harder to observe, and sometimes initially less satisfying. A tutor that makes a learner think can look worse in the moment than one that makes the homework disappear.
 
-In science, the key issue may be preserving human responsibility for hypotheses, methods, interpretation, and claims even if language is assisted.
+So designers need a metric that survives the demo.
 
-The point is not purity.
+What can the person do after the system stops helping?
 
-Purity is a dead end.
+That question matters beyond school. A coding assistant can make a team faster while quietly allowing debugging ability to atrophy. A writing system can produce cleaner prose while leaving the writer less able to detect a weak premise. A navigation system can increase mobility while reducing local spatial knowledge. None of these tradeoffs is automatically unacceptable. They simply need to be named.
 
-Humans have always thought with tools, collaborators, editors, dictionaries, templates, examples, and inherited language. There was never a pristine age of unaided cognition.
+Capability can be spent deliberately. We do this constantly. Nobody insists that an accountant preserve long division as a professional ritual. The problem begins when a capacity is surrendered accidentally because output quality disguised the loss.
 
-The question is functional:
+This is why the blank page was sometimes valuable. Not sacred. Valuable.
 
-**Which difficulty is producing the capability we care about?**
+It forced a particular diagnostic encounter: I do not yet know what I mean.
 
-If the difficulty is accidental, remove it.
+There will be fewer such encounters when plausible language is cheap. Fluency will be abundant. Polish will be cheap. The rare thing may be evidence that somebody has wrestled with an idea long enough to know where it breaks.
 
-If the difficulty is formative, be careful.
+That evidence does not require bad prose. It may show up as a sharper qualification, an awkward but necessary distinction, a discarded analogy, a changed conclusion, or the recognition that the argument sounded better before the source material arrived.
 
-This principle applies beyond writing.
+The goal is not to preserve imperfection as an aesthetic. It is to preserve the parts of a process where judgment is still being made rather than merely ratified.
 
-An AI tutor can answer immediately. Sometimes it should not.
+A good retry architecture for learning therefore does not simply maximize attempts or minimize pain. It creates a sequence in which the learner can attempt, encounter a real gap, receive appropriately designed help, try again, and eventually demonstrate what remains without the scaffold.
 
-A good teacher knows that the timing of help matters.
+That sequence leaves room for mercy. Nobody needs to be ruined by one failed attempt. It also leaves room for standards. A second chance is more meaningful when the next attempt reveals that something changed.
 
-Give the answer before effort and you may create dependence.
+This is the deeper connection to the Retry Generation. Cheap retries are powerful because they let us experiment without turning every error into a permanent verdict. But a retry that automatically supplies the missing capability is not always a retry. Sometimes it is substitution.
 
-Give the answer after productive struggle and you may create understanding.
+The distinction matters most when the work is supposed to change the worker.
 
-The same assistance has different effects depending on when it arrives.
-
-We can call this **retry timing**.
-
-The Retry Generation does not merely need access to second attempts. It needs judgment about when the second attempt should become available.
-
-Too late and failure becomes punitive.
-
-Too early and failure stops teaching.
-
-Imagine a child solving a puzzle with a hint button that appears instantly.
-
-The existence of the hint changes the first attempt even if the child does not press it.
-
-The mind knows rescue is available.
-
-That can reduce anxiety.
-
-It can also shorten persistence.
-
-Designers will increasingly shape human character through decisions as small as how long a system waits before offering help.
-
-Does the tutor answer immediately?
-
-Does the game reveal the solution after three failures?
-
-Does the writing assistant complete the sentence before the writer experiences the missing word?
-
-Does the coding tool show the fix before the programmer forms a theory of the bug?
-
-These are not merely interface questions.
-
-They are questions about the relationship between assistance and agency.
-
-The ideal system may sometimes know more than it says.
-
-That is a strange future.
-
-We are accustomed to evaluating intelligence by how quickly it produces the answer.
-
-But a teacher who blurts out every answer is not intelligent teaching.
-
-A coach who lifts every weight for the athlete is not helpful.
-
-A parent who prevents every frustration does not create capability.
-
-Advanced AI may need the discipline of **useful restraint**.
-
-Not “Can I solve this?”
-
-But “Should I solve this now, or should I help the person become someone who can?”
-
-This will be difficult because commercial incentives often reward immediate satisfaction.
-
-The user asks.
-
-The system answers.
-
-Friction disappears.
-
-The interaction feels magical.
-
-Formation is slower and harder to measure.
-
-A system that makes the user think may initially feel worse than one that removes thought.
-
-The same tension already exists in education, parenting, management, and medicine. The best help is not always the help that feels most helpful in the moment.
-
-A retry culture needs to recover respect for **productive incompletion**.
-
-Not knowing yet.
-
-Not having the sentence yet.
-
-Not seeing the solution yet.
-
-Not being good at the instrument yet.
-
-Not having resolved the argument yet.
-
-The word “yet” matters.
-
-It preserves the second chance without deleting the first struggle.
-
-That may be the healthiest architecture for learning in the age of generation.
-
-Attempt.
-
-Struggle enough to expose the gap.
-
-Receive help.
-
-Attempt again.
-
-Reflect on what changed.
-
-Then perform without the scaffold when the capability itself matters.
-
-This is not nostalgia for suffering.
-
-It is respect for adaptation.
-
-Muscles respond to load.
-
-Minds respond to demands.
-
-Character responds to responsibility.
-
-Remove every load and we should not be surprised when capacity changes.
-
-The blank page was never sacred.
-
-But sometimes it was a gym.
-
-Before we celebrate its disappearance, we should ask what we were exercising there.
-
-The future will contain more perfect drafts than anyone can read.
-
-Fluency will be abundant.
-
-Polish will be cheap.
-
-The rare thing may be evidence that a person wrestled with an idea long enough for the idea to alter them.
-
-That evidence may look less polished.
-
-It may contain a strange sentence.
-
-A visible uncertainty.
-
-A conclusion that took time.
-
-A voice not fully optimized for approval.
-
-We may learn to value these marks the way we value grain in wood: not because imperfection is inherently superior, but because it tells us something about how the thing came to exist.
-
-The last human draft is not a demand that machines leave the room.
-
-It is a demand that humans remain somewhere inside the process where becoming is still happening.
+The last human draft is simply the place where that change still has to happen.
