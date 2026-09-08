@@ -452,6 +452,88 @@ The Deceptatron's danger comes partly from the disappearance of such limits. Onc
 
 A democracy needs some boundaries to remain stubbornly inefficient.
 
+That requirement becomes more concrete when a system has to live under institutions rather than principles alone. Rules need an owner, a record, and a place where somebody can challenge them. If an assistant says it does not use private health context for political persuasion, there has to be a technical boundary that makes the promise more than copy on a settings page. If a campaign says its synthetic supporters are disclosed, there has to be a way for a platform or regulator to inspect common control. If a feed says personalization can be reset, the reset has to reach the models and memory that actually shape the next recommendation.
+
+This is where reversibility becomes part of democratic design.
+
+A person should be able to leave an influence relationship without carrying an invisible residue forever. A political profile should be deletable or expirable. A sponsored objective should stop affecting an assistant after the sponsorship ends. A disputed model inference should be correctable. An account network should retain enough ownership history that a controller cannot dissolve one operation and reappear tomorrow as a thousand apparently unrelated citizens.
+
+Reversibility is not the same as forgetting everything. Public accountability often requires durable records. A campaign expenditure should remain auditable. A government statement should remain in an archive. A platform may need to preserve abuse evidence. The difficult distinction is between memory that protects the public and memory that gives the persuader a private advantage over the person.
+
+That distinction produces two ledgers.
+
+One belongs to accountability: who sponsored the system, what rules governed it, what categories of data it could use, which model or vendor operated it, when it ran, and who could stop it.
+
+The other belongs to the user: what the system believes about me, which memories affected this interaction, what I can correct, what I can reset, and which purposes I have actually authorized.
+
+A healthy system should not collapse those ledgers into one giant dossier. Auditability does not require exposing a citizen's private life to every investigator. User control does not require erasing evidence that a powerful operator ran a covert campaign. The architecture has to preserve both accountability and privacy at once.
+
+This is harder than a content label because it forces institutions to define the object they are governing. The object is not one sentence. It is a relationship with state.
+
+A relationship with state has a beginning.
+
+It accumulates information.
+
+It changes behavior.
+
+It can change principals.
+
+It can be transferred, rented, or embedded in another service.
+
+And it should have an end.
+
+That last property is easy to neglect because software prefers persistence. A retained model is cheaper than rebuilding one. A permanent identifier is easier than asking again. A stored preference makes the next interaction smoother. Every local incentive favors continuity.
+
+Democratic autonomy sometimes requires the opposite incentive.
+
+Make the system ask again.
+
+Make it forget an inference.
+
+Make a sponsor re-identify itself.
+
+Make a new political objective establish a new relationship rather than inheriting the trust of the old one.
+
+Make the operator prove that a claimed crowd consists of independent people rather than reusing a hidden network whose history vanished at the campaign boundary.
+
+These requirements look bureaucratic because they are. Bureaucracy is often what a society builds when it decides power should leave a record.
+
+The important question is whether the record follows the power rather than merely the artifact.
+
+A future investigation should be able to reconstruct the campaign even if the generated messages have disappeared. It should be able to establish which system ran, whose objective it served, what classes of personal information were available to it, how long memory persisted, which channels distributed the output, and which humans or organizations had authority to change the rules.
+
+That reconstruction would not prove how any individual voter was affected. Causal claims about persuasion will remain difficult. But it would make the exercise of power legible.
+
+Legibility matters because the absence of proof about effect should not become immunity for hidden process. Financial markets regulate some forms of undisclosed dealing without requiring proof that each trade changed a particular person's mind. Privacy law can govern unauthorized processing without proving that the processing changed an election. Campaign law can require disclosure because hidden sponsorship matters even when the advertisement fails.
+
+Adaptive persuasion should be treated with the same institutional modesty. Do not claim to measure minds when the evidence cannot. Govern the parts that can be observed: sponsorship, data use, impersonation, automation, persistence, distribution, recordkeeping, and control.
+
+This also gives operators clearer boundaries. A legitimate campaign should be able to personalize policy explanations without fearing that every adaptation is prohibited. A user should be able to choose a partisan assistant. A movement should be able to automate translation. A platform should be able to recommend political content. The burden should rise when the system borrows private trust, hides its principal, manufactures independence, or keeps experimenting after the user reasonably believes the relationship has ended.
+
+The law will never draw those lines perfectly.
+
+Neither will platforms.
+
+That is why appeal matters.
+
+If an account is labeled coordinated, the controller should be able to challenge the finding. If an assistant blocks a political sponsor from using a category of data, the sponsor should be able to understand the rule without learning the user's private information. If a researcher identifies a campaign as synthetic, the evidence should be strong enough that an independent reviewer can test the attribution.
+
+Contestability is the institutional version of uncertainty.
+
+A system can be wrong about the user.
+
+A platform can be wrong about the operator.
+
+A regulator can be wrong about the campaign.
+
+The answer to those errors is not to abandon governance. It is to make the governance itself leave a path for correction.
+
+That path is another form of common reality: not agreement about who is good or bad, but a shared record of what rule was applied, what evidence supported it, and how the decision can be challenged.
+
+The Deceptatron thrives when every important relationship is private and every consequential decision is ephemeral.
+
+Democratic institutions work in the opposite direction. They turn some exercises of power into records that strangers can inspect later.
+
 The last shared fact is not a particular fact.
 
 It is the fact that there is still a world outside the feed.
