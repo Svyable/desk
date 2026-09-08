@@ -1,7 +1,4 @@
 const BRIDGE_FLAG = Symbol.for('svyable.desk.reader.runtimeBridge');
-const SHELF_BOOKS_PREFIX = '/shelf/books/';
-const DESK_BOOKS_PREFIX = '/desk/books/';
-const SHELF_WORKER_PATH = '/shelf/reader/sw.js';
 const DEFAULT_RETRY_DELAYS = Object.freeze([140, 520]);
 const OFFLINE_RETRY_FLOOR_MS = 1200;
 const OFFLINE_RETRY_CEILING_MS = 1800;
@@ -155,64 +152,8 @@ export function bootstrapRecoveryCopy(error, { online = true } = {}) {
   });
 }
 
-export function rewriteSharedModuleSpecifiers(source, upstream) {
-  const input = String(source || '');
-  const base = String(upstream || '');
-  const staticPattern = /from\s+(['"])\.\/([^'"]+)\1/g;
-  const dynamicPattern = /import\(\s*(['"])\.\/([^'"]+)\1\s*\)/g;
-  const staticImports = [...input.matchAll(staticPattern)].length;
-  const dynamicImports = [...input.matchAll(dynamicPattern)].length;
-  const rewrittenStatic = input.replace(
-    staticPattern,
-    (_match, quote, path) => `from ${quote}${base}${path}${quote}`
-  );
-  const rewritten = rewrittenStatic.replace(
-    dynamicPattern,
-    (_match, quote, path) => `import(${quote}${base}${path}${quote})`
-  );
-  return Object.freeze({ source: rewritten, staticImports, dynamicImports });
-}
-
-export function rewriteDeskPublicationUrl(value, {
-  base = 'https://svyable.github.io/desk/reader/',
-  origin = 'https://svyable.github.io',
-} = {}) {
-  const url = asUrl(value, base);
-  if (!url || url.origin !== origin || !url.pathname.startsWith(SHELF_BOOKS_PREFIX)) {
-    return url?.href || String(value);
-  }
-  url.pathname = `${DESK_BOOKS_PREFIX}${url.pathname.slice(SHELF_BOOKS_PREFIX.length)}`;
-  return url.href;
-}
-
-export function deskWorkerUrl(moduleUrl = import.meta.url) {
-  return new URL('../sw.js', moduleUrl).href;
-}
-
 export function deskManifestUrl(moduleUrl = import.meta.url) {
   return new URL('../manifest.webmanifest', moduleUrl).href;
-}
-
-export function deskReaderScope(moduleUrl = import.meta.url) {
-  return new URL('../', moduleUrl).pathname;
-}
-
-export function shouldRedirectShelfWorker(value, {
-  base = 'https://svyable.github.io/desk/reader/',
-  origin = 'https://svyable.github.io',
-} = {}) {
-  const url = asUrl(value, base);
-  return !!url && url.origin === origin && url.pathname === SHELF_WORKER_PATH;
-}
-
-function rewriteFetchInput(input, global, options) {
-  const rewritten = rewriteDeskPublicationUrl(input, options);
-  if (typeof Request !== 'undefined' && input instanceof Request) {
-    if (rewritten === input.url) return input;
-    return new Request(rewritten, input);
-  }
-  if (input instanceof URL) return new URL(rewritten);
-  return rewritten;
 }
 
 function isDeskPortalReadme(input, options) {
@@ -245,37 +186,14 @@ function installManifest(global, moduleUrl) {
   if (link) link.href = deskManifestUrl(moduleUrl);
 }
 
-function installFetchBridge(global, options) {
+function installCatalogOverlay(global, options) {
   if (typeof global.fetch !== 'function') return;
   const nativeFetch = global.fetch.bind(global);
   global.fetch = async (input, init) => {
-    const rewritten = rewriteFetchInput(input, global, options);
-    const response = await nativeFetch(rewritten, init);
-    if (!isDeskPortalReadme(rewritten, options)) return response;
+    const response = await nativeFetch(input, init);
+    if (!isDeskPortalReadme(input, options)) return response;
     return overlayCatalogManifest(response, nativeFetch, global, options);
   };
-}
-
-function installRegistrationBridge(global, moduleUrl, options) {
-  const container = global.navigator?.serviceWorker;
-  if (!container || typeof container.register !== 'function') return;
-  const prototype = Object.getPrototypeOf(container);
-  if (!prototype || prototype[BRIDGE_FLAG]) return;
-  const nativeRegister = prototype.register;
-  Object.defineProperty(prototype, BRIDGE_FLAG, { value: true });
-  Object.defineProperty(prototype, 'register', {
-    configurable: true,
-    writable: true,
-    value(scriptURL, registerOptions = {}) {
-      if (!shouldRedirectShelfWorker(scriptURL, options)) {
-        return nativeRegister.call(this, scriptURL, registerOptions);
-      }
-      return nativeRegister.call(this, deskWorkerUrl(moduleUrl), {
-        ...registerOptions,
-        scope: deskReaderScope(moduleUrl),
-      });
-    },
-  });
 }
 
 export function installDeskRuntimeBridge({
@@ -286,11 +204,9 @@ export function installDeskRuntimeBridge({
   Object.defineProperty(global, BRIDGE_FLAG, { value: true });
   const options = {
     base: global.location?.href || new URL('../', moduleUrl).href,
-    origin: global.location?.origin || new URL(moduleUrl).origin,
     portalUrl: new URL('../../README.md', moduleUrl).href,
     catalogUrl: new URL('../../catalog.json', moduleUrl).href,
   };
   installManifest(global, moduleUrl);
-  installFetchBridge(global, options);
-  installRegistrationBridge(global, moduleUrl, options);
+  installCatalogOverlay(global, options);
 }

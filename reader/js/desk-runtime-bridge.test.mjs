@@ -1,16 +1,12 @@
 import assert from 'node:assert/strict';
+import { readFileSync } from 'node:fs';
 import {
   bootstrapFailureKind,
   bootstrapRecoveryCopy,
   deskManifestUrl,
-  deskReaderScope,
-  deskWorkerUrl,
   fetchBootstrapResource,
   responseError,
   retryPauseMs,
-  rewriteDeskPublicationUrl,
-  rewriteSharedModuleSpecifiers,
-  shouldRedirectShelfWorker,
 } from './desk-runtime-bridge.js';
 
 const moduleUrl = 'https://svyable.github.io/desk/reader/js/desk-runtime-bridge.js';
@@ -21,41 +17,8 @@ const check = (run) => {
 };
 
 check(() => assert.equal(
-  rewriteDeskPublicationUrl('https://svyable.github.io/shelf/books/example/README.md'),
-  'https://svyable.github.io/desk/books/example/README.md'
-));
-check(() => assert.equal(
-  rewriteDeskPublicationUrl('https://svyable.github.io/shelf/books/example/ch01.md?x=1#part'),
-  'https://svyable.github.io/desk/books/example/ch01.md?x=1#part'
-));
-check(() => assert.equal(
-  rewriteDeskPublicationUrl('https://svyable.github.io/shelf/reader/js/app.js'),
-  'https://svyable.github.io/shelf/reader/js/app.js'
-));
-check(() => assert.equal(
-  rewriteDeskPublicationUrl('https://svyable.github.io/desk/books/example/README.md'),
-  'https://svyable.github.io/desk/books/example/README.md'
-));
-check(() => assert.equal(
-  rewriteDeskPublicationUrl('https://example.com/shelf/books/example/README.md'),
-  'https://example.com/shelf/books/example/README.md'
-));
-
-check(() => assert.equal(deskWorkerUrl(moduleUrl), 'https://svyable.github.io/desk/reader/sw.js'));
-check(() => assert.equal(deskManifestUrl(moduleUrl), 'https://svyable.github.io/desk/reader/manifest.webmanifest'));
-check(() => assert.equal(deskReaderScope(moduleUrl), '/desk/reader/'));
-
-check(() => assert.equal(
-  shouldRedirectShelfWorker('https://svyable.github.io/shelf/reader/sw.js'),
-  true
-));
-check(() => assert.equal(
-  shouldRedirectShelfWorker('https://svyable.github.io/desk/reader/sw.js'),
-  false
-));
-check(() => assert.equal(
-  shouldRedirectShelfWorker('https://svyable.github.io/shelf/reader/js/app.js'),
-  false
+  deskManifestUrl(moduleUrl),
+  'https://svyable.github.io/desk/reader/manifest.webmanifest'
 ));
 
 check(() => assert.equal(bootstrapFailureKind(new TypeError('network')), 'transient'));
@@ -112,13 +75,10 @@ check(() => assert.equal(bootstrapRecoveryCopy(new TypeError('offline'), { onlin
 check(() => assert.match(bootstrapRecoveryCopy(new TypeError('network')).title, /temporarily/i));
 check(() => assert.match(bootstrapRecoveryCopy(new Error('contract')).title, /update/i));
 
-const moduleRewrite = rewriteSharedModuleSpecifiers(
-  "import { ready } from './base.js';\nconst lazy = () => import('./pagination-scheduler.js');",
-  'https://svyable.github.io/shelf/reader/js/'
-);
-check(() => assert.equal(moduleRewrite.staticImports, 1));
-check(() => assert.equal(moduleRewrite.dynamicImports, 1));
-check(() => assert.match(moduleRewrite.source, /shelf\/reader\/js\/base\.js/));
-check(() => assert.match(moduleRewrite.source, /shelf\/reader\/js\/pagination-scheduler\.js/));
+const source = readFileSync(new URL('./desk-runtime-bridge.js', import.meta.url), 'utf8');
+check(() => assert.doesNotMatch(source, /rewriteSharedModuleSpecifiers/));
+check(() => assert.doesNotMatch(source, /\/shelf\/books\//));
+check(() => assert.doesNotMatch(source, /\/shelf\/reader\/sw\.js/));
+check(() => assert.doesNotMatch(source, /serviceWorker\.register|prototype\.register/));
 
-console.log(`Desk runtime bridge: ${assertions}/34 assertions passed`);
+console.log(`Desk runtime bridge: ${assertions}/23 assertions passed`);
