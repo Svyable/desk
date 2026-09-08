@@ -13,10 +13,13 @@ A September 4, 2026 web search did not surface prior use of the exact phrase **�
 - Adam Laabs, “An AI Agent Does Not Need to Be Hacked. It Only Needs to Inherit Your Permissions” (August 2026), uses **Authority Half-Life** for the period during which original context continues to justify an agent action.
 - Reza Parsa, “Runtime Legitimacy in Autonomous AI Systems” (2026), proposes **Authority Decay** and runtime re-verification for agentic AI.
 - David Forbes, “The Missing Layer” (2026), argues that authority should contract as operating conditions change.
+- Established IETF standards already cover important parts of fine-grained and delegated authorization: RFC 9396 Rich Authorization Requests carries structured authorization details, while RFC 8693 Token Exchange supports impersonation, delegation, and actor-chain provenance. Agent-era work therefore should not be framed as inventing action-specific or delegated authorization from scratch.
 - Internet-Drafts on Intent Tokens, Principal Agent Protocol, Agent Authorization Envelopes, and Progressive Trust use time bounds, delegation chains, decay states, or trust half-lives.
 - Older legal scholarship on sunset clauses, distributed-systems work on leases, and security standards on expiring credentials provide deep precedents for bounded authority.
 
-The manuscript’s distinct claim is therefore not “nobody has ever thought authority should expire.” That would be false. The distinct synthesis is that **the useful half-life is primarily a function of distance from the grant conditions rather than wall-clock age**, and that this principle can unify agent authorization, organizational delegation, emergency power, and institutional legitimacy without treating them as identical domains.
+The manuscript’s distinct claim is therefore not “nobody has ever thought authority should expire,” nor that existing authorization systems can express only coarse, long-lived permissions. Those claims would be false. The distinct synthesis is that **the useful half-life is primarily a function of distance from the grant conditions rather than wall-clock age**, and that this principle can unify agent authorization, organizational delegation, emergency power, and institutional legitimacy without treating them as identical domains.
+
+For the agent chapters, the residual technical question is semantic freshness. A permission can be fine-grained, time-bounded, correctly delegated, and cryptographically valid while still becoming stale because the recipient, task, principal, consequence, or relevant state has changed. Existing standards can carry constraints and provenance; they do not automatically decide which changed facts should invalidate or narrow the mandate.
 
 ## Falsification notes
 
@@ -30,9 +33,10 @@ The book therefore preserves several counterclaims:
 4. Renewal can become ritualized, producing repeated approvals without fresh evaluation.
 5. Stable long-term mandates can protect institutions from arbitrary interference and can be essential for credible commitment.
 6. “Context” is manipulable. A system that decides whether its own authority remains justified can rationalize continuation unless the relevant signals and escalation rules are externally constrained.
+7. Mature authorization standards and ordinary controls already solve meaningful pieces of the agent problem. The book’s thesis is weaker if its recommended “runtime mandate” machinery merely renames fine-grained authorization, token exchange, rate limits, workflow state, idempotency, or revocation without adding a distinct test for changed justification.
 
 ## Source discipline
 
 Concrete claims in the manuscript should be traceable to the source ledger. The prose avoids invented dialogue, invented historical scenes, unsupported statistics, and imitation quotations. Where the book uses a scenario to clarify the principle, it labels the scenario as hypothetical or writes it generically rather than presenting it as a historical event.
 
-Key source families include: NIST zero-trust guidance; RFC 6749; Gray and Cheriton on distributed-system leases; Gama et al. on concept drift; U.S. Army mission-command doctrine; Jensen and Meckling and later public-administration work on delegation and agency costs; legal scholarship on sunset clauses; and 2026 autonomous-agent authorization proposals.
+Key source families include: NIST zero-trust guidance; RFC 6749; RFC 8693 and RFC 9396; Gray and Cheriton on distributed-system leases; Gama et al. on concept drift; U.S. Army mission-command doctrine; Jensen and Meckling and later public-administration work on delegation and agency costs; legal scholarship on sunset clauses; and 2026 autonomous-agent authorization proposals.
