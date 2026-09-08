@@ -118,9 +118,7 @@ Embedding sounds like a technical preprocessing step, something done before the 
 
 If two objects collapse into nearly the same region, downstream systems may treat them as interchangeable. If a crucial difference receives little representation, no clever search algorithm can recover what the embedding never preserved. If the training process separates objects that a human considers related, the neighborhood will disappoint. If the space encodes social stereotypes, downstream applications inherit geometry contaminated by history.
 
-Representation is not the stage before judgment.
-
-It is one of the places judgment gets built.
+Representation is one of the places judgment gets built.
 
 The history of embeddings therefore mirrors a larger history of artificial intelligence. Progress often arrives not because a machine learns a more elaborate rule, but because the problem is represented in a form where a simpler operation becomes powerful.
 
@@ -260,9 +258,7 @@ This helps explain why modern retrieval can feel qualitatively different from sy
 
 A synonym list says that certain words may substitute for one another under some circumstances. A contextual representation can use an entire sentence to determine which circumstance it is in. The query “the laptop will not hold a charge” and the query “the defendant disputes the charge” share the same noun. Their useful neighborhoods should have almost nothing else in common.
 
-The system is not merely expanding the word.
-
-It is placing the utterance.
+The system is placing the utterance.
 
 This transition from static to contextual representation also changed what researchers meant by a feature. Older machine-learning systems often relied on features designed or counted explicitly: term frequency, document length, particular character patterns, handcrafted linguistic attributes. Neural representations increasingly learn features distributed through many internal dimensions.
 
@@ -328,9 +324,7 @@ That phrase sounds contradictory until we notice how often human thought depends
 
 We recognize an analogy before proving it. We say two songs feel similar before naming the harmonic reason. We recall that a current problem resembles a past one before locating the old report. We form a category whose boundaries remain fuzzy until a difficult case forces precision.
 
-Useful imprecision is the bridge into exploration.
-
-Exactness is the bridge back into verification.
+Useful imprecision is the bridge into exploration; exactness is the bridge back into verification.
 
 The most capable information systems will move between them deliberately.
 
@@ -344,14 +338,6 @@ This makes discovery less like a single lookup and more like a change of represe
 
 The history of embeddings matters because it gave computers a new gear.
 
-Before, identity was easy and relation was expensive.
+Before, identity was easy and relation was expensive. Now many relations can be approximated cheaply enough to search.
 
-Now many relations can be approximated cheaply enough to search.
-
-The result is not that words stopped being symbols.
-
-It is that symbols acquired neighborhoods that move with context.
-
-And once coordinates can move, the machine is no longer only asking where a word lives.
-
-It can begin asking where this meaning lives *now*.
+Symbols acquired neighborhoods that move with context. Once coordinates can move, the machine is no longer only asking where a word lives. It can begin asking where this meaning lives *now*.

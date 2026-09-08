@@ -44,9 +44,7 @@ That should make us pay attention to the word *nearest*.
 
 In practice, the system often returns something like “the best neighbors found by this search procedure under this time and resource budget.”
 
-That can still be excellent.
-
-It is not metaphysical proximity.
+That can still be excellent without being metaphysical proximity.
 
 Several families of techniques make large-scale vector search practical. Some partition the space into regions and search only the most promising regions. Some compress vectors so more of them fit in memory and comparisons become cheaper. Some build graphs in which each vector connects to nearby vectors, allowing a query to enter the structure and navigate toward progressively closer areas.
 
@@ -110,9 +108,7 @@ A simple business requirement changes the geometry of performance.
 
 Recent research on filtered approximate nearest-neighbor search has therefore focused on how to combine semantic similarity with structured constraints without losing speed or recall. The details vary by system, but the broader lesson is important.
 
-Discovery is rarely pure similarity.
-
-It is similarity inside a world of rules.
+Discovery is rarely pure similarity; it is similarity inside a world of rules.
 
 The rules shape what can be discovered.
 
@@ -210,11 +206,7 @@ This infrastructure also changes software architecture.
 
 In a traditional application, the database often stores canonical facts and the application layer implements business logic around them. In a vector-mediated application, the database can participate in semantic behavior. The retrieval layer decides which facts, objects or memories are considered similar enough to become candidates.
 
-The database is no longer only remembering what was stored.
-
-It is helping decide what counts as related.
-
-That is a substantial expansion of responsibility.
+The database is no longer only remembering what was stored; it is helping decide what counts as related—a substantial expansion of responsibility.
 
 It also explains the rush to integrate vector search into existing data systems. Once embeddings become another indexable representation, organizations do not necessarily want a separate island for every semantic feature. They want vector operations beside transactions, metadata, permissions and operational data.
 
@@ -390,14 +382,8 @@ Can it switch to exhaustive search when the stakes justify the cost?
 
 Can it survive an embedding-model migration without silently changing behavior everywhere?
 
-The machinery of near is therefore not one algorithm.
+The machinery of near is an operational contract.
 
-It is an operational contract.
+The user gives the system a moment of attention. The system promises to spend computation, memory and approximation wisely enough to bring the right part of abundance within reach.
 
-The user gives the system a moment of attention.
-
-The system promises to spend computation, memory and approximation wisely enough to bring the right part of abundance within reach.
-
-At small scale, nearest-neighbor search is geometry.
-
-At large scale, it becomes logistics.
+At small scale, nearest-neighbor search is geometry; at large scale, it becomes logistics.

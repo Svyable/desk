@@ -86,9 +86,7 @@ This does not eliminate curation.
 
 It increases the value of curation because the system can surface material outside the obvious path. A historian needs provenance, dates, creators and context even more when discovery becomes fluid. Similar-looking images may come from different countries or decades. A model can connect them visually while hiding the historical difference that makes the comparison interesting or misleading.
 
-Shared space is not shared meaning.
-
-It is shared comparability.
+Shared space is shared comparability, not shared meaning.
 
 That distinction protects us from overclaiming.
 
@@ -146,15 +144,11 @@ The user stops caring which medium the database speaks.
 
 The system translates everything into adjacency.
 
-This can feel like the final defeat of metadata.
-
-It is not.
+This can feel like the final defeat of metadata. It is not.
 
 A photograph of a protest may be visually similar to another protest while differing in country, cause and year. A medical image may resemble another image but belong to a patient with a different diagnosis. A product photograph may look nearly identical to a counterfeit item. A satellite image may match a land-use pattern but come from a different climate regime.
 
-Visual similarity is not identity.
-
-Semantic similarity is not provenance.
+Visual similarity is not identity, and semantic similarity is not provenance.
 
 Multimodal retrieval therefore intensifies the need for structured facts around the vectors.
 
@@ -340,8 +334,6 @@ As multimodal systems improve, this separation will become easier to forget beca
 
 Underneath, the system may be composing several representations and specialized models, each with its own blind spots.
 
-That composition is not a weakness.
-
 Humans also use different sensory systems and integrate them imperfectly. The important engineering question is whether disagreement between modalities is visible enough to matter.
 
 If the audio says one thing and the video another, does the system notice?
@@ -362,12 +354,6 @@ The specification can reveal that the visually similar object is actually incomp
 
 The path crosses representations and ends in a fact the original visual neighborhood could not provide.
 
-That is the mature use of shared space.
+Mature shared space is a network of partial senses that can hand a question to one another, not one universal sense.
 
-Not one universal sense.
-
-A network of partial senses that can hand a question to one another.
-
-The world itself can become the query because more of its forms are becoming computationally comparable.
-
-The world remains larger than any common space built to compare them.
+The world itself can become the query because more of its forms are becoming computationally comparable. The world remains larger than any common space built to compare them.

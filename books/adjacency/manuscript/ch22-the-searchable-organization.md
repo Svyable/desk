@@ -70,9 +70,7 @@ Access control changes the map.
 
 Two employees can ask the same question and correctly receive different neighborhoods because their authorized worlds differ.
 
-That is not a defect in relevance.
-
-It is part of the institution's structure.
+Access differences are part of the institution's structure, not a defect in relevance.
 
 This principle becomes more important when retrieval feeds a language model. A weak architecture retrieves sensitive material into context and relies on the model not to reveal it. By then the boundary has already failed.
 
@@ -356,11 +354,7 @@ The institution needs to know when its map contains ghosts.
 
 Deletion is not complete if the source disappears while machine memory preserves the substance indefinitely.
 
-This is the organizational version of forgetting.
-
-It is not merely a compliance requirement.
-
-It affects trust.
+This is the organizational version of forgetting. It is a trust requirement as much as a compliance one.
 
 Employees communicate differently if every provisional thought may become permanent searchable evidence. Creative work becomes cautious. Difficult conversations move off system. People stop writing honest postmortems because a draft explanation can later be surfaced without context.
 
@@ -422,9 +416,7 @@ A good expertise system should use semantic traces as clues, not verdicts.
 
 Human referrals, project history, code contribution, formal ownership, and direct self-description can complement text embeddings where appropriate and lawful.
 
-Again the organization is not one vector space.
-
-It is a layered structure of people, records, tools, relationships, authority, and time.
+Again the organization is a layered structure of people, records, tools, relationships, authority, and time.
 
 The vector layer makes the structure easier to enter through ordinary language.
 
@@ -586,10 +578,4 @@ It gives agents broad investigative access inside legitimate boundaries without 
 
 It remembers enough to learn and forgets enough to remain trustworthy.
 
-The promise is not that the institution will finally know everything it has ever said.
-
-The promise is narrower and more valuable.
-
-When a consequential question arrives, the parts of the institution that deserve to matter can become adjacent in time.
-
-That is what turns stored knowledge into usable memory.
+The valuable promise is narrower: when a consequential question arrives, the parts of the institution that deserve to matter can become adjacent in time.
