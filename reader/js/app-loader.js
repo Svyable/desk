@@ -1,8 +1,3 @@
-import {
-  bootstrapRecoveryCopy,
-  installDeskRuntimeBridge,
-} from './desk-runtime-bridge.js';
-
 // Temporary migration boundary: canonical Bookself still supplies app.js until
 // scripts/sync-reader-runtime.sh has materialized the complete application graph.
 const canonicalAppUrl = 'https://svyable.github.io/bookself/reader/js/app.js?v=r4';
@@ -30,7 +25,6 @@ function installDeskStylesheet(id, href) {
   document.head.appendChild(link);
 }
 
-installDeskRuntimeBridge();
 installDeskChromePolicy();
 installDeskStylesheet('deskLibraryHome', libraryHomeUrl);
 installDeskStylesheet('deskBookOpeningHandoff', bookOpeningHandoffUrl);
@@ -49,6 +43,39 @@ function installRecoveryStyles() {
     @media (forced-colors:active) { .desk-bootstrap-recovery button { border:2px solid ButtonText; forced-color-adjust:auto; } }
   `;
   document.head.appendChild(style);
+}
+
+function bootstrapFailureKind(error) {
+  if (error?.name === 'AbortError') return 'abort';
+  const status = Number(error?.status);
+  if (!Number.isFinite(status) || status === 0) {
+    return error instanceof TypeError || error?.network === true ? 'transient' : 'permanent';
+  }
+  if (status === 408 || status === 425 || status === 429 || status >= 500) return 'transient';
+  return 'permanent';
+}
+
+function bootstrapRecoveryCopy(error, { online = true } = {}) {
+  const kind = bootstrapFailureKind(error);
+  if (!online && kind === 'transient') {
+    return Object.freeze({
+      title: 'Desk Reader is offline',
+      message: 'The Reader could not be loaded from this device yet. Your Desk manuscripts are unchanged.',
+      action: 'Try again',
+    });
+  }
+  if (kind === 'transient') {
+    return Object.freeze({
+      title: 'Desk Reader is temporarily unavailable',
+      message: 'The Reader could not be loaded. Your Desk manuscripts are unchanged.',
+      action: 'Try again',
+    });
+  }
+  return Object.freeze({
+    title: 'Desk Reader needs an update',
+    message: error instanceof Error ? error.message : String(error),
+    action: 'Reload',
+  });
 }
 
 function showRecovery(error) {
