@@ -108,8 +108,16 @@ with tempfile.TemporaryDirectory() as tmp:
     assert (root / "books/keep.txt").read_text() == "manuscript state\n"
 
     # A service-worker shell entry without a local file is a broken sync, even
-    # when every copied Bookself file itself compares byte-for-byte.
+    # when every copied Bookself file itself compares byte-for-byte. The failed
+    # candidate must not mutate any live runtime or ownership/version metadata.
+    good_app = (root / "reader/js/app.js").read_text()
+    good_worker = (root / "reader/sw.js").read_text()
+    good_manifest = manifest.read_text()
     good_version = offline_version.read_text()
+    good_desk_js = (root / "reader/js/desk-local.js").read_text()
+    good_desk_css = (root / "reader/css/desk-local.css").read_text()
+
+    (platform / "reader/js/app.js").write_text("canonical app v3 must not land\n")
     (platform / "reader/sw.js").write_text(
         worker("bookself-shell-v3", include_offline_helper=False, missing="./js/missing-shell.js")
     )
@@ -119,6 +127,13 @@ with tempfile.TemporaryDirectory() as tmp:
         assert "offline shell asset missing after sync: ./js/missing-shell.js" in exc.stderr
     else:
         raise AssertionError("sync accepted a service-worker shell with a missing local asset")
-    assert offline_version.read_text() == good_version
 
-print("Desk Reader runtime sync contract: exact files, complete/versioned offline shell, Desk state preserved")
+    assert (root / "reader/js/app.js").read_text() == good_app
+    assert (root / "reader/sw.js").read_text() == good_worker
+    assert manifest.read_text() == good_manifest
+    assert offline_version.read_text() == good_version
+    assert (root / "reader/js/desk-local.js").read_text() == good_desk_js
+    assert (root / "reader/css/desk-local.css").read_text() == good_desk_css
+    assert (root / "books/keep.txt").read_text() == "manuscript state\n"
+
+print("Desk Reader runtime sync contract: staged verification, exact files, complete/versioned offline shell, Desk state preserved")
