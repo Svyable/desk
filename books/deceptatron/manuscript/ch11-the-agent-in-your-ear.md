@@ -361,3 +361,251 @@ We should judge them by whose interests they are allowed to serve.
 The agent in your ear does not need to command you.
 
 It only needs to become the voice you ask first.
+
+Agent loyalty becomes harder when the assistant serves more than one person.
+
+A household may share an agent.
+
+An employer may provide one.
+
+A school may provide one to students.
+
+A government may provide one for benefits.
+
+An insurer may provide one for claims.
+
+A platform may provide one free in exchange for a commercial relationship.
+
+The phrase “acts for the user” becomes ambiguous because several principals exist.
+
+Whose interests come first?
+
+The answer cannot be that every assistant owes identical duties in every setting.
+
+A company-owned workplace agent may legitimately serve the employer in ways a personal agent should not.
+
+A campaign chatbot openly serves the campaign.
+
+A government benefits assistant serves an agency mission while also helping the citizen navigate it.
+
+The critical design property is legibility.
+
+The user should know which role the agent occupies.
+
+A partisan agent can be strongly partisan and still be institutionally honest.
+
+A general personal agent can produce mild, balanced language and still betray the user if its hidden objective belongs to a sponsor.
+
+Tone does not reveal loyalty.
+
+Governance does.
+
+This suggests a simple taxonomy of roles.
+
+Representative agents act primarily for the user.
+
+Institutional agents act for the organization that provides them.
+
+Marketplace agents mediate among buyers, sellers, and sponsors.
+
+Public-service agents execute defined government functions.
+
+Advocacy agents promote a disclosed cause.
+
+The categories can overlap and law will define them more carefully if the market matures. The immediate value is conceptual.
+
+Different roles create different expectations.
+
+A campaign assistant should not be mistaken for a neutral civic guide.
+
+A shopping agent that receives commissions should not be mistaken for a buyer's exclusive representative.
+
+A workplace agent should not quietly imply confidentiality if the employer can inspect the interaction.
+
+A personal agent should not borrow the apparent neutrality of service while renting its recommendation policy to political bidders.
+
+Role clarity reduces the amount of manipulation that has to be detected from prose.
+
+It puts the institutional fact ahead of the sentence.
+
+The agent in your ear also changes the meaning of consent.
+
+Traditional digital consent is often event-based.
+
+Accept the terms.
+
+Allow the cookie.
+
+Connect the calendar.
+
+Enable location.
+
+A persistent assistant turns consent into a relationship that changes over time.
+
+The user may connect more services.
+
+The agent may gain new capabilities.
+
+The business model may change.
+
+Political sponsorship may be introduced years after the original onboarding.
+
+Consent given when the assistant could summarize emails should not automatically authorize political optimization after it can access health, banking, and family memory.
+
+Material changes in role should require material consent.
+
+That is especially true when the agent moves from answering to acting.
+
+The difference between “tell me about this petition” and “sign this petition for me” is not a minor feature upgrade.
+
+The second action uses the user's identity.
+
+Political expression is being delegated.
+
+A system should require clear authorization at the point where it speaks, donates, endorses, registers, cancels, or commits on the user's behalf.
+
+Momentum should not manufacture consent.
+
+An assistant can make a sequence feel natural.
+
+Read the argument.
+
+Compare the options.
+
+Find the event.
+
+Add it to the calendar.
+
+Invite friends.
+
+Donate.
+
+Post.
+
+Each step can be individually reasonable while the sequence carries the user farther than they intended at the beginning.
+
+Good delegation inserts friction when the action changes legal, financial, or expressive state.
+
+The agent can prepare.
+
+The person commits.
+
+This is not a universal ban on automation. A user can establish standing instructions for recurring civic tasks. The important thing is that the authority comes from the user rather than from a persuasive flow designed by another principal.
+
+The assistant should know the boundary between helping a person decide and quietly converting the decision into execution.
+
+This becomes a security issue too.
+
+If a malicious source can influence an agent's recommendations, and recommendations can trigger actions, upstream information attacks gain physical or financial consequences.
+
+A false claim in a webpage is one thing.
+
+A false claim that causes an agent to cancel a service, move money, publish a statement, or alter a schedule is another.
+
+Political influence systems will therefore intersect with ordinary agent security.
+
+Source trust.
+
+Permission scopes.
+
+Confirmation requirements.
+
+Logging.
+
+Isolation between retrieved content and executable instructions.
+
+The technical vocabulary differs, but the democratic principle is familiar.
+
+Information should not silently acquire authority merely because an agent can act on it.
+
+This makes provenance of instruction as important as provenance of media.
+
+Why did the agent take this action?
+
+User request.
+
+Standing user rule.
+
+Employer policy.
+
+Government requirement.
+
+Sponsor suggestion.
+
+Model inference.
+
+Retrieved webpage.
+
+Those categories carry radically different legitimacy.
+
+A useful agent should be able to answer the question without exposing secret internal reasoning.
+
+The answer is an audit trail of authority.
+
+That trail protects the provider as well as the user.
+
+When something goes wrong, responsibility does not disappear into “the AI did it.”
+
+The operator can identify which permission, policy, sponsor, or user instruction authorized the act.
+
+Responsibility remains attached to institutions.
+
+There is also an antitrust dimension to agent loyalty.
+
+If one assistant becomes the dominant gateway to commerce, information, and civic life, even transparent preferences can become enormous power.
+
+A default recommendation policy can shift markets.
+
+A source-selection rule can shift attention.
+
+An integration decision can determine which services exist for users.
+
+A political-sponsorship ban by one dominant agent can reshape campaigning.
+
+A political-sponsorship market can do the same.
+
+No single loyalty rule solves concentration.
+
+Users need meaningful switching.
+
+Data portability.
+
+Memory portability where safe.
+
+Alternative agents.
+
+Interoperable services.
+
+The ability to leave without losing the accumulated structure of one's digital life.
+
+Otherwise loyalty becomes a promise made by an institution the user cannot realistically escape.
+
+Competition is not sufficient for trust, but exit makes promises more credible.
+
+An agent that exploits its users should face the possibility that users can take their preferences and routines elsewhere.
+
+That requires care because portable memory can itself become a privacy hazard.
+
+Not every inferred profile should be exported automatically.
+
+The user should control what travels.
+
+The larger principle is that accumulated dependence should not become captivity.
+
+This returns to the central political question.
+
+The agent in your ear will be powerful not because it can produce eloquent arguments.
+
+It will be powerful because it occupies the interval between question and action.
+
+That interval contains search, framing, memory, recommendation, and increasingly permission.
+
+A democracy can tolerate powerful intermediaries when their roles are visible, their conflicts are bounded, their decisions are contestable, and people can leave.
+
+The threat is not intelligence in the ear.
+
+It is invisible principalship.
+
+The person thinks they are speaking with their agent.
+
+Somebody else quietly holds the contract.
