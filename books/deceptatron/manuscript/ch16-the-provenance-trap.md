@@ -446,6 +446,66 @@ This is why provenance needs governance around appeals, revocation, compromise, 
 
 Resilience comes from recoverability: public revocation records, multiple independent attestations, preserved originals, and clear explanations of what changed.
 
+The durability problem becomes sharper once provenance moves from a file feature to public infrastructure. An origin record that can be inspected today but disappears when a vendor closes, a platform changes formats, or an account is deleted does little for the dispute that arrives five years later. Evidence often becomes politically important after the moment of publication, when an investigation, lawsuit, election challenge, historical inquiry, or denial makes the earlier artifact newly relevant.
+
+A useful provenance system therefore needs a lifecycle, not merely a creation event.
+
+The record has to survive ordinary transformations. It needs to remain intelligible after a file is copied, archived, quoted, transcoded, or moved between services. Where the chain breaks, the break should be visible rather than silently rewritten as continuity. Where an institution reissues an artifact, the relationship between the versions should be inspectable. Where a credential is revoked or compromised, later viewers need to know that the trust status changed without pretending the underlying artifact ceased to exist.
+
+This separates preservation from endorsement.
+
+An archive can preserve a government statement without certifying that the statement was honest. A platform can preserve the history of a political advertisement after concluding that the sponsoring account violated policy. A newsroom can retain the original photograph after correcting the caption. A court record can preserve an exhibit that one party alleges is misleading. The point of preservation is to keep the object available for later argument.
+
+That function becomes more important as generated summaries replace direct encounters with source material. A person may learn about a document through an assistant, a search summary, a clipped video, or a quoted paragraph and never open the underlying file. Each layer adds another opportunity for the chain of evidence to become thinner.
+
+The defensive response should make returning to the source cheap.
+
+A summary can point to the exact record it relied on. A clip can point to the longer recording. An edited image can preserve a path to the source image when disclosure is safe. A quotation can identify the edition and location from which it came. A public institution can keep stable links and version histories rather than silently replacing yesterday's page.
+
+These practices are mundane. They are also hostile to adaptive propaganda because they give the target a route out of the selected presentation.
+
+The system says: look at this fragment.
+
+The citizen can ask: what is the object around the fragment?
+
+That question does not require distrusting everything. It requires enough infrastructure that verification does not begin with a scavenger hunt.
+
+There is a privacy boundary here too. Provenance should not become an excuse to attach a permanent public identity to every act of creation. Sometimes the person behind an artifact is the sensitive fact. A dissident's video, a whistleblower's document, or evidence supplied under legal protection may need a trustworthy chain without a public name.
+
+The relevant distinction is between accountability to an appropriate verifier and universal exposure.
+
+A newsroom can know a confidential source while protecting the source publicly. A court can seal identifying information while preserving evidentiary history. A platform can establish that a controller passed a required verification step without publishing a home address. Technical provenance works best when it can represent these different levels of disclosure instead of treating identity as all or nothing.
+
+That flexibility is necessary because the Deceptatron can exploit both excessive anonymity and excessive identification. Cheap anonymity can support industrial impersonation. Mandatory public identity can silence people who have legitimate reasons to hide from governments, employers, mobs, or abusive partners.
+
+The architecture has to make the costly thing the abuse, not the anonymity itself.
+
+At scale, that means concentrating verification obligations where power concentrates: large political spending, claims of official authority, mass account control, high-reach synthetic personas, and systems that use private data to adapt persuasion. A person telling a political joke under a pseudonym should not encounter the same burden as an organization manufacturing ten thousand apparently independent local voices.
+
+The provenance layer can make that distinction visible if it records control and sponsorship separately from personal identity.
+
+Who controls this campaign?
+
+Who authorized this official statement?
+
+Which organization stands behind this synthetic presenter?
+
+Those questions can often be answered without answering a different one:
+
+What is the legal name of every human who touched the artifact?
+
+Keeping those questions separate is part of the democratic design.
+
+The provenance trap, then, has a second form. The first is mistaking origin for truth. The second is mistaking maximal identification for accountability.
+
+Accountability is narrower and more useful. It asks whether the relevant exercise of power can be traced to a responsible actor, whether the record can survive long enough to be challenged, and whether later investigators can distinguish the original artifact from the layers added around it.
+
+A provenance system that can do those things will still leave politics messy.
+
+That is the point.
+
+It should make evidence sturdier without making disagreement disappear.
+
 The deepfake era asks whether the picture is real.
 
 The Deceptatron era asks why this real picture became your world.
