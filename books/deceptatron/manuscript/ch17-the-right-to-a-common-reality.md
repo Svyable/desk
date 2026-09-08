@@ -388,6 +388,28 @@ The goal is not to engineer correct citizens.
 
 It is to prevent the information system from quietly removing the conditions under which citizens can correct one another.
 
+This requires thinking about public comparability as infrastructure rather than as a feature users must remember to request. If a system offers a nonpersonalized comparison only through an obscure settings page, almost nobody will use it. If a public archive technically exists but is impossible to search, the referent is preserved without being practically available.
+
+Availability has a time dimension too. A record that appears six months after the controversy may satisfy formal transparency while failing the democratic moment in which the record mattered. Common reality depends on records arriving fast enough to participate in public argument.
+
+That creates a design tension. Speed can encourage premature publication; delay can make evidence irrelevant. The answer is often layered disclosure: publish what is established, mark what remains uncertain, preserve the underlying material, and update visibly as the record improves.
+
+A good common-reality system therefore has memory. Not a memory that freezes the first institutional account, but a memory of how the account changed. Citizens should be able to see that the estimate moved, why the methodology changed, which correction was issued, and whether a challenged claim survived review.
+
+This matters because propagandists exploit discontinuity. A screenshot of an old page can be presented as the current position. A superseded estimate can be revived without the correction. A politician can quote an agency's first statement after the agency has published better evidence. Version history makes that tactic more expensive without requiring anyone to trust the latest version automatically.
+
+The common-reality right is therefore partly a right to sequence.
+
+What did we know, and when did we know it?
+
+What evidence changed the conclusion?
+
+Who had authority to change the record?
+
+Can the earlier version still be inspected?
+
+Those questions are mundane until public memory becomes contested.
+
 That is the democratic stakes of personalization.
 
 The public sphere was never one conversation.
