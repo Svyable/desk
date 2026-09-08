@@ -160,7 +160,7 @@ Sometimes you will stare at two versions and know one is better without being ab
 
 Patterns may emerge after twenty cases that were invisible after two.
 
-This is how an agent's childhood becomes a research project into the principal's own taste.
+This is how an agent's apprenticeship becomes a research project into the principal's own taste.
 
 The important asset is not the pile of examples by itself. It is the relationship among examples, criteria, and outcomes.
 
@@ -200,7 +200,7 @@ This becomes especially important when the principal is wrong.
 
 An agent can make bad judgment more scalable. If the examples contain bias, obsolete practice, weak reasoning, or historical accidents, the trained role may reproduce them with admirable consistency.
 
-Human apprentices have the same problem. A bad institution can train people well in bad habits.
+Human apprentices can inherit the same problem. A bad institution can train people well in bad habits.
 
 The solution is not to avoid examples. It is to make examples contestable.
 
@@ -217,6 +217,30 @@ What counterexample would change the rule?
 When was the example produced, and is the environment still the same?
 
 These questions keep training from becoming fossilization.
+
+There is another distinction worth preserving: teaching examples and qualification cases should not be the same set forever.
+
+If you show the agent ten examples and then congratulate it for handling those same ten examples, you have measured familiarity more than generalization.
+
+A programmer would recognize this as testing on the training set.
+
+A nontechnical operator can understand the problem just as easily. If you show a new assistant exactly how five past customers were handled, then evaluate the assistant only on those five customers, you still do not know what happens with customer six.
+
+Keep some cases back.
+
+Teach with representative examples.
+
+Qualify with different cases that require the same underlying judgment.
+
+For a coding agent, teach the repository's pattern for authentication on one feature, then see whether it applies the same constraints correctly in another part of the codebase.
+
+For a household travel role, teach that very short connections are unacceptable, then test a different trip where the cheapest itinerary contains a technically legal but miserable connection.
+
+For a research agent, show what a properly sourced claim looks like, then give it a new topic where the tempting source is a secondary summary rather than the primary record.
+
+The point is not to make the exam tricky.
+
+It is to find out whether the role learned the standard or memorized the answer.
 
 A mature example set needs maintenance.
 
@@ -240,7 +264,7 @@ If the agent once omitted the tax treatment on a specific transaction type, a re
 
 If the agent once sent a message when it should have escalated, the evaluation suite can include similar cases.
 
-The job remains readable while the childhood remains remembered.
+The job remains readable while the apprenticeship remains remembered.
 
 Software engineers will recognize this instinct immediately. A bug becomes a test so that the same class of failure does not return unnoticed.
 
