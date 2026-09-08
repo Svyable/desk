@@ -4,31 +4,13 @@ import {
   installDeskRuntimeBridge,
 } from './desk-runtime-bridge.js';
 
-const localAppUrl = new URL('./app.js', import.meta.url).href;
-const canonicalReader = 'https://svyable.github.io/bookself/reader/js/';
-const canonicalAppUrl = `${canonicalReader}app.js?v=r4`;
+// Temporary migration boundary: canonical Bookself still supplies app.js until
+// scripts/sync-reader-runtime.sh has materialized the complete application graph.
+const canonicalAppUrl = 'https://svyable.github.io/bookself/reader/js/app.js?v=r4';
 const viewportStabilityUrl = new URL('./desk-viewport-stability-runtime.js', import.meta.url).href;
 const nativeShareUrl = new URL('./native-share.js', import.meta.url).href;
 const libraryHomeUrl = new URL('../css/desk-library-home.css?v=bookself-20260904', import.meta.url).href;
 const bookOpeningHandoffUrl = new URL('../css/desk-book-opening-handoff.css?v=bookself-20260906', import.meta.url).href;
-
-async function acquireReaderApp() {
-  let localError = null;
-  try {
-    await fetchBootstrapResource(localAppUrl, { retryDelays: [] });
-    return { local: true, url: localAppUrl };
-  } catch (error) {
-    localError = error;
-  }
-
-  try {
-    await fetchBootstrapResource(canonicalAppUrl);
-    return { local: false, url: canonicalAppUrl };
-  } catch (error) {
-    if (error instanceof Error && localError) error.cause = localError;
-    throw error;
-  }
-}
 
 function installDeskChromePolicy() {
   document.documentElement.dataset.oneHandedActionsReady = 'true';
@@ -96,15 +78,15 @@ function showRecovery(error) {
 }
 
 try {
-  const appAcquisition = acquireReaderApp();
+  const appAcquisition = fetchBootstrapResource(canonicalAppUrl);
   try { await import(viewportStabilityUrl); } catch (error) { console.warn('Viewport stability could not be loaded', error); }
   try { await import(nativeShareUrl); } catch (error) { console.warn('Native sharing could not be loaded', error); }
   try { await import('./desk-book-interior.js?v=bookself-20260906-fail-open-1'); } catch (error) { console.warn('Desk premium book interior could not be loaded', error); }
   try { await import('./desk-app-shell-polish.js?v=bookself-20260906'); } catch (error) { console.warn('Desk Reader app-shell polish could not be loaded', error); }
   try { await import('./desk-book-opening-handoff.js?v=bookself-20260906'); } catch (error) { console.warn('Desk book-opening handoff could not be loaded', error); }
   try { await import('./desk-reading-app.js?v=bookself-20260905'); } catch (error) { console.warn('Desk reading-app hierarchy could not be loaded', error); }
-  const { url } = await appAcquisition;
-  await import(url);
+  await appAcquisition;
+  await import(canonicalAppUrl);
 } catch (error) {
   showRecovery(error);
 }
