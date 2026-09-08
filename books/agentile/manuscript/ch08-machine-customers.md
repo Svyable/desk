@@ -1,549 +1,83 @@
 # Machine Customers
 
-For most of commercial history, the customer had to show up.
+For most of commercial history, the customer had to spend attention before money could move. The customer might be nowhere near the seller—a letter could order cloth, a catalog could bring a department store into a farmhouse, a telephone could turn a kitchen table into a purchasing desk—but someone still had to notice the need, search, compare, decide, and act. Commerce became remote long before it became delegated.
 
-Not always in person. A letter could order cloth. A catalog could bring a department store into a farmhouse. A telephone could turn a kitchen table into a purchasing desk. The web could move the storefront onto a screen.
+That boundary is beginning to move.
 
-But somewhere in the transaction there was still a person spending attention.
+In September 2025, OpenAI introduced Instant Checkout, allowing a shopper to discover an eligible product in ChatGPT and complete the purchase inside the conversation. The system was deliberately less autonomous than the phrase *agentic commerce* might suggest: the user still confirmed the order, and the merchant remained responsible for payment, fulfillment, returns, and support. In March 2026, OpenAI expanded the Agentic Commerce Protocol into product discovery, giving merchants a way to expose structured product information for comparison inside ChatGPT.
 
-Someone noticed the need.
+The payment networks were working on the next problem. Visa built infrastructure for agent-initiated transactions, including mechanisms for credentials, authorization, and merchant recognition; by July 2026 it was publishing onchain evidence of agents booking travel, reordering inventory, querying data providers, and buying compute. None of this establishes that autonomous purchasing has become a large share of commerce. It establishes something narrower and more useful: the technical boundary between software that recommends a purchase and software that can participate in completing one is no longer hypothetical.
 
-Someone searched.
+A machine that can buy the wrong lamp has not abolished the need to care about lamps. Product feeds are incomplete. Preferences are ambiguous. Fraud is real. Returns remain stubbornly physical. Most people still shop as people, and early systems often keep them close to the final click.
 
-Someone compared.
+The economically interesting change arrives before full autonomy anyway. The customer is becoming delegable.
 
-Someone decided the difference between two nearly identical products was worth twelve dollars.
+Consider the difference between a search and a standing instruction. *Show me nonstop flights to Chicago* is a search. *Watch nonstop flights to Chicago for the next six weeks; I need to land before dinner, I will not leave before six in the morning, and buy if the fare falls below $350* is closer to a purchasing policy. So is *reorder these filters when we have two left, unless the price exceeds forty dollars*. Or *renew this software only if the annual increase stays below five percent and there is no cheaper plan with the features we actually use*.
 
-Someone typed the card number or pressed the button.
+The person has not disappeared. The person has moved upstream, from choosing an item at one moment to defining some of the conditions under which a choice may be made later.
 
-Commerce became remote long before it became delegated.
+Delegated demand itself is old. Companies buy through procurement departments, brokers, travel desks, and purchasing software. Consumers have long used travel agents and financial advisers. What changes with cheap software agents is the granularity. Hiring a human purchasing agent to save eighteen dollars on a household appliance would be absurd. Giving software a few seconds to check the same market may not be. Decisions too small to professionalize can become worth delegating.
 
-That last step is starting to change.
+That matters because consumer inattention is already part of many markets. Search takes time. Comparison takes time. Understanding quality takes time. Remembering that a free trial ends Thursday takes a surprisingly scarce kind of time. A slightly worse interest rate can survive because refinancing is annoying. A subscription can renew because cancellation was tomorrow's problem. A grocery store can earn margin partly because nobody visits four competitors to save forty cents on each item.
 
-In September 2025, OpenAI introduced a checkout system in which a shopper could discover a product in ChatGPT and complete a purchase without leaving the conversation. The early system still required explicit human confirmation. By March 2026, the company was expanding the same commerce protocol deeper into product discovery, letting merchants expose structured catalogs to an AI interface that could compare products against a user's budget and constraints.
+These arrangements are not necessarily tricks. Convenience has value, sellers incur costs to be available, and consumers rationally stop searching. The point is that the stopping rule is economic. Reduce the cost of another search and some choices change.
 
-Payment networks were preparing for a more autonomous version of the same idea. Visa described agents that could be given spending limits and categories of permitted purchases. Mastercard announced infrastructure for machine-driven payments, including transactions between software systems. Visa later published data showing agents beginning to book travel, reorder inventory, purchase compute, and pay data providers.
+Software can keep looking after a person would sensibly stop. It can remember the last price paid, compare a renewal with the original contract, normalize package sizes, watch a fare for weeks, and notice that the same approved office supply is cheaper elsewhere. This is mundane intelligence, which is precisely why it could matter. Most commerce is mundane.
 
-It would be easy to turn these announcements into a story about the death of shopping.
+The obvious conclusion is that buyer agents strengthen buyers. The less obvious conclusion is that they do so only where search was the binding friction.
 
-That would be premature.
+An agent can identify a better bank while moving payroll instructions, automatic payments, integrations, and account history remains painful. It can find cheaper enterprise software while a migration would consume six months of engineering work. It can discover a lower insurance premium while exclusions make the policies non-equivalent. Search cost can collapse while switching cost barely moves.
 
-Most people still shop as people. Early agentic checkout systems often keep the human close to the final act. Product feeds are incomplete. Preferences are ambiguous. Returns are annoying. Fraud is real. A machine that buys the wrong lamp has not abolished the need to care about lamps.
+That distinction is useful because it reveals what a seller's margin is made of. A business protected mainly by obscurity or forgetfulness becomes more exposed. A business protected by integration, network effects, trust, contractual commitments, or genuine product superiority may not. Buyer agents do not automatically make demand perfectly elastic. They can make the remaining sources of inelasticity easier to see.
 
-The important transition is smaller and more consequential.
+They can also change what it means to be legible to a customer. A human storefront is designed around presentation: photography, prose, navigation, reputation, merchandising. An agent can use those things too, but structured information becomes unusually valuable when software is comparing offers repeatedly. Price, availability, compatibility, delivery dates, return rules, certifications, product identifiers, and total cost need to survive translation into data.
 
-The customer is becoming delegable.
+The storefront acquires a second entrance. People can still wander in through presentation. Software increasingly arrives through structure.
 
-A person can increasingly describe an objective and hand over pieces of the work required to become a buyer.
+This is where a convenience feature starts to look like market infrastructure. If a buyer agent becomes a common route from intention to purchase, merchants will care about what inventory it can see, how it interprets their data, which payment methods it supports, what counts as a trusted seller, and how offers are ranked. Search engines learned to mediate discovery. App stores learned to mediate software distribution. A buyer agent can mediate demand before the customer has seen a shelf.
 
-Find me a nonstop flight that lands before dinner and does not leave before six in the morning.
+That position contains the chapter's strongest counterargument to the simple consumer-empowerment story. The same intermediary that lowers search costs can become a new gatekeeper.
 
-Reorder the filters when we have two left, but only if the price is under forty dollars.
+Suppose the principal says, “Find the best option.” Cheapest is easy to measure and often wrong. Best might mean most durable, least likely to require a return, fastest to arrive, made locally, compatible with equipment already owned, privacy-preserving, or merely familiar enough that the household knows how to use it. The agent must turn some mixture of explicit instructions, remembered behavior, inferred preference, merchant data, and platform defaults into a ranking.
 
-Replace this laptop with something lighter, at least as fast, and compatible with the dock I already own.
+Some of those choices belong to the principal. Others arrive through the machinery. A payment provider scores fraud risk. A platform decides which merchants can integrate. A model has learned brand associations from its training data. A retrieval system sees some offers more easily than others. A user never specifies how much to value delivery reliability, so the system supplies a trade-off.
 
-Get three quotes for liability insurance and flag anything that excludes the work we actually do.
+Convenience can therefore become governance without anyone holding a meeting to govern.
 
-Keep the office kitchen stocked without buying single-use plastic.
+This problem is more concrete than the usual philosophical argument about AI alignment. A shopping agent does not need to share a person's theory of the good life. It needs to know when a cheaper hotel is unacceptable because the rate is nonrefundable, when saving five dollars is not permission to reveal private information, and when uncertainty is large enough to ask.
 
-These are not product searches.
+The economics of asking is part of the product. Interrupt for every ambiguity and little has been delegated. Never interrupt and convenience becomes an error generator. Useful buyer agents need authority envelopes: spending limits, merchant restrictions, categories that require confirmation, rules for subscriptions and nonrefundable purchases, and clear boundaries around what information may be disclosed.
 
-They are policies.
+The rules may become elaborate because people are elaborate. Today much of that policy lives in memory, habit, family negotiation, irritation from prior mistakes, and sentences such as “I will never fly through that airport again.” Software makes some of it explicit.
 
-The customer is no longer only a person making a choice at a moment in time. The customer can become a standing set of preferences, constraints, permissions, and budgets executed by software.
+Money makes the boundary harder. A conventional card transaction establishes that a credential was presented under certain conditions. An agentic transaction adds another question: was this software authorized to make *this* purchase for *this* principal? That is why payment-industry work has concentrated on credentials, tokens, spending controls, agent identity, merchant recognition, and evidence of delegated authority. Intelligence is insufficient. The agent also needs the right to act.
 
-That is a different economic object.
+For a business, those rights can be narrow. A procurement agent might reorder an approved component but lack authority to onboard a supplier. It might negotiate price but not accept a liability clause. It might purchase compute inside a monthly budget but not sign a three-year commitment. “Autonomous buyer” is therefore a misleadingly cinematic description. In practice, the machine customer is more likely to be a bundle of constrained mandates.
 
-A supermarket understands a shopper partly through the evidence left behind by prior purchases. A search engine understands intent through queries. A retailer understands conversion through clicks. An advertising platform infers what might attract attention.
+Sellers will adapt to those mandates. Today's marketing spends heavily on human psychology: status, familiarity, urgency, story, repetition, fear of missing out. A countdown timer should not make software nervous. A clean product feed may matter more to it. But the comforting leap from “machine buyer” to “rational buyer” is unjustified.
 
-A buyer agent begins with something more explicit.
+Models can be influenced by presentation. Retrieval favors what it can find. Training data carries brand associations. Platforms can sell placement or prefer integrated inventory. Merchants can optimize descriptions for scoring logic. Fraudsters can manipulate reviews and specifications. The advertising industry does not need to disappear; it needs to learn where the decision is being made.
 
-It can be told what matters.
+Some persuasion will still target the person because the person defines the objective. Some will target the agent because the agent selects the offer. Brand may create the desire; structured evidence may win the procurement. The boundary between those functions will be commercially valuable.
 
-That sounds like a small improvement in personalization. It may become a transfer of market power.
+It will also be uneven. Buying is not merely error-prone optimization. People buy identity, surprise, taste, ritual, affiliation, memory, and the pleasure of choosing. Someone may happily delegate dishwasher tablets and refuse to delegate a wedding ring. Another person may enjoy comparing dishwashers and gladly outsource the flight search. The interesting question is not whether agents replace shopping. It is which decisions people decide are worth experiencing.
 
-The old consumer problem was attention.
+When routine procurement fades into background software, choosing by hand may even acquire new meaning. Browsing the bookstore, picking the bottle, planning the trip, walking through a market with no objective beyond curiosity—friction can be part of the product when the activity itself is wanted.
 
-There are too many products, too many prices, too many terms, too many reviews, too many loyalty programs, too many bundles, too many renewals, and too many small decisions for any person to optimize. Markets produce choice faster than people can inspect it.
+The more economically important decisions are often less romantic. A business whose software continuously checks cloud prices, freight rates, insurance renewals, and subscriptions can make exit threats more credible where switching is feasible. Millions of consumers could express similar purchasing rules without ever organizing: refuse a fee above a threshold, avoid a category, prefer a certification. Demand can coordinate through common policies without a formal boycott.
 
-Economists have never assumed that real consumers possess infinite information. Search is costly. Comparison is costly. Understanding quality is costly. Remembering to act is costly. Even a rational shopper stops when the expected value of another search is lower than the effort required.
+Yet aggregation cuts both ways. A platform representing millions of buyers could negotiate discounts on their behalf. It could also charge merchants for access, privilege its own commercial relationships, or become the place where a large share of demand is routed. Digital markets have seen this sequence before: an intermediary removes friction, scale accumulates, and the intermediary itself becomes consequential.
 
-Firms learned to live inside that exhaustion.
+Buyer agents make the pattern more intimate because they may know not only what a person clicked but what the person is trying to accomplish. “Running shoes” reveals interest. “Shoes for a seventy-year-old recovering from knee surgery who walks four miles a day and values stability over speed” reveals something closer to a purchasing function.
 
-A subscription renews because the customer did not cancel.
+The better an agent represents its principal, the more commercially valuable that representation becomes.
 
-A slightly worse interest rate survives because refinancing is a nuisance.
+This makes privacy part of market design. A buyer agent may improve with access to sizes, schedules, household composition, travel patterns, recurring expenses, risk tolerance, brand preferences, ethical commitments, and budget. A merchant would often like some of the same information. Those interests are not identical. The seller may need to know that the buyer is authorized to pay; it does not necessarily need to know the buyer's maximum willingness to pay.
 
-A hotel room sells at a higher price because comparing every alternative would take another evening.
+A human negotiator does not begin by announcing the highest price they will accept. An agent that leaks that number is not a negotiator. It is a salesperson's dream.
 
-An insurance policy remains in force because the policyholder has better things to do than read sixty pages of definitions each year.
+Once software can represent demand, supply will answer in kind. Seller systems will learn to recognize agents, quote them, verify them, rank them, negotiate with them, and infer what they can about the principals behind them. Some transactions will become faster and cheaper. Some will become harder for an ordinary person to inspect because the decisive interaction happened between systems and is preserved, if at all, in logs no customer reads.
 
-A grocery store earns margin from the fact that a shopper will not visit four competitors to save forty cents on each item.
+That is the more durable meaning of the machine customer. It is not a robot with a wallet, and it does not require the death of shopping. It is demand acquiring software: preferences that persist, search that continues, authority that can be bounded, and purchasing rules that can execute while the principal is doing something else.
 
-Many of these arrangements are not sinister. Search costs are real. Convenience has value. Sellers spend money being available where customers already are.
-
-But consumer inattention is still part of the equilibrium.
-
-Buyer agents attack that scarcity.
-
-A machine does not become bored on the third page of results.
-
-It does not forget that a free trial ends Thursday.
-
-It can compare a contract renewal with the original agreement.
-
-It can watch a fare for six weeks.
-
-It can notice that the same office supply costs eleven percent less from another approved vendor.
-
-It can remember that the user hates overnight connections even when the cheapest itinerary includes one.
-
-It can, in principle, carry preference through time.
-
-This is where the machine customer becomes more than a shopping assistant.
-
-It becomes a persistent principal on the demand side of the market.
-
-The phrase needs care.
-
-The agent is not the ultimate customer if the money, benefit, and legal interest belong to a person or organization. It is acting for a principal. A corporation has long purchased through employees, procurement departments, travel desks, brokers, and purchasing software. Consumers have long used travel agents, financial advisers, and comparison sites.
-
-Delegated demand is not new.
-
-What changes is the cost and granularity of the delegation.
-
-Hiring a human purchasing agent to save eighteen dollars on a household appliance would be ridiculous.
-
-Giving a software agent ten seconds to check the same market may not be.
-
-That difference opens a vast class of tiny procurement decisions that were never worth professionalizing.
-
-The consumer becomes a miniature purchasing department.
-
-The small business becomes a buyer with continuous market surveillance.
-
-And the large enterprise can push procurement discipline farther down into purchases that once escaped attention because the amount was too small.
-
-This can make markets more competitive.
-
-Sellers that relied on obscurity may face comparison.
-
-Fees that survived because nobody noticed them may be noticed.
-
-A customer agent can ask the same question every time: what is the total price after shipping, taxes, mandatory add-ons, and renewal terms?
-
-It can normalize units.
-
-It can compare warranties.
-
-It can refuse a bundle whose apparent discount disappears when unused components are valued at zero.
-
-It can remember the last price paid.
-
-That is mundane intelligence.
-
-Mundane intelligence can move billions of dollars because most commerce is mundane.
-
-The first winners may therefore be products that are easy for agents to understand.
-
-Structured catalogs.
-
-Clear specifications.
-
-Machine-readable availability.
-
-Transparent pricing.
-
-Reliable fulfillment data.
-
-Standard return rules.
-
-Authentic reviews.
-
-Stable identifiers.
-
-A seller whose product requires a human to decipher a glossy page may be at a disadvantage to a seller whose product can be evaluated through clean data.
-
-This creates a new version of search-engine optimization.
-
-For two decades companies learned to make webpages legible to search engines without making them useless to people.
-
-Now they are learning to make businesses legible to agents.
-
-That means product feeds, APIs, schemas, identity, inventory, delivery estimates, return policies, compatibility data, certifications, and payment endpoints.
-
-The storefront acquires a second entrance.
-
-Humans enter through presentation.
-
-Agents enter through structure.
-
-The distinction will not remain clean. A good agent will read prose and images. A good human will use structured comparison. Still, the economic pressure is real: if an increasingly meaningful share of demand arrives through software, being interpretable to software becomes a distribution advantage.
-
-This is why commerce protocols matter more than they first appear.
-
-A protocol can look like plumbing.
-
-It decides who gets through the pipe.
-
-If one agent platform becomes the default route from intention to purchase, merchants will care intensely about how it ranks offers, what data it accepts, which payment methods it supports, how it represents promotions, and what qualifies as a trusted seller.
-
-The browser once mediated access to the web.
-
-The search engine mediated discovery.
-
-The app store mediated mobile distribution.
-
-The buyer agent can mediate demand itself.
-
-That is a powerful position.
-
-The agent does not need to charge the consumer directly to shape a market. A ranking rule changes which products are seen. A default changes which option receives the benefit of inertia. A merchant integration changes which inventory is easy to buy. A definition of “best” turns values into market share.
-
-The principal may say, “Find the best option.”
-
-The difficult word is best.
-
-Cheapest?
-
-Most durable?
-
-Fastest delivery?
-
-Lowest carbon footprint?
-
-Most privacy-preserving?
-
-Best reviewed?
-
-Made locally?
-
-Most likely to fit?
-
-Least likely to require a return?
-
-From a merchant with strong labor practices?
-
-The machine customer turns consumer values into objective functions, and objective functions require choices about trade-offs.
-
-Some will be explicit.
-
-Many will be inherited.
-
-A user may never specify a value for delivery reliability, so the platform supplies one.
-
-The user may not know that one merchant's inventory is fresher than another's.
-
-A payment provider may score fraud risk.
-
-A platform may exclude sellers that cannot meet its technical requirements.
-
-A model may infer that the user prefers familiar brands because prior purchases are easier evidence than curiosity.
-
-At each layer, convenience can quietly become governance.
-
-This is not an argument against buyer agents.
-
-Human commerce is already full of defaults and intermediaries. Shelf placement, sales commissions, travel portals, credit-card rewards, search rankings, retail marketplaces, procurement frameworks, and advertising all influence what gets bought.
-
-The new question is whether the intermediary can act before the human sees the choice.
-
-That raises the importance of alignment in an unusually concrete form.
-
-A consumer does not need a shopping agent to share their philosophy of life.
-
-They need it not to buy the wrong thing for the wrong reason.
-
-Suppose an agent is told to book the cheapest acceptable hotel near a conference.
-
-It finds a room six blocks away for $180 and another two blocks away for $205.
-
-The cheaper room has a nonrefundable rate and a poor record of late-night noise.
-
-The conference ends at ten.
-
-Which is acceptable?
-
-People resolve such questions by carrying a huge amount of unspoken context into the decision.
-
-An agent needs either enough learned judgment to infer the context, enough preference memory to know the person, or enough humility to ask.
-
-The economics of asking matters.
-
-If the agent interrupts for every uncertainty, the consumer has not delegated much.
-
-If it never interrupts, convenience becomes a source of errors.
-
-The useful machine customer needs an authority envelope just as the permissioned manager did.
-
-Spend up to this amount.
-
-Use these payment methods.
-
-Never buy from these categories.
-
-Ask before subscriptions.
-
-Ask before nonrefundable purchases.
-
-Prefer repair over replacement when the total cost is close.
-
-Do not trade away privacy for a five-dollar discount.
-
-The rules can become elaborate.
-
-That is not necessarily a failure.
-
-People already carry elaborate preferences. They simply carry them in memory, habit, family negotiation, moral intuition, and the irritation produced by prior mistakes.
-
-Software makes some of the policy visible.
-
-The payment industry has focused heavily on this problem because intent is not enough when money moves.
-
-A card transaction traditionally provides evidence that a credential was presented under certain conditions. An agentic transaction adds another question: was this software authorized to make this particular purchase for this particular principal?
-
-The infrastructure being built around agentic payments therefore emphasizes tokens, spending limits, merchant scope, identity, confirmation, and proof of delegated authority.
-
-This is the financial version of Chapter 5.
-
-An agent can be smart enough to want to buy something and still lack the right to pay for it.
-
-The distinction will matter even more in business purchasing.
-
-A company's buyer agent may have authority to reorder known inventory but not onboard a new supplier.
-
-It may negotiate price but not accept a liability clause.
-
-It may buy compute within a monthly budget but not enter a multi-year commitment.
-
-The machine customer is therefore not one autonomous entity roaming the market.
-
-It is a bundle of constrained mandates.
-
-This also complicates seller strategy.
-
-Today's marketing is built for human psychology.
-
-Color.
-
-Story.
-
-Status.
-
-Fear of missing out.
-
-Celebrity.
-
-Repetition.
-
-Urgency.
-
-Familiarity.
-
-The agent may be less susceptible to some of these and more susceptible to others.
-
-A countdown timer should not make software anxious.
-
-A clean data feed might make its recommendation easier.
-
-A brand may matter because the user's preference assigns value to it, not because the agent experiences prestige.
-
-But it would be naïve to assume agents make markets perfectly rational.
-
-Models can be influenced by presentation.
-
-Training data contains brand associations.
-
-Retrieval systems can favor what is easy to find.
-
-Platforms can accept sponsored placement.
-
-Merchants can optimize data for the scoring logic.
-
-Fraudsters can manipulate reviews and product descriptions.
-
-A machine customer creates machine persuasion.
-
-The advertising industry will not retire.
-
-It will adapt its audience.
-
-Some messages will still target the human because the human defines the goal.
-
-Others will target the agent because the agent selects the offer.
-
-The most important commercial surface may become the boundary between the two.
-
-Convince the person to care about a category.
-
-Convince the agent that your product satisfies the category best.
-
-This can produce a strange division of marketing labor.
-
-Brand creates the objective.
-
-Data wins the procurement.
-
-Luxury illustrates the limit.
-
-No agent can reduce a handbag, restaurant, vacation, or work of art to objective quality without losing part of why it is purchased.
-
-People buy meaning, identity, memory, surprise, affiliation, and taste.
-
-Delegation will be uneven precisely because consumption is not only problem-solving.
-
-A person may happily delegate the replacement of dishwasher tablets and refuse to delegate the choice of wedding ring.
-
-The same person may reverse that pattern in another domain.
-
-The agentile consumer economy will therefore not be a march from emotional humans to rational machines.
-
-It will be a renegotiation of which decisions people want to experience.
-
-That may itself become a luxury.
-
-When routine procurement disappears into background software, choosing by hand can signal attention.
-
-Picking the bottle yourself.
-
-Browsing the bookstore.
-
-Planning the trip instead of asking for the optimal itinerary.
-
-Walking through a market with no objective function except curiosity.
-
-Convenience changes the meaning of inconvenience.
-
-There is another effect that matters more economically.
-
-Buyer agents can make demand more elastic.
-
-If switching becomes easy, sellers may have less room to rely on inertia.
-
-A business customer whose agent continuously checks alternative cloud providers, insurance policies, shipping rates, and software subscriptions can threaten exit with more credibility.
-
-That should strengthen the buyer.
-
-But only if switching is actually possible.
-
-Many products are surrounded by integration costs, data lock-in, loyalty programs, contractual penalties, network effects, and habits that no amount of comparison can erase.
-
-The agent can identify a better bank.
-
-Moving every payment, payroll instruction, integration, and account may still be painful.
-
-It can identify cheaper enterprise software.
-
-Migrating years of workflows may cost more than the savings.
-
-Search cost can fall while switching cost remains.
-
-This distinction prevents the easy conclusion that buyer agents automatically destroy margins.
-
-They may instead expose where margins really come from.
-
-A seller with no moat beyond consumer inattention becomes vulnerable.
-
-A seller with genuine switching cost becomes more clearly powerful.
-
-That is useful information for markets and regulators alike.
-
-Buyer agents can also create new forms of collective bargaining without formal coordination among consumers.
-
-Imagine millions of agents with instructions to avoid a fee above a threshold.
-
-The company imposing the fee sees demand disappear quickly.
-
-No boycott was organized.
-
-No group met.
-
-The effect emerges from many principals expressing similar policies through software.
-
-The reverse is possible too.
-
-A platform controlling many buyer agents could become a giant purchasing intermediary, able to steer enormous volumes of demand.
-
-It might negotiate discounts.
-
-It might also extract fees.
-
-A tool designed to empower consumers can become the institution through which consumers are aggregated.
-
-This is a recurring pattern of digital markets.
-
-Intermediation removes friction.
-
-Scale gives the intermediary power.
-
-The machine customer makes the pattern more intimate because the intermediary may know not only what the person clicked, but what they were trying to accomplish.
-
-Intent is commercially valuable.
-
-A query such as “running shoes” reveals interest.
-
-An instruction such as “I need shoes for a seventy-year-old recovering from knee surgery who walks four miles a day and values stability over speed” reveals a purchasing function.
-
-The better the agent becomes at representing the user, the more valuable that representation becomes.
-
-Privacy therefore enters the economics of demand.
-
-A buyer agent with rich history can make better choices.
-
-That history can include size, schedule, health constraints, household composition, travel patterns, recurring expenses, risk tolerance, brand preferences, ethical commitments, and budget.
-
-The same data can be used for discrimination.
-
-The consumer may want the agent to know everything.
-
-The merchant may want to know what the agent knows.
-
-Those interests are not identical.
-
-A strong architecture lets the agent use private information without revealing all of it.
-
-The seller needs to know that the buyer is authorized to pay.
-
-It may not need to know the buyer's maximum willingness to pay.
-
-That boundary will become economically important.
-
-Human negotiation relies heavily on hiding reservation prices.
-
-A buyer does not walk into a car dealership and announce the highest price they would accept.
-
-An agent that leaks the user's ceiling is not a negotiator.
-
-It is a salesperson's dream.
-
-This makes machine customers inseparable from machine sellers.
-
-Once software can represent demand, supply will respond in kind.
-
-Sellers will build systems that recognize agents, quote them, persuade them, verify them, segment them, negotiate with them, and sometimes try to infer the principals behind them.
-
-The market gains another layer.
-
-Human wants remain at the bottom.
-
-Human ownership remains at the top.
-
-Between them, software can conduct an increasing share of the haggling.
-
-The resulting commerce may be faster.
-
-It may be cheaper.
-
-It may be more personalized.
-
-It may also be more opaque because the decisive interaction occurs between systems whose logs no ordinary customer will ever read.
-
-The machine customer is therefore not simply a consumer convenience.
-
-It is a new participant in price formation.
-
-When search, comparison, timing, switching, and payment can be delegated, demand itself acquires software.
-
-Markets have spent centuries adapting to new kinds of seller.
-
-The next adjustment begins when the buyer arrives without opening the door.
+Markets have spent centuries adapting to new kinds of seller. The next adjustment begins when part of the buyer arrives before the person does.
