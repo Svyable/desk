@@ -287,3 +287,169 @@ That is the unsettling part.
 Not that the machine can speak.
 
 That the message can watch you listen.
+
+The listening metaphor has one more consequence that is easy to miss.
+
+A system that can observe response does not merely gain information about whether a message worked. It gains information about what the person is willing to reveal under pressure.
+
+That distinction matters because many reactions are ambiguous until they repeat.
+
+A pause can mean interest, confusion, disgust, distraction, or the arrival of a text message. A search can signal persuasion or suspicion. A person who watches an angry clip twice may agree with it, study it, mock it, or be trying to understand why everyone else is discussing it. Behavioral traces are measurements, but they are not translations of the mind.
+
+An adaptive system therefore faces the same problem every observer faces: it can collect more evidence without becoming certain what the evidence means.
+
+This is a useful boundary on the Deceptatron idea.
+
+The machine does not receive a clean answer from the person. It receives traces. It builds guesses from those traces. It acts on the guesses. The next response becomes evidence about whether the guess was useful.
+
+Errors can compound.
+
+Suppose a system mistakes professional interest for political anxiety. The next messages become more anxious. The person notices the shift and clicks because the messages now seem strange. The extra clicks confirm the original inference. The system begins manufacturing evidence for its own model.
+
+Recommendation systems can encounter versions of this problem in ordinary settings. A person watches one unusual video, receives more of the same, clicks partly because the feed has become saturated with it, and then appears to the system as someone with a stable preference. The model is no longer merely observing taste. It is participating in the environment from which it infers taste.
+
+Persuasion makes that loop more consequential.
+
+If the objective is political, the system can mistake the effects of its own interventions for independent evidence about the person. A frightened message produces a frightened search. The search is read as preexisting fear. More fear-oriented material follows.
+
+The danger here is not supernatural accuracy.
+
+It is feedback contamination.
+
+The observer changes the thing it observes.
+
+Human persuaders do this too. A campaign that constantly tells supporters an election is existential may later discover that its supporters describe the election as existential. A manager who treats an employee as unreliable may create the hesitancy later cited as proof. A parent who interrogates a child can make the child guarded and then interpret guardedness as evidence of deception.
+
+The computational version can perform this mistake continuously and at scale.
+
+That makes restraint inside the loop as important as intelligence inside the loop.
+
+A well-designed user-serving system would need ways to distinguish observation from intervention. It would need to preserve uncertainty about why a signal appeared. It would need to avoid turning a temporary reaction into a permanent identity. It would need to make some inferences expire. It would need to let the person inspect or reset conclusions that have become obviously wrong.
+
+A persuasion system serving somebody else has weaker incentives to be so careful.
+
+A wrong model can still be useful if it produces the desired behavior.
+
+That is another uncomfortable difference between assistance and influence.
+
+An assistant has reason to care whether it understood you correctly because misunderstanding can make the service worse. A persuader may care only whether the misunderstanding can be exploited toward the objective.
+
+The same behavioral trace can therefore be treated under two different standards.
+
+For assistance: What does this probably mean for the person?
+
+For persuasion: Can this signal improve the next attempt?
+
+Those questions can overlap, but they are not the same.
+
+The gap becomes especially important when the system has patience.
+
+A human campaign is usually bounded by staff time, election calendars, budgets, and organizational memory. People leave. Vendors change. Data systems break. Strategy decks are forgotten. The campaign ends and the office closes.
+
+A persistent software relationship can outlast those boundaries.
+
+The objective can change while the memory remains.
+
+A person may begin using an assistant for travel, then for work, then for family logistics, then for news. Years of ordinary interaction can create a detailed history before politics becomes relevant. The political risk does not require the assistant to have been built as a propaganda instrument from the beginning. It appears if later institutions are allowed to attach new objectives to an old relationship.
+
+That is why the question of loyalty arrives so early in this book.
+
+Who is permitted to use what the message learned while it watched you listen?
+
+If the answer is “anyone who can pay,” the economic value of trust changes. Trust becomes inventory.
+
+A system can know that a particular user hates exaggerated language, prefers primary documents, and becomes skeptical when a source sounds partisan. Those facts are useful for serving the user. They are also useful for making sponsored persuasion harder to recognize as persuasion.
+
+The policy problem is not solved by declaring personalization good or bad.
+
+Personalization is ordinary human behavior and often excellent software behavior.
+
+The sharper question is whether information learned inside one relationship can be silently repurposed to optimize another party's objective.
+
+That question has familiar analogues outside politics. A lawyer learns things because the client expects loyalty. A doctor learns things because the patient expects care. A therapist learns things inside an unusually protected relationship. A bank sees information because it performs financial functions. Society does not treat every piece of information available to these institutions as equally available for every profitable use.
+
+The exact legal duties differ, and an AI assistant is not automatically any of those professions.
+
+The analogy is about institutional design.
+
+Knowledge acquired through trust can create obligations precisely because the knowledge is powerful.
+
+The message that watches you therefore creates two records at once.
+
+There is the visible record: what appeared on the screen.
+
+And there is the invisible record: what the system concluded from your reaction.
+
+Public debate has concentrated on preserving the first record. Ad libraries, screenshots, archives, provenance systems, and transparency reports all try in different ways to preserve artifacts.
+
+Adaptive persuasion makes the second record equally important.
+
+What did the system infer?
+
+How confident was it?
+
+Which prior interaction influenced the next message?
+
+Which objective determined the choice?
+
+Which alternatives were available but not shown?
+
+Was the person placed into a temporary audience because of one behavior or a durable audience because of a long pattern?
+
+Did the system update after the person rejected the premise?
+
+Those are not questions a fact-checker can answer from the artifact alone.
+
+They are questions about process.
+
+This changes what accountability has to preserve.
+
+A democracy does not need a permanent government archive of every citizen's private conversation. That would solve one problem by creating a larger one. But systems that perform high-scale political persuasion can be required to retain enough aggregate and system-level evidence that auditors can reconstruct how the machinery behaved.
+
+The purpose is not to expose the person.
+
+It is to expose the method.
+
+There is a practical reason for this distinction.
+
+Most people will never examine the internal logic of a persuasion system. They should not have to. We do not require passengers to audit aircraft maintenance records before boarding or depositors to inspect a bank's internal controls before every transaction. Institutions exist partly so ordinary life does not require universal expertise.
+
+The political equivalent is not an authority that certifies which argument is true.
+
+It is an environment in which powerful persuasive systems leave evidence about sponsorship, targeting, optimization, and control.
+
+That evidence creates the possibility of challenge.
+
+Opponents can discover contradictions.
+
+Journalists can compare versions.
+
+Researchers can test aggregate effects.
+
+Regulators can investigate prohibited uses.
+
+Courts can examine records when law has plausibly been violated.
+
+Users can learn that an apparently personal recommendation was partly serving somebody else.
+
+The old poster left evidence because it was physical.
+
+You could tear it down and still hold it.
+
+The digital message can disappear. The generated message may never exist twice. The conversation can be summarized, compressed, or forgotten by the interface while its effects remain in the model.
+
+So the public trace has to be designed.
+
+That is the institutional reversal hidden inside the technical one.
+
+The twentieth-century propagandist struggled to learn what happened after the message left the printing press.
+
+The twenty-first-century platform learned to measure reaction.
+
+The next system can close the loop.
+
+Once it does, democratic accountability has to close a loop of its own: not by watching every listener, but by making the watcher answerable for what it learns, what it does next, and whose objective it serves.
+
+The message can watch you listen.
+
+The harder question is whether anyone can watch the message learn.

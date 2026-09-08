@@ -315,3 +315,197 @@ The propaganda stops being broadcast not because broadcasting disappears.
 It stops being broadcast because the persuasive unit no longer has to be shared.
 
 The crowd can be addressed one person at a time.
+
+There is another inheritance from broadcasting worth preserving because it reveals what is being lost.
+
+Broadcast messages were public in a peculiar way even when the institutions behind them were not transparent.
+
+A radio speech could be heard by opponents.
+
+A newspaper advertisement could be clipped.
+
+A television spot shown in one market could be recorded and replayed somewhere else.
+
+A leaflet intended for one neighborhood could be handed to a reporter.
+
+The same scale that made broadcast propaganda powerful also made at least part of it observable.
+
+The message had to survive being seen by people it was not designed to persuade.
+
+That constraint imposed a kind of accidental discipline.
+
+A politician might emphasize different issues before different audiences, but a sentence delivered to a hall full of people could escape the hall. A national advertisement could be criticized nationally. An official newspaper had to live with yesterday's headline. The archive did not make propaganda honest, but it created a common object around which disagreement could form.
+
+Targeted digital advertising weakened that property.
+
+Adaptive generation can weaken it further.
+
+The problem is sometimes described as opacity, but opacity is only part of it. A black box is at least one box. Investigators can imagine opening it.
+
+Adaptive persuasion creates a counterfactual problem.
+
+To understand why one person received a message, an investigator may need to know what the system could have shown instead.
+
+The persuasive meaning lives partly in the alternatives.
+
+A story about factory closures has one meaning if everybody in a district sees it. It has another if only people inferred to be economically insecure receive it. A calm explanation of election administration has one meaning if it is a general civic message. It has another if it is selectively withheld from people whose disengagement benefits the sponsor.
+
+The artifact can be identical.
+
+The politics can differ because the selection rule differs.
+
+Broadcast archives preserve what was said.
+
+Adaptive accountability also has to preserve enough information about what was not said.
+
+That is difficult because the space of possible messages can be enormous.
+
+Nobody should expect a campaign to archive every sentence a model might theoretically have generated. That would be meaningless volume. The useful record is higher level: the objectives, constraints, targeting features, model versions, classes of intervention, sponsor, distribution surfaces, and measurements that governed the system.
+
+Those records let investigators ask whether the variation was ordinary tailoring or something more consequential.
+
+Did the system use a person's private financial concern to choose political content?
+
+Did it treat inferred grief, illness, or family conflict as a persuasive opportunity?
+
+Did different groups receive materially contradictory representations of the same policy?
+
+Did the system optimize for informed support, raw engagement, donation, demobilization, or some proxy nobody outside the vendor understood?
+
+Did it discover a pattern and continue exploiting it after internal testing showed that the pattern depended on false or misleading material?
+
+These are governance questions, not requests for a ministry of copy approval.
+
+The distinction matters because a response modeled on broadcasting can easily overreach.
+
+If the law assumes the problem is merely that too many customized messages exist, the apparent solution is to force everyone back toward identical messages.
+
+That would be a mistake.
+
+Democratic persuasion benefits from translation.
+
+A disability-rights group should be able to explain a proposal in terms relevant to people with disabilities. A farm organization can discuss a trade policy through crop prices. A veterans group can discuss it through military readiness. A local candidate should be able to talk about the local bridge rather than recite a national script.
+
+Difference is not deception.
+
+Personalization becomes troubling when difference combines with hidden leverage and unobservable experimentation.
+
+The broadcast era bundled several properties together: one-to-many distribution, common creative, limited feedback, expensive production, and public visibility. Digital systems unbundle them.
+
+We can keep some benefits without restoring the old infrastructure.
+
+Public visibility can be designed without requiring one message for everybody.
+
+Sponsorship can remain visible even when the wording varies.
+
+Targeting categories can be audited without publishing personal dossiers.
+
+Systems can record the objective they optimized without exposing every private interaction.
+
+Platforms can make large political campaigns legible as campaigns even when the campaign speaks through many generated forms.
+
+The general principle is simple enough: personalization should not erase accountability.
+
+This becomes more important as political communication migrates into services that do not look like media.
+
+A person knows when a campaign advertisement interrupts a television program.
+
+The category is obvious.
+
+A generated answer inside search, navigation, shopping, education, or a personal assistant can be harder to classify. The persuasive act may appear as advice, ranking, summary, or omission rather than as a recognizable advertisement.
+
+Broadcast regulation often depended on knowing where the broadcast was.
+
+Adaptive persuasion may travel through any interface that can observe, choose, and respond.
+
+That shifts attention from media categories to relationships and functions.
+
+Instead of asking only whether a communication occurred on television, social media, or a chatbot, the more durable questions are these:
+
+Was a third party paying for an objective?
+
+Was personal information used to increase persuasive effectiveness?
+
+Was the interaction political in purpose even if it looked informational in form?
+
+Was the system representing itself as loyal to the user while optimizing for somebody else?
+
+Could the user discover that conflict?
+
+Could an independent investigator reconstruct it later?
+
+These questions follow the power rather than the format.
+
+That is useful because formats change quickly.
+
+The broadcast era lasted long enough for institutions to build rules around familiar objects: stations, newspapers, networks, advertisements, airtime, circulation.
+
+The adaptive era will not offer that comfort.
+
+A conversational layer can sit on top of search this year and inside a vehicle next year. A model can produce text, voice, video, summaries, rankings, or actions without changing the underlying objective. The interface can change while the persuasion loop remains the same.
+
+The defensive vocabulary therefore needs to become architectural.
+
+Who observes?
+
+Who models?
+
+Who chooses?
+
+Who generates?
+
+Who delivers?
+
+Who measures?
+
+Who remembers?
+
+Who benefits?
+
+Those questions are less glamorous than arguments about the latest synthetic-media format. They are also harder for technology to make obsolete.
+
+There is a final reason broadcasting remains relevant.
+
+Shared messages create shared criticism.
+
+When millions of people see the same claim, they may disagree fiercely about it, but they can at least point to the same sentence. A newspaper can rebut it. A comedian can parody it. An opponent can quote it. A teacher can discuss it. Friends can compare what they heard.
+
+Individualized persuasion weakens that civic multiplier.
+
+If every person receives a different version, criticism becomes harder to generalize.
+
+One person's screenshot may be dismissed as atypical.
+
+Another person may never have seen the disputed claim.
+
+A campaign can say the model improvised.
+
+The vendor can say the sponsor set the objective.
+
+The sponsor can say the platform controlled delivery.
+
+Responsibility diffuses at the same moment the message becomes more intimate.
+
+This is not an argument for nostalgia.
+
+Broadcast systems concentrated enormous power. They excluded voices, flattened difference, and let a small number of institutions define what counted as national attention. The internet broke open that bottleneck, and much of that opening should be protected.
+
+The task is narrower.
+
+Preserve abundance while rebuilding legibility.
+
+Let people speak differently to different people.
+
+Let small organizations use generative tools.
+
+Let citizens receive explanations that fit their circumstances.
+
+But when persuasion becomes industrial, paid, adaptive, and hidden inside trusted systems, require enough public trace that the campaign can still be treated as a public act.
+
+The loudspeaker was visible because everyone could see who held it.
+
+The million-person whisper is harder.
+
+Democracy does not need to make it loud again.
+
+It needs to make the hand on the microphone visible.

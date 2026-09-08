@@ -353,3 +353,259 @@ The 2030s will tempt us to search for the person behind the curtain.
 Sometimes there will be one.
 
 Often there will be a supply chain.
+
+The supply-chain view creates a practical rule for responsibility: follow control, benefit, and knowledge separately.
+
+They are not the same thing.
+
+One actor may control a component without knowing the campaign's political objective.
+
+Another may know the objective without controlling distribution.
+
+A third may profit without seeing either the target or the message.
+
+A fourth may possess the power to stop the activity after receiving credible notice.
+
+Legal systems already separate these dimensions in other domains.
+
+Negligence asks what someone should have known.
+
+Agency asks who acted for whom.
+
+Product liability asks where responsibility sits across manufacturers and sellers.
+
+Financial regulation asks who benefits and who controls accounts.
+
+Cybersecurity regimes sometimes impose duties according to access, risk, and incident knowledge.
+
+Adaptive persuasion will need similarly differentiated duties.
+
+The alternative is two bad extremes.
+
+At one extreme, every infrastructure provider is treated as fully responsible for every political use. That would encourage over-removal, surveillance, and incumbent control.
+
+At the other, every provider declares itself neutral plumbing and responsibility evaporates at each contractual boundary.
+
+A workable system has to assign duties to the capabilities each actor actually controls.
+
+A data broker can be responsible for prohibited sensitive targeting categories.
+
+A platform can be responsible for sponsorship records and coordinated identity abuse it can observe.
+
+A campaign can be responsible for the objective it authorizes.
+
+A contractor can be responsible for misrepresenting sponsorship or exceeding the mandate.
+
+A model provider can be responsible for enforcing product policies it has actually adopted and for responding to abuse signals within its visibility.
+
+No actor has to become the universal editor of politics.
+
+Each has to remain answerable for its part of the machinery.
+
+This sounds bureaucratic because accountability often is.
+
+That is a feature.
+
+The alternative is a dramatic scandal followed by a hunt for one villain who may not exist.
+
+Distributed systems require distributed records.
+
+Contracts.
+
+Sponsor identities.
+
+Access logs.
+
+Model and campaign identifiers.
+
+Dates.
+
+Targeting categories.
+
+Authorization chains.
+
+Incident reports.
+
+These artifacts are boring until somebody needs to reconstruct what happened.
+
+Then they become the difference between evidence and accusation.
+
+The invisible coalition also complicates sanctions.
+
+If a hostile foreign service uses domestic commercial infrastructure, shutting down one account may have little effect. Requiring every provider to identify geopolitical intent before serving a customer is unrealistic and dangerous.
+
+Chokepoints should be used narrowly.
+
+Payment flows can expose sanctioned actors.
+
+Large political spend can trigger disclosure.
+
+Mass account creation can trigger stronger identity assurance.
+
+Repeated confirmed abuse can justify service restrictions.
+
+The important property is proportionality.
+
+The more industrial the operation, the more process obligations can attach without burdening an ordinary citizen posting political speech.
+
+Scale is not perfect evidence of wrongdoing.
+
+It is a reasonable trigger for recordkeeping.
+
+A person sending fifty messages should not need an influence-compliance department.
+
+An organization operating millions of adaptive political interactions occupies a different position in the information ecosystem.
+
+Thresholds are familiar elsewhere.
+
+Small businesses and banks do not face identical requirements.
+
+A neighborhood campaign and a national political-ad network need not either.
+
+This is one way to preserve low-cost democratic participation while making industrial opacity more expensive.
+
+The invisible coalition also reveals a mistake in how manipulation success is sometimes measured.
+
+Investigators want to know whether one operation persuaded people.
+
+That question is important and often unanswerable.
+
+A supply chain can create harm without any one component producing a measurable attitude shift.
+
+A contractor lowers content cost.
+
+A platform amplifies the material.
+
+A synthetic network creates apparent consensus.
+
+A newsroom covers the apparent trend.
+
+A real politician reacts to the coverage.
+
+Citizens then react to the politician.
+
+Where did persuasion occur?
+
+The causal chain has become social.
+
+This is why infrastructure governance should not depend on proving that a particular operation changed a particular vote.
+
+Fraud rules do not require proving that every attempted victim believed the scam.
+
+Impersonation can be harmful even when the audience resists.
+
+Undisclosed sponsorship can violate norms even when the campaign fails.
+
+Some conduct is governable because it corrupts the process, not because its final behavioral effect can be isolated.
+
+That distinction prevents operators from using uncertainty about persuasion effects as a universal defense.
+
+At the same time, defenders should not exaggerate failed operations into strategic triumphs for the attacker.
+
+A synthetic network with no audience is not equivalent to a national campaign.
+
+An operation removed before distribution is different from one that reached millions.
+
+Capability, deployment, reach, engagement, persuasion, and behavior remain separate.
+
+The invisible-coalition framework should make those distinctions easier, not blur them.
+
+Each stage can be measured independently.
+
+Who assembled capability?
+
+Who deployed it?
+
+Where did it reach?
+
+Did people interact?
+
+Did attitudes change?
+
+Did behavior change?
+
+Often the evidence will stop before the last questions.
+
+That is acceptable.
+
+Institutional response can still focus on the conduct that is known.
+
+This evidentiary discipline matters because influence operations produce incentives for exaggeration on every side.
+
+Attackers want prestige.
+
+Security companies want relevance.
+
+Platforms want credit for disruption.
+
+Governments want to demonstrate vigilance.
+
+Political actors want proof that opponents were illegitimate.
+
+A careful public record should resist turning every detected network into an election-changing superweapon.
+
+The Deceptatron is dangerous precisely because it need not be magical.
+
+Inflating mediocre operations teaches the public the wrong lesson.
+
+It creates helplessness.
+
+It can even serve the adversary's goal by making citizens believe manipulation is omnipresent and irresistible.
+
+Democratic counterintelligence should therefore report confidence and effect separately.
+
+We are confident these accounts shared control.
+
+We are confident this sponsor paid.
+
+We observed this reach.
+
+We do not know how many people changed their minds.
+
+That is stronger than theatrical certainty.
+
+It also preserves credibility for the cases where evidence is substantial.
+
+The supply chain offers one final defensive advantage.
+
+Modularity creates many intervention points.
+
+A single integrated propaganda ministry might be hard to penetrate.
+
+A commercial stack depends on vendors with different incentives.
+
+Payment providers dislike sanctions risk.
+
+Cloud providers dislike abuse.
+
+Platforms dislike fake accounts.
+
+Model companies dislike reputational damage.
+
+Advertisers dislike fraud.
+
+Contractors dislike losing legitimate clients.
+
+Researchers and journalists can investigate pieces independently.
+
+The same fragmentation that diffuses responsibility can create friction.
+
+Governance can use that fact without demanding centralized control of speech.
+
+Make each layer carry a small, appropriate duty.
+
+Make records compatible enough to reconstruct a campaign.
+
+Protect whistleblowers.
+
+Support independent research.
+
+Punish fraudulent concealment more clearly than political viewpoint.
+
+Let legitimate advocacy remain cheap.
+
+The invisible coalition is not invincible.
+
+It is difficult because it has no single head.
+
+The defense should stop looking for one and learn to govern the joints.
