@@ -404,6 +404,24 @@ Selective friction should therefore come with sunset and review where appropriat
 
 It has to be accountable adaptation.
 
+Selective friction also needs an appeals surface. A rule that slows an action can be justified in the aggregate and still be wrong for the person in front of it. Automated identity checks fail. Risk models misclassify. Coordinated-behavior detectors can mistake a burst of legitimate organizing for manipulation. Sponsorship systems can assign the wrong controller. A safeguard without correction can turn protection into arbitrary power.
+
+The appeal does not have to remove the friction immediately. Sometimes the whole point of the control is to create time for verification. But the person or organization affected should be able to learn what class of rule was triggered, provide evidence relevant to that rule, and receive a decision that changes the underlying state when the original decision was wrong.
+
+That last part matters. Restoring an account while leaving the risk score, distribution penalty, payment hold, or political-ad restriction in place is not meaningful correction. Friction propagates through systems. Appeals have to propagate too when the downstream consequence was caused by the original mistake and remains identifiable.
+
+This creates a useful test for proposed regulation: can the system explain how an innocent actor gets out? A control designed only around the malicious case will eventually encounter ordinary people behaving strangely for legitimate reasons. Political life is full of bursts, coalitions, pseudonyms, synchronized action, and messages repeated because a movement actually agrees. Those are not bugs in democracy.
+
+The defensive institution therefore needs confidence thresholds rather than a fantasy of perfect classification. Lower-confidence signals can justify more observation or reduced automation. Stronger interventions should require stronger evidence, especially when they restrict reach, money, identity, or access to a high-trust channel.
+
+And the thresholds themselves should be auditable. If a platform claims that a new identity rule reduced covert networks, it should also ask how many legitimate accounts were trapped, how long appeals took, and whether the burden fell disproportionately on smaller organizations that lacked compliance staff. A safeguard that works only because innocent users absorb the error cost may be politically unsustainable even if the detection metric looks excellent.
+
+This is another reason to prefer reversible controls where possible. A temporary hold can be lifted. A disclosure can be corrected. A targeting permission can expire. A memory can be reset. A rate limit can be adjusted. The most dangerous friction is the kind that creates a durable hidden penalty from a provisional judgment.
+
+Good friction should therefore carry its own exit conditions. What evidence ends the restriction? Who can review the decision? What downstream states will be repaired? How long does the record persist? Can the rule itself be changed when its costs become clearer?
+
+Those questions make the defense less cinematic. They also make it more democratic. Power that slows other people should itself encounter procedure.
+
 The objective is not a slower internet.
 
 It is a public sphere in which the easiest path is not always the path that hides the most power.
