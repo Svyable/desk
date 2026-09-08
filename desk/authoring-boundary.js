@@ -75,10 +75,37 @@ function applyWorkspacePolicy(policy) {
   if (readyLabel) readyLabel.textContent = policy.readySummaryLabel;
 }
 
+function remoteRepository() {
+  const value = new URLSearchParams(location.search).get('repo') || '';
+  const match = value.trim().match(/^([^/\s]+)\/([^/\s]+)$/);
+  return match ? { owner: match[1], repo: match[2].replace(/\.git$/i, '') } : null;
+}
+
+async function loadRemoteInspectionRole() {
+  const repository = remoteRepository();
+  if (!repository) return 'instance';
+
+  try {
+    const owner = encodeURIComponent(repository.owner);
+    const repo = encodeURIComponent(repository.repo);
+    const response = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents/imprint.json`, {
+      headers: { Accept: 'application/vnd.github+json' },
+    });
+    if (!response.ok) return 'instance';
+    const payload = await response.json();
+    if (payload?.encoding !== 'base64' || typeof payload.content !== 'string') return 'instance';
+    const imprint = JSON.parse(atob(payload.content.replace(/\s+/g, '')));
+    return String(imprint.role || 'instance').trim().toLowerCase() || 'instance';
+  } catch {
+    return 'instance';
+  }
+}
+
 async function applyAuthoringBoundary(remoteInspection) {
   if (remoteInspection) {
     hideAuthoringTools();
-    applyWorkspacePolicy(authoringRolePolicy({ role: 'instance', remoteInspection: true }));
+    const role = await loadRemoteInspectionRole();
+    applyWorkspacePolicy(authoringRolePolicy({ role, remoteInspection: true }));
     return;
   }
 

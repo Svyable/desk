@@ -27,15 +27,17 @@ function localIdentity(identity = {}) {
 
 export function authoringRolePolicy({ role = 'instance', remoteInspection = false, identity = {} } = {}) {
   const normalizedRole = String(role || 'instance').trim().toLowerCase();
-  const localDesk = normalizedRole === 'desk' && !remoteInspection;
+  const deskRole = normalizedRole === 'desk';
+  const localDesk = deskRole && !remoteInspection;
   const identityPolicy = localDesk ? localIdentity(identity) : GENERIC_IDENTITY;
 
   return Object.freeze({
+    deskRole,
     localDesk,
     hideLandingHero: localDesk,
-    hidePublishedSummary: localDesk,
-    hidePublishedFilter: localDesk,
-    readySummaryLabel: localDesk ? 'Ready to release' : 'Ready to publish',
+    hidePublishedSummary: deskRole,
+    hidePublishedFilter: deskRole,
+    readySummaryLabel: deskRole ? 'Ready to release' : 'Ready to publish',
     ...identityPolicy,
   });
 }
