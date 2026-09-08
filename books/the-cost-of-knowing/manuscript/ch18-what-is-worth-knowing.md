@@ -242,6 +242,132 @@ A thing with no opportunity cost requires no priority.
 
 A finite civilization has to reveal what it values through what it keeps paying to know.
 
+There is an older version of this problem in natural-history collections.
+
+A specimen in a museum can look like an obsolete mode of science: one dead bird in a drawer, one pressed plant on paper, one insect pinned under a label. Then a new question arrives.
+
+Museum specimens collected before synthetic pesticides were common can preserve chemical traces useful for reconstructing contamination histories. Shells and bones can preserve isotopic information about past environments. Old biological material can yield DNA using techniques nobody imagined when the specimen was collected. A label written by a field collector a century ago can become a data point in a changing species range.
+
+The collector could not know every future use.
+
+The value came partly from preserving the material before the question existed.
+
+That does not mean museums should keep every organism anyone can capture. Collecting itself can harm rare populations. Storage and curation are expensive. Some specimens degrade. Provenance can be poor. Colonial collecting histories include theft and coercion that institutions are still confronting.
+
+The case is useful because it resists a clean answer.
+
+Preservation can expand future knowledge and carry past injustice in the same drawer.
+
+A mature archive has to know both things.
+
+Seed banks present another version. A seed stored at low temperature is not just a record of a plant. Under the right conditions it remains a possible future organism. The archive preserves option value literally. Crop diversity lost from fields may survive in collections that can later support breeding for disease resistance, drought tolerance, or other traits.
+
+But a seed bank is not immortality.
+
+Seeds age. Viability must be tested. Some species do not tolerate conventional drying and freezing. Collections need backup sites, power, staff, documentation, and periodic regeneration. If labels fail, the biological material can survive while the useful knowledge about it disappears.
+
+The future again depends on maintenance.
+
+There is a harsher example in nuclear waste.
+
+Some radioactive materials remain hazardous on timescales longer than states, languages, and many institutions have existed. The knowledge problem runs in the opposite direction from ordinary archives. We do not merely want future people to remember something because it is valuable. We may need them to remember because forgetting can be dangerous.
+
+How do you mark a place for people whose language, symbols, and political context cannot be predicted?
+
+A warning sign is an information system asked to cross cultural time.
+
+Too much drama may attract curiosity. Too little may fail to communicate hazard. Written language can disappear. Institutions that preserve records can collapse. Geological repositories therefore depend not on one magic message but on layers: engineered barriers, site knowledge, records, regulation, monitoring during operational periods, and international discussion about long-term markers and memory.
+
+The problem exposes a limit of the word *information*.
+
+A message can physically persist and still fail.
+
+For information to guide action, the future observer has to interpret it in approximately the intended way.
+
+The same requirement applies to scientific archives, software, constitutions, and family letters. Preservation is not storage alone. It is preservation of a relationship between a mark and a practice of reading.
+
+That relationship can be more fragile than the material.
+
+One of the saddest objects in technology is a perfectly good disk nobody has the hardware or software to read.
+
+The bits may be fine.
+
+The civilization moved on.
+
+This suggests a practical distinction between an archive and a hoard.
+
+A hoard accumulates.
+
+An archive maintains intelligibility.
+
+The archive has selection criteria, provenance, descriptions, migration plans, access rules, and people responsible for deciding when formats, categories, or contextual notes need updating. It accepts that preservation is an active process rather than a one-time act.
+
+Personal memory benefits from the same distinction.
+
+A phone containing fifty thousand photographs is not automatically a life made fifty thousand moments more memorable. The images can become less accessible as their number grows. Curation adds cost but can increase meaning. Print twenty. Label names. Write why the day mattered. Delete seventeen photographs of the same receipt.
+
+Compression can be an act of care.
+
+The same is true for scientific knowledge. A review article can make thousands of papers more usable by preserving the structure of a field and identifying which claims survived. A textbook compresses again. A lecture compresses again. Each layer risks error and omission, but without compression the literature becomes uninhabitable.
+
+The problem is not that we forget.
+
+It is that we forget without knowing what kind of forgetting occurred.
+
+Was a result rejected after replication failed?
+
+Was it buried because the field lost interest?
+
+Was it never digitized?
+
+Was the dataset destroyed?
+
+Was the language inaccessible?
+
+Did a metric hide the effect?
+
+Did nobody fund the measurement?
+
+Different forms of absence deserve different confidence.
+
+A blank cell in a database is not zero.
+
+A missing archive is not evidence that nothing happened.
+
+A silent detector is not evidence of absence outside its sensitivity.
+
+A person who cannot recall is not proof the event never occurred.
+
+Knowing what we do not know is partly knowing why the record is blank.
+
+This may be the most valuable kind of metadata a finite civilization can preserve.
+
+Not only answers.
+
+Boundaries.
+
+Here is what we measured.
+
+Here is what we could have seen.
+
+Here is what we discarded.
+
+Here is what was never collected.
+
+Here is where the model stops.
+
+Here is who was missing from the sample.
+
+Here is what would change our conclusion.
+
+That last sentence is the one I would keep if forced to compress the ethic of this book into one laboratory habit.
+
+What would change our conclusion?
+
+A system capable of answering that question has kept enough of its state writable to learn.
+
+A system that cannot answer has mistaken memory for identity.
+
 This brings the argument back to the human body.
 
 Attention may be the most familiar scarce epistemic resource.
