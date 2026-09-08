@@ -194,6 +194,24 @@ These questions do not become obsolete when machines answer the easier questions
 
 They become more exposed.
 
+There is a useful difference between a goal and a reason.
+
+An agent can be given the goal “reduce customer wait time.” It may become excellent at routing, drafting, predicting, and closing cases. The reason behind the goal might be that customers deserve quick help without being bounced through a bureaucracy. If closure time falls because the system aggressively marks difficult cases resolved, the goal has improved and the reason has been betrayed.
+
+An agent can be given the goal “reduce household spending.” It may cancel unused subscriptions, find cheaper suppliers, and shift purchases. The reason may be to create financial breathing room for the family. If the system turns every small pleasure into an optimization target and creates more conflict than the money was worth, it has served the metric and missed the purpose.
+
+An engineering agent can be given the goal “reduce latency.” It may find a technically impressive optimization that makes the system harder to recover, more expensive to operate, or less understandable to the team. The reason behind the goal includes the product and institution that must live with the change.
+
+Ownership is the ability to keep the reason visible when the delegated system becomes extremely good at the goal.
+
+That becomes harder as agents participate in setting goals themselves. A manager agent can notice bottlenecks and propose new targets. A personal agent can infer preferences and suggest a better plan. A model may identify a tradeoff the human had not considered.
+
+Good.
+
+The principal should accept superior ideas.
+
+Ownership does not mean insisting that every objective originated in your own head. It means retaining the authority to ask what the objective is in service of and whose costs it is allowed to impose.
+
 This is especially important because the word *owner* can encourage the wrong fantasy.
 
 The agent economy will produce a great deal of one-person-company mythology.
@@ -338,6 +356,18 @@ Sometimes it is to start something.
 
 Sometimes it is to refuse a system that turns productivity into surveillance and permanent acceleration.
 
+This question will become concrete for ordinary employees long before it becomes a grand labor-market statistic.
+
+Imagine a project coordinator whose trained agent bench removes six hours of weekly administrative work. The company has several options. It can assign six more hours of projects. It can widen the coordinator's responsibility and raise compensation. It can reduce staffing. It can shorten the workweek. It can leave some of the gain as slack that makes the operation more resilient.
+
+The software does not choose among those futures.
+
+The employment relationship does.
+
+Now imagine a freelancer whose agent system cuts the time required for a recurring deliverable in half while quality stays constant. The freelancer can lower the price, take twice as many clients, keep the price and earn a larger margin, or use the time to improve the service. Competition will push on every option. The agent creates leverage; the market determines how much can be captured.
+
+This is why “be more productive” is incomplete career advice. The worker needs to understand where the productivity gain goes.
+
 Sometimes the benefit is not income at all.
 
 The household agent that gives a parent forty minutes back may create value that never appears in GDP.
@@ -395,6 +425,28 @@ Stay close to enough of the work that your judgment does not become ceremonial.
 When the role becomes reliable, preserve what made it reliable somewhere you can understand and, where you have the right, carry forward.
 
 Then repeat.
+
+The sequence can be done in code.
+
+It can also be done with a folder, a handful of examples, a dedicated account, and a note that says what the agent may and may not do.
+
+That is important because the agent economy will fail people if its practical literacy becomes a priesthood of infrastructure engineers. Some of the safest and most powerful ideas in this book are management ideas with technical implementations when needed.
+
+A coder can express qualification as an automated eval suite.
+
+A restaurant owner can express it as twenty historical cases and a rule that the agent remains draft-only until it handles them well.
+
+A developer can enforce permission through an API scope.
+
+A family can enforce it by never connecting the payment account.
+
+A platform engineer can preserve receipts in structured logs.
+
+A small business can preserve a transaction confirmation and source link.
+
+The sophistication should match the consequence.
+
+The principle should remain intelligible to the person who owns the result.
 
 That sequence sounds less exciting than summoning an army of digital employees.
 
