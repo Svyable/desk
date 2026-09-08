@@ -6,7 +6,7 @@ It does not require a machine to be conscious. It does not require a single mome
 
 If that capability becomes cheap enough, reliable enough, and sufficiently embedded in institutions, the price of delegated action falls.
 
-The book has treated that falling price as a force because the effect does not stop at the task. It changes what is worth delegating, how many things can be attempted in parallel, where queues form, which permissions matter, how firms draw their boundaries, what managers supervise, how buyers and sellers meet, where verification becomes necessary, and who remains responsible after action has been distributed across people and machines.
+The book has treated that falling price as a force because the effect does not stop at the task. It changes what is worth delegating, where queues form, how firms draw their boundaries, where verification becomes necessary, and who remains responsible after action has been distributed across people and machines.
 
 That framing should remain falsifiable.
 
@@ -16,11 +16,11 @@ The argument would also weaken if agentic capability remains unusually concentra
 
 Some claims should be watched especially carefully.
 
-The first is the cost of delegation. Model prices can fall while the total cost of a reliable agent system rises because memory, tools, monitoring, security, retries, human review, insurance, and integration become expensive. The economically relevant price is not the token. It is the cost of a completed, verified, attributable outcome.
+The first is the cost of delegation. Model prices can fall while the total cost of a reliable agent system rises because memory, tools, monitoring, security, retries, human review, insurance, and integration become expensive. The economically relevant price is the cost of a completed, verified, attributable outcome, not the token.
 
 The second is the one-person institution. A founder may gain the operating capacity of a larger team without gaining its relationships, capital, reputation, licenses, physical assets, or accumulated judgment. Software can lower the minimum apparatus needed to try something without abolishing the advantages of durable organizations.
 
-The third is management. A wider span of control is not automatically better management. One person supervising a hundred machine processes may become extraordinarily productive, or may simply gain the ability to propagate one bad objective faster. The important measure is not how many agents report to a manager. It is how much useful, verified work survives the decision boundary the manager owns.
+The third is management. A wider span of control is not automatically better management. One person supervising a hundred machine processes may become extraordinarily productive, or may simply gain the ability to propagate one bad objective faster. The important measure is how much useful, verified work survives the decision boundary the manager owns, not how many agents report to a manager.
 
 The fourth is labor. Task substitution does not map cleanly to employment, wages, dignity, or bargaining power. Demand can expand. New work can appear. Entry-level pathways can erode. Ownership can matter more. A society can remain fully occupied while income and control move substantially. The book therefore resists using one employment forecast as the verdict on the agentile economy.
 

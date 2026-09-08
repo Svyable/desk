@@ -18,7 +18,7 @@ When execution becomes cheap, choosing what to execute becomes more valuable.
 
 A novice and an expert can both launch ten agents. The expert is more likely to give them ten useful problems.
 
-This is not a permanent law of nature. Agents can themselves improve at planning, decomposition, evaluation, and strategy. Yet current evidence from agentic coding already points toward a pattern worth taking seriously: experienced users often obtain more value because they make better planning decisions, provide better constraints, recognize bad output faster, and know what successful work should look like.
+This need not remain a permanent law of nature. Agents can themselves improve at planning, decomposition, evaluation, and strategy. Yet current evidence from agentic coding already points toward a pattern worth taking seriously: experienced users often obtain more value because they plan better, constrain better, and recognize bad output faster.
 
 The machine amplifies the principal.
 
@@ -58,9 +58,7 @@ Professions will need to redesign deliberate practice.
 
 A trainee may work on cases the agent has already solved but without seeing the solution first. An engineering team may require juniors to explain and test generated code rather than merely merge it. A medical training program may use simulations aggressively because routine documentation no longer supplies the same exposure. A law firm may give young lawyers direct responsibility for strategy earlier while agents handle document volume.
 
-The goal is not to preserve obsolete drudgery for moral reasons.
-
-It is to preserve contact with reality.
+The goal is to preserve contact with reality, not obsolete drudgery for moral reasons.
 
 Some drudgery teaches nothing and should disappear. Nobody becomes wiser by copying data between identical forms for the thousandth time. The challenge is separating repetitive burden from formative repetition.
 
@@ -104,9 +102,7 @@ A third skill is adversarial reading.
 
 Generated work is often fluent enough to reduce the psychological friction that normally alerts us to weak reasoning. A badly written memo invites scrutiny. A beautiful memo can glide past it. Professionals need habits for asking what evidence is missing, what assumption is doing too much work, what source would falsify the claim, and what the agent had no way to know.
 
-This is not cynicism toward machines.
-
-It is ordinary professional skepticism applied to a fast colleague.
+That is ordinary professional skepticism applied to a fast colleague, not cynicism toward machines.
 
 A fourth skill is escalation judgment.
 

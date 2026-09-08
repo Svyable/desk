@@ -248,9 +248,7 @@ A company does not merely want to know that cash moved. It wants to know why, un
 
 Agentic action will require similar institutional memory.
 
-The audit trail is not bureaucratic decoration.
-
-It is what makes scalable delegation believable.
+The audit trail is what makes scalable delegation believable, not bureaucratic decoration.
 
 Without it, every failure becomes archaeology.
 
@@ -312,7 +310,7 @@ A wrong judgment made once is a mistake.
 
 A wrong judgment encoded into a workflow is a policy.
 
-That is why rate limits, spending caps, batch sizes, sample review, staged rollouts, and circuit breakers belong in the management conversation. They are not merely security controls. They are ways of limiting delegated consequence while the organization learns whether the system deserves more trust.
+That is why rate limits, spending caps, batch sizes, sample review, staged rollouts, and circuit breakers belong in the management conversation. They are ways of limiting delegated consequence while the organization learns whether the system deserves more trust—security controls, yes, but also managerial ones.
 
 This also explains why permissions should often expand through experience rather than arrive fully formed.
 
@@ -362,9 +360,7 @@ A junior employee may approve a small expense while a capital purchase goes to t
 
 Agents can be governed the same way.
 
-The important design question is not whether a human remains in the loop.
-
-It is where the human is placed.
+The important design question is where the human is placed, not whether a human remains in the loop.
 
 A human can review every action.
 
@@ -540,7 +536,7 @@ That is the difference between a permission graph and a permission landfill.
 
 Separation of duties becomes more important for the same reason.
 
-Organizations learned long ago not to let one person create a vendor, approve the invoice, and issue the payment without oversight. The rule is not an insult to the employee. It is an architecture that limits fraud and mistake.
+Organizations learned long ago not to let one person create a vendor, approve the invoice, and issue the payment without oversight. The rule is an architecture that limits fraud and mistake, not an insult to the employee.
 
 Agents do not remove the logic.
 

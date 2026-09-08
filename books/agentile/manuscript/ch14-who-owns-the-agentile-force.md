@@ -30,9 +30,7 @@ To a lender who financed the data center.
 
 To a shareholder whose name never appears in the workflow.
 
-The agentile economy is not only a story about what machines can do.
-
-It is a story about who owns the machinery of delegated action.
+The agentile economy is a story about who owns the machinery of delegated action as much as about what machines can do.
 
 This matters because the machinery is unusually layered.
 
@@ -48,7 +46,7 @@ The model may belong to one company.
 
 The model may run on a second company's cloud.
 
-The accelerators may be designed by a third company, manufactured using equipment from several others, assembled into servers by another chain of suppliers, housed in a data center financed by infrastructure investors, powered by a utility, connected through telecom networks, wrapped in software from an agent platform, authenticated by an identity provider, and paid for through a payment network.
+The accelerators may be designed by a third company, housed in a data center financed by infrastructure investors, wrapped in software from an agent platform, and paid for through a payment network.
 
 A clerk sees an assistant on a screen.
 
@@ -64,7 +62,7 @@ A market can feel diverse at the surface while remaining narrow at the bottlenec
 
 This is not unique to AI.
 
-The internet produced millions of websites on top of a smaller number of operating systems, browsers, cloud providers, app stores, advertising systems, and payment networks. Electricity allowed countless businesses to flourish on top of regulated or concentrated grids. Railroads created local commerce while concentrating transport through rights of way that were difficult to duplicate.
+The internet produced millions of websites on top of a smaller number of cloud providers, app stores, and payment networks. Electricity allowed countless businesses to flourish on concentrated grids. Railroads created local commerce while concentrating transport through rights of way that were difficult to duplicate.
 
 General-purpose technologies often democratize one thing by concentrating another.
 
@@ -120,9 +118,7 @@ The lock-in can live in everything the firm learned while making the system reli
 
 That is one reason model competition can remain meaningful even when several capable models exist.
 
-The relevant price is not the token price.
-
-It is the cost of changing the production system.
+The relevant price is the cost of changing the production system, not the token price.
 
 The same applies one layer lower.
 
@@ -160,9 +156,7 @@ Standards can reduce switching costs.
 
 Competition can arrive from another layer entirely.
 
-The purpose of mapping the stack is not to declare the winners.
-
-It is to understand what kind of power a winner would possess.
+The purpose of mapping the stack is to understand what kind of power a winner would possess, not to declare the winners in advance.
 
 The difference between owning an agent and renting an agent is easy to blur because software feels local.
 
@@ -240,9 +234,7 @@ A company running an open model on rented cloud compute is dependent differently
 
 A company running a smaller model on hardware it controls has another dependency again.
 
-The question is not open versus closed as a moral binary.
-
-It is how many independent ways the firm can obtain the capability it needs.
+The useful question is how many independent ways the firm can obtain the capability it needs, not open versus closed as a moral binary.
 
 Redundancy has a price.
 
@@ -302,9 +294,7 @@ They overlap unevenly.
 
 A household with substantial financial assets experiences an AI-driven increase in corporate profits differently from a household with no such assets.
 
-The relevant distribution is not only labor share versus capital share.
-
-It is who owns the capital share.
+The relevant distribution includes who owns the capital share, not only labor share versus capital share.
 
 That can change policy without changing the technology.
 
@@ -322,9 +312,7 @@ It carries risk.
 
 A worker whose pension is diversified across the economy is in a different position from a worker whose entire retirement depends on the same startup that pays the salary.
 
-The question is not whether everyone should own the company they work for.
-
-It is whether a society in which capital performs more cognition also needs broader access to diversified claims on productive capital.
+Whether everyone should own the company they work for is the wrong framing. The sharper question is whether a society in which capital performs more cognition also needs broader access to diversified claims on productive capital.
 
 That question becomes less theoretical as agents become ordinary infrastructure.
 
@@ -384,9 +372,7 @@ Avoiding integration for ideological purity can be expensive.
 
 Accepting integration without measuring exit cost can be more expensive later.
 
-The rational strategy is not permanent independence.
-
-It is conscious dependence.
+The rational strategy is conscious dependence, not permanent independence.
 
 Know what you rent.
 
@@ -470,9 +456,7 @@ This is why the healthiest agentile economy may not be the one in which every pe
 
 It may be the one in which people and firms have credible alternatives, portable data, interoperable tools, transparent terms, competitive providers, and broad ways of sharing in the capital gains produced by the system.
 
-Ownership is not only possession.
-
-It is exit.
+Ownership includes exit, not only possession.
 
 The ability to say no to the current provider because another path exists.
 

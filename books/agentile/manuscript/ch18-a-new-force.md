@@ -230,9 +230,7 @@ A researcher can coordinate more tools.
 
 A citizen can navigate more bureaucracy.
 
-The effect is not only substitution.
-
-It is entry.
+The effect includes entry, not only substitution.
 
 More people can try things.
 
@@ -410,9 +408,7 @@ The seller can personalize more efficiently.
 
 The buyer can compare more efficiently.
 
-The result is not perfect competition.
-
-It is a new arms race in representation.
+The result is a new arms race in representation, not perfect competition.
 
 Who knows the principal better?
 
@@ -774,9 +770,7 @@ Work has provided income.
 
 It has also provided structure, status, identity, social contact, mastery, and a sense of usefulness.
 
-If some of that work changes, the question is not only how income is replaced.
-
-It is what institutions help people build meaningful lives with more machine capability around them.
+If some of that work changes, the question includes what institutions help people build meaningful lives with more machine capability around them, not only how income is replaced.
 
 The answer may involve work.
 
@@ -812,9 +806,7 @@ Technology can increase the resources available for these things.
 
 Politics determines whether it does.
 
-The agentile force is not destiny.
-
-This is perhaps the most important conclusion.
+The agentile force is not destiny. That may be the most important conclusion in the book.
 
 Forces shape possibilities.
 
@@ -896,9 +888,7 @@ Should agent protocols make reputation portable?
 
 Should the same platform be allowed to represent buyer and seller without clear conflict rules?
 
-These are not questions for some distant superintelligence.
-
-They are product decisions arriving now.
+Those are product decisions arriving now, not questions for some distant superintelligence.
 
 The future often enters as a checkbox.
 

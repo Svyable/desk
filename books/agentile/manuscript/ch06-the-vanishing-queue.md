@@ -46,7 +46,7 @@ A factory can increase production and fill a warehouse. A cognitive system can i
 
 The difference sounds comic until the consequences become institutional. If every department can cheaply create analysis, requests, reports, proposals, experiments, and escalations, the organization may become more informed and less governable at the same time. Information ceases to be the scarce good. The scarce good is deciding which information deserves to change anything.
 
-Queues are therefore not merely failures of capacity. They are also crude systems of prioritization.
+Queues are therefore crude systems of prioritization as well as failures of capacity.
 
 This is uncomfortable because queues feel morally neutral. First in, first out. Take a number. Wait your turn. But any institution with insufficient capacity is rationing something. It can ration by price, urgency, status, persistence, relationships, lottery, geography, paperwork skill, or waiting time. A queue converts shortage into delay.
 
@@ -92,7 +92,7 @@ Agents remove some of them.
 
 The recipient does not receive the sender's productivity improvement as a gift. It receives volume.
 
-This is why the agentile economy will invent machine etiquette and eventually machine law. Rate limits, deposits, authenticated identity, reputation, proof of stake, fees for excessive requests, priority classes, and reciprocal access rules are not peripheral technical details. They are ways of deciding who is allowed to put work into someone else's queue.
+This is why the agentile economy will invent machine etiquette and eventually machine law. Rate limits, authenticated identity, fees for excessive requests, and priority classes are ways of deciding who is allowed to put work into someone else's queue, not peripheral technical details.
 
 Email offers an early warning. The marginal cost of sending a message fell almost to zero, so the recipient inherited the filtering problem. Spam filters became a necessary institution because cheap speech at scale creates an attention externality. Agents can extend the pattern from messages to actions.
 
@@ -150,9 +150,7 @@ It migrates toward whatever remains scarce.
 
 That is a useful way to understand the entire economic transition. When cognition, persistence, and administrative action become cheaper, the economy does not become frictionless. It discovers its next friction. Perhaps that is trust. Perhaps it is permission. Perhaps verification, electricity, capital, land, human judgment, or simple willingness to be bothered.
 
-The important question is not whether agents eliminate waiting.
-
-It is what we will be waiting for next.
+The important question is what we will be waiting for next, not whether agents eliminate waiting.
 
 The migration can already be seen in miniature wherever software makes an administrative step cheap. A calendar link eliminates the exchange of messages required to find a meeting time and promptly makes meetings easier to create. Electronic filing removes the trip to a counter and makes filing more attractive. A dashboard makes measurement cheaper and invites more measurement. Each improvement is real. Each also changes the equilibrium around it.
 
@@ -182,9 +180,7 @@ That suggests a different picture of efficiency from the one implied by an empty
 
 Agents can make this discrimination economical. They can gather the evidence that lets a routine payment pass automatically while flagging the one whose details genuinely deserve attention. They can prepare the ordinary contract for signature while surfacing the unusual indemnity clause. They can reconcile the predictable transaction and isolate the unexplained balance.
 
-The best queue is not always no queue.
-
-It is a queue whose delay corresponds to the cost of being wrong.
+The best queue is often one whose delay corresponds to the cost of being wrong, not an empty queue for its own sake.
 
 That principle changes how an agentile organization should measure waiting.
 
@@ -232,7 +228,7 @@ Together they can manufacture an organization-sized denial-of-service attack aga
 
 This is the internal version of spam.
 
-The solution is not simply better prioritization after the work has been generated. It is admission control before the work exists.
+The solution is admission control before the work exists, not simply better prioritization after it has been generated.
 
 Should this task be created?
 
@@ -274,6 +270,4 @@ Those are not minor operating questions.
 
 They determine whether cheap agency produces abundance or congestion.
 
-The queue is not dying.
-
-It is becoming designed.
+The queue is becoming designed rather than disappearing.
