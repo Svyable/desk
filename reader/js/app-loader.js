@@ -7,9 +7,13 @@ const appShellPolishUrl = new URL('./app-shell-polish.js', import.meta.url).href
 const libraryHomeUrl = new URL('../css/desk-library-home.css?v=bookself-20260904', import.meta.url).href;
 const bookOpeningHandoffUrl = new URL('../css/desk-book-opening-handoff.css?v=bookself-20260906', import.meta.url).href;
 
-// Bookself treats this flag as the stable opt-out for its duplicate one-handed
-// action dock. Keep the Desk policy as configuration rather than injected CSS.
-document.documentElement.dataset.oneHandedActionsReady = 'true';
+function installDeskChromePolicy() {
+  if (document.getElementById('deskReaderChromePolicy')) return;
+  const style = document.createElement('style');
+  style.id = 'deskReaderChromePolicy';
+  style.textContent = `#readerOneHandedActions,.reader-one-handed-actions{display:none!important;}`;
+  document.head.appendChild(style);
+}
 
 function installDeskStylesheet(id, href) {
   if (document.getElementById(id)) return;
@@ -20,6 +24,7 @@ function installDeskStylesheet(id, href) {
   document.head.appendChild(link);
 }
 
+installDeskChromePolicy();
 installDeskStylesheet('deskLibraryHome', libraryHomeUrl);
 installDeskStylesheet('deskBookOpeningHandoff', bookOpeningHandoffUrl);
 

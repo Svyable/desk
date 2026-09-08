@@ -1,4 +1,4 @@
 /* Desk intentionally delegates the library-home presentation layer to the
    canonical shared Reader. Desk-specific draft/catalog semantics stay in the
    bootstrap adapter; do not fork shared library chrome here. */
-@import url("https://svyable.github.io/shelf/reader/css/library-home.css?v=bookself-20260907-canonical");
+@import url("https://svyable.github.io/bookself/reader/css/library-home.css?v=bookself-20260907-canonical");
