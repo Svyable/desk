@@ -3,11 +3,13 @@
 # Desk-owned shell/identity/override files.
 set -eu
 
-ROOT=${DESK_ROOT:-$(CDPATH= cd -- "$(dirname "$0")/.." && pwd)}
+SCRIPT_DIR=$(CDPATH= cd -- "$(dirname "$0")" && pwd)
+ROOT=${DESK_ROOT:-$(CDPATH= cd -- "$SCRIPT_DIR/.." && pwd)}
 PLATFORM=${1:-"$ROOT/../bookself"}
 READER="$ROOT/reader"
 MANIFEST="$READER/.bookself-runtime-files"
 OFFLINE_VERSION="$READER/.bookself-offline-version"
+BOUNDARY_CHECK="$SCRIPT_DIR/check-reader-runtime-boundary.py"
 
 require_path() {
   if [ ! -e "$1" ]; then
@@ -20,6 +22,7 @@ require_path "$PLATFORM/reader/js"
 require_path "$PLATFORM/reader/css"
 require_path "$PLATFORM/reader/vendor"
 require_path "$PLATFORM/reader/sw.js"
+require_path "$BOUNDARY_CHECK"
 
 # Build the next effective Reader tree away from the live Reader first. A bad
 # upstream checkout must fail verification without partially replacing the
@@ -166,6 +169,11 @@ version_path.write_text(
 )
 PY
 
+# The personal Shelf is a publication destination and navigation target, never a
+# runtime provider. Validate the staged candidate before promotion so a boundary
+# regression cannot replace the last-known-good live Reader and fail afterward.
+python3 "$BOUNDARY_CHECK" "$stage"
+
 # Candidate verification succeeded. Replace only the runtime-bearing trees and
 # worker, then publish ownership/version metadata last. reader/index.html remains
 # Desk-owned, but its verified local-runtime cutover is promoted atomically with
@@ -187,6 +195,8 @@ Cut Desk-owned reader/index.html and app-loader.js over to the verified local
 Bookself runtime; no Bookself Pages js/css/vendor dependency remains there.
 Verified the local offline shell and recorded its cache generation in
 reader/.bookself-offline-version.
+Verified before promotion that Desk does not execute Reader runtime assets from
+personal Shelf.
 Preserved Desk-owned manifest.webmanifest, app-icon.svg, and Desk-only js/css
 overlay files.
 A failed upstream verification leaves the live Reader runtime unchanged.
