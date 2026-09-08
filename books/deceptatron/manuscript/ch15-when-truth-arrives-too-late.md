@@ -382,6 +382,24 @@ The aim is to make the second investigation cheaper than the first.
 
 That is another kind of learning loop.
 
+There is also a distribution problem inside correction. A correction can be excellent and still fail institutionally if it reaches a different audience from the original claim. The newsroom publishes the update on its site while the misleading clip keeps circulating in private groups. The election office posts an audit document while the rumor travels as screenshots. A platform reduces recommendation of the original but does not connect people who already saw it to the later evidence.
+
+The corrective system therefore needs a return path.
+
+If a high-reach artifact is materially revised, disputed, or authenticated after initial circulation, the people who encountered the earlier version should have some reasonable chance of encountering the update. This is not a demand that platforms compel belief or attach a permanent warning to every controversy. It is a recognition that distribution created part of the timing advantage, so distribution can help reduce it.
+
+A useful correction should also preserve the original claim well enough that the update is intelligible. Quietly replacing a paragraph can erase the history the reader needs. A visible correction log can show what changed and why. An assistant can say that its earlier answer relied on preliminary reporting and identify the later source that changed the conclusion. A public agency can publish the superseded estimate beside the revised one rather than pretending the first number was never issued.
+
+That record changes the social meaning of revision. It demonstrates that updating is a normal process with a traceable cause rather than an unexplained reversal.
+
+The same idea applies to high-stakes automated summaries. A model may answer millions of similar questions during the first hour of an event. When the source base changes, waiting for every user to ask again leaves the initial frame frozen in memory. Systems that mediate breaking information need a way to distinguish ephemeral answers from durable conclusions and to surface material changes without turning every update into an alarm.
+
+This is partly a product problem and partly an institutional one. Someone has to decide what counts as a material correction, how long the return path remains active, and what record is kept of the update. Those decisions should be inspectable because the power to correct distribution is also the power to amplify an official interpretation.
+
+The defense against that power is procedural symmetry. The same mechanism that can surface an agency correction should also be able to surface evidence that the agency itself was wrong. The same version history that documents a retracted rumor should preserve a mistaken institutional claim. Correction infrastructure earns trust when it records uncomfortable updates in every direction.
+
+That is how verification becomes a system rather than a press release.
+
 Truth can arrive late and still matter.
 
 People correct beliefs. Institutions recover trust. records endure after narratives fade. investigations overturn first impressions. elections are audited. scientific conclusions change. eyewitnesses are contradicted by video. video is contradicted by context. context is revised by later evidence.
