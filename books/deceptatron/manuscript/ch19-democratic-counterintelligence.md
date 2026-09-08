@@ -472,6 +472,40 @@ The healthier response holds both facts at once: the manipulation was real; the 
 
 That distinction protects citizens from becoming evidence against themselves merely because an adversary noticed the same conflict.
 
+Democratic counterintelligence also needs a place for negative findings. Institutions are rewarded for announcing that they found an operation. They receive less attention for concluding that an alarming pattern was organic, ambiguous, or unsupported by the available evidence.
+
+That asymmetry can corrupt the defensive system. If every investigation has to end with a culprit, uncertainty becomes institutional failure. Analysts begin stretching weak signals into attribution because a qualified “we cannot establish coordination” feels unsatisfying after weeks of work and public pressure.
+
+A resilient system has to make non-attribution a legitimate result. Sometimes the accounts are merely copying one another. Sometimes a rumor becomes popular because people already wanted to believe it. Sometimes a political movement really did organize quickly. Sometimes the evidence cannot distinguish a state-directed campaign from opportunistic amplification by unrelated actors.
+
+Publishing that boundary is part of the defense. It prevents counterintelligence from manufacturing certainty in response to propaganda's manufactured uncertainty.
+
+Independent replication helps. An attribution based on platform-private data may be impossible for outsiders to reproduce fully, but the platform can often publish a bounded evidentiary package: timing patterns, account-control relationships, sponsor records, infrastructure overlaps, or representative examples with privacy protections. Researchers can then test the parts that are testable. Journalists can look for contradictory facts. Courts can review legal consequences. Other platforms can compare their own signals.
+
+This is slower than a declaration. That is acceptable when the stakes are high.
+
+The system also needs chain-of-custody discipline for its own evidence. Screenshots of suspicious posts are not enough if the accounts vanish. Analysts should preserve the relevant artifacts, timestamps, controller information where lawfully available, and the transformation from raw observation to public claim. Otherwise the defense asks society to trust an interpretation it can no longer inspect.
+
+That record should include mistakes. If an operation is attributed incorrectly, the correction belongs in the institutional memory, not only in a press release. Which signal misled investigators? Which assumption failed? Did the error reveal a weakness in the method that affects earlier findings too?
+
+This is uncomfortable because counterintelligence organizations, like the institutions they protect, have reputations. A correction can look like weakness. In fact it is one of the few ways the public can distinguish a learning institution from a propaganda ministry.
+
+The distinction becomes especially important when automated systems assist attribution. Models can cluster accounts, summarize narratives, identify linguistic similarities, or rank suspicious relationships. Those tools can help investigators navigate scale. They can also manufacture coherence from coincidence. A cluster is not a controller. Similar language is not common authorship. A model's confidence is not legal evidence.
+
+Human review does not magically solve this. Humans also see patterns where none exist, inherit institutional incentives, and anchor on the first hypothesis. The stronger safeguard is methodological plurality: different signals, different investigators, explicit rival explanations, and records that allow a later reviewer to reconstruct the inference.
+
+Democratic counterintelligence should be judged not by how many operations it names but by how reliably its findings survive challenge. A system that occasionally says “we do not know” can be stronger than one that is never publicly uncertain.
+
+That restraint is not passivity. It is what keeps the machinery of defense from acquiring the epistemic habits of the thing it is trying to defeat.
+
+There is a final institutional advantage to this slower standard: it protects future cooperation. Platforms, researchers, journalists, courts, and public agencies will share sensitive evidence only if they believe the receiving institutions distinguish allegation from finding. A system that repeatedly overstates weak cases teaches partners to withhold data and teaches citizens to discount warnings.
+
+Credibility is therefore a counterintelligence resource. It accumulates when institutions publish evidence proportionate to their claims, admit when the record is incomplete, and correct themselves without pretending the earlier certainty never existed.
+
+An adversary can exploit that restraint in the short run by shouting faster. The defense should accept some of that disadvantage. The alternative is to win the tempo by borrowing the adversary's standard of proof.
+
+Democracy cannot make every attribution immediate. It can make important attributions durable.
+
 There is no defeating the machine.
 
 The underlying capabilities are useful. Personalization will remain. Generative models will improve. Synthetic media will become ordinary. assistants will gain memory. recommendation will become more adaptive. political actors will use every available communications technology because political actors always have.
