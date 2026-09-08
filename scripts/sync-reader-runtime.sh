@@ -68,6 +68,45 @@ while IFS= read -r relative; do
   fi
 done < "$manifest_tmp"
 
+# A successful sync must also make the Desk-owned shell use the local runtime it
+# just verified. Keep this deliberately narrow: rewrite only HTML href/src
+# attributes under the canonical Bookself Reader runtime prefix and the one
+# temporary canonicalAppUrl assignment. No module bodies or import specifiers are
+# rewritten.
+python3 - "$candidate" <<'PY'
+from pathlib import Path
+import sys
+
+reader = Path(sys.argv[1])
+prefix = "https://svyable.github.io/bookself/reader/"
+index_path = reader / "index.html"
+loader_path = reader / "js/app-loader.js"
+
+if not index_path.exists():
+    raise SystemExit("Desk Reader local cutover failed: reader/index.html not found")
+if not loader_path.exists():
+    raise SystemExit("Desk Reader local cutover failed: reader/js/app-loader.js not found")
+
+index = index_path.read_text(encoding="utf-8")
+for attribute in ('href="', 'src="'):
+    index = index.replace(attribute + prefix, attribute)
+index_path.write_text(index, encoding="utf-8")
+
+loader = loader_path.read_text(encoding="utf-8")
+remote_app = "const canonicalAppUrl = 'https://svyable.github.io/bookself/reader/js/app.js?v=r4';"
+local_app = "const canonicalAppUrl = new URL('./app.js', import.meta.url).href;"
+if remote_app in loader:
+    loader = loader.replace(remote_app, local_app, 1)
+loader_path.write_text(loader, encoding="utf-8")
+
+for path in (index_path, loader_path):
+    source = path.read_text(encoding="utf-8")
+    for runtime in ("js/", "css/", "vendor/"):
+        remote = prefix + runtime
+        if remote in source:
+            raise SystemExit(f"Desk Reader local cutover failed: remote Bookself runtime remains in {path}: {remote}")
+PY
+
 # Offline/PWA correctness is part of the sync contract, not a later browser
 # surprise. Verify every service-worker shell entry against the complete
 # candidate Reader (canonical runtime plus preserved Desk shell) and stamp the
@@ -128,24 +167,28 @@ version_path.write_text(
 PY
 
 # Candidate verification succeeded. Replace only the runtime-bearing trees and
-# worker, then publish ownership/version metadata last. The candidate already
-# contains Desk-only adapters copied from the current Reader.
+# worker, then publish ownership/version metadata last. reader/index.html remains
+# Desk-owned, but its verified local-runtime cutover is promoted atomically with
+# the runtime so the shell can never point at files that failed verification.
 rm -rf "$READER/js" "$READER/css" "$READER/vendor"
 mkdir -p "$READER"
 cp -R "$candidate/js" "$READER/js"
 cp -R "$candidate/css" "$READER/css"
 cp -R "$candidate/vendor" "$READER/vendor"
 cp "$candidate/sw.js" "$READER/sw.js"
+cp "$candidate/index.html" "$READER/index.html"
 cp "$manifest_tmp" "$MANIFEST"
 cp "$offline_version_tmp" "$OFFLINE_VERSION"
 
 cat <<EOF
 Synced and verified canonical Bookself Reader runtime -> $READER/
 Recorded exact Bookself-owned runtime files in reader/.bookself-runtime-files.
+Cut Desk-owned reader/index.html and app-loader.js over to the verified local
+Bookself runtime; no Bookself Pages js/css/vendor dependency remains there.
 Verified the local offline shell and recorded its cache generation in
 reader/.bookself-offline-version.
-Preserved Desk-owned reader/index.html, manifest.webmanifest, app-icon.svg,
-and Desk-only js/css overlay files.
+Preserved Desk-owned manifest.webmanifest, app-icon.svg, and Desk-only js/css
+overlay files.
 A failed upstream verification leaves the live Reader runtime unchanged.
 No books, catalog data, release state, or hosted CI are involved.
 EOF
