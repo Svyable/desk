@@ -248,6 +248,120 @@ The content is only the visible surface.
 
 The audience model is the machinery underneath.
 
+There is another complication that becomes obvious once the audience is treated as a living model rather than a file.
+
+A useful model can be narrow.
+
+It does not have to understand your politics. It can be excellent at one local prediction and terrible at almost everything else. A system might have no reliable idea whether you are conservative, progressive, religious, cynical, altruistic, status-conscious, or unusually independent. It may still learn that you linger longer on stories framed around institutional betrayal than stories framed around ideological conflict. That one regularity can be enough to change what comes next.
+
+This makes model quality difficult to debate in ordinary language.
+
+When someone asks, “Does the platform really know me?” the truthful answer may be no.
+
+When they ask, “Does the platform know enough to rank one message above another?” the answer can be yes at the same time.
+
+Those are not contradictory statements.
+
+A prediction system can be locally useful and globally ignorant.
+
+That distinction matters because public arguments about profiling often become theatrical contests over whether a machine has discovered a person's “true personality.” If the model guesses your personality incorrectly, critics conclude the surveillance is overrated. If it predicts one purchase or click, vendors describe the system as uncannily intelligent. Both descriptions are too grand.
+
+The consequential middle is more mundane.
+
+The system can be wrong about who you are and right about which button you are likely to press.
+
+The model can also decay.
+
+People change jobs, leave relationships, move cities, become parents, lose parents, recover from illness, acquire debt, repay debt, change parties, stop caring about an issue, discover a new one, or simply get bored. A model trained on yesterday's behavior is therefore always carrying some amount of stale selfhood forward.
+
+This is not merely a technical inconvenience.
+
+It creates political consequences.
+
+Suppose a person spends two months reading obsessively about a zoning fight because a proposed building is next to their home. The fight ends. Years later, a political system still classifies land-use conflict as a high-salience path into that person's attention. The model has remembered an emergency after the person has moved on.
+
+Or the reverse happens.
+
+A person changes substantially but the model updates faster than the institutions around them. Their friends still think of them one way. Their party still mails them the old message. Their newspaper still places them in the old demographic bucket. The platform has already learned that a different issue holds them now.
+
+The most current model can become the most powerful interpreter of a person even when that interpretation remains partial.
+
+That should make us wary of treating “accuracy” as a single score.
+
+Accurate for what?
+
+Accurate for how long?
+
+Accurate compared with which alternative?
+
+Accurate enough to make which decision?
+
+A system that is mediocre at predicting ideology may be excellent at detecting temporary attention. A model that is poor at predicting a vote may be good at predicting whether a person will open another message. A profile that cannot explain someone's beliefs may still identify which messenger they are least likely to dismiss immediately.
+
+Persuasion systems care about the decision margin in front of them, not the philosophical completeness of the portrait.
+
+This creates a second hidden asymmetry.
+
+The person may not know which version of themselves the system is using.
+
+Maybe it is the long-term profile.
+
+Maybe it is the last twenty minutes.
+
+Maybe it is a household model.
+
+Maybe it is a similarity cluster built from people the target has never met.
+
+Maybe the decisive feature is not personal at all but contextual: time of day, device, location, recent news, or the behavior of a crowd.
+
+The word “personalization” can therefore be misleading. Sometimes the system is not tailoring a message to a deep personal identity. It is tailoring to a temporary state.
+
+A temporary state can be more exploitable precisely because it passes.
+
+A person in ordinary life has time to become someone else before the world fully updates its picture of them. Computational systems shorten that grace period.
+
+There is also the possibility of resistance.
+
+People can learn that models exist and change how they behave around them. They can refuse personalization. They can reset history. They can give misleading preferences. They can separate contexts. They can use privacy tools. They can deliberately seek opposing arguments. They can ask an assistant why a recommendation appeared. They can decide that an uncannily tailored appeal deserves less trust, not more.
+
+The modeled audience is not passive raw material.
+
+That matters because a prediction system changes the environment it predicts.
+
+If people know they are being profiled, some will alter their behavior. If a platform becomes famous for political manipulation, signals that once indicated trust may begin to indicate suspicion. If synthetic personalization becomes common, generic messages may acquire a new credibility simply because they feel less engineered.
+
+Optimization creates counter-optimization.
+
+This is another reason the book does not require the Deceptatron to become omniscient. A system can gain power while generating its own resistance. The important institutional question is whether the target can see enough of the modeling relationship to resist deliberately rather than only by accident.
+
+A meaningful right to inspect a model would not require exposing a billion numbers.
+
+That would be technically honest and practically useless.
+
+The useful questions are simpler.
+
+What kinds of information influenced this recommendation?
+
+Was private assistant memory involved?
+
+Was a political sponsor allowed to optimize against inferred vulnerability?
+
+How long will this inference persist?
+
+Can I reset it?
+
+Can I tell the system that the inference is wrong?
+
+Can I ask for a version that does not use political personalization at all?
+
+These are control questions rather than disclosure theater.
+
+They recognize that the user does not need to understand the entire model in order to govern the relationship.
+
+The system already acts on simplified representations of the person.
+
+Democratic accountability may require simplified representations of the system in return.
+
 By the 2030s, that machinery may become more valuable than the media itself.
 
 Synthetic video will commoditize. Text generation will be abundant. Voice cloning will spread. Images will be cheap. Anyone with access to capable models will be able to produce attractive persuasive material.
