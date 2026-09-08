@@ -304,40 +304,42 @@ compare("llms.txt book catalog", book_dirs, public_readme_slugs(llms_books))
 sitemap_text = SITEMAP.read_text(encoding="utf-8")
 compare("sitemap book catalog", book_dirs, public_readme_slugs(sitemap_text))
 
-loader_text = LOADER.read_text(encoding="utf-8")
-audit_match = re.search(
-    r"const\s+DESK_CATALOG_AUDIT\s*=\s*Object\.freeze\(\[(?P<body>.*?)\]\);",
-    loader_text,
-    flags=re.DOTALL,
+# Reader compatibility now means a boring local Bookself runtime plus small
+# Desk-owned adapters. Keep the integrity gate aligned with that architecture:
+# personal Shelf may be a navigation destination but never a runtime provider,
+# and the retired source-rewrite/catalog-audit bootstrap must not return.
+reader_boundary_check = subprocess.run(
+    [sys.executable, str(ROOT / "scripts" / "check-reader-runtime-boundary.py"), str(ROOT)],
+    check=False,
+    capture_output=True,
+    text=True,
 )
-expected_catalog_audit = [
-    "catalogEntryVisible",
-    "window.__IMPRINT?.role",
-    "Shared Reader is missing role-aware Desk catalog visibility",
-]
-if not audit_match:
-    fail("Reader loader is missing DESK_CATALOG_AUDIT")
-else:
-    catalog_audit = re.findall(r"['\"]([^'\"]+)['\"]", audit_match.group("body"))
-    if catalog_audit != expected_catalog_audit:
-        fail(
-            "Reader loader DESK_CATALOG_AUDIT does not match the shared role-aware catalog contract"
-        )
+if reader_boundary_check.returncode:
+    fail(
+        "Desk Reader runtime boundary failed: "
+        + (reader_boundary_check.stdout.strip() or reader_boundary_check.stderr.strip())
+    )
 
-for required in (
-    r"catalogEntryVisible\(\s*meta\s*,\s*window\.__IMPRINT\?\.role\s*\)",
-    "rewriteSharedModuleSpecifiers(source, upstream)",
-):
-    if required not in loader_text:
-        fail(f"Reader loader is missing active catalog compatibility guard {required!r}")
-
+loader_text = LOADER.read_text(encoding="utf-8")
 for retired in (
-    r"meta\.published",
-    "window.__IMPRINT?.role === 'desk'",
-    "Expected one shared Reader catalog gate",
+    "DESK_CATALOG_AUDIT",
+    "rewriteSharedModuleSpecifiers",
+    "catalogEntryVisible(",
+    "URL.createObjectURL",
+    "new Blob(",
 ):
     if retired in loader_text:
-        fail(f"Reader loader still carries retired catalog compatibility marker {retired!r}")
+        fail(f"Reader loader still carries retired compatibility indirection {retired!r}")
+
+# Until the complete canonical runtime is checked in, app.js may still come
+# directly from Bookself Pages. The sync contract replaces this exact temporary
+# boundary with a local URL; either state is valid, Shelf is never valid.
+app_boundaries = (
+    "const canonicalAppUrl = 'https://svyable.github.io/bookself/reader/js/app.js?v=r4';",
+    "const canonicalAppUrl = new URL('./app.js', import.meta.url).href;",
+)
+if not any(boundary in loader_text for boundary in app_boundaries):
+    fail("Reader loader is missing the canonical Bookself app.js boundary")
 
 ledger_count = 0
 source_count = 0
