@@ -4,19 +4,19 @@ import {
   installDeskRuntimeBridge,
 } from './desk-runtime-bridge.js';
 
-const localAppUrl = './js/app.js';
+const localAppUrl = new URL('./app.js', import.meta.url).href;
 const canonicalReader = 'https://svyable.github.io/bookself/reader/js/';
 const canonicalAppUrl = `${canonicalReader}app.js?v=r4`;
 const viewportStabilityUrl = `${canonicalReader}viewport-stability-runtime.js?v=r1`;
 const nativeShareUrl = `${canonicalReader}native-share.js`;
-const libraryHomeUrl = '../css/desk-library-home.css?v=bookself-20260904';
-const bookOpeningHandoffUrl = '../css/desk-book-opening-handoff.css?v=bookself-20260906';
+const libraryHomeUrl = new URL('../css/desk-library-home.css?v=bookself-20260904', import.meta.url).href;
+const bookOpeningHandoffUrl = new URL('../css/desk-book-opening-handoff.css?v=bookself-20260906', import.meta.url).href;
 
 async function acquireReaderApp() {
   let localError = null;
   try {
     await fetchBootstrapResource(localAppUrl, { retryDelays: [] });
-    return { local: true, url: './app.js' };
+    return { local: true, url: localAppUrl };
   } catch (error) {
     localError = error;
   }
