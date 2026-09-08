@@ -1,3 +1,4 @@
+js/native-share.js
 js/offline-cache.js
 js/offline-fetch-policy.js
 js/offline-shell-install.js
