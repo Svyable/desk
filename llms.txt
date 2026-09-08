@@ -46,6 +46,7 @@ The canonical title, author, drafting status, chapter count, and manuscript cont
 - [Fiscal Wall](https://svyable.github.io/desk/books/fiscal-wall/README.md)
 - [Gatekeepers](https://svyable.github.io/desk/books/gatekeepers/README.md)
 - [Gradient Ascent](https://svyable.github.io/desk/books/gradient-ascent/README.md)
+- [The Gradient Universe](https://svyable.github.io/desk/books/the-gradient-universe/README.md)
 - [Hallucinations](https://svyable.github.io/desk/books/hallucinations/README.md)
 - [Imenent](https://svyable.github.io/desk/books/imenent/README.md)
 - [Intelligence State](https://svyable.github.io/desk/books/intelligence-state/README.md)
