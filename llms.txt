@@ -111,6 +111,7 @@ The canonical title, author, drafting status, chapter count, and manuscript cont
 - [The Orphan Age](https://svyable.github.io/desk/books/the-orphan-age/README.md)
 - [The Other 250](https://svyable.github.io/desk/books/the-other-250/README.md)
 - [The Potentiality](https://svyable.github.io/desk/books/the-potentiality/README.md)
+- [The Preferred Partition](https://svyable.github.io/desk/books/the-preferred-partition/README.md)
 - [The Reliability Tax](https://svyable.github.io/desk/books/the-reliability-tax/README.md)
 - [The Republic in Motion](https://svyable.github.io/desk/books/the-republic-in-motion/README.md)
 - [The Retry Generation](https://svyable.github.io/desk/books/the-retry-generation/README.md)
