@@ -1,34 +1,16 @@
 # Reputation for Robots
 
-A brand is a memory in somebody else's head.
+A brand is a memory in somebody else's head. A reputation is a pattern in somebody else's evidence.
 
-A reputation is a pattern in somebody else's evidence.
+For most of commercial history, the somebody was human. You bought the soap because your mother bought it. You chose the restaurant because three friends liked it. You hired the contractor because a neighbor trusted him. You recognized the logo. You remembered the advertisement. You saw a line outside the store.
 
-For most of commercial history, the somebody was human.
+Digital systems turned some of that memory into data. Reviews. Ratings. verified purchases. Return rates. Delivery histories. seller standing. product identifiers. certifications. warranty terms. complaint records. structured attributes. account age. provenance. The reputation acquired fields.
 
-You bought the soap because your mother bought it. You chose the restaurant because three friends liked it. You hired the contractor because a neighbor trusted him. You recognized the logo. You remembered the advertisement. You saw a line outside the store.
+Agents make those fields more important because a machine can inspect them before a person sees the option. This does not create a universal robot reputation score. No such single measure exists, and it would be undesirable to pretend that every form of trust can be collapsed into one. The emerging reality is messier and more useful.
 
-Digital systems turned some of that memory into data.
+Machines can assemble trust from multiple pieces of evidence appropriate to a task. A shopping agent deciding whether to recommend a laptop cares about different evidence from a hiring system evaluating a candidate, a payment provider detecting fraud, or a news assistant deciding whether to cite a source. Reputation becomes contextual computation.
 
-Reviews. Ratings. verified purchases. Return rates. Delivery histories. seller standing. product identifiers. certifications. warranty terms. complaint records. structured attributes. account age. provenance.
-
-The reputation acquired fields.
-
-Agents make those fields more important because a machine can inspect them before a person sees the option.
-
-This does not create a universal robot reputation score. No such single measure exists, and it would be undesirable to pretend that every form of trust can be collapsed into one.
-
-The emerging reality is messier and more useful.
-
-Machines can assemble trust from multiple pieces of evidence appropriate to a task.
-
-A shopping agent deciding whether to recommend a laptop cares about different evidence from a hiring system evaluating a candidate, a payment provider detecting fraud, or a news assistant deciding whether to cite a source.
-
-Reputation becomes contextual computation.
-
-The strategic consequence is that organizations need to understand which facts are machine-verifiable.
-
-Consider a product.
+The strategic consequence is that organizations need to understand which facts are machine-verifiable. Consider a product.
 
 A human shopper sees a photograph and a brand name. A commerce system may see a global trade item number, manufacturer part number, category, dimensions, color, material, price, inventory, shipping region, return window, seller identity, review history, and structured claims.
 

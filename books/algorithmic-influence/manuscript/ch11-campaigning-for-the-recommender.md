@@ -1,16 +1,10 @@
 # Campaigning for the Recommender
 
-A campaign speech used to have an obvious audience.
+A campaign speech used to have an obvious audience. The people in the room mattered. The cameras mattered because television would carry parts of the speech elsewhere. Reporters mattered because tomorrow's stories might decide which lines survived. Party officials mattered. Donors mattered. Opponents mattered.
 
-The people in the room mattered. The cameras mattered because television would carry parts of the speech elsewhere. Reporters mattered because tomorrow's stories might decide which lines survived. Party officials mattered. Donors mattered. Opponents mattered.
+The speaker was already addressing several audiences at once. Social media added another.
 
-The speaker was already addressing several audiences at once.
-
-Social media added another.
-
-A sentence can now be written partly for the voter who hears it and partly for the distribution system that decides whether millions of other voters will encounter it at all.
-
-This does not make modern politics uniquely artificial. Political communication has always adapted to media. Radio rewarded the voice. Television rewarded the face. The thirty-second advertisement created its own grammar. Cable news rewarded confrontation. Campaigns learned the evening news cutoff, the newspaper deadline, the direct-mail envelope, the fundraising subject line.
+A sentence can now be written partly for the voter who hears it and partly for the distribution system that decides whether millions of other voters will encounter it at all. This does not make modern politics uniquely artificial. Political communication has always adapted to media. Radio rewarded the voice. Television rewarded the face. The thirty-second advertisement created its own grammar. Cable news rewarded confrontation. Campaigns learned the evening news cutoff, the newspaper deadline, the direct-mail envelope, the fundraising subject line.
 
 Media shape messages because messages have to survive media.
 
@@ -18,9 +12,7 @@ Algorithmic feeds intensify the old relationship by making distribution personal
 
 A campaign can publish a clip and watch where it travels. Supporters can recut it. Opponents can quote it. Influencers can react. The platform can recommend any of those versions to people who do not follow the original account. Comments, shares, watch behavior, searches, and social connections generate more evidence about where the material resonates.
 
-The political message becomes an input to a learning system.
-
-The campaign learns too.
+The political message becomes an input to a learning system. The campaign learns too.
 
 A clip that spreads widely becomes evidence about form and topic. Staff make more clips. Consultants inspect retention and engagement. Candidates learn which lines reliably produce shareable moments. Journalists learn what generates discussion. Activists learn which frames travel. Opponents learn which statements can be amplified against the speaker.
 
@@ -36,13 +28,9 @@ One of the largest research collaborations on social-media feeds did exactly tha
 
 Researchers working with Meta studied what happened when consenting Facebook and Instagram users were assigned to reverse chronological feeds rather than the ordinary algorithmically ranked experience. The intervention produced meaningful changes in exposure and in some aspects of platform use. Users saw different mixes of content. They spent less time on the platforms under chronological feeds.
 
-Yet the study did not find statistically significant changes in several measured political attitudes, including political knowledge, polarization, and related outcomes examined by the researchers.
+Yet the study did not find statistically significant changes in several measured political attitudes, including political knowledge, polarization, and related outcomes examined by the researchers. This result frustrated anyone hoping for a simple story.
 
-This result frustrated anyone hoping for a simple story.
-
-The feed mattered.
-
-The measured beliefs largely did not move with it.
+The feed mattered. The measured beliefs largely did not move with it.
 
 A later field experiment on X produced a different result. In work published in Nature in 2026, researchers studied users during a seven-week period in 2023 and found that enabling X's algorithmic feed changed political content exposure and shifted some measured political opinions in a conservative direction relative to a chronological condition. The same study did not show that every attitude moved or that the effect should be generalized indefinitely across platforms and elections.
 
@@ -52,13 +40,9 @@ They make it harder to say “algorithms don't affect politics.”
 
 They also make it harder to say “algorithms program voters.”
 
-A recommendation system can have strong allocation power and variable persuasion power.
+A recommendation system can have strong allocation power and variable persuasion power. That distinction should be written above every argument about algorithmic politics.
 
-That distinction should be written above every argument about algorithmic politics.
-
-Allocation power is already consequential.
-
-Politics depends on attention before it depends on agreement. A candidate who never reaches a voter cannot persuade that voter. An issue that never enters a person's information environment cannot become salient through that channel. A rumor repeatedly surfaced may matter even if most people reject it because journalists, officials, and opponents are forced to respond.
+Allocation power is already consequential. Politics depends on attention before it depends on agreement. A candidate who never reaches a voter cannot persuade that voter. An issue that never enters a person's information environment cannot become salient through that channel. A rumor repeatedly surfaced may matter even if most people reject it because journalists, officials, and opponents are forced to respond.
 
 The feed shapes the agenda of possible persuasion.
 

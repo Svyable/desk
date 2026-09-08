@@ -4,17 +4,13 @@ In the early web, a page could exist without being found.
 
 That sounds obvious now, but it changed the meaning of publishing. Printing had always required distribution. A book needed a store, a library, a catalog, a review, a recommendation, a table near the front, a person who knew its title. The web appeared to abolish much of that machinery. Anyone could put a page online. The cost of making a copy approached zero. Distance barely mattered.
 
-Then the number of pages became the problem.
-
-The web did not eliminate distribution. It turned distribution into retrieval.
+Then the number of pages became the problem. The web did not eliminate distribution. It turned distribution into retrieval.
 
 By the late 1990s, search engines were trying to answer a question that would become one of the governing questions of digital life: when there are far more possible things than a person can inspect, which few should appear first?
 
 Sergey Brin and Larry Page's 1998 paper on Google described a large-scale search engine built around the insight that links could carry information about importance. PageRank treated the web's linking structure as evidence. A link from one page to another was not merely a path; in aggregate, it could function as a kind of vote, weighted by the importance of the page casting it. Google also used text, anchors, proximity, and other signals. The system was never just PageRank, and modern search is vastly more complicated. But the central design move mattered culturally as much as technically.
 
-A machine began evaluating not only what a page said but how the rest of the web related to it.
-
-Publishers adapted.
+A machine began evaluating not only what a page said but how the rest of the web related to it. Publishers adapted.
 
 Some adaptations were almost embarrassingly wholesome. Give a page a descriptive title. Use language that tells readers what the page is about. Make navigation understandable. Avoid hiding important information inside formats a crawler cannot interpret. Link sensibly. Keep the site available. These are not tricks. They are ways of making a human publication legible to software that helps humans find it.
 
@@ -34,11 +30,7 @@ There is a habit in discussions of algorithmic systems to place purity on one si
 
 That position collapses under ordinary experience.
 
-A librarian needs metadata. A catalog needs a title and author. A newspaper needs a headline. A database needs fields. A restaurant needs an address that a map can parse. A screen reader needs structure. A search engine cannot directly absorb the total meaning of a business, a medical practice, a recipe, a legal opinion, or a poem. Information has to acquire a form through which systems can handle it.
-
-Making something legible is not the same as making it fraudulent.
-
-The trouble begins because legibility affects selection.
+A librarian needs metadata. A catalog needs a title and author. A newspaper needs a headline. A database needs fields. A restaurant needs an address that a map can parse. A screen reader needs structure. A search engine cannot directly absorb the total meaning of a business, a medical practice, a recipe, a legal opinion, or a poem. Information has to acquire a form through which systems can handle it. Making something legible is not the same as making it fraudulent, but legibility affects selection.
 
 Once a publisher knows that a field, phrase, link, structure, speed, or markup can influence discovery, the field becomes part of the publishing decision. It may still serve the human reader. It may serve both audiences at once. Or it may begin to exist principally because the machine expects it.
 
@@ -104,23 +96,15 @@ The tactics change because the systems change. The shape remains.
 
 Consider the history of links. In the early PageRank intuition, links carried information because making a link was a meaningful act. As publishers learned that links affected ranking, a market emerged for producing links. Once the signal could be purchased or manufactured at scale, the meaning of a link became noisier. Search systems developed methods to discount manipulative patterns. Publishers found new ones. The arms race was not a side effect of ranking. It followed from the fact that ranking distributed something valuable.
 
-Any system that turns a measurable signal into access creates an incentive to produce the signal.
+Any system that turns a measurable signal into access creates an incentive to produce the signal. That sentence can sound cynical, but it is not universally bad.
 
-That sentence can sound cynical, but it is not universally bad.
+If a marketplace ranks sellers partly on reliable shipping, sellers have an incentive to ship reliably. If a search engine rewards fast, secure, accessible sites, publishers may improve them. If a hiring system values demonstrable experience, applicants may make experience clearer. If a recommender demotes obvious spam, creators may produce less spam. Incentives themselves are not the problem.
 
-If a marketplace ranks sellers partly on reliable shipping, sellers have an incentive to ship reliably. If a search engine rewards fast, secure, accessible sites, publishers may improve them. If a hiring system values demonstrable experience, applicants may make experience clearer. If a recommender demotes obvious spam, creators may produce less spam.
-
-The problem is not that incentives exist.
-
-The problem is that the signal and the thing we actually value can separate.
-
-A search engine can measure the presence of useful-seeming structure more easily than whether the reader's life improved. A platform can count a click more easily than regret. A manager can count completed tasks more easily than quiet prevention. A hiring model can parse a credential more easily than practical judgment. A shopping agent can compare a return window more easily than the feeling of using a well-designed object every day.
+The signal and the thing we actually value can separate. A search engine can measure the presence of useful-seeming structure more easily than whether the reader's life improved. A platform can count a click more easily than regret. A manager can count completed tasks more easily than quiet prevention. A hiring model can parse a credential more easily than practical judgment. A shopping agent can compare a return window more easily than the feeling of using a well-designed object every day.
 
 When selection matters, people gradually orient toward what selection can observe.
 
-Search gave the web decades to practice this.
-
-It also demonstrated that the effect runs deeper than individual pages. Industries restructure around discoverability.
+Search gave the web decades to practice this. It also demonstrated that the effect runs deeper than individual pages. Industries restructure around discoverability.
 
 Travel publishers create pages for specific routes, seasons, neighborhoods, and questions because search demand is visible. Retailers create category structures that align with query language. Newsrooms watch search trends. Recipe sites standardize formats. Service businesses solicit reviews because local ranking and consumer trust reinforce each other. Product makers learn that the words used in a listing can affect whether a shopper finds the product at all.
 
@@ -150,9 +134,7 @@ The word optimization can make the process sound cleaner than it is. Real publis
 
 A useful page may lose traffic after an update. A manipulative page may rank for months. A technical problem may make a strong site invisible. A new competitor may simply be better. Search demand itself may shift. A query may be absorbed into the interface so that fewer people click any result. A publisher can do everything recommended and still fail because ranking is relative.
 
-This last point is crucial.
-
-Algorithmic systems often create competitions without fixed passing scores.
+This last point is crucial. Algorithmic systems often create competitions without fixed passing scores.
 
 There is no universal number of good links that guarantees first position. There is no amount of watch time that guarantees distribution. There is no résumé format that guarantees an interview. There is no seller rating that guarantees the buy box. You are evaluated in a changing field containing other people who are also adapting.
 

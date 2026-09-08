@@ -1,18 +1,12 @@
 # Your Customer Has an Agent
 
-The salesperson has spent centuries learning how to read a customer.
+The salesperson has spent centuries learning how to read a customer. Is the customer rushed? Price sensitive? Confused? Loyal to a brand? Buying for someone else? Does she care about durability or appearance? Does he need reassurance? Is the hesitation about money, risk, status, or simply too many choices?
 
-Is the customer rushed? Price sensitive? Confused? Loyal to a brand? Buying for someone else? Does she care about durability or appearance? Does he need reassurance? Is the hesitation about money, risk, status, or simply too many choices?
-
-Commerce developed an enormous vocabulary around this human encounter.
-
-Then the customer began sending software.
+Commerce developed an enormous vocabulary around this human encounter. Then the customer began sending software.
 
 At first the software was simple. Price-comparison sites gathered offers. Travel aggregators searched flights. Shopping engines matched product feeds. Browser extensions found coupons. Consumers set alerts for price drops.
 
-The customer was already delegating parts of shopping.
-
-Generative agents expand the delegation from retrieval toward judgment and action.
+The customer was already delegating parts of shopping. Generative agents expand the delegation from retrieval toward judgment and action.
 
 A person can describe a need in ordinary language: find a carry-on that fits these airline dimensions, weighs less than this, arrives before Friday, has a strong warranty, and costs under two hundred dollars. An agent can search, compare, summarize tradeoffs, inspect reviews, and under some systems proceed toward purchase with the user's supervision or authorization.
 

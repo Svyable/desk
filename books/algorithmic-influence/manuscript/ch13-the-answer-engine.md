@@ -1,18 +1,10 @@
 # The Answer Engine
 
-The old contest was to become a destination.
+The old contest was to become a destination. A person typed a query, a search engine returned links, and publishers competed to occupy the few positions most likely to receive a click. The machine decided who entered the consideration set. The human still crossed the final distance by visiting the page. Generative search changes that distance.
 
-A person typed a query, a search engine returned links, and publishers competed to occupy the few positions most likely to receive a click. The machine decided who entered the consideration set. The human still crossed the final distance by visiting the page.
+The system can read sources, synthesize an answer, cite some of them, and satisfy part or all of the user's need without sending the user anywhere. The publisher is no longer competing only to be clicked.
 
-Generative search changes that distance.
-
-The system can read sources, synthesize an answer, cite some of them, and satisfy part or all of the user's need without sending the user anywhere.
-
-The publisher is no longer competing only to be clicked.
-
-The publisher is competing to become part of what the machine knows how to say.
-
-This is a profound change in interface and a more modest change in the underlying economic problem. Search has always mediated discovery. Answer engines move the mediation deeper into the transaction between question and knowledge.
+The publisher is competing to become part of what the machine knows how to say. This is a profound change in interface and a more modest change in the underlying economic problem. Search has always mediated discovery. Answer engines move the mediation deeper into the transaction between question and knowledge.
 
 A ranked list says: here are places that may contain the answer.
 

@@ -1,32 +1,20 @@
 # Synthetic Competition
 
-The cheapest way to change a selection system is to change what it has to select from.
-
-For most of the history of media, production constrained volume.
+The cheapest way to change a selection system is to change what it has to select from. For most of the history of media, production constrained volume.
 
 A newspaper page cost money to print. A television program required cameras, crews, editing, distribution, and a schedule. A record required studio time and physical manufacturing. Even the early web demanded enough human effort to write, design, photograph, record, or code something worth publishing.
 
-The costs fell for decades.
+The costs fell for decades. Generative AI pushed them lower again.
 
-Generative AI pushed them lower again.
+A person can now produce ten headlines where one existed, fifty product descriptions, hundreds of image variants, translated versions of a campaign message, summaries of a long report, synthetic voices, video clips, background music, advertising concepts, replies, posts, and entire websites at a cost that would have seemed absurdly small a few years earlier. The obvious consequence is more content.
 
-A person can now produce ten headlines where one existed, fifty product descriptions, hundreds of image variants, translated versions of a campaign message, summaries of a long report, synthetic voices, video clips, background music, advertising concepts, replies, posts, and entire websites at a cost that would have seemed absurdly small a few years earlier.
-
-The obvious consequence is more content.
-
-The less obvious consequence is more competition for machines.
-
-Human attention did not expand when generation became cheap.
+The less obvious consequence is more competition for machines. Human attention did not expand when generation became cheap.
 
 Every feed, search engine, marketplace, inbox, app store, music service, video platform, and answer system still has to decide what deserves a scarce position in front of a person. When supply expands faster than attention, selection becomes more valuable.
 
-That gives content producers an incentive to optimize production around the selector.
+That gives content producers an incentive to optimize production around the selector. The old creator made a piece and hoped it traveled.
 
-The old creator made a piece and hoped it traveled.
-
-The synthetic creator can make variants and treat distribution as an experiment.
-
-Change the opening. Change the thumbnail. Change the voice. Change the duration. Translate it. Recut it. Generate ten versions. Publish across accounts. Keep what survives.
+The synthetic creator can make variants and treat distribution as an experiment. Change the opening. Change the thumbnail. Change the voice. Change the duration. Translate it. Recut it. Generate ten versions. Publish across accounts. Keep what survives.
 
 Evolutionary language is difficult to avoid because the mechanism genuinely resembles selection among variants.
 

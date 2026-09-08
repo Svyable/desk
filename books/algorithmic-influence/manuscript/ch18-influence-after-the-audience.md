@@ -1,38 +1,22 @@
 # Influence After the Audience
 
-A person wants another person to care.
-
-Everything in this book begins there.
+A person wants another person to care. Everything in this book begins there.
 
 The creator wants someone to watch. The worker wants an institution to recognize good work. The applicant wants an employer to see ability. The merchant wants a customer to choose. The campaign wants a voter to listen. The publisher wants a reader to know. The restaurant wants a guest to arrive.
 
-The machine appears in the middle because there are too many possible people, products, messages, workers, applicants, routes, prices, and claims for humans to inspect directly.
+The machine appears in the middle because there are too many possible people, products, messages, workers, applicants, routes, prices, and claims for humans to inspect directly. Abundance creates selection.
 
-Abundance creates selection.
+Selection creates intermediaries. Intermediaries create incentives.
 
-Selection creates intermediaries.
+People adapt. That is algorithmic influence.
 
-Intermediaries create incentives.
+The phrase can now be stated precisely. Algorithmic influence is the effort, deliberate or incidental, to shape how a consequential computational intermediary represents, ranks, predicts, selects, recommends, prices, allocates, or acts in order to affect an outcome beyond the intermediary itself.
 
-People adapt.
+The important word is beyond. Nobody wants a high search ranking for the spiritual satisfaction of occupying position one. The ranking matters because people click. A creator does not want retention as an abstract number. Retention can produce distribution. A worker does not care about a dashboard because dashboards are beautiful. The score can affect pay or standing. A merchant does not maintain structured product data to please a parser. The data can determine whether a customer sees the product.
 
-That is algorithmic influence.
+The machine audience is instrumental. The human purpose remains.
 
-The phrase can now be stated precisely.
-
-Algorithmic influence is the effort—deliberate or incidental—to shape how a consequential computational intermediary represents, ranks, predicts, selects, recommends, prices, allocates, or acts, in order to affect an outcome beyond the intermediary itself.
-
-The important word is beyond.
-
-Nobody wants a high search ranking for the spiritual satisfaction of occupying position one. The ranking matters because people click. A creator does not want retention as an abstract number. Retention can produce distribution. A worker does not care about a dashboard because dashboards are beautiful. The score can affect pay or standing. A merchant does not maintain structured product data to please a parser. The data can determine whether a customer sees the product.
-
-The machine audience is instrumental.
-
-The human purpose remains.
-
-This is why the book is not an argument that machines have replaced people as the target of persuasion.
-
-They have become another surface through which human purposes travel.
+Machines have not replaced people as the target of persuasion. They have become another surface through which human purposes travel.
 
 Sometimes that surface is thin. A search engine points to a page. Sometimes it is thick. A shopping agent compares, recommends, and transacts. Sometimes the machine acts as a manager. Sometimes it acts as a reputation memory. Sometimes it acts as a price-setting system. Sometimes it synthesizes an answer in its own voice.
 
@@ -146,11 +130,7 @@ Brands will want customers who ask agents for them by name. Creators will want r
 
 The machine intermediary becomes most powerful when nobody cares which intermediary they use.
 
-Loyalty to people and institutions can counterbalance loyalty to systems.
-
-This is not a nostalgic defense of old gatekeepers.
-
-Old gatekeepers were often worse.
+Loyalty to people and institutions can counterbalance loyalty to systems. Old gatekeepers were often worse.
 
 Editors excluded outsiders. Retail shelf space favored incumbents. Human managers played favorites. Bankers discriminated. Political machines controlled access. Personal networks reproduced privilege.
 
@@ -164,13 +144,9 @@ Then it develops its own forms of legibility.
 
 Every gate has a shape.
 
-The goal is not to return to the old gate.
+The goal is not to return to the old gate. It is to prevent the new gate from becoming invisible and absolute.
 
-It is to prevent the new gate from becoming invisible and absolute.
-
-This is the fifth conclusion: the most consequential future skill may be translation between human value and machine evidence.
-
-We have treated this translation as a niche technical job. SEO specialists translated pages for crawlers. data teams translated products into feeds. résumé coaches translated careers into application language.
+This is the fifth conclusion: the most consequential future skill may be translation between human value and machine evidence. We have treated this translation as a niche technical job. SEO specialists translated pages for crawlers. data teams translated products into feeds. résumé coaches translated careers into application language.
 
 As machine intermediaries spread, translation becomes ordinary literacy.
 
@@ -262,9 +238,7 @@ That does not mean every engineer is secretly legislating. It means technical sy
 
 Institutions deserve institutional scrutiny.
 
-The final conclusion is the simplest.
-
-Human influence survives.
+The final conclusion is the simplest. Human influence survives.
 
 A machine can rank a song. It cannot make the listener's grief for the listener. It can recommend a restaurant. It cannot eat dinner with your mother. It can screen an applicant. It cannot fully know what the person will become inside a team. It can summarize an argument. It cannot decide which future you should want without receiving values from somewhere.
 

@@ -1,28 +1,18 @@
 # The Price Looking Back at You
 
-A price used to sit on the object.
+A price used to sit on the object. That is not literally true. Haggling is ancient. Airlines have changed fares by time, route, seat inventory, and demand for decades. Hotels vary rates. Insurance prices risk. Financial markets reprice continuously. Coupons have always divided customers into groups according to who notices them and who bothers to use them.
 
-That is not literally true. Haggling is ancient. Airlines have changed fares by time, route, seat inventory, and demand for decades. Hotels vary rates. Insurance prices risk. Financial markets reprice continuously. Coupons have always divided customers into groups according to who notices them and who bothers to use them.
+But the sticker carried a powerful social intuition: the seller names a price, and buyers decide whether to accept it. Digital markets loosen that intuition.
 
-But the sticker carried a powerful social intuition: the seller names a price, and buyers decide whether to accept it.
+The seller can observe more about the buyer before deciding what to show. A website may know the referring page, approximate location, device, account history, browsing behavior, previous purchases, loyalty status, time of day, and whether the person arrived through an advertisement or direct search. Advertising systems can infer interests and conversion probabilities from enormous data sets. Retailers can segment offers. Platforms can auction attention in milliseconds. Travel systems can respond to changing inventory and demand.
 
-Digital markets loosen that intuition.
-
-The seller can observe more about the buyer before deciding what to show.
-
-A website may know the referring page, approximate location, device, account history, browsing behavior, previous purchases, loyalty status, time of day, and whether the person arrived through an advertisement or direct search. Advertising systems can infer interests and conversion probabilities from enormous data sets. Retailers can segment offers. Platforms can auction attention in milliseconds. Travel systems can respond to changing inventory and demand.
-
-The price begins to look back.
-
-This phrase should not be mistaken for a claim that every person receives a secret individual price calculated from intimate personal data. That would be a better thriller than description of most commerce.
+The price begins to look back. This phrase should not be mistaken for a claim that every person receives a secret individual price calculated from intimate personal data. That would be a better thriller than description of most commerce.
 
 Many markets still use common posted prices. Many forms of personalization affect which promotion, advertisement, ranking, or product is shown rather than changing the nominal price itself. Even when prices vary, the cause may be ordinary dynamic pricing based on supply and demand rather than a model of one individual customer's willingness to pay.
 
 The distinction matters because personalized pricing sits at the intersection of two anxieties that are easy to exaggerate: surveillance and discrimination.
 
-The evidence is already concrete enough without exaggeration.
-
-In January 2025, the U.S. Federal Trade Commission released initial staff findings from what it called a surveillance pricing study. The agency had used compulsory orders to examine firms providing pricing products and services and reported that retailers could use a wide range of personal information, including location, demographics, browsing, shopping history, and other behavioral signals, in pricing and promotional strategies. On August 31, 2026, the FTC sought comment on a draft enforcement policy statement addressing personalized pricing practices.
+The evidence is already concrete enough without exaggeration. In January 2025, the U.S. Federal Trade Commission released initial staff findings from what it called a surveillance pricing study. The agency had used compulsory orders to examine firms providing pricing products and services and reported that retailers could use a wide range of personal information, including location, demographics, browsing, shopping history, and other behavioral signals, in pricing and promotional strategies. On August 31, 2026, the FTC sought comment on a draft enforcement policy statement addressing personalized pricing practices.
 
 Those documents do not establish that every firm uses every type of data or that individualized prices dominate retail.
 
