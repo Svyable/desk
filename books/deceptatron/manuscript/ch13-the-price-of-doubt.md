@@ -379,3 +379,307 @@ It cannot function if every shared mechanism has to prove its existence from zer
 The Deceptatron does not need to replace truth.
 
 It can simply make truth too expensive to use.
+
+The price-of-doubt problem creates a temptation for institutions to overcorrect.
+
+If adversaries exploit uncertainty, institutions may try to sound more certain.
+
+That is usually a mistake.
+
+False confidence provides short-term rhetorical strength and long-term propaganda material.
+
+A public agency says an estimate is definitive because qualifiers feel weak.
+
+A newsroom simplifies an ambiguous event into a clean headline.
+
+A company insists a breach is contained before the investigation is complete.
+
+A campaign treats a preliminary count as settled.
+
+Later, the facts change.
+
+The correction becomes evidence for the operator's larger claim that nothing can be trusted.
+
+Strategic doubt feeds on institutional embarrassment.
+
+The best answer is calibrated confidence.
+
+Say what is known.
+
+Say how it is known.
+
+Say what remains uncertain.
+
+Say what would change the conclusion.
+
+This is not a communication style.
+
+It is an epistemic contract.
+
+A statement with boundaries is harder to weaponize when the boundaries later matter.
+
+Scientific institutions do this imperfectly through confidence intervals, uncertainty ranges, methods, peer review, and replication.
+
+Courts separate allegation, evidence, finding, and judgment.
+
+Good intelligence assessments distinguish confidence from fact.
+
+Newsrooms use attribution and corrections.
+
+These practices can look fussy compared with the certainty of propaganda.
+
+Their slowness is part of their value.
+
+The Deceptatron can generate an endless supply of claims because it does not pay the full cost of being wrong.
+
+Institutions should not compete by lowering their own cost of error.
+
+They should make the difference visible.
+
+This suggests a triage principle for the age of abundant doubt.
+
+Do not answer every question.
+
+Answer the questions that can change the underlying evidence.
+
+A bad-faith actor can ask a hundred variants of “How do you know?”
+
+The institution does not need a hundred bespoke responses if one public record explains the method, source, uncertainty, and revision history.
+
+Build durable answers.
+
+Link back to them.
+
+Update them when evidence changes.
+
+This shifts the defender from reactive rhetoric to infrastructure.
+
+The same principle works for recurring rumors.
+
+A voting authority can maintain a public explanation of counting procedures before election night.
+
+A health agency can publish how guidance changes when evidence changes.
+
+A company can maintain a breach timeline.
+
+A court can publish the actual order.
+
+A scientific body can link the primary study and later replication.
+
+The propagandist wants every controversy to begin at zero.
+
+An archive says we have been here before.
+
+Durable answers reduce the labor asymmetry because one verification artifact can serve many challenges.
+
+They also create accountability for the institution.
+
+If the explanation changes, the public can see how.
+
+The defender pays an upfront cost in documentation and gains resilience later.
+
+The price of doubt rises.
+
+There is also a social cost to fact-checking that deserves attention.
+
+A correction can accidentally amplify the claim it corrects.
+
+A public rebuttal can introduce a rumor to people who had never heard it.
+
+A dramatic “FALSE” label can make the disputed claim the center of attention.
+
+This does not mean corrections should stop.
+
+It means distribution matters.
+
+The response should be proportionate to the reach and consequence of the claim.
+
+A tiny account should not automatically receive a national press conference because it invented something outrageous.
+
+A viral claim affecting public safety may deserve immediate, prominent correction.
+
+Triage requires estimates of reach, not merely offensiveness.
+
+This is another reason platforms and public institutions need channels for sharing aggregate incident information without sharing private user dossiers.
+
+The question is not “Did somebody say something false?”
+
+Somebody always did.
+
+The question is “What is becoming consequential?”
+
+That distinction protects attention.
+
+Attention is the defender's scarce resource too.
+
+The Deceptatron can waste it.
+
+A malicious operation may not need the public to believe a rumor if it can force every newsroom, official, researcher, and institution to spend a day rebutting it.
+
+The attack becomes administrative.
+
+An institution overwhelmed by nonsense becomes slower at answering real questions.
+
+That can create genuine failures, which then supply better propaganda.
+
+This is a denial-of-service attack on verification.
+
+The analogy should not be stretched too far, but it identifies the resource being attacked: institutional attention.
+
+Resilience therefore includes capacity.
+
+Dedicated incident teams.
+
+Clear escalation thresholds.
+
+Shared verification tools.
+
+Primary-source archives.
+
+Preexisting relationships among newsrooms, researchers, platforms, and agencies.
+
+A crisis is the wrong time to exchange business cards.
+
+This kind of preparedness can sound like coordination of narratives, which would be dangerous.
+
+The coordination should be around evidence handling, not political conclusion.
+
+Preserve the original file.
+
+Confirm the official account.
+
+Record the timestamp.
+
+Identify the source.
+
+Publish the document.
+
+Separate what is verified from what is inferred.
+
+Different institutions can still disagree about meaning.
+
+The common protocol reduces duplication and preserves evidence.
+
+That is a democratic answer to doubt because it improves the process without requiring agreement.
+
+There is another boundary worth defending: uncertainty is sometimes the correct result.
+
+Not every disputed question will close.
+
+Historical evidence can remain incomplete.
+
+Attribution can remain probabilistic.
+
+Scientific findings can remain contested.
+
+An election can be close enough that a recount matters.
+
+A military event can be impossible to reconstruct fully in real time.
+
+A mature information system needs a category for unresolved.
+
+Propaganda often exploits the discomfort of that category.
+
+One operator forces certainty where evidence does not support it.
+
+Another uses uncertainty in one question to dissolve confidence in everything else.
+
+The democratic alternative is bounded uncertainty.
+
+We do not know this.
+
+We do know that.
+
+The unknown part does not erase the known part.
+
+This is harder psychologically than a complete story.
+
+It is also harder for a doubt machine to totalize.
+
+The system wants uncertainty to spread.
+
+If one photograph is disputed, perhaps all photographs are fake.
+
+If one official lied, perhaps every record is fabricated.
+
+If one study failed, perhaps science knows nothing.
+
+Boundaries stop the spread.
+
+Which photograph?
+
+Which official?
+
+Which record?
+
+Which study?
+
+What follows from the failure and what does not?
+
+Specificity is not only a fact-checking technique.
+
+It is containment.
+
+The same idea applies to distrust.
+
+Trust should not be binary.
+
+A person can distrust a government's motives and trust that a public PDF is the document the government issued.
+
+They can distrust a newspaper's editorial line and trust a direct quotation after checking the video.
+
+They can distrust a company's marketing and trust an audited financial statement more than an anonymous post.
+
+They can distrust an AI assistant's interpretation while using it to locate the primary record.
+
+Layered trust is more resilient than institutional worship.
+
+It is also more resilient than total cynicism.
+
+The price of doubt falls when society expects one institution to be right about everything.
+
+One failure breaks the whole relationship.
+
+It rises when evidence can be checked across layers.
+
+The goal is not to restore an age when gatekeepers were unquestioned.
+
+That age did not exist as neatly as nostalgia suggests.
+
+The goal is to make skepticism productive again.
+
+A productive skeptic asks what evidence would resolve the question.
+
+A doubt machine asks another question after the evidence arrives.
+
+That difference can become a norm citizens learn to recognize.
+
+What would change your mind?
+
+If the answer is “nothing,” the conversation is no longer an investigation.
+
+It is identity maintenance.
+
+Adaptive systems can be designed to notice the difference in their own behavior.
+
+A user-serving assistant should not generate infinite objections merely because objections are available.
+
+It can identify when a claim has substantial evidence, present the strongest live uncertainties, and stop.
+
+It can say that further speculation is possible but not equally supported.
+
+It can distinguish a plausible alternative from a merely imaginable one.
+
+That is epistemic friction.
+
+The model knows how to continue.
+
+The trusted system sometimes decides that continuing would make the user less informed.
+
+The Deceptatron benefits from endlessness.
+
+Democracy benefits from the ability to close some questions provisionally while keeping the records that allow them to reopen for a reason.
+
+Truth should not have to prove itself from zero each morning.
+
+But it should leave enough of a trail that tomorrow's challenge can begin with evidence rather than faith.
