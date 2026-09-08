@@ -128,15 +128,41 @@ What does the system do when success is impossible under the available informati
 
 A mature role preserves uncertainty.
 
-A rookie often fills it.
+An unqualified role often fills it.
 
 This is not only an AI problem. Human novices do it too. People under evaluation often think asking for help signals weakness. Organizations accidentally train overconfidence by rewarding visible completion.
 
 The principal has to make escalation a passing grade.
 
+This is where technical and nontechnical users can borrow directly from each other.
+
+A programmer may already know how to build a test fixture. The system receives a known input, the expected behavior is encoded, and a regression becomes visible when the output changes. That habit transfers almost perfectly to agent work, except the expected result may be a range of acceptable behavior rather than one exact string.
+
+A restaurant owner may never write a test fixture in code. She can still build the same thing.
+
+Here are ten reservation requests from last year. In six, the ordinary policy applies. In two, the customer is asking for something the restaurant never offers. In one, a regular customer deserves a human call. In one, the request contains an allergy question the agent must never improvise about.
+
+Run the cases.
+
+Did the agent make the correct ordinary decisions?
+
+Did it recognize the cases where “finish the task” was the wrong goal?
+
+That is an eval even if nobody calls it one.
+
+A homeowner can do the same with contractor estimates. A teacher can do it with parent emails. A real-estate agent can do it with inquiries. A developer can do it with bug reports. A family can do it with old travel decisions.
+
+The technology disappears for a moment and the management question becomes clear.
+
+What are the cases that would convince me this role understands the job well enough to receive more authority?
+
+Write those down.
+
+That collection becomes the qualification set.
+
 The fourth ingredient is repetition.
 
-One success is evidence of capability. Ten successes begin to say something about reliability. The required number depends on consequence, variability, and how representative the cases are. There is no universal threshold that turns an agent into a trustworthy adult.
+One success is evidence of capability. Ten successes begin to say something about reliability. The required number depends on consequence, variability, and how representative the cases are. There is no universal threshold that certifies a role for autonomy.
 
 The desire for one is understandable. People want a certification score: ninety-nine percent means autonomous, ninety-five means supervised. But reliability is not a single property of the system. It belongs to the system in a role, with specific tools, data, permissions, and consequences.
 
@@ -164,6 +190,18 @@ If it will receive new information halfway through a task, introduce it.
 
 If it will hand off between tools, test the handoffs.
 
+The difference between a toy eval and a useful qualification is often sequence.
+
+A coding agent that can fix an isolated function may still fail when the job requires understanding a repository, running tests, updating a migration, responding to a failed command, and preserving unrelated changes made by somebody else during the task.
+
+A household agent that can find a flight may still fail when the trip changes after booking, a hotel becomes nonrefundable, a school event moves, and one traveler needs an accessibility accommodation.
+
+The hard part is not always a difficult single decision.
+
+It is maintaining the objective while the world changes around the decision.
+
+That is why the length of the real workflow matters.
+
 The fifth ingredient is change.
 
 A role that passes probation once is not permanently certified.
@@ -172,7 +210,7 @@ The underlying model can change. The system prompt can change. A tool can change
 
 Each meaningful change creates a new version of the role.
 
-Not every version needs a full childhood. That would make adaptation impossible. The point is to rerun the cases most likely to break.
+Not every version needs to repeat the entire apprenticeship. That would make adaptation impossible. The point is to rerun the cases most likely to break.
 
 A good evaluation suite turns probation from an event into a reusable capability.
 
@@ -206,6 +244,20 @@ Keep some examples out of the active training material. Add recent real-world fa
 
 This is ordinary testing hygiene and an important defense against self-congratulation.
 
+It also suggests a practical separation that people outside software can use.
+
+Teaching examples and qualification cases should not be identical forever.
+
+You can show the agent five excellent customer replies to make tone concrete. Then evaluate it on ten different messages whose correct handling depends on the same principles.
+
+You can show a coding agent how your project handles authentication. Then test it on a new feature where authentication appears in a different part of the stack.
+
+You can teach a travel agent that the family avoids short connections. Then qualify it on a trip where the cheapest route contains a technically legal but miserable connection the examples never mentioned.
+
+The role is learning a standard, not memorizing an answer key.
+
+That distinction is simple and surprisingly easy to lose when the same person creates the examples, the tests, and the agent.
+
 The sixth ingredient is consequence weighting.
 
 Not all errors deserve equal weight.
@@ -232,6 +284,24 @@ A mistake that is silent and irreversible can dominate the entire risk profile.
 
 Probation should hunt for the second kind.
 
+A useful qualification record therefore does not need one magic score.
+
+It can be a small table or note that says what the role has actually demonstrated.
+
+Drafting customer replies: reliable on ordinary cases, human review required.
+
+Sending replies: not qualified.
+
+Refunds below the routine threshold: qualified when account identity and policy match, receipt required.
+
+Refunds with fraud flags or legal language: mandatory escalation.
+
+For a coding agent, the same record might say that documentation changes can merge after tests, application code requires review, database migrations require a separate production-safety check, and secrets or infrastructure changes remain outside the role.
+
+This is less elegant than a single autonomy score.
+
+It is more honest.
+
 The seventh ingredient is stopping criteria.
 
 A probation period cannot continue forever. At some point the principal must decide whether the evidence supports more authority, continued supervision, redesign, or abandonment.
@@ -252,7 +322,7 @@ A team that has spent months building an agent will otherwise find a reason ever
 
 There is dignity in a failed pilot.
 
-It can reveal a bad data system, contradictory policy, unclear ownership, or a task whose human judgment remains too difficult to externalize. Those discoveries can improve the organization even when the agent never graduates.
+It can reveal a bad data system, contradictory policy, unclear ownership, or a task whose human judgment remains too difficult to externalize. Those discoveries can improve the organization even when the agent never qualifies for the intended authority.
 
 The agent economy will produce enormous pressure to skip probation because speed itself is part of the competitive story. A rival deploys. A vendor says the feature is production-ready. A manager wants the savings in this quarter. The agent worked in the demo. The old process is expensive.
 
@@ -274,6 +344,6 @@ Use the machine's speed to compress the learning period.
 
 What should not be compressed is the distinction between seeing intelligence and earning trust.
 
-A rookie can be brilliant on day one.
+An agent can be brilliant on day one.
 
 Probation exists to discover what happens on day seventeen, in the wrong case, with the wrong data, after everybody has stopped watching.
