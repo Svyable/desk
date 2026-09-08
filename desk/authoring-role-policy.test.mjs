@@ -13,6 +13,7 @@ const match = (...args) => {
 };
 
 const desk = authoringRolePolicy({ role: 'desk' });
+equal(desk.deskRole, true);
 equal(desk.localDesk, true);
 equal(desk.hideLandingHero, true);
 equal(desk.hidePublishedSummary, true);
@@ -26,11 +27,12 @@ equal(desk.skipLinkLabel, 'Skip to publishing workspace');
 equal(desk.footerText, 'Sven Hardy Benson’s Desk reads repository content only. Manuscript edits still happen through normal Git commits and pull requests.');
 
 const remoteDesk = authoringRolePolicy({ role: 'desk', remoteInspection: true });
+equal(remoteDesk.deskRole, true);
 equal(remoteDesk.localDesk, false);
 equal(remoteDesk.hideLandingHero, false);
-equal(remoteDesk.hidePublishedSummary, false);
-equal(remoteDesk.hidePublishedFilter, false);
-equal(remoteDesk.readySummaryLabel, 'Ready to publish');
+equal(remoteDesk.hidePublishedSummary, true);
+equal(remoteDesk.hidePublishedFilter, true);
+equal(remoteDesk.readySummaryLabel, 'Ready to release');
 equal(remoteDesk.documentTitle, 'Publishing Desk · Bookself');
 equal(remoteDesk.documentDescription, 'A Git-native publishing desk for Bookself authors and editors.');
 equal(remoteDesk.brandEyebrow, 'Bookself');
@@ -39,6 +41,7 @@ equal(remoteDesk.skipLinkLabel, 'Skip to manuscripts');
 match(remoteDesk.footerText, /^Bookself Publishing Desk /);
 
 const shelf = authoringRolePolicy({ role: 'shelf' });
+equal(shelf.deskRole, false);
 equal(shelf.localDesk, false);
 equal(shelf.hidePublishedSummary, false);
 equal(shelf.hidePublishedFilter, false);
@@ -46,6 +49,7 @@ equal(shelf.readySummaryLabel, 'Ready to publish');
 equal(shelf.brandEyebrow, 'Bookself');
 
 const normalized = authoringRolePolicy({ role: ' Desk ' });
+equal(normalized.deskRole, true);
 equal(normalized.localDesk, true);
 equal(normalized.readySummaryLabel, 'Ready to release');
 
@@ -60,6 +64,7 @@ equal(customIdentity.documentDescription, 'Example Working Desk is the local-fir
 match(customIdentity.footerText, /^Example Working Desk reads repository content only\./);
 
 const initialLocal = initialAuthoringRolePolicy();
+equal(initialLocal.deskRole, true);
 equal(initialLocal.localDesk, true);
 equal(initialLocal.hideLandingHero, true);
 equal(initialLocal.hidePublishedSummary, true);
@@ -68,6 +73,7 @@ equal(initialLocal.documentTitle, 'Publishing Desk · Sven Hardy Benson');
 equal(initialLocal.brandEyebrow, 'Sven Hardy Benson');
 
 const initialRemote = initialAuthoringRolePolicy({ remoteInspection: true });
+equal(initialRemote.deskRole, false);
 equal(initialRemote.localDesk, false);
 equal(initialRemote.hideLandingHero, false);
 equal(initialRemote.documentTitle, 'Publishing Desk · Bookself');
@@ -97,6 +103,10 @@ match(boundary, /\.desk-mark/);
 match(boundary, /\.skip-link/);
 match(boundary, /\.desk-footer p/);
 match(boundary, /identity: \{ owner: imprint\.brandOwner \|\| imprint\.owner, name: imprint\.name \}/);
+match(boundary, /async function loadRemoteInspectionRole\(\)/);
+match(boundary, /\/contents\/imprint\.json/);
+match(boundary, /payload\?\.encoding !== 'base64'/);
+match(boundary, /authoringRolePolicy\(\{ role, remoteInspection: true \}\)/);
 
 match(roleCss, /repeat\(3, minmax\(0, 1fr\)\)/);
 match(roleCss, /\.desk-local-workspace #startBookLink\s*\{[^}]*display:\s*none/s);
