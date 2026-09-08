@@ -74,8 +74,7 @@ done < "$manifest_tmp"
 # A successful sync must also make the Desk-owned shell use the local runtime it
 # just verified. Keep this deliberately narrow: rewrite only HTML href/src
 # attributes under the canonical Bookself Reader runtime prefix and the one
-# temporary canonicalAppUrl assignment. No module bodies or import specifiers are
-# rewritten.
+# canonicalAppUrl assignment. No module bodies or import specifiers are rewritten.
 python3 - "$candidate" <<'PY'
 from pathlib import Path
 import sys
@@ -96,10 +95,15 @@ for attribute in ('href="', 'src="'):
 index_path.write_text(index, encoding="utf-8")
 
 loader = loader_path.read_text(encoding="utf-8")
-remote_app = "const canonicalAppUrl = 'https://svyable.github.io/bookself/reader/js/app.js?v=r4';"
+remote_prefix = "const canonicalAppUrl = 'https://svyable.github.io/bookself/reader/js/app.js"
 local_app = "const canonicalAppUrl = new URL('./app.js', import.meta.url).href;"
-if remote_app in loader:
-    loader = loader.replace(remote_app, local_app, 1)
+lines = loader.splitlines()
+matches = [i for i, line in enumerate(lines) if line.startswith(remote_prefix) and line.endswith("';")]
+if len(matches) > 1:
+    raise SystemExit("Desk Reader local cutover failed: multiple canonicalAppUrl assignments found")
+if matches:
+    lines[matches[0]] = local_app
+    loader = "\n".join(lines) + ("\n" if loader.endswith("\n") else "")
 loader_path.write_text(loader, encoding="utf-8")
 
 for path in (index_path, loader_path):
