@@ -46,6 +46,60 @@ The agent may be independent in research, supervised in communication, prohibite
 
 A good promotion changes one part of the map because one part has earned it.
 
+Coders already work with a rough version of this idea whenever a system distinguishes read, write, merge, deploy, administer, and delete. Those are not six intensities of the same permission. They are different powers with different consequences.
+
+The same idea can be translated into ordinary life without technical vocabulary.
+
+A travel agent may search anything, draft itineraries freely, hold a refundable reservation within a stated price limit, but require approval before purchasing a nonrefundable ticket. A household assistant may read a shared calendar, suggest changes, and reschedule a recurring service appointment, while remaining unable to read private messages or move medical appointments. A small-business agent may prepare invoices, send routine reminders, and flag overdue accounts while lacking authority to waive a balance.
+
+This is not one autonomy setting.
+
+It is a collection of verbs.
+
+Read.
+
+Draft.
+
+Recommend.
+
+Reserve.
+
+Send.
+
+Buy.
+
+Move.
+
+Delete.
+
+Publish.
+
+Merge.
+
+Deploy.
+
+Approve.
+
+Delegate.
+
+Each verb can have its own conditions.
+
+This way of thinking is useful because products often bundle permissions according to their interface rather than your actual risk. An integration may ask for “full access” because it is easier to implement. A user may approve it because the setup screen makes the choice feel routine.
+
+The principal's job is to unbundle the question mentally even when the product does not.
+
+What action does the role actually need?
+
+What is the narrowest authority that lets it complete the job?
+
+What additional power would create convenience rather than necessity?
+
+What evidence would justify adding that power later?
+
+For a programmer, this resembles least privilege and staged deployment.
+
+For everyone else, it is the same rule you would use with a new assistant: do not hand over the checkbook because they need to buy stamps.
+
 This also protects against a common cognitive error: generalizing competence.
 
 A person sees the agent perform sophisticated analysis and concludes that simple administrative actions must be safe. But the failure modes differ. The analysis may be easy to review and have no direct consequence. The administrative action may involve identity resolution, permissions, or irreversible state.
@@ -80,7 +134,7 @@ The job changes when the verb changes.
 
 Promotion therefore creates new training needs.
 
-This is why the apprenticeship never ends in a clean ceremony. A mature role can be a rookie at its newest authority.
+This is why the apprenticeship never ends in a clean ceremony. A mature role can be unqualified at its newest authority.
 
 The coding agent may have two years of experience preparing fixes and one week of experience merging them. Treat the new verb accordingly.
 
@@ -105,6 +159,24 @@ The principal can later ask whether the evidence still holds.
 This creates a history of authority rather than a collection of toggles nobody remembers changing.
 
 The practice resembles access governance in security. Privileges are granted for reasons, reviewed, and revoked when no longer necessary. Agent roles add another dimension because behavior as well as organizational need determines the grant.
+
+A programmer can encode some of this mechanically. The agent may only open pull requests on certain repositories. A branch rule may prevent direct merges. A deployment token may exist only in a gated environment. A spending API may enforce a hard amount limit no prompt can override.
+
+A nontechnical user can create equivalent boundaries with ordinary product settings and process design. Use a separate card with a small limit. Give the agent access to a shared email folder rather than the entire mailbox. Require the airline booking to remain a proposed itinerary until approval. Keep the household agent out of children's private accounts. Use a dedicated vendor list rather than giving unrestricted purchasing access.
+
+The strongest boundary is often one the model cannot talk its way around.
+
+This matters because language is flexible.
+
+Permissions should be less flexible than instructions when the consequence is high.
+
+If the rule is “do not spend more than $500,” a hard account limit is stronger than a sentence in a prompt. If the rule is “do not deploy without review,” a branch or deployment gate is stronger than asking the agent to remember. If the rule is “do not send outside the company,” a technical recipient restriction is stronger than a policy paragraph when the platform supports one.
+
+The point is not to eliminate judgment.
+
+It is to reserve judgment for the places where judgment is actually needed.
+
+The machine should not reason its way through a boundary that can be expressed as a simple control.
 
 Promotion should be reversible.
 
@@ -284,7 +356,7 @@ Trust should be allowed to grow.
 
 Otherwise training has no point.
 
-The goal is not to keep every agent in a sandbox forever. A childhood that never ends is another kind of failure. The whole reason to invest in examples, tests, corrections, memory policy, and evaluation is to create dependable autonomy.
+The goal is not to keep every agent in a sandbox forever. An apprenticeship that never reaches useful qualification is another kind of failure. The whole reason to invest in examples, tests, corrections, memory policy, and evaluation is to create dependable autonomy.
 
 The principal must eventually let the system work.
 
