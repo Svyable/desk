@@ -126,6 +126,18 @@ It is institutionally important.
 
 Otherwise the broadest permission in the chain tends to spread.
 
+Coders may recognize the issue as a confused-deputy problem in new clothes. One component has authority because it needs that authority for one purpose. Another actor persuades or causes it to use the authority for a different purpose. The bug is not that the component lacked intelligence. The bug is that authority and intent were allowed to compose badly.
+
+A nontechnical example is just as clear.
+
+A household logistics agent has access to a payment method so it can reorder ordinary supplies. It asks a travel subagent to compare hotel options. The travel role should not inherit purchasing power merely because the parent has it. Researching a hotel and charging a hotel are different verbs.
+
+The principal did not grant the travel worker a card.
+
+The manager should not be able to do so accidentally.
+
+That simple rule scales surprisingly far: a delegate may pass down only the authority the subtask requires, never all the authority the delegate happens to possess.
+
 A second managerial competence is worker selection.
 
 Different agents may be better suited to different tasks. Some are faster or cheaper. Some have stronger tool access. Some have more reliable structured output. Some have access to private data. Some should be kept isolated precisely because of that access.
@@ -276,7 +288,7 @@ Should the manager have caught the result before passing it upward?
 
 The manager's training set should include its management mistakes, not only the worker's technical mistakes.
 
-This is how an agent manager gets a childhood.
+This is how a manager agent goes through apprenticeship.
 
 It begins with low-risk delegation.
 
@@ -291,6 +303,46 @@ It learns when subdelegation needs explicit permission.
 It learns to return receipts and uncertainty with the result.
 
 Only then does the principal widen the complexity of the organization underneath it.
+
+There is a practical way to qualify a manager role that does not require trusting its organizational chart.
+
+Give the same objective to the manager system and to a simpler baseline.
+
+Does the manager actually improve the outcome?
+
+Does parallelism reduce elapsed time enough to justify the extra calls?
+
+Does the reviewer catch failures the worker would otherwise ship?
+
+Does the final synthesis preserve the strongest contrary evidence?
+
+Can the principal trace a claim back through the chain?
+
+Can the manager stop before the budget is exhausted when additional work is unlikely to change the decision?
+
+Can it refuse a decomposition that would destroy a coupled constraint?
+
+These are management evals.
+
+A coder can automate many of them.
+
+A small business can replay a set of historical projects and compare what the system would have delegated. A household can test whether a logistics orchestrator actually reduces coordination rather than producing more notifications. The manager's output is not “I delegated successfully.”
+
+The output is better organized consequence.
+
+The strange result is that some of the most capable agent managers may delegate less.
+
+They recognize that one worker already has the necessary context.
+
+They recognize that a deterministic script is cheaper.
+
+They recognize that the research question will not change the decision.
+
+They recognize that the principal needs to decide the objective before more labor begins.
+
+This is familiar in excellent human managers. They do not prove their value by filling every seat or creating more projects. They protect the organization from work that should not exist.
+
+A manager agent should be allowed to earn the same virtue.
 
 The strange consequence is that humans may soon train agents whose primary job is not producing anything recognizable as work.
 
