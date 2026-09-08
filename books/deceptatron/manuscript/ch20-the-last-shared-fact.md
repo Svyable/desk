@@ -422,6 +422,36 @@ Those questions will arrive before many of the grander philosophical ones.
 
 They are already arriving.
 
+There is also a civic version of the same alignment problem. Institutions have to decide who they are for when accuracy, speed, engagement, security, and political pressure conflict. A newsroom that knows the verification is incomplete but fears losing the audience faces an alignment problem. A platform that knows a sensational frame increases engagement but degrades the user's understanding faces one too. An election office choosing between immediate reassurance and a slower evidence-backed statement is aligning its procedure with a public purpose.
+
+These choices are not solved by better models because the conflict is normative before it is technical.
+
+The promise of automation is that systems can act consistently at scale. The danger is that a badly chosen objective also becomes consistent at scale. That is why institutional design has to precede some forms of optimization rather than merely audit them afterward.
+
+The appropriate objective will rarely be one number. A democratic information system has to tolerate tradeoffs: relevance without invisible steering, personalization without permanent profiling, speed without fabricated certainty, authentication without centralized identity, safety without official truth, memory without freezing the user into an obsolete self.
+
+Those tensions are not engineering defects waiting for a clever metric. They are political values that have to remain visible inside the engineering.
+
+That suggests a final standard for the systems described in this book. A trustworthy system should be able to explain not only what it did, but which competing values constrained what it was allowed to optimize.
+
+Why did it refuse to use a sensitive signal?
+
+Why did it show the sponsor?
+
+Why did it preserve an alternative framing?
+
+Why did it stop remembering?
+
+Why did it wait before acting?
+
+Why was one seemingly effective intervention prohibited?
+
+Those answers reveal whether the system has limits that survive contact with the objective.
+
+The Deceptatron's danger comes partly from the disappearance of such limits. Once persuasion becomes cheap, private, adaptive, and measurable, every unprotected boundary begins to look like unused optimization space.
+
+A democracy needs some boundaries to remain stubbornly inefficient.
+
 The last shared fact is not a particular fact.
 
 It is the fact that there is still a world outside the feed.

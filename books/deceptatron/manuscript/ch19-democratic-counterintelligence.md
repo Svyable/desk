@@ -454,7 +454,23 @@ The Deceptatron wins when manipulation becomes invisible, cumulative, and imposs
 
 Democratic counterintelligence makes the manipulation legible enough that society can respond without handing one institution permanent authority over truth.
 
-That is a less satisfying ending than defeating the machine.
+Recoverability also imposes a discipline on attribution itself. Investigators will sometimes be wrong. Networks that look coordinated may share a meme rather than a controller. Similar wording may come from a common source rather than automation. A burst of activity may be authentic mobilization. The pressure to announce an operation quickly can reproduce the same speed problem the defense is meant to solve.
+
+A mature system needs grades of confidence, competing hypotheses, and a path to correction. “We assess with moderate confidence” should not be bureaucratic camouflage. It should correspond to visible reasons for uncertainty where disclosure is possible.
+
+That creates another reversal test: can the accused challenge the attribution? Not every intelligence judgment can become courtroom discovery, but consequential public findings should have some mechanism for review. Platforms can publish methodology. Researchers can inspect evidence. Courts can examine sanctions or legal consequences. Journalists can test the government's story.
+
+The purpose is not to make attribution toothless. It is to make it survive contact with democratic procedure.
+
+This matters especially when operations mix real and fake participation. A foreign service may seed material that thousands of citizens then share sincerely. Removing the original covert accounts does not erase the domestic belief, and labeling every later participant part of the operation would be false.
+
+Counterintelligence must separate origin, amplification, adoption, and independent continuation.
+
+That sequence can be politically inconvenient. An operation may exploit a real grievance. The fact of foreign amplification does not answer whether the grievance is justified. A government that treats exposure of the operator as resolution of the underlying issue will confuse security with politics.
+
+The healthier response holds both facts at once: the manipulation was real; the dispute remains ours.
+
+That distinction protects citizens from becoming evidence against themselves merely because an adversary noticed the same conflict.
 
 There is no defeating the machine.
 

@@ -434,7 +434,17 @@ These are not sufficient for truth.
 
 They are the materials from which truth can be argued.
 
-That is enough reason to build the infrastructure.
+The institutional question is what happens when those materials disagree. A signed video can conflict with a signed document. Two authenticated officials can issue incompatible accounts. A photograph can be genuine while the timestamp in a surrounding post is wrong. Provenance makes the disagreement sharper, but it does not eliminate adjudication.
+
+That is useful. Narrow disputes are easier to investigate than atmospheric ones. “This file was altered” can be tested differently from “the whole event feels staged.” “This account is controlled by the ministry” is a different claim from “everyone who shares this view is a bot.” Good provenance reduces the number of things that must remain vague.
+
+It also creates a responsibility to preserve negative findings. If investigators determine that a suspicious clip is authentic, that conclusion matters even when it disappoints the people who expected a deepfake. A provenance system used only to confirm suspicions becomes another partisan instrument.
+
+The same applies to platform labels. A label should be corrigible. If an artifact initially lacks credentials and later an original source is recovered, the interface should update. If a signed asset turns out to have a misleading caption, the system should distinguish the caption problem from the file's origin. Trust infrastructure earns legitimacy by surviving inconvenient cases.
+
+This is why provenance needs governance around appeals, revocation, compromise, and error. Keys are lost. Accounts are hacked. certificates are misissued. institutions change hands. A technical system that assumes trusted issuers never fail will eventually convert one failure into a generalized crisis of confidence.
+
+Resilience comes from recoverability: public revocation records, multiple independent attestations, preserved originals, and clear explanations of what changed.
 
 The deepfake era asks whether the picture is real.
 

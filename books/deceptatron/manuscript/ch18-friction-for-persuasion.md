@@ -388,6 +388,22 @@ Behavioral feedback.
 
 These are places where a small amount of friction can alter a large amount of influence.
 
+The difficult institutional work begins after choosing a control point. Friction has to be calibrated, tested, and reversible too. A disclosure rule that users never notice is ceremonial. A warning that appears constantly becomes wallpaper. A rate limit that blocks ordinary organizing but leaves sophisticated operators untouched can make the information environment less fair rather than more.
+
+The useful question is not simply whether a safeguard exists. It is whether the safeguard changes the operator's expected cost without imposing a larger cost on legitimate participation.
+
+That means defenses need measurement. Did stronger sponsor verification reduce covert campaigns? Did a memory reset actually erase political inferences from later recommendations? Did an identity threshold reduce synthetic networks without driving vulnerable speakers away? Did a provenance interface improve source checking or merely increase trust in anything carrying a badge?
+
+Regulation that cannot learn becomes another static target for an adaptive system.
+
+This is the symmetry at the heart of the problem. The persuader learns. The defense has to learn too.
+
+That does not mean government should run continuous secret experiments on citizens. It means institutions should evaluate whether rules work, publish what can be published, revise failures, and preserve enough evidence that outsiders can challenge the evaluation.
+
+Selective friction should therefore come with sunset and review where appropriate. A rule created for one generation of synthetic accounts may become obsolete. A disclosure format may stop being legible. A threshold may be too high or too low. The answer to adaptive propaganda cannot be permanent administrative certainty.
+
+It has to be accountable adaptation.
+
 The objective is not a slower internet.
 
 It is a public sphere in which the easiest path is not always the path that hides the most power.

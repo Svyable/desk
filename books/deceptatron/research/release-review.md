@@ -1,59 +1,62 @@
 # Release review — Deceptatron: Propaganda in the 2030s
 
-Reviewed: 2026-09-06  
-Desk source reviewed: `87d757abcb6351444e3ff546b665cec68bc3ae02`
+Reviewed: 2026-09-08  
+Desk source reviewed: `deceptatron-depth-final-pass` through `4a24be1f27a8db814c151aeb2132dd74d5d5a1d4`
 
 ## Decision
 
 **Remain blocked with precise remediations.**
 
-The manuscript's core factual framing is supportable on the current research packet, and the key contemporary claims checked in this pass remain accurately bounded. The controlling release blocker is substantive manuscript depth, not a missing factual clearance artifact.
+The manuscript's core factual framing remains supportable on the existing research packet, required rights/source-ledger repairs are present, and the bounded depth remediation requested by the prior review has now been carried through the complete numbered manuscript. The controlling remaining gate is mechanical validation on one frozen committed Desk source, not another open-ended editorial or factual-review pass.
 
 ## Factual and research review
 
-The central thesis is deliberately narrower than a claim of AI mind control: adaptive, low-cost, repeated persuasion can change the economics of influence even when individual effects are modest and unstable. The current manuscript and research brief preserve that distinction.
+The central thesis remains deliberately narrower than a claim of AI mind control: adaptive, low-cost, repeated persuasion can change the economics of influence even when individual effects are modest and unstable. The current manuscript preserves that distinction.
 
-Current-source verification in this pass confirmed the principal modern evidence lanes:
+The principal modern evidence lanes previously checked remain controlling:
 
-- Salvi et al. (Nature Human Behaviour, 2025) report that personalized GPT-4 debate produced 81.2% higher odds of greater post-debate agreement than the human-human baseline; among non-ties, personalized GPT-4 was more persuasive 64.4% of the time. The manuscript correctly treats these as controlled short-debate results rather than an 81.2% conversion rate or evidence of durable voting behavior.
-- Bai et al. (Nature Communications, 2025) report three preregistered experiments totaling 4,829 participants. LLM-generated messages shifted policy attitudes relative to neutral controls and were broadly comparable with lay-human persuasive messages. The paper describes the observed effects as small; the manuscript should continue not to generalize them into population-scale political control.
-- Lin et al. (Nature, 2025) report significant candidate-preference effects from AI dialogues in U.S., Canadian, and Polish election contexts and describe the models as persuading largely with relevant facts and evidence rather than exotic psychological tactics. This supports the book's evidence-routing argument while remaining experimental capability evidence, not evidence of a deployed end-to-end covert influence system.
-- The FTC's January 17, 2025 surveillance-pricing findings confirm that granular signals including location, browsing and shopping history, demographics, and interaction behavior can be operationalized for individualized commercial treatment. The manuscript and research packet correctly mark the political analogy as an analogy rather than evidence of political deployment.
-- C2PA Harms Modelling v2.4 explicitly states that valid manifests do not establish truth, that valid manifests can accompany misinformation or disinformation, and that absence of Content Credentials does not mean an asset is untrustworthy. The manuscript's provenance/truth distinction is therefore well grounded.
+- Salvi et al. (Nature Human Behaviour, 2025) support a bounded claim that personal information improved persuasive performance in a controlled short-debate setting; the manuscript does not convert the reported odds ratio into an election-conversion rate or evidence of durable voting behavior.
+- Bai et al. (Nature Communications, 2025) support small policy-attitude effects from LLM-generated messages in preregistered experiments; the manuscript does not generalize those effects into population-scale political control.
+- Lin et al. (Nature, 2025) support candidate-preference effects from AI dialogues across multiple election contexts while remaining experimental capability evidence rather than proof of a deployed covert end-to-end system.
+- The FTC's January 17, 2025 surveillance-pricing findings support the narrower proposition that granular behavioral and contextual signals can be operationalized for individualized commercial treatment; the manuscript continues to mark the political application as an analogy rather than evidence of deployment.
+- C2PA Harms Modelling v2.4 supports the provenance/truth distinction: valid manifests do not establish truth, and missing Content Credentials do not establish falsity.
 
-No reviewed source supports upgrading the thesis to reliable individualized mind control, guaranteed persuasion, population-scale election control, or proof that a complete "Deceptatron" is already operational. Those stronger claims remain excluded.
+No depth pass added a new named empirical result that requires upgrading these factual lanes. The expansions concentrate on institutional consequences, accountability, user control, sequence-level auditing, verification latency, provenance governance, common-reality infrastructure, selective friction, democratic counterintelligence, and the limits that should constrain optimization.
 
-## Package remediations completed in this review pass
+No reviewed source supports reliable individualized mind control, guaranteed persuasion, population-scale election control, or proof that a complete "Deceptatron" is already operational. Those stronger claims remain excluded.
 
-Two straightforward book-local integrity defects were repaired:
+## Package readiness already repaired
 
-1. The README linked rights material that did not exist. `RIGHTS.md` and `rights.json` now use the repository's `bookself-arr-v1` All Rights Reserved profile for this title.
-2. `research/source-ledger.csv` used the pre-canonical claim-oriented column layout and repeated source URLs. It has been migrated to the current `id,year,author_or_institution,title,source_type,book_use,url` schema with one stable row per unique source while retaining the material evidentiary cautions in `book_use`.
+The prior readiness cycle repaired two book-local integrity defects:
 
-## Controlling release blocker: manuscript depth
+1. `RIGHTS.md` and `rights.json` now use the repository's `bookself-arr-v1` All Rights Reserved profile for this title.
+2. `research/source-ledger.csv` uses the canonical `id,year,author_or_institution,title,source_type,book_use,url` schema with stable source rows and material cautions retained in `book_use`.
 
-The reviewed Desk catalog reported **44,716 words across all Markdown files in the Deceptatron book directory**. The repository publication gate requires at least **65,000 words across numbered chapters alone**, with every numbered chapter at least 3,000 words.
+Front matter, back matter, README/TOC, research brief, source ledger, robustness/falsification material, and rights metadata remain part of the canonical package.
 
-Because the 44,716-word catalog count included front matter, back matter, the book README, and research Markdown in addition to numbered chapters, the numbered-chapter corpus on the reviewed source was necessarily below 44,716 words. It therefore missed the 65,000-word chapter-only minimum by **at least 20,285 words**, and the true deficit was larger.
+## Depth remediation completed
 
-This cannot be repaired mechanically or by padding. The manuscript needs substantive deepening across its argument, evidence, countercases, scenes, and institutional consequences. The existing robustness notes already identify appropriate substantive expansion targets.
+The original reviewed catalog snapshot reported 44,716 words across all Markdown files in the book directory, which necessarily placed the numbered-chapter corpus below the repository's 65,000-word chapter-only gate.
 
-## Depth remediation progress
+Substantive remediation has since proceeded across the manuscript rather than by padding:
 
-On 2026-09-07, Desk PR #1395 deepened Chapter 3, **The Audience Becomes a Model**, with **994 exact checker-token words**. The pass stayed inside the chapter's existing evidence boundaries and added four substantive lines of argument rather than filler: locally useful versus globally accurate audience models, model decay and temporary salience, resistance and counter-optimization by modeled users, and practical user controls over model use.
+- PR #1395 deepened Chapter 3, **The Audience Becomes a Model**, adding 994 exact checker-token words around model usefulness versus global accuracy, model decay, resistance/counter-optimization, and user-facing model control.
+- PR #1398 deepened Chapter 4, **The Argument Learns Your Weakness**, around inference error, cheap persistence, user resistance, design controls, adaptation records, and sequence-level accountability.
+- PR #1401 deepened Chapters 1, 2, and 5–13 as one coherent pass, adding approximately 14,803 checker-token words across accountability, public legibility, synthetic social proof, persistent-agent loyalty, memory provenance, counterfactual feeds, emotional-context boundaries, and supply-chain responsibility.
+- The present focused pass deepens Chapters 14–20 around system composition and reversibility, verification latency, provenance appeals and recoverability, public comparability and version history, measurable selective friction, contestable attribution, and civic/institutional alignment.
 
-That work reduces the conservative reviewed minimum chapter-word deficit by 994 words, from at least 20,285 to **at least 19,291 words remaining**. The true remaining deficit is still larger because the original 44,716 figure included non-chapter Markdown. No claim is made that Chapter 3 or the manuscript now passes the repository length gate; the exact local checker remains controlling.
+Every numbered chapter has therefore received either a dedicated expansion pass or was already part of the large middle-book remediation. The review does not claim that arithmetic on historical catalog totals proves the length gate; only the repository checker on the frozen committed source can do that.
 
-## Required remediation before Shelf release
+## Remaining mechanical release gates
 
-1. Continue substantively deepening the numbered manuscript until `python3 scripts/check-book-length.py deceptatron` reports at least 18 numbered chapters, every numbered chapter at least 3,000 words, and at least 65,000 numbered-chapter words total.
-2. Preserve the factual boundaries recorded above during expansion; new current claims require source support and should be added to the canonical source ledger without duplicate IDs or URLs.
-3. Run `python3 scripts/check-desk.py` on the same frozen Desk source and resolve any title-local or repository-wide integrity failures that control publication.
-4. Verify required matter, rights metadata, Reader/direct-route discovery, feedback dropdown, catalog surfaces, and intended research files on that same source.
-5. Only after those gates pass, prepare a matched Desk/Shelf release transaction from one frozen committed Desk source. Keep Desk in a working-edition state; set `Published` only on the Shelf snapshot.
+1. Freeze the merged Desk source and run `python3 scripts/check-book-length.py deceptatron`. It must report at least 18 numbered chapters, every numbered chapter at least 3,000 words, and at least 65,000 numbered-chapter words total.
+2. Run `python3 scripts/check-desk.py` on that same frozen source and resolve any title-local or repository-wide integrity failure that controls publication.
+3. Regenerate/inspect canonical Desk catalog surfaces from that same source so the root word count and release-review queue are not relying on the stale pre-remediation 44,716-word catalog snapshot.
+4. Verify the required matter, rights files, Reader/direct-route discovery, feedback dropdown, and intended research packet on the frozen source.
+5. If and only if those mechanical gates pass with no Drafting/revision/DO NOT RELEASE marker or other controlling blocker, create the matched Desk/Shelf publication transaction from that exact Desk commit. Desk remains the working edition; Shelf receives the `Published` snapshot.
 
 ## Release posture
 
-**Not release-cleared. Do not create or merge a Shelf publication snapshot from the current source.**
+**Release-cleared subject to explicitly enumerated mechanical steps, but not yet cleared to create or merge the Shelf snapshot.**
 
-The next meaningful work on this title remains substantive manuscript deepening followed by the exact local length and integrity gates, not another factual-review pass.
+The substantive factual/readiness review is complete. The next action is mechanical validation on the merged frozen Desk source. If the checker or Desk integrity tooling reports a concrete failure, that failure becomes the precise blocker; do not reopen generalized review language.

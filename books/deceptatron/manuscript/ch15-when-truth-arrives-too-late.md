@@ -350,7 +350,37 @@ So somebody fills it.
 
 The machine can fill it first.
 
-That does not mean it has to win.
+The timing problem is not only about publishing. It is also about institutional capacity to absorb surprise. An organization that has never decided who can authenticate an emergency statement will improvise when the fake statement arrives. A campaign that has never established how to preserve a disputed synthetic clip will waste the first hour arguing about procedure. A newsroom that has no route from a reporter to a forensic specialist will lose time locating expertise while the story hardens elsewhere.
+
+Preparedness shortens verification without pretending to eliminate uncertainty. The relevant work often looks administrative before a crisis: contact lists, authenticated channels, preservation procedures, escalation criteria, relationships with outside experts, and a public habit of explaining what has and has not been established.
+
+This matters because the first correction can itself become part of the attack. If several institutions issue contradictory denials, the contradiction supplies fresh material. If a platform removes an artifact before preserving it, critics can claim evidence was destroyed. If an official labels material synthetic and later learns that it was authentic but misleadingly contextualized, the mistake can contaminate future warnings.
+
+A verification system therefore needs humility about its own error rate. The goal is not to replace fast propaganda with fast institutional certainty. It is to create a faster path from uncertainty to inspectable evidence.
+
+That path should leave a history.
+
+What was known at 8:30?
+
+What changed at 9:10?
+
+Which source was withdrawn?
+
+Which image was authenticated?
+
+Which conclusion remains provisional?
+
+A timeline makes revision legible. It also creates accountability for institutions that overstate what they know. The same mechanism that protects an agency from accusations that every revision is a lie can show when the agency actually spoke too confidently.
+
+This symmetry is important. Democratic resilience cannot mean giving approved institutions a credibility shield. It has to improve the quality of challenge too.
+
+The deeper contest is therefore over correction cost.
+
+An attacker benefits when one cheap claim forces an expensive bespoke investigation. Defenders improve when common verification work becomes reusable: provenance standards, searchable archives, public datasets, authenticated releases, repeatable forensic tools, and institutional memory about recurring manipulation patterns.
+
+The aim is to make the second investigation cheaper than the first.
+
+That is another kind of learning loop.
 
 Truth can arrive late and still matter.
 
