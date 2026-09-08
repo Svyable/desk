@@ -104,6 +104,18 @@ When the system knows the decision the work serves, it has a better chance of al
 
 Purpose does not need to be grand. “Make sure I do not miss commitments I have already made” is a good purpose for a calendar-and-email role. “Reduce the time between a bug report and a reproducible test case” is a good purpose for an engineering agent. “Surface unusual cash movements before Friday” is a good purpose for a finance-monitoring role.
 
+The coding version of purpose often appears as acceptance criteria.
+
+“Fix checkout” is vague. “A user whose payment succeeds must not see a failed-order screen, and retrying the request must not create a duplicate charge” gives the agent something closer to an observable outcome.
+
+The nontechnical version is the same move.
+
+“Help with travel” is vague. “Find options that get everyone to Denver before dinner, avoid connections under an hour, stay inside the budget, and leave the final purchase to me” is a job somebody can actually qualify against.
+
+The words are not more technical.
+
+The consequence is more visible.
+
 The second element is scope.
 
 Scope answers the question: what world does this job include?
@@ -158,6 +170,18 @@ Human workers build this hierarchy through experience. Agents need some version 
 
 A better job says which repository is authoritative, how to treat stale documents, and what to do when authoritative sources conflict.
 
+Coders know this problem under different names. A README may say one thing while the actual schema says another. A generated API client may be current while an old wiki page still ranks first in search. A test may encode the real contract more faithfully than a comment written three years ago.
+
+A useful coding role therefore needs a source hierarchy too.
+
+Current code and executable tests may outrank old documentation. Security policy may outrank an example in a ticket. A migration plan may need to be checked against the production schema rather than inferred from a local development database.
+
+A household has the same hierarchy in less formal clothes.
+
+The doctor's current instructions outrank an old note. The school calendar may outrank a family spreadsheet for official dates. The airline confirmation outranks the itinerary draft. A signed lease outranks a text-message recollection of the rule.
+
+The ability to reason is not enough if the role does not know which reality controls.
+
 The fifth element is the definition of done.
 
 Agents are good at producing the appearance of completion. The principal must decide what completion actually requires.
@@ -169,6 +193,24 @@ A software task is not done because code was written. Perhaps it is done when th
 An expense task is not done because receipts were categorized. Perhaps it is done when every transaction reconciles to the statement and exceptions are listed.
 
 The definition of done creates an important psychological shift. It moves attention from the fluency of the artifact to the state of the world.
+
+This is also where job writing can save the principal from endless follow-up prompting.
+
+If “done” is undefined, every result invites another conversation.
+
+Did you check the links?
+
+Did you include tax?
+
+Did you run the tests?
+
+Did you confirm the reservation?
+
+Did you look for contradictory sources?
+
+Did you make sure the file actually uploaded?
+
+A good role moves recurring completion criteria out of the principal's mouth.
 
 The sixth element is escalation.
 
@@ -214,7 +256,7 @@ People who discover systems thinking sometimes become intoxicated by specificati
 
 Real jobs are partly learned in contact with exceptions.
 
-The initial job definition should be thin enough to test and strong enough to prevent obvious harm. The childhood will fill it in.
+The initial job definition should be thin enough to test and strong enough to prevent obvious harm. The apprenticeship will fill it in.
 
 This is where the correction ledger becomes valuable. The job starts as a hypothesis. Each real case tests it.
 
@@ -228,6 +270,30 @@ Good jobs are grown as much as written.
 
 The principal's responsibility is to decide which growth becomes durable.
 
+A useful way to keep the first job definition small is to write it for a skeptical replacement.
+
+Imagine that tomorrow the current model disappears and a different capable model takes the role. What would the replacement need in order to understand the job without reading a year of chat history?
+
+That thought experiment strips away personality.
+
+The replacement needs the purpose.
+
+The boundaries.
+
+The authoritative sources.
+
+Representative examples.
+
+The important failure cases.
+
+The permissions.
+
+The stopping rules.
+
+The proof of completion.
+
+If the job cannot survive a worker change, you may have trained a conversation rather than built a role.
+
 This is one reason “prompt library” is often too small an idea. A library of successful instructions can be useful, but it stores language without necessarily storing the operating model around the language. The mature artifact is closer to a job packet: purpose, scope, authority, sources, examples, tests, exceptions, escalation, and evidence.
 
 That packet can survive changes in wording.
@@ -237,6 +303,38 @@ It can also expose whether the role is becoming absurd.
 If the exception list grows longer than the ordinary rule, the job may need to be split. If every case escalates, the agent has not earned the role. If no case escalates, either the role is wonderfully bounded or the escalation design is broken. If every evaluation requires subjective review from the same expert, the system may amplify that expert but cannot yet replace the bottleneck.
 
 Writing the job makes these truths visible.
+
+It also creates an economic decision point that enthusiastic automation often skips.
+
+Is this job worth agentizing?
+
+Some recurring work is so cheap, rare, or sensitive that building a role costs more than doing it manually. Some work changes too quickly for a durable operating layer to pay back. Some tasks look repetitive but contain a judgment that still requires the same human every time.
+
+A clear job definition can reveal that before the integration project grows around it.
+
+Suppose a business spends twenty minutes each month handling an unusual vendor request. Building a special agent, maintaining its context, testing it, and monitoring permission changes may be economically silly.
+
+Suppose the same business spends fifteen hours every week reconciling three systems, and the exceptions follow recognizable patterns. That job may justify serious training effort.
+
+The question is not whether an agent *can* do the work.
+
+It is whether turning the work into a reliable role creates more value than the role costs to maintain.
+
+That maintenance cost belongs in the job definition because jobs change.
+
+A source has to be updated.
+
+A policy changes.
+
+A tool breaks.
+
+A model upgrade changes behavior.
+
+A qualification set needs new cases.
+
+A permission that made sense last year no longer does.
+
+The trained role is capital, but capital requires maintenance too.
 
 It also changes how people think about career leverage.
 
