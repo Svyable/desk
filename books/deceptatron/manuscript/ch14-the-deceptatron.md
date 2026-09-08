@@ -466,9 +466,37 @@ Tax the hidden machinery.
 
 That is the policy intuition the rest of the book will develop.
 
-The Deceptatron is not frightening because it can invent a sentence nobody has ever heard.
+There is one more reason to think in loops rather than artifacts: systems fail at handoffs.
 
-It is frightening because it can connect ordinary capabilities into a relationship no one person can see from end to end.
+The advertiser may believe the platform excludes sensitive attributes while the platform believes the advertiser is responsible for lawful targeting. The model provider may believe the application developer handles disclosure while the application developer assumes a generic model notice is enough. A campaign may believe a contractor is using only approved data while the contractor buys enrichment from another vendor. Each participant can point toward a policy document and still produce a system nobody intended in full.
+
+That means compliance has to follow the assembled behavior, not merely the promises of each component. A technically compliant model can participate in a noncompliant campaign. A lawful dataset can become problematic when combined with another. An ordinary recommender can become political infrastructure when a campaign objective enters the optimization layer. The risk belongs to composition.
+
+Composition also changes incident response. When a problematic campaign is discovered, stopping one component may not stop the loop. A model provider can revoke an account while the operator moves to another model. A platform can remove accounts while the same audience model survives elsewhere. A campaign can fire a contractor while retaining the data and learned message strategy. If the objective and memory persist, the system can reassemble.
+
+A serious response therefore asks what must be unwound. Which models of people were created? Which records must be preserved for investigation? Which targeting permissions should be revoked? Which synthetic identities remain active? Which vendors still hold campaign data? Which user-facing relationships should receive notice? The answer may be broader than deleting a post.
+
+This is familiar in cybersecurity. Removing one malicious file does not end an intrusion if credentials remain compromised. The defender looks for persistence, privilege, lateral movement, command paths, and exfiltrated data. Adaptive persuasion deserves an analogous discipline without importing the secrecy and exceptional powers of national security into ordinary politics.
+
+The useful analogy is not that voters are computers to be protected from malicious code. It is that complex systems can retain state after the visible event disappears.
+
+That state matters for democratic accountability.
+
+Suppose a campaign experiments for three months, discovers that one subgroup responds to repeated procedural-fairness messages, and then deletes every generated conversation after the election. If it retains the learned profile, the operational knowledge survives. The next campaign can start with an advantage created through interactions the public can no longer inspect.
+
+The durable record should therefore include more than rendered content. It should preserve enough information to answer whether a system learned something politically consequential about people and whether that learning can be reused.
+
+That does not imply a public archive of private persuasion histories. Privacy cuts the other way. The better model is constrained retention: preserve system-level evidence for accountability while limiting the reuse of person-level political inferences. An auditor may need to know that a campaign optimized against an inferred vulnerability category without receiving the identity of every person inside it.
+
+This is where privacy and accountability stop being opposites. Good architecture can preserve proof of what the operator did while minimizing what anyone else learns about the target.
+
+The Deceptatron should also be judged by reversibility.
+
+Can a user leave the relationship and actually leave it? Can a political profile be reset? Can a sponsor's access be terminated without the model continuing to reflect what the sponsor learned? Can a platform reconstruct which rule produced a harmful recommendation and roll it back? Can an organization prove that a campaign ended rather than merely changing names?
+
+Systems that are easy to start and hard to unwind create a particular form of political risk. The cost of entry falls while the cost of accountability rises.
+
+That imbalance is not inevitable. It is a design choice.
 
 The message is only the visible edge.
 
