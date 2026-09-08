@@ -1,165 +1,245 @@
-# Contested Principles: MEPP and Cousins
+# Beyond Maximum Dissipation: The Reachability Conjecture
 
 The second law gives us an inequality, not a screenplay.
 
-For an isolated macroscopic system, entropy does not spontaneously decline. For an open system, an entropy balance tracks what enters, what leaves, and what is produced internally. Those statements constrain possible histories. They do not usually tell us which of several possible non-equilibrium states will be realized, how fast a gradient will relax, whether a flow will remain laminar or become turbulent, which chemical oscillation will appear, or which biological strategy will evolve.
+Entropy production constrains what irreversible processes can do. It does not usually select one realized history from every physically possible history. A heated fluid can conduct, convect, oscillate, or become turbulent depending on geometry, forcing, material properties, and perturbations. A chemical network can settle into one steady state, another steady state, or a cycle. A cell can burn substrate, store it, reroute it, enter dormancy, repair itself, or die. The laws of thermodynamics remain true in every case.
 
-That gap is irresistible.
+The temptation is to search for one extra rule that chooses the winner.
 
-Physics is full of successful extremum principles. Equilibrium states can often be characterized by maximizing entropy or minimizing an appropriate free energy subject to constraints. Mechanics can be formulated through stationary action. Optics has variational formulations. If nature is this economical elsewhere, perhaps driven systems also choose a state by maximizing or minimizing one quantity.
+Maximum entropy production is the most famous candidate. In its strongest popular form, the proposal says that a driven system tends toward the accessible state that produces entropy at the greatest rate, subject to constraints. Maximum power makes a related claim about energy throughput. Constructal arguments emphasize easier flow access. Dissipative-adaptation arguments ask whether driven matter becomes biased toward configurations that absorb and dissipate work under a particular forcing protocol.
 
-Several proposals try to supply that missing rule.
+Each captures something real in some systems.
 
-The most famous is the maximum entropy production principle, usually abbreviated MEP or MEPP. In its broadest popular form, it says that a driven system will settle into the accessible state that produces entropy at the greatest rate, subject to its constraints. Variants have been used in climate science, fluid dynamics, chemical networks, ecology, biogeochemistry, and discussions of life.
+None currently gives us a universal law of organization.
 
-The idea is provocative because it would turn the book’s descriptive language into a predictive principle. If a gradient can relax through several pathways, do not merely say that each pathway produces entropy. Calculate the entropy-production rate of each accessible state and predict the maximum.
+That conclusion is not a retreat. It creates room for a better question.
 
-If that rule were generally valid, much of the difficulty of far-from-equilibrium science would collapse into an optimization problem.
+A battery is valuable partly because it does not dissipate its chemical gradient as quickly as possible. A membrane is useful partly because it blocks equilibration. An animal may survive winter by reducing metabolic throughput. A seed can preserve a chemically rich structure while doing almost nothing visible for months. An immune system spends energy maintaining cells that may not be needed for years. A brain expends metabolic power representing futures that never occur. A power grid holds reserve capacity idle on purpose.
 
-It is not generally established.
+These examples look like failures if instantaneous dissipation is the objective.
 
-The cleanest way to understand the controversy is to begin with a principle that *is* rigorous but much narrower: Prigogine’s minimum entropy production theorem. In his Nobel lecture, Ilya Prigogine emphasized that for steady states sufficiently close to equilibrium, within a strictly linear regime and under restrictive boundary conditions, entropy production reaches a minimum relative to nearby admissible states. He was equally explicit about the limitations. The result requires linear flux-force relations and coefficients that can be treated as constants. The Nobel lecture is unusually useful because it prevents us from turning Prigogine into a mascot for any entropy-production slogan we prefer: [Prigogine’s 1977 Nobel lecture](https://www.nobelprize.org/uploads/2018/06/prigogine-lecture.pdf).
+They look ordinary if the relevant quantity is future capability.
 
-Near equilibrium, then, a *minimum* theorem exists under specified conditions.
+The question is not only how much free energy a system is destroying now.
 
-Far from equilibrium, there is no comparably accepted universal maximum theorem.
+It is what the system will still be physically capable of doing next.
 
-That sentence should remain visible throughout the rest of the book.
+Control theory already has language for part of this problem. Given a dynamical system, an initial state, and a set of admissible controls, the *reachable set* is the set of states the system can reach. Viability theory asks a related question: from which states can the system continue operating without crossing specified failure boundaries? These ideas are mature in engineering and have been applied to biological networks. Lakatos and Stumpf, for example, used reachable-set methods to bound the behavior of stochastic biochemical systems under uncertain parameters and control inputs: https://doi.org/10.1098/rsos.160790 .
 
-A 2020 review by Ghosh, Dixit, Agozzino, and Dill opens with the point plainly: despite extensive work, there is no equally satisfactory general variational principle for nonequilibrium situations. Their subject is [maximum caliber](https://doi.org/10.1146/annurev-physchem-071119-040206), a powerful inference framework defined on trajectories rather than equilibrium states. Maximum caliber can infer distributions over possible dynamical paths when particular constraints are known. It does not mean that a physical system literally searches all trajectories and chooses the one with maximum entropy production.
+Thermodynamics contributes another missing part. A theoretically reachable state may not be physically affordable. A robot may be able to drive to the top of a hill in its equations and lack the battery energy to do it. A cell may possess a reaction pathway but lack sufficient ATP, reducing equivalents, membrane potential, or substrate to execute it. A power plant may be controllable in principle and unable to follow the requested trajectory without exceeding thermal or fuel limits.
 
-This distinction between *inference principle* and *dynamical law* is easy to lose because both use maximization language.
+Reachability therefore has to be budgeted.
 
-Maximum entropy in statistical inference says, roughly, that given limited information, choose the probability distribution that adds the least unsupported structure while satisfying the known constraints. Maximum caliber extends the logic from static states to paths through time. It can derive useful stochastic models and flow distributions from dynamical constraints.
+Suppose the state of a system is represented by \(x(t)\), its environment by \(e(t)\), and its admissible actions by \(u(t)\). Write the dynamics abstractly as
 
-The maximized quantity belongs to our probabilistic description.
+\[
+\dot{x}=f(x,e,u;c),
+\]
 
-That is different from asserting that the material system has a universal physical drive to maximize its thermodynamic entropy-production rate.
+where \(c\) represents physical constraints that shape the dynamics: membranes, catalysts, valves, stored chemical species, network architecture, geometry, channel states, regulatory machinery, or other embodied structures.
 
-Roderick Dewar’s work helped connect maximum-caliber reasoning with maximum-entropy-production ideas. Those derivations are intellectually important, but they depend on choices about path ensembles, constraints, and what macroscopic information is specified. They do not elevate every version of MEPP into a theorem comparable with the second law. A change in constraints can change the inferred optimum because the optimization problem itself has changed.
+Now specify a set \(K\) of viable states. For a cell, \(K\) might include experimentally defensible ranges of membrane potential, pH, redox state, osmotic balance, metabolite levels, and molecular damage. For an engineered machine, it might include temperature, voltage, stress, speed, and control limits. The choice of \(K\) must be declared before the result. Otherwise “viable” becomes another word that can be stretched around whatever happened.
 
-Constraints are not decoration around the principle. They are most of the problem.
+Next specify a physical budget \(B\) over a time horizon \(\tau\). The budget might be available exergy, electrical energy, ATP turnover, fuel molecules, absorbed work, or another quantity appropriate to the scale.
 
-Consider a fluid layer heated from below. At a sufficiently small temperature difference, conductive heat transfer can remain stable. Increase the forcing enough and convection may become unstable, producing organized rolls or other motions that transport heat differently. At still stronger forcing, time dependence and turbulence can appear. Entropy production can change across these regimes.
+Then ask which viable states can actually be reached within that budget.
 
-It is tempting to summarize the sequence as “the system discovers states that dissipate the temperature gradient faster.” That description may be useful after the fact. But the onset and form of convection are predicted through the equations of fluid dynamics, boundary conditions, material properties, dimensionless control parameters, and stability analysis. The entropy-production rate alone does not replace the Rayleigh number, geometry, viscosity, thermal diffusivity, or boundary conditions.
+Call the resulting object a *thermodynamically budgeted viable reachable set*.
 
-If a maximum principle predicts the same transition, the important scientific question is whether it predicts something the detailed dynamics did not already supply.
+The phrase is clumsy. The idea is not.
 
-Climate applications make the issue sharper. George Paltridge famously found that simple climate models could reproduce aspects of observed heat transport by selecting states with high entropy production. Later researchers, including Axel Kleidon and collaborators, developed maximum-entropy-production approaches to Earth-system processes. Kleidon’s 2009 review of [nonequilibrium thermodynamics and maximum entropy production in the Earth system](https://doi.org/10.1007/s00114-009-0509-x) lays out the attraction: the climate system is driven far from equilibrium, contains multiple irreversible processes, and often operates near limits set by competing transport and conversion constraints.
+Two systems exposed to the same environment can have the same current energy throughput and radically different future possibilities. One can tolerate heat, switch fuel, repair damage, or wait out scarcity. The other can do exactly one thing efficiently until conditions move outside its narrow operating range.
 
-Some MEP climate models are striking because they obtain reasonable large-scale states with fewer dynamical details than a full general circulation model.
+Which is more capable?
 
-That success is evidence worth taking seriously.
+Instantaneous entropy production cannot answer that question.
 
-It is not proof of a universal law.
+The shape of the future reachable set can.
 
-A closure rule can be useful because it captures the net consequence of omitted dynamics within a regime. Meteorology already uses many successful parameterizations that are not fundamental laws. If maximum entropy production gives a robust closure for a class of climate problems, that would be valuable even if it does not govern chemical oscillators, ecosystems, and economies.
+This does not require inventing a new fundamental force. It requires taking seriously a process that ordinary dissipation language tends to hide: systems can use work to change the constraints that determine their later dynamics.
 
-The question should be domain by domain: under which constraints, state variables, and timescales does an extremum principle work?
+A cell spends ATP to pump ions against electrochemical gradients. The result is not merely heat. The work constructs a new gradient that changes what transporters, channels, motors, and signaling processes can do later. A bacterium induces a transport protein and thereby gains access to a substrate that was physically present but previously unusable. An animal stores fat and changes what environmental interruptions it can survive. A beaver builds a dam and changes the local hydraulic boundary conditions of its own future habitat. Humans charge batteries, build roads, insulate buildings, write software, and educate children. Present work changes later possibilities.
 
-This is much harder than asking whether MEPP is “true.”
+This is the process I will call **recursive thermodynamic reachability**.
 
-The phrase *entropy production* itself can hide measurement problems. In a macroscopic continuum model, irreversible entropy production may include contributions from heat conduction, diffusion, viscous dissipation, chemical reactions, phase changes, and other processes. Which terms are included depends on the model boundary and coarse graining. At microscopic scales the challenge is greater because fluctuations matter and the observed variables may omit hidden degrees of freedom.
+The term *recursive* matters because the action reaches forward into the system's own future action space. Work performed now constructs, maintains, removes, or reorganizes constraints that alter which future state transitions remain available. In stronger cases, the newly available states include pathways that maintain or rebuild the very constraints that made those pathways possible.
 
-Modern stochastic thermodynamics has made major progress here without requiring a universal maximum principle. Udo Seifert’s review of [thermodynamic inference](https://doi.org/10.1146/annurev-conmatphys-031218-013554) describes fluctuation relations, trajectory-level definitions of work and entropy production, and bounds that can infer hidden dissipation from observable currents. Thermodynamic uncertainty relations, for example, connect the precision of some fluctuating currents with a minimum thermodynamic cost under specified conditions.
+That last feature connects the proposal to existing work on biological organization.
 
-This is a different style of nonequilibrium science.
+Montévil and Mossio formalized living organization as a *closure of constraints*: processes in an organism produce or maintain constraints that in turn regulate other processes in the organization: https://doi.org/10.1016/j.jtbi.2015.02.029 . Lehman and Kauffman developed a related thermodynamic account of constraint closure in origin-of-life transitions: https://doi.org/10.3390/e23010105 . These theories already capture the crucial idea that constraints are not passive decorations. They channel work, and in living systems some of the work is used to reconstruct the constraints themselves.
 
-Instead of saying “nature maximizes entropy production,” it derives exact equalities, inequalities, and bounds for well-defined stochastic models.
+The reachability conjecture does not replace constraint closure.
 
-That is usually the safer model for this book’s ambition: prefer a narrower relation with stated assumptions over a universal slogan with unclear scope.
+It asks what constraint closure *buys*.
 
-Maximum power is a related but distinct proposal. Alfred Lotka argued in the 1920s that natural selection could favor organisms that increase their capture and use of available energy. Howard T. Odum and Richard Pinkerton later developed a maximum-power principle in which systems may trade conversion efficiency against rate to maximize useful power output. A recent historical review, [“Maximum power in evolution, ecology and economics”](https://doi.org/10.1098/rstb.2022.0262), traces that lineage and also acknowledges unresolved issues of mechanism and testing.
+A constraint has what I will call **reachability leverage** when the work invested in creating or maintaining it expands the system's later viable possibilities under a matched physical budget.
 
-Maximum power should not be collapsed into maximum entropy production.
+The cleanest version is set-valued rather than scalar. Imagine two otherwise comparable architectures, one with constraint \(c\) and one without it. Under the same external resources and the same predeclared disturbance set, ask whether the constrained architecture can remain viable in every future the unconstrained one can handle, plus at least one additional future.
 
-A device can dissipate enormous power while producing nothing useful. Short a battery and the current can become large while the stored chemical exergy is destroyed mostly as heat. A high-power biological strategy can consume resources quickly and lose to a slower competitor when resources are scarce. An organism can maximize reproductive success by storing energy, reducing activity, or investing in defense rather than maximizing instantaneous throughput.
+If so, the constraint has positive reachability leverage over that time horizon.
 
-Even in engineered systems, maximum efficiency and maximum power commonly occur at different operating points.
+If the constraint consumes resources and closes more useful futures than it opens, its leverage is negative.
 
-That tension is exactly why Odum’s formulation remains interesting. It asks whether competitive systems tend toward operating points that maximize *useful* power after accounting for constraints. But “useful” already imports a function. In biology, the relevant function must ultimately be connected to reproductive consequences if the principle is supposed to arise through natural selection. In an ecosystem, there is no automatic reason the power optimum of one species will maximize a system-wide quantity.
+This is deliberately different from saying that the constraint is “more efficient,” “more complex,” or “more ordered.” Those words are too easy to manipulate. A storage tank may lower efficiency and increase reachability. Redundant organs may consume more resources and increase reachability. A safety margin may reduce peak output and increase reachability. A useless regulatory circuit may consume ATP and decrease reachability.
 
-A 2024 BioScience essay asking [“Does nature select to maximize power?”](https://doi.org/10.1093/biosci/biae104) makes the contemporary dispute explicit: several influential traditions have proposed maximum-power ideas, while other evolutionary frameworks question whether empirical evidence or biophysical theory supports a universal MPP.
+The sign has to be measured.
 
-That is the appropriate status for this book: a historically important hypothesis with active descendants, not an established evolutionary law.
+There is a reason not to begin by assigning a single number to the reachable set. The “volume” of a state space depends on coordinates and coarse-graining. A system can appear to have more possible states merely because the modeller chose more variables or rescaled an axis. A serious theory should first compare inclusion, robust viability under a declared disturbance family, or target reachability under declared tasks. Scalar summaries can come later, once the measure has a physical interpretation.
 
-The constructal law, associated with Adrian Bejan, makes a different claim. Its proponents argue that finite-size flow systems that persist over time evolve configurations that facilitate access to the currents flowing through them. Branching networks, river basins, vascular systems, traffic patterns, and engineered flows have all been discussed in constructal terms. Bejan and Lorente’s review, [“The constructal law and the evolution of design in nature”](https://doi.org/10.1016/j.plrev.2011.05.010), presents the strongest version: a general physical law of evolving flow architecture.
+This immediately improves on maximum-dissipation thinking in one respect.
 
-The examples are visually compelling because branching really does recur.
+It can explain why a system may rationally — or evolutionarily — dissipate *less now*.
 
-But recurring geometry does not establish one universal mechanism.
+A shorted battery can produce a large current and destroy nearly all future electrical options. A controlled discharge preserves some future options while delivering work. A spore suppresses metabolism but retains the capacity to reactivate. A hibernating mammal lets body temperature and metabolic rate fall to protect stored chemical resources. A plant closes stomata during drought even though doing so reduces carbon uptake and photosynthetic throughput. A microbe activates stress responses that slow growth.
 
-Blood vessels are shaped by development, tissue demand, mechanics, gene regulation, and evolution. River channels arise through rainfall, erosion, sediment transport, tectonics, vegetation, and history. Lightning branches through electrical breakdown in a heterogeneous atmosphere. Tree roots grow through biological sensing and development. The fact that several systems form networks that facilitate transport may reveal common optimization problems without showing that one new law caused all of them.
+In each case, the system trades present rate for future reachability.
 
-Critics have challenged both the theoretical basis and the performance of particular constructal derivations. A published [critical review of constructal theory](https://doi.org/10.1016/j.enconman.2007.08.005) argued that increasing structural complexity does not universally increase the flow performance predicted by the theory. The debate has continued, and constructal methods remain productive in parts of engineering.
+Natural selection provides a mechanism by which that trade can accumulate in biology without invoking any thermodynamic purpose. Heritable architectures that preserve more fitness-relevant future options in the environments actually encountered can leave more descendants. The target remains reproductive success. Reachability is a physical intermediate variable, not a replacement definition of fitness.
 
-The proper lesson is not that constructal theory is wrong and therefore useless. It is that the word *law* in a proposed generalization should earn the same scrutiny we give any other strong scientific claim.
+That distinction is essential.
 
-Jeremy England’s work on driven systems supplies another frequently overstated idea. His 2013 paper, [“Statistical physics of self-replication”](https://doi.org/10.1063/1.4818538), derived a lower bound on heat production for self-replication under a specified stochastic-thermodynamic model. Faster growth, replicator durability, and internal entropy enter the bound. The paper does not say that the second law makes life inevitable or that self-replicators maximize entropy production.
+An organism could possess a huge repertoire of metabolically reachable states that never matter in its environment and gain no fitness advantage. Another could be narrowly specialized and dominate a stable niche. The environment determines which parts of the reachable set are valuable to selection.
 
-That is already interesting enough: replication has unavoidable thermodynamic costs that can be related quantitatively to properties of the replicator.
+This is one reason the proposal should not be phrased as “nature maximizes options.”
 
-England later discussed [“dissipative adaptation in driven self-assembly”](https://doi.org/10.1038/nnano.2015.250), asking whether driven many-body systems can develop structures whose response becomes tuned to the external forcing. The proposal concerns relationships among work absorption, irreversibility, kinetic accessibility, and the probability of transitions in driven systems.
+That would simply replace one empty optimization slogan with another.
 
-Popular retellings often turn that into “matter organizes itself to dissipate energy better.”
+The more defensible conjecture is conditional:
 
-That slogan erases the conditions.
+**In variable environments, heritable constraints with positive thermodynamic reachability leverage can be favored even when they reduce instantaneous power, efficiency, or entropy production.**
 
-A driven system can become trapped in structures that are kinetically accessible. Some structures may absorb work strongly from a particular drive. Others may be stable because transitions out of them are rare. The relevant probabilities depend on the forcing protocol, microscopic dynamics, energy landscape, noise, and history. The theory does not supply a general replacement for biological natural selection.
+That statement can fail.
 
-This is especially important because *selection* has different meanings in physics and biology. A physical ensemble can become enriched for configurations through transition probabilities. Darwinian selection requires heritable variation and differential reproductive success. The mathematics can sometimes rhyme; the mechanisms are not interchangeable.
+It also connects to current research in a way that gives us something concrete to test.
 
-The same caution should apply to phrases like “the most probable trajectory.” Probability is always probability under a model, with a specified ensemble and specified conditioning information. Change the allowed paths or constraints and the result can change. Real history happens once. A statistical ensemble is a tool for describing uncertainty and repetition.
+On September 3, 2026, Jumpei Yamagishi and Tetsuhiro Hatakeyama published a result in *PRX Life* showing a thermodynamic cost–controllability trade-off in metabolic currency coupling: https://doi.org/10.1103/4bqh-zhry . Their model concerns ATP, GTP, NAD(P)H, and the difficulty of independently controlling coupled metabolic currencies. Greater controllability can require comparable metabolite pools and therefore greater entropy production.
 
-This chapter therefore needs a hierarchy, not a verdict.
+That result is close enough to this book's territory that intellectual honesty demands we say exactly what it does and does not leave open.
 
-At the strongest level are the first and second laws and conservation constraints. They are extraordinarily well tested and apply across the domains discussed in this book when the system boundary is defined correctly.
+It establishes neither a universal reachability principle nor a general theory of adaptation. But it shows that *control itself has a thermodynamic price* in a biologically meaningful model. A next question is whether systems paying that price gain a measurably larger viable response repertoire under environmental variation, and whether that gain predicts when the cost is evolutionarily worth paying.
 
-Next come established regime-specific results: Onsager reciprocity near equilibrium under appropriate microscopic conditions; Prigogine’s minimum entropy-production theorem under stricter linear assumptions; fluctuation theorems and stochastic-thermodynamic relations for specified classes of small driven systems; stability criteria for particular fluids, reaction networks, and dynamical systems.
+That is a reachability question.
 
-Then come proposed broad extremum or organizational principles: maximum entropy production, maximum power, constructal law, dissipative adaptation, and related formulations. These can generate models, suggest measurements, and identify recurring patterns. Their evidence and domains of applicability differ. None should be smuggled upward into the first category merely because its name sounds like a law.
+Another recent idea comes even closer from a different direction. Hyun Youk introduced the concept of **non-equilibrium capacity**: the retained ability of a living system to generate, sustain, or restart the dynamics of life, including in states such as dormancy where ongoing activity may be extremely low: https://doi.org/10.1016/j.newton.2025.100358 .
 
-That hierarchy changes the book’s thesis in a productive way.
+Dormancy is devastating to any theory that identifies life with high current throughput.
 
-The gradient framework does not need MEPP.
+A dry spore and a dead cell can both have very low present metabolic activity. Yet the spore retains a structured capacity to restart metabolism, regulation, repair, and replication when conditions permit. The difference is about latent possibility.
 
-It needs the much weaker and better-supported observation that sustained active systems depend on accessible free-energy differences and that specific mechanisms couple those differences to flows, work, storage, repair, or transformation. Some of those mechanisms can self-organize under driving. Their realized states are shaped by constraints, kinetics, geometry, feedback, fluctuations, history, and — for living populations — natural selection.
+Could non-equilibrium capacity be operationalized as a thermodynamically constrained viable reachable set?
 
-Whether an additional extremum principle predicts the chosen state is an empirical question.
+That is one of the sharpest questions this book can now ask.
 
-This also means that a counterexample to MEPP does not refute thermodynamics. A low-power dormant state, a metastable chemical configuration, a laminar regime, a stored battery, or a forest accumulating biomass can all be physically ordinary. The question is whether the proposed maximum principle claimed to cover that regime under those constraints.
+If the answer is no, the reachability conjecture may be only an analogy. If the answer is yes, dormancy becomes more than a counterexample to maximum dissipation. It becomes a test case for measuring latent physical capability.
 
-A principle that survives every counterexample by redefining the constraints after the fact has stopped predicting.
+Stochastic thermodynamics gives us tools for the cost side of that measurement. Falasco and Esposito's 2025 *Reviews of Modern Physics* article on macroscopic stochastic thermodynamics develops a bridge from trajectory-level nonequilibrium descriptions toward macroscopic deterministic dynamics: https://doi.org/10.1103/RevModPhys.97.015002 . Thermodynamic uncertainty relations and related bounds show that precision, current fluctuations, response, and dissipation can be quantitatively linked under specified assumptions.
 
-That is the hardest methodological test for all of these ideas.
+Active-matter physics offers another experimental arena. Bebon, Robinson, and Speck's 2025 *Physical Review X* paper tracks dissipation across scales in active matter and makes the relationship between microscopic fueling and collective behavior explicit: https://doi.org/10.1103/PhysRevX.15.021050 .
 
-Suppose a model predicts that a climate variable takes the value that maximizes entropy production. Before looking at the data, the researcher should specify the allowed state space, the boundary conditions, the entropy-production calculation, and the alternative models. If the observation disagrees, the principle should be allowed to fail. If every discrepancy can be explained by adding an unmeasured constraint until the optimum matches reality, the exercise becomes curve fitting with thermodynamic vocabulary.
+A natural experiment would be to construct active systems with comparable energy budgets but different feedback, storage, or structural-memory mechanisms. Measure both their dissipation and the set of macrostates or perturbations they can recover from. If instantaneous dissipation predicts performance as well as the reachability structure does, the conjecture has added little. If systems with lower current dissipation but higher reachable viability survive a wider perturbation family, the distinction becomes physically meaningful.
 
-The same standard should apply to ecosystems. If “maximum power” predicts which strategy dominates, specify the relevant power, scale, resource constraints, and competing predictions before seeing the winner. If “dissipative adaptation” predicts a driven assembly outcome, specify the forcing protocol and measurable signature that distinguishes it from ordinary kinetic trapping.
+Information adds another layer without becoming magic.
 
-Science gets stronger when the escape hatches are closed in advance.
+Kolchinsky and Wolpert developed a framework connecting semantic information, autonomous agency, and a chosen viability function in nonequilibrium statistical physics: https://doi.org/10.1098/rsfs.2018.0041 . Their work asks when information carried by one part of a system is causally valuable for maintaining another part in a viable state.
 
-The most useful common thread among these contested principles may therefore be humbler than any one of them. Far-from-equilibrium systems are constraint-sensitive. A pathway that appears optimal under one bottleneck can become poor when another bottleneck binds. Increase substrate and an enzyme saturates. Increase temperature and a material changes phase. Increase flow and turbulence appears. Remove a predator and another resource becomes limiting. Add a transmission line and generation rather than transmission becomes scarce.
+The reachability view suggests a related operational test for memory.
 
-The identity of the binding constraint can change as the system moves.
+A memory has physical value when possessing it changes which future viable states can be reached, or changes the physical cost of reaching them, under a specified task distribution. A bacterial regulatory state, an immune memory cell, a learned motor policy, and a map in a robot can all be evaluated this way without claiming they are the same kind of information.
 
-This is why the language of optimization is so seductive and so dangerous. If we observe a stable system, we can usually invent something it appears to optimize. Survival. Power. Entropy production. Efficiency. Robustness. Information. Predictability. Cost. Flow access. Once enough objective functions are available, every outcome can look optimal under one of them.
+This gives us a candidate bridge from thermodynamics to agency that is stronger than “agents dissipate energy.”
 
-The better discipline is to ask which objective, if any, was specified independently by the mechanism.
+A passive dissipative structure follows the dynamics imposed by its current state and boundary conditions. A feedback system senses some variable and changes its action. A recursively reachable system can use current work to alter the constraints governing its later choices. A model-based agent can estimate counterfactual futures and choose present actions partly because of their predicted effect on later options.
 
-Engineers specify objectives. Natural selection supplies a statistical filter through reproductive success, though organisms still face trade-offs and changing environments. A physical dynamical system generally follows equations of motion and stochastic transitions, not an explicit objective function merely because we can rewrite some solutions variationally.
+Nothing supernatural has entered.
 
-Mathematical equivalence does not automatically establish causal purpose.
+What has changed is the causal depth of control.
 
-That returns us to the title of the book. *The Gradient Universe* works best as a language for availability and coupling, not as a claim that the universe has one optimization target. Differences in temperature, composition, pressure, electrical potential, chemical potential, and gravitational potential create opportunities for change. Structures alter which paths are open. Some paths accelerate relaxation. Others preserve a difference for later. Some convert one gradient into another. Some systems become patterned under driving. Living systems add heredity and selection. Minds and technologies add prediction and deliberate control.
+A thermostat spends energy according to a present error signal. A bacterium can change gene expression and thereby alter what resources it can metabolize later. An animal can build a shelter before the storm arrives. A human can forgo current consumption to build a machine whose future output changes what projects are possible. A brain can rehearse a movement before committing the body to it.
 
-The second law constrains every layer.
+These are not merely larger dissipation rates.
 
-No single maximum principle currently explains them all.
+They are interventions on future boundary conditions.
 
-That is not a disappointment. It is where the science becomes interesting.
+This may also explain a familiar pattern in collapse. Systems sometimes fail while substantial energy remains physically present.
 
-The next chapter asks what would make the *gradient framework itself* fail. That requires more care than listing examples of storms dying over cold water or cells dying without fuel. If the thesis is stated so broadly that every active system can be redescribed as using some gradient, it risks becoming true by definition. A scientific framework earns its place only when it rules something out, improves prediction, or organizes evidence better than its alternatives.
+A cell can contain nutrients yet lose membrane integrity or redox control. A mitochondrion can have substrate while electron transport fails. A grid can have generators and fuel while losing synchronization, transmission paths, protection coordination, or black-start capability. An organization can have money and equipment while losing the procedures and trusted relationships required to act.
 
-The task now is to close the escape hatches.
+The raw stock is not always the limiting variable.
+
+The reachable set can collapse first.
+
+That observation suggests another prediction: in at least some systems approaching failure, a robust reachable-set metric should deteriorate earlier than bulk energy inventory or average energy throughput.
+
+If it does not, the framework is less useful than it sounds.
+
+There are deeper difficulties.
+
+The first is model dependence. Reachability exists only relative to state variables, dynamics, controls, budgets, and a time horizon. Choose them badly and the result will be meaningless.
+
+The second is the time horizon itself. A structure that improves one-hour reachability may reduce ten-year reachability. Storing a fuel helps through a short shortage and can become a liability if maintenance costs dominate over decades. Any experimental claim must specify \(\tau\) before comparing systems.
+
+The third is uncertainty. Real organisms and machines do not know the future disturbance exactly. The relevant object is therefore often a robust or probabilistic reachable set: what can be handled across a declared family or distribution of futures?
+
+The fourth is cost accounting. A larger response repertoire is not free. Sensors, memory, control molecules, redundancy, storage, and repair consume matter and energy. The comparison must subtract those costs rather than celebrating complexity after the fact.
+
+The fifth is state-space growth. Living and technological systems can create new components, tools, symbols, niches, and effective variables. Ordinary control theory often assumes a fixed state space. A system that constructs a new enzyme, organ, machine, or interface can change the dimensionality or effective topology of its future possibilities. That is mathematically harder than controlling a fixed plant.
+
+It may also be where the most interesting science begins.
+
+Physics Reports published a 2024 review titled [“On principles of emergent organization”](https://doi.org/10.1016/j.physrep.2024.04.001). Its opening point is unusually relevant: despite a century of work, physics still lacks basic general principles of spontaneous self-organization, and even defining “structure” rigorously is difficult.
+
+A reachability theory would not solve that entire problem.
+
+It might solve a smaller one.
+
+Instead of asking why the universe “prefers complexity,” ask when work invested in a structure changes the future set of physically viable processes enough for that structure to persist, reproduce, or be selected.
+
+Instead of asking whether life maximizes dissipation, ask which constraints let a lineage survive a wider distribution of future conditions per unit of physical cost.
+
+Instead of treating agency as a mysterious substance, ask whether the system can use sensed or modeled information to alter its future control landscape before committing scarce resources.
+
+Instead of treating collapse as simple energy exhaustion, ask whether the map of viable futures is shrinking even while energy remains.
+
+Those questions are narrower than a fourth law.
+
+They are also experimentally better.
+
+The reachability conjecture can be tested first in systems simple enough to measure.
+
+Build two synthetic driven chemical assemblies with matched fuel. Let one spend nearly all input on immediate turnover. Let the other spend part of the input forming a persistent compartment, catalyst distribution, or storage species. Then expose both to a preregistered family of future forcing protocols. Does the constraint-bearing system remain viable or reach target states that the high-throughput system cannot? Is the gain large enough after counting the work used to build the constraint?
+
+Engineer microbial strains with different regulatory costs and expose them to constant versus fluctuating environments with the same mean resource flux. Does the costly-control strain lose in the constant environment and win beyond a predictable variability threshold because its viable response set is wider?
+
+Take dormant and dead cells with similar present metabolic rates. Can a measurable reachable-state assay distinguish latent capacity before reactivation occurs?
+
+Use programmable active matter. Does feedback-induced structure expand the set of recoverable macrostates even when total dissipation falls?
+
+These experiments could fail cleanly.
+
+That is the point.
+
+If ordinary fitness, standard control metrics, current dissipation, or simple energy reserves predict the outcomes just as well with fewer assumptions, recursive thermodynamic reachability should be demoted to a descriptive synthesis.
+
+If the reachable-set result depends on choosing state variables after the fact, discard it.
+
+If a constraint appears beneficial only because its construction cost was ignored, discard the comparison.
+
+If every failure can be rescued by changing the time horizon or inventing a hidden gradient, the conjecture has become another unfalsifiable story.
+
+A real principle closes its escape hatches in advance.
+
+The most ambitious defensible statement is therefore not that nature maximizes reachability.
+
+It is this:
+
+**Work can be invested in physical constraints that change a system's later viable reachable set. Under variable environments, selection or design can favor constraints with positive reachability leverage even when those constraints reduce present dissipation or power.**
+
+That proposition is less grand than maximum entropy production.
+
+It explains more of what maximum entropy production gets wrong.
+
+It gives storage, membranes, repair, redundancy, dormancy, memory, and planning a common physical description without pretending they are the same phenomenon.
+
+And unlike “the universe prefers complexity,” it points toward measurements.
+
+The next chapter has one job: try to kill it.
