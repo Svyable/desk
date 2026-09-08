@@ -8,9 +8,9 @@ from pathlib import Path
 CHECK = Path(__file__).with_name("check-reader-runtime-boundary.py")
 
 
-def run(root: Path) -> subprocess.CompletedProcess[str]:
+def run(root: Path, *args: str) -> subprocess.CompletedProcess[str]:
     return subprocess.run(
-        ["python3", str(CHECK), str(root)],
+        ["python3", str(CHECK), str(root), *args],
         text=True,
         capture_output=True,
     )
@@ -29,7 +29,24 @@ with tempfile.TemporaryDirectory() as tmp:
     allowed = run(root)
     assert allowed.returncode == 0, allowed.stderr + allowed.stdout
 
-    # Executable/style/vendor ownership must never point at Sven's Shelf.
+    # During the checked-in migration state, canonical Bookself Pages runtime is
+    # still permitted. A completed sync opts into the stricter local-only mode.
+    adapter = root / "reader/css/adapter.css"
+    adapter.write_text(
+        '@import url("https://svyable.github.io/bookself/reader/css/style.css");\n',
+        encoding="utf-8",
+    )
+    migration_allowed = run(root)
+    assert migration_allowed.returncode == 0, migration_allowed.stderr + migration_allowed.stdout
+
+    local_required = run(root, "--require-local-bookself")
+    assert local_required.returncode == 1
+    assert "reader/css/adapter.css depends on remote Bookself runtime" in local_required.stdout
+
+    adapter.unlink()
+
+    # Executable/style/vendor ownership must never point at Sven's Shelf, in
+    # either migration or fully-local mode.
     bad = root / "reader/js/adapter.js"
     bad.write_text(
         "await import('https://svyable.github.io/shelf/reader/js/app.js');\n",
@@ -38,6 +55,10 @@ with tempfile.TemporaryDirectory() as tmp:
     rejected = run(root)
     assert rejected.returncode == 1
     assert "reader/js/adapter.js depends on personal Shelf runtime" in rejected.stdout
+
+    rejected_strict = run(root, "--require-local-bookself")
+    assert rejected_strict.returncode == 1
+    assert "reader/js/adapter.js depends on personal Shelf runtime" in rejected_strict.stdout
 
     bad.unlink()
     (root / "reader/css/adapter.css").write_text(
@@ -48,4 +69,4 @@ with tempfile.TemporaryDirectory() as tmp:
     assert rejected.returncode == 1
     assert "reader/css/adapter.css depends on personal Shelf runtime" in rejected.stdout
 
-print("Desk Reader boundary checker allows Shelf navigation and rejects Shelf runtime assets")
+print("Desk Reader boundary checker supports migration while requiring fully local Bookself runtime after sync")
