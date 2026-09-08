@@ -80,7 +80,19 @@ That sentence is a design signal.
 
 It means the correction is sitting in the wrong layer.
 
-There are three common reasons it happens.
+A coder sees the same signal when an agent keeps violating a repository convention. The first time, you correct the patch. The second time, you may add a repository instruction. The third time, if the convention can be checked mechanically, the mature move may be a lint rule or test so the wrong result cannot quietly pass review.
+
+A shop owner experiences the same pattern without a repository. The agent repeatedly offers refunds before checking whether the order was already refunded. The first time, the owner fixes the email. The better response is to change the role: check the order state first, and if the records conflict, do not promise the customer anything until the conflict is resolved.
+
+Both people are doing the same thing.
+
+They are moving judgment from the conversation into the operating environment.
+
+This is the bridge between prompting and training.
+
+The important question is not whether the rule is written in code or English. The important question is whether the next case can benefit from the lesson without requiring the principal to remember to repeat it.
+
+There are three common reasons that does not happen.
 
 The first is convenience. A chat box is available now. Formalizing the role takes fifteen minutes you do not feel like spending. So you pay the same fifteen minutes in fragments for six months.
 
@@ -95,6 +107,20 @@ This is why the valuable artifact is not always the agent itself.
 It may be the role file beside it.
 
 A role file can be as simple as a document that says what the job is, what sources are authoritative, what decisions require approval, what outputs are expected, what known exceptions exist, and what “done” means. Over time it can acquire tests and examples. If the agent changes, the role survives.
+
+The phrase *role file* should not scare away anyone who does not keep files for software. It can be a page in a notes app. A shared document. A folder containing examples. A checklist with links. The format matters less than whether the job has somewhere to live besides your short-term memory.
+
+Imagine a household agent that helps prepare the week every Sunday night. If the entire operating model lives in prompts, the principal keeps retyping the same facts: school pickup takes twenty minutes, one child cannot eat peanuts, Tuesday evening is protected, the family avoids flights before seven, and medical appointments never move automatically.
+
+That may be fine for a few experiments.
+
+If the system becomes part of household life, the repeated instructions should become explicit policy or structured preferences the family can inspect. Otherwise the “trained” agent is partly an illusion created by one person's memory of how to prompt it.
+
+Now imagine a coding agent in a repository. The same principle appears as checked-in instructions, tests, issue templates, architecture notes, tool permissions, and branch rules. A new model can enter the repository and inherit the role more quickly because the role is not trapped inside the previous model's conversation.
+
+The nontechnical household and the technical codebase have something important in common.
+
+Both become resilient when the operating knowledge can survive the worker.
 
 The separation is important because foundation models improve quickly. Users who weld all of their operating knowledge to one model's quirks risk confusing adaptation with capability. They spend months learning how to coax Model A through a weakness that Model B does not have, or constructing rituals around behavior that disappears after an update.
 
@@ -158,7 +184,7 @@ It is also why the best agent users may become less obsessed with prompts over t
 
 The prompt is what you say now.
 
-Training is what the system remembers next time.
+Training is what the system can use next time.
 
 There is a second problem with prompt obsession: it encourages people to treat language as the only control surface.
 
@@ -192,7 +218,17 @@ If you need to spend twenty minutes coaxing an agent to save twenty-five minutes
 
 People routinely omit this from their mental accounting because supervision is fragmented. A minute to clarify. Two minutes to fix. Another minute to check the link. Three minutes to rewrite the closing. The model's execution time is tiny, so the work feels automated. The human attention bill arrives invisibly.
 
-A trained role lowers that bill.
+That attention bill has a second component that a stopwatch misses.
+
+Interruption.
+
+A human can spend forty seconds correcting an agent and lose far more than forty seconds of useful concentration. The correction arrives while writing, coding, talking with a customer, or thinking through a problem. Machine labor can operate in parallel. Human attention still enters through one narrow door.
+
+This is why a swarm of agents can make a person feel less productive even while each individual agent saves time on paper. The agents generate supervision asynchronously. The principal receives it serially.
+
+A trained role lowers both bills.
+
+It reduces the minutes spent on repetitive correction and the number of times the principal has to leave the work that actually requires a person.
 
 The goal is not zero supervision. Zero supervision is often a fantasy or a risk transfer. The goal is to concentrate supervision where it changes outcomes.
 
