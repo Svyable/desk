@@ -38,7 +38,7 @@ Capability moves from the page into the world.
 
 That sounds dramatic until you notice how ordinary the first applications are. The useful agent is often not a science-fiction executive. It is a tireless clerk. It reads, sorts, compares, follows up, reconciles, schedules, checks, drafts, searches, files, and moves information from one system to another. It takes the small fragments of administrative work that leak through a day and tries to close the loop.
 
-The Financial Times recently reported on families using agentic systems to synthesize calendars and email, plan meals, organize homeschooling, and help with the domestic logistics that have resisted neat software for years. Companies are experimenting with agents inside support, software development, analysis, security, sales, and operations. The examples look unrelated because the surface tasks differ. Underneath them sits the same transaction: a human hands over an intention and receives back not merely an answer but a sequence of attempted work.
+The Financial Times has reported on families using agentic systems to synthesize calendars and email, plan meals, organize homeschooling, and help with domestic logistics that have resisted neat software for years. Companies are experimenting with agents inside support, software development, analysis, security, sales, and operations. The examples look unrelated because the surface tasks differ. Underneath them sits the same transaction: a human hands over an intention and receives back not merely an answer but a sequence of attempted work.
 
 The important phrase is *attempted work*.
 
@@ -46,9 +46,9 @@ An agent does not become dependable because the interface feels conversational. 
 
 A human manager learns quickly that likability and competence are different variables. The agent economy will teach the same lesson to everybody else.
 
-Imagine hiring a twenty-two-year-old assistant on Monday morning. She is startlingly well read. She writes quickly. She can switch from accounting language to JavaScript to French without visible effort. She has no need to sleep. She is eager to help.
+Imagine hiring a startlingly capable assistant on Monday morning. She is well read. She writes quickly. She can switch from accounting language to JavaScript to French without visible effort. She has no need to sleep. She is eager to help.
 
-She also has no lived history inside your company, no instinct for which customer becomes furious when a shipment is one day late, no memory of the exception your accountant negotiated last year unless somebody puts that fact where she can retrieve it, no embarrassment about asking the same question twice, and no bodily sense of danger when a number looks too large.
+She also has no lived history inside your company, no instinct for which customer becomes furious when a shipment is one day late, no memory of the exception your accountant negotiated last year unless somebody puts that fact where she can retrieve it, and no bodily sense of danger when a number looks too large.
 
 Would you give her the bank password at 9:15?
 
@@ -58,13 +58,39 @@ You would start her somewhere safer.
 
 That instinct is more important than any prompt trick in this book.
 
+Managers call parts of that process onboarding and probation. Coders call parts of it staging, sandboxing, evals, fixtures, permissions, and release gates. Trades have an older word for the longer process: apprenticeship.
+
+The vocabulary is less important than the structure.
+
+The agent needs a training ground before it gets production authority.
+
+That sentence works whether the “production environment” is a code repository, a customer inbox, a bank account, or the family calendar.
+
+The coding agent can work on a branch before it can merge. The household agent can propose the grocery order before it can charge the card. The research agent can assemble sources before it can publish a claim under your name. The scheduling agent can suggest a change before it can move somebody else's meeting.
+
+The principle is not caution for its own sake.
+
+It is qualification.
+
+Capability asks whether the system can do something like the task.
+
+Qualification asks whether this particular role has demonstrated that it can do this class of work, under your actual conditions, with the permissions you intend to grant, to a standard you are willing to live with.
+
+That distinction is going to matter more than model rankings.
+
+Two people can use the same underlying model and have radically different qualified capability. One has built examples, tests, source rules, tool boundaries, escalation behavior, and a history of corrections around the role. The other has a blank chat window and confidence.
+
+The raw intelligence may be identical.
+
+The institution around it is not.
+
 Current engineering guidance from several organizations converges on a cautious pattern even though the products differ. Start with bounded use cases. Make tools explicit. Evaluate behavior. Keep human intervention available. Expand complexity only when it buys something. Security guidance goes further: decide what autonomy is actually required, restrict access, preserve logs, define red lines, and maintain a way to stop the system.
 
 Those recommendations sound technical because engineers wrote many of them. Their deeper structure is managerial.
 
-They describe probation.
+They describe qualification before authority.
 
-The word helps because it returns responsibility to the principal. We have developed an odd habit of speaking about AI failures as though they are weather. The model hallucinated. The agent went rogue. The system decided. Sometimes the underlying behavior really is difficult to predict. But if I gave a fallible system access to my email, customer database, cloud account, and credit card, I made a series of decisions before the machine made its first one.
+The phrase helps because it returns responsibility to the principal. We have developed an odd habit of speaking about AI failures as though they are weather. The model hallucinated. The agent went rogue. The system decided. Sometimes the underlying behavior really is difficult to predict. But if I gave a fallible system access to my email, customer database, cloud account, and credit card, I made a series of decisions before the machine made its first one.
 
 I selected the worker.
 
@@ -86,25 +112,25 @@ The first time an invoice contains a credit that should be treated differently, 
 
 That accumulated layer is the subject of this book.
 
-Call it an agent's childhood.
+Call it accumulated operating judgment.
 
-Childhood is not a technical term. It is deliberately a little uncomfortable because it emphasizes a period most software marketing would prefer to skip. We are sold products as finished adults. Sign in, connect your accounts, describe what you want, and enjoy the leverage.
+It is less cute than a metaphor and more economically precise.
 
-But useful delegated systems often need a period in which mistakes are cheap enough to study.
+A useful delegated system often needs a period in which mistakes are cheap enough to study.
 
-They need examples of what counts as good.
+It needs examples of what counts as good.
 
-They need exposure to edge cases.
+It needs exposure to edge cases.
 
-They need a record of corrections.
+It needs a record of corrections.
 
-They need boundaries they cannot talk their way around.
+It needs boundaries it cannot talk its way around.
 
-They need tests that are harder than the demo.
+It needs tests that are harder than the demo.
 
-They need to encounter the moment when they do not know what to do and learn, operationally, that stopping is sometimes the correct action.
+It needs to encounter the moment when it does not know what to do and learn, operationally, that stopping is sometimes the correct action.
 
-The last point is easy to miss. We tend to evaluate software by how often it completes the task. A mature agent may sometimes be more valuable because it refuses to complete one.
+The last point is easy to miss. We tend to evaluate software by how often it completes the task. A qualified agent may sometimes be more valuable because it refuses to complete one.
 
 “I need you to choose.”
 
@@ -116,7 +142,19 @@ The last point is easy to miss. We tend to evaluate software by how often it com
 
 Those are not failures of autonomy. They are evidence that the boundary of autonomy has been designed.
 
-A teenager learning to drive is not made safer by being told to act confident. A medical resident is not trained by rewarding the appearance of certainty. A junior accountant who quietly guesses when the books do not reconcile is dangerous precisely because the work looks complete.
+This is one place where coders and normies can teach each other.
+
+Software teams have spent decades learning that a system is not safe merely because the happy path works. They test invalid inputs, missing dependencies, failed networks, partial state, permissions, rollbacks, and weird interactions between components. The mature engineer does not ask only, “Can it succeed?” She asks, “How does it fail?”
+
+Ordinary life contains the same question with softer tooling.
+
+A parent using an agent to coordinate a trip should care about the case where the school calendar conflicts with the flight, the case where the ticket is nonrefundable, the case where a traveler cannot make the connection, and the case where the agent cannot tell which preference matters more.
+
+A shop owner using an agent for refunds should care about the duplicate customer name, the unusually large order, the legal threat hidden inside a complaint, and the case where the payment system says one thing while the order system says another.
+
+The language is different.
+
+The failure surface is the same kind of management object.
 
 The agent economy will reward people who become connoisseurs of incomplete work.
 
@@ -124,11 +162,13 @@ They will know which missing pieces matter. They will know when ninety percent d
 
 Research on current AI systems sometimes describes a jagged frontier: performance can be excellent on one task and unexpectedly weak on another that appears adjacent. That pattern makes the management problem harder. We are used to skill generalizing with some smoothness. If a tax attorney is excellent at a difficult corporate question, we do not expect her to forget how a percentage works. Models can create stranger profiles.
 
-The result is that familiarity with an agent is not merely familiarity with how smart it seems. It is familiarity with its failure surface.
+The result is that familiarity with an agent is not merely familiarity with how smart it seems.
+
+It is familiarity with its failure surface.
 
 That surface changes.
 
-Models are upgraded. Tools are added. Interfaces change. Memory gets compressed. A workflow that was safe because the agent could only draft becomes different when somebody gives it a send button. The agent you trained in June may not be exactly the agent running in October even if the name on the screen is unchanged.
+Models are upgraded. Tools are added. Interfaces change. Memory gets compressed. A workflow that was safe because the agent could only draft becomes different when somebody gives it a send button. The agent you qualified in June may not be exactly the agent running in October even if the name on the screen is unchanged.
 
 This is another reason to think like a manager instead of a prompt collector. A prompt is a moment. A role is a system.
 
@@ -178,4 +218,4 @@ Treating it like a person would be a category error. Treating it like a calculat
 
 What you need is a third category: a trainable role that can act.
 
-And before that role gets the keys, it needs a childhood.
+And before that role gets the keys, it needs a training ground.
