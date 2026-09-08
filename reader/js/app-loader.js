@@ -9,8 +9,8 @@ const canonicalReader = 'https://svyable.github.io/bookself/reader/js/';
 const canonicalAppUrl = `${canonicalReader}app.js?v=r4`;
 const viewportStabilityUrl = `${canonicalReader}viewport-stability-runtime.js?v=r1`;
 const nativeShareUrl = `${canonicalReader}native-share.js`;
-const libraryHomeUrl = 'https://svyable.github.io/desk/reader/css/desk-library-home.css?v=bookself-20260904';
-const bookOpeningHandoffUrl = 'https://svyable.github.io/desk/reader/css/desk-book-opening-handoff.css?v=bookself-20260906';
+const libraryHomeUrl = '../css/desk-library-home.css?v=bookself-20260904';
+const bookOpeningHandoffUrl = '../css/desk-book-opening-handoff.css?v=bookself-20260906';
 
 async function acquireReaderApp() {
   let localError = null;
