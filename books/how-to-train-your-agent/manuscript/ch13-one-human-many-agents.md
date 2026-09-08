@@ -102,6 +102,14 @@ The role separation should change what can be known or rewarded.
 
 Otherwise it is theater.
 
+Coders can see this most clearly in a pull-request workflow. One agent writes the change. Another agent that sees the same diff and receives the instruction “review this carefully” may produce useful criticism, but the independence is weak. A stronger review role can have access to a test runner, static analysis, repository policy, and a mandate to block rather than complete. Better still, some checks are deterministic and need no second agent at all.
+
+The normie version is a travel purchase. One agent finds the best itinerary. A second “reviewer” using the same search results and the same objective may merely admire the selection. A useful checker has a different job: verify the dates, traveler names, cancellation terms, accessibility constraints, and final price before the card can be charged.
+
+In both cases, the second role earns its existence by changing the failure surface.
+
+That is a better test than whether the architecture looks sophisticated.
+
 Several agents also change the principal's work.
 
 With one agent, the human has a conversation.
@@ -249,6 +257,52 @@ The count of agents is less important than the diversity of error.
 This is where a portfolio can become sophisticated without becoming crowded. One producer. One checker. One deterministic test. A human at the right boundary.
 
 The system may outperform a swarm of eight agents debating one another in beautifully formatted prose.
+
+There is an additional coordination cost that is easy to miss because it is machine-to-machine rather than human-to-machine: semantic drift between roles.
+
+The researcher says “qualified lead” and means a company that fits the market criteria.
+
+The sales agent hears “qualified lead” and means a prospect ready for outreach.
+
+The finance agent hears “customer” and means an account that has paid.
+
+The product agent hears “customer” and includes free users.
+
+Humans spend enormous amounts of organizational time discovering that different departments use the same nouns differently. Agents can reproduce the problem at machine speed.
+
+A useful multi-agent system therefore needs interfaces between roles, not merely prompts inside roles.
+
+What exactly does the research agent hand to the writer?
+
+Which fields are facts, which are hypotheses, and which are recommendations?
+
+What state tells the deployment role a code change is eligible to move forward?
+
+What does “approved” mean, and who had authority to approve it?
+
+A coder may express that interface as a schema.
+
+A small business may express it as a shared template.
+
+A household may express it as a simple record: trip selected, not booked; dates verified; traveler approval still required.
+
+The point is the same.
+
+A handoff should carry enough structure that the next role does not have to infer the status of the work from polished prose.
+
+This can reduce a surprising number of multi-agent failures because handoffs are where uncertainty becomes invisible.
+
+One role says, “I found what appears to be the current policy.”
+
+The next role treats it as current policy.
+
+The uncertainty has been laundered away by a handoff.
+
+A structured status can preserve it: source found, not verified.
+
+That may sound like bureaucracy.
+
+It is cheaper than a machine organization whose departments agree by accident.
 
 The point is not to recreate the org chart you already know.
 
