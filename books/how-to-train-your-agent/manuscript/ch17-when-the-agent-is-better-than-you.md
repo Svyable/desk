@@ -142,9 +142,9 @@ Training should be capable of promoting the worker past the teacher.
 
 Otherwise it is not training. It is obedience.
 
-This is where the childhood metaphor reaches its limit and earns its purpose. Human children eventually become adults whose knowledge exceeds their parents' in many domains. The parent's job is not to remain technically superior forever. It is to help create a capable actor and revise the relationship as capability changes.
+This is where apprenticeship becomes more than a safety metaphor. A human apprentice is not trained merely to imitate the master's exact motions forever. The point is competent practice. A good apprentice eventually encounters new tools, new cases, and sometimes a better method than the person who taught the original one.
 
-An agent is not a child. The moral relationship is entirely different. But the operational lesson is useful: training should not freeze the principal's current judgment as the permanent ceiling.
+An agent is not a human apprentice, and the moral relationship is entirely different. The operational lesson is useful anyway: training should not freeze the principal's current judgment as the permanent ceiling.
 
 A role can discover a better way.
 
@@ -198,6 +198,48 @@ That is a form of work.
 
 It becomes more important as direct technical superiority becomes less realistic.
 
+The difficult transition appears first in fields where the output can be evaluated more easily than the method can be understood.
+
+A founder who is not a database specialist may direct an agent that produces a sophisticated query plan. She can see that latency fell and the tests still pass without being able to explain every optimizer decision. A designer can use generated code to create an interactive prototype whose implementation exceeds her coding ability while still judging whether the product interaction is good. A small-business owner can receive a cash-flow model more sophisticated than one he could construct, yet still know which invoices are real, which expenses are discretionary, and whether the model's proposed assumptions match the business.
+
+These situations do not eliminate expertise.
+
+They rearrange it.
+
+The principal's domain knowledge often moves outward from the artifact toward the surrounding reality.
+
+The founder may not understand every query operator. She understands the customer-facing latency requirement, the data sensitivity, the production risk, and whether the system can be rolled back.
+
+The designer may not understand the entire component hierarchy. She understands the interaction that needs to feel immediate, the accessibility requirement, and which visual compromise would damage the product.
+
+The business owner may not understand every spreadsheet formula. He understands whether the sales forecast assumes customers that do not exist.
+
+The agent can be better at the formal technique while the human remains better positioned to judge the consequence.
+
+That division is powerful.
+
+It is also unstable.
+
+Agents will get better at the surrounding judgment too.
+
+They will learn product conventions, user behavior, business context, legal constraints, and operational history. The human cannot defend relevance by moving one layer outward forever and declaring the new layer uniquely human.
+
+The durable question is not which layer the machine cannot touch.
+
+It is which layer still contains unresolved responsibility.
+
+Somebody has to decide which latency tradeoff is acceptable.
+
+Somebody has to decide whether an accessibility defect blocks release.
+
+Somebody has to decide whether the cash-flow risk is worth taking.
+
+An agent can increasingly inform those decisions. In some settings it may make a better recommendation than the principal.
+
+The principal still needs a legitimate way to authorize consequence.
+
+This is why the chapter belongs in a book about training rather than a book about model intelligence. The moment the agent becomes better at the task, the quality of the surrounding institution matters more, not less.
+
 How should a principal behave when the agent's reasoning is beyond her ability to audit?
 
 Do not fake review.
@@ -222,9 +264,59 @@ You cannot audit a generated security configuration? Test it, use established to
 
 You cannot tell whether a medical recommendation is safe? Treat the agent as preparation for care, not the final authority.
 
-The interface may make expertise feel available.
+You cannot judge whether generated code is secure? Do not make “looks good to me” the release gate. Narrow the authority until there is a test or qualified review that corresponds to the risk.
 
-Authority should still follow evidence and role.
+You cannot independently verify whether the financial projection's tax assumptions are valid? Separate the parts you can validate from the part that needs an accountant.
+
+This separation is a practical skill.
+
+A weak principal experiences a complex output as one blob: understand it or trust it.
+
+A stronger principal decomposes the trust problem.
+
+Which claims are arithmetic?
+
+Which are factual?
+
+Which depend on professional interpretation?
+
+Which are preference?
+
+Which are irreversible actions?
+
+Which can be tested cheaply?
+
+Which require an expert?
+
+You do not need one person who can personally reproduce the entire result if the system has enough independent checks around the properties that matter.
+
+This is how ordinary people already use expertise.
+
+You do not need to understand combustion chemistry to notice that the mechanic returned the car with the same warning light. You do not need to be a structural engineer to ask whether the engineer is licensed and whether the plan meets the required code. You do not need to be an airline dispatcher to verify that your ticket exists, has the correct date, and goes to the city you intended.
+
+Agents will make this style of competence more common.
+
+The person who can formulate the verification surface will gain access to capabilities beyond their personal craft boundary.
+
+That does not make expertise obsolete.
+
+It makes interfaces to expertise more important.
+
+The interface may be a test suite.
+
+It may be a source requirement.
+
+It may be a professional sign-off.
+
+It may be an external measurement.
+
+It may be a reversible pilot.
+
+It may be a second opinion.
+
+The point is that “human in the loop” is not enough information.
+
+The loop needs a human who can do something meaningful at that point.
 
 There is another problem when the agent is better: the principal can become unable to detect performance decay.
 
@@ -274,4 +366,4 @@ Later, you teach the role how to prove that it is still good even when you can n
 
 That is not surrender.
 
-It is governance growing up.
+It is qualification becoming governance.
