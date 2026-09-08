@@ -6,6 +6,7 @@
 | **Status**    | Complete draft |
 | **Chapters**  | 25 of 25 drafted |
 | **Edition**   | First complete draft · September 2026 |
+| **Release Review** | Remain blocked on source-ledger schema normalization and literal mechanical/integrity gates; see [research/release-review-2026-09-07.md](research/release-review-2026-09-07.md) |
 
 *Twenty-Five Books, Twenty-Five Decades, and the Stories Behind a Nation.*
 
@@ -50,6 +51,7 @@ The result is not a ceremonial canon. It is a history of books as events. Each c
 - [Research brief, selection method, source trail, and falsification notes](research/README.md)
 - [Chapter briefs and runner-up ledger](research/chapter-briefs.md)
 - [Source ledger](research/source-ledger.csv)
+- [Release review — September 7, 2026](research/release-review-2026-09-07.md)
 
 ## Rights
 
