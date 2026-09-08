@@ -1,435 +1,113 @@
 # The Customer You Cannot Fire
 
-In 2007, Netflix described its strategy in a sentence that now reads like a bridge between two eras.
+In 2007, Netflix described a strategy that sounded almost frictionless. Grow the DVD subscription business. Expand into Internet delivery as that market developed. Use the large base of DVD subscribers to help carry the company into streaming.
 
-The company said its core strategy was to grow a large DVD subscription business while expanding into Internet delivery as that market developed. Management believed the DVD business would remain important for some time and that a large base of DVD subscribers would position Netflix to move those customers—and the business itself—toward streaming.
+The logic was sensible. The old business still worked, the new one was becoming visible, and the same customers who financed the present might finance the transition.
 
-That was not denial.
+Four years later, Netflix learned how much trouble can fit inside the word *carry*.
 
-It was transition planning.
+In July 2011 the company separated its DVD-by-mail and streaming plans, raising the effective price for customers who wanted both. Then it announced that the DVD operation would become Qwikster, with a separate brand and website. Netflix later told investors that reaction to the price change, and to a lesser degree the proposed Qwikster split, was “very negative.” Cancellations rose, gross additions weakened, and the company abandoned the branding separation.
 
-The old business was still growing. The new one was becoming visible. The same customers who funded the company’s expansion could, in principle, be carried toward the next delivery model.
+The damage was real. So was the strategic direction.
 
-Four years later, Netflix discovered how much friction could fit inside that sentence.
+Streaming did not stop mattering because customers hated the transition. DVD did not become the future because the migration had been handled badly. By March 2012, Netflix reported 26.074 million domestic unique subscribers, up from 24.395 million at the end of 2011, while streaming subscriptions were growing and DVD subscriptions were still shrinking. That rebound does not prove management had found some universal formula for repairing customer trust; device adoption, content, market growth, pricing, and several other things were changing at once. It does establish a useful boundary. The 2011 revolt was not a permanent veto on streaming.
 
-In July 2011 the company separated its DVD-by-mail and streaming plans, raising the effective price for customers who wanted both. It then announced that the DVD operation would be rebranded as Qwikster and placed on a separate website.
+Customers can constrain the path of adaptation without determining its destination.
 
-The customer reaction was severe.
+That distinction is easy to lose in strategy stories. In retrospect, a transition becomes two bars on a chart. Legacy revenue falls. New revenue rises. One colored area replaces another.
 
-Netflix later told investors that the response to the price change, and to a lesser degree the branding decision, had been very negative. The numbers made the damage harder to euphemize. Domestic subscribers fell from 24.6 million at the end of June to 23.8 million at the end of September. The quarter produced a net loss of 805,000 domestic subscribers after adding nearly two million in the previous quarter. Gross additions fell too. The company abandoned the Qwikster separation.
+Customers do not move like colored areas.
 
-The strategic direction did not disappear.
+They have files, habits, procurement rules, installed equipment, trained staff, integrations, contracts, renewal cycles, budgets, and expectations that a supplier spent years teaching them to have. A successful product enters somebody else’s operating system. Once it does, changing the product is no longer only an internal decision.
 
-Streaming still mattered.
+That relationship is an asset. It can also become a switching cost.
 
-DVD still had to be managed.
-
-The customers were the difficulty.
-
-This is the part of adaptation that strategy stories often clean up after the fact.
-
-The old customer is usually treated as a statistic.
-
-Revenue mix shifts.
-
-Legacy volume declines.
-
-The new segment grows.
-
-A chart makes transition look like one colored area gradually replacing another.
-
-Real customers do not move like colored areas.
-
-They have habits.
-
-They have contracts.
-
-They have installed equipment.
-
-They have saved files.
-
-They have procurement rules.
-
-They have workflows built around the product.
-
-They have expectations about price, support, compatibility, and what the company owes them because the company spent years teaching them what to expect.
-
-A successful business does not merely acquire customers.
-
-It becomes part of their infrastructure.
-
-That relationship is an asset.
-
-It can also become a constraint.
-
-Clayton Christensen and Joseph Bower studied one version of this problem in the disk-drive industry. Their argument is often flattened into “companies should ignore customers,” which is not what their evidence showed.
-
-Established firms were frequently technically capable. They developed new technologies, including difficult ones, when those technologies served the needs of important existing customers. The problem arose when emerging technologies initially mattered to markets the current customer base did not value.
+Clayton Christensen and Joseph Bower studied one version of this problem in the disk-drive industry. Their work is sometimes flattened into the advice that incumbents should ignore their customers. The evidence points somewhere more uncomfortable. Established firms were often technically capable and responsive. They invested in demanding technologies when important customers wanted them. The problem appeared when an emerging technology initially served markets that the current customer base did not value.
 
 Resource allocation followed demand with money behind it.
 
-That is usually what a well-managed company is supposed to do.
+That is usually what disciplined management is supposed to do. Sales brings in requests. Product quantifies the opportunity. Finance models the return. Executives put engineers and capital behind projects with identifiable buyers. The system converts customer knowledge into investment discipline.
 
-Customers ask for better performance.
+A future customer arrives with much less authority. The current account has purchase history, usage data, renewal patterns, gross margin, complaints, a sales owner, and perhaps a signed contract. The future customer may not yet know the category exists. Its price point is uncertain. Its use case may still be a sketch. Put those two opportunities in the same capital-allocation meeting and the old customer arrives with a spreadsheet and a quota. The future customer arrives as a slide.
 
-Sales teams bring the requests inside.
+That asymmetry is customer adaptation debt: the cost of changing after customers have organized around what you already do.
 
-Product managers quantify the opportunity.
+Part of the debt is obvious. Revenue from current customers cannot be casually endangered on behalf of people who may never buy. But some of the more durable obligations appear only after the product has become infrastructure.
 
-Finance models the revenue.
+A medical-device company cannot treat compatibility with last year’s equipment as an aesthetic inconvenience. A bank cannot migrate ledgers on the theory that a cleaner architecture justifies a few balances going missing. An enterprise-software vendor may want to redesign an API that thousands of customers call every hour, but the elegance of the new interface does not erase the systems built around the old one.
 
-Executives allocate engineers and capital toward projects with identifiable buyers.
+Past promises now live outside the firm.
 
-The system converts customer knowledge into investment discipline.
+The physical asset may sit on the company’s balance sheet. The customer obligation is distributed across contracts, integrations, certifications, data formats, partner ecosystems, trained users, purchasing rules, and trust. The supplier owns only part of the transition cost.
 
-That is one reason successful companies are successful.
+This is why “cannibalize yourself” is easier to say than to execute. A company can choose to accept lower margins on its own product. It cannot unilaterally decide that the customer is ready for the consequences.
 
-It can also create a blind spot.
+Netflix was unusually explicit about streaming before streaming dominated its business. It did not need to discover the destination in 2011. The hard part was coordinating product economics with expectations built during the DVD era. Separating plans changed what customers paid for a bundle they understood. Qwikster then asked them to accept an organizational division that made sense inside Netflix but created extra friction in a relationship customers had experienced as one service.
 
-A project for a future customer begins with weaker evidence than a project for a current one.
+The backlash was therefore informative without being dispositive. It said something important about the terms of the migration. It did not prove that the migration itself was wrong.
 
-The current customer can sign a purchase order.
+That is a more useful way to think about the customer’s veto. It is rarely absolute. Customers can make a route expensive enough to force redesign, delay, subsidy, migration tooling, parallel support, or a temporary retreat. They can expose a transition that looks efficient on an internal roadmap but pushes too much cost onto the people using the old system. What they usually cannot do forever is repeal a technological or economic change that has become better for enough of the market.
 
-The future customer may not know the category exists.
+A strategically correct destination can survive a badly priced transition.
 
-The current customer has account history, budget, usage data, renewal patterns, complaints, and an executive sponsor.
+The lesson matters because adaptation is usually judged by comparing endpoints. Old architecture versus new. Old customer versus new. Old business model versus new. The organization, however, has to live through the interval.
 
-The future customer is represented by assumptions.
+Existing customers make that interval expensive because some of their claims on continuity are legitimate.
 
-The current business can calculate gross margin.
+The word *legitimate* matters. It is too easy to blame customers whenever an incumbent moves slowly. Customers are not responsible for protecting a supplier from strategic change. They are trying to make their own systems work. A hospital asking a software vendor not to break an integration is not hostile to innovation. A manufacturer asking for reliability from a machine supplier is not obligated to subsidize a speculative product for another market. An enterprise with millions of documents in an old format is not irrational for caring about compatibility.
 
-The future business may not yet know what the product should cost.
+Dependability is one of the ways a supplier became valuable in the first place. Dependability creates obligations.
 
-Put the two projects in the same capital-allocation meeting and the old customer arrives with a lawyer, a spreadsheet, and a quota.
+This is why adaptation debt can accumulate fastest in excellent companies. Poor products are easy to abandon. Great products become infrastructure. The better a company fits into the customer’s world, the more of the transition cost can wind up distributed across both sides of the relationship.
 
-The future customer arrives as a slide.
+Customer intimacy can then create a subtle blind spot. A firm that knows its best customers deeply can improve the existing product with extraordinary precision. It can also begin to confuse those customers with the market itself.
 
-This is customer adaptation debt.
+“Customers want X” usually means something narrower: current customers, in the current segment, under the current pricing model, using the current architecture, asked through the current research process, say they want X. That is valuable evidence. It is not a law of nature.
 
-It is not the burden of having customers.
+A different customer may value something else. A current customer may change priorities once a new possibility becomes concrete. A lower-performing technology may win because it is cheaper, easier, smaller, faster, or accessible to people the incumbent never served. A prototype rejected today may become useful after the surrounding ecosystem improves.
 
-It is the cost of changing after customers have organized around what you already do.
+The mistake is not listening to customers. It is forgetting who is speaking.
 
-The debt grows in several places at once.
+Current customers have unusual authority about the current relationship. They know where the product fails them, which workflows hurt, what procurement blocks, what they will pay for, and which promises they believe the company has made. They have much less authority over markets they do not inhabit or behaviors a new product may make possible.
 
-The obvious one is revenue.
+Organizations often respond by separating the emerging business from the mature one. Sometimes that means a separate unit; sometimes only a separate team, budget, metric, channel, or product line. The purpose is not to protect innovation from reality. It is to stop every immature idea from being required to beat the mature business on the mature business’s economics before the idea has had time to find its own customers.
 
-A company that earns most of its money from current customers cannot casually make their product worse, raise their costs, or redirect all engineering effort toward people who may never buy.
+The logic is familiar in the research on organizational ambidexterity. The mature business needs discipline. The emerging business needs some room to remain immature.
 
-The less obvious one is obligation.
+But separation is not free. A protected group can mistake weak demand for strategic patience. It can become proud of not understanding the existing customer. It can build a product that cannot be integrated back into the company. “Future customer” can become a flattering label for somebody nobody has actually found.
 
-A medical-device company cannot tell hospitals that compatibility with last year’s equipment is aesthetically limiting and therefore discontinued. A bank cannot tell depositors that the new ledger is more elegant but some balances may disappear during migration. An enterprise-software vendor cannot always replace an API cleanly because thousands of customers have built systems that call it every day.
+The better rule is to match customer evidence to the stage of the problem. Existing customers should have a strong voice over promises already made. They should not automatically receive a veto over experiments that do not yet affect them. Future customers should graduate from hypothesis to observed behavior quickly. And the transition itself should make explicit what will be preserved, migrated, repriced, or ended.
 
-The company’s past promises now live in somebody else’s operations.
+The last category is the one companies avoid saying aloud.
 
-That is a different kind of lock-in from a factory.
+Sometimes adaptation requires ending a relationship or a promise. A product reaches end of life. A support policy expires. A bespoke feature costs more to preserve than the account is worth. A technology becomes unsafe or unmaintainable. A company cannot promise infinite compatibility at yesterday’s price.
 
-The physical asset can sit on the company’s balance sheet.
+Some customers are difficult to “fire” because the relationship is not merely economic. A major account can move a quarter. A government buyer can shape certification and product design. A famous customer can matter to sales beyond its contract. The first customer segment may be woven into the company’s identity. Changing the bargain can feel like betrayal.
 
-The customer obligation sits partly outside the company.
+Sometimes it is. Sometimes it is overdue.
 
-It appears in contracts, integrations, trained users, partner ecosystems, certification, data formats, purchasing rules, and trust.
+A good transition distinguishes those cases instead of hiding all of them inside continuity. It gives customers time. It provides migration tools. It keeps compatibility where the value exceeds the cost. It publishes end-of-life dates. It runs parallel systems where failure would be unacceptable. It prices old support honestly instead of making the new business carry its cost forever.
 
-The firm does not control all of it.
+That is debt management in the literal sense of the metaphor: paying down obligations deliberately rather than pretending they do not exist until they become an emergency.
 
-This is why “cannibalize yourself” is more complicated than it sounds.
+IBM’s mainframe business is a useful countercase because continuity can itself be the product. A customer running mission-critical workloads may rationally value compatibility across generations of hardware more than novelty. Preserving old code and interfaces is not evidence that IBM failed to adapt. In that market, the compatibility path is part of the adaptation.
 
-A company can decide to accept lower margin on its own product.
+The old customer is therefore not a burden to escape by default. A durable customer base can fund experimentation, provide demanding operating environments for new technology, expose edge cases entrants have never seen, confer trust, and become the first buyer of a replacement if the migration is credible.
 
-It cannot unilaterally decide that customers are ready for the consequences.
+The relevant question is whether serving the customer expands or contracts the firm’s future option set.
 
-Netflix’s transition illustrates the difference.
+A relationship becomes adaptation debt when preserving it requires repeated commitments whose expected future cost is rising faster than the value the relationship returns—and when the organization can no longer discuss that trade plainly because the customer has become part of its identity.
 
-The company was unusually explicit about streaming years before streaming dominated the business. It did not need a consultant to reveal that Internet delivery existed. It built streaming capability while the DVD service was still central.
+Companies often describe themselves through the people they serve: professionals, enterprises, creators, banks, families, serious users. Such identities can focus strategy. They can also freeze it. A new customer may look low quality because it does not resemble the old one. A new product may feel like dilution because it attracts a different user. An emerging market may be dismissed because it cannot yet support the service level that the incumbent’s current customers expect.
 
-The difficulty was coordinating the transition across product economics and customer expectations.
+At that point the existing customer is no longer merely a customer. It has become a definition of what counts as one.
 
-The 2011 plan separation changed what customers paid for a bundle they already understood. The Qwikster proposal also asked them to accept a more visible organizational separation between two services that, from the customer’s point of view, were part of one Netflix relationship.
+The way out is not permanent betrayal. It is segmentation with memory. Which obligations were actually promised? Which are legal, contractual, moral, or reputational, and which are simply habits? Which requirements belong to this segment rather than to the market as a whole? What new customer cannot be served because the old one still sets the default architecture? What would a fair migration cost, and who should pay it?
 
-Management may have had good strategic reasons to distinguish the businesses.
+Those questions are harder than “listen to the customer.” They are also harder than “disrupt yourself.” Both slogans evade the central fact that a successful company has already entered other people’s lives.
 
-Customers experienced the distinction as friction.
-
-That is the customer’s veto.
-
-It is not absolute.
-
-Netflix eventually became overwhelmingly a streaming company.
-
-The 2011 backlash did not prove the old model had to survive forever.
-
-It proved that the route from old to new mattered.
-
-A strategically correct destination can still be reached through a badly priced transition.
-
-This is one of the central ideas of adaptation debt.
-
-People often evaluate change by comparing endpoints.
-
-Old product versus new product.
-
-Old architecture versus new architecture.
-
-Old customer versus future customer.
-
-The organization lives in the path between them.
-
-Existing customers make that path expensive because they have legitimate claims on continuity.
-
-The word legitimate matters.
-
-It is too easy to blame customers for incumbents’ failures.
-
-Customers are not responsible for protecting a supplier from strategic change.
-
-They are trying to solve their own problems.
-
-If a steel producer asks a machine supplier for greater reliability, the producer is not obligated to fund a speculative technology that might matter to a different market in ten years.
-
-If a hospital asks its software vendor not to break an integration, the hospital is not being hostile to innovation.
-
-If an enterprise wants support for an old file format because ten million documents depend on it, the enterprise is not irrationally attached to history.
-
-The supplier created a successful relationship by becoming dependable.
-
-Dependability produces obligations.
-
-This is one reason adaptation debt often accumulates fastest in excellent companies.
-
-Poor products are easy to leave.
-
-Great products become infrastructure.
-
-Infrastructure is hard to move.
-
-The better the company has been at fitting into the customer’s system, the more transition costs may be distributed across both sides of the relationship.
-
-That creates a paradox.
-
-Customer intimacy can improve adaptation inside the existing problem while reducing sensitivity to problems customers do not yet experience.
-
-A firm that knows its best customers deeply can prioritize their needs with remarkable precision.
-
-It can also begin to define the market as those needs.
-
-The distinction is subtle.
-
-“Customers want X” may mean current customers in the current segment, under current pricing, using the current product architecture, asked in a current research process, say they want X.
-
-That is useful information.
-
-It is not a law of nature.
-
-A different customer may value something else.
-
-A current customer may value something else once a new possibility becomes concrete.
-
-A lower-performing technology may unlock convenience, price, scale, or access that changes the relevant comparison.
-
-A customer who rejects an early prototype may adopt a later version after the surrounding ecosystem improves.
-
-A company gets into trouble when customer evidence becomes customer metaphysics.
-
-This is what serious product organizations have to guard against.
-
-The goal is not to stop listening.
-
-It is to know who is speaking.
-
-Current customers answer questions about the current relationship with unusual authority.
-
-They know where the product fails them.
-
-They know which workflows are painful.
-
-They know what breaks procurement.
-
-They know what they are willing to pay for now.
-
-They are less authoritative about markets they do not inhabit, architectures they have not experienced, or behaviors a new product might make possible.
-
-The company needs both kinds of knowledge.
-
-That often requires separation.
-
-Not necessarily a separate company.
-
-Sometimes a separate team, budget, metric, channel, or product line is enough.
-
-The purpose is to stop every emerging idea from having to justify itself against the economics of the current customer before it has had time to discover its own.
-
-This is one of the reasons ambidextrous structures recur in adaptation research.
-
-The mature business needs discipline.
-
-The emerging business needs permission to be immature.
-
-If they are forced into one operating logic too early, the mature business usually wins because it has revenue, process, status, and customer evidence.
-
-But separation creates its own debt.
-
-The new group can become protected from reality.
-
-It can mistake weak demand for strategic patience.
-
-It can become culturally proud of not understanding the old customer.
-
-It can build something impossible to integrate back into the core business.
-
-It can use “future customer” as a synonym for “person we have not found.”
-
-So the challenge is not to shield innovation from customers.
-
-It is to match the right customer evidence to the right stage of the problem.
-
-The old customer should have a strong voice over promises already made.
-
-They should not automatically have a veto over experiments that do not yet affect them.
-
-The future customer should be discovered through behavior as quickly as possible rather than kept alive indefinitely in strategy language.
-
-The transition should make explicit which obligations will be preserved, migrated, priced differently, or ended.
-
-That last category is the hardest.
-
-Sometimes adaptation requires ending a relationship.
-
-A product reaches end of life.
-
-A support policy expires.
-
-A low-margin segment no longer fits the company’s strategy.
-
-A bespoke feature costs more to preserve than the customer relationship is worth.
-
-A technology becomes unsafe or unmaintainable.
-
-A company cannot promise infinite compatibility.
-
-This is where the title of the chapter becomes literal.
-
-Some customers feel impossible to fire because the relationship is large, prestigious, politically important, technically entangled, or symbolically connected to the company’s identity.
-
-A major account may represent enough revenue to affect a quarter.
-
-A government customer may shape certification and product requirements.
-
-A famous customer may matter to sales far beyond its direct contract.
-
-An old customer segment may contain the people who first made the company successful.
-
-Ending or changing those relationships can feel like betrayal.
-
-Sometimes it is.
-
-Sometimes it is overdue.
-
-The distinction depends on whether the company has been explicit about the bargain.
-
-Good transitions give customers time.
-
-They provide migration tools.
-
-They maintain compatibility where the value exceeds the cost.
-
-They publish end-of-life dates.
-
-They support parallel systems when failure would be unacceptable.
-
-They price old support honestly rather than hiding its growing cost inside the new business.
-
-They do not pretend that every customer can be carried forever at yesterday’s economics.
-
-This is not generosity.
-
-It is debt management.
-
-The company is paying down obligations in a controlled way rather than waiting for them to become an emergency.
-
-IBM’s mainframe history provides a useful countercase because long-lived compatibility can itself be the product.
-
-A customer running mission-critical workloads may value continuity more than novelty. Preserving old code and interfaces across generations of hardware is not evidence that IBM failed to adapt. The compatibility path is part of the adaptation.
-
-The old customer is not always a burden to escape.
-
-Sometimes the old customer is the reason the next generation can be funded.
-
-The key question is whether serving that customer increases or decreases the firm’s future option set.
-
-A stable customer base can fund experimentation.
-
-It can provide real operating environments for new technology.
-
-It can reveal difficult edge cases entrants have not encountered.
-
-It can confer trust in markets where reliability matters more than novelty.
-
-It can become the first buyer of the new system if the migration path is credible.
-
-Customer relationships become adaptation debt when preserving them requires the company to keep making commitments whose future cost exceeds the value of the relationship—and when the organization cannot say so because the customer has become part of its identity.
-
-That last part is important.
-
-Companies often describe themselves through the people they serve.
-
-We build for professionals.
-
-We serve the enterprise.
-
-We are the choice of creators.
-
-We are for serious users.
-
-We are trusted by banks.
-
-We are the family brand.
-
-These descriptions help focus strategy.
-
-They can also freeze it.
-
-A new customer who does not resemble the old one may look low quality, unprofitable, unserious, or off-brand.
-
-A new product that attracts a different user can feel like dilution.
-
-An emerging market may be dismissed because it cannot yet support the service level the existing customer expects.
-
-The current customer has become a definition of what counts as a customer.
-
-That is adaptation debt at the level of identity.
-
-The answer is not permanent betrayal.
-
-It is segmentation with memory.
-
-What has this customer earned from us because of earlier promises?
-
-Which part of the relationship remains profitable and strategically useful?
-
-Which obligations are moral, legal, contractual, or reputational rather than merely habitual?
-
-Which requirements are specific to this segment rather than universal properties of the market?
-
-What new customer cannot be served because the old one sets the default architecture?
-
-What would a fair migration look like?
-
-Those questions are harder than “listen to the customer.”
-
-They are also harder than “disrupt yourself.”
-
-Both slogans evade the central fact.
-
-A successful company has already entered other people’s lives.
-
-Adaptation is therefore partly a negotiation with the people who helped make the old strategy successful.
-
-Netflix could announce a streaming future in a filing.
-
-It still had to move millions of customers through the present.
-
-The Qwikster episode matters because it shows the difference between seeing the next business and pricing the path toward it.
+Netflix could see streaming coming years before Qwikster. That foresight did not make the path free. The 2011 backlash forced a retreat in transition design; the subsequent subscriber recovery showed that the strategic migration could continue anyway.
 
 The customers did not prevent Netflix from becoming a streaming company.
 
-They forced the company to learn that the transition belonged to them too.
+They made Netflix pay attention to how it got there.
