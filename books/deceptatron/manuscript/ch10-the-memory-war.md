@@ -307,3 +307,297 @@ That is why forgetting, paradoxically, can become a democratic right.
 People need enough memory to hold power accountable.
 
 They also need enough freedom from machine memory to change their minds.
+
+Machine memory also has a provenance problem.
+
+A system can remember a statement without remembering why the statement entered memory.
+
+That difference matters.
+
+“I distrust this agency” could have come from a careful conversation after the user read an inspector general's report.
+
+It could have come from one angry remark after a delayed payment.
+
+It could have been inferred from several clicks.
+
+It could have been summarized by another model.
+
+It could have been imported from an external profile.
+
+Those origins should not be treated as equivalent.
+
+A memory system that preserves only the conclusion loses the evidence quality of the memory itself.
+
+Humans do this badly too.
+
+We remember that we heard something without remembering where.
+
+A rumor becomes familiar.
+
+A statistic survives after the source is forgotten.
+
+A warning from a reliable friend and a joke from an anonymous account can collapse into the same vague recollection: “I think I read that somewhere.”
+
+Software has the opportunity to be better.
+
+A stored political memory can carry context.
+
+User-stated.
+
+System-inferred.
+
+Imported.
+
+Time-limited.
+
+High confidence.
+
+Low confidence.
+
+Based on one interaction.
+
+Corrected by the user.
+
+Disputed.
+
+Expired.
+
+These labels need not clutter ordinary conversation. They can govern how aggressively the system uses the memory.
+
+That would prevent a casual inference from silently acquiring the authority of a direct statement.
+
+It would also make memory correction meaningful.
+
+If a user says, “I don't believe that anymore,” the system should not merely append the new sentence beside the old one and keep whichever version predicts behavior better.
+
+The correction is part of the relationship.
+
+A user-serving agent should privilege the person's current account of their own preference unless there is a compelling reason not to.
+
+Political persuasion creates a different incentive.
+
+The persuader may prefer the older grievance because it remains useful.
+
+That is why control over personal memory should sit with the person, not with the sponsor.
+
+The user needs more than a delete button buried in settings.
+
+They need intelligible memory boundaries.
+
+What do you remember about my politics?
+
+Which conclusions did I tell you directly?
+
+Which did you infer?
+
+Which are temporary?
+
+What did you retrieve when you answered this question?
+
+Can I make this topic off-limits for personalization?
+
+Can I reset political memory without deleting the rest of the assistant that I still find useful?
+
+These questions sound like product design because product design is where political power often first appears.
+
+The answer “delete your entire account” is not meaningful agency if the user depends on years of legitimate nonpolitical memory.
+
+Selective forgetting matters.
+
+A person should be able to preserve that their parent uses a wheelchair while deleting an inferred view about disability policy.
+
+Preserve a preferred airport while resetting a political profile built from travel patterns.
+
+Preserve work projects while excluding workplace grievances from political targeting.
+
+The system needs compartments.
+
+Human institutions already use them.
+
+A hospital record is not a marketing list merely because the same organization can technically access both systems.
+
+An employer's payroll data is not automatically available to every manager.
+
+A lawyer's client file is not ordinary commercial inventory.
+
+Separation is an institutional choice implemented through permissions, purpose, and audit.
+
+AI memory will need similar architecture.
+
+Without compartments, integration becomes a euphemism for universal reuse.
+
+This is especially risky when assistants connect external services.
+
+Calendar.
+
+Email.
+
+Health.
+
+Banking.
+
+Location.
+
+Documents.
+
+Messages.
+
+Work tools.
+
+The value of the assistant rises because it can connect context across domains.
+
+The political danger rises for the same reason.
+
+A system can infer that a user is under financial pressure from a banking connection, has a family health crisis from calendar and messages, and is angry at a local agency from email.
+
+No campaign should need direct access to any of those records if the assistant itself is willing to turn the combined model into targeting.
+
+That is why “we never sell your data” is too weak a promise.
+
+The stronger promise is about use.
+
+We do not use your private service context to optimize third-party political persuasion.
+
+That sentence can become a product commitment, a contractual commitment, and eventually a legal one.
+
+It is more meaningful than a privacy slogan because it governs the objective.
+
+Memory also changes accountability after an influence campaign ends.
+
+A temporary advertisement disappears from the screen.
+
+A memory derived from the advertisement may persist.
+
+The system can remember that a framing worked.
+
+It can remember that the user engaged.
+
+It can remember a new inferred preference.
+
+The sponsor can leave while the effect remains inside the personal model.
+
+This creates a kind of persuasive residue.
+
+A user may turn off political ads and still receive recommendations shaped by conclusions learned during the political campaign.
+
+A true reset has to address residue.
+
+Which memories were created or updated because of sponsored political interaction?
+
+Can those updates be isolated?
+
+Can the user reverse them?
+
+Can an auditor determine whether a provider continued to use sponsor-derived inferences after the sponsorship period ended?
+
+Again, the system need not store private transcripts for regulators.
+
+It can maintain provenance at the level of memory updates and objective classes.
+
+This is technical bookkeeping with democratic consequences.
+
+The memory war also has a public archival asymmetry.
+
+Generated summaries are easy to update silently.
+
+A page can change.
+
+An assistant answer can change.
+
+A model release can produce a different account of the same event.
+
+Sometimes that is progress. New evidence arrives. Errors are corrected. Better sources become available.
+
+But revision without history makes it impossible to understand how public knowledge changed.
+
+Trustworthy systems should preserve important corrections.
+
+Not every answer forever.
+
+Important factual reversals, source changes, and institutional corrections deserve a visible trail.
+
+Newsrooms already publish corrections.
+
+Scientific papers have versions, retractions, and errata.
+
+Government datasets carry release dates and revisions.
+
+The same norm should extend to machine-mediated public memory.
+
+An assistant that confidently stated something yesterday and reverses today should be able to say why.
+
+New evidence.
+
+Earlier source error.
+
+Changed official record.
+
+Updated estimate.
+
+The explanation restores epistemic texture.
+
+It teaches the user that correction is not proof that knowledge is impossible.
+
+It is part of how knowledge improves.
+
+That cultural point matters in the price-of-doubt environment.
+
+Propagandists exploit corrections by treating any revision as evidence that the institution was always lying.
+
+Institutions sometimes invite that interpretation by hiding revision.
+
+A visible change log makes a different argument.
+
+We were wrong here.
+
+This source changed.
+
+This estimate was provisional.
+
+This is what the new record supports.
+
+Such admissions can be embarrassing.
+
+They are also memory infrastructure.
+
+The alternative is a false appearance of timeless certainty that collapses when somebody finds the old screenshot.
+
+There is a final asymmetry worth naming.
+
+The system can remember the user more precisely than the user can remember the system.
+
+A person may forget the wording of twenty prior answers.
+
+They may not know which model version produced them.
+
+They may not remember which sponsors were active.
+
+They may not know that a recommendation policy changed halfway through the relationship.
+
+The assistant can retain the entire sequence.
+
+That imbalance creates a duty to make history inspectable at the moments when history becomes consequential.
+
+Why are you recommending this?
+
+Which prior preferences influenced the answer?
+
+Did sponsorship affect it?
+
+Did your policy change?
+
+What would you answer without my personal memory?
+
+These are not requests to dump hidden chain-of-thought or proprietary internals.
+
+They are requests for accountable inputs and relationships.
+
+A trustworthy agent can answer them at the level needed for human judgment.
+
+Memory should make the assistant more useful.
+
+It should not make the user less free to become somebody else.
+
+The deepest right in the memory war is not to be forgotten by society.
+
+It is to prevent a machine's convenient summary of you from becoming a permanent political claim about who you are.
