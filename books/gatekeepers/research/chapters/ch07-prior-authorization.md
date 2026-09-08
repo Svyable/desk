@@ -22,6 +22,14 @@ Prior authorization is a consequential gate because it joins medical judgment, c
 - Requires public reporting of selected prior authorization metrics.
 - Requires a prior authorization API using standardized health-data technology on the rule's implementation schedule.
 
+### CMS — Prior Authorization API FAQ, updated September 1, 2026
+
+- https://www.cms.gov/initiatives/burden-reduction/overview/interoperability/frequently-asked-questions/prior-authorization-api
+- Clarifies that the decision clock starts when the payer receives the prior authorization request, not when a provider merely checks coverage requirements through the Coverage Requirements Discovery workflow.
+- Clarifies that if the payer later asks for additional documentation that was not disclosed when the request was submitted, the clock does not stop or restart merely because that additional information is requested; extensions remain governed by the applicable program rules.
+- Requires the payer response through the API to approve, deny with a specific reason, or request the additional information needed to decide.
+- This is useful for the chapter's broader argument because it treats elapsed time as part of the gate's accountability rather than allowing administrative incompleteness to become an invisible reset button.
+
 ### CMS — 2024 Medicare Advantage and Part D Final Rule CMS-4201-F
 
 - https://www.cms.gov/newsroom/fact-sheets/2024-medicare-advantage-and-part-d-final-rule-cms-4201-f
@@ -41,6 +49,7 @@ Prior authorization is a consequential gate because it joins medical judgment, c
 - A denial is not automatically evidence of misconduct. Insurance contracts legitimately define coverage conditions.
 - A later reversal does not prove the initial decision was irrational in every case; additional information may legitimately change the result.
 - Faster decisions are not always better if speed substitutes for needed clinical review. The chapter distinguishes transaction friction from substantive decision friction.
+- The clock clarification does not mean every missing-information request is improper. Providers can submit incomplete requests, payers can legitimately need more evidence, and applicable programs may permit extensions. The narrower point is that undisclosed documentation demands should not silently erase elapsed decision time.
 - Electronic prior authorization can remove avoidable administrative burden without removing necessary clinical judgment.
 - The OIG's 13 percent estimate must remain tied to denied requests and to the study's Medicare Advantage context.
 - Medical error is asymmetric but not one-directional: inappropriate approvals can also expose patients to harm and consume scarce capacity.
@@ -49,7 +58,7 @@ Prior authorization is a consequential gate because it joins medical judgment, c
 
 1. Criteria should be knowable and attached to the purpose of the gate.
 2. Consequential denials should have specific reasons.
-3. The clock matters; delay is part of the decision.
+3. The clock matters; delay is part of the decision, and information requests should not become an untracked way to restart it.
 4. Appeals should remain useful at the time they resolve, not merely exist on paper.
 5. Systems should preserve prior evidence and approvals where continuity is clinically appropriate.
 6. Automation should remove transaction friction without laundering opaque criteria into faster decisions.
