@@ -105,13 +105,6 @@ if matches:
     lines[matches[0]] = local_app
     loader = "\n".join(lines) + ("\n" if loader.endswith("\n") else "")
 loader_path.write_text(loader, encoding="utf-8")
-
-for path in (index_path, loader_path):
-    source = path.read_text(encoding="utf-8")
-    for runtime in ("js/", "css/", "vendor/"):
-        remote = prefix + runtime
-        if remote in source:
-            raise SystemExit(f"Desk Reader local cutover failed: remote Bookself runtime remains in {path}: {remote}")
 PY
 
 # Offline/PWA correctness is part of the sync contract, not a later browser
@@ -173,10 +166,11 @@ version_path.write_text(
 )
 PY
 
-# The personal Shelf is a publication destination and navigation target, never a
-# runtime provider. Validate the staged candidate before promotion so a boundary
-# regression cannot replace the last-known-good live Reader and fail afterward.
-python3 "$BOUNDARY_CHECK" "$stage"
+# A completed sync is fully local: Bookself is the source checkout, not a
+# network runtime provider, and personal Shelf remains only a publication
+# destination/navigation target. Validate the complete staged Reader before
+# promotion so any remote runtime bridge leaves the live Reader untouched.
+python3 "$BOUNDARY_CHECK" "$stage" --require-local-bookself
 
 # Candidate verification succeeded. Replace only the runtime-bearing trees and
 # worker, then publish ownership/version metadata last. reader/index.html remains
@@ -196,11 +190,11 @@ cat <<EOF
 Synced and verified canonical Bookself Reader runtime -> $READER/
 Recorded exact Bookself-owned runtime files in reader/.bookself-runtime-files.
 Cut Desk-owned reader/index.html and app-loader.js over to the verified local
-Bookself runtime; no Bookself Pages js/css/vendor dependency remains there.
+Bookself runtime.
 Verified the local offline shell and recorded its cache generation in
 reader/.bookself-offline-version.
-Verified before promotion that Desk does not execute Reader runtime assets from
-personal Shelf.
+Verified before promotion that every Bookself Reader runtime dependency is local
+and Desk does not execute Reader runtime assets from personal Shelf.
 Preserved Desk-owned manifest.webmanifest, app-icon.svg, and Desk-only js/css
 overlay files.
 A failed upstream verification leaves the live Reader runtime unchanged.

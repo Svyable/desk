@@ -130,9 +130,9 @@ with tempfile.TemporaryDirectory() as tmp:
     assert (root / "reader/css/desk-local.css").read_text() == "desk css\n"
     assert (root / "books/keep.txt").read_text() == "manuscript state\n"
 
-    # Capture the last-known-good state. Both a personal-Shelf runtime regression
-    # and a broken offline shell must be rejected before any live Reader files or
-    # ownership/version metadata are replaced.
+    # Capture the last-known-good state. Remote Bookself/Shelf runtime regressions
+    # and a broken offline shell must all be rejected before any live Reader files
+    # or ownership/version metadata are replaced.
     good_app = (root / "reader/js/app.js").read_text()
     good_worker = (root / "reader/sw.js").read_text()
     good_index = (root / "reader/index.html").read_text()
@@ -142,13 +142,36 @@ with tempfile.TemporaryDirectory() as tmp:
     good_desk_js = (root / "reader/js/desk-local.js").read_text()
     good_desk_css = (root / "reader/css/desk-local.css").read_text()
 
+    # A completed sync may read from the sibling Bookself checkout only during
+    # synchronization. The promoted Reader itself must not call Bookself Pages.
+    (platform / "reader/js/app.js").write_text(
+        f"import '{REMOTE}js/remote-again.js';\ncanonical app v3 must not land\n"
+    )
+    (platform / "reader/sw.js").write_text(worker("bookself-shell-v3", include_offline_helper=False))
+    try:
+        run_sync(root, platform)
+    except subprocess.CalledProcessError as exc:
+        assert "depends on remote Bookself runtime" in exc.stdout
+    else:
+        raise AssertionError("sync accepted remote Bookself runtime after local cutover")
+
+    assert (root / "reader/js/app.js").read_text() == good_app
+    assert (root / "reader/sw.js").read_text() == good_worker
+    assert (root / "reader/index.html").read_text() == good_index
+    assert (root / "reader/js/app-loader.js").read_text() == good_loader
+    assert manifest.read_text() == good_manifest
+    assert offline_version.read_text() == good_version
+    assert (root / "reader/js/desk-local.js").read_text() == good_desk_js
+    assert (root / "reader/css/desk-local.css").read_text() == good_desk_css
+    assert (root / "books/keep.txt").read_text() == "manuscript state\n"
+
     # Canonical Bookself is the only shared runtime source. A future upstream
     # regression that points executable Reader code at the personal Shelf must
     # fail transactionally while ordinary navigation to the released Shelf stays allowed.
     (platform / "reader/js/app.js").write_text(
-        f"import '{SHELF_RUNTIME}bad-runtime.js';\ncanonical app v3 must not land\n"
+        f"import '{SHELF_RUNTIME}bad-runtime.js';\ncanonical app v4 must not land\n"
     )
-    (platform / "reader/sw.js").write_text(worker("bookself-shell-v3", include_offline_helper=False))
+    (platform / "reader/sw.js").write_text(worker("bookself-shell-v4", include_offline_helper=False))
     try:
         run_sync(root, platform)
     except subprocess.CalledProcessError as exc:
@@ -168,9 +191,9 @@ with tempfile.TemporaryDirectory() as tmp:
 
     # A service-worker shell entry without a local file is also a broken sync,
     # even when every copied Bookself file itself compares byte-for-byte.
-    (platform / "reader/js/app.js").write_text("canonical app v4 must not land\n")
+    (platform / "reader/js/app.js").write_text("canonical app v5 must not land\n")
     (platform / "reader/sw.js").write_text(
-        worker("bookself-shell-v4", include_offline_helper=False, missing="./js/missing-shell.js")
+        worker("bookself-shell-v5", include_offline_helper=False, missing="./js/missing-shell.js")
     )
     try:
         run_sync(root, platform)
@@ -189,4 +212,4 @@ with tempfile.TemporaryDirectory() as tmp:
     assert (root / "reader/css/desk-local.css").read_text() == good_desk_css
     assert (root / "books/keep.txt").read_text() == "manuscript state\n"
 
-print("Desk Reader runtime sync contract: staged local-only verification, no Shelf runtime, exact files, complete/versioned offline shell, Desk state preserved")
+print("Desk Reader runtime sync contract: staged fully-local verification, no Shelf runtime, exact files, complete/versioned offline shell, Desk state preserved")
