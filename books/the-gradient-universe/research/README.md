@@ -28,7 +28,8 @@ Examples include:
 - chemiosmotic coupling and cellular ion gradients;
 - natural selection as differential reproductive success among heritable variants;
 - control-theoretic reachability and viability kernels;
-- energetic and thermodynamic costs of control in specified models.
+- minimum-energy control, energetic resilience, and architecture/control co-design in engineered systems;
+- energetic and thermodynamic costs of control in specified biological models.
 
 None of these should be advertised as discoveries of this book.
 
@@ -44,7 +45,7 @@ Failure of one of these principles does not threaten the second law.
 
 ### 3. The book's conjecture
 
-The candidate contribution is not that control costs energy, that future options matter, that viability has a geometry, that organisms construct constraints, or that dormancy preserves latent capacity. All of those have prior art.
+The candidate contribution is not that control costs energy, that future options matter, that viability has a geometry, that organisms construct constraints, that loss of control authority raises reachability cost, that engineered architectures trade cost against controllability, or that dormancy preserves latent capacity. All of those have prior art.
 
 The narrow conjecture left to test is:
 
@@ -62,13 +63,14 @@ Particularly close prior art includes:
 
 - control-theoretic reachable sets and viability kernels;
 - reachable-set methods in stochastic biochemical systems;
+- minimum-energy reachability and energetic resilience under lost control authority;
+- control/architecture co-design in engineered systems;
 - biological organization as closure of constraints;
 - semantic information defined through contribution to viability;
 - non-equilibrium capacity in living systems and dormancy;
 - counterfactual geometry of unrealized accessible biological futures;
 - thermodynamic cost–controllability trade-offs in metabolic currency coupling;
-- energetic resilience under partial loss of control authority;
-- control/architecture co-design in engineered systems.
+- viability-geometric accounts of persistence under perturbation.
 
 The conjecture earns novelty only if the *full causal loop* adds something these literatures do not already predict:
 
@@ -77,7 +79,7 @@ The conjecture earns novelty only if the *full causal loop* adds something these
 3. that constraint changes later accessible transitions;
 4. the change is predicted before the future disturbance occurs;
 5. the constraint's cost and reachability gain jointly predict when it is retained, selected, or beneficial;
-6. simpler power, growth, resilience, control-energy, or standard co-design models do not explain the same threshold as well.
+6. simpler power, growth, resilience, control-energy, viability, or standard co-design models do not explain the same threshold as well.
 
 If that test is not met, the honest description is **interdisciplinary synthesis**, not breakthrough.
 
@@ -142,7 +144,7 @@ Before experiment:
 
 Then test whether persistence, recovery, or reproductive success changes near the predicted threshold.
 
-The highest-value version would use a system where ordinary growth rate, instantaneous power, current entropy production, energy inventory, standard resilience, and standard control metrics make distinguishable predictions.
+The highest-value version would use a system where ordinary growth rate, instantaneous power, current entropy production, energy inventory, standard resilience, minimum control energy, and standard viability/co-design metrics make distinguishable predictions.
 
 ## Falsification rules
 
@@ -155,7 +157,7 @@ The conjecture is not allowed the following escape hatches:
 - no ignoring construction or maintenance cost;
 - no calling an informational, social, or semantic difference a thermodynamic gradient without a physical definition;
 - no appealing to the second law when the stronger conjecture fails;
-- no claiming novelty when a standard control, viability, resilience, or biological model already predicts the result equally well.
+- no claiming novelty when a standard control, viability, resilience, energetic-resilience, co-design, or biological model already predicts the result equally well.
 
 A framework that cannot lose is not ready for publication as science.
 
@@ -176,7 +178,7 @@ The book should keep these distinctions explicit:
 
 There are two potentially publishable outputs here, and they should not be confused.
 
-**A trade/science book** can be worth publishing if it offers a unusually clear synthesis of gradients, constraints, non-equilibrium systems, control, and the limits of thermodynamic explanation, even if the conjecture remains unproven.
+**A trade/science book** can be worth publishing if it offers an unusually clear synthesis of gradients, constraints, non-equilibrium systems, control, and the limits of thermodynamic explanation, even if the conjecture remains unproven.
 
 **A scientific paper** requires more. The reachability conjecture needs a mathematical formulation and at least one result that makes a risky quantitative prediction not already supplied by the closest prior art.
 
