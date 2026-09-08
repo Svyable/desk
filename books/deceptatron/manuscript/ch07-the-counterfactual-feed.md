@@ -345,3 +345,273 @@ It reminds the user that information arrived through a system making choices.
 The strongest propaganda machine of the 2030s may never tell you that two plus two equals five.
 
 It may show you ten thousand true things that make four feel irrelevant.
+
+There is a temptation to answer the counterfactual-feed problem with a common feed.
+
+If personalization fragments reality, force everyone to see the same thing.
+
+The appeal is understandable and the cure is worse than the disease.
+
+A common feed requires somebody to decide what belongs in common. A government, platform, newsroom, standards body, or public commission would have to determine which stories deserve baseline exposure and how much. The institution could be careful, plural, transparent, and still possess extraordinary agenda power.
+
+The book's argument should not end with a national playlist.
+
+The useful idea is a common **reference layer**, not a common experience.
+
+Some information has properties that make shared access especially valuable. Election rules. Official vote totals. Statutory text. Court orders. Emergency notices. Public budgets. Recorded legislative votes. Agency regulations. Primary evidence released by institutions. The existence of a source can often be authenticated even when its interpretation remains contested.
+
+A public reference layer makes those materials easy to find without requiring anyone to accept the government's explanation of them.
+
+That distinction is important.
+
+A law can have a stable text while citizens disagree about whether it is just.
+
+A vote count can be auditable while parties disagree about what the result means.
+
+An economic release can be authentic while economists argue about causation.
+
+Shared reference does not require shared conclusion.
+
+The counterfactual-feed problem becomes more tractable when the public can move from the personalized layer back to stable primary objects.
+
+A feed says a bill eliminates a protection.
+
+The user can inspect the bill.
+
+A video says an official ordered something.
+
+The user can inspect the order.
+
+A post says a candidate voted a certain way.
+
+The user can reach the roll call.
+
+This does not solve framing. Few people have time to read every primary document, and primary documents can be obscure. But the existence of a reliable route back to source material changes the cost of checking.
+
+That route should be preserved deliberately.
+
+The feed itself can help.
+
+A recommendation system can expose why a story appeared without pretending to reveal every detail of its model. It can distinguish material selected because the user followed a source from material selected because an algorithm predicted engagement. It can distinguish sponsorship from recommendation. It can let a person open the underlying primary record when one exists.
+
+These are modest features.
+
+Their value compounds because they give the user handles.
+
+A manipulative environment benefits when the output is smooth and self-contained.
+
+Contestability benefits from seams.
+
+A source link is a seam.
+
+A sponsorship record is a seam.
+
+A chronological view is a seam.
+
+A reset button is a seam.
+
+A comparison view is a seam.
+
+The user can pull on one and discover how the information was assembled.
+
+This suggests another way to think about informational agency.
+
+Most discussions of recommendation offer the user a preference control.
+
+More sports.
+
+Less politics.
+
+Hide this creator.
+
+Follow this topic.
+
+Those controls are useful, but they still assume the system's job is to learn the person's desired feed more accurately.
+
+Political agency sometimes requires the opposite.
+
+The user may want to protect themselves from their own revealed preferences.
+
+A person can know that outrage keeps them scrolling and still not want a system to maximize outrage.
+
+They can know that they prefer stories confirming their politics and still want regular exposure to credible counterevidence.
+
+They can want a local-news budget, a primary-source budget, or a certain amount of material outside the learned profile.
+
+This is not paternalism if the user chooses it.
+
+It is delegation in the other direction.
+
+Instead of saying “learn what captures me,” the person can say “help me preserve the informational diet I would endorse when I am not in the middle of being captured.”
+
+That is a richer model of preference.
+
+Human beings routinely distinguish immediate desire from considered desire. We set savings transfers because future spending temptation is predictable. We schedule exercise because motivation fluctuates. We silence notifications because curiosity is not the same as intention.
+
+Information systems can respect the same distinction.
+
+A user might choose: do not personalize political news from late-night engagement.
+
+Or: give me a subscription-only view before recommendations.
+
+Or: never infer a durable political preference from one week of crisis coverage.
+
+Or: show me the primary-source link whenever a political claim depends on a public record.
+
+These settings do not define truth.
+
+They define how much authority the user grants the optimizer.
+
+The counterfactual feed also has an audit problem that cannot be solved one user at a time.
+
+An individual can compare two feeds and still miss a population pattern.
+
+Suppose a platform shows accurate but fear-inducing crime stories disproportionately to one demographic group and accurate but reassuring economic stories disproportionately to another. No individual screenshot reveals the allocation.
+
+Researchers need aggregate access.
+
+The difficulty is doing this without creating a new market in private political dossiers.
+
+Good research access therefore has to separate the questions.
+
+Investigators may need to know distributions of exposure, targeting categories, ranking interventions, sponsor spending, and broad behavioral outcomes.
+
+They usually do not need a named person's complete history.
+
+Secure environments, privacy-preserving aggregates, vetted access, reproducible platform reports, and independent audits can each answer different questions. None is perfect. The important property is that the platform not remain the sole institution able to see the counterfactual.
+
+A company evaluating itself faces an obvious conflict.
+
+If a ranking system produces a politically embarrassing pattern, the same institution controls the logs, definitions, access, and public explanation.
+
+Independent scrutiny is not proof that the company acted badly.
+
+It is how the claim becomes testable.
+
+This creates a healthy tension with privacy.
+
+The more individualized the feed becomes, the more researchers may want detailed data to understand it.
+
+The more detailed the data, the greater the risk of exposing private lives.
+
+The answer cannot be unlimited transparency.
+
+It has to be layered transparency.
+
+System-level rules can be public.
+
+Aggregate exposure patterns can be published or audited.
+
+Sensitive person-level data can remain protected.
+
+Specific records can be available under legal process when a concrete violation is investigated.
+
+The architecture of accountability should mirror the architecture of risk.
+
+There is also a market solution worth taking seriously.
+
+Plural feeds are safer than one feed if switching is real.
+
+Imagine a person can keep the same social graph and choose among several independent ranking systems.
+
+One prioritizes chronology.
+
+One prioritizes local sources.
+
+One deliberately broadens viewpoint exposure.
+
+One is optimized for professional relevance.
+
+One is built by a newspaper.
+
+One is built by a university consortium.
+
+One is unapologetically partisan.
+
+The point is not that every ranking provider will be good.
+
+The point is that ranking power becomes contestable without forcing the person to rebuild every relationship when they change the algorithm.
+
+This is difficult under current platform architecture because the social graph, identity layer, content store, advertising system, and recommender are often bundled.
+
+Unbundling some of those functions could create a different kind of pluralism.
+
+The user would not merely choose which platform to inhabit.
+
+They could choose how the same public material is ordered.
+
+That would make counterfactual feeds concrete.
+
+You could actually see another ranking.
+
+Competition would also expose assumptions.
+
+A chronology-first service could demonstrate what recommendation added.
+
+A local-news service could demonstrate what national ranking displaced.
+
+A partisan service could advertise its commitments openly instead of pretending neutrality.
+
+A public-interest recommender could be judged by whether people voluntarily kept using it.
+
+This is not a complete answer. Network effects are powerful. Ranking systems can be gamed. Bad actors can create recommenders designed to radicalize or defraud. Many users will keep defaults.
+
+Defaults therefore remain political.
+
+But plural ranking makes the default less final.
+
+It creates an exit that does not require social exile.
+
+The common theme across these defenses is not neutrality.
+
+It is reversibility.
+
+Can the person return to chronology?
+
+Can they reset the model?
+
+Can they see a source?
+
+Can they compare another ranking?
+
+Can they turn off political personalization?
+
+Can researchers reconstruct population-level patterns?
+
+Can a sponsor be identified after the campaign ends?
+
+A feed becomes most dangerous when its selections are both invisible and irreversible.
+
+The person cannot remember what they did not see.
+
+They cannot inspect the path not taken.
+
+They cannot know whether today's interests were partly manufactured by yesterday's ranking.
+
+Perfect reconstruction is impossible.
+
+The goal is enough reversibility to prevent the selected world from becoming the only world the system permits the user to imagine.
+
+This matters because the counterfactual feed is not merely about politics.
+
+The same architecture shapes health information, financial choices, culture, education, careers, and relationships. The political case is especially sensitive because citizens eventually make collective decisions from individually assembled evidence.
+
+Democracy does not require everyone to read the same newspaper.
+
+It does require enough routes between private informational worlds that disagreement can still be investigated.
+
+The counterfactual feed should therefore be treated less like a defect that can be eliminated and more like a fact that should be exposed.
+
+Every feed is a choice.
+
+Every summary is a choice.
+
+Every ranking is a choice.
+
+The democratic demand is not “choose nothing.”
+
+It is: make important choices contestable, let users change the chooser, and preserve paths back to evidence that exists outside the personalization loop.
+
+The system will always show one path.
+
+Freedom begins when the person can discover that another path was possible.
