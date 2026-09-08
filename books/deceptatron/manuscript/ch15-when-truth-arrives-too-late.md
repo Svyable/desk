@@ -400,6 +400,8 @@ The defense against that power is procedural symmetry. The same mechanism that c
 
 That is how verification becomes a system rather than a press release.
 
+A correction system should also remember when its own intervention was unnecessary. Overcorrection can create noise, fatigue, and the impression that ordinary disagreement requires institutional adjudication. The useful standard is material change: new evidence that alters what a reasonable reader should understand about the event, not every new comment in the argument.
+
 Truth can arrive late and still matter.
 
 People correct beliefs. Institutions recover trust. records endure after narratives fade. investigations overturn first impressions. elections are audited. scientific conclusions change. eyewitnesses are contradicted by video. video is contradicted by context. context is revised by later evidence.
