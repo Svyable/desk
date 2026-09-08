@@ -1,16 +1,25 @@
 {
   "chapter": 13,
   "title": "The Reprogramming Bet",
-  "checked": "2026-09-02",
+  "checked": "2026-09-08",
   "sources": [
     {
       "id": "takahashi-yamanaka-2006-ipsc",
       "type": "peer-reviewed-paper",
       "title": "Induction of pluripotent stem cells from mouse embryonic and adult fibroblast cultures by defined factors",
       "publisher": "Cell 126:663-676 (2006)",
-      "url": "https://en.wikipedia.org/wiki/Induced_pluripotent_stem_cell",
-      "supports": ["OSKM factors (Oct3/4, Sox2, Klf4, c-Myc)", "mouse fibroblast reprogramming to pluripotency"],
-      "limits": "Original citation confirmed via secondary/tertiary sources (Cell.com itself blocked for direct fetch in research session); human follow-up came in a separate 2007 paper, dated precisely in the chapter."
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16904174/",
+      "supports": ["OSKM factors (Oct3/4, Sox2, Klf4, c-Myc)", "mouse fibroblast reprogramming to an embryonic-like pluripotent state"],
+      "limits": "Foundational mouse-cell result; does not establish in-vivo rejuvenation or human therapeutic safety."
+    },
+    {
+      "id": "takahashi-yamanaka-2007-human-ipsc",
+      "type": "peer-reviewed-paper",
+      "title": "Induction of pluripotent stem cells from adult human fibroblasts by defined factors",
+      "publisher": "Cell 131:861-872 (2007)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18035408/",
+      "supports": ["generation of iPS cells from adult human dermal fibroblasts", "use of Oct3/4, Sox2, Klf4, and c-Myc in the human follow-up"],
+      "limits": "Cell-culture reprogramming result, not a demonstration of therapeutic rejuvenation in an intact human body."
     },
     {
       "id": "nobelprize-2012-yamanaka-gurdon",
@@ -27,26 +36,44 @@
       "title": "In Vivo Amelioration of Age-Associated Hallmarks by Partial Reprogramming",
       "publisher": "Cell 167:1719-1733 (Dec 2016)",
       "url": "https://www.cell.com/fulltext/S0092-8674(16)31664-6",
-      "supports": ["cyclic 2-4 day OSKM induction", "~30% lifespan extension in progeroid mice", "preserved cell identity"],
-      "limits": "Progeria mouse model of accelerated aging, not a model of normal aging — explicitly flagged as a limitation in the chapter."
+      "supports": ["cyclic partial OSKM induction", "~30% lifespan extension in progeroid mice", "preserved tissue identity under the study protocol"],
+      "limits": "Progeria mouse model of accelerated aging, not ordinary human aging; translational safety and efficacy remained unresolved."
     },
     {
       "id": "reprogramming-teratoma-safety-literature",
       "type": "peer-reviewed-safety-literature",
       "title": "In vivo OSKM reprogramming, teratoma formation, and cyclic dosing mitigation",
-      "publisher": "PMC / Nature Communications (synthesized safety literature)",
+      "publisher": "Nature Communications / PMC safety literature",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5452046/",
-      "supports": ["sustained/uncontrolled OSKM expression reliably produces teratomas", "cyclic 2-days-on/5-days-off protocol avoided excessive mortality across 35 cycles in mice"],
-      "limits": "Mouse-model safety data; translational safety remains a central constraint even after first-in-human testing began in 2026."
+      "supports": ["uncontrolled in-vivo reprogramming can produce teratomas and loss of cell identity", "cyclic dosing can reduce severe failure modes in mouse models"],
+      "limits": "Mouse-model safety evidence; does not establish a durable therapeutic window in humans."
     },
     {
-      "id": "life-biosciences-er100-first-human-2026",
-      "type": "clinical-trial-registry-and-sponsor-update",
-      "title": "ER-100 first-in-human partial epigenetic reprogramming study",
-      "publisher": "ClinicalTrials.gov / Life Biosciences",
+      "id": "clinicaltrials-er100-2026",
+      "type": "clinical-trial-registry",
+      "title": "ER-100 first-in-human Phase 1 study",
+      "publisher": "ClinicalTrials.gov",
       "url": "https://clinicaltrials.gov/study/NCT07290244",
-      "supports": ["first-in-human phase 1 testing of partial epigenetic reprogramming", "AAV-delivered OCT4/SOX2/KLF4 targeted to retinal ganglion cells", "small safety-led study in glaucoma and NAION", "first participant reportedly dosed June 2026"],
-      "limits": "Trial initiation and sponsor-reported dosing are not evidence of efficacy or long-term safety. The intervention is local to the eye and aimed at optic-nerve disease, not systemic treatment of normal aging; no completed human rejuvenation or lifespan dataset exists."
+      "supports": ["registered first-in-human Phase 1 testing of ER-100", "testing in open-angle glaucoma and NAION"],
+      "limits": "A registered and initiated study is not completed safety or efficacy evidence."
+    },
+    {
+      "id": "life-biosciences-er100-ind-clearance-2026",
+      "type": "sponsor-primary-source",
+      "title": "Life Biosciences Announces FDA Clearance of IND Application for ER-100 in Optic Neuropathies",
+      "publisher": "Life Biosciences",
+      "url": "https://www.lifebiosciences.com/life-biosciences-announces-fda-clearance-of-ind-application-for-er-100-in-optic-neuropathies/",
+      "supports": ["January 2026 IND clearance", "OSK construct omitting c-MYC", "Phase 1 safety-led development in optic neuropathies"],
+      "limits": "Sponsor announcement; IND clearance permits testing and does not imply FDA judgment of efficacy."
+    },
+    {
+      "id": "life-biosciences-er100-first-dose-2026",
+      "type": "sponsor-primary-source",
+      "title": "Life Biosciences Announces First Patient Dosed in Phase 1 Trial of ER-100 for Optic Neuropathies",
+      "publisher": "Life Biosciences",
+      "url": "https://www.lifebiosciences.com/life-biosciences-announces-first-patient-dosed-in-phase-1-trial-of-er-100-for-optic-neuropathies/",
+      "supports": ["first participant dosed June 9, 2026", "local ocular program evaluating safety/tolerability with visual-function endpoints"],
+      "limits": "Sponsor-reported dosing milestone; no completed peer-reviewed human outcome dataset yet establishes systemic rejuvenation, lifespan extension, or long-term cancer safety."
     }
   ]
 }
