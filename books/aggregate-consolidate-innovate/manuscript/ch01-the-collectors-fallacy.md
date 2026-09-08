@@ -2,82 +2,66 @@
 
 A person can spend an entire working life getting ready.
 
-There are respectable versions of this condition. The researcher who needs three more papers before forming a view. The founder who keeps interviewing customers after the pattern has become obvious. The executive whose dashboard acquires another dashboard. The reader whose shelves bend under books that have somehow become evidence of seriousness rather than invitations to thought.
+The condition often looks respectable. A researcher needs three more papers before forming a view. A founder keeps interviewing customers after the pattern has become hard to miss. An executive adds another dashboard to explain the dashboard already in the meeting. A reader buys books faster than they can be read and slowly converts a library from a place of encounter into evidence of seriousness.
 
-None of these people looks idle. That is what makes the problem difficult to detect.
+None of this looks like idleness. That is why it works so well as avoidance.
 
-Collection resembles progress because something measurable is increasing. The folder contains more documents than it did yesterday. The database has more rows. The notebook has more pages. The browser has more tabs. You can point to the pile.
+Collection produces visible proof of effort. The folder has more documents than it did yesterday. The database has more rows. The notebook has more pages. The browser has more tabs. Something has increased, and increase is easy to confuse with progress.
 
-A pile is comforting.
+The confusion becomes dangerous when the material stops changing the judgment.
 
-A decision is dangerous.
+Early in a new field, almost everything is useful. The first good sources teach vocabulary, expose the main disputes, introduce names, and show where experts disagree. Source eleven may overturn source four. Source twelve may reveal that the first eleven were all arguing inside the same narrow frame.
 
-The collector’s fallacy is the belief that acquiring more material necessarily improves the quality of the eventual judgment. Sometimes it does. Often it merely postpones the moment when judgment becomes unavoidable.
+Then the returns begin to change. The twentieth source repeats the nineteenth with a new example. The fiftieth adds another case. By the hundredth, the pile may be changing faster than your model of the problem.
 
-Consider what happens when you begin learning a field you do not know. The first ten good sources are transformative. They teach vocabulary, reveal the important disputes, introduce names, show where the bodies are buried. Source eleven may correct source four. Source twelve may expose an entire school of thought the first eleven ignored.
+This is not a case for knowing less. It is a case for noticing when more stops earning its keep.
 
-Then something changes.
+For most of history, accumulation deserved respect because accumulation was expensive. A library represented money, travel, copying, storage, and time. A laboratory archive condensed years of experiments. A newspaper morgue was institutional memory. A company with decades of customer records possessed something competitors could not easily reproduce.
 
-The twentieth source repeats much of the nineteenth. The fiftieth adds a case study. The hundredth changes the shape of the pile more than the shape of your mind.
+Digital systems changed that bargain. We can now gather material far faster than we can metabolize it. A person can save a month of reading in an afternoon. A company can log behavior at a scale no human team could inspect directly. An AI system can generate more candidate explanations in seconds than a group can responsibly test.
 
-This is not an argument for ignorance. It is an argument for noticing marginal value.
+Access has become less scarce. Digestion has not.
 
-The industrial world trained us to respect accumulation because accumulation was expensive. A library was wealth. A laboratory archive represented years of experiments. A newspaper morgue was institutional memory. A company with decades of customer records possessed something competitors could not cheaply reproduce.
+Organizations still carry habits formed under the old economics. A problem appears. Somebody asks for data. Sensible. The data complicates the picture, as real data tends to do. More data is requested. A dashboard appears. Definitions require a meeting. The dashboard gets revised. The decision that started the exercise remains untouched, except now it has an ecosystem.
 
-Digital systems changed the economics before they changed our instincts.
+There is a point at which investigation becomes infrastructure around the fear of deciding.
 
-We can now collect faster than we can metabolize. A person can save more articles in an afternoon than they can carefully read in a month. A company can log more behavioral data in a day than its analysts can interpret in a year. An AI system can return more candidate explanations in seconds than a team can responsibly test.
+The private version is easier to recognize and just as common. One more book before writing. One more course before building. One more comparison before buying. One more conversation before leaving. Preparation remains useful until its main function becomes protecting us from exposure to a choice.
 
-The bottleneck moved.
+The question is rarely whether you have enough information in some absolute sense. You do not. The useful question is whether another unit of information has a reasonable chance of changing what you do.
 
-It used to be access.
+That pulls research back toward consequence.
 
-Increasingly, it is digestion.
+Suppose you are deciding whether to open a second restaurant. Evidence that weekend demand is much stronger than expected may alter the decision. A precise estimate of customer preference for one shade of menu paper probably will not. Both are facts. Only one is likely to move the choice.
 
-You can see the old instinct surviving in organizations. A problem appears. Somebody asks for data. This is sensible. Data arrives. It complicates the picture, as real data tends to do. Somebody asks for more data. A new dashboard is commissioned. Meetings multiply around the dashboard. Definitions are debated. The decision that originally motivated the work remains where it was, except now it is surrounded by infrastructure.
+Or suppose you are designing a programming language. The history of memory safety, type systems, package management, and failed language adoption may save years. Exhausting every old argument about brace placement may produce expertise of a more ornamental kind.
 
-At some point the organization is no longer investigating the problem. It is building a museum about the investigation.
+The world contains effectively infinite detail. Seriousness does not require pretending that every detail deserves equal attention.
 
-Museums have their uses. They are poor substitutes for choices.
+Aggregation becomes a craft when the collector begins looking for information with leverage: contradictions, anomalies, expensive failures, changes in incentives, facts that would reverse a decision, examples that break the current explanation. The goal is not the largest haystack. It is a better sense of where the needle could plausibly be.
 
-The same thing happens privately. We tell ourselves that one more book will prepare us to write, one more course will prepare us to build, one more comparison will prepare us to buy, one more conversation will prepare us to leave. Preparation is useful right up to the moment it becomes camouflage.
+That also means deciding when to stop.
 
-The difficult question is not whether you have enough information in some absolute sense. You never do. The difficult question is whether another unit of information is likely to change what you do.
+Researchers know that stopping rules matter because data collection is not neutral forever. Writers learn the same lesson when research begins stealing time from the manuscript. Investors learn it when the opportunity disappears while the spreadsheet becomes magnificent. Businesses encounter it every time a deadline forces a decision that the analysis would otherwise keep postponing.
 
-That question is sharper because it connects collection to consequence.
+A stopping rule does not need to be elegant. You can stop when the last several credible sources mostly repeat what you already know; when new information is unlikely to reverse the decision; when delay has become more expensive than another round of evidence is likely to be valuable.
 
-Suppose you are deciding whether to open a second restaurant. Learning that weekend demand is stronger than expected might change the decision. Learning the precise percentage of customers who prefer one shade of menu paper probably will not. Both facts can be measured. Only one is decision-relevant.
+The precise wording matters less than the willingness to obey it.
 
-Or suppose you are designing a new programming language. Reading the history of memory safety, type systems, package management, and failed language adoption may save you from repeating old mistakes. Reading every argument ever conducted about brace placement will produce a different kind of expertise.
+Because the end of collection creates a different kind of work. You have to say what the material means.
 
-The world contains infinite detail. A serious person does not therefore owe every detail equal attention.
+A thousand notes can coexist without resolving their disagreements. A conclusion cannot. Which evidence gets more weight? Which account is probably wrong? Which distinction deserves to survive compression? What can be discarded? What would you act on if the answer had to leave the notebook today?
 
-This is where aggregation becomes a craft rather than a reflex.
+That is the moment many collectors avoid. A conclusion can be challenged. A pile can only be added to.
 
-A useful collector develops a sense for edges: contradictions, anomalies, unusually costly failures, changes in incentives, facts that would reverse a decision, examples that break the current explanation. The goal is not to own the largest haystack. It is to notice which pieces of straw imply the existence of a needle.
+But vulnerability to correction is one of the reasons to conclude at all. The point of thinking is not to construct a position so well insulated by caveats that nothing can reach it. It is to produce a model useful enough to guide action and exposed enough to be improved by reality.
 
-That requires a stopping rule.
+So aggregation should not be understood as possession. It is closer to exposure. We gather enough of the world to let it disturb what we already believe. We search for material that can surprise us, contradict us, equip us, or change the available moves.
 
-Scientists have formal stopping rules in some experiments because endless data collection can itself distort results. Businesses often pretend they can avoid the issue, but every deadline is a stopping rule wearing a wristwatch. Writers discover the rule when research begins stealing time from the book. Investors discover it when an opportunity disappears while the spreadsheet improves.
+Then we make room for the next kind of work.
 
-A practical stopping rule can be crude: stop when the last several credible sources have mostly repeated what you already know; stop when additional information is unlikely to reverse the decision; stop when the cost of delay exceeds the expected value of another round of collection.
+The warehouse from the opening of this book will never be finished. There will always be another source, another dataset, another expert, another model run, another truck waiting at the loading door.
 
-The wording matters less than having the nerve to obey it.
+The discipline is not to unload every one.
 
-Because stopping collection creates a new obligation. You must say what the material means.
-
-That is the threshold many collectors avoid.
-
-A thousand notes can coexist peacefully. A conclusion forces them into conflict. Which evidence matters more? Which account is probably wrong? Which distinction survives compression? What can be discarded? What would you bet on?
-
-The moment you answer, you become vulnerable to correction.
-
-This vulnerability is not a defect in thinking. It is one of its outputs.
-
-A mind that never risks being wrong can remain magnificently informed and almost completely inert.
-
-The point of aggregation, then, is not possession. It is exposure. We gather enough of the world to let it disturb our current model. We look for material that can surprise us, contradict us, equip us, or change the available moves. Then, before the warehouse becomes an excuse never to enter the workshop, we close the loading door.
-
-There will always be another truck outside.
-
-Let it wait.
+It is to know what you came to build.
