@@ -1,47 +1,165 @@
 # Contested Principles: MEPP and Cousins
 
-The second law guarantees that entropy increases, but it does not specify the rate. A gradient can discharge slowly or quickly. A dissipative structure can persist for billions of years or collapse in seconds. The difference matters. If there were a general principle governing the rate of entropy production, it would constrain the possible structures and dynamics of far-from-equilibrium systems. Several such principles have been proposed. All are contested. None has achieved the status of the second law. But they are worth examining because they attempt to answer a question the second law leaves open: how do systems choose among the many pathways available to them?
+The second law gives us an inequality, not a screenplay.
 
-The Maximum Entropy Production Principle (MEPP) proposes that systems far from equilibrium evolve toward states that maximize the rate of entropy production, subject to the constraints imposed by boundary conditions and conservation laws. The idea has roots in the 19th century, but it was formalized in the late 20th century by Dewar, Kleidon, Martyushev, and others. The principle has been applied to atmospheric circulation, planetary energy balance, chemical reaction networks, and biological evolution, with mixed success. Some applications fit the data. Others do not. The debate centers on whether MEPP is a fundamental principle, an approximation, or an artifact of how the systems are modeled.
+For an isolated macroscopic system, entropy does not spontaneously decline. For an open system, an entropy balance tracks what enters, what leaves, and what is produced internally. Those statements constrain possible histories. They do not usually tell us which of several possible non-equilibrium states will be realized, how fast a gradient will relax, whether a flow will remain laminar or become turbulent, which chemical oscillation will appear, or which biological strategy will evolve.
 
-MEPP is not a theorem. It cannot be derived from the second law alone. It is an additional hypothesis about how systems behave when multiple pathways are available. The motivation is partly empirical: in many systems, the observed state does seem to maximize entropy production among the accessible alternatives. For example, convective cells in a heated fluid transport heat more efficiently than conduction alone, and the convection increases the rate of entropy production. The transition from conduction to convection occurs when the system reaches a critical gradient, and the new state dissipates the gradient faster than the old state.
+That gap is irresistible.
 
-The principle is also motivated by analogy with equilibrium thermodynamics. At equilibrium, systems maximize entropy subject to the constraints of fixed energy and volume. Far from equilibrium, systems cannot maximize entropy because they are maintained by throughput. But they might maximize the rate of entropy production, which is the closest analog to maximizing entropy in a dynamical setting. The analogy is suggestive, but it is not a proof. The dynamics far from equilibrium are governed by nonlinear equations, and the solutions can exhibit multiple attractors, oscillations, chaos, and path dependence, none of which are guaranteed to maximize any particular quantity.
+Physics is full of successful extremum principles. Equilibrium states can often be characterized by maximizing entropy or minimizing an appropriate free energy subject to constraints. Mechanics can be formulated through stationary action. Optics has variational formulations. If nature is this economical elsewhere, perhaps driven systems also choose a state by maximizing or minimizing one quantity.
 
-Schneider and Kay applied a variant of MEPP to ecosystems and planetary energy balance. They argued that biological systems increase the rate of energy degradation compared to abiotic systems, and that ecosystems evolve to dissipate solar gradients more completely. A vegetated surface evaporates more water, reflects less sunlight, and exports more entropy than bare rock, which is consistent with MEPP. But the principle does not explain why one configuration is selected over another when multiple configurations produce similar entropy production rates. It also does not account for the role of history, contingency, and selection in shaping ecosystems.
+Several proposals try to supply that missing rule.
 
-Dewar derived MEPP from the principle of maximum caliber, a generalization of maximum entropy to dynamical systems. The derivation assumes that the system's trajectory is unknown and that all trajectories consistent with the observed macroscopic constraints are equally likely. Under these assumptions, the most probable trajectory is the one that maximizes the time-averaged entropy production. The result is elegant, but the assumptions are strong. Real systems do not explore all possible trajectories. They are constrained by initial conditions, symmetries, and conservation laws, and they often settle into attractors that occupy a small fraction of the available state space.
+The most famous is the maximum entropy production principle, usually abbreviated MEP or MEPP. In its broadest popular form, it says that a driven system will settle into the accessible state that produces entropy at the greatest rate, subject to its constraints. Variants have been used in climate science, fluid dynamics, chemical networks, ecology, biogeochemistry, and discussions of life.
 
-Critics of MEPP point out that many counterexamples exist. A system can evolve toward a state that minimizes entropy production, as occurs in laminar flow, which dissipates less energy than turbulent flow but is stable under certain conditions. A system can oscillate between states with different entropy production rates, as occurs in chemical oscillations and seasonal climate cycles. A system can become trapped in a metastable state that produces less entropy than an alternative state but cannot be reached due to kinetic barriers. These examples do not disprove MEPP, but they show that it is not universal.
+The idea is provocative because it would turn the book’s descriptive language into a predictive principle. If a gradient can relax through several pathways, do not merely say that each pathway produces entropy. Calculate the entropy-production rate of each accessible state and predict the maximum.
 
-A weaker version of MEPP is that systems tend to increase entropy production when constraints are relaxed. If a system is prevented from reaching a high-entropy-production state by a barrier, and the barrier is removed, the system will transition to the higher-production state. This is less a principle than an observation: systems spontaneously move toward states that dissipate gradients faster when given the opportunity. The observation is consistent with the second law and with the principle of least action, but it does not uniquely determine the system's trajectory.
+If that rule were generally valid, much of the difficulty of far-from-equilibrium science would collapse into an optimization problem.
 
-Another proposed principle is the Maximum Power Principle, formulated by Lotka and later developed by Odum. It states that systems evolve to maximize power, defined as the rate of energy flow through the system. The principle is closely related to MEPP because power dissipation and entropy production are linked. Higher power generally means higher entropy production, though the relationship depends on the efficiency of energy conversion. Odum applied the principle to ecosystems, arguing that natural selection favors organisms and communities that capture and dissipate energy more effectively. The principle has explanatory power, but it is not predictive. It does not tell you which of several competing designs will maximize power without additional information about the constraints and trade-offs.
+It is not generally established.
 
-The Constructal Law, proposed by Bejan, states that flow systems evolve to facilitate flow, developing structures that minimize resistance or maximize conductance. Examples include river networks, which develop branching patterns that minimize the total energy dissipation in transporting water from the watershed to the outlet; blood vessel networks, which develop branching patterns that minimize the pumping power needed to deliver blood to tissues; and lightning, which follows paths of least resistance through the atmosphere. The law is a design principle, not a dynamical law. It tells you what structures should emerge if the system is optimized for flow, but it does not tell you how the optimization occurs or whether it will be reached.
+The cleanest way to understand the controversy is to begin with a principle that *is* rigorous but much narrower: Prigogine’s minimum entropy production theorem. In his Nobel lecture, Ilya Prigogine emphasized that for steady states sufficiently close to equilibrium, within a strictly linear regime and under restrictive boundary conditions, entropy production reaches a minimum relative to nearby admissible states. He was equally explicit about the limitations. The result requires linear flux-force relations and coefficients that can be treated as constants. The Nobel lecture is unusually useful because it prevents us from turning Prigogine into a mascot for any entropy-production slogan we prefer: [Prigogine’s 1977 Nobel lecture](https://www.nobelprize.org/uploads/2018/06/prigogine-lecture.pdf).
 
-All of these principles — MEPP, Maximum Power, Constructal Law — are attempts to find order in the apparent chaos of far-from-equilibrium systems. They capture real patterns, but they are not laws in the same sense as the second law. They are heuristics, rules of thumb that apply in some circumstances and fail in others. The failure is not necessarily a defect. It may reflect the fact that far-from-equilibrium systems are more diverse and less constrained than equilibrium systems, and that no single principle can describe them all.
+Near equilibrium, then, a *minimum* theorem exists under specified conditions.
 
-A more recent and more controversial proposal is the dissipation-driven adaptation hypothesis, associated with Jeremy England. The hypothesis suggests that when a system is driven by an external energy source, it will spontaneously organize in ways that enhance its ability to dissipate energy. The mechanism is statistical: configurations that dissipate more energy are more likely to be occupied because they generate more entropy and are therefore more probable. The hypothesis has been tested in simulations of small systems driven by external forces, and some results are consistent with the prediction. But the hypothesis has not been tested at the scale of biological systems, and it is unclear whether it can explain the origin of life or the evolution of complex organisms.
+Far from equilibrium, there is no comparably accepted universal maximum theorem.
 
-The dissipation-driven adaptation hypothesis is often misunderstood. It does not claim that dissipation is the purpose of life or that organisms are optimized to maximize entropy production. It claims that dissipation is a selection pressure: systems that dissipate energy more effectively are more stable and more likely to persist. The hypothesis is compatible with natural selection, which also favors persistence and replication, but it operates at a different level. Natural selection acts on genes and phenotypes. Dissipation-driven adaptation acts on physical configurations. Whether the two mechanisms reinforce each other or compete is an open question.
+That sentence should remain visible throughout the rest of the book.
 
-None of these principles has been decisively confirmed or refuted. They remain under investigation, with supporters citing successful applications and critics citing counterexamples. The debate is not merely academic. If a general principle governing entropy production exists, it would have implications for understanding climate, ecosystems, the origin of life, and the design of engineered systems. It would also have implications for falsification, which is the topic of the next chapter: what observations would show that a gradient-based framework is wrong?
+A 2020 review by Ghosh, Dixit, Agozzino, and Dill opens with the point plainly: despite extensive work, there is no equally satisfactory general variational principle for nonequilibrium situations. Their subject is [maximum caliber](https://doi.org/10.1146/annurev-physchem-071119-040206), a powerful inference framework defined on trajectories rather than equilibrium states. Maximum caliber can infer distributions over possible dynamical paths when particular constraints are known. It does not mean that a physical system literally searches all trajectories and chooses the one with maximum entropy production.
 
-The contested principles are useful even if they are not universal. They organize thinking, generate predictions, and highlight patterns that might otherwise be missed. They also reveal a deeper tension. The second law is permissive: it allows many possible futures, as long as entropy increases. But physical systems do not explore all possible futures. They follow particular trajectories, shaped by initial conditions, symmetries, and selection. The challenge is to identify the principles, if any, that govern which trajectories are realized. MEPP and its cousins are attempts to meet that challenge, but the task is far from complete.
+This distinction between *inference principle* and *dynamical law* is easy to lose because both use maximization language.
 
-One recurring theme is that dissipative structures tend to be self-organizing. They do not require external direction. They emerge spontaneously when a system is driven far from equilibrium, and they persist as long as the driving gradient is maintained. The emergence is not mysterious. It is a consequence of nonlinear dynamics and feedback loops. But it is also not inevitable. Some systems remain featureless even when driven hard. Others bifurcate into multiple attractors, and the choice among attractors depends on initial conditions and noise. The predictability of far-from-equilibrium systems is limited, not because the laws of physics are insufficient, but because the systems are sensitive to details that are difficult to measure or control.
+Maximum entropy in statistical inference says, roughly, that given limited information, choose the probability distribution that adds the least unsupported structure while satisfying the known constraints. Maximum caliber extends the logic from static states to paths through time. It can derive useful stochastic models and flow distributions from dynamical constraints.
 
-Another theme is that efficiency matters, but in a different sense than in engineering. An engineered system is optimized to maximize output for a given input, minimizing waste. A natural dissipative structure is not optimized. It evolves or self-organizes under constraints, and the result is often messy, redundant, and far from the theoretical optimum. But the structure persists because it is robust, not because it is efficient. Robustness and efficiency are often in tension. A highly optimized system is fragile. A robust system has redundancy and slack, which reduce efficiency but increase resilience. Natural systems tend toward robustness because fragile systems do not survive long enough to be observed.
+The maximized quantity belongs to our probabilistic description.
 
-The contested principles also highlight the importance of constraints. A system cannot maximize entropy production if it is constrained by the speed of chemical reactions, the diffusion of reactants, or the stability of structures. The constraints are not arbitrary. They arise from the laws of chemistry, fluid dynamics, and materials science. Understanding which constraints are binding and which are slack is essential for predicting the system's behavior. In many cases, the constraints are more informative than the principles.
+That is different from asserting that the material system has a universal physical drive to maximize its thermodynamic entropy-production rate.
 
-A binding constraint is one that actively limits the system's behavior. In a diffusion-limited reaction, the rate is determined by how fast reactants can diffuse together, not by the intrinsic reaction rate. Removing the diffusion constraint — by mixing or increasing concentration — increases the rate. A slack constraint is one that does not currently limit behavior but might if other conditions change. In a reaction-limited process, diffusion is fast enough that it does not matter. The constraint becomes binding only if the reaction rate increases to the point where diffusion cannot keep up.
+Roderick Dewar’s work helped connect maximum-caliber reasoning with maximum-entropy-production ideas. Those derivations are intellectually important, but they depend on choices about path ensembles, constraints, and what macroscopic information is specified. They do not elevate every version of MEPP into a theorem comparable with the second law. A change in constraints can change the inferred optimum because the optimization problem itself has changed.
 
-The identification of binding constraints is central to engineering and biology. A metabolic pathway limited by enzyme activity can be accelerated by increasing enzyme concentration or activity. A pathway limited by substrate availability can be accelerated by increasing substrate concentration. The analysis is not always obvious because pathways have multiple steps, and the binding constraint can shift depending on conditions. Control analysis, a mathematical framework for analyzing metabolic networks, quantifies how much each step contributes to the overall flux and identifies where interventions would be most effective.
+Constraints are not decoration around the principle. They are most of the problem.
 
-MEPP and related principles can be viewed as attempts to identify universal constraints on far-from-equilibrium systems. If a universal constraint exists, it would predict which dissipative structures form and how they behave, across scales and contexts. But the evidence suggests that the constraints are context-dependent. Some systems maximize entropy production, others minimize it, and many do neither. The principles work in some regimes and fail in others. This does not mean they are useless. It means they are approximations, not laws, and their domain of applicability must be determined empirically.
+Consider a fluid layer heated from below. At a sufficiently small temperature difference, conductive heat transfer can remain stable. Increase the forcing enough and convection may become unstable, producing organized rolls or other motions that transport heat differently. At still stronger forcing, time dependence and turbulence can appear. Entropy production can change across these regimes.
 
-Finally, the principles remind us that far-from-equilibrium systems are not equilibrium systems with a perturbation. They are qualitatively different, with dynamics that cannot be understood by linearizing around equilibrium. The mathematics is harder, the predictions are less certain, and the phenomena are more diverse. But this is the regime where the interesting physics happens. Equilibrium is the limiting case, not the starting point. The next task is to ask what would falsify the gradient framework: what observations would show that gradients are not the right way to think about organized systems?
+It is tempting to summarize the sequence as “the system discovers states that dissipate the temperature gradient faster.” That description may be useful after the fact. But the onset and form of convection are predicted through the equations of fluid dynamics, boundary conditions, material properties, dimensionless control parameters, and stability analysis. The entropy-production rate alone does not replace the Rayleigh number, geometry, viscosity, thermal diffusivity, or boundary conditions.
 
-The contested principles are not failures. They are productive hypotheses that have generated research, predictions, and insights. Some of their predictions have been confirmed. Others have been refuted or refined. The process is normal science: propose a principle, derive predictions, test them against observations, and update the principle or discard it. The gradient thesis is compatible with all of the contested principles, but it does not depend on any of them. The thesis claims that gradients are necessary for organized systems. The contested principles claim additional structure: that systems maximize or optimize certain quantities. If the additional structure is wrong, the gradient thesis stands. If the additional structure is right, it strengthens the thesis by making it more predictive. The next chapter examines what would falsify the gradient thesis itself: what observations would show it is wrong.
+If a maximum principle predicts the same transition, the important scientific question is whether it predicts something the detailed dynamics did not already supply.
+
+Climate applications make the issue sharper. George Paltridge famously found that simple climate models could reproduce aspects of observed heat transport by selecting states with high entropy production. Later researchers, including Axel Kleidon and collaborators, developed maximum-entropy-production approaches to Earth-system processes. Kleidon’s 2009 review of [nonequilibrium thermodynamics and maximum entropy production in the Earth system](https://doi.org/10.1007/s00114-009-0509-x) lays out the attraction: the climate system is driven far from equilibrium, contains multiple irreversible processes, and often operates near limits set by competing transport and conversion constraints.
+
+Some MEP climate models are striking because they obtain reasonable large-scale states with fewer dynamical details than a full general circulation model.
+
+That success is evidence worth taking seriously.
+
+It is not proof of a universal law.
+
+A closure rule can be useful because it captures the net consequence of omitted dynamics within a regime. Meteorology already uses many successful parameterizations that are not fundamental laws. If maximum entropy production gives a robust closure for a class of climate problems, that would be valuable even if it does not govern chemical oscillators, ecosystems, and economies.
+
+The question should be domain by domain: under which constraints, state variables, and timescales does an extremum principle work?
+
+This is much harder than asking whether MEPP is “true.”
+
+The phrase *entropy production* itself can hide measurement problems. In a macroscopic continuum model, irreversible entropy production may include contributions from heat conduction, diffusion, viscous dissipation, chemical reactions, phase changes, and other processes. Which terms are included depends on the model boundary and coarse graining. At microscopic scales the challenge is greater because fluctuations matter and the observed variables may omit hidden degrees of freedom.
+
+Modern stochastic thermodynamics has made major progress here without requiring a universal maximum principle. Udo Seifert’s review of [thermodynamic inference](https://doi.org/10.1146/annurev-conmatphys-031218-013554) describes fluctuation relations, trajectory-level definitions of work and entropy production, and bounds that can infer hidden dissipation from observable currents. Thermodynamic uncertainty relations, for example, connect the precision of some fluctuating currents with a minimum thermodynamic cost under specified conditions.
+
+This is a different style of nonequilibrium science.
+
+Instead of saying “nature maximizes entropy production,” it derives exact equalities, inequalities, and bounds for well-defined stochastic models.
+
+That is usually the safer model for this book’s ambition: prefer a narrower relation with stated assumptions over a universal slogan with unclear scope.
+
+Maximum power is a related but distinct proposal. Alfred Lotka argued in the 1920s that natural selection could favor organisms that increase their capture and use of available energy. Howard T. Odum and Richard Pinkerton later developed a maximum-power principle in which systems may trade conversion efficiency against rate to maximize useful power output. A recent historical review, [“Maximum power in evolution, ecology and economics”](https://doi.org/10.1098/rstb.2022.0262), traces that lineage and also acknowledges unresolved issues of mechanism and testing.
+
+Maximum power should not be collapsed into maximum entropy production.
+
+A device can dissipate enormous power while producing nothing useful. Short a battery and the current can become large while the stored chemical exergy is destroyed mostly as heat. A high-power biological strategy can consume resources quickly and lose to a slower competitor when resources are scarce. An organism can maximize reproductive success by storing energy, reducing activity, or investing in defense rather than maximizing instantaneous throughput.
+
+Even in engineered systems, maximum efficiency and maximum power commonly occur at different operating points.
+
+That tension is exactly why Odum’s formulation remains interesting. It asks whether competitive systems tend toward operating points that maximize *useful* power after accounting for constraints. But “useful” already imports a function. In biology, the relevant function must ultimately be connected to reproductive consequences if the principle is supposed to arise through natural selection. In an ecosystem, there is no automatic reason the power optimum of one species will maximize a system-wide quantity.
+
+A 2024 BioScience essay asking [“Does nature select to maximize power?”](https://doi.org/10.1093/biosci/biae104) makes the contemporary dispute explicit: several influential traditions have proposed maximum-power ideas, while other evolutionary frameworks question whether empirical evidence or biophysical theory supports a universal MPP.
+
+That is the appropriate status for this book: a historically important hypothesis with active descendants, not an established evolutionary law.
+
+The constructal law, associated with Adrian Bejan, makes a different claim. Its proponents argue that finite-size flow systems that persist over time evolve configurations that facilitate access to the currents flowing through them. Branching networks, river basins, vascular systems, traffic patterns, and engineered flows have all been discussed in constructal terms. Bejan and Lorente’s review, [“The constructal law and the evolution of design in nature”](https://doi.org/10.1016/j.plrev.2011.05.010), presents the strongest version: a general physical law of evolving flow architecture.
+
+The examples are visually compelling because branching really does recur.
+
+But recurring geometry does not establish one universal mechanism.
+
+Blood vessels are shaped by development, tissue demand, mechanics, gene regulation, and evolution. River channels arise through rainfall, erosion, sediment transport, tectonics, vegetation, and history. Lightning branches through electrical breakdown in a heterogeneous atmosphere. Tree roots grow through biological sensing and development. The fact that several systems form networks that facilitate transport may reveal common optimization problems without showing that one new law caused all of them.
+
+Critics have challenged both the theoretical basis and the performance of particular constructal derivations. A published [critical review of constructal theory](https://doi.org/10.1016/j.enconman.2007.08.005) argued that increasing structural complexity does not universally increase the flow performance predicted by the theory. The debate has continued, and constructal methods remain productive in parts of engineering.
+
+The proper lesson is not that constructal theory is wrong and therefore useless. It is that the word *law* in a proposed generalization should earn the same scrutiny we give any other strong scientific claim.
+
+Jeremy England’s work on driven systems supplies another frequently overstated idea. His 2013 paper, [“Statistical physics of self-replication”](https://doi.org/10.1063/1.4818538), derived a lower bound on heat production for self-replication under a specified stochastic-thermodynamic model. Faster growth, replicator durability, and internal entropy enter the bound. The paper does not say that the second law makes life inevitable or that self-replicators maximize entropy production.
+
+That is already interesting enough: replication has unavoidable thermodynamic costs that can be related quantitatively to properties of the replicator.
+
+England later discussed [“dissipative adaptation in driven self-assembly”](https://doi.org/10.1038/nnano.2015.250), asking whether driven many-body systems can develop structures whose response becomes tuned to the external forcing. The proposal concerns relationships among work absorption, irreversibility, kinetic accessibility, and the probability of transitions in driven systems.
+
+Popular retellings often turn that into “matter organizes itself to dissipate energy better.”
+
+That slogan erases the conditions.
+
+A driven system can become trapped in structures that are kinetically accessible. Some structures may absorb work strongly from a particular drive. Others may be stable because transitions out of them are rare. The relevant probabilities depend on the forcing protocol, microscopic dynamics, energy landscape, noise, and history. The theory does not supply a general replacement for biological natural selection.
+
+This is especially important because *selection* has different meanings in physics and biology. A physical ensemble can become enriched for configurations through transition probabilities. Darwinian selection requires heritable variation and differential reproductive success. The mathematics can sometimes rhyme; the mechanisms are not interchangeable.
+
+The same caution should apply to phrases like “the most probable trajectory.” Probability is always probability under a model, with a specified ensemble and specified conditioning information. Change the allowed paths or constraints and the result can change. Real history happens once. A statistical ensemble is a tool for describing uncertainty and repetition.
+
+This chapter therefore needs a hierarchy, not a verdict.
+
+At the strongest level are the first and second laws and conservation constraints. They are extraordinarily well tested and apply across the domains discussed in this book when the system boundary is defined correctly.
+
+Next come established regime-specific results: Onsager reciprocity near equilibrium under appropriate microscopic conditions; Prigogine’s minimum entropy-production theorem under stricter linear assumptions; fluctuation theorems and stochastic-thermodynamic relations for specified classes of small driven systems; stability criteria for particular fluids, reaction networks, and dynamical systems.
+
+Then come proposed broad extremum or organizational principles: maximum entropy production, maximum power, constructal law, dissipative adaptation, and related formulations. These can generate models, suggest measurements, and identify recurring patterns. Their evidence and domains of applicability differ. None should be smuggled upward into the first category merely because its name sounds like a law.
+
+That hierarchy changes the book’s thesis in a productive way.
+
+The gradient framework does not need MEPP.
+
+It needs the much weaker and better-supported observation that sustained active systems depend on accessible free-energy differences and that specific mechanisms couple those differences to flows, work, storage, repair, or transformation. Some of those mechanisms can self-organize under driving. Their realized states are shaped by constraints, kinetics, geometry, feedback, fluctuations, history, and — for living populations — natural selection.
+
+Whether an additional extremum principle predicts the chosen state is an empirical question.
+
+This also means that a counterexample to MEPP does not refute thermodynamics. A low-power dormant state, a metastable chemical configuration, a laminar regime, a stored battery, or a forest accumulating biomass can all be physically ordinary. The question is whether the proposed maximum principle claimed to cover that regime under those constraints.
+
+A principle that survives every counterexample by redefining the constraints after the fact has stopped predicting.
+
+That is the hardest methodological test for all of these ideas.
+
+Suppose a model predicts that a climate variable takes the value that maximizes entropy production. Before looking at the data, the researcher should specify the allowed state space, the boundary conditions, the entropy-production calculation, and the alternative models. If the observation disagrees, the principle should be allowed to fail. If every discrepancy can be explained by adding an unmeasured constraint until the optimum matches reality, the exercise becomes curve fitting with thermodynamic vocabulary.
+
+The same standard should apply to ecosystems. If “maximum power” predicts which strategy dominates, specify the relevant power, scale, resource constraints, and competing predictions before seeing the winner. If “dissipative adaptation” predicts a driven assembly outcome, specify the forcing protocol and measurable signature that distinguishes it from ordinary kinetic trapping.
+
+Science gets stronger when the escape hatches are closed in advance.
+
+The most useful common thread among these contested principles may therefore be humbler than any one of them. Far-from-equilibrium systems are constraint-sensitive. A pathway that appears optimal under one bottleneck can become poor when another bottleneck binds. Increase substrate and an enzyme saturates. Increase temperature and a material changes phase. Increase flow and turbulence appears. Remove a predator and another resource becomes limiting. Add a transmission line and generation rather than transmission becomes scarce.
+
+The identity of the binding constraint can change as the system moves.
+
+This is why the language of optimization is so seductive and so dangerous. If we observe a stable system, we can usually invent something it appears to optimize. Survival. Power. Entropy production. Efficiency. Robustness. Information. Predictability. Cost. Flow access. Once enough objective functions are available, every outcome can look optimal under one of them.
+
+The better discipline is to ask which objective, if any, was specified independently by the mechanism.
+
+Engineers specify objectives. Natural selection supplies a statistical filter through reproductive success, though organisms still face trade-offs and changing environments. A physical dynamical system generally follows equations of motion and stochastic transitions, not an explicit objective function merely because we can rewrite some solutions variationally.
+
+Mathematical equivalence does not automatically establish causal purpose.
+
+That returns us to the title of the book. *The Gradient Universe* works best as a language for availability and coupling, not as a claim that the universe has one optimization target. Differences in temperature, composition, pressure, electrical potential, chemical potential, and gravitational potential create opportunities for change. Structures alter which paths are open. Some paths accelerate relaxation. Others preserve a difference for later. Some convert one gradient into another. Some systems become patterned under driving. Living systems add heredity and selection. Minds and technologies add prediction and deliberate control.
+
+The second law constrains every layer.
+
+No single maximum principle currently explains them all.
+
+That is not a disappointment. It is where the science becomes interesting.
+
+The next chapter asks what would make the *gradient framework itself* fail. That requires more care than listing examples of storms dying over cold water or cells dying without fuel. If the thesis is stated so broadly that every active system can be redescribed as using some gradient, it risks becoming true by definition. A scientific framework earns its place only when it rules something out, improves prediction, or organizes evidence better than its alternatives.
+
+The task now is to close the escape hatches.
