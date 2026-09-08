@@ -146,6 +146,12 @@ Receipts and role documentation help.
 
 Practice helps more.
 
+Coders have a particularly vivid takeover drill available to them because software state is often observable. Turn off the coding agent for a bounded incident. Can the team still trace the logs, understand the failing service, make a small change, and deploy safely? If not, the problem is larger than individual coding speed. The team has let operational understanding migrate into a system nobody can replace under pressure.
+
+The ordinary-life equivalent can be less dramatic and just as revealing. Turn off the household agent for a weekend. Can another adult see the commitments, bills, pickup plans, reservations, and tasks that matter? If one person's AI configuration has become the only map of the household, automation did not reduce key-person risk. It moved it.
+
+A small-business owner can run the same test on invoicing or client intake. If the agent disappears, do you know which records are authoritative, what remains outstanding, and what can wait? The exercise may feel inefficient. That is the point. It measures whether the system is leverage or dependency.
+
 A third practice is deliberate disagreement.
 
 Ask the agent for a recommendation, then build the strongest case against it without asking the agent to do that for you first.
@@ -214,6 +220,24 @@ The machine becomes part of the apprenticeship infrastructure.
 
 This is a better response than protecting obsolete junior work merely because it once produced seniors.
 
+The distinction between formative practice and obsolete labor can itself be tested.
+
+What did competent seniors actually learn from the old task?
+
+Was it speed, pattern recognition, social context, error detection, or simply endurance?
+
+Can the same learning be produced with fewer low-value repetitions and more representative cases?
+
+Does the learner receive real feedback?
+
+Does the new training preserve contact with consequences that simulation cannot reproduce?
+
+A coding organization may discover that asking juniors to type boilerplate teaches little, while requiring them to diagnose generated failures teaches a great deal. A law firm may find that hours of mechanical document sorting are less valuable than giving young lawyers earlier responsibility for explaining why a fact changes strategy. A small business may teach a future manager more by having them resolve ten genuine exceptions than by making them process a thousand routine transactions the agent can already handle.
+
+The purpose is not to save the old curriculum.
+
+It is to save the mechanism that produced judgment.
+
 There is also a class question inside skill preservation.
 
 People with enough time and institutional support can afford deliberate practice. Workers under pressure to maximize output may be told simply to use the agent and move faster. The wealthy student can learn both the craft and the automation. The precarious worker may be rewarded for throughput until the underlying skill becomes inaccessible.
@@ -259,6 +283,16 @@ They are keeping the reality channel open.
 Agent owners need a reality channel too.
 
 The form will vary. Sample the work. Do periodic manual passes. Teach the reasoning. Rehearse failure. Read the source material. Stay close to the people affected by the agent's decisions.
+
+The frequency should scale with change and consequence, not nostalgia.
+
+A stable, low-risk role may need an occasional sample. A role whose model, tools, policies, or customer population changed this week deserves more direct contact. A high-consequence function should preserve a real takeover path even if ordinary execution is almost entirely automated.
+
+This makes “keep your hands dirty” less of a macho slogan and more of a maintenance schedule.
+
+What reality do I need to touch often enough that I can still detect drift?
+
+The answer will be different for every role.
 
 The worst future is not one in which machines do more work than humans.
 
