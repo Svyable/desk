@@ -5,8 +5,9 @@ import {
   rewriteSharedModuleSpecifiers,
 } from './desk-runtime-bridge.js';
 
+const localAppUrl = './js/app.js';
 const upstream = 'https://svyable.github.io/shelf/reader/js/';
-const appUrl = `${upstream}app.js?v=desk-20260907-fast-catalog-2`;
+const fallbackAppUrl = `${upstream}app.js?v=desk-20260907-fast-catalog-2`;
 const viewportStabilityUrl = `${upstream}viewport-stability-runtime.js?v=r1`;
 const nativeShareUrl = `${upstream}native-share.js`;
 const libraryHomeUrl = 'https://svyable.github.io/desk/reader/css/desk-library-home.css?v=bookself-20260904';
@@ -43,11 +44,29 @@ function skipDeskCatalogCoverProbe(source) {
   return `${input.slice(0, start)}${fastCatalogLoader}${input.slice(end)}`;
 }
 
-function adaptReaderSource(source) {
+function adaptRemoteReaderSource(source) {
   if (!sharedReaderOwnsDeskCatalogVisibility(source)) {
     throw new Error('Shared Reader is missing role-aware Desk catalog visibility; update Bookself/Shelf before loading Desk Reader.');
   }
   return rewriteSharedModuleSpecifiers(skipDeskCatalogCoverProbe(source), upstream);
+}
+
+async function acquireReaderApp() {
+  let localError = null;
+  try {
+    const response = await fetchBootstrapResource(localAppUrl, { retryDelays: [] });
+    return { response, local: true };
+  } catch (error) {
+    localError = error;
+  }
+
+  try {
+    const response = await fetchBootstrapResource(fallbackAppUrl);
+    return { response, local: false };
+  } catch (error) {
+    if (error instanceof Error && localError) error.cause = localError;
+    throw error;
+  }
 }
 
 function installDeskChromePolicy() {
@@ -116,9 +135,9 @@ function showRecovery(error) {
 }
 
 try {
-  const appAcquisition = fetchBootstrapResource(appUrl).then(
-    (response) => ({ response, error: null }),
-    (error) => ({ response: null, error })
+  const appAcquisition = acquireReaderApp().then(
+    (result) => ({ ...result, error: null }),
+    (error) => ({ response: null, local: false, error })
   );
   try { await import(viewportStabilityUrl); } catch (error) { console.warn('Viewport stability could not be loaded', error); }
   try { await import(nativeShareUrl); } catch (error) { console.warn('Native sharing could not be loaded', error); }
@@ -126,13 +145,21 @@ try {
   try { await import('./desk-app-shell-polish.js?v=bookself-20260906'); } catch (error) { console.warn('Desk Reader app-shell polish could not be loaded', error); }
   try { await import('./desk-book-opening-handoff.js?v=bookself-20260906'); } catch (error) { console.warn('Desk book-opening handoff could not be loaded', error); }
   try { await import('./desk-reading-app.js?v=bookself-20260905'); } catch (error) { console.warn('Desk reading-app hierarchy could not be loaded', error); }
-  const { response, error: appAcquisitionError } = await appAcquisition;
-  if (!response) throw appAcquisitionError || new Error('Shared Reader app could not be acquired.');
+  const { response, local, error: appAcquisitionError } = await appAcquisition;
+  if (!response) throw appAcquisitionError || new Error('Reader app could not be acquired.');
   const source = await response.text();
-  const adapted = adaptReaderSource(source);
+  if (!sharedReaderOwnsDeskCatalogVisibility(source)) {
+    throw new Error('Reader is missing role-aware Desk catalog visibility; update Bookself before loading Desk Reader.');
+  }
   if (DESK_CATALOG_AUDIT.length !== 3) throw new Error('Desk catalog audit contract is incomplete.');
-  const moduleUrl = URL.createObjectURL(new Blob([adapted.source], { type:'text/javascript' }));
-  try { await import(moduleUrl); } finally { URL.revokeObjectURL(moduleUrl); }
+
+  if (local) {
+    await import('./app.js');
+  } else {
+    const adapted = adaptRemoteReaderSource(source);
+    const moduleUrl = URL.createObjectURL(new Blob([adapted.source], { type:'text/javascript' }));
+    try { await import(moduleUrl); } finally { URL.revokeObjectURL(moduleUrl); }
+  }
 } catch (error) {
   showRecovery(error);
 }
