@@ -32,15 +32,21 @@ Two straightforward book-local integrity defects were repaired:
 
 ## Controlling release blocker: manuscript depth
 
-The current Desk catalog reports **44,716 words across all Markdown files in the Deceptatron book directory**. The repository publication gate requires at least **65,000 words across numbered chapters alone**, with every numbered chapter at least 3,000 words.
+The reviewed Desk catalog reported **44,716 words across all Markdown files in the Deceptatron book directory**. The repository publication gate requires at least **65,000 words across numbered chapters alone**, with every numbered chapter at least 3,000 words.
 
-Because the 44,716-word catalog count includes front matter, back matter, the book README, and research Markdown in addition to numbered chapters, the numbered-chapter corpus is necessarily below 44,716 words. It therefore misses the 65,000-word chapter-only minimum by **at least 20,285 words**, and the true deficit is larger.
+Because the 44,716-word catalog count included front matter, back matter, the book README, and research Markdown in addition to numbered chapters, the numbered-chapter corpus on the reviewed source was necessarily below 44,716 words. It therefore missed the 65,000-word chapter-only minimum by **at least 20,285 words**, and the true deficit was larger.
 
 This cannot be repaired mechanically or by padding. The manuscript needs substantive deepening across its argument, evidence, countercases, scenes, and institutional consequences. The existing robustness notes already identify appropriate substantive expansion targets.
 
+## Depth remediation progress
+
+On 2026-09-07, Desk PR #1395 deepened Chapter 3, **The Audience Becomes a Model**, with **994 exact checker-token words**. The pass stayed inside the chapter's existing evidence boundaries and added four substantive lines of argument rather than filler: locally useful versus globally accurate audience models, model decay and temporary salience, resistance and counter-optimization by modeled users, and practical user controls over model use.
+
+That work reduces the conservative reviewed minimum chapter-word deficit by 994 words, from at least 20,285 to **at least 19,291 words remaining**. The true remaining deficit is still larger because the original 44,716 figure included non-chapter Markdown. No claim is made that Chapter 3 or the manuscript now passes the repository length gate; the exact local checker remains controlling.
+
 ## Required remediation before Shelf release
 
-1. Substantively deepen the numbered manuscript until `python3 scripts/check-book-length.py deceptatron` reports at least 18 numbered chapters, every numbered chapter at least 3,000 words, and at least 65,000 numbered-chapter words total.
+1. Continue substantively deepening the numbered manuscript until `python3 scripts/check-book-length.py deceptatron` reports at least 18 numbered chapters, every numbered chapter at least 3,000 words, and at least 65,000 numbered-chapter words total.
 2. Preserve the factual boundaries recorded above during expansion; new current claims require source support and should be added to the canonical source ledger without duplicate IDs or URLs.
 3. Run `python3 scripts/check-desk.py` on the same frozen Desk source and resolve any title-local or repository-wide integrity failures that control publication.
 4. Verify required matter, rights metadata, Reader/direct-route discovery, feedback dropdown, catalog surfaces, and intended research files on that same source.
@@ -48,6 +54,6 @@ This cannot be repaired mechanically or by padding. The manuscript needs substan
 
 ## Release posture
 
-**Not release-cleared. Do not create or merge a Shelf publication snapshot from the reviewed source.**
+**Not release-cleared. Do not create or merge a Shelf publication snapshot from the current source.**
 
-The next meaningful work on this title is substantive manuscript deepening followed by the exact local length and integrity gates, not another factual-review pass.
+The next meaningful work on this title remains substantive manuscript deepening followed by the exact local length and integrity gates, not another factual-review pass.
