@@ -122,6 +122,24 @@ The third changes the role's method.
 
 Training is often the art of deciding which kind of lesson you actually learned.
 
+Coders have a useful instinct here: distinguish state from source of truth.
+
+A cache can make a program fast. It should not quietly become more authoritative than the database that owns the record. A local copy can be convenient. It needs an invalidation story. Configuration can have defaults. A secret should not be copied into every place that might one day need it.
+
+Agent memory needs similar humility.
+
+The retrieved note may help the system navigate toward the right record. It should not automatically outrank the record.
+
+A coding agent can remember that a service usually runs on port 8080. If the current deployment manifest says 9090, the manifest wins. It can remember that the project used a particular framework last year. If the package file changed, yesterday's memory is history, not authority.
+
+A nontechnical household role works the same way.
+
+The agent can remember that your child usually has soccer on Wednesday. If the current team calendar says Thursday, the live schedule wins. It can remember that you preferred refundable hotels on the last three trips. That preference may guide the search, but the final itinerary still has to satisfy today's trip.
+
+Memory is useful when it narrows attention.
+
+It becomes dangerous when it substitutes for verification.
+
 This matters for portability too.
 
 Users often imagine that an agent becomes valuable by accumulating a huge private memory. That creates dependence on the system that stores and interprets the memory. If the memory cannot be exported intelligibly, the user may discover that years of “training” amount to a vendor-specific relationship that cannot survive departure.
@@ -160,9 +178,25 @@ This is a useful test. If the underlying model vanished tomorrow, what would you
 
 If the answer is “I would have to talk to it for six months until it understood me again,” you have accumulated experience without enough externalization.
 
-If the answer is “I have the role, examples, tests, sources, correction history, and permissions; a replacement would still need calibration, but the childhood would be shorter,” you own more of the operating system.
+If the answer is “I have the role, examples, tests, sources, correction history, and permissions; a replacement would still need calibration, but the apprenticeship would be shorter,” you own more of the operating system.
 
 That is the difference between attachment and capital.
+
+There is a second portability test that is less comfortable.
+
+What should *not* move with you?
+
+If the agent's memory contains employer records, client confidences, private family information, or data collected for a narrow purpose, portability may be the wrong goal. The principal should be able to move the method without smuggling the old environment inside it.
+
+A developer can move the habit of writing regression tests without taking a proprietary bug database.
+
+A lawyer can move a research discipline without taking client files.
+
+A family can migrate shared travel preferences while deliberately excluding one person's private medical notes.
+
+The architecture should allow subtraction.
+
+This is another reason opaque memory is a weak asset. If you cannot tell what is in it, you cannot make a responsible decision about what should leave.
 
 Memory also creates a subtler managerial risk: the principal can stop explaining context because the agent appears to know it.
 
@@ -233,6 +267,28 @@ Preferences need hierarchy.
 Experience is more than preference because experience includes knowing when the normal preference should lose.
 
 The trained role needs examples of that too.
+
+A useful memory policy can therefore be tested in plain language.
+
+Can the role tell me where an important remembered fact came from?
+
+Can it distinguish a standing rule from a temporary fact?
+
+Can an expired fact stop influencing current work?
+
+Can sensitive information be limited to the role that needs it?
+
+Can I remove a false memory without hunting through every conversation?
+
+Can I reconstruct the important operating knowledge if the vendor changes?
+
+Can I tell which memories I am not entitled to carry elsewhere?
+
+Those questions are practical enough for a family and rigorous enough for an engineering team.
+
+They do not require one universal memory architecture.
+
+They require the principal to know that remembering is a design choice.
 
 This is why memory and examples belong together. A memory says what happened. An example can show how the rule behaved under circumstances. A correction ledger explains why the lesson entered the system. An evaluation checks whether it still matters. The active role chooses which part deserves current authority.
 
