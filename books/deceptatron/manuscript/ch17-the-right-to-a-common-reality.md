@@ -410,6 +410,26 @@ Can the earlier version still be inspected?
 
 Those questions are mundane until public memory becomes contested.
 
+A further complication is that shared evidence can be technically public while practically invisible. A city may publish procurement records as scanned PDFs, a legislature may post amendments in a system only specialists can navigate, or an agency may release a dataset without preserving the definitions needed to compare one year with another. Formal disclosure can coexist with functional opacity.
+
+That matters in an adaptive information environment because machines will often become the translators between public records and ordinary citizens. If the underlying records are difficult to inspect directly, the assistant's summary becomes the de facto public object. The system may be accurate. It may also omit the one assumption that explains why two analysts disagree.
+
+So common reality requires more than publication. It requires addressability. A public claim should lead back to a stable object that another person, another newsroom, another model, or another court can inspect. The object should have a date, an origin, and enough version history to show whether it changed. Where privacy prevents publication of the raw material, the institution should still expose the method by which the claim was produced and the process by which it can be challenged.
+
+Appeal belongs here for the same reason. A shared record that cannot be contested can become an official fiction. A record that can be changed silently can become propaganda by revision. The useful middle is a record that can be challenged through a visible process and changed without erasing the fact that it was changed.
+
+This is already familiar in mundane institutions. Courts issue opinions and later corrections. Statistical agencies revise series while preserving prior releases. Scientific papers publish corrections and retractions. Election offices canvass preliminary counts before certifying them. None of these systems is perfectly trustworthy. Their value comes partly from making the path from provisional claim to revised claim inspectable.
+
+AI-mediated public life needs an equivalent habit. If an assistant summarizes an election result from preliminary returns, it should be able to distinguish that state from certification. If a model cites an agency estimate later revised, the earlier answer should not become a ghost source detached from the corrected record. If a public chatbot changes an explanation after an error is found, the correction should be attributable rather than silently substituted.
+
+The point is not to archive every conversational mistake forever. Ordinary conversation needs room to disappear. The stronger duty belongs to claims carrying institutional authority or substantial public consequence. The closer a system gets to saying, in effect, “this is what the public record establishes,” the stronger the obligation to make that record inspectable.
+
+This also gives the citizen a practical way to resist personalized certainty. Instead of asking whether the machine is biased in the abstract, ask for the object underneath the answer. Show me the filing. Show me the count. Show me the transcript. Show me the methodology. Show me the earlier version. Show me the correction.
+
+A system that can return to those objects does not eliminate disagreement. It changes the level at which disagreement occurs. Two people may still argue about what the statistic means, whether the law is just, whether the witness is credible, or whether the policy will work. But they are less likely to spend the entire argument disputing whether the object exists at all.
+
+That is the modest ambition of common reality. Not one story. A recoverable path from stories back to things that can be checked.
+
 That is the democratic stakes of personalization.
 
 The public sphere was never one conversation.
