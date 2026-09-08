@@ -6,9 +6,11 @@
 
 The book's working answer is that the decisive skill is not prompting. It is apprenticeship design.
 
-A useful agent is made dependable through a sequence that human institutions have used for apprentices, junior professionals, pilots, operators, and delegated representatives for a long time: begin with bounded work, expose the learner to examples, make standards observable, correct failures while the cost is low, preserve the corrections, test under variation, widen authority gradually, require escalation at the edge of competence, and keep the principal close enough to reality to notice when the system has drifted.
+Managers may call it onboarding. Coders may call its parts staging, evals, test fixtures, shadow mode, and release gates. Trades have an older word for the larger pattern: apprenticeship. Begin with bounded work, expose the learner to examples, make standards observable, correct failures while the cost is low, preserve the corrections, test under variation, widen authority gradually, require escalation at the edge of competence, and keep the principal close enough to reality to notice when the system has drifted.
 
-The contemporary twist is economic. Models may become broadly available commodities while the accumulated layer around them — role definitions, examples, corrections, evaluations, access rules, tool interfaces, operating history, and domain-specific judgment — becomes a durable productive asset. The book calls this an **agent childhood**: the costly period in which a general capability is turned into a trustworthy role.
+The key distinction is **capability versus qualification**. A base model may possess broad technical capability while the specific role around it remains unqualified for consequential work. Qualification is earned when a role demonstrates reliable performance under the principal's actual conditions, with explicit limits and evidence behind any increase in authority.
+
+The contemporary twist is economic. Models may become broadly available commodities while the accumulated layer around them — role definitions, examples, corrections, evaluations, access rules, tool interfaces, operating history, and domain-specific judgment — becomes a durable productive asset. The book calls that asset **accumulated operating judgment**. Apprenticeship is the process that creates it; qualification is the evidence that lets authority expand.
 
 That claim needs restraint. A model does not learn exactly as a human apprentice does. Many deployed agents do not update model weights from a user's corrections. Memory can be lossy, context can expire, vendors can change underlying models, and evaluation suites can overfit. “Training” in this book therefore means the practical shaping of an agent system through instructions, examples, memory, tools, permissions, tests, feedback, and operating routines. It does not imply that ordinary users are performing foundation-model training.
 
@@ -18,7 +20,7 @@ This manuscript must remain distinct from two existing Sven Hardy Benson books.
 
 - *Agentile* is a macroeconomic argument about delegated intention becoming cheap, persistent, parallel, and programmable, and about what that new force does to firms, wages, ownership, verification, and the state.
 - *The Delegation Machine* is a historical and institutional account of delegation, authority, evidence, review, and revocation, with a protocol-oriented practical companion.
-- *How to Train Your Agent* is the principal's field manual. Its center of gravity is the period **before** broad autonomy: apprenticeship, examples, correction, evaluation, skill preservation, promotion, and the creation of portable operating judgment around an agent.
+- *How to Train Your Agent* is the principal's field manual. Its center of gravity is the period **before** broad autonomy: apprenticeship, examples, correction, evaluation, skill preservation, qualification, promotion, and the creation of portable operating judgment around an agent.
 
 Overlap is permitted where the subject genuinely requires it, but the book should not simply restate the economics of delegation or the security architecture of delegated authority. Its novel unit of analysis is the trained role and the human process that creates it.
 
@@ -26,7 +28,7 @@ Overlap is permitted where the subject genuinely requires it, but the book shoul
 
 A September 7, 2026 web scan found a growing technical and management literature on building, deploying, and supervising agents. Manning's *AI Agents and Applications* is a technical implementation book. Open-source playbooks teach day-to-day agentic workflows. Kenneth Mangum's short *Leading with AI Agents* frames trust, delegation, and accountability at the organizational level. A recent Substack post by Caitlin McCaffrey used the exact phrase “How to train your agent” for a practical self-improving customer-research loop.
 
-The title phrase therefore cannot honestly be described as unprecedented. The book's defensible white space is narrower and stronger: a full trade-nonfiction argument that **agent training is a new form of personal capital formation**, that agents need a deliberately designed “childhood” before autonomy, and that the worker of the agent economy increasingly competes through the quality of the digital workforce they have taught rather than only through the tasks they can personally execute.
+The title phrase therefore cannot honestly be described as unprecedented. The book's defensible white space is narrower and stronger: a full trade-nonfiction argument that **agent training is a new form of personal and organizational capital formation**, that capability should not be confused with qualification, and that workers increasingly compete through the quality of the operating judgment they can encode around digital labor rather than only through the tasks they can personally execute.
 
 The manuscript should make that distinction clear without spending pages attacking neighboring books or claiming exclusive ownership of a fast-moving idea.
 
@@ -72,7 +74,7 @@ The manuscript should avoid invented scenes, invented quotations, and unsupporte
 |---|---|
 | 1 — Your First Employee Isn't an Employee | What is technically and institutionally different when software can execute workflows rather than only answer questions? |
 | 2 — Prompting Is Micromanagement | Why do stable role definitions, tools, and evaluation outlast clever one-shot instructions? |
-| 3 — The Agent Needs a Childhood | What can apprenticeship research teach us about graduated participation without pretending machines learn like people? |
+| 3 — The Agent Needs an Apprenticeship | What can apprenticeship research teach us about graduated participation without pretending machines learn like people, and why should capability be separated from qualification? |
 | 4 — Write the Job Before the Prompt | How do objectives, constraints, and task boundaries reduce ambiguity and agency costs? |
 | 5 — Show It What Good Looks Like | What is the evidence for examples, evaluation criteria, and iterative improvement? |
 | 6 — Your Judgment Is the Dataset | Which scarce human judgments become more valuable when execution gets cheaper? |
@@ -96,4 +98,4 @@ The manuscript should avoid invented scenes, invented quotations, and unsupporte
 
 The strongest version of the book would be wrong if capable agents reliably inferred goals, standards, permissions, context, and escalation needs from minimal instruction; if user-created examples and correction histories added little durable value; if most economically useful autonomy remained too unreliable or too regulated for ordinary people to deploy; or if agent platforms made personal operating layers so non-portable that users could not accumulate meaningful capital around them.
 
-A weaker version could still survive: as long as people delegate consequential work to systems whose behavior is imperfect and whose authority is bounded, the old problems of apprenticeship, supervision, evaluation, and accountability will reappear in new forms. The manuscript should earn that conclusion rather than assume it.
+A weaker version could still survive: as long as people delegate consequential work to systems whose behavior is imperfect and whose authority is bounded, the old problems of apprenticeship, supervision, evaluation, qualification, and accountability will reappear in new forms. The manuscript should earn that conclusion rather than assume it.
