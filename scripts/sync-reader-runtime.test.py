@@ -36,6 +36,8 @@ def worker(cache: str, *, include_offline_helper: bool = True, missing: str | No
     return f"const CACHE = '{cache}';\nconst SHELL = [\n{shell}\n];\n"
 
 
+REMOTE = "https://svyable.github.io/bookself/reader/"
+
 with tempfile.TemporaryDirectory() as tmp:
     root = Path(tmp) / "desk"
     platform = Path(tmp) / "bookself"
@@ -49,9 +51,18 @@ with tempfile.TemporaryDirectory() as tmp:
     ]:
         path.mkdir(parents=True, exist_ok=True)
 
-    (root / "reader/index.html").write_text("desk shell\n")
+    (root / "reader/index.html").write_text(
+        f'<link rel="stylesheet" href="{REMOTE}css/style.css?v=r11">\n'
+        f'<script src="{REMOTE}vendor/marked.min.js"></script>\n'
+        f'<script type="module" src="{REMOTE}js/app.js?v=r4"></script>\n'
+        '<a href="https://svyable.github.io/shelf/reader/">Released Shelf</a>\n'
+    )
     (root / "reader/manifest.webmanifest").write_text("desk manifest\n")
     (root / "reader/app-icon.svg").write_text("desk icon\n")
+    (root / "reader/js/app-loader.js").write_text(
+        "const canonicalAppUrl = 'https://svyable.github.io/bookself/reader/js/app.js?v=r4';\n"
+        "export { canonicalAppUrl };\n"
+    )
     (root / "reader/js/desk-local.js").write_text("desk js\n")
     (root / "reader/css/desk-local.css").write_text("desk css\n")
     (root / "books").mkdir()
@@ -86,9 +97,19 @@ with tempfile.TemporaryDirectory() as tmp:
         "shell_entries=7",
     ]
 
+    index = (root / "reader/index.html").read_text()
+    loader = (root / "reader/js/app-loader.js").read_text()
+    assert 'href="css/style.css?v=r11"' in index
+    assert 'src="vendor/marked.min.js"' in index
+    assert 'src="js/app.js?v=r4"' in index
+    assert REMOTE not in index
+    assert "new URL('./app.js', import.meta.url).href" in loader
+    assert REMOTE not in loader
+    assert 'href="https://svyable.github.io/shelf/reader/"' in index
+
     # Simulate an upstream removal/change. The next sync removes the stale
     # Bookself-owned helper, updates app.js and the cache generation together,
-    # and preserves Desk-only overlays.
+    # keeps the shell local-only, and preserves Desk-only overlays.
     (platform / "reader/js/offline-cache.js").unlink()
     (platform / "reader/js/app.js").write_text("canonical app v2\n")
     (platform / "reader/sw.js").write_text(worker("bookself-shell-v2", include_offline_helper=False))
@@ -100,7 +121,8 @@ with tempfile.TemporaryDirectory() as tmp:
     assert offline_version.read_text().splitlines()[0] == "cache=bookself-shell-v2"
     assert offline_version.read_text().splitlines()[2] == "shell_entries=6"
 
-    assert (root / "reader/index.html").read_text() == "desk shell\n"
+    assert REMOTE not in (root / "reader/index.html").read_text()
+    assert REMOTE not in (root / "reader/js/app-loader.js").read_text()
     assert (root / "reader/manifest.webmanifest").read_text() == "desk manifest\n"
     assert (root / "reader/app-icon.svg").read_text() == "desk icon\n"
     assert (root / "reader/js/desk-local.js").read_text() == "desk js\n"
@@ -109,9 +131,11 @@ with tempfile.TemporaryDirectory() as tmp:
 
     # A service-worker shell entry without a local file is a broken sync, even
     # when every copied Bookself file itself compares byte-for-byte. The failed
-    # candidate must not mutate any live runtime or ownership/version metadata.
+    # candidate must not mutate any live runtime, shell, or ownership/version metadata.
     good_app = (root / "reader/js/app.js").read_text()
     good_worker = (root / "reader/sw.js").read_text()
+    good_index = (root / "reader/index.html").read_text()
+    good_loader = (root / "reader/js/app-loader.js").read_text()
     good_manifest = manifest.read_text()
     good_version = offline_version.read_text()
     good_desk_js = (root / "reader/js/desk-local.js").read_text()
@@ -130,10 +154,12 @@ with tempfile.TemporaryDirectory() as tmp:
 
     assert (root / "reader/js/app.js").read_text() == good_app
     assert (root / "reader/sw.js").read_text() == good_worker
+    assert (root / "reader/index.html").read_text() == good_index
+    assert (root / "reader/js/app-loader.js").read_text() == good_loader
     assert manifest.read_text() == good_manifest
     assert offline_version.read_text() == good_version
     assert (root / "reader/js/desk-local.js").read_text() == good_desk_js
     assert (root / "reader/css/desk-local.css").read_text() == good_desk_css
     assert (root / "books/keep.txt").read_text() == "manuscript state\n"
 
-print("Desk Reader runtime sync contract: staged verification, exact files, complete/versioned offline shell, Desk state preserved")
+print("Desk Reader runtime sync contract: staged verification, local-only shell, exact files, complete/versioned offline shell, Desk state preserved")
