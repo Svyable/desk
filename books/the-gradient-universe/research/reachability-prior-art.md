@@ -8,11 +8,14 @@ The book must not claim to have invented:
 
 - reachable sets or viability kernels;
 - the idea that control has energetic or thermodynamic costs;
+- energetic resilience as the extra control energy required after loss of control authority;
+- architecture/controller co-design that trades hardware or architecture cost against controllability and performance;
 - the idea that living systems preserve latent capacity during dormancy;
 - the idea that biological organization depends on self-maintained constraints;
 - the idea that information can be evaluated by its contribution to viability;
 - the idea that adaptive systems can be studied through distributions or geometries of unrealized future trajectories;
-- the general idea that future-option structure matters for agency or biological function.
+- viability-geometric accounts of persistence under perturbation;
+- the general idea that future-option structure matters for agency, resilience, or biological function.
 
 Each of those already has relevant prior art.
 
@@ -49,6 +52,34 @@ The paper shows that greater independent controllability of coupled metabolic cu
 The book therefore must not claim to have discovered the general idea that controllability costs dissipation.
 
 A distinct test would couple a known control cost to a calculated **robust viable reachable-set gain** under a specified environmental disturbance process, then test whether that gain predicts when the cost becomes adaptive.
+
+### Energetic resilience under loss of control authority — 2026
+
+Ram Padmanabhan and Melkior Ornik published **“Approximate energetic resilience of nonlinear systems under partial loss of control authority”** in *Automatica* in 2026.
+
+Primary link: https://doi.org/10.1016/j.automatica.2026.112898
+
+The paper quantifies the extra control energy required for nonlinear systems to achieve reachability objectives after partial actuator/control-authority loss. This is very close to any claim that “loss of reachability has an energetic cost.”
+
+The book must therefore not market energy-versus-reachability accounting as a new control-theoretic idea.
+
+The candidate distinction is again narrower and biological/nonequilibrium: **the system itself spends work to create or maintain a constraint that changes its later viable reachable set**, and the experiment asks whether that endogenous investment is favored under specified environmental variation.
+
+### Control and architecture co-design
+
+Control engineering already contains a substantial literature on selecting sensors, actuators, communication links, plant parameters, and controller structure while trading architecture cost against achievable performance, controllability, robustness, energy use, or feasibility. This includes contemporary mixed-integer controller/architecture co-design as well as decades of actuator-placement and control-effort work.
+
+The book must not claim that paying for architecture to gain control authority is new in engineered systems.
+
+The potentially distinct scientific question is whether an analogous **endogenous constraint-investment relation** can be defined and tested in driven chemical or living systems without importing an engineer's externally specified objective after the fact.
+
+### Viability geometry and persistence — 2026
+
+Recent work also develops viability-geometric frameworks for adaptive or persistent systems, explicitly using reachable perturbations, collapse boundaries, and stabilization mechanisms.
+
+The book must therefore avoid presenting “persistence as geometry of viable states” as unique.
+
+Its remaining target is the thermodynamic price and causal contribution of a *particular self-produced physical constraint* to that geometry.
 
 ### Semantic information, autonomous agency, and viability
 
@@ -112,9 +143,22 @@ This sets the appropriate ambition: a proposed principle should solve a precisel
 
 After accounting for the work above, the strongest candidate claim left for *The Gradient Universe* is:
 
-> A physically instantiated constraint can be assigned a thermodynamic construction/maintenance cost and a separately measured effect on a system's robust viable reachable set. Under a specified disturbance process, selection or design can favor a constraint when the future reachability gained by that constraint outweighs its cost, even when the constraint lowers instantaneous power or entropy production.
+> In a driven chemical or living system, a physically instantiated constraint that is constructed or maintained by the system itself can be assigned a thermodynamic cost and a separately predicted causal effect on the system's robust viable reachable set. Under a predeclared disturbance process, selection can favor that endogenous constraint when the future viability/reachability it adds outweighs its energetic and material cost, even when the constraint lowers instantaneous power or entropy production.
 
 Even this should be described as a **candidate synthesis and testable conjecture** until a more exhaustive literature review, mathematical derivation, and experiment establish that the formulation is genuinely new and useful.
+
+The novelty cannot be “energy affects control,” “architecture affects reachability,” “future options matter,” or “viability has a geometry.” All of those are occupied territory.
+
+The novelty, if any, has to come from the full causal loop:
+
+1. the system consumes a measured nonequilibrium resource;
+2. part of that resource is invested in a specific physical constraint;
+3. the constraint changes later accessible transitions;
+4. the resulting reachability change is predicted before the future disturbance occurs;
+5. the constraint's cost and reachability gain jointly predict when it is retained, selected, or beneficial;
+6. competing power, growth, resilience, and standard control models fail to explain the same threshold as well.
+
+If any one of those pieces is missing, the claim becomes much closer to existing work.
 
 ## Strongest possible paper-shaped experiment
 
@@ -134,6 +178,6 @@ Before experiment:
 
 Then test whether persistence, recovery, or fitness changes near the predicted threshold.
 
-If a simpler model based on power, growth rate, energy inventory, or standard control metrics predicts the result equally well, the reachability formulation has not earned novelty.
+If a simpler model based on power, growth rate, energy inventory, ordinary robustness, control energy, or standard co-design metrics predicts the result equally well, the reachability formulation has not earned novelty.
 
 That is the standard the book should set for itself.
