@@ -12,7 +12,7 @@
 | Prologue | ⬜ pending | |
 | Chapter 1 | ⬜ pending | |
 | Chapter 2 | ⬜ pending | |
-| Chapter 3 | ⬜ pending | |
+| Chapter 3 | ✅ audited | Rebuilt around NIST Boulder/NanoFab contamination control; consolidated list-heavy prose; verified ISO class 5 facility facts and wafer-cleaning examples; preserved sector-specific boundaries and added layered/local control counterevidence. |
 | Chapter 4 | ⬜ pending | |
 | Chapter 5 | ⬜ pending | |
 | Chapter 6 | ⬜ pending | |
