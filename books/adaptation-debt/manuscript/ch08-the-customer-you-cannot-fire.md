@@ -104,11 +104,7 @@ Put the two projects in the same capital-allocation meeting and the old customer
 
 The future customer arrives as a slide.
 
-This is customer adaptation debt.
-
-It is not the burden of having customers.
-
-It is the cost of changing after customers have organized around what you already do.
+This is customer adaptation debt: the cost of changing after customers have organized around what you already do.
 
 The debt grows in several places at once.
 

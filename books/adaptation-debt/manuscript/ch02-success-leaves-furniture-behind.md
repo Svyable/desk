@@ -378,8 +378,6 @@ It is the price of teaching everything around the old thing to stop expecting it
 
 By the time a system is successful, those expectations are everywhere.
 
-The furniture is not clutter.
-
-It is evidence of a life lived in the room.
+The furniture is evidence of a life lived in the room.
 
 That is what makes rearranging it expensive.

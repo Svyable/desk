@@ -162,8 +162,6 @@ Cannibalize too late and the old business absorbs capital, talent, and attention
 
 Cannibalize too early and the company can destroy the cash flow, distribution, trust, and customer base that would have financed the transition.
 
-This is not a paradox that disappears with courage.
-
 It is an optimization problem under uncertainty.
 
 The organization does not know exactly how fast the new system will improve.

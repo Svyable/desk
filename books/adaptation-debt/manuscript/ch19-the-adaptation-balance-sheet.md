@@ -8,15 +8,7 @@ A factory appears as property, plant, and equipment.
 
 The supplier that qualified a strange material over eight years does not appear beside it.
 
-The maintenance team that knows which vibration is normal does not appear beside it.
-
-The customer workflow built around the factory’s tolerances does not appear beside it.
-
-The permit whose conditions fit the existing process does not appear beside it.
-
-The manager promoted for keeping utilization above ninety percent does not appear beside it.
-
-The production metric that makes idle capacity look like failure does not appear beside it.
+Neither does the maintenance team that knows which vibration is normal, nor the customer workflow built around the factory’s tolerances, nor the manager promoted for keeping utilization above ninety percent.
 
 The operating margin that depends on all of those pieces remaining aligned does appear.
 
@@ -56,13 +48,7 @@ The organization discovers the debt when it tries to refinance its identity.
 
 This chapter proposes an adaptation balance sheet.
 
-Not a new accounting standard.
-
-Not a number called Adaptation Debt to be placed between accounts payable and long-term borrowings.
-
-Not a consulting score in which flexibility receives eighty-two points out of one hundred.
-
-That would pretend to know more than the evidence permits.
+Not a new accounting standard, and not a consulting score in which flexibility receives eighty-two points out of one hundred. That would pretend to know more than the evidence permits.
 
 The useful idea is simpler.
 
@@ -786,8 +772,4 @@ Sunsets need evidence.
 
 Heretics need historians.
 
-Put those facts on one page—not as a score, but as a record of commitments and choices—and a different kind of organization becomes visible.
-
-Not one with no debt.
-
-One that knows what it owes the future before the bill arrives.
+Put those facts on one page—not as a score, but as a record of commitments and choices—and a different kind of organization becomes visible: one that knows what it owes the future before the bill arrives.

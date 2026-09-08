@@ -48,8 +48,6 @@ That changes how we should think about adaptation debt.
 
 The opposite of debt is not constant change.
 
-It is not a company with no commitments.
-
 It is a company whose commitments leave enough useful routes open that a change in the environment does not require a cold start.
 
 Those routes are option value inside the firm.

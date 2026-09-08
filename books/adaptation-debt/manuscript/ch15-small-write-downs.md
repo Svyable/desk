@@ -500,19 +500,9 @@ Organizations often want option value without option cost.
 
 They want a second supplier at the first supplier's price.
 
-They want employees ready for new work without removing them from old work.
-
 They want a new business with the old business's margin.
 
-They want customer migration without supporting overlap.
-
-They want experimentation without failed experiments.
-
-They want modularity without interface overhead.
-
-They want slack without lower utilization.
-
-These combinations are usually fantasies.
+Those combinations are usually fantasies.
 
 Flexibility has a carrying cost.
 
