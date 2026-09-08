@@ -21,12 +21,23 @@ require_path "$PLATFORM/reader/css"
 require_path "$PLATFORM/reader/vendor"
 require_path "$PLATFORM/reader/sw.js"
 
+# Build the next effective Reader tree away from the live Reader first. A bad
+# upstream checkout must fail verification without partially replacing the
+# last-known-good local runtime.
+stage=$(mktemp -d "${TMPDIR:-/tmp}/desk-reader-sync.XXXXXX")
+trap 'rm -rf "$stage"' EXIT HUP INT TERM
+candidate="$stage/reader"
+mkdir -p "$candidate"
+if [ -d "$READER" ]; then
+  cp -R "$READER/." "$candidate/"
+fi
+
 # Remove only files that the previous Bookself runtime sync explicitly owned.
 # Desk-only adapters and overrides are intentionally absent from this manifest.
 if [ -f "$MANIFEST" ]; then
   while IFS= read -r relative; do
     case "$relative" in
-      js/*|css/*|vendor/*|sw.js) rm -f "$READER/$relative" ;;
+      js/*|css/*|vendor/*|sw.js) rm -f "$candidate/$relative" ;;
       '') ;;
       *)
         echo "Refusing unsafe Reader runtime manifest entry: $relative" >&2
@@ -36,14 +47,14 @@ if [ -f "$MANIFEST" ]; then
   done < "$MANIFEST"
 fi
 
-mkdir -p "$READER/js" "$READER/css" "$READER/vendor"
-cp -R "$PLATFORM/reader/js/." "$READER/js/"
-cp -R "$PLATFORM/reader/css/." "$READER/css/"
-cp -R "$PLATFORM/reader/vendor/." "$READER/vendor/"
-cp "$PLATFORM/reader/sw.js" "$READER/sw.js"
+mkdir -p "$candidate/js" "$candidate/css" "$candidate/vendor"
+cp -R "$PLATFORM/reader/js/." "$candidate/js/"
+cp -R "$PLATFORM/reader/css/." "$candidate/css/"
+cp -R "$PLATFORM/reader/vendor/." "$candidate/vendor/"
+cp "$PLATFORM/reader/sw.js" "$candidate/sw.js"
 
-manifest_tmp="$MANIFEST.tmp"
-offline_version_tmp="$OFFLINE_VERSION.tmp"
+manifest_tmp="$stage/bookself-runtime-files"
+offline_version_tmp="$stage/bookself-offline-version"
 (
   cd "$PLATFORM/reader"
   find js css vendor -type f -print | LC_ALL=C sort
@@ -51,17 +62,17 @@ offline_version_tmp="$OFFLINE_VERSION.tmp"
 ) > "$manifest_tmp"
 
 while IFS= read -r relative; do
-  if ! cmp -s "$PLATFORM/reader/$relative" "$READER/$relative"; then
+  if ! cmp -s "$PLATFORM/reader/$relative" "$candidate/$relative"; then
     echo "Desk Reader runtime verification failed: $relative" >&2
-    rm -f "$manifest_tmp" "$offline_version_tmp"
     exit 1
   fi
 done < "$manifest_tmp"
 
 # Offline/PWA correctness is part of the sync contract, not a later browser
-# surprise. Verify every local service-worker shell entry exists after the copy
-# and stamp the exact cache generation plus worker digest for reviewable diffs.
-python3 - "$READER/sw.js" "$READER" "$offline_version_tmp" <<'PY'
+# surprise. Verify every service-worker shell entry against the complete
+# candidate Reader (canonical runtime plus preserved Desk shell) and stamp the
+# exact cache generation plus worker digest for reviewable diffs.
+python3 - "$candidate/sw.js" "$candidate" "$offline_version_tmp" <<'PY'
 from hashlib import sha256
 from pathlib import Path
 import sys
@@ -116,8 +127,17 @@ version_path.write_text(
 )
 PY
 
-mv "$manifest_tmp" "$MANIFEST"
-mv "$offline_version_tmp" "$OFFLINE_VERSION"
+# Candidate verification succeeded. Replace only the runtime-bearing trees and
+# worker, then publish ownership/version metadata last. The candidate already
+# contains Desk-only adapters copied from the current Reader.
+rm -rf "$READER/js" "$READER/css" "$READER/vendor"
+mkdir -p "$READER"
+cp -R "$candidate/js" "$READER/js"
+cp -R "$candidate/css" "$READER/css"
+cp -R "$candidate/vendor" "$READER/vendor"
+cp "$candidate/sw.js" "$READER/sw.js"
+cp "$manifest_tmp" "$MANIFEST"
+cp "$offline_version_tmp" "$OFFLINE_VERSION"
 
 cat <<EOF
 Synced and verified canonical Bookself Reader runtime -> $READER/
@@ -126,5 +146,6 @@ Verified the local offline shell and recorded its cache generation in
 reader/.bookself-offline-version.
 Preserved Desk-owned reader/index.html, manifest.webmanifest, app-icon.svg,
 and Desk-only js/css overlay files.
+A failed upstream verification leaves the live Reader runtime unchanged.
 No books, catalog data, release state, or hosted CI are involved.
 EOF
