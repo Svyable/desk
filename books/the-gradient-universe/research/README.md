@@ -1,103 +1,183 @@
 # Research Notes — The Gradient Universe
 
-## Sourcing Approach
+## Research question
 
-This book builds on established thermodynamics (Carnot, Clausius, Boltzmann) and extends it to far-from-equilibrium systems via the work of Prigogine, Schneider, Kay, Dewar, Kleidon, and others. All major scientific claims are either:
+The book now asks a narrower question than its first draft did:
 
-1. **Consensus science**: well-established results from thermodynamics, atmospheric science, biology, or astrophysics
-2. **Debated principles**: MEPP, Maximum Power, Constructal Law, and dissipation-driven adaptation, presented with explicit caveats about their contested status
-3. **Falsifiable hypotheses**: predictions about gradient requirements, structure collapse when gradients are removed, and correlations between gradients and complexity
+> Can a driven system spend present free energy to construct or maintain a physical constraint that changes its later *viable reachable states*, and can the thermodynamic cost of that constraint be measured separately from the future capability it adds?
 
-## Counter-Evidence and Limitations
+The proposed name is **recursive thermodynamic reachability**. The proposed measurable effect is **reachability leverage**.
 
-The book explicitly addresses several limitations and counter-cases:
+This is a conjecture and research program, not an established law of nature.
 
-- **Laminar vs. turbulent flow** (Ch 11): systems can minimize entropy production under certain conditions, showing MEPP is not universal
-- **Equilibrium crystals** (Ch 12): organized structures can form at equilibrium, but these are not dissipative structures
-- **Contingency in evolution and ecosystem dynamics** (Ch 10, Ch 12, Ch 17): the gradient thesis constrains but does not uniquely determine outcomes
-- **Efficiency vs. robustness trade-offs** (Ch 11): natural systems often sacrifice efficiency for robustness, not optimizing any single metric
+The most important research discipline is therefore to separate what is already known from what the book is proposing.
 
-## Falsification Strategy (Ch 12 Summary)
+## Three levels of confidence
 
-The gradient thesis would be falsified or narrowed by:
+### 1. Established or mature science
 
-1. **Organized system persisting without gradients**: a dissipative structure that maintains itself at equilibrium would refute the core claim
-2. **Gradient-independent complexity**: if system complexity were found to be uncorrelated with available gradients, the thesis would be challenged
-3. **Structure persisting after gradient removal**: if removing the driving gradient does not collapse the structure, the specific mechanism would need revision
-4. **Life at equilibrium**: if organisms could maintain metabolism without consuming environmental gradients, the biological application would be falsified
-5. **Thermodynamic violations**: perpetual motion of the second kind would refute both the gradient thesis and the second law (none have been observed)
+The book relies on established thermodynamics, statistical mechanics, fluid mechanics, chemistry, physiology, evolutionary biology, control theory, and climate science for ordinary claims within those fields.
 
-## Debated Principles — Status as of 2026
+Examples include:
 
-### Maximum Entropy Production Principle (MEPP)
-- **Status**: Productive research program, not consensus law
-- **Supporting cases**: atmospheric convection, some chemical reaction networks, Earth's energy balance
-- **Counter-cases**: laminar flow, metastable states, systems with multiple attractors
-- **Book treatment**: presented in Ch 11 as contested, with explicit discussion of limitations
+- conservation of energy and second-law constraints;
+- equilibrium free energies and chemical potentials;
+- exergy/available-work reasoning;
+- transport driven by temperature, pressure, electrical, concentration, redox, and chemical-potential differences under specified mechanisms;
+- dissipative structures and nonlinear instabilities in specified systems;
+- chemiosmotic coupling and cellular ion gradients;
+- natural selection as differential reproductive success among heritable variants;
+- control-theoretic reachability and viability kernels;
+- energetic and thermodynamic costs of control in specified models.
 
-### Dissipation-Driven Adaptation (England et al.)
-- **Status**: Speculative extension, not yet tested at biological scales
-- **Supporting evidence**: simulation studies of driven systems
-- **Open questions**: whether it explains origin of life or scales to complex organisms
-- **Book treatment**: Ch 8 and Ch 11 label it as contested and distinguish it from natural selection
+None of these should be advertised as discoveries of this book.
 
-### Constructal Law (Bejan)
-- **Status**: Design principle with explanatory power, not predictive law
-- **Applications**: river networks, vascular systems, lightning paths
-- **Limitations**: does not specify how optimization occurs, only what structures should emerge if optimized
-- **Book treatment**: Ch 11 presents it as heuristic, not fundamental law
+### 2. Productive but non-universal principles
 
-## Avoided Pitfalls
+The book discusses maximum entropy production, maximum power, constructal approaches, dissipative adaptation, and related ideas because they attempt to explain which far-from-equilibrium states are selected.
 
-The book explicitly avoids several common errors (detailed in Ch 16):
+Their status is deliberately below the first category.
 
-- **No invented quotations or dialogue**: all citations are to real published work
-- **No claim that entropy equals disorder in moral sense**: entropy is statistical, not aesthetic
-- **No teleology**: dissipative structures do not exist "in order to" dissipate gradients; they dissipate, and that is what they do
-- **No vitalism**: no appeal to non-physical life forces
-- **No purpose-talk**: the gradient thesis does not assign cosmic meaning or human purpose (Ch 17)
+The manuscript treats them as domain-dependent hypotheses, closures, heuristics, or research programs unless a stronger theorem applies under clearly stated assumptions.
 
-## Research Integrity Notes
+Failure of one of these principles does not threaten the second law.
 
-- All peer-reviewed sources are real publications or textbook consensus
-- Historical sources (Carnot, Clausius, Boltzmann, Schrödinger, Shannon, Turing) are accurately dated and described
-- Contemporary debates (MEPP, England, Constructal Law) are presented with explicit labels of contested status
-- No statistics, percentages, or quantitative claims are invented; where numbers appear (e.g., Carnot efficiency, photosynthetic efficiency, trophic energy transfer), they are drawn from cited sources or textbook ranges
-- Falsification criteria are stated explicitly in Ch 12, making the thesis testable
+### 3. The book's conjecture
 
-## Thermodynamic Rigor
+The candidate contribution is not that control costs energy, that future options matter, that viability has a geometry, that organisms construct constraints, or that dormancy preserves latent capacity. All of those have prior art.
 
-The book maintains the following distinctions:
+The narrow conjecture left to test is:
 
-- **Isolated vs. open systems**: the second law applies to isolated systems; open systems can decrease internal entropy by exporting more to surroundings
-- **Equilibrium vs. steady state**: equilibrium is static and time-independent; steady state is dynamic with constant throughput
-- **Thermodynamic vs. informational entropy**: Shannon entropy and Boltzmann entropy are related but distinct
-- **Efficiency vs. effectiveness**: high entropy production does not always mean high efficiency; robustness often requires slack
+> In a driven chemical or living system, a constraint constructed or maintained by the system itself can be assigned a physical cost and a separately predicted causal effect on the system's robust viable reachable set. Under a predeclared disturbance process, selection can favor that endogenous constraint when the future viability/reachability it adds outweighs its energetic and material cost, even when the constraint lowers instantaneous power or entropy production.
 
-## Scope and Exclusions
+The term **reachability leverage** refers only to that causal gain attributable to the specified constraint under a specified budget, horizon, and disturbance model.
 
-This book focuses on:
+## Novelty discipline
 
-- Non-equilibrium thermodynamics
-- Dissipative structures (Prigogine tradition)
-- Gradient-driven organization
-- Energy flows in physical, biological, and social systems
+Before calling the conjecture original, read [reachability-prior-art.md](reachability-prior-art.md).
 
-This book does NOT cover:
+That note records the closest known work and the claims the book must not make.
 
-- Quantum measurement problems (covered by other Desk books: `the-preferred-partition`, `the-reciprocal`)
-- Non-sapient intellect (covered by `beyond-the-veil`)
-- Prediction erasing evidence (covered by `the-unobserved-world`)
-- Sensory infrastructure (covered by `the-world-beneath-the-world`)
+Particularly close prior art includes:
 
-## Key Citations for Fact-Checking
+- control-theoretic reachable sets and viability kernels;
+- reachable-set methods in stochastic biochemical systems;
+- biological organization as closure of constraints;
+- semantic information defined through contribution to viability;
+- non-equilibrium capacity in living systems and dormancy;
+- counterfactual geometry of unrealized accessible biological futures;
+- thermodynamic cost–controllability trade-offs in metabolic currency coupling;
+- energetic resilience under partial loss of control authority;
+- control/architecture co-design in engineered systems.
 
-- Prigogine's Nobel Lecture (1977): dissipative structures and self-organization
-- Schneider & Kay (1994): ecosystems as gradient-dissipation engines
-- Dewar (2003): derivation of MEPP from maximum caliber
-- Kleidon (2009): Earth system thermodynamics
-- England (2013): dissipation-driven adaptation (labeled as speculative)
-- Lane (2015): bioenergetics and origin of complex life
-- IPCC AR6 (2021): climate and energy balance
+The conjecture earns novelty only if the *full causal loop* adds something these literatures do not already predict:
 
-All sources are checkable via DOI, ISBN, or institutional URL.
+1. a measured nonequilibrium resource is consumed;
+2. part of it is invested in a specific self-produced physical constraint;
+3. that constraint changes later accessible transitions;
+4. the change is predicted before the future disturbance occurs;
+5. the constraint's cost and reachability gain jointly predict when it is retained, selected, or beneficial;
+6. simpler power, growth, resilience, control-energy, or standard co-design models do not explain the same threshold as well.
+
+If that test is not met, the honest description is **interdisciplinary synthesis**, not breakthrough.
+
+## Core research notes
+
+- [Recursive thermodynamic reachability](recursive-thermodynamic-reachability.md) — formal object, candidate mechanisms, predictions, falsification conditions, and mathematical work still required.
+- [Closest prior art](reachability-prior-art.md) — novelty guardrails and the paper-shaped experiment that would most strongly test the proposal.
+- [Source ledger](source-ledger.csv) — claim-to-source audit trail.
+
+## Formal objects
+
+Let the system state be \(x\), environment \(e\), admissible action or control \(u\), and physically instantiated constraint architecture \(c\):
+
+\[
+\dot{x}=f(x,e,u;c).
+\]
+
+A model must specify in advance:
+
+- a state representation;
+- a viability set \(K\);
+- a physical resource/work budget \(B\);
+- a time horizon \(\tau\);
+- admissible controls/actions;
+- a disturbance family or probability model;
+- the physical cost of constructing and maintaining \(c\).
+
+A thermodynamically budgeted viable reachable set is the set of states or targets accessible within those conditions while respecting the viability constraints.
+
+The safest initial comparison is set-valued or target-specific. A scalar “volume of options” is not automatically meaningful because it can depend on coordinates, coarse-graining, and an arbitrary measure.
+
+## Candidate mechanisms
+
+The conjecture is motivated by systems that spend present work to change later transition structure:
+
+- membranes that suppress uncontrolled diffusion;
+- pumps that use one chemical gradient to build another;
+- regulatory networks that make different metabolic regimes independently accessible;
+- storage that preserves resources across interruptions;
+- repair that prevents later loss of operating states;
+- dormancy that preserves reactivation capability with very low present throughput;
+- physical memory that changes later control cost or target accessibility;
+- redundant or reserve capacity that preserves operation under component failure.
+
+These examples are not evidence of one universal law. Each must be modeled and tested on its own terms.
+
+## Strongest first experiment
+
+A useful first paper should avoid brains, civilizations, and grand universal claims.
+
+Choose an engineered microbial system or driven synthetic chemical network where an added regulatory or structural constraint has a measurable cost.
+
+Before experiment:
+
+1. define the system boundary;
+2. define the physical resource budget;
+3. define the viable state set;
+4. define the disturbance distribution;
+5. calculate the robust reachable sets of competing architectures;
+6. calculate the energetic/material cost of the added constraint;
+7. predict a parameter threshold at which its reachability gain should outweigh its cost.
+
+Then test whether persistence, recovery, or reproductive success changes near the predicted threshold.
+
+The highest-value version would use a system where ordinary growth rate, instantaneous power, current entropy production, energy inventory, standard resilience, and standard control metrics make distinguishable predictions.
+
+## Falsification rules
+
+The conjecture is not allowed the following escape hatches:
+
+- no post hoc state variables;
+- no post hoc viability boundary;
+- no hidden-gradient rescue without independent measurement;
+- no changing the time horizon after seeing which architecture wins;
+- no ignoring construction or maintenance cost;
+- no calling an informational, social, or semantic difference a thermodynamic gradient without a physical definition;
+- no appealing to the second law when the stronger conjecture fails;
+- no claiming novelty when a standard control, viability, resilience, or biological model already predicts the result equally well.
+
+A framework that cannot lose is not ready for publication as science.
+
+## Book-level boundaries
+
+The book should keep these distinctions explicit:
+
+- thermodynamic free energy is not Friston's variational free energy;
+- physical information processing cost is not semantic meaning;
+- thermodynamic dependence is not thermodynamic explanation;
+- natural selection is not entropy-production maximization;
+- active maintenance is different from passive persistent structure;
+- stronger gradients do not generically imply greater complexity;
+- a higher dissipation rate does not generically imply greater fitness, resilience, intelligence, or value;
+- social and ethical claims require premises that thermodynamics does not supply.
+
+## Publication standard
+
+There are two potentially publishable outputs here, and they should not be confused.
+
+**A trade/science book** can be worth publishing if it offers a unusually clear synthesis of gradients, constraints, non-equilibrium systems, control, and the limits of thermodynamic explanation, even if the conjecture remains unproven.
+
+**A scientific paper** requires more. The reachability conjecture needs a mathematical formulation and at least one result that makes a risky quantitative prediction not already supplied by the closest prior art.
+
+Until then the manuscript should say “conjecture,” “candidate mechanism,” or “research program,” never “law,” “discovery,” or “proved principle.”
