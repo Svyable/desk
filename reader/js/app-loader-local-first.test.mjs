@@ -5,11 +5,19 @@ import { fileURLToPath } from 'node:url';
 const source = readFileSync(fileURLToPath(new URL('./app-loader.js', import.meta.url)), 'utf8');
 
 assert.match(source, /const localAppUrl = '\.\/js\/app\.js';/);
-assert.match(source, /const fallbackAppUrl = `\$\{upstream\}app\.js/);
+assert.match(source, /const canonicalReader = 'https:\/\/svyable\.github\.io\/bookself\/reader\/js\/';/);
+assert.match(source, /const canonicalAppUrl = `\$\{canonicalReader\}app\.js\?v=r4`;/);
 assert.match(source, /fetchBootstrapResource\(localAppUrl, \{ retryDelays: \[\] \}\)/);
-assert.match(source, /fetchBootstrapResource\(fallbackAppUrl\)/);
-assert.match(source, /if \(local\) \{\s*await import\('\.\/app\.js'\);/s);
-assert.match(source, /const adapted = adaptRemoteReaderSource\(source\);/);
-assert.doesNotMatch(source, /const appUrl = `\$\{upstream\}app\.js/);
+assert.match(source, /fetchBootstrapResource\(canonicalAppUrl\)/);
+assert.match(source, /return \{ local: true, url: '\.\/app\.js' \};/);
+assert.match(source, /return \{ local: false, url: canonicalAppUrl \};/);
+assert.match(source, /const \{ url \} = await appAcquisition;\s*await import\(url\);/s);
 
-console.log('Desk Reader bootstrap prefers local canonical app with Shelf compatibility fallback');
+assert.doesNotMatch(source, /svyable\.github\.io\/shelf\/reader\/js\//);
+assert.doesNotMatch(source, /rewriteSharedModuleSpecifiers/);
+assert.doesNotMatch(source, /skipDeskCatalogCoverProbe/);
+assert.doesNotMatch(source, /sharedReaderOwnsDeskCatalogVisibility/);
+assert.doesNotMatch(source, /URL\.createObjectURL/);
+assert.doesNotMatch(source, /new Blob\(/);
+
+console.log('Desk Reader prefers local app and falls back directly to canonical Bookself without Shelf source rewriting');
