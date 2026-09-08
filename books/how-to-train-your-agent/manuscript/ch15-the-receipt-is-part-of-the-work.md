@@ -108,7 +108,7 @@ Evidence becomes part of the job definition rather than a cleanup exercise after
 
 This is where evaluation and operation meet.
 
-During the agent's childhood, receipts help the principal compare proposed work with reality. After promotion, the same receipts allow supervision to move from constant approval toward sampling and audit where appropriate.
+During the agent's apprenticeship, receipts help the principal compare proposed work with reality. After promotion, the same receipts allow supervision to move from constant approval toward sampling and audit where appropriate.
 
 A mature role can act autonomously because it leaves enough trace for the principal to understand what it did.
 
@@ -181,6 +181,78 @@ Agents can generate forms effortlessly, which makes this danger worse.
 If every action produces a beautiful compliance packet, the principal may feel safer while becoming less able to distinguish the packet that actually matters. Machine-generated bureaucracy is still bureaucracy.
 
 The receipt should earn the attention it requests.
+
+A useful way to see the difference is to compare two tasks that look nothing alike.
+
+A coding agent is asked to repair a checkout bug. It changes six files and reports success. A weak receipt is a paragraph explaining the cause. A better receipt begins with the actual consequence: which behavior was wrong before, which behavior is correct now, and what observable evidence distinguishes the two. It can point to the changed files, the test that reproduced the bug, the test that now passes, and any remaining condition the test does not cover. If the fix requires a database migration, the receipt may also need the migration plan and evidence that the change was exercised against production-like scale.
+
+The agent's prose can still be useful. The explanation helps the reviewer understand the change. But explanation is commentary on the evidence, not a substitute for it.
+
+Now move to a household task.
+
+An agent is asked to cancel a hotel reservation and rebook a better option after a flight changes. The agent returns: “Done. I canceled the old hotel and booked the new one.” That sounds complete. The useful receipt is different. It contains the old cancellation confirmation, whether any penalty was charged, the new reservation number, the new total price, the cancellation deadline on the replacement booking, and the card that was charged. If the original hotel refund is pending rather than settled, the receipt says pending.
+
+Nothing about the second case requires a programmer.
+
+Both cases share the same design question.
+
+What would a skeptical but busy person need in order to distinguish completed work from a plausible story about completed work?
+
+That question is more universal than logging.
+
+It is also more useful than demanding the agent “show its reasoning.”
+
+A principal can learn little from a long narrative of purported internal thought if the relevant external fact remains unverified. The software either changed. The reservation either exists. The refund either posted. The source either says what the report claims.
+
+The receipt is the interface between delegated action and human confidence.
+
+Interfaces matter because confidence has to scale.
+
+Imagine supervising one task a week. You can inspect everything.
+
+Now imagine fifty delegated tasks a day. Full inspection becomes impossible. The principal needs a way to sort ordinary success from situations that deserve attention.
+
+Receipts can support that sorting.
+
+Most low-risk actions can collapse into a terse record: completed, evidence attached, no exception.
+
+A smaller number can surface because something crossed a threshold: price changed materially, source conflict detected, test coverage incomplete, external confirmation missing, permission requested, unusually sensitive data involved.
+
+An even smaller number can stop entirely.
+
+This is how evidence and escalation reinforce each other.
+
+The receipt is not merely an archive after the event. It can decide whether the event is ready to continue.
+
+A deployment agent may refuse to advance if the test runner has not produced a passing result.
+
+A purchasing agent may refuse to place the order if return terms cannot be verified.
+
+A research agent may mark a claim unresolved when the only available source is secondary and the job requires primary evidence.
+
+A scheduling agent may prepare the calendar move but hold it when an invitation from a protected relationship would be displaced.
+
+The evidence requirement creates a stopping condition.
+
+This is important because language models are unusually good at continuing.
+
+They can always produce another sentence, another interpretation, another candidate, another workaround.
+
+The world contains tasks where the right behavior is to stop because the proof is missing.
+
+Training the receipt trains the stop.
+
+This idea becomes particularly valuable for people who do not think of themselves as technical. The easiest way to specify a reliable agent role may not be to describe all the reasoning you want it to perform. It may be to describe the evidence you expect to receive when the job is complete.
+
+Do not tell the travel agent how to think through every airline rule. Tell it that a completed booking must come back with the itinerary, total price, baggage terms that matter to you, cancellation conditions, and a real confirmation number.
+
+Do not tell the bookkeeping agent every path through reconciliation. Tell it that “reconciled” means the ending balances match defined sources and every unresolved difference is listed rather than rounded away.
+
+Do not tell the research agent to “be rigorous.” Tell it what claims require a source, which source classes are preferred, and how uncertainty must be represented when evidence conflicts.
+
+The receipt can be easier to specify than the cognition.
+
+That is powerful because frontier models will keep changing how they reach results. A proof-of-completion standard can remain useful across those changes.
 
 There is another reason evidence matters: agents can inflate traditional productivity metrics until the metrics lose meaning.
 
