@@ -106,6 +106,16 @@ That selection is judgment.
 
 Turn it into a durable retrieval rule and the role becomes stronger.
 
+Coders see the same distinction in a familiar form.
+
+A repository can contain a million lines of code and still fail to tell a coding agent what matters. The useful context may be one failing test, one interface contract, one migration rule, and one production incident hidden in an old issue. Dumping the entire repository into context is not expertise. Knowing where the relevant boundary lives is.
+
+A nontechnical professional makes the same move when she says, “Ignore the old policy folder. Use the signed contract for legal terms, the CRM for the current shipping address, and ask me if they conflict.”
+
+The machine can retrieve information.
+
+The principal supplies the hierarchy of consequence.
+
 The economic question is whether these accumulated judgments can become an asset.
 
 There are reasons to think they can.
@@ -121,6 +131,52 @@ A veteran property manager may have a finely calibrated sense of which maintenan
 If those people use agents only for generic output, they leave their strongest advantage outside the system.
 
 If they train roles around those distinctions, part of the advantage becomes leverage.
+
+This is where the title of the chapter needs a caveat.
+
+Your judgment may be the dataset.
+
+That does not mean the dataset is legally yours.
+
+A developer's corrections may be inseparable from an employer's proprietary source code. A lawyer's examples may contain client confidences. A doctor, teacher, recruiter, banker, or household member may be working with information that has privacy, contractual, professional, or ethical restrictions. A salesperson's finely tuned account logic may have been learned inside a company that owns the customer data and the playbook.
+
+The agent economy creates new containers for information without changing the fact that information can belong to somebody else.
+
+A private memory store is still a copy.
+
+An eval case can still reveal a trade secret.
+
+A “personal” agent can still contain employer data.
+
+This matters because people will be tempted to treat their trained agent as an extension of themselves. Human memory feels portable. If I learn how a company operates, some transformed knowledge travels with me when I leave. Machine memory is more literal. It can carry the documents, examples, messages, and records themselves.
+
+The portable asset therefore has to be separated from the private inputs that helped create it.
+
+A coder may carry the skill of building regression tests without carrying the old employer's repository.
+
+A recruiter may carry a better way to evaluate evidence of capability without exporting candidate records.
+
+A consultant may carry a method for stress-testing a strategy without copying a client's confidential scenarios.
+
+A household may preserve its own preferences while keeping one family member's private correspondence outside the shared role.
+
+The durable advantage is not theft made efficient.
+
+It is transformed judgment you are entitled to use.
+
+This distinction will become important for careers because agent artifacts make tacit learning more visible. What used to live vaguely inside a person's head may now exist as a folder of examples, a qualification set, a prompt file, a collection of tools, or a memory database. Employers and workers will need clearer expectations about who owns which layer.
+
+The legal answers will vary.
+
+The management answer is available now: design portability deliberately instead of assuming it.
+
+Keep general methods separate from confidential examples where possible.
+
+Keep secrets out of reusable role files.
+
+Know which source material may travel and which may not.
+
+Treat a trained role as an information asset, not merely a clever assistant.
 
 This creates a paradox.
 
@@ -280,4 +336,4 @@ Your judgment is the dataset.
 
 That does not make every judgment sacred.
 
-It makes every repeated judgment a candidate for examination, preservation, and challenge.
+It makes every repeated judgment a candidate for examination, preservation, challenge, and—when you have the right to do so—reuse.
