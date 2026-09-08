@@ -4,9 +4,7 @@ The most expensive person in a modern organization may be the one everyone is al
 
 Not necessarily expensive in salary, though the two often correlate. Expensive because an interruption can reroute other people’s work. A chief engineer answers a question and twenty developers change course. A surgeon looks at an alert and a procedure pauses. A regulator reads a warning and a market waits. A parent glances at a phone while a child is telling the part of the story that will not be repeated.
 
-The economics are strange because the sender often pays almost nothing.
-
-An email written in seconds can occupy minutes across fifty recipients. A notification generated automatically may cost almost nothing to produce and interrupt someone whose next minute matters greatly. A dashboard alert can be added by a developer who will never sit in the control room where it sounds. A model can generate ten thousand plausible “insights” without experiencing the fatigue of reading one.
+The economics are strange because the sender often pays almost nothing: an email written in seconds can occupy minutes across fifty recipients. A notification generated automatically may cost almost nothing to produce and interrupt someone whose next minute matters greatly. A dashboard alert can be added by a developer who will never sit in the control room where it sounds. A model can generate ten thousand plausible “insights” without experiencing the fatigue of reading one.
 
 Digital systems learned to spend other people’s attention casually.
 
@@ -18,13 +16,9 @@ When generation becomes cheap, the receiving side becomes easier to overwhelm.
 
 Herbert Simon described the structural problem in 1971: abundance of information creates scarcity in whatever the information consumes, especially the attention of its recipients. The insight survived changes in media because it was never really about paper or screens. It was about asymmetry between the supply of possible messages and the finite ability to notice, interpret, and act on them.
 
-Generative systems intensify the asymmetry because they do not merely retrieve existing messages. They create new candidates on demand.
+Generative systems intensify the asymmetry because they do not merely retrieve existing messages but create new candidates on demand. One proposed slogan becomes fifty. A strategic memo acquires three alternatives, five critiques, a risk register, and a slide deck. A monitoring system can write a summary every hour even when nothing worth interrupting anybody has happened.
 
-One proposed slogan becomes fifty. A strategic memo acquires three alternatives, five critiques, a risk register, and a slide deck. A monitoring system can write a summary every hour even when nothing worth interrupting anybody has happened.
-
-Readable language becomes cheap.
-
-Deciding whether the language matters does not.
+Readable language becomes cheap, but deciding whether the language matters does not.
 
 Clinical alerting shows what happens when a system ignores this difference. Software can monitor more variables than a clinician could watch continuously. That is useful. But a warning that appears too often becomes a weak claim on attention. Clinicians learn, through experience, that many alerts do not require action. The alert still appears on the screen. Functionally, it has been discounted.
 

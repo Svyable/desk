@@ -10,7 +10,7 @@ Copyright © 2026 Sven Hardy Benson
 
 All Rights Reserved.
 
-There is a particular kind of mistake people make when a scarce thing becomes abundant. We imagine scarcity has ended. Usually it has only moved.
+There is a particular kind of mistake people make when a scarce thing becomes abundant. We imagine scarcity has ended, but usually it has only moved.
 
 Cheap printing did not end the struggle over knowledge; it changed the struggle into literacy, distribution, attention, and trust. Cheap computation did not end the struggle over calculation; it moved value into software, interfaces, data, and decisions. If machine intelligence continues along the same path, the most consequential question will not be whether we possess enough intelligence. It will be how we allocate it.
 
@@ -18,7 +18,7 @@ Allocation sounds dull beside intelligence. That is one reason it matters. Civil
 
 This book is about those arrangements.
 
-Its argument is simple enough to state and difficult enough to live with: intelligence is not one resource. It arrives bundled with attention, time, authority, memory, verification, communication, and responsibility. Making one component abundant can make another scarce. A system that can generate a million recommendations per second can create a human verification crisis. A company that gives every employee an excellent adviser can produce more proposals than its managers can authorize. A government that can predict more risks can still fail because it cannot decide which risks deserve action. A hospital can possess superb models and remain short of nurses, operating rooms, blood, and minutes.
+Its argument is simple enough to state and difficult enough to live with: intelligence is not one resource but arrives bundled with attention, time, authority, memory, verification, communication, and responsibility. Making one component abundant can make another scarce. A system that can generate a million recommendations per second can create a human verification crisis. A company that gives every employee an excellent adviser can produce more proposals than its managers can authorize. A government that can predict more risks can still fail because it cannot decide which risks deserve action. A hospital can possess superb models and remain short of nurses, operating rooms, blood, and minutes.
 
 So the interesting unit is not the answer. It is the path from a situation to a consequential act.
 

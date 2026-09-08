@@ -1,6 +1,6 @@
 # Intelligence Is a Budget
 
-A budget is a confession made in arithmetic. It reveals which hopes survive contact with limits.
+A budget is a confession made in arithmetic, revealing which hopes survive contact with limits.
 
 Organizations write mission statements in the language of abundance. Everything matters: customers, quality, safety, innovation, employees, speed, resilience, growth, integrity, learning. A budget is less diplomatic. It forces one good thing to compete with another. A dollar used to expand a laboratory cannot also repair the roof. A nurse assigned to one ward is absent from another. An hour of a chief executive’s attention disappears whether it was spent on a merger, a product review, or an argument about office furniture.
 
@@ -8,11 +8,9 @@ Intelligence is often discussed as though it were exempt from this accounting.
 
 We say a person is intelligent as if the quality were stored intact inside the skull and available at full strength for whatever arrives. We describe an organization as knowledge-intensive as if knowledge automatically appears at the point of need. We describe a model by a benchmark score as if useful cognition were a fixed quantity that could be poured into any task.
 
-In practice, intelligence is budgeted long before anyone opens a spreadsheet.
+In practice, intelligence is budgeted long before anyone opens a spreadsheet. A person budgets sleep, concentration, memory, and emotional patience. A research lab budgets instrument time, senior attention, experimental throughput, and tolerance for failed ideas. A court budgets hearing time. A hospital budgets beds, specialist coverage, diagnostic capacity, and urgency. A software company budgets review. A writer budgets thought by deciding which uncertainty deserves another day and which can remain unresolved.
 
-A person budgets sleep, concentration, memory, and emotional patience. A research lab budgets instrument time, senior attention, experimental throughput, and tolerance for failed ideas. A court budgets hearing time. A hospital budgets beds, specialist coverage, diagnostic capacity, and urgency. A software company budgets review. A writer budgets thought by deciding which uncertainty deserves another day and which can remain unresolved.
-
-Artificial intelligence does not abolish these budgets. It adds new accounts and changes the exchange rates among the old ones.
+Artificial intelligence does not abolish these budgets but adds new accounts and changes the exchange rates among the old ones.
 
 Compute is the obvious account. A larger model or a longer reasoning process can cost more than a smaller or faster one. But compute is often not the binding constraint. Context has to be gathered. Data may require permission. Tools must be called. Results have to be checked. Actions may need authorization. Logs must be stored. Exceptions need handling. Humans must be interrupted or protected from interruption.
 
@@ -40,9 +38,7 @@ This is the mistake that will recur throughout the transition to abundant machin
 
 The organization pays in several currencies at once. It pays for machine inference. It pays in human attention. It pays for verification. It pays in latency. It pays by granting or withholding authority. It pays in the amount of error the surrounding institution can survive.
 
-These currencies trade against one another.
-
-More computation may reduce human work, or it may create more material for humans to read. More verification can reduce error while increasing delay. More autonomy can relieve approval bottlenecks while enlarging the consequences of mistakes. Stronger logging may improve accountability while increasing storage and operational complexity. Lower latency may require shallower analysis. Deeper analysis may arrive after the patient, market, customer, or aircraft has moved on.
+These currencies trade against one another. More computation may reduce human work, or it may create more material for humans to read. More verification can reduce error while increasing delay. More autonomy can relieve approval bottlenecks while enlarging the consequences of mistakes. Stronger logging may improve accountability while increasing storage and operational complexity. Lower latency may require shallower analysis. Deeper analysis may arrive after the patient, market, customer, or aircraft has moved on.
 
 There is no universally correct balance because the budget exists for a purpose.
 

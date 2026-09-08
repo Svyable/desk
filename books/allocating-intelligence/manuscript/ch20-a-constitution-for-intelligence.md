@@ -1,12 +1,8 @@
 # A Constitution for Intelligence
 
-A constitution is an allocation document.
+A constitution is an allocation document. It allocates powers, limits, procedures, rights, offices, and routes of appeal. It does not try to predict every future decision. It creates a structure inside which decisions can be made without having to renegotiate the legitimacy of the system each morning.
 
-It allocates powers, limits, procedures, rights, offices, and routes of appeal. It does not try to predict every future decision. It creates a structure inside which decisions can be made without having to renegotiate the legitimacy of the system each morning.
-
-Artificial intelligence needs constitutions at many scales.
-
-A personal agent needs rules about privacy, spending, identity, memory, and when to ask. A company needs rules about models, data, permissions, review, incident response, and nondelegable decisions. A profession needs standards for competence and responsibility. A society needs rights and boundaries around consequential automation.
+Artificial intelligence needs constitutions at many scales. A personal agent needs rules about privacy, spending, identity, memory, and when to ask. A company needs rules about models, data, permissions, review, incident response, and nondelegable decisions. A profession needs standards for competence and responsibility. A society needs rights and boundaries around consequential automation.
 
 These constitutions should not be copies of political constitutions. The analogy is functional. When capability becomes abundant and action becomes cheap, we need durable rules for who may do what with whose intelligence.
 
