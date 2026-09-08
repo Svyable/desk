@@ -4,7 +4,7 @@ const canonicalAppUrl = 'https://svyable.github.io/bookself/reader/js/app.js?v=r
 const viewportStabilityUrl = new URL('./desk-viewport-stability-runtime.js', import.meta.url).href;
 const nativeShareUrl = new URL('./native-share.js', import.meta.url).href;
 const appShellPolishUrl = new URL('./app-shell-polish.js', import.meta.url).href;
-const libraryHomeUrl = new URL('../css/desk-library-home.css?v=bookself-20260904', import.meta.url).href;
+const libraryHomeUrl = new URL('../css/library-home.css', import.meta.url).href;
 const bookOpeningHandoffUrl = new URL('../css/desk-book-opening-handoff.css?v=bookself-20260906', import.meta.url).href;
 
 function installDeskChromePolicy() {
@@ -25,7 +25,7 @@ function installDeskStylesheet(id, href) {
 }
 
 installDeskChromePolicy();
-installDeskStylesheet('deskLibraryHome', libraryHomeUrl);
+installDeskStylesheet('bookselfLibraryHome', libraryHomeUrl);
 installDeskStylesheet('deskBookOpeningHandoff', bookOpeningHandoffUrl);
 
 function installRecoveryStyles() {
