@@ -5,7 +5,7 @@ import subprocess
 import tempfile
 from pathlib import Path
 
-SCRIPT = Path(__file__).with_name("sync-reader-runtime.sh")
+SCRIPT = Path(__file__).with_name("sync-bookself.sh")
 
 
 def run_sync(root: Path, platform: Path) -> subprocess.CompletedProcess[str]:
@@ -212,4 +212,4 @@ with tempfile.TemporaryDirectory() as tmp:
     assert (root / "reader/css/desk-local.css").read_text() == good_desk_css
     assert (root / "books/keep.txt").read_text() == "manuscript state\n"
 
-print("Desk Reader runtime sync contract: staged fully-local verification, no Shelf runtime, exact files, complete/versioned offline shell, Desk state preserved")
+print("Bookself sync contract: staged fully-local verification, no Shelf runtime, exact files, complete/versioned offline shell, Desk state preserved")
