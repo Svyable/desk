@@ -73,8 +73,8 @@ library.
 
 - Chapters are a single `# Title` heading, then paragraphs. No YAML front
   matter. No HTML comments in chapter files.
-- Book READMEs are an info table plus a checkbox table of contents. No YAML
-  front matter.
+- Book READMEs are an info table plus a checkbox table of contents. No YAML front
+  matter.
 - Follow existing naming: `books/<slug>/`, `chNN-slug.md`, `front-matter.md`,
   `back-matter.md`.
 - Images live in that book's `media/` folder and are referenced with
@@ -116,12 +116,12 @@ the Desk Reader compatibility guard agree. It requires no network access.
 `https://svyable.github.io/desk/reader/`; a direct book route is
 `reader/#/b/<slug>/`. Desk drafts remain drafts in this Reader. Local preview
 is also supported with `python3 -m http.server` from the repository root. To
-refresh shared Reader code from a sibling Bookself checkout, run
-`scripts/bootstrap-ui.sh ../bookself`. The sync copies Bookself-owned Reader
-runtime files into `reader/` while preserving Desk-owned shell, identity,
-adapters, books, catalog/release state, and the `/desk/` authoring UI. Review
-the resulting diff and commit it in this repository; no hosted build is
-involved.
+refresh this Desk from a sibling Bookself checkout, run
+`scripts/sync-bookself.sh ../bookself`. That is the one public Bookself update
+command for humans and agents. It copies Bookself-owned Reader runtime files
+into `reader/` while preserving Desk-owned shell, identity, adapters, books,
+catalog/release state, and the `/desk/` authoring UI. Review the resulting diff
+and commit it in this repository; no hosted build is involved.
 
 **Release (Bookself).** Commit the publication on Desk first, then run
 `scripts/release-book.sh <slug> ../shelf`. The command runs locally; it does not
