@@ -1,0 +1,19 @@
+# The Living Glow
+
+There is a version of this book that begins badly. It begins by saying that living things emit light, pauses long enough for the sentence to become mystical, and then spends three hundred pages smuggling every difficult biological question through the crack.
+
+The true part is already strange enough. Cells do emit photons. So do plants, skin, mitochondria, injured tissue, oxidizing lipids and a remarkable number of other biological systems if you put them in sufficiently dark conditions and use detectors far more sensitive than the human eye. The emission is weak enough that ordinary seeing is irrelevant. It is usually discussed as ultraweak photon emission, UPE, though the word *biophoton* has become common and carries more baggage than any photon deserves.
+
+The chemistry is not mysterious. Reactive oxygen species and oxidative reactions can produce electronically excited molecules. When those molecules relax, photons can be emitted. This gives biology a faint optical exhaust. Under stress the exhaust often grows brighter. Human skin exposed to ultraviolet radiation emits more of it. Wounded plants change their emission. Metabolic state matters. Circadian state can matter. The body, in a strict physical sense, glimmers.
+
+Then comes the harder question. Does anything listen?
+
+That question is the book. It is narrower than the grand claims and more interesting than the reflexive dismissal. A photon produced by metabolism is not automatically a message. A correlation between photon counts and physiology is not evidence of signaling. A biological response in a neighboring preparation is not automatically photonic unless alternative channels have been excluded. A mathematical model showing that a biological structure could support an optical or quantum effect is not evidence that evolution uses it. The stairway matters because almost every controversy in this field comes from climbing three steps at once.
+
+I use four evidence classes throughout. Class one is measured, documented fact: emissions, spectra, experimental configurations, established photochemistry, detector performance. Class two is credible but incomplete evidence: suggestive coupling experiments, correlations that survive some controls but not every plausible confound, physiological observations that need stronger replication. Class three is disputed claim: coherence strong enough to carry biological information, long-range intercellular optical signaling, clinical interpretations that outrun validation, quantum-neural functions inferred from models rather than measured in tissue. Class four is conjecture: a synthesis worth testing but not yet earned by the data.
+
+The arrangement is deliberate. The first third establishes what the photons are. The middle asks whether they could function as information. The last third turns the problem around and asks what experiment would force believers and skeptics to share the same result.
+
+This is not a book arguing that organisms secretly communicate by light. It is also not a book arguing that they cannot. Biology has repeatedly recruited noisy physical by-products into useful functions. Oxygen was once waste. Electrical potentials are consequences of ion gradients until a membrane learns to use them. Fluorescence can be accidental chemistry until selection gives the emitted or absorbed light a role. The mere existence of a by-product does not establish communication, but neither does the existence of a conventional explanation prove that evolution ignored the channel.
+
+The useful place to stand is between those mistakes, in the dark room with the detector on.
