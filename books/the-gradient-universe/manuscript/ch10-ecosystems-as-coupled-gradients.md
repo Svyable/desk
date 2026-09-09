@@ -52,6 +52,12 @@ The biosphere contains enormous delays. Carbon can pass through a leaf in weeks,
 
 Rivers export nutrients from watersheds. Fires move carbon and minerals to the atmosphere. Animals migrate across ecosystem boundaries. Dust carries phosphorus across oceans. Nitrogen can leave as N₂ or nitrous oxide. Carbon can be buried in sediment. Geological uplift later exposes old material to weathering. Ecosystem boundaries are analytical conveniences, not walls.
 
+The leakage can be large enough to support populations that local production alone could not sustain. Ecologists call these transfers *spatial subsidies*. Salmon carry marine-derived nutrients into rivers and forests. Seabirds move nitrogen and phosphorus from ocean food webs onto islands. Aquatic insects emerge from streams and feed terrestrial predators. Leaves fall into headwater streams and fuel detrital food webs far from the trees that captured the sunlight.
+
+A classic review by Polis, Anderson, and Holt on [spatially subsidized food webs](https://doi.org/10.1146/annurev.ecolsys.28.1.289) emphasized that movement of nutrients, detritus, prey, and consumers across habitat boundaries can change local productivity and trophic dynamics profoundly. This matters for any thermodynamic accounting because the “local ecosystem” can appear to support more consumers than its local primary production would permit if the imported subsidy is omitted.
+
+The same error appears in human systems when a city is treated as if its apparent efficiency were generated entirely within city limits while food, electricity, fuels, materials, and manufactured goods arrive from elsewhere. Boundaries can hide dependencies.
+
 Food webs add another kind of coupling: one species changes the abundance or behavior of another, which changes the conditions faced by a third.
 
 Trophic cascades are real in many systems. Sea otters, sea urchins, and kelp provide a famous marine example. Where otters strongly suppress urchins, kelp forests can persist in places that might otherwise be heavily grazed. But even this relationship varies with wave exposure, disease, predation by other species, climate, recruitment, and local food-web structure.
@@ -68,11 +74,31 @@ The gradient framework would be weakened if it encouraged us to flatten a compli
 
 Causation is distributed.
 
+Beavers themselves deserve a closer look because they make the idea of a physical constraint almost embarrassingly literal. A dam is a barrier built by an organism. It slows water, raises upstream levels, changes sediment deposition, expands flooded area, alters groundwater exchange, changes temperature and oxygen patterns, creates wetland habitat, and modifies the future disturbances experienced by many species.
+
+The organism does not manufacture the gravitational potential of water. It changes the geometry through which that potential is released.
+
+The original ecosystem-engineering literature defined organisms as engineers when they modify the availability of resources by changing physical states in biotic or abiotic materials. A recent [Annual Review of Ecology, Evolution, and Systematics review of beaver engineering](https://doi.org/10.1146/annurev-ecolsys-102722-122317) summarizes how dams and associated wetlands alter geomorphology, hydrology, habitat, and local hydroclimatic stability.
+
+This is a good natural example for the book’s constraint language and a bad example for overclaiming it. Ecology already has a mature concept—ecosystem engineering—for organisms that change physical boundary conditions. Calling the dam a “reachability constraint” does not create a new ecological theory. The only reason to use the new vocabulary would be if it enabled a measurement ecology does not already provide: for example, an independently costed prediction of which drought or flow disturbances remain recoverable because the dam exists.
+
+That is the standard the book should keep applying to itself.
+
 Succession provides a second lesson in abandoning equilibrium language. Old ecological descriptions often imagined communities progressing through predictable stages toward a stable climax. Real landscapes are more contingent. Volcanic eruptions, hurricanes, fires, landslides, droughts, pests, grazing, invasive species, and human land use repeatedly interrupt or redirect trajectories.
 
 Mount St. Helens after the 1980 eruption is a classic case because the disturbance created a natural experiment across areas that experienced very different levels of burial, blast, heat, and surviving biological legacy. Recovery did not begin everywhere from sterile blank ground. Buried roots, surviving plants, animal recolonization, lupines, erosion, and topography produced different pathways across the landscape.
 
 History survived the disturbance in patches.
+
+Ecologists increasingly describe those surviving legacies as *ecological memory*. The phrase is not mystical. Memory can be physically embodied in seed banks, surviving organisms, soil structure, nutrient pools, dead wood, microbial communities, spatial refugia, and life-history traits that influence recolonization. Johnstone and colleagues’ review of [changing disturbance regimes, ecological memory, and forest resilience](https://doi.org/10.1002/fee.1311) distinguishes informational legacies such as adaptive life-history traits from material legacies such as seeds, nutrients, and surviving structures.
+
+A seed bank makes the concept almost as concrete as a battery. Seeds are not a stock of current ecosystem productivity. They are a stock of propagules that can become relevant after fire, drought, grazing, flooding, or other changes create recruitment opportunities. A 2018 review of [grassland seed banks and community resilience](https://doi.org/10.1111/rec.12694) found that persistent seed banks can support passive restoration particularly in habitats historically exposed to frequent or unpredictable disturbance.
+
+Again, stored capacity and current throughput come apart.
+
+A grassland with more dormant propagules may look less productive this month and recover more completely next year. A forest containing old surviving trees after fire may regenerate differently from one with the same post-fire nutrient inventory but no seed source. The state variable that predicts recovery may therefore be a legacy variable rather than current energy flow.
+
+That is precisely the kind of phenomenon the book’s “variable problem” is meant to illuminate. It does not show that ecosystems optimize future reachability. It shows why a snapshot of energy throughput can omit physically consequential history.
 
 That matters because ecosystems can exhibit hysteresis: the path from state A to state B may differ from the path back. Remove a stressor and the prior ecosystem may not reappear automatically. Soil can be gone. Seed sources can be distant. A key mutualist may be missing. Fire frequency may have changed. An invasive species may now reinforce the new state.
 
