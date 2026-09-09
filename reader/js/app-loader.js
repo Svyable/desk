@@ -120,12 +120,19 @@ function loadOptionalEnhancements() {
   }
 }
 
+function scheduleOptionalEnhancements() {
+  if ('requestIdleCallback' in window) {
+    window.requestIdleCallback(loadOptionalEnhancements, { timeout: 750 });
+  } else {
+    window.setTimeout(loadOptionalEnhancements, 0);
+  }
+}
+
 try {
-  // Match Bookself's first-paint boundary: the canonical application is the
-  // critical path. Desk polish is useful but optional, so start it in parallel
-  // without making app startup or recovery wait for those enhancement modules.
-  loadOptionalEnhancements();
+  // Match Bookself's first-paint boundary: canonical app startup is the critical
+  // path. Desk-only polish starts afterward during idle time and always fails open.
   await import(canonicalAppUrl);
+  scheduleOptionalEnhancements();
 } catch (error) {
   showRecovery(error);
 }
