@@ -46,6 +46,20 @@ This rate-yield trade-off is one of metabolism’s most important corrections to
 
 Metabolic strategy depends on what is scarce.
 
+Protein is one of those scarce resources. A bacterial cell cannot express arbitrarily large amounts of every enzyme it might someday need. Ribosomes, metabolic enzymes, transporters, stress proteins, chaperones, sensors, and housekeeping machinery compete for a finite proteome. Keeping a pathway ready for a future environment therefore has a present cost even before that pathway carries flux.
+
+This has been measured rather than merely inferred. Mori and colleagues quantified the benefit and burden of a bacterial [proteome reserve in fluctuating environments](https://doi.org/10.1038/s41467-017-01242-8). Slow-growing *E. coli* maintained more ribosomes than were required for the current growth rate. Those apparently spare ribosomes allowed faster acceleration after nutrients improved, but carrying excess translational capacity reduced efficiency in the present condition. The reserve was not “unused energy.” It was embodied machinery whose maintenance changed the speed of future response.
+
+That example is important for this book because it is already a quantitative account of costly preparedness. We should not rename it “reachability leverage” and claim a discovery. Any broader framework has to reproduce the published growth-versus-readiness trade-off and then show predictive value where the proteome-allocation model itself is insufficient.
+
+A later experiment sharpened a related trade-off. Basan and colleagues found a broad [growth–lag relation](https://doi.org/10.1038/s41586-020-2505-4) when bacteria were shifted from preferred carbon sources such as glucose to poorer substrates such as acetate. Faster pre-shift growth could come with longer adaptation lag after the environment changed. The underlying physiological picture involved allocation of metabolic machinery rather than one universal “energy reserve.” A cell optimized for the current substrate can be badly configured for the next one.
+
+The key word is *configured*.
+
+Two cells can contain similar total chemical energy and nevertheless have different futures because their proteins, metabolites, transporters, and regulatory states differ. One already possesses machinery that can process the new substrate. The other must synthesize it while growth is stalled. The cost of adaptation is therefore partly a cost of changing the internal reaction network that is available on the relevant timescale.
+
+This is exactly the kind of case that disciplines the later “variable problem.” If a compact state description based on proteome sectors predicts recovery after a nutrient shift, that is evidence that those coarse variables are useful. It is not evidence that nature maximizes future options. The predictive variable earns its status by compressing the dynamics.
+
 The citric acid cycle makes the network character even clearer. It participates in oxidation of acetyl groups, but its intermediates are also precursors for amino acids, heme, lipids, and other molecules. Pull too much material out for biosynthesis and the cycle requires replenishing reactions. Feed too much carbon in without sufficient downstream electron-accepting capacity and reduced carriers accumulate, changing the thermodynamic and kinetic state of the network.
 
 Metabolism is not a pipeline. It is a traffic system with junctions.
@@ -53,6 +67,12 @@ Metabolism is not a pipeline. It is a traffic system with junctions.
 Flux is the rate of traffic through those reactions. Metabolic flux analysis tries to infer how much material follows each route, often using stoichiometric constraints and isotope tracers. At steady state for an internal metabolite, production and consumption approximately balance. That balance can hold even while the absolute flux is enormous.
 
 The same is true of ATP. A cell or organism can maintain a relatively small ATP pool while turning that pool over continuously. This is why statements such as “the body contains only seconds of ATP” can be directionally useful but become misleading if interpreted literally across every tissue and state. ATP is regenerated continually from phosphocreatine, glycolysis, oxidative phosphorylation, and other pathways. The important feature is high turnover and tight maintenance, not one dramatic countdown timer.
+
+This also means concentration is not control. A metabolic pathway is rarely governed by one master “rate-limiting enzyme” in the simplistic sense. Metabolic control analysis showed why control of steady-state flux can be distributed across multiple enzymes and transport steps. Martin Brand’s review of [regulation analysis of energy metabolism](https://doi.org/10.1242/jeb.200.2.193) emphasizes that changing one enzyme can shift control elsewhere rather than revealing a single bottleneck that permanently governs the pathway.
+
+The idea is easy to see with traffic. Widen one road and the bottleneck may move to the next intersection. Increase one respiratory complex and substrate delivery, membrane leak, ATP demand, or another complex can become limiting. A high concentration of one metabolite can coexist with low flux if a downstream step is blocked. Conversely, a small pool can support high flux if turnover is rapid.
+
+This distinction matters whenever someone tries to infer “cellular energy” from one snapshot variable. ATP concentration, NADH fluorescence, oxygen uptake, heat production, and membrane potential each report something real. None alone is the metabolic state. The causal state is distributed across inventories, fluxes, couplings, and capacities.
 
 Muscle exposes the layering particularly well. During the first moments of intense work, stored ATP and phosphocreatine help buffer demand. Glycolytic flux can increase rapidly. Oxidative metabolism responds on a different timescale and provides a much larger share during sustained exercise. Blood flow, oxygen delivery, mitochondrial capacity, substrate availability, temperature, and training state all affect the balance.
 
@@ -99,6 +119,14 @@ Cells therefore monitor multiple state variables rather than one universal fuel 
 The regulatory details differ, but the logic repeats: flux is matched to demand and constraint.
 
 Repair belongs in the energy budget too. Proteins misfold. DNA is damaged. Membranes leak. Reactive intermediates attack molecules. Molecular machines wear in the statistical sense that components are chemically modified and must be replaced. A significant share of metabolism is therefore spent not on growth or movement but on keeping the machinery capable of future work.
+
+Microbiologists have long separated growth-associated energy demands from *maintenance* requirements: substrate consumed even when little or no net biomass is being produced. Russell and Cook’s review of [energetics of bacterial growth](https://pubmed.ncbi.nlm.nih.gov/7708012/) emphasizes maintenance functions such as ion-gradient preservation, macromolecular turnover, motility, and repair. The exact maintenance coefficient is not universal. It depends on organism, temperature, medium, stress, growth history, and how the experiment defines zero growth.
+
+That variability is itself informative. Maintenance is not a tax fixed by thermodynamics. It is the price of preserving a particular architecture in a particular environment.
+
+At very low growth rates this price can dominate the carbon budget. A cell that is barely dividing may still consume substrate to prevent membrane potential from collapsing, replace damaged proteins, maintain pH, or counter molecular leakage. If those expenditures stop, the stored chemical inventory can remain while the *ability to use it later* deteriorates.
+
+This makes maintenance an unusually promising bridge to the book’s later recovery question. The relevant experiment is not “does maintenance consume energy?”—that has been known for decades. It is whether a small set of independently measured maintenance variables predicts which future perturbations remain recoverable, better than bulk ATP, substrate inventory, or current respiration alone.
 
 This is another reason not to describe heat or “waste” as thermodynamically pointless. Heat is the unavoidable endpoint of much free-energy degradation, but from the organism’s perspective it can be beneficial, harmful, or irrelevant depending on context. Mammals use metabolic heat to maintain body temperature. A bacterium in a hot spring does not benefit from producing extra heat merely because entropy increases. Thermodynamic necessity and biological function are different descriptions.
 
