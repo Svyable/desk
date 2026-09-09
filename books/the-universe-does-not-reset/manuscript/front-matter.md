@@ -1,0 +1,19 @@
+# The Universe Does Not Reset
+
+*Memory, soft hair, and the permanent aftermath of events*
+
+Sven Hardy Benson
+
+There is a comfortable picture of a wave. A pebble falls into a pond. Rings move outward. Eventually the surface settles and, except for the pebble at the bottom and a little heat, the water appears to have returned to itself. A sound crosses a room and leaves silence. A radio pulse passes a dish. A gravitational wave passes Earth. We are trained to notice the disturbance and then to look for the baseline again.
+
+General relativity contains a less comfortable possibility. Some gravitational disturbances do not merely pass. After the radiation is gone, freely falling objects can be left with a lasting change in their relative configuration. The effect is called gravitational-wave memory. It has a technical history stretching from early work on radiation to Yakov Zel'dovich and Alexander Polnarev, Demetrios Christodoulou's nonlinear result, and the modern connection between memory, Bondi-Metzner-Sachs symmetries, and soft-graviton theorems. It has not yet become an ordinary detected feature of the gravitational-wave sky. That distinction matters. This book is about a serious prediction, an active measurement problem, and the philosophical temptation that arrives when the mathematics sounds larger than the evidence.
+
+The temptation is to say that the universe remembers everything. I do not think physics gives us that sentence. Memory effects do not turn spacetime into a diary. They do not imply that every event is permanently recoverable, that information loss is solved, or that nature stores a human-readable ledger. Many records decohere, thermalize, become inaccessible, or never become records of the kind an observer can reconstruct. A permanent displacement in an idealized detector is not the same thing as eternal knowledge.
+
+But the opposite habit is too simple as well. We talk about transients as though passing means erasure. In several gauge and gravitational theories, the before-state and after-state can belong to meaningfully different sectors even when the radiative pulse itself is gone. The event may have left the local stage altered. That is a peculiar piece of physical reality, and one we rarely build into our intuitions about causation.
+
+The argument here stays close to that peculiarity. First the physics: what gravitational memory actually is, how it emerges in ordinary and nonlinear forms, why detectors have trouble with it, and why a result about permanent displacement became entangled with the symmetries of asymptotically flat spacetime and the infrared behavior of quantum scattering. Then the extensions and disputes: electromagnetic analogues, gauge memory, black-hole soft hair, numerical waveforms, ground-based interferometers, LISA, and pulsar timing arrays. Only after that do I ask the larger question.
+
+The larger question is not whether the cosmos has a memory in the psychological sense. It is whether our ordinary picture of events is biased toward the loud middle and neglects the changed conditions left behind. The bang gets the headline. The aftermath does the governing.
+
+Human beings are oddly suited to the aftermath. We are not especially good at sensing spacetime. Our bodies do not notice strains of one part in 10^21. We are good, sometimes, at building arrangements of mirrors, lasers, clocks, pulsars, archives, and mathematical models that keep comparing now with before long after ordinary perception would have declared the event over. If there is a human role in this story, I want to keep it that modest. We are not the reason the universe leaves traces. We may be one of the things the universe has produced that can learn to look for them.
