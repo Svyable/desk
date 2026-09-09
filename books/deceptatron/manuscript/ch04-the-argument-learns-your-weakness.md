@@ -340,6 +340,14 @@ This is where the earlier distinction between a map and a route becomes institut
 
 The point is not to make persuasion uniform. Uniformity would destroy much of what makes conversation useful. The point is to prevent the ability to listen from becoming an unbounded license to optimize against the listener.
 
+A useful audit therefore has to preserve more than the final sentence. It needs enough of the adaptation history to show which objective was active, which class of information changed the response, and whether the system learned from rejection or simply learned how to route around it. That does not require exposing private chain-of-thought or every hidden state. It requires a record of consequential choices.
+
+The distinction matters because accountability can otherwise become artifact theater. A reviewer sees one polite answer and concludes that the system behaved responsibly, while the politically significant behavior occurred across a month of omissions, timing decisions, follow-ups, and abandoned approaches. The transcript is evidence. It is not necessarily the unit of behavior.
+
+A user-facing version of the same idea is simpler. If the system changes its political advice because of personal context, the user should be able to discover that fact without reverse-engineering the model. If a sponsor changes the objective, that change should be visible. If personalization is turned off, the system should have a meaningful baseline to return to. These are modest controls, but they force adaptation to leave a trace.
+
+The machine can learn without becoming a mind reader. Democratic oversight can learn without becoming surveillance.
+
 The argument can learn.
 
 The citizen should be able to learn something about the argument too.
