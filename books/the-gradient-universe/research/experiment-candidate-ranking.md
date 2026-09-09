@@ -1,172 +1,183 @@
 # Experimental Candidate Ranking
 
-The reachability conjecture should not be tested first in whichever system makes the story sound best. It should be tested where the measurement is clean, the competing theories are strong, and failure would be informative.
+The question is no longer “which system best illustrates future reachability?” Too many neighboring fields already explain costly preparedness, control variety, energy-feasible reachability, information-based control, and self-maintained structure.
 
-This note ranks candidate systems after the first-principles and prior-art passes.
+The right question is:
 
-## 1. Metabolic-currency decoupling under variable demands — strongest near-term theory/experiment bridge
+> Which experiment can discriminate a useful **constraint coarse-graining** from standard domain models?
 
-**Why it is promising**
+That changes the ranking.
 
-Yamagishi and Hatakeyama's 2026 PRX Life result already provides a thermodynamic cost–controllability trade-off for coupled metabolic currencies such as ATP, GTP, and NAD(P)H:
+## Tier 0 — adversarial benchmarks first
 
-https://doi.org/10.1103/4bqh-zhry
+Before claiming novelty, the formalism should be applied to systems where strong quantitative explanations already exist.
 
-That gives the cost side of the problem unusually strong footing. The open extension is to expose differently coupled architectures to a declared family of time-varying demands and calculate which demand vectors remain viable/recoverable under a finite metabolite and work budget.
+### Proteome reserve and growth–lag trade-offs
 
-The reachability question becomes concrete:
-
-- Which combinations of ATP/GTP/redox demand can each architecture recover from?
-- What additional entropy-production or pool-maintenance cost buys that independent controllability?
-- Does the calculated viable demand set predict a crossover in persistence or growth under fluctuating demand statistics?
-
-**Novelty risk**
-
-Moderate. The 2026 paper is extremely close. Any result that merely restates “more controllability costs more” is not novel.
-
-**What would be new enough**
-
-A preregistered environmental/demand threshold derived from measured thermodynamic cost plus a robust viable reachable-set calculation, validated by perturbation or competition data and not predicted equally well by the original controllability metric alone.
-
-**Tractability**
-
-High for theory; moderate for wet lab depending on the metabolic architecture chosen.
-
-## 2. Dormant-versus-dead latent recovery geometry — highest conceptual upside
-
-**Why it is promising**
-
-A dormant viable cell and a dead cell can both have extremely low present throughput. Hyun Youk's non-equilibrium-capacity proposal already identifies retained latent capacity as important:
-
-https://doi.org/10.1016/j.newton.2025.100358
-
-The reachability program can earn something only if it predicts that latent capacity *before* reactivation.
-
-A strong experiment would measure a small physiological state vector in dormant cells, apply bounded pulses of nutrients/electron acceptors/temperature/osmotic conditions, and calculate whether a viable reactivation trajectory exists within an independently measured energy budget. The output would be a perturbation/recovery map, not a post hoc survival label.
-
-**Novelty risk**
-
-Moderate. “Dormant systems retain capacity” is occupied territory. Operationalizing that capacity as budgeted viable recovery may still add value.
-
-**What would be new enough**
-
-A pre-reactivation reachability metric that separates dormant viable cells from irreversibly dead or moribund cells better and earlier than ATP level, membrane integrity, bulk energy inventory, or standard viability assays.
-
-**Tractability**
-
-Moderate. Measurement and state definition are difficult, but the result would matter beyond this book.
-
-## 3. Fuel-driven synthetic compartment or selective barrier — cleanest first-principles physics
-
-**Why it is promising**
-
-A synthetic chemical system can isolate the exact causal loop without evolutionary history. Compare two fuel-driven reaction systems. One consumes part of the input to construct or maintain a selective compartment/barrier; the other does not. The barrier must physically suppress harmful transitions or create a coupling that changes which future forcing protocols can be recovered from.
-
-The experiment can directly measure:
-
-- fuel/work spent on constructing or maintaining the barrier;
-- permeability or reaction-rate changes caused by the barrier;
-- disturbance protocols recoverable with and without it;
-- total dissipation and current throughput.
-
-This is the clearest test of the claim that lower raw transition variety can coexist with higher robust viable recovery.
-
-**Novelty risk**
-
-Lower conceptually, but only if a genuinely self-produced or fuel-maintained constraint is used. An externally installed valve would collapse the result into ordinary engineering/control theory.
-
-**What would be new enough**
-
-A demonstrated work-to-constraint-to-recovery causal chain in a driven chemical system, with the recovery set predicted before perturbation and a matched-fuel control.
-
-**Tractability**
-
-Moderate to low experimentally; high conceptual clarity.
-
-## 4. Active matter with feedback-created structure — good physics, weaker endogeneity
-
-Active matter is attractive because dissipation can be measured carefully and collective states are experimentally accessible. Bebon, Robinson, and Speck's 2025 PRX treatment provides a modern thermodynamic baseline:
-
-https://doi.org/10.1103/PhysRevX.15.021050
-
-One could compare systems with matched microscopic fueling but different feedback or structural memory, then measure the set of macrostates or disturbances from which each recovers.
-
-**Novelty risk**
-
-Moderate to high. If the feedback architecture is externally programmed, the result is mostly robust control plus active matter.
-
-**Usefulness**
-
-Excellent as a physical demonstration that dissipation rate and viable recovery repertoire need not order systems the same way. Weaker as evidence for endogenous biological constraint construction.
-
-## 5. Proteome reserve and growth–lag trade-offs — benchmark, not novelty target
-
-This should be treated as a null/benchmark domain.
-
-Mori et al. already quantitatively modeled the benefit and cost of bacterial proteome reserve in fluctuating famine–feast environments:
+Mori et al. quantified the benefit and cost of bacterial proteome reserve in fluctuating famine–feast environments:
 
 https://doi.org/10.1038/s41467-017-01242-8
 
-Basan and colleagues reported a broad growth–lag trade-off across *E. coli* and other respiro-fermentative organisms:
+Basan and colleagues measured a broad growth–lag trade-off:
 
 https://doi.org/10.1038/s41586-020-2505-4
 
-A 2026 PRX Life accepted paper models evolutionary learning of environmental transition statistics through proteome pre-allocation:
+A 2026 PRX Life paper models evolutionary learning of environmental transition statistics through proteome allocation:
 
 https://doi.org/10.1103/rqj5-pqvt
 
-These systems already demonstrate that paying present growth costs for preparedness can be favored in fluctuating environments.
+These are excellent **null tests**. If the constraint decomposition cannot reproduce their known trade-offs, it is poorly formulated. If it can, that demonstrates consistency, not novelty.
 
-**Conclusion**
+### Anticipatory regulation
 
-If constraint-selective reachability cannot reproduce these results, it is probably wrong or poorly formulated. If it can reproduce them, that is a consistency check—not evidence of novelty.
+Laboratory evolution has already produced anticipatory regulation in *E. coli*, and contemporary resource-allocation models explicitly study preparation for statistically structured future environments.
 
-## 6. Anticipatory regulation — another benchmark/null case
-
-Experimental evolution has already produced anticipatory regulation in *E. coli* under a cyclical sequence of cues:
+One useful experimental record is:
 
 https://pmc.ncbi.nlm.nih.gov/articles/PMC8787300/
 
-Recent proteome-allocation work also models anticipatory pre-expression under fluctuating stress.
+Again, reproducing preparedness does not establish a new principle.
 
-The book must not imply that it discovered the idea that organisms can pay present costs to prepare for statistically predictable future conditions.
+## Tier 1 — strongest discriminating experiment: causal architecture intervention under matched resource
 
-This domain is useful for testing whether the reachability formalism adds predictive value beyond existing regulatory/resource-allocation models. The prior expectation should be that it may not.
+The best first *new* experiment should be chosen for causal separation, not biological grandeur.
 
-## 7. Sensory memory and information processing — powerful but crowded
+Construct or identify two otherwise comparable physical architectures where one contains a measurable persistent constraint that changes the transition graph: a selective barrier, catalytic localization, regulated coupling, or another structure whose effect can be independently characterized.
 
-Information thermodynamics, sensory capacity, semantic information, predictive control, and empowerment already cover much of the territory.
+The experiment should have four arms:
 
-Relevant examples:
+1. baseline architecture;
+2. constraint-bearing architecture;
+3. constraint ablation;
+4. baseline architecture plus the same extra resource spent on the constraint, but without the constraint itself.
+
+Before exposing any arm to held-out disturbances, estimate the transition model and predict its recovery boundary.
+
+The result is interesting only if the architecture changes recovery after the resource quantity is matched.
+
+**Why this ranks first**
+
+It attacks the central causal claim directly: organization of resource, not merely amount of resource, changes which recovery paths remain viable.
+
+**Novelty risk**
+
+Moderate. Robust control and architecture co-design already contain the engineering analogue. The system should ideally construct or maintain the relevant constraint through its own driven chemistry rather than receive an externally installed valve.
+
+## Tier 2 — fuel-maintained synthetic selective barrier or compartment
+
+Synthetic chemistry offers unusually clean physical bookkeeping.
+
+But chemically fueled compartments, transient assemblies, vesicular nanoreactors, coacervates, and active transport already form an active literature. “Fuel maintains a compartment” is not novel.
+
+A useful experiment would instead ask:
+
+- how much fuel/work maintains the barrier;
+- which transitions the barrier suppresses or enables;
+- which preregistered forcing protocols remain recoverable under a matched total fuel budget;
+- whether the recovery boundary follows from independently measured permeability/kinetic parameters;
+- whether matched extra fuel without the barrier fails to reproduce the effect.
+
+**What would be new enough**
+
+A quantitative work → self-maintained constraint → held-out recovery-boundary prediction, not another demonstration of dissipative assembly.
+
+## Tier 3 — dormant-versus-dead reduced recovery model
+
+Dormancy remains conceptually powerful because present throughput can be tiny in both dormant and dead cells.
+
+However, the mechanistic literature is already rich. ATP concentration, protein aggregation, chaperone-mediated disaggregation, membrane state, NAD-related metabolism, and other variables are connected to dormancy depth and resuscitation.
+
+Relevant examples include:
+
+- ATP-dependent dynamic protein aggregation and dormancy depth: https://doi.org/10.1016/j.molcel.2018.10.022
+- ATP-mediated resuscitation pathways in VBNC cells: https://doi.org/10.1016/j.jare.2023.08.002
+- ATP concentration as a regulator of bacterial cell fate: https://doi.org/10.1128/jb.00208-24
+
+**Scientific opportunity**
+
+Not “latent reachability exists.” The stronger test is whether a small constraint-oriented state description predicts recovery across multiple held-out perturbation protocols earlier, more compactly, or more transferably than ATP, membrane integrity, aggregate state, and ordinary viability measures.
+
+**Novelty risk**
+
+High, because a good conventional physiological model may already win. That makes this an excellent adversarial test.
+
+## Tier 4 — metabolic-currency coupling as a very close extension
+
+Yamagishi and Hatakeyama's 2026 PRX Life result is extremely close:
+
+https://doi.org/10.1103/4bqh-zhry
+
+Their model already links thermodynamic cost, metabolic-currency balance, controllability, and environmental complexity. A simple claim that complex environments favor costly controllability is therefore not available as this book's contribution.
+
+A reachability extension is worth pursuing only if it predicts something their controllability measure does not—for example, a specific finite-time recovery boundary for time-dependent demand vectors under a measured metabolite/work budget.
+
+**Novelty risk**
+
+Very high.
+
+**Value**
+
+Excellent benchmark against the closest known thermodynamic-control result.
+
+## Tier 5 — active matter with feedback-created structure
+
+Active matter offers careful dissipation accounting and controllable collective states. A feedback or memory architecture could be evaluated by which perturbations the collective state recovers from under matched microscopic fueling.
+
+A modern thermodynamic baseline is:
+
+https://doi.org/10.1103/PhysRevX.15.021050
+
+If the feedback is externally programmed, however, the result is largely robust control applied to active matter. Endogenous construction or maintenance of the constraint would make the case stronger.
+
+## Tier 6 — sensory memory and cognition
+
+This is scientifically crowded and should come late.
+
+Relevant prior art includes:
 
 - empowerment: https://doi.org/10.1109/CEC.2005.1554676
 - continuous information thermodynamics: https://doi.org/10.1103/PhysRevX.4.031015
-- sensory capacity: https://pubmed.ncbi.nlm.nih.gov/26986297/
+- sensory capacity and memory: https://pubmed.ncbi.nlm.nih.gov/26986297/
 - semantic information and viability: https://doi.org/10.1098/rsfs.2018.0041
 
-A memory experiment is worth pursuing only if the outcome variable is a physically budgeted recovery boundary that cannot be reduced to channel capacity, mutual information, prediction error, or standard control performance.
+A memory experiment is informative only if the proposed constraint variables predict a physical recovery/control boundary not already captured by channel capacity, mutual information, prediction error, or standard control performance.
 
-## Recommended research sequence
+## Recommended sequence
 
-**Paper 0 / adversarial benchmark:** apply the formalism to published proteome-reserve or growth–lag data. Expect little or no novelty. Use the exercise to discover whether the definitions are operational.
+### Step 1 — benchmark the decomposition
 
-**Paper 1 candidate:** metabolic-currency demand perturbations. Build the robust demand/recovery set on top of the 2026 cost–controllability model and derive a threshold not already present in that work.
+Use published microbial preparedness data if sufficiently reusable. Ask whether a constraint-oriented reduced model recovers known behavior without outcome-driven definitions.
 
-**Paper 2 candidate:** dormant-versus-dead latent recovery. Attempt a pre-reactivation prediction from measured physical state and energy-limited recovery dynamics.
+Expected result: little or no novelty. The purpose is calibration.
 
-**Physics demonstration:** a fuel-driven synthetic compartment/barrier if an experimentally realizable system can be identified where the constraint is produced or maintained by the driven system itself.
+### Step 2 — run the causal matched-resource architecture test
+
+Choose the simplest system in which the physical constraint can be manipulated independently, its cost measured, and its transition effect estimated before the held-out disturbance.
+
+This is the first experiment that directly tests the revised claim.
+
+### Step 3 — test transfer
+
+Do not stop after one successful perturbation. Hold the decomposition fixed and predict a second disturbance class.
+
+Failure to transfer is evidence that the “constraint variable” was merely a local fit.
+
+### Step 4 — only then connect to fitness or selection
+
+Once the physical recovery model is independently validated, use it upstream of a competition/persistence experiment. Do not fit the constraint model to the evolutionary result it is supposed to explain.
 
 ## Decision rule
 
-Do not choose a system because it gives a dramatic story.
+A candidate experiment deserves priority only if:
 
-Choose it if:
+1. candidate constraint variables can be intervened on;
+2. their physical costs can be measured independently;
+3. viability/recovery can be defined before the outcome;
+4. transition dynamics can be estimated without fitting final fitness;
+5. matched-extra-resource and ablation controls are feasible;
+6. a credible existing model makes a distinguishable prediction;
+7. held-out disturbances allow a transfer test.
 
-1. the constraint's physical cost can be measured;
-2. the transition dynamics can be identified independently of the final fitness result;
-3. viability can be defined without looking at who wins;
-4. the disturbance distribution can be controlled;
-5. at least one established competing model makes a distinguishable prediction;
-6. ablation or matched-resource controls can isolate the constraint's causal contribution.
+The most impressive system is not automatically the best test.
 
-If those conditions are not available, the experiment may illustrate the book but cannot validate the conjecture.
+The best test is the one that gives the conjecture the fewest places to hide.
