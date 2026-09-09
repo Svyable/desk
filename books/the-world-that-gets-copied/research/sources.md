@@ -1,0 +1,30 @@
+# Source ledger — The World That Gets Copied
+
+Checked for this drafting pass in September 2026. Links below are intended to remain usable revision anchors. The manuscript paraphrases rather than reproduces source prose.
+
+| Source | Use in manuscript | Boundary / caution |
+|---|---|---|
+| Harold Ollivier, David Poulin, Wojciech H. Zurek, “Objective Properties from Subjective Quantum States: Environment as a Witness,” *Physical Review Letters* 93, 220401 (2004). https://doi.org/10.1103/PhysRevLett.93.220401 | Core environment-as-witness argument; redundant pointer information and operational objectivity. Chs. 1, 4, 6, 8. | Foundations framework; do not imply the observer is conscious or privileged. |
+| Wojciech H. Zurek, “Quantum Darwinism,” *Nature Physics* 5, 181–188 (2009). https://doi.org/10.1038/nphys1202 | Overview of pointer states, proliferation, redundancy, and Darwinian terminology. Chs. 1–6, 9. | Darwinism is an analogy for selection/proliferation, not biological evolution. |
+| Michael Zwolak, H. T. Quan, Wojciech H. Zurek, “Quantum Darwinism in a Mixed Environment,” *Physical Review Letters* 103, 110402 (2009). https://doi.org/10.1103/PhysRevLett.103.110402 | Environmental haziness / finite information-storage capacity. Chs. 4, 10, 15. | Mixed environments reduce record capacity; this is not a model of human misinformation. |
+| C. Jess Riedel, Wojciech H. Zurek, “Quantum Darwinism in an Everyday Environment: Huge Redundancy in Scattered Photons,” *Physical Review Letters* 105, 020404 (2010). https://doi.org/10.1103/PhysRevLett.105.020404 | Realistic scattered-photon route to redundant position information in ordinary illumination. Chs. 4, 7, 9. | Model result; do not turn redundancy estimates into universal constants or literal photographs in photons. |
+| Robin Blume-Kohout, Wojciech H. Zurek, “Quantum Darwinism in Quantum Brownian Motion,” *Physical Review Letters* 101, 240405 (2008). https://doi.org/10.1103/PhysRevLett.101.240405 | Continuous-variable model support for redundant classical information. Ch. 13 and research boundary. | Model-specific evidence for genericity, not a universal theorem. |
+| Jarosław K. Korbicz, Paweł Horodecki, Ryszard Horodecki, “Objectivity in a Noisy Photonic Environment through Quantum State Information Broadcasting,” *Physical Review Letters* 112, 120402 (2014). https://doi.org/10.1103/PhysRevLett.112.120402 | Noisy-environment objectivization; information broadcasting / precursor to SBS discussion. Chs. 11–13. | Preserve distinction between quantum-state broadcasting and ordinary copying metaphors. |
+| Ryszard Horodecki, Jarosław K. Korbicz, Paweł Horodecki, “Quantum origins of objectivity,” *Physical Review A* 91, 032122 (2015). https://doi.org/10.1103/PhysRevA.91.032122 | Spectrum broadcast structure and operational objectivity. Chs. 11–12. | State-structure criterion within active foundations work; not a unique ontology. |
+| Jarosław K. Korbicz, “Roads to objectivity: Quantum Darwinism, Spectrum Broadcast Structures, and Strong quantum Darwinism,” *Quantum* 5, 571 (2021). https://doi.org/10.22331/q-2021-11-08-571 | Review comparing major objectivity frameworks and their differences. Chs. 9, 11–13. | Useful map of the field; preserve disagreement and distinct criteria rather than collapsing them. |
+| “Emergence of classical objectivity of quantum Darwinism in a photonic quantum simulator,” *Science Bulletin* (2019). https://doi.org/10.1016/j.scib.2019.08.006 | Controlled multi-photon demonstration of Darwinistic information proliferation. Ch. 13. | Small engineered simulator; evidence for mechanism, not proof of universal macroscopic emergence. |
+| “Revealing the Emergence of Classicality Using Nitrogen-Vacancy Centers,” *Physical Review Letters* 123, 140402 (2019). https://doi.org/10.1103/PhysRevLett.123.140402 | NV-center electronic spin and nearby nuclear-spin environment; redundant environmental records. Ch. 13. | “Incipient” objectivity in a controlled small environment; do not extrapolate scale without qualification. |
+| “Witnessing non-objectivity in the framework of strong quantum Darwinism,” *Quantum Science and Technology* (2020). https://doi.org/10.1088/2058-9565/abac4e | Experimental-witness problem: diagnosing non-objectivity without full tomography. Ch. 13. | Proposed diagnostic/witness framework, not a complete scalable certification of arbitrary macroscopic environments. |
+| Diana Chisholm, G. Massimo Palma, Luca Innocenti, “Emergence of quantum Darwinism and pointer states for noncommuting evolutions,” *APS Open Science* 1, 000024 (2026). https://doi.org/10.1103/75jr-ltct | Fresh frontier treatment of noncommuting system and interaction Hamiltonians; SBS-based pointer-state characterization. Chs. 3 and 13. | 2026 frontier result in a model setting; use to complicate the simple pointer-state cartoon, not to announce closure. |
+
+## Background theorem anchors
+
+The manuscript's no-cloning/no-broadcasting discussion relies on standard quantum-information results. A revision pass should preserve the distinction: no-cloning rules out universal perfect cloning of arbitrary unknown quantum states; no-broadcasting extends the obstruction to general noncommuting state families. The human/digital discussion begins *after* classical information exists and is freely copyable; it does not claim social copying violates either theorem.
+
+## Research gaps for the next deepening pass
+
+- Add primary theorem citations for no-cloning and no-broadcasting directly to this ledger.
+- Add a primary decoherence review / text anchor for reduced-state and pointer-basis claims.
+- Add at least one recent many-body or scrambling-versus-broadcasting source before expanding Chapter 14.
+- Add empirical human-institution sources only if Chapters 16–18 are deepened into concrete case studies; avoid turning conceptual analogies into unsupported social-science claims.
+- Recheck every 2026 bibliographic field and any author list before publication/release.
