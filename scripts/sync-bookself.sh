@@ -21,9 +21,6 @@ require_path() {
   fi
 }
 
-require_path "$PLATFORM/reader/js"
-require_path "$PLATFORM/reader/css"
-require_path "$PLATFORM/reader/vendor"
 require_path "$PLATFORM/reader/sw.js"
 require_path "$BOUNDARY_CHECK"
 
@@ -53,22 +50,59 @@ if [ -f "$MANIFEST" ]; then
   done < "$MANIFEST"
 fi
 
-mkdir -p "$candidate/js" "$candidate/css" "$candidate/vendor"
-cp -R "$PLATFORM/reader/js/." "$candidate/js/"
-cp -R "$PLATFORM/reader/css/." "$candidate/css/"
-cp -R "$PLATFORM/reader/vendor/." "$candidate/vendor/"
-cp "$PLATFORM/reader/sw.js" "$candidate/sw.js"
-
 manifest_tmp="$stage/bookself-runtime-files"
 offline_version_tmp="$stage/bookself-offline-version"
-(
-  cd "$PLATFORM/reader"
-  find js css vendor -type f -print | LC_ALL=C sort
-  printf '%s\n' sw.js
-) > "$manifest_tmp"
+
+# Bookself's service-worker SHELL is the deployable Reader contract. Sync the
+# runtime files it declares instead of mirroring whole source directories, so
+# upstream tests/dev-only files never become part of a Desk installation.
+python3 - "$PLATFORM/reader/sw.js" "$manifest_tmp" <<'PY'
+from pathlib import Path
+import sys
+
+worker_path = Path(sys.argv[1])
+manifest_path = Path(sys.argv[2])
+source = worker_path.read_text(encoding="utf-8")
+shell = []
+in_shell = False
+
+for raw in source.splitlines():
+    line = raw.strip()
+    if line == "const SHELL = [":
+        in_shell = True
+        continue
+    if in_shell and line == "];":
+        break
+    if not in_shell or not line.startswith("'./"):
+        continue
+    entry = line.rstrip(",")
+    if len(entry) >= 2 and entry[0] == entry[-1] == "'":
+        shell.append(entry[1:-1])
+
+runtime = []
+for entry in shell:
+    relative = entry[2:]
+    if relative.startswith(("js/", "css/", "vendor/")):
+        runtime.append(relative)
+
+if "js/app.js" not in runtime:
+    raise SystemExit("Desk Reader sync failed: Bookself service-worker SHELL does not declare js/app.js")
+if len(runtime) != len(set(runtime)):
+    raise SystemExit("Desk Reader sync failed: duplicate runtime entries in Bookself service-worker SHELL")
+
+manifest_path.write_text(
+    "\n".join(sorted(runtime) + ["sw.js"]) + "\n",
+    encoding="utf-8",
+)
+PY
 
 while IFS= read -r relative; do
-  if ! cmp -s "$PLATFORM/reader/$relative" "$candidate/$relative"; then
+  source="$PLATFORM/reader/$relative"
+  target="$candidate/$relative"
+  require_path "$source"
+  mkdir -p "$(dirname "$target")"
+  cp "$source" "$target"
+  if ! cmp -s "$source" "$target"; then
     echo "Desk Reader runtime verification failed: $relative" >&2
     exit 1
   fi
@@ -191,7 +225,8 @@ cp "$offline_version_tmp" "$OFFLINE_VERSION"
 
 cat <<EOF
 Synced and verified canonical Bookself Reader runtime -> $READER/
-Recorded exact Bookself-owned runtime files in reader/.bookself-runtime-files.
+Recorded the exact service-worker-declared Bookself runtime in
+reader/.bookself-runtime-files; upstream tests/dev-only files are not installed.
 Cut Desk-owned reader/index.html and app-loader.js over to the verified local
 Bookself runtime.
 Verified the local offline shell and recorded its cache generation in

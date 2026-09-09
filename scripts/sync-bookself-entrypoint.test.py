@@ -14,11 +14,13 @@ assert not RETIRED_INTERNAL.exists(), "Bookself sync should not hide a second ru
 source = PUBLIC_SYNC.read_text(encoding="utf-8")
 agents = AGENTS.read_text(encoding="utf-8")
 
-assert 'cp -R "$PLATFORM/reader/js/." "$candidate/js/"' in source
+assert 'const SHELL = [' in source, "Bookself service-worker SHELL should define the installable runtime"
+assert 'find js css vendor -type f' not in source, "sync should not mirror upstream source/test directories wholesale"
+assert 'cp -R "$PLATFORM/reader/js/."' not in source, "sync should copy declared runtime files, not the whole JS tree"
 assert '--require-local-bookself' in source
 assert 'sync-reader-runtime.sh' not in source
 assert 'scripts/sync-bookself.sh ../bookself' in agents
 assert 'scripts/bootstrap-ui.sh' not in agents
 assert 'scripts/sync-reader-runtime.sh' not in agents
 
-print("Bookself sync contract: one command, one transactional implementation")
+print("Bookself sync contract: one command, service-worker-declared runtime, transactional promotion")
