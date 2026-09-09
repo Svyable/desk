@@ -46,6 +46,28 @@ The gradient perspective can help organize these hypotheses without choosing amo
 
 They define the problem’s thermodynamic floor.
 
+Synthetic-cell research makes this floor experimentally useful. Engineers can build vesicles, reaction compartments, DNA-controlled assemblies, artificial metabolic pathways, and simplified information-processing systems without pretending that every construct has crossed an agreed boundary into life. A 2024 [Nature Reviews Chemistry survey of synthetic cells](https://doi.org/10.1038/s41570-024-00606-1) describes systems that combine boundaries with sensing, actuation, motility, and information processing. A 2023 [Communications Chemistry study](https://doi.org/10.1038/s42004-023-00856-y) even reports a synthetic minimal-cell design coupling an energy-production unit, information-polymer synthesis, and vesicle reproduction under externally controlled chemical flows.
+
+These experiments are valuable precisely because the experimenter knows what has been supplied from outside. A vesicle can reproduce because the laboratory continually feeds precursors and controls conditions. A reaction network can oscillate because chemostatted species are replenished. A membrane can remain intact because the materials and solvent regime were chosen for it. The boundary between “the system did it” and “the apparatus did it” is visible.
+
+That makes synthetic cells an unusually clean place to ask a harder question: when does a driven chemical assembly begin to use its own ongoing reactions to preserve or reconstruct the constraints required for those reactions to continue?
+
+The question sounds philosophical until it is operationalized. Remove the external feed and nothing persists; that teaches little. Instead remove or perturb one internally maintained constraint. Does the assembly repair the membrane, restore the ion difference, regenerate the catalyst, or recreate the compartment before the rest of the network collapses? If it cannot, the system may still be an impressive chemical machine without being self-maintaining in the biologically relevant sense.
+
+This is not a new definition of life. It is an experimental axis along which increasingly cell-like systems can be compared.
+
+The same axis makes dormancy more interesting than it first appears. Dormant cells are often described as metabolically “off.” That is too binary. Growth arrest changes metabolism, gene expression, macromolecular organization, resource allocation, and repair. A [Nature Reviews Microbiology review of bacterial growth arrest](https://doi.org/10.1038/nrmicro.2016.107) emphasizes that non-growing cells can shift toward alternative energy sources, internal stores, maintenance, and survival functions rather than behaving as dead exponential-phase cells with the growth switch turned off.
+
+The distinction matters thermodynamically. A dormant cell can lower its rate of free-energy turnover while preserving structures that make later reactivation possible. It may protect DNA, stabilize proteins, reduce permeability, alter membrane composition, store carbon or phosphate, maintain a small electrochemical difference, or accept controlled damage that can later be repaired. Different dormant states use different mechanisms; there is no universal dormancy program.
+
+What they share is a separation between *current throughput* and *recoverable capability*.
+
+That separation is fatal to any theory that identifies biological success with instantaneous power. A spore can lose that contest to a growing cell for years and still win the only comparison natural selection ultimately sees if the environment later kills the grower and permits the spore to reproduce.
+
+It also tells us what a stronger physical theory would have to predict. Saying after the fact that “the spore retained potential” is empty. A useful model would identify measurable variables before reactivation — membrane integrity, stored reductant, ATP-generating capacity, damage burden, ion homeostasis, macromolecular protection — and predict which perturbations still admit a viable path back to growth.
+
+That is a reachable-recovery problem, but the mathematics itself is not novel merely because it is applied to life. The scientific value would come from finding a small physically interpretable state description that predicts reactivation better than simpler viability assays.
+
 Once heredity exists, natural selection changes the logic. A physical configuration can persist because it is dynamically stable. A biological lineage persists because descendants carrying inherited traits continue to reproduce. The two forms of persistence overlap but are not identical.
 
 A mutation that increases metabolic throughput is favored only if its consequences improve reproductive success in that environment. If the mutation burns substrate faster but leaves fewer offspring, selection can remove it. If a mutation slows metabolism and enables survival through famine, it can spread. If a pathway converts food into stored fat rather than immediate work, that storage can be adaptive. If an organism invests energy in armor, toxins, immune defenses, courtship displays, parental care, or long-lived tissue, the immediate effect may be to reduce energy available for reproduction today in exchange for higher expected reproduction later.
@@ -73,6 +95,10 @@ Oxygen then created a large redox opportunity for organisms able to exploit it. 
 Fast-growing cells sometimes favor pathways with lower ATP yield per molecule of substrate because those pathways can run quickly or support biosynthesis. Tumors, yeasts, bacteria, and muscle tissue provide different versions of this rate-yield trade-off. Evolution does not always select the pathway that extracts the maximum work from each molecule.
 
 Again: control, not maximization.
+
+The word control should not be allowed to float free either. Biophysical work increasingly quantifies what cellular functions cost. A 2026 [Annual Review of Biophysics on nonequilibrium thermodynamics of biochemical networks](https://doi.org/10.1146/annurev-biophys-021424-112247) reviews energetic trade-offs in kinetic proofreading, sensory adaptation, ultrasensitivity, and synchronization. In those systems, dissipating chemical free energy can buy lower error, faster response, stronger adaptation, or other measurable performance. There is no need to speculate that “life uses energy for information” in the abstract when specific networks can be modeled and tested.
+
+Those results also discipline the argument of this book. If a regulatory system spends more ATP and responds more accurately, that is not evidence for a new reachability principle. The existing energy–performance literature may already explain it. A new claim has to make a prediction those established models do not.
 
 Mitochondria changed the energetic architecture of eukaryotic cells. The endosymbiotic origin of mitochondria is one of the strongest historical inferences in biology, supported by their bacterial ancestry, double membranes, genomes, ribosomes, and phylogeny. Nick Lane and William Martin have argued that mitochondrial bioenergetics enabled much greater genomic and cellular complexity, including in their influential [Nature hypothesis on the energetics of genome complexity](https://doi.org/10.1038/nature09486).
 
