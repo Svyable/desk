@@ -1,5 +1,9 @@
 # The Crime That Made the Decade
 
+<!-- bookself-reader-links:start -->
+**Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/the-crime-that-made-the-decade/)
+<!-- bookself-reader-links:end -->
+
 **250 Years, 25 Crimes, and the America They Left Behind**
 
 | | |

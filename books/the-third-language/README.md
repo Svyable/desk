@@ -1,5 +1,9 @@
 # The Third Language
 
+<!-- bookself-reader-links:start -->
+**Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/the-third-language/)
+<!-- bookself-reader-links:end -->
+
 **How Animals Talk Back — and What Happens When We Finally Learn to Listen.**
 
 | | |

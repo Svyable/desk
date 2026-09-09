@@ -2,6 +2,10 @@
 
 *One Defining Event from Every Ten Years of America, 1776–2026*
 
+<!-- bookself-reader-links:start -->
+**Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/the-ten-year-republic/)
+<!-- bookself-reader-links:end -->
+
 | | |
 |---|---|
 | **Author** | Sven Hardy Benson |
