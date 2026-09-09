@@ -1,0 +1,7 @@
+# Back Matter
+
+The public record used here supports a narrow but strong conclusion: Project PALLADIUM existed; CIA personnel described deliberately generating calibrated false radar targets against Soviet-designed systems; the technique was paired with SIGINT feedback and, in the Cuban case, physical calibration reflectors. The record does not support treating every later anomalous radar event as deception.
+
+Chronology: World War II Allied forces use radar countermeasures, chaff, phantom formations, and diversionary operations including GLIMMER and TAXABLE. Late 1950s and early 1960s CIA technical intelligence and OXCART work drive demand for better measurement of Soviet radar receiver sensitivity. Bud Wheelon names PALLADIUM according to Poteat's account. During the Cuban missile crisis the system is used from a destroyer to generate a false aircraft approaching Cuba while a submarine supports calibration with metallized spheres. In Vietnam, electronic warfare becomes a routine element of strike survival and suppression of air defenses. Later decades see increasingly capable expendable decoys and coherent digital deception techniques. Current U.S. doctrine continues to describe manipulative, simulative, and imitative electromagnetic deception.
+
+No classified material was accessed or implied. All program claims in this draft derive from public, lawfully available sources listed in the research files.
