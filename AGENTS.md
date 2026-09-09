@@ -116,8 +116,8 @@ the Desk Reader compatibility guard agree. It requires no network access.
 `https://svyable.github.io/desk/reader/`; a direct book route is
 `reader/#/b/<slug>/`. Desk drafts remain drafts in this Reader. Local preview
 is also supported with `python3 -m http.server` from the repository root. To
-refresh shared Reader code from a sibling Bookself checkout, run
-`scripts/bootstrap-ui.sh ../bookself`. The sync copies Bookself-owned Reader
+sync this installation to a sibling Bookself checkout, run
+`scripts/sync-bookself.sh ../bookself`. The command copies Bookself-owned Reader
 runtime files into `reader/` while preserving Desk-owned shell, identity,
 adapters, books, catalog/release state, and the `/desk/` authoring UI. Review
 the resulting diff and commit it in this repository; no hosted build is
