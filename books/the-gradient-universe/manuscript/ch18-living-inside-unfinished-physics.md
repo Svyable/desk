@@ -20,9 +20,9 @@ That is a better description than saying that nonequilibrium thermodynamics is u
 
 The field is not waiting for one missing equation.
 
-It is trying to understand which kinds of generalization are possible without erasing the mechanisms that make different systems different.
+It is trying to discover which descriptions remain useful when the microscopic equations are too numerous, nonlinear, history-dependent, or poorly observed to answer the question we actually care about.
 
-The original version of this book reached for the most obvious answer. Perhaps productive structures are preferred because they dissipate gradients faster. Perhaps stars, convection, metabolism, ecosystems, minds, and civilizations are manifestations of one maximum principle.
+The original version of this book reached for the most obvious unifying answer. Perhaps productive structures are preferred because they dissipate gradients faster. Perhaps stars, convection, metabolism, ecosystems, minds, and civilizations are manifestations of one maximum principle.
 
 That story does not survive scrutiny as a universal law.
 
@@ -38,167 +38,173 @@ The strongest unifying statement left from the first draft is simple:
 
 **Differences make work possible. Structures change the pathways through which those differences can change.**
 
-A temperature difference can drive heat flow, but insulation slows it and convection can reorganize it. A chemical potential difference can drive reaction, but an activation barrier may preserve disequilibrium for years and a catalyst can change the timescale by orders of magnitude. A membrane prevents ions from equilibrating freely. A pump spends work to rebuild an electrochemical gradient. A battery separator suppresses direct reaction so charge can be routed elsewhere. A reservoir gate delays gravitational discharge until a chosen time.
+A temperature difference can drive heat flow, but insulation slows it and convection can reorganize it. A chemical-potential difference can drive reaction, but an activation barrier may preserve disequilibrium for years and a catalyst can change the timescale by orders of magnitude. A membrane prevents ions from equilibrating freely. A pump spends work to rebuild an electrochemical gradient. A battery separator suppresses direct reaction so charge can be routed elsewhere. A reservoir gate delays gravitational discharge until a chosen time.
 
 The gradient is not an instruction.
 
 It is an opportunity constrained by mechanism.
 
-That observation leads to the part of the book that may be worth publishing as more than synthesis.
+For a while, that observation seemed to point toward a new object I called recursive thermodynamic reachability. The thought was that a system can spend work now to alter what will be physically possible for it later. A cell maintains a membrane whose selectivity changes later transport. A microbe expresses an enzyme that changes which substrates it can use. An animal stores fuel. An engineer charges a battery. A nervous system learns a route before the next journey.
 
-A system can use present work to change what will be physically possible for it later.
+The phrase was useful because it forced a better question than maximum dissipation.
 
-That process is everywhere once it is named carefully. A cell spends ATP maintaining a membrane whose selectivity determines later transport. A microbe expresses an enzyme that opens a metabolic pathway that was previously inaccessible. An animal stores fuel that permits survival through a future interruption. A nervous system spends energy learning a route so the body does not have to explore every route again. An engineer charges a battery, builds a transmission line, writes a controller, or strengthens a bridge before the load arrives.
+It was not new mathematics.
 
-Present dissipation changes future reachability.
+Suppose a system has ordinary process variables \(x\) and architecture variables \(c\). If both change in time,
 
-The candidate idea introduced in this book is **recursive thermodynamic reachability**: work invested in a physical constraint can change the system's later viable reachable states, and the cost of the constraint and the reachability gained from it can in principle be measured separately.
+\[
+\dot{x}=f(x,c,e,u),
+\]
 
-The phrase should not be mistaken for a claim that reachability itself is new.
+\[
+\dot{c}=g(x,c,e,u),
+\]
 
-It is not.
+then define one larger state
 
-Control theory has studied reachable sets for decades. Viability theory studies states from which a system can remain inside acceptable constraints. Lakatos and Stumpf applied reachability methods to stochastic biochemical systems: https://doi.org/10.1098/rsos.160790 . Montévil and Mossio formalized biological organization as [closure of constraints](https://doi.org/10.1016/j.jtbi.2015.02.029), where processes maintain constraints that in turn regulate other processes. Kolchinsky and Wolpert linked information to a specified viability function in [nonequilibrium statistical physics](https://doi.org/10.1098/rsfs.2018.0041).
+\[
+z=(x,c).
+\]
 
-The recent literature narrows the novelty further.
+The dynamics become
 
-Hyun Youk has proposed **non-equilibrium capacity**, the latent ability of a living system to generate, sustain, or restart life-associated dynamics even when present activity becomes extremely low, as in dormancy: https://doi.org/10.1016/j.newton.2025.100358 .
+\[
+\dot{z}=F(z,e,u).
+\]
 
-A 2026 paper, [“Life as Counterfactual Geometry”](https://doi.org/10.3390/e28030255), explicitly studies biological function through the geometry and stability of distributions over unrealized but accessible future trajectories. That means neither “future possibilities” nor “counterfactual geometry” can honestly be presented as inventions of this book.
+That is an augmented-state dynamical system. Standard reachability, viability, stochastic control, and cost functionals can in principle operate on it. Nothing about allowing the system to change its own architecture creates a new branch of mathematics by itself.
 
-And on September 3, 2026, Jumpei Yamagishi and Tetsuhiro Hatakeyama published a [thermodynamic cost–controllability trade-off in metabolic currency coupling](https://doi.org/10.1103/4bqh-zhry). Greater control can have a measurable thermodynamic price in a biologically relevant model.
+That reduction matters because it removes a seductive source of novelty by vocabulary.
 
-These are not threats to the book.
+Control theory has studied reachable sets for decades. Viability theory asks from which states a system can remain inside specified constraints. Lakatos and Stumpf applied reachable-set computation to stochastic biochemical systems: https://doi.org/10.1098/rsos.160790 . Minimum-energy and energy-feasible reachability are existing control problems. Ashby's cybernetics already made response variety central to regulation. Empowerment measures how strongly an agent's actions can influence its future sensory states. Montévil and Mossio formalized biological organization as [closure of constraints](https://doi.org/10.1016/j.jtbi.2015.02.029). Kolchinsky and Wolpert tied information to a declared viability function in [nonequilibrium statistical physics](https://doi.org/10.1098/rsfs.2018.0041).
 
-They are boundary markers.
+Recent work closes the boundary further.
 
-They tell us what claim is still left to earn.
+Hyun Youk has proposed **non-equilibrium capacity**, the latent ability of a living system to generate, sustain, or restart life-associated dynamics even when present activity becomes extremely low: https://doi.org/10.1016/j.newton.2025.100358 . A 2026 paper, [“Life as Counterfactual Geometry”](https://doi.org/10.3390/e28030255), explicitly studies biological function using distributions over unrealized but accessible future trajectories. On September 3, 2026, Jumpei Yamagishi and Tetsuhiro Hatakeyama published a [thermodynamic cost–controllability trade-off in metabolic currency coupling](https://doi.org/10.1103/4bqh-zhry), showing in a biologically meaningful model that greater independent metabolic control can carry a higher thermodynamic cost.
 
-The narrow candidate is this:
+Even the idea that a useful macroscopic description can outperform a microscopic one is old territory. Statistical mechanics is built on useful coarse-grainings. The Mori–Zwanzig formalism derives reduced dynamics with memory and noise when unresolved variables are eliminated. Computational mechanics asks for minimal predictive state representations. Causal-emergence work asks when macrovariables support stronger or cleaner causal descriptions. Markov-blanket approaches study statistical boundaries in biological and adaptive systems. Contemporary stochastic thermodynamics asks what entropy production and hidden dynamics can be inferred after coarse-graining.
 
-**A particular constraint can be assigned a physical construction and maintenance cost and a separately measurable gain in robust viable reachability. Under specified environmental variability, that gain can sometimes make the constraint worth its cost even when it lowers present power, efficiency, or entropy production.**
+So where is the book left after all of that subtraction?
 
-I call that effect *reachability leverage*.
+With a smaller question that I now think is better.
 
-This is not a fourth law.
+**Which variables make recovery predictable?**
 
-It is a proposed measurable relationship.
+That is the variable problem.
 
-If the relationship is real, it offers one explanation for a pattern maximum-dissipation theories handle badly. Living and engineered systems often spend energy preventing immediate equilibration. They store. They insulate. They maintain reserve. They build redundant pathways. They repair components that still function today because failure tomorrow would close too many options. They enter dormancy. They learn. They maintain memories. They preserve spare capacity.
+Imagine that I give you the positions, velocities, molecular identities, chemical states, and interactions of every atom in a bacterium. In one sense I have given you an extraordinarily complete description. Now suppose I ask a practical question: after forty-eight hours of starvation, will this cell resume growth when nutrients return?
 
-The value of these structures is not that they increase instantaneous throughput.
+The microscopic inventory does not automatically tell you which coordinates matter most for that prediction.
 
-It is that they alter the future control problem.
+Perhaps ATP matters. Perhaps membrane potential matters. Perhaps redox state matters. Perhaps the material state of a protein aggregate matters. Perhaps a particular biosynthetic enzyme has fallen below a threshold. Perhaps the important variable is not one molecule at all but a relation among several processes: membrane integrity, repair capacity, ion homeostasis, and access to a usable carbon source.
 
-A short circuit can dissipate a battery rapidly while destroying nearly all future electrical use. A regulated circuit may dissipate less inside the battery and make many external state transitions possible. A spore can exhibit vanishingly small present activity yet preserve the ability to resume metabolism and replication. A dead cell may have similar present throughput and none of that future capacity.
+A complete state and a useful state description are not the same thing.
 
-Current dissipation does not distinguish them well.
+That is familiar throughout science. Meteorology does not forecast tomorrow's weather by tracking every gas molecule. Fluid dynamics uses pressure, velocity, temperature, vorticity, and density fields. An electrical engineer does not need the quantum state of every electron in a grid to predict frequency stability. Genetics did not become useless when molecular biology discovered more detail; sometimes a gene remains exactly the right level of description for the question.
 
-Future physically accessible transitions might.
+The hard part is finding variables that compress what matters without erasing the mechanism that matters.
 
-That idea also supplies a more disciplined way to think about origins of life.
+Living systems add a peculiar twist. Some candidate macroscopic variables may remain useful partly because the organism spends work keeping the physical arrangement behind the variable intact.
 
-A prebiotic system does not become interesting merely because it dissipates chemical free energy. Flames do that. A reaction network becomes more life-like when work helps produce boundaries, catalysts, stores, or regulatory structures that change what reactions can occur later, and when those structures participate in maintaining or reproducing the conditions that make the network possible.
+“Inside” and “outside” are meaningful cellular categories because a membrane is continually maintained. Membrane potential is a useful variable because selective permeability and pumps keep charge separation from vanishing immediately. A regulatory state can persist because proteins are synthesized, modified, localized, protected, and degraded on controlled timescales. A chromatin state can influence future expression because molecular machinery keeps reconstructing parts of that state through cell activity. A reserve pool remains a reserve because reactions that would consume it are gated.
 
-Constraint closure already captures part of this logic.
+The organism does not merely occupy a coarse-grained state chosen by an observer.
 
-Reachability asks for the next step: what new future states did the constraint actually open, preserve, or make robust?
+It may spend resources maintaining the physical conditions that make the coarse-graining predictive.
 
-A mineral pore that concentrates reactants may enlarge one set of chemical pathways. A lipid compartment may prevent diffusion losses while also blocking useful exchange. A catalytic cycle may open a reaction route but consume scarce feedstock. A primitive energy-coupling mechanism may allow uphill chemistry that was previously inaccessible.
+That statement is not yet a theorem. It is a candidate empirical pattern.
 
-Each of these can be treated as a physical trade.
+The scientific task is therefore no longer to announce a new universal measure of optionality or a new law of reachability. It is to identify a small set of physically interpretable, work-maintained variables and ask whether they earn their place as causal coordinates for a specific prediction problem.
 
-Work buys a changed future reaction space.
+A variable should have to work for the title of constraint.
 
-The origin-of-life problem then becomes less like a search for a substance called “life” and more like a search for transitions in which chemically driven systems begin recursively modifying the constraints on their own future chemistry.
+First, intervention on it should change the predicted recovery boundary. If removing a membrane regulator, changing aggregate material state, or disabling a repair pathway leaves recovery unchanged, the proposed constraint has failed that test.
 
-That is an explanation of process, not an assertion that life was inevitable.
+Second, its physical cost should be measured independently. A regulatory protein, chaperone, pump, reserve pool, or redundant pathway cannot be treated as free. Construction, maintenance, switching, and opportunity costs belong in the bookkeeping.
 
-The same logic may clarify agency without pretending to solve consciousness.
+Third, extra resource alone should not reproduce the effect. This is the matched-resource test. If an architecture costs a certain amount of ATP, substrate, protein allocation, or chemical work, give the comparison system the same additional resource without giving it the architecture. If the added resource restores the same recovery repertoire, then we mistook abundance for organization.
 
-A simple dissipative structure responds to its boundary conditions. A feedback system senses a variable and changes its action. A system with recursive reachability can use current action to alter the constraints governing later action. A model-based agent can go further: it can represent possible consequences and choose present expenditures because of what they are expected to make possible later.
+Fourth, the reduced description should predict held-out behavior. It should not merely summarize the data from which it was invented. Fit one disturbance regime and predict another. Fit early dormancy and predict later recovery. Fit one intervention and predict a second without changing what the variables mean.
 
-A brain does something physically remarkable in that sense.
+Fifth, the model has to compete against what the field already knows. If ATP alone predicts the outcome just as well, use ATP. If a standard robust-control metric is enough, use it. If an established growth-lag model or pathway-specific biochemical model explains the result with fewer assumptions, do not rename it constraint thermodynamics.
 
-It can pay a relatively small metabolic cost for simulation and memory in order to avoid paying the much larger bodily cost of testing every option directly.
+This is a harsher publication standard than the book began with.
 
-A rat can learn that one path leads to food and another to danger. A person can estimate whether a bridge will hold without loading it to collapse. A pilot can rehearse an emergency in a simulator. An engineer can model a power grid before opening a breaker.
+It should be.
 
-Counterfactual reasoning does not create energy.
+The first promising empirical arena is dormancy because dormancy separates present activity from future capability so starkly.
 
-It changes which energy-consuming action is selected before irreversible costs are paid.
+A dormant cell can consume very little and remain recoverable. A dead cell can consume very little and not be recoverable. Current wattage does not tell us which is which.
 
-That may be one of cognition's most consequential physical functions.
+Recent experiments make that distinction more concrete. In 2025, Celien Bollen and colleagues studied protein aggregates as *Escherichia coli* cells developed dormant phenotypes. The aggregates first behaved more like liquid condensates and progressively matured toward more solid structures. That physical maturation impeded aggregate dissolution and the return to growth. The study supports a model in which [aggregate structure, rather than cellular activity, marks the transition between a recoverable persister-like state and a poorly recoverable viable-but-nonculturable state](https://doi.org/10.1038/s41467-025-56387-8).
 
-It is not uniquely described by this book. Active inference, planning theory, reinforcement learning, model-predictive control, and the 2026 counterfactual-geometry work all engage nearby territory. The contribution, if any, would be to connect counterfactual control to explicit physical budgets and to the constraints that alter later reachability.
+That is unusually close to the variable problem.
 
-The word *if* matters.
+ATP still matters. Protein aggregation can sequester proteins involved in energy production and contribute to ATP depletion as dormancy develops. But the later loss of recoverability is not adequately described as one more turn of an energy gauge. The material arrangement of the proteome changes whether an accessible route back to growth remains.
 
-A good scientific conclusion should state the experiment that could make the book wrong.
+A 2026 study by Raleb Taher and colleagues supplies a complementary example. Under nitrogen starvation, *E. coli* persister abundance rose sharply [without a corresponding decrease in ATP](https://doi.org/10.1038/s41467-026-75914-9). The discriminating mechanism involved pyrimidine biosynthesis: persister cells tended to have low PyrBI, and PyrBI overexpression reduced persistence.
 
-The cleanest first test does not need a brain or a civilization.
+The two studies do not reveal one hidden universal variable.
 
-Choose a system simple enough to model and manipulate: an engineered microbial strain or a fuel-driven synthetic chemical network.
+That is why they are useful.
 
-Construct two architectures.
+One points toward the material state and reversibility of aggregates. The other points toward a pathway-specific regulatory bottleneck. A 2026 *Nature Communications* perspective on [metabolic rewiring in bacterial persistence](https://doi.org/10.1038/s41467-026-71427-7) emphasizes precisely this heterogeneity. Persisters are not one uniformly inactive physiological state.
 
-One spends little on control and has a narrow operating repertoire. The other spends measurable work on a constraint: regulatory separation, a membrane, a storage species, a reversible modification, or another structure that changes future transitions.
+So the test cannot be “does my preferred variable correlate with dormancy?”
 
-Before running the experiment, specify the system boundary, physical resource budget, viable states, time horizon, and disturbance distribution.
+The test has to be harder.
 
-Calculate the reachable or viable sets of both architectures.
+Before refeeding, measure a declared state vector: ATP or another energy proxy, membrane potential, redox state, aggregate material state, relevant disaggregation machinery, pathway-specific variables, and whatever physiological coordinates the mechanism independently requires. Define recovery before fitting: first division within a fixed horizon, sustained biomass growth, or another explicit criterion. Train a model on one condition. Predict a second.
 
-Measure the energetic cost of the additional constraint.
+Then intervene.
 
-Predict a threshold in environmental variability or perturbation severity at which the extra reachability should become worth the cost.
+If changing the aggregate state moves recovery in the predicted direction, that is causal evidence. If matched extra substrate restores recovery without changing the aggregate state, the architecture-specific interpretation weakens. If targeted restoration of a pathway or structural state restores recovery while extra energy does not, then a useful physical coordinate may have been found.
 
-Then run the experiment.
+The most important comparison is not “my model versus nothing.”
 
-If the threshold appears where predicted and simpler models based on power, growth rate, energy inventory, or ordinary control metrics fail, the conjecture becomes scientifically interesting.
+It is energy-only versus structure-only versus their joint model versus the strongest conventional mechanism already supported by the experiment.
 
-If not, reduce the claim.
+A successful result would still not prove a universal law.
 
-That is the publication standard.
+It would establish something smaller and real: in one biological recovery problem, present energetic state is not a sufficient low-dimensional description, while a physically interpretable structural or regulatory state carries causal, transferable predictive information about which future recovery trajectories remain accessible.
 
-Not whether the metaphor feels universal.
+That would justify asking the same question in a second system.
 
-Not whether examples can be found after the fact.
+Only then should we begin talking about generality.
 
-Not whether “reachability leverage” sounds like a named principle.
+Origin-of-life research offers a more ambitious version of the same problem. A prebiotic system does not become interesting merely because it dissipates free energy. Flames do that. A driven chemical assembly becomes more life-like when its processes help maintain boundaries, catalysts, stores, or other constraints that affect what the assembly can do next.
 
-Prediction first.
+Constraint closure already captures part of that logic. Synthetic-cell research gives us a way to test it progressively rather than argue about definitions. Build a compartment. Supply a reaction network. Introduce an energy-coupling mechanism. Perturb the membrane, gradient, catalyst, or information polymer. Ask whether the system's own ongoing dynamics reconstruct the damaged constraint before the whole network falls out of the operating regime.
 
-The possibility of failure also keeps the concept from swallowing biology. Natural selection remains differential reproductive success among heritable variants. A lineage does not benefit from options merely because they exist. Unused options cost resources. Specialists can beat generalists. Parasites can discard pathways. Endosymbionts can lose genes. Cave animals can lose expensive sensory organs. Complexity can decrease.
+The relevant question is not whether the synthetic cell “wants” to live.
 
-A reachability account should predict those losses when the maintenance cost of unused capability exceeds its expected benefit in the environment actually encountered.
+It is whether a small physical description of its maintained constraints predicts loss and recovery across perturbations better than raw fuel inventory does.
 
-If it explains every gain and every loss after the fact, it has failed.
+The same discipline can be carried into cognition, although the evidence becomes harder to isolate. A nervous system spends energy maintaining ion gradients, synapses, cellular structure, and memory-related molecular changes. Planning can alter which bodily action is selected before an expensive or irreversible action occurs. But active inference, reinforcement learning, model-predictive control, empowerment, and predictive-processing theories already occupy much of that territory.
 
-The same restraint applies to ecosystems. A diverse ecosystem may recover from more perturbations than a simplified one, but “more states” is not automatically better. Some alternative states are degraded states. Some transitions are irreversible on human timescales. Some diversity is redundant for one function and essential for another. Ecological resilience already has a rich literature.
+The book gains nothing by declaring cognition a new thermodynamic law.
 
-Reachability should be used only where it adds a measurable control or viability result.
+A useful thermodynamic contribution would be narrower: identify a physical state variable or resource constraint that changes which actions remain feasible, predict the consequence, intervene, and outperform ordinary neuroscience or control descriptions. Otherwise the native science should keep the explanatory credit.
 
-Technology offers clearer examples because objectives and failure limits can be specified. Reserve margins, storage, redundancy, black-start capability, transmission paths, software controls, inventories, and spare parts all change the set of failures a system can recover from. A network may have abundant primary energy and still lose operating reachability through damaged control, synchronization, or connectivity.
+Technology makes the logic easier to see because objectives are explicit. A power grid can have ample fuel and still lose recoverability if transmission paths, synchronization, black-start capability, communications, or control authority are lost. A battery can contain chemical energy while a failed separator renders it useless. A machine can have spare parts in a warehouse that cannot reach the failed component before the deadline.
 
-That suggests a practical prediction beyond biology: in some complex engineered systems, robust reachable-set deterioration should provide earlier warning of collapse than bulk energy inventory or average throughput.
+Inventory is not capability.
 
-Again, this could be false.
+Capability depends on accessible pathways under time and structural constraints.
 
-Maybe conventional reliability metrics already capture everything useful. If so, use them.
+Engineering already knows this in many forms: reliability theory, robust control, contingency analysis, logistics, resilience, and network science. The point is not to rename those fields. The point is that the same distinction between stock and accessible transition appears in living systems where the relevant variables are harder to identify.
 
-Social systems require the most restraint. A civilization is physically embodied. Its factories, farms, roads, servers, bodies, and power systems require energy and materials. But thermodynamics does not contain law, legitimacy, trust, meaning, political strategy, or justice.
+Social systems require still more restraint. A civilization is physically embodied. Farms, power plants, bodies, vehicles, roads, data centers, water systems, and supply chains require energy and materials. But thermodynamics does not contain legitimacy, law, trust, political strategy, culture, or justice.
 
-A state can possess energy resources and fail politically. A poor country can build strong institutions. A wealthy society can choose inefficient technologies for historical or political reasons. A printing press consumes exergy; it does not thermodynamically imply the Reformation.
+A country can possess energy resources and fail politically. A poor society can build durable institutions. A wealthy one can make historically contingent mistakes. A printing press consumes exergy; it does not thermodynamically imply the Reformation.
 
 The world contains nested explanatory levels.
 
 A lower-level constraint can be necessary without being sufficient.
 
-That point is as important as the reachability conjecture itself.
+A successful unifying framework should clarify where its authority stops.
 
-A successful unifying framework should clarify where its own explanatory power stops.
-
-The same humility belongs in cosmology. Stars will not shine forever. The universe's accessible forms of free energy change over time. Black holes, expansion, background radiation, possible particle decay, and vacuum physics complicate the distant future. “Heat death” is useful shorthand for a regime in which usable disequilibria become increasingly scarce, not a simple picture of every point reaching one room temperature.
+The same humility belongs in cosmology. Stars will not shine forever. The universe's accessible forms of free energy change over time. Black holes, expansion, background radiation, possible particle decay, and vacuum physics complicate the distant future. “Heat death” is useful shorthand for scenarios in which usable disequilibria become increasingly scarce, not a simple picture of every point reaching one room temperature. Adams and Laughlin's classic review of the [long-term fate of astrophysical objects](https://doi.org/10.1103/RevModPhys.69.337) is a better antidote to cartoon certainty than any one-sentence cosmic ending.
 
 The long-term future does not assign meaning to the present.
 
@@ -208,54 +214,46 @@ Those are human interpretations.
 
 The physical point is enough: organized activity occupies finite windows of accessible work.
 
-Within those windows, some systems merely undergo change.
+Within those windows, differences make processes possible. Constraints shape which processes actually occur. Some constraints are passive consequences of geometry or material. Some are produced by prior history. Living systems add the remarkable fact that many of their important constraints are continually rebuilt by the chemistry they help organize.
 
-Some systems alter the pathways of change.
+That fact alone is not a new law.
 
-Some spend work rebuilding the constraints that let them continue.
+It is a clue about where to measure.
 
-Some alter the set of disturbances they can survive.
-
-Some represent possible futures before selecting one.
-
-One species learned to externalize those representations into language, mathematics, tools, institutions, and machines.
-
-That progression does not prove a cosmic ladder.
-
-It identifies increasing depth of control.
-
-This is where *The Gradient Universe* ends up.
+This is where *The Gradient Universe* ends up after arguing with itself.
 
 Not with entropy as the protagonist.
 
 Not with a universal drive toward complexity.
 
-Not with a new fundamental force.
+Not with a new force.
 
-With a more modest and potentially more useful proposition: **physical differences create opportunities for work; constraints shape which opportunities are accessible; and some driven systems spend work now to modify which physically viable futures remain accessible later.**
+Not even with a new mathematical object called reachability.
 
-The first two clauses are old physics.
+With a problem of representation:
 
-The third is where the research begins.
+**Which physically maintained variables let us predict what a driven system can still recover from?**
 
-If recursive thermodynamic reachability can be derived cleanly, measured independently of its outcomes, and shown to predict a transition that competing theories miss, there is something here worth publishing as science.
+A good answer will have to survive dimensional analysis, causal intervention, independent cost accounting, matched-resource controls, held-out prediction, transfer, and comparison with the best existing model.
 
-If it cannot, the book should still keep the correction it learned along the way.
+If a membrane variable passes that test, keep it. If aggregate material state passes, keep it. If ATP alone wins, stop there. If a pathway-specific enzyme explains the result, give the enzyme the credit. If no small variable set transfers across conditions, perhaps the system does not admit the kind of coarse-graining we hoped for.
 
-Structure is not an embarrassment to the second law.
+The book should be allowed to lose every one of those contests.
 
-Life does not need to “defeat entropy.”
+That is the difference between a scientific question and a cosmology made from metaphor.
 
-Brains do not become supernatural because they model the future.
+The first draft wanted the universe to tell one story.
 
-Civilization does not step outside physics when it stores energy or plans decades ahead.
+The evidence kept refusing.
 
-Every one of these systems is physically possible because gradients remain, because couplings exist, and because constraints shape the flows.
+What remains is more useful. A gradient can supply work without dictating its use. A structure can redirect a flow without being selected by a universal maximum principle. A living cell can remain nearly inactive yet preserve the architecture needed to return. A system can possess energy while losing the pathways required to spend it. Microscopic laws can be complete while the right macroscopic variables remain unknown.
 
-The extraordinary part is not that the universe dissipates.
+There may be no missing fourth law hiding behind those facts.
 
-Everything irreversible does.
+There may instead be a missing map between scales.
 
-The extraordinary part is that matter can sometimes use one irreversible process to change the map of the next one.
+That map has to be earned one system at a time.
 
-That is the question worth carrying forward.
+The next experiment is small enough to be embarrassing if it fails: predict recovery in dormant cells before they wake.
+
+That is exactly why it is worth doing.
