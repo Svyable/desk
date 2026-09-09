@@ -1,386 +1,86 @@
 # Designing for Doubt
 
-Most software is designed to remove doubt.
+Most software is designed to remove doubt. The button changes state, the transaction completes, the route appears, the message sends. Good interfaces tell users what happened and what to do next.
 
-The button changes state. The transaction completes. The route appears. The message sends. Good interfaces tell users what happened and what to do next.
-
-Generative AI introduces a category of output that may be useful precisely because it is not fully settled.
+Generative AI introduces a different kind of output: something can be useful precisely because it is not fully settled. Uncertainty about a factual claim is not necessarily a software error. Sometimes it is the most accurate representation of the world available to the system.
 
 That makes doubt a design material.
 
-The phrase sounds awkward because product culture usually treats uncertainty as a defect to be hidden or resolved. A loading spinner ends. An error banner should disappear. A confidence warning looks like unfinished engineering.
+The problem is not to spray caution across every interaction. Nobody needs a dissertation about epistemology before asking for lunch recommendations. The problem is that the same smooth conversational surface can also answer a contract question, summarize a medical record, prepare a wire transfer, or draft something about to become public. The stakes change while the box stays the same.
 
-But uncertainty about a factual claim is not necessarily a software error.
+A trustworthy product has to notice that change.
 
-Sometimes it is a correct representation of the world.
+One way is to make the mode of the work more explicit. Brainstorming, drafting, researching, verifying, deciding, and acting do not have the same relationship to invention. Unsupported possibilities are welcome in a brainstorm. A missing source is a failed result in verification. A recommendation can remain provisional during analysis and require a higher evidentiary threshold before an irreversible action.
 
-The system needs ways to preserve it without making every interaction unbearable.
+Humans signal these shifts constantly. We say, “I’m just thinking out loud,” “double-check this,” “rough estimate,” “for the final version,” or “off the record.” Those phrases alter what kind of language is acceptable. General-purpose AI needs an equivalent way to keep imagination from silently becoming evidence.
 
-This is the design problem at the center of trustworthy AI.
+The same is true of consequence. A restaurant recommendation can be casual until the user has a severe allergy. A calendar time becomes consequential when it is a court deadline. A translation becomes legal when it enters a contract. Domain labels help, but the product often knows something even more useful: the user is about to send, submit, purchase, transfer, deploy, prescribe, publish, or file.
 
-Users should not have to read a dissertation about epistemology before asking for lunch recommendations. They also should not receive the same smooth declarative interface when asking whether a contract authorizes a multimillion-dollar obligation.
+Those transitions are natural places to ask more of the evidence.
 
-Doubt should scale with consequence.
+This does not require making every high-stakes interaction slower. In many cases the safest design is also the fastest because the system can automate the mechanical parts of skepticism. Resolve the citation. Open the clause. Recompute the number with a deterministic tool. Show the source passage beside the summary. Compare the quotation with the original. Surface the policy version that actually controls. Flag that five apparent sources all descend from the same press release.
 
-This sounds simple until someone has to turn it into product behavior.
+Verification becomes inspection instead of recreation.
 
-What counts as consequence?
+That distinction matters because most users are not failing to check only because they are credulous. They are busy. If verification means leaving the product, opening another system, finding the document, searching a hundred pages, and reconstructing the answer manually, the machine has already won the attention contest. A warning that says “AI can make mistakes” does not change the cost structure.
 
-Money.
+A good interface shortens the road back to evidence.
 
-Health.
+It also preserves live alternatives when the evidence has not eliminated them. Two strong sources can disagree. Two causal explanations can remain plausible. A recommendation can reverse under a different value assumption. A forecast can have a range rather than a point. None of this requires false balance. The system can say one interpretation is better supported while still refusing to make formatting erase the uncertainty that remains.
 
-Legal obligation.
+The most useful challenge is often not disagreement for its own sake but a question about what would change the conclusion. If a plan depends on one forecast, show the plan under another. If the user appears committed to a thesis, identify the evidence that would weaken it. If two explanations compete, identify the observation that would distinguish them.
 
-Public publication.
+Reality gets a cleaner path into the conversation that way.
 
-Irreversible action.
+Interruption should be spent just as carefully. Most warnings train people to click through because most warnings are generic. “This action will send the document externally, and the cited source cannot be verified. Continue?” is different. It names the hinge. The user knows what is uncertain and what consequence is about to follow.
 
-Reputation.
+That is the kind of friction worth preserving.
 
-Security.
+The same logic favors reversible intermediate states. An agent can draft the message before sending it, create the branch before merging it, hold the reservation before purchasing, prepare the order before submitting, or mark a database change as proposed before committing it. The system keeps moving without pretending its first interpretation deserves final authority.
 
-Personal safety.
+Version control is a useful model because it makes state visible. Drafted, sourced, verified, approved, published, superseded: these are not bureaucratic labels for their own sake. They tell the next person or system how much authority an artifact has earned.
 
-But consequence is also contextual. A restaurant recommendation can become medically significant if the user has a severe allergy. A calendar time can become consequential if it is a court deadline. A translation can become legal if it is used in a contract.
+Missingness deserves the same respect.
 
-The model sees language.
+Software has always struggled with the difference between unknown, not applicable, not found, conflicting, not yet measured, and withheld. Generative models make the problem easier to hide because they can fill blanks elegantly. A trustworthy system should resist that temptation. An unknown value should not become zero because the schema wants a number, and a missing date should not become a plausible date because the sentence wants closure.
 
-The product must infer stakes.
+Absence is information.
 
-One strategy is to use domain and action boundaries. Systems already know when the user is about to send, submit, purchase, deploy, transfer, diagnose, prescribe, publish, or file. Those verbs can trigger higher evidentiary requirements.
+So is time. A policy is true for a period. A price is current at a moment. A forecast has a horizon. A person’s role changes. Scientific understanding evolves. Breaking news is provisional before later reporting clarifies it. “According to policy” is weaker than “according to the current policy published in August 2026” when the policy can change. Date is not decorative metadata when the claim expires.
 
-Another is to let users declare the mode.
+This becomes especially important in persistent systems. If the source changes, what happens to the answer already generated from it? If a memory about the user turns out to be wrong, can the user see and correct it? If a model inferred a preference last year, should that inference silently continue shaping current recommendations?
 
-Brainstorm.
+Correction is part of the relationship, not merely a future model improvement.
 
-Draft.
+Products often prefer silent improvement because it is tidy. Silent improvement is fine for spelling. It is inadequate when a user may have acted on a consequential falsehood. A mature system should know when a corrected source, superseded policy, or repaired memory changes something important enough to surface.
 
-Research.
+The same discipline applies to the system’s own language about what it did.
 
-Verify.
+Words such as checked, verified, remembered, confirmed, calculated, and found should correspond to actual operations. If the system says it checked a source, there should be a source it opened. If it says it calculated a result, there should be inputs and a method. If it says it remembers, there should be a retrievable record or user-authorized memory rather than a generated autobiography about the conversation.
 
-Decide.
+Process verbs are evidence claims too.
 
-Act.
-
-The interface can then change what counts as success.
-
-In brainstorm mode, unsupported possibilities are welcome.
-
-In verify mode, a missing source is a failed result.
-
-In act mode, the system may require stronger confirmation at the hinge.
-
-The same model can serve all three if the product preserves the distinction.
-
-This is better than one universal personality performing every epistemic role.
-
-The danger of the universal assistant is not merely that it does many things. It is that the user encounters one conversational style while the task silently changes from imagination to evidence.
-
-Mode makes the contract visible.
-
-Humans use mode constantly.
-
-"I'm just thinking out loud."
-
-"Off the record."
-
-"For the final version."
-
-"Double-check this."
-
-"I need a rough estimate."
-
-These phrases change how language should be interpreted. They permit speculation in one context and forbid it in another.
-
-AI systems can formalize the same move.
-
-The second design principle is source proximity.
-
-Important claims should be easy to walk back to evidence.
-
-Not every claim needs a citation badge. But the path should be short enough that verification competes fairly with convenience.
-
-If checking requires leaving the application, authenticating into another system, locating a document, searching a hundred pages, and interpreting a table, most users will not check.
-
-The machine has already won the attention contest.
-
-A better interface can show the source passage beside the claim. It can highlight the number in the report. It can open the legal clause. It can distinguish the user's statement from the model's inference. It can show that several sources disagree.
-
-Verification becomes inspection rather than recreation.
-
-This is a major productivity gain, not a safety tax.
-
-A common mistake is to imagine responsible AI as adding more work.
-
-Good epistemic design can reduce work by automating the boring parts of verification.
-
-Resolve the citation automatically.
-
-Compare the quotation with source text.
-
-Check the arithmetic with a deterministic tool.
-
-Surface the changed paragraph after a policy update.
-
-Identify that five articles trace to one press release.
-
-Find the contradiction across notes.
-
-These functions can make skeptical work faster than blind trust.
-
-The third principle is preserving alternatives.
-
-A model often has to choose one way to phrase an answer. The interface does not always need to choose one interpretation.
-
-If two strong sources disagree, show the disagreement.
-
-If two causal explanations remain plausible, keep both alive.
-
-If a decision depends on values, show how the recommendation changes under different value priorities.
-
-This is not an argument for false balance.
-
-Evidence can be asymmetric.
-
-The system should say when one interpretation is better supported. The goal is to prevent formatting from erasing live uncertainty.
-
-A chart can show a range instead of a point.
-
-A forecast can show scenarios.
-
-A summary can preserve dissent.
-
-A recommendation can name the assumption that would reverse it.
-
-These are ordinary analytical techniques. Generative systems should make them easier to produce, not replace them with a single conversational conclusion.
-
-The fourth principle is useful interruption.
-
-Most interface interruption is bad. Pop-ups, confirmations, and warnings train people to click through.
-
-A good system interrupts rarely and specifically.
-
-"This action will send the document externally, and the cited source cannot be verified. Continue?"
-
-That is useful.
-
-"AI can make mistakes."
-
-That is background noise.
-
-The warning should name the hinge.
-
-This matters because generic caution becomes invisible through repetition. Users stop seeing banners. Professionals click through disclaimers. The system needs to spend interruption budget where it changes behavior.
-
-The phrase *interruption budget* is useful.
-
-Every product can ask only so many clarifying questions before the user abandons it. Every workflow can require only so many approvals before people route around it. Every warning consumes attention.
-
-Designing for doubt therefore means triage.
-
-Which ambiguity deserves a question?
-
-Which missing fact can safely remain blank?
-
-Which action can be staged instead of blocked?
-
-Which assumption should be exposed without requiring approval?
-
-Which contradiction should stop the process?
-
-These are not questions a model should answer alone. They belong to product design, domain experts, risk owners, and users.
-
-The fifth principle is reversible autonomy.
-
-A system can move quickly when the action can be undone cheaply.
-
-Draft the message.
-
-Create the branch.
-
-Hold the reservation.
-
-Prepare the order.
-
-Mark the database change as proposed.
-
-The interface can make the provisional state visually distinct from committed state.
-
-This is a powerful way to preserve speed without pretending the first interpretation deserves authority.
-
-Version control is one of the great underrated epistemic interfaces.
-
-A code change is not simply true or false. It is proposed, reviewed, tested, merged, reverted. The process preserves history and allows disagreement to become inspectable artifacts.
-
-Many AI-assisted tasks could benefit from similar states.
-
-Drafted.
-
-Sourced.
-
-Verified.
-
-Approved.
-
-Published.
-
-Superseded.
-
-These are not bureaucratic labels for their own sake.
-
-They tell downstream systems how much authority the artifact carries.
-
-The sixth principle is explicit missingness.
-
-A system should not silently turn unknown into null, null into zero, or zero into a plausible value.
-
-Missingness needs representation.
-
-Unknown.
-
-Not applicable.
-
-Not found.
-
-Conflicting.
-
-Not yet measured.
-
-Withheld.
-
-Each means something different.
-
-Databases have struggled with this forever. AI can make the problem worse by filling blanks too elegantly.
-
-A trustworthy interface makes absence legible.
-
-This may be one of the least glamorous and most important features of the AI era.
-
-The seventh principle is counterfactual prompting.
-
-If the user appears committed to a conclusion, the system can ask what evidence would change it.
-
-If a recommendation is strong, the system can surface the strongest plausible failure mode.
-
-If a plan depends on one forecast, it can show the plan under a different forecast.
-
-This creates doubt without theatrical disagreement.
-
-The system is not saying, "You are wrong."
-
-It is saying, "Here is what would have to be true for the other path to win."
-
-That is often a better cognitive tool.
-
-The eighth principle is source diversity with lineage.
-
-Showing three sources is not enough if all three copy the same source.
-
-A good research interface can show not only count but independence.
-
-Primary source.
-
-Independent analysis.
-
-Repetition of primary source.
-
-Contradictory source.
-
-This gives users a better picture of evidence strength than a row of citation icons.
-
-The ninth principle is time.
-
-Truth changes.
-
-A policy is current as of a date. A price is current as of a time. A forecast has a horizon. A person's role changes. A scientific consensus evolves. An election result is preliminary before certification.
-
-The interface should make temporal validity easy to see where it matters.
-
-"Verified from the current policy published August 2026" is more useful than "according to policy."
-
-"Based on sources available as of 10:32 a.m." may be essential in breaking news.
-
-Dates are not clutter when the claim expires.
-
-The tenth principle is correction visibility.
-
-If an answer changes because a source was corrected, tell the user when the difference matters.
-
-Products often prefer silent improvement. Silent improvement is fine for spelling and style. It can be wrong for consequential facts.
-
-A user who acted on the old answer needs more than a better future answer.
-
-The interface should treat correction as part of the relationship.
-
-This is especially important for persistent assistants. If the system remembered something wrong about the user and later corrects it, the user should have a way to see and edit the memory. Hidden memory changes can create invisible behavior changes.
-
-The eleventh principle is calibrated persona.
-
-A friendly voice does not have to sound omniscient.
-
-Warmth and certainty are separate dimensions.
-
-An assistant can say, "I found two plausible readings; the contract language is ambiguous" without becoming cold. It can say, "I couldn't verify that citation" without sounding incompetent. It can say, "You may be right, but the evidence I can access doesn't establish it" without becoming adversarial.
-
-This matters because many users experience excessive confidence as competence.
-
-Product writing can teach a different norm.
+This does not require a cold or defensive persona. Warmth and certainty are separate dimensions. An assistant can say, “I found two plausible readings; the contract language is ambiguous,” without sounding useless. It can say, “I couldn’t verify that citation,” without sounding broken. It can say, “You may be right, but the evidence I can access does not establish it,” without turning every interaction into an argument.
 
 Competence can sound like accurate boundaries.
 
-The twelfth principle is inspectable process language.
+That is a healthier norm than asking one friendly voice to feel equally authoritative across every task it performs. Model reliability is jagged. A system can be excellent at summarizing a supplied document, strong at code generation, weak at an obscure factual question, and dependent on a tool for arithmetic. One persona can hide those differences.
 
-Words such as checked, verified, remembered, confirmed, calculated, and found should correspond to actual operations.
+The product should help the user keep trust local.
 
-If the model says it checked, there should be something it checked against.
-
-If it says it remembers, there should be a retrievable record or user-authorized memory.
-
-If it says it calculated, the system should know the inputs and method.
-
-This prevents a subtle form of hallucination in which the interface invents its own epistemic process.
-
-The design language should not pretend the system did more than it did.
-
-All twelve principles point toward the same idea.
-
-Doubt should be structured.
-
-Not sprayed everywhere as generic hedging.
-
-Not hidden everywhere in the name of usability.
-
-Structured doubt appears at the boundary between evidence and action.
-
-It tells the user what is known, where it came from, what is missing, and what would change the conclusion.
-
-This is a more ambitious goal than reducing hallucination rates.
-
-A model can become dramatically more accurate and still live inside a product that trains users to misread residual errors. A product can use a less capable model and still become safer by preserving provenance, enforcing action gates, and representing missingness.
+This operation used a calculator. This claim came from the current source. This sentence is an inference. This field is still unverified. These sources disagree. This action can be reversed. That kind of structure is more useful than a global confidence percentage whose meaning nobody can explain.
 
 The system is the unit of trust.
 
-This should change how companies compete.
+A more accurate model can still sit inside a product that flattens provenance, suppresses uncertainty, retries after refusals until something fills the field, and turns suggestions directly into state changes. A less capable model can operate more safely inside a narrow workflow with strong sources, reversible actions, explicit missingness, and clear correction paths.
 
-The winning product should not merely be the one that answers fastest or appears most certain.
+Design has to carry some of the skepticism users cannot sustain manually.
 
-It should be the one that helps users know when certainty is earned.
+That should not make the future feel slower. A seat belt does not require a seminar. A browser can compress security state into a small signal. Spell-check can underline one uncertain word instead of warning that language is fallible. Version control can make rollback ordinary.
 
-That may sound like a slower future.
+AI needs comparable habits: small, legible signals at the places where a plausible answer is about to acquire authority.
 
-It need not be.
-
-The point of design is to make good behavior easy.
-
-A seat belt does not require a seminar. A browser's lock icon compresses security state. Version control makes rollback normal. A spell-check underline makes uncertainty local.
-
-AI needs its own equivalents.
-
-Small, legible signals that preserve the difference between plausible and supported.
-
-We will know the design has matured when users stop experiencing uncertainty as the machine failing to answer and start experiencing it as the machine accurately describing the state of knowledge.
+We will know the design has matured when uncertainty no longer feels like the machine failing to answer. Sometimes the system should answer decisively. Sometimes it should expose a source. Sometimes it should ask. Sometimes it should preserve two live interpretations. Sometimes it should leave a field blank. Sometimes it should stop at the boundary between a proposal and a consequence.
 
 Doubt is not a hole in the interface.
 
