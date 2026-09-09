@@ -27,4 +27,5 @@
 - [x] [Ch 16 — Failed Mysticism and Category Errors](manuscript/ch16-failed-mysticism.md)
 - [x] [Ch 17 — The Human Role Without Purpose-Talk](manuscript/ch17-human-role-without-purpose.md)
 - [x] [Ch 18 — Living Inside an Unfinished Physics](manuscript/ch18-living-inside-unfinished-physics.md)
+- [x] [Appendix A — Constraint-Selective Reachability](manuscript/appendix-a-constraint-selective-reachability.md)
 - [x] [Back Matter](manuscript/back-matter.md)
