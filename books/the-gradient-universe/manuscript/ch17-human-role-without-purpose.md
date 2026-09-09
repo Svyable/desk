@@ -94,6 +94,24 @@ Nonrenewable resources can be used sustainably in some practical senses if subst
 
 The relevant constraint can be the source, the sink, the infrastructure, the ecology, or the institution.
 
+Energy policy becomes clearer when we distinguish the physical input from the human service. People do not normally desire kilowatt-hours for their own sake. They want warm rooms, cold food, light, mobility, clean water, communication, industrial products, health care, and time saved from labor. The conversion chain between primary energy and those services can change radically while the service remains recognizable.
+
+The IPCC’s assessment of [demand, services, and social aspects of mitigation](https://www.ipcc.ch/report/ar6/wg3/chapter/chapter-5/) makes this distinction explicit: well-being is connected to services rather than to primary energy or material throughput as an end in itself. The same mobility can be supplied through a different urban form, vehicle, fuel, occupancy rate, or distance requirement. The same thermal comfort can be supplied through insulation, passive design, clothing, district heat, combustion, resistance heating, or a heat pump.
+
+This matters philosophically because it breaks an easy but false equation:
+
+more energy throughput = more human value.
+
+Sometimes more energy genuinely expands capability. Refrigeration, clean cooking, sanitation, hospitals, transport, and communication can transform lives. Sometimes better conversion or infrastructure provides more service with less input. Sometimes a reduction in throughput represents deprivation rather than efficiency. The physical number cannot tell us which case we are in.
+
+A kilowatt-hour saved because a home became better insulated is not equivalent to a kilowatt-hour “saved” because someone could no longer afford heating.
+
+Distribution enters the physics through access and the ethics through value.
+
+Two societies can consume the same total energy while distributing reliable services very differently. A hospital and a billboard may draw from the same grid. An efficiency improvement can lower costs for some users while a tariff change makes service unaffordable to others. A new transmission corridor can improve system reliability while imposing land-use burdens on particular communities.
+
+Thermodynamic efficiency is therefore not distributive justice.
+
 This is why the old collapse stories should be retired.
 
 Easter Island is not a clean parable in which a society cut down the last tree and therefore collapsed from “gradient failure.” Rapa Nui history includes deforestation, introduced rats, changing subsistence strategies, European contact, disease, slave raiding, and colonial violence; scholars have debated both the timing and severity of pre-contact social disruption. The Classic Maya decline was geographically uneven and involved drought, warfare, political fragmentation, land use, demographic pressure, and changing institutions rather than one exhausted resource. The Dust Bowl involved drought and damaging agricultural practices, but federal policy, commodity prices, land tenure, migration, and later conservation also belong to the explanation.
@@ -119,6 +137,22 @@ Reliability can require redundancy that looks inefficient in ordinary years. Con
 Physics makes trade-offs legible.
 
 It does not rank them for us.
+
+Power-system restoration gives a concrete example of why “how much energy exists?” and “what can the system do?” diverge. After a large blackout, generators and fuel can still exist across the territory while the synchronized grid is gone. Many large generators cannot simply start themselves from a completely dead network because their auxiliaries require electricity. Restoration therefore relies on *black-start* resources capable of energizing pieces of the system without an already operating grid.
+
+The National Laboratory of the Rockies describes [black start](https://www.nlr.gov/grid/black-start) as a critical restoration capability: isolated resources establish voltage and frequency, additional generators synchronize to them, and islands are gradually reconnected. The first useful watts after a blackout can therefore matter out of proportion to their quantity because they reopen pathways by which much larger dormant capacity becomes controllable.
+
+This is almost a perfect engineering analogue for the book’s recovery language.
+
+But it is not evidence for a new thermodynamic principle. Grid engineers already have restoration analysis, contingency planning, network models, reserves, protection systems, and reliability standards. Calling a black-start unit a “constraint that expands reachability” is useful only if it clarifies some comparison those mature tools leave obscure.
+
+The example earns its place because it makes one conceptual point vivid: *capacity can exist while capability is inaccessible*.
+
+A dead grid can contain gigawatts of machines and mountains of fuel. What it lacks is a physically realizable path from the current state back to synchronized operation. Recovery depends on sequence, topology, control authority, communication, auxiliary power, and time.
+
+Human institutions have analogous sequencing constraints without becoming electrical circuits. Emergency plans, inventories, trained operators, legal authority, communications, and trust can make resources usable during a crisis. Money in an account does not repair a bridge unless procurement, labor, materials, engineering, and permission can be assembled in time.
+
+The analogy should stop there. Social trust is not voltage. Institutional authority is not chemical potential. The shared concept is conditional accessibility, not a shared thermodynamic variable.
 
 Progress is another word that needs rescue from thermodynamic reduction. The old version claimed that growth occurs when civilizations access new gradients or use old ones more efficiently. Energy availability certainly matters to industrial capacity, mobility, food production, and material living standards. The industrial use of fossil fuels transformed what societies could physically do. Electrification changed production and domestic life. Modern medicine depends on reliable energy-intensive infrastructure.
 
