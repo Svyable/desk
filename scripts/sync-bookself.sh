@@ -1,5 +1,5 @@
 #!/bin/sh
-# Merge Bookself's canonical Reader runtime into this Desk while preserving
+# Sync Bookself's canonical Reader runtime into this Desk while preserving
 # Desk-owned shell/identity/override files.
 set -eu
 
