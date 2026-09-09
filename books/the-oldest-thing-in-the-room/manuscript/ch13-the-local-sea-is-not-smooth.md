@@ -1,0 +1,237 @@
+# The local sea is not smooth
+
+The phrase cosmic background encourages bad geometry.
+
+Background sounds uniform. A wash. Something spread evenly behind the interesting foreground objects. The cosmic microwave background is close enough to uniform in temperature that its anisotropies had to be amplified visually for humans to notice them, and even those anisotropies are primordial signals modified by later effects. We carry that picture over to relic neutrinos and imagine a featureless fog.
+
+The cosmological mean may be simple.
+
+The local distribution does not have to be.
+
+Massive neutrinos feel gravity. Once their velocities fall enough, the gravitational potentials of galaxies, clusters, and larger-scale structure can alter their trajectories and concentrate them relative to the homogeneous background. The effect is much weaker than for cold dark matter because relic neutrinos retain substantial thermal velocities, especially for low masses, but it is not zero in general.
+
+The local sea can have structure.
+
+That matters because a detector sits locally.
+
+Cosmological calculations usually begin with an average number density derived from the thermal history. An experiment in a laboratory needs the phase-space distribution at Earth: how many relic neutrinos are present in the relevant mass states, with what velocities and directions, after passing through the actual gravitational environment of the Milky Way and nearby universe.
+
+The difference between cosmic mean and local sample is another place where an apparently simple prediction acquires geography.
+
+A future detector does not capture “the universe average.”
+
+It captures whichever relic neutrinos happen to intersect the target.
+
+That sample can be biased by gravity.
+
+The amount of clustering depends strongly on neutrino mass. Very light neutrinos move too quickly to be strongly bound by a galactic potential. Heavier allowed states can cluster more. The local enhancement is therefore itself a potential source of information about the mass distribution, though interpreting it requires simulations and independent mass constraints.
+
+This creates a circular-looking but useful system.
+
+Mass affects clustering.
+
+Clustering affects capture rate.
+
+Capture rate may help constrain mass and quantum nature when combined with other measurements.
+
+The circle is broken by independent information.
+
+KATRIN constrains mass through beta decay. Oscillation experiments constrain splittings. Cosmology constrains the sum through structure. Galactic models constrain gravitational potentials. A relic detector adds local rate. The parameters are jointly inferred.
+
+This is how modern physics actually works more often than the textbook sequence of “measure one thing, solve one equation.”
+
+The local distribution has another source of structure: motion.
+
+The Solar System moves through the Milky Way. Earth orbits the Sun. The laboratory rotates with Earth. Even if the relic population were isotropic in some cosmic rest frame, an observer moving through it would see an anisotropic distribution. Add gravitational clustering and the preferred frame may be related more strongly to the galactic environment.
+
+In principle this could produce modulation in a sufficiently directional or velocity-sensitive detector.
+
+In practice, relic capture experiments are nowhere near the regime where detailed neutrino astronomy of this kind is routine. The first challenge is event detection. Directional sensitivity for sub-electronvolt relic neutrinos is a much more demanding problem.
+
+Still, the thought matters because it changes what “background” could eventually become.
+
+A background can become a sky.
+
+The microwave background did. At first it was an excess antenna temperature. Then it became a precision map of anisotropies and polarization. The diffuse X-ray background became resolvable into source populations with better telescopes. The extragalactic gamma-ray background is decomposed statistically into source classes. What begins as an undifferentiated background can acquire texture as instrumentation improves.
+
+The cosmic neutrino background might follow that arc over a much longer technical timescale.
+
+Detection first.
+
+Then perhaps rate changes.
+
+Then perhaps spectral structure.
+
+Then, in a far more ambitious future, directional information.
+
+The point is not to forecast technology confidently. It is to remember that “background” names our current information limit as much as it names the physical population.
+
+Nature does not know which part is foreground.
+
+We decide based on what we can resolve.
+
+Recent simulations of relic neutrino clustering have complicated the local picture further by emphasizing structures outside the Milky Way and primordial fluctuations in the neutrino distribution. A calculation that considers only a smooth cosmic background falling into a static galactic halo can miss anisotropies generated by the actual surrounding large-scale structure.
+
+The local sea is a dynamical inheritance.
+
+Relic neutrinos began with primordial perturbations. They free-streamed through evolving potentials. Structures grew around them. Their present distribution carries that history.
+
+A detector at Earth samples the endpoint of the trajectory ensemble.
+
+This is another case where the word relic can mislead. We think relic means untouched.
+
+A relic is something that survived.
+
+Survival and untouchedness are not the same.
+
+The neutrino background survived because weak interactions did not constantly rethermalize it. But gravity continued to act. The expansion of the universe continuously redshifted momenta. The phase-space distribution evolved collisionlessly under gravitational potentials.
+
+The right image is not a sealed time capsule.
+
+It is an old river whose water has crossed every later landscape without mixing much chemically with the banks.
+
+Even that metaphor overstates collisional behavior. But it preserves the key point: the route matters.
+
+This route can create information useful for astrophysics, not only cosmology.
+
+If a future experiment could measure directional anisotropy in the local relic-neutrino population, it might probe the gravitational environment through a messenger with very different phase-space behavior from dark matter or stars. The neutrinos would trace potentials according to their masses and primordial velocities.
+
+That prospect remains speculative because the detector requirements are formidable.
+
+But it shows why direct detection opens more than a binary existence test.
+
+Once you have events, you can ask whether they vary.
+
+Variation creates handles.
+
+Handles create maps.
+
+Maps create new degeneracies, and the cycle begins again.
+
+The local sea also exposes the danger of treating a theoretical “standard event rate” as a single sacred number.
+
+Capture-rate estimates often quote a baseline for a given tritium mass under a homogeneous relic density. Those estimates are useful. But any real prediction should specify assumptions about neutrino masses, Dirac or Majorana nature, clustering, target efficiency, and mixing.
+
+A number without assumptions becomes folklore.
+
+This is a problem across frontier physics. Dark-matter experiments quote benchmark cross sections and halo models. Gravitational-wave rate predictions depend on uncertain binary populations. Axion searches choose local dark-matter density and velocity distributions. Cosmic-ray models choose source populations and magnetic fields.
+
+Benchmarks are necessary because apparatus has to be designed around something.
+
+They are dangerous because engineering turns them into reality long before nature agrees.
+
+A detector optimized for one expected distribution can be less sensitive to an unexpected one.
+
+This is why robust experiment design tries to preserve information rather than collapse it too early. If possible, record more dimensions than the primary analysis needs. Keep timing. Keep position. Keep waveform. Preserve raw or minimally processed data where practical. Future questions may require features nobody knew to examine during construction.
+
+Scientific memory is part of detector design.
+
+The local relic sea makes this particularly important because theory will likely improve during the lifetime of any serious experiment. Simulations of clustering will become more detailed. Neutrino mass constraints will tighten. Galactic potential models will change. If the experiment records only a final event count, later reinterpretation is limited.
+
+If it records rich event-level information, the same data can answer questions not yet formulated.
+
+This is one of the hidden reasons long-running observatories become more valuable with age. Their archives accumulate both exposure and context.
+
+Old data can become new evidence after theory changes.
+
+Supernova 1987A neutrino events continue to constrain exotic physics decades after the burst because researchers can revisit the small event sample under new models. Historical solar-neutrino data can be reanalyzed. Collider datasets can be searched for signatures proposed after the data were collected.
+
+A record outlives the question that created it.
+
+The relic-neutrino background itself is the cosmic version of that fact.
+
+The universe generated the record before there was a question.
+
+Human beings now try to build an instrument capable of reading it.
+
+There is a pleasing symmetry, but it should not distract from the asymmetry in information preservation. The cosmic relic survived physically without being intentionally stored. Human data survive only if institutions maintain formats, documentation, hardware compatibility, repositories, and interpretive context.
+
+Nature’s archive and civilization’s archive fail differently.
+
+The neutrino distribution can be distorted by gravity but does not forget because a grant ends.
+
+A dataset can disappear because a disk failed.
+
+This difference matters when we talk about humans as “keepers” of cosmic information. We are not uniquely preserving the universe. The universe preserves enormous amounts of causal structure without us. What humans preserve is access: descriptions, calibrations, methods, and records that let later minds reconstruct the connection between an event and a claim.
+
+The value is interpretability.
+
+A file full of electron energies without detector conditions is not the same scientific object as a documented dataset.
+
+The local sea is also a reminder that location matters even for supposedly universal physics.
+
+The laws may be universal. The state is not.
+
+The weak-interaction capture cross section can be the same in Princeton and Gran Sasso, while the background environment, cosmic-ray flux, electromagnetic noise, and local gravitational frame differ. A detector’s physical location affects practical sensitivity.
+
+Underground laboratories exist because rock removes some backgrounds.
+
+The relic neutrinos ignore the rock.
+
+This is one of the rare cases where shielding improves the signal-to-background ratio by blocking almost everything except the signal.
+
+Not literally everything, of course. Radioactivity in surrounding materials remains. Muons still penetrate. Neutrons are produced. But the desired relic neutrino flux arrives through kilometers of rock essentially unattenuated.
+
+The planet itself is not an obstacle.
+
+This could produce a future day-night symmetry unlike solar-neutrino detection, where Earth matter effects can subtly alter flavor probabilities. For relic capture, the low-energy neutrinos traverse Earth without meaningful attenuation, although gravitational and quantum-state details deserve careful treatment in any precision calculation.
+
+The source is directionless enough, and penetrating enough, that the usual distinction between sky above and Earth below loses force.
+
+The detector is immersed.
+
+This word is finally useful if we remember that immersion does not imply thermal contact.
+
+The relic sea surrounds the apparatus in phase space.
+
+A tritium nucleus is a tiny opportunity for that sea to become an event.
+
+There is a scale mismatch here worth making concrete. The target contains an astronomical number of tritium atoms. Each atom waits. The relic population passes through. Almost all encounters are non-events because weak interaction probability is tiny. A few nuclei, over a long enough exposure, may capture.
+
+The experiment is an orchard planted under an invisible rain where almost every drop passes through the fruit without touching it.
+
+That image is physically wrong enough to be dangerous, but the absurdity is the point: ordinary matter metaphors assume contact probabilities near one when trajectories overlap. Neutrino physics does not.
+
+The local sea forces us to learn a different intuition.
+
+Overlap is not interaction.
+
+Presence is not effect.
+
+Effect is not record.
+
+Record is not interpretation.
+
+These are separate stages.
+
+The first half of this book has been trying to keep them separate because most mistakes about invisible reality come from collapsing them.
+
+A relic neutrino can be present in the room and produce no interaction.
+
+It can interact and produce an event the detector misses.
+
+The detector can record an event the analysis rejects.
+
+The analysis can retain an event that is actually background.
+
+A candidate sample can exist without a convincing interpretation.
+
+A claimed detection can exist without surviving replication.
+
+The chain is long because knowing is not the same as being affected.
+
+The local distribution adds one more link: what was physically available to affect the detector in the first place.
+
+That availability is not determined by cosmological averages alone.
+
+It is geographical in the largest sense.
+
+The Milky Way matters.
+
+The local large-scale structure matters.
+
+The motion of the laboratory matters.
+
+The mass spectrum matters.
+
+The oldest thing in the room arrives with an address.
