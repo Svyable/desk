@@ -1,439 +1,57 @@
 # Proof of Effort
 
-For a long time, difficulty left fingerprints on the finished object.
+For a long time, difficulty left fingerprints on the finished object. A long report implied time; a careful illustration, practice; a working software prototype, some threshold of technical competence. None of these inferences was safe. People plagiarized, outsourced, ghostwrote, copied, dictated, reused templates, and borrowed prestige long before artificial intelligence. But convincing work was expensive enough that the artifact often carried information about the path behind it.
 
-A long report implied time.
+Artificial abundance weakens that information before it necessarily weakens the artifact. A polished memo can still be useful. A prototype can still work. An illustration can still be beautiful. What changes is how much the finished thing tells us about what its maker can do, how long they attended to it, or whether anyone attended to it at all.
 
-A careful illustration implied practice.
+That matters because institutions routinely buy two things while pretending to buy one. A teacher asks for an essay to receive an essay and to cause thinking. An employer asks for a work sample to see the work and to learn something about the worker. A friend values a handmade gift partly as an object and partly as evidence that another person surrendered an afternoon that could have been spent elsewhere. When production costs collapse, the product and the evidence of its production come apart.
 
-A personalized letter implied attention.
+Economics has an old model for this problem. In 1973, Michael Spence described a labor market in which employers could not observe a worker's productivity before hiring and education could function as a signal. The useful part of the model here is narrower than the popular version of "signaling." It does not establish that education is merely theater, that effort reliably reveals quality, or that expensive things are trustworthy. A signal can separate when acquiring it imposes sufficiently different costs on different senders. Its information depends on the cost structure.
 
-A working software prototype implied somebody had crossed a threshold of technical competence.
+Change the cost structure and the inference can change with it.
 
-A fluent translation implied command of two languages or access to someone who had it.
+Generative AI does this to familiar artifacts. Professional prose used to provide some evidence that somebody could organize an argument and produce professional prose. A working prototype suggested access to programming skill. A personalized sales note suggested that somebody had at least bothered to look up the recipient. These were always probabilistic shortcuts, sometimes terrible ones. Surface polish could be bought through coaching, institutional access, native-language fluency, outsourced labor, or somebody else's time. AI does not corrupt a previously pure signal. It makes an already noisy one cheaper to reproduce.
 
-The connection was never perfect. People plagiarized, outsourced, copied, dictated, ghostwrote, reused templates, and passed off other people's work as their own long before artificial intelligence. But the cost of producing convincing work at scale imposed a kind of friction.
+The first-order productivity gain goes to the sender. The verification problem often goes to the receiver. A job applicant can produce a polished work sample faster; the employer may now spend more time discovering whether the applicant can explain it, alter it when a premise changes, find a bad assumption, or repair it when it breaks. A marketplace can make listing creation nearly free and spend more on screening. A school can save students drafting time and discover that teachers need better ways to establish what was learned. Abundance can remove cost from a transaction and also move cost across it.
 
-Effort was not proof of quality.
+Education makes the distinction unusually clear. An essay has never been a clean measure of understanding. A student can write badly while understanding the subject, write beautifully while misunderstanding it, receive help, memorize a pattern, or learn to please a grader. Still, producing a coherent essay usually forced some encounter with claims, evidence, sequence, and gaps in understanding.
 
-It was often evidence that something had happened.
+A generative system can remove much of that friction, which is not automatically a loss. A student with strong ideas and weak prose can communicate more clearly. A learner writing in a second language can participate more fully. A tutor can produce examples, objections, explanations, and practice at a scale no school could staff with people alone. The interesting failure is not that the document becomes too good. It is that the document may become a worse instrument for inferring what happened in the student's head.
 
-Artificial abundance weakens that evidence.
+So the assignment has to decide what it is for. If the school cares about transfer, ask the student to use the idea in an unfamiliar problem. If it cares about reasoning, let the student defend a choice and change it under pressure. If tool use is part of the capability being taught, banning the tool may produce a cleaner signal of the wrong skill.
 
-A polished artifact can now arrive without carrying reliable information about the path that produced it.
+Hiring faces the same problem. A coding exercise once demonstrated, imperfectly, that a candidate could produce working code under specified conditions. If competent code can now be generated during the exercise, the employer can make the exercise harder, prohibit the tool, inspect every keystroke, or ask a better question. Can the candidate specify the problem? Notice that the generated solution violated an unstated constraint? Debug code they did not write? Explain why a design is safe enough to ship? Use an agent well without outsourcing judgment to it?
 
-This creates a strange problem because human institutions use effort as a proxy far more often than they admit.
+The last option is uncomfortable because it admits that the old signal may deserve to die.
 
-A teacher assigns an essay partly to receive an essay and partly to cause thinking.
+Institutions often respond to a cheap signal by manufacturing a more expensive one. Another credential. Another interview. Another certification. A longer portfolio. A more elaborate audition. Some of these replacements improve measurement. Others merely move the tollbooth. A three-hour live exercise may tell an employer more than a take-home sample, but it also charges every candidate three hours. A detailed process log can expose judgment and quietly turn ordinary work into permanent surveillance. Manual-only rules can make cheating harder while selecting against people who are unusually good at using the tools the job actually requires.
 
-An employer asks for a work sample partly to obtain the sample and partly to learn what the applicant can do.
+Difficulty is not a public good.
 
-A client pays for a detailed analysis partly because the analysis is useful and partly because detail once suggested that somebody had investigated the problem.
+The better question is how much information a replacement produces for the burden it imposes on both sides. Sometimes process history is exactly the evidence we need: which alternatives were considered, what failed, what changed after feedback, which machine suggestions were rejected, where the person disagreed. A live defense can reveal whether someone understands work well enough to move it when the premises move. But there is no virtue in reconstructing process when the important property can be tested directly. If software has to satisfy a behavior, run it. If a component has to survive a load, test the load. If a service provider can offer meaningful recourse for failure, the guarantee may tell us more than the theatrical difficulty of producing the proposal.
 
-A friend values a handmade gift partly because of the object and partly because another person spent finite time making it.
+This is the strongest counterargument to proof-of-effort culture: cheaper generation can destroy wasteful signals as well as useful ones. A society that responds by making everybody suffer visibly has confused sorting with value.
 
-The artifact carries two products.
+The distinction changes again when the history of production is part of the product. Imagine two visually identical drawings. One took an artist three weeks by hand; the other was generated in thirty seconds. For an internal slide deck, the history may be irrelevant. For a collector buying that artist's hand, practice, and time, the history is inseparable from the thing. If the image is offered as evidence that an event occurred, neither kind of effort answers the important question. Now provenance does.
 
-The thing itself and evidence of the process behind it.
+The same object can therefore be valuable for function, craft, evidence, status, or relationship, and cheap generation does not reprice all of them equally. It mostly damages effort as an accidental proxy. That is why a handwritten note can gain meaning at the same moment that personalized prose becomes nearly free. The recipient may not care that the sentences were difficult to compose. They may care that somebody remembered, stopped, called, traveled, showed up, or changed a decision after listening.
 
-When generation becomes cheap, those products separate.
+Attention has a useful property here: a person cannot spend the same hour in two rooms. A model can write ten thousand birthday messages; a person still has one birthday dinner to attend that evening. A system can generate condolences in every possible tone; the recipient may still care whether someone came to the funeral. The scarce resource is not necessarily unaided production. It can be opportunity cost made credible.
 
-This is the problem of proof of effort.
+Technology has always reduced effort without abolishing care. A typed letter can be sincere. A purchased meal can be generous. Autofocus does not empty a photograph of judgment. The point is not to preserve obsolete labor so humans can keep displaying scars. It is to notice which scarce resource the receiver actually values: time, attention, reputation, risk, presence, judgment, responsibility.
 
-It is different from proof of human.
+Machines can help redirect those resources. A doctor can use a model to prepare an explanation and spend the saved time with a frightened patient. A teacher can generate practice material and spend more time watching where students struggle. A writer can use a system to find leads and spend more time deciding which claim survives contact with the sources. This is the optimistic bargain: efficiency removes labor from the part nobody valued and releases attention for the part they did.
 
-The question is not necessarily whether a human made the artifact. A person may use machines extensively and still do difficult, original, responsible work. A machine may contribute more words or code than the person while the person supplies the problem, constraints, judgment, verification, and accountability.
+Organizations do not always take the bargain. Save an hour and the target becomes another report, another campaign, another batch of messages. Output rises while nobody feels more attended to. The service grows more personalized in wording and less personal in consequence. A customer receives a note containing their name, purchase history, and preferences while correctly suspecting that no particular person would notice if the note were wrong.
 
-The more useful question is what the artifact demonstrates.
+Personalization is not attention. Attention means there was some responsible observer who could have noticed and changed course.
 
-What can we infer from seeing it?
+That distinction will itself become a signal, though not always a human one. A service guarantee backed by real money can signal confidence. A record of decisions and consequences can signal competence. References can carry weight when the referrer has a reputation at stake. A system may earn trust through repeated, independently measured performance. A human signature can matter when it converts an output into responsibility rather than merely decorating it with a name.
 
-Less than we used to.
+Signals will keep moving because the underlying problem remains: before committing, we often cannot directly observe the qualities we care about. Judgment, loyalty, creativity, leadership, and care do not submit neatly to a benchmark. Measures get gamed. Direct tests can be narrow. Performance can arrive too late to help the first buyer. Some proxies will survive because uncertainty survives.
 
-Economics has an old model for this kind of problem, although it was developed for a very different setting.
+But artificial abundance gives us a reason to be less sentimental about the proxies. A degree, a portfolio, a polished website, a long report, a personalized note, an immaculate piece of code: each may still be valuable. Each may also carry less information about its maker than it did when producing the surface was expensive.
 
-In 1973, Michael Spence described education as a possible signal in a labor market where employers could not directly observe a worker's productivity before hiring. The important mechanism was not that the signal had to create the underlying quality. A signal could influence beliefs if it was sufficiently costly in a way that differed across types of workers.
+The useful response is not to make the surface difficult again. It is to move the evidence closer to the quality we meant to measure.
 
-The model became famous enough that signaling is now used casually for almost any visible behavior. That casual use can blur the useful part.
-
-A signal matters only because the receiver believes the cost structure makes imitation difficult enough to carry information.
-
-Change the cost structure and the signal can decay.
-
-Artificial intelligence changes cost structures.
-
-A polished memo once suggested that somebody could organize an argument, use professional language, and devote time to the task. A working prototype suggested access to programming skill. A set of polished visual concepts suggested design labor. A personalized sales note suggested that somebody had researched the recipient.
-
-None of these inferences was ever guaranteed.
-
-They were probabilistic shortcuts.
-
-When the artifact becomes dramatically cheaper to produce, the shortcut weakens before institutions have necessarily built a replacement.
-
-That is the economic version of proof of effort.
-
-It does not say effort is honest.
-
-It says cost sometimes helped make a signal informative.
-
-Remove the cost and the receiver has to find evidence closer to the thing actually being measured.
-
-There is an important asymmetry here. The sender receives the productivity gain first. The receiver inherits the verification problem.
-
-If a job applicant can produce a polished work sample in minutes, the applicant saves time. The employer does not automatically save the same amount. It may now have to inspect more samples, ask different questions, run a live exercise, check references more carefully, or test whether the candidate can adapt the work when a premise changes.
-
-Cheap signaling can therefore move cost across the transaction rather than simply remove it.
-
-That incidence matters. A school may save students hours of drafting and spend more teacher hours establishing what was learned. A marketplace may make listing creation nearly free and spend more on moderation and fraud detection. A company may automate personalized outreach and impose more screening work on everyone receiving it.
-
-The abundance is real. So is the receiving-side tax.
-
-Consider education.
-
-An essay has always been an imperfect measure of understanding. A student can memorize, imitate, receive help, misunderstand the prompt, write badly despite understanding the material, or write beautifully while reasoning poorly. Teachers know this.
-
-Still, the assignment had a useful property: producing a coherent essay usually required the student to spend time arranging claims, selecting evidence, and confronting gaps in understanding.
-
-A generative system can remove much of that friction.
-
-This can be beneficial. A student with strong ideas and weak prose can communicate more clearly. A learner can receive explanations, examples, counterarguments, and feedback at a scale no school could previously staff. A student writing in a second language can participate more fully. The system can expose confusion rather than merely conceal it if the assignment is designed well.
-
-But a finished essay no longer tells the teacher as much about what happened in the student's head.
-
-The assignment may still produce an excellent document.
-
-The document is no longer sufficient evidence of learning.
-
-That distinction will spread.
-
-A coding test once demonstrated, imperfectly, that a candidate could produce working code under certain conditions. If competent code can be generated during the test, the employer has to decide what capability it actually wants to measure.
-
-Can the candidate specify the problem?
-
-Can they identify a bad assumption?
-
-Can they debug a system they did not write?
-
-Can they explain why a design is safe enough to ship?
-
-Can they use an agent effectively without becoming dependent on it?
-
-Can they recognize when generated code is elegant nonsense?
-
-The old test may survive, but its meaning changes.
-
-The same is true of portfolios.
-
-A designer can produce a gallery of polished concepts quickly. A writer can produce samples in several styles. A strategist can generate impressive frameworks. A junior analyst can arrive with the visual language of a senior consultant.
-
-This is democratizing in one sense. Surface polish becomes less tightly tied to money, training, and institutional access.
-
-It is destabilizing in another.
-
-The receiver needs new evidence of capability.
-
-One answer is process visibility.
-
-Instead of evaluating only the final artifact, an institution can inspect the trail of decisions that produced it.
-
-What was the original problem?
-
-What alternatives were considered?
-
-What changed after feedback?
-
-Which parts were generated?
-
-Which suggestions were rejected?
-
-Where did the person disagree with the system?
-
-What failed?
-
-What did they learn from the failure?
-
-This can reveal more than the polished final product ever did.
-
-A version history can become more informative than a screenshot.
-
-A conversation about rejected options can reveal more judgment than a perfect answer.
-
-A live defense can reveal whether the person understands the work well enough to adapt when a premise changes.
-
-The result is not necessarily a return to surveillance.
-
-There is a bad version of proof-of-effort culture in which every person has to document every keystroke to prove they did not cheat. That would turn abundance into bureaucracy and reward performative struggle. It would also misunderstand the purpose of tools. We do not ask accountants to prove they performed arithmetic by hand. We do not value a carpenter more because the carpenter refused a power saw.
-
-Effort is not sacred.
-
-The question is whether the process produced the capability, care, or relationship the institution is trying to measure.
-
-This is where signal replacement can become wasteful.
-
-When an old signal gets cheap, institutions often feel pressure to make the next signal expensive enough to be credible.
-
-The university adds another credential.
-
-The employer adds another interview.
-
-The profession adds another certification.
-
-The applicant builds a more elaborate portfolio.
-
-The customer demands a more theatrical display of service.
-
-The creator performs more visible labor because invisible labor is difficult to price.
-
-Some of these responses improve measurement.
-
-Some merely move the tollbooth.
-
-A harder test is not necessarily a better test. A longer hiring process can consume more candidate time without predicting job performance more accurately. A requirement that work be performed manually can make fraud harder while also excluding people who use tools well. A credential can protect a public standard or become a way for insiders to defend a rent.
-
-The failure of an old signal creates a design problem, not a command to manufacture new hardship.
-
-The cost of a replacement signal should be counted on both sides. A three-hour live exercise may give an employer better evidence than a take-home sample, but it also charges every candidate three hours. A new credential may restore confidence while shifting money and time toward the credentialing institution. A detailed process log may help an evaluator and quietly turn ordinary work into permanent audition.
-
-The right comparison is not old signal versus new signal in the abstract. It is the information gained from the replacement against the burden required to produce and inspect it.
-
-A signal can become more difficult and less informative at the same time.
-
-This distinction becomes especially important in creative work.
-
-Suppose two people give you the same beautiful image.
-
-One spent three weeks drawing it by hand.
-
-The other generated it in thirty seconds.
-
-If you need an image for a disposable internal presentation, the production history may not matter at all. The cheaper route is simply better.
-
-If you are buying an original drawing because you value the artist's hand, practice, and time, the history is part of the product.
-
-If the image documents an event, the question changes again. Now the important issue is not effort but whether the event occurred as represented.
-
-The same object can participate in several markets with different notions of value.
-
-Utility.
-
-Craft.
-
-Evidence.
-
-Status.
-
-Relationship.
-
-The mistake is assuming that cheaper production destroys all of them equally.
-
-It mostly destroys the reliability of effort as an accidental signal.
-
-That forces the market to ask what it actually cared about.
-
-Luxury goods make this unusually visible.
-
-A luxury object often contains labor that is not strictly necessary for function. Hand finishing, difficult materials, elaborate construction, limited production, and slow processes can become part of the appeal precisely because industrial efficiency could have removed them.
-
-The inefficiency is legible.
-
-It signals attention, scarcity, skill, and cost.
-
-Artificial abundance may create a cognitive version of this phenomenon.
-
-A handwritten note can become more meaningful when a perfect personalized message is trivial to generate.
-
-A live performance can become more valuable when recorded and generated music are inexhaustible.
-
-A person may pay to attend a small seminar not because information is scarce but because another person is present, paying attention, and responding in real time.
-
-A client may value an expert's signed opinion even when a system produced much of the underlying analysis because the signature converts output into responsibility.
-
-The scarce object is not necessarily the unassisted artifact.
-
-It is credible evidence of costly attention.
-
-Attention is costly because a person cannot give the same hour to two places.
-
-This property survives enormous increases in machine productivity.
-
-A model can write ten thousand birthday messages.
-
-A person still has one birthday dinner to attend that evening.
-
-A system can generate condolences in every possible tone.
-
-The recipient may still care whether the sender stopped what they were doing, remembered, called, traveled, or sat in the room.
-
-The meaning comes partly from opportunity cost.
-
-This is uncomfortable for technologies built to remove opportunity cost.
-
-Efficiency aims to let us get the same result with less time.
-
-Many human signals derive their meaning from the fact that time was spent.
-
-The contradiction cannot be solved by declaring one side authentic and the other fake.
-
-People have always used technology to reduce effort while preserving care. A typed letter can be sincere. A purchased meal can be generous. A photographer can use autofocus and still make a meaningful image. A musician can use digital tools and still perform something difficult and personal.
-
-The relevant question is whether the receiver believes some scarce human resource was actually committed.
-
-Time.
-
-Attention.
-
-Reputation.
-
-Risk.
-
-Presence.
-
-Judgment.
-
-These resources can be combined with abundant generation rather than opposed to it.
-
-A doctor may use a model to prepare an explanation and then spend the saved time discussing the patient's fears.
-
-A teacher may use generated practice material and spend more time observing where students struggle.
-
-A manager may automate routine feedback summaries and reserve attention for difficult conversations.
-
-A writer may generate research leads and spend more time deciding what is actually worth saying.
-
-The efficient tool can increase the amount of scarce attention available for the part that matters.
-
-But only if the saved time is actually redirected.
-
-Often it is not.
-
-An organization that saves an hour with automation may simply demand another unit of output. The worker produces more reports, more emails, more campaigns, more analysis, more code. The scarcity of attention remains, but the institution converts the dividend into volume rather than depth.
-
-This can create a paradoxical experience of abundance.
-
-Everyone produces more.
-
-Nobody feels more attended to.
-
-The inbox is fuller.
-
-The reports are longer.
-
-The service is more personalized in wording and less personal in relationship.
-
-A customer receives a message containing their name, purchase history, and preferences yet senses that no particular person would notice if the message failed.
-
-Personalization is not the same as attention.
-
-Attention implies that something could have been noticed and changed by a responsible observer.
-
-This distinction may become economically important because generated personalization can imitate many surface signals of care.
-
-The hotel message remembers your anniversary.
-
-The sales note references your company's recent announcement.
-
-The tutoring system knows which problems you missed.
-
-The support agent appears to understand the entire history of your account.
-
-Some of this will be genuinely useful. It may exceed human service in consistency and memory.
-
-But the abundance of personalized language also weakens personalization as evidence that someone cared enough to know.
-
-The signal moves again.
-
-Perhaps the meaningful gesture becomes the unscheduled phone call.
-
-Perhaps it becomes the fact that a person changed a decision after hearing you.
-
-Perhaps it becomes a service guarantee backed by real cost.
-
-Perhaps it becomes access to a human when the automated path fails.
-
-Perhaps it becomes the willingness to say no rather than produce another pleasing answer.
-
-Signals survive by becoming harder to fake.
-
-This happens throughout social life.
-
-When one signal becomes cheap, people search for another correlated with the underlying quality they care about.
-
-A degree signals knowledge until degrees become common or poorly matched to capability. A prestigious employer signals selectivity until titles inflate. A follower count signals attention until followers can be purchased. A polished website signals seriousness until every business can generate one in an afternoon.
-
-Artificial abundance accelerates this signal decay because it lowers the cost of reproducing visible competence.
-
-The response will be new forms of evidence.
-
-Some will be healthy.
-
-Demonstrated performance.
-
-References from people with reputations at stake.
-
-Auditable work histories.
-
-Live problem solving.
-
-Products that survived real users.
-
-Longitudinal records of decisions and consequences.
-
-Some will be wasteful.
-
-Artificial obstacles designed only to make effort visible.
-
-Excessive credentialing.
-
-Ceremonies of authenticity.
-
-Needlessly manual processes maintained because automation would weaken a status signal.
-
-Tests that become harder without becoming more relevant.
-
-Societies do this when old signals fail. We build new tollbooths because we still need to sort people and products, and sorting systems are rarely free.
-
-There is another possible response that is quieter and often better.
-
-Stop signaling when the thing can be measured directly.
-
-If a piece of software can be tested against the behavior that matters, the employer may need less evidence about how many hours the programmer spent producing it.
-
-If a student can explain a concept, transfer it to an unfamiliar problem, and defend the reasoning, the school may need less inference from the polish of a take-home essay.
-
-If a product survives standardized safety tests and performs reliably in use, the buyer may care less about the prestige of the workshop that made it.
-
-If a service provider offers meaningful guarantees and observable outcomes, some reputation premium can give way to performance evidence.
-
-Direct verification is a solvent for costly signaling.
-
-It does not work everywhere. Many qualities are hard to measure before commitment, and some are hard to measure even afterward. Judgment, loyalty, creativity, character, leadership, and care resist clean tests. Measures can be gamed. A proxy can become another signal with its own distortions.
-
-But the direction matters.
-
-Artificial abundance can force institutions to replace weak proxies with better evidence instead of simply inventing more expensive proxies.
-
-The danger is confusing difficulty with value.
-
-A task should not remain hard merely so the person completing it can prove worthiness.
-
-The opportunity is to design evidence closer to the quality we actually care about.
-
-If we care about learning, measure whether the student can reason, explain, transfer, and adapt.
-
-If we care about engineering, examine whether the system works, can be maintained, and survives failure.
-
-If we care about judgment, inspect the decisions made across uncertain situations.
-
-If we care about care, look for costly attention rather than elaborate language.
-
-If we care about responsibility, ask who remains accountable after generation ends.
-
-Artificial abundance does not make effort meaningless.
-
-It makes effort harder to infer from the artifact.
-
-That may be healthy.
-
-We were often rewarding visible difficulty because visible difficulty was easy to see.
-
-Now we have to decide what the difficulty was supposed to prove.
+Generative AI does not make effort worthless. It makes effort harder to infer from the artifact. That may turn out to be one of its healthier disruptions. We were often rewarding visible difficulty because visible difficulty was easy to see. Now we have to decide what the difficulty was supposed to prove.
