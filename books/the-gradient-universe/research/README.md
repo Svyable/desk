@@ -6,13 +6,14 @@ The book now asks a narrower question than its first draft did:
 
 > Can a physically motivated subset of work-maintained variables act as a useful **constraint coarse-graining**—one that predicts which disturbances remain recoverable under finite budgets better, more compactly, or more transferably than conventional state descriptions?
 
-The broader phrase **recursive thermodynamic reachability** remains useful as the book's historical route to this question. It should not be presented as a new reachability mathematics.
+The broader phrase **recursive thermodynamic reachability** remains useful as the book's historical route to this question. It should not be presented as new reachability mathematics.
 
-The first-principles passes have removed three increasingly tempting claims:
+The first-principles passes removed four increasingly tempting claims:
 
 1. there is no universal scalar called “future options per joule”;
 2. adaptive systems do not generally maximize raw reachability—useful gates often delete transitions;
-3. if architecture variables `c` themselves evolve, the enlarged state `z=(x,c)` turns the system into ordinary extended-state dynamics. Self-modification alone therefore does not create a new formal reachability object.
+3. if architecture variables `c` themselves evolve, the enlarged state `z=(x,c)` turns the system into ordinary extended-state dynamics, so self-modification alone does not create a new formal reachability object;
+4. predictive coarse-graining itself is established territory in statistical mechanics, dynamical-systems reduction, computational mechanics, causal-emergence work, and coarse-grained stochastic thermodynamics.
 
 The potentially publishable scientific residue is empirical and methodological: identify slower or persistent variables whose maintenance consumes measurable resources and whose causal effect is to reshape faster transition structure; then test whether that decomposition predicts recovery across disturbances with useful compression, transfer, and matched-resource causal specificity.
 
@@ -24,7 +25,7 @@ This is a conjecture and research program, not an established law.
 
 The manuscript relies on established thermodynamics, statistical mechanics, chemistry, physiology, evolutionary biology, dynamical systems, control theory, cybernetics, information theory, and climate science.
 
-That includes conservation laws, free energies and chemical potentials, exergy, chemiosmotic coupling, natural selection, reachable sets, viability kernels, robust control, state augmentation, geometric-mean fitness, bet hedging, Ashby's requisite variety, empowerment, information thermodynamics, minimum-energy control, control/architecture co-design, constraint closure, and measured microbial preparedness trade-offs.
+That includes conservation laws, free energies and chemical potentials, exergy, chemiosmotic coupling, natural selection, reachable sets, viability kernels, robust control, state augmentation, geometric-mean fitness, bet hedging, Ashby's requisite variety, empowerment, information thermodynamics, minimum-energy control, control/architecture co-design, constraint closure, predictive coarse-graining, and measured microbial preparedness trade-offs.
 
 None of those is a discovery of this book.
 
@@ -85,7 +86,7 @@ Therefore:
 
 This is one of the book's most important negative results.
 
-It turns the research problem into a coarse-graining problem: when is it useful to identify some variables as *constraints* rather than treating every microscopic variable symmetrically?
+It turns the research problem into a variable-selection and coarse-graining problem: when is it useful to identify some variables as *constraints* rather than treating every microscopic variable symmetrically?
 
 ## Constraint-quality criteria
 
@@ -97,7 +98,7 @@ A candidate constraint variable should pass five primary tests:
 4. **Transfer** — the decomposition remains useful across at least one disturbance or intervention not used to define it.
 5. **Competition** — it adds something beyond energy inventory, current dissipation, robust control, viability, empowerment, resource allocation, or the appropriate domain model.
 
-A sixth causal control is especially valuable: **matched extra resource**. Give the cheaper comparison system the same resource quantity spent on the proposed constraint without giving it the architecture itself. If extra resource alone reproduces the effect, the architecture-specific explanation is unnecessary.
+A sixth causal control is especially valuable: **matched extra resource**. Give the comparison system the same resource quantity spent on the proposed constraint without giving it the architecture itself. If extra resource alone reproduces the effect, the architecture-specific explanation is unnecessary.
 
 See [When Is a Constraint a Useful State Variable?](constraint-coarse-graining-criteria.md).
 
@@ -108,6 +109,7 @@ See [When Is a Constraint a Useful State Variable?](constraint-coarse-graining-c
 - [Appendix A — Constraint-Selective Reachability](../manuscript/appendix-a-constraint-selective-reachability.md) — dimensional analysis, viable disturbance sets, and the minimal fluctuating-environment bridge.
 - [Appendix B — Requisite Variety Under a Physical Budget](../manuscript/appendix-b-requisite-variety-under-budget.md) — cybernetic ancestry and the fact that useful regulation may shrink raw reachability.
 - [Appendix C — The Conjecture Reduced](../manuscript/appendix-c-the-conjecture-reduced.md) — state augmentation removes formal novelty from self-modifying reachability and leaves a coarse-graining/prediction claim.
+- [Appendix D — The Variable Problem](../manuscript/appendix-d-the-variable-problem.md) — microscopic completeness versus predictive usefulness, and the proposal that some work-maintained structures may earn status as recovery-relevant macroscopic variables.
 
 ### Formal and computational audit
 
@@ -121,13 +123,15 @@ See [When Is a Constraint a Useful State Variable?](constraint-coarse-graining-c
 
 ### Experimental and novelty apparatus
 
+- [Dormancy constraint benchmark](dormancy-constraint-benchmark.md) — preregistered comparison of energy/activity variables against structural/regulatory variables for recovery, with held-out prediction, intervention, matched-resource, and domain-model controls.
 - [Constraint coarse-graining criteria](constraint-coarse-graining-criteria.md) — intervention, cost, compression, transfer, matched-resource, and model-comparison requirements.
 - [Experimental protocol](reachability-experiment-protocol.md) — preregisterable path from physical architecture to held-out recovery and competition.
 - [Experimental candidate ranking](experiment-candidate-ranking.md) — ranks candidate domains by discriminating power rather than narrative appeal.
 - [Scientific figure specifications](reachability-diagrams.md) — figures that keep measured quantities, model-derived sets, and evolutionary outcomes separate.
-- [Recursive thermodynamic reachability](recursive-thermodynamic-reachability.md) — broader historical conjecture and implications.
+- [Recursive thermodynamic reachability](recursive-thermodynamic-reachability.md) — broader historical conjecture and implications, now explicitly non-novel as a mathematical object.
 - [Closest prior art](reachability-prior-art.md) — control, viability, constraint-closure, non-equilibrium-capacity, and 2025–2026 guardrails.
 - [Cybernetics and information prior art](cybernetics-information-prior-art.md) — Ashby, Good Regulator, empowerment, feedback thermodynamics, and sensory-capacity guardrails.
+- [Coarse-graining prior art](coarse-graining-prior-art.md) — Mori–Zwanzig, predictive states, causal emergence, Markov blankets, and coarse-grained thermodynamics.
 - [Source ledger](source-ledger.csv) — claim-to-source trail.
 
 ## Model ladder
@@ -162,11 +166,26 @@ Once architecture becomes dynamic, ordinary augmented-state dynamics can represe
 
 This is the formal point at which the research program stops seeking new mathematics and starts testing whether a **constraint-oriented reduced description** earns empirical value.
 
-### Model 4 — required empirical model
+### Model 4 — dormancy recovery benchmark
 
-The next serious model must be estimated from a real physical system. It needs measured transition rates or reaction propensities, independently justified viability boundaries, physical action/constraint costs, a declared disturbance process, and recovery/fitness outcomes withheld until prediction.
+The first real benchmark is now specified rather than merely suggested.
 
-This is the first stage capable of producing scientific evidence.
+Bollen et al. (2025) report a progression in *E. coli* protein aggregates from more liquid-like condensates toward more solid structures, with aggregate maturation impairing dissolution and recovery: https://doi.org/10.1038/s41467-025-56387-8 .
+
+Taher et al. (2026) provide a complementary case in which nitrogen starvation sharply increases persisters without a corresponding fall in ATP; low PyrBI is implicated and PyrBI overexpression reduces persistence: https://doi.org/10.1038/s41467-026-75914-9 .
+
+A 2026 perspective emphasizes the broader metabolic heterogeneity of bacterial persistence: https://doi.org/10.1038/s41467-026-71427-7 .
+
+The preregistered comparison is deliberately adversarial:
+
+- `M_energy`: ATP/activity/energetic variables;
+- `M_structure`: aggregate or pathway-state variables;
+- `M_joint`: energy plus candidate constraint variables;
+- `M_domain`: strongest study-specific conventional model.
+
+A positive result requires held-out predictive gain plus a causal intervention in the predicted direction. A matched-resource control is required for the stronger thermodynamic interpretation.
+
+The Bollen source-data deposit has been identified, but the spreadsheet bytes have not yet been loaded into a reproducible analysis environment. No reanalysis result is claimed until the original tables are actually ingested and checked. Figure digitization will not be substituted for source data.
 
 ## Experimental strategy after the novelty stress test
 
@@ -174,10 +193,10 @@ Several attractive examples have been demoted because their headline claim is al
 
 - **Proteome reserve, growth–lag trade-offs, and anticipatory regulation:** benchmark/null cases. Existing microbial physiology already quantifies present-growth costs paid for future preparedness.
 - **Metabolic-currency controllability:** close extension target, not a clean novelty target. The 2026 PRX Life work already links environmental complexity, currency balance, greater controllability, and greater thermodynamic cost.
-- **Dormancy:** high conceptual value but crowded mechanistic prior art on ATP, protein aggregation, membrane state, and resuscitation. A useful result must predict recovery earlier or more transferably than those established variables.
+- **Dormancy:** now the first empirical benchmark because present energetic state and future recoverability can separate in experimentally specific ways. Success still requires outperforming the published aggregate/PyrBI mechanisms rather than renaming them.
 - **Fuel-driven compartments:** clean causal physics but an active field already contains chemically fueled compartments, vesicles, coacervates, and transport. Novelty would require a preregistered recovery-boundary test, not merely showing that fuel maintains a compartment.
 
-The best immediate step is therefore **not to hunt for the most dramatic biological story**. It is to take one experimentally tractable system with strong competing models and ask whether the constraint decomposition passes the five quality criteria above.
+The best immediate step is therefore not to hunt for the most dramatic biological story. It is to take a tractable recovery problem with strong competing models and ask whether the constraint decomposition passes the quality criteria above.
 
 A failure on a well-understood benchmark is more informative than an apparent success in a poorly characterized system.
 
@@ -191,7 +210,7 @@ The book must not claim to have invented:
 - empowerment or future-control channel capacity;
 - information thermodynamics of measurement and feedback;
 - semantic information tied to viability;
-- memory improving sensing/control;
+- predictive coarse-graining or minimal predictive states;
 - geometric-mean fitness or bet hedging;
 - costly microbial preparedness or anticipatory regulation;
 - minimum-energy reachability or energetic resilience;
