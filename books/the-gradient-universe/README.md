@@ -29,4 +29,5 @@
 - [x] [Ch 18 — Living Inside an Unfinished Physics](manuscript/ch18-living-inside-unfinished-physics.md)
 - [x] [Appendix A — Constraint-Selective Reachability](manuscript/appendix-a-constraint-selective-reachability.md)
 - [x] [Appendix B — Requisite Variety Under a Physical Budget](manuscript/appendix-b-requisite-variety-under-budget.md)
+- [x] [Appendix C — The Conjecture Reduced](manuscript/appendix-c-the-conjecture-reduced.md)
 - [x] [Back Matter](manuscript/back-matter.md)
