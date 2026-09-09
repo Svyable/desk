@@ -18,15 +18,13 @@ The dispatcher does not need to become the best firefighter, physician, police o
 
 Artificial intelligence has mostly been demonstrated as an answer machine. The format is natural because answers are easy to show. A prompt goes in; a paragraph, image, diagnosis, plan, or program comes out. The before-and-after is clean enough for a stage.
 
-Allocation is harder to demonstrate because its successes are often invisible. The important act may be the question the system refuses to answer, the case it escalates, the specialist it interrupts, the document it retrieves, the expensive model it decides not to call, or the few extra seconds it spends checking a claim before anyone acts.
-
-As machine intelligence becomes cheaper, those decisions become more important rather than less.
+Allocation is harder to demonstrate because its successes are often invisible. The important act may be the question the system refuses to answer, the case it escalates, the specialist it interrupts, the document it retrieves, the expensive model it decides not to call, or the few extra seconds it spends checking a claim before anyone acts. As machine intelligence becomes cheaper, those decisions become more important rather than less.
 
 Imagine a company in which any employee can summon competent analysis on almost any routine question at negligible marginal cost. One scarcity has weakened: there are no longer only so many analyst-hours available. But the company has not escaped scarcity. Managers must absorb more proposals. Someone must decide which questions deserve deeper work. Someone must verify outputs that carry consequences. Systems must store more context. Operators must know when automated work can proceed and when it needs permission.
 
 The company may discover that strategy became cheap before executive attention did.
 
-Herbert Simon described an earlier version of this inversion in 1971. In a world rich with information, he argued, the scarce resource becomes the attention that information consumes. The same pattern appears whenever abundance arrives unevenly. Cheap computation can increase the value of clean data and reliable software. Cheap photography increases the value of selection. Cheap communication can make trusted filtering more important.
+Herbert Simon described an earlier version of this inversion in 1971: in a world rich with information, the scarce resource becomes the attention that information consumes. The same pattern appears whenever abundance arrives unevenly. Cheap computation can increase the value of clean data and reliable software. Cheap photography increases the value of selection. Cheap communication can make trusted filtering more important.
 
 Cheap intelligence can make judgment about the use of intelligence more valuable.
 
@@ -38,11 +36,9 @@ WHO emergency-triage guidance begins from that reality. Patients are not simply 
 
 Triage is not a lesser form of diagnosis. It serves a different purpose.
 
-That distinction matters for artificial intelligence because much of our cultural picture of intelligence comes from examinations. A problem is fully stated. The student sits alone. An answer is produced and scored. Many AI evaluations inherit the same geometry.
+That distinction matters for artificial intelligence because much of our cultural picture of intelligence comes from examinations: a problem is fully stated, the student sits alone, an answer is produced and scored. Many AI evaluations inherit the same geometry, but real institutions rarely enjoy it.
 
-Real institutions rarely enjoy it.
-
-The first useful act may be to decide what kind of problem this is. Or which piece of missing information matters most. Or whether the case can safely wait. Or whether the right move is not to solve the problem at all but to route it to somebody else.
+The first useful act may be to decide what kind of problem this is, which piece of missing information matters most, whether the case can safely wait, or whether the right move is not to solve the problem at all but to route it to somebody else.
 
 A good dispatcher asks for an address before delivering a lecture on fire behavior.
 
@@ -68,11 +64,9 @@ There is no universal rule that the highest predicted risk should always be firs
 
 The difficult question is not whether to rank. Large systems already rank, explicitly or by default. The difficult question is which values enter the ranking and which remain invisible.
 
-Arrival order is a value. Severity is a value. Expected benefit is a value. Cost is a value. Fairness is a value. Continuity is a value. Randomness can be a value when no morally relevant distinction justifies choosing one person over another.
+Arrival order is a value, as are severity, expected benefit, cost, fairness, and continuity. Randomness can be a value when no morally relevant distinction justifies choosing one person over another.
 
-A sophisticated allocator can still be wrong because it optimized the wrong ordering.
-
-That possibility should make us cautious about calling allocation merely an efficiency problem. Faster routing is useful only if the destination is legitimate. An exquisitely optimized system that consistently sends scarce attention toward the already powerful may be efficient in the narrow sense and corrupt in the important one.
+A sophisticated allocator can still be wrong because it optimized the wrong ordering, a possibility that should make us cautious about calling allocation merely an efficiency problem. Faster routing is useful only if the destination is legitimate. An exquisitely optimized system that consistently sends scarce attention toward the already powerful may be efficient in the narrow sense and corrupt in the important one.
 
 The dispatcher metaphor has limits here. Emergency communications operate inside a comparatively clear mission: get the right help to an urgent event. Many institutions have contested missions. A university decides whom to admit. A government decides which risks justify inspection. A company decides which customers deserve human support. A platform decides which speech receives distribution. In these cases the allocator is not only recognizing the world. It is also helping define what the institution treats as important.
 
@@ -82,9 +76,7 @@ Scores do not eliminate judgment. They relocate it into data selection, objectiv
 
 The practical consequence is that routing systems need governance at the same level as the decisions they materially shape. A low-stakes recommender can tolerate ordinary product experimentation. A queue that determines access to medical review, public benefits, or legal attention deserves a different standard. The model may never sign the final form. It can still decide whose form reaches a human while there is time to matter.
 
-Allocation distributes attention, but it also distributes delay, exposure, and the opportunity to be reconsidered.
-
-This is one reason benchmark performance can mislead. A system can be weaker than a human expert and still make an organization better if it handles routine triage well enough to protect expert attention. A system can be stronger than any individual and still make an organization worse if it produces so much analysis that downstream decision makers become the bottleneck.
+Allocation distributes attention, but it also distributes delay, exposure, and the opportunity to be reconsidered, which is one reason benchmark performance can mislead. A system can be weaker than a human expert and still make an organization better if it handles routine triage well enough to protect expert attention. A system can be stronger than any individual and still make an organization worse if it produces so much analysis that downstream decision makers become the bottleneck.
 
 Capability and allocation are related, but they are not the same variable.
 

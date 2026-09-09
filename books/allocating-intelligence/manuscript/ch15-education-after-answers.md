@@ -1,12 +1,8 @@
 # Education After Answers
 
-School has always contained tasks whose immediate product nobody needs.
+School has always contained tasks whose immediate product nobody needs. A teacher already knows the answer to the algebra problem. The world does not require another five-paragraph essay about a novel. A chemistry student repeats an experiment whose result has been known for generations. A language learner performs awkward conversations no fluent speaker would choose.
 
-A teacher already knows the answer to the algebra problem. The world does not require another five-paragraph essay about a novel. A chemistry student repeats an experiment whose result has been known for generations. A language learner performs awkward conversations no fluent speaker would choose.
-
-The work exists because the product is not the point.
-
-The student is.
+The work exists because the product is not the point; the student is.
 
 Artificial intelligence makes this easier to forget because it can produce the visible product while bypassing the invisible transformation. An essay appears. A solution arrives. A translation is correct. Code compiles. From the standpoint of output, the task is complete. From the standpoint of learning, it may never have begun.
 

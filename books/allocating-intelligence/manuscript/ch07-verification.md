@@ -1,14 +1,10 @@
 # Verification
 
-A factory can make products faster than it can discover they are defective.
-
-Production systems learned this problem long before generative AI. Speed enlarges the batch. If an abnormality remains invisible, one mistake can become a pile of mistakes before anybody understands what changed.
+A factory can make products faster than it can discover they are defective, a problem production systems learned long before generative AI. Speed enlarges the batch. If an abnormality remains invisible, one mistake can become a pile of mistakes before anybody understands what changed.
 
 Toyota's idea of jidoka grew partly from machinery that could stop when something went wrong rather than requiring one person to watch one machine continuously. A broken thread or other abnormal condition could become a signal instead of continuing invisibly through production.
 
-The important point is easy to state and harder to build into an institution.
-
-Automation becomes more useful when failure becomes easier to notice.
+The important point is easy to state and harder to build into an institution: automation becomes more useful when failure becomes easier to notice.
 
 That relationship matters for artificial intelligence because generation is becoming cheap while evaluation often remains expensive.
 

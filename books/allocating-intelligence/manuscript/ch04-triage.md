@@ -1,20 +1,14 @@
 # Triage
 
-Triage begins with an admission that would sound cruel anywhere else: not everyone can be treated first.
-
-The admission is not the cruelty. The scarcity is.
+Triage begins with an admission that would sound cruel anywhere else: not everyone can be treated first. The admission is not the cruelty; the scarcity is.
 
 In a busy emergency setting, patients arrive with different injuries, different risks, and different clocks. The person who entered the building first may be able to wait. Someone who arrived later may not survive the same delay.
 
-Triage creates a provisional order from incomplete information.
-
-It does not promise that the first classification is a diagnosis. It promises something narrower and more urgent: enough understanding to decide what should happen next.
+Triage creates a provisional order from incomplete information. It does not promise that the first classification is a diagnosis. It promises something narrower and more urgent: enough understanding to decide what should happen next.
 
 Artificial intelligence will make this kind of problem more common because cheap analysis does not create unlimited capacity for consequential action. Questions can multiply faster than experts, beds, investigators, managers, inspectors, teachers, or repair crews.
 
-Systems must sort before they solve.
-
-Computer interfaces often imply the opposite. A query enters and an answer returns. Every admitted task appears to deserve completion. Real institutions abandon, defer, batch, redirect, sample, and escalate constantly. A mature cognitive system needs the right to say not only “I do not know” but also “this can wait” and “this belongs somewhere else.”
+Systems must sort before they solve, though computer interfaces often imply the opposite. A query enters and an answer returns. Every admitted task appears to deserve completion. Real institutions abandon, defer, batch, redirect, sample, and escalate constantly. A mature cognitive system needs the right to say not only “I do not know” but also “this can wait” and “this belongs somewhere else.”
 
 At small scale, answering requests in arrival order can feel hospitable. At large scale, it becomes a policy. The fastest typist, the loudest department, or the software process capable of producing the most requests can consume the queue.
 
