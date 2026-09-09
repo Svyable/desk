@@ -609,3 +609,13 @@ The invisible coalition is not invincible.
 It is difficult because it has no single head.
 
 The defense should stop looking for one and learn to govern the joints.
+
+The supply-chain view also changes what evidence of coordination should look like. Similar content is weak evidence by itself. People copy one another. News cycles synchronize attention. Advocacy groups legitimately share material. A useful investigation needs to distinguish common cause from common control.
+
+That distinction suggests a record built around relationships rather than ideological resemblance. Which accounts or vendors shared payment infrastructure? Which contractor had authority over several nominally independent personas? Which campaign identifier connected otherwise different creative? Which model or distribution service received the same objective? Which party could change the behavior of the system when something went wrong?
+
+The answer will often be incomplete. That is preferable to filling the gaps with a theory of conspiracy. A network can be described at different confidence levels: shared infrastructure is observed; common funding is documented; control is inferred; downstream adoption is organic. Keeping those layers separate makes enforcement more credible and protects legitimate participation from being absorbed into the operation merely because citizens repeated a message after encountering it.
+
+It also gives the participants in the supply chain a clearer defensive duty. A provider does not need to know the politics of every customer. It needs enough records to answer for the capabilities it supplied and enough process to respond when credible evidence shows those capabilities are being abused. The narrower the duty, the easier it is to enforce without turning infrastructure firms into political referees.
+
+The invisible coalition is difficult precisely because real coordination and emergent alignment can coexist. Governance gets stronger when it can say which one it actually found.

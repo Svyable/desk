@@ -609,3 +609,9 @@ It is invisible principalship.
 The person thinks they are speaking with their agent.
 
 Somebody else quietly holds the contract.
+
+Invisible principalship also has a temporal problem. A service can begin with one business model and acquire another after the user has spent years teaching it how to be useful. The conflict arrives late, after switching costs and trust have accumulated. A disclosure buried in revised terms does not recreate the choice the user had before dependence formed.
+
+That makes changes in principal or objective more important than ordinary feature updates. If a personal agent begins accepting political sponsorship, selling preferential placement, or using private memory for third-party persuasion, the user should encounter that change as a new relationship rather than as a quiet continuation of the old one. The useful question is not whether the provider technically disclosed the change somewhere. It is whether the person can understand what new party has acquired influence over the interval between question and action.
+
+An agent that remembers on the user's behalf should also remember its own institutional changes well enough to answer a basic question: who was I serving when I made this recommendation?
