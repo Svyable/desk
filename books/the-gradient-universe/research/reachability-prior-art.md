@@ -6,178 +6,220 @@ This note exists to prevent the manuscript from claiming novelty that belongs to
 
 The book must not claim to have invented:
 
-- reachable sets or viability kernels;
+- reachable sets, viability kernels, or energy-feasible reachability;
+- state augmentation for dynamics whose architecture changes through time;
 - the idea that control has energetic or thermodynamic costs;
-- energetic resilience as the extra control energy required after loss of control authority;
-- architecture/controller co-design that trades hardware or architecture cost against controllability and performance;
+- energetic resilience as extra control energy after loss of control authority;
+- architecture/controller co-design;
+- Ashby's requisite variety or the Good Regulator tradition;
+- information-theoretic future control or empowerment;
+- thermodynamics of measurement, feedback, memory, and information flow;
 - the idea that living systems preserve latent capacity during dormancy;
-- the idea that biological organization depends on self-maintained constraints;
-- the idea that information can be evaluated by its contribution to viability;
-- the idea that adaptive systems can be studied through distributions or geometries of unrealized future trajectories;
-- viability-geometric accounts of persistence under perturbation;
-- the general idea that future-option structure matters for agency, resilience, or biological function.
+- biological organization as self-maintained or closed constraints;
+- semantic information evaluated through viability;
+- distributions or geometries of unrealized accessible future trajectories;
+- costly microbial preparedness, bet hedging, growth–lag trade-offs, or anticipatory regulation;
+- thermodynamic cost–controllability trade-offs in metabolic currencies;
+- the general idea that future control structure matters for resilience, agency, or biological function.
 
-Each of those already has relevant prior art.
+Each has substantial prior art.
+
+## The first-principles novelty reduction
+
+Suppose
+
+\[
+\dot{x}=f(x,e,u;c),
+\qquad
+\dot c=g(x,e,u;c).
+\]
+
+Defining the enlarged state \(z=(x,c)\) gives an ordinary dynamical system
+
+\[
+\dot z=F(z,e,u).
+\]
+
+So a system changing its own architecture does not by itself require a new reachability formalism. Standard reachability, viability, stochastic control, and physical cost functionals can be applied to the enlarged state when the model is tractable.
+
+This eliminates any novelty claim based merely on the word *recursive*.
+
+The remaining scientific possibility is a **coarse-graining claim**: selected slower or persistent, work-maintained variables may form a compact “constraint architecture” whose interventions causally reshape faster transition/recovery dynamics and whose independently measured costs help predict held-out recovery across disturbances.
+
+That decomposition earns value only through prediction, compression, transfer, and intervention.
 
 ## Very close prior art
 
+### Viability and reachability
+
+Jean-Pierre Aubin's viability theory formalizes states from which controls can keep a system inside prescribed constraints.
+
+Primary review: https://doi.org/10.1137/0328044
+
+Lakatos and Stumpf apply reachable-set computation to stochastic biochemical systems:
+
+https://doi.org/10.1098/rsos.160790
+
+Control theory also studies minimum-energy and energy-feasible reachability. Any phrase such as “reachable states under an energy budget” is therefore established territory.
+
+### Energetic resilience under loss of control authority
+
+Padmanabhan and Ornik quantify additional control energy needed after partial loss of control authority:
+
+https://doi.org/10.1016/j.automatica.2026.112898
+
+The book must not market energy-versus-reachability accounting as new.
+
+### Ashby and the cybernetic control problem
+
+W. Ross Ashby's *An Introduction to Cybernetics* develops the law of requisite variety: effective regulation is constrained by the variety of disturbances and responses.
+
+Archival source: https://doi.org/10.5962/bhl.title.5851
+
+Conant and Ashby's Good Regulator theorem is another direct ancestor:
+
+https://doi.org/10.1080/00207727008920220
+
+The book must not claim to have discovered that a regulator requires an adequate response repertoire or internal model structure.
+
+### Empowerment
+
+Klyubin, Polani, and Nehaniv introduced empowerment as an information-theoretic channel-capacity measure of potential action-to-future-sensation control:
+
+https://doi.org/10.1109/CEC.2005.1554676
+
+“Future options,” “future control,” and “influence over possible outcomes” are not new concepts merely because the book arrives at them from thermodynamics.
+
+### Information thermodynamics and sensory memory
+
+Sagawa and Ueda and later information-thermodynamics work formalize measurement and feedback costs and bounds:
+
+- https://doi.org/10.1103/PhysRevLett.104.090602
+- https://doi.org/10.1103/PhysRevE.85.021104
+- https://doi.org/10.1103/PhysRevX.4.031015
+
+Sensory-capacity work explicitly analyzes memory, information, and thermodynamic efficiency in cellular sensing:
+
+https://pubmed.ncbi.nlm.nih.gov/26986297/
+
+The book cannot claim that physical memory or feedback becomes valuable only because it changes future control; that territory is already developed.
+
 ### Life as Counterfactual Geometry — 2026
 
-A 2026 paper titled **“Life as Counterfactual Geometry: An Adversarial Theory of Biological Function”** explicitly treats biological function through the geometry and stability of distributions over unrealized but accessible future trajectories. It develops a counterfactual manifold over future paths and discusses resource-gated boundedness.
+**“Life as Counterfactual Geometry: An Adversarial Theory of Biological Function”** explicitly treats function through distributions and geometry of unrealized accessible future trajectories:
 
-Primary link: https://doi.org/10.3390/e28030255
+https://doi.org/10.3390/e28030255
 
-This is close enough that the book must not present “future geometry,” “counterfactual futures,” or “accessible future trajectories” as a novel contribution by themselves.
+Future geometry by itself is therefore unavailable as a novelty claim.
 
-The candidate distinction left open for this book is narrower: **thermodynamically budgeted reachability leverage attributable to a specific endogenously constructed constraint**, including explicit accounting for the work required to build and maintain that constraint.
+### Non-equilibrium capacity
 
-### Non-equilibrium capacity — Youk
+Hyun Youk proposes non-equilibrium capacity as retained ability to generate, sustain, or restart life-associated dynamics, including dormancy:
 
-Hyun Youk proposes **non-equilibrium capacity (NEC)** as the retained ability of a living system to generate, sustain, or restart life-associated dynamics, including from dormant states.
+https://doi.org/10.1016/j.newton.2025.100358
 
-Primary link: https://doi.org/10.1016/j.newton.2025.100358
+The book must not claim to discover latent capacity in low-throughput living states.
 
-The book must not claim to have discovered the idea that a dormant system can retain latent nonequilibrium capability despite low present activity.
+### Dormancy depth and resuscitation physiology
 
-A legitimate extension would be to ask whether NEC can be operationalized with thermodynamically constrained reachability or viability methods, and whether that operationalization predicts reactivation or failure before outcome labels are known.
+Mechanistic work already links ATP, dynamic protein aggregation, chaperone-mediated disaggregation, and dormancy depth to bacterial resuscitation:
+
+https://doi.org/10.1016/j.molcel.2018.10.022
+
+Additional VBNC work links ATP and metabolic pathways to resuscitation:
+
+- https://doi.org/10.1016/j.jare.2023.08.002
+- https://doi.org/10.1128/jb.00208-24
+
+A reachability treatment of dormancy is scientifically interesting only if it predicts recovery earlier, more compactly, or more transferably than these established physiological variables.
 
 ### Thermodynamic cost–controllability trade-off — 2026
 
-Jumpei F. Yamagishi and Tetsuhiro S. Hatakeyama published **“Thermodynamic Cost-Controllability Tradeoff in Metabolic Currency Coupling”** in PRX Life on 3 September 2026.
+Yamagishi and Hatakeyama's PRX Life paper derives a thermodynamic cost–controllability trade-off in coupled metabolic currencies:
 
-Primary link: https://doi.org/10.1103/4bqh-zhry
+https://doi.org/10.1103/4bqh-zhry
 
-The paper shows that greater independent controllability of coupled metabolic currencies can require higher thermodynamic cost.
+Their abstract already argues that complex environments can favor comparably sized currency pools and greater controllability despite higher thermodynamic cost, while simpler environments can favor cheaper imbalance.
 
-The book therefore must not claim to have discovered the general idea that controllability costs dissipation.
+The book therefore cannot claim the general “complex environments make costly controllability worth it” prediction as new.
 
-A distinct test would couple a known control cost to a calculated **robust viable reachable-set gain** under a specified environmental disturbance process, then test whether that gain predicts when the cost becomes adaptive.
+Any extension must predict a specific finite-time recovery or demand boundary not already captured by their controllability metric.
 
-### Energetic resilience under loss of control authority — 2026
+### Constraint closure
 
-Ram Padmanabhan and Melkior Ornik published **“Approximate energetic resilience of nonlinear systems under partial loss of control authority”** in *Automatica* in 2026.
+Montévil and Mossio formalize biological organization as closure of constraints:
 
-Primary link: https://doi.org/10.1016/j.automatica.2026.112898
+https://doi.org/10.1016/j.jtbi.2015.02.029
 
-The paper quantifies the extra control energy required for nonlinear systems to achieve reachability objectives after partial actuator/control-authority loss. This is very close to any claim that “loss of reachability has an energetic cost.”
+Lehman and Kauffman connect constraint closure to origin-of-life transitions:
 
-The book must therefore not market energy-versus-reachability accounting as a new control-theoretic idea.
+https://doi.org/10.3390/e23010105
 
-The candidate distinction is again narrower and biological/nonequilibrium: **the system itself spends work to create or maintain a constraint that changes its later viable reachable set**, and the experiment asks whether that endogenous investment is favored under specified environmental variation.
+Self-maintained constraints are not a new idea.
 
-### Control and architecture co-design
+### Semantic information and viability
 
-Control engineering already contains a substantial literature on selecting sensors, actuators, communication links, plant parameters, and controller structure while trading architecture cost against achievable performance, controllability, robustness, energy use, or feasibility. This includes contemporary mixed-integer controller/architecture co-design as well as decades of actuator-placement and control-effort work.
+Kolchinsky and Wolpert connect semantic information, autonomous agency, and viability within nonequilibrium statistical physics:
 
-The book must not claim that paying for architecture to gain control authority is new in engineered systems.
+https://doi.org/10.1098/rsfs.2018.0041
 
-The potentially distinct scientific question is whether an analogous **endogenous constraint-investment relation** can be defined and tested in driven chemical or living systems without importing an engineer's externally specified objective after the fact.
+The book must not claim to be first to connect information to physical viability.
 
-### Viability geometry and persistence — 2026
+### Microbial preparedness and fluctuating environments
 
-Recent work also develops viability-geometric frameworks for adaptive or persistent systems, explicitly using reachable perturbations, collapse boundaries, and stabilization mechanisms.
+Mori et al. quantify a proteome reserve whose present cost enables faster response after nutrient improvement:
 
-The book must therefore avoid presenting “persistence as geometry of viable states” as unique.
+https://doi.org/10.1038/s41467-017-01242-8
 
-Its remaining target is the thermodynamic price and causal contribution of a *particular self-produced physical constraint* to that geometry.
+Basan et al. measure a growth–lag trade-off:
 
-### Semantic information, autonomous agency, and viability
+https://doi.org/10.1038/s41586-020-2505-4
 
-Kolchinsky and Wolpert connect information, autonomous agency, and a specified viability function within nonequilibrium statistical physics.
+Experimental and theoretical work on bet hedging and anticipatory regulation already establishes that present growth can be sacrificed for future performance under variable environments.
 
-Primary link: https://doi.org/10.1098/rsfs.2018.0041
+A 2026 PRX Life paper further models evolutionary learning of environmental transition statistics through proteome allocation:
 
-The book must not claim to be the first to connect information to physical viability.
+https://doi.org/10.1103/rqj5-pqvt
 
-A distinct extension would measure whether a physical memory or informational constraint changes the thermodynamically budgeted set of viable future states or the cost of reaching them.
+These are benchmark/null cases for the book, not evidence of novelty.
 
-### Biological organization as closure of constraints
+### Driven compartments and dissipative assembly
 
-Montévil and Mossio formalize biological organization as a closure of constraints: processes maintain constraints that in turn act on other processes.
+Chemically fueled vesicles, transient compartments, coacervates, and active transport already exist in a broad dissipative-assembly literature. Representative links include:
 
-Primary link: https://doi.org/10.1016/j.jtbi.2015.02.029
+- https://doi.org/10.1002/syst.201900044
+- https://doi.org/10.1038/nchem.2511
+- https://doi.org/10.1002/adma.201706750
+- https://doi.org/10.1038/s41565-018-0250-8
+- https://doi.org/10.1021/jacs.5c18600
+- https://doi.org/10.1021/acs.nanolett.6c02653
 
-Lehman and Kauffman connect constraint closure to major transitions in origins-of-life scenarios.
-
-Primary link: https://doi.org/10.3390/e23010105
-
-The book must not claim that self-maintained constraints are a new idea.
-
-The proposed extension is to quantify what a given constraint changes in the later control problem: **what future states, disturbances, or targets become physically reachable because work was invested in that constraint?**
-
-### Reachability in biochemical systems
-
-Lakatos and Stumpf apply control-theoretic reachable-set methods to stochastic biochemical systems under uncertainty.
-
-Primary link: https://doi.org/10.1098/rsos.160790
-
-The book must not claim that reachable sets are new to systems biology.
-
-The proposed extension is to integrate physical work/exergy budgets, endogenous constraint construction, robust viability, and selection-relevant perturbation distributions in one experiment.
-
-## Broader foundations
-
-### Macroscopic stochastic thermodynamics
-
-Falasco and Esposito review the emergence of macroscopic thermodynamics from stochastic descriptions and provide a modern foundation for nonequilibrium work, currents, fluctuations, and entropy production.
-
-Primary link: https://doi.org/10.1103/RevModPhys.97.015002
-
-### Active matter dissipation across scales
-
-Bebon, Robinson, and Speck provide a thermodynamically consistent treatment of dissipation across scales in active matter.
-
-Primary link: https://doi.org/10.1103/PhysRevX.15.021050
-
-This is a natural domain for separating instantaneous dissipation from the repertoire of robust collective states.
-
-### Principles of emergent organization
-
-A 2024 Physics Reports review emphasizes that physics still lacks basic general principles of spontaneous self-organization and that defining structure itself remains difficult.
-
-Primary link: https://doi.org/10.1016/j.physrep.2024.04.001
-
-This sets the appropriate ambition: a proposed principle should solve a precisely stated subproblem rather than declare a universal fourth law.
+A synthetic-compartment experiment would need a preregistered, matched-resource recovery-boundary prediction; fuel-maintained assembly itself is not the contribution.
 
 ## Narrow novelty boundary worth testing
 
-After accounting for the work above, the strongest candidate claim left for *The Gradient Universe* is:
+After the reductions above, the strongest candidate is no longer a new reachability object.
 
-> In a driven chemical or living system, a physically instantiated constraint that is constructed or maintained by the system itself can be assigned a thermodynamic cost and a separately predicted causal effect on the system's robust viable reachable set. Under a predeclared disturbance process, selection can favor that endogenous constraint when the future viability/reachability it adds outweighs its energetic and material cost, even when the constraint lowers instantaneous power or entropy production.
+It is this empirical proposition:
 
-Even this should be described as a **candidate synthesis and testable conjecture** until a more exhaustive literature review, mathematical derivation, and experiment establish that the formulation is genuinely new and useful.
+> For some driven biological or chemical systems, a small set of physically motivated, work-maintained variables can form a constraint coarse-graining that causally predicts robust recovery across held-out disturbances after their costs are measured independently. The decomposition should provide useful compression, transfer, or intervention predictions beyond standard domain variables and neighboring control/information measures.
 
-The novelty cannot be “energy affects control,” “architecture affects reachability,” “future options matter,” or “viability has a geometry.” All of those are occupied territory.
+Even this should be described as a **candidate decomposition and research program** until data support it.
 
-The novelty, if any, has to come from the full causal loop:
+## Strongest possible experiment
 
-1. the system consumes a measured nonequilibrium resource;
-2. part of that resource is invested in a specific physical constraint;
-3. the constraint changes later accessible transitions;
-4. the resulting reachability change is predicted before the future disturbance occurs;
-5. the constraint's cost and reachability gain jointly predict when it is retained, selected, or beneficial;
-6. competing power, growth, resilience, and standard control models fail to explain the same threshold as well.
+A high-value first experiment should include:
 
-If any one of those pieces is missing, the claim becomes much closer to existing work.
+1. a full enough state description to support a conventional baseline model;
+2. a proposed smaller constraint-variable subset chosen before held-out tests;
+3. independent construction/maintenance cost measurements;
+4. a predeclared viability/recovery criterion;
+5. a disturbance family with held-out perturbations;
+6. direct intervention or ablation of the candidate constraint;
+7. a matched-extra-resource control;
+8. comparison against viability, robust control, resource allocation, energy inventory, dissipation, empowerment/information measures, and the strongest domain model;
+9. a transfer test in a second disturbance class.
 
-## Strongest possible paper-shaped experiment
+If the constraint decomposition merely renames state variables or does not improve prediction, compression, transfer, or causal interpretation, the scientific novelty claim should be abandoned.
 
-A high-value first paper would not attempt to prove a universal law.
-
-It would choose a system where control cost is measurable, such as a synthetic chemical network or engineered microbial regulatory architecture.
-
-Before experiment:
-
-1. define the system boundary;
-2. define the physical resource budget;
-3. define the viable state set;
-4. define the disturbance distribution;
-5. calculate the robust reachable sets of competing architectures;
-6. calculate the energetic cost of the added constraint/control architecture;
-7. predict a parameter threshold at which the reachability gain should outweigh the cost.
-
-Then test whether persistence, recovery, or fitness changes near the predicted threshold.
-
-If a simpler model based on power, growth rate, energy inventory, ordinary robustness, control energy, or standard co-design metrics predicts the result equally well, the reachability formulation has not earned novelty.
-
-That is the standard the book should set for itself.
+That is now the standard the book sets for itself.
