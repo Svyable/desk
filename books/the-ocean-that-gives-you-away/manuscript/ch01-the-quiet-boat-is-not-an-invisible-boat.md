@@ -1,0 +1,13 @@
+# The Quiet Boat Is Not an Invisible Boat
+
+A submarine commander cares about one practical question: who knows where the boat is? The ocean does not care. The ocean registers the hull whether an adversary notices or not.
+
+That is the first correction. Stealth is not absence. It is failure of an observer to extract a useful signal from a background in time to act. This sounds pedantic until one starts listing what a submerged vehicle must do simply by existing. A steel pressure hull modifies the local magnetic field. A moving body displaces water and produces a hydrodynamic wake. Propulsion and onboard machinery reject heat. Cathodic protection and corrosion processes participate in an electrically conductive environment. Ballast and trim alter local pressure fields. A reactor-powered boat produces heat and trace effluents within whatever engineering constraints its designers impose. The vehicle crosses density layers that may preserve disturbances. It can provoke plankton. It can drag a history behind it.
+
+Most of these effects are small compared with the ocean around them. That sentence is more important than the list. The sea is not a black laboratory tank. It is full of ships, storms, fronts, internal waves, biological patches, current shear, magnetic crustal structure, salinity gradients, rain, surfactants, fishing fleets and sunlight changing by the minute. A signature that is obvious in a flume can disappear in weather. A detector that sees a target at one kilometer may be strategically irrelevant if the search area is a million square kilometers.
+
+This is why the phrase non-acoustic detection is simultaneously exciting and misleading. There is no single replacement for sonar hiding inside it. There are many weak physical channels with different ranges, geometries, persistence times and false-positive burdens. Magnetic anomaly detection is already real enough that the U.S. Navy's MK 30 training target deliberately reproduces a submarine-like magnetic anomaly for aircraft crews. That is a useful anchor. The argument need not begin with rumor.
+
+The interesting possibility begins after that anchor. If one sensor only works close, another can cue it. If a wake is broad but ambiguous, it can narrow a search box. If satellite imagery suggests an unusual surface line, an aircraft can inspect the region. If distributed unmanned systems reduce the cost of persistence, weak signals become more useful because the observer can stay around longer.
+
+The sea may never become transparent. Transparency is the wrong benchmark. A room can remain dark while becoming less private.
