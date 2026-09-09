@@ -72,33 +72,49 @@ The reachability conjecture does not replace constraint closure.
 
 It asks what constraint closure *buys*.
 
-A constraint has what I will call **reachability leverage** when the work invested in creating or maintaining it expands the system's later viable possibilities under a matched physical budget.
+An earlier version of this conjecture used the phrase **reachability leverage** for the gain produced by a constraint. The first-principles version needs more discipline than that phrase suggests.
 
-The cleanest version is set-valued rather than scalar. Imagine two otherwise comparable architectures, one with constraint \(c\) and one without it. Under the same external resources and the same predeclared disturbance set, ask whether the constrained architecture can remain viable in every future the unconstrained one can handle, plus at least one additional future.
+There is no universal lawful exchange rate between joules and “number of futures.” Work has physical units. A reachable set is set-valued. A probability of surviving a declared disturbance distribution is dimensionless. Reproductive success introduces another mapping. Dividing one by another does not create a new invariant merely because the quotient looks scientific.
 
-If so, the constraint has positive reachability leverage over that time horizon.
+The primitive comparison should therefore remain a **cost–capability relation**.
 
-If the constraint consumes resources and closes more useful futures than it opens, its leverage is negative.
+Imagine two otherwise comparable architectures, one with constraint \(c\) and one without it. Charge the constrained architecture for construction, maintenance, and use. Under the same declared external resources and disturbance family, ask which perturbations it can survive, which recovery targets remain reachable, and at what physical cost.
 
-This is deliberately different from saying that the constraint is “more efficient,” “more complex,” or “more ordered.” Those words are too easy to manipulate. A storage tank may lower efficiency and increase reachability. Redundant organs may consume more resources and increase reachability. A safety margin may reduce peak output and increase reachability. A useless regulatory circuit may consume ATP and decrease reachability.
+The effect can be positive, negative, or mixed.
 
-The sign has to be measured.
+And here the first-principles argument makes a second correction.
 
-There is a reason not to begin by assigning a single number to the reachable set. The “volume” of a state space depends on coordinates and coarse-graining. A system can appear to have more possible states merely because the modeller chose more variables or rescaled an axis. A serious theory should first compare inclusion, robust viability under a declared disturbance family, or target reachability under declared tasks. Scalar summaries can come later, once the measure has a physical interpretation.
+A useful constraint does not necessarily expand the total reachable set.
+
+It can shrink it.
+
+A membrane excludes molecules. A checkpoint stops a cell-cycle transition. An inhibitory circuit blocks an action. A safety interlock makes some machine states inaccessible. Development closes cell fates that were once possible. Repair machinery can remove damaged configurations from the future repertoire.
+
+Suppose an unconstrained chemical network has ten accessible reactions: four lead toward recoverable states and six toward irreversible failure under a particular environment. A regulator blocks five reactions, leaving three recovery routes and two damaging routes. Raw reachability has fallen from ten paths to five. Yet the distribution of accessible outcomes has moved toward viability.
+
+That is not “more options.”
+
+It is **constraint-selective viable reachability**.
+
+The relevant question is not whether the reachable-set volume grew. It is whether the physical constraint changed a preregistered set of viable recoveries or survivable disturbances in a favorable way after its costs were counted.
+
+There is a reason not to begin by assigning a single number to the reachable set. The “volume” of a state space depends on coordinates and coarse-graining. A system can appear to have more possible states merely because the modeller chose more variables or rescaled an axis. A damaged system can also have many reachable futures if most of them are routes to failure.
+
+A serious theory should first compare set inclusion, target reachability, recovery cost, or survival under a declared disturbance family. Scalar summaries can come later, once the environment or engineering objective supplies a physically meaningful measure.
 
 This immediately improves on maximum-dissipation thinking in one respect.
 
-It can explain why a system may rationally — or evolutionarily — dissipate *less now*.
+It can explain why a system may dissipate *less now* without treating lower dissipation as a new universal objective.
 
-A shorted battery can produce a large current and destroy nearly all future electrical options. A controlled discharge preserves some future options while delivering work. A spore suppresses metabolism but retains the capacity to reactivate. A hibernating mammal lets body temperature and metabolic rate fall to protect stored chemical resources. A plant closes stomata during drought even though doing so reduces carbon uptake and photosynthetic throughput. A microbe activates stress responses that slow growth.
+A shorted battery can produce a large current and destroy nearly all future electrical options. A controlled discharge preserves useful operating states while delivering work. A spore suppresses metabolism but retains the capacity to reactivate. A hibernating mammal lets body temperature and metabolic rate fall to protect stored chemical resources. A plant closes stomata during drought even though doing so reduces carbon uptake and photosynthetic throughput. A microbe activates stress responses that slow growth.
 
-In each case, the system trades present rate for future reachability.
+In each case, present rate is being traded against later capability.
 
-Natural selection provides a mechanism by which that trade can accumulate in biology without invoking any thermodynamic purpose. Heritable architectures that preserve more fitness-relevant future options in the environments actually encountered can leave more descendants. The target remains reproductive success. Reachability is a physical intermediate variable, not a replacement definition of fitness.
+Natural selection provides a mechanism by which that trade can accumulate in biology without invoking thermodynamic purpose. Heritable architectures that preserve fitness-relevant recovery routes in the environments actually encountered can leave more descendants. The target remains reproductive success. Reachability is a physical intermediate variable, not a replacement definition of fitness.
 
 That distinction is essential.
 
-An organism could possess a huge repertoire of metabolically reachable states that never matter in its environment and gain no fitness advantage. Another could be narrowly specialized and dominate a stable niche. The environment determines which parts of the reachable set are valuable to selection.
+An organism could possess a huge repertoire of metabolically reachable states that never matter in its environment and gain no fitness advantage. Another could be narrowly specialized and dominate a stable niche. The environment determines which parts of the reachable set are relevant to selection.
 
 This is one reason the proposal should not be phrased as “nature maximizes options.”
 
@@ -106,17 +122,17 @@ That would simply replace one empty optimization slogan with another.
 
 The more defensible conjecture is conditional:
 
-**In variable environments, heritable constraints with positive thermodynamic reachability leverage can be favored even when they reduce instantaneous power, efficiency, or entropy production.**
+**In variable environments, heritable constraints that improve budget-admissible viable recovery can be favored even when they reduce instantaneous growth, power, or entropy production.**
 
 That statement can fail.
 
 It also connects to current research in a way that gives us something concrete to test.
 
-On September 3, 2026, Jumpei Yamagishi and Tetsuhiro Hatakeyama published a result in *PRX Life* showing a thermodynamic cost–controllability trade-off in metabolic currency coupling: https://doi.org/10.1103/4bqh-zhry . Their model concerns ATP, GTP, NAD(P)H, and the difficulty of independently controlling coupled metabolic currencies. Greater controllability can require comparable metabolite pools and therefore greater entropy production.
+On September 3, 2026, Jumpei Yamagishi and Tetsuhiro Hatakeyama published a result in *PRX Life* showing a thermodynamic cost–controllability trade-off in metabolic currency coupling: https://doi.org/10.1103/4bqh-zhry . Their model concerns ATP, GTP, NAD(P)H, and the difficulty of independently controlling coupled metabolic currencies. Greater controllability can require comparable metabolite pools and therefore greater thermodynamic cost.
 
 That result is close enough to this book's territory that intellectual honesty demands we say exactly what it does and does not leave open.
 
-It establishes neither a universal reachability principle nor a general theory of adaptation. But it shows that *control itself has a thermodynamic price* in a biologically meaningful model. A next question is whether systems paying that price gain a measurably larger viable response repertoire under environmental variation, and whether that gain predicts when the cost is evolutionarily worth paying.
+It establishes neither a universal reachability principle nor a general theory of adaptation. But it shows that *control itself can have a thermodynamic price* in a biologically meaningful model. A next question is whether systems paying that price gain a measurably different viable response repertoire under environmental variation, and whether that change predicts when the cost is evolutionarily worth paying.
 
 That is a reachability question.
 
@@ -132,11 +148,29 @@ That is one of the sharpest questions this book can now ask.
 
 If the answer is no, the reachability conjecture may be only an analogy. If the answer is yes, dormancy becomes more than a counterexample to maximum dissipation. It becomes a test case for measuring latent physical capability.
 
+There is important evolutionary prior art here too. Geometric-mean fitness and microbial bet hedging already explain why slower or apparently wasteful strategies can win in fluctuating environments. Beaumont and colleagues experimentally evolved stochastic phenotype switching in *Pseudomonas fluorescens* under changing selection: https://doi.org/10.1038/nature08504 . Horiguchi and Kobayashi have also studied optimal control of stochastic reaction networks with an explicit entropic control cost and emergent mode switching: https://doi.org/10.1103/zttn-tpzq .
+
+So a simple result that “costly flexibility wins when environments fluctuate enough” would not be a discovery of this book.
+
+The candidate contribution must sit one level lower.
+
+Can the survival or recovery advantage be predicted from the physical architecture and thermodynamic budget *before* the competition is observed?
+
+Appendix A makes that question explicit with a minimal model. If hazards arrive at rate \(\lambda\), a control architecture pays a continuous log-growth cost \(c\), and its per-hazard survival factor is \(s_1\) rather than \(s_0\), then under the stated Poisson assumptions the crossover occurs at
+
+\[
+\lambda^*=\frac{c}{\ln(s_1/s_0)}.
+\]
+
+That inequality is not the new science. It is the bridge.
+
+The research program succeeds only if \(s_1/s_0\) can be predicted independently from the measured constraint and a budgeted viability/reachability model, and if that prediction adds something beyond simply measuring survival first and fitting fitness afterward.
+
 Stochastic thermodynamics gives us tools for the cost side of that measurement. Falasco and Esposito's 2025 *Reviews of Modern Physics* article on macroscopic stochastic thermodynamics develops a bridge from trajectory-level nonequilibrium descriptions toward macroscopic deterministic dynamics: https://doi.org/10.1103/RevModPhys.97.015002 . Thermodynamic uncertainty relations and related bounds show that precision, current fluctuations, response, and dissipation can be quantitatively linked under specified assumptions.
 
 Active-matter physics offers another experimental arena. Bebon, Robinson, and Speck's 2025 *Physical Review X* paper tracks dissipation across scales in active matter and makes the relationship between microscopic fueling and collective behavior explicit: https://doi.org/10.1103/PhysRevX.15.021050 .
 
-A natural experiment would be to construct active systems with comparable energy budgets but different feedback, storage, or structural-memory mechanisms. Measure both their dissipation and the set of macrostates or perturbations they can recover from. If instantaneous dissipation predicts performance as well as the reachability structure does, the conjecture has added little. If systems with lower current dissipation but higher reachable viability survive a wider perturbation family, the distinction becomes physically meaningful.
+A natural experiment would be to construct active systems with comparable energy budgets but different feedback, storage, or structural-memory mechanisms. Measure both their dissipation and the set of macrostates or perturbations they can recover from. If instantaneous dissipation predicts performance as well as the reachability structure does, the conjecture has added little. If systems with lower current dissipation but better viable recovery survive a wider preregistered perturbation family, the distinction becomes physically meaningful.
 
 Information adds another layer without becoming magic.
 
@@ -166,7 +200,7 @@ A cell can contain nutrients yet lose membrane integrity or redox control. A mit
 
 The raw stock is not always the limiting variable.
 
-The reachable set can collapse first.
+The viable response set can collapse first.
 
 That observation suggests another prediction: in at least some systems approaching failure, a robust reachable-set metric should deteriorate earlier than bulk energy inventory or average energy throughput.
 
@@ -194,7 +228,7 @@ It might solve a smaller one.
 
 Instead of asking why the universe “prefers complexity,” ask when work invested in a structure changes the future set of physically viable processes enough for that structure to persist, reproduce, or be selected.
 
-Instead of asking whether life maximizes dissipation, ask which constraints let a lineage survive a wider distribution of future conditions per unit of physical cost.
+Instead of asking whether life maximizes dissipation, ask which constraints preserve the particular recovery routes that matter in the environments a lineage actually encounters, at what physical cost.
 
 Instead of treating agency as a mysterious substance, ask whether the system can use sensed or modeled information to alter its future control landscape before committing scarce resources.
 
@@ -208,11 +242,11 @@ The reachability conjecture can be tested first in systems simple enough to meas
 
 Build two synthetic driven chemical assemblies with matched fuel. Let one spend nearly all input on immediate turnover. Let the other spend part of the input forming a persistent compartment, catalyst distribution, or storage species. Then expose both to a preregistered family of future forcing protocols. Does the constraint-bearing system remain viable or reach target states that the high-throughput system cannot? Is the gain large enough after counting the work used to build the constraint?
 
-Engineer microbial strains with different regulatory costs and expose them to constant versus fluctuating environments with the same mean resource flux. Does the costly-control strain lose in the constant environment and win beyond a predictable variability threshold because its viable response set is wider?
+Engineer microbial strains with different regulatory costs and expose them to constant versus fluctuating environments with the same mean resource flux. Does the costly-control strain lose in the constant environment and win beyond a predicted variability threshold because its physical recovery repertoire differs?
 
 Take dormant and dead cells with similar present metabolic rates. Can a measurable reachable-state assay distinguish latent capacity before reactivation occurs?
 
-Use programmable active matter. Does feedback-induced structure expand the set of recoverable macrostates even when total dissipation falls?
+Use programmable active matter. Does feedback-induced structure preserve recoverable macrostates even when total dissipation falls?
 
 These experiments could fail cleanly.
 
@@ -232,14 +266,16 @@ The most ambitious defensible statement is therefore not that nature maximizes r
 
 It is this:
 
-**Work can be invested in physical constraints that change a system's later viable reachable set. Under variable environments, selection or design can favor constraints with positive reachability leverage even when those constraints reduce present dissipation or power.**
+**Work can be invested in physical constraints that reshape a system's later viable control and recovery possibilities. Under variable environments, selection or design can favor a costly constraint even when it reduces present growth, dissipation, power, or raw reachability.**
 
 That proposition is less grand than maximum entropy production.
 
 It explains more of what maximum entropy production gets wrong.
 
-It gives storage, membranes, repair, redundancy, dormancy, memory, and planning a common physical description without pretending they are the same phenomenon.
+It gives storage, membranes, repair, redundancy, dormancy, memory, inhibition, and planning a common physical question without pretending they are the same phenomenon.
 
 And unlike “the universe prefers complexity,” it points toward measurements.
+
+Appendix A carries the first-principles derivation, limiting cases, and the toy crossover model. The research folder contains the LaTeX formalization, hierarchical proof audit, simulation, and preregisterable experiment protocol.
 
 The next chapter has one job: try to kill it.
