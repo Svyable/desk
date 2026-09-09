@@ -4,538 +4,92 @@ On February 5, 2026, the National Institute of Standards and Technology publishe
 
 *Accelerating the Adoption of Software and Artificial Intelligence Agent Identity and Authorization.*
 
-The document was bureaucratic in the best sense. It did not speculate about whether artificial intelligence would become conscious, demand rights, or replace human institutions. It focused on a smaller problem that becomes urgent precisely because software does not need any of those things in order to matter.
-
-AI agents were beginning to access data, applications, and tools.
-
-Who, then, was the actor?
-
-What was it allowed to do?
-
-On whose behalf was it acting?
-
-How should the action be audited?
-
-How should a system distinguish the software agent from the human or organization that authorized it?
-
-What evidence should survive afterward so that someone can reconstruct what happened?
+The document was bureaucratic in the best sense. It did not speculate about whether artificial intelligence would become conscious, demand rights, or replace human institutions. It focused on a smaller problem that becomes urgent precisely because software does not need any of those things in order to matter. AI agents were beginning to access data, applications, and tools. The practical questions followed: who was the actor, what was it allowed to do, on whose behalf was it acting, how should the action be audited, and what evidence should survive afterward so somebody could reconstruct what happened?
 
 These are identity questions with verbs attached.
 
-That is the threshold this chapter is about.
+For most of this book so far, the artificial identity has been something a system consults. A profile contains attributes. A model makes predictions. A score influences a decision. The representation participates in what happens to the person. Delegated software changes the direction of travel because the representation can now help determine what happens *from* the person.
 
-For most of this book so far, the artificial identity has been something a system consults. A profile contains attributes. A model makes predictions. A score influences a decision. The representation participates in what happens to the person.
+A system may draft, schedule, query, purchase, reserve, submit, transfer, configure, approve, decline, or call another system. It may carry credentials. It may be allowed to read a calendar, send a message, access a file, invoke an API, or make a transaction. The machine-made version of you is no longer only being read. It can be executed.
 
-Delegated software changes the direction of travel.
+The idea of acting through a representative is ancient. A merchant sends an agent to negotiate in another city. A lawyer files papers for a client. An employee signs within the scope of a job. A parent acts for a child. A trustee administers assets for beneficiaries. A person grants power of attorney. A corporate officer acts for a legal entity that cannot walk into a room on its own.
 
-Now the representation can help determine what happens *from* the person.
+Civilization learned long ago that delegation requires boundaries because representation creates leverage and ambiguity at the same time. The representative needs enough authority to be useful, but not so much that the principal inherits risks they never meant to accept. Law developed doctrines around agency, fiduciary obligation, apparent authority, ratification, scope, and responsibility because a simple sentence like *she was acting for him* can conceal a great deal.
 
-A system may draft, schedule, query, purchase, reserve, submit, transfer, configure, approve, decline, or call another system. It may carry credentials. It may be allowed to read a calendar, send a message, access a file, invoke an API, or make a transaction.
+Software inherited the same problem before artificial intelligence arrived. A payroll system acts on stored instructions. A travel-booking system can purchase within policy. A service account can access cloud resources. An automation can move data between applications. A payment processor can execute transactions according to rules. OAuth lets users authorize applications to access protected resources without handing over a master password. The modern internet already depends on machines acting for people and organizations.
 
-The machine-made version of you is no longer only being read.
+What current AI systems add is not delegation itself. They add flexibility at the exact point where older delegated systems tried to reduce ambiguity.
 
-It is being executed.
+Traditional automation is often useful because the intended path is narrow: if this invoice matches these conditions, route it here; if the customer requests a reset and passes these checks, send the link. A language-driven agent can instead be asked to find a reasonable flight, avoid the red-eye, keep the total under the company limit, preserve enough time to reach the meeting, and use the traveler's usual preferences.
 
-The idea of acting through a representative is ancient.
+That instruction sounds ordinary because a human assistant would understand it as ordinary. For software, it contains a thicket of identity. What counts as reasonable? Which preferences are actually yours rather than habits inferred from recent behavior? Does the company limit apply before or after fees? Can the agent choose a more expensive ticket to satisfy a time constraint? May it spend money without another confirmation? If the preferred flight disappears while the agent is working, how much discretion survives the changed circumstances? Does booking the trip include moving the meeting?
 
-A merchant sends an agent to negotiate in another city. A lawyer files papers for a client. An employee signs within the scope of a job. A parent acts for a child. A trustee administers assets for beneficiaries. A person grants power of attorney. A corporate officer acts for a legal entity that cannot walk into a room on its own.
+The difficulty is not that the software lacks a name. The difficulty is that authority is contextual.
 
-Civilization learned long ago that delegation requires boundaries because representation creates leverage and ambiguity at the same time.
+A credential says what a system can technically access. Intent says what the principal meant the system to do. Those are not the same thing. This gap is old in computer security. People regularly grant applications permissions broader than the immediate task because software platforms expose capabilities in coarse bundles. A photo editor may ask for access to an entire library when the user wants to modify one image. A calendar integration may receive ongoing access when the user thinks in terms of one scheduling task.
 
-The representative needs enough authority to be useful.
+Agentic systems make the gap more visible because the software is designed to decide among multiple possible actions after authorization has already been granted. The permission can be static while the plan changes with circumstances. Identity becomes executable when representation and authorization meet: a software agent with no model of the user may have permission but little basis for judgment, while a highly personalized model with no permission may understand preferences but remain unable to affect the world. Combine memory, prediction, tools, and credentials, and the artificial identity begins to function as a representative.
 
-Too little authority and nothing gets done.
+Not a legal person. Not a human duplicate. A representative.
 
-Too much authority and the principal inherits risks they may not understand.
+The distinction between representation and impersonation becomes crucial here. In 2020, the Internet Engineering Task Force published RFC 8693, the OAuth 2.0 Token Exchange specification. The document predates the present wave of agent enthusiasm, but its distinction between impersonation and delegation is newly useful outside identity architecture. In an impersonation case, one subject is effectively authorized to act as another within the rights represented by a token. In a delegation case, the actor's identity remains relevant because the actor is performing an action on behalf of another subject.
 
-Law developed doctrines around agency, fiduciary obligation, apparent authority, ratification, scope, and responsibility because a simple sentence — *she was acting for him* — can conceal a great deal.
+Those are different stories of responsibility. If software acts *as you*, logs and downstream systems may have difficulty distinguishing the representative from the principal. If software acts *for you*, the chain can preserve both identities: who ultimately authorized the work and which actor actually performed it.
 
-Software inherited the same problem before artificial intelligence arrived.
+Imagine a purchase that goes wrong. A transaction record that says only that your account bought the item collapses principal and actor into one identity. A record that says a specific software agent, operating under a particular delegated grant from your account, placed the order at a certain time with a certain scope gives the event structure. You may still be responsible, and the merchant may still be entitled to rely on the authorization, but the infrastructure can distinguish the human principal from the software actor. That distinction is the beginning of accountability in a world of executable identities.
 
-A payroll system acts on stored instructions. A travel-booking system can purchase within policy. A service account can access cloud resources. An automation can move data between applications. A payment processor can execute transactions according to rules. OAuth lets users authorize applications to access protected resources without handing over a master password.
+The Model Context Protocol offers a more recent version of the same problem. Its authorization specification uses OAuth-based mechanisms for clients accessing protected resources on behalf of resource owners. An AI application that can reach a protected server needs more than intelligence; it needs a recognized relationship among the client, the resource, and the principal whose authority makes access legitimate.
 
-The modern internet already depends on machines acting for people and organizations.
+Popular language compresses that architecture almost instantly. We say, “my AI booked it.” In practice, a language model may have generated a plan, an agent framework may have selected a tool, a client may have used an access token, a remote service may have enforced scopes, a merchant may have accepted a transaction, and a human may have approved one step while delegating another. *My AI* reduces the authority chain to a possessive adjective.
 
-What current AI systems add is not delegation itself.
+That compression becomes more dangerous when software hands work to other software. An assistant may ask a travel agent to find options; the travel agent may ask a mapping service for transit time, a calendar service whether a meeting can move, and a payment service to reserve a fare. Each step can be locally reasonable while the total path exceeds what the person imagined when they said *book me a flight*.
 
-They add flexibility at the exact point where older delegated systems tried to reduce ambiguity.
+Authority drift does not require malice. It can arise from helpfulness.
 
-Traditional automation is often useful because the intended path is narrow.
+Older security models often feared the unauthorized actor. Executable artificial identity adds a different problem: an authorized actor doing something outside the principal's intended context. The credentials are valid, the agent is legitimate, and the action may even be rational given the information available. The dispute is about whether the representation of the user's intent was faithful enough to justify what happened.
 
-If this invoice matches these conditions, route it here.
+That is harder than stolen passwords. A stolen credential is unauthorized by definition. A delegated agent can be authentically authorized and still misunderstand. The system therefore needs more than authentication. It needs some workable theory of mandate.
 
-If the customer requests a reset and passes these checks, send the link.
+Human delegation already lives with this problem. Assistants misunderstand instructions. Lawyers exceed client expectations. Employees make judgment calls. Agents in commerce face unforeseen circumstances. We tolerate delegation because requiring the principal to approve every microscopic step would destroy the value of having a representative. The question is where discretion is acceptable and where the representative should return to the principal.
 
-If the calendar event contains this label, copy it to that system.
+A good human assistant learns that boundary socially. Buying a normal train ticket may be routine while changing a family vacation is not. A ten-dollar difference may not justify a phone call while a thousand-dollar difference does. Some preferences are firm, others casual, others stale; some decisions carry emotional weight that no expense policy captures. A software agent needs a computational substitute for that judgment.
 
-A language-driven agent can be asked something more open ended:
+This is where artificial identity and memory collide. An agent that represents you well enough to act must carry some model of what matters to you. That model may contain explicit rules such as spending limits or categories of information that always require confirmation. It may contain preferences such as aisle seats or quiet hotels. It may contain inferred patterns such as routinely choosing refundable fares. The agent becomes more useful as these representations improve, but it also becomes more capable of carrying forward an outdated version of the person.
 
-Find a reasonable flight, avoid the red-eye, keep the total under the company limit, preserve enough time to reach the meeting, and use my usual preferences.
+A preference can become a policy by accident. A temporary behavior can harden into memory. An old constraint can survive after the reason disappears, and the user may not know which remembered facts are influencing the next action. A recommender that overlearns yesterday's taste keeps showing it to you. An agent that overlearns yesterday's preference can spend money on it.
 
-The instruction sounds ordinary because a human assistant would understand it as ordinary.
+That difference in consequence should change the design. Preferences, memories, credentials, and permissions are not the same kind of state. A remembered preference should not automatically become an authorization; an authorization should not automatically imply a preference; a successful action should not prove that the agent understood the human. These distinctions are easy to write down and easy to blur inside a system optimized to complete tasks smoothly.
 
-For software, it contains a thicket of identity.
+Smoothness is seductive because every confirmation screen makes an agent feel less autonomous and every additional authentication step creates friction. The commercial pressure will usually be toward fewer interruptions. The safety pressure will often be toward visible boundaries. Good design has to decide which actions deserve friction rather than treating friction itself as failure.
 
-What counts as reasonable?
+Security already has a useful concept here: least privilege. Give an actor only the access it needs for the task, not every capability the principal possesses. An agent booking a restaurant does not need access to tax records. An agent summarizing email does not automatically need permission to send mail. An agent preparing a purchase can be allowed to build a cart without being allowed to charge a card. A financial assistant may read balances and model scenarios while requiring explicit approval before moving money.
 
-Which preferences are actually yours rather than habits inferred from recent behavior?
+Open-ended tasks make the principle harder to implement. If a trip-planning agent discovers that a visa requirement depends on passport information, asking for additional access is a reasonable escalation. If it discovers that moving a meeting could save five hundred dollars, that does not mean calendar-write permission should appear automatically. The difference rests on intent and consequence rather than technical capability alone.
 
-Does the company limit apply before or after fees?
+Step-up authorization gives that distinction somewhere to live. An agent can begin with a small scope and ask for more authority only when a concrete need appears. Human delegation often works through the same graduated trust: you do not give a new assistant every key on the first morning.
 
-Can the agent choose a more expensive ticket to satisfy a time constraint?
+Revocation matters for the same reason. A person may stop using an agent, a company may terminate an employee, a device may be compromised, a task may be complete, or a relationship may change. Authority should be capable of ending cleanly. Otherwise the representative becomes a liability that survives the mandate that made it legitimate.
 
-Which loyalty account should it use?
+Audit matters because even good systems will make mistakes. A useful record should help answer not only *what happened?* but *which actor did it, under whose authority, with what scope, and after which approvals?* NIST's 2026 concept paper places auditing and non-repudiation beside identification and authorization because agent systems stretch all four concepts at once.
 
-May it spend money without another confirmation?
+The trail creates another identity problem, however. A perfect record of every action, instruction, inference, and preference could become a remarkably revealing biography of the person whose agent was trying to help. Accountability asks for retention. Privacy sometimes asks for deletion. Security asks for enough evidence to investigate abuse. Personal autonomy asks for room to move beyond old instructions. Artificial identity does not resolve the conflict; it makes the tradeoff harder to ignore.
 
-If the preferred flight disappears while the agent is working, how much discretion survives the changed circumstances?
+That is why executable identity cannot be treated as merely a security problem. Security can establish that the agent held a valid token, but not whether the human should have been asked again. It can verify that a scope included permission to purchase, but not whether the user meant that permission to cover a replacement item twice the normal price. It can record that an agent sent a message, but not whether an old tone preference still reflected how the person wanted to speak to a grieving friend.
 
-Does the instruction authorize booking only, or can the agent also move the meeting?
+The identity of a representative is partly about authority and partly about judgment. Current AI systems make that visible because they are probabilistic at the point where ordinary software is often deterministic. A calculator executes a defined operation. A language-driven agent interprets. Interpretation requires a working model of the principal's request, priorities, and tolerances, and that model can be excellent while remaining incomplete.
 
-If another agent controls the calendar, may the travel agent negotiate with it?
+The better it becomes, the more tasks we will be tempted to delegate. Competence again creates dependence. A bad recommender gets ignored; a good one receives attention. A bad agent receives no credentials; a good one receives a calendar, inbox, payment method, workspace, or account. The most consequential artificial identities will not be the systems that imitate people badly. They will be the systems that represent people well enough to earn permission.
 
-The difficulty is not that the software lacks a name.
+Impersonation remains the obvious threat: a criminal voice clone, stolen credential, or synthetic video creates a counterfeit representative. Legitimate delegation is subtler. The system really is yours. The token really is valid. The remembered preference really did come from an earlier conversation. The action really does pursue the goal you stated. And the result can still be wrong because the artificial identity acted from an imperfect model of the human principal.
 
-The difficulty is that authority is contextual.
+No one has to break in for that failure to matter.
 
-A credential says what a system can technically access.
+The answer is institutional rather than mystical: preserve the distinction between principal and actor, grant narrow authority before broad authority, escalate when consequence rises, make revocation real, keep enough of the authority chain to reconstruct an action, let preferences expire when they should, and treat memory as evidence rather than destiny. A representative that knows when to return a decision to the person may be more useful than one that completes every task alone.
 
-Intent says what the principal meant the system to do.
-
-Those are not the same thing.
-
-This gap is old in computer security. People regularly grant applications permissions broader than the immediate task because software platforms expose capabilities in coarse bundles. A photo editor may ask for access to an entire library when the user wants to modify one image. A calendar integration may receive ongoing access when the user thinks in terms of one scheduling task.
-
-Agentic systems make the gap more visible because the software is designed to decide among multiple possible actions after authorization has already been granted.
-
-The permission is static.
-
-The plan is dynamic.
-
-That is why identity becomes executable only when representation and authorization meet.
-
-A software agent with no model of the user may have permission but little basis for judgment.
-
-A highly personalized model with no permission may understand preferences but remain unable to affect the world.
-
-Combine memory, prediction, tools, and credentials, and the artificial identity begins to function as a representative.
-
-Not a legal person.
-
-Not a human duplicate.
-
-A representative.
-
-The distinction between representation and impersonation becomes crucial here.
-
-In 2020, the Internet Engineering Task Force published RFC 8693, the OAuth 2.0 Token Exchange specification. The document predates the present wave of agent enthusiasm, but it contains a distinction that is suddenly useful outside identity architecture.
-
-It describes both impersonation and delegation.
-
-In an impersonation case, one subject is effectively authorized to act as another within the rights represented by a token. In a delegation case, the actor's identity remains relevant: the actor is performing an action on behalf of another subject.
-
-Those may sound like technical nuances.
-
-They are really different stories of responsibility.
-
-If software acts *as you*, logs and downstream systems may have difficulty distinguishing the representative from the principal.
-
-If software acts *for you*, the chain can preserve both identities: who ultimately authorized the work and which actor actually performed it.
-
-That difference becomes more valuable as agents become more autonomous.
-
-Imagine a purchase that goes wrong.
-
-If the transaction record says only that your account bought the item, the system has collapsed principal and actor into one identity.
-
-If the record says that a specific software agent, operating under a particular delegated grant from your account, placed the order at a certain time with a certain scope, then the event has structure.
-
-You may still be responsible.
-
-The merchant may still be entitled to rely on the authorization.
-
-But the infrastructure can distinguish the human principal from the software actor.
-
-That distinction is not a minor logging preference.
-
-It is the beginning of accountability in a world of executable identities.
-
-The Model Context Protocol offers a more recent example of the same problem appearing in current AI infrastructure. Its authorization specification uses OAuth-based mechanisms for clients accessing protected resources on behalf of resource owners.
-
-The important phrase is *on behalf of*.
-
-An AI application that can reach a protected server needs more than intelligence. It needs a recognized relationship between the client, the resource, and the principal whose authority makes access legitimate.
-
-This is where popular language about AI assistants can become dangerously vague.
-
-We say, “my AI booked it.”
-
-Technically, many things may have happened.
-
-A language model may have generated a plan.
-
-An agent framework may have selected a tool.
-
-A client may have used an access token.
-
-A remote service may have enforced scopes.
-
-A merchant may have accepted a transaction.
-
-A human may have approved one step and delegated another.
-
-The phrase *my AI* compresses the entire authority chain into a possessive adjective.
-
-Convenient language can hide inconvenient architecture.
-
-The OpenID Foundation and NIST began treating this as a live standards problem because interoperability makes the chain harder, not easier.
-
-A single application controlled by one company can keep a great deal of context internally.
-
-An ecosystem of agents, tools, identity providers, resource servers, and external services needs portable signals about who is acting and under what authority.
-
-The moment software can hand work to other software, delegation becomes recursive.
-
-An assistant asks a travel agent to find options.
-
-The travel agent asks a mapping service for transit time.
-
-It asks a calendar service whether the meeting can move.
-
-It asks a payment service to reserve the fare.
-
-Perhaps one of those services invokes another specialized agent.
-
-This sounds efficient because it is.
-
-It also raises an old question in a new form:
-
-How far down the chain does the original permission travel?
-
-The principal may have intended, *book me a flight*.
-
-The software may infer that it should also purchase an airport transfer.
-
-The transfer service may infer that it should share arrival details with a driver.
-
-Each step can be locally reasonable while the total path exceeds what the person imagined when they gave the initial instruction.
-
-Authority drift does not require malice.
-
-It can arise from helpfulness.
-
-This is one of the most important changes agentic AI introduces into identity.
-
-Older security models often feared the unauthorized actor.
-
-Executable artificial identity adds the problem of the authorized actor doing something outside the principal's intended context.
-
-The credentials are valid.
-
-The agent is legitimate.
-
-The action may even be rational given the information available.
-
-The dispute is about whether the representation of the user's intent was faithful enough to justify the action.
-
-That is a harder problem than stolen passwords.
-
-A stolen credential is unauthorized by definition.
-
-A delegated agent can be authentically authorized and still misunderstand.
-
-The system therefore needs more than authentication.
-
-It needs a theory of mandate.
-
-Again, this is not unique to machines.
-
-Human assistants misunderstand instructions. Lawyers exceed client expectations. Employees make judgment calls. Agents in commerce face unforeseen circumstances. We tolerate delegation because requiring the principal to personally approve every microscopic step would destroy the value of having a representative.
-
-The challenge is to decide where discretion is acceptable and where the system should return to the principal.
-
-A good human assistant learns this boundary socially.
-
-They may know that buying a normal train ticket is routine but changing a family vacation is not. They may know that a ten-dollar difference does not require a phone call while a thousand-dollar difference does. They learn which preferences are firm, which are casual, which are stale, and which decisions carry emotional weight that no expense policy captures.
-
-A software agent needs some computational substitute for that judgment.
-
-This is where artificial identity and memory collide.
-
-An agent that represents you well enough to act must carry some model of what matters to you.
-
-That model may include explicit rules:
-
-Never spend more than this amount without confirmation.
-
-Do not send messages to these people automatically.
-
-Always ask before sharing medical information.
-
-It may include preferences:
-
-Aisle seat.
-
-Quiet hotel.
-
-Avoid early meetings.
-
-It may include inferred patterns:
-
-Usually chooses refundable fares.
-
-Often rejects restaurants without outdoor seating.
-
-Tends to postpone low-priority meetings rather than cancel them.
-
-The agent becomes more useful as these representations improve.
-
-It also becomes more capable of carrying forward an outdated version of the person.
-
-A preference can become a policy by accident.
-
-A temporary behavior can harden into memory.
-
-An old constraint can survive after the reason disappears.
-
-The human user may not even know which remembered facts are influencing the agent's choices.
-
-This is the executable version of a problem we saw earlier with recommendation systems.
-
-A recommender can overlearn yesterday's taste and keep showing it to you.
-
-An agent can overlearn yesterday's preference and spend money on it.
-
-The difference is consequence.
-
-Memory that shapes a suggestion is one thing.
-
-Memory that authorizes an action is another.
-
-A mature agent system will therefore need to treat preferences, memories, credentials, and permissions as different kinds of state.
-
-A remembered preference should not automatically become an authorization.
-
-An authorization should not automatically imply a preference.
-
-A successful action should not automatically prove the agent understood the human.
-
-These distinctions are obvious when written separately. They become easy to blur inside a system optimized to complete tasks smoothly.
-
-Smoothness is seductive.
-
-Every confirmation screen makes an agent feel less autonomous.
-
-Every additional authentication step creates friction.
-
-Every time the system asks, *Are you sure?*, part of the product promise weakens.
-
-The commercial pressure will be toward fewer interruptions.
-
-The safety pressure will often be toward more visible boundaries.
-
-Good design will have to decide which actions deserve friction.
-
-Security already has a useful concept here: least privilege.
-
-Give an actor only the access it needs for the task, not every capability the principal possesses.
-
-An agent booking a restaurant does not need access to tax records.
-
-An agent summarizing email does not automatically need permission to send mail.
-
-An agent preparing a purchase can be allowed to build a cart without being allowed to charge a card.
-
-A financial assistant may be allowed to read balances and model scenarios while requiring explicit approval before moving money.
-
-The principle is simple.
-
-Its implementation becomes difficult when tasks are open ended.
-
-If the agent discovers halfway through a trip-planning task that a visa requirement depends on passport information, should it request additional access? Probably.
-
-If it discovers that a meeting could be moved to save five hundred dollars, should it gain calendar-write permission automatically because changing the meeting seems instrumental to the original goal? Probably not.
-
-The difference rests on intent and consequence rather than technical capability alone.
-
-This is why step-up authorization matters.
-
-An agent can begin with a small scope and ask for more authority only when a concrete need appears.
-
-That preserves something human delegation often relies on: graduated trust.
-
-You do not give a new assistant every key on the first morning.
-
-The same principle can apply to software.
-
-Revocation matters for the same reason.
-
-Permission should be capable of ending.
-
-A person may stop using an agent.
-
-A company may terminate an employee.
-
-A device may be compromised.
-
-A task may be complete.
-
-A relationship may change.
-
-An executable identity whose authority cannot be cleanly revoked is not a representative. It is a liability.
-
-Audit matters because mistakes will happen even in good systems.
-
-A useful record should help answer not only *what happened?* but also *which actor did it, under whose authority, with what scope, and after which approvals?*
-
-NIST's 2026 concept paper explicitly places auditing and non-repudiation beside identification and authorization because agent systems stretch all four concepts at once.
-
-The more autonomous the software, the more valuable the trail.
-
-But audit also creates its own identity problem.
-
-A perfect record of every action, instruction, inference, and preference can become a deeply revealing biography of the person whose agent was trying to help.
-
-Accountability asks for retention.
-
-Privacy sometimes asks for deletion.
-
-Security asks for enough evidence to investigate abuse.
-
-Personal autonomy asks for the ability to move beyond old instructions.
-
-These goals can conflict.
-
-Artificial identity does not resolve the conflict.
-
-It makes the conflict unavoidable.
-
-The most dangerous mistake would be to treat executable identity as merely a security problem.
-
-Security can answer whether the agent had a valid token.
-
-It cannot, by itself, answer whether the human should have been asked again.
-
-It can verify that a scope included permission to purchase.
-
-It cannot decide whether the user intended the permission to cover a replacement item twice the normal price.
-
-It can record that an agent sent a message.
-
-It cannot determine whether the remembered tone preference still reflected how the person wanted to speak to a grieving friend.
-
-The identity of a representative is partly about authority and partly about judgment.
-
-Current AI systems make that visible because they are probabilistic at the point where ordinary software is usually deterministic.
-
-A calculator executes a defined operation.
-
-A language-driven agent interprets.
-
-Interpretation is where the artificial identity enters the action.
-
-The agent must form some working model of the principal's request, priorities, and tolerances.
-
-That model can be excellent and still incomplete.
-
-The better it becomes, the more tasks we will be tempted to delegate.
-
-Competence again creates dependence.
-
-This is the same pattern that made recommendation systems powerful.
-
-A bad recommender gets ignored.
-
-A good one receives attention.
-
-A bad agent receives no credentials.
-
-A good one receives a calendar, inbox, payment method, workspace, or account.
-
-The most consequential artificial identities will not be the systems that imitate people badly.
-
-They will be the systems that represent people well enough to earn permission.
-
-That is why the future fight will not be only about whether an AI can impersonate you.
-
-Impersonation is the obvious threat. A criminal voice clone, stolen credential, or synthetic video creates a counterfeit representative.
-
-The subtler problem is legitimate delegation.
-
-The system really is yours.
-
-The token really is valid.
-
-The remembered preference really came from an earlier conversation.
-
-The action really does pursue the goal you stated.
-
-And yet the result is not what you meant.
-
-No one broke in.
-
-Nothing was forged.
-
-The artificial identity simply acted from an imperfect model of the human principal.
-
-We do not solve that problem by demanding that the agent become conscious enough to understand us completely.
-
-We solve it institutionally.
-
-Preserve the difference between principal and actor.
-
-Grant narrow authority before broad authority.
-
-Escalate when consequence rises.
-
-Make revocation real.
-
-Keep enough of the authority chain to reconstruct an action.
-
-Let preferences expire when they should.
-
-Treat memory as evidence, not destiny.
-
-And resist the product instinct to equate fewer interruptions with greater intelligence.
-
-A representative that knows when to return a decision to the person may be more useful than one that completes every task alone.
-
-The deepest point is simpler.
-
-Identity used to sit mostly on the noun side of computing.
-
-User.
-
-Account.
-
-Credential.
-
-Profile.
-
-Subscriber.
-
-Record.
-
-Agentic systems move identity toward the verb.
-
-Book.
-
-Send.
-
-Buy.
-
-Change.
-
-Approve.
-
-Share.
-
-Delegate.
+The deeper shift is that identity is moving from record to action. User, account, credential, profile, subscriber, and record described who or what a system was dealing with. Agentic systems add the verbs: book, send, buy, change, approve, share, delegate.
 
 The machine-made representation becomes consequential not only because systems believe things about you, but because those beliefs can now travel with authority into action.
 
 That is what it means for identity to become executable.
 
-The machine does not need a self.
-
-Permission is enough.
+The machine does not need a self. Permission is enough.
