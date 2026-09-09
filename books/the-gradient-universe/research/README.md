@@ -4,111 +4,99 @@
 
 The book now asks a narrower question than its first draft did:
 
-> Can a driven system spend present free energy to construct or maintain a physical constraint that changes its later *viable reachable states*, and can the physical cost of that constraint be measured separately from the future capability it adds?
+> Can a driven system spend present free energy to construct or maintain a physical constraint that changes its later *viable recovery possibilities*, and can that physical change predict persistence or selection before the outcome is observed?
 
 The working umbrella name remains **recursive thermodynamic reachability**.
 
-The first-principles pass makes one correction to the earlier wording: there is no justified universal scalar called “future options per joule.” Work has physical units; a reachable set is set-valued; a survival probability is dimensionless; reproductive success introduces another mapping. Until a particular system supplies that mapping, the primitive object should be a **cost–capability Pareto relation**, not a universal quotient.
+The first-principles pass removes two tempting but unjustified claims.
 
-The more precise measurable object is therefore **constraint-selective viable reachability**: the causal change in budget-admissible viable transitions, recovery targets, or survivable disturbances attributable to a specified physical constraint after its construction, maintenance, and use are charged to the comparison.
+There is no defensible universal scalar called “future options per joule.” Work has physical units; reachable sets are set-valued; survival probability is dimensionless; reproductive fitness is a further mapping supplied by biology.
 
-This is a conjecture and research program, not an established law of nature.
+There is also no reason to expect adaptive systems to maximize raw reachability. Useful constraints often remove transitions. A membrane excludes. A checkpoint stops. Inhibition suppresses. A safety interlock makes some trajectories impossible.
+
+The more precise object is therefore **constraint-selective viable reachability**: the causal change in budget-admissible viable transitions, recovery targets, or survivable disturbances attributable to a specified physical constraint after construction, maintenance, activation, and opportunity costs are counted.
+
+This is a conjecture and research program, not an established law.
 
 ## Three levels of confidence
 
-### 1. Established or mature science
+### Established or mature science
 
-The book relies on established thermodynamics, statistical mechanics, fluid mechanics, chemistry, physiology, evolutionary biology, control theory, and climate science for ordinary claims within those fields.
+The manuscript relies on established thermodynamics, statistical mechanics, chemistry, physiology, evolutionary biology, control theory, cybernetics, information theory, and climate science for ordinary claims within those fields.
 
-Examples include:
+This includes conservation laws, second-law constraints, free energies and chemical potentials, exergy, chemiosmotic coupling, natural selection, reachable sets, viability kernels, robust control, geometric-mean fitness, bet hedging, Ashby's requisite variety, information-theoretic empowerment, minimum-energy control, control/architecture co-design, information thermodynamics, and measured trade-offs between microbial growth and preparedness.
 
-- conservation of energy and second-law constraints;
-- equilibrium free energies and chemical potentials;
-- exergy/available-work reasoning;
-- transport driven by temperature, pressure, electrical, concentration, redox, and chemical-potential differences under specified mechanisms;
-- dissipative structures and nonlinear instabilities in specified systems;
-- chemiosmotic coupling and cellular ion gradients;
-- natural selection as differential reproductive success among heritable variants;
-- control-theoretic reachability and viability kernels;
-- geometric-mean fitness and bet hedging in fluctuating environments;
-- minimum-energy control, energetic resilience, and architecture/control co-design in engineered systems;
-- energetic and thermodynamic costs of control in specified biological models.
+None of those is a discovery of this book.
 
-None of these should be advertised as discoveries of this book.
+### Productive but non-universal principles
 
-### 2. Productive but non-universal principles
-
-The book discusses maximum entropy production, maximum power, constructal approaches, dissipative adaptation, and related ideas because they attempt to explain which far-from-equilibrium states are selected.
-
-Their status is deliberately below the first category.
-
-The manuscript treats them as domain-dependent hypotheses, closures, heuristics, or research programs unless a stronger theorem applies under clearly stated assumptions.
+Maximum entropy production, maximum power, constructal approaches, dissipative adaptation, and similar proposals are treated as domain-dependent hypotheses, closures, heuristics, or research programs unless a stronger theorem applies under stated assumptions.
 
 Failure of one of these principles does not threaten the second law.
 
-### 3. The book's conjecture
+### The book's conjecture
 
-The candidate contribution is not that control costs energy, that future options matter, that viability has a geometry, that organisms construct constraints, that loss of control authority raises reachability cost, that engineered architectures trade cost against controllability, that bet hedging can beat fast growth in variable environments, or that dormancy preserves latent capacity. All of those have prior art.
+The narrow candidate contribution is the **full causal loop**:
 
-The narrow conjecture left to test is:
+1. a measured nonequilibrium resource is consumed;
+2. part of it is invested in a specific physical constraint produced or maintained by the system;
+3. that constraint changes later admissible transitions, disturbance filtering, or affordable responses;
+4. the resulting viable recovery set is predicted before the future disturbance or competition outcome;
+5. independently measured physical costs and recovery structure imply a quantitative environmental boundary;
+6. the prediction survives ablation and matched-resource controls;
+7. simpler established models do not predict the result as well with fewer assumptions.
 
-> In a driven chemical or living system, a constraint constructed or maintained by the system itself can be assigned a physical cost and a separately predicted causal effect on later viable control/recovery. Under a predeclared disturbance process, that physical prediction can identify when the constraint becomes worth carrying despite lower instantaneous growth, power, or dissipation.
+If that loop does not add predictive value, the correct description is **interdisciplinary synthesis**, not scientific breakthrough.
 
-A stronger version would require the reachability model to predict a recovery or selection boundary **better than simpler established alternatives**.
+## First-principles decomposition
 
-## The first-principles correction: viability may require fewer options
+A physical constraint can improve regulation in at least four distinct ways.
 
-The old intuition “more future states are better” does not survive contact with gates.
+**Disturbance filtering.** A membrane, shell, buffer, or interlock prevents some perturbations from reaching essential variables. The effective disturbance set shrinks.
 
-A membrane excludes. A checkpoint stops a cycle. An inhibitory neuron suppresses action. A repair pathway can remove damaged states from the future repertoire. Development closes possible cell fates. A safety interlock deliberately makes some physical trajectories unreachable.
+**Affordable action expansion.** Catalysis, storage, redundancy, or a new coupling can bring a response inside the available work/time budget.
 
-A successful constraint can therefore **shrink raw reachability while improving viable reachability**.
+**Response selection.** Sensors, memory, and models can improve the mapping from condition to response. Cybernetics, empowerment, information theory, and information thermodynamics already cover much of this structural territory.
 
-The relevant question is not:
+**Constraint reconstruction.** In living systems, viable processes can contribute to rebuilding the membranes, regulators, enzymes, stores, and other constraints that maintain those processes. This connects directly to constraint-closure work.
 
-> How many futures are possible?
-
-It is:
-
-> Which declared disturbances or targets remain viably reachable within the physical budget, and how did the constraint change that set?
-
-This is why the core formal object is set-valued or target-specific rather than a universal state-space volume.
+The conjecture is strongest where these pieces are physically measured together rather than merely described in the same vocabulary.
 
 ## Formal package
 
-The research package now includes four distinct layers.
+### Book appendices
 
-- [Appendix A — Constraint-Selective Reachability](../manuscript/appendix-a-constraint-selective-reachability.md) — book-readable derivation, dimensional analysis, limiting cases, and the minimal fluctuating-environment proposition.
-- [LaTeX formalization](constraint-selective-reachability.tex) — definitions, proposition, proof, limiting cases, and falsification requirement.
-- [Hierarchical proof audit](lamport-proof-reachability.md) — a Lamport-style assumption/proof tree designed to expose hidden premises.
-- [Standard-library validation model](reachability_threshold.py) — reproducible Monte Carlo sanity check of the toy threshold without third-party packages.
-- [Validation record](reachability-threshold-validation.md) — numerical results and an explicit statement of what the simulation does **not** validate.
-- [Experimental protocol](reachability-experiment-protocol.md) — a preregisterable path from physical architecture to competition outcome.
-- [Scientific figure specifications](reachability-diagrams.md) — six diagrams designed to preserve the distinction among measured quantities, model-derived reachable sets, and selection outcomes.
+- [Appendix A — Constraint-Selective Reachability](../manuscript/appendix-a-constraint-selective-reachability.md) — definitions, dimensional analysis, limiting cases, and the minimal fluctuating-environment threshold.
+- [Appendix B — Requisite Variety Under a Physical Budget](../manuscript/appendix-b-requisite-variety-under-budget.md) — cybernetic ancestry, budgeted response variety, and a finite-state example where raw reachability shrinks while robust recovery improves.
 
-The older synthesis notes remain useful:
+### Formal and computational audit
 
-- [Recursive thermodynamic reachability](recursive-thermodynamic-reachability.md) — candidate mechanisms and broader implications.
-- [Closest prior art](reachability-prior-art.md) — novelty guardrails and claims the book must not make.
-- [Source ledger](source-ledger.csv) — claim-to-source audit trail.
+- [LaTeX formalization](constraint-selective-reachability.tex) — formal definitions, proposition, proof, limiting cases, and failure conditions.
+- [Hierarchical proof audit](lamport-proof-reachability.md) — Lamport-style assumption/proof tree intended to expose hidden premises.
+- [Threshold model](reachability_threshold.py) — dependency-free Monte Carlo validation of the Appendix-A population threshold.
+- [Threshold validation](reachability-threshold-validation.md) — numerical output and explicit limits of inference.
+- [Finite-state graph model](reachability_graph_model.py) — robust controller-versus-disturbance game in which a gate removes dangerous transitions at a physical cost.
+- [Finite-state validation](reachability-graph-validation.md) — exact default outputs and non-claims.
 
-## Minimal formal objects
+### Experimental and novelty apparatus
 
-Let system state be \(x\), environment \(e\), admissible action or control \(u\), and physically instantiated constraint architecture \(c\):
+- [Experimental protocol](reachability-experiment-protocol.md) — preregisterable path from physical architecture to competition outcome.
+- [Experimental candidate ranking](experiment-candidate-ranking.md) — ranks metabolic-currency control, dormancy, synthetic compartments, active matter, and benchmark/null systems by novelty and tractability.
+- [Scientific figure specifications](reachability-diagrams.md) — six figures designed to keep measured quantities, model-derived sets, and selection outcomes separate.
+- [Recursive thermodynamic reachability](recursive-thermodynamic-reachability.md) — broader conjecture and implications.
+- [Closest prior art](reachability-prior-art.md) — control, viability, constraint-closure, non-equilibrium-capacity, and 2025–2026 novelty guardrails.
+- [Cybernetics and information prior art](cybernetics-information-prior-art.md) — Ashby, Good Regulator, empowerment, feedback thermodynamics, and sensory-capacity guardrails.
+- [Source ledger](source-ledger.csv) — claim-to-source trail.
+
+## Minimal formal object
+
+Let system state be \(x\), environment \(e\), admissible control \(u\), and constraint architecture \(c\):
 
 \[
 \dot{x}=f(x,e,u;c).
 \]
 
-A model must specify in advance:
-
-- a state representation;
-- a viability set \(K\);
-- a physical resource/work budget \(B\);
-- a time horizon \(\tau\);
-- admissible controls/actions;
-- a disturbance family or probability model;
-- the physical cost of constructing and maintaining \(c\).
+A valid model specifies in advance a state representation, viability set \(K\), physical budget \(B\), horizon \(\tau\), admissible controls, disturbance family or distribution, and the cost of constructing and maintaining \(c\).
 
 For a disturbance family \(D\), define the survivable disturbance set
 
@@ -116,165 +104,111 @@ For a disturbance family \(D\), define the survivable disturbance set
 S_\tau(c,B)=\left\{d\in D:\exists u\text{ such that the trajectory remains viable and respects }B\right\}.
 \]
 
-If \(\mu\) is a predeclared probability distribution over disturbances, then
+If \(\mu\) is a declared probability distribution over disturbances,
 
 \[
 s(c)=\mu(S_\tau(c,B))
 \]
 
-is the probability that a disturbance falls inside the architecture's budget-admissible viable response set under that model.
+is the probability mass of disturbances for which a budget-admissible viable response exists under that model.
 
-The measure \(\mu\) is part of the environment description. Change the environment and the capability value can change.
+This is environment-specific. Change \(\mu\), \(B\), \(K\), or \(\tau\) and the answer can change.
 
-That is expected, not embarrassing.
+That dependence is part of the claim, not a nuisance to be hidden.
 
-## The theorem-shaped toy result
+## Model ladder
 
-Consider two heritable architectures with equal pre-cost benign log-growth rate \(r\).
+### Model 1: survival term entered directly
 
-Architecture 1 pays a continuous growth cost \(c>0\).
+Appendix A begins with a deliberately transparent population model. Hazards arrive at rate \(\lambda\). A costly architecture pays continuous log-growth cost \(c\) and has per-hazard survival \(s_1>s_0\).
 
-Hazards arrive as a Poisson process of rate \(\lambda\).
-
-At each hazard, the two lineages retain fractions \(s_0\) and \(s_1\), with \(s_1>s_0\).
-
-Then the almost-sure asymptotic log-growth rates are
+The asymptotic crossover is
 
 \[
-g_0=r+\lambda\ln s_0,
+\lambda^*=\frac{c}{\ln(s_1/s_0)}.
 \]
 
-\[
-g_1=r-c+\lambda\ln s_1.
-\]
+This threshold is not novel. It is a geometric-mean-fitness result under explicit assumptions.
 
-The costly architecture wins only when
+The first standard-library simulation verifies only the algebra and limiting behavior.
 
-\[
-\lambda>\lambda^*=\frac{c}{\ln(s_1/s_0)}.
-\]
+### Model 2: survival derived from a transition graph
 
-The dimensional check is clean: \(c\) and \(\lambda\) both have units of inverse time and the logarithm is dimensionless.
+The finite-state graph model removes \(s_0\) and \(s_1\) as free survival knobs.
 
-This threshold is **not** claimed as novel. It is a transparent geometric-mean-fitness consequence under explicit assumptions.
+The cheap architecture possesses more raw transition branches, including unstable and lethal branches. The gated architecture pays a cost and removes those branches.
 
-The research opportunity is to predict \(s_0\) and \(s_1\) from a thermodynamically budgeted control/reachability model before measuring which lineage wins.
+Under the default matched budget and recovery horizon:
 
-## Computational sanity check
+- base robust survivable severities: \(\{1,2\}\);
+- gated robust survivable severities: \(\{1,2,3,4\}\);
+- \(s_0\approx0.665240956\);
+- \(s_1\approx0.909969427\);
+- with maintenance cost \(c=0.04\), \(\lambda^*\approx0.127688771\).
 
-The default toy model assigns exponentially distributed disturbance severity, recovery thresholds \(h_0=0.3\) and \(h_1=1.2\), and continuous cost \(c=0.05\).
+From severity 4 the base architecture has the larger raw state set, including failure, while the gated architecture has the smaller raw set and the stronger recovery guarantee.
 
-That gives
+This is the key counterexample to “more options = more capability.”
 
-\[
-s_0\approx0.25918,
-\qquad
-s_1\approx0.69881,
-\]
+The model is still invented. It validates logic, not biology.
 
-and
+### Model 3: required next step
 
-\[
-\lambda^*\approx0.050411.
-\]
+The next model must estimate the transition structure from a real physical system rather than from hand-written rules.
 
-The committed standard-library Monte Carlo model reproduces the sign change in mean log-growth advantage at that boundary within sampling tolerance.
+The required inputs are measured transition rates or reaction propensities, independently justified viability boundaries, physical action/constraint costs, a declared disturbance process, and a fitness or persistence outcome withheld until the physical model has made its prediction.
 
-That validates the derivation and implementation only.
+That is the first stage capable of producing scientific evidence.
 
-A simulation of assumptions is not evidence that nature satisfies them.
+## Novelty guardrails
 
-## Novelty discipline
+The book must not claim to have invented:
 
-Before calling the conjecture original, read [reachability-prior-art.md](reachability-prior-art.md).
+- reachable sets or viability kernels;
+- requisite variety;
+- future-control channel capacity or empowerment;
+- information thermodynamics of measurement and feedback;
+- semantic information tied to viability;
+- physical memory improving sensing/control;
+- geometric-mean fitness or bet hedging;
+- costly microbial preparedness, proteome reserve, growth–lag trade-offs, or anticipatory regulation;
+- minimum-energy reachability or energetic resilience;
+- controller/architecture co-design;
+- self-maintaining constraint closure;
+- non-equilibrium capacity in dormancy;
+- counterfactual geometry of accessible futures;
+- thermodynamic cost–controllability trade-offs in metabolic currencies.
 
-Particularly close prior art includes:
+The new name earns nothing by itself.
 
-- Aubin's viability theory;
-- reachable-set methods in stochastic biochemical systems;
-- geometric-mean fitness and microbial bet hedging;
-- minimum-energy reachability and energetic resilience under lost control authority;
-- optimal control of stochastic reaction networks with control costs;
-- control/architecture co-design in engineered systems;
-- biological organization as closure of constraints;
-- semantic information defined through contribution to viability;
-- non-equilibrium capacity in living systems and dormancy;
-- counterfactual geometry of unrealized accessible biological futures;
-- thermodynamic cost–controllability trade-offs in metabolic currency coupling.
+## Experimental ranking
 
-The conjecture earns novelty only if the *full causal loop* adds something these literatures do not already predict:
+The current ranking is deliberately hostile to easy stories.
 
-1. a measured nonequilibrium resource is consumed;
-2. part of it is invested in a specific self-produced physical constraint;
-3. that constraint changes later admissible transitions;
-4. the change in viable recovery is predicted before the disturbance/competition outcome;
-5. independent cost and reachability measurements imply a quantitative environmental boundary;
-6. the predicted boundary survives ablation and matched-resource controls;
-7. simpler established models do not predict the same result as well with fewer assumptions.
+**Best near-term bridge:** metabolic-currency decoupling under fluctuating demand. The 2026 PRX Life result already supplies a cost–controllability relation; the proposed extension is a predeclared viable demand/recovery set and an environmental crossover not contained in the original metric.
 
-If that test is not met, the honest description is **interdisciplinary synthesis**, not breakthrough.
+**Highest conceptual upside:** dormant-versus-dead latent recovery. The challenge is to predict reactivation capability before reactivation and outperform ATP, membrane-integrity, energy-inventory, and standard viability measures.
 
-## Strongest first experiment
+**Cleanest physics:** a fuel-maintained synthetic compartment or selective barrier that spends work to remove destructive transitions and changes the future forcing protocols from which the system can recover.
 
-A useful first paper should avoid brains, civilizations, and grand universal claims.
+**Useful physical demonstration:** active matter with feedback-created structure, though externally imposed feedback weakens the endogeneity claim.
 
-Choose an engineered microbial system or driven synthetic chemical network where an added regulatory or structural constraint has a measurable cost.
-
-Before competition:
-
-1. define the system boundary;
-2. define the physical resource budget;
-3. define the viable state set;
-4. define the disturbance distribution;
-5. calculate the viable recovery sets of competing architectures;
-6. calculate the energetic/material cost of the added constraint;
-7. predict a switching-rate or hazard-rate boundary from those measurements.
-
-Then test whether persistence or reproductive success changes near the predicted boundary.
-
-The highest-value version includes two controls:
-
-- **ablation:** remove the constraint and show that the predicted recovery repertoire contracts;
-- **matched extra resource:** give the cheap architecture the energy/material quantity spent by the costly architecture without giving it the architecture itself.
-
-If extra resource alone reproduces the effect, architecture-specific reachability was unnecessary.
+**Benchmark/null cases, not novelty evidence:** proteome reserve, growth–lag trade-offs, anticipatory regulation, and microbial environmental learning. Existing literature already explains those trade-offs quantitatively.
 
 ## Falsification rules
 
-The conjecture is not allowed the following escape hatches:
+The conjecture gets no post hoc state variables, no post hoc viability boundary, no hidden-gradient rescue, no horizon changes after seeing who wins, no free construction or maintenance cost, no arbitrary state-space volume sold as biological value, and no appeal to the second law when the stronger prediction fails.
 
-- no post hoc state variables;
-- no post hoc viability boundary;
-- no hidden-gradient rescue without independent measurement;
-- no changing the time horizon after seeing which architecture wins;
-- no ignoring construction, maintenance, activation, or opportunity cost;
-- no raw state-space volume presented as biological value without an invariant reason;
-- no calling an informational, social, or semantic difference a thermodynamic gradient without a physical definition;
-- no appealing to the second law when the stronger conjecture fails;
-- no claiming novelty when a standard control, viability, resilience, bet-hedging, energetic-resilience, co-design, or biological model already predicts the result equally well.
+Most importantly, it must compete against the right neighboring theory.
 
-A framework that cannot lose is not ready for publication as science.
-
-## Book-level boundaries
-
-The book should keep these distinctions explicit:
-
-- thermodynamic free energy is not Friston's variational free energy;
-- physical information-processing cost is not semantic meaning;
-- thermodynamic dependence is not thermodynamic explanation;
-- natural selection is not entropy-production maximization;
-- active maintenance is different from passive persistent structure;
-- stronger gradients do not generically imply greater complexity;
-- more raw reachability does not generically imply greater viability;
-- a higher dissipation rate does not generically imply greater fitness, resilience, intelligence, or value;
-- social and ethical claims require premises that thermodynamics does not supply.
+If Ashby's requisite variety, empowerment, robust control, viability theory, information thermodynamics, resource allocation, bet hedging, or another domain model predicts the same result with equal or greater economy, then constraint-selective reachability has not earned scientific novelty in that domain.
 
 ## Publication standard
 
-There are two potentially publishable outputs here, and they should not be confused.
+There are still two legitimate outputs.
 
-**A trade/science book** can be worth publishing if it offers an unusually clear synthesis of gradients, constraints, non-equilibrium systems, control, and the limits of thermodynamic explanation, even if the conjecture remains unproven.
+A trade/science book can be publishable as an unusually careful synthesis even if the conjecture is ultimately redundant.
 
-**A scientific paper** requires more. The reachability conjecture needs one mechanistic model and at least one risky quantitative prediction not already supplied by the closest prior art.
+A scientific paper requires a mechanistic, out-of-sample prediction that survives the novelty guardrails above.
 
-Until then the manuscript should say “conjecture,” “candidate mechanism,” or “research program,” never “law,” “discovery,” or “proved principle.”
+Until then the manuscript should use **conjecture**, **candidate mechanism**, or **research program**—never **law**, **discovery**, or **proved principle**.
