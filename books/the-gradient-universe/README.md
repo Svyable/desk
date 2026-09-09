@@ -28,4 +28,5 @@
 - [x] [Ch 17 — The Human Role Without Purpose-Talk](manuscript/ch17-human-role-without-purpose.md)
 - [x] [Ch 18 — Living Inside an Unfinished Physics](manuscript/ch18-living-inside-unfinished-physics.md)
 - [x] [Appendix A — Constraint-Selective Reachability](manuscript/appendix-a-constraint-selective-reachability.md)
+- [x] [Appendix B — Requisite Variety Under a Physical Budget](manuscript/appendix-b-requisite-variety-under-budget.md)
 - [x] [Back Matter](manuscript/back-matter.md)
