@@ -1,5 +1,5 @@
 // Temporary migration boundary: canonical Bookself still supplies app.js until
-// scripts/sync-reader-runtime.sh has materialized the complete application graph.
+// scripts/sync-bookself.sh materializes the complete application graph locally.
 const canonicalAppUrl = 'https://svyable.github.io/bookself/reader/js/app.js?v=r4';
 const viewportStabilityUrl = new URL('./desk-viewport-stability-runtime.js', import.meta.url).href;
 const nativeShareUrl = new URL('./native-share.js', import.meta.url).href;
