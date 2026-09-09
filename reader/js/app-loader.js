@@ -7,6 +7,15 @@ const appShellPolishUrl = new URL('./app-shell-polish.js', import.meta.url).href
 const libraryHomeUrl = new URL('../css/library-home.css', import.meta.url).href;
 const bookOpeningHandoffUrl = new URL('../css/desk-book-opening-handoff.css?v=bookself-20260906', import.meta.url).href;
 
+const optionalEnhancements = [
+  [viewportStabilityUrl, 'Viewport stability'],
+  [nativeShareUrl, 'Native sharing'],
+  ['./desk-book-interior.js?v=bookself-20260906-fail-open-1', 'Desk premium book interior'],
+  [appShellPolishUrl, 'Desk Reader app-shell polish'],
+  ['./desk-book-opening-handoff.js?v=bookself-20260906', 'Desk book-opening handoff'],
+  ['./desk-reading-app.js?v=bookself-20260905', 'Desk reading-app hierarchy'],
+];
+
 function installDeskChromePolicy() {
   if (document.getElementById('deskReaderChromePolicy')) return;
   const style = document.createElement('style');
@@ -103,13 +112,19 @@ function showRecovery(error) {
   retry.focus({ preventScroll:true });
 }
 
+function loadOptionalEnhancements() {
+  for (const [url, label] of optionalEnhancements) {
+    import(url).catch((error) => {
+      console.warn(`${label} could not be loaded`, error);
+    });
+  }
+}
+
 try {
-  try { await import(viewportStabilityUrl); } catch (error) { console.warn('Viewport stability could not be loaded', error); }
-  try { await import(nativeShareUrl); } catch (error) { console.warn('Native sharing could not be loaded', error); }
-  try { await import('./desk-book-interior.js?v=bookself-20260906-fail-open-1'); } catch (error) { console.warn('Desk premium book interior could not be loaded', error); }
-  try { await import(appShellPolishUrl); } catch (error) { console.warn('Desk Reader app-shell polish could not be loaded', error); }
-  try { await import('./desk-book-opening-handoff.js?v=bookself-20260906'); } catch (error) { console.warn('Desk book-opening handoff could not be loaded', error); }
-  try { await import('./desk-reading-app.js?v=bookself-20260905'); } catch (error) { console.warn('Desk reading-app hierarchy could not be loaded', error); }
+  // Match Bookself's first-paint boundary: the canonical application is the
+  // critical path. Desk polish is useful but optional, so start it in parallel
+  // without making app startup or recovery wait for those enhancement modules.
+  loadOptionalEnhancements();
   await import(canonicalAppUrl);
 } catch (error) {
   showRecovery(error);
