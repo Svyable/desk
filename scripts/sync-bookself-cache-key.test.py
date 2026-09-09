@@ -4,7 +4,7 @@ import subprocess
 import tempfile
 from pathlib import Path
 
-SCRIPT = Path(__file__).with_name("sync-reader-runtime.sh")
+SCRIPT = Path(__file__).with_name("sync-bookself.sh")
 REMOTE = "https://svyable.github.io/bookself/reader/"
 
 
@@ -50,7 +50,13 @@ with tempfile.TemporaryDirectory() as tmp:
     (platform / "reader/sw.js").write_text(worker(), encoding="utf-8")
 
     env = dict(os.environ, DESK_ROOT=str(root))
-    subprocess.run(["sh", str(SCRIPT), str(platform)], check=True, env=env, capture_output=True, text=True)
+    subprocess.run(
+        ["sh", str(SCRIPT), str(platform)],
+        check=True,
+        env=env,
+        capture_output=True,
+        text=True,
+    )
 
     loader = (root / "reader/js/app-loader.js").read_text(encoding="utf-8")
     index = (root / "reader/index.html").read_text(encoding="utf-8")
@@ -59,4 +65,4 @@ with tempfile.TemporaryDirectory() as tmp:
     assert REMOTE not in loader
     assert REMOTE not in index
 
-print("Reader sync local cutover ignores upstream app cache-key revisions")
+print("Bookself sync local cutover ignores upstream app cache-key revisions")
