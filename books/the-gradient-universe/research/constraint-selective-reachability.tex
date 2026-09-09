@@ -1,0 +1,203 @@
+\documentclass[11pt]{article}
+\usepackage{amsmath,amssymb,amsthm,mathtools}
+\usepackage[margin=1in]{geometry}
+\usepackage{hyperref}
+
+\newtheorem{definition}{Definition}
+\newtheorem{proposition}{Proposition}
+\newtheorem{remark}{Remark}
+\newtheorem{assumption}{Assumption}
+
+\title{Constraint-Selective Reachability: A Minimal Formalization}
+\author{Research note for \emph{The Gradient Universe}}
+\date{2026}
+
+\begin{document}
+\maketitle
+
+\section{Status}
+
+This document formalizes a conjecture for criticism and experiment. It does not claim a new law of thermodynamics. Reachability, viability kernels, control-energy tradeoffs, closure of constraints, geometric-mean fitness, bet hedging, and energetic costs of control all have substantial prior art. The candidate contribution is narrower: connect the measured cost of an \emph{endogenously produced physical constraint} to a preregistered change in later viable control/recovery, and test whether that physical prediction improves prediction of persistence or selection under fluctuating conditions.
+
+\section{Controlled dynamics with a constraint architecture}
+
+Let $X$ be a state space, $E$ an environmental state space, and $C$ a set of physically instantiated constraint architectures. For $c\in C$, let $U_c(x,e)$ be the set of admissible controls or internally selectable actions. Consider
+\begin{equation}
+    \dot{x}(t)=f\bigl(x(t),e(t),u(t);c\bigr),
+\end{equation}
+with $u(t)\in U_c(x(t),e(t))$.
+
+The deterministic notation is only a placeholder. A stochastic differential equation, continuous-time Markov chain, reaction network, or hybrid system may replace it.
+
+\begin{definition}[Viable set]
+A predeclared set $K\subseteq X$ is the viable region. A trajectory is viable on $[0,\tau]$ if $x(t)\in K$ for all $t\in[0,\tau]$.
+\end{definition}
+
+\begin{definition}[Physical budget]
+Let $J[u,c;e]$ denote the physical cost of the controlled trajectory under environment $e$. A trajectory is budget-admissible if
+\begin{equation}
+    J[u,c;e]\le B.
+\end{equation}
+The accounting should include, where relevant,
+\begin{equation}
+    J=W_{\rm build}(c)+W_{\rm maintain}(c;\tau)+W_{\rm control}[u]+W_{\rm other}.
+\end{equation}
+\end{definition}
+
+\section{Viable reachability}
+
+\begin{definition}[Budgeted viable reachable set]
+For initial state $x_0$, environment history $e$, architecture $c$, budget $B$, and horizon $\tau$, define
+\begin{equation}
+R^K_\tau(x_0;e,c,B)
+=\left\{x_\tau\in K:\begin{array}{l}
+\exists u(\cdot)\text{ admissible such that }x(0)=x_0,\\
+x(\tau)=x_\tau,\ x(t)\in K\ \forall t\in[0,\tau],\\
+J[u,c;e]\le B
+\end{array}\right\}.
+\end{equation}
+\end{definition}
+
+Let $D$ be a declared family of disturbance protocols.
+
+\begin{definition}[Survivable disturbance set]
+\begin{equation}
+S_\tau(c,B)=\left\{d\in D:\exists u(\cdot)\text{ such that the trajectory under }d
+\text{ remains in }K\text{ and }J\le B\right\}.
+\end{equation}
+\end{definition}
+
+If $\mu$ is a probability measure over $D$, define
+\begin{equation}
+    s(c)=\mu\bigl(S_\tau(c,B)\bigr).
+\end{equation}
+
+The quantity $s(c)$ is environment-specific. It is not a universal measure of biological value.
+
+\begin{remark}[No universal joules-per-future scalar]
+The set $S_\tau$ and the work cost $W_c$ have different mathematical dimensions. A ratio such as ``future options per joule'' has no invariant meaning without additional structure. The primitive comparison should therefore remain set-valued or Pareto-valued, e.g.
+\begin{equation}
+    \bigl(W_c,S_\tau(c,B)\bigr)
+\end{equation}
+or, for a declared disturbance distribution,
+\begin{equation}
+    \bigl(W_c,s(c)\bigr).
+\end{equation}
+A scalar tradeoff appears only after a domain-specific objective is supplied by engineering design, evolutionary fitness, or another independently justified criterion.
+\end{remark}
+
+\section{Constraint-selective reachability}
+
+\begin{definition}[Positive constraint-selective reachability effect]
+Architecture $c_1$ has a positive constraint-selective reachability effect relative to $c_0$ over $(K,D,B,\tau)$ if a preregistered physically relevant subset of disturbances or target states is viable under $c_1$ but not under $c_0$, after all construction and maintenance costs are included.
+\end{definition}
+
+This definition does not require total reachable-set volume to increase. A constraint may remove unsafe transitions and thereby shrink raw reachability while increasing the measure of viable responses.
+
+\section{Minimal evolutionary bridge}
+
+Consider two heritable architectures in a large asexual population.
+
+\begin{assumption}
+Between environmental hazards, architecture $0$ has continuous log-growth rate $r$ and architecture $1$ has log-growth rate $r-c$, with $c>0$ the continuous cost of maintaining the additional constraint architecture.
+\end{assumption}
+
+\begin{assumption}
+Hazards arrive as a Poisson process $N(t)$ of rate $\lambda>0$.
+\end{assumption}
+
+\begin{assumption}
+Each hazard multiplies the abundance of architecture $i$ by a factor $s_i\in(0,1]$. In the intended application $s_i$ is predicted independently from a reachability/viability model, for example
+\begin{equation}
+    s_i=\mu\bigl(S_\tau(c_i,B_i)\bigr).
+\end{equation}
+\end{assumption}
+
+Then
+\begin{equation}
+    P_0(t)=P_0(0)e^{rt}s_0^{N(t)},
+\end{equation}
+and
+\begin{equation}
+    P_1(t)=P_1(0)e^{(r-c)t}s_1^{N(t)}.
+\end{equation}
+
+\begin{proposition}[Hazard-rate crossover]
+Under the assumptions above, the asymptotic log-growth rates satisfy, almost surely,
+\begin{equation}
+    g_0=r+\lambda\ln s_0,
+    \qquad
+    g_1=r-c+\lambda\ln s_1.
+\end{equation}
+If $s_1>s_0$, architecture $1$ has the larger asymptotic log-growth rate exactly when
+\begin{equation}
+    \lambda>\lambda^*\equiv\frac{c}{\ln(s_1/s_0)}.
+\end{equation}
+\end{proposition}
+
+\begin{proof}
+Taking logarithms and dividing by $t$ gives
+\begin{align}
+\frac{1}{t}\ln\frac{P_0(t)}{P_0(0)}
+&=r+\frac{N(t)}{t}\ln s_0,\\
+\frac{1}{t}\ln\frac{P_1(t)}{P_1(0)}
+&=r-c+\frac{N(t)}{t}\ln s_1.
+\end{align}
+For a Poisson process, $N(t)/t\to\lambda$ almost surely. Therefore the stated limits follow. Subtracting yields
+\begin{equation}
+    g_1-g_0=-c+\lambda\ln(s_1/s_0).
+\end{equation}
+For $s_1>s_0$, the logarithm is positive, so $g_1-g_0>0$ if and only if
+\begin{equation}
+    \lambda>c/\ln(s_1/s_0).
+\end{equation}
+\end{proof}
+
+\begin{remark}[What is and is not novel]
+This proposition is a geometric-mean-fitness result for a simple fluctuating environment. It is not claimed as novel. The candidate research contribution is to predict $s_0$ and $s_1$ from measured thermodynamic costs, constraint architecture, and budgeted viable reachability before the evolutionary competition outcome is observed.
+\end{remark}
+
+\section{Disturbance severity representation}
+
+Let disturbance severity be $a\in\mathbb{R}_+$ with distribution $\mu$. Define
+\begin{equation}
+D_i=\left\{a:\exists u\text{ such that }x(t)\in K\ \forall t\le\tau,\ J[u,c_i;a]\le B_i\right\}.
+\end{equation}
+Then
+\begin{equation}
+    s_i=\mu(D_i).
+\end{equation}
+The predicted evolutionary crossover becomes
+\begin{equation}
+    \lambda^*=\frac{c}{\ln\left(\mu(D_1)/\mu(D_0)\right)}.
+\end{equation}
+
+This equation is scientifically useful only if $D_i$, $c$, $\mu$, and $\lambda$ are estimated independently of the final competition outcome.
+
+\section{Limiting cases}
+
+The formalism should satisfy the following sanity checks.
+
+\begin{enumerate}
+\item If $s_1=s_0$ and $c>0$, the costly architecture cannot win in this model.
+\item If $c\to0$ and $s_1>s_0$, then $\lambda^*\to0$.
+\item If $\lambda\to0$, the cheaper architecture wins.
+\item If $s_1<s_0$, the added constraint is harmful under the declared disturbance model.
+\item If the disturbance process is correlated, state dependent, or non-Poisson, the proposition must be replaced by the corresponding long-run Lyapunov or geometric-growth calculation.
+\item If the cost is paid only during hazards rather than continuously, $c$ cannot be inserted unchanged into the formula.
+\item If the architecture changes both benign growth and disturbance susceptibility through additional mechanisms, those terms must be modeled explicitly.
+\end{enumerate}
+
+\section{Falsification requirement}
+
+A first decisive experiment should predeclare $K$, $D$, $\mu$, $B$, the cost accounting, and the two architectures. It should compute or estimate $S_\tau(c_i,B_i)$ before the competition. The predicted crossover should then be compared with simpler alternatives including growth rate alone, geometric-mean fitness fitted directly from outcomes, standard bet-hedging models, resilience metrics, metabolic-control analysis, minimum-control-energy models, and ordinary architecture/control co-design.
+
+If those alternatives predict the data equally well with fewer assumptions, this formulation has not earned explanatory priority.
+
+\section{Closest prior art to engage}
+
+The manuscript's research notes track the closest known work. Especially relevant are Aubin's viability theory; Lakatos and Stumpf on reachable sets in stochastic biochemical systems; Mont\'evil and Mossio on closure of constraints; Kolchinsky and Wolpert on semantic information and viability; Yamagishi and Hatakeyama on thermodynamic cost versus metabolic controllability; recent counterfactual-geometry work on accessible future trajectories; microbial bet-hedging theory and experiment; and stochastic-thermodynamic approaches to biological control.
+
+The intended standard is narrow novelty, explicit assumptions, and failure under comparison rather than novelty by vocabulary.
+
+\end{document}

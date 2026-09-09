@@ -1,0 +1,129 @@
+\documentclass[11pt]{article}
+\usepackage{amsmath,amssymb,amsthm}
+\usepackage[margin=1in]{geometry}
+\usepackage{hyperref}
+
+\newtheorem{proposition}{Proposition}
+\newtheorem{corollary}{Corollary}
+\newtheorem{remark}{Remark}
+\newtheorem{definition}{Definition}
+
+\title{Extended-State Reduction of Recursive Reachability}
+\author{Research note for \emph{The Gradient Universe}}
+\date{2026}
+
+\begin{document}
+\maketitle
+
+\section{Purpose}
+
+This note records a deflationary result. It is included to prevent the manuscript from claiming a new mathematical object where ordinary state augmentation is sufficient.
+
+Let $x\in X$ denote process variables and $c\in C$ variables interpreted at a chosen scale as a physical constraint architecture. Let $e$ denote external forcing and $u$ an admissible control. Suppose
+\begin{align}
+\dot{x} &= f(x,c,e,u),\\
+\dot{c} &= g(x,c,e,u).
+\end{align}
+The second equation permits the system to construct, degrade, maintain, or reconfigure its own architecture.
+
+\begin{proposition}[Extended-state reduction]
+Define the augmented state $z=(x,c)\in Z=X\times C$ and vector field
+\begin{equation}
+F(z,e,u)=\begin{pmatrix}f(x,c,e,u)\\g(x,c,e,u)\end{pmatrix}.
+\end{equation}
+Then every trajectory $(x(t),c(t))$ of the coupled system is exactly a trajectory $z(t)$ of
+\begin{equation}
+\dot{z}=F(z,e,u),
+\end{equation}
+and conversely. Any path constraint, viability condition, or additive physical cost expressible in terms of $(x,c,e,u)$ can therefore be represented as an ordinary constraint or cost on the augmented system.
+\end{proposition}
+
+\begin{proof}
+By definition $z(t)=(x(t),c(t))$. Differentiating componentwise gives
+\begin{equation}
+\dot{z}(t)=\begin{pmatrix}\dot{x}(t)\\\dot{c}(t)\end{pmatrix}
+=\begin{pmatrix}f(x,c,e,u)\\g(x,c,e,u)\end{pmatrix}
+=F(z,e,u).
+\end{equation}
+Projection of any solution $z(t)$ onto its $X$ and $C$ components returns a solution of the two original equations. A viability set $K\subseteq X\times C$, admissible-control rule, and trajectory cost $J[x,c,u;e]$ are functions or subsets on the same augmented state/control space, so standard reachability or viability definitions apply without introducing a separate recursive operator.
+\end{proof}
+
+\begin{corollary}[No formal novelty from self-modification alone]
+The statement that present dynamics change the architecture governing future dynamics does not by itself define a new reachability mathematics. It can be represented by ordinary reachability on an enlarged state space.
+\end{corollary}
+
+\begin{remark}
+The reduction applies equally in discrete time and, with the appropriate state description, to stochastic processes, Markov jump systems, and hybrid systems. The technical details of existence, measurability, controllability, and tractability differ by model class, but state augmentation itself is elementary.
+\end{remark}
+
+\section{What remains open}
+
+The useful scientific question is therefore a coarse-graining question rather than a reachability-definition question.
+
+At a fine enough microscopic scale, a membrane, enzyme abundance, reserve pool, chromatin state, or regulatory molecule is simply part of the state. Calling selected variables ``constraints'' is a modeling choice. The choice is scientifically useful only if it exposes a stable causal regularity at the scale of interest.
+
+\begin{definition}[Useful constraint coarse-graining]
+A partition $z=(x,c)$ is called a useful constraint coarse-graining for a specified prediction problem if the variables $c$ satisfy all of the following to an empirically defensible degree:
+\begin{enumerate}
+\item interventions on $c$ alter the transition law, admissible controls, effective disturbances, transition costs, or viability/recovery boundary of $x$;
+\item construction, maintenance, switching, or opportunity costs associated with $c$ are measurable independently of the outcome being predicted;
+\item $c$ persists or acts across enough faster transitions to support a reduced architectural description at the chosen scale;
+\item a reduced model using $c$ preserves or improves held-out prediction while compressing the microscopic description, reducing data requirements, or improving identifiability;
+\item the decomposition transfers across at least one disturbance family or intervention not used to define it;
+\item it adds predictive or causal value beyond established domain variables and models.
+\end{enumerate}
+\end{definition}
+
+This is a methodological definition, not a new physical law.
+
+\section{Matched-resource intervention test}
+
+Suppose architectures $c_0$ and $c_1$ differ by a measured resource cost $\Delta B>0$. Let $Y$ be a preregistered recovery quantity.
+
+Three comparisons are required:
+
+\begin{enumerate}
+\item $c_0$ with baseline resource budget $B$;
+\item $c_1$ with its architecture and the same total external budget, after charging $\Delta B$ to construction/maintenance;
+\item $c_0$ supplied with an additional resource amount equal to $\Delta B$ but without the architecture $c_1$.
+\end{enumerate}
+
+If comparison 3 reproduces comparison 2, the special architecture is not required to explain the recovery advantage. If intervention on $c$ changes recovery after resource inventory is matched, the organization of the resource has a causal role beyond simple abundance.
+
+\section{Model-comparison criterion}
+
+Let $M_{\mathrm{domain}}$ be an established domain-specific model and $M_{\mathrm{constraint}}$ the proposed coarse model. Fit both without using the held-out disturbance or competition outcome. Let $L$ denote an agreed predictive loss.
+
+The constraint model earns scientific value only if it supplies at least one independently useful gain such as
+\begin{equation}
+L_{\mathrm{test}}(M_{\mathrm{constraint}})<L_{\mathrm{test}}(M_{\mathrm{domain}}),
+\end{equation}
+substantially lower effective dimensionality at comparable held-out error, successful transfer to a new disturbance family, or a causal intervention prediction not supplied by the baseline.
+
+No special metric is required when ordinary model-comparison statistics suffice.
+
+\section{Implication for the manuscript}
+
+The manuscript should not claim:
+
+\begin{itemize}
+\item a new reachability operator;
+\item a new mathematical consequence of architecture changing through time;
+\item a new formal distinction between self-modifying and ordinary dynamics merely because $c$ evolves.
+\end{itemize}
+
+The remaining research claim is empirical:
+
+\begin{quote}
+In some driven chemical or biological systems, a physically motivated separation between faster process variables and slower work-maintained variables that reshape transition structure may provide a compact, transferable, and experimentally causal predictor of robust recovery across disturbances.
+\end{quote}
+
+This claim can fail if the decomposition is arbitrary, costs cannot be measured independently, interventions do not move the predicted recovery boundary, or standard domain models perform equally well with no special constraint language.
+
+\section{Publication consequence}
+
+A positive result would be a useful reduced-order causal description, not a new force or fourth law. Its strength would come from experimental compression and transfer: a small set of measured constraint variables predicting multiple recovery boundaries better than existing alternatives.
+
+The mathematics can already contain the recursion. Only the data can justify the decomposition.
+
+\end{document}
