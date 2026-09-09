@@ -10,7 +10,7 @@ This is not always because everybody else is stupid.
 
 People already have lives.
 
-They have tools, habits, contracts, passwords, colleagues, reporting lines, shortcuts, workarounds, fears, incentives, muscle memory, and a Tuesday afternoon full of things more urgent than admiring your breakthrough.
+They have tools, habits, contracts, colleagues, shortcuts, and a Tuesday afternoon full of things more urgent than admiring your breakthrough.
 
 Innovation arrives as an interruption.
 
@@ -70,9 +70,7 @@ A new programming language borrows syntax developers already recognize.
 
 A new organizational process preserves a ritual people understand while quietly changing what happens inside it.
 
-Familiarity is not cowardice.
-
-Sometimes it is scaffolding.
+Familiarity is sometimes scaffolding.
 
 The mistake is confusing the scaffold with the building.
 
@@ -314,14 +312,6 @@ Because the adopted system will not be identical to the invented one.
 
 It will contain the compromises, proofs, standards, rituals, permissions, interfaces, and social agreements required to live among other systems.
 
-That is not the corruption of innovation.
+Those compromises are innovation acquiring citizenship.
 
-It is innovation acquiring citizenship.
-
-The test of a new thing is not whether people admire it while you are explaining it.
-
-The test is whether, after the explanation ends, they can enter.
-
-Then whether they stay.
-
-Then whether the old door begins to look strange.
+The test of a new thing is whether, after the explanation ends, people can enter—and whether they stay.

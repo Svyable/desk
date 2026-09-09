@@ -64,29 +64,11 @@ Then feed the answer back into the warehouse.
 
 A few operating rules survive almost every domain.
 
-Do not confuse a pile with a corpus.
+Do not confuse a pile with a corpus, storage with memory, or a metric with the thing it measures.
 
-Do not confuse storage with memory.
+Do not confuse centralization with consolidation, a polished prototype with evidence, or AI fluency with provenance.
 
-Do not confuse a metric with the thing it measures.
-
-Do not confuse centralization with consolidation.
-
-Do not confuse a polished prototype with evidence.
-
-Do not confuse a working project with the best use of the resources it consumes.
-
-Do not confuse compatibility with surrender.
-
-Do not confuse AI fluency with provenance.
-
-Do not let every important signal compete on frequency.
-
-Do not make irreversible commitments when a cheap reversible question is still available.
-
-Do not preserve a complexity merely because nobody remembers why it exists.
-
-Do not keep an experiment alive after it stops changing the model.
+Do not let every important signal compete on frequency. Do not make irreversible commitments when a cheap reversible question is still available. Do not preserve a complexity merely because nobody remembers why it exists. Do not keep an experiment alive after it stops changing the model.
 
 When generation becomes cheap, selection becomes expensive.
 
@@ -114,22 +96,6 @@ Choose one cheap experiment that can make reality answer a question you still ca
 
 Then close the notebook.
 
-The purpose of a system is not to create a larger system for maintaining the system.
+The purpose of a system is to make better contact with reality and turn that contact into useful change.
 
-The purpose is to make better contact with reality and turn that contact into useful change.
-
-Collect widely.
-
-Compress ruthlessly, but not blindly.
-
-Combine boldly.
-
-Test cheaply where you can.
-
-Commit deeply when the evidence earns it.
-
-Preserve the lesson.
-
-Delete the debris.
-
-Begin again.
+Collect widely. Compress ruthlessly, but not blindly. Combine boldly. Test cheaply where you can. Commit deeply when the evidence earns it. Preserve the lesson. Delete the debris.

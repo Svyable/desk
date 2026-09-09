@@ -304,10 +304,4 @@ The world can be rude, but at least it is specific.
 
 That specificity is what makes prototyping a bridge from invention to selection.
 
-Once you have several plausible combinations, you do not need more enthusiasm.
-
-You need evidence about which ones deserve another round.
-
-Build the cheapest question you can.
-
-Then make sure it is sharp enough to hurt.
+Once you have several plausible combinations, you do not need more enthusiasm. You need evidence about which ones deserve another round. Build the cheapest question you can, and make sure it is sharp enough to discriminate.

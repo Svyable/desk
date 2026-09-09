@@ -170,6 +170,4 @@ Some names will have outlived their usefulness. Some will have become too broad.
 
 Language accumulates debt too.
 
-The goal is not to possess a perfect vocabulary.
-
-It is to have enough good handles that the important parts of reality do not keep slipping through your fingers.
+What you need is enough good handles that the important parts of reality do not keep slipping through your fingers.

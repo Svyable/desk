@@ -8,7 +8,7 @@ Human memory is generous with impressions and unreliable with coordinates. We re
 
 Civilization solved part of this problem by moving memory outside the skull.
 
-Marks on clay. Knotted cords. Ledgers. Marginalia. Index cards. Laboratory notebooks. Shipping manifests. Census rolls. Card catalogs. Filing cabinets. Source code repositories. Databases. These are not merely storage devices. They are devices for making thought survive its original moment.
+Ledgers. Laboratory notebooks. Card catalogs. Source code repositories. Databases. These are devices for making thought survive its original moment.
 
 Once a fact can outlive the person who noticed it, aggregation changes scale.
 
@@ -32,7 +32,7 @@ The old librarian understood something many software systems forget. Retrieval i
 
 A book placed on a shelf without a classification may technically be present, but presence is a weak form of usefulness. A research note without a source, date, title, or reason for capture is already decaying. A document called `final-v7-really-final.pdf` is an archaeological site disguised as a file name.
 
-The problem is not untidiness. The problem is future interpretation.
+The problem is future interpretation.
 
 When you encounter a useful fact, your present self possesses context your future self will not. You know why you were looking, what question was active, which alternative you had just rejected, and why this particular detail caused you to stop. If you save only the detail, you discard much of its informational value.
 
@@ -104,10 +104,4 @@ The best external systems create a peculiar freedom. They allow you to stop rehe
 
 Once you trust that an obligation is recorded where it will return at the right time, you can stop carrying it in working memory. Once you trust that a source is retrievable, you can think with its implications instead of memorizing its address. Once a decision has a durable explanation, the organization does not need one particular veteran present at every meeting to reconstruct history.
 
-Good external memory makes forgetting safe.
-
-That is a much more useful ambition than remembering everything.
-
-Because the point is not to turn ourselves into archives.
-
-It is to build archives good enough that we can return to being thinkers.
+Good external memory makes forgetting safe—a more useful ambition than remembering everything. Build archives good enough that we can return to being thinkers.

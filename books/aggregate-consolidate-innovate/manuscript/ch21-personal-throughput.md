@@ -14,9 +14,7 @@ Time is fixed.
 
 Throughput is designed.
 
-The useful question is not merely how much you can do.
-
-It is how material moves through you without becoming an ever-growing pile of unexamined obligation.
+The useful question is how material moves through you without becoming an ever-growing pile of unexamined obligation.
 
 This is where Aggregate, Consolidate, Innovate becomes personal.
 
@@ -128,8 +126,6 @@ The object leaves ambiguity.
 
 This is why a perfectly organized task system can still feel terrible if it contains forty-seven “active” projects.
 
-The problem is not organization.
-
 The problem is that language has allowed forty-seven possibilities to claim current status.
 
 Active should mean something.
@@ -194,9 +190,7 @@ The first time you give feedback, you improvise.
 
 Over time, you may develop a small set of principles that make your judgment more portable.
 
-This is not about turning life into procedure.
-
-It is about refusing to spend fresh attention on solved coordination problems.
+The point is refusing to spend fresh attention on solved coordination problems.
 
 Save improvisation for the places that deserve it.
 
@@ -266,8 +260,6 @@ This is how abundance kills curiosity.
 
 A clean throughput system restores lightness because inputs can arrive without automatically becoming debt.
 
-The goal is not inbox zero.
-
 An empty inbox can coexist with a crowded life.
 
 The goal is decision latency appropriate to consequence.
@@ -330,9 +322,7 @@ A walk where the phone remains a phone rather than a slot machine connected to c
 
 Throughput requires empty conveyor belt sometimes.
 
-The practical test is not whether your system looks organized.
-
-Ask whether it helps material change state.
+Ask whether the system helps material change state.
 
 Can a strange observation become a useful note?
 
@@ -352,8 +342,4 @@ If yes, you have more than productivity.
 
 You have metabolism.
 
-That is what a personal system should provide.
-
-Not a prettier pile.
-
-A way for experience to move through you and leave you changed.
+That is what a personal system should provide: a way for experience to move through you and leave you changed.

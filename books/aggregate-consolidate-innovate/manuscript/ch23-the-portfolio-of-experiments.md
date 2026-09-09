@@ -356,10 +356,4 @@ Five sharp experiments that change resource allocation may be.
 
 The portfolio exists to protect this loop from both fear and enthusiasm.
 
-Fear says do nothing until certainty arrives.
-
-Enthusiasm says bet everything because the idea feels alive.
-
-The portfolio says: buy the next piece of evidence at a price you can survive.
-
-Then let reality decide whether the bet deserves to grow.
+Fear says do nothing until certainty arrives; enthusiasm says bet everything because the idea feels alive. The portfolio buys the next piece of evidence at a price you can survive, then lets reality decide whether the bet deserves to grow.

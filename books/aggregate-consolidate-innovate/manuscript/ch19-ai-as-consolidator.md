@@ -222,9 +222,7 @@ What observation would resolve the dispute?
 
 A useful consolidator preserves these dimensions when they matter.
 
-The goal is not to make conflict disappear.
-
-It is to make conflict legible.
+Make conflict legible.
 
 This is where AI can become remarkably powerful.
 
@@ -344,9 +342,7 @@ People sometimes describe AI consolidation as freeing humans from reading.
 
 That is partly true and badly phrased.
 
-The goal is not to eliminate reading.
-
-It is to move human reading toward the parts where judgment has high leverage.
+Move human reading toward the parts where judgment has high leverage.
 
 Let the machine scan the thousand pages.
 
@@ -388,12 +384,4 @@ Not stubborn manualism.
 
 Structured challenge.
 
-AI can help us carry larger worlds.
-
-But every act of carrying requires leaving something behind.
-
-The question is not whether the machine can compress.
-
-It can.
-
-The question is whether we have told it what must survive the journey.
+AI can help us carry larger worlds, but every act of carrying requires leaving something behind. The machine can compress; the open question is whether we have told it what must survive the journey.

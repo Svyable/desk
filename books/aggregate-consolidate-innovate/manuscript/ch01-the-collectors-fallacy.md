@@ -20,7 +20,7 @@ Then something changes.
 
 The twentieth source repeats much of the nineteenth. The fiftieth adds a case study. The hundredth changes the shape of the pile more than the shape of your mind.
 
-This is not an argument for ignorance. It is an argument for noticing marginal value.
+The argument is for noticing marginal value.
 
 The industrial world trained us to respect accumulation because accumulation was expensive. A library was wealth. A laboratory archive represented years of experiments. A newspaper morgue was institutional memory. A company with decades of customer records possessed something competitors could not cheaply reproduce.
 
@@ -42,7 +42,7 @@ Museums have their uses. They are poor substitutes for choices.
 
 The same thing happens privately. We tell ourselves that one more book will prepare us to write, one more course will prepare us to build, one more comparison will prepare us to buy, one more conversation will prepare us to leave. Preparation is useful right up to the moment it becomes camouflage.
 
-The difficult question is not whether you have enough information in some absolute sense. You never do. The difficult question is whether another unit of information is likely to change what you do.
+You never have enough information in some absolute sense. The useful question is whether another unit of information is likely to change what you do.
 
 That question is sharper because it connects collection to consequence.
 
@@ -54,7 +54,7 @@ The world contains infinite detail. A serious person does not therefore owe ever
 
 This is where aggregation becomes a craft rather than a reflex.
 
-A useful collector develops a sense for edges: contradictions, anomalies, unusually costly failures, changes in incentives, facts that would reverse a decision, examples that break the current explanation. The goal is not to own the largest haystack. It is to notice which pieces of straw imply the existence of a needle.
+A useful collector develops a sense for edges: contradictions, anomalies, unusually costly failures, changes in incentives, facts that would reverse a decision, examples that break the current explanation. The craft is noticing which pieces of straw imply a needle.
 
 That requires a stopping rule.
 
@@ -72,12 +72,10 @@ A thousand notes can coexist peacefully. A conclusion forces them into conflict.
 
 The moment you answer, you become vulnerable to correction.
 
-This vulnerability is not a defect in thinking. It is one of its outputs.
+That vulnerability is one of thinking's ordinary outputs.
 
 A mind that never risks being wrong can remain magnificently informed and almost completely inert.
 
-The point of aggregation, then, is not possession. It is exposure. We gather enough of the world to let it disturb our current model. We look for material that can surprise us, contradict us, equip us, or change the available moves. Then, before the warehouse becomes an excuse never to enter the workshop, we close the loading door.
+Aggregation, then, is for exposure. We gather enough of the world to let it disturb our current model. We look for material that can surprise us, contradict us, equip us, or change the available moves. Then, before the warehouse becomes an excuse never to enter the workshop, we close the loading door.
 
 There will always be another truck outside.
-
-Let it wait.

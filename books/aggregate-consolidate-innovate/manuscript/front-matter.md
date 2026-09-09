@@ -6,7 +6,7 @@
 
 There is a warehouse in every ambitious mind.
 
-At first it is almost empty. A few books. A handful of stories. A useful trick learned from somebody older. A failure whose meaning has not yet arrived. Then the shelves begin to fill. Notes accumulate. Tabs remain open. Photographs, transcripts, datasets, quotations, half-built prototypes, introductions, saved posts, papers, tools, passwords, models, and possibilities enter faster than they leave.
+At first it is almost empty. A few books. A handful of stories. A useful trick learned from somebody older. A failure whose meaning has not yet arrived. Then the shelves begin to fill. Notes accumulate. Tabs remain open. Datasets, quotations, half-built prototypes, papers, and possibilities enter faster than they leave.
 
 Modern life is extraordinarily good at helping us fill the warehouse.
 
@@ -26,10 +26,4 @@ The collector can become a hoarder. The consolidator can become a bureaucrat. Th
 
 We have entered an age in which aggregation is becoming nearly free. Machines can retrieve, copy, transcribe, classify, and generate at a scale that would have looked supernatural to a twentieth-century research department. This does not make judgment obsolete. It raises its price.
 
-When abundance becomes ordinary, selection becomes consequential.
-
-When selection becomes consequential, compression matters.
-
-And when everybody has access to many of the same raw materials, the interesting question is what you can make from them that changes reality.
-
-That is where we begin.
+When abundance becomes ordinary, selection becomes consequential, and compression matters. When everybody has access to many of the same raw materials, the interesting question is what you can make from them that changes reality.

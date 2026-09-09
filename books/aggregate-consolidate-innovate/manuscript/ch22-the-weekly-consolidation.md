@@ -398,8 +398,4 @@ A system that works only during orderly weeks is decorative.
 
 When the inbox is full, the project slipped, the travel was exhausting, and the plan broke—that is when consolidation earns its keep.
 
-Do not ask the week to justify itself.
-
-Ask what it taught you.
-
-Then carry less of it forward.
+Ask what the week taught you, then carry less of it forward.

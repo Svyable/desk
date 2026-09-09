@@ -6,9 +6,9 @@ Somebody agrees that this screw thread will be cut this way, that this voltage w
 
 Then the world gets faster.
 
-The interesting thing about standards is not that they make everything identical. It is that they make differences cheaper to connect.
+The interesting thing about standards is that they make differences cheaper to connect.
 
-Imagine a port before containerization as a theater of bespoke friction. Bags, barrels, crates, machinery, furniture, loose goods, cargo shaped like somebody’s problem. Loading meant interpretation. Every object had to be handled according to its form. The port was not merely moving goods. It was repeatedly deciding what each good was.
+Imagine a port before containerization as a theater of bespoke friction. Bags, barrels, crates, machinery, loose goods shaped like somebody’s problem. Loading meant interpretation. Every object had to be handled according to its form. The port was repeatedly deciding what each good was.
 
 A standard container did not simplify the goods inside. It simplified the boundary around them.
 
@@ -18,11 +18,11 @@ A container can hold machine parts or coffee or televisions. The crane does not 
 
 That is what good standards do.
 
-They are not simplifications of reality so much as treaties about where reality may remain complicated.
+They work less as simplifications of reality than as treaties about where reality may remain complicated.
 
 Once you see standards this way, they appear everywhere.
 
-A keyboard layout. A file format. A socket. A measurement. A calendar. A programming interface. A contract clause. A medical form. A highway sign. A barcode. A shipping pallet. A job title. An invoice field.
+A keyboard layout. A file format. A barcode. An invoice field.
 
 Some are elegant. Some are historical accidents that acquired tenure. Some are mildly infuriating. Nearly all become more important as more people build around them.
 
@@ -30,7 +30,7 @@ That last part changes the economics.
 
 A private convention can be improved whenever you like. A public standard becomes infrastructure, and infrastructure develops dependents. Compatibility acquires value independent of beauty.
 
-This is why technically superior replacements so often lose to mediocre incumbents. The replacement is not competing only with the standard. It is competing with every connection the standard has already made possible.
+This is why technically superior replacements so often lose to mediocre incumbents. The replacement is competing with every connection the standard has already made possible.
 
 Engineers understand this when they inherit an awkward protocol. Institutions often do not. They launch a new taxonomy, procurement system, reporting format, customer identifier, permissions model, or operating cadence and ask why adoption is slow.
 
@@ -60,17 +60,9 @@ This is why standards are so often underrated by people attracted to innovation.
 
 But possibility without compatibility has a habit of remaining a demonstration.
 
-A primitive becomes much more powerful when other people can reliably recognize it.
+A component becomes much more useful when another component knows how to connect. A market becomes much larger when buyers and sellers do not need a private language for every transaction.
 
-A component becomes much more useful when another component knows how to connect.
-
-A market becomes much larger when buyers and sellers do not need a private language for every transaction.
-
-A civilization becomes more composable when strangers can coordinate through shared assumptions.
-
-This is not a hymn to uniformity.
-
-Standards can freeze bad choices. They can protect incumbents. They can make temporary conditions look permanent. They can exclude people whose needs were not represented when the standard was written. A metric becomes dangerous when it stops being a convenience and starts masquerading as reality.
+Standards can still freeze bad choices. They can protect incumbents. They can make temporary conditions look permanent. They can exclude people whose needs were not represented when the standard was written. A metric becomes dangerous when it stops being a convenience and starts masquerading as reality.
 
 A mature standard therefore needs escape hatches.
 
@@ -96,7 +88,7 @@ Six months later, everybody is maintaining adapters.
 
 Local elegance can produce global friction.
 
-The question is not whether the existing standard is beautiful. The question is whether changing it creates more possibility than the compatibility it destroys.
+Ask whether changing the existing standard creates more possibility than the compatibility it destroys.
 
 Sometimes the answer is yes. Entire industries have been unlocked by people willing to break from old interfaces. But successful breaks usually come with bridges: converters, dual support, translation layers, familiar metaphors, migration tools, patient periods of overlap.
 
@@ -144,8 +136,4 @@ Do not wait until the hundredth time either. That is tradition charging rent.
 
 Standardize when variation has stopped teaching you enough to justify its coordination cost.
 
-Then leave enough room for the next surprise.
-
-The deepest promise of a standard is not sameness.
-
-It is that two things which have never met can still know how to work together.
+Then leave enough room for the next surprise: two things which have never met can still know how to work together.

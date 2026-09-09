@@ -2,7 +2,7 @@
 
 The inbox is not the problem.
 
-Neither is the stack of unread books, the hundred open tabs, the folder called `READ LATER`, the project board with fourteen items marked in progress, or the little red number on your phone that has acquired the emotional tone of a fire alarm.
+Neither is the stack of unread books, the folder called `READ LATER`, or the little red number on your phone that has acquired the emotional tone of a fire alarm.
 
 The problem is what all of them are doing while you are not looking at them.
 
@@ -42,7 +42,7 @@ A thing can be valuable without deserving your attention.
 
 This distinction is one of the quiet foundations of serious work.
 
-A medical journal contains more useful knowledge than any physician can read. A software repository can contain more issues than a team can fix. A government can collect more statistics than its agencies can act upon. An intelligence service can intercept more signals than analysts can interpret. The difficulty is not merely acquiring important material. It is refusing important material that is less important than something else.
+A medical journal contains more useful knowledge than any physician can read. A software repository can contain more issues than a team can fix. The difficulty is refusing important material that is less important than something else.
 
 Priority is painful because it creates orphans.
 
@@ -64,7 +64,7 @@ A note that says “ask Maya about threshold” may be perfectly useful today an
 
 This is one reason competent people can become prisoners of their own archives. Their systems contain real value, so they hesitate to discard anything. The value then becomes harder to reach because it is buried among old possibilities.
 
-The mature alternative is not minimalism for its own sake. Empty desks can be as performative as crowded ones. The goal is not to possess less information. It is to owe less unchosen attention.
+Empty desks can be as performative as crowded ones. The mature goal is to owe less unchosen attention.
 
 There are only a few honest ways to reduce the debt.
 
@@ -104,7 +104,7 @@ There is a practical test for attention debt that requires no app and no measure
 
 Many tasks fail this test.
 
-So do many documents, subscriptions, meetings, reports, ambitions, and inherited procedures.
+So do many documents, meetings, and inherited procedures.
 
 Their continued existence is not evidence that they remain valuable. It may simply mean nobody has paid the small emotional cost of ending them.
 
@@ -124,12 +124,8 @@ So the collector needs a second skill alongside curiosity: the willingness to cl
 
 Answer the message or archive it. Turn the note into something reusable or throw it away. Read the paper or admit that its role was merely to signal a topic worth remembering. Make the decision while the context is cheap.
 
-The objective is not an empty life.
+The objective is available attention.
 
-It is available attention.
+Available attention is what lets surprise register. It makes deep work possible. It allows you to notice that the old plan is wrong before the meeting devoted to defending it begins. It is the room in which consolidation occurs.
 
-Available attention is what lets surprise register. It is what makes deep work possible. It is what allows you to notice that the old plan is wrong before the meeting devoted to defending it begins. It is the room in which consolidation occurs.
-
-An indebted mind can still collect.
-
-What it struggles to do is think.
+An indebted mind can still collect; what becomes scarce is the room to think.

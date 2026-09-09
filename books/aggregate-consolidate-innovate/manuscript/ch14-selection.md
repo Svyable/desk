@@ -24,9 +24,7 @@ Selection is where innovation stops being a festival of possibility and becomes 
 
 Time goes here and not there. The best engineer joins this project and not that one. The next experiment receives budget. The other prototype is archived. A product is killed. A market is ignored. A feature is postponed long enough that everybody understands what “postponed” really means.
 
-This is not a failure of creativity.
-
-It is the price of consequence.
+Consequence requires that some options die.
 
 A system that generates more options than it can pursue needs a selection mechanism or it becomes a museum of unfinished futures.
 
@@ -326,9 +324,7 @@ Let two approaches survive one more round if the uncertainty is material and the
 
 Premature convergence is just another form of bad compression.
 
-The goal is not to choose quickly.
-
-It is to choose at the right resolution.
+Choose at the right resolution, not merely quickly.
 
 Some decisions deserve decisive concentration.
 
@@ -344,12 +340,6 @@ Others do not.
 
 The selected thing receives resources, scrutiny, and the burden of becoming real.
 
-That burden matters because selection is not applause.
+That burden matters because selection is a commitment to discover whether the idea can survive scale, users, competitors, institutions, maintenance, and time.
 
-It is a commitment to discover whether the idea can survive scale, users, competitors, institutions, maintenance, and time.
-
-Winning the internal tournament is not innovation.
-
-It is permission to enter the next arena.
-
-The outside world is waiting.
+Winning the internal tournament is only permission to enter the next arena.

@@ -174,9 +174,7 @@ Do not compare the next unit with zero.
 
 Compare it with its alternative use.
 
-The question is not whether another month could improve the project.
-
-Of course it could.
+Of course another month could improve the project.
 
 What could the month improve elsewhere?
 
@@ -304,9 +302,7 @@ Which remain alive only because you fear becoming the person who quit?
 
 The person who quits intelligently is often simply the person who allows evidence to alter identity.
 
-That is not weakness.
-
-It is learning with consequences.
+That is learning with consequences.
 
 There is, however, a mirror-image danger: using “knowing when to stop” as sophisticated language for avoiding the ugly middle.
 
@@ -348,8 +344,6 @@ A doomed project often has the same conversation every month.
 
 Repetition without new information is a warning.
 
-The problem is not that results are slow.
-
 The problem is that the loop is no longer producing learning.
 
 This gives us a practical stopping heuristic.
@@ -360,9 +354,7 @@ Pause when cycles repeat.
 
 Stop or redesign when repetition becomes the main output.
 
-This is not a formula.
-
-It is a diagnostic.
+Treat it as a diagnostic.
 
 AI complicates stopping because it can generate another iteration almost for free.
 
@@ -424,10 +416,4 @@ A finished experiment creates evidence.
 
 A retired system frees resources.
 
-A published work creates readers.
-
-A closed chapter creates a next page.
-
-Stopping is not the opposite of motion.
-
-Sometimes it is how motion gets its space back.
+A published work creates readers. A closed chapter creates a next page. Stopping is sometimes how motion gets its space back.

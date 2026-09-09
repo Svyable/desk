@@ -128,7 +128,7 @@ Bad primitives leak their internals.
 
 They require hidden knowledge. They work only when used by the original team. Their documentation says one thing while operational reality depends on six unwritten assumptions. Their interfaces change because internal implementation changed.
 
-This is not abstraction. It is complexity pushed downhill.
+Call it complexity pushed downhill.
 
 AI systems will create enormous pressure around primitives.
 
@@ -190,8 +190,4 @@ What must be extracted, simplified, named, stabilized, and given an interface?
 
 What could become a brick?
 
-The answer may look boring.
-
-That is not a warning sign.
-
-It may be the beginning of everything interesting that comes next.
+The answer may look boring. That is often fine.
