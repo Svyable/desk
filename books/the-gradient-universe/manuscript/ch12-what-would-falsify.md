@@ -14,7 +14,7 @@ So the first rule is brutal:
 
 **No post hoc state space.**
 
-If an experiment is supposed to test whether a membrane, storage pool, regulatory network, or learned policy increases viable reachability, the relevant state variables must be declared before the result. They should be physically measurable and connected to the claimed mechanism.
+If an experiment is supposed to test whether a membrane, storage pool, regulatory network, or learned policy changes viable reachability, the relevant state variables must be declared before the result. They should be physically measurable and connected to the claimed mechanism.
 
 For a microbial experiment that might mean ATP/ADP ratio, membrane potential, intracellular pH, redox state, growth rate, substrate uptake, and damage markers. For an active-matter experiment it might mean collective velocity, cluster structure, polarization, or another measurable macrostate. For a grid it might mean frequency, voltage, reserve, line loading, and recoverability under contingencies.
 
@@ -30,29 +30,29 @@ This is one place where the conjecture can fail immediately. If no non-arbitrary
 
 The third rule is physical bookkeeping.
 
-A larger reachable set is not impressive if the architecture that creates it simply has more resources.
+A changed reachable set is not impressive if the architecture that creates it simply has more resources.
 
-Suppose one bacterium has a costly regulatory system, large energy stores, and more transporters. It survives a wider perturbation range than a stripped-down strain. That does not by itself demonstrate reachability leverage. The comparison has to account for the work and material required to build, maintain, and operate the added architecture.
+Suppose one bacterium has a costly regulatory system, large energy stores, and more transporters. It survives a wider perturbation range than a stripped-down strain. That does not by itself demonstrate a special reachability effect. The comparison has to account for the work and material required to build, maintain, and operate the added architecture.
 
-The correct question is not whether one system has more options.
+The correct question is not whether one system has “more options.”
 
-It is whether the *constraint itself* changes future viable options enough to justify its physical cost under the tested conditions.
+It is whether the *constraint itself* changes a preregistered set of viable recoveries or survivable disturbances enough to matter under the tested cost structure.
 
 That means matching external resource budgets where possible, measuring internal costs, or building a model that makes the cost explicit.
 
-If the supposed reachability advantage disappears once control costs are included, the conjecture has lost that test.
+If the supposed advantage disappears once control costs are included, the conjecture has lost that test.
 
 The fourth rule is to specify the time horizon before the result.
 
 Reachability is always reachability over time.
 
-A storage strategy can dominate over ten hours and lose over ten years. A redundant component can improve short-term robustness while imposing a maintenance burden that matters later. A seed that waits through a dry season gains options; a seed that never germinates has preserved itself into reproductive failure.
+A storage strategy can dominate over ten hours and lose over ten years. A redundant component can improve short-term robustness while imposing a maintenance burden that matters later. A seed that waits through a dry season gains survival; a seed that never germinates has preserved itself into reproductive failure.
 
 A flexible theory could always pick the horizon that makes its preferred architecture look good.
 
 So \(\tau\) is part of the prediction.
 
-If an architecture is claimed to have positive reachability leverage over a 48-hour fluctuating environment, that is the horizon on which it should be tested. A later analysis can ask what happens at one week or one month, but it cannot retroactively rescue the original claim.
+If an architecture is claimed to improve viable recovery over a 48-hour fluctuating environment, that is the horizon on which it should be tested. A later analysis can ask what happens at one week or one month, but it cannot retroactively rescue the original claim.
 
 The fifth rule concerns uncertainty.
 
@@ -64,7 +64,7 @@ Again, it must be declared first.
 
 A microbial experiment might alternate carbon sources, oxygen levels, temperature, osmotic stress, or nutrient interruptions according to a known stochastic protocol. An engineered controller might face bounded load changes or component failures. A synthetic chemical assembly might experience varied drive amplitudes and interruption durations.
 
-The robust reachable set is then tested against that declared family.
+The robust or probabilistic viable response set is then tested against that declared family.
 
 Do not add new disturbances only after the preferred architecture performs well on them.
 
@@ -74,7 +74,7 @@ The reachability conjecture is not competing with ignorance.
 
 It must beat existing theories.
 
-In biology, ordinary fitness models may already predict which strain wins. Resource-allocation theory may explain the trade-off. Control theory may explain regulation without invoking thermodynamic reachability. In ecology, resilience metrics may already capture the effect. In engineering, robust control may predict the failure boundary directly.
+In biology, ordinary fitness models may already predict which strain wins. Geometric-mean fitness and bet-hedging theory already explain why apparently costly strategies can be favored under variable environments. Resource-allocation theory may explain the trade-off. Control theory may explain regulation without invoking a new reachability vocabulary. In ecology, resilience metrics may already capture the effect. In engineering, robust control may predict the failure boundary directly.
 
 If those models perform as well or better with fewer assumptions, then “recursive thermodynamic reachability” may be a useful synthesis for a book but not a scientific advance.
 
@@ -88,9 +88,9 @@ The first is established thermodynamics: sustained active work requires free-ene
 
 The second is control theory: constraints and controls affect which states are reachable.
 
-The third is biological or engineered function: some reachable states count as viable or desirable.
+The third is biological or engineered function: some reachable states count as viable or desirable and some transitions are better closed than opened.
 
-The fourth is the new conjecture: work invested in endogenously maintained constraints can produce a future viable-reachability gain that predicts persistence or adaptation better than present dissipation does.
+The fourth is the new conjecture: work invested in endogenously maintained constraints can produce a **predictable change in later viable control or recovery** that helps explain persistence or adaptation in cases where present dissipation does not.
 
 The first three can all be true while the fourth is false.
 
@@ -104,9 +104,9 @@ The interesting claim is the additional one.
 
 Now consider concrete failures.
 
-The first experiment proposed in the previous chapter compares cheap narrow control with costly broad control under constant and fluctuating environments.
+The first experiment proposed in the previous chapter compares cheap narrow control with costly broader or differently gated control under constant and fluctuating environments.
 
-The prediction is that the costly architecture can become advantageous as environmental variability rises because its viable response set is broader.
+The prediction is not simply that the costly architecture has “more options.” It is that the architecture has a different **survivable disturbance set** or recovery repertoire under the declared physical budget, and that this physical difference implies a quantitative environmental boundary.
 
 This is not the same as predicting that regulatory complexity is always good.
 
@@ -116,19 +116,31 @@ The cheap architecture may win under both constant and fluctuating conditions. T
 
 The costly architecture may win everywhere. That could mean it has some ordinary performance advantage unrelated to variability.
 
-The crossing point may exist but be fully explained by a conventional growth-versus-maintenance model with no need for reachable-set language.
+The crossing point may exist but be fully explained by a conventional growth-versus-maintenance or bet-hedging model with no need for physical reachable-set calculations.
 
 Or the predicted crossing may occur at the wrong level of variability.
 
 Any of those results can narrow or kill the claim.
 
-The second proposed test compares instantaneous dissipation with robust viable reachability as predictors of persistence.
+The first-principles appendix makes the minimal prediction explicit. If hazards arrive as a Poisson process at rate \(\lambda\), the costly architecture pays a continuous log-growth penalty \(c\), and the two architectures have per-hazard survival factors \(s_0\) and \(s_1\), then under the stated assumptions the crossover is
+
+\[
+\lambda^*=\frac{c}{\ln(s_1/s_0)}.
+\]
+
+That equation is not the discovery. Geometric-mean fitness in fluctuating environments is established biology.
+
+The conjecture is tested only if \(s_0\) and \(s_1\) are predicted from the physical architecture, viability criteria, disturbance model, and budget **before** the competition outcome is observed.
+
+If the experiment merely measures survival first and plugs those numbers into the equation, it has confirmed arithmetic, not a new theory.
+
+The second proposed test compares instantaneous dissipation with viable recovery as predictors of persistence.
 
 The hypothesis says there should be regimes in which lower present dissipation accompanies greater future viable capability.
 
 Dormancy makes that plausible, but a qualitative example is not enough.
 
-A strong experiment would measure dissipation or a defensible proxy, measure or calculate a preregistered reachable-set quantity, expose systems to a future perturbation distribution, and compare predictive performance.
+A strong experiment would measure dissipation or a defensible proxy, measure or calculate a preregistered viable-response quantity, expose systems to a future perturbation distribution, and compare predictive performance.
 
 If current dissipation predicts survival just as well, reachability has added nothing.
 
@@ -138,7 +150,7 @@ If a standard resilience metric predicts survival just as well, the burden rises
 
 The third test concerns failure-before-energy-exhaustion.
 
-The conjecture predicts that some systems lose accessible futures before they lose raw energetic resources.
+The conjecture predicts that some systems lose accessible recovery routes before they lose raw energetic resources.
 
 This can be tested in cells, machines, networks, or other controlled systems.
 
@@ -158,23 +170,29 @@ Match the total external fuel budget.
 
 Then expose both systems to a predeclared family of future drives.
 
-The reachability conjecture predicts positive leverage only if the constructed constraint allows the system to reach or recover viable target states the unconstrained architecture cannot, after the work cost of the constraint is counted.
+The conjecture predicts a meaningful effect only if the constructed constraint changes which declared viable target states or disturbance protocols the system can handle after the work cost of the constraint is counted.
 
 If the constraint merely looks more organized, that is not enough.
 
-If it lasts longer but cannot do anything new, that is not necessarily enough.
+If it lasts longer but cannot do anything functionally different under the declared test, that is not necessarily enough.
 
-If it opens one future while closing another, the comparison has to remain set-valued or use a task distribution declared in advance.
+If it opens one future while closing another, the comparison must remain set-valued or use a task/disturbance distribution declared in advance.
+
+This last case matters because **raw reachability can shrink while viable reachability improves**.
+
+A membrane or checkpoint can make many physical trajectories inaccessible. That restriction may be exactly what prevents destructive equilibration or failure. A theory that counts only the size of the reachable state space could therefore rank a broken system above a regulated one.
+
+That would be a fatal metric error.
 
 The fifth test concerns memory.
 
 A physical memory consumes resources to write, maintain, retrieve, or protect.
 
-The reachability account says its functional value is not mystical information content. It is causal modification of future action possibilities or their cost.
+The reachability account says its functional value is not mystical information content. It is causal modification of future action possibilities, recovery routes, or their cost.
 
-A learned controller and an untrained controller can be given the same present energy budget and the same future task family. If the learned system can recover from more perturbations, reach more target states, or do so at lower cost because of the stored information, memory has demonstrated reachability leverage.
+A learned controller and an untrained controller can be given the same present energy budget and the same future task family. If the learned system can recover from more perturbations, reach selected target states, or do so at lower cost because of the stored information, memory has demonstrated a task-specific reachability effect.
 
-If the memory changes internal state without changing future capability in any measurable way, it has no functional leverage in that experiment.
+If the memory changes internal state without changing future capability in any measurable way, it has no functional effect in that experiment.
 
 This gives the theory a way to lose without claiming that “information always matters somehow.”
 
@@ -194,9 +212,15 @@ Not necessarily. The eight may be robust and the ten fragile. The ten may all be
 
 There is no universal scalar called “amount of reachability” waiting to be discovered by naming it.
 
-That is why set dominance, viability under disturbances, target-specific reachability, and Pareto frontiers are safer starting points than a grand scalar index.
+That is why set dominance, survivable-disturbance sets, target-specific reachability, recovery costs, and Pareto frontiers are safer starting points than a grand scalar index.
 
-If the research program eventually needs a scalar, its measure must be tied to a declared physical or functional problem.
+The units tell us why.
+
+Work is measured in joules or another physical resource unit. Set inclusion has no unit. Survival probability is dimensionless. Long-run reproductive growth has inverse-time units when written as a log-growth rate.
+
+A universal quotient of “future options per joule” would require an invariant mapping that has not been supplied.
+
+If the research program eventually needs a scalar, its measure must be tied to a declared physical, engineering, or evolutionary problem.
 
 This caution differentiates the conjecture from the maximum-entropy-production temptation it is meant to replace.
 
@@ -214,7 +238,7 @@ Those examples are not embarrassing.
 
 They are strong tests.
 
-A reachability-based evolutionary model should predict when reduced capability is favored because maintaining unused options costs more than they are worth.
+A reachability-based evolutionary model should predict when **reduced** capability or tighter gating is favored because maintaining unused transitions costs more than they are worth.
 
 If it simply labels every loss “negative reachability leverage that was adaptive,” it has again become post hoc.
 
@@ -240,9 +264,9 @@ The reachability framework should remain a physical account of control depth, no
 
 This distinction can be tested in machines.
 
-A passive self-organizing system, a feedback controller, and a model-predictive controller can be given the same energy budget and disturbance family. Their reachable sets can be measured. If model-based control does not expand future viable states or reduce the cost of reaching them, the supposed advantage disappears in that task.
+A passive self-organizing system, a feedback controller, and a model-predictive controller can be given the same energy budget and disturbance family. Their viable recovery sets can be measured. If model-based control does not expand or favorably reshape future viable states, or reduce the cost of reaching them, the supposed advantage disappears in that task.
 
-The theory should not assume intelligence guarantees reachability leverage.
+The theory should not assume intelligence guarantees a reachability advantage.
 
 Poor models can make a system worse.
 
@@ -257,6 +281,8 @@ Viability kernels already exist.
 Reachable sets already exist.
 
 Robust control already exists.
+
+Bet hedging already exists.
 
 Constraint closure already exists.
 
@@ -276,11 +302,11 @@ The strongest route to novelty is therefore not branding.
 
 It is a prediction that falls between the existing literatures.
 
-For example: take a system in which a control architecture has a known thermodynamic cost. Calculate, before experiment, how that architecture changes the robust viable reachable set under a specified disturbance process. Predict a threshold at which the added reachability becomes worth its cost. Then test whether persistence or fitness changes at that threshold.
+For example: take a system in which a control architecture has a known thermodynamic cost. Calculate, before experiment, how that architecture changes the budget-admissible viable recovery set under a specified disturbance process. Predict a threshold at which the changed recovery probability becomes worth its cost. Then test whether persistence or fitness changes at that threshold.
 
 That would connect thermodynamic cost, control geometry, and adaptation in one measurement.
 
-If the threshold prediction works where simpler power, efficiency, and resource models fail, the idea becomes interesting.
+If the threshold prediction works where simpler power, efficiency, bet-hedging, resilience, and resource models fail, the idea becomes interesting.
 
 If not, remove the grand language.
 
@@ -314,11 +340,11 @@ The system boundary also matters.
 
 A refrigerator appears to create a temperature gradient until the power plant is included. A cell builds ion gradients by degrading chemical free energy. A battery charger increases electrochemical disequilibrium while drawing power from elsewhere. Recursive reachability never means creating usable free energy from nothing.
 
-It means redirecting available work so that one part of the system's future state space changes.
+It means redirecting available work so that one part of the system's transition structure changes.
 
 Every experiment must close the energetic books over an appropriate boundary.
 
-If a claimed reachability gain disappears when hidden external work is included, the claim fails.
+If a claimed reachability effect disappears when hidden external work is included, the claim fails.
 
 This leaves a hierarchy of confidence.
 
@@ -328,7 +354,7 @@ Control-theoretic reachability is not at stake.
 
 The existence of biological regulation is not at stake.
 
-The novel claim is the proposed explanatory connection: that thermodynamically costly, endogenously maintained constraints can be evaluated by how they reshape robust viable futures, and that this can explain adaptive persistence in cases where instantaneous dissipation-based principles fail.
+The novel claim is the proposed explanatory connection: that thermodynamically costly, endogenously maintained constraints can be evaluated by how they reshape budget-admissible viable futures, and that this can explain adaptive persistence in cases where instantaneous dissipation-based principles fail.
 
 That claim is ambitious enough.
 
@@ -337,6 +363,8 @@ It has many ways to die.
 Good.
 
 A theory should have enemies in the data.
+
+The research folder now contains a hierarchical proof audit, a standard-library toy simulation, a validation record, and a preregisterable experiment protocol. Those files are not decoration. They are a list of promises the conjecture has to keep.
 
 The next chapters will use the reachability idea cautiously when discussing minds, tools, and civilization. They should not assume the conjecture is true. They should ask a more modest question: does prediction, memory, storage, infrastructure, or coordination measurably change the future set of physical actions available to the system under finite budgets?
 
