@@ -73,8 +73,8 @@ library.
 
 - Chapters are a single `# Title` heading, then paragraphs. No YAML front
   matter. No HTML comments in chapter files.
-- Book READMEs are an info table plus a checkbox table of contents. No YAML front
-  matter.
+- Book READMEs are an info table plus a checkbox table of contents. No YAML
+  front matter.
 - Follow existing naming: `books/<slug>/`, `chNN-slug.md`, `front-matter.md`,
   `back-matter.md`.
 - Images live in that book's `media/` folder and are referenced with
