@@ -6,47 +6,83 @@
 
 A difference can do work. A temperature difference can drive heat flow. A pressure difference can move a fluid. A voltage can move charge. A chemical-potential difference can power a reaction. Remove the difference and the capacity to do that work disappears.
 
-But there is a second fact that is easy to miss.
+There is another fact that matters almost as much.
 
-A structure can change which work remains possible later.
+Structure changes which transformations actually happen.
 
-A membrane blocks some flows and permits others. A pump spends chemical work to build an ion gradient that can be used later. A battery separator prevents a fast internal reaction so charge can be routed through an external circuit. A seed suppresses metabolism until environmental conditions change. A nervous system spends energy sensing and remembering so an organism does not have to pay the full cost of physically trying every possible action. A grid keeps reserve capacity idle so it can survive contingencies that have not happened yet.
+A membrane blocks some flows and permits others. A catalyst alters a reaction rate without changing the equilibrium bookkeeping. A pump spends chemical work to build an ion difference that can be used later. A battery separator prevents a fast internal reaction so stored chemical free energy can be routed through an external circuit. A seed suppresses most metabolism until conditions change. A power grid keeps equipment idle because reserve capacity is valuable precisely when it is not being used.
 
-These systems are not interesting because they dissipate gradients as fast as possible.
+None of these examples is well described by saying that the system dissipates as quickly as possible.
 
-They are interesting because they control the future consequences of dissipation.
+The interesting physics lies in what the structure permits, prevents, stores, delays, couples, and makes recoverable.
 
-That distinction is the center of this book.
+That distinction became the center of this book only after the first version of the argument failed.
 
-The first layer of the argument is ordinary thermodynamics: usable work depends on departures from equilibrium, irreversible processes produce entropy, and maintained open systems can preserve local organization only while exchanging energy and matter with their surroundings. The second is the established but system-specific science of matter driven away from equilibrium: under appropriate boundary conditions, flows can become unstable, symmetry can break, patterns can form, active matter can organize, and stochastic thermodynamics can place quantitative bounds on fluctuations, work, and dissipation. The third layer is contested: maximum entropy production, maximum power, constructal ideas, dissipative adaptation, and other proposals that try to explain which non-equilibrium states are selected.
+The first layer is ordinary thermodynamics: usable work depends on departures from equilibrium, irreversible processes produce entropy, and active open systems maintain local organization only by exchanging energy and matter with their surroundings. The second is the established but system-specific science of matter driven away from equilibrium: transport, nonlinear instability, reaction networks, turbulence, active matter, stochastic thermodynamics, and the many mechanisms by which forcing produces motion and structure. The third layer is more contentious: maximum entropy production, maximum power, constructal ideas, dissipative adaptation, and other attempts to identify a general principle selecting among possible non-equilibrium states.
 
-The book began by asking whether one of those maximum principles could unify stars, life, minds, and civilization.
+I began with more sympathy for that third layer than I ended with.
 
-It ends up proposing a different question.
+The second law constrains histories. It does not usually choose one history for us. A battery can discharge through a useful circuit or short itself. A cell can spend ATP on growth, storage, pumping, repair, or a stress response. A seed can germinate or wait. The realized path depends on kinetics, geometry, boundaries, feedback, history, and — once heredity exists — natural selection.
 
-Given a finite physical budget, **which future states can a system still reach while remaining viable, and how does work invested in a constraint change that set?**
+The first revision of this book tried to replace maximum dissipation with a different unifying idea: perhaps the important quantity is the set of viable futures a system can still reach. That was better, but still too easy.
 
-Control theory already studies reachability and viability. Biology already studies regulation, robustness, and constraint closure. Nonequilibrium physics already studies the thermodynamic costs of precision, control, and active dynamics. Recent work even treats biological function in terms of latent non-equilibrium capacity and distributions over unrealized futures.
+Control theory has studied reachability and viability for decades. Cybernetics has studied the variety required for regulation since Ashby. Information theory has produced measures such as empowerment for potential control over future outcomes. Biology has extensive literatures on robustness, bet hedging, anticipatory regulation, dormancy, resource allocation, and self-maintained constraints. Modern nonequilibrium physics studies the energetic price of control, sensing, precision, and feedback.
 
-This book does not pretend those ideas were waiting to be invented here.
+Worse for any claim of formal novelty, a system that changes its own architecture does not require a special new reachability mathematics. If process variables are \(x\) and an architecture is \(c\), then dynamics of the form
 
-Its candidate contribution is narrower: **recursive thermodynamic reachability** — the conjecture that a driven system can spend present free energy to construct or maintain a physical constraint that changes its later viable reachable states, and that the work cost and the resulting reachability gain can be measured separately. I call the latter effect *reachability leverage*.
+\[
+\dot{x}=f(x,c,e,u),
+\qquad
+\dot{c}=g(x,c,e,u)
+\]
 
-If the conjecture is useful, it should explain something that maximum-dissipation stories do not. It should explain why storage, insulation, dormancy, repair, redundancy, memory, and reserve capacity can be favored even though they reduce present throughput. It should predict when an expensive control architecture becomes worth its energetic cost in a fluctuating environment. It should distinguish a dormant-but-viable system from a dead system before the outcome is already known. It should sometimes detect impending failure while raw energy remains available but the system has lost the couplings needed to use it.
+can be written as ordinary dynamics for the enlarged state \(z=(x,c)\).
 
-If it cannot do those things, it should be discarded or reduced to a metaphor.
+The recursion disappears into the state vector.
 
-That is why this book is not a declaration of a fourth law of thermodynamics. It is a research program with escape hatches deliberately closed. The system boundary must be named. The relevant gradient must be physically measurable. The constraint must have a cost. The reachable or viable states must be specified before the result. Competing explanations must be allowed to win.
+That reduction improved the book again.
 
-The same discipline applies as the argument moves outward from physics. A neuron depends literally on electrochemical gradients. A thought does not become a thermodynamic gradient merely because it contains more or less uncertainty. A printing press consumes energy. A revolution is not derivable from an exergy balance. Thermodynamics constrains every physical implementation while leaving room for chemistry, evolution, neuroscience, economics, institutions, and history to supply explanations at their own levels.
+What remains is a harder and more useful question: **when does it help to treat some physical variables as constraints rather than as just more coordinates?**
 
-The strongest version of the gradient story is therefore not that the universe prefers complexity.
+At microscopic resolution, a membrane is molecules. An enzyme is molecules. A reserve pool is molecules. Nothing in fundamental physics marks one component with the label *constraint*. The distinction is a coarse-graining. It earns its place only when it compresses causal structure.
 
-It is that differences make work possible, constraints control how those differences can change, and some systems spend work to change the set of futures physically available to them.
+A good candidate constraint should survive intervention. Change it and the relevant transition law or recovery boundary should move. Its construction or maintenance cost should be measurable independently. It should persist long enough, or act across enough faster processes, that treating it as architecture actually simplifies the problem. The reduced model should predict held-out perturbations. Ideally the same decomposition should transfer to another disturbance without being reinvented.
 
-Whether that final step is a useful general principle remains an empirical question.
+And it should beat the obvious alternatives.
 
-This book tries to make the question precise enough to answer.
+If ATP inventory predicts recovery just as well, use ATP. If a standard robustness calculation works, use it. If Ashby's requisite variety, an empowerment measure, a metabolic-control model, or ordinary physiology already explains the result with less machinery, the new vocabulary has not earned anything.
+
+This creates a severe experimental test.
+
+Suppose one architecture spends resources maintaining a selective barrier, regulatory coupling, reserve, or repair system. Measure that cost. Measure enough of the transition dynamics to predict, before the next disturbance, which recovery paths remain physically possible within a fixed budget. Then remove the architecture. Give the comparison system the same extra resource without giving it the structure. Hold back a second disturbance class. If the proposed constraint variable still predicts where recovery succeeds and fails — and does so more compactly or more transferably than the competing models — then the coarse-graining has earned scientific value.
+
+If not, discard it.
+
+This is smaller than announcing a fourth law of thermodynamics. It may also be more worth doing.
+
+The book still uses the phrase **recursive thermodynamic reachability** because that is the road by which the problem became visible: present work can maintain structures that alter later physical possibilities, and some of the resulting processes can in turn rebuild those structures. But the phrase should be read as a research program, not a new force, objective function, or formal operator.
+
+The more precise object developed in the appendices is **constraint-selective viable recovery** under a physical budget. Even that is not claimed as an invention of reachability theory. Its purpose is to force the accounting into one place: what the architecture costs, what transitions it removes or enables, which perturbations remain recoverable, and what a competing explanation predicts.
+
+This turns several familiar examples inside out.
+
+A good membrane may reduce the number of molecular trajectories available to a cell. A checkpoint succeeds by forbidding transitions. An inhibitory circuit removes actions. A dormant state can retain recovery capacity while present throughput approaches zero. Regulation often does not create more possibilities. It makes many possibilities inaccessible so a smaller set remains controllable.
+
+That is one of the book's central corrections.
+
+The same discipline applies as the argument moves outward from physics. A neuron depends literally on electrochemical gradients. A thought does not become a thermodynamic gradient merely because it contains uncertainty. A printing press consumes energy. A revolution is not derivable from an exergy balance. Thermodynamics constrains every physical implementation while chemistry, evolution, neuroscience, economics, institutions, and history provide explanations at their own levels.
+
+So the strongest version of the gradient story is no longer that the universe prefers complexity, or dissipation, or even optionality.
+
+It is simpler.
+
+Differences make work possible. Structures shape the paths along which those differences change. Some structures are themselves maintained by work. In living systems, some of those maintained structures alter the conditions under which the processes that rebuild them remain possible.
+
+We already possess mathematics capable of representing that fact.
+
+The open question is whether identifying the right constraints gives us a better science of recovery.
+
+This book tries to make that question precise enough to lose.
 
 ---
 
