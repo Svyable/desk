@@ -1,26 +1,16 @@
 # Legibility Drift
 
-A machine does not need to misunderstand you to change you.
-
-It only needs to see some parts of you more clearly than others.
+A machine does not need to misunderstand you to change you. It only needs to see some parts of you more clearly than others.
 
 Imagine two employees. One prevents problems. The other resolves them quickly after they occur. A dashboard can count resolved tickets with little ambiguity. Prevention is harder. It appears as an absence: the outage that never happened, the customer who never became angry, the defect caught before it entered production, the colleague quietly taught enough to avoid a future mistake.
 
-If the organization rewards the countable work, the second employee has an advantage even when the first creates more value.
-
-Nothing dishonest has happened. Nobody manipulated the metric. The system measured what it could see.
-
-That is enough.
+If the organization rewards the countable work, the second employee has an advantage even when the first creates more value. Nothing dishonest has happened. Nobody manipulated the metric. The system measured what it could see. That is enough.
 
 Over time, people shift effort toward the visible work. Managers hire people whose records contain the visible work. Training emphasizes it. Promotions validate it. New software is designed around it. The organization gradually becomes better at producing evidence of the thing it can measure.
 
-I call this legibility drift.
+I call this legibility drift. The term is less a law than a recurring pressure. When a selection system matters, the population being selected has reason to move toward characteristics the system can observe, compare, and reward.
 
-The term is less a law than a recurring pressure. When a selection system matters, the population being selected has reason to move toward characteristics the system can observe, compare, and reward.
-
-The drift can be beneficial.
-
-Hospitals that record medication accurately are safer. Products with standardized dimensions are easier to compare. Code with tests is easier to trust. Buildings with inspectable safety systems are easier to regulate. Financial statements create a common language for outsiders who cannot personally inspect every factory and invoice. Civilization scales by making important facts legible to strangers.
+The drift can be beneficial. Hospitals that record medication accurately are safer. Products with standardized dimensions are easier to compare. Code with tests is easier to trust. Buildings with inspectable safety systems are easier to regulate. Financial statements create a common language for outsiders who cannot personally inspect every factory and invoice. Civilization scales by making important facts legible to strangers.
 
 The alternative to measurement is not perfect human understanding.
 

@@ -4,27 +4,19 @@ The résumé has always been a machine for reducing a life.
 
 A person works for twenty years, changes cities, learns from bad bosses, becomes good at calming difficult customers, fixes mistakes nobody records, raises children, studies at night, survives layoffs, develops judgment, and eventually compresses the whole thing into two pages.
 
-The compression is not new.
-
-What is new is the possibility that the first reader of the compression is itself a machine.
+The compression is not new. What is new is the possibility that the first reader of the compression is itself a machine.
 
 This fact has generated more folklore than clarity.
 
 Job applicants are told that automated systems reject résumés if they use the wrong template, that invisible keyword scores decide whether a human ever looks, that artificial intelligence silently ranks everyone, that graphics confuse parsers, that certain phrases unlock the gate, that a résumé can be “optimized for ATS” as if every applicant-tracking system were one machine with one appetite.
 
-Some of this advice contains practical truth.
-
-Much of it collapses several different technologies into a single imaginary robot recruiter.
+Some of this advice contains practical truth. Much of it collapses several different technologies into a single imaginary robot recruiter.
 
 Applicant-tracking systems can store applications, parse documents, manage workflow, search candidate records, schedule interviews, and help recruiters organize large pools. Employers may also use assessments, matching tools, ranking systems, chatbots, video tools, or products that fall under legal definitions of automated employment decision systems. The degree of automation varies enormously. A system used by one employer may simply help a recruiter search. Another may score candidates. Another may automate scheduling but leave substantive evaluation to people.
 
-There is no universal machine standing at the entrance to employment.
+There is no universal machine standing at the entrance to employment. There is, however, a growing machine-readable layer between applicant and employer.
 
-There is, however, a growing machine-readable layer between applicant and employer.
-
-That layer is enough to alter behavior.
-
-A candidate who believes a résumé will be parsed has reason to use recognizable headings. A candidate who believes recruiters search by skill terms has reason to describe experience in the vocabulary used by the role. A candidate applying through a structured form has to fit experience into the provided fields. A candidate taking an automated assessment learns what kinds of evidence the assessment collects.
+That layer is enough to alter behavior. A candidate who believes a résumé will be parsed has reason to use recognizable headings. A candidate who believes recruiters search by skill terms has reason to describe experience in the vocabulary used by the role. A candidate applying through a structured form has to fit experience into the provided fields. A candidate taking an automated assessment learns what kinds of evidence the assessment collects.
 
 This can be good discipline.
 

@@ -1,34 +1,20 @@
 # The Right to Be Illegible
 
-Privacy is often described as hiding information.
+Privacy is often described as hiding information. That is too narrow for algorithmic life.
 
-That is too narrow for algorithmic life.
-
-Sometimes the important freedom is not to hide a fact but to prevent one representation of the fact from becoming the only way an institution can see you.
-
-A person can be accurately measured and still be misunderstood.
+Sometimes the important freedom is not to hide a fact but to prevent one representation of the fact from becoming the only way an institution can see you. A person can be accurately measured and still be misunderstood.
 
 The worker completed fewer tickets because she solved the hardest ones. The applicant lacks the conventional title because his career crossed industries. The customer watches a series of videos about grief because a friend died, not because grief has become a durable preference. The merchant has few reviews because the business is new, not because it is untrustworthy.
 
-The data can be correct.
+The data can be correct. The inference can still be wrong.
 
-The inference can still be wrong.
+This is why autonomy in an algorithmic society requires more than data protection. It requires room for context, correction, exception, and sometimes refusal of the model itself.
 
-This is why autonomy in an algorithmic society requires more than data protection.
+I call this the right to be illegible. Not a literal universal legal right. Not a demand that institutions stop measuring. Not a romantic defense of opacity.
 
-It requires room for context, correction, exception, and sometimes refusal of the model itself.
+It is a design principle: consequential systems should preserve meaningful ways for people to avoid being trapped by one machine-readable representation of themselves. The principle begins with a fact we have seen throughout the book.
 
-I call this the right to be illegible.
-
-Not a literal universal legal right. Not a demand that institutions stop measuring. Not a romantic defense of opacity.
-
-It is a design principle: consequential systems should preserve meaningful ways for people to avoid being trapped by one machine-readable representation of themselves.
-
-The principle begins with a fact we have seen throughout the book.
-
-Legibility is useful.
-
-Search works because pages can be indexed. Commerce works because products have identifiers and prices. Fraud systems work because transactions leave patterns. Hiring works at scale because applications can be organized. Recommendation works because behavior supplies evidence. Logistics works because packages can be tracked.
+Legibility is useful. Search works because pages can be indexed. Commerce works because products have identifiers and prices. Fraud systems work because transactions leave patterns. Hiring works at scale because applications can be organized. Recommendation works because behavior supplies evidence. Logistics works because packages can be tracked.
 
 A world without machine legibility would be less convenient, less accessible, and in many cases less fair.
 

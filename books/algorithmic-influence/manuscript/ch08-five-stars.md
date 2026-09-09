@@ -1,26 +1,16 @@
 # Five Stars
 
-The star is smaller than the transaction.
+The star is smaller than the transaction. A guest checks out of an apartment after three nights. The host cleaned, answered messages, replaced a missing key, left instructions, and perhaps worried about whether the building would be quiet. The guest slept badly one night because people shouted on the street. The shower was excellent. The kitchen knives were dull. The neighborhood was better than expected. The bed was softer than the guest prefers.
 
-A guest checks out of an apartment after three nights. The host cleaned, answered messages, replaced a missing key, left instructions, and perhaps worried about whether the building would be quiet. The guest slept badly one night because people shouted on the street. The shower was excellent. The kitchen knives were dull. The neighborhood was better than expected. The bed was softer than the guest prefers.
-
-A relationship containing dozens of impressions ends with a row of stars.
-
-The compression is useful.
+A relationship containing dozens of impressions ends with a row of stars. The compression is useful.
 
 Without it, a stranger considering the apartment next month would know almost nothing. Reputation systems made remote exchange possible at a scale that earlier commerce could not easily support. A traveler can book a home owned by someone she has never met. A passenger can enter a stranger's car. A buyer can send money to a small merchant across the country. A company can hire a freelancer on another continent.
 
-Trust used to be expensive.
+Trust used to be expensive. It came from institutions, brands, professional licenses, personal relationships, local knowledge, or repeated dealings. Digital reputation created another form: accumulated evidence from previous strangers.
 
-It came from institutions, brands, professional licenses, personal relationships, local knowledge, or repeated dealings. Digital reputation created another form: accumulated evidence from previous strangers.
+This was a remarkable economic invention. It was also an invitation to optimize the evidence.
 
-This was a remarkable economic invention.
-
-It was also an invitation to optimize the evidence.
-
-The moment a rating affects future opportunity, the rated person begins working for two customers.
-
-One customer is standing in front of him.
+The moment a rating affects future opportunity, the rated person begins working for two customers. One customer is standing in front of him.
 
 The other is the future system that will read the score.
 

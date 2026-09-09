@@ -1,18 +1,12 @@
 # A Feed Without Followers
 
-The follower count used to be the map.
+The follower count used to be the map. A person opened an account, persuaded other people to follow, and slowly accumulated a distribution network. The number beside the profile name became a rough description of reach. It was never exact. Not every follower saw every post, people drifted away without unfollowing, and platforms ranked material even inside ostensibly social feeds. But the basic mental model was intuitive: build an audience, then publish to it.
 
-A person opened an account, persuaded other people to follow, and slowly accumulated a distribution network. The number beside the profile name became a rough description of reach. It was never exact. Not every follower saw every post, people drifted away without unfollowing, and platforms ranked material even inside ostensibly social feeds. But the basic mental model was intuitive: build an audience, then publish to it.
-
-Recommendation weakened the second half of that sentence.
-
-You could publish to people who had never chosen you.
+Recommendation weakened the second half of that sentence. You could publish to people who had never chosen you.
 
 This did not begin with TikTok, and it did not belong to one company. YouTube had spent years recommending videos beside and after other videos. Music and streaming services built personalized discovery systems. News aggregators ranked stories. Shopping sites suggested products. Social platforms increasingly inserted recommended material from outside a user's explicit network.
 
-TikTok made the transition culturally impossible to miss because the For You feed was not an accessory to a social graph. For many users it was the product.
-
-Open the app and the first task was not to decide whom to follow. It was to react.
+TikTok made the transition culturally impossible to miss because the For You feed was not an accessory to a social graph. For many users it was the product. Open the app and the first task was not to decide whom to follow. It was to react.
 
 Watch. Skip. Rewatch. Like. Share. Search. Follow. Ignore. The feed could begin building a model of taste from behavior rather than requiring the user to hand-build a list of trusted sources in advance.
 
@@ -24,19 +18,13 @@ That is why recommendation cannot be understood only as domination.
 
 The old social graph had its own inequality. Popular accounts entered every new publishing cycle with an installed audience. Famous people, established media organizations, celebrities, brands, and creators who had already compounded years of attention possessed distribution before making the next thing. Recommendation systems could preserve those advantages, but they could also interrupt them. A video from an unknown account could be evaluated against observable responses and moved outward without waiting for the creator to become socially connected enough to deserve a chance.
 
-This was thrilling.
+This was thrilling. It was also destabilizing.
 
-It was also destabilizing.
-
-When followers guarantee less, creators become more dependent on the machine's current assessment of each piece of work.
-
-The difference resembles the move from owning a theater to auditioning for a room every night.
+When followers guarantee less, creators become more dependent on the machine's current assessment of each piece of work. The difference resembles the move from owning a theater to auditioning for a room every night.
 
 An established audience is an asset because it reduces uncertainty. A mailing list, subscription base, customer file, or community can be reached repeatedly at relatively low marginal cost. The person running it does not control what every recipient does, but the channel itself is comparatively direct.
 
-A recommendation feed turns distribution into a repeated contest.
-
-The creator does not simply ask, Will my audience like this? The creator asks whether the system will decide that some set of people is likely enough to like it to justify showing it, then whether those people's behavior will produce enough evidence to justify showing it to more people.
+A recommendation feed turns distribution into a repeated contest. The creator does not simply ask, Will my audience like this? The creator asks whether the system will decide that some set of people is likely enough to like it to justify showing it, then whether those people's behavior will produce enough evidence to justify showing it to more people.
 
 This is not exactly how every recommender works. Production systems contain many models, objectives, constraints, safety layers, exploration strategies, product rules, and business choices. Some systems rank among subscribed sources; some generate candidates from across a platform; some blend multiple sources; some optimize several objectives at once. The point is not a universal architecture.
 
@@ -44,19 +32,11 @@ The point is a changed dependency.
 
 When discovery is algorithmic, reach becomes less like a stored possession and more like a continuously repriced claim.
 
-Creators feel this in the gap between followers and views. An account with a large following can produce a weakly distributed post. A small account can produce an enormous one. The mismatch teaches everyone watching that the number on the profile is not the full source of power.
+Creators feel this in the gap between followers and views. An account with a large following can produce a weakly distributed post. A small account can produce an enormous one. The mismatch teaches everyone watching that the number on the profile is not the full source of power. The ranking system is.
 
-The ranking system is.
+That lesson travels quickly because the results are public. A newspaper editor's rejection might be known only to the writer. A recommendation success leaves a visible count. A creator who normally receives five thousand views suddenly receives five million. Other creators inspect the video. They do not have the model weights, but they have the artifact that survived the selection environment.
 
-That lesson travels quickly because the results are public.
-
-A newspaper editor's rejection might be known only to the writer. A recommendation success leaves a visible count. A creator who normally receives five thousand views suddenly receives five million. Other creators inspect the video. They do not have the model weights, but they have the artifact that survived the selection environment.
-
-The video becomes evidence.
-
-Was it the opening? The topic? The face in the first frame? The length? The controversy? The caption? The audio? The timing? The editing? The fact that viewers watched twice? The fact that it reached a particular early audience? The creator may not know. Observers may know even less.
-
-Yet imitation begins.
+The video becomes evidence. Was it the opening? The topic? The face in the first frame? The length? The controversy? The caption? The audio? The timing? The editing? The fact that viewers watched twice? The fact that it reached a particular early audience? The creator may not know. Observers may know even less. Yet imitation begins.
 
 This is one of the mechanisms by which recommendation systems can shape form without directly dictating form.
 
@@ -124,25 +104,9 @@ This is what I mean by algorithmic influence.
 
 The algorithm does not have to tell the creator what to make. It has to make the consequences of making one thing different from the consequences of making another.
 
-The creator supplies intention.
+The same structure appears in less glamorous places. An online marketplace seller chooses whether to offer free returns because the policy may affect ranking or conversion. A delivery worker chooses where to wait because the dispatch system appears to allocate orders differently across zones. A company changes a job description because an employment platform recommends different wording for reach. A political campaign cuts a speech into clips because each clip can enter separate recommendation paths. A restaurant owner responds publicly to reviews because the visible reputation may influence both customers and platform placement. People call these actions platform strategy.
 
-The same structure appears in less glamorous places.
-
-An online marketplace seller chooses whether to offer free returns because the policy may affect ranking or conversion. A delivery worker chooses where to wait because the dispatch system appears to allocate orders differently across zones. A company changes a job description because an employment platform recommends different wording for reach. A political campaign cuts a speech into clips because each clip can enter separate recommendation paths. A restaurant owner responds publicly to reviews because the visible reputation may influence both customers and platform placement.
-
-People call these actions platform strategy.
-
-That phrase captures the business problem but hides the social one. The platform strategy eventually changes the thing being selected.
-
-The creator becomes more like the creator the system can successfully distribute.
-
-The seller becomes more like the seller the marketplace can confidently rank.
-
-The applicant becomes more like the applicant the workflow can parse.
-
-The worker becomes more like the worker the dashboard can measure.
-
-Not because a machine issued a command, but because repeated allocation turns observability into advantage.
+That phrase captures the business problem but hides the social one. The platform strategy eventually changes the thing being selected. People move toward what the system can successfully distribute, rank, parse, or measure. Not because a machine issued a command, but because repeated allocation turns observability into advantage.
 
 Recommendation systems intensify this effect by personalizing the gate.
 
@@ -154,13 +118,9 @@ When people search “how to replace a faucet washer,” the publisher knows rou
 
 That environment favors material that can announce its relevance quickly.
 
-Again, this may be good. A person can discover a skill, musician, idea, or community they would never have known to search for. Recommendation is powerful precisely because human beings do not know every possible thing they might like.
+Again, this may be good. A person can discover a skill, musician, idea, or community they would never have known to search for. Recommendation is powerful precisely because human beings do not know every possible thing they might like. But discovery without declared intent gives the intermediary more responsibility for constructing the menu.
 
-But discovery without declared intent gives the intermediary more responsibility for constructing the menu.
-
-And whoever wants to appear on that menu has more reason to understand the intermediary.
-
-The asymmetry becomes most visible when creators depend economically on the platform.
+And whoever wants to appear on that menu has more reason to understand the intermediary. The asymmetry becomes most visible when creators depend economically on the platform.
 
 A hobbyist can treat volatile distribution as entertainment. A full-time creator pays rent from a variable system. A publisher employs staff. A musician plans a tour. A small retailer carries inventory. A news organization budgets against traffic. A sudden change in recommendation can become a business event before anyone can explain it.
 

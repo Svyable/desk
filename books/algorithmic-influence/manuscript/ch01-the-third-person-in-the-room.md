@@ -2,19 +2,13 @@
 
 A woman records a forty-two-second video in her kitchen.
 
-She does not know who will see it.
-
-That would once have been an odd way to describe publishing. A newspaper knew roughly who bought the paper. A television station knew which market carried the signal. A magazine had a subscription list. Even the early social web seemed to preserve the old intuition that an audience was a collection of people who had chosen, in one way or another, to receive what you made. You accumulated friends, followers, subscribers, readers. Then you spoke to them.
+She does not know who will see it. That would once have been an odd way to describe publishing. A newspaper knew roughly who bought the paper. A television station knew which market carried the signal. A magazine had a subscription list. Even the early social web seemed to preserve the old intuition that an audience was a collection of people who had chosen, in one way or another, to receive what you made. You accumulated friends, followers, subscribers, readers. Then you spoke to them.
 
 The woman with the phone is doing something different. She may have a few hundred followers or a few million. Either number can be a poor description of the audience for the next forty-two seconds. The video may disappear almost immediately. It may be shown to people who have never heard of her. It may travel through a population selected less by relationship than by a system's estimate of who is likely to watch, linger, respond, share, search, or return.
 
-She is still speaking to people.
+She is still speaking to people. But before most of those people hear her, something else has to decide that she is worth hearing.
 
-But before most of those people hear her, something else has to decide that she is worth hearing.
-
-This is the third person in the room.
-
-Calling it a person is obviously imprecise. A recommendation system does not sit on a chair, become bored, feel flattered, or decide that it likes the speaker. It has no need to understand the video as a human viewer understands it. The phrase is useful for another reason. It captures the practical fact that communication increasingly has two audiences: the human being one hopes to reach and the machine that decides whether, when, where, and in what context that human being encounters the message.
+This is the third person in the room. Calling it a person is obviously imprecise. A recommendation system does not sit on a chair, become bored, feel flattered, or decide that it likes the speaker. It has no need to understand the video as a human viewer understands it. The phrase is useful for another reason. It captures the practical fact that communication increasingly has two audiences: the human being one hopes to reach and the machine that decides whether, when, where, and in what context that human being encounters the message.
 
 The distinction matters because the two audiences are not persuaded in the same way.
 
@@ -56,11 +50,7 @@ We should be careful here. It is tempting to jump from selection to control. The
 
 Ranking can have strong effects on what people encounter and weaker effects on what they ultimately think. Political-feed experiments make this distinction especially clear. During the 2020 U.S. election, researchers working with Meta recruited users who agreed to have their Facebook or Instagram feeds switched from algorithmic ranking to reverse chronological order. The intervention materially changed what people saw and some aspects of how they used the platforms. Yet the researchers did not find corresponding changes in several measured political attitudes.
 
-A different field experiment on X, published later in Nature, found that enabling the platform's algorithmic feed during a seven-week period in 2023 altered political exposure and shifted some measured opinions in a conservative direction. The studies involved different platforms, periods, designs, content environments, and participants. They are more useful together than either one is alone.
-
-The lesson is not that algorithms persuade or that they do not.
-
-The lesson is that allocation and persuasion are different powers.
+A different field experiment on X, published later in Nature, found that enabling the platform's algorithmic feed during a seven-week period in 2023 altered political exposure and shifted some measured opinions in a conservative direction. The studies involved different platforms, periods, designs, content environments, and participants. They are more useful together than either one is alone. Allocation and persuasion are different powers.
 
 A recommender may have substantial control over who gets a chance to persuade without having deterministic control over what the person then believes. That is enough to change the incentives of anyone trying to reach an audience.
 
@@ -140,13 +130,9 @@ It allocated consequences.
 
 People supplied the rest.
 
-That makes algorithmic influence different from conventional persuasion in one important respect. Persuasion usually imagines an attempt to alter another mind. Algorithmic influence often aims to alter a probability inside a system: the probability of being selected, ranked, recommended, trusted, assigned, quoted, approved, or purchased.
+That makes algorithmic influence different from conventional persuasion in one important respect. Persuasion usually imagines an attempt to alter another mind. Algorithmic influence often aims to alter a probability inside a system: the probability of being selected, ranked, recommended, trusted, assigned, quoted, approved, or purchased. The person doing the influencing may never know whether the attempt worked. There may be no stable individual on the receiving end. A slightly different representation can be evaluated differently for millions of people. The target can learn from the attempted influence. The criteria can move.
 
-The person doing the influencing may never know whether the attempt worked. There may be no stable individual on the receiving end. A slightly different representation can be evaluated differently for millions of people. The target can learn from the attempted influence. The criteria can move.
-
-This is why the word influence is more useful than control.
-
-Control is too strong. Most people cannot command the systems that mediate them, and the companies operating those systems cannot fully command the populations adapting in response. Influence leaves room for partial power, uncertainty, strategic response, and unintended effects.
+This is why the word influence is more useful than control. Control is too strong. Most people cannot command the systems that mediate them, and the companies operating those systems cannot fully command the populations adapting in response. Influence leaves room for partial power, uncertainty, strategic response, and unintended effects.
 
 It also leaves room for resistance.
 
@@ -154,20 +140,12 @@ People can build direct audiences. Workers can coordinate. Regulators can requir
 
 None of that erases the third person.
 
-It makes the third person contestable.
-
-The most important shift is therefore not that algorithms have become persuasive geniuses. Many are clumsy. They misread. They overfit. They surface nonsense. They can be gamed, audited, bypassed, regulated, improved, or replaced.
+It makes the third person contestable. The most important shift is therefore not that algorithms have become persuasive geniuses. Many are clumsy. They misread. They overfit. They surface nonsense. They can be gamed, audited, bypassed, regulated, improved, or replaced.
 
 The shift is that people increasingly behave as if machines are consequential audiences for their work.
 
 Once that happens, the machine enters the creative brief, the résumé, the schedule, the product database, the campaign plan, the restaurant policy, the customer journey, and eventually the design of the thing itself.
 
-A message no longer begins only with what should I say to this person?
+A message no longer begins only with what should I say to this person? It can begin one step earlier. What must the machine see so the person gets the chance to hear me?
 
-It can begin one step earlier.
-
-What must the machine see so the person gets the chance to hear me?
-
-That question feels native to social media now. It did not begin there.
-
-Before creators learned to study recommendation feeds, an earlier generation of publishers had already discovered what it meant to build for two readers at once. One reader was human. The other crawled the web.
+That question feels native to social media now. It did not begin there. Before creators learned to study recommendation feeds, an earlier generation of publishers had already discovered what it meant to build for two readers at once. One reader was human. The other crawled the web.

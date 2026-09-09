@@ -1,12 +1,8 @@
 # Work for the Score
 
-The driver sees a map before seeing a customer.
+The driver sees a map before seeing a customer. The map glows in places. A price may appear. A destination may be partially visible, fully visible, or withheld depending on the platform, market, product, and moment. There may be a timer. There may be an incentive for completing a certain number of trips. There may be a bonus attached to one zone and not another. Somewhere behind the screen, software is matching requests with available drivers while accounting for geography, estimated arrival time, demand, product rules, and other constraints.
 
-The map glows in places. A price may appear. A destination may be partially visible, fully visible, or withheld depending on the platform, market, product, and moment. There may be a timer. There may be an incentive for completing a certain number of trips. There may be a bonus attached to one zone and not another. Somewhere behind the screen, software is matching requests with available drivers while accounting for geography, estimated arrival time, demand, product rules, and other constraints.
-
-No dispatcher speaks.
-
-The driver still has a boss-shaped problem.
+No dispatcher speaks. The driver still has a boss-shaped problem.
 
 This was one of the earliest reasons scholars became interested in algorithmic management. In their 2016 study of Uber drivers, Alex Rosenblat and Luke Stark described an employment-like environment organized through information asymmetries and algorithmic systems even though drivers were formally independent contractors. A year earlier, Min Kyung Lee and colleagues had studied how drivers for Uber and Lyft made sense of algorithmic assignment and pricing, finding that people attributed agency to systems they could only partially understand and developed strategies around them.
 
@@ -44,19 +40,13 @@ This can be as harmless as closing tickets correctly.
 
 It can become stranger.
 
-Workers learn which states stop a timer. They learn when to scan. They learn which tasks are counted separately and which disappear inside another task. They learn how breaks are represented. They learn what the system interprets as idle. They learn whether rejecting an assignment carries a cost. They learn the difference between work that improves the customer's outcome and work that improves the metric through which the company observes that outcome.
-
-The distinction is not evidence of laziness.
-
-It is evidence of intelligence under measurement.
+Workers learn which states stop a timer. They learn when to scan. They learn which tasks are counted separately and which disappear inside another task. They learn how breaks are represented. They learn what the system interprets as idle. They learn whether rejecting an assignment carries a cost. They learn the difference between work that improves the customer's outcome and work that improves the metric through which the company observes that outcome. The distinction demonstrates intelligence under measurement.
 
 People have always learned what supervisors care about. The difference is that digital systems can turn that adaptation into continuous microbehavior.
 
 A salesperson once knew the quarterly target. Now the CRM can expose calls, emails, meetings, pipeline stages, response times, forecast confidence, and activity by day. A warehouse once knew units shipped. Now scanners can associate actions with individuals and minutes. A call center once knew average call duration. Modern systems can combine handling time, hold time, customer sentiment, resolution, schedule adherence, and quality monitoring.
 
-More information can produce better management.
-
-It can also produce more surfaces to manage.
+More information can produce better management. It can also produce more surfaces to manage.
 
 The OECD's 2025 work on algorithmic management surveyed managers across thousands of establishments in several countries and found that tools for instructing, monitoring, and evaluating workers had moved well beyond platform labor. Managers reported benefits, including improved decision-making in some contexts, alongside concerns about accountability, explainability, and effects on workers.
 
@@ -64,9 +54,7 @@ That mixed picture is more believable than either extreme.
 
 A software scheduler can be better than a manager who rewards friends with desirable shifts. A routing system can reduce wasted miles. A matching system can connect a worker to demand without a dispatcher maintaining personal relationships. A structured performance process can expose a manager whose evaluations are wildly inconsistent.
 
-Automation can remove discretion that was never benevolent.
-
-The question is what replaces it.
+Automation can remove discretion that was never benevolent. The question is what replaces it.
 
 A worker dealing with a bad human manager can at least identify the source of the judgment. A worker dealing with an opaque system may experience consequences without knowing which signal mattered, whether the result was automated, or whom to persuade that the representation is wrong.
 
@@ -76,9 +64,7 @@ Sometimes workers do this collectively.
 
 Ride-share drivers have long exchanged observations about airport queues, surge zones, destination filters, bonuses, acceptance behavior, and platform changes. Warehouse workers compare rates. Delivery workers compare dispatch patterns. Freelancers on labor platforms learn how profiles, completion records, response times, and ratings affect access to work.
 
-These communities perform the same folk physics seen among creators.
-
-They are reverse engineering consequence.
+These communities perform the same folk physics seen among creators. They are reverse engineering consequence.
 
 The stakes are different because visibility is not applause. It is income.
 

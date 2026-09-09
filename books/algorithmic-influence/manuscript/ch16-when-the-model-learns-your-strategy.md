@@ -1,14 +1,8 @@
 # When the Model Learns Your Strategy
 
-The first person to discover a loophole has an advantage.
+The first person to discover a loophole has an advantage. The millionth person has a pattern.
 
-The millionth person has a pattern.
-
-Patterns are what machine learning is good at.
-
-This is the central instability of algorithmic influence. A person learns what seems to improve selection and changes behavior. Other people imitate. The changed behavior becomes common enough to enter the system's data. The selector learns that the old signal no longer means what it once meant. It updates, or the organization changes policy, or users become bored, or competitors exploit the same tactic until the advantage disappears.
-
-The strategy teaches the model how to defeat the strategy.
+Patterns are what machine learning is good at. This is the central instability of algorithmic influence. A person learns what seems to improve selection and changes behavior. Other people imitate. The changed behavior becomes common enough to enter the system's data. The selector learns that the old signal no longer means what it once meant. It updates, or the organization changes policy, or users become bored, or competitors exploit the same tactic until the advantage disappears. The strategy teaches the model how to defeat the strategy.
 
 This does not happen every time. Some useful adaptations remain useful indefinitely. Accurate product data is still accurate after everyone supplies it. Clear writing does not become bad because it is common. Safe driving does not become undesirable because drivers learn safety is measured.
 
