@@ -35,6 +35,7 @@ The canonical title, author, drafting status, chapter count, and manuscript cont
 - [Austerity Measures](https://svyable.github.io/desk/books/austerity-measures/README.md)
 - [Autonomy Half-Life](https://svyable.github.io/desk/books/autonomy-half-life/README.md)
 - [Bookself](https://svyable.github.io/desk/books/bookself/README.md)
+- [Breakeven](https://svyable.github.io/desk/books/breakeven/README.md)
 - [Chiptastrophy](https://svyable.github.io/desk/books/chiptastrophy/README.md)
 - [Chokepoint](https://svyable.github.io/desk/books/chokepoint/README.md)
 - [Commit](https://svyable.github.io/desk/books/commit/README.md)
