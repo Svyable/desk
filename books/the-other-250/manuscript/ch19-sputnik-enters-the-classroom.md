@@ -1,343 +1,85 @@
 # Sputnik Enters the Classroom
 
-On October 4, 1957, the Soviet Union put a polished metal sphere into orbit.
-
-It was about the size of a beach ball.
-
-The shock it produced in the United States was much larger.
+On October 4, 1957, the Soviet Union put a polished metal sphere into orbit. It was about the size of a beach ball. The shock it produced in the United States was much larger.
 
 Sputnik mattered militarily because the rocket technology capable of placing a satellite in orbit was related to the technology required for long-range missiles. It mattered scientifically because the Soviet Union had reached a milestone the United States expected to contest. It mattered politically because American confidence in technological leadership suddenly looked less secure.
 
 And then it entered the classroom.
 
-In September 1958, Congress passed the National Defense Education Act.
+In September 1958, Congress passed the National Defense Education Act. The title preserved the argument in plain sight. Education had long been treated in American politics as primarily a state, local, private, family, or religious responsibility. The federal government had supported education before through land grants, veterans' benefits, agricultural programs, research funding, military training, and other routes, but general federal intervention in schools remained politically sensitive.
 
-The title tells the story.
-
-Education had long been treated in American politics as primarily a state, local, private, family, or religious responsibility. The federal government had supported education before—through land grants, veterans' benefits, agricultural programs, research funding, military training, and other routes—but general federal intervention in schools remained politically sensitive.
-
-Sputnik changed the argument.
-
-A geometry class could now be described as national defense.
-
-A foreign-language course could be described as national defense.
-
-A student loan could be described as national defense.
-
-A guidance counselor identifying academically promising students could be described as national defense.
-
-The Cold War made education a strategic resource.
+Sputnik changed the coalition around that sensitivity. Science and mathematics instruction, modern foreign languages, graduate fellowships, vocational education, counseling, testing, and student loans could now be defended not only as educational goods but as elements of national capacity. The law did not federalize schools. It made educational weakness legible as a federal problem.
 
 That reframing is the event.
 
-The National Defense Education Act supported a wide range of programs, including loans for college students, assistance for science, mathematics, and modern foreign-language instruction, graduate fellowships, language and area studies, vocational education, counseling and testing, and other efforts aimed at expanding the nation's stock of trained talent.
+The United States already possessed extraordinary scientific capacity. The Manhattan Project had demonstrated what federal money, university science, industrial engineering, and military urgency could accomplish together. The Office of Naval Research, National Science Foundation, Atomic Energy Commission, and defense agencies were already funding research. Universities had become central partners in a growing federal research system. The 1950s did not suddenly discover science.
 
-The law did not federalize schools.
-
-It federalized urgency.
-
-That distinction mattered politically.
-
-Americans could disagree about whether Washington should shape curricula while agreeing that the country needed more scientists, engineers, linguists, teachers, and technically trained citizens in competition with the Soviet Union.
-
-National security became a route around older constitutional and cultural resistance.
-
-This pattern appears throughout American history.
-
-The federal government often expands by attaching a contested domestic capacity to an accepted national purpose.
-
-Roads become defense infrastructure.
-
-Research becomes military preparedness.
-
-Industrial policy becomes wartime mobilization.
-
-Immigration becomes manpower.
-
-Education becomes competition with Moscow.
-
-The policy lasts after the emergency language fades.
-
-Sputnik's most durable effect was therefore not panic by itself.
-
-It was permission.
-
-The United States already possessed extraordinary scientific capacity. The Manhattan Project had demonstrated what federal money, university science, industrial engineering, and military urgency could accomplish together. The Office of Naval Research, National Science Foundation, Atomic Energy Commission, and defense agencies were already funding research. Universities had become central partners in a growing federal research system.
-
-The 1950s did not suddenly discover science.
-
-They broadened the belief that the pipeline feeding science was a public concern.
-
-A nation cannot produce engineers at the moment a missile gap appears.
-
-It has to educate children years earlier.
-
-That temporal fact pulled policy downward into schools.
+What Sputnik exposed was the long delay between deciding that a skill matters and having enough people who possess it. A country can order equipment quickly compared with the time required to educate scientists, engineers, teachers, or linguists. A twelve-year-old who might become a physicist in the late 1960s had already been shaped by years of schooling, family resources, teachers, local tax capacity, and the range of futures anyone had taught her to imagine.
 
 Strategic capacity begins before adulthood.
 
-The same logic influenced curriculum reform. Scientists, educators, foundations, universities, and government agencies worked on new approaches to mathematics and science teaching. The period became associated with ambitious efforts to modernize what students learned and how they learned it.
+The National Defense Education Act operated on that clock. Its loan provisions made college financially reachable for some students and strengthened the idea that national policy could intervene in higher-education finance. The modern federal student-aid system would grow later through other laws, especially the Higher Education Act of 1965, but NDEA helped make federal participation less alien.
 
-Not every reform succeeded.
+The logic was broader than producing a fixed number of missile engineers. If the country needed more difficult skills than family wealth and local school finance were reliably producing, unused ability became a national loss. A student could be capable of advanced study and unable to pay tuition. The government did not have to know whether that student would become a chemist, teacher, physician, engineer, linguist, or something else. It had to believe that a larger pool of educated people increased the country's room to act.
 
-Some materials were criticized as too abstract or disconnected from ordinary classrooms. Teachers faced implementation problems. Local districts varied enormously in resources and capacity. The idea that national experts could redesign learning from above had obvious limits.
+Foreign-language and area-studies support made the same problem visible from another direction. World War II and the early Cold War had exposed American shortages of language skills and deep regional knowledge. A government operating globally needed people who understood Russian, Chinese, Arabic, and many other languages, along with the politics, history, and culture attached to them. Programs justified by intelligence, diplomacy, and strategic competition later trained scholars and professionals whose work extended far beyond defense.
 
-But the direction of responsibility changed.
+Emergency funding can create peacetime knowledge, but the emergency does not deserve all the credit. It would be inaccurate to imagine lawmakers staring at Sputnik in October and inventing federal education policy from panic. Education officials, academics, foundations, and legislators had been developing proposals before the launch. Federal research and higher-education support were already expanding. The GI Bill had transformed college attendance. Demographic growth and economic development were increasing demand for education.
 
-If American students fell behind, the problem could be described as a national vulnerability.
+Sputnik supplied permission more than invention. A crisis changed which prepared arguments could gather votes.
 
-That language still survives.
+That distinction matters because policy windows are often remembered backward. The shocking event gets treated as the source of the idea when the idea had usually been waiting for an opening. What changes suddenly is the cost of saying no.
 
-Every later argument about international test scores, STEM shortages, semiconductor engineers, artificial-intelligence talent, mathematics achievement, scientific literacy, or foreign-language expertise inherits something from the Sputnik moment.
+The same thing happened in curriculum. Scientists, educators, foundations, universities, and government agencies pursued ambitious changes in mathematics and science teaching. Not every reform worked. Some materials were criticized as too abstract or detached from ordinary classrooms; local districts differed enormously in money, staffing, and capacity. National urgency did not make classroom design easy.
 
-Education became part of geopolitical competition.
+It did change the burden of concern. If American students appeared to be falling behind, their performance could now be discussed as a national vulnerability. That language survives in later worries about international test scores, semiconductor engineers, artificial-intelligence talent, cybersecurity specialists, scientific literacy, and foreign-language expertise.
 
-The student-loan provisions had consequences beyond Cold War science.
+The strategic argument also carried a large contradiction. In 1958, *Brown v. Board of Education* was only four years old, and massive resistance to school desegregation was underway in parts of the South. Schools differed dramatically by race, class, district wealth, and geography. A national campaign for excellence operated inside a country still denying equal educational opportunity by law and practice.
 
-Federal support made college attendance more financially reachable for some students and strengthened the idea that national policy could intervene in the financing of higher education. The modern federal student-aid system would later grow through other laws and programs, especially the Higher Education Act of 1965.
+Cold War politics sometimes sharpened that contradiction. Soviet propaganda highlighted American racism, and newly independent countries in Africa and Asia were judging the claims both superpowers made about their political systems. Domestic racial hierarchy had foreign-policy consequences. The United States could not describe talent as strategically precious without raising a harder question about how much talent discrimination and unequal schooling were wasting at home.
 
-NDEA did not create that entire architecture.
+Testing and guidance programs sat directly inside that tension. They were meant in part to identify students with academic promise who might otherwise be overlooked. That aspiration can broaden opportunity. A teacher, counselor, or test can notice a student in a small town or a family with no history of college. But measured performance comes after years of unequal preparation. Segregation, income, housing stability, school quality, books, nutrition, and familiarity with academic institutions all affect what a test sees.
 
-It helped normalize the federal presence within it.
+A system designed to discover talent can certify inherited advantage if it mistakes measured performance for pure potential.
 
-A loan to an individual student can look like a private transaction.
+That problem did not make the search for talent pointless. It made distribution part of the capacity question. A country worried about wasting ability abroad also had to confront the ability it was wasting at home.
 
-At scale, it becomes workforce policy.
+Women, Black Americans, immigrants, and working-class students still faced formidable barriers in science and higher education. NDEA did not remove them. Yet the national-security framing created a useful pressure point: exclusion could be criticized not only as unjust but as an expensive way for a country to weaken itself.
 
-That is how the Cold War linked personal aspiration to national capacity.
+That argument should not be mistaken for a substitute for justice. A person does not need to prove strategic usefulness to deserve equal opportunity. The historical point is narrower. Cold War competition gave some reformers an additional language that institutions attentive to national power were willing to hear.
 
-A student might borrow money to become a teacher, scientist, engineer, physician, linguist, or something else entirely. The government did not have to know exactly what each student would invent or contribute.
+The 1950s contain much larger stories: Brown, Montgomery, McCarthyism, the Korean War, highways, suburbs, television, rock and roll, nuclear fear, and the opening of the space race itself. The case for NDEA is not that it outranks them. It is that the Soviet satellite changed what Americans were willing to treat as strategic infrastructure far below the launchpad.
 
-It only had to believe that a larger pool of educated people increased national capability.
+The law also shows why the phrase “Sputnik moment” has become so easy to abuse. Politicians now apply it to almost any foreign achievement or domestic shortage they want to make urgent. The original shock was more specific. Americans were forced to revise an assumption about themselves.
 
-This is a different kind of planning from ordering a missile.
+The United States had emerged from World War II with enormous industrial and scientific prestige. It possessed nuclear weapons, global military reach, famous research universities, major corporations, and an economy unmatched in scale. Technological leadership could feel like a property of the country rather than an achievement requiring repeated investment.
 
-It is investment in optionality.
+A radio signal passing overhead made that confidence feel contingent.
 
-The foreign-language provisions reveal the same logic.
+That was politically useful because education moves slowly. A weapons program can receive an appropriation this year. The people capable of conceiving, building, interpreting, repairing, or challenging the weapon were shaped over much longer periods. The same is true outside defense. Semiconductor fabs, hospitals, laboratories, schools, utilities, and software companies all discover eventually that a shortage of trained people cannot be repaired on the same schedule as a shortage of equipment.
 
-World War II and the early Cold War exposed repeated American shortages of language skills and deep regional knowledge. A superpower operating globally could not rely only on English-speaking generalists. It needed people who understood Russian, Chinese, Arabic, and many other languages, along with the politics, history, and culture of regions where American policy now operated.
+Governments are poor at predicting the exact mix of skills they will need fifteen years ahead. Firms are not much better at horizons that long. That uncertainty is an argument against training a generation for one forecast, not against preparing anyone. Strong foundations in mathematics, science, language, writing, technical work, and analysis leave more room to move when the problem changes.
 
-Area studies became strategically valuable.
+This is where the original NDEA logic was broader than its title. National defense created the coalition, but the investments could outlive the particular threat used to justify them. A language center might later educate diplomats, businesspeople, journalists, and historians. A student loan could finance a teacher. A stronger mathematics program could prepare someone for an industry that did not yet exist.
 
-So did translation.
+Institutions built for one emergency acquire uses their sponsors cannot schedule.
 
-The lesson was simple: ignorance can be a national-security liability.
+That feature also complicates the usual argument over federal and local responsibility. The costs of education are often borne locally or by families and states, while many benefits travel. A school district can educate a child who later works three states away. A state can subsidize an engineer who joins a national company. A university can train a specialist whose work becomes useful during a crisis nobody in the state predicted. Knowledge does not respect county lines, and neither does strategic competition.
 
-That insight produced institutions that later served scholarship far beyond their defense rationale.
+The federal government did not solve that mismatch in 1958. It established a stronger claim inside it.
 
-Cold War funding could support knowledge that outlived the Cold War.
+The counterfactual keeps the chapter honest. Without Sputnik, federal support for science and higher education would probably still have grown. Research universities were already central to military and industrial science. The civil-rights movement would soon force the federal government deeper into education for different reasons. Another strategic scare might have created a similar coalition.
 
-The law also strengthened testing and guidance programs intended to identify students with academic potential.
+The satellite mattered because it changed timing and legitimacy. Proposals already in circulation became easier to describe as necessary rather than optional. A country that had imagined educational policy as largely domestic and dispersed began treating some of its consequences as national and strategic.
 
-That ambition carried both opportunity and risk.
+The shift did not require every classroom to become an arm of the Pentagon. It required enough people to accept that the quality and reach of education affected what the country could do years later.
 
-A system that tries to find talent can broaden access if it notices students overlooked by wealth or geography.
+That premise has survived the Soviet Union.
 
-It can also harden inequality if tests reflect unequal preparation and are treated as neutral measures of fixed ability.
+In 2026, the industries attached to the anxiety are different. The United States worries about engineers for semiconductor fabrication, artificial-intelligence specialists, nurses, teachers, cybersecurity experts, electricians, advanced-manufacturing technicians, and people fluent in strategically important languages. Immigration supplies part of that talent and has been one of America's great capacity systems. Education supplies another part on a slower clock.
 
-The post-Sputnik education system contained both possibilities.
+The old problem remains recognizable: by the time a shortage becomes obvious, the people who could have filled it needed years of preparation already behind them.
 
-Merit became a national resource.
+Sputnik did not tell Americans exactly which classroom investment would matter most. It made the cost of being surprised feel larger.
 
-Who got recognized as meritorious remained contested.
-
-This is why the act should not be remembered as a simple victory for science.
-
-Federal aid operated inside a segregated and unequal educational landscape. In 1958, the Supreme Court's *Brown v. Board of Education* decision was only four years old, and massive resistance to school desegregation was underway in parts of the South. Schools differed dramatically by race, class, district wealth, and geography.
-
-A national campaign for excellence could coexist with systems denying equal educational opportunity.
-
-The contradiction was not accidental.
-
-The United States was competing internationally as a democracy while failing to provide democratic equality at home.
-
-Cold War politics sometimes intensified civil-rights pressure precisely because racial segregation damaged American claims abroad. Soviet propaganda highlighted American racism. Newly independent countries in Africa and Asia evaluated both superpowers. Domestic injustice had foreign-policy consequences.
-
-Education sat inside that larger legitimacy contest.
-
-The 1950s are usually narrated through highways, television, suburbs, rock and roll, Brown, Montgomery, the Korean War, McCarthyism, and the early space race.
-
-Sputnik deserves its fame.
-
-The overlooked hinge is what happened after Americans looked up.
-
-They changed what they were willing to fund below.
-
-The satellite's orbit became an argument for chemistry labs, mathematics textbooks, language centers, graduate fellowships, loans, and counseling programs.
-
-Fear traveled down through bureaucracy until it reached a classroom desk.
-
-That is a remarkable conversion.
-
-A geopolitical shock became an education policy.
-
-The counterfactual is useful.
-
-Without Sputnik, federal support for science and higher education would still have grown. The GI Bill had already transformed college attendance. Research universities were already becoming central to military and industrial science. Demographic growth and economic development were increasing demand for education. The civil-rights movement was about to force the federal government deeper into school policy for entirely different reasons.
-
-Sputnik did not create the future from nothing.
-
-It accelerated it and changed the coalition around it.
-
-A legislator suspicious of federal education aid could support national defense.
-
-A parent uncertain about new mathematics instruction could be told the Russians were ahead.
-
-A university asking for language funding could connect scholarship to intelligence and diplomacy.
-
-A student seeking a loan could become part of the national answer to a strategic threat.
-
-The crisis made education legible to constituencies that might otherwise have resisted federal action.
-
-That is why shocks matter politically.
-
-They do not merely change priorities.
-
-They change which arguments become available.
-
-The law's name preserved the argument in plain sight.
-
-National Defense Education Act.
-
-Not National Education Act.
-
-Not Science Advancement Act.
-
-Not College Opportunity Act.
-
-The phrasing was a bridge between a country wary of centralized schooling and a superpower afraid of falling behind.
-
-Once built, the bridge could carry more than the original emergency.
-
-Federal education policy would expand dramatically in the 1960s through civil-rights enforcement, aid to disadvantaged schools, higher-education programs, special education, and other initiatives. Those later programs had different purposes and political coalitions.
-
-They entered a landscape where federal participation in education was no longer quite as alien.
-
-Sputnik had helped move the boundary.
-
-That is the under-appreciated event of the 1950s.
-
-The Soviet satellite did not merely beat the United States into orbit.
-
-It helped persuade Americans that a child's classroom could be part of the country's strategic infrastructure.
-
-There is a trap in the phrase “Sputnik moment.” It has become political shorthand for any foreign achievement that officials want to use as a reason to spend more money at home. Artificial intelligence produces Sputnik moments. China produces Sputnik moments. Semiconductor shortages produce Sputnik moments. A disappointing test score produces one. The phrase survives because it describes something real, but repetition strips away the specificity of 1957.
-
-The original Sputnik shock worked because Americans were not only surprised by a technology. They were forced to revise an assumption about themselves.
-
-The United States had emerged from World War II with extraordinary industrial and scientific prestige. It possessed nuclear weapons, global military reach, famous research universities, enormous corporations and a domestic economy unmatched in scale. Many Americans believed that technological leadership followed naturally from the country’s institutions and resources.
-
-A radio signal passing overhead made superiority feel contingent.
-
-That psychological shift mattered because educational institutions move slowly. A legislature can authorize a weapons program in a year. A country cannot produce a generation of scientists in a year. A twelve-year-old who might become a physicist in 1968 has already been shaped by primary school, family income, teachers, local tax capacity and whether anyone told her that physics was a possible life.
-
-The pipeline metaphor can be crude when applied to human beings, but the delay is real. Talent policy has a long clock.
-
-NDEA was one of the first major federal laws to operate explicitly on that clock.
-
-Its loan program mattered partly because ability and liquidity are different things. A student can be capable of advanced study and unable to pay tuition. If the country’s strategic premise is that it needs more trained people, leaving education entirely to family wealth becomes not only unequal but inefficient. A national-security argument therefore created space for a social-investment argument without having to settle every philosophical dispute about equality.
-
-This is the recurring American trick: agree on capability when agreement on justice is harder.
-
-The result can still advance justice, though unevenly.
-
-A student loan does not ask whether the borrower’s eventual contribution can be measured in missile accuracy or economic growth. The federal government extends credit because the option value of education is considered high. The student may become a chemist, a teacher, an entrepreneur, a lawyer, a nurse or a parent whose education changes the opportunities of the next generation.
-
-Public investment escapes its original rationale.
-
-The same thing happened with language and area studies. Programs justified by intelligence failures and Cold War competition later educated historians, anthropologists, diplomats, businesspeople, journalists and scholars whose work had little to do with military planning. Once a university creates a center, hires faculty, builds a library and trains graduate students, the institution develops intellectual life of its own.
-
-Emergency funding can create peacetime knowledge.
-
-That is one of the reasons the law’s prehistory matters.
-
-It would be inaccurate to imagine senators staring at Sputnik in October and inventing federal education policy from panic. Education officials, academics and lawmakers had been developing proposals before the launch. The Soviet satellite did not supply the policy blueprint. It supplied a political atmosphere in which proposals that had struggled for support could be described as necessary to survival.
-
-The difference between invention and permission is crucial.
-
-Most policy “responses” to crises are not invented after the crisis. They are ideas already waiting for a coalition.
-
-The crisis changes who will vote for them.
-
-That observation makes Sputnik useful beyond education. When an event suddenly rearranges political possibility, the next question should be: which plans were already on the shelf?
-
-In 1958, one of those plans involved federal support for talent.
-
-The emphasis on identifying talented students raises a second uncomfortable question: talented by whose measure?
-
-Testing expanded in an era confident that standardized instruments could identify aptitude. Guidance programs were supposed to find young people whose abilities might otherwise be wasted. That aspiration can be egalitarian. A teacher or test can discover a child in a small town whose family has no history of college.
-
-But tests are administered after years of unequal schooling. Families differ in wealth, books, housing stability, nutrition and familiarity with academic institutions. Segregation restricted opportunity by law. If policymakers mistake measured performance for pure potential, a system designed to discover talent can end up certifying the advantages it inherited.
-
-National capacity is therefore inseparable from distribution.
-
-A country that wastes talent through discrimination, poverty or poor schools is weaker than its population suggests.
-
-The Cold War helped make that argument strategically respectable. Civil-rights advocates understood that American racial hierarchy was damaging the country abroad. Science policy created a related claim at home: excluding capable people was not merely unfair; it was a loss of national capability.
-
-Those arguments did not abolish exclusion. They changed the cost assigned to it.
-
-Women, Black Americans, immigrants and working-class students still faced formidable barriers in science and higher education. Yet a government that had declared human capital a security concern created an opening for future demands: if talent matters so much, why are institutions organized in ways that waste it?
-
-That question would outlive the Soviet Union.
-
-It is still alive in 2026.
-
-The United States worries about shortages of engineers for semiconductor fabs, specialists in artificial intelligence, nurses, teachers, cybersecurity experts, electricians, advanced-manufacturing technicians and people fluent in strategically important languages. The industries have changed. The structure of the anxiety is recognizable.
-
-We need more people who can do difficult things.
-
-Where will they come from?
-
-The easiest answer is immigration, and immigration has indeed been one of America’s great talent systems. The harder answer is education, because education requires investment years before the need becomes acute and because the authority is fragmented across families, districts, states, colleges and the federal government.
-
-Sputnik did not solve that fragmentation.
-
-It established a durable federal claim inside it.
-
-There is also a fiscal consequence hidden in that claim. Once education is understood as producing national spillovers, the argument for purely local financing weakens. A school district pays to educate a child who may later move across the country. A state subsidizes an engineer who may work somewhere else. Local government bears cost while national employers and taxpayers may receive part of the benefit.
-
-Federal participation can be justified as a way to match the scale of the benefit to the scale of the investment.
-
-That is the same logic that appears in land-grant universities and research funding. Knowledge does not respect county lines.
-
-Neither does strategic competition.
-
-The NDEA therefore sits in a lineage that begins well before Sputnik and continues long after it: public land for colleges in 1862, wartime research mobilization in the 1940s, Cold War student and science funding in 1958, later higher-education aid, federal research grants, and twenty-first-century attempts to build semiconductor, energy and AI talent.
-
-The recurring object is not a school system.
-
-It is capacity.
-
-A nation can buy some capacity once it needs it. It can import some. It can contract for some. But a large share has to be grown.
-
-That takes time.
-
-Sputnik’s beeping radio told Americans something they did not want to hear: the future had been in preparation somewhere else.
-
-The policy response was to begin preparing more of it at home.
-
-The strategic logic has one more implication: education policy cannot wait for perfect forecasts.
-
-Governments are bad at knowing which specialties will be scarce fifteen years from now. Firms are not much better at horizons that long. A child entering school today may work in an industry that does not yet exist, using tools no current curriculum names.
-
-That uncertainty changes what preparedness should mean.
-
-If policy tries to train exactly the number of people required for one predicted technology, it risks building yesterday’s shortage into tomorrow’s education system. A broader capacity strategy is less precise and more resilient. Strong mathematics, science, language, writing, technical, and analytical foundations create people who can move when the problem changes.
-
-This is another form of optionality.
-
-The national-security framing of 1958 could easily have produced a narrow command model: identify the weapons disciplines, subsidize only those, and measure success by immediate military output. The more durable insight was that capability depends on a wide reservoir of educated people and institutions that can redirect attention as new needs appear.
-
-That reservoir can look inefficient in calm periods. A language program may seem excessive until a crisis makes the language scarce. A research specialty may look obscure until a new technology makes it central. A teacher trained beyond the minimum requirement may appear like surplus capacity until enrollment, curriculum, or technology shifts.
-
-Preparedness contains slack.
-
-The difficulty is that slack is politically vulnerable because its value is clearest before it is needed and hardest to prove before the event that needs it. A factory can count unused inventory. A country cannot easily count the future emergencies an educated population will handle better.
-
-Sputnik made one such absence visible by comparison.
-
-The Soviet launch did not tell Americans exactly which classroom investment would matter most. It made the cost of being surprised feel larger.
-
-That is a more durable policy lesson than panic: when the future is uncertain, capability must be built before its precise use is known.
+That is enough to earn the hinge. The Soviet Union put a satellite into orbit. The United States responded partly by putting national strategy into the long, uncertain work of educating people before anyone could know exactly what they would be needed for.
