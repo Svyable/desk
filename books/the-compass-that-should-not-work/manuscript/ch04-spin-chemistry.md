@@ -1,0 +1,13 @@
+# Spin Chemistry
+
+A radical pair is not a miniature compass needle. It is two molecules or molecular fragments carrying unpaired electrons whose spins are correlated by the reaction that created them. Their joint spin state can evolve between singlet and triplet character under hyperfine interactions, exchange interactions and external magnetic fields. If singlet and triplet channels lead to different chemical products or lifetimes, a magnetic field can alter chemical yield.
+
+This is the heart of the radical-pair proposal for animal magnetoreception. Light excites a flavin-containing protein. Electron transfer produces a sequence of radical pairs. Earth's field perturbs their spin dynamics. The chemical outcome changes by a small amount depending on molecular orientation relative to the field. An ordered array of such molecules could therefore encode direction.
+
+The word quantum is unavoidable and therefore dangerous. Quantum mechanics is not decorative here; electron spin and coherent spin evolution are the mechanism. But nothing about that fact licenses claims about consciousness, macroscopic superposition, telepathy or biology escaping thermodynamics. The radical-pair hypothesis is unusual precisely because it makes ordinary, calculable quantum chemistry do sensory work at room temperature.
+
+The timescale is severe. Spin correlation must persist long enough for a field around fifty microtesla to matter. Molecular motion, relaxation and reaction compete with the effect. The geometry must preserve directional anisotropy. The receptor must then turn a small chemical modulation into a neural signal.
+
+These constraints are why cryptochromes became attractive. They bind flavin adenine dinucleotide and undergo light-driven electron-transfer chemistry. Their internal chains of tryptophan residues can support sequential electron transfer, creating candidate radical pairs with lifetimes and geometry relevant to magnetic sensitivity.
+
+The mechanism is therefore neither magic nor settled. It has a mathematical spine and an anatomical problem. In vitro magnetic sensitivity can establish that a protein is capable of the first step. It cannot establish that a living bird uses that protein as a compass. The distinction will keep returning, because the history of anomalous research is full of mechanisms promoted from 'possible' to 'operative' without crossing the biological middle.

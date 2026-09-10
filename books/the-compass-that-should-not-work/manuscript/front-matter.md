@@ -1,0 +1,11 @@
+# The Compass That Should Not Work
+
+Earth's magnetic field is weak enough to make the central fact of animal magnetoreception sound like a category error. Near the surface it is measured in tens of microtesla. A refrigerator magnet is an obscenity by comparison. Thermal motion in a warm cell should seem to win before the field even gets a vote.
+
+Yet a robin in a darkened room can orient. A sea turtle can inherit a route whose landmarks it has never seen. A salmon can return across an ocean. Some insects alter course when the magnetic geometry changes. The question is no longer whether organisms can respond to magnetic fields in some conditions. The harder question is how a living system turns a physically meager signal into useful information.
+
+This book follows two mechanism families that refuse to die: spin-dependent radical-pair chemistry, especially in cryptochromes, and ferromagnetic transduction involving biologically produced magnetite or related iron minerals. They are not interchangeable. Evidence for one is not evidence against the other, and an animal may use more than one magnetic sensor for different jobs.
+
+The stranger part is methodological. Magnetoreception sits in an awkward region where physics, chemistry, neurobiology, behavior and ecology all have veto power. A beautiful quantum calculation that cannot reach a neuron is incomplete. A behavioral effect that disappears under blinded replication is incomplete. A magnetic particle in tissue is incomplete until anatomy gives it a circuit. The field forces disciplines to meet each other on hostile ground.
+
+Four evidence classes are used throughout: documented and replicated findings; credible but incomplete results; disputed or unconfirmed claims; and speculative synthesis. The book does not claim that humans consciously sense magnetic north, that cryptochrome 4 has been proven to be the avian receptor in vivo, or that quantum coherence is a mystical biological resource. It asks a narrower and better question: what does nature already do with weak fields that our ordinary intuition says should be useless?
