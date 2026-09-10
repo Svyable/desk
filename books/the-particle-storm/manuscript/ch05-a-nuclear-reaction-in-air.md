@@ -1,25 +1,27 @@
 # 5. A Nuclear Reaction in Air
 
-On February 6, 2017, a winter thunderstorm moved over the coast of Japan. Radiation detectors operated by Teruaki Enoto, Yuuki Wada and colleagues were positioned roughly half a kilometer to 1.7 kilometers from a lightning discharge.
+At 17:34 on February 6, 2017, lightning struck during a winter thunderstorm on the coast of Japan. Radiation monitors at the Kashiwazaki-Kariwa nuclear power station were close enough to catch what happened next. The nearest instruments were roughly half a kilometre from the discharge; others were out to 1.7 kilometres.
 
-They saw three different clocks.
+The useful part was not simply that the counters jumped. They jumped on three different clocks.
 
-The first was a gamma-ray flash shorter than a millisecond. The second was a high-energy afterglow that decayed over tens of milliseconds. The third was a 511-keV annihilation signal lasting about a minute.
+First came a gamma-ray flash shorter than a millisecond. Then a harder-to-explain afterglow, fading with a 40–60 millisecond time constant and cutting off around 10 MeV. Finally, after the fast radiation had gone, a narrow feature appeared at 0.511 MeV and lingered for about a minute.
 
-The sequence mattered more than any one count excess. It fitted a nuclear chain.
+Those clocks fit a nuclear chain. Bremsstrahlung photons from runaway electrons reached energies high enough to knock neutrons out of atmospheric nuclei. The cleanest channel was nitrogen-14: a gamma ray removed a neutron and left nitrogen-13. The liberated neutrons slowed and were captured by nearby nuclei, which emitted de-excitation gamma rays. Nitrogen-13 was radioactive; it decayed by beta-plus emission. The resulting positrons met electrons and annihilated, producing the 511-keV photons.
 
-Bremsstrahlung photons from runaway electrons exceeded the photonuclear threshold for atmospheric nitrogen. A gamma ray struck nitrogen-14 and ejected a neutron, leaving nitrogen-13. Neutrons thermalized and were captured, producing de-excitation gamma rays with a characteristic spectral shape and tens-of-milliseconds decay. The unstable nitrogen-13 then beta-plus decayed, emitting positrons. Those positrons annihilated with electrons and produced the delayed 511-keV line.
+The researchers did not directly watch every microscopic step. Their claim was stronger than a single unexplained radiation spike because different pieces of the chain predicted different energies and timescales, and those predictions arrived in sequence. The millisecond flash supplied photons energetic enough to start the reactions. Monte Carlo calculations of neutron capture reproduced the broad afterglow. The delayed line sat at the electron-positron annihilation energy.
 
-This was not merely 'radiation associated with lightning.' It was observational evidence for lightning-triggered photonuclear reactions in Earth's atmosphere.
+That is why the 2017 result mattered. Photonuclear reactions in thunderstorms had been predicted before, and both neutron and positron observations had been reported in suggestive forms. Enoto and colleagues supplied a much tighter piece of reaction bookkeeping: neutron-related de-excitation followed by delayed positron annihilation after the same lightning event.
 
-The phrase can be abused in both directions. One can sensationalize it into 'natural nuclear explosions.' Wrong. The energies, reaction pathways and spatial distributions are nothing like a weapon. One can also domesticate it into trivia because photonuclear reactions are ordinary nuclear physics. Also wrong. A nuclear reaction does not stop being scientifically consequential because the Standard Model permits it. The question is what natural environments activate it, how often, and what else follows.
+There is a temptation to call the storm a natural nuclear reactor. It is a bad analogy. Nothing here resembles a critical chain reaction, a reactor core, or a nuclear explosion. The atmosphere is a target. The accelerator is the thunderstorm electric field. The energetic gamma rays do the nuclear work and then disappear. The interesting fact needs no inflation: ordinary air briefly became a nuclear-chemistry experiment because a thunderstorm made photons energetic enough to rearrange nuclei.
 
-The Enoto event does something especially valuable: it closes a causal chain with multiple signatures. Neutron-related de-excitation emission and delayed positron annihilation are harder to hand-wave away than a single broad gamma excess. The timing becomes chemistry. The spectrum becomes reaction bookkeeping.
+The strongest caution is less cinematic. One spectacular event does not tell us how common the process is, how much material it transforms globally, or whether photonuclear chemistry feeds back on the storm that produced it. Later modeling has widened the reaction network beyond the two headline channels, nitrogen-14 and oxygen-16, using evaluated nuclear cross sections for the actual mixture of atmospheric nuclides. That makes the chemistry richer. It does not make it globally important by default.
 
-It also creates an atmospheric isotope question. Nitrogen-13 decays quickly. Other photonuclear channels can contribute to carbon-14 production. Lightning therefore joins cosmic rays and other processes in the atmospheric radionuclide ledger. Whether it matters globally is a quantitative question, not an invitation to assume significance from novelty.
+Carbon-14 is the obvious place where novelty can outrun magnitude. Lightning-triggered photonuclear reactions can create neutrons and isotopes that feed atmospheric radiocarbon pathways. Cosmic rays already run an enormous natural production system above our heads. To claim that lightning materially changes the global carbon-14 budget requires a denominator: how many sufficiently energetic events occur, their photon spectra and fluence, the relevant cross sections, atmospheric transport, and the competing cosmic-ray source. A newly identified production channel can be real and still be small.
 
-The 2017 paper's strength is precisely its restraint. It reported a specific event, specific distances, a submillisecond flash, a 40–60 ms afterglow timescale, a cutoff around 10 MeV for the de-excitation component, and a minute-scale annihilation line. Those observables are more durable than any broad narrative about thunderstorms as reactors.
+The same discipline applies in the other direction. Calling the nuclear physics ordinary does not make the observation trivial. Before the storm, the reaction chain existed in cross-section tables and models. After the storm, nature had supplied the source, target, daughters and clock. The distinction is between permission and occurrence.
 
-The event also suggests how the field should proceed. Search for reaction closure, not just excess counts. If a photonuclear process is claimed, look for its daughters, timing, neutron captures, isotope decay and energy balance. Require the atmosphere to pay its nuclear bookkeeping bill.
+The event also gives the rest of this book a useful standard. A bright gamma-ray excess can have several parents. A claimed mechanism becomes harder to evade when it owes multiple, differently timed products. For photonuclear reactions, that means looking beyond the initiating flash to neutron captures, daughter nuclei, positron annihilation and isotope yields, then asking whether one source model can pay for all of them at once.
 
-Primary source: Enoto et al., *Nature* 551, 481–484 (2017), https://www.nature.com/articles/nature24630 .
+That is more demanding than finding radiation near lightning. It is also more satisfying. The atmosphere keeps receipts.
+
+Primary sources: Enoto et al., *Nature* 551, 481–484 (2017), https://doi.org/10.1038/nature24630 ; Wada et al., *Journal of Geophysical Research: Atmospheres* 125 (2020), https://doi.org/10.1029/2020JD033193 .
