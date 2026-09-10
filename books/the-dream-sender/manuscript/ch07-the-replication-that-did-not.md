@@ -2,64 +2,38 @@
 
 A failed replication is the point where a beautiful anomaly meets another building.
 
-Edward Belvedere and David Foulkes published their result in 1971 under a title with no decorative ambiguity: “Telepathy and Dreams: A Failure to Replicate.” They had restudied a participant who had performed strikingly in an earlier Maimonides series. The new work used a related design in a different laboratory. An agent attended to a randomly chosen image while the sleeping subject’s REM periods were monitored and dreams collected. In the morning the subject ranked the target pool, and additional judges worked with the dream reports. The earlier success did not return.
+In December 1971, Edward Belvedere and David Foulkes published a paper with a title that did not negotiate with the result: “Telepathy and Dreams: A Failure to Replicate.” The participant was not a random newcomer. In the earlier Maimonides study he had ranked the true target in the upper half of an eight-picture pool on all eight laboratory nights, a run the original analysis put at p = .004. Belvedere and Foulkes brought him to a different laboratory and tried again for eight nights.
 
-That paper should sit near the center of any honest account of the Maimonides program. Not because one failed replication cancels everything before it. It does not. It belongs there because the experiment attacked a specific hope: that an apparently successful person-protocol combination would travel.
+The architecture was recognizably the same. At the onset of the sleeper's REM periods, an experimenter signaled an acoustically isolated agent to concentrate on a magazine illustration randomly selected from a pool of eight. The sleeper was awakened from REM and his dreams recorded. The next morning he ranked duplicate pictures for correspondence with the night's dreams; two additional judges performed the matching task both without and with his associations. This time neither the participant nor the judges beat chance.
 
-Science cares deeply about travel.
+That paper belongs near the center of the Maimonides story because it attacked a specific hope: that an apparently successful person-protocol combination would travel. It does not erase the earlier result. Eight nights are not a large sample, and a small real effect can produce a positive study followed by a null one. But the move from Brooklyn to Wyoming turned an anomaly into a harder question. What, exactly, was supposed to be portable?
 
-A phenomenon confined to one apparatus is not necessarily false. Some physical effects require absurdly specialized equipment. Some biological effects depend on strains, diets, temperatures, microbiomes, or handling details that took years to identify. The first replication attempt can fail because the second laboratory unknowingly changed the thing that mattered.
+There are respectable answers to that question. Laboratory effects are real outside parapsychology. Biological findings can depend on strains, diets, microbiomes, handling, room temperature, or some maddening procedural detail nobody knew mattered until another lab changed it. Human experiments add rapport, expectation, fatigue, language and experimenter behavior. A failed first replication is not a scientific execution.
 
-But that defense creates an obligation. Find the thing.
+It is, however, a bill. If the Maimonides result depended on some ingredient missing in Wyoming, later work needed to identify that ingredient prospectively. Perhaps the target material mattered. Perhaps the sender relationship did. Perhaps the awakenings or judging procedure changed the effective measurement. Perhaps the original eight-night run caught a temporary psychological state. Perhaps it caught the positive tail of chance. Until one of those possibilities predicts the next result, “context” is not yet an explanation.
 
-If the Maimonides effect depended on some ingredient absent from the Foulkes setting, later research should have been able to identify it prospectively. Was the subject less comfortable? Was the sender relationship different? Was the target pool less vivid? Were awakenings timed differently? Did the judging method dilute the signal? Did the first series capture a temporary psychological state? Did the original result simply sit in the positive tail of chance?
+The literature then supplied an unusually useful sequel. In 1972 Foulkes and Belvedere joined R. E. L. Masters, Jean Houston, Stanley Krippner, Charles Honorton and Montague Ullman for another replication attempt, this time of a long-distance “sensory bombardment” experiment. The original version had separated sender and sleeper by about fourteen miles. The replication stretched that distance to roughly two thousand: the sender viewed an audiovisual target in New York while eight selected women slept in Wyoming. Three judges later ranked the eight possible programs against the dream reports. Again the true targets did not achieve a significant result.
 
-Those are not equally attractive explanations, but they are all candidates until tested.
+The authorship matters. This was not simply a hostile laboratory taking a swing at somebody else's claim; investigators associated with the Maimonides program were among the authors of the null paper. Nor does the second failure prove that distance killed a real effect, or that no dream-ESP effect can exist. It does something more modest and more useful. It makes the historical record harder to narrate as one clean positive program followed only by skeptical misunderstanding. The people closest to the work also participated in experiments that failed.
 
-The phrase “failure to replicate” is often thrown around as if it means “proof of no effect.” That is statistically illiterate. A small, noisy effect can easily produce a positive study followed by a null study. If the replication is underpowered, the sequence may be exactly what one expects even when a real effect exists. The proper questions are effect estimates, uncertainty, protocol comparability, and what the replication was capable of detecting.
+That is what an honest anomalous literature should look like.
 
-The opposite mistake is more common in fringe literatures: treating every failed replication as evidence that the phenomenon is exquisitely context-sensitive. That move protects the claim by increasing its complexity. It may be true. Human behavior is context-sensitive. Sleep is context-sensitive. But unless context variables are specified before the next experiment, sensitivity becomes a universal solvent.
+There is an opposite temptation, especially when effects are small and procedures are psychologically rich, to explain each failure after the fact. The receiver was wrong. The sender lacked rapport. The targets were insufficiently vivid. The laboratory atmosphere changed. The distance was too great—or perhaps not great enough to provoke the right state. Any one of those could conceivably matter. Together, if they are allowed to appear only after a null result, they become a universal solvent.
 
-This is the central methodological problem of psi.
+This is where replication becomes more interesting than the slogan “replication crisis.” The question is not whether every copy of an experiment produces the same p-value. It is whether the theory gets better at predicting which differences matter. A phenomenon can be temperamental and still become science. What it cannot do indefinitely is acquire a new temperament after every disappointment.
 
-An effect too sensitive to survive standardization may still be real, but it becomes difficult to distinguish from researcher degrees of freedom. Every unexplained failure gives the theory more places to hide. Every new place to hide makes the theory harder to kill. A theory that cannot be killed cannot become strong.
+The 1971 study also puts pressure on the idea of gifted receivers. Selecting high scorers is perfectly sensible if stable individual differences exist. It is dangerous when the selection is made from a noisy, tiny sample. Extreme observations regress toward the mean. Choose somebody because eight nights looked extraordinary and the next eight are likely to look less extraordinary even if nothing about the person has changed.
 
-Belvedere and Foulkes did something else valuable simply by publishing the null. They preserved an unfavorable event in the literature. That sounds ordinary. Historically it is not. Publication bias is one of the simplest ways a field can acquire an anomaly without anybody falsifying data. If positive small studies are interesting enough to publish and negative small studies disappear into drawers, the visible literature will overstate the underlying effect.
+That arithmetic does not prove the original run was luck. It tells us how to test the talent claim without flattering it. Qualification and confirmation have to be separated. One dataset identifies promising participants under a frozen rule; a fresh dataset tests them. If the high scorers remain high, the individual-difference case strengthens. If they collapse, the selection procedure—not hostility, boredom or a mysterious “decline effect”—deserves attention first.
 
-Parapsychology has an unusual relationship with this problem. Because null results can be culturally important within the field, specialist journals sometimes publish them. At the same time, the field’s small size, investigator overlap, changing procedures, and tendency toward exploratory moderator explanations make it difficult to estimate the true file drawer. The Maimonides literature must therefore be read both as a set of experiments and as a publication process.
+The same problem can operate one level up. Maimonides itself may have become a high-scoring laboratory selected by history. Once a site produces notable results, more experiments, researchers and stories accumulate around it. A local culture develops. Later investigators ask why other laboratories cannot reproduce “the Maimonides effect,” as though the name already identifies a stable natural kind.
 
-Imagine ten laboratories each run a small dream-target experiment. Chance alone produces variation. One gets an exciting result. Two get suggestive trends. Seven get nothing. If only the exciting one becomes famous, readers inherit a mystery. If all ten are published, the pooled estimate may look ordinary. If the seven nulls are published but use different scoring systems and tiny samples, meta-analysis becomes a judgment call.
+Maybe the site did possess unusual procedural skill. Ullman, Krippner or Honorton may have interacted with participants in ways that improved dream recall or engagement. The target pools may have been unusually discriminable. The technicians may have been better at eliciting reports. Those are not evasions if they can be turned into variables before the next study. The historical difficulty is that dream ESP never settled into a recipe that reliably told a new laboratory what it needed to preserve.
 
-The 1971 failure gives us at least one anchor against selective memory.
+Instead the record became one of partial portability. Positive results appeared outside Maimonides, enough for later reviewers and meta-analysts to calculate aggregate effects. Nulls appeared too. Procedures changed. Samples stayed small. The argument migrated from whether a striking night had occurred to how studies should be selected, weighted and interpreted—the dispute the next chapters inherit.
 
-It also raises a question about selected subjects. Parapsychology often searches for “high scorers,” people who appear unusually good at a task. This is sensible if genuine individual differences exist. It is dangerous if selection is based on noisy performance from small samples. Extreme scores regress toward the mean.
+A modern replication would therefore be more useful if it were designed to make several explanations lose at once. Qualify putative high scorers on data that can never enter the confirmatory analysis. Randomize them across independent sites while keeping the original site in the experiment. Lock the target library, randomization, timing, judging and analysis in advance. Report every session. Then ask not merely whether the pooled result crosses a significance threshold, but whether participant performance travels, whether site effects travel, and whether any surviving effect is large enough to predict rather than merely summarize.
 
-Select a participant because eight nights looked extraordinary and the next eight nights are likely to look less extraordinary even if nothing psychologically changes. This is not hostility, boredom, or psi decline. It is arithmetic.
+If high scorers travel, stable individual differences become harder to dismiss. If performance survives only at one laboratory, the laboratory becomes the object of study. If everyone regresses to chance, selection explains a great deal without requiring anybody to have done anything wrong. If a small effect survives everywhere, dream ESP becomes less theatrical and considerably more scientifically troublesome.
 
-The solution is simple in principle and expensive in practice: separate qualification from confirmation. Use one dataset to identify promising participants. Freeze the selection rule. Then test those participants on a fresh dataset large enough to estimate their performance. Never requalify after seeing the confirmation result.
-
-A modern dream-ESP program that genuinely believes in gifted receivers should welcome this design. If stable individual ability exists, clean holdout tests will amplify the evidence. If performance collapses, the field has learned that its talent-detection method was selecting noise.
-
-The same logic applies to laboratories. Maimonides itself may have been a high-scoring laboratory selected by history. Once a site produces notable results, more experiments, attention, and publication flow toward it. A distinctive laboratory culture develops. Later reviewers then ask why other sites cannot reproduce “the Maimonides effect,” as if the name identifies a natural kind.
-
-Maybe it does. Perhaps the site had unusual procedural skill. Perhaps Ullman, Krippner, or Honorton interacted with participants in a way that mattered. Perhaps the target pools were better. Perhaps the sleep technicians elicited richer reports. In mainstream behavioral science, experimenter effects and tacit laboratory technique are real concerns.
-
-But again: find the ingredient.
-
-The history never quite gets there.
-
-Instead, dream ESP becomes a literature of partial portability. Positive results appear outside Maimonides in later studies, enough that meta-analysts can calculate an aggregate effect. Yet the phenomenon does not stabilize into the kind of laboratory regularity that allows investigators to predict which new study will work.
-
-That is a mechanistic embarrassment and an epistemic clue.
-
-Suppose a modern consortium repeated the Belvedere-Foulkes logic at scale. First, a qualification phase identifies participants who score above a preregistered threshold in one laboratory. Second, those participants are randomly assigned across several independent sites. Third, each site uses identical software, target libraries, timing rules, and blinded analysis. Fourth, the original site also continues testing so we can distinguish participant regression from site transfer. Fifth, every session is reported.
-
-If high scorers travel, the case for stable individual differences strengthens. If performance remains only at the original site, laboratory effects become central. If everybody regresses to chance, selection explains much of the mystery. If a small effect persists everywhere, psi becomes less theatrical and more scientifically annoying—in the productive sense.
-
-The crucial point is that each outcome teaches something.
-
-Older anomalous programs often designed experiments to produce evidence for or against the headline phenomenon. Modern design can be more ambitious: construct experiments that discriminate among the most plausible ordinary and extraordinary models.
-
-Belvedere and Foulkes inadvertently did this by moving the participant.
-
-The failure did not end dream telepathy. It should have ended the easy version of it.
+Belvedere and Foulkes did not settle the subject in 1971. The following year's collaboration did not settle it either. What those failures removed was the luxury of treating a successful run as though portability came free.
