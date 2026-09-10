@@ -1,0 +1,24 @@
+# Source Log
+
+## Primary / official anchors
+
+- CIA, **The Exposing of Project AZORIAN** — https://www.cia.gov/stories/story/the-exposing-of-project-azorian/ — official retrospective history; supports K-129 recovery, Hughes cover, engineering scope, 1974 partial recovery, exposure/cancellation. Does not establish unrelated retrieval programs.
+- CIA Museum, **Project AZORIAN** — https://www.cia.gov/legacy/museum/exhibit/project-azorian/ — official exhibit; useful for engineering and cover-story details.
+- National Museum of the U.S. Air Force, **CONSTANT PEG: Secret MiGs in the Desert** — https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/1682967/constant-peg-secret-migs-in-the-desert/ — supports HAVE DOUGHNUT/HAVE DRILL acquisition and exploitation of MiG-17/MiG-21 and later CONSTANT PEG operations.
+- Air Force Historical Research Agency, **National Air and Space Intelligence Center** — https://www.dafhistory.af.mil/Sandbox/Fact-Sheets/Display/Article/432518/national-air-and-space-intelligence-center-acc/ — supports Foreign Technology Division lineage from 1961.
+- Air Force Historical Research Agency, **Foreign Materiel Exploitation Squadron (NASIC)** — https://www.dafhistory.af.mil/About-Us/Fact-Sheets/Display/Article/1461205/foreign-materiel-exploitation-squadron-nasic/ — supports modern institutional foreign-materiel exploitation lineage.
+- National Archives, **Project BLUE BOOK — Unidentified Flying Objects** — https://www.archives.gov/research/military/air-force/ufos — supports Blue Book archive, 12,618 reports/701 unidentified, Air Force historical conclusions, and Roswell archival references.
+- AARO, **Historical Record Report Volume I (2024)** — https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf — official investigative conclusions; supports AARO claims about lack of empirical evidence for extraterrestrial reverse engineering, misidentification of authentic sensitive programs, KONA BLUE, and sample characterization. Treat as an official assessment, not independently audited proof of every classified search claim.
+- AARO, **UAP Records / Information Papers** — https://www.aaro.mil/UAP-Records/ — links KONA BLUE release and ORNL materials-analysis synopsis/supplement.
+- U.S. House Oversight Committee, **UAP hearing, July 26 2023** — https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/ — official hearing record and witness materials, including David Grusch. Supports what witnesses publicly testified, not the truth of uncorroborated allegations.
+- AARO, **EFOIA Reading Room** — https://www.aaro.mil/EFOIA-Reading-Room/ — source for released AARO-related records.
+
+## Moon Dust / Blue Fly archival trail
+
+The public primary record is scattered across declassified Air Force/State/DIA documents and later FOIA releases. A 1967–1972 bundle derived from National Archives Record Group 59 is mirrored with provenance notes at https://ufotransparency.com/files/1961-04-15-project-moon-dust-blue-fly-cables-project-moon-dust-blue-fly-cables . Use the mirror as a locator, not as a substitute for validating each document against NARA holdings. The bundle includes diplomatic traffic concerning recovered space debris in Mexico and Nepal and routing toward Foreign Technology Division analysis.
+
+Rice University Woodson Research Center catalogs the Clifford Stone UFO research collection containing Air Force FOIA appeals on Moon Dust and Blue Fly: https://archives.library.rice.edu/repositories/2/archival_objects/365667 . Again, collection presence authenticates the archival object’s custody at Rice, not every claim Stone made about program purpose.
+
+## Source discipline
+
+Patents are evidence that somebody filed a claim, not that a mechanism works. Congressional testimony is evidence of testimony, not physical proof. Official AARO conclusions are evidence of an official investigation and its stated results, not a logical demonstration that no undiscovered program can exist. Declassified foreign-materiel programs establish precedent for secret recovery/exploitation of terrestrial adversary technology, not non-human origin.
