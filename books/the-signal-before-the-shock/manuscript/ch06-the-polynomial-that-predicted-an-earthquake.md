@@ -1,23 +1,35 @@
 # Chapter 6 — The Polynomial That Predicted an Earthquake
 
-A polynomial has no geological theory. That is its charm and its danger.
+At 5:46 UT on March 11, 2011, the Tohoku-Oki earthquake ruptured off northeastern Japan. Forty minutes earlier, according to a paper published that year by Kosuke Heki, the ionosphere had already begun to change.
 
-To identify an anomaly, analysts often subtract a smooth estimate of normal behavior. The residual looks like discovery. But normality has been chosen. If the smooth curve bends because the post-earthquake data pull on it, then the residual before the event contains information from the future.
+The instrument was not exotic. Japan's GEONET network continuously tracks dual-frequency GPS signals. Because those radio waves cross the ionosphere on their way to the ground, their relative phase can be used to estimate the electrons along the path. Heki reported a positive total-electron-content anomaly near the focal region that began about forty minutes before rupture and reached roughly eight percent of the background vertical TEC. Similar patterns, he argued, appeared before several other very large earthquakes.
 
-The criticism of reported pre-Tohoku TEC enhancement is therefore larger than ionospheric science. It is a general theorem for retrospective anomaly research: **a background model can leak the event backward in time.**
+The strange part was not simply the rise. It was how the rise had been defined.
 
-The same can happen with moving averages, normalization windows, principal components trained on the whole dataset, machine-learning preprocessing, interpolation across missing data and event-conditioned station selection. Any transformation that sees the full record before generating the earlier feature can create impossible foresight.
+TEC varies smoothly for ordinary reasons as satellites move, viewing geometry changes and the ionosphere itself evolves. To expose an anomaly, Heki fit a smooth reference curve and subtracted it from the data. For the Tohoku case, later critics focused on one choice with enormous consequences: the fit excluded the interval from about 5:12 to 6:00 UT, spanning roughly thirty-three minutes before the earthquake through the early postseismic period. The resulting polynomial became the estimate of what the ionosphere would otherwise have done.
 
-This is why prediction papers need what financial backtests learned painfully: walk-forward evaluation. At time t, fit only on information available before t. Generate a forecast. Freeze it. Advance the clock. Score the result. Repeat.
+That sounds harmless until the baseline is asked to cross an interval it was forbidden to see.
 
-Earthquake science adds an uglier problem because events are spatial. Analysts may choose the radius around an epicenter after knowing where rupture occurred. A satellite anomaly 150 kilometers away sounds local if 150 kilometers was chosen after inspection. A fair system needs a spatial rule fixed in advance, perhaps conditioned on physically motivated propagation or coupling lengths.
+Kamogawa and colleagues offered a different physical reading in 2013. Instead of treating the pre-event residual as an enhancement that returned to normal after the earthquake, they compared against a reference built from a similar GPS-satellite orbit on another day. Their reconstruction made the same record look more like a postseismic ionospheric depletion—a hole produced after the quake and tsunami, followed by gradual recovery. Same satellite paths. Same earthquake. Different definition of normal.
 
-Magnitude thresholds are another degree of freedom. If the signal appears before magnitude 6.5 events but not magnitude 6.0 events, the threshold can drift upward until the plot behaves. Depth thresholds, local-time windows and geomagnetic cutoffs can be tuned similarly. Each tuning consumes evidence.
+Heki did not simply concede the point. In a 2013 reply and extension he argued that the enhancement interpretation still fit the data better, cited additional ionosonde and magnetometer behavior, and emphasized that the changes appeared before rupture. He also acknowledged a less convenient fact: geomagnetic activity was elevated, and the apparent preseismic changes did not exceed nonseismic natural variability. His own conclusion stopped short of proving an earthquake precursor.
 
-The solution is not to forbid exploratory work. Exploration is how one learns. The solution is to label it correctly. Use one period to discover candidate transforms. Then lock them and test on untouched future data. The Earth provides an endless test set, although slowly and with terrible ethics.
+Then the reference curve itself went on trial.
 
-A useful precursor consortium would therefore maintain two systems. The research stream is messy, permissive and creative. Investigators can try any filter they like. The scoring stream is sealed. Algorithms enter in containers with version hashes and issue probabilistic forecasts continuously. They cannot be changed retroactively. Results are evaluated against common baselines.
+Fabrizio Masci reanalysed the same class of records and argued in 2015 that the approximately forty-minute onset could be generated by the way the baseline was defined. Eisenbeis and Occhipinti later made the methodological point more explicit. In their 2021 analysis, the disputed enhancement depended strongly on the polynomial reference curve and on the excluded interval used to fit it. Change the construction of the baseline and the dramatic pre-earthquake rise can shrink, disappear or reverse its interpretation.
 
-The distinction resembles drug discovery and clinical trials. Nobody asks medicinal chemists to preregister every molecular intuition. But the pivotal trial does not let them move the endpoint after seeing the deaths.
+This is more interesting than saying that a polynomial can lie. The polynomial is doing exactly what it was asked to do. The scientific question is whether the analyst has allowed information about the event or its aftermath to shape the counterfactual called "normal" before the event.
 
-Earthquake precursors need pivotal trials.
+That failure mode has relatives everywhere. A moving average can contain future samples. A normalization window can straddle the event it is supposed to predict. Principal components can be trained on the whole dataset before earlier observations are scored. Missing values can be interpolated using points that had not yet occurred. A machine-learning pipeline can learn an earthquake's signature during preprocessing even if the final classifier never sees an explicit event label. None of this requires fraud or bad faith. Retrospective analysis is simply very good at knowing what happened next.
+
+There is an important counterargument. A poor reference curve does not establish that the ionosphere was ordinary before Tohoku. Nor does demonstrating one artifact prove that every reported pre-seismic TEC feature is an artifact. Heki's later work tried alternative change-point methods, additional earthquakes and non-earthquake periods, and the broader ionosphere is unquestionably capable of real regional structure. The live question is narrower: can any proposed precursor survive a baseline that was fixed without access to the earthquake or the data after it?
+
+That is the experiment the original record could not perform for itself.
+
+A clean reconstruction would run the clock forward. At each moment, estimate normal TEC using only information available up to that moment: prior days, contemporaneous control regions, solar and geomagnetic state, satellite geometry and an algorithm frozen before the earthquake enters the record. Produce the anomaly score. Save it. Advance one sample. The same code then has to endure weeks when nothing happens and earthquakes it misses.
+
+Spatial choices need the same discipline. Once the epicenter is known, a patch of ionosphere 150 kilometers away can always be made to sound nearby. Magnitude thresholds, local-time windows, geomagnetic cutoffs and satellite selections can drift until the figure behaves. Those choices are legitimate during exploration. They become evidence only after they stop moving.
+
+The Tohoku dispute therefore leaves something more useful than a winner. It gives earthquake-precursor research a concrete adversarial test. One analyst may believe the ionosphere brightened before rupture; another may believe the apparent rise was partly manufactured by how the post-earthquake record bent the reference curve. Both should be able to agree on software that is forbidden to look ahead.
+
+If the signal survives that handicap, the argument becomes much more interesting. If it does not, the earthquake was never predicted by the polynomial. The polynomial was told where the earthquake was.
