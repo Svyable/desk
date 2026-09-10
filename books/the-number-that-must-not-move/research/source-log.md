@@ -8,7 +8,7 @@ Checked September 10, 2026.
 4. Yu. V. Petrov et al., **Natural nuclear reactor at Oklo and variation of fundamental constants: Computation of neutronics of a fresh core**, Physical Review C 74, 064610 (2006). https://doi.org/10.1103/PhysRevC.74.064610
 5. Edward D. Davis, **Oklo natural fission reactors and dynamical models of dark energy**, Radiation Protection Dosimetry (2023). https://doi.org/10.1093/rpd/ncad020
 6. J. K. Webb et al. / subsequent many-multiplet literature, contextualized through modern reviews; positive spatial-variation claims treated as disputed.
-7. Michael T. Murphy et al., **Fundamental physics with ESPRESSO: Precise limit on variations in the fine-structure constant towards the bright quasar HE 0515-4414**, Astronomy & Astrophysics. https://arxiv.org/abs/2112.05819
+7. Michael T. Murphy et al., **Fundamental physics with ESPRESSO: Precise limit on variations in the fine-structure constant towards the bright quasar HE 0515-4414**, Astronomy & Astrophysics 658, A123 (2022). https://doi.org/10.1051/0004-6361/202142257
 8. J. K. Webb et al., **Convergence properties of fine structure constant measurements using quasar absorption systems**, MNRAS 528 (2024). https://academic.oup.com/mnras/article/528/4/6550/7610923
 9. Nathaniel Sherrill et al., **Analysis of atomic-clock data to constrain variations of fundamental constants** (2023). https://arxiv.org/abs/2302.04565
 10. V. A. Dzuba, V. V. Flambaum, A. J. Mansour, **Constraints on the variation of physical constants, equivalence principle violation, and a fifth force from atomic experiments**, Physical Review D 110, 055022 (2024). https://doi.org/10.1103/PhysRevD.110.055022
@@ -21,7 +21,9 @@ Checked September 10, 2026.
 17. NIST, **Atomic Clocks: A Powerful Tool for Science** (updated 2025). https://www.nist.gov/atomic-clocks/atomic-clocks-powerful-tool-science
 18. NIST, **Nuclear Clocks: A Clock to Rule Them All?** (2026). https://www.nist.gov/atomic-clocks/nuclear-clocks-clock-rule-them-all
 19. Muhammad Zaheer et al., **Quantum metrology algorithms for dark matter searches with clocks**, NIST record (2024). https://www.nist.gov/publications/quantum-metrology-algorithms-dark-matter-searches-clocks
+20. Jonathan B. Whitmore and Michael T. Murphy, **Impact of instrumental systematic errors on fine-structure constant measurements with quasar spectra**, MNRAS 447, 446–462 (2015). https://doi.org/10.1093/mnras/stu2420
+21. V. Dumont and J. K. Webb, **Modelling long-range wavelength distortions in quasar absorption echelle spectra**, MNRAS 468, 1568–1574 (2017). https://doi.org/10.1093/mnras/stx381
 
 ## Source discipline
 
-Patents are not used as efficacy evidence. No non-public or classified material is claimed. Quasar spatial-variation claims are labeled disputed. Thorium enhancement factors are labeled model-dependent rather than established constants. Oklo limits are always described as depending on reactor and nuclear modeling.
+Patents are not used as efficacy evidence. No non-public or classified material is claimed. Quasar spatial-variation claims are labeled disputed. Thorium enhancement factors are labeled model-dependent rather than established constants. Oklo limits are always described as depending on reactor and nuclear modeling. For the alpha-dipole dispute, documented long-range wavelength distortions are treated as strong counterevidence to the archival result, while later arguments about how well simple distortion models reconstruct heterogeneous multi-setting archival spectra are retained rather than flattened into a claim that every feature of the old sky pattern has been uniquely explained.
