@@ -8,9 +8,9 @@
 
 ## Instrumented field research
 
-4. Massimo Teodorani, **A Long-Term Scientific Survey of the Hessdalen Phenomenon**, *Journal of Scientific Exploration* 18(2), 2004, pp. 217–251. ADS abstract: https://ui.adsabs.harvard.edu/abs/2004JSE....18..217T/abstract
-5. Teodorani, Strand & Hauge, **EMBLA 2001: The Optical Mission**, technical report, 2001.
-6. Teodorani et al., **EMBLA 2002: an Optical and Ground Survey in Hessdalen**, technical report, 2002.
+4. Massimo Teodorani, **A Long-Term Scientific Survey of the Hessdalen Phenomenon**, *Journal of Scientific Exploration* 18(2), 2004, pp. 217–251. Project-archive PDF (including Appendix 1 photometric reduction and the 18.8 ± 5 kW estimate): https://old.hessdalen.org/reports/scex1802217251.pdf · ADS abstract: https://ui.adsabs.harvard.edu/abs/2004JSE....18..217T/abstract
+5. Teodorani, Strand & Hauge, **EMBLA 2001: The Optical Mission**, technical report, 2001: https://old.hessdalen.org/reports/Embla2001_e.pdf
+6. Massimo Teodorani & Gloria Nobili, **EMBLA 2002: An Optical and Ground Survey in Hessdalen**, technical report, 2002. Project-archive PDF (photometry section reports roughly 36–100 kW under its stated assumptions): https://old.hessdalen.org/reports/EMBLA_2002_2.pdf
 7. European Geosciences Union GeoLog overview by Bjørn Gitle Hauge on instrumented Hessdalen research: https://blogs.egu.eu/geolog/2014/05/19/imaggeo-on-mondays-light-fantastic-flashing-phenomena-in-norways-night-sky/
 
 ## Ball lightning / atmospheric electricity
