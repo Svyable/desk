@@ -19,7 +19,7 @@ The method combines the diary-like intellectual intimacy of field research with 
 - [x] 03 — Hynek, Vallée, and the Private Conversation
 - [x] 04 — When Intelligence Studies Belief
 - [x] 05 — The Mirage Men Problem
-- [x] 06 — Paul Bennewitz and the Poisoned Well
+- [x] [06 — Paul Bennewitz and the Poisoned Well](manuscript/ch06-paul-bennewitz-and-the-poisoned-well.md)
 - [x] 07 — AFOSI, Sources, and Stories That Acquire Clearance
 - [x] 08 — Remote Viewing Crosses the Hall
 - [x] 09 — Jack Parsons in the Government File
@@ -32,3 +32,8 @@ The method combines the diary-like intellectual intimacy of field research with 
 - [x] 16 — The Witness Who Knows a Witness
 - [x] 17 — How to Manufacture Forbidden Knowledge Without Lying
 - [x] 18 — A Field Manual for the Next Impossible Case
+
+## Research
+
+- [Evidence ledger](research/evidence-ledger.md)
+- [Source log](research/source-log.md)
