@@ -50,3 +50,4 @@ This Desk edition completes the 18-chapter argument as a first full manuscript w
 
 - [Research brief, chapter map, and falsification tests](research/README.md)
 - [Source ledger](research/source-ledger.csv)
+- [Publication review](research/publication-review.md)
