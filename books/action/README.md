@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Author**    | Sven Hardy Benson |
-| **Status**    | Drafting |
+| **Status**    | Revision |
 | **Chapters**  | 21 of 21 drafted |
 
 *How America Turned Every Game Into a Bet, and What the House Learned About Everyone Else*
@@ -22,35 +22,35 @@ That is not an argument that sports betting should have stayed illegal. The book
 
 ### Part I — The Line Moves to Every Pocket
 - [x] [Front Matter](manuscript/front-matter.md)
-- [x] Ch 1 — Kickoff
-- [x] Ch 2 — The Law That Banned Everything
-- [x] Ch 3 — Nevada's Fifty-Year Monopoly
-- [x] Ch 4 — New Jersey's Bet on Itself
+- [x] [Ch 1 — Kickoff](manuscript/ch01-kickoff.md)
+- [x] [Ch 2 — The Law That Banned Everything](manuscript/ch02-the-law-that-banned-everything.md)
+- [x] [Ch 3 — Nevada's Fifty-Year Monopoly](manuscript/ch03-nevadas-fifty-year-monopoly.md)
+- [x] [Ch 4 — New Jersey's Bet on Itself](manuscript/ch04-new-jerseys-bet-on-itself.md)
 
 ### Part II — Building the Machine
-- [x] Ch 5 — Daily Fantasy's Bait and Switch
-- [x] Ch 6 — Free Money
-- [x] Ch 7 — How a Line Is Really Set
-- [x] Ch 8 — In-Play
-- [x] Ch 9 — The Whale Hunters
+- [x] [Ch 5 — Daily Fantasy's Bait and Switch](manuscript/ch05-daily-fantasys-bait-and-switch.md)
+- [x] [Ch 6 — Free Money](manuscript/ch06-free-money.md)
+- [x] [Ch 7 — How a Line Is Really Set](manuscript/ch07-how-a-line-is-really-set.md)
+- [x] [Ch 8 — In-Play](manuscript/ch08-in-play.md)
+- [x] [Ch 9 — The Whale Hunters](manuscript/ch09-the-whale-hunters.md)
 
 ### Part III — The Psychology of the App
-- [x] Ch 10 — Nudge, But Make It Odds
-- [x] Ch 11 — The Broadcast Becomes the Betslip
-- [x] Ch 12 — Prop Bets and the Integrity Problem
+- [x] [Ch 10 — Nudge, But Make It Odds](manuscript/ch10-nudge-but-make-it-odds.md)
+- [x] [Ch 11 — The Broadcast Becomes the Betslip](manuscript/ch11-the-broadcast-becomes-the-betslip.md)
+- [x] [Ch 12 — Prop Bets and the Integrity Problem](manuscript/ch12-prop-bets-and-the-integrity-problem.md)
 - [x] [Ch 13 — A Very American Relapse](manuscript/ch13-a-very-american-relapse.md)
 
 ### Part IV — Who Pays, Who Profits
-- [x] Ch 14 — The Numbers Nobody Advertises
-- [x] Ch 15 — The States That Said Yes
-- [x] Ch 16 — Congress Watches From the Sidelines
-- [x] Ch 17 — The Counter-Argument
+- [x] [Ch 14 — The Numbers Nobody Advertises](manuscript/ch14-the-numbers-nobody-advertises.md)
+- [x] [Ch 15 — The States That Said Yes](manuscript/ch15-the-states-that-said-yes.md)
+- [x] [Ch 16 — Congress Watches From the Sidelines](manuscript/ch16-congress-watches-from-the-sidelines.md)
+- [x] [Ch 17 — The Counter-Argument](manuscript/ch17-the-counter-argument.md)
 
 ### Part V — The Next Line
-- [x] Ch 18 — When the Line Blurs Into a Market
-- [x] Ch 19 — Other Countries Already Ran This Experiment
-- [x] Ch 20 — The House Edge on Democracy
-- [x] Ch 21 — Building a Sportsbook You Could Defend
+- [x] [Ch 18 — When the Line Blurs Into a Market](manuscript/ch18-when-the-line-blurs-into-a-market.md)
+- [x] [Ch 19 — Other Countries Already Ran This Experiment](manuscript/ch19-other-countries-already-ran-this-experiment.md)
+- [x] [Ch 20 — The House Edge on Democracy](manuscript/ch20-the-house-edge-on-democracy.md)
+- [x] [Ch 21 — Building a Sportsbook You Could Defend](manuscript/ch21-building-a-sportsbook-you-could-defend.md)
 - [x] [Back Matter](manuscript/back-matter.md)
 
 ## Working thesis
