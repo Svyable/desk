@@ -63,7 +63,7 @@ Downgrade if blinded observers cannot detect realistic UPE or physiological-stat
 
 - Expand all chapters below Desk's 3,000-word floor with primary studies rather than repeated framing.
 - Reconstruct Gurwitsch chronology from original-language/archival sources where obtainable.
-- Retrieve the full 2023 mitochondrial study and audit every physical-isolation control directly.
+- Seek an independent replication or direct critique of the 2023 mitochondrial assay; prioritize work that measures photons while independently controlling optical, volatile, thermal, mechanical, and electromagnetic channels.
 - Replace review-derived neural claims with the underlying primary experiments.
 - Add photon-budget calculations and diagrams to Chapters 11, 14, and 18.
 - Conduct a full anti-slop pass after expansion; reduce recurring constructions such as “this does not prove” where the claim boundary can be carried by evidence and scene instead.
