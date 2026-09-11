@@ -2,7 +2,7 @@
 
 ## Primary and authoritative sources
 
-1. Dadachova E. et al. (2007), “Ionizing radiation changes the electronic properties of melanin and enhances the growth of melanized fungi,” *PLoS ONE* 2:e457. https://doi.org/10.1371/journal.pone.0000457 — Primary positive experiment; supports altered melanin ESR/redox behavior and growth stimulation under specified conditions, not a completely closed metabolic pathway.
+1. Dadachova E. et al. (2007), “Ionizing radiation changes the electronic properties of melanin and enhances the growth of melanized fungi,” *PLoS ONE* 2:e457. https://doi.org/10.1371/journal.pone.0000457 — Primary positive experiment. Under specified low-nutrient conditions and a 0.05 mGy/hr radiation field, melanized *C. neoformans* showed ~2.5-fold more CFUs, nearly 3-fold greater 14C-acetate incorporation, and a smaller 6.5% dry-weight increase; irradiated melanized *C. sphaerospermum* also showed enhanced colony growth. Supports altered melanin ESR/redox behavior and condition-specific growth stimulation, not a completely closed metabolic pathway.
 
 2. Zhdanova N.N. et al. (2000), “Fungi from Chernobyl: mycobiota of the inner regions of the containment structures of the damaged nuclear reactor,” *Mycological Research* 104:1421–1426. https://doi.org/10.1017/S0953756200002756 — Primary survey documenting fungal colonization and species diversity inside the Shelter.
 
@@ -12,7 +12,7 @@
 
 5. Schultzhaus Z. et al. (2020), “Adaptive evolution of a melanized fungus reveals robust augmentation of radiation resistance by abrogating non-homologous end-joining.” PubMed: https://pubmed.ncbi.nlm.nih.gov/33078510/ — Experimental evolution; shows repair architecture can dominate resistance.
 
-6. Bacha G.D. et al. (2022), “Evaluating changes in growth and pigmentation of Cladosporium cladosporioides and Paecilomyces variotii in response to gamma and ultraviolet irradiation,” *Scientific Reports*. https://doi.org/10.1038/s41598-022-16063-z — Key null/complicating result: pigmentation changed but significant growth-rate stimulation was not observed under tested gamma/UV conditions.
+6. Bland J. et al. (2022), “Evaluating changes in growth and pigmentation of Cladosporium cladosporioides and Paecilomyces variotii in response to gamma and ultraviolet irradiation,” *Scientific Reports* 12:12142. https://doi.org/10.1038/s41598-022-16063-z — Key null/complicating experiment, but not a direct replication of Dadachova 2007. It used different species, nutrient-rich potato dextrose agar, Cs-137 gamma irradiation and a radially varying dose; significant growth-rate stimulation was not observed in either species, while UV increased and gamma decreased measured pigmentation. The authors explicitly note that nutrient richness and the non-Chernobyl history of the isolate could matter.
 
 7. Vasileiou T., Summerer L. (2020), “A biomimetic approach to shielding from ionizing radiation: The case of melanized fungi,” *PLoS ONE* 15:e0229921. https://doi.org/10.1371/journal.pone.0229921 — Biomimetic shielding analysis; useful for engineering implications, not proof of radiotrophic metabolism.
 
@@ -29,6 +29,7 @@
 ## Claim discipline
 
 - “Radiation eating” is not used as an established scientific mechanism.
+- The 2022 Bland et al. null is treated as a boundary condition on generality, not as a direct failed replication of the 2007 Dadachova et al. experiments.
 - Chernobyl abundance does not establish causation.
 - NASA research interest does not establish deployable shielding efficacy.
 - Patents, if later added, will be evidence of filing only.
