@@ -1,0 +1,8 @@
+{
+  "year": "2022",
+  "author_or_institution": "Ouyang et al. / OpenAI",
+  "title": "Training language models to follow instructions with human feedback",
+  "source_type": "research paper",
+  "book_use": "Chapter 18 - reinforcement learning from human feedback as industrialized taste-calibration",
+  "url": "https://arxiv.org/abs/2203.02155"
+}
