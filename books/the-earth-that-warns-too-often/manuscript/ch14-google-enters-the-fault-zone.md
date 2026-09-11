@@ -1,131 +1,93 @@
 # Google Enters the Fault Zone
 
-By the time Google researchers entered the QuakeFinder data set, the central problem was no longer whether a magnetometer could record something odd before an earthquake. That had been demonstrated many times in the least useful sense of the word. The problem was whether a feature could survive a design built to stop researchers from fooling themselves.
+The Google–QuakeFinder paper began with more than 330,000 site-days of magnetometer data and ended with nine earthquakes in the held-out test era.
 
-The collaboration produced one of the most interesting papers in the modern precursor literature: William Heavlin, Karl Kappler, Lusann Yang, Daniel Schneider and colleagues, *Case-Control Study on a Decade of Ground-Based Magnetometers in California Reveals Modest Signal 24–72 hr Prior to Earthquakes*, published in *Journal of Geophysical Research: Solid Earth* in 2022.
+Both numbers matter. The first explains why the experiment could be attempted. The second explains why the result remains fragile.
 
-The title is unusually disciplined. 'Modest signal.' Not prediction. Not breakthrough.
+William Heavlin, Karl Kappler, Lusann Yang and their colleagues published the study in *Journal of Geophysical Research: Solid Earth* in 2022. The title was admirably unheroic: *Case-Control Study on a Decade of Ground-Based Magnetometers in California Reveals Modest Signal 24–72 hr Prior to Earthquakes*.
 
-The study began with more than 330,000 site-days of magnetic measurements from the QuakeFinder network. It then threw almost all of that apparent abundance away.
+The word *modest* was doing real work.
 
-The investigators required qualifying earthquakes to be at least magnitude 4.5, close enough to more than one station to support paired analysis, and sufficiently isolated from other significant earthquakes to reduce contamination. Depending on parameter settings, the final analysis involved a small set of site-pair-earthquake combinations. Across the selected configurations, the study's key result rested on nineteen qualifying earthquakes.
+QuakeFinder had accumulated the thing precursor research usually lacks: boring time. More than a hundred instruments had spent years recording days on which no useful earthquake happened. The archive exceeded 26 terabytes. Yet once the researchers demanded earthquakes of at least magnitude 4.5, suitable station geometry, enough intact data and separation from other significant earthquakes, the impressive sensor archive collapsed into nineteen distinct earthquakes: ten before the train/test boundary and nine after it.
 
-That number should be kept in the reader's head.
+The statistical unit that mattered was not the second of magnetic data. It was the earthquake.
 
-Three hundred thirty thousand site-days sounds like big data. Nineteen earthquakes sounds like what the experiment actually had to generalize across.
+For each qualifying event, the analysis paired nearby magnetometer sites. The sites had to be close enough to the epicenter—depending on the selected configuration, within twenty, thirty or forty kilometers—and there had to be at least two of them. Cross-spectral power between the two stations was meant to suppress nuisances confined to one location: a vehicle, a bad cable, construction near a sensor. A disturbance seen at both instruments was harder to dismiss as local clutter.
 
-The team divided the archive by time. Data before January 1, 2016 became the training period; later data became the test period. The split was chosen using earthquake occurrence and station coverage without inspecting the magnetic signals in the test interval. The researchers emphasized that they did not process the held-out test data while selecting the final candidate models, aside from an explicitly reported code issue discovered during evaluation.
+Harder, not impossible. Solar and ionospheric disturbances can cover much larger areas than forty kilometers. So can parts of the electrical grid. Cross-power changes the nuisance problem; it does not abolish it.
 
-This is the most important sentence in the paper even though it is not about earthquakes.
+The team cut the time before each earthquake into one case period and seven controls. The case occupied the forty-eight hours from seventy-two to twenty-four hours before rupture. The final twenty-four hours were deliberately ignored. The seven control periods, also forty-eight hours each, came before the case interval.
 
-The test set had a fence around it.
+Then the sensor record was compressed brutally.
 
-Inside the analysis, the team used a feature based on spectral cross-power between pairs of stations. For each earthquake and nearby station pair, they defined one 'precursor' period—really just the case window—24 to 72 hours before the earthquake, with the final 24 hours excluded by a buffer. They compared that period with seven earlier windows of equal duration, called quiescent controls.
+Ten-minute Fourier windows with heavy overlap converted the time series into spectra. Frequencies were grouped into eighty-five logarithmically spaced bins. At each frequency, the paired stations were combined through cross-power. Instead of averaging the resulting distribution, the analysis retained its 98th percentile—the unusually large common excursions. A linear discriminant built from the earlier earthquakes then asked whether those spectral features differed between the case and control periods.
 
-The word precursor was deliberately used as a label for the case interval, not as a conclusion about mechanism.
+This is a much stranger object than the phrase “magnetic precursor” suggests. The final signal was not a compass needle swinging before an earthquake. It was a weighted difference among upper-tail cross-spectral features assembled from paired instruments across frequency.
 
-For each period, they calculated frequency-dependent features from the upper tail of the spectral cross-power distribution. A linear discriminant analysis trained on the earlier earthquakes attempted to separate pre-earthquake periods from controls. The frozen discriminator was then applied to later data.
+That specificity is a strength. It is also why replication has to mean more than finding another magnetic anomaly.
 
-The result: modest separability.
+The paper describes its procedure as pre-specified, and the train/test boundary is a serious methodological advance. But “pre-specified” should not be mistaken for “the complete method descended from the sky before anybody looked at the data.” On the training period, the investigators explored a grid of 576 combinations of analysis choices. Those choices included earthquake magnitude threshold, maximum station distance, time-window parameters and feature settings. From that development process they selected three closely related configurations, whimsically named blue, channel and flathead after catfish—a nod to Namazu, the giant catfish of Japanese earthquake mythology.
 
-The paper characterized the effect size as sitting in an uncomfortable middle ground. It was not so large that anyone should have seen it effortlessly decades earlier. It was not zero. The authors discussed an effective signal-to-noise measure around 0.5 under their framework—substantial by some social-science standards, small for a physical detector expected to classify individual events.
+Only those three configurations were then run on the held-out test data.
 
-More importantly, the distributions overlapped. Not every earthquake showed the feature. Control periods sometimes did.
+That is legitimate model development. In fact, it is what a training set is for. The important discipline is that the exploratory freedom stayed on one side of the temporal wall.
 
-That is why the paper did not claim a warning system.
+The wall, however, protected only nine distinct future earthquakes.
 
-This is exactly the result the precursor debate has needed for years because it refuses the binary choice.
+Because one earthquake could be observed by several station pairs, the analysis contained more site-pair–earthquake combinations than that: fifty-five in training and sixty in testing before later filtering. Those combinations add measurement information, but they do not turn one earthquake into several independent ruptures. A feature that happens to fit the circumstances of one event can therefore appear repeatedly across its station pairs.
 
-If the analysis is sound, a weak magnetic antecedent exists in the aggregate. That does not mean a magnetometer can tell a city to evacuate. It does not vindicate VAN. It does not rehabilitate the Corralitos trace. It does not prove positive holes or electrokinetic currents. It says a particular statistical property of paired magnetic stations differed modestly during one defined pre-event window in one California data set, including held-out earthquakes.
+The paper itself is more candid about awkward details than the simplified story usually told about it.
 
-The result is narrow enough to be useful.
+Missing data were common. If a forty-eight-hour interval contained a gap longer than three minutes, that period was discarded. This removed about nineteen percent of the training site-pair–earthquake combinations and sixteen percent of those in the test set because their case periods failed the requirement. Control periods were affected even more heavily. When a control window was unusable, the investigators moved farther backward in time to find another valid one. In some cases the replacement control was months earlier. Forty percent of the site-pair–earthquake combinations therefore contained discontinuity in the nominal sequence of controls.
 
-It also has vulnerabilities.
+There are reasonable reasons for doing this. Magnetometers fail. Batteries drop. Stations reboot. Throwing out bad intervals is better than pretending they are observations. But a case-control design whose controls sometimes migrate months away from the earthquake inherits more seasonal, instrumental and environmental difference than a picture of eight neat adjacent boxes would suggest.
 
-Nineteen earthquakes are still nineteen earthquakes. Event independence matters. Fault systems differ. Station pairs differ. Earthquake magnitude estimates carry uncertainty. The parameter grid used during model development introduces researcher choices, even if the test set remains protected. Cross-power can suppress local noise without identifying a crustal source. A regional anthropogenic or environmental process could affect multiple stations. The 24–72-hour window is operationally interesting but not derived from a settled physical mechanism.
+The authors tried to defend against exactly this kind of drift. They detrended the earlier control features toward the time of the case period—their “pocketwatch” correction—so that a slow change in the instruments would not masquerade as an earthquake antecedent. They also smoothed the frequency weights rather than letting the discriminant seize on one narrow noisy bin. Both decisions were intentionally conservative in the training data.
 
-The paper is best read as an existential test: is there anything in the magnetic data worth chasing under a reasonably strict design?
+Yet one unresolved nuisance remains especially important. The magnetometers themselves changed over the decade as equipment was improved, and the paper says the effects of those hardware changes were not modeled. The authors also called for better removal of geographically broad signals from solar wind, lightning and power lines, and suggested using remote reference stations to suppress ionospheric contributions.
 
-Its answer was yes, modestly.
+Those are not footnotes to be swept aside after a positive result. They are the next experiment.
 
-This creates a new burden for the field.
+After training, the three frozen configurations showed a modest separation between the pre-earthquake windows and their controls in the later data. The characteristic frequency weighting peaked around a period of roughly three seconds. The reported effect size, expressed as a signal-to-noise ratio, was around 0.5 in the study’s framework.
 
-A positive effect in held-out data should not trigger celebration. It should trigger replication.
+The authors chose an unusual comparison to explain that number. An effect of roughly that size can be respectable in noisy human experiments and unimpressive for a physical detector. Their point was not that earthquakes behave like psychology subjects. It was that the observed distributions still overlapped substantially.
 
-The cleanest replication uses different earthquakes collected after the paper, ideally from station hardware and regions not represented in the original training. Freeze the 2022 pipeline. No retraining. No new frequency choices. No new magnitude threshold. Run it forward.
+Some earthquake case windows looked ordinary. Some control windows looked unusual.
 
-If the effect persists at roughly the same size, then the mechanism question becomes urgent.
+A city cannot evacuate on that basis.
 
-If it shrinks toward zero, the result joins a long list of first-generation anomalies that did not travel.
+The result therefore does less—and more—than the usual precursor claim. It does not say that a magnetometer can identify the next rupture. It says that under one carefully developed family of transformations, paired California stations contained a statistical difference in a defined forty-eight-hour window before a small set of later earthquakes.
 
-If it grows, the original study may have underestimated a conditional effect.
+The strongest counterargument is not that nine test earthquakes are automatically too few. Rare-event science often has to work with small numbers. The stronger objection is that the result still has several plausible non-seismic explanations that can reproduce broad spatial coherence: unmodeled common-mode geophysics, infrastructure, hardware history, or some interaction between those backgrounds and the case-selection process. Cross-power rejects a broken sensor more readily than it rejects the Sun.
 
-All three outcomes are informative.
+The strongest argument in the paper’s favor is equally specific. Whatever produced the held-out effect had to survive a temporal split after the frequency weights and three final configurations had been chosen from earlier earthquakes. That is a higher bar than drawing a circle around an anomaly after a famous rupture.
 
-The study also gives the field a way to reinterpret older negative evidence. Parkfield found no obvious preseismic electromagnetic anomaly in the channels and analyses used around the 2004 M6 earthquake. The QuakeFinder feature is statistical and distributed across station pairs and frequencies. Would the frozen 2022 feature extractor score Parkfield's pre-event window as unusual?
+By September 2026, there is an additional fact the chapter has to acknowledge. QuakeFinder’s own current history says the project operated from 2000 through 2023. Its publication list ends with the 2022 Google collaboration. Fresh searches did not identify a direct published replication in which the frozen 2022 pipeline was run prospectively on a new set of post-publication earthquakes with comparable station coverage.
 
-This is a tempting retrospective test. It should be done carefully because Parkfield could easily become another target used for post hoc tuning. The correct procedure is to run the exact frozen algorithm once on compatible Parkfield data if the instrumentation allows, publish the result, and resist the urge to modify the feature if it fails.
+That is a literature-status observation, not a negative experiment. The network winding down does not make the 2022 result false. It does make the chapter’s old proposal—simply keep the same network running and score each new earthquake—historically obsolete.
 
-A mechanism should be held to the same standard.
+A replication now has to be reconstructed rather than merely awaited.
 
-The 2022 paper did not choose among positive holes, fluid-related currents, piezomagnetism, stress-dependent conductivity or some unknown geophysical background. Its cross-spectral feature is phenomenological. This is appropriate. A premature mechanism can distort the detector by making researchers search only where the theory expects.
+One route is archival. Freeze the published 2022 analysis and apply it to compatible observations that were not used for model development, including whatever later QuakeFinder data can be recovered before the network ceased operating. Another is geographic: find an independent dense ULF array, preserve the same event rules and frequency transformation, and let different hardware and different faults test whether the feature travels. A third is prospective but more expensive: build the paired stations again and register the scoring pipeline before the next qualifying earthquakes occur.
 
-But phenomenology cannot be the final state.
+The distinction between those tests matters. Reanalyzing the original archive can challenge implementation details, but it cannot create new independent earthquakes. A different region supplies independent events but also different geology and instrumentation. A rebuilt prospective network is the cleanest test and the slowest.
 
-If the signal is crustal, its spatial coherence should tell us something about source scale. Station-pair separation matters. The frequency dependence should constrain propagation through conductive crust. Magnitude scaling should constrain source strength. Tectonic setting and geology should matter if specific minerals or fluids are responsible.
+That slowness is not an incidental inconvenience. It is the subject.
 
-The existing data can begin to ask these questions, but every subdivision reduces event count.
+The paper’s 330,000 site-days can seduce the eye into thinking the experiment is large. In one sense it is. Years of quiet recordings are what let a researcher characterize the background at all. But the decisive evidence is constrained by the small number of future ruptures that satisfy the same rules.
 
-This is the central tension of rare-event science. Mechanism demands stratification; statistics demands pooling.
+This is why deep learning is not obviously the next step. A model can ingest billions of sensor samples and still be trained on ten earthquakes. The apparent data abundance exists inside events; the generalization problem exists across them.
 
-Pooling California earthquakes gives power but may average over different physics. Splitting by fault, magnitude, depth and lithology gives physical clarity but leaves three events per bin.
+The 2022 collaboration understood enough of that distinction to choose restrained machinery. The cleverness was not a neural network. It was the fence between earlier and later earthquakes.
 
-The only honest cure is time and more instruments.
+But a fence is not a replication.
 
-The Google collaboration also makes an important cultural point. Machine learning did not rescue earthquake prediction by discovering a hidden nonlinear oracle. The successful analysis used relatively restrained statistical machinery and a strong experimental split.
+The paper earned the right to ask the next question. It did not answer it in advance.
 
-This is almost the opposite of the usual AI story.
+That leaves the result in an unusually productive position. Too disciplined to dismiss as another highlighted squiggle. Too small and too entangled with background physics to call a forecasting technology. Too specific to be vindicated by a different kind of anomaly somewhere else.
 
-When the number of independent events is small, simpler models can be more credible because they expose what is being measured. The intellectual contribution lies in study design: case-control windows, station pairs, held-out time periods, pre-specified configurations.
+The next convincing result has to make the same instrument—analytically, not necessarily physically—survive another set of earthquakes it was not allowed to learn from.
 
-A model with higher historical accuracy but weaker separation between training and testing would be less interesting.
+Until then, the most interesting thing Google brought into the fault zone was not artificial intelligence.
 
-This matters now because earthquake prediction attracts deep-learning papers. Seismic catalogs, GNSS, satellite imagery and electromagnetic time series look like ideal high-dimensional inputs. A neural network can easily be trained to classify windows before earthquakes. If windows from the same earthquake sequence leak across train and test sets, accuracy can become spectacular without any prospective information.
-
-The unit of independence has to be the future event.
-
-The Google/QuakeFinder paper did not solve every version of that problem, but it moved the field toward the right question.
-
-There is another subtle strength in the case-control design. Each earthquake's pre-event period is compared with nearby earlier periods at the same station pair. Geography, hardware and much of the seasonal context are therefore partly controlled by construction. The method does not ask California magnetometers to look the same everywhere.
-
-This is analogous to matched case-control studies in epidemiology. Rare outcomes can be studied efficiently by comparing cases with carefully chosen controls rather than modeling the entire population from scratch.
-
-The analogy is useful because it clarifies what the result means. A risk factor can be associated with disease without being diagnostic. Smoking strongly shifts lung-cancer risk but does not tell you which smoker has a tumor tomorrow. A weak magnetic risk factor could shift earthquake probability without identifying the next rupture.
-
-This is the conceptual move the field has resisted.
-
-Earthquake precursor research inherited the dream of deterministic prediction. The Google result is more naturally interpreted as risk-factor science.
-
-That shift changes evaluation.
-
-Instead of demanding, 'Did the signal predict the earthquake?', ask for the likelihood ratio of the magnetic feature. How much more common is a high score in the 24–72 hours before qualifying earthquakes than in matched control time? How stable is that ratio across regions and years? Does adding the feature improve a baseline short-term seismicity model? Is the improvement large enough to matter for any decision?
-
-A weak but stable likelihood ratio could be real science.
-
-The practical threshold comes later.
-
-The study's authors were explicit that the effect was not directly useful for prediction. That statement protects the result from one of the precursor field's worst habits: making every statistically significant association carry the weight of public warning.
-
-It also invites a better experiment.
-
-If QuakeFinder or successor stations continue operating, the 2022 analysis should now be treated like a sealed instrument. Every new qualifying earthquake is another calibration point. The paper's code and raw data should allow independent groups to reproduce the original result. A public prospective registry could store scores as they are generated.
-
-No one needs to believe in the mechanism.
-
-No one needs to believe the effect will survive.
-
-The network can simply keep score.
-
-This is the moment the book has been building toward. The strongest modern positive case is not a glowing sky, a nervous animal, a Greek telegram or a spectacular satellite map.
-
-It is a modest difference between two distributions, obtained after somebody finally protected the future from the analyst.
+It was the future tense.
