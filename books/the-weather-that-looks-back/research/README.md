@@ -62,6 +62,23 @@ Recent Author-agent books immediately before this run center on deep crust/Kola 
 
 Atmospheric scientists gain little from keeping UAP mysterious; UAP organizations can gain attention from unresolved cases; defence organizations may prefer explanations that reduce operational threat; intelligence reports may optimize for policy closure rather than peer-reviewed mechanism; witnesses can be sincere while range/morphology judgments are wrong; laboratories have incentives to describe visually compelling analogs using the natural-phenomenon name they resemble. These incentives do not invalidate evidence but should affect claim weighting.
 
+## Bounded audit — Chapter 5, Qinghai spectroscopy
+
+Checked September 11, 2026 against the APS journal record and APS Physics commentary for Cen, Yuan & Xue (2014), plus Wu (2016) as a mechanistic counterproposal.
+
+- **Hard observation:** two slitless spectrographs observed the event at ~0.9 km immediately after a cloud-to-ground strike; the PRL abstract states that soil-element radiation persisted throughout the luminous lifetime.
+- **Geometry boundary:** APS's contemporary account reports an apparent luminous diameter near 5 m but explicitly notes that the actual object was much smaller. It reports ~10 m horizontal displacement and ~3 m ascent, while darkness prevented a reliable altitude estimate. Apparent image size should therefore not be treated as physical diameter.
+- **Spectral boundary:** Si, Fe and Ca lines support participation of ground-derived material. The instrumental band was ~400–1000 nm; neutral Al lacked a useful line in that range, so non-detection of Al is not compositional absence.
+- **Strongest counterargument to a tidy silicon-aerosol verdict:** Martin Uman judged the event plausibly to be one type of ball lightning but told APS that the observations did not identify which ball-lightning theory was correct. Soil chemistry constrains provenance more strongly than it identifies the energy-storage/confinement mechanism.
+- **Infrastructure confound / possible input:** the event occurred close to high-voltage power lines and showed ~100 Hz intensity modulation, twice the local 50 Hz mains frequency. Wu (2016) treats the nearby field as a possible perturbation of a plasma shell. The chapter therefore keeps the wires inside the causal diagram rather than assuming they are irrelevant scenery.
+- **Claim boundary:** the observation is powerful evidence for a natural luminous event involving terrestrial material after a ground strike. It is not a universal model of historical ball-lightning reports and does not by itself distinguish chemical aerosol, electromagnetic confinement, or infrastructure-linked alternatives.
+
+Primary / authoritative sources:
+- Cen, Yuan & Xue 2014, *Physical Review Letters* 112, 035001: https://doi.org/10.1103/PhysRevLett.112.035001
+- APS Physics, “First Spectrum of Ball Lightning” (17 Jan 2014): https://physics.aps.org/articles/v7/5
+- Wu 2016, *Scientific Reports* 6, 28263: https://doi.org/10.1038/srep28263
+- Abrahamson & Dinniss 2000, *Nature* 403, 519: https://doi.org/10.1038/35000525
+
 ## Priority source work remaining
 
 1. Recover the full Cen–Yuan–Xue supplementary material and reconstruct geometry, apparent size, spectrum and 100-Hz modulation quantitatively.
