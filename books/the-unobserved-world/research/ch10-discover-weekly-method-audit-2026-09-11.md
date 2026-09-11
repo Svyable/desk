@@ -12,7 +12,7 @@ That distinction is worth making explicit because it improves the book's central
 
 Ashton Anderson, Lucas Maystre, Ian Anderson, Rishabh Mehrotra, and Mounia Lalmas, “Algorithmic Effects on the Diversity of Consumption on Spotify,” *Proceedings of The Web Conference 2020*, pp. 2155–2165. DOI: https://doi.org/10.1145/3366423.3380281
 
-Author-hosted paper: https://mounia-lalmas.blog/wp-content/uploads/2020/05/www-listener-diversity-main.pdf
+Author-hosted paper: https://www.cs.toronto.edu/~ashton/pubs/alg-effects-spotify-www2020.pdf
 
 Spotify Research summary: https://research.atspotify.com/2020/12/algorithmic-effects-on-the-diversity-of-consumption-on-spotify
 
@@ -33,13 +33,25 @@ The randomized test did **not** establish that algorithmic recommendation causes
 
 This is the strongest counterargument to any chapter sentence that treats the experiment as causal evidence for the diversity trajectory itself.
 
-## A second field experiment worth using
+## The cleaner causal test: podcasts, not Discover Weekly
 
-David Holtz, Benjamin Carterette, Praveen Chandar, Zahra Nazari, Henriette Cramer, and Sinan Aral, “The Engagement-Diversity Connection: Evidence from a Field Experiment on Spotify” (2020), reports field-experimental evidence of an engagement/diversity trade-off from personalized recommendation exposure. The authors report that personalized recommendations increased engagement while changing the diversity of content consumed, and that exposure also affected later organic consumption.
+David Holtz, Benjamin Carterette, Praveen Chandar, Zahra Nazari, Henriette Cramer, and Sinan Aral, “The Engagement-Diversity Connection: Evidence from a Field Experiment on Spotify” (2020), supplies a separate randomized test of recommendation and diversity. It is important not to quietly turn this into a Discover Weekly experiment: **the treatment was podcast recommendation**. Treatment users received podcasts personalized from their music-listening histories; control users received podcasts popular among users in their demographic group.
 
-Authoritative record: https://business.columbia.edu/faculty/research/engagement-diversity-connection-evidence-field-experiment-spotify
+The reported effects make the tradeoff unusually concrete. Personalized recommendations increased podcast streams per user by **28.90%**, while decreasing average individual-level diversity of podcast streams by **11.51%** and increasing aggregate diversity by **5.96%**. In other words, personalization did not simply make “Spotify” more or less diverse. It made each listener's consumed set more concentrated on average while spreading total platform consumption across a broader set of material.
 
-This is a better causal citation if Chapter 10 wants to say that recommendation exposure can alter consumption diversity. It should still be presented as evidence from one platform and experiment, not as proof that personalization inevitably narrows taste.
+The authors also report evidence of spillover into streams from surfaces outside the treated recommendation area, suggesting that recommendation exposure can affect subsequent organic consumption. That is the causal result Chapter 10 needs if it wants to argue that exposure can shape later choice rather than merely reveal a fixed preference.
+
+Authoritative records:
+
+- Spotify Research: https://research.atspotify.com/publications/the-engagement-diversity-connection-evidence-from-a-field-experiment-on-spotify
+- Columbia Business School: https://business.columbia.edu/faculty/research/engagement-diversity-connection-evidence-field-experiment-spotify
+- Preprint: https://arxiv.org/abs/2003.08203
+
+### Strongest counterargument
+
+The Holtz result is not proof that personalization inevitably narrows taste. The experiment compares one personalized podcast recommender with a demographic-popularity control, over one product setting and period. Its most interesting result is actually two-directional: **individual diversity fell while aggregate diversity rose**. A chapter that calls this simply “narrowing” would erase half the experiment.
+
+That distinction matters for the book's creator/ecosystem argument. A system can specialize individual consumption while simultaneously distributing attention across a wider catalog. Whether that is culturally desirable depends on which level of diversity matters, how persistent the effect is, what users want, and what happens to creators—not on a single scalar called diversity.
 
 ## Current product reality
 
@@ -55,7 +67,9 @@ A stronger Chapter 10 should replace the generic sentence “They also ran a ran
 
 Then draw the boundary immediately: **the experiment randomized ranking, not diversity**. That makes the chapter more interesting because the paper contains its own unresolved tension. The causal evidence says relevance works very well now; the observational evidence raises the possibility that optimizing that success repeatedly may have a different relationship with long-run diversity. The authors themselves leave that second causal question open.
 
-The Holtz et al. field experiment can then supply separate causal evidence that personalized recommendation exposure can change diversity, while Spotify's 2025 user controls and discovery statistics supply a fair counterweight: recommendation can be an engine of discovery, and modern product design can give users some agency over the direction of exploration.
+The Holtz experiment should enter as a separate scene and a separate claim: personalized podcast recommendations raised streams 28.90%, lowered individual diversity 11.51%, and raised aggregate diversity 5.96%. That three-number result is better than a generic filter-bubble paragraph because it refuses a comforting one-direction story. Recommendation can narrow the menu inside one person's session while broadening the menu consumed across the population.
+
+Spotify's 2025 user controls and discovery statistics then provide a fair contemporary counterweight: recommendation can be an engine of discovery, and current product design can give users some agency over the direction of exploration.
 
 ## Claim boundary for future prose
 
@@ -63,10 +77,14 @@ Safe: “In a one-week randomized test on 540,000 Free users using seven decade 
 
 Safe: “In Anderson et al., the relationship between algorithmic listening and lower diversity was observational; the experiment did not randomize long-run diversity.”
 
-Safe with separate citation: “A different Spotify field experiment found that exposure to personalized recommendations could alter consumption diversity while increasing engagement.”
+Safe with separate citation: “A different Spotify field experiment, using podcast recommendations, increased streams per user 28.90%, decreased individual-level consumption diversity 11.51%, and increased aggregate diversity 5.96%.”
+
+Safe: “Personalization can move diversity in opposite directions at different levels of aggregation; ‘more diverse’ therefore needs a unit of analysis.”
 
 Avoid: “Spotify proved its recommender makes listeners less diverse.”
 
 Avoid: “Discover Weekly traps listeners in a filter bubble.”
+
+Avoid importing the Holtz podcast experiment into Discover Weekly or presenting its treatment as a direct test of music recommendation.
 
 Avoid treating Spotify's company-reported discovery counts as independent evidence that the recommender improves cultural welfare.
