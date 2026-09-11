@@ -1,119 +1,105 @@
 # The Mitochondria Across the Glass
 
-The experiment sounds like a séance if described badly.
+The experiment turns on a piece of aluminum foil.
 
-Two populations of isolated mitochondria sit in separate cuvettes. They do not share fluid. One population is stressed with antimycin, a compound that inhibits the electron transport chain. The mitochondria in the neighboring cuvette change their oxygen consumption.
+Three quartz cuvettes sit in a row, window to window. Each contains the same amount of isolated mitochondria in assay buffer. The middle cuvette is the troublemaker: after two minutes, it receives antimycin, an inhibitor of the electron-transport chain that drives mitochondrial oxidative stress. The two neighboring cuvettes receive nothing. One can face the stressed sample directly. The other sits behind an opaque foil barrier.
 
-No molecule was intentionally passed between them.
+Then all three keep breathing, or failing to, under oxygen probes.
 
-Something crossed the gap.
+That is the useful strangeness of the 2023 experiment by Rhys Mould and colleagues. It was not simply a pair of mysterious samples influencing each other across a gap. It contained a crude channel test. If whatever left the stressed mitochondria needed a clear optical path, the unshielded receiver should behave differently from the otherwise similar receiver behind the foil.
 
-In 2023, a team studying mitochondria from MCF7 breast-cancer cells and non-cancerous MCF10A cells reported exactly this kind of result. When one mitochondrial preparation was perturbed, respiration changed in an adjacent but physically and chemically separated preparation. The effect depended on cell-line origin and was altered by ambient light conditions. The authors discussed non-chemical communication and ultraweak photon emission as one possible mechanism among others.
+It did.
 
-This is the kind of paper that deserves both attention and a locked door around its conclusion.
+Under ambient laboratory light, the authors reported a highly significant divergence in oxygen-consumption rate between shielded and unshielded receiver mitochondria from both MCF7 breast-cancer cells and non-cancerous MCF10A cells. Twelve experimental runs went into those comparisons. Antimycin treatment also increased mitochondrial reactive oxygen species, as intended. In a smaller buffer-only control, with no mitochondria in the receiver cuvettes, the shielded and unshielded channels did not significantly diverge.
 
-The reported effect is interesting because it does not begin with an optical detector. It begins with physiology in the putative receiver. That solves one weakness of purely descriptive UPE work: if the response is real, something about the neighboring condition matters biologically.
+That is a much better result than "two samples changed at the same time."
 
-It creates a harder problem immediately.
+It is still not evidence that photons did it.
 
-What crossed?
+The distinction matters because the paper itself lives on that edge. The cuvettes were separate and capped with Parafilm to inhibit chemical transmission. They did not share liquid. But Parafilm is not a hermetic proof against every volatile, and an aluminum-foil barrier is not a photon-specific switch. Foil blocks an optical path, but it can also change radiative heat transfer and electromagnetic coupling. The geometry can implicate something associated with the barrier without uniquely naming that something light.
 
-“Non-chemical” sounds precise but is only precise if every chemical route has been excluded. Physical separation between cuvettes prevents bulk mixing of liquid. It does not automatically eliminate volatile molecules traveling through the shared air, aerosols, temperature differences, vibration, electromagnetic coupling, static fields, mechanical transmission through the bench, or optical radiation.
+The authors knew this problem unusually well.
 
-The experiment is therefore not evidence that photons did it.
+In their introduction they pointed to an earlier experiment in which cell death appeared to travel through a non-aqueous route and had been attributed to ultraweak photon emission. Mould and several of the same colleagues later revisited that result and found that it depended on solvent volatility. The exotic-looking effect survived. The proposed optical mechanism did not.
 
-It is evidence that the authors observed an inter-preparation effect under a geometry intended to exclude direct aqueous chemical exchange.
+That episode belongs inside the mitochondrial story because it is not an outside skeptic throwing tomatoes. It is the same research lineage learning, painfully and usefully, that "non-contact" is a geometry before it is a mechanism.
 
-That boundary is where the science begins.
+The 2023 design was an attempt to do better.
 
-Mitochondria are unusually tempting candidates for optical coupling. They are major sources of reactive oxygen species and therefore plausible UPE emitters. They also contain chromophores capable of absorbing light. Photobiomodulation studies show that external red and near-infrared irradiation can alter mitochondrial and cellular behavior at sufficient doses. The same organelle can therefore be placed plausibly on both sides of an optical story: source and target.
+Each receiver cuvette was capped. A separate temperature probe compensated the oxygen measurements for temperature changes. The treated middle sample was flanked by a shielded and an unshielded receiver in the same run rather than compared only with a different experiment on another day. And when the group repeated the assay inside a light-proof box, barrier-dependent differences did not simply disappear.
 
-But source plus target is not a channel.
+The darkness result is more interesting than the shorthand version of it.
 
-The first question is magnitude. How many photons did the stressed mitochondria actually emit under the experimental conditions? The paper's physiological effect would be much easier to interpret if photon flux were measured simultaneously. Without that measurement, the optical hypothesis floats free of a budget.
+For MCF7 mitochondria, the response of the unshielded receiver differed significantly between ambient-light and dark experiments. For MCF10A mitochondria, that light-versus-dark comparison was not significant. In darkness, the shielded and unshielded receivers still differed within both cell lines, but not in the same simple pattern one would want from a clean "ambient light on, optical communication stronger" story.
 
-The second question is spectrum. If stressed mitochondria emit a particular band more strongly, does the neighboring response depend on that band? Insert filters with characterized transmission. Use one that blocks ultraviolet but passes visible light. Another that passes red and near-infrared while blocking shorter wavelengths. Use neutral-density filters to reduce photon number without changing spectrum.
+So ambient illumination affected the system. It did not hand the mechanism a name tag.
 
-If the receiver's response scales with transmitted photon flux, the case becomes much stronger.
+That complication improves the paper rather than ruining it. If ordinary room light changes one part of the effect but is irrelevant to another, several possibilities open at once. Illumination could alter mitochondrial redox state before the assay. It could produce delayed luminescence. It could change a photosensitive receiver. It could interact with the putative endogenous emission. Or the apparent light dependence could be specific to one cell line and one apparatus.
 
-The third question is geometry. Light obeys geometry. Move the cuvettes farther apart. Rotate them. Add a reflective surface. Place an optical fiber between them while physically increasing separation. If the effect follows optical coupling rather than mere proximity, it should respond predictably.
+The experiment therefore marks a useful transition in this book. Earlier chapters could explain photons as metabolic exhaust that happens to carry information to an external detector. Here, the measured endpoint is not photon count. It is physiology in a second preparation.
 
-The fourth question is substitution. Measure the stressed preparation's emission, then replace it with a calibrated light source reproducing the same spectrum and approximate photon flux. If the receiver mitochondria respond similarly, one has transformed a vague correlation into a candidate mechanism.
+Something about the neighboring condition appears to matter.
 
-This is the experiment I want most from the field.
+The question is what crossed the gap.
 
-Not a brighter camera image.
+Mitochondria are unusually tempting candidates for optical coupling. They are major sites of reactive oxygen chemistry and plausible ultraweak-photon emitters. They also contain chromophores capable of absorbing light. Photobiomodulation experiments show that external red and near-infrared irradiation can alter mitochondrial and cellular behavior at sufficient doses. The same organelle can therefore be placed plausibly on both ends of an optical story: source and target.
 
-A successful substitution.
+But source plus target is not a demonstrated channel.
 
-The fifth question is blocking without collateral damage. An opaque barrier between cuvettes is an obvious test, but opaque materials change more than light. A spectrally selective barrier is better. If the effect disappears only when a narrow band is removed while temperature, airflow, vibration, and electrical properties remain matched, the optical hypothesis gains specificity.
+The first missing measurement is embarrassingly literal: count the photons during the communication assay.
 
-The sixth question is whether the receiver has a molecular photoreceptor or photochemical target operating at realistic intensity.
+The 2023 experiment induced reactive oxygen species but did not simultaneously measure ultraweak photon emission from the treated cuvette. That leaves the proposed optical carrier without a measured flux, spectrum, or time course in the experiment where the receiver response occurred. The stressed mitochondria may well have emitted more light; oxidative chemistry gives that expectation a reasonable basis. But a mechanism becomes far more constrained once it has to pay a photon budget.
 
-This may not be a dedicated receptor. Cytochrome c oxidase and other mitochondrial chromophores are often discussed in photobiomodulation. Flavins and porphyrins absorb visible light. Absorption can alter redox state or generate reactive species. But most photobiomodulation experiments use irradiances far above estimated spontaneous UPE.
+How many photons leave the emitter during the 130 seconds after antimycin? At what wavelengths? How many intersect the neighboring cuvette? How many survive its walls and buffer? How many are absorbed by candidate chromophores in the receiver? Is that number remotely compatible with the size and timing of the respiration change?
 
-An effect at one dose does not imply an effect at a million-times-lower dose.
+Without those numbers, "ultraweak" does too much rhetorical work. It makes the phenomenon sound both impressively sensitive and conveniently hard to audit.
 
-Nonlinear biology complicates that statement because very small perturbations can occasionally trigger amplified responses. Still, amplification has to be demonstrated. Otherwise every known light-sensitive molecule becomes a universal excuse for weak-light signaling.
+The second missing measurement is what the foil actually changes.
 
-The 2023 experiment also raises a cancer-biology question that is more grounded than the optical controversy. MCF7 and MCF10A mitochondria did not respond identically. Cancer cells often have altered metabolism, redox handling, mitochondrial organization, and signaling. If inter-preparation effects are reproducible, differences between malignant and nonmalignant mitochondria could become a tool for studying metabolic coupling mechanisms regardless of whether photons are involved.
+Replace one opaque barrier with a set of barriers designed as instruments rather than scenery. Use a transparent sheet with similar thermal properties. Use spectrally selective filters with measured transmission. Use neutral-density filters that reduce photon number without changing the broad spectral shape. Put a thermopile or microthermistor at the receiver. Measure radio-frequency and low-frequency electromagnetic fields on both sides. Mechanically decouple the cuvettes. Sample the headspace for volatiles.
+
+If only optical transmission predicts the physiological response, the case becomes much stronger.
+
+The third test is dose.
+
+Move the receiver farther away while preserving everything else. If ordinary radiative propagation is responsible, geometry should punish the effect. Better yet, collect whatever light the stressed mitochondria produce into an optical fiber and deliver it to a receiver that is physically remote from the emitter and its bench, pumps, heat, and headspace. The alleged channel would then be asked to travel where the competing local channels cannot.
+
+The fourth test is substitution.
+
+Measure the stressed preparation's emission and replace the emitter with a calibrated light source reproducing the same approximate spectrum, photon flux, and time course. Not the milliwatts per square centimeter common in photobiomodulation experiments. The endogenous dose.
+
+If the receiver mitochondria reproduce the same oxygen-consumption change, the mechanism stops being an adjective and starts becoming an intervention.
+
+This is the experiment I want most from the field: not a brighter camera image, but a successful substitution at the measured endogenous flux.
+
+That dose requirement is brutal for a reason. The best physical criticism of optical cell-to-cell signaling has long been that measured spontaneous emission is extraordinarily weak compared with the photon backgrounds and molecular noise a receiver must live inside. A photoreceptor can amplify a rare absorption event; biology is full of amplification. But invoking amplification does not eliminate the accounting. It makes the first absorbed event more important, which makes the rate of such events more important too.
+
+There is also a useful asymmetry between photobiomodulation and endogenous signaling. Demonstrating that mitochondria respond to deliberately applied light proves that mitochondrial chemistry can be photosensitive. It does not prove that the vastly smaller spontaneous photon flux produced by another mitochondrial preparation reaches the relevant molecular targets often enough to matter.
+
+An effect at one dose does not imply an effect many orders of magnitude below it.
+
+That does not make weak-light signaling impossible. It makes sensitivity a quantity to measure instead of a synonym for mystery.
+
+The cancer-versus-noncancer result deserves similar restraint. Under ambient conditions, the reported response differed between mitochondria isolated from MCF7 and MCF10A cells. Cancer cells often differ in metabolism, redox handling, mitochondrial organization, and substrate use, so a genuine differential sensitivity would be biologically interesting whether the mediator turned out to be photons, a volatile, an electromagnetic artifact, or something more ordinary.
 
 One should not let the exotic hypothesis hide the ordinary discovery.
 
-This is a theme throughout anomaly research. A paper becomes famous for the strangest interpretation, and a more modest but potentially useful result disappears underneath it.
+This happens often in anomaly research. A paper becomes memorable for its most adventurous interpretation and the modest result underneath it disappears. Here the modest result is already strange enough: under this assay, a stressed mitochondrial preparation was associated with a rapid respiration change in a separated receiver, and an opaque barrier changed the result.
 
-The mitochondrial experiment belongs to a broader literature of so-called non-contact biological effects. Cells or organisms in separated compartments sometimes show correlated changes. Proposed mediators include electromagnetic fields, acoustic vibrations, volatile compounds, photons, and experimental artifacts. The literature is heterogeneous enough that “non-contact effect” is not a mechanism. It is a description of geometry.
+That is the observation worth trying to break.
 
-Geometry can deceive.
+The strongest replication would therefore be unfriendly to the original apparatus. Rebuild it elsewhere. Randomize which receiver gets the barrier. Blind the analyst. Rotate the order of the three cuvettes. Put them on separately isolated platforms. Replace foil with matched optical and non-optical controls. Measure headspace chemistry, temperature, vibration, electromagnetic fields, and photon counts at the same time. Predefine the direction and time window of the oxygen-consumption response before opening the data.
 
-Two cuvettes sitting beside each other share a table. Pumps, fans, incubators, and building vibrations move both. One sample can change local temperature. Condensation alters optical paths. Static charge changes with handling. A volatile molecule need not be dissolved in shared fluid to travel.
+Most of all, repeat it in another laboratory.
 
-This is why replication should deliberately change the apparatus.
+I could not find a clear independent replication of this specific 2023 mitochondrial assay in the literature search used for this revision. That absence is not a failed replication. It is an empty square on the evidence table. A single laboratory can discover something real; it can also discover the personality of its own equipment.
 
-A phenomenon that survives relocation, independent equipment, different laboratories, blinded sample assignment, and physically isolated platforms becomes harder to dismiss as a local coupling artifact.
+The paper's own history makes that point better than a lecture about skepticism ever could. This group had already watched one non-aqueous effect lose its photonic interpretation when volatility was tested. They then designed a new experiment with an opaque barrier and a different biological preparation. That is how a frontier subject should advance: not by protecting the exciting mechanism, but by giving it increasingly specific ways to die.
 
-A phenomenon that only occurs when cuvettes touch the same holder tells a different story.
+The aluminum foil is therefore both the strength and the weakness of the 2023 result.
 
-The ambient-light dependence reported in the 2023 study is provocative because it suggests optical conditions matter. It is also difficult to interpret. Ambient light can affect the emitter, the receiver, the chemical state of chromophores, the detector if any optical measurement is made, and temperature. It can produce delayed luminescence after illumination. Darkness changes more than the amount of external photons present during the measurement.
+It makes the effect conditional on an intervention, which is far better than correlation alone.
 
-The clean experiment uses controlled illumination histories.
+It is also too promiscuous an intervention to tell us what crossed.
 
-Dark-adapt both preparations for defined periods. Expose only the emitter. Expose only the receiver. Use wavelength-specific light. Measure spontaneous emission after each treatment. Randomize the sequence.
-
-If the receiver responds only when the emitter is optically coupled during stress, the hypothesis starts to acquire edges.
-
-There is another possibility that almost nobody finds exciting enough: the effect may be mediated by heat.
-
-Mitochondrial respiration and inhibitor treatment can change heat production at tiny scales. In a small controlled environment, a temperature difference could influence neighboring samples. The magnitude may be too small, but that is a measurement question. High-resolution temperature probes can test it.
-
-Acoustic and mechanical effects are similarly unglamorous. Molecular reactions and fluid movement can produce vibrations. Piezoelectric materials in equipment can couple electromagnetic and mechanical signals. Again, probably small. Again, measure them.
-
-The purpose of controls is not to invent endless alternative explanations until an effect dies of boredom.
-
-It is to force a claimed channel to become predictive.
-
-If photons are the mediator, then optical interventions should control the effect better than non-optical interventions. That is the standard.
-
-The mitochondria-across-glass result is especially important for this book because it marks the transition from emission to possible function. The previous chapters could all be explained by photons as by-products that tell an external observer about chemistry. Here, the claim is that one biological preparation alters another without direct chemical contact.
-
-That does not prove communication.
-
-But it gives communication a place to be tested.
-
-A rigorous follow-up could be preregistered before data collection. Specify the expected direction of receiver oxygen-consumption change. Define the time window. Fix the analysis pipeline. Use blinded labels. Include transparent, spectrally selective, opaque, and physically distant conditions. Measure photon flux, temperature, volatile compounds, and vibration simultaneously. Repeat in two independent laboratories.
-
-If the effect survives and tracks optical transmission, skepticism should move.
-
-If it fails, enthusiasm should move.
-
-That last sentence sounds obvious and is the hardest thing in anomalous science.
-
-The field tends to ask only whether believers can produce another positive experiment or skeptics can find another flaw. A decisive design should make both sides vulnerable.
-
-The mitochondria do not care which story wins.
-
-They either respond across the glass or they do not.
-
-If they do, something crosses.
-
-The job is to stop naming that something before we have caught it.
+The next experiment should use a switch that only light can read.
