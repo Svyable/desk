@@ -1,4 +1,4 @@
-# The Hundred-Year Career
+# Hundred-Year Career
 
 <!-- bookself-reader-links:start -->
 **Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/the-hundred-year-career/)

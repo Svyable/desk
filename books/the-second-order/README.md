@@ -1,4 +1,4 @@
-# The Second Order
+# Second Order
 
 <!-- bookself-reader-links:start -->
 **Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/the-second-order/)
@@ -14,7 +14,7 @@
 
 A model can begin as an observer and end as part of the machinery it describes. Forecasts change bets. Rankings change behavior. Targets change organizations. Risk scores alter who is watched, treated, admitted, insured, or funded. Once people can see the rule—or merely feel its consequences—the data-generating process starts to move.
 
-*The Second Order* is about that reactive world. It follows metrics, economic policy, markets, education, medicine, policing, recommendation systems, experiments, benchmarks, adversaries, and AI agents to ask a harder question than whether a model is accurate: what happens after the model enters the causal chain?
+*Second Order* is about that reactive world. It follows metrics, economic policy, markets, education, medicine, policing, recommendation systems, experiments, benchmarks, adversaries, and AI agents to ask a harder question than whether a model is accurate: what happens after the model enters the causal chain?
 
 The central argument is that prediction and measurement become governance when decisions are attached to them. Robust systems therefore need to anticipate adaptation, preserve room for surprise, and distinguish a useful proxy from the objective it was meant to serve.
 

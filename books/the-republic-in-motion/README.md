@@ -1,4 +1,4 @@
-# The Republic in Motion
+# Republic in Motion
 
 <!-- bookself-reader-links:start -->
 **Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/the-republic-in-motion/)
@@ -18,7 +18,7 @@ But a republic does not move on parchment.
 
 Under every era sits a physical system for overcoming distance: something that can carry flour over a mountain, mail on a schedule, settlers across a plain, iron across an ocean, commuters out of a city, a family to a supermarket, astronauts to the Moon, or satellites to orbit and then bring part of the machine home again.
 
-**The Republic in Motion** tells the 250-year American story through twenty-five ten-year periods, beginning with 1776–1785 and ending with 2016–2025. Each period gets one vehicle—not necessarily the fastest, prettiest, most expensive, most famous, most American-made, or best-selling one.
+**Republic in Motion** tells the 250-year American story through twenty-five ten-year periods, beginning with 1776–1785 and ending with 2016–2025. Each period gets one vehicle—not necessarily the fastest, prettiest, most expensive, most famous, most American-made, or best-selling one.
 
 It gets the vehicle that best explains what changed.
 
