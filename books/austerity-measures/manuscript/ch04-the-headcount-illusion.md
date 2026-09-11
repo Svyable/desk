@@ -10,6 +10,10 @@ Britain's 2025 review of digital government makes the distinction unusually visi
 
 Those figures are not proof that contractors are bad value. A scarce specialist can be worth three ordinary salaries, and the annual averages do not make the jobs interchangeable. The more revealing finding was institutional. The review said headcount restrictions had made it easier to secure more expensive third-party resources than permanent staff, while temporary staffing made institutional knowledge harder to retain. It also found that only 28 percent of surveyed leaders believed their organizations had sufficient internal capability to monitor, track and drive supplier performance.
 
+The useful counterexample arrived a year later. In January 2026 the British government announced plans to halve external-consultancy spending, bring more civil-service training in-house through a new National School of Government and Public Services, and prepare officials for a more digital and AI-heavy state. By March, Government Skills had assembled a cross-government curriculum ranging from basic AI literacy to practitioner material on machine learning, natural-language processing and large language models. The current digital profession framework goes further still, treating capability as something that can be described in roles, skills and levels, assessed, recruited for and planned.
+
+None of those announcements proves that Whitehall has solved the dependency problem. A training catalogue is not competence, a target is not an outcome, and cutting consultancy can become another blunt quota if departments still need the work. What matters is that the policy response itself has moved closer to the right question. The objective is not simply fewer outsiders or more insiders. It is whether the state can use outside capability without surrendering its own capacity to judge it.
+
 This is austerity behaving like water. Block one channel and the pressure finds another.
 
 A department can obey a headcount ceiling while purchasing the missing capability back at a higher day rate. The arithmetic may still be defensible if the external resource is temporary, better, or genuinely cheaper over its useful life. But the headcount number itself no longer tells us whether the state has become leaner. It may simply have become better at renting itself back.
@@ -29,6 +33,8 @@ The failure rarely announces itself at contract signature. Each individual purch
 This is a peculiar form of privatization: not necessarily of the service, and not necessarily of legal authority, but of comprehension.
 
 There is an obvious counterargument. Internal capability is not free, and "institutional knowledge" can become a flattering name for expensive incumbency. Permanent teams can defend obsolete systems, resist standardization and accumulate people around work that should disappear. Contractors can transfer knowledge rather than drain it. Shared platforms can reduce the need for every agency to maintain duplicate expertise. An institution that treats every skill as sovereign will eventually use sovereignty as an excuse for bloat.
+
+The current British strategy makes that objection more useful, not less. It combines partnerships with outside technology companies, a stated reduction in consultancy dependence, in-house learning and an objective to expand the share of digital, data and cyber professionals. That mixture is closer to reality than either "build everything yourself" or "buy whatever the market does better." A competent state will do both. The test is whether partnership enlarges the institution's options or quietly narrows them.
 
 The boundary is therefore functional. What does the state need to know or be able to do in order to remain accountable for the service? Commodity execution can move outward. The capacity to specify, test, contest, switch, recover and learn is harder to surrender safely.
 
