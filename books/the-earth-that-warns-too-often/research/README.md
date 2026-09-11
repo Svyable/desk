@@ -42,8 +42,21 @@ This research layer separates observation from interpretation and prediction fro
 - Piergiorgio Picozza et al., review of space observations related to earthquake precursors (2021), *Frontiers in Earth Science*. https://doi.org/10.3389/feart.2021.676775
 - Karl Kappler et al., long-baseline QuakeFinder magnetic-pulse / earthquake statistical analysis (2019), *Computers & Geosciences*.
 - William Heavlin et al., **Case-Control Study on a Decade of Ground-Based Magnetometers in California Reveals Modest Signal 24–72 hr Prior to Earthquakes** (2022), *Journal of Geophysical Research: Solid Earth*. https://doi.org/10.1029/2022JB024109
+- QuakeFinder, **project history / papers**, current site checked 11 Sep 2026. The project states that it operated from 2000–2023 and currently lists the 2022 Google collaboration as its latest research publication. https://www.quakefinder.com/ and https://www.quakefinder.com/papers-by-quakefinder/
 - ESA, **Swarm mission**. https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Swarm
+
+## Chapter 14 primary-method audit — Google + QuakeFinder
+
+Fresh read of the complete 2022 Heavlin et al. paper, not only its abstract, changes several useful details in the manuscript:
+
+- The archive exceeded 330,000 site-days, but the train/test split contained **10 distinct training earthquakes and 9 distinct test earthquakes**. Multiple station pairs yielded 55 training and 60 test site-pair–earthquake combinations before missing-data filtering; those repeated observations are not 115 independent ruptures.
+- The method explored a **576-condition tuning grid on the training data**, then selected three similar final configurations (blue/channel/flathead) for the held-out test. This is legitimate training-set model development, but it is more precise than saying the analysis was simply pre-specified from the outset.
+- All three final configurations used a 24-hour buffer, a 48-hour case window, seven earlier 48-hour controls and the 98th percentile of paired-station cross-spectral power. The smoothed frequency weights peaked around a ~3-second period.
+- Missing data materially changed the case-control geometry. A >3-minute gap invalidated a period; about 19% of training and 16% of test site-pair–earthquake combinations lost their case period, and **40% of the surviving combinations had discontinuous control sequences**, with replacement control periods sometimes months earlier.
+- The paper explicitly says magnetometer hardware changed over the decade and that hardware-change effects were not modeled. It also calls for stronger suppression of broad solar-wind, lightning and power-line backgrounds and suggests remote-reference stations.
+- The result is therefore strongest as a held-out **existence test for a modest statistical association**, not as localization of a seismic physical source or as a forecasting model.
+- As of the September 2026 literature check, no clear direct published replication was located in which the frozen 2022 feature/scoring pipeline was prospectively evaluated on a new independent earthquake set with comparable dense ground-station coverage. This is a search-status statement, not evidence of failed replication.
 
 ## Source discipline
 
-A source demonstrating that a mechanism can exist is not treated as evidence that it predicts earthquakes. A satellite mission's existence establishes institutional interest and data collection, not validation. The 2022 Google/QuakeFinder paper is treated as a modest held-out association requiring independent forward replication. The Corralitos trace is retained as an observed historical measurement but not as clean precursor evidence after the 2009 reanalysis.
+A source demonstrating that a mechanism can exist is not treated as evidence that it predicts earthquakes. A satellite mission's existence establishes institutional interest and data collection, not validation. The 2022 Google/QuakeFinder paper is treated as a modest held-out association requiring independent forward replication. Its temporal holdout is meaningful, while its small number of independent test earthquakes, missing-data/control substitutions, hardware history and remaining common-mode backgrounds stay inside the claim boundary. The Corralitos trace is retained as an observed historical measurement but not as clean precursor evidence after the 2009 reanalysis.
