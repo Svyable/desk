@@ -16,6 +16,10 @@ Project Dribble turned the evasion hypothesis into a physical experiment.
 
 On October 22, 1964, the United States detonated Salmon, a 5.3-kiloton nuclear device 2,710 feet below ground, roughly 1,200 feet below the top of the salt dome. The shot created an underground cavity. On December 3, 1966, Sterling, with a yield of about 380 tons, was detonated inside the cavity Salmon had made. The comparison was designed to help determine how much a cavity could reduce the seismic signature of a later explosion.
 
+The comparison was not merely qualitative. A later technical review of the U.S. decoupling program reports a maximum decoupling factor of about 70, with an uncertainty of plus or minus 20, for Sterling. In this usage the factor compares seismic amplitude from a normally coupled explosion with the amplitude when the yield is fired in a cavity. A factor near seventy is not a subtle nuisance in a detector. It is the reason the problem was taken seriously.
+
+But Sterling also supplied the counterargument to the cleanest version of the evasion story. The Salmon cavity had a radius of about 17.4 metres, and investigators already knew it was too small for complete decoupling of the Sterling shot; the later review says full decoupling would have required roughly sixty percent more cavity volume. The famous experiment was therefore not a demonstration of some frictionless maximum. It was an engineered, imperfect case whose geometry mattered.
+
 The choice of salt was not arbitrary. Salt is mechanically unusual, relatively homogeneous compared with many rock masses, and capable of forming large domal structures. It had already attracted interest for underground nuclear work. For Vela Uniform, the dome offered a place where source-medium interactions could be measured with fewer geological complications than a fractured mountain range.
 
 The experiment also produced a lesson no treaty negotiator could enjoy: concealment has engineering requirements.
@@ -27,6 +31,8 @@ That does not make decoupling irrelevant. It turns it from magic into a costed s
 Verification becomes more mature when evasion is treated this way. The useful question is not “can a test be hidden?” in the abstract. Almost any detection system can be defeated under some contrived condition. The useful question is what an adversary must build, where it can be built, what yield can be concealed, what preparations are observable, what residual channels remain, and how much confidence the evader has that the whole sequence will work.
 
 Project Dribble supplied real data to that calculation.
+
+The 1967 U.S. Geological Survey report is revealing in its plainness. Sterling was compared not only with Salmon but with a small high-explosive shot in a nearby drill hole. USGS, the Coast and Geodetic Survey, and the Air Force Technical Applications Center made surface seismic measurements under Lawrence Radiation Laboratory coordination. The problem was being attacked as a calibration problem: sources, spectra, amplitudes, geometry.
 
 After Sterling, the cavity was used again for two large methane-oxygen chemical explosions, Diode Tube in 1969 and Humid Water in 1970, each with a yield of roughly 315 tons. These experiments extended the calibration work without additional nuclear detonations. The site became a laboratory for the physics of source coupling, not merely a scar from one test.
 
