@@ -1,8 +1,8 @@
-# Rights & permissions — The Reliability Tax
+# Rights & permissions — Reliability Tax
 
 © 2026 Sven Hardy Benson. All Rights Reserved.
 
-**Work:** *The Reliability Tax*  
+**Work:** *Reliability Tax*  
 **Author and copyright owner:** Sven Hardy Benson  
 **Rights profile:** `bookself-arr-v1`
 
