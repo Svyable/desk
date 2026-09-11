@@ -2,156 +2,122 @@
 
 The reactor arrived in pieces.
 
-That detail matters because “nuclear-powered city under the ice” sounds like a feat of exotic technology, while the PM-2A was above all a feat of packaging. The Army Nuclear Power Program wanted reactors that could go where grids and fuel pipelines did not. The design logic was military: components had to be transportable by ordinary modes, assembled at a remote site, operated by trained crews and, in principle, moved again.
+That sounds less dramatic than “nuclear-powered city under the ice,” which is one reason it is useful. The PM-2A was a reactor, but it was also a logistics experiment. The Army Nuclear Power Program wanted a machine that could be broken into transportable units, moved through a military supply chain, assembled far from a grid and operated where every gallon of conventional fuel was expensive before anyone burned it.
 
-Camp Century was the kind of place that could make the argument for nuclear power almost by itself. Every gallon of diesel had to be delivered across Greenland. Fuel burned to make electricity and heat also consumed fuel in the machinery hauling it inland. Weather and surface conditions could interrupt supply. A compact reactor with a long-lived core promised to cut that umbilical cord.
+Camp Century made the sales pitch for nuclear power almost by itself. Diesel had to cross Greenland. The tractors hauling it burned fuel of their own. Weather could slow the route. Storage consumed space. A compact reactor promised heat and electricity without a continuous convoy of tankers.
 
-The PM-2A was a pressurized-water reactor designed by ALCO. Its major components traveled first by sea and air and then over the ice. The Army’s 1961 construction report is not coy about the scale of the operation. Hundreds of tons of equipment had to be packed into transportable units, staged, hauled, assembled, aligned, tested and integrated with the camp’s electrical and steam systems. The plant went from components to an operating reactor in an environment where the building itself was slowly deforming.
+The promise survived contact with Greenland well enough to become a working plant.
 
-The reactor achieved first criticality in 1961.
+PM-2A was a pressurized-water reactor designed by ALCO. The Army’s construction and startup reports are wonderfully unromantic about what it took to make “portable” real: heavy components divided into shippable units, staging, alignment, piping, shielding, instrumentation, water systems, electrical integration and a crew trained to operate a reactor in a station whose walls were made of snow and whose tunnels were already beginning their slow movement inward.
 
-That sentence is both ordinary and extraordinary. Ordinary because thousands of reactor documents use the same technical language: fuel loading, criticality, shielding, startup physics, thermal hydraulics, radiochemistry. Extraordinary because the pressure vessel sat inside a trench beneath the Greenland Ice Sheet.
+The plant reached criticality in 1961.
 
-One of the useful things about the PM-2A archive is that it resists myth. The plant is documented in engineering reports hundreds of pages long. Startup testing produced radiation measurements, shielding modifications, system descriptions and calculations. The reactor was not a rumored machine inferred from a photograph. Its technical metabolism is public enough to study.
+A technical report published the following year ran to more than three hundred pages. It covered startup physics, thermal hydraulics, radiochemistry and radiation measurements. It also documented a shielding problem discovered during startup and the modifications made in response. That is the texture worth keeping. The reactor did not work because Arctic conditions somehow made engineering simple. It worked because engineers found ordinary reactor problems in an extraordinary place and treated them as reactor problems.
 
-That makes it an unusually good example of how real classified-adjacent technology looks when the exotic adjective is removed.
+The same archive also makes one persistent modern misunderstanding harder to sustain. Camp Century did leave radioactive waste in the ice. It did not leave an intact reactor or its spent fuel behind.
 
-It has problems.
+The distinction can be stated with numbers.
 
-Startup tests identified shielding deficiencies that required modification. Operators monitored radiation fields. Water chemistry had to be controlled. Pumps, valves and instrumentation needed maintenance. A reactor built to be portable still needed concrete thinking about dose, thermal expansion, contamination and emergency procedures. Nothing about the Arctic suspended nuclear engineering.
+When American and Danish officials discussed PM-2A operations, U.S. officials said the reactor would generate about 7,500 gallons of radioactive liquid waste each year from operation, servicing and laboratory sampling. The two governments agreed that this liquid could be discharged into a dedicated wastewater well in the ice sheet, provided total activity stayed below 0.05 curies—50 millicuries—per year.
 
-The plant also produced something less glamorous than electricity: waste.
+That arrangement is uncomfortable to read now because the disposal medium was the ice itself. It is also much more specific than the phrase “nuclear waste buried in Greenland.”
 
-U.S. and Danish officials discussed radioactive liquid waste before and during operations. According to records later summarized by the U.S. Government Accountability Office, American officials expected thousands of gallons of radioactive liquid waste annually from reactor operation, service and laboratory sampling. Denmark and the United States agreed that limited quantities could be discharged into a dedicated well in the ice, subject to an annual radioactivity limit. Documentation cited by GAO indicates the total activity released during the operating period remained within the agreed cumulative limit.
+The 2024 U.S. Government Accountability Office review found Danish documentation recording 72.3 millicuries of total radioactive liquid discharge over the reactor’s three operating years. The cumulative allowance for those three years was 150 millicuries. The record therefore supports two facts at once: radioactive liquid was deliberately put into the firn, and the documented total activity remained below the bilateral limit in force at the time.
 
-This is a place where later retellings tend to lose scale and category.
+Neither fact cancels the other.
 
-There was radioactive waste at Camp Century.
+The isotopic inventory is less tidy. Planning discussions identified likely radionuclides including cesium-137, strontium-90, cobalt-60 and several shorter-lived activation products, but GAO notes that the actual composition of the discharged liquid is not known. A historical total in millicuries is not the same thing as a present-day map of isotope, depth, concentration and mobility. That is precisely why the archive still matters.
 
-There is not an operating nuclear reactor still buried there.
+The dismantlement record is clearer.
 
-The reactor was shut down, dismantled and removed. Fuel and major plant components did not simply disappear under accumulating snow. The reactor vessel and related hardware were removed for examination. What remained included the physical infrastructure of the base and certain wastes associated with operation.
+When the Army no longer needed PM-2A at Camp Century, the reactor was shut down and taken apart. Documentation cited by GAO records 136 drums of solid reactor waste returned to the United States, along with three reactor water-purification plants, all 37 spent fuel elements and the rest of the reactor plant. The Army Corps of Engineers’ current history of the nuclear-power program describes PM-2A the same way: after three years, the Army shut it down, dismantled it and removed it from the station.
 
-These distinctions sound pedantic until one notices how quickly they vanish in headlines.
+So the phrase “the nuclear reactor buried under Greenland” is wrong in a useful way. What remains is more complicated and less cinematic: reactor-associated liquid waste in the ice, other base wastes, abandoned infrastructure and a documentary record whose categories have to be reconstructed carefully.
 
-The phrase “nuclear waste buried under Greenland” can refer to mildly contaminated liquid discharged into firn, solid activated components, spent fuel, an intact reactor, weapons material or any mixture a reader imagines. Those are radically different hazard categories. The Camp Century record supports some of them and rejects others.
+A spent fuel element is not a wastewater discharge. An intact reactor vessel is not a few dozen millicuries dispersed through a disposal well. “Radioactive” describes a property. It does not tell you the pathway, concentration, exposure or dose.
 
-The PM-2A’s value for this book lies partly in that precision.
+That difference matters because Camp Century contains several kinds of afterlife at once. The 2016 reconstruction of the abandoned base estimated thousands of tons of physical material, diesel, sewage and probable PCB-containing waste in addition to reactor-associated contamination. If future meltwater ever interacts with the debris field, the word most likely to dominate a headline—nuclear—may not identify the material that dominates the environmental problem.
 
-The reactor was not Project Iceworm, although it helped test a technology Iceworm would have needed: remote power. A huge missile network under the ice would require enormous amounts of reliable electricity and heat. Diesel alone would magnify the resupply burden. Distributed nuclear power promised strategic autonomy.
+PM-2A is more interesting when it is not forced to carry that drama alone.
 
-But nuclear power does not abolish logistics. It changes their shape.
+It was a genuine technical success. The Army transported a compact reactor to the Greenland Ice Sheet, assembled it in a trench and operated it for roughly three years. The startup record is too detailed to support the lazy version of the story in which the machine immediately failed because nuclear power was obviously impractical.
 
-The energy density of uranium is astonishing. The institutional density around uranium is equally striking. A reactor needs licensed or military-qualified operators, radiation controls, maintenance procedures, spare parts, chemistry, security and a chain of technical authority. If the plant is located inside a structure that is deforming, reactor maintenance inherits civil-engineering risk. If it is on foreign territory, reactor operations inherit diplomatic risk. If waste is discharged locally, the energy system inherits environmental afterlife.
+There is a subtler failure available.
 
-A diesel generator can be loud, smoky and fuel-hungry. It is also understood by many mechanics and can be replaced without a reactor-physics program.
+A reactor can work and still lose its customer.
 
-Camp Century let the Army compare those burdens in practice.
+Camp Century’s mission contracted. Year-round activity was reduced. The station itself continued to deform. The amount and value of power required at the site changed. Under those conditions, the burden of keeping a specialized reactor crew, maintenance system, radiation-control program and supply chain in Greenland had to be compared with a smaller camp that could fall back on diesel.
 
-The PM-2A ran for roughly three years. By 1963, the strategic and operating context around the camp had changed. Year-round activity was being reduced. The load that once helped justify the reactor fell. The tunnel environment continued to deteriorate. The economics of keeping a portable nuclear plant at the station weakened.
+That is a different question from whether fission produced electricity.
 
-The reactor was removed.
+The Army Nuclear Power Program was asking both questions, sometimes in the same machine. Could a compact reactor operate at a remote military installation? And if it could, was that the best way to supply the installation once the full system around it was counted?
 
-One can tell the story as a failure of small modular nuclear power, and recent scholarship sometimes uses PM-2A as part of the ancestry of today’s microreactor proposals. That ancestry is real but should not be made too clean. PM-2A demonstrated transportable reactor engineering under extreme conditions. It also demonstrated how quickly the meaning of “economic” changes when the host mission shrinks. A reactor can operate technically and still fail institutionally.
+PM-2A gave the program a real answer to the first. The second depended on mission, scale and time.
 
-There is another reason to resist simple lessons. The Army Nuclear Power Program did not consist of one Greenland experiment. It built and operated multiple reactors, including the SM-1 at Fort Belvoir, SM-1A at Fort Greely, PM-3A at McMurdo Station and the MH-1A aboard the *Sturgis* barge. The program explored a genuine mid-century belief that compact nuclear plants could provide reliable energy at remote military sites.
+The replacement-core program makes the point almost accidentally. In 1962 the Army and ALCO were already conducting zero-power experiments on a second PM-2A core, including fuel-element tests and development of an on-site loading procedure. Nobody does that for a machine assumed to be a one-week publicity stunt. The reactor belonged to a serious engineering program with plans for continued operation.
 
-Some worked for years. Some were expensive to maintain. Decommissioning costs outlived the strategic enthusiasm that built them.
+Then the site changed faster than the reactor concept did.
 
-That last sentence is easy to apply backward with too much moral confidence. Every energy technology creates obligations after its useful period. Diesel tanks corrode. Coal ash persists. Batteries become waste. The distinct nuclear problem is that radiological stewardship is unusually legible across time and institution. A reactor turned off in one budget can remain a federal responsibility in another century.
+That is one reason PM-2A should not be retrofitted into a parable about today’s microreactors. It is unquestionably part of their ancestry: compact military reactors, remote logistics and transportability are old ambitions. But ancestry is not equivalence. The Camp Century machine had a different fuel cycle, different regulatory context, different labor assumptions and a host installation whose reason for existing was entangled with Cold War strategy.
 
-Camp Century compressed that timescale.
+The strongest counterargument to a simple “portable nuclear power failed” story is sitting in the same archive as the waste record. PM-2A operated. The Army learned enough from it to keep experimenting with compact reactors elsewhere. The broader program included SM-1 at Fort Belvoir, SM-1A at Fort Greely, PM-3A at McMurdo and the MH-1A reactor aboard the *Sturgis*. Some of those plants ran for years.
 
-The plant’s core operated for only a few years. The documentation of its waste became relevant again more than half a century later when climate scientists and governments tried to reconstruct what had been left inside the ice. They had to read engineering history as environmental baseline.
+The interesting comparison is not nuclear versus nonnuclear in the abstract. It is what each technology makes you carry.
 
-This is a recurring feature of old military sites. The document that once answered “Did the system meet specification?” later answers “What exactly is in the ground?”
+Diesel carries volume. Every unit of energy begins as cargo. Nuclear fuel carries far less mass for the same potential energy, but the reactor surrounds that fuel with another kind of weight: shielding, trained operators, chemistry control, spare parts, procedures, radiation monitoring, specialized maintenance and institutional responsibility for material that remains consequential after the lights go out.
 
-A fuel inventory becomes a cleanup document.
+Greenland made both forms of weight visible.
 
-A trench plan becomes a radar target map.
+This is where the chapter’s connection to Project Iceworm becomes more precise. PM-2A was not Iceworm, and a working reactor at Camp Century does not prove that an underground missile network was ever deployed. What it does show is that remote nuclear power was not fantasy. The Army had demonstrated one component of the larger feasibility environment.
 
-A maintenance log becomes evidence of which chemicals were used.
+Scale then ruins the easy inference.
 
-A radiation survey becomes the prehistory of a contamination assessment.
+A missile network spread across a vast part of the ice sheet would not need “a reactor” in the singular. It would need an energy architecture. Power plants would have to be distributed or power transmitted. Crews and spare parts would have to reach them. Waste heat would enter a thermally sensitive structure. Maintenance would have to occur in tunnels that did not stay the shape engineers drew on paper. A technology that reduces fuel hauling can still multiply other forms of support.
 
-Time changes the question faster than it changes the paper.
+Camp Century is full of systems that looked autonomous until their dependencies were counted.
 
-The PM-2A also reveals how public and secret layers can coexist without a theatrical deception. The reactor itself was publicly discussed. It appeared in Army publicity. Its technical reports were conventional government engineering products. Yet the existence of a public nuclear reactor did not reveal the classified missile concept that made remote nuclear power strategically interesting.
+PM-2A is one of the clearest because the dependencies left paperwork.
 
-A reporter could visit the reactor and tell the truth about what he saw. He still would not know the whole system being imagined.
+The startup report describes shielding measurements because the first shielding arrangement was not good enough. The waste record exists because reactor operation created liquid that someone had to classify, limit and dispose of. The dismantlement inventory exists because “portable” eventually had to work in reverse: the plant had to come apart, and radioactive items had to leave Greenland through the same kind of logistics system that had brought the machine in.
 
-This model of secrecy is more realistic than the idea that classified programs require every visible fact to be false. Often the visible hardware is exactly what it appears to be. The secret lies in intended scale, integration, mission or future use.
+Portability is much more convincing on the way out.
 
-That point has broader value when evaluating claims about hidden aerospace or energy programs. A patent, prototype or laboratory effect can be genuine without proving an operational system. A facility can have a known mission and a classified secondary mission. A technology can be public while its deployment concept is secret. The investigator’s job is to keep the evidence attached to the level it actually supports.
+All 37 spent fuel elements left. The plant left. The liquid waste did not.
 
-The PM-2A supports a strong claim: the U.S. Army successfully transported, assembled and operated a compact pressurized-water reactor at a subsurface station on the Greenland Ice Sheet.
+That asymmetry matters more than a generic lesson about technology. The parts judged valuable or hazardous enough to recover were recoverable. The waste stream designed around local disposal became part of the site.
 
-It supports a second claim: the reactor had shielding, maintenance, economic and waste-management issues documented in ordinary technical records.
+Half a century later, those old decisions migrated into a different field. Climate researchers, geophysicists and governments had to reconstruct an Army reactor’s operational history to answer an environmental question: what is still under the ice, and under what future conditions could it move?
 
-It supports a third claim: nuclear power was part of the practical feasibility environment for larger Arctic military concepts.
+A disposal agreement became input data for a climate-risk model.
 
-It does not support the claim that Camp Century hosted operational nuclear missiles.
+That is a strange career for a Cold War engineering memo.
 
-The reactor’s own history actually helps show why that leap is unnecessary. The technical achievement is substantial enough without attaching an undocumented weapons deployment to it.
+It also explains why modern accounts should resist treating historical limits as present-day safety verdicts. The fact that 72.3 millicuries fell below a 150-millicurie three-year allowance tells us how the disposal was governed then. It does not by itself tell us what concentration exists at a particular depth today, what fraction of long-lived nuclides remains, or what a future meltwater pathway would do. Those require measurements and models the original agreement was never designed to supply.
 
-There is a habit in writing about the Cold War to measure strangeness by secrecy. Camp Century reverses the metric. One of the strangest machines there was barely secret at all. Engineers wrote down how it worked.
+The reverse mistake is just as easy. “Radioactive waste remains” does not mean the 1961 reactor itself remains under the ice, or that spent fuel is waiting to be exposed. GAO’s archival accounting and the Army Corps’ own history are unusually direct on that point.
 
-The more interesting secret was what planners wanted all that reliable remote power to make possible.
+Good history is often a fight against category drift.
 
-Even there, power was only one constraint among many.
+The PM-2A story has suffered from it because the nouns are so charged. Nuclear. Secret. Missile. Waste. Greenland. Each word invites a larger story than the document beside it may support.
 
-Iceworm’s imagined network required not one compact station but an energy architecture spread across an enormous area. If power plants were distributed, each introduced crew, maintenance and safety burdens. If power was centralized, transmission introduced vulnerability and loss. Missile movement, communications, habitation and excavation all consumed energy. Heat rejected into the environment had to be managed inside a thermally sensitive medium. The reactor solution, scaled up, created new engineering questions rather than closing the old ones.
+The reactor is useful because it can survive without enlargement.
 
-This is another recurring pattern in frontier systems. The component that solves the most obvious bottleneck becomes the source of the next bottleneck.
+A portable military pressurized-water reactor was hauled onto an ice sheet, assembled underground, brought critical, tested, modified, operated for years, shut down, dismantled and removed. Its waste stream was negotiated between governments. Some radioactive liquid was deliberately left in the ice within the limits they had agreed. The site later outlived both the machine and the political confidence that made the disposal arrangement seem durable.
 
-Aircraft gained jet engines and discovered new thermal and materials limits. Submarines gained nuclear reactors and inherited reactor safety, acoustic and maintenance problems. Spacecraft gained higher-power electronics and discovered thermal rejection constraints. Camp Century gained a compact reactor and still lived inside moving ice.
+Nothing needs to be added.
 
-The ice did not care that its electricity came from fission.
+The secrecy around Camp Century works the same way. The reactor was public enough to photograph and document. That did not disclose Project Iceworm. A visitor could look directly at one of the strangest pieces of hardware in Greenland and still miss the more consequential classified ambition attached to the site.
 
-When the PM-2A was dismantled, some of its fuel was eventually repurposed within the Army reactor program. The larger institutional dream of portable nuclear power continued elsewhere even as Century’s mission contracted. The base shifted back toward diesel generation during its later, smaller operating phase.
+This is a more plausible model of secrecy than a world in which every visible fact must be a cover story. Real secret programs often sit beside ordinary procurement, safety reports, construction drawings and public infrastructure. The hidden part may be purpose, scale or integration rather than the existence of every component.
 
-That sequence is useful because it breaks the story into decisions rather than symbols.
+PM-2A therefore supplies a useful control case for claims about secret technology, but only if the control is kept honest. A real physical program leaves technical metabolism. It needs people, consumables, maintenance, waste pathways, replacement parts and eventually disposition. The traces may be scattered. They are not magical.
 
-First, remote logistics made nuclear power attractive.
+Camp Century has them in abundance.
 
-Then the Army proved it could assemble and run the plant.
+The irony is that the most futuristic machine at the base now has one of the least mysterious records. We know about shielding changes. We know the planned liquid-waste rate. We know the annual activity ceiling. We know the documented cumulative discharge. We know the count of spent fuel elements that left Greenland.
 
-Then actual operation revealed technical and organizational costs.
+The uncertainty begins where the old records stop: exactly how the residual contamination is distributed now, how it will evolve with the firn and which future pathways matter.
 
-Then the mission changed.
+That is a better kind of mystery.
 
-Then the cost-benefit balance changed with it.
-
-Then the machine left while some waste remained.
-
-Nothing mystical happened. A futuristic object became an expensive piece of equipment whose customer no longer needed as much power.
-
-The afterlife is where the story regains its strangeness.
-
-In the 2010s, researchers reconstructing Camp Century’s buried inventory estimated that liquid radiological waste was only one part of the environmental problem and likely not the dominant one. Chemical contaminants such as PCBs could be more consequential if remobilized. Later radiological surveys commissioned by Danish authorities reported no indication that past reactor use had created radiological contamination of radiation-protection significance in the monitored environment.
-
-Again the hierarchy changed. “Nuclear” was the word most likely to attract attention. It was not necessarily the waste category most likely to matter.
-
-This is why threat assessment built around dramatic nouns performs badly. Nuclear, secret, missile, radioactive, abandoned: each word increases narrative voltage. None substitutes for concentration, pathway, half-life, mobility, exposure or dose.
-
-The same discipline applies to the reactor’s success. “Portable” is not a binary property. The PM-2A was transportable because engineers designed it as modules that could move through a military logistics chain. It was not portable in the sense of a generator that two people roll off a truck. Hundreds of tons moved so that a core measured in much smaller mass could deliver high energy density.
-
-Engineering language is full of such compressed promises.
-
-Mobile.
-
-Autonomous.
-
-Hardened.
-
-Self-sufficient.
-
-Each word hides a boundary. Mobile relative to what? Autonomous for how long? Hardened against which threat? Self-sufficient in which consumable?
-
-Camp Century makes the boundaries visible because the environment is unforgiving. You cannot pretend a replacement pump has arrived when the convoy has not. You cannot make an inward-moving wall disappear by reclassifying the report. You cannot remove radioactive liquid from history by removing the reactor vessel.
-
-The PM-2A was, in that sense, a very honest machine.
-
-It told the Army exactly what portable nuclear power could do.
-
-It also sent an invoice.
+It has units.
