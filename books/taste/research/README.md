@@ -21,7 +21,7 @@ and a URL.
 - **Ch 7, Ninety-Nine Percent No Award** — `hodgson-wine-judge-reliability`.
 - **Ch 8, The Beautiful Brain** — `zeki-neuroaesthetics-2011`.
 - **Ch 9, Bourdieu's Ladder** — `bourdieu-distinction-1979`.
-- **Ch 10, The Kouros Problem** — `getty-kouros-wikipedia`.
+- **Ch 10, The Kouros Problem** — `getty-kouros-colloquium-1993`, `getty-museum-collections-kouros-1997`, plus `research/ch10-kouros-primary-audit.md`.
 - **Ch 11, The Tire Company That Rated Restaurants** — `michelin-guide-history-cnn`.
 - **Ch 12, Four Thousand Shelves** — `trader-joes-curation-strategy`.
 - **Ch 13, The Algotorial** — `spotify-algotorial-curation`.
@@ -36,9 +36,15 @@ and a URL.
 
 ## Known limitations and counterevidence preserved in the manuscript
 
-- The Getty kouros (Ch 10) remains formally unresolved: the Getty's own label
-  language has hedged between "Greek, about 530 B.C." and "modern forgery."
-  The manuscript preserves that ambiguity rather than declaring a verdict.
+- The Getty kouros (Ch 10) remains unresolved. The primary Getty record is now
+  the canonical source trail rather than Wikipedia. Getty's 1993 colloquium
+  documents a technical record that became more complicated as the surface
+  alteration layer was studied, and the museum's later institutional history
+  calls the symposium inconclusive while stating that Getty itself still
+  believed the balance of evidence favored authenticity. The chapter therefore
+  must **not** claim that skeptical intuition was ultimately proved correct or
+  that the scientific test was simply debunked. See
+  `research/ch10-kouros-primary-audit.md` for the sentence-level release fix.
 - Wine-tasting research is deliberately used both to support (Ch 5) and to
   complicate (Ch 6, Ch 7) the idea that trained taste is reliable. This is
   intentional: the book's argument depends on holding those findings in
@@ -57,6 +63,10 @@ and a URL.
 
 ## Before release
 
+- Revise Ch 10 so the Getty kouros is not presented as a retrospective victory
+  of intuition over science. Preserve the unresolved status and use the case
+  instead to show that stylistic judgment, material analysis, and provenance
+  can fail in different places.
 - Recheck the Michael Smith sentencing outcome and any appeal against the
   DOJ docket, since sentencing postdates this draft's research cutoff.
 - Recheck current Amazon KDP AI-disclosure policy language, which platforms
