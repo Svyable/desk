@@ -1,7 +1,7 @@
 // Desk adaptation of Bookself #295's optional shelf/resume -> cover/read handoff.
 // Keep Desk's stronger keyboard menu behavior while sharing Bookself's canonical
 // route parsing and defensive animation-frame model.
-import { parseHash } from 'https://svyable.github.io/shelf/reader/js/router.js';
+import { parseHash } from 'https://svyable.github.io/bookself/reader/js/router.js';
 
 export const COVER_MORE_ACTION_IDS = Object.freeze([
   'copyPreviewBtn',
