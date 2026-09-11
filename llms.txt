@@ -98,6 +98,7 @@ The canonical title, author, drafting status, chapter count, and manuscript cont
 - [The Hundred-Year Career](https://svyable.github.io/desk/books/the-hundred-year-career/README.md)
 - [The Hundred-Year Handoff](https://svyable.github.io/desk/books/the-hundred-year-handoff/README.md)
 - [The Hunger Switch](https://svyable.github.io/desk/books/the-hunger-switch/README.md)
+- [The Installed World](https://svyable.github.io/desk/books/the-installed-world/README.md)
 - [The Intelligence Bubble](https://svyable.github.io/desk/books/the-intelligence-bubble/README.md)
 - [The Intelligence Dilemma](https://svyable.github.io/desk/books/the-intelligence-dilemma/README.md)
 - [The Last Human Channel](https://svyable.github.io/desk/books/the-last-human-channel/README.md)

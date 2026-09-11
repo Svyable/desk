@@ -1,8 +1,8 @@
-# Rights & permissions — The Third Language
+# Rights & permissions — Third Language
 
 © 2026 Sven Hardy Benson. All Rights Reserved.
 
-**Work:** *The Third Language*  
+**Work:** *Third Language*  
 **Author and copyright owner:** Sven Hardy Benson  
 **Rights profile:** `bookself-arr-v1`
 

@@ -1,4 +1,8 @@
-# The Third Language
+# Third Language
+
+<!-- bookself-reader-links:start -->
+**Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/the-third-language/)
+<!-- bookself-reader-links:end -->
 
 **How Animals Talk Back — and What Happens When We Finally Learn to Listen.**
 
@@ -8,7 +12,7 @@
 | **Status** | Complete first draft |
 | **Chapters** | 20 of 20 drafted |
 
-*The Third Language* begins with a mistake hidden inside one of humanity’s oldest wishes: we keep asking when we will finally translate animals into human language. That question assumes that meaningful communication is something an animal already possesses in coded form and that our job is to extract, decode, and render it into words.
+*Third Language* begins with a mistake hidden inside one of humanity’s oldest wishes: we keep asking when we will finally translate animals into human language. That question assumes that meaningful communication is something an animal already possesses in coded form and that our job is to extract, decode, and render it into words.
 
 This book argues that the most consequential communication between species often works differently. A dog and a person, a horse and a rider, a cat and a household, a keeper and an elephant, even a scientist and a wild animal can develop a relationship-specific system of timing, gaze, movement, distance, sound, touch, refusal, repetition, expectation, and repair. Neither participant owns that system. Neither species could produce it alone. It is a third language: a negotiated communicative world built in the space between them.
 

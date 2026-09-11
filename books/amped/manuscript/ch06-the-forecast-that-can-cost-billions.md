@@ -2,344 +2,74 @@
 
 The most expensive data center in America may be the one that never gets built.
 
-Not because its developer loses money on land, engineering, or equipment.
+A developer can abandon a parcel, resize a campus, choose another state, or discover that the next generation of chips needs less power than expected. The electric system has a harder time changing its mind. By the time a project disappears, somebody may already have ordered transformers, expanded a substation, reserved generation, begun engineering a transmission line, or told other customers that future capacity is spoken for.
 
-Because somebody else may have begun building the grid around it.
+This is the peculiar power of a large-load forecast. The customer does not have to consume electricity to create cost. It only has to become credible enough that planners decide the grid must be ready.
 
-This is the strange power of a large-load forecast. A customer does not have to consume electricity to create cost. It only has to become credible enough that planners decide the system must be ready.
+Utilities have always forecast demand because a power system cannot wait for the meter to turn before deciding whether enough equipment will exist to serve it. The new problem is the size and concentration of the bets. A million households using a little more electricity than expected produce a diffuse forecasting error. A proposed data-center campus can represent hundreds of megawatts at one address, arriving on a schedule shorter than the infrastructure required to serve it.
 
-The moment of commitment arrives before the meter turns.
+The first difficulty is that a campus is not one thing. A multibillion-dollar announcement may describe an ultimate buildout of several buildings while only the first phase is financed. Land can be prepared for a gigawatt while the initial load is a fraction of that. A substation may sensibly be sized for later phases because returning to enlarge it would cost more and take longer. The planner has to treat future phases as neither certain nor imaginary.
 
-A transformer is ordered. A substation is expanded. A transmission line enters a regional plan. A utility signs for generation. Capacity is procured. Fuel infrastructure is considered. Land is acquired. Engineering work begins. Other customers may be told that capacity is scarce because part of the system's future has been reserved.
+The second difficulty is optionality. A company comparing Virginia, Texas, Ohio, and Georgia for the same future block of computing capacity can look serious to four utilities at once. The company is not necessarily deceiving anyone; preserving alternatives is rational. But the national sum of those alternatives is not a national load forecast. They are overlapping futures, and electricity planners are being asked to collapse them into one future before the buyer itself has done so.
 
-Then the project changes.
+Confidentiality makes the problem worse. Technology companies have good reasons not to broadcast exactly where and when they intend to install computing capacity. Utilities may see more than the public, but they still see only pieces of the corporate decision. A developer can know its building plan without knowing the eventual tenant's workload. A cloud provider can know its capital budget without knowing customer demand three years ahead. The grid is making durable commitments against information that is private, changing, and partly unknowable even to the customer supplying it.
 
-Maybe the tenant chooses another state.
+That is why a queue is not a forecast. Neither is a press release. Neither is a signed land option. They are evidence of different strengths.
 
-Maybe the campus is built at half the expected size.
+A useful planning process should become more confident as the evidence becomes harder to fake: prospect, request, completed study, service agreement, posted security, equipment order, construction, energized phase, measured load. The categories will differ by jurisdiction, but the principle is the same. Planners need a way to represent degrees of commitment without pretending uncertainty has disappeared merely because an engineering model needs a number.
 
-Maybe a new generation of chips delivers more computation per watt.
+Probability weighting helps, but only up to a point. Five independent 200-megawatt projects with a fifty-percent chance of arriving do not create the same problem as one one-gigawatt project with the same probability. The first portfolio is likely to produce some load. The second is closer to an all-or-nothing event. Data-center projects are not independent anyway. Their probabilities can move together with AI demand, chip supply, capital markets, tax policy, utility capacity, and corporate strategy. A boom can accelerate several campuses at once; a disappointment can strand several at once.
 
-Maybe AI demand grows more slowly.
+The grid is therefore not merely forecasting megawatts. It is forecasting correlated corporate decisions.
 
-Maybe the developer had asked several utilities for the same future load and only one site was ever going to proceed.
+There is a way to make that problem less dependent on clairvoyance: require the customer to put something valuable behind its forecast.
 
-The electric infrastructure does not always disappear with the forecast.
+Virginia has now moved from debating that idea to writing it into the rate structure. In November 2025, the State Corporation Commission approved Dominion Energy Virginia's new GS-5 class for customers at or above the applicable large-load thresholds, effective January 1, 2027. The package includes a minimum fourteen-year service obligation for new qualifying customers, minimum demand charges, and collateral requirements for customers without sufficient credit. The Commission says qualifying large loads must pay at least 85 percent of contracted transmission and distribution costs each month regardless of actual usage; generation has its own minimum-demand treatment. In 2026 the Commission also approved changes to transmission cost allocation and a framework aimed at directly assigning the cost of new direct-connect transmission facilities that would not be built but for a large-load customer.
 
-This is where optimism becomes a rate-design problem.
+The percentages matter less than what the structure admits. A utility can spend money before a data center consumes enough kilowatt-hours to repay the investment through an ordinary energy bill. The risk is not simply that the customer will use a lot of electricity. The risk is that the grid will make a long-lived commitment for a customer whose own commitment is shorter.
 
-Utilities have always forecast load. They have to. A power system cannot wait for demand to materialize before deciding whether enough equipment will exist to serve it. Every capital-intensive network makes investments under uncertainty.
+A minimum bill makes reserved capacity expensive even when utilization disappoints. A long contract keeps the customer attached to the obligation for longer. Collateral matters when the promise itself is not creditworthy enough. Direct assignment tries to keep a facility built uniquely for one customer from quietly becoming everybody else's bill.
 
-What has changed is the size of the discrete bets.
+Georgia has made a similar move without choosing exactly the same architecture. In January 2025, the Georgia Public Service Commission approved rules allowing Georgia Power to use additional terms for new customers above 100 megawatts, including longer contracts of up to fifteen years and minimum billing provisions. The commission's stated purpose was to protect existing customers from costs created by very large new loads. By late 2025, Georgia was also requiring continued reporting and review of the methodology used to estimate large-load growth as it approved a major generation expansion tied largely to new large customers.
 
-When a million households each use slightly more electricity than expected, the forecasting error is diffuse. When one planned data-center campus represents hundreds of megawatts, the error has a name and an address.
+The comparison is useful because there should not be one national tariff copied everywhere. A vertically integrated utility with spare generation faces a different problem from a transmission-constrained zone in a regional market. A campus arriving in six phases is not the same risk as a factory that reaches full load quickly. A customer bringing some generation is not the same as one requesting full firm service. The portable idea is narrower: when a customer asks the grid to make an irreversible commitment, the customer's own commitment should become correspondingly difficult to abandon.
 
-That makes accountability politically easier to demand.
+That sounds like obvious consumer protection until the counterargument arrives. Make those obligations too weak and households or ordinary businesses can inherit stranded costs. Make them too strong and a state can drive investment elsewhere, including projects whose infrastructure would have benefited the wider system. A transmission reinforcement built because of one data center may relieve congestion for thousands of other customers. A power plant procured for a cluster of new loads may still be useful if older generation retires. A substation expansion built for one campus may later serve an industrial park.
 
-It does not make the forecast easier to make.
+A canceled data center does not automatically turn every associated asset into waste.
 
-The first difficulty is that data-center development is modular.
+The better question is how much usefulness survives the cancellation. Call it stranding exposure: how much of the asset's economic value depends on the initiating customer actually arriving on the promised schedule?
 
-A campus can be announced as a multibillion-dollar project with an ultimate electrical requirement far larger than the first phase. Land can be prepared for several buildings while only one is initially constructed. A substation may be sized for future growth because expanding it later would be more expensive or slower. The utility therefore has to distinguish initial load from full buildout without pretending the later phases are either certain or irrelevant.
+A service line inside a private campus sits near one end of the spectrum. A regional transmission backbone with demonstrated reliability and congestion benefits sits nearer the other. Much of the interesting infrastructure is between them. A substation can be customer-driven and reusable. A turbine can be procured for a cluster forecast and then operate for decades against other load. A local transmission project can solve an immediate data-center contingency while creating headroom for customers nobody has identified yet.
 
-The second difficulty is competitive confidentiality.
+Labels such as “data-center infrastructure” hide that distinction. Financing should expose it.
 
-Technology companies do not necessarily want competitors to know exactly when and where they plan to install future computing capacity. A utility may receive better information than the public does, but even the utility sees only part of the corporate decision. A developer may know the building plan but not the eventual tenant's workload. A cloud provider may know its capital budget but not customer demand three years out.
+Customer-specific facilities can justify direct contributions, prepaid equipment, strong minimum bills, or exit charges. A broadly useful network project can justify wider recovery when the benefits are demonstrated rather than asserted. Ambiguous projects can split the risk: customer contribution for the incremental exposure, broader recovery for documented system benefits, and staged commitments when later phases remain uncertain.
 
-The third difficulty is duplication.
+Staging is important because infrastructure economics and forecast economics pull in opposite directions. Building once and building large can reduce unit costs. Waiting preserves the ability to stop.
 
-If one company is comparing Virginia, Texas, Ohio, and Georgia for the same next gigawatt of capacity, four utilities can each see a serious prospect. Each utility is rational to prepare. The company is rational to preserve options. The national sum can become fictional.
+Imagine a campus expected to grow from 100 megawatts to 600 over six years. The first 200 become increasingly credible as buildings rise and equipment arrives. The final 400 remain dependent on later demand. Building all 600 megawatts of dedicated capability on day one may be cheaper if the forecast is right. Sequencing the upgrades may cost more per unit but buy an option that disappears once the concrete, transformer orders, and long-lead contracts are committed.
 
-This is one reason data-center request totals can become spectacular without representing a plausible near-term load forecast.
+That option has a price. So does losing it.
 
-The requests are not necessarily lies.
+This is why “make the data center pay” is too crude to be a governing principle. The deeper task is to put each risk on the balance sheet best positioned to understand or control it. The developer controls whether a site proceeds. A hyperscaler knows more about its computing plans than a utility does. The utility knows its network and procurement constraints. A regional operator can identify wider transmission benefits. A regulator represents customers who cannot negotiate their own side agreements.
 
-They are overlapping futures.
+These parties do not possess the same information, and pretending they do is what makes a forecast politically dangerous. Contracts can force private confidence to become observable. A company willing to post security and accept a long minimum obligation is saying something more costly than a company asking whether 500 megawatts might be available someday.
 
-Electricity planning has to collapse them into one future before the company itself does.
+The money does not make the forecast true. It changes the consequences of being wrong.
 
-PJM's experience shows how consequential that can become.
+That distinction matters because the strongest hyperscalers have balance sheets capable of anchoring infrastructure. A long-term power purchase agreement can support financing. A minimum utility obligation can support grid investment. A deposit can pay for equipment that would otherwise expose other customers if the project disappears. These instruments allow demand to help finance supply without requiring the public to treat every corporate growth plan as destiny.
 
-The regional operator's long-term forecasts surged as utilities incorporated large data-center projects. Then PJM and its members improved their methods for vetting the requests, including closer attention to project status and the probability that large loads would materialize. The resulting forecast could be revised downward in some years while still showing substantial long-run growth.
+They also have limits. A famous technology company is not a sovereign guarantee. Strategies change, contracts are litigated or renegotiated, projects become uneconomic, and even excellent credit can deteriorate over the life of a transmission asset. Nor should every cost triggered by a large customer automatically be assigned to it. If an accelerated project creates genuine systemwide value, forcing one customer to pay the whole bill can be as distortive as socializing a purely private facility.
 
-This is exactly what a good planning system should do.
+The real test comes when the boom disappoints.
 
-A forecast is allowed to change.
+If a wave of projects is canceled after utilities have committed billions and households discover that the largest corporate buyers could walk away while leaving the infrastructure behind, the backlash will be deserved. If cancellations instead trigger contracted payments, release scarce capacity, stop uncommitted phases, and leave behind assets whose broader value was established before construction, the grid will have demonstrated something more useful than forecasting prowess.
 
-The danger is not revision.
+It will have learned how to be wrong without making the wrong people pay for the mistake.
 
-The danger is pretending the first number was certainty because infrastructure decisions were already attached to it.
+That lesson extends beyond data centers. Semiconductor fabs, hydrogen projects, electrified industry, carbon removal, and whatever the next large-load category turns out to be will create versions of the same problem. The institutional innovation is not a special punishment for AI. It is a better vocabulary for commitment: how credible is the load, what infrastructure does it uniquely cause, what can be reused, when does the grid become unable to stop, and who owns the downside at each stage?
 
-A mature process separates stages of belief.
+A forecast can cost billions because steel and copper eventually convert a guess into an asset. The useful question is not whether planners can eliminate the guess. They cannot.
 
-There is a difference between a prospect, a request, a studied project, a signed service agreement, a customer that has posted financial security, a construction site, an energized phase, and measured load.
-
-The forecast should become firmer as the evidence becomes firmer.
-
-That sounds obvious. In practice, the planning system wants one line on a spreadsheet.
-
-A utility resource plan may need an annual peak-demand forecast. A transmission study may need a future load level at a specific bus. A capacity market may need a planning parameter. Engineers cannot model a paragraph describing uncertainty. They need numbers.
-
-The institutional challenge is converting uncertainty into numbers without destroying the uncertainty.
-
-Probability weighting is one answer.
-
-If a project has a fifty percent estimated likelihood of arriving, a planner might count part of its requested load in a regional forecast. But the arithmetic can become deceptive because infrastructure is lumpy and project outcomes are correlated.
-
-Five independent two-hundred-megawatt projects each with a fifty percent probability do not create exactly the same planning problem as one one-gigawatt project with a fifty percent probability. The first portfolio is more likely to produce some load. The second is all or nothing.
-
-Data-center projects are also not independent.
-
-Their probabilities can rise and fall together with AI demand, capital markets, chip availability, tax policy, utility capacity, and corporate strategy. A downturn in the industry could cancel several at once. A breakthrough that expands AI demand could make several accelerate together.
-
-The grid has to plan a correlated forecast.
-
-That is one reason collateral and minimum bills can be more useful than statistical sophistication alone.
-
-The customer knows its own seriousness better than the utility does.
-
-A contract can force some of that private information into an observable action.
-
-A developer willing to post substantial collateral is revealing something different from a developer willing only to submit an application. A company willing to accept a fourteen-year minimum service obligation is making a stronger claim than a company asking whether five hundred megawatts might be available someday.
-
-The money does not make the load certain.
-
-It changes who pays if the load is wrong.
-
-That is the key.
-
-A forecast can be uncertain without being unfair.
-
-The unfairness enters when one party creates a risky forecast and another party bears most of the downside.
-
-Virginia's new large-load rate structure is an explicit attempt to change that distribution. For qualifying very large customers, the state approved longer minimum service obligations, minimum transmission and distribution charges based on a large share of contracted demand, and collateral provisions when credit support is inadequate.
-
-The details matter because they reveal what regulators think the actual problem is.
-
-The concern is not simply high electricity consumption.
-
-If consumption were the only problem, a higher per-kilowatt-hour price could address it.
-
-The concern is infrastructure commitment.
-
-A utility can spend money before the customer consumes enough kilowatt-hours to pay the ordinary bill. Minimum charges create revenue tied to reserved system capacity rather than actual energy consumption alone. Long contract terms keep the customer attached to the obligation for a period closer to the life of the infrastructure. Collateral protects the utility if the customer fails financially or leaves before the charges are collected.
-
-This is project finance hiding inside a utility tariff.
-
-Georgia has moved in a similar direction with new rules for very large customers, allowing stronger contractual protections around infrastructure costs and minimum billing. Other jurisdictions are developing their own versions.
-
-The differences will matter.
-
-There is no reason to assume one national large-load tariff should fit every system. A vertically integrated utility with spare generation faces different risks from a constrained transmission zone in a regional market. A customer bringing generation creates a different cost profile from one seeking full firm service. A campus built in phases should not necessarily be treated the same as a single industrial plant reaching full load quickly.
-
-The principle is more portable than the exact tariff.
-
-A customer asking the grid to make an irreversible commitment should make a corresponding commitment of its own.
-
-The difficulty is deciding how much.
-
-Make the requirement too weak and existing customers remain exposed.
-
-Make it too strong and the utility can become uncompetitive. A company may locate in another state where the service obligation is shorter or the upfront payment smaller. The region could protect ratepayers so aggressively that it loses industrial investment whose long-run benefits would have exceeded the risk.
-
-Regulation therefore becomes an auction conducted through risk allocation.
-
-States are not merely competing on cents per kilowatt-hour.
-
-They are competing on how much uncertainty the public system is willing to carry for a private customer.
-
-That competition can become dangerous.
-
-Economic-development policy has a long history of jurisdictions offering tax breaks, infrastructure, or favorable terms to attract large employers. Data centers add electricity risk to the package. A state can appear to win an investment by letting a utility socialize more of the infrastructure cost or cancellation risk.
-
-The immediate announcement looks attractive.
-
-The future rate base may be less so.
-
-This is why transparency matters even when customer contracts contain legitimate confidential information.
-
-Regulators and the public need to understand the categories of risk being shifted.
-
-How much dedicated infrastructure is the customer funding directly?
-
-How much shared infrastructure is the utility placing in rate base?
-
-What happens if the load ramp is delayed?
-
-What happens if the customer cancels?
-
-What minimum bill survives underutilization?
-
-What collateral can be drawn?
-
-Can another customer use the reserved capacity?
-
-How long is the obligation?
-
-These questions are more important than the headline electricity rate.
-
-A low energy price can be expensive if the public carries the option risk.
-
-A higher minimum charge can be cheap if it prevents billions of dollars of stranded investment from being spread across everybody else.
-
-The same logic applies to generation.
-
-Suppose a utility believes data-center demand will require two gigawatts of new firm capacity. It can build a plant, sign a power purchase agreement, or rely on market procurement depending on the regulatory structure. If the data-center growth arrives, the investment may be exactly what was needed.
-
-If the growth does not arrive, the plant still exists.
-
-That is not automatically a stranded asset.
-
-Electricity demand elsewhere may grow. Older generation may retire. The plant may improve reliability. A transmission line may unlock economic development that was not in the original forecast. Infrastructure can find second lives.
-
-The useful question is not whether a canceled data center makes every associated project wasteful.
-
-It is how transferable the asset is.
-
-A regional transmission line with many uses has high option value.
-
-A dedicated substation deep inside a single campus has much less.
-
-A gas plant connected to a constrained system may remain commercially useful even if one customer cancels, but customers could still be paying for excess capacity for years. A nuclear restart backed by a long-term corporate contract shifts more of the demand risk toward the corporate buyer than a utility plant recovered automatically from residential bills.
-
-This is why financing structure is part of infrastructure design.
-
-Two physically identical power plants can create different public risks depending on who signed the contract.
-
-Data-center companies are wealthy enough to change this equation.
-
-The largest hyperscalers have investment-grade balance sheets, enormous cash generation, and strategic reasons to secure electricity. That creates the possibility of making the beneficiary of new infrastructure also become its anchor customer.
-
-A twenty-year power purchase agreement is not merely a claim that clean energy matters.
-
-It is a credit instrument.
-
-A minimum utility bill is not merely a rate.
-
-It is a guarantee.
-
-A deposit is not merely a fee.
-
-It is evidence.
-
-This is how demand can finance the grid without asking the public to believe every corporate forecast.
-
-The arrangement is not free of risk.
-
-A giant technology company can still change strategy. Contracts can be renegotiated. A project can become uneconomic. Credit ratings can deteriorate. Bankruptcy, while unlikely for the strongest firms, is never impossible over the life of infrastructure. Regulators should not pretend that a famous corporate name is equivalent to a sovereign guarantee.
-
-But a legally enforceable long-term commitment is a materially different foundation from projected growth alone.
-
-That difference should become the heart of large-load planning.
-
-The current debate sometimes treats data centers as though the grid must choose between two extremes.
-
-Build everything they ask for and socialize the infrastructure.
-
-Or tell them to bring their own power and leave the public system alone.
-
-The more promising design lies between.
-
-Let the public grid remain a shared network because shared networks create value.
-
-Make extraordinary customers pay for extraordinary risks they uniquely create.
-
-Allow broader system benefits to be shared where they are real.
-
-Use contracts to distinguish a serious project from a cheap option.
-
-Use staged investment where uncertainty is high.
-
-Use flexible service where the workload allows it.
-
-The result is not anti-growth.
-
-It is growth that knows who owns the forecast.
-
-That question will become more important if electricity demand keeps rising from other sources too.
-
-Data centers are the first highly visible test, but they will not be the last. Semiconductor fabs, electric-vehicle plants, hydrogen production, industrial electrification, carbon-removal systems, advanced manufacturing, and other large loads can create similar planning problems. If the grid develops better rules now, the institutional benefit extends beyond AI.
-
-This may be the strongest case that the data-center boom is revolutionizing the grid even if future demand comes in below today's most aggressive forecasts.
-
-The physical buildout might be smaller than expected.
-
-The contractual innovation can remain.
-
-A system that learns to price reservation risk, demand credibility, flexibility, and cancellation risk will be better at serving the next industrial wave too.
-
-Forecasting will still matter.
-
-But forecasting will no longer have to carry the entire moral burden of being right.
-
-That is a healthier arrangement for a world that changes quickly.
-
-The utility should be allowed to believe a customer.
-
-The customer should have to make belief expensive enough to mean something.
-
-When a forecast can cost billions, optimism is no longer free speech.
-
-It is a financial obligation waiting to be assigned.
-
-The most difficult assets sit in the middle of the transferability spectrum.
-
-A dedicated service line inside a campus is obviously customer-specific. A major regional transmission backbone is obviously more reusable. But many investments are neither. A substation expansion may be built for one customer yet be capable of serving later development. A turbine may be procured because of a cluster forecast but then operate for decades in a system whose other loads are growing too. A local transmission reinforcement may solve one immediate contingency while also creating headroom for customers nobody has identified yet.
-
-That ambiguity is why regulators need to think in terms of **stranding exposure**, not simply project labels.
-
-How much of the asset's cost would remain economically useful if the initiating load vanished tomorrow?
-
-How quickly could another user absorb the capacity?
-
-Would the asset reduce congestion or reliability risk for existing customers even without the new campus?
-
-Was the asset deliberately oversized for future system needs, and if so, who approved that extra scope?
-
-Did the customer pay only for the portion uniquely attributable to its schedule, or did it effectively finance a public upgrade that others will use for decades?
-
-These questions create a more honest spectrum than the phrase “data-center infrastructure.”
-
-At one end is a private obligation with little residual public value. At the other is a public network asset whose timing was accelerated by one new load. In between are assets whose future usefulness is plausible but uncertain.
-
-The financing should follow that spectrum.
-
-A customer-specific asset can justify direct contribution, prepaid facilities, or strong exit charges. A broadly useful network project can justify wider cost allocation if its benefits are demonstrated rather than merely asserted. An ambiguous project can use layered protection: customer contribution for the incremental risk, broader recovery for documented system benefits, and periodic review if the forecast changes before all phases are committed.
-
-This makes forecast revision operational instead of rhetorical.
-
-Suppose a campus is expected to ramp from one hundred megawatts to six hundred over six years. The first two hundred become highly credible after buildings are under construction and equipment is ordered. The final four hundred remain contingent on later customer demand. A utility that builds all six hundred megawatts of dedicated capability immediately is making a different bet from one that sequences upgrades around contractual milestones.
-
-The second approach may cost more per unit because staged construction can sacrifice economies of scale. It buys something in return: the ability to stop.
-
-That ability has value.
-
-Infrastructure economics often rewards building once and building large. Forecast uncertainty rewards modularity. The optimal design sits between them, and the correct balance changes with the credit quality of the customer, the reuse value of the asset, the lead time of equipment, and the consequences of being short if the demand surprises upward.
-
-This is why “make the data center pay” is not a complete policy.
-
-The deeper goal is to put each risk on the balance sheet best positioned to manage it.
-
-The developer controls whether the campus proceeds.
-
-The hyperscaler has better information about its computing plans.
-
-The utility understands its network and procurement constraints.
-
-The regional grid operator understands system contingencies and broader transmission benefits.
-
-The regulator represents customers who cannot negotiate their own side agreements.
-
-A good tariff does not pretend these parties know the same things. It uses contracts to make private information costly to misstate and public investment easier to stop when the evidence deteriorates.
-
-That is a much more powerful idea than a surcharge.
-
-It turns the rate case into a mechanism for assigning forecast risk before the concrete hardens.
-
-The distinction will matter most in the first truly large downturn in data-center expectations. If projects cancel and the public discovers that the biggest corporate buyers could walk away while households inherit the infrastructure, the political backlash will be severe. If, instead, cancellations trigger contracted payments, release capacity for other users, and leave behind assets with demonstrated broader value, the grid will have shown that it can absorb technological uncertainty without converting it into public resentment.
-
-That is the standard the current boom should be designed to meet.
-
-The forecast does not have to be right.
-
-The bargain has to remain defensible when it is wrong.
+The bargain has to remain defensible when the guess is wrong.

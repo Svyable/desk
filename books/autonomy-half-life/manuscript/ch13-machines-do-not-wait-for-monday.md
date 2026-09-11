@@ -4,442 +4,112 @@ Human organizations contain more friction than their policies admit.
 
 A manager may have authority to spend $25,000 without another signature. That does not mean she can spend it a thousand times before breakfast. She has to notice a need, find a supplier, open a system, read a quote, make a choice, perhaps speak to someone, perhaps sleep on it. Her formal authority is broad. Her human tempo narrows its practical expression.
 
-Software removes tempo.
+Software removes much of that tempo. A machine can repeat an allowed action at a rate no human approver had in mind when the permission was designed. It can retry while everyone is asleep, monitor conditions continuously, queue work for later, call another service that calls another service, and continue a task after the person who initiated it has mentally moved on.
 
-That is not a metaphor. A machine can repeat an allowed action at a rate no human approver had in mind when the permission was designed. It can retry while everyone is asleep. It can monitor conditions continuously. It can queue work for later. It can call another service, which calls another service. It can continue a task after the person who initiated it has mentally moved on.
+The permission can be identical while the practical power is not.
 
-The permissions may be identical.
+That is the governance problem autonomous agents make difficult to ignore. Traditional software often executes near the moment of user action. Click Buy, the purchase happens. Click Send, the message leaves. The temporal link between intention and effect is tight enough that the interface itself supplies some context. Autonomous systems loosen that link. “Find me a good option and book it if the price falls” may sit for three days. “Monitor these invoices and pay anything ordinary” may run for months. “Keep this service healthy” has no natural end. A vendor-negotiation agent can operate across personnel changes, supplier changes, fiscal quarters, and a strategy review nobody thought to translate into machine policy.
 
-The practical power is not.
+Elapsed time is only part of the problem. Machines can compress enormous contextual change into seconds. An agent might read a new message, discover a changed price, invoke a sub-agent, receive revised terms, and trigger a payment before a human could finish opening the thread. The world relevant to the mandate can travel farther in one second of machine activity than in an hour of human waiting.
 
-This is why autonomous agents make autonomy half-life more than an interesting governance principle.
+That is why the clock is the wrong meter here too.
 
-They change the time geometry of delegation.
+A token valid for five minutes can carry stale purpose after ten seconds if the recipient, task, risk, or principal changes. A token valid for a day may remain perfectly sensible for a low-risk read-only task in a stable environment. Expiration matters, but validity time and mandate freshness are different things.
 
-Traditional software often executes near the moment of user action. Click Buy, the purchase happens. Click Send, the message leaves. The temporal link between intention and effect is tight enough that the interface itself supplies context.
+The standards world is now circling this distinction from several directions. In February 2026, NIST launched an AI Agent Standards Initiative and separately published an NCCoE concept paper on software-agent identity and authorization. The problem statement is revealing. NIST is not asking only how to authenticate an agent. It is asking how organizations should identify, authorize, audit, and constrain software agents that can reach tools, applications, and data on somebody else’s behalf.
 
-Autonomous systems loosen that link.
+The IETF draft ecosystem is more experimental, and should be read with appropriate caution. Internet-Drafts are working documents, not standards. Still, several 2026 proposals independently reach for the same missing pieces. One proposes attenuating authorization tokens whose delegated children can have equal or narrower authority than their parents, including depth and lifetime limits. Another proposes an intent token that binds an action to a signed authorization envelope before execution. Other drafts explore delegation chains, actor provenance, resource-bound grants, and task-scoped constraints.
 
-A user can say, “Find me a good option and book it if the price falls.”
+None of this means the authorization problem has been solved. In fact, the churn is evidence that it has not. It also corrects an easy exaggeration: fine-grained and delegated authorization did not begin with AI agents. OAuth already supports rich authorization details, and token exchange already has machinery for delegation and actor identity. The new difficulty is what happens after identity, scope, and delegation have all been represented correctly.
 
-The task may sit for three days.
+The credential can still be valid while the reason for using it has gone stale.
 
-“Monitor these invoices and pay anything ordinary.”
+That is the gap this book cares about.
 
-The task may sit for months.
+Suppose an expense agent has a valid resource-bound token, a verifiable delegation chain, a $10,000 transaction ceiling, and a declared purpose: ordinary vendor payments. At 9:00 a.m. the grant is clean. At 9:04 a vendor sends new bank details. At 9:05 an employee forwards the message into the payable queue. At 9:06 the agent is technically authorized to send the money.
 
-“Keep this service healthy.”
+Authentication answers who is acting. Scope answers what class of action is allowed. Delegation provenance answers where the authority came from. None of those questions, by themselves, answers whether this payment should still happen under these changed facts.
 
-The task has no natural end.
+That last question belongs at runtime.
 
-“Negotiate with vendors and renew contracts under these limits.”
+Runtime authority is not a new permission system layered theatrically on top of the old one. It is the practice of rechecking the conditions that were material to the grant when the system is about to create consequence. Before sending a payment, recheck recipient, amount, task status, and fraud state. Before publishing a message, recheck audience, account, campaign state, and whether the user still wants it active. Before changing production, recheck incident state, environment, model version, and whether a safer fallback is available.
 
-The agent may operate across fiscal quarters, personnel changes, supplier changes, and strategy changes.
-
-The longer the interval between instruction and consequence, the more opportunities there are for the world to become different from the one in which the instruction was given.
-
-This is not only elapsed time. Machines can compress enormous change into a short interval.
-
-An agent might read a new message, discover a changed price, invoke a sub-agent, receive a new contract, and trigger a payment within seconds. The world relevant to the mandate can travel farther in one second of machine activity than in an hour of human waiting.
-
-Clock time becomes even less informative.
-
-This is why time-bounded credentials, though valuable, cannot be the whole answer to agent authorization.
-
-A token valid for five minutes can still carry stale purpose if the relevant context changes in the first ten seconds. A token valid for a day may remain appropriate for a low-risk read-only task in a stable environment. The right question is what happened between grant and execution.
-
-Current standards work is beginning to confront pieces of this problem.
-
-Internet-Drafts published during the rapid development of agent infrastructure in 2026 explore intent tokens, principal-agent protocols, authorization envelopes, delegation chains, validity windows, and cross-organizational identity. These documents are works in progress, not settled standards. Their existence is nevertheless evidence that the old assumption of a single long-lived credential is inadequate for systems that can delegate and act asynchronously.
-
-Several ideas recur for good reason.
-
-Scope should be explicit.
-
-Delegation should be attributable.
-
-Children should not gain more authority than parents.
-
-Validity should be bounded.
-
-Revocation should be possible.
-
-High-risk actions may deserve fresh authorization.
-
-These are foundations.
-
-Autonomy half-life adds a question that cuts across them: what should happen when the token remains valid but the environment that justified it has materially changed?
-
-The answer matters because agents do not wait for Monday’s meeting to discover the change.
-
-They encounter it at runtime.
-
-Runtime is where legitimacy has to survive.
-
-A user can approve a plan at noon. By 12:02, the plan can be wrong. A policy team can approve an agent’s tools in January. By March, the agent may be connected to a new model, a new database, a new customer population, and a new chain of sub-agents.
-
-The authorization event is historical.
-
-Execution is present tense.
-
-This creates a new category of systems design: runtime mandate evaluation.
-
-The phrase can sound grander than the implementation needs to be. In simple cases it is straightforward.
-
-Before sending a payment, recheck recipient, amount, task status, and fraud state.
-
-Before publishing a message, recheck audience, account, classification, and whether the user still wants the campaign active.
-
-Before changing production, recheck incident state, environment, model version, and whether a more conservative action is available.
-
-The system does not need to reconsider the entire philosophy of the task. It needs to re-evaluate the facts that were material to the grant.
+The system does not need to reconsider the philosophy of the task every few milliseconds. It needs to remember what facts made the delegation reasonable and notice when one of those facts changes enough to matter.
 
 This is the birth certificate becoming executable.
 
-Agent architectures make such checks possible because they already maintain task state. The agent knows what it is trying to do, which tool it is about to call, and often which external facts changed. Instead of treating tool authorization as a static property of the agent, the system can bind execution authority to the current task state.
+The unit of authority then moves closer to the action. A service account says, in effect, “this actor can pay.” A task-bound mandate says, “this actor can make this class of payment for this purpose, inside these bounds, while these conditions hold.” The second is harder to implement, but it is much closer to what human principals usually mean when they delegate. Nobody says, “You are now a being who may spend my money indefinitely.” They say, “Handle this.”
 
-This is a profound shift.
+Agent systems should preserve the *this*.
 
-The unit of authority moves from actor to action.
+Retries show why. A network call fails, so the system tries again. A queue delays delivery, so the job runs later. A payment endpoint times out, so the client checks status and perhaps resubmits. Reliability engineering already knows to worry about duplicate execution. Autonomy adds another question: even if the first attempt never succeeded, is the operation still wanted?
 
-A service account says, in effect, “this actor can pay.”
+A user may cancel the task after the first attempt. The order may be filled elsewhere. The incident may resolve. The recipient may change. A retry is not merely a second transport attempt. It is a new execution event occurring in a potentially different world.
 
-A task-bound mandate says, “this actor can make this class of payment for this purpose while these conditions hold.”
+Queues are the same problem stretched out. A machine queue can preserve instructions through outages, throttling, dependency failures, and long backlogs. When the queue clears, old intention can surge into the present. The queue is a time machine for authority.
 
-The second is harder to implement.
+For consequential work, the system should not assume that a job entering the queue and a job leaving it inhabit the same mandate. The task may have been valid when scheduled. By execution, the principal may have changed roles, the account may have closed, a newer task may have superseded the old one, or the underlying need may have disappeared. Provenance helps only if the system is willing to ask whether the provenance still leads to a live source of authority.
 
-It is also much closer to what human principals mean when they delegate.
+This produces the problem of orphaned intention. A person starts a task and leaves the company. A customer revokes consent. A project is cancelled. The credential belongs to a service rather than the person, so it remains technically usable. What now owns the mandate?
 
-Nobody says, “You are now a being who may spend my money indefinitely.”
+Sometimes the organization does. An employee’s departure should not automatically cancel payroll, a backup, or a contractual obligation the company still owes. In other cases the person or customer was the source of the authority itself. A consent-based task should contract when consent disappears even if every API credential remains green.
 
-They say, “Handle this.”
+The principal can disappear while the process remains alive. Machines are exceptionally good at continuing, which is both their value and their danger.
 
-Agent systems should preserve the this.
+Human work has always contained accidental decay. People forget, get tired, change jobs, go home, lose interest, encounter colleagues, and feel the social friction of doing something strange. None of these is a reliable control system. Yet together they have limited how far stale instructions can travel before reality interrupts them. Automation removes many of those frictions for good reason. The mistake is removing them without noticing which governance functions they were accidentally performing.
 
-The need becomes clearer when agents retry.
+A per-action spending limit is an easy example. A manager can approve purchases up to $10,000. The policy may work partly because the organization assumes the manager cannot execute hundreds of $9,999 transactions in seconds. Give the same formal authority to a machine and the hidden rate limit disappears.
 
-Retries are a basic reliability technique. A network call fails, so the system tries again. A queue delays delivery, so the job runs later. A payment endpoint times out, so the client checks status and perhaps resubmits.
+Nothing about the dollar ceiling changed. Throughput did.
 
-Retries assume that the operation remains appropriate across delay.
+Machine delegation therefore needs to represent accumulation as well as individual scope. How much can an agent spend over an hour, day, incident, or task? How many customers can it contact before observation catches up? How many production resources can it modify? How many sub-agents can it create? How much irreversible consequence can accumulate on one grant?
 
-That assumption can fail.
+These are not merely operational quotas. They define how far authority may travel before fresh evidence is required.
 
-A user cancels the task after the first attempt. The recipient changes. The order is filled elsewhere. The underlying incident resolves. A duplicate action becomes harmful.
+The same logic applies to long plans. An agent receives approval for ten steps. The first seven steps succeed and change the environment. By step eight, the state the principal approved no longer exists. A cloud-cost agent removes apparently unused resources; the removals change load and redundancy, so later removals no longer carry the same risk. A negotiation agent makes early concessions; the counterparty reacts, changing the meaning of the final concession. A robot moves one object and opens a path that changes the safety state for the next movement.
 
-A retry should not inherit authority blindly from the first attempt.
+The approved plan creates its own drift.
 
-The retry is a new execution event.
-
-It should recheck the material conditions that can change between attempts.
-
-This principle sounds obvious to reliability engineers when framed as idempotency and duplicate prevention. Autonomy broadens it beyond technical duplication. The question is not only “Did this operation already happen?” It is “Should this operation still happen?”
-
-The answer can change without any previous execution.
-
-Asynchrony also creates orphaned intention.
-
-A person starts a task and leaves the company. A customer closes an account. An employee changes roles. A project is cancelled. The task remains in a queue. The credentials remain technically valid because they belong to a service rather than the person.
-
-Who owns the mandate now?
-
-This is where principal identity becomes temporal.
-
-A task should not merely know who initiated it. It should know what source of authority supported that initiation and whether the source remains valid.
-
-If an employee’s role changes, some tasks may continue because the company, not the employee personally, owns the purpose. Others may need reassignment or cancellation. If a customer revokes consent, tasks based on that consent may need to contract even if the customer account still exists.
-
-The principal can disappear while the process remains alive.
-
-Machines are very good at continuing.
-
-That is both their value and their danger.
-
-Human tasks decay naturally because humans forget, get tired, change jobs, lose interest, and encounter social friction. A machine can preserve an instruction with perfect fidelity long after the instruction has lost practical meaning.
-
-We often describe this as reliability.
-
-Reliability needs an object.
-
-Reliable at doing what the principal still wants, or reliable at doing what the principal once said?
-
-The distinction is the entire book in one question.
-
-Agent speed creates another problem: aggregate authority.
-
-A per-action limit may be sensible for humans and dangerous for machines.
-
-A manager can approve purchases up to $10,000. The organization assumes the manager will not execute hundreds of $9,999 transactions in seconds because human behavior creates natural aggregation. An agent can.
-
-The old rule encoded a per-decision boundary while relying on human tempo to control total exposure.
-
-Machine action removes that hidden constraint.
-
-The authority model therefore has to represent rate and accumulation.
-
-How much can the agent spend over an hour, day, task, or incident?
-
-How many messages can it send before review?
-
-How many resources can it modify?
-
-How many sub-agents can it spawn?
-
-How much irreversible consequence can accumulate before the principal sees the result?
-
-These are not merely quotas. They describe the distance an autonomous process can travel on one grant.
-
-A useful mandate includes a travel budget for consequence.
-
-Again, the phrase should not be turned into one magic number. The point is structural. An authority that is safe for one human-scale action may be unsafe when repeated at machine scale.
-
-This is one place where rate limits and aggregate limits become governance tools rather than only reliability controls.
-
-They slow the growth of stale consequence.
-
-Machine speed also changes escalation.
-
-A human can notice uncertainty and pause because pausing is part of ordinary work. An agent optimized for completion may treat interruption as failure. If the product measures success by tasks finished without human input, designers create pressure against asking again.
-
-Autonomy becomes a KPI.
-
-This can distort governance.
-
-The best agent is not necessarily the one that asks least.
-
-It is the one that knows which decisions it was actually authorized to make.
-
-A system that escalates one changed bank account while autonomously completing a thousand ordinary invoices may be more autonomous in the meaningful sense than a system that executes everything and forces humans to investigate afterward.
-
-Selective interruption protects the rest of the autonomy budget.
-
-Product teams need to measure this differently.
-
-Instead of celebrating “percent of tasks completed without human involvement,” measure whether human involvement occurs at material mandate boundaries. Track the quality of escalations. Track false interruptions. Track consequential actions executed under stale conditions. Track how often users broaden permissions to avoid friction.
-
-The governance system is part of the product.
-
-If users constantly fight it, they will defeat it.
-
-Agents also make cross-organizational delegation ordinary.
-
-A company’s agent may call a vendor’s agent. The vendor’s agent may use a payment provider. The payment provider may invoke identity services in another trust domain. Authority crosses boundaries whose policies, clocks, and risk models differ.
-
-A credential can attest that a request came through a valid chain.
-
-It cannot guarantee that every organization in the chain interprets purpose the same way.
-
-This is where compact intent becomes valuable.
-
-The receiving system needs enough information to enforce its own obligations without receiving unnecessary private context. Purpose categories, transaction class, relevant constraints, and delegation provenance can help.
-
-But cross-organizational autonomy exposes a hard truth: no single principal controls the whole chain.
-
-The user wants a hotel.
-
-The employer sets travel policy.
-
-The hotel sets cancellation terms.
-
-The payment network sets transaction rules.
-
-The bank manages fraud risk.
-
-Regulators impose legal obligations.
-
-Each source of authority has its own half-life.
-
-The action survives only where the mandates overlap.
-
-This makes simple “agent permission” language misleading.
-
-An agent does not possess one permission state. It operates at the intersection of multiple current authorities.
-
-Machine-readable policy can help evaluate that intersection, but some conflicts will remain institutional and legal rather than computational.
-
-The system needs escalation routes for genuine ambiguity.
-
-Machines do not wait for Monday.
-
-Humans still govern many of the rules they execute.
-
-The challenge is to let machines move at machine speed inside regions where the mandate remains clear while creating enough friction at the edges that speed does not become stale power.
-
-The goal is not to make autonomous systems slow.
-
-It is to make authority travel no faster than its justification.
-
-Human tempo has been doing more governance work than we usually acknowledge.
-
-Meetings impose delay. Sleep imposes delay. Physical signatures impose delay. Working hours impose delay. Social embarrassment imposes delay. The fact that a manager can only make so many decisions before lunch imposes delay.
-
-Many of these frictions are wasteful. Automation removes them for good reason.
-
-But removing friction can expose controls that were never actually encoded.
-
-Consider a customer-support representative allowed to issue refunds up to a certain amount. The policy may have been written around the assumption that the representative handles a finite queue one case at a time. Give the same formal authority to a system capable of processing every eligible case in seconds and the policy’s practical meaning changes.
-
-Nothing about the refund limit changed.
-
-Throughput did.
-
-The grant’s birth certificate should therefore include, at least conceptually, the operating tempo the principal assumed.
-
-How quickly may consequence accumulate?
-
-How many actions can occur before observation catches up?
-
-How much state can change before another control sees it?
-
-This is not an argument for artificially slowing every agent to human speed. That would throw away much of the value.
-
-It is an argument for replacing accidental friction with deliberate bounds.
-
-If the organization relied on a human’s finite attention to limit aggregate exposure, the machine version needs an explicit aggregate control.
-
-If the organization relied on the fact that unusual actions would be noticed in a meeting, the machine version needs an event trigger.
-
-If the organization relied on the employee’s social awareness that “this looks strange,” the machine version needs some representation of what strange means for the mandate.
-
-Automation should remove inefficiency, not silently remove governance.
-
-This distinction becomes stark in queues.
-
-A machine queue can preserve instructions indefinitely unless retention rules say otherwise. Jobs can sit behind outages, retries, throttling, or dependencies. When the queue clears, work can surge into the world based on intentions formed hours or days earlier.
-
-The queue is a time machine for authority.
-
-A resilient system should not assume that a task entering the queue and a task leaving the queue inhabit the same world.
-
-High-consequence jobs deserve a mandate check when they are dequeued, not only when they are enqueued.
-
-The task may have been valid when scheduled.
-
-The user may have changed the instruction.
-
-The principal may have lost the role.
-
-The recipient may have changed.
-
-The incident may have ended.
-
-A newer task may have superseded the old one.
-
-The queue should carry enough provenance to ask whether execution still fits.
-
-This is a small architectural requirement with large consequences.
-
-Without it, reliability machinery can resurrect stale intention.
-
-The same applies to long plans.
-
-An agent may construct a ten-step plan and receive approval at the beginning. By step eight, the state has changed because the first seven steps succeeded. The environment is no longer the one the principal reviewed.
-
-The approved plan can create its own drift.
-
-This is a subtle but important form of mandate decay.
-
-Autonomous action changes the world, and the changed world can invalidate later parts of the same authorized plan.
-
-A company authorizes an agent to reduce cloud cost by decommissioning unused resources. The first removals change system load and redundancy. The later removals may no longer be equivalent to the first ones.
-
-A user authorizes a negotiation strategy. The counterparty reacts to early concessions. The final concession now occurs in a different bargaining environment from the one the user imagined.
-
-A robot moves an object, opening a path that changes the safety state for the next movement.
-
-Execution itself creates distance to the grant.
-
-This means runtime mandate evaluation cannot be limited to external events.
+That matters because approval is often treated as if it attaches to a sequence of verbs. In reality, the principal approved a projection of future states. Once execution changes those states materially, later actions may need to be evaluated against what actually happened rather than what the plan predicted.
 
 The agent’s own actions are context events.
 
-The more a plan transforms the environment, the more important checkpoints become before irreversible steps.
+This is where checkpoints earn their cost. They need not be constant and they need not always summon a human. A checkpoint can narrow authority automatically. A trading agent may retain authority to reduce exposure under abnormal conditions while losing authority to increase it. An industrial controller may stabilize equipment while refusing a new operating mode. An incident agent may roll back a known deployment while requiring fresh authority for an untested repair.
 
-This is another reason a one-time approval of an entire plan can be misleading. The principal approved a projection of future states, not the actual states that emerged.
+A mature system designs the principal’s absence into the mandate. It does not discover at the worst moment that the only available control is “ask a human” and the human is asleep.
 
-The system should identify points where the plan crosses consequence boundaries or where prior steps materially change the assumptions for later ones.
+This is also the strongest counterargument to aggressive mandate decay. Fast systems are useful precisely because they can act before a committee reconvenes. Constant reauthorization would turn delegation back into centralized supervision and make autonomy ceremonial. In some domains, the cost of waiting is itself the dominant risk.
 
-Again, this is not constant reapproval.
+The answer is not more prompts. It is better preauthorization.
 
-It is state-aware execution.
+Inside a well-described region, authority can be strong and immediate. As the system approaches a boundary the principal actually cared about—changed recipient, unusual accumulation, new tool, changed principal, irreversible commitment—the authority should narrow, degrade, or ask again. The objective is selective interruption: enough friction to stop stale power at the edges without forcing ordinary work through a human tollbooth.
 
-Machine speed also collapses the distance between detection and action.
+That suggests a different product metric. “Percent of tasks completed without human involvement” rewards silence, not judgment. A system can improve that number by making fewer escalations, including fewer correct escalations. A more serious measure would ask whether interruption occurs at material mandate boundaries, whether false interruptions are tolerable, how often consequential actions proceed after a material condition changed, and how often users broaden permissions simply to escape annoying controls.
 
-A human analyst might see a price anomaly, investigate, discuss it, and execute hours later. An autonomous trading or purchasing system can detect and act in milliseconds or seconds.
+The governance system is part of the product. If users constantly fight it, they will route around it.
 
-This creates a different burden on the authorization layer.
+Cross-organizational delegation makes the problem harder because there may be several principals at once. A travel agent can act for the user, under an employer’s travel policy, through a hotel’s cancellation rules, a payment network’s transaction requirements, a bank’s fraud controls, and legal obligations imposed on all of them. A cryptographic chain can show who delegated to whom. It cannot guarantee that all parties mean the same thing by an acceptable action.
 
-A human approval process cannot be inserted into every loop without making the loop useless.
+The action survives only where the mandates overlap.
 
-The mandate has to contain more preauthorized judgment.
+That is why “the agent has permission” is increasingly misleading language. An autonomous process operates at the intersection of several current authorities. Machine-readable policy can evaluate much of that intersection, but some conflicts remain institutional or legal rather than computational. A good system needs a degraded state for genuine ambiguity instead of treating every unresolved question as either execute or fail.
 
-This sounds like the opposite of decay, and it is not.
+Versioning adds one more source of drift. A long-running task can stay nominally unchanged while the practical actor changes underneath it. The model is upgraded. A planning algorithm changes. A new tool becomes available. Memory becomes longer. Recursive delegation is enabled. The identity string stays the same while the set of reachable consequences expands.
 
-The faster the domain, the more important it is to define the expected region in advance.
+Better capability is not automatically more dangerous. A model upgrade can reduce error. It can also make possible actions the principal never contemplated when granting authority. What matters is whether the changed capability would have altered the original decision to delegate.
 
-Within that region, authority can be strong and immediate.
+A bug fix may not. New payment capability probably does. A better summarizer may not. The ability to spawn sub-agents across external services might.
 
-Outside it, the system should have predesigned degraded behaviors that do not depend on a human answering instantly.
+This is another reason authorization cannot be reduced to actor identity. Continuity of name is not continuity of capability assumptions.
 
-A trading agent can reduce exposure automatically under abnormal conditions while losing authority to increase it. An industrial controller can stabilize equipment while refusing a new operating mode. An incident agent can roll back a known deployment while requiring fresh authority for an untested repair.
+Machine speed changes accountability after the fact too. A human can make one bad decision and investigators can often reconstruct the moment. An agent can make ten thousand related decisions under one stale assumption before anyone looks. Postmortem scale becomes part of harm.
 
-The principal’s absence is designed into the mandate rather than treated as a runtime surprise.
+The most valuable control point may therefore be the first observable change that predicts a class of stale consequences, not the catastrophic action at the end. The first changed-recipient event can narrow payment authority before a thousand transactions execute. The first evidence that a campaign purpose changed can preserve drafts while stopping sends. The first sign that a parent task ended can cancel downstream retries.
 
-This is what mature autonomy looks like at machine speed.
+Machines can industrialize stale intention. They can also industrialize its correction.
 
-Not a human hovering over a fast system.
+They can carry provenance, remember the material conditions of a grant, compare those conditions with the state at execution, narrow consequence automatically, and bring a human only the delta that genuinely deserves judgment. NIST’s current work on agent identity and authorization and the competing IETF drafts are useful precisely because they make the machinery of delegated authority more explicit. But the machinery will still need a theory of when an otherwise valid grant has ceased to fit the world.
 
-A grant that already knows what ordinary variation, abnormal conditions, safe retreat, and irreversible escalation mean.
+That is the autonomy half-life problem at machine speed.
 
-There is also a versioning problem.
-
-The task can remain the same while the agent changes underneath it.
-
-A model is upgraded. A planning algorithm changes. A new tool becomes available. A memory system begins retaining more context. The system can now accomplish the same instruction through paths that were impossible when the principal granted authority.
-
-The identity string may be unchanged.
-
-The practical actor is different.
-
-This should sometimes shorten the mandate.
-
-A principal who authorized a limited assistant may not have authorized a materially more capable system merely because the product upgraded automatically. Better capability can reduce error and simultaneously increase reach.
-
-The system should distinguish continuity of identity from continuity of capability assumptions.
-
-This is particularly important for long-running tasks. A task created under model version A may execute later under model version B. If B changes relevant behavior or consequence, the task should not inherit the old mandate without review merely because the user never reopened it.
-
-The mandate can record which actor properties were material.
-
-Not every model update matters. A bug fix may be irrelevant. A change that enables new tool use, recursive delegation, or materially different autonomy may not be.
-
-This is another example of the book’s general method: identify the changes that would have altered the original grant.
-
-Finally, machine speed changes accountability after the fact.
-
-A human can make one bad decision and investigators can often reconstruct the moment. An agent can make ten thousand related decisions under the same stale assumption before anyone looks.
-
-Postmortem scale becomes part of harm.
-
-This makes early decay triggers more valuable because they cap repetition.
-
-The first unusual changed-recipient event can narrow the mandate before a thousand transactions execute. The first evidence that a campaign purpose changed can stop later messages while preserving drafts. The first sign that a parent task ended can prevent downstream retries.
-
-The right control point is often not the catastrophic action.
-
-It is the earliest observable change that predicts a class of stale consequences.
-
-That is why agents force us to think about autonomy half-life now.
-
-Humans have always acted under stale instructions.
-
-Machines can industrialize the mistake.
-
-They can also industrialize the correction.
-
-They can remember the grant, watch the material conditions, compare state at execution, narrow consequence automatically, and bring a human only the delta that genuinely deserves judgment.
-
-Machine speed is not the enemy of responsible autonomy.
-
-Unexamined inheritance is.
-
-If we replace hidden human friction with explicit mandate boundaries, the machine can move faster than the human without outrunning the human’s authority.
+The next question is where to spend the freshness budget. An unsent draft, a reversible reservation, a signed contract, and a transferred payment should not demand the same mandate age. The harder an action is to unwind, the less stale authority it can safely tolerate.

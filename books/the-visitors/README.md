@@ -1,4 +1,4 @@
-# The Visitors
+# Visitors
 
 <!-- bookself-reader-links:start -->
 **Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/the-visitors/)
@@ -12,7 +12,7 @@
 | **Status** | Complete first draft |
 | **Chapters** | 26 of 26 drafted |
 
-American history is usually narrated from the inside out. Presidents decide, Congress votes, generals fight, judges rule, movements organize, industries rise, and the rest of the world appears when it collides with the United States. *The Visitors* reverses the lens. For every decade from the 1770s through the 2020s, it chooses one foreign dignitary whose encounter with America exposed a pressure the country could no longer avoid: recognition, borders, neutrality, expansion, race, immigration, alliance, war, technology, superpower rivalry, democratic legitimacy, or the meaning of the republic itself.
+American history is usually narrated from the inside out. Presidents decide, Congress votes, generals fight, judges rule, movements organize, industries rise, and the rest of the world appears when it collides with the United States. *Visitors* reverses the lens. For every decade from the 1770s through the 2020s, it chooses one foreign dignitary whose encounter with America exposed a pressure the country could no longer avoid: recognition, borders, neutrality, expansion, race, immigration, alliance, war, technology, superpower rivalry, democratic legitimacy, or the meaning of the republic itself.
 
 “Most important” is an argument, not a measurement. The winners are not necessarily the most famous, admirable, powerful, or warmly received visitors. They are the people whose presence in the United States—or whose diplomatic work with it—most sharply altered an American decision, institution, relationship, or self-understanding in that decade. Each selection is tested against plausible alternatives in the research trail.
 

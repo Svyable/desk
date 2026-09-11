@@ -1,431 +1,125 @@
 # Interest: The Bill for Yesterday
 
-On August 5, 2026, the United States Treasury announced that it would sell $125 billion of notes and bonds.
+On August 5, 2026, the United States Treasury announced that it would sell $125 billion of notes and bonds. About $96.3 billion of privately held Treasury securities were maturing ten days later. The new issue would refinance them and raise roughly $28.7 billion of additional cash.
 
-Most of the money was not for a new aircraft carrier, a new retirement benefit, a highway, a tax rebate, or a disaster.
+That is what the national debt looks like from inside the machine. Not one enormous loan. Not one interest rate. Not one due date. A portfolio is constantly maturing, being replaced, and enlarged as the government refinances old obligations and covers new deficits.
 
-About $96.3 billion of privately held Treasury notes and bonds were maturing on August 15.
+The public argument often skips this plumbing. We talk about “the debt” as though Washington signed one promissory note for tens of trillions of dollars and now watches a single meter run. Treasury actually manages bills that mature in weeks or months, notes that run for years, bonds that run for decades, inflation-protected securities, and floating-rate notes. New securities are auctioned continually while old ones mature continually.
 
-The government was refinancing them.
+The government does not wake up one morning and refinance the national debt. It refinances part of it all the time.
 
-The auction would also raise roughly $28.7 billion of new cash.
+That fact creates one of the most important lags in fiscal policy. When market rates rise, the budget does not immediately pay the new rate on every dollar already borrowed. Existing fixed-rate debt keeps its old coupon until it matures. Higher rates work their way into the government's average interest cost as old securities roll over and new deficits are financed. When rates fall, the relief also arrives gradually.
 
-This is what a mature debt system looks like from the inside.
+Debt therefore carries a memory of earlier interest rates.
 
-Old borrowing matures.
+For years, that memory was unusually forgiving. The United States could add debt while much of the portfolio still carried low coupons. The stock of obligations grew faster than the carrying cost, which made the fiscal position look more comfortable than it would have at higher rates. Then the old securities began to mature into a more expensive rate environment.
 
-New borrowing replaces it.
+Yesterday's principal met today's price of money.
 
-Additional borrowing finances the gap between current receipts and current outlays.
+CBO's February 2026 baseline projected net federal interest outlays above $1 trillion in fiscal year 2026, about 3.3 percent of GDP. By 2036, under the laws and assumptions in that baseline, CBO projected about $2.1 trillion of net interest, or 4.6 percent of GDP. At that point, interest would nearly equal all federal discretionary spending.
 
-The public conversation tends to picture federal debt as one enormous loan sitting somewhere in Washington with a single interest rate and a single due date.
+The comparison is dramatic enough to invite a bad conclusion. Interest is not a government program in the ordinary sense. It does not vaccinate anyone, build a road, staff a courtroom, buy a missile, or send a Social Security check. It is the contractual cost of financing decisions made earlier.
 
-There is no such instrument.
+That is what makes it revealing.
 
-The debt is a population.
+A tax cut has a constituency. A military program has a mission. A benefit has recipients. Emergency spending has a crisis attached to it. Years later, Treasury services debt created by all of them on the same line of the budget. The bondholder does not receive an explanation of which earlier vote created the obligation.
 
-Treasury bills mature in weeks or months. Notes mature in years. Bonds can run for decades. Inflation-protected securities have their own structure. Floating-rate notes reset. New securities are issued continually while old ones mature continually. Investors buy and sell them in one of the deepest financial markets in the world.
+The debt forgets the story. The interest bill does not forget the arithmetic.
 
-The government therefore does not wake up one morning and refinance the national debt.
+This chapter sits naturally after the previous one because defense commitments and entitlement commitments have long tails even before financing enters the picture. Borrowing adds another tail. Once a recurring policy is debt-financed, part of tomorrow's budget is occupied not by tomorrow's preferences but by yesterday's financing choice.
 
-It refinances part of it every day.
+That does not make borrowing wrong. It makes timing part of the price.
 
-That detail explains one of the most important lags in public finance.
+The distinction matters because federal debt attracts two bad analogies from opposite directions. One treats the United States like a household that will eventually max out a national credit card. The other notices that the federal government issues debt in its own currency and concludes that the financing constraint is mostly theatrical.
 
-When interest rates rise, the full cost does not hit the federal budget immediately.
+The United States is not a household. A household cannot levy taxes, issue the currency in which its debt is denominated, operate a central bank, supply the world's benchmark safe asset, or expect its nominal income to rise with national productivity and inflation. Those differences give the federal government vastly more borrowing capacity than any family.
 
-Existing fixed-rate debt keeps its existing coupon until it matures. As securities roll over and new deficits are financed, higher prevailing rates work their way into the government's average interest cost.
+They do not give it free purchasing power.
 
-The reverse is also true.
+A government can create nominal claims more easily than a household can. It cannot manufacture doctors, transformers, skilled labor, concrete, semiconductors, ships, land, time, or political consent by accounting entry. If public demand tries to command more real resources than the economy can supply, the adjustment appears somewhere: taxes, inflation, interest rates, reduced private consumption or investment, exchange rates, slower growth, political conflict, or some mixture.
 
-When market rates fall, the government does not instantly refinance every outstanding security at the lower rate. Savings arrive gradually as the portfolio turns over.
+Which channel matters most depends on circumstances. That is why debt has no universal danger number.
 
-The debt remembers interest rates.
+A debt ratio that is manageable in one environment can be much harder to carry in another. Growth matters. Inflation matters. The maturity structure matters. Investor demand matters. Monetary policy matters. The currency matters. Institutions matter. What the borrowing financed matters.
 
-It remembers them for years.
+Economists often compress part of this into the relationship between the government's effective interest rate and the growth rate of the economy. If nominal GDP grows faster than the average interest rate on outstanding debt, old debt can shrink relative to the economy even without being paid down in nominal dollars. If the interest rate persistently exceeds growth, stabilizing the debt ratio generally requires a stronger primary balance.
 
-This is why fiscal policy can appear cheaper than it really is during long periods of low rates.
+That relationship is useful precisely because it denies both easy stories. Debt is not automatically fatal, and growth is not a loophole. A government cannot decree that growth will permanently outrun its financing cost. Rates and growth respond to inflation, monetary policy, productivity, demographics, global saving, fiscal expectations, investment, and the policies being financed.
 
-A government can add debt while the interest bill rises slowly. The stock of obligations grows faster than the carrying cost. The political system learns a dangerous lesson: perhaps the debt is large but the payment is manageable.
+Borrowing for an investment that raises future productive capacity can improve the future denominator as well as increase the numerator. Borrowing in a recession can prevent temporary damage from becoming permanent. Borrowing for a war or disaster can be the least bad way to spread an extraordinary cost across time.
 
-Then rates change.
+A permanent structural gap is different. If recurring spending and recurring revenue do not meet, the government is not merely smoothing a shock. It is making refinancing part of the operating model.
 
-The debt does not need to become larger overnight for the payment to become more demanding. The old low-rate securities simply begin reaching maturity.
+Treasury's job is to make that model function without turning every auction into a political event. It decides how much to issue at different maturities while trying to preserve a regular, predictable market. Short-term debt can be cheaper at one moment but exposes the government to faster repricing. Long-term debt can lock in rates but may require investors to be paid more for duration.
 
-Yesterday's principal meets today's price of money.
+There is no free maturity structure. Shorten the portfolio and the budget becomes more sensitive to current rates. Lengthen it and taxpayers may pay something like an insurance premium against future rate increases.
 
-CBO projected net federal interest outlays above $1 trillion in fiscal year 2026, about 3.3 percent of GDP. Under its February 2026 baseline, those outlays would reach about $2.1 trillion in 2036, or 4.6 percent of GDP.
+The August 2026 refunding announcement makes this concrete. Treasury was not “borrowing $125 billion” in the ordinary sense of acquiring $125 billion of entirely new purchasing power. Most of the issue replaced maturing privately held notes and bonds. The $28.7 billion of new cash was the incremental part of that transaction.
 
-By then, interest would nearly equal all federal discretionary spending in CBO's projection.
+Two days earlier, Treasury had estimated $739 billion of privately held net marketable borrowing for the July-through-September quarter and $628 billion for October through December, both conditional on stated cash-balance assumptions and actual federal cash flows.
 
-That comparison is startling enough that it is easy to misuse.
+That scale can sound like evidence of crisis. It is not, by itself. A large sovereign debt market necessarily contains large gross refinancing flows. A government with trillions of dollars of outstanding securities will constantly issue large amounts simply to replace maturities.
 
-Interest is not a government program in the ordinary sense.
+But smooth refinancing can hide a different signal.
 
-It does not teach a child, patrol a border, build a bridge, provide medical care, or purchase a missile.
+A crisis announces itself. A successful auction is quiet.
 
-It pays the agreed return on money the government previously borrowed.
+As long as Treasury securities continue to clear the market, elected officials can be tempted to treat demand as approval of the fiscal path. That reads too much politics into a bond price. Investors buy Treasuries for many reasons: liquidity, collateral, reserve management, regulation, portfolio duration, hedging, perceived safety, and the scarcity of alternatives with comparable market depth. A pension fund can want a thirty-year Treasury without endorsing the legislation that created the deficit behind it.
 
-The service being purchased happened earlier.
+A bond auction is not a referendum.
 
-The payment is happening now.
+Low yields do not prove that debt is harmless. High yields do not prove that the United States is insolvent. Rates reflect expected inflation, monetary policy, growth, term premiums, global capital flows, regulation, risk, and supply as well as fiscal conditions. Markets are informative, but they are not a moral or fiscal oracle.
 
-That is why interest is the purest chapter in a book about price distance.
+The same restraint is useful with “crowding out.” Government borrowing can raise the cost of capital and displace private investment, especially when the economy is near capacity. In a weak economy with idle resources, public borrowing can support output instead. If borrowing finances infrastructure that raises private returns, it may increase private investment around it. Global capital and monetary policy complicate the mechanism further.
 
-When Congress cuts taxes without cutting spending, the immediate political event is a tax reduction.
+The stronger claim is narrower: debt service places a prior claim on future national income even when the macroeconomic path is messy.
 
-When Congress increases spending without increasing revenue, the immediate political event is a benefit, program, emergency response, or public investment.
+That claim compounds.
 
-When recession reduces tax receipts and increases automatic stabilizer spending, the immediate event is economic weakness.
+Suppose Congress adopts a permanent policy that increases the primary deficit by $100 billion a year. The first year's direct effect is about $100 billion. The second year includes another $100 billion plus interest associated with financing the first shortfall. The financing tail grows with the accumulated debt.
 
-When a war is financed partly through borrowing, the immediate event is national defense.
+This is why budget estimates include debt-service effects. A tax cut does not cost only the revenue it directly reduces. A spending increase does not cost only the checks the program writes. When either is financed with borrowing, both change future interest costs too.
 
-Years later, the Treasury pays interest on all of them using the same line of the budget.
+The analogy to buying on installments is imperfect but useful in one respect: the finance charge belongs in the price.
 
-The bondholder does not receive a note explaining what the borrowed dollar originally financed.
+Unlike a household, the federal government does not need to amortize its debt on a fixed schedule. It can refinance for generations. Its tax base and economy can grow. Future citizens may inherit assets and institutions alongside the liability. Those differences matter.
 
-The debt has forgotten the story.
+They do not make the financing charge disappear.
 
-The interest has not forgotten the arithmetic.
+Inflation illustrates the point. Unexpected inflation can reduce the real burden of existing fixed-rate nominal debt. Nominal GDP rises, tax receipts often rise, and old obligations are repaid in dollars worth less than creditors expected.
 
-This makes interest politically strange.
+That is not a costless escape. Investors learn. Expected inflation is priced into new borrowing. Shorter-maturity debt reprices faster. Inflation redistributes wealth, distorts contracts, can damage credibility, and may provoke tighter monetary policy that raises the government's financing cost on newly issued debt.
 
-Every other major spending category can produce a beneficiary able to defend the program's purpose.
+A one-time surprise can lighten old debt. A reputation for using inflation as fiscal strategy changes the terms of the next auction.
 
-Interest produces a creditor.
+Financial repression has a similar structure. Regulations or policies can push savers and financial institutions toward government debt or suppress borrowing costs relative to a freer market. The cost is shifted into savers, financial intermediaries, currency holders, or distorted capital allocation. The claim on resources is redistributed rather than abolished.
 
-The creditor may be a pension fund, mutual fund, bank, insurance company, household, foreign central bank, sovereign investor, money-market fund, corporation, or financial institution using Treasuries as collateral or liquidity.
+None of this means the existence of an interest bill proves the original borrowing was a mistake. Some of the most defensible borrowing in American history produced enormous debt-service costs. Wars did. Financial crises did. The pandemic did. Severe recessions did. Refusing to borrow during an emergency can destroy productive capacity, social stability, or national survival in the name of keeping a cleaner balance sheet.
 
-The money is not fired into space.
+The more interesting concept is fiscal optionality.
 
-Interest payments become income to somebody.
+Low debt-service costs give a government more room to respond when the world changes. High debt-service costs do not make response impossible, especially for the United States, but they raise the starting price. A new crisis arrives and finds more of the future revenue stream already spoken for.
 
-That fact sometimes leads to the argument that interest is harmless because the government is simply paying bondholders, many of whom are Americans.
+Interest therefore differs from most spending because it has contractual seniority. Congress can change a program, cancel a procurement, rewrite a tax credit, or alter a benefit formula subject to law and politics. It cannot decide during an ordinary budget negotiation to pay Treasury holders seventy cents on the dollar without turning fiscal policy into default.
 
-The transfer is real.
+Debt converts some portion of earlier policy into a claim held outside the government.
 
-So is the budget constraint.
+That is where flexibility is lost.
 
-A dollar used to pay interest cannot simultaneously be used for another federal purpose unless the government taxes another dollar or borrows another dollar.
+The policy implication should be more demanding than “borrow less.” A government should borrow when the reason for shifting cost through time is strong enough to justify reducing future room to maneuver. Emergencies can meet that test. Investments with durable future benefits can meet it. Macroeconomic stabilization can meet it. Some intergenerational projects can meet it because future taxpayers also inherit part of the benefit.
 
-The distributional question—who receives the interest—is different from the fiscal question—what claim has already been placed on future revenue.
+Recurring structural gaps deserve a harder question. If current voters want a recurring service, tax level, military posture, or benefit, why should the financing horizon be much longer than the policy horizon?
 
-This distinction matters because sovereign debt arguments often swing between panic and complacency.
+That question will not produce one ideologically convenient answer. Raising taxes can be economically damaging if done badly. Cutting spending can damage valuable public functions. Growth can improve the arithmetic but cannot be ordered into existence. Inflation can reduce one burden while creating another. The point is not to discover a painless lever.
 
-The panic says a government is like a household and will eventually max out the national credit card.
+It is to stop treating the finance charge as somebody else's chapter.
 
-The complacency says a government that issues debt in its own currency never needs to care about the bill.
+The preceding chapter showed how commitments can become difficult to reverse once institutions, beneficiaries, and industrial systems form around them. Interest adds another layer of irreversibility. Even if the policy is later changed, debt issued to finance its earlier years can remain in the portfolio, waiting to mature into whatever rate environment the future happens to provide.
 
-The United States is not a household.
+That is why the August refunding announcement is a better image of the spending problem than a cartoon national credit card.
 
-It is also not exempt from resource constraints.
+Nothing dramatic happened. No debt ceiling clock exploded. No lender arrived at the door. Treasury sold securities, refinanced maturities, raised some new cash, and moved on to the next auction.
 
-A household cannot issue the currency in which its debts are denominated. It cannot levy taxes. It cannot require banks to hold assets denominated in its liabilities. It cannot supply the world's benchmark safe asset. It cannot operate a central bank. It cannot expect its income to grow with national productivity and inflation.
+The system worked.
 
-These differences enormously expand federal borrowing capacity relative to a household.
-
-They do not create free purchasing power.
-
-If the government tries to command more real resources than the economy can provide, the adjustment has to appear somewhere: higher taxes, lower private consumption or investment, inflation, interest rates, exchange rates, financial repression, slower growth, political conflict, or some mixture.
-
-The exact channel depends on circumstances.
-
-That uncertainty is why debt has no single magic danger number.
-
-Debt at 100 percent of GDP can be easy to carry in one environment and far harder in another.
-
-Interest rates matter.
-
-Growth matters.
-
-Inflation matters.
-
-The maturity structure matters.
-
-Investor demand matters.
-
-The currency matters.
-
-The credibility of the political and monetary institutions matters.
-
-What the borrowing financed matters.
-
-A country with high debt and strong productive growth can experience a falling debt burden relative to income.
-
-A country with lower debt and weak institutions can face a financing crisis much sooner.
-
-The useful variable is not debt in isolation.
-
-It is the relationship between the debt, the economy, and the rate at which the debt must be carried.
-
-Economists often compress part of this relationship into the comparison between the government's effective interest rate and the growth rate of the economy.
-
-If nominal GDP grows faster than the average interest rate on the debt, existing debt can shrink relative to the economy even without paying down the principal in nominal dollars.
-
-If the interest rate persistently exceeds growth, stabilizing the debt ratio generally requires a stronger primary budget balance.
-
-The concept is powerful.
-
-It is not a loophole.
-
-A government cannot simply decree that growth will exceed interest forever.
-
-Interest rates respond to inflation expectations, monetary policy, term premiums, global demand, fiscal expectations, risk, and the supply of safe assets. Growth responds to productivity, labor supply, capital formation, demographics, institutions, technology, and shocks.
-
-The two variables are partly connected to the very policies the government is trying to finance.
-
-Borrowing for productive infrastructure may increase future capacity.
-
-Borrowing to preserve an inefficient subsidy may not.
-
-Borrowing during a recession can prevent a temporary collapse from destroying firms, jobs, and tax capacity.
-
-Borrowing during a fully employed expansion to avoid choosing between taxes and recurring spending can create a different tradeoff.
-
-The debt number does not tell you which story occurred.
-
-The interest bill tells you the stories have accumulated.
-
-Treasury debt management tries to make this accumulation safer.
-
-The government chooses how much to issue at different maturities. Short-term bills may be cheaper at one moment but expose the government to faster refinancing. Longer-term debt can lock in rates for more time but may cost more because investors demand compensation for committing money for longer periods.
-
-There is no free maturity structure.
-
-Shorten the debt and the budget becomes more sensitive to current rates.
-
-Lengthen the debt and taxpayers may pay an insurance premium for protection against future rate increases.
-
-The Treasury therefore manages a portfolio under uncertainty while also serving a financial market that depends on regular, predictable issuance.
-
-This is not the same as a corporation timing the market for maximum advantage.
-
-The Treasury is the market's benchmark issuer.
-
-Predictability itself has value.
-
-In August 2026, Treasury expected to borrow $739 billion in privately held net marketable debt during the July-through-September quarter and another $628 billion in the October-through-December quarter, subject to its cash-balance assumptions and actual federal cash flows.
-
-Those numbers included new financing needs, not merely refinancing of maturing securities.
-
-They show the machine at operating scale.
-
-The United States does not borrow once a year after Congress announces the deficit.
-
-Treasury continuously converts the government's cash needs into securities that investors are willing to hold.
-
-The smoothness of that process may be one of the country's most valuable institutional assets.
-
-It can also hide the fiscal signal.
-
-A crisis would be obvious.
-
-A successful auction is quiet.
-
-As long as investors continue to buy, the political system can tell itself that the market has approved the fiscal path.
-
-That inference is too strong.
-
-Investors buy Treasuries for many reasons.
-
-They may believe the United States will ultimately tax or adjust spending.
-
-They may value liquidity more than they worry about long-run debt.
-
-They may need safe collateral.
-
-They may be hedging other risks.
-
-They may have few substitutes of comparable depth.
-
-A foreign central bank may hold Treasuries as reserves even while disliking U.S. fiscal policy.
-
-A pension fund may need duration.
-
-A bank may need liquidity.
-
-Demand for the security does not imply endorsement of every policy that created the security.
-
-A bond price is not a referendum.
-
-This is another place where fiscal debate borrows too much certainty from markets.
-
-Low yields do not prove that debt is harmless.
-
-High yields do not prove that the government is insolvent.
-
-Rates contain expectations about monetary policy, inflation, growth, risk, regulation, global saving, and asset demand in addition to fiscal conditions.
-
-The signal has to be interpreted rather than worshiped.
-
-The same caution applies to the phrase crowding out.
-
-Government borrowing can compete with private borrowing for savings and raise the cost of capital, especially when the economy is near capacity and the central bank is not offsetting the effect.
-
-But the relationship is not mechanical.
-
-In a recession with weak private demand, public borrowing can support output rather than crowd it out. If the borrowing finances infrastructure that raises private returns, it can crowd private investment in. Global capital flows matter. Monetary policy matters. Expectations matter.
-
-The useful point is narrower.
-
-Debt service is a claim on future national income even when the macroeconomic path to that claim is complicated.
-
-Interest makes that claim visible.
-
-It also compounds policy choices.
-
-Suppose Congress enacts a permanent policy that widens primary deficits by $100 billion a year.
-
-The first year's budget effect is roughly the $100 billion.
-
-The second year includes another $100 billion plus interest on the debt issued to cover the first shortfall.
-
-Over time, the policy creates its own financing tail.
-
-That tail is why ten-year budget estimates often include debt-service effects.
-
-A tax cut does not cost only the revenue it directly reduces.
-
-A spending increase does not cost only the checks the program writes.
-
-If financed with debt, both also alter future interest.
-
-This is the fiscal version of buying on installments and forgetting to include finance charges when comparing prices.
-
-The analogy has limits.
-
-The federal government can roll debt for generations. It does not need to amortize like a car loan. Its economy and tax base grow. Some debt supports assets and institutions that future citizens inherit.
-
-Still, the financing charge is real.
-
-The public debate routinely evaluates policies at the sticker price and treats the interest as somebody else's chapter.
-
-Eventually it becomes this chapter.
-
-Inflation offers an apparent escape.
-
-If prices rise unexpectedly, fixed nominal debt becomes easier to repay in real terms. Nominal GDP rises. Tax receipts often rise. The real burden of outstanding fixed-rate liabilities can fall.
-
-Governments throughout history have discovered this arithmetic.
-
-The United States cannot use it costlessly.
-
-Bond investors demand compensation for expected inflation. New borrowing becomes more expensive. Shorter-maturity debt reprices faster. Inflation redistributes wealth arbitrarily, distorts contracts, creates political backlash, and can force tighter monetary policy that raises interest expense on newly issued debt.
-
-A one-time surprise may reduce the real value of old debt.
-
-A reputation for using inflation as fiscal policy changes the price of new debt.
-
-The escape closes behind you.
-
-Financial repression offers another historical path: regulations, capital controls, directed holdings, or policies that keep government borrowing costs below what a freer market might demand.
-
-That too has a price.
-
-The cost is shifted into savers, financial institutions, currency holders, or capital allocation rather than eliminated.
-
-There is no method for making a real claim on future resources disappear by changing the accounting label.
-
-This is why interest belongs inside the spending problem rather than outside it.
-
-Interest is not evidence that past borrowing was wrong.
-
-Some of the most justified federal borrowing in American history produced interest bills.
-
-The Civil War did.
-
-World wars did.
-
-The Great Depression and its aftermath did.
-
-Financial crises did.
-
-The pandemic did.
-
-A country that refuses to borrow in emergencies in order to keep interest expense aesthetically pleasing may destroy more fiscal capacity than it preserves.
-
-The problem is routine borrowing that consumes emergency capacity without an emergency.
-
-Fiscal space is difficult to see because it is an option rather than an object.
-
-A low debt-service burden lets a government respond aggressively when the world changes.
-
-A high debt-service burden does not make response impossible, especially for the United States, but it raises the starting cost and the political stakes.
-
-The option becomes more expensive.
-
-That is the real meaning of yesterday acquiring a vote.
-
-The interest line arrives at the budget meeting before the new proposal does.
-
-It does not care whether lawmakers now prefer climate adaptation, defense, tax relief, child benefits, research, infrastructure, or deficit reduction.
-
-It has seniority because the contract already exists.
-
-No congressional committee can decide to save money by paying bondholders seventy cents on the dollar without turning ordinary fiscal policy into default.
-
-The government can renegotiate programs.
-
-It cannot casually renegotiate Treasury securities.
-
-This gives interest a discipline other spending lacks.
-
-The political system can promise a future benefit and later change the promise.
-
-It can authorize a procurement program and later cancel it.
-
-It can create a tax credit and later repeal it.
-
-Debt converts some portion of those earlier choices into a contract held outside the government.
-
-That conversion is the moment flexibility disappears.
-
-The practical answer is not to stop issuing debt.
-
-It is to reserve debt for purposes strong enough to justify giving up future flexibility.
-
-That includes emergencies.
-
-It can include investments whose returns arrive over time.
-
-It can include macroeconomic stabilization.
-
-It may include deliberate intergenerational sharing when future citizens genuinely receive part of the benefit.
-
-But recurring structural gaps deserve a higher burden of proof than they usually receive.
-
-If current voters want a recurring service, benefit, tax level, or military posture, the financing should gradually move toward the same time horizon.
-
-Otherwise the country is not choosing a policy.
-
-It is choosing the policy and sending the finance charge to somebody who has not voted yet.
-
-The cleanest fiscal reform would therefore be cultural before it is technical.
-
-Every major proposal should be asked a second question after its direct cost is estimated.
-
-What happens when the financing compounds?
-
-The answer will never be exact.
-
-Rates will change.
-
-Growth will change.
-
-The policy itself may change.
-
-But refusing to estimate the tail because the tail is uncertain is just another way of making the price disappear.
-
-Interest is the price of fiscal time.
-
-It can be cheap.
-
-It can be worth paying.
-
-It can finance survival, investment, and stability.
-
-It can also become the largest program nobody remembers voting for.
-
-That is the bill for yesterday.
-
-It is paid by tomorrow's budget before tomorrow gets to choose what it wants.
+And because it worked, yesterday's choices quietly acquired another claim on tomorrow.

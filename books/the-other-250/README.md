@@ -1,4 +1,4 @@
-# The Other 250
+# America’s Other 250
 
 *Twenty-Six Overlooked Events That Made America*
 
@@ -18,7 +18,7 @@
 | **Factual horizon** | Chapter 26 current through September 6, 2026 |
 | **Release Review** | [Release-cleared subject to final mechanical/integrity gates](research/release-gate-closeout-2026-09-07.md) |
 
-*The Other 250* tells the first 250 years of the United States through one under-appreciated hinge event in every calendar decade from the 1770s through the 2020s. It is deliberately not a ranking of the biggest events. The familiar peaks remain where they belong: the Revolution, the Civil War, emancipation, industrialization, depression, world wars, civil rights, the Cold War, September 11. This book looks under those peaks for the quieter choices, institutions, accidents, systems, bargains, inventions, laws, and public works that changed what America could become next.
+*America’s Other 250* tells the first 250 years of the United States through one under-appreciated hinge event in every calendar decade from the 1770s through the 2020s. It is deliberately not a ranking of the biggest events. The familiar peaks remain where they belong: the Revolution, the Civil War, emancipation, industrialization, depression, world wars, civil rights, the Cold War, September 11. This book looks under those peaks for the quieter choices, institutions, accidents, systems, bargains, inventions, laws, and public works that changed what America could become next.
 
 Each chapter starts with the event on its own terms, before hindsight has made the consequences obvious. The test is not whether the event was obscure. Some were famous in their moment. The test is whether its downstream importance is now smaller in the national memory than its actual reach warrants.
 

@@ -1,8 +1,8 @@
-# Rights & permissions — The Waiting List
+# Rights & permissions — Waiting List
 
 © 2026 Sven Hardy Benson. All Rights Reserved.
 
-**Work:** *The Waiting List*  
+**Work:** *Waiting List*  
 **Author and copyright owner:** Sven Hardy Benson  
 **Rights profile:** `bookself-arr-v1`
 

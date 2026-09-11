@@ -1,67 +1,73 @@
 # Losing an Hour, Gaining a Heart Attack
 
-At 2:00 on a Sunday morning, a government can make an hour disappear.
+At 2:00 on a Sunday morning, the government can move dawn without moving the sun.
 
-No hospital closes. No truck stops moving. No newborn agrees to postpone a feeding. The clocks jump from 1:59 to 3:00, and by Monday the rest of the schedule is expected to behave as though nothing happened.
+The clocks jump from 1:59 to 3:00. Hospitals keep admitting patients. Freight keeps moving. Babies keep feeding. By Monday, schools, payroll systems, court calendars, medication schedules, airport slots, and standing meetings all behave as though the new number is simply the time.
 
-Daylight saving time is easy to treat as clerical housekeeping because the machinery is so small. Phones update themselves. Microwave clocks blink. People complain, then get on with the week. But the spring change is also a useful natural experiment: millions of people are asked to move social time in the same direction on the same night while the biological clock changes at its own pace.
+Biology is less obedient.
 
-In 2008, Imre Janszky and Rickard Ljung examined Swedish myocardial-infarction records around the spring and autumn clock changes. Their short *New England Journal of Medicine* correspondence reported an increase after the spring transition and a different pattern after the autumn change. It was a registry analysis, not a randomized trial, and it did not establish that moving a clock hand caused any particular heart attack.
+The spring change is useful because it separates two things civilization usually bundles together: the clock as a coordination device and the clock as a rough proxy for the light-dark cycle. Move the first by statute and the second stays where the Earth put it. For several days, millions of people have to close the difference themselves.
 
-That modest result acquired a much louder public life. “Spring forward” became “heart-attack Monday,” a perfect headline because it joined a familiar annoyance to a frightening outcome and a mechanism that sounded obvious: one hour less sleep, more physiological stress, more cardiac events.
+In 2008, Imre Janszky and Rickard Ljung looked at Swedish myocardial-infarction records around the spring and autumn transitions. Their short correspondence in the *New England Journal of Medicine* reported an increase after the spring change and a different pattern after the autumn change. It was an observational registry analysis, not a randomized experiment, and it could not show that a missing hour caused any particular heart attack.
 
-The later evidence is less theatrical. A 2024 systematic review and meta-analysis of twelve studies from ten countries estimated a pooled relative risk of 1.04 for acute myocardial infarction after the spring transition, with moderate heterogeneity among studies. The autumn estimate was close to null. A separate U.S. analysis of more than 36 million adults found small day-to-day fluctuations around the clock changes but concluded that the aggregate cardiovascular effect was unlikely to be clinically meaningful.
+The finding had a much larger public life than the paper. “Spring forward” became “heart-attack Monday,” which is the sort of headline that can survive long after the underlying estimate has been qualified.
 
-Those findings do not cancel one another. They narrow the claim. There may be a small spring increase in myocardial-infarction risk, but the size is uncertain, the studies do not agree perfectly, and the best large-scale evidence does not support treating the annual clock change as a major cardiovascular event in its own right.
+The later literature is less dramatic and more useful. A 2024 systematic review and meta-analysis pooled twelve studies from ten countries and estimated a relative risk of 1.04 for acute myocardial infarction after the spring transition. The studies were heterogeneous. The autumn estimate sat close to null. A separate U.S. analysis covering more than 36 million adults found small fluctuations around the clock changes but concluded that the aggregate cardiovascular effect was unlikely to be clinically important.
 
-That matters because this chapter is not really about proving that one missing hour kills people. It is about what happens when civil time and biological time are treated as if they were the same thing.
+That is not a contradiction so much as a scale correction. A small spring effect may exist. Its magnitude is uncertain. The evidence does not support treating one annual clock change as a major cardiovascular catastrophe.
 
-The spring transition changes several things at once. For many people, sleep is shortened. Required wake time arrives earlier relative to the body’s recent schedule. Morning light appears at a different clock hour. Work, school, medication, meals, commuting, childcare, and exercise continue according to the new label on the clock. Most people adapt quickly. Some barely notice. Others arrive at the transition already short on sleep, working nights, caring for an infant, waking before dawn, or carrying a sleep disorder. A uniform rule lands on unequal reserves.
+That correction improves the case rather than weakening it, because the interesting policy problem was never that one missing hour kills large numbers of people. It is that a uniform administrative change lands on bodies with different reserves.
 
-That is a recurring institutional mistake in this book: administrative sameness is not biological sameness.
+For someone who is well rested, works days, has no long commute, and can sleep slightly later on Sunday, the transition may be little more than an annoyance. For someone already working nights, caring for an infant, waking before dawn, managing insomnia, or carrying accumulated sleep debt, the same legal hour arrives on a thinner margin. The rule is identical. The biological cost is not.
 
-But the evidence about the transition answers only one part of the policy question. It can tell us something about the cost of switching. It does not, by itself, tell us which clock should become permanent.
+The spring change also alters more than sleep duration. Required wake time moves earlier relative to the body's recent schedule. Morning light arrives at a different clock hour. Meals, school, medication, commuting, exercise, childcare, and work continue on the new civil schedule. Most people adapt. Some barely notice. But adaptation is not instantaneous merely because the phone updated itself.
 
-That distinction is easy to lose because “end the clock change” sounds like one proposal. It is at least two. A country can stop switching and remain on standard time, or stop switching and remain on daylight saving time. Those choices distribute light differently across the social day.
+The transition question is therefore one question. The permanent-clock question is another.
 
-Daylight saving time does not create daylight. It moves the clock labels attached to it. Evening light is genuinely useful to many people. It can make after-work exercise, errands, outdoor recreation, retail, dining, and family time easier. Morning light has a different value. It is an important cue for circadian timing, and in winter it determines how much of the population must begin work or school before sunrise.
+Those two are routinely collapsed because “stop changing the clocks” sounds like a complete policy. It is not. A country can stop switching and stay on standard time, or stop switching and stay on daylight saving time. Both eliminate the twice-yearly transition. They do not allocate winter light the same way.
 
-The benefits therefore do not line up neatly into science on one side and frivolity on the other. A sleep researcher can reasonably care about morning light while a parent reasonably cares about an extra bright hour after school. A restaurant owner and a teenager may experience the same sunset as different infrastructure.
+Daylight saving time does not create daylight. It relabels it.
 
-The United States has already learned how quickly that allocation can become visible.
+That relabeling has real advantages. Later evening light can make recreation, errands, retail, dining, commuting, and family time easier. It can be genuinely pleasant to leave work while the sky is still bright. But the same hour moved into the evening is removed from the morning. In winter, that can put more schoolchildren, commuters, shift workers, and early-start employees into darkness at the beginning of the social day.
 
-Congress imposed year-round daylight saving time beginning January 6, 1974, during the energy crisis. The objective was not to conduct a sleep experiment. It was to conserve energy by shifting usable daylight later in the day.
+This is why the argument is not science versus preference. Morning light has particular importance for circadian timing. Evening light has social and economic value. A parent, a restaurant owner, a teenager, a school district, a sleep researcher, and a transit agency can all look at the same sunset and be describing different infrastructure.
 
-Then winter morning arrived under a summer clock.
+The United States has already run a rough political experiment in what happens when that allocation becomes visible.
 
-In northern parts of the country, children waited for school buses in darkness and commuters began their day well before sunrise. Public support deteriorated, and Congress shortened the experiment before its intended end. The episode is often remembered as proof that permanent daylight saving time was tried and failed. That is too neat. It occurred during an oil crisis, under the transportation and energy patterns of the 1970s, with school and work schedules built around the old clock. It is evidence about political and social tolerance, not a controlled forecast of what Americans would choose fifty years later.
+Congress imposed year-round daylight saving time beginning in January 1974 during the energy crisis. The goal was not to test sleep biology. It was to conserve energy by shifting usable daylight later in the day.
 
-It does establish something more durable: abolishing seasonal clock changes does not abolish the tradeoff over where daylight falls.
+Then winter arrived.
 
-The federal law still reflects that distinction. States may opt out of daylight saving time and remain on standard time; Hawaii and most of Arizona do. They cannot simply choose permanent daylight saving time on their own under current federal law.
+In northern parts of the country, schoolchildren waited for buses in darkness and commuters began their days before sunrise. Public support deteriorated, and Congress shortened the experiment before its intended end.
 
-In 2026, Congress came unusually close to changing that arrangement. On July 14, the House passed H.R. 139, the Sunshine Protection Act of 2025, by 308 votes to 117. The bill would make daylight saving time permanent for jurisdictions that currently observe it while preserving the existing exemption route for places already on permanent standard time. On July 15, the Senate received the bill and referred it to the Committee on Commerce, Science, and Transportation. As of September 8, it had not passed the Senate and had not become law.
+That history is often compressed into a neat lesson: America tried permanent daylight saving time and hated it. The real episode is messier. It happened during an oil crisis, under 1970s transportation patterns, with schools and workplaces built around the previous clock. It is not a controlled forecast of what Americans would choose now.
 
-The legislative movement is important, but not because Congress has settled the science. It has not. It exposes the actual political choice. People can agree that changing clocks twice a year is annoying and still disagree about whether winter sunrise or winter sunset deserves the preferred hour.
+It does establish one durable point. Ending the clock change does not end the argument over which side of the day gets the light.
 
-The medical evidence should discipline that argument rather than pretending to finish it. The heart-attack literature supports caution about overstating acute transition effects. Circadian physiology supplies a reason to take morning light seriously. The 1974 experience supplies a reminder that dark mornings have political and practical costs. Evening light has real social value. Energy use, transportation, school schedules, geography, latitude, work patterns, and household routines all change the ledger.
+Current federal law preserves that distinction. States can exempt themselves from daylight saving time and remain on standard time; Hawaii and most of Arizona do. States that observe daylight saving time cannot simply decide, under existing law, to make the advanced clock permanent on their own.
+
+That asymmetry became politically live again in 2026. On July 14, the House passed H.R. 139, the Sunshine Protection Act of 2025, by 308 votes to 117. The bill would end seasonal switching by making daylight saving time permanent for most jurisdictions that currently observe it, while preserving the position of places already exempt from daylight saving time. The Senate received the bill on July 15 and referred it to the Committee on Commerce, Science, and Transportation. As of September 9, 2026, it had not passed the Senate and had not become law.
+
+The vote matters because it reveals how quickly the transition problem can be converted into a clock-allocation solution. People may dislike changing clocks twice a year for good reasons. That does not answer whether the fixed clock should favor later winter sunsets or earlier winter sunrises.
+
+The medical literature cannot settle that choice by itself. The cardiovascular evidence argues against sensationalizing the spring transition. Circadian biology gives morning light more weight than a mere lifestyle preference. The 1974 episode shows that dark mornings have practical and political costs. Evening daylight creates benefits people notice immediately. Geography, latitude, school schedules, commuting patterns, energy demand, work hours, and household routines change the balance further.
 
 There is no clock policy that changes the tilt of the Earth.
 
-That sounds obvious, but civil time has a way of hiding the physical choice. Suppose a school starts at 8:00 in January. Under permanent daylight saving time, that 8:00 can occur at the same solar moment that 7:00 represented under standard time. The sun did not move. The institution moved its label and then kept the schedule attached to the label.
+Consider an 8:00 a.m. school start in January. Under permanent daylight saving time, that 8:00 can occur at the same solar moment that 7:00 represented under standard time. Nothing astronomical happened. The institution moved a label and kept the appointment attached to it.
 
-In theory, schools and employers could compensate. A school could start later in winter. A workplace could allow seasonal hours. Transit could follow. In practice, institutional numbers harden quickly. Once the meeting says eight, eight begins to feel like a fact of nature.
+In theory, institutions could compensate. Schools could start later in winter. Employers could shift schedules. Transit could follow. Some workplaces already vary hours seasonally. But institutional numbers harden. Once the meeting says eight, eight begins to feel like a property of the universe rather than a negotiated convention.
 
-That is why the clock-change debate belongs in a book about sleep. It is a unusually clean example of civilization confusing a coordination device with the world it coordinates.
+That is why daylight saving time belongs in this book. It is a clean case of a larger error: civilization takes a coordination technology, forgets that it is a technology, and then asks human physiology to absorb the remainder.
 
-The spring transition is not comparable to years of night work, chronic sleep restriction, a long-haul shift, or a night on call. Most people recover from it quickly. The strongest cardiovascular estimates are small. Those are not concessions to the argument; they are the argument kept in proportion.
+The strongest version of the sleep argument would overreach here. The spring transition is not comparable to chronic night work, repeated extended shifts, untreated sleep apnea, or years of restricted sleep. Most people recover quickly. The best cardiovascular estimates are small. A serious case for respecting biology should be able to say that plainly.
 
-A society can perturb biological timing without causing catastrophe. It can also do so without being biologically neutral.
+But “small” and “biologically neutral” are not synonyms.
 
-The interesting question is not whether cardiology gets to dictate the clock. It is whether biology is allowed into the decision before the schedule is declared common sense.
+A society can impose a modest, recoverable circadian disturbance and still learn something from the exercise. It can notice who absorbs the inconvenience, which schedules are treated as immovable, and how easily a political decision about clock labels becomes a physical demand on sleep.
 
-Once it is, biology still does not get every vote.
+The question is not whether cardiology gets to set the national clock. It is whether biology enters the room before convenience is renamed common sense.
 
-The market has found an easier way to resolve that conflict. When schedules, stress, light, travel, work, parenting, and habit keep people awake, a company does not need Congress to move the clock.
+The market has found a different answer to that conflict. When schedules, travel, stress, work, parenting, light, and habit keep people awake, it does not need Congress to move anything.
 
 It can sell them sleep.
