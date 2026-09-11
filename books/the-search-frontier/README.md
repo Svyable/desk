@@ -1,4 +1,4 @@
-# The Search Frontier
+# Search Frontier
 
 <!-- bookself-reader-links:start -->
 **Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/the-search-frontier/)

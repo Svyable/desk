@@ -1,8 +1,8 @@
-# Rights & permissions — The Intelligence Bubble
+# Rights & permissions — Intelligence Bubble
 
 © 2026 Sven Hardy Benson. All Rights Reserved.
 
-**Work:** *The Intelligence Bubble*  
+**Work:** *Intelligence Bubble*  
 **Author and copyright owner:** Sven Hardy Benson  
 **Rights profile:** `bookself-arr-v1`
 

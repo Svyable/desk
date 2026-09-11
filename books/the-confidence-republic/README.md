@@ -1,4 +1,4 @@
-# The Confidence Republic
+# Confidence Republic
 
 *America at 250, Told Through the Scam That Defined Every Decade*
 
@@ -16,7 +16,7 @@
 
 Twenty-five decades. Twenty-five scams. One country built on the dangerous and productive idea that strangers can trust one another.
 
-*The Confidence Republic* tells the history of the United States through the most revealing deception in each ten-year span from 1776 through 2025. It is not a ranking of the largest dollar losses, the most colorful criminals, or every mania that later looked foolish. The selection test is stricter: which documented fraud, hoax, corrupt bargain, or deceptive architecture best exposed the trust technology Americans were learning to depend on in that decade — and what changed after the weakness became impossible to ignore?
+*Confidence Republic* tells the history of the United States through the most revealing deception in each ten-year span from 1776 through 2025. It is not a ranking of the largest dollar losses, the most colorful criminals, or every mania that later looked foolish. The selection test is stricter: which documented fraud, hoax, corrupt bargain, or deceptive architecture best exposed the trust technology Americans were learning to depend on in that decade — and what changed after the weakness became impossible to ignore?
 
 The recurring pattern is the book’s real subject. Paper currency makes a nation possible and creates a counterfeit surface. Land title lets ownership travel on paper and turns legislators into a point of attack. Corporate charters let strangers pool capital and make buried permissions valuable. Newspapers scale witness. Railroads scale distance. The postal system scales solicitation. Radio and television scale attention. Auditing scales verification. Computers scale records. Deposit insurance scales confidence. Markets scale capital. The internet scales reach. Crypto scales programmable custody. Each innovation makes honest coordination cheaper. Each also gives a liar a larger machine to borrow.
 

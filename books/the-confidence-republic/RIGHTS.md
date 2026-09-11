@@ -1,8 +1,8 @@
-# Rights & permissions — The Confidence Republic
+# Rights & permissions — Confidence Republic
 
 © 2026 Sven Hardy Benson. All Rights Reserved.
 
-**Work:** *The Confidence Republic*  
+**Work:** *Confidence Republic*  
 **Author and copyright owner:** Sven Hardy Benson  
 **Rights profile:** `bookself-arr-v1`
 

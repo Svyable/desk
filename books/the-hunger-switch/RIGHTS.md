@@ -1,8 +1,8 @@
-# Rights & permissions — The Hunger Switch
+# Rights & permissions — Hunger Switch
 
 © 2026 Sven Hardy Benson. All Rights Reserved.
 
-**Work:** *The Hunger Switch: How One Molecule Took Over Appetite, Industry, and the Global Body*
+**Work:** *Hunger Switch: How One Molecule Took Over Appetite, Industry, and the Global Body*
 **Author and copyright owner:** Sven Hardy Benson
 **Rights profile:** `bookself-arr-v1`
 
