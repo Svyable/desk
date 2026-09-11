@@ -1,101 +1,61 @@
 # Four Hours in the Canary Islands
 
-On 24 September 2002 an international naval exercise called Neo-Tapon began near the Canary Islands. About four hours after mid-frequency sonar activity started, beaked whales began stranding.
+At 3:00 on the morning of 24 September 2002, tactical mid-frequency sonar was operating during the international naval exercise Neo-Tapon off the Canary Islands. At about 7:00, the first beaked whale was seen stranded.
 
-Fourteen animals came ashore. The case became unusually important because trained teams could examine multiple carcasses quickly, before decomposition erased much of the pathology. Eight Cuvier's beaked whales, one Blainville's beaked whale and one Gervais' beaked whale were necropsied and studied histologically in detail. The results were published by Antonio Fernández and colleagues in 2005: https://doi.org/10.1354/vp.42-4-446.
+By the end of the event, fourteen had come ashore on Fuerteventura and Lanzarote. Seven died; seven were returned to deeper water. Over the next three days, four more beaked whales were found dead on the coast or floating offshore.
 
-The paper is one of those scientific documents whose influence comes from forcing the argument to change shape.
+The clock is one reason the case never went away. The bodies are another.
 
-Before it, sonar-stranding debate could be pictured mainly as an acoustics problem. A loud sound might damage the ear or disorient an animal; a frightened whale might beach. After the Canary Islands necropsies, the problem included gas and fat embolism, hemorrhage in multiple organs, and the possibility that a deep-diving mammal had experienced something analogous—not identical—to decompression injury.
+Antonio Fernández and colleagues eventually published detailed postmortem and histopathological findings from ten animals: eight Cuvier's beaked whales, one Blainville's and one Gervais'. The first six were examined on 24 September, within twelve hours of stranding. That matters in a literature where decomposition can manufacture exactly the sort of gas that investigators are trying to interpret.
 
-The authors reported severe diffuse congestion and hemorrhage, especially around acoustic jaw fat, ears, brain and kidneys. Gas bubble-associated lesions and fat embolism appeared in vessels and vital tissues. They found no inflammatory or neoplastic process that explained the syndrome and did not identify pathogens capable of accounting for the pattern. The paper proposed two broad mechanisms. Sonar might cause modified diving behavior, producing nitrogen supersaturation beyond a threshold normally tolerated by the tissues. Or acoustic exposure might act on pre-existing gas nuclei in already supersaturated tissues, lowering the threshold for bubble expansion. The two could operate together.
+The animals did not look like a population already collapsing from ordinary disease. The investigators reported good body condition, no systemic inflammatory, infectious or neoplastic process capable of explaining the event, and no external collision trauma apart from postmortem shark bites on one animal. Several had fresh food in their stomachs.
 
-There is an important difference between what the paper observed and what it proposed.
+Inside, the picture was violent. There was diffuse congestion and acute hemorrhage involving the central nervous system, acoustic jaw fat, tissues around the ears, lungs and kidneys. Gas bubbles were associated with lesions in vessels and tissues. Fat emboli appeared in vital organs.
 
-Gas bubbles and embolic lesions were observed. Sonar use during the exercise and the timing of the strandings were documented. The causal pathway from one to the other was inferred. The paper called the syndrome apparently induced by exposure to mid-frequency sonar, but it did not watch bubbles nucleate in a living whale after a known pulse. It could not.
+The famous shorthand is that sonar gave the whales the bends. It is useful shorthand only until it begins doing the thinking.
 
-That distinction is where serious reading begins.
+Fernández's group proposed more than one route from sound to lesion. An aversive exposure might alter the dive enough to push nitrogen loading or redistribution beyond a normally tolerated range. Or acoustic energy might act on pre-existing gas nuclei in tissues that were already supersaturated, lowering the threshold for bubble growth. The processes could also interact.
 
-A carcass can contain gas for many reasons. Decomposition generates gas. Handling can introduce artifacts. A stranded whale experiences gravity and circulatory stress differently from a swimming one. Histological interpretation requires care, especially when the question itself is novel. The Canary Islands investigators knew this, which is why the pathology was evaluated across multiple tissues and animals rather than reduced to the existence of a few visible bubbles.
+None of those pathways was watched happening inside a living whale.
 
-The event was also valuable because of timing. Four hours is short enough to make a remote, slow-moving environmental cause less attractive and long enough for behavior and physiology to mediate the result. The whales did not need to be struck dead by a pulse. They had time to hear, respond, dive, ascend, move and strand.
+What the investigators did have was an unusually awkward challenge to the simplest postmortem explanation. Three whales with fat emboli had not died after lying on a beach; they were recovered offshore. Personnel at the strandings described animals as severely shocked and dying rapidly. The first dead animals appeared only hours after sonar began. Fernández and colleagues argued that this timing, the distribution of emboli and their experience with many other stranded cetaceans made ordinary beaching an implausible explanation for the whole lesion pattern.
 
-That temporal shape fits the behavioral hypothesis better than the cartoon version of acoustic trauma.
+That is stronger than saying gas was found in a carcass. It is weaker than measuring bubble formation in vivo under a known acoustic dose. The distance between those statements is where the mechanism still lives.
 
-The Canary Islands had seen prior beaked-whale mass strandings associated in time with naval exercises, including events in 1985, 1988 and 1989. A later event in 2004 would occur after another international exercise. Historical recurrence turned the archipelago into something close to a natural experiment, although never a clean one. Different exercises involved different conditions, and older records were less complete. Still, the repeated appearance of the same unusual animal group around similar activities in the same geography became hard to ignore.
+There is another detail worth keeping. The southeast coast of Fuerteventura drops to water deeper than a kilometer within a few hundred meters of shore. This is excellent beaked-whale habitat and unforgiving geography for an animal making a large horizontal avoidance movement. A theory of the event therefore has at least three possible layers: what the sound did to behavior, what the changed dive did to physiology, and what the coastline did to the consequences.
 
-Then Spain changed the exposure.
+The Canary Islands had produced earlier atypical beaked-whale mass strandings during naval exercises in 1985, 1988 and 1989, though those events lacked the 2002 pathology. Greece had a sonar-associated event in 1996. The Bahamas followed in 2000. The recurrence made it increasingly difficult to treat every event as an isolated coincidence, but it also created a temptation to tell one universal story from unlike cases.
 
-In 2004, the Spanish government imposed a moratorium on naval exercises using relevant sonar around the Canary Islands. Fernández, Manuel Arbelo and Vidal Martín later noted in *Nature* that no mass strandings of the previous kind had occurred in the islands after the moratorium. Their 2013 correspondence, “No mass strandings since sonar ban,” is at https://doi.org/10.1038/497317d.
+The 2002 necropsies resist that temptation. They did not establish that every sonar-associated stranding is embolic, or that every embolus comes from a rapid ascent. They established a pathological syndrome in a particular event and made several causal routes experimentally worth pursuing.
 
-This is powerful evidence, but it should be described precisely.
+The rapid-ascent story is especially seductive because humans already know decompression sickness. A frightened whale hears sonar, bolts upward and gets the bends: four clauses, satisfying ending.
 
-It is not a randomized trial. Many things can change across years. Stranding detection, exercise patterns outside the exclusion area, whale distribution and chance all matter. The pre-moratorium event count is not enormous. A complete causal claim requires the intervention to be specified carefully: what exactly was prohibited, where and how consistently? Nevertheless, when a repeatedly observed outcome stops after a targeted removal of the suspected trigger, the intervention deserves substantial weight.
+The animals have been less cooperative.
 
-The Canary Islands therefore contribute three independent evidence lanes: temporal association, pathology and post-intervention disappearance.
+Later tagging studies showed that beaked whales can stop echolocating, swim silently away, change direction, prolong dives and alter subsequent foraging after sonar exposure. Those responses can change exercise, perfusion and pressure history without resembling a panicked dash to the surface. A longer dive can matter differently from a faster ascent. Repeated dives can matter differently from one ascent. The relevant physiological variable may be a sequence rather than a moment.
 
-Those lanes are more persuasive together than any one alone.
+That complication helps the causal case more than a tidy story would. Behavioral mediation predicts measurable intermediates. If dive alteration drives risk, tagged animals with larger or differently shaped responses should show different modeled gas burdens. If direct acoustic action on gas nuclei dominates, risk should depend more tightly on local field characteristics and tissue state. If coastal geometry converts avoidance into stranding, similar exposures should have different outcomes in deep open water and beside steep island slopes.
 
-The pathology also reopened questions that comparative physiologists had considered largely settled. How do deep-diving cetaceans avoid decompression sickness? Classic mechanisms include lung compression and alveolar collapse at depth, which reduce gas exchange, plus cardiovascular adaptations that manage blood flow and oxygen stores. Yet models and later observations suggested that nitrogen management is not binary. A whale can be protected under ordinary behavior while still carrying tissue gas loads that vary with dive history.
+Those are competing predictions, not decorative caveats.
 
-If so, a sonar response can matter without changing the laws of physiology. It changes the input schedule.
+The Canary Islands supplied another prediction two years later. Four Cuvier's beaked whales stranded after an international naval exercise in 2004. Spain then imposed a moratorium on naval exercises in Canary waters involving the relevant sonar. In 2013, Fernández, Manuel Arbelo and Vidal Martín reported that the previous pattern of mass strandings had not recurred after the moratorium.
 
-Consider an animal on a routine foraging dive. It descends, begins clicking below a characteristic depth, hunts, then ascends through a pattern shaped by its normal behavior. Now introduce an aversive acoustic source. The whale stops echolocating, swims faster, changes direction, extends the dive, ascends unusually, delays later foraging or modifies subsequent shallow dives. Every one of those actions can change exercise, perfusion and the pressure-time profile.
+That before-and-after result deserves weight without pretending it is randomized evidence. The number of pre-ban events was small. Naval activity, whale distribution, detection and chance can all change over time. A moratorium also changes several exposure variables at once, so it cannot identify whether the decisive link was a particular waveform, received level, exercise geometry or behavioral context.
 
-This is not proof that the altered profile crosses a pathological gas threshold. It is a mechanism with measurable intermediates.
+Still, the intervention was aimed at the suspected exposure, and the conspicuous local outcome stopped recurring. Safety science rarely gets to randomize catastrophe.
 
-The later tagging literature supplied several of those intermediates. Tyack et al. in 2011 recorded cessation of echolocation and unusual avoidance responses. DeRuiter et al. in 2013 observed rapid silent swimming away and extended dive/non-foraging intervals. Those findings made the Canary Islands hypothesis less dependent on speculation about whether beaked whales respond behaviorally at all.
+The strongest counterexample lies elsewhere. Cuvier's beaked whales also persist on heavily instrumented U.S. Navy ranges where sonar is used, and controlled-exposure studies have documented responses without producing mass strandings. Any explanation that makes mid-frequency sonar alone sufficient is therefore wrong. Exposure history, source geometry, dive state, bathymetry, individual susceptibility and learned response may all change the probability of the severe tail.
 
-The remaining problem became quantitative.
+That counterexample is not an escape hatch called context. It is a demand for a better model.
 
-How large a behavioral change is required to alter nitrogen dynamics materially? Which tissues matter? At what depth does lung collapse sufficiently limit uptake? How quickly do compartments equilibrate? How does exercise redistribute blood? Are bubble precursors normally present? Do repeated dives accumulate risk? Does a frightened animal ascend faster, or might it actually prolong a dive in a way that produces a different risk? Can gas emboli themselves impair navigation before beaching?
+The Canary case is powerful because several evidence streams meet without becoming identical. Exercise records provide timing. Necropsy provides lesions. Comparative pathology constrains decomposition and beaching explanations. Tag studies later show that sonar can alter the behavior of the species at issue. Geography supplies a possible route from avoidance to shore. The moratorium changes the suspected exposure and is followed by disappearance of the old mass-stranding pattern.
 
-A neat popular explanation says sonar frightens whales into surfacing too quickly and they get the bends. It is memorable and may be wrong in detail.
+Each stream can fail in a different way. Together they leave less room to move.
 
-Some tagged beaked whales exposed to sonar have made prolonged or modified ascents rather than simple panicked rockets to the surface. Anti-predator behavior can include silence and horizontal avoidance. The physiological consequences of a longer dive can be different from those of a rapid ascent. Depending on the model, gas risk may arise from cumulative patterns, redistribution or unusual reperfusion rather than one dramatic emergency ascent.
+They still do not tell us the exact pressure-time history of the whales that died in 2002. No tag recorded those dives. No sensor measured their tissue nitrogen. No instrument watched the first bubble grow.
 
-The pathology therefore does not authorize a single cinematic sequence.
+That missing movie matters because policy eventually has to operate without it. A regulator cannot wait for a lethal experiment on a deep-diving whale, and a navy cannot manage risk with the proposition that sonar is simply dangerous everywhere. The useful question is narrower: which combinations of animal state, sound field and geography turn a behavioral response into injury?
 
-It authorizes a family of testable sequences.
+At 3:00 the sonar was on. At 7:00 a whale was on shore. Between those times, something happened inside an animal built to cross enormous pressure gradients safely.
 
-This is a better outcome scientifically because each sequence predicts something different. A direct cavitation-like acoustic mechanism should depend strongly on local acoustic fields and gas nuclei. A behaviorally mediated mechanism should correlate with the size and type of dive response. A geography-mediated stranding pathway should be more likely where avoidance routes intersect shallow water. Habituation should reduce some responses if novelty matters. Predator-call playbacks should produce overlapping behavior if threat perception is central.
-
-Research over the next two decades would test pieces of these predictions.
-
-The Canary Islands also exposed an awkward problem for causal standards. Environmental harm can become easier to prove after regulators act, but once a successful mitigation removes the event, further mechanistic evidence becomes harder to obtain there. If the moratorium really prevented strandings, there will be no new Canary Islands carcasses from the same cause to improve the pathology series. Prevention destroys the experiment that could have produced more evidence.
-
-This happens elsewhere in safety science. A dangerous aircraft procedure is stopped after a few accidents; no one demands another dozen crashes to improve statistical confidence. Yet because whale strandings are biologically variable and sonar operations are politically contested, some arguments behave as if only repeated catastrophe could close the case.
-
-A rational standard must accept convergence.
-
-The 2002 event was not alone. The Bahamas investigation had already implicated tactical mid-frequency sonar. Greece had seen a 1996 event associated with naval activity. The Canary Islands had a prior pattern. Pathology revealed a syndrome that made sense for an extreme diver. Later controlled exposures demonstrated strong sonar responses. The post-2004 moratorium coincided with an end to the characteristic local mass-stranding pattern.
-
-There are still uncertainties inside that convergence. They should remain visible.
-
-The exact sonar signals used during multinational exercises may not be fully available publicly. Not every stranded animal was recovered or necropsied. Decomposition and beaching complicate pathology. Historical events have incomplete exposure records. Gas embolism can have more than one route. The absence of strandings after a moratorium does not quantify sublethal disturbance.
-
-These are reasons to be precise, not reasons to reset belief to zero after each study.
-
-The stronger lesson from the Canary Islands is methodological. A rare event can be understood by triangulating across disciplines whose evidence has different failure modes. Pathology tells us what happened to tissues but not exactly when. Acoustics tells us what the environment contained but not what the animal perceived. Behavior tells us what the animal did but usually not whether it was injured. Physiology supplies plausible mechanisms but relies on models. Policy interventions supply natural experiments but lack randomization.
-
-When all of them point in roughly the same direction, the remaining uncertainty becomes narrower and more useful.
-
-The 2002 event also changes how we think about “nonlethal” exposure.
-
-A sonar pulse need not exceed a direct injury threshold to contribute to mortality if it provokes a behavior whose downstream effects are dangerous. That is a different class of environmental hazard from a toxin that damages cells in proportion to absorbed dose. The signal can act through the animal's own control system.
-
-This is not unique to whales.
-
-Birds collide with structures after light alters navigation. Fish can abandon habitat after noise changes behavior. Humans can be injured because an alarm causes a poorly chosen action, even if the alarm itself is physically harmless. Sensory systems exist to change behavior; that is their function. Any environmental disturbance that targets perception can therefore have consequences mediated by what the organism decides to do next.
-
-The Canary Islands case is extreme because the organism's routine behavior already sits close to physiological boundaries humans rarely approach.
-
-A Cuvier's beaked whale can spend more than an hour underwater and descend kilometers. The animal's normal life is a repeated excursion through pressure changes that would kill an unprotected terrestrial mammal. Evolution has made that possible through integrated anatomy, circulation, gas exchange and behavior.
-
-The integration is the point.
-
-A system can be robust under the behaviors it evolved to perform and fragile under a novel emergency response.
-
-Four hours after sonar began, animals were on shore.
-
-Between those two facts lies one of the most important pieces of modern marine bioacoustics: the possibility that what sound makes a whale do may matter more than what sound does directly to the whale.
+The pathology tells us that the interesting part of the story may not be what the sound struck. It may be what the whale changed.
