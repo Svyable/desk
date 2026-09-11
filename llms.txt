@@ -78,6 +78,7 @@ The canonical title, author, drafting status, chapter count, and manuscript cont
 - [Source Code](https://svyable.github.io/desk/books/source-code/README.md)
 - [Subsidized Intelligence](https://svyable.github.io/desk/books/subsidized-intelligence/README.md)
 - [Synthetic Intelligence](https://svyable.github.io/desk/books/synthetic-intelligence/README.md)
+- [Taste](https://svyable.github.io/desk/books/taste/README.md)
 - [Abstraction Trap](https://svyable.github.io/desk/books/the-abstraction-trap/README.md)
 - [The Agentic Consumer Economy](https://svyable.github.io/desk/books/the-agentic-consumer-economy/README.md)
 - [The Alliance Advantage](https://svyable.github.io/desk/books/the-alliance-advantage/README.md)
