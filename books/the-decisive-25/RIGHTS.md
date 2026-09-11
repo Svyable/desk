@@ -1,8 +1,8 @@
-# Rights & permissions — The Decisive 25
+# Rights & permissions — Decisive 25
 
 © 2026 Sven Hardy Benson. All Rights Reserved.
 
-**Work:** *The Decisive 25: The People Who Made America, One Decade at a Time*  
+**Work:** *Decisive 25: The People Who Made America, One Decade at a Time*  
 **Author and copyright owner:** Sven Hardy Benson  
 **Rights profile:** `bookself-arr-v1`
 

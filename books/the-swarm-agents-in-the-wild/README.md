@@ -1,4 +1,4 @@
-# The Swarm: Agents in the Wild
+# Swarm: Agents in the Wild
 
 <!-- bookself-reader-links:start -->
 **Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/the-swarm-agents-in-the-wild/)
