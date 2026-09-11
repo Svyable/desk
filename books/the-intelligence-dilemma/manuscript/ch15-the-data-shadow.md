@@ -1,245 +1,61 @@
 # The Data Shadow
 
-A worksheet knows almost nothing about the child who completes it.
+A worksheet knows almost nothing about the child who completes it. An AI tutor can know which problem the student missed, which hint worked, how the same question was phrased three times, whether the student asked for help at midnight, and whether the student finally typed, “I’m stupid at this.”
 
-An AI tutor can know much more.
+That extra context is part of what makes the tutor useful. It is also the beginning of a record.
 
-Which problem the student missed.
+Schools have always kept records: grades, attendance, test scores, disciplinary reports, health information, special-education plans, transcripts. Conversational systems change the texture of the archive. A grade records a conclusion. A tutoring history can preserve the path toward it: wrong answers, draft explanations, repeated misconceptions, private remarks, and moments of uncertainty that once disappeared when the bell rang.
 
-Which hint worked.
+The educational question is not whether schools may keep data. They have to. It is how much of the process of becoming a person should harden into a durable profile.
 
-Which explanation failed.
+Students are supposed to be unfinished. A nine-year-old can struggle with fractions without becoming permanently “weak at math.” A teenager can write an angry reflection without becoming the reflection. A student can ask a clumsy question about politics, religion, sex, violence, identity, or family because school is one of the places where people are meant to encounter ideas before they know exactly what they think.
 
-How the student phrased the same question three times.
+A useful system needs enough memory to notice development. A dangerous one can make development harder by remembering every intermediate state as if it were identity.
 
-Whether the student asked for help at midnight.
+This problem gets sharper when systems infer rather than merely record. A product may estimate mastery, confidence, engagement, likely misunderstanding, or risk. Some of those inferences may help a teacher decide where to look next. They may also be weak, context-dependent, or wrong. The practical difference is between using an inference to choose the next explanation and letting the inference become a standing fact about the student.
 
-Whether the student wrote, “I’m stupid at this.”
+That is the tension inside personalization. A tutor that forgets everything after each session is less capable. A tutor that remembers everything can become a dossier.
 
-The more responsive the system becomes, the more context it can use.
+Current U.S. privacy rules already contain pieces of a sensible answer. FERPA restricts disclosure of personally identifiable information from education records at covered institutions and, under the school-official exception, requires outside providers to perform an institutional function, remain under the school’s direct control over the use and maintenance of education-record information, and avoid unauthorized redisclosure or use. That is not a blanket prohibition on educational technology. It is a reminder that a vendor handling student information is not just another consumer app.
 
-Context becomes data.
+COPPA applies on a different axis, to covered online services involving children under thirteen. The Federal Trade Commission’s 2025 rule changes strengthened limits around some third-party disclosures and made the retention principle unusually plain: children’s personal information may be kept only as long as reasonably necessary for the specific purpose for which it was collected, not indefinitely. The FTC’s May 2026 compliance guidance pushes the same logic further into practice: minimize what you collect, maintain a retention and deletion policy, and securely dispose of information when the reason for keeping it is gone.
 
-And a record created to help a student learn can outlive the learning moment that justified it.
+The laws do not answer every school-design question. They do, however, expose an important distinction between remembering because the memory still serves the child and remembering because storage is cheap.
 
-This is the data shadow of AI education.
+That distinction is easy to lose in AI systems because more history can make personalization look smarter. The product can remember every book the student read, every recurring mistake, every preferred explanation, every unfinished draft, every interest, every ambition. Continuity can be genuinely valuable. A teacher would like to know that yesterday’s confusion about fractions is still unresolved. A tutor that remembers a student’s recurring algebra error may save ten minutes of rediscovery. A system serving a student with a disability may need persistent preferences or accommodations to remain usable.
 
-Schools already keep extensive records: grades, attendance, test scores, disciplinary reports, health information, special-education plans, teacher comments, transcripts.
+The strongest case for memory is therefore not surveillance. It is continuity.
 
-Conversational systems can make the record different in kind, not merely larger.
+That is also the strongest counterargument to aggressive deletion. Forget too much and the system becomes less helpful, less accessible, and sometimes less safe. Schools need longitudinal evidence for learning, support, accountability, research, and legal obligations. A student should not have to re-explain every accommodation, every week, merely to satisfy an abstract preference for minimization.
 
-Traditional records often capture conclusions.
+The design problem is to preserve the useful state without preserving every vulnerable moment that produced it.
 
-A grade says the student earned a B.
+A system might retain that a learner has not yet mastered equivalent fractions while deleting the identifiable transcript in which the learner admitted being terrified of failing. It might remember a deliberately chosen accessibility preference while discarding a temporary emotional inference. It might preserve a teacher-facing summary of recurring misconceptions without indefinitely storing every raw conversation that led to the summary.
 
-A tutoring history can capture the path to the B: wrong answers, requests for clarification, draft explanations, repeated misconceptions, private comments, and moments of uncertainty.
+This is purposeful forgetting: not amnesia, and not deletion for its own sake. Memory should remain coupled to the purpose that justified collecting it.
 
-That density creates a privacy question that is specifically educational.
+The rule becomes more important because educational data is unusually tempting to reuse. A detailed learning history could be useful to teachers, administrators, counselors, researchers, admissions systems, vendors, model developers, or future support services. The fact that another use is useful does not mean the original educational relationship silently authorized it.
 
-How much of the process of learning should persist?
+A tutoring record should not drift into disciplinary evidence, marketing material, general model-training material, or a permanent prediction about ability merely because somebody later discovers that the data can support those uses. A student who asked an anxious question in a tutoring interface did not necessarily volunteer to create a durable behavioral asset for every institution downstream.
 
-Students are supposed to be unfinished in school.
+Conversational systems make this boundary harder to feel. The interface can seem informal enough that a student discloses fear, family circumstances, health concerns, beliefs, or personal problems. The infrastructure may treat the same words as ordinary stored data. The conversation feels ephemeral; the database is not.
 
-They are supposed to misunderstand difficult material, try weak ideas, ask naive questions, write immature drafts, revise positions, and reveal what they do not know.
+Schools should make that mismatch difficult to ignore. Students and families should be able to understand what is recorded, who can see it, how long it remains, whether teachers can inspect full conversations, and what happens when the educational purpose ends. For younger children, a long privacy policy cannot carry the burden of meaningful understanding. Responsibility moves upward to the institution choosing the system.
 
-Those are not accidental defects in the educational record.
+That makes privacy part of procurement rather than an afterthought to it. Instructional quality and accuracy matter. So do deletion, retention defaults, access controls, security, model-training terms where relevant, administrator permissions, breach response, portability, and the ability to remove records without destroying unrelated educational history. A tutor that teaches well while creating unacceptable exposure is not a good educational system.
 
-They are evidence that development is occurring.
+There is an equity problem in the memory trade too. A wealthy family can hire a private tutor and keep much of the conversation outside institutional infrastructure. A student receiving free AI tutoring through school may have less practical ability to refuse the platform or negotiate its data terms. Public education cannot rely on the fiction that this is ordinary consumer choice. When coursework, tutoring, or communication depends on an approved system, the student may have nowhere else to go.
 
-A system that remembers every intermediate state risks turning temporary difficulty into durable identity.
+That raises the burden of justification. The institution should be able to explain why the data is necessary, why it must remain identifiable, why it must persist for as long as it does, and who genuinely needs access. “It may improve personalization someday” is not the same thing as an educational purpose.
 
-The child who struggles with fractions at nine is not permanently a weak mathematics student. The teenager who writes an angry reflection is not the reflection. The student who asks a clumsy question about politics, religion, sex, violence, or identity may be exploring rather than declaring.
+The persistent tutor makes the trade vivid. Imagine a system that follows a student for six years. At twelve, the student struggles with reading. At fourteen, biology becomes an obsession. At sixteen, the student asks questions about depression. At seventeen, the system knows which colleges are being considered and which ambitions have already been abandoned. By graduation, the tutor may possess a longitudinal view of intellectual development that no single teacher, counselor, or parent has.
 
-Education requires room to become somebody else.
+That could be extraordinary educational infrastructure. It could also be an extraordinarily intimate profile.
 
-Databases are very good at remembering who you were.
+The interesting design question is not simply who “owns” the memory. It is whether the memory remains decomposable. Can the student preserve mastery history while deleting an embarrassing conversation? Can an accommodation survive while an inferred mood does not? Can a school transfer the learning state needed for continuity without exporting every raw interaction? Can later systems be prevented from treating old uncertainty as fresh evidence about current ability?
 
-AI adds another pressure because systems can infer as well as record.
+Those are technical questions, but they are also educational ones. School depends on the possibility that a person can be wrong in October and different by March.
 
-A product may estimate mastery, engagement, confidence, likely misunderstanding, or risk. Some inferences may help a teacher decide where to look. Some may be weak, context-dependent, or wrong. A useful prediction in one setting can become harmful if it is reused as a stable fact about the student.
+Privacy is often described as friction against innovation. In education, some privacy is part of the learning environment itself. Students need places where a wrong answer can die, where an awkward question does not become a permanent label, and where development does not require remaining legible forever.
 
-The distinction to protect is between assistance and profiling.
-
-Assistance asks: what would help this learner now?
-
-Profiling asks: what kind of learner is this?
-
-The first can require context without requiring a permanent identity.
-
-The second can quietly convert a history of development into a classification.
-
-U.S. privacy law provides part of the institutional baseline. FERPA places restrictions on disclosure of personally identifiable information from education records at covered institutions and imposes conditions when outside service providers handle information under specified exceptions. COPPA applies in a different scope to covered online services involving children under thirteen, and its rule was strengthened in 2025 in areas including retention and certain third-party disclosures.
-
-Those rules matter.
-
-They do not settle the educational design question.
-
-Legal compliance answers what may be done within a particular jurisdiction and circumstance.
-
-Schools still have to ask what they need to do.
-
-A district can comply with a contract and still collect more than the educational purpose requires. A retention period can be lawful and still be unnecessarily long. A parent can technically consent without understanding what thousands of conversational interactions could reveal.
-
-The stronger starting principle is purpose limitation.
-
-Why is this information being collected?
-
-What educational benefit requires it?
-
-Who needs access?
-
-How long does it need to exist?
-
-Can the system provide the benefit with less?
-
-Can the teacher receive a useful signal without receiving every private sentence?
-
-What happens when the student leaves the school?
-
-What happens when the vendor changes its product or ownership?
-
-What can the student or parent see, correct, export, or delete?
-
-These are not merely IT questions.
-
-They shape how safe it feels to learn.
-
-Students behave differently when every interaction may become permanent.
-
-Some of the most valuable educational behavior is low-stakes behavior.
-
-Try an idea.
-
-Be wrong.
-
-Ask the embarrassing question.
-
-Change your mind.
-
-If all of that becomes part of a durable profile, experimentation can become more expensive.
-
-This is why educational AI may need a capability technology companies usually describe as a defect.
-
-Forgetting.
-
-A good tutor should remember enough to teach well.
-
-It should not necessarily remember every vulnerable moment forever.
-
-Human teachers already operate this way imperfectly. They may remember that a student needs more work on fractions without maintaining a searchable transcript of every wrong answer. Human memory can be frustratingly incomplete.
-
-Its incompleteness also gives development room.
-
-Schools should be careful before replacing that rough mercy with perfect recall.
-
-“Selective amnesia” is not a legal requirement. It is a design principle worth considering.
-
-Keep what has an ongoing educational purpose.
-
-Let the rest expire.
-
-A system might retain that the learner has not yet mastered a concept while deleting the intimate conversation in which the student admitted fear about failing. It might preserve an explicitly chosen preference while discarding a temporary emotional inference. It might summarize a pattern for the teacher without storing the full identifiable transcript indefinitely.
-
-Memory should earn its place.
-
-The need becomes sharper because educational data invites reuse.
-
-A detailed learning profile may interest teachers, administrators, researchers, counselors, admissions systems, vendors, or future support services.
-
-Usefulness is not permission.
-
-Data collected to provide tutoring should not silently become disciplinary evidence, marketing material, model-training material, or a permanent prediction about the student’s ability merely because another use becomes technically possible.
-
-That is function creep.
-
-The risk is particularly high with conversational systems because the interface feels informal.
-
-A student may experience a chatbot as private enough to disclose fears, family circumstances, health concerns, beliefs, or personal problems while the infrastructure treats the same words as stored institutional data.
-
-The conversational feeling and the data reality can diverge.
-
-Schools need to close that gap deliberately.
-
-Students should know what is recorded, who can see it, how long it remains, whether teachers can inspect the conversation, and what the limits of confidentiality are.
-
-For younger children, a long privacy policy cannot reasonably carry the whole burden of meaningful consent.
-
-Responsibility moves upward to the institution choosing the system.
-
-That changes procurement.
-
-Accuracy and instructional quality matter.
-
-So do deletion, access control, retention defaults, security, model-training terms where relevant, breach response, administrator permissions, and the ability to export or remove records.
-
-Privacy is part of educational quality.
-
-A tutor that teaches well while creating unacceptable exposure is not a good educational system.
-
-There is an equity question here too.
-
-Students with fewer alternatives may be asked to surrender more data in exchange for support.
-
-A wealthy family can hire a private tutor and keep much of the interaction outside institutional infrastructure. A student receiving free AI tutoring through school may have less practical ability to refuse the data terms attached to the approved platform.
-
-That does not make the school-provided tool wrong.
-
-It makes privacy a cost that should not be hidden inside the promise of equal access.
-
-Public schools have an especially strong obligation because participation is not an ordinary consumer choice. Students cannot always leave the platform their institution selects. Families may have no practical substitute if coursework, tutoring, or communication depends on it.
-
-The burden should therefore run toward institutional justification.
-
-Collect the least data necessary to produce the educational benefit.
-
-That principle pushes against a common instinct in AI systems, where more history can make personalization appear better.
-
-Schools are not model-training laboratories.
-
-Their purpose is student development.
-
-The most seductive case for extensive memory is the persistent tutor.
-
-Imagine an assistant that remembers every book a student read, every recurring mistake, every interest, every mastered concept, every project, every ambition.
-
-The continuity could be extraordinarily useful.
-
-It would also create an extraordinarily intimate longitudinal profile.
-
-At twelve, the student struggles with reading.
-
-At fourteen, the student develops an interest in biology.
-
-At sixteen, the student asks questions about depression.
-
-At seventeen, the student discusses college choices.
-
-By eighteen, the system may know more about the student’s intellectual development than almost any individual adult.
-
-Who owns that memory?
-
-Who can query it?
-
-Does it follow the student into another institution?
-
-Can the student delete a portion without losing the entire service?
-
-Can later systems infer traits from the history that no teacher ever recorded explicitly?
-
-Can those inferences affect opportunities?
-
-These questions are arriving early enough that schools still have choices.
-
-Privacy is often described as friction against innovation.
-
-In education, some privacy is a condition for experimentation.
-
-A student needs places where a wrong answer can die.
-
-Where an awkward question does not become a permanent label.
-
-Where intellectual development is not treated as a requirement to remain legible forever.
-
-The ideal educational system should know enough to help the learner in front of it.
-
-It should not know so much that the learner can never escape the person they were while learning.
+The useful tutor remembers enough to help the learner in front of it. The trustworthy institution also knows when yesterday’s detail has finished its job.

@@ -4,6 +4,8 @@
 
 Ground the privacy and governance argument: AI-enabled personalization can require rich student data, and educational institutions need stronger rules for purpose, access, retention, inference, and vendor control than a generic “more data improves personalization” logic.
 
+Freshly rechecked on September 9, 2026.
+
 ## Sources read
 
 ### U.S. Department of Education, Student Privacy Policy Office — Privacy and Data Sharing
@@ -43,7 +45,14 @@ Ground the privacy and governance argument: AI-enabled personalization can requi
 
 - Source: https://www.ftc.gov/business-guidance/resources/childrens-online-privacy-protection-rule-six-step-compliance-plan-your-business
 - What it supports: FTC guidance emphasizes data minimization, written security programs, retention/deletion policies, keeping children’s personal information only as long as reasonably necessary for the specific purpose, and secure disposal afterward.
-- Use in chapter: supports the chapter’s “memory must earn its place” and purpose-limitation framing as consistent with current regulatory direction.
+- Use in chapter: supports the revised chapter’s governing distinction between retaining data because it still serves the student and retaining it because storage is cheap.
+
+### FTC (February 2026), COPPA age-verification policy statement
+
+- Source: https://www.ftc.gov/news-events/news/press-releases/2026/02/ftc-issues-coppa-policy-statement-incentivize-use-age-verification-technologies-protect-children
+- What it supports: even when the FTC created an enforcement safe harbor for personal information collected solely for age verification under specified conditions, it required purpose restriction and prompt deletion once that purpose was fulfilled.
+- Use in chapter: additional current evidence that purpose-specific retention, rather than indefinite accumulation, is part of the FTC’s present children’s-privacy posture.
+- Important limitation: this statement concerns age-verification information and should not be generalized into a universal rule for all educational records.
 
 ### U.S. Department of Education — Data Security: K-12 and Higher Education
 
@@ -51,13 +60,20 @@ Ground the privacy and governance argument: AI-enabled personalization can requi
 - What it supports: the Department states that educational institutions should safeguard student records and notes risks including breaches, identity theft, fraud, and extortion.
 - Use in chapter: supports treating security as part of privacy rather than a separate technical concern.
 
+## Strongest counterargument / disconfirming evidence
+
+Aggressive minimization can itself damage educational quality. Persistent memory can support continuity, accessibility, accommodation, longitudinal assessment, accountability, safety, and research. A system that forgets too much may force students to repeatedly disclose sensitive needs or may erase the very learning history that makes personalization valuable.
+
+The chapter therefore does **not** argue for maximal deletion. Its narrower claim is that raw conversational detail and inferred traits should remain coupled to an articulated educational purpose, and that schools should distinguish durable learning state from every transient interaction that produced it.
+
 ## Claims intentionally bounded
 
 - The chapter does not claim FERPA or COPPA automatically prohibits educational AI systems.
 - It does not assert that a particular vendor trains on student data unless the relevant contract/privacy policy is separately verified.
 - Examples of inferred confidence, emotion, risk, or learning level are presented as capabilities schools may encounter or consider, not as a claim that every current system performs those inferences accurately.
 - The equity argument about privacy costs is a normative risk analysis, not a prevalence estimate.
-- “Selective amnesia” is a design principle proposed by the manuscript, not an existing statutory requirement.
+- “Purposeful forgetting” is a design principle proposed by the manuscript, not an existing statutory requirement.
+- COPPA retention language is not generalized to older students, all education records, or every jurisdiction.
 
 ## Follow-up reporting
 
@@ -66,4 +82,4 @@ Ground the privacy and governance argument: AI-enabled personalization can requi
 - Interview district privacy officers about whether conversational transcripts are treated as education records and how retention is configured.
 - Investigate state student-privacy laws that impose protections beyond FERPA/COPPA.
 - Study how minors understand AI-chat privacy and whether conversational interfaces produce more sensitive disclosure than conventional education software.
-- Examine whether schools can obtain personalization benefits from minimized or locally processed data rather than indefinite identifiable histories.
+- Examine whether schools can obtain personalization benefits from minimized, summarized, or locally processed data rather than indefinite identifiable histories.
