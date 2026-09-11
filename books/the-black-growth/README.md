@@ -24,7 +24,7 @@ Melanized fungi force a distinction that popular accounts usually erase: survivi
 - [x] [Ch 5 — The 2007 Experiment](manuscript/ch05-the-2007-experiment.md)
 - [x] [Ch 6 — A Fourfold Redox Change](manuscript/ch06-fourfold-redox.md)
 - [x] [Ch 7 — Growth Toward the Source](manuscript/ch07-growth-toward-source.md)
-- [x] [Ch 8 — When the Replication Refuses the Story](manuscript/ch08-replication-refuses.md)
+- [x] [Ch 8 — When the Null Refuses the Story](manuscript/ch08-replication-refuses.md)
 - [x] [Ch 9 — Melanin Is Not the Only Thing in the Cell](manuscript/ch09-not-only-melanin.md)
 - [x] [Ch 10 — The DNA Repair Problem](manuscript/ch10-dna-repair.md)
 - [x] [Ch 11 — Black Spores in Space](manuscript/ch11-black-spores-in-space.md)
