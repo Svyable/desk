@@ -1,33 +1,43 @@
 # 10. The Alpha Drop
 
-Alpha rhythms are not a magnetic meter.
+The most interesting number in the 2019 human magnetoreception paper is not eight to thirteen hertz. It is four.
 
-That sentence needs to sit beside every summary of the 2019 result.
+Wang and colleagues began with 34 adults. In an initial screening analysis, four showed what the authors called strong alpha event-related desynchronization after one particular magnetic rotation: the horizontal field turned counterclockwise while the vertical component pointed downward, approximately the geometry a person in the Northern Hemisphere encounters while turning the head. Those four participants were then brought back for additional sessions. The response returned.
 
-The EEG alpha band, roughly 8–13 hertz, changes with eyes open and closed, attention, sensory processing, arousal and many other states. A drop in alpha amplitude after a stimulus—alpha event-related desynchronization—is common in sensory neuroscience. It can indicate that cortex is processing something. It does not identify what was processed.
+That is better evidence than a single lucky average. It is also a design that deserves to make a skeptical reader sit forward.
 
-The magnetoreception claim therefore lives in the stimulus specificity, timing and controls, not in alpha itself.
+Alpha rhythms are not a magnetic meter. Power in the roughly 8–13 hertz band changes with eyes opening, attention, sensory processing, arousal and many other ordinary events. A fall in alpha power after a stimulus can be a useful sign that cortex has processed something, but it does not identify the thing. The magnetoreception claim therefore lives in the stimulus geometry, the sham conditions, the polarity tests and the repeat sessions—not in alpha itself.
 
-Wang and colleagues reported that some participants showed substantial alpha-ERD after selected rotations of an Earth-strength magnetic field. The effect emerged over hundreds of milliseconds and lasted on the order of a second or two. Participants did not report a conscious sensation corresponding to the field rotations. The response was stronger in some individuals than others.
+The chamber was built to make those distinctions possible. Participants sat in darkness inside a shielded enclosure while three orthogonal square coil pairs changed the magnetic field around the head. The experimenters could rotate an Earth-strength field while arranging control trials in which coil currents changed without producing the corresponding magnetic rotation at the participant. That matters because a coil experiment is also an experiment in heat, vibration, current switching and whatever tiny acoustic or electrical clues the apparatus happens to make.
 
-This heterogeneity is scientifically inconvenient and biologically plausible.
+The published response was selective. A counterclockwise horizontal rotation from northeast to northwest produced the clearest alpha drop when the static vertical component pointed downward. Reversing that vertical component abolished the reported response. Clockwise rotations did not simply produce a mirror image of the counterclockwise effect.
 
-A weak sensory system might vary with anatomy, developmental calibration, genetics, environmental exposure or neural weighting. But heterogeneous responders are also where false discoveries grow. If the analysis discovers who “responds” after inspecting the same data used to estimate the effect, selection can exaggerate reality. Future work therefore has to preregister how responder status is defined and test it prospectively.
+The asymmetry is what makes the result difficult to file away as either obvious artifact or obvious sixth sense.
 
-The direction asymmetry is equally double-edged. The reported counterclockwise-versus-clockwise difference may contain mechanistic information. It may reflect neural asymmetry, receptor orientation, adaptation or ecological calibration. It may also be a clue that some unnoticed feature of the apparatus differs between stimulus trajectories.
+A simple induction artifact should care about changing fields, not the polarity of a static component. The authors therefore argued that their polarity-sensitive result excluded electrical induction, including induction in the EEG electrodes, as the explanation. They also argued that polarity sensitivity was inconsistent with the simplest axial radical-pair compass, which should treat a magnetic axis similarly when north and south are reversed. A ferromagnetic transducer remained physically compatible with the pattern.
 
-The correct response is not to explain the asymmetry beautifully. It is to attack it experimentally.
+Compatible is doing a great deal of work there.
 
-Rotate the participant rather than the field. Rotate the field in laboratory coordinates while changing head position. Mirror the entire apparatus. Swap coil wiring. Move the experiment to another latitude. Run the same protocol in the Southern Hemisphere. Introduce artificial inclinations corresponding to geomagnetic environments no participant has lived in. If the effect follows head-centered magnetic geometry, that is different from following a particular coil current sequence.
+The experiment did not locate a receptor. It did not show that magnetite in the human brain belongs to a sensory organ. It did not establish that the brain response helps anyone navigate. And it did not make every alternative mechanism disappear merely because two broad mechanism classes failed particular symmetry tests.
 
-The alpha result also opens the door to richer neural measurements. Magnetoencephalography is an obvious temptation and an obvious nightmare because its sensors exist precisely to detect tiny magnetic fields. Functional MRI places the participant in an enormous static field unrelated to the geomagnetic regime. Intracranial recordings are impractical in healthy volunteers. EEG remains unusually suitable because it can operate while Earth-strength fields are manipulated, but it should be complemented with autonomic and behavioral measures that are independently specified.
+There is another complication in the responder structure. Selecting the strongest four participants from an initial sample and then showing that they respond again is a meaningful within-person replication. It is not the same thing as preregistering a responder definition and predicting, before looking, which people will respond in a new cohort. The first procedure asks whether a striking phenotype is stable. The second asks how often the phenotype exists and whether the selection rule generalizes. Human magnetoreception still needs the second experiment.
 
-A replication program could ask whether alpha-ERD predicts anything the participant does not know they know. Does a stronger neural response improve forced-choice discrimination of rotation direction? Does it bias head-turning, reaction time, spatial memory or visual detection? Can a classifier trained on EEG predict magnetic stimulus condition above chance on held-out trials?
+The original paper was unusually helpful here: the journal record provides the digital data and MATLAB analysis code. That turns a vague replication request into a concrete one. Freeze the preprocessing and responder rule from the published analysis, register the primary contrasts, and carry them unchanged into laboratories that did not build the original apparatus.
 
-Those are bridges from transduction to function.
+By September 2026 I can find related human magnetic-sense experiments, but not a clear independent reproduction of this exact EEG alpha-ERD geometry. A 2022 *Scientific Reports* study by Chae and colleagues reported light-dependent magnetic orientation in men using a rotary-chair forced-choice task, with blue-light and radiofrequency dependencies that the authors interpreted through a radical-pair-like mechanism. That is not a replication of Wang's EEG result. It is almost more useful as a complication: a behavioral paper points toward a light-dependent mechanism while the Caltech polarity result was presented as evidence against the simplest axial radical-pair account.
 
-If the alpha effect replicates but never correlates with behavior, the story becomes stranger, not weaker. The human brain may retain an input that evolution no longer routes into useful action.
+Two positive papers using different assays and favoring different mechanism stories do not add up automatically to one confirmed human magnetic sense. They create a prediction problem.
 
-If the effect fails under preregistered multicenter replication, the story becomes simpler. The 2019 result remains an instructive demonstration of how far controls can take a subtle physiological claim before independent reproduction becomes the only control that matters.
+If the same underlying receptor drives both phenomena, changing light spectrum, magnetic polarity and weak radiofrequency fields should produce a coherent pattern across EEG and behavior. If the effects dissociate, at least one mechanistic interpretation is wrong, and perhaps one phenomenon is not magnetic sensing at all. The disagreement is experimentally valuable because it tells us what to manipulate rather than what to believe.
 
-Either outcome is worth having.
+The Northern Hemisphere tuning supplies an even cleaner test. Wang's group found the alpha response with the field inclined downward, the ordinary sign of geomagnetic inclination where their participants lived, but not after inversion of the vertical component. They suggested an ecological tuning rather than a generic physical response. That suggestion should be allowed no poetry until it survives geography.
+
+Run the same frozen protocol in Australia, New Zealand, southern Africa or southern South America with participants raised under upward-pointing geomagnetic inclination. Do not merely ask whether some alpha response appears. Predict the sign in advance. Include people who grew up in one hemisphere and later moved to the other. If developmental calibration matters, birthplace and years of exposure become variables. If the response simply follows whichever field is familiar during the experiment, adaptation becomes measurable on a different timescale.
+
+The apparatus itself should travel too—or, better, two nominally identical systems should cross laboratories. Mirror the coil wiring. Rotate the participant rather than the field in a subset of trials. Instrument vibration, sound, temperature and stray electric fields. Give the analysis team condition-blinded data. A magnetic effect should survive the indignity of having every convenient feature of the original room taken away from it.
+
+Only then is behavior worth leaning on heavily. Does a prospectively identified EEG responder discriminate magnetic rotations above chance? Does response amplitude predict forced-choice performance on held-out trials? Can a classifier trained on one session identify stimulus condition in another? A cortical response with no conscious report is scientifically possible, but the bridge from transduction to useful sense cannot be built out of the word sensory.
+
+The 2019 experiment remains interesting because its strongest feature is not that it produced an alpha drop. It made several ways of producing an alpha drop harder.
+
+Now another laboratory has to make the same drop happen.
