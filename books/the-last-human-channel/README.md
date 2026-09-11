@@ -46,3 +46,4 @@ The aim is a trade-nonfiction book with a classroom afterlife: readable as narra
 - [Research brief](research/README.md)
 - [Chapter briefs](research/chapter-briefs.md)
 - [Source ledger](research/source-ledger.csv)
+- [Publication review](research/publication-review.md)
