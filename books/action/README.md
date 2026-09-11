@@ -4,7 +4,7 @@
 |---|---|
 | **Author**    | Sven Hardy Benson |
 | **Status**    | Drafting |
-| **Chapters**  | 20 of 21 drafted |
+| **Chapters**  | 21 of 21 drafted |
 
 *How America Turned Every Game Into a Bet, and What the House Learned About Everyone Else*
 
@@ -38,7 +38,7 @@ That is not an argument that sports betting should have stayed illegal. The book
 - [x] Ch 10 — Nudge, But Make It Odds
 - [x] Ch 11 — The Broadcast Becomes the Betslip
 - [x] Ch 12 — Prop Bets and the Integrity Problem
-- [ ] Ch 13 — A Very American Relapse
+- [x] [Ch 13 — A Very American Relapse](manuscript/ch13-a-very-american-relapse.md)
 
 ### Part IV — Who Pays, Who Profits
 - [x] Ch 14 — The Numbers Nobody Advertises
