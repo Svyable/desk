@@ -26,6 +26,10 @@ Separate what a source establishes from what the manuscript infers. Prefer
 primary and authoritative evidence when it answers the question, but preserve
 useful secondary synthesis and disagreement too.
 
+## Focused audits
+
+- [Chapter 17 — RealPage primary-source audit](ch17-realpage-primary-audit.md): current DOJ case chronology through September 4, 2026; human-information-sharing counterevidence; settlement/final-judgment boundaries; and separation of competitor-data coordination from FTC surveillance pricing.
+
 ## Reader-facing evidence
 
 Promote evidence a reader needs while reading into manuscript citations,
