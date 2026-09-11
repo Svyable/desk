@@ -1,8 +1,10 @@
 # Agentile research trail
 
-This directory records the sourcing and falsification work for the incomplete working draft of *Agentile*.
+This directory records the sourcing and falsification work for the complete working draft of *Agentile*.
 
-The present manuscript is a conceptual draft, not a fully source-locked edition. Before release, concrete historical, labor-market, productivity, organizational, and legal claims should be checked against primary or high-quality secondary sources and tied to chapter-level notes. The book should preserve evidence that cuts against its thesis, especially findings where current agents slow experts down, fail on long-horizon work, require costly verification, or shift rather than eliminate labor.
+The manuscript is structurally complete but remains deliberately falsifiable. Concrete historical, labor-market, productivity, organizational, legal, commerce, interoperability, ownership, verification, and public-sector claims are tied to primary or high-quality secondary sources through this trail and chapter-level notes. The book preserves evidence that cuts against its thesis, especially findings where agents slow experts down, fail on long-horizon work, require costly verification, or shift rather than eliminate labor.
+
+The September 10, 2026 release fact-check and publication pass supplement the notes below for the Shelf release candidate.
 
 ## Core source families to verify against
 
@@ -83,4 +85,4 @@ Counterevidence preserved in the chapter: reducing administrative burden does no
 
 ## Draft status
 
-Front matter and Chapters 1, 2, 3, 4, 6, 10, and 12 are complete working chapters. Chapter 13 is partial. Other planned chapters are not yet present in the promoted draft.
+The manuscript contains front matter, all 18 planned numbered chapters, the minimum-viable-institution interlude, and back matter. Chapter-level research notes now cover the evidence-heavy second half alongside the core sourcing above. The publication pass records whole-book coherence and falsification boundaries, and the September 10, 2026 release fact-check refreshes the most time-sensitive commerce and persistent-agent claims against current primary sources.
