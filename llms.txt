@@ -46,6 +46,7 @@ The canonical title, author, drafting status, chapter count, and manuscript cont
 - [Face the Strange](https://svyable.github.io/desk/books/face-the-strange/README.md)
 - [Fiscal Wall](https://svyable.github.io/desk/books/fiscal-wall/README.md)
 - [Gatekeepers](https://svyable.github.io/desk/books/gatekeepers/README.md)
+- [Going Once](https://svyable.github.io/desk/books/going-once/README.md)
 - [Gradient Ascent](https://svyable.github.io/desk/books/gradient-ascent/README.md)
 - [Hallucinations](https://svyable.github.io/desk/books/hallucinations/README.md)
 - [Imenent](https://svyable.github.io/desk/books/imenent/README.md)
