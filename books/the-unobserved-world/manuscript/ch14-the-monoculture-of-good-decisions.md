@@ -240,4 +240,8 @@ Not contrarianism for show. Not random opposition. Not a committee member assign
 
 Real alternative policies, backed by enough resources and observation to produce evidence.
 
+An alternative that exists only in a policy manual is not diversity. It has to stay executable. Someone must still know how to run it; the data it needs must still be collected; the permissions, budget, and infrastructure must survive; and the route must be exercised often enough that failure does not first appear during a crisis. Otherwise the system keeps a ceremonial backup while the real capability decays.
+
+This creates a maintenance problem for epistemic diversity. The dominant process gets daily use and constant debugging. The alternative gets hypothetical respect and operational neglect. Over time the comparison becomes unfair: one path is production-hardened, the other brittle from disuse. Preserving a genuine second way can therefore require scheduled trials, rotating ownership, or bounded live traffic—not because the alternative is presumed better, but because a dormant option cannot produce trustworthy evidence about when the standard has stopped fitting.
+
 The future is safer when one good decision is allowed to remain one good decision long enough for another good decision to compete with it.
