@@ -1,0 +1,49 @@
+# Research trail — The Earth That Warns Too Often
+
+This research layer separates observation from interpretation and prediction from mechanism. The manuscript uses four evidence classes in `evidence-ledger.md`, a dated event map in `chronology.md`, and explicit failure criteria in `defeat-conditions.md`.
+
+## Core source families
+
+- VAN / seismic electric signals and the 1996 evaluation dispute
+- Loma Prieta / Corralitos ULF observation and later sensor-system reanalysis
+- Parkfield long-baseline electric and magnetic null tests
+- Haicheng / Tangshan historical prediction record and foreshock context
+- continuously instrumented animal-behavior studies and statistical critique
+- stressed-rock, electrokinetic, piezomagnetic, and positive-hole mechanism literature
+- DEMETER, Swarm, CSES, and GNSS ionospheric / electromagnetic analyses
+- QuakeFinder long-baseline ground magnetometer network
+- Google + QuakeFinder 2022 time-held-out case-control study
+- L'Aquila risk-communication and legal record
+
+## Primary / serious source log
+
+- USGS, **Can you predict earthquakes?** https://www.usgs.gov/faqs/can-you-predict-earthquakes
+- USGS Geomagnetism Program, **Do magnetic variations precede earthquakes?** https://www.usgs.gov/programs/geomagnetism/science/earthquake-prediction
+- Robert J. Geller, **Earthquake prediction: a critical review** (1997), *Geophysical Journal International*. https://doi.org/10.1111/j.1365-246X.1997.tb06588.x
+- P. Varotsos et al., **Basic principles for evaluating an earthquake prediction method** (1996), *Geophysical Research Letters*. https://doi.org/10.1029/96GL00905
+- David D. Jackson, **Earthquake prediction evaluation standards applied to the VAN Method** (1996), *Geophysical Research Letters*. https://doi.org/10.1029/96GL01439
+- P. Varotsos, M. Lazaridou & V. Hadjicontis, **Reply to Jackson** (1996), *Geophysical Research Letters*. https://doi.org/10.1029/96GL00916
+- Yan Y. Kagan, **Statistical tests of VAN earthquake predictions** (1996), *Geophysical Research Letters*. https://doi.org/10.1029/95GL03786
+- A. C. Fraser-Smith et al., **Low-frequency magnetic field measurements near the epicenter of the Ms 7.1 Loma Prieta earthquake** (1990), *Geophysical Research Letters*. https://doi.org/10.1029/GL017i009p01465
+- J. N. Thomas, J. J. Love & M. J. S. Johnston, **On the reported magnetic precursor of the 1989 Loma Prieta earthquake** (2009), *Physics of the Earth and Planetary Interiors*. https://doi.org/10.1016/j.pepi.2008.11.014
+- M. J. S. Johnston et al., **Seismomagnetic effects from the long-awaited 28 September 2004 M6.0 Parkfield earthquake** (2006), *Bulletin of the Seismological Society of America*. https://doi.org/10.1785/0120050810
+- S. K. Park et al., **Electric and magnetic fields associated with the 2004 Parkfield earthquake** (2007), *Journal of Geophysical Research*. https://doi.org/10.1029/2005JB004196
+- Martin Wikelski et al., **Potential short-term earthquake forecasting by farm animal monitoring** (2020), *Ethology*. https://doi.org/10.1111/eth.13078
+- Gert Zöller et al., **Do animals predict earthquakes?** (2021), *Ethology*. https://doi.org/10.1111/eth.13105
+- Akihiro Takeuchi et al., stressed-rock / positive-hole current work (2009). https://doi.org/10.1002/eej.20944
+- Chieh-Hung Kuo et al., **Lithosphere-atmosphere-ionosphere coupling modeled through stress-activated charge carriers** (2011), *Journal of Geophysical Research*. https://doi.org/10.1029/2011JA016628
+- John Scoville, Didier Sornette & Friedemann Freund, **Paradox of peroxy defects and positive holes in rocks** (2015), *Journal of Asian Earth Sciences*. https://doi.org/10.1016/j.jseaes.2015.04.016
+- Friedemann Freund, Guy Ouillon, John Scoville & Didier Sornette, review of pre-earthquake signals / peroxy-defect framework (2021), *European Physical Journal Special Topics*. https://doi.org/10.1140/epjst/e2020-000243-x
+- Rui Yan, Michel Parrot & Jean-Louis Pinçon, statistical DEMETER ion-density study (2017), *Journal of Geophysical Research: Space Physics*. https://doi.org/10.1002/2017JA024623
+- M. Li & Michel Parrot, DEMETER ion-density earthquake analysis (2013), *Journal of Geophysical Research: Space Physics*. https://doi.org/10.1002/jgra.50313
+- Kwangsun Ryu et al., DEMETER equatorial electron-density / large-earthquake study (2014), *Journal of Geophysical Research: Space Physics*. https://doi.org/10.1002/2014JA020284
+- Angelo De Santis et al., **Precursory worldwide signatures of earthquake occurrences on Swarm satellite data** (2019), *Scientific Reports*. https://doi.org/10.1038/s41598-019-56599-1
+- Livio Conti et al., critical review of ground electromagnetic earthquake observations (2021), *Frontiers in Earth Science*. https://doi.org/10.3389/feart.2021.676766
+- Piergiorgio Picozza et al., review of space observations related to earthquake precursors (2021), *Frontiers in Earth Science*. https://doi.org/10.3389/feart.2021.676775
+- Karl Kappler et al., long-baseline QuakeFinder magnetic-pulse / earthquake statistical analysis (2019), *Computers & Geosciences*.
+- William Heavlin et al., **Case-Control Study on a Decade of Ground-Based Magnetometers in California Reveals Modest Signal 24–72 hr Prior to Earthquakes** (2022), *Journal of Geophysical Research: Solid Earth*. https://doi.org/10.1029/2022JB024109
+- ESA, **Swarm mission**. https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Swarm
+
+## Source discipline
+
+A source demonstrating that a mechanism can exist is not treated as evidence that it predicts earthquakes. A satellite mission's existence establishes institutional interest and data collection, not validation. The 2022 Google/QuakeFinder paper is treated as a modest held-out association requiring independent forward replication. The Corralitos trace is retained as an observed historical measurement but not as clean precursor evidence after the 2009 reanalysis.
