@@ -5,8 +5,9 @@ Checked September 11, 2026. Primary, laboratory, peer-reviewed and contemporaneo
 ## Core triggering claim and replication
 
 - C. B. Collins et al., “Accelerated Emission of Gamma Rays from the 31-yr Isomer of 178Hf Induced by X-Ray Irradiation,” *Physical Review Letters* 82, 695 (1999): https://doi.org/10.1103/PhysRevLett.82.695
-- I. Ahmad et al., “Search for X-Ray Induced Acceleration of the Decay of the 31-Yr Isomer of 178Hf Using Synchrotron Radiation,” *Physical Review Letters* 87, 072503 (2001): https://doi.org/10.1103/PhysRevLett.87.072503
+- I. Ahmad et al., “Search for X-Ray Induced Acceleration of the Decay of the 31-Yr Isomer of 178Hf Using Synchrotron Radiation,” *Physical Review Letters* 87, 072503 (2001): https://doi.org/10.1103/PhysRevLett.87.072503. No induced decay was observed. Reported energy-integrated cross-section limits were <2 × 10^-27 cm² keV over 20–60 keV and 5 × 10^-26 cm² keV at 8 keV; the broad-range limit was more than five orders of magnitude below the earlier positive reports. The paper notes that a triggered cascade bypassing the 8− state would weaken the stated limit by about a factor of ten.
 - I. Ahmad et al., follow-up low-energy search, *Physical Review C* 67, 041305(R) (2003), cited in the Argonne APS activity record.
+- I. Ahmad et al., DOE/LLNL technical report, “Search for X-Ray Induced Acceleration of the Decay of the 31-yr Isomer of 178Hf Using Synchrotron Radiation,” UCRL-ID-148266 (2002): https://doi.org/10.2172/15004655. Useful experimental-detail record: ~10^15 isomer atoms per sample, APS 1-ID white-beam flux peaking near 2 × 10^15 photons/(keV·s) around 16 keV, 11-s beam-on / 22-s beam-off chopping, and roughly eight-hour irradiations for each of three samples.
 - Argonne Advanced Photon Source, “Physicists Challenge Reports of Accelerated Decay of Nuclear Excited State,” describing the tri-laboratory test and null: https://www.aps.anl.gov/APS-News/2017/physicists-challenge-reports-of-accelerated-decay-of-nuclear-excited-state
 - Argonne APS activity report, “Search for X-ray-induced Decay of the 31-year Isomer,” including upper limits and references: https://www.aps.anl.gov/sites/www.aps.anl.gov/files/APS-sync/activity_reports/apsar2002/BECKERJ1.PDF
 
@@ -35,6 +36,8 @@ Checked September 11, 2026. Primary, laboratory, peer-reviewed and contemporaneo
 ## Claim boundaries
 
 - “Peer reviewed” is not treated as “replicated.”
+- The APS result strongly contradicts the magnitude of the early triggering claim over the tested energies and observed cascade, but it is not described as proving that every conceivable photon-triggered pathway in 178m2Hf is impossible.
+- A factor-of-ten weakening for a cascade bypassing the monitored 8− state does not by itself reconcile a discrepancy exceeding five orders of magnitude.
 - Program existence is not treated as proof of capability.
 - Foreign interest is not treated as foreign possession.
 - Patents, briefing slides and weapon renderings are evidence of proposal and imagination, not demonstrated performance.
