@@ -1,8 +1,8 @@
-# Rights & permissions — The Expiration Economy
+# Rights & permissions — Built to End
 
 © 2026 Sven Hardy Benson. All Rights Reserved.
 
-**Work:** *The Expiration Economy*  
+**Work:** *Built to End*  
 **Author and copyright owner:** Sven Hardy Benson  
 **Rights profile:** `bookself-arr-v1`
 

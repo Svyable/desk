@@ -1,8 +1,8 @@
-# Rights & permissions — The Deletion Economy
+# Rights & permissions — Negative Assets
 
 © 2026 Sven Hardy Benson. All Rights Reserved.
 
-**Work:** *The Deletion Economy*  
+**Work:** *Negative Assets*  
 **Author and copyright owner:** Sven Hardy Benson  
 **Rights profile:** `bookself-arr-v1`
 
