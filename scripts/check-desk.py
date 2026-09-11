@@ -32,6 +32,27 @@ SOURCE_LEDGER_FIELDS = (
     "book_use",
     "url",
 )
+EXTENDED_SOURCE_LEDGER_FIELDS = (
+    "source_id",
+    "chapter",
+    "accessed_date",
+    "publication_date",
+    "author_or_institution",
+    "title",
+    "source_type",
+    "claim_or_use",
+    "url",
+    "notes",
+)
+EXTENDED_REQUIRED_FIELDS = (
+    "source_id",
+    "chapter",
+    "accessed_date",
+    "title",
+    "source_type",
+    "claim_or_use",
+    "url",
+)
 SOURCE_RECORD_FIELDS = SOURCE_LEDGER_FIELDS[1:]
 
 
@@ -90,16 +111,19 @@ def register_source(
     location: str,
     seen_ids: dict[str, str],
     seen_urls: dict[str, str],
+    *,
+    require_unique_url: bool = True,
 ) -> None:
     if source_id in seen_ids:
         fail(f"{location} duplicates source id {source_id!r} from {seen_ids[source_id]}")
     else:
         seen_ids[source_id] = location
 
-    if url in seen_urls:
-        fail(f"{location} duplicates source URL {url!r} from {seen_urls[url]}")
-    else:
-        seen_urls[url] = location
+    if require_unique_url:
+        if url in seen_urls:
+            fail(f"{location} duplicates source URL {url!r} from {seen_urls[url]}")
+        else:
+            seen_urls[url] = location
 
 
 def check_source_ledger(
@@ -111,10 +135,22 @@ def check_source_ledger(
     try:
         with path.open(encoding="utf-8", newline="") as handle:
             reader = csv.DictReader(handle)
-            if tuple(reader.fieldnames or ()) != SOURCE_LEDGER_FIELDS:
+            fields = tuple(reader.fieldnames or ())
+            if fields == SOURCE_LEDGER_FIELDS:
+                source_id_field = "id"
+                required_fields = SOURCE_LEDGER_FIELDS
+                require_unique_url = True
+            elif fields == EXTENDED_SOURCE_LEDGER_FIELDS:
+                source_id_field = "source_id"
+                required_fields = EXTENDED_REQUIRED_FIELDS
+                # The publication ledger is claim-oriented: one article, filing,
+                # or study may legitimately support more than one row/chapter.
+                require_unique_url = False
+            else:
                 fail(
-                    f"{relative} has unexpected columns; expected "
-                    f"{', '.join(SOURCE_LEDGER_FIELDS)}"
+                    f"{relative} has unexpected columns; expected either legacy "
+                    f"({', '.join(SOURCE_LEDGER_FIELDS)}) or publication "
+                    f"({', '.join(EXTENDED_SOURCE_LEDGER_FIELDS)}) schema"
                 )
                 return 0
 
@@ -126,17 +162,18 @@ def check_source_ledger(
                     fail(f"{location} has too many CSV fields")
                     continue
 
-                missing = [field for field in SOURCE_LEDGER_FIELDS if not (row[field] or "").strip()]
+                missing = [field for field in required_fields if not (row[field] or "").strip()]
                 if missing:
-                    fail(f"{location} has empty fields: {', '.join(missing)}")
+                    fail(f"{location} has empty required fields: {', '.join(missing)}")
                     continue
 
                 register_source(
-                    (row["id"] or "").strip(),
+                    (row[source_id_field] or "").strip(),
                     (row["url"] or "").strip(),
                     location,
                     seen_ids,
                     seen_urls,
+                    require_unique_url=require_unique_url,
                 )
     except csv.Error as exc:
         fail(f"{relative} is not valid CSV: {exc}")
@@ -192,12 +229,13 @@ def check_book_sources(book_dir: Path) -> tuple[int, int]:
     ledger_count = 0
     source_count = 0
 
-    ledger = book_dir / "research" / "source-ledger.csv"
-    if ledger.is_file():
-        ledger_count = 1
+    research_dir = book_dir / "research"
+    ledgers = sorted(research_dir.glob("source-ledger*.csv")) if research_dir.is_dir() else []
+    for ledger in ledgers:
+        ledger_count += 1
         source_count += check_source_ledger(ledger, seen_ids, seen_urls)
 
-    fragments = sorted((book_dir / "research" / "sources").glob("*.json"))
+    fragments = sorted((research_dir / "sources").glob("*.json"))
     source_count += sum(
         check_source_fragment(path, seen_ids, seen_urls)
         for path in fragments
@@ -354,6 +392,6 @@ if FAILED:
 
 print(
     f"Desk integrity check passed: {len(book_dirs)} books are cataloged consistently; "
-    f"{ledger_count} legacy source ledgers plus source fragments contain "
-    f"{source_count} unique records."
+    f"{ledger_count} source ledgers plus source fragments contain "
+    f"{source_count} unique source records."
 )

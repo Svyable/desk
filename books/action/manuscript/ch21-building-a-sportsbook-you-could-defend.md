@@ -1,0 +1,113 @@
+# Building a Sportsbook You Could Defend
+
+Connecticut's state-commissioned gambling study estimated that 1.8 percent of adults were problem gamblers and another 4.9 percent were at risk — fewer than seven percent of the adult population between the two groups. Using self-reported gambling expenditures, the researchers estimated that problem and at-risk gamblers together accounted for roughly 70.6 percent of revenue across legal gambling forms. Narrow the lens to sports betting specifically and the estimate gets starker: the study attributed 51 percent of sports-betting revenue to problem gamblers alone. Those are modeled estimates built from survey data, not a forensic allocation of every dollar an operator collected, and they should be read with that limitation visible. They are still hard to reconcile with a regulatory framework that treats harm as a peripheral customer-service problem. A restaurant that estimated most of its revenue came from a small number of customers with a diagnosed eating disorder would not be described as having only a marketing problem. Sports betting deserves the same seriousness about concentration even while the exact percentages remain estimates rather than audited operator ledgers.
+
+This chapter does not propose banning the product that generates those numbers. Chapter 17 made the strongest available case for why that would be a mistake, and this book has not found evidence in the chapters since that would change that conclusion: the illegal market this legal one replaced offered no self-exclusion, no dispute resolution, and, as the November 2025 New Jersey indictment of a Lucchese-linked bookmaking ring recruiting college athletes showed, has never actually disappeared — it has simply lost the customers a regulated operator will still serve, while continuing to recruit the ones a regulated operator, under current rules, is allowed to keep serving anyway. The honest problem this book has documented across twenty chapters is not that a legal, taxed, monitored sports betting market exists. It is that the specific market states built after 2018, with no federal consumer-protection floor beneath them, was engineered — deliberately, at the product level, using the same behavioral research slot-machine manufacturers pioneered a half-century earlier — to maximize how much and how often its heaviest users bet, while the systems intended to constrain harm remain fragmented. What follows is not a wish list assembled from imaginary mechanisms. Some of the mechanisms are already operating elsewhere, some have been piloted, and some have been enacted but not yet taken effect. That distinction matters. The question this chapter asks is narrower and more answerable than "should sports betting exist": what would it take to build the version of this product that a state regulator, a company's own board, or a member of Congress could actually defend in public, with the same rigor this book has tried to bring to every claim in its preceding chapters?
+
+Start with financial-risk screening, not because another country has already proven a magic loss-reduction number, but because Britain has shown the architecture can be built with much less friction than opponents often imply. The live British system is a light-touch **financial vulnerability check** based on public records, triggered once net deposits exceed £150 in a rolling thirty-day period. A separate **Financial Risk Assessment** system using limited credit-reference data for a much smaller group of high-spending customers went through a national pilot rather than a full live rollout. In July 2026 the Gambling Commission announced staged implementation and said that, when fully implemented, fewer than three percent of accounts should require an assessment; about 97 percent of those assessments are expected to be frictionless and document-free. That is not evidence that losses fell 22 percent — an earlier draft of this book wrongly claimed such an outcome — but it is evidence that targeted screening does not have to mean asking every ordinary bettor for bank statements. A defensible American version would begin from the same principle: low or zero additional friction for ordinary play, escalating scrutiny only when spending and independent financial-risk indicators justify it, with outcomes measured after intervention rather than assumed in advance.
+
+The self-exclusion gap this book has returned to in three separate chapters is the second mechanism, and it may be the easiest to fix relative to how much harm its absence currently permits. Nevada, this book's own steelman chapter noted, has no statewide law letting a gambler exclude themselves from in-person casino gambling at all — only a voluntary arrangement that can stop direct marketing without necessarily creating a universal barrier to gambling itself. Most other states do somewhat better, requiring some form of self-exclusion from licensed operators, but every state's list stops at its own border. Australia's BetStop register demonstrates that a national, single-registration system is not a hypothetical proposal awaiting some unbuilt technology. By June 30, 2026, the Australian Communications and Media Authority reported 65,430 cumulative registrations and 40,160 active exclusions from all licensed online and phone wagering providers. Enforcement is imperfect — ACMA found more than 500 BetStop-related breaches by Entain businesses in 2026 — but that imperfection is itself evidence of what a national system makes visible and enforceable. A small coalition of American daily fantasy operators had also begun experimenting with cross-operator exclusion by 2026. What a federal or interstate minimum standard would add is not the core technology. It would add universal participation, interoperability and consequences when an operator ignores a customer's request to stop.
+
+The advertising and promotional-design questions this book's middle chapters spent the most pages on are harder to legislate cleanly than a screening threshold or a shared exclusion list, because an advertising rule has to draw a line through language, timing and format. Australia's 2026 law offers the clearest enacted model available at this book's research cutoff, but its core provisions do not commence until January 1, 2027, so it should be treated as a design to watch rather than a proven outcome. The law prohibits wagering advertising during live sports coverage, caps television wagering advertisements at three in any sixty-minute period between 5:00 a.m. and 8:30 p.m., restricts online wagering advertising to logged-in adults who have not opted out, and limits the use of athletes, celebrities and odds promotion. A comparable American rule would not require Congress to ban every sponsorship or sportsbook advertisement. It would end the specific pattern chapter 11 examined at length — the broadcast becoming the betslip, in real time, mid-play — while preserving a legal operator's ability to advertise outside the protected contexts. Australia's three-year legislative fight also shows how politically expensive even a compromise can become once leagues, broadcasters and operators all have revenue tied to the status quo.
+
+Money is the fourth mechanism, and it is the one this book's earlier chapters have shown American states are, collectively, handling worst. GamingToday's 2026 survey of state problem-gambling funding found New Jersey — a state that collected roughly $2.1 billion in combined online gaming and sports betting revenue in 2025 alone — allocated less than a tenth of one percent of that revenue to treatment and prevention; Pennsylvania dedicated roughly 0.2 percent, Michigan roughly 0.3 percent. Against that baseline, the states that have actually built something defensible are not hypothetical models borrowed from another country; they are sitting in the same fifty-state system chapter 15 spent an entire chapter describing as an uncoordinated patchwork. Massachusetts directs 9 percent of its sports betting revenue specifically to a Public Health Trust Fund built to research and reduce problem gambling — a figure roughly ninety times New Jersey's own share of a considerably larger revenue base. Illinois requires 25 percent of its sports betting tax revenue, the same tiered, per-wager-surcharged tax structure chapter 15 examined in detail, to fund problem-gambling prevention, education, treatment, and provider training and credentialing. The National Council on Problem Gambling's own recommended floor — at minimum 1 percent of gross gaming revenue dedicated to treatment, a threshold most states, chapter 17 showed, do not clear even now — is not an aspirational target invented for this book's closing chapter. The money exists. What often does not exist is a durable legal requirement that enough of it be measured against treatment capacity, prevention and independent research rather than absorbed into a general fund.
+
+None of these four mechanisms — targeted financial-risk screening, a shared exclusion system, advertising limits, and a dedicated funding floor — requires resolving every jurisdictional fight chapters 16 and 18 documented. New Jersey filed a petition in September 2026 asking the Supreme Court to review whether federal commodities law preempts state regulation of Kalshi's sports event contracts; as this book goes to press, that petition is pending, not a Supreme Court merits decision. A consumer-protection floor could be drafted to focus on the customer-facing activity rather than pretending the underlying classification fight has already been settled. Nor does every American jurisdiction have to adopt an identical tax rate or treatment allocation. New York can keep a high tax rate; Massachusetts can exceed a federal or interstate funding minimum; tribes and states can negotiate compacts that preserve sovereign authority while still recognizing interoperable exclusion credentials. The British experience is useful here only at the level it has actually earned: a targeted screening design can be structured so that only a small fraction of accounts require an assessment and almost all of those assessments can be frictionless. That is a design constraint worth importing, not a foreign efficacy number worth pretending has already been proved.
+
+What stands between the mechanisms this chapter has described and American adoption is not a missing idea. Some components already exist in U.S. states, some exist nationally abroad, and others have reached enactment or staged implementation elsewhere. The remaining problem is coordination: federal lobbying, fifty state legislatures, state gaming agencies, tribal compacts, competing operator incentives, and the ordinary political difficulty of imposing a cost on an industry whose tax revenue governments already spend. That collective-action problem is exactly why minimum standards are attractive and exactly why they are hard. Britain and Australia each have a national regulator and national legislation capable of moving an entire licensed market at once. The United States does not. A serious American design therefore has to solve for institutional fragmentation rather than merely copy a foreign statute and assume the constitutional and sovereign pieces will fit.
+
+## The audit trail a defensible market would leave
+
+There is a way to tell whether those four mechanisms are serious policy or merely nicer language around the same product.
+
+Make each one leave an audit trail.
+
+A financial-risk check should not be judged by how many checks were performed. That is a compliance count, not an outcome. The useful questions come after the check. How many customers were identified? How many received no-friction clearance? How many were asked for more information? How many had deposit or loss limits imposed? What happened to their wagering in the next seven, thirty, and ninety days? How many simply opened a second account with another operator?
+
+A shared exclusion system should not be judged by registrations alone. Measure attempted access after exclusion. Measure how quickly every participating operator blocks the credential. Measure marketing contacts after exclusion. Measure attempted re-registration using a new email address, payment method, or device. Publish the false-positive rate too, because a safety system that regularly blocks the wrong person will lose legitimacy and eventually be weakened.
+
+An advertising rule should be measurable without hiring a room full of people to argue about whether a celebrity's sentence felt promotional. Count exposures. Count minutes. Count the number of commercial betting prompts delivered during live play. Separate national broadcasts, team-owned channels, social media, push notifications, and direct account messages. A regulator should be able to say not simply that advertising is “responsible,” but that a seventeen-year-old watching an ordinary game is exposed to fewer betting prompts this season than last season under a rule designed to produce that result.
+
+A funding floor should be the easiest audit of all. Dollars collected. Dollars appropriated. Dollars actually spent. Treatment slots created. Counselors trained. Research datasets produced. Waiting times for care. Helpline referrals completed rather than merely offered. If a state announces that one percent of gaming revenue is dedicated to harm reduction and then allows the money to sit unspent in a fund, the percentage is a press release, not a program.
+
+This is where the book's argument becomes less ideological than it may first appear.
+
+A good audit can prove the critics wrong.
+
+If financial-risk checks identify very few customers and those customers show no meaningful financial distress, publish that. If loss concentration remains modest even after regulators require operators to report it consistently, publish that. If a national exclusion system prevents very little additional gambling because state systems were already working well, publish that. If advertising caps have no effect on youth exposure or betting behavior, publish that too.
+
+The point of measurement is not to guarantee one side a victory. It is to make failure visible whichever side owns it.
+
+The first wave of sports-betting law did almost the opposite. It standardized the easiest measures for industry and government to celebrate—handle, gross gaming revenue, tax receipts, account registrations—while leaving the measures most likely to reveal concentrated harm fragmented, proprietary, or nonexistent.
+
+A defensible market would reverse that informational asymmetry.
+
+It would publish enough for an outsider to test whether the safety system changes behavior rather than merely creating another button in the settings menu.
+
+## The product has to be allowed to lose a customer
+
+There is a deeper test beneath all four mechanisms.
+
+At some point, a safety system has to be allowed to cost the company money.
+
+That sounds obvious until it reaches a real account.
+
+Imagine a customer who has wagered for three years without incident. Over six weeks the deposits accelerate, the average stake rises, late-night sessions become more frequent, and the customer begins cancelling withdrawals and redepositing the money. The account is profitable. The customer answers a VIP host immediately. The same behavioral change that makes the account more valuable also makes it more concerning.
+
+What happens next tells you what the system is for.
+
+If the risk model sends a generic message while the marketing model continues to offer personalized promotions, the company has not resolved the conflict. It has automated both sides of it.
+
+If a safer-gambling team can recommend a cooling-off period but a commercial manager can override the recommendation because the customer is valuable, the intervention policy is subordinate to revenue.
+
+If the operator voluntarily closes or limits the account and the customer can move every remaining dollar of activity to a competitor in ten minutes, the market has turned one firm's responsible decision into another firm's acquisition opportunity.
+
+A federal floor matters partly because it changes that competitive equation. The operator that intervenes should not be punished for intervening. The company that refuses to chase the riskiest revenue should not surrender those customers to the company with the weakest standards.
+
+That is what regulation does when it works well: it makes the expensive responsible choice mandatory enough that firms can stop pretending the cheapest irresponsible choice is forced on them by competition.
+
+The same principle applies to product design.
+
+If live micro-betting produces unusually high loss velocity among a narrow group, a regulator should be able to slow or limit that feature even if customers enjoy it. If a promotion reliably reactivates customers immediately after cooling-off periods, the promotion should be restricted even if it performs beautifully in a marketing experiment. If VIP outreach is associated with customers who have already triggered risk markers, the company should have to demonstrate why contact continued rather than relying on the fact that the customer never explicitly asked it to stop.
+
+A sportsbook you could defend is therefore not a sportsbook with perfect warning copy.
+
+It is a sportsbook whose internal rules permit the safety system to win a dispute against the growth system.
+
+That will sometimes mean losing handle.
+
+It will sometimes mean losing a high-value account.
+
+It may mean accepting that a product feature capable of increasing revenue is not worth offering in its fastest or most personalized form.
+
+The regulated industry's strongest argument has always been that legal operators can do things illegal bookmakers cannot: know the customer, secure the money, honor disputes, enforce exclusion, detect suspicious betting, and answer to a regulator.
+
+The logical conclusion of that argument is not merely that legal operators should be permitted to exist.
+
+It is that they should be required to use the advantages that justify their existence.
+
+## What success would look like
+
+The final mistake would be to define success as zero gambling harm.
+
+No legal market can promise that. Neither can prohibition.
+
+A defensible standard is comparative and measurable.
+
+The recreational customer should be able to place an ordinary wager with little more friction than today. A customer whose behavior becomes sharply riskier should encounter more friction than today. A person who asks to stop should be able to stop across the regulated market, not one operator at a time. A state collecting tax revenue should know how concentrated the underlying losses are. A regulator should be able to distinguish a safety intervention that changed behavior from one that merely satisfied a disclosure requirement.
+
+And the system should get better at those things over time.
+
+That means publishing baselines before rules change. It means preserving enough data to compare cohorts. It means letting independent researchers test the same claims operators and regulators make about themselves. It means designing privacy protections that permit aggregate accountability without creating a public registry of individual gamblers. It means reporting uncertainty instead of laundering every estimate into a headline.
+
+Most of all, it means refusing the convenient idea that legality itself is the safety feature.
+
+Legality is the precondition for enforceable safety features.
+
+The distinction is the reason this book ends here rather than at the Supreme Court decision where it began. *Murphy* answered who could authorize sports betting. It did not answer how fast the product should be, how much customer behavior an operator should be allowed to exploit, when a profitable account becomes a dangerous one, which data should follow a customer across companies, or what evidence a state should demand before calling its market successful.
+
+Those are not cleanup questions around the edges of legalization.
+
+They are the design specification for its second generation.
+
+Return, for a final image, to something this book has already shown the reader rather than invented for the occasion. In a betting shop on an ordinary British high street, the machine that used to accept £100 in a single spin — the machine campaigners spent years calling the crack cocaine of gambling, the machine that was, by some bookmakers' own accounting, generating close to half their profit before 2019 — is still there. It still lights up, still spins, still pays out. The screen still asks the same question it always asked. What changed is a single number, printed now on the machine's own interface: a maximum stake of two pounds, not one hundred, chosen not because the industry offered it voluntarily but because Parliament, faced with Jack Ritchie's story and thousands like it that never made a headline, decided the difference between those two numbers was the entire argument. Nothing about the machine's underlying appeal was removed. The bright screen, the twenty-second cycle, the near-miss animation this book's earlier chapters showed American app designers borrowing from slot-machine research decades old — all of it is still exactly as engineered as it was in 2018, still built by the same behavioral logic, still standing in the same shop. Only the ceiling on how much a single spin can take from a single person in a single moment of bad judgment actually moved. That is not a solution to gambling. It is not even a solution to fixed-odds betting terminals, which still exist, still profit, still occasionally still hurt somebody in a shop on a Tuesday afternoon. It is a demonstration that an industry this book has spent twenty-one chapters showing knows exactly how to engineer a product toward maximum extraction can be told, by a government willing to say so and mean it, precisely how far that engineering is allowed to go — and that the industry, however loudly it predicts catastrophe beforehand, generally finds a way to keep operating anyway. The American sportsbook industry has never once been told that. It has been asked, occasionally, by a state commission here or a stalled bill in Washington there. It has never once, since May 14, 2018, actually been told. This book's argument, across every chapter that came before this one, is that the difference between asking and telling is not a technicality. It is the entire remaining distance between the legal market this country actually built and the one it could still choose to defend.
