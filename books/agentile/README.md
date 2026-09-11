@@ -7,7 +7,7 @@
 | | |
 |---|---|
 | **Authors**   | Sven Hardy Benson |
-| **Status**    | Drafting |
+| **Status**    | Complete draft · publication candidate |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf public proof |
 | **Chapters**  | 18 complete of 18 planned + interlude |
@@ -16,7 +16,7 @@
 
 The working thesis is that agentic software creates a new economic capability: delegated intention becoming cheap, persistent, parallel, and programmable. The book follows the consequences when software begins to behave partly like labor and partly like capital—changing the cost of delegation, the shape of firms, queues and coordination, entrepreneurship, management, wages, ownership, verification, interoperability, public capacity, and responsibility.
 
-The complete first draft contains front matter, all 18 planned numbered chapters, an interlude on the minimum viable institution, and back matter that records the book’s main falsification boundaries. It remains in **Drafting** while the manuscript undergoes whole-book revision, evidence checking, structural tightening, and proof promotion; it is not yet a Published edition.
+The complete first draft contains front matter, all 18 planned numbered chapters, an interlude on the minimum viable institution, and back matter that records the book’s main falsification boundaries. The manuscript is now a **publication candidate**: structurally complete, with a whole-book release pass identifying the remaining current-source, repetition, and proof-promotion checks. It is not yet a Published edition; Shelf remains a deliberate snapshot boundary.
 
 ## Contents
 
@@ -45,6 +45,7 @@ The complete first draft contains front matter, all 18 planned numbered chapters
 ## Research
 
 - [Research trail and verification notes](research/README.md)
+- [Publication pass — whole-book coherence, falsification boundaries, and release gate](research/publication-pass.md)
 - [Chapter 5 — The Permissioned Manager research note](research/ch05-permissioned-manager.md)
 - [Chapter 7 — Capital That Clocks In research note](research/ch07-capital-that-clocks-in.md)
 - [Chapter 8 — Machine Customers research note](research/ch08-machine-customers.md)
