@@ -12,7 +12,7 @@
 
 The complete draft follows what happens when rapidly improving intelligence collides with systems that do not move on the same curve. Its emphasis is not a single prediction date but the migration of bottlenecks: from cognitive production toward judgment, verification, trust, physical throughput, institutional absorption, legitimate authority, and adaptation time.
 
-The manuscript is structurally complete and now includes an afterword plus explicit falsification and release boundaries. It remains a Desk **publication candidate** until current-source claims are refreshed and an explicit reviewed snapshot is promoted to Sven Hardy Benson’s Shelf.
+The manuscript is structurally complete and includes an afterword plus explicit falsification and release boundaries. The publication pass records the current-source refresh, repetition, and release checks. Shelf editions are deliberate snapshots of committed Desk revisions rather than live mirrors of ongoing work.
 
 ## Contents
 
