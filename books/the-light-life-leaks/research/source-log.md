@@ -37,8 +37,11 @@ Checked 2026-09-10 unless otherwise noted. Links point to primary papers, offici
 
 ## Non-contact / mitochondria
 
-- “Non-chemical signalling between mitochondria,” PubMed PMID 37811497 (2023): https://pubmed.ncbi.nlm.nih.gov/37811497/
+- Rhys R. Mould, Ifigeneia Kalampouka, E. Louise Thomas, Geoffrey W. Guy, Alistair V. W. Nunn, Jimmy D. Bell, “Non-chemical signalling between mitochondria,” *Frontiers in Physiology* 14:1268075 (2023), DOI 10.3389/fphys.2023.1268075: https://doi.org/10.3389/fphys.2023.1268075. Full text audited 2026-09-10. Three quartz cuvettes were arranged window-to-window; the central sample received antimycin, one untreated receiver was unshielded and the other was separated by an opaque aluminum-foil barrier. Receivers were Parafilm-capped rather than demonstrated hermetically isolated. The ambient-light experiment reported significant shielded/unshielded OCR differences in both MCF7 and MCF10A preparations (n=12); a buffer-only receiver control was nonsignificant (n=3). Dark-condition results retained barrier-dependent differences, while the direct light-versus-dark comparison was significant for MCF7 but not MCF10A. The study did not simultaneously measure UPE flux or spectrum during the receiver assay. Claim boundary: the barrier intervention strengthens evidence for a real apparatus-dependent coupling but is not photon-specific, because foil can alter more than optical transmission.
+- Richard R. Mould, E. Louise Thomas, Geoffrey W. Guy, Alistair V. W. Nunn, Jimmy D. Bell, “Cell-cell death communication by signals passing through non-aqueous environments: A reply,” *Results in Chemistry* 4 (2022), 100538, DOI 10.1016/j.rechem.2022.100538: https://doi.org/10.1016/j.rechem.2022.100538. The 2023 mitochondria paper cites this follow-up as showing that an earlier apparent non-aqueous/UPE-mediated cell-death effect depended on solvent volatility, favoring volatile communication instead. This is important disconfirming precedent from the same research lineage.
+- Ondřej Kučera, Michal Cifra, “Cell-to-cell signaling through light: just a ghost of chance?” *Cell Communication and Signaling* 11, 87 (2013), DOI 10.1186/1478-811X-11-87: https://doi.org/10.1186/1478-811X-11-87. Key counterargument: reported UPE intensities may be too low for reliable biological detection above cellular noise, and experiments must exclude non-optical channels rather than infer light from separation alone.
 - Èva Hideg, Masaki Kobayashi, Humio Inaba, “Spontaneous ultraweak light emission from respiring spinach leaf mitochondria,” *Biochimica et Biophysica Acta* 1098 (1991), DOI 10.1016/0005-2728(91)90005-9: https://doi.org/10.1016/0005-2728(91)90005-9
+- Replication search checked 2026-09-10 using the exact 2023 title, DOI, authors, and combinations of “replication”/“critique.” No clear independent replication of the specific three-cuvette mitochondrial assay was identified. This is recorded as a search result, not as evidence that no replication exists.
 
 ## Neural claims / optical tissue context
 
@@ -75,7 +78,7 @@ Checked 2026-09-10 unless otherwise noted. Links point to primary papers, offici
 ## Highest-priority source gaps
 
 1. Full reconstruction of Gurwitsch's original onion-root experimental record and major replications before 1934.
-2. Primary full text and raw methods for the 2023 mitochondria non-contact study, followed by an independent replication search.
+2. Independent replication or direct critique of the 2023 three-cuvette mitochondrial assay, ideally with simultaneous photon, thermal, volatile, vibration, and electromagnetic measurements.
 3. Modern photon-correlation / coherence experiments using calibrated HBT-style methods.
 4. Independent replications or critiques of the 2024 DNA-emission paper.
 5. Underlying primary neural-UPE studies summarized by the 2026 Neurology review.
