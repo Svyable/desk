@@ -1,8 +1,8 @@
-# Rights & permissions — The Expiration Machine
+# Rights & permissions — Trust With a Fuse
 
 © 2026 Sven Hardy Benson. All Rights Reserved.
 
-**Work:** *The Expiration Machine*  
+**Work:** *Trust With a Fuse*  
 **Author and copyright owner:** Sven Hardy Benson  
 **Rights profile:** `bookself-arr-v1`
 

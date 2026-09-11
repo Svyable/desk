@@ -1,4 +1,4 @@
-# The Expiration Economy
+# Built to End
 
 <!-- bookself-reader-links:start -->
 **Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/the-expiration-economy/)
@@ -16,7 +16,7 @@
 
 The modern world is exceptionally good at beginnings. We can launch a product, create a file, pass a rule, deploy a model, open an account, spin up a service, publish an artifact, and automate a process faster than any previous civilization. We are much worse at endings.
 
-The working thesis of *The Expiration Economy* is that this imbalance becomes economically decisive when creation gets cheap. Generative AI does not merely increase the supply of text, code, images, plans, agents, workflows, and decisions. It increases the stock of things that somebody must later inspect, maintain, secure, archive, migrate, retire, repeal, delete, decommission, forgive, transfer, or deliberately forget. The hidden cost of abundance is the burden of everything that remains alive after its usefulness has passed.
+The working thesis of *Built to End* is that this imbalance becomes economically decisive when creation gets cheap. Generative AI does not merely increase the supply of text, code, images, plans, agents, workflows, and decisions. It increases the stock of things that somebody must later inspect, maintain, secure, archive, migrate, retire, repeal, delete, decommission, forgive, transfer, or deliberately forget. The hidden cost of abundance is the burden of everything that remains alive after its usefulness has passed.
 
 This book follows the end-of-life problem across software, personal data, law, infrastructure, biology, ecology, memory, bankruptcy, markets, organizations, security standards, artificial intelligence, succession, reversibility, user exit rights, long-tail support, founder dependence, urban systems, autonomous authority, digital estates, and the businesses that will emerge to make cleanup as scalable as creation. Its claim is not that everything should be disposable. Some things should last for centuries. The harder design question is whether a system knows the difference between what deserves preservation and what merely persists because nobody owns the work of ending it.
 
