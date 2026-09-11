@@ -4,7 +4,7 @@
 |---|---|
 | **Author**    | Sven Hardy Benson |
 | **Status**    | Drafting |
-| **Chapters**  | 0 of 21 drafted |
+| **Chapters**  | 20 of 21 drafted |
 
 *How America Turned Every Game Into a Bet, and What the House Learned About Everyone Else*
 
@@ -22,35 +22,35 @@ That is not an argument that sports betting should have stayed illegal. The book
 
 ### Part I — The Line Moves to Every Pocket
 - [ ] Front Matter
-- [ ] Ch 1 — Kickoff
-- [ ] Ch 2 — The Law That Banned Everything
-- [ ] Ch 3 — Nevada's Fifty-Year Monopoly
-- [ ] Ch 4 — New Jersey's Bet on Itself
+- [x] Ch 1 — Kickoff
+- [x] Ch 2 — The Law That Banned Everything
+- [x] Ch 3 — Nevada's Fifty-Year Monopoly
+- [x] Ch 4 — New Jersey's Bet on Itself
 
 ### Part II — Building the Machine
-- [ ] Ch 5 — Daily Fantasy's Bait and Switch
-- [ ] Ch 6 — Free Money
-- [ ] Ch 7 — How a Line Is Really Set
-- [ ] Ch 8 — In-Play
-- [ ] Ch 9 — The Whale Hunters
+- [x] Ch 5 — Daily Fantasy's Bait and Switch
+- [x] Ch 6 — Free Money
+- [x] Ch 7 — How a Line Is Really Set
+- [x] Ch 8 — In-Play
+- [x] Ch 9 — The Whale Hunters
 
 ### Part III — The Psychology of the App
-- [ ] Ch 10 — Nudge, But Make It Odds
-- [ ] Ch 11 — The Broadcast Becomes the Betslip
-- [ ] Ch 12 — Prop Bets and the Integrity Problem
+- [x] Ch 10 — Nudge, But Make It Odds
+- [x] Ch 11 — The Broadcast Becomes the Betslip
+- [x] Ch 12 — Prop Bets and the Integrity Problem
 - [ ] Ch 13 — A Very American Relapse
 
 ### Part IV — Who Pays, Who Profits
-- [ ] Ch 14 — The Numbers Nobody Advertises
-- [ ] Ch 15 — The States That Said Yes
-- [ ] Ch 16 — Congress Watches From the Sidelines
-- [ ] Ch 17 — The Counter-Argument
+- [x] Ch 14 — The Numbers Nobody Advertises
+- [x] Ch 15 — The States That Said Yes
+- [x] Ch 16 — Congress Watches From the Sidelines
+- [x] Ch 17 — The Counter-Argument
 
 ### Part V — The Next Line
-- [ ] Ch 18 — When the Line Blurs Into a Market
-- [ ] Ch 19 — Other Countries Already Ran This Experiment
-- [ ] Ch 20 — The House Edge on Democracy
-- [ ] Ch 21 — Building a Sportsbook You Could Defend
+- [x] Ch 18 — When the Line Blurs Into a Market
+- [x] Ch 19 — Other Countries Already Ran This Experiment
+- [x] Ch 20 — The House Edge on Democracy
+- [x] Ch 21 — Building a Sportsbook You Could Defend
 - [ ] Back Matter
 
 ## Working thesis
