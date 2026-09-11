@@ -1,8 +1,8 @@
-# Rights & permissions — The Installed World
+# Rights & permissions — Installed World
 
 © 2026 Sven Hardy Benson. All Rights Reserved.
 
-**Work:** *The Installed World*  
+**Work:** *Installed World*  
 **Author and copyright owner:** Sven Hardy Benson  
 **Rights profile:** `bookself-arr-v1`
 

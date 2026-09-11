@@ -1,4 +1,4 @@
-# The Ten-Year Republic
+# Ten-Year Republic
 
 *One Defining Event from Every Ten Years of America, 1776–2026*
 
@@ -16,7 +16,7 @@
 
 ## Premise
 
-America is usually told as a continuous story: founding, expansion, Civil War, industrialization, world power, civil rights, digital age. *The Ten-Year Republic* breaks that smooth line. It divides the nation's first 250 years into twenty-five ten-year windows beginning in 1776, chooses one event from each window that most altered the country's downstream possibilities, and then tells the human story behind the choice.
+America is usually told as a continuous story: founding, expansion, Civil War, industrialization, world power, civil rights, digital age. *Ten-Year Republic* breaks that smooth line. It divides the nation's first 250 years into twenty-five ten-year windows beginning in 1776, chooses one event from each window that most altered the country's downstream possibilities, and then tells the human story behind the choice.
 
 The point is not that history can be ranked by formula. It cannot. The choices are arguments. Each chapter asks what changed because of one decision, law, war, collapse, ruling, attack, breakthrough, or crisis—and what plausible rival event might deserve the slot instead. The organizing wager is that the United States was not made steadily. It was repeatedly remade at hinges, after which yesterday's impossible became tomorrow's normal.
 

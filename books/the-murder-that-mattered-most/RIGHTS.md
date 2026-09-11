@@ -1,8 +1,8 @@
-# Rights & permissions — The Murder That Mattered Most
+# Rights & permissions — Which Murder Mattered Most?
 
 © 2026 Sven Hardy Benson. All Rights Reserved.
 
-**Work:** *The Murder That Mattered Most*  
+**Work:** *Which Murder Mattered Most?*  
 **Author and copyright owner:** Sven Hardy Benson  
 **Rights profile:** `bookself-arr-v1`
 
