@@ -6,9 +6,19 @@ Checked/refreshed September 11, 2026. Prefer primary papers and authoritative in
 
 - Wang CX, Hilburn IA, Wu DA, et al. **Transduction of the Geomagnetic Field as Evidenced from Alpha-band Activity in the Human Brain.** *eNeuro* 2019;6(2):ENEURO.0483-18.2019. https://doi.org/10.1523/ENEURO.0483-18.2019
   - Primary modern human EEG paper. Reports alpha-ERD to selected Earth-strength field rotations; polarity dependence used to argue against simple induction and axial radical-pair explanations.
-  - Data/code links are provided by the journal record.
+  - Initial sample was 34 adults; four strong responders identified in screening returned for additional sessions. Treat this as within-person repeatability after responder selection, not a prospectively validated population responder rate.
+  - Journal record provides the digital data and MATLAB analysis code: https://doi.org/10.22002/d1.930 and https://doi.org/10.22002/d1.931 . A high-value replication should freeze preprocessing, primary contrasts and responder definition before acquiring an independent cohort.
 - Lam BYK, Malkemper EP. **Magnetosensation: the unsolved mystery.** *Physiological Reviews* 2026. https://doi.org/10.1152/physrev.00032.2025
   - Major current review. Treats human EEG results as substantial but emphasizes independent replication and unresolved receptor mechanisms.
+- Chae KS, Kim SC, Kwon HJ, Kim Y. **Human magnetic sense is mediated by a light and magnetic field resonance-dependent mechanism.** *Scientific Reports* 2022;12:8997. https://doi.org/10.1038/s41598-022-12460-6
+  - Rotary-chair / two-alternative forced-choice behavioral study in men; reports blue-light dependence and radiofrequency resonance effects interpreted as evidence for a radical-pair-like mechanism.
+  - This is not an independent replication of Wang et al.'s EEG alpha-ERD protocol. Its favored mechanism also creates useful tension with Wang et al.'s polarity argument against the simplest axial radical-pair compass. Treat the two assays as a cross-mechanism prediction problem, not mutually confirming replications.
+
+### Replication audit through September 11, 2026
+
+- Fresh exact/near-exact searches located Wang et al. 2019, related human behavioral magnetoreception work including Chae et al. 2022, and later general electromagnetic/alpha studies, but no clear independent publication reproducing Wang's specific Earth-strength field-rotation EEG alpha-ERD protocol with the same key polarity/inclination contrasts.
+- Absence from this search is a literature-search result, not evidence that a replication was attempted and failed. Continue searching citation databases, preprints and non-English literature before publication.
+- The strongest next test is multicenter and prospective: preregister the published analysis/responder rule, cross laboratories and hardware, instrument acoustic/vibration/electric side channels, and test Northern- versus Southern-Hemisphere inclination predictions.
 
 ## Human candidate mechanisms
 
@@ -44,7 +54,7 @@ Checked/refreshed September 11, 2026. Prefer primary papers and authoritative in
 
 1. Original Robin Baker chair/bus/walkabout papers and all contemporaneous replication failures.
 2. Primary avian beak magnetite papers and macrophage correction papers.
-3. Full 2019 EEG methods/data reanalysis and any exact replications through September 2026.
+3. Reanalyze Wang et al.'s public data/code and continue exhaustive exact-replication search through September 2026.
 4. Primary human visual-threshold geomagnetic studies summarized in Lam & Malkemper.
 5. Primary weak-RF disruption studies in migratory birds with full field spectra.
 6. Human population/latitude work, if any, relevant to developmental geomagnetic calibration.
