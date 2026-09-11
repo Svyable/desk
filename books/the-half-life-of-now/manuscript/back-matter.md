@@ -1,22 +1,12 @@
 # Epilogue: The Map Is Never Finished
 
-Every generation inherits maps drawn by people who could not see the world it would eventually inhabit.
+Every generation inherits maps drawn by people who could not see the world it would eventually inhabit. That is not a criticism of the past. It is the ordinary condition of time.
 
-That is not a criticism of the past. It is the ordinary condition of time.
+The harder test begins when evidence arrives that the map has aged. A mature society needs enough memory to know how an earlier version was built and enough freedom to stop granting that version automatic authority. Sometimes revision means changing a number. Sometimes it means retiring a category, reopening a judgment, or admitting that a procedure still works perfectly against conditions that no longer exist.
 
-The harder question is what we do once we know the map has aged.
+Freshness debt is what accumulates when that work is deferred. The answer is not permanent acceleration. It is temporal competence: knowing what should remain stable, what needs another observation, what belongs in the archive, what should expire, and who bears the cost when those clocks drift apart.
 
-A mature society does not confuse revision with betrayal. It does not demand that every law, model, institution, diagnosis, category, forecast, and self-description remain useful simply because it was once defensible. It preserves memory while allowing authority to decay when evidence changes.
-
-Freshness debt is the cost of failing to make that distinction.
-
-It accumulates quietly. Then a crisis exposes it all at once.
-
-The answer is not permanent acceleration. It is temporal competence: knowing what must stay stable, what must update, what must be archived, what must expire, and who bears the cost when the clocks drift apart.
-
-The map is never finished because the terrain is not finished.
-
-Neither are we.
+The terrain will keep moving. The useful map is the one built to notice.
 
 ## Acknowledgments
 
