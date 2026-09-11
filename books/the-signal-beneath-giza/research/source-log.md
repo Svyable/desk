@@ -2,19 +2,28 @@
 
 ## Primary / technical
 
-- Alvarez et al. (1970), *Search for hidden chambers in the pyramids*, Science 167:832–839. https://doi.org/10.1126/science.167.3919.832 — historical Khafre muography baseline.
-- Morishima et al. (2017), *Discovery of a big void in Khufu's Pyramid by observation of cosmic-ray muons*, Nature 552:386–390. https://doi.org/10.1038/nature24647 — three detector technologies; high-confidence void; purpose unknown.
-- Procureur et al. (2023), *Precise characterization of a corridor-shaped structure in Khufu's Pyramid by observation of cosmic-ray muons*, Nature Communications 14:1144. https://doi.org/10.1038/s41467-023-36351-0 — ~9 m North Face Corridor.
-- Elkarmoty et al. (2023), *Localization and shape determination of a hidden corridor in the Great Pyramid of Giza using non-destructive testing*, NDT & E International 139:102809. https://doi.org/10.1016/j.ndteint.2023.102809 — GPR + UST + simulation near chevron.
-- Schumacher et al. (2025), *Confirmation of the ScanPyramids North Face Corridor ... using multi-modal image fusion*, Scientific Reports 15:9275. https://doi.org/10.1038/s41598-025-91115-8 — GPR/UST/ERT fusion.
-- Gamal et al. (2025), *The ScIDEP muon radiography project at the Egyptian Pyramid of Khafre*, Journal of Applied Physics 138:044901. https://doi.org/10.1063/5.0273135 — independent Khafre detector project; project design, not discovery of deep structures.
-- Biondi & Malanga (2022), *Synthetic Aperture Radar Doppler Tomography Reveals Details of Undiscovered High-Resolution Internal Structure of the Great Pyramid of Giza*, Remote Sensing 14:5231. https://doi.org/10.3390/rs14205231 — marked RETRACTED 10 Aug 2026. Do not use as established validation.
+- Alvarez et al. (1970), *Search for hidden chambers in the pyramids*, *Science* 167:832–839. https://doi.org/10.1126/science.167.3919.832 — historical Khafre muography baseline. Important null/control case; reconstruct detector geometry, expected sensitivity and exactly what regions were constrained before turning the 1970 result into a blanket statement about the whole pyramid.
+- Morishima et al. (2017), *Discovery of a big void in Khufu's Pyramid by observation of cosmic-ray muons*, *Nature* 552:386–390. https://doi.org/10.1038/nature24647 — three detector technologies; high-confidence void; purpose unknown. Strong control for cross-detector convergence inside one physical modality.
+- Procureur et al. (2023), *Precise characterization of a corridor-shaped structure in Khufu's Pyramid by observation of cosmic-ray muons*, *Nature Communications* 14:1144. https://doi.org/10.1038/s41467-023-36351-0 — ~9 m North Face Corridor; muographic localization before later direct inspection.
+- Elkarmoty et al. (2023), *Localization and shape determination of a hidden corridor in the Great Pyramid of Giza using non-destructive testing*, *NDT & E International* 139:102809. https://doi.org/10.1016/j.ndteint.2023.102809 — GPR + UST + simulation near chevron. Useful because the modalities have failure modes different from muography.
+- Schumacher et al. (2025), *Confirmation of the ScanPyramids North Face Corridor ... using multi-modal image fusion*, *Scientific Reports* 15:9275. https://doi.org/10.1038/s41598-025-91115-8 — GPR/UST/ERT fusion. Treat multimodal convergence as strongest where the methods are physically independent rather than merely differently processed versions of the same signal.
+- Gamal et al. (2025), *The ScIDEP muon radiography project at the Egyptian Pyramid of Khafre*, *Journal of Applied Physics* 138:044901. https://doi.org/10.1063/5.0273135 — independent Khafre detector project; project design and sensitivity work, not discovery of the claimed deep structures. Follow subsequent ScIDEP publications rather than using project existence as a result.
+- Biondi & Malanga (2022), *Synthetic Aperture Radar Doppler Tomography Reveals Details of Undiscovered High-Resolution Internal Structure of the Great Pyramid of Giza*, *Remote Sensing* 14:5231. https://doi.org/10.3390/rs14205231 — **retracted 10 Aug 2026**. The method infers interior/subsurface structure indirectly from SAR-observed surface micro-motions rather than ordinary radar penetration through hundreds of metres of limestone. Historical/methodological source only; do not use as established validation.
+- Biondi & Malanga (2026), retraction notice, *Remote Sensing* 18(16):2679. https://doi.org/10.3390/rs18162679 — primary retraction record. States that a reader raised methodological concerns; the Editorial Office/Board investigated and confirmed **serious methodological flaws and statistical errors deemed to undermine the scientific conclusions**. Retraction approved by the Editor-in-Chief. The authors were informed and **disagreed**. The notice does not publish a detailed line-by-line forensic account, so do not invent specific failure mechanisms beyond separately documented criticism/reanalysis.
+- *Remote Sensing* peer-review record for the 2022 Biondi–Malanga paper: https://www.mdpi.com/2072-4292/14/20/5231/review_report — one published reviewer report described the work as interesting/detailed but explicitly noted that validation of the results was missing. Peer review is evidence of the review process, not certification that the method was independently validated.
 
 ## Critical / contextual
 
-- AFP Fact Check, specialist criticism of 2025 Khafre underground-complex claim: https://factcheck.afp.com/doc.afp.com.42LQ7G3 — useful for attributed expert criticism, not primary geophysical data.
-- Ahram Online / Al-Ahram Weekly coverage records Egyptian archaeological and engineering objections and lack of authorized Khafre discovery work. Use attribution carefully.
+- AFP Fact Check, specialist criticism of 2025 Khafre underground-complex claim: https://factcheck.afp.com/doc.afp.com.42LQ7G3 — useful for attributed expert criticism and claim genealogy, not primary geophysical data.
+- Ahram Online / Al-Ahram Weekly coverage records Egyptian archaeological and engineering objections and lack of authorized Khafre discovery work. Use attribution carefully; public/institutional objections do not substitute for measurement.
+- Public press-conference renderings and social posts describing eight ~648 m shafts, spiral structures, large chambers or a connected underground complex are **claim records**, not detections. Preserve exact dates, geometry and wording because those claims can be preregistered as targets for independent tests.
 
-## Research rule
+## Research rules
 
 Do not cite patents, renderings, press conferences or social posts as evidence that a subsurface structure exists. Preserve them only as evidence that a claim was made.
+
+Keep **radar penetration** separate from **indirect micro-motion inversion**. The 2022 method did not claim conventional SAR energy directly imaged deep internal walls; it inferred structure through a model linking remotely observed surface motion to internal geometry.
+
+A retraction changes the evidentiary status of the paper but does not logically prove the opposite geological claim. After the 2026 retraction, the 2022 paper cannot serve as an established validation pillar for later Khafre reconstructions unless the method is independently reimplemented and validated.
+
+For extraordinary deep-structure claims, require convergence across physics with predeclared geometry and failure criteria: muon attenuation, gravity, seismic response, electrical structure and any depth-appropriate radar constraints. Two reconstructions sharing the same inversion assumptions are not fully independent corroboration.
