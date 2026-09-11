@@ -25,7 +25,7 @@ The method combines the diary-like intellectual intimacy of field research with 
 - [x] 09 — Jack Parsons in the Government File
 - [x] 10 — Operation OFTEN and the Occult Archive
 - [x] 11 — The Collins Elite Claim
-- [x] 12 — MJ-12 and the Perfect Document
+- [x] [12 — MJ-12 and the Perfect Document](manuscript/ch12-mj-12-and-the-perfect-document.md)
 - [x] 13 — Aviary Names and Human Networks
 - [x] 14 — NIDS, Skinwalker, and the Private Laboratory
 - [x] 15 — The Rockefeller Initiative
