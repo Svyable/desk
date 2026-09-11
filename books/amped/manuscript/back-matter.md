@@ -2,31 +2,17 @@
 
 ## A note on evidence
 
-*Amped* was written during a period when American data-center and large-load policy was changing unusually quickly. Rules cited in the manuscript reflect the best public record available during the 2024–2026 research window, with the final research update completed in September 2026.
-
-That timing matters.
-
-A data-center interconnection process can change within months. A load forecast can be revised between annual reports. A tariff can be approved with an effective date in the future. A proposed generation project can be delayed, resized, cancelled, or superseded. A regulatory proceeding can alter the meaning of an earlier proposal.
+*Amped* was written during a period when American data-center and large-load policy was changing unusually quickly. Rules cited in the manuscript reflect the best public record available during the 2024–2026 research window, with the final research update completed in September 2026. That timing matters because a data-center interconnection process can change within months, a load forecast can be revised between annual reports, and a tariff can be approved with an effective date still in the future. Proposed generation can be delayed, resized, cancelled, or superseded; a regulatory proceeding can change the meaning of an earlier proposal.
 
 The research trail therefore treats dates and institutional status as part of the evidence rather than decoration. Announced projects are not counted as operating capacity. Interconnection requests are not treated as realized load. Forecasts are identified as forecasts. Company statements are used for commercial intent and project status, not as independent proof of public benefit.
 
-The central argument is meant to survive those revisions.
+The central argument is meant to survive those revisions, but it should also be vulnerable to them. If artificial-intelligence electricity demand grows more slowly than expected, the book's claim should narrow rather than hide from the evidence. If flexible data-center load proves unreliable in actual grid events, the argument that compute can become a meaningful grid resource should weaken. If large-load tariffs fail to protect existing customers from stranded infrastructure, the institutional experiment should be judged accordingly.
 
-If artificial-intelligence electricity demand grows more slowly than expected, the book's claim should narrow rather than hide from the evidence. If flexible data-center load proves unreliable in actual grid events, the argument that compute can become a meaningful grid resource should weaken. If large-load tariffs fail to protect existing customers from stranded infrastructure, the institutional experiment should be judged accordingly.
-
-The strongest version of the thesis is not that every current data-center forecast will come true.
-
-It is that the scale, speed, capital, and partial operational flexibility of modern compute loads are already forcing the American electricity system to build new ways of forecasting, connecting, pricing, financing, and governing very large customers.
+The thesis does not require every current data-center forecast to come true. It is that the scale, speed, capital, and partial operational flexibility of modern compute loads are already forcing the American electricity system to build new ways of forecasting, connecting, pricing, financing, and governing very large customers.
 
 ## Research trail
 
-The working research package for this Desk edition lives in `../research/` and includes:
-
-- the research and falsification brief;
-- the chapter-to-evidence map;
-- the source ledger of primary regulators, grid operators, government laboratories, government agencies, and first-party project materials.
-
-The research brief also records counter-evidence that should be preserved in future revisions.
+The working research package for this Desk edition lives in `../research/` and includes the research and falsification brief, the chapter-to-evidence map, and the source ledger of primary regulators, grid operators, government laboratories, government agencies, and first-party project materials. The research brief also records counter-evidence that should be preserved in future revisions.
 
 ## Terms used in this book
 
@@ -52,29 +38,15 @@ The research brief also records counter-evidence that should be preserved in fut
 
 ## What to watch next
 
-The questions in *Amped* will become easier to answer as operating evidence accumulates.
+The questions in *Amped* will become easier to answer as operating evidence accumulates. The first useful comparison is between requested and energized large load in ERCOT, PJM, and other regions. Forecast revisions matter here because the grid commits capital before demand is certain; the gap between what developers request, what planners assume, and what ultimately switches on is part of the evidence, not an embarrassment to it.
 
-Watch the difference between requested and energized large load in ERCOT, PJM, and other regions.
+Customer commitments deserve the same treatment. Long contracts, collateral, minimum bills, and other protections should be judged by whether they actually protect ordinary ratepayers when projects are delayed or cancelled. Flexible-load arrangements should be judged by how often they are called and whether customers perform when the system is stressed. Hyperscaler generation contracts should be tested for whether they create additional supply or mainly redirect existing resources.
 
-Watch whether new customer commitments actually protect ordinary ratepayers when projects are delayed or cancelled.
+Transmission has a longer memory than the initiating customer. A line built during the boom may produce broad network value long after one campus stops being the marginal reason for it, or it may become an expensive monument to a forecast that missed. Transformer lead times, turbine orders, conductor production, switchgear availability, and the electrical workforce will help determine which version arrives.
 
-Watch how often flexible data-center arrangements are called and whether customers perform when the system is stressed.
+The local bargain is measurable too. Tax revenue belongs on the ledger alongside water use, land conversion, noise standards, transmission corridors, and permanent employment. None of those figures settles the bargain by itself.
 
-Watch whether hyperscaler contracts create genuinely additional generation or mainly redirect existing resources.
-
-Watch whether transmission built during the boom produces broad network value after the initiating customer is no longer the marginal reason for the project.
-
-Watch the supply chain: transformer lead times, turbine orders, conductor production, switchgear availability, and the electrical workforce.
-
-Watch the local bargain. Tax revenue is measurable. So are water use, land conversion, noise standards, transmission corridors, and permanent employment. The important unit is the whole public balance sheet.
-
-Most of all, watch the forecast revisions.
-
-They are not an embarrassment to the story.
-
-They are the story.
-
-A grid is a machine for committing capital before demand is certain. The institutions that learn fastest will not be the ones that predict the AI future perfectly. They will be the ones that build useful infrastructure while remaining able to survive being wrong.
+No institution involved needs to predict the AI future perfectly. The harder test is whether the infrastructure built for an uncertain boom remains useful if the forecast changes.
 
 ## Rights
 
