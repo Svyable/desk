@@ -1,8 +1,8 @@
-# Rights & permissions — The Republic in Motion
+# Rights & permissions — Republic in Motion
 
 © 2026 Sven Hardy Benson. All Rights Reserved.
 
-**Work:** *The Republic in Motion: 250 Years of America in 25 Vehicles*  
+**Work:** *Republic in Motion: 250 Years of America in 25 Vehicles*  
 **Author and copyright owner:** Sven Hardy Benson  
 **Rights profile:** `bookself-arr-v1`
 
