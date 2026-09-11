@@ -21,7 +21,7 @@ That is not an argument that sports betting should have stayed illegal. The book
 ## Contents
 
 ### Part I — The Line Moves to Every Pocket
-- [ ] Front Matter
+- [x] [Front Matter](manuscript/front-matter.md)
 - [x] Ch 1 — Kickoff
 - [x] Ch 2 — The Law That Banned Everything
 - [x] Ch 3 — Nevada's Fifty-Year Monopoly
@@ -51,7 +51,7 @@ That is not an argument that sports betting should have stayed illegal. The book
 - [x] Ch 19 — Other Countries Already Ran This Experiment
 - [x] Ch 20 — The House Edge on Democracy
 - [x] Ch 21 — Building a Sportsbook You Could Defend
-- [ ] Back Matter
+- [x] [Back Matter](manuscript/back-matter.md)
 
 ## Working thesis
 
