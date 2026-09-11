@@ -26,14 +26,22 @@ The SEC said Theranos and Holmes raised more than $700 million while making fals
 
 These sources are useful for the distinction between selling a future and representing present technological capability. The SEC records describe claims about products, technical milestones, production capacity, orders, hydrogen production, and financial outlook. Attribute findings and allegations precisely.
 
-## Chapter 5 — precision and anchoring
+## Chapter 5 — precision, anchoring, and projection lineage
 
 - Chris Janiszewski and Dan Uy, **“Precision of the Anchor Influences the Amount of Adjustment,”** *Psychological Science* 19 (2008), 121–127. DOI: 10.1111/j.1467-9280.2008.02057.x.
 - David D. Loschelder, Malte Friese, Michael Schaerer, and Adam D. Galinsky, **“The Too-Much-Precision Effect: When and Why Precise Anchors Backfire With Experts,”** *Psychological Science* 27 (2016), 1573–1587. DOI: 10.1177/0956797616666074.
+- U.S. Securities and Exchange Commission, **Special Purpose Acquisition Companies, Shell Companies, and Projections — Small Entity Compliance Guide**, current SEC guidance summarizing Release No. 33-11265.  
+  https://www.sec.gov/resources-small-businesses/small-business-compliance-guides/special-purpose-acquisition-companies-shell-companies-projections
+- U.S. Securities and Exchange Commission, **Special Purpose Acquisition Companies, Shell Companies, and Projections**, Release No. 33-11265, adopted January 24, 2024; effective July 1, 2024.  
+  https://www.sec.gov/files/rules/final/2024/33-11265.pdf
 
 Janiszewski and Uy found across five studies that people adjusted less from precise numerical anchors than rounded anchors. That supports a bounded claim that displayed precision can affect later numerical judgment; it does not establish that every precise forecast is more persuasive or that startup investors respond the same way.
 
 Loschelder and colleagues supply the stronger counterevidence. Across five negotiation experiments involving 1,320 experts and amateurs, increasing precision strengthened anchoring among amateurs but showed an inverted-U relationship among experts: excessive precision could backfire because experts inferred lower competence. The manuscript should therefore avoid the simple story that extra decimal places always create authority. Precision can anchor, but conspicuous pseudo-precision can also advertise that the speaker does not understand the uncertainty.
+
+The SEC’s 2024 SPAC rules provide a useful institutional countercase to the idea that uncertain projections should simply be eliminated. New Item 1609 of Regulation S-K requires, when projections are disclosed in de-SPAC filings, disclosure of the purpose of the projections, who prepared them, their material bases and assumptions, and whether the projections still reflect management or board views as of the most recent practicable date before the disclosure document is sent to security holders. The Commission also amended Item 10(b) guidance on projections used in Commission filings more broadly.
+
+This is a different legal setting from a private startup pitch, so the manuscript should not imply that venture decks are subject to Item 1609 or that SEC projection rules supply a universal management standard. The narrower transferable lesson is epistemic: consequential projections can remain useful while their provenance, purpose, assumptions, and current status stay visible. The rules themselves are counterevidence to a simplistic anti-forecast argument; the regulatory response is disclosure and accountability, not a prohibition on forecasting.
 
 ## Research still required
 
