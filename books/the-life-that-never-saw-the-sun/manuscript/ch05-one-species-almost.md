@@ -2,30 +2,42 @@
 
 The most dangerous number in the *Desulforudis* story is 99.9 percent.
 
-It sounds like closure. In the 2008 fracture-water sample, more than 99.9 percent of the microbial sequences belonged to the dominant bacterium. That is extraordinary. It is also a statistic tied to a sample, a compartment, an extraction method and a detection threshold.
+It sounds like closure. In the 2008 Mponeng study, *Candidatus Desulforudis audaxviator* accounted for more than 99.9 percent of the microorganisms detected in the fluid phase of one fracture 2.8 kilometers underground. The population was astonishingly homogeneous: only about 0.0014 percent of the 2.35-megabase genome was polymorphic. Later reconstruction of the sampling history puts some physical scale on that result: roughly 5,600 liters of fracture water were filtered to recover on the order of 10^11 cells.
 
-Low diversity is not zero diversity. Fluid-phase diversity is not mineral-attached diversity. DNA abundance is not metabolic importance. Viruses do not politely disappear because bacterial sequencing looks clean. Rare populations can matter out of proportion to cell count if they provide a compound that a dominant organism cannot make under the conditions that actually prevail.
+That is not a casual scoop of mine water. It is also not the whole underground world.
 
-This is not a criticism of the original work. The authors described an “ecosystem that appears to have its biological component entirely encoded within a single genome.” *Appears* is excellent scientific grammar. Popular retellings tended to remove it.
+The original paper chose its grammar carefully. The organism appeared to form a natural ecosystem whose biological component was entirely encoded in one genome. The qualifier matters because the claim was always tied to a particular fluid phase, a particular fracture, and what the available methods could recover from it.
 
-The question worth preserving is whether a natural ecosystem can approach biological minimality because geology supplies so much of the external work. *Desulforudis* is our strongest field case for that possibility.
+The genome made the claim plausible. *Desulforudis* encoded sulfate reduction, carbon fixation, nitrogen fixation, hydrogen use, motility and sporulation. A lineage that can make its own fixed carbon and fixed nitrogen needs fewer biological partners than most familiar organisms. Its genome also contained machinery shared with archaea, evidence that evolutionary borrowing had helped assemble this compact package.
 
-The 2024 Swedish study complicates the answer productively. Researchers isolated groundwater from a fracture at 975 meters and used metagenomics plus marker genes. Sulfate-reducing Bacillota dominated, with *Candidatus Desulforudis audaxviator* the principal representative. The Wood–Ljungdahl pathway was the most prevalent route for inorganic carbon fixation. But this was not a one-organism universe. Other prokaryotes were present, and the eukaryotic marker data revealed surprising diversity.
+But a genome that looks self-sufficient can still carry evidence that it has not always been alone.
 
-The same lineage, different ecology.
+That became harder to ignore in 2015. Researchers isolated five individual *Desulforudis*-like cells from fracture water about three kilometers deep in the neighboring Tau Tona mine and sequenced them one cell at a time. Depending on the cell, between zero and 32 percent of recovered genes were absent from the original Mponeng metagenomic assembly. The single-cell genomes contained a transposable prophage, a retron, multiple CRISPR systems, restriction-modification machinery and an unusually high frequency of transposases. The authors also detected other bacterial species in the same fracture water.
 
-That recurrence matters more than preserving the purity of the original narrative. If *Desulforudis* had appeared only once, critics could reasonably wonder whether the Mponeng result represented an extreme local accident, a bottleneck or a sampling peculiarity. Finding a closely related metabolic strategy dominating another continental bedrock groundwater system strengthens the case that sulfate-reducing, carbon-fixing Bacillota are important deep primary producers.
+None of that makes the Mponeng result disappear. Tau Tona was another fracture, sampled years later, and the 2008 claim was explicitly about the Mponeng fluid phase. But it does damage the cleanest popular version of the story. A lineage can dominate a sample almost completely and still have an evolutionary history full of other organisms and viruses.
 
-At the same time, Sweden warns us against treating one South African fracture as the template for the whole deep biosphere.
+The virus is particularly inconvenient for the phrase “ecosystem of one.” A prophage is not a second cellular species competing for sulfate, but it is biological interaction written into the host genome. CRISPR and restriction systems are defensive architecture. They imply enemies, or at least a history of them.
 
-There may be many deep biospheres. Some inherit surface carbon. Some run on geothermal hydrogen. Some use radiolytic hydrogen. Some are low-diversity. Some support richer consortia. Some are so energy-limited that turnover times become geological. Some are connected enough to surface hydrology that “deep” describes location more than independence.
+The later work also changes how to read the organism's borrowed archaeal machinery. Horizontal gene transfer is not merely a clever route to independence. It is evidence that independence itself can be assembled from past dependence.
 
-This diversity is not an inconvenience. It is the calibration set astrobiology needs.
+By 2021 the picture had become stranger again. Comparing *Desulforudis* genomes from Africa, North America and Eurasia, researchers found more than 99.2 percent average nucleotide identity across lineages separated by continents. Prophages and CRISPR regions were unexpectedly conserved as well. The deep subsurface had not produced a collection of wildly divergent local specialists. It had preserved something much closer to evolutionary stasis than the geographic distances suggested.
 
-A useful terrestrial analogue is not a place that looks like Mars in photographs. It is a system in which the relevant causal variables can be measured: water activity, temperature, radiation dose, mineralogy, electron donors, acceptors, carbon source, nutrient flux, residence time, permeability and biomass.
+That result strengthens one part of the original story while weakening another. *Desulforudis* is not merely a freak survivor in one South African crack. It is a remarkably persistent deep-subsurface lineage. But persistence across many habitats also means the species cannot be reduced to the one spectacularly simple Mponeng sample.
 
-The near-monoculture at Mponeng gives us one corner of that space. The Swedish fracture gives us another. Ancient Canadian fracture fluids give us a different chemical archive. Deep South African nematodes demonstrate that multicellular consumers can invade parts of the system. Global compilations show that the continental subsurface contains a substantial but highly heterogeneous microbial population.
+The 2024 Swedish study makes the same point from ecology rather than evolutionary genomics. At 975 meters, *Desulforudis* again dominated a deep groundwater community and carried the expected machinery for sulfate reduction, carbon fixation and nitrogen fixation. Yet other prokaryotes were present, and 18S marker data recovered a surprisingly diverse eukaryotic community.
 
-The lesson is not that one species can do everything.
+The recurrence is more valuable than the purity.
 
-The lesson is that life can become astonishingly sparse in both diversity and power while remaining recognizably ecological.
+If *Desulforudis* had appeared only once, the Mponeng result could remain an exquisite local accident. Finding close relatives repeatedly in deep, anoxic groundwaters says something broader about a successful metabolic strategy. What does not survive is the idea that this strategy normally produces a literal one-organism biosphere.
+
+There may be deep fractures where cellular diversity approaches that limit. There may also be attached populations on mineral surfaces that a water sample barely sees, viruses that are easier to infer from host defenses than to count, rare organisms whose chemistry matters more than their abundance, and communities connected to surrounding fractures on timescales much longer than one sampling campaign.
+
+This is not a retreat from the original discovery. It is what makes the discovery experimentally useful.
+
+Mponeng gives us an extreme case: a fluid sample in which one near-clonal lineage apparently performed almost all of the cellular metabolic work that sequencing could see. Tau Tona shows that close relatives can live amid other bacteria and carry the scars of viral infection and gene exchange. Sweden shows the same lineage dominating a more visibly populated system. The continental comparison shows extraordinary genetic continuity across all of them.
+
+A useful astrobiological analogue is not therefore “a place with one species.” It is a place where we can ask how much biological complexity a geological environment can replace. If rock-water chemistry supplies hydrogen, if sulfate or other acceptors are available, if carbon can be fixed and nitrogen acquired, the minimum viable community may become very small. How small is an empirical question, not a slogan.
+
+The number 99.9 percent remains extraordinary.
+
+It just belongs to 5,600 liters of water, not to the entire deep Earth.
