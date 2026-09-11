@@ -46,3 +46,4 @@ The first field edition publishes the full chapter architecture and trade-length
 
 - [Research brief, chapter map, and falsification tests](research/README.md)
 - [Source ledger](research/source-ledger.csv)
+- [Publication review](research/publication-review.md)
