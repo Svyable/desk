@@ -1,407 +1,71 @@
 # The Protection Gap
 
-After a disaster, the first number is usually the loss.
+After a disaster, two numbers arrive quickly. One is the economic loss. The other is the insured loss. The difference is usually called the protection gap, a phrase bloodless enough to hide what it measures: who can begin rebuilding from a contract and who has to improvise with savings, debt, public aid, family money, asset sales, migration, or nothing.
 
-The second number is the insured loss.
+In 2025, natural catastrophes caused about $220 billion in economic losses worldwide, according to Swiss Re Institute, and about $107 billion was insured. A 49 percent insured share was historically high. Yet Swiss Re's modeled measure of protection need told a less comforting story. Its natural-catastrophe resilience index put insurance coverage at about 27 percent of modeled need and the global protection gap at $424 billion.
 
-The difference between them is not merely a statistic. It is a map of who will rebuild from a contract and who will rebuild from savings, debt, aid, charity, migration, or not at all.
+Those figures are not interchangeable. One compares realized economic and insured losses in a particular year; the other compares modeled protection need with available insurance. Treating the $424 billion as simply “uninsured losses in 2025” would be wrong. The distinction matters because protection gaps are partly about the event that happened and partly about the financial capacity waiting for events that have not happened yet.
 
-Insurance people call this difference the protection gap.
+The geography is even less tidy. In Asia, Swiss Re estimated only 8 percent of 2025 natural-catastrophe economic losses were insured, compared with nearly half globally. A global average can therefore describe nobody's actual recovery system particularly well. A homeowner in a highly insured American market, a shopkeeper after a flood in an emerging economy, and a small island government facing a hurricane may all appear in the same protection-gap chart while confronting completely different clocks, contracts, and sources of cash.
 
-The phrase sounds technical enough to be harmless.
+That is the useful way into the subject. A protection gap is not merely missing insurance. It is a mismatch between the speed and size of a shock and the financial absorbers available when the shock arrives.
 
-It is not harmless.
+Imagine two regions struck by physically similar storms. In the first, most homes carry insurance, commercial property has catastrophe coverage, utilities can borrow, banks remain functional, and insurers have reinsurance behind them. Claims can still be disputed. Contractors can still be scarce. Recovery can still be slow and ugly. But some money is already attached to promises made before the clouds formed.
 
-A protection gap is what happens when assets, income, lives, crops, businesses, or public infrastructure are exposed to losses for which no adequate financial protection exists. Sometimes the protection is absent because insurance is unavailable. Sometimes because it is too expensive. Sometimes because customers do not trust it, do not understand it, or do not believe the danger is real. Sometimes governments suppress prices until private capacity retreats. Sometimes insurers cannot model the risk confidently enough to offer coverage. Sometimes the people exposed to the largest losses are too poor to buy protection even when it exists.
+In the second region, households are largely uninsured, small businesses own damaged equipment outright, local banks have thin capital, and the government enters the storm with little fiscal room. International assistance may arrive, but after political and logistical delay. Families may sell productive assets to finance repairs. Firms may close before aid reaches them. The meteorology can be similar while the economic event is not.
 
-The gap is therefore not one problem.
+Insurance's contribution is not that it makes a catastrophe affordable. It moves part of the financing decision to an earlier date. Premium is collected before the loss. Capital and reinsurance are arranged before the emergency. Claims rules exist before the television crews arrive. Where those arrangements are absent, more of recovery has to be negotiated at exactly the moment bargaining power, collateral, public revenue, and patience may all be deteriorating.
 
-It is the financial shadow of several problems at once.
+The uninsured loss does not disappear. It moves onto another balance sheet, or into behavior that never appears in a claims database: lower consumption, delayed repairs, new debt, a sold machine, a missed semester, a business that does not reopen. This is why two households with the same dollar loss can experience different disasters. Five thousand dollars can be an inconvenience to one balance sheet and the event that breaks another.
 
-In 2025, natural catastrophes caused about $220 billion in economic losses worldwide, according to Swiss Re Institute. Roughly $107 billion was insured. That meant almost half of the realized losses were covered, a historically high share.
+Wealth is itself a form of shock absorption. A diversified portfolio, stable income, available credit, family support, and reliable public services can carry losses without an insurance policy ever being involved. Poor households have fewer of those substitutes. A farmer with one harvest and no savings is not a miniature reinsurer. A product can be actuarially sensible and still fail because the premium is due before the crop produces cash. A claim can be fairly adjusted and still arrive after livestock has been sold to cover food or debt.
 
-Look at the same system another way and the gap is larger. Swiss Re’s modeled measure of natural-catastrophe protection need estimated a $424 billion global protection gap in 2025. Its resilience index suggested that only about 27 percent of modeled protection need was insured.
+Timing, then, is part of protection.
 
-The two figures measure different things—actual losses in one year versus modeled expected protection needs—but they point toward the same institutional fact.
+That is the strongest case for parametric insurance. Traditional indemnity coverage asks what loss actually occurred and pays according to the contract after causation and value are established. Parametric coverage asks whether a specified observable trigger occurred: rainfall below a threshold, wind above one, an earthquake intensity, a river level. If the trigger is met, a predetermined payment can be made without waiting to value every damaged field or roof.
 
-A very large share of catastrophe risk remains outside insurance.
+The advantage is not mystical efficiency. It is that less information may be needed after the event, when information gathering is expensive and cash is unusually valuable. The weakness follows from the same design. The index is not the wound. A farmer can lose a crop while the official rainfall measure misses the trigger. A town can receive a payment even when its realized damage is modest. Basis risk is the price of replacing individualized loss measurement with a proxy.
 
-In rich countries, this often appears as a debate about affordability.
+That tradeoff makes more sense if the instrument is asked to do a narrower job. A government does not need every reconstruction dollar in the first week after a cyclone. It does need money for shelter, emergency health services, debris removal, transport, and the first repairs that keep a disruption from becoming a second disaster. A rapid parametric payment can supply bridge liquidity while slower indemnity, credit, aid, and budget processes catch up. It need not pretend to make the country whole.
 
-In poorer countries, it can appear as the absence of a functioning risk-transfer system at all.
+Regional catastrophe pools apply the same logic at sovereign scale. A small state can be overwhelmed by one event that is manageable across a wider pool of geography, time, reinsurance, and capital-market capacity. But the pooling does not remove politics. Members still have to decide who pays, whose model governs the trigger, how repeated payouts affect contributions, and what happens as hazards become more correlated. Moving the pool upward does not move governance out of the picture.
 
-That difference changes recovery.
+Nor does technology erase the institutional parts of the gap. Better satellite data can improve hazard estimates without creating a court that enforces contracts. Mobile distribution can lower transaction costs without making a policy understandable. AI can make some underwriting cheaper without creating the household income from which premium must be paid. A technically elegant product can still arrive on the wrong side of a cash-flow constraint.
 
-Imagine two storms of similar physical severity striking two regions with different financial architectures.
+This is where insurance institutions are prone to ask a different question from their customers. The insurer wants to know whether a risk can be priced and a claim verified. The household wants to know whether it can pay before planting and whether the money will arrive before something essential has to be sold. Both questions are legitimate. A protection system fails when it answers only the first set.
 
-In the first, most homes are insured. Commercial property has catastrophe coverage. Utilities have access to capital markets. The government has borrowing capacity. Reinsurers and catastrophe-bond investors absorb part of the loss. Banks can extend credit because balance sheets remain legible. Claims adjusters arrive. Payments move. Contractors can see a pipeline of funded work.
+Public aid complicates the picture further. If people reasonably expect governments, donors, relatives, lenders, or international institutions to provide help after catastrophe, buying insurance beforehand can look less attractive. Economists sometimes call this charity hazard or implicit insurance. The label can make rational behavior sound like misconduct. If a government predictably rebuilds a road after every disaster, a municipality may reasonably discount the value of insuring that road. If emergency programs repeatedly help uninsured households, some families will incorporate that expectation into what they are willing to pay for coverage.
 
-Recovery may still be slow, unfair, or chaotic.
+The answer is not to withhold humane disaster assistance in order to teach everyone a lesson about premiums. It is to recognize that aid and insurance are parts of the same financial architecture. Unclear boundaries encourage everyone to hope another balance sheet will appear after the event. Clearer boundaries make pre-event decisions possible: which losses households retain, which belong in private insurance, which justify public support, and which are so systemic that no private pool can credibly carry them alone.
 
-But there is money attached to contracts.
+That is also why closing the protection gap cannot mean selling a policy against every exposed dollar. Some risks should be retained. Some should be mitigated. Some buildings should be hardened; some infrastructure should be redesigned; some exposure should move. Swiss Re's current protection-gap work makes this counterargument unusually important because it finds insurance coverage broadly keeping pace with rising natural-catastrophe risk while the absolute modeled gap still grows as there is simply more to protect. More insurance can therefore coexist with a larger dollar gap.
 
-In the second region, many households are uninsured. Small businesses own damaged equipment outright. Farmers have no crop coverage. Local banks have limited capital. The national government already carries high debt. International aid arrives after political and logistical delay. Families sell productive assets to finance repairs. Children leave school. Migration rises. Businesses close permanently.
+That is not evidence that insurance has failed. It is evidence that the denominator moves.
 
-The meteorology may look similar.
+The same research estimates that adaptation projects across hazards have a median projected benefit-cost ratio of 1.86. That figure is based on project proposals and modeling rather than a universal realized return, so it should not be converted into “every dollar of adaptation returns $1.86.” The more defensible point is structural: reducing expected loss can sometimes narrow the financing problem before anyone sells another unit of risk transfer. Insurance and adaptation can be complements rather than rival answers.
 
-The macroeconomics does not.
+An uninsured house in a floodplain may represent a coverage gap. A house whose expected losses have become too frequent to pool cheaply may represent an exposure problem. Subsidizing the premium can keep the contract alive while leaving the underlying arithmetic untouched. At some point the relevant question is not who should insure the structure but whether the structure can be made safer, whether the land use should change, or who should pay for a transition that individual owners cannot reasonably finance alone.
 
-Insurance changes disaster from an unexpected need for cash into a partially pre-funded financial event.
+This is where the phrase protection gap becomes dangerous if taken too literally. It invites the idea that there is one ideal amount of insurance and every uncovered dollar is a defect. There is not. A wealthy household can rationally retain small losses. A corporation can self-insure below a threshold. A fiscally strong government can absorb routine events. Deductibles exist because transferring every predictable expense to an insurer would be an expensive way to move money in a circle.
 
-That is one of the institution’s deepest functions.
+The economically important gap begins where the loss can push the absorber across a threshold it cannot easily reverse. For a household that may be foreclosure. For a small firm it may be missing payroll and losing employees before the property claim settles. For a government it may be a reconstruction bill that crowds out years of planned infrastructure or forces expensive borrowing during a crisis.
 
-The premium is collected before the loss.
+This suggests a distinction the chapter needs more than another global percentage: reconstruction protection versus continuity protection. Reconstruction finance replaces damaged assets. Continuity finance keeps a viable household, business, or government functioning while replacement is underway. Business-interruption coverage, additional-living-expense coverage, contingent sovereign credit, emergency savings, and rapid parametric payments all attack some version of the second problem.
 
-Capital is accumulated before the emergency.
+Continuity can fail before anyone knows the final reconstruction bill. Payroll is due Friday. Temporary rent begins this month. A road to a hospital needs to reopen before a donor conference. The economic value of speed comes from secondary losses avoided, not from a fetish for fast claims.
 
-Risk is transferred before the television cameras arrive.
+The strongest architecture may therefore be deliberately untidy. A fast parametric layer can provide immediate liquidity. Indemnity coverage can later respond to measured property loss. Credit can bridge timing where repayment remains realistic. Public aid can reach households for whom even an insured retention is impossible. Mitigation can reduce the size of the next loss. None of those instruments has to pretend it is resilience by itself.
 
-A protection gap means the society must finance recovery afterward, when its bargaining position is worst.
+The same caution applies at national scale. Governments can combine reserves, contingent credit, insurance, reinsurance, catastrophe bonds, budget flexibility, and international assistance. Small frequent losses may be retained; larger but insurable losses transferred; extreme systemic losses left partly to public or international balance sheets. The point of layering is not sophistication for its own sake. Different money has different carrying costs and arrives under different conditions.
 
-This is why catastrophe insurance belongs in conversations about development, not just finance.
+There is no free risk transfer. Insurance is costly for losses that are nearly certain. Huge idle reserves carry opportunity costs. Catastrophe bonds require modeling, legal infrastructure, and investors willing to bear the specified trigger risk. Emergency borrowing can become most expensive precisely when many people need cash at once. The useful question is not which instrument wins. It is which failure each instrument is being paid to prevent.
 
-A household without protection can fall down the wealth ladder after one event. A small business can disappear. A government can divert money from schools, infrastructure, or health into reconstruction. A bank can discover that many of its borrowers lost collateral simultaneously. A currency can weaken as imports for rebuilding rise. Public debt can climb.
+That reframes the global protection gap. In 2025, nearly half of realized natural-catastrophe losses worldwide were insured, while Swiss Re's modeled resilience measure still left almost three quarters of protection need uncovered. Both can be true because the measures answer different questions. Neither tells us, by itself, whether a household kept its home, a business made payroll, or a government preserved its investment program.
 
-The uninsured loss does not disappear.
+Those are harder outcomes to measure, but they are closer to what protection is for.
 
-It migrates.
+Insurance is one source of resilience, not its synonym. Its peculiar strength is precommitment: before the event, somebody has agreed to supply money afterward under known conditions. Savings precommit in another way. A contingent credit line does it differently. Public catastrophe rules can do it at sovereign scale. Mitigation reduces the promise that will be needed.
 
-Sometimes it migrates into lower consumption.
+The protection gap becomes most consequential where those precommitments run out before the recovery clock does. Then catastrophe stops being execution of arrangements made in advance and becomes a negotiation conducted by people who have just lost the things that gave them negotiating power.
 
-Sometimes into debt.
-
-Sometimes into the government budget.
-
-Sometimes into the future.
-
-The protection gap is therefore partly a question of who is able to carry volatility.
-
-Wealthy households can self-insure more risk. Large corporations can retain losses, use captive insurers, diversify facilities, buy sophisticated programs, and access capital markets. Sovereign governments can sometimes borrow after catastrophe.
-
-Poor households cannot issue catastrophe bonds against next decade’s wages.
-
-A farmer with one harvest and no savings is not a miniature reinsurer.
-
-This is why ordinary insurance economics can become misleading at the bottom of the income distribution. A product can be actuarially sensible and still fail because the customer cannot afford the premium before the harvest. A policy can have positive expected value and still be unattractive because the household values cash today more than uncertain protection tomorrow. A claim process can be technically fair and still fail because payment arrives after the borrower has already sold livestock or removed a child from school.
-
-Timing is part of protection.
-
-That observation has driven interest in parametric insurance.
-
-Traditional indemnity insurance asks: what was the actual loss?
-
-An adjuster may inspect damage. Documents are submitted. The insurer verifies causation and value. Payment is tied to the loss covered by the contract.
-
-Parametric insurance asks a different question: did a predefined measurable event occur?
-
-Did rainfall fall below a threshold?
-
-Did wind speed exceed a threshold?
-
-Did an earthquake reach a specified intensity?
-
-Did river height cross a defined level?
-
-If the trigger is met, the policy pays a preset amount.
-
-The attraction is speed and simplicity. There may be less need to inspect every field or building. Administrative costs can be lower. Payment can arrive quickly enough to preserve working capital.
-
-The weakness is basis risk.
-
-A farmer can suffer a terrible crop loss even though the official rainfall gauge misses the trigger.
-
-A town can experience little damage even though the measured wind speed produces a payout.
-
-The contract pays for the index, not the actual wound.
-
-This makes parametric insurance feel strange to people accustomed to the idea that insurance should reimburse loss precisely.
-
-In places where adjusting every individual loss is slow or expensive, the trade can be worthwhile.
-
-The OECD has noted the growing role of parametric approaches in disaster-risk finance and microinsurance, particularly for agricultural and natural-hazard risks. The World Bank and regional risk pools have also helped governments arrange parametric catastrophe protection so that sovereigns can receive rapid liquidity after defined disasters.
-
-The important word is liquidity.
-
-A government does not necessarily need every reconstruction dollar in the first week.
-
-It does need cash for emergency response, temporary shelter, debris removal, health services, and the first steps of recovery.
-
-A parametric payout can serve as bridge capital for a state.
-
-That is different from making the state whole.
-
-It is insurance used as operating cash during crisis.
-
-Regional sovereign pools extend the idea by combining exposures across multiple countries. The Caribbean Catastrophe Risk Insurance Facility and similar arrangements were built around a simple insight: a small country can be financially overwhelmed by a single hurricane, but a pool of countries can spread risk across geography, time, and international capital.
-
-This is the same principle Lloyd’s underwriters used centuries ago, scaled to sovereign balance sheets.
-
-But pooling across countries introduces politics.
-
-Who pays how much?
-
-Whose model determines the trigger?
-
-What happens when one member receives repeated payouts?
-
-What happens when climate patterns become more correlated?
-
-What happens when countries with lower risk decide the pool is too expensive?
-
-Insurance cannot escape governance simply by moving up a level.
-
-The protection gap is also a data gap.
-
-A mature insurance market needs records of assets, hazards, claims, ownership, repair costs, legal rules, and financial behavior. It needs local people capable of selling, servicing, and explaining policies. It needs courts or dispute systems that can enforce contracts. It needs regulators that can supervise solvency without making entry impossible. It needs customers who believe claims will actually be paid.
-
-Many places lack some of these things.
-
-A satellite image can improve hazard modeling.
-
-It cannot create a trustworthy claims institution by itself.
-
-Mobile payments can make microinsurance easier to distribute.
-
-They do not automatically make a policy understandable.
-
-AI can reduce underwriting cost.
-
-It cannot solve the problem that a family has no spare cash for premium.
-
-Technology attacks some frictions and leaves others untouched.
-
-This is a recurring error in financial inclusion.
-
-A product is designed around the institution’s view of the problem rather than the household’s cash flow.
-
-The insurer asks, “Can we price the risk?”
-
-The customer asks, “Can I pay before planting?”
-
-The insurer asks, “Can we verify the claim?”
-
-The customer asks, “Will the money arrive before I have to sell the cow?”
-
-The insurer asks, “Is the expected loss low enough?”
-
-The customer asks, “Will I trust a company I have never heard of when the village has seen claims denied before?”
-
-Protection is behavioral and institutional before it is mathematical.
-
-There is another reason gaps persist: insurance competes with expectation of rescue.
-
-If households reasonably believe the government, donors, relatives, or international organizations will provide aid after a disaster, purchasing insurance can feel like paying for something others may receive for free.
-
-Economists call this charity hazard or implicit insurance.
-
-The phrase can sound accusatory.
-
-The behavior is often rational.
-
-If a government always rebuilds a destroyed road, a municipality may have little incentive to insure the road. If national disaster grants regularly cover uninsured homeowners, some households may decide premiums are optional. If banks expect emergency forbearance after catastrophe, they may underprice geographic risk.
-
-Public compassion can unintentionally weaken private pre-funding.
-
-That does not mean governments should refuse disaster aid to preserve insurance discipline.
-
-It means aid policy and insurance policy interact.
-
-A society that wants more pre-event risk financing has to make the relationship clear.
-
-Which losses will government cover?
-
-Which must be insured privately?
-
-Which require local responsibility?
-
-Which risks are too systemic for the private market?
-
-Ambiguity is expensive because everyone can plan around the hope that someone else will pay.
-
-The same issue appears in advanced economies under different names.
-
-After extraordinary disasters, governments often spend beyond formal insurance arrangements. Congress appropriates emergency money. States create relief funds. Regulators order payment flexibility. Banks pause foreclosures. Utilities receive assistance. Public agencies rebuild infrastructure.
-
-These are sensible responses to catastrophe.
-
-They are also implicit layers of insurance.
-
-The state is the balance sheet that remains when contractual coverage runs out.
-
-The existence of that balance sheet changes incentives before the event even when no one says so explicitly.
-
-This is why the protection gap is not synonymous with “sell more insurance.”
-
-Sometimes more private coverage is the answer.
-
-Sometimes risk reduction is better.
-
-Sometimes public infrastructure investment is better.
-
-Sometimes relocation is better.
-
-Sometimes social insurance is more appropriate than a commercial product.
-
-Sometimes the exposure should not exist.
-
-An uninsured house in a floodplain represents one kind of gap.
-
-A house that should never have been built there represents another.
-
-Insurance can finance recovery from bad geography.
-
-It cannot turn the geography good.
-
-The global protection gap also has a geopolitical dimension.
-
-Countries that repeatedly suffer uninsured catastrophes can lose growth relative to countries with deeper financial cushions. Public debt rises. Infrastructure repairs crowd out investment. Foreign investors demand more return. Credit ratings can weaken. Governments become more dependent on international institutions and emergency borrowing.
-
-A storm lasts three days.
-
-Its financing consequences can last a decade.
-
-This is one reason catastrophe risk has moved into sovereign credit analysis and development finance. The question is no longer only whether a country is exposed to hazards. It is whether the country has a credible financial strategy for absorbing them.
-
-That strategy can combine reserves, contingent credit, insurance, catastrophe bonds, budget flexibility, and international assistance.
-
-Each tool belongs to a different layer of loss.
-
-Small frequent losses may be best retained.
-
-Medium losses may be insured.
-
-Rare severe losses may be transferred to reinsurance or capital markets.
-
-Extreme systemic losses may still require public or international support.
-
-The architecture resembles a household deductible, insurance policy, and emergency fund scaled to a nation.
-
-The mistake is trying to finance every layer with the same instrument.
-
-Insurance is expensive for losses that are nearly certain.
-
-Emergency borrowing is expensive when everyone needs cash at once.
-
-Reserves are expensive if governments hold enormous idle balances for events that may never happen.
-
-Catastrophe bonds are useful for specified tail risks but require modeling, legal infrastructure, investor confidence, and a tolerable basis between trigger and loss.
-
-There is no free risk transfer.
-
-There is only preparation with different carrying costs.
-
-The phrase protection gap can also imply that one ideal amount of coverage exists.
-
-That is too simple.
-
-A family does not necessarily need insurance for every broken appliance. A corporation can rationally retain losses below a threshold. A government can self-insure routine storms if it has fiscal capacity. Deductibles exist because paying an insurer to process every small loss is inefficient.
-
-The real gap begins where loss exceeds the absorber’s capacity.
-
-A $5,000 uninsured repair is inconvenient to a wealthy household and catastrophic to a poor one.
-
-A $500 million disaster is manageable to a large sovereign and overwhelming to a small island state.
-
-Protection must be measured against balance-sheet strength, not only hazard.
-
-This is what makes wealth such a powerful form of insurance.
-
-A diversified asset portfolio, stable income, access to credit, supportive family, and strong government services all absorb shocks that never appear on an insurance policy.
-
-Poor people face more uninsurable risk partly because they have fewer non-insurance buffers.
-
-The same is true of countries.
-
-The protection gap is therefore partly a wealth gap wearing actuarial clothing.
-
-That is uncomfortable for the insurance industry because it defines the limit of what product innovation can do.
-
-Cheaper distribution helps.
-
-Better data helps.
-
-Parametric triggers help.
-
-Public-private pools help.
-
-None of them creates income.
-
-Still, the financial architecture matters enormously because a small amount of well-timed protection can prevent a temporary shock from becoming a permanent loss of productive capacity.
-
-A farmer who receives cash quickly may buy seed instead of selling equipment.
-
-A small business may reopen rather than dissolve.
-
-A government may keep infrastructure investment on schedule rather than redirecting the budget to emergency relief.
-
-Insurance does not merely replace things.
-
-It can preserve trajectories.
-
-This is the deepest consequence of the protection gap.
-
-The uninsured loss is not only what was destroyed.
-
-It is the future that becomes harder to finance afterward.
-
-That future is distributed unevenly even inside the same disaster zone.
-
-A household with savings can hire a contractor before assistance arrives. A household living paycheck to paycheck may need to choose between temporary housing and the deductible. A large company can draw on a credit facility. A small business whose collateral was damaged may discover that the disaster reduced its ability to borrow at the exact moment borrowing became necessary.
-
-The physical event is shared.
-
-The recovery clock is not.
-
-This is why measuring protection only as a percentage of property value can miss the human point. Two households can have the same uninsured dollar loss and radically different recovery capacity. A protection system should care about the probability that a shock becomes irreversible: foreclosure, business closure, forced migration, asset sale, interrupted education, or a debt burden that outlives the rebuilt asset.
-
-The economically important coverage limit is therefore not always replacement value.
-
-Sometimes it is enough liquidity to keep a viable life or business from crossing a threshold.
-
-This suggests a useful distinction between reconstruction insurance and continuity insurance.
-
-Reconstruction insurance pays to replace what was damaged.
-
-Continuity finance preserves the ability to function while replacement is happening.
-
-Business interruption coverage does this for firms. Additional living expense coverage can do it for households. Sovereign contingent finance does it for governments. Emergency savings and credit do it informally.
-
-Protection gaps often become destructive through continuity failure before the final reconstruction bill is known.
-
-The shop owner cannot wait six months for a perfect adjustment if payroll is due Friday.
-
-The family cannot wait for a buyout decision if rent on temporary housing begins now.
-
-The government cannot wait for donor conferences if roads to hospitals are blocked.
-
-Speed has an economic return because it prevents secondary losses.
-
-That is the best case for parametric and contingent instruments: not that indexes are inherently superior to indemnity, but that some layer of rapid money can preserve options while slower, more precise financing catches up.
-
-The architecture can combine both.
-
-A fast parametric payment covers immediate liquidity. Indemnity coverage later addresses actual property loss. Public aid targets households for whom even the insured retention is impossible. Credit finances timing gaps where repayment remains realistic. Mitigation reduces the size of the next event.
-
-No single product has to pretend it is the entire recovery system.
-
-This layered view also changes how success should be measured.
-
-An insurer can pay every covered claim and a community can still fail to recover because coverage penetration was low, deductibles were too large, payments were slow, contractors were unavailable, or public infrastructure remained damaged. Conversely, a community can recover well with modest commercial insurance if public finance, household savings, social networks, and rapid government response are strong.
-
-Insurance is one source of resilience, not a synonym for resilience.
-
-Its special contribution is precommitment.
-
-Before the event, participants agree who will supply money after it.
-
-That agreement reduces the amount of improvisation required while everyone is shocked.
-
-The protection gap is therefore best understood as a precommitment gap.
-
-Who has already promised to carry the loss?
-
-Who has merely hoped someone will?
-
-The difference is invisible in good weather.
-
-After catastrophe it becomes the difference between recovery as execution and recovery as negotiation.
+Chapter 19 begins at that outer edge, where private promises are no longer large enough and the state discovers that “uninsured” never meant “unpaid.”
