@@ -1,4 +1,4 @@
-# The Measure of Good
+# What Counts as Good?
 
 <!-- bookself-reader-links:start -->
 **Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/the-measure-of-good/)

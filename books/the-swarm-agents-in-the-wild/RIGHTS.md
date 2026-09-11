@@ -1,8 +1,8 @@
-# Rights & permissions — The Swarm: Agents in the Wild
+# Rights & permissions — Swarm: Agents in the Wild
 
 © 2026 Sven Hardy Benson. All Rights Reserved.
 
-**Work:** *The Swarm: Agents in the Wild*  
+**Work:** *Swarm: Agents in the Wild*  
 **Author and copyright owner:** Sven Hardy Benson  
 **Rights profile:** `bookself-arr-v1`
 

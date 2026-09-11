@@ -1,8 +1,8 @@
-# Rights & permissions — The Measure of Good
+# Rights & permissions — What Counts as Good?
 
 © 2026 Sven Hardy Benson. All Rights Reserved.
 
-**Work:** *The Measure of Good*  
+**Work:** *What Counts as Good?*  
 **Author and copyright owner:** Sven Hardy Benson  
 **Rights profile:** `bookself-arr-v1`
 
