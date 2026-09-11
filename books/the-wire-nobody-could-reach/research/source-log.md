@@ -18,16 +18,17 @@ Checked or refreshed 2026-09-11 unless noted. This project has an unusually unev
 - Roger C. Dunham, *Spy Sub: A Top Secret Mission to the Bottom of the Pacific* (Naval Institute Press edition). Participant-oriented account of USS *Halibut* special operations. Use for operational texture with explicit memory/source boundary.
 - Military.com, **Operation Ivy Bells: The U.S. Navy’s Secret Mission to Tap Soviet Undersea Cables**. Useful secondary synthesis and discovery lead for commonly repeated technical details; should not be the terminal source for disputed specifics: https://www.military.com/history/operation-ivy-bells.html
 
-## Halibut / special-mission submarine research priorities
+## Halibut / special-mission submarine record
 
-- Public naval records, award citations, ship histories and archival materials should be reconstructed directly in the next pass. Highest priority is obtaining authoritative USS *Halibut* post-Regulus history, Presidential Unit Citation / Navy Unit Commendation wording, shipyard conversion records where public, and declassified material on K-129 search operations.
-- Later special-mission platform lineage should be sourced from official Navy material on USS *Parche* and USS *Jimmy Carter* before drawing detailed mission conclusions. Platform capability is not proof of target history.
+- Naval History and Heritage Command, DANFS, **Halibut II (SSG(N)-587)**. Authoritative public ship chronology for the original Regulus role and transition: commissioned 4 January 1960; first nuclear-powered submarine designed and built from the keel up to launch guided missiles; departed on the last Pacific Regulus submarine patrol on 4 May 1964; entered Pearl Harbor Naval Shipyard for major overhaul in February 1965; redesignated SS(N)-587 on 15 August 1965. The public DANFS entry then describes ASW operations through 1966–67 and does **not** document the later cable-tapping mission. That silence is an archival boundary, not evidence against the later serious historical reconstruction: https://www.history.navy.mil/research/histories/ship-histories/danfs/h/halibut-ii.html
+- CIA, **The Exposing of Project AZORIAN** (17 March 2020) and CIA Museum, **Project AZORIAN**. Official CIA account establishes that K-129 disappeared in 1968, that the United States located the wreck after the Soviet search failed, and that CIA—with Department of Defense support—undertook the later recovery project. These sources establish the broader K-129 intelligence episode but do not, on their public pages, identify *Halibut* as the locating platform; that specific link remains dependent here on historical reconstruction rather than this official CIA account: https://www.cia.gov/stories/story/the-exposing-of-project-azorian/ and https://www.cia.gov/legacy/museum/exhibit/project-azorian/
+- Public naval records, award citations, shipyard files and archival materials remain a priority. Highest value is an authoritative record documenting *Halibut*’s post-Regulus special-project conversion, the public wording and dates of relevant Presidential Unit Citation / Navy Unit Commendation awards, and any declassified record directly linking the boat to K-129 localization or Ivy Bells.
 
 ## Modern submarine-cable security — official
 
 - NATO, **NATO launches ‘Baltic Sentry’ to increase critical infrastructure security**, 14 January 2025. Naval assets, maritime patrol aircraft, drones and critical-infrastructure protection following recent cable incidents: https://www.nato.int/en/news-and-events/articles/news/2025/01/14/nato-launches-baltic-sentry-to-increase-critical-infrastructure-security
 - NATO, **NATO Allies agree to expedite innovation adoption and integration for Baltic Sea security**, 12 February 2026. Current allied work on autonomous systems, AI-enabled sensing and undersea-infrastructure situational awareness: https://www.nato.int/en/news-and-events/articles/news/2026/02/12/nato-allies-agree-to-expedite-innovation-adoption-and-integration-for-baltic-sea-security
-- European Commission / High Representative, **Joint Communication to strengthen the security and resilience of submarine cables**, 21 February 2025. Organizes the policy around prevention, detection, response, repair and deterrence: https://digital-strategy.ec.europa.eu/en/library/joint-communication-strengthen-security-and-resilience-submarine-cables
+- European Commission / High Representative, **Joint Communication to strengthen the security and resilience of submarine cables**, 21 February 2025. Organizes the policy around prevention, detection, response, repair and deterrence: https://digital-strategy.ec.europa.eu/en/library/joint-communication-strengthen-security-resilience-submarine-cables
 - European Commission, **Commission and High Representative present strong actions to enhance security of submarine cables**, 21 February 2025. Gives the Commission’s public estimate that submarine communications cables carry approximately 99% of intercontinental internet traffic: https://digital-strategy.ec.europa.eu/en/news/commission-and-high-representative-present-strong-actions-enhance-security-submarine-cables
 
 ## Sources intentionally not treated as proof
@@ -41,7 +42,7 @@ Checked or refreshed 2026-09-11 unless noted. This project has an unusually unev
 ## Highest-priority next-pass retrieval
 
 1. National Archives / Navy / NSA / CIA Reading Room / FOIA records that explicitly use Ivy Bells, Bells, Okhotsk cable collection, Halibut special projects, cable tapping, or Pelton-compromised program descriptions.
-2. Authoritative USS *Halibut* conversion, deployment and award records.
+2. Authoritative USS *Halibut* conversion, deployment and award records beyond the public DANFS chronology.
 3. Pelton trial-level documents below the appellate opinion, including CIPA handling, sentencing material and any publicly releasable descriptions of compromised operations.
 4. Original 1986 NBC transcript and all contemporary reporting that can be compared for source independence.
 5. Soviet/Russian archival or museum provenance for the captured cable-tap device.
