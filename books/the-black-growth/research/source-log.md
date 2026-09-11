@@ -2,7 +2,7 @@
 
 ## Primary and authoritative sources
 
-1. Dadachova E. et al. (2007), “Ionizing radiation changes the electronic properties of melanin and enhances the growth of melanized fungi,” *PLoS ONE* 2:e457. https://doi.org/10.1371/journal.pone.0000457 — Primary positive experiment; supports altered melanin ESR/redox behavior and growth stimulation under specified conditions, not a completely closed metabolic pathway.
+1. Dadachova E. et al. (2007), “Ionizing radiation changes the electronic properties of melanin and enhances the growth of melanized fungi,” *PLoS ONE* 2:e457. https://doi.org/10.1371/journal.pone.0000457 — Primary positive experiment; supports altered melanin ESR/redox behavior and growth stimulation under specified conditions, not a completely closed metabolic pathway. Low-dose growth experiments used a field around 0.05 mGy/hour, which is small enough that absorbed-joule accounting becomes a strong constraint on claims of direct bulk energy harvesting.
 
 2. Zhdanova N.N. et al. (2000), “Fungi from Chernobyl: mycobiota of the inner regions of the containment structures of the damaged nuclear reactor,” *Mycological Research* 104:1421–1426. https://doi.org/10.1017/S0953756200002756 — Primary survey documenting fungal colonization and species diversity inside the Shelter.
 
@@ -26,6 +26,8 @@
 
 12. Casadevall A. et al. (2017), “Melanin, Radiation, and Energy Transduction in Fungi,” *Microbiology Spectrum*. https://doi.org/10.1128/microbiolspec.funk-0037-2016 — Review by principal investigators; useful synthesis but secondary to primary experiments.
 
+13. Bryan R.A., Jiang Z., Friedman M., Dadachova E. (2014), “Mathematical Modeling Predicts Enhanced Growth of X-Ray Irradiated Pigmented Fungi,” *PLoS ONE* 9:e85561. https://doi.org/10.1371/journal.pone.0085561 — Dose-rate/energy modeling of radiation-associated proliferation. The response includes enhancement and high-dose inhibition rather than a simple linear energy-harvest curve; useful for separating signaling/stress models from direct energy capture.
+
 ## Claim discipline
 
 - “Radiation eating” is not used as an established scientific mechanism.
@@ -33,3 +35,4 @@
 - NASA research interest does not establish deployable shielding efficacy.
 - Patents, if later added, will be evidence of filing only.
 - Radiolysis-supported ecosystems are mechanistically distinct from direct melanin-mediated energy transduction.
+- One gray equals one joule absorbed per kilogram. Energy-transduction claims should therefore be tested against absorbed-joule budgets, not only against growth ratios or source activity.
