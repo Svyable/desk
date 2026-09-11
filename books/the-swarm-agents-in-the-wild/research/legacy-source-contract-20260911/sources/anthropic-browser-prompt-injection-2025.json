@@ -1,0 +1,9 @@
+{
+  "id": "anthropic-browser-prompt-injection-2025",
+  "year": 2025,
+  "author_or_institution": "Anthropic",
+  "title": "Mitigating the risk of prompt injections in browser use",
+  "source_type": "First-party security research account",
+  "book_use": "Documents the broad attack surface created when browser agents ingest untrusted pages and can click, download, fill forms, or transmit data; reports improved robustness while explicitly warning that even a one-percent attack success rate remains meaningful risk.",
+  "url": "https://www.anthropic.com/research/prompt-injection-defenses"
+}

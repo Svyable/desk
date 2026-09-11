@@ -1,0 +1,9 @@
+{
+  "id": "openai-prompt-injection-security-2026",
+  "year": 2026,
+  "author_or_institution": "OpenAI",
+  "title": "Designing AI agents to resist prompt injection",
+  "source_type": "First-party security engineering account",
+  "book_use": "Frames prompt injection as social engineering against an authorized agent and argues for constraining impact even when manipulation succeeds; describes source-sink analysis, user confirmation, blocking sensitive third-party transmissions, and sandboxed application execution.",
+  "url": "https://openai.com/index/designing-agents-to-resist-prompt-injection/"
+}

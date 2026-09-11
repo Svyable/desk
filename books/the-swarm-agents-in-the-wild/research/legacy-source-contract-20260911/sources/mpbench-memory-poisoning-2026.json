@@ -1,0 +1,10 @@
+{
+  "id": "mpbench-memory-poisoning-2026",
+  "title": "From Untrusted Input to Trusted Memory: A Systematic Study of Memory Poisoning Attacks in LLM Agents",
+  "publisher": "arXiv preprint",
+  "date": "2026-06-03",
+  "url": "https://arxiv.org/abs/2606.04329",
+  "source_type": "research preprint",
+  "claims_used": "The study identifies multiple memory-write channels and structural vulnerabilities, introduces a taxonomy and MPBench, and reports that systems designed to write and retrieve memory more aggressively can become more exploitable. The manuscript uses it to frame memory security as a write-retrieve-act pipeline rather than a single filtering problem.",
+  "caveat": "This is a preprint rather than a peer-reviewed conference or journal paper as of the cited date."
+}

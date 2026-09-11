@@ -1,0 +1,9 @@
+{
+  "id": "visa-intelligent-commerce-2026",
+  "year": 2026,
+  "author_or_institution": "Visa",
+  "title": "Visa Intelligent Commerce",
+  "source_type": "Company product documentation",
+  "book_use": "Documents agent-initiated payment controls including credentialing, authentication, spending limits, approval workflows and identity signals; Visa explicitly states that the portfolio is still being deployed and that final features may differ, so the manuscript uses it as evidence of infrastructure direction rather than settled market adoption.",
+  "url": "https://www.visa.com/en-us/solutions/intelligent-commerce"
+}

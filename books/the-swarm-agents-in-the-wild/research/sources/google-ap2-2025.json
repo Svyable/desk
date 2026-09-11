@@ -1,6 +1,5 @@
 {
-  "id": "google-ap2-2025",
-  "year": 2025,
+  "year": "2025",
   "author_or_institution": "Google Cloud",
   "title": "Powering AI commerce with the new Agent Payments Protocol (AP2)",
   "source_type": "First-party protocol announcement",

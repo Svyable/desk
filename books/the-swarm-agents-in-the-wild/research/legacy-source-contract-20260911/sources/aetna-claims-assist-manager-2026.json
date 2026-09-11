@@ -1,0 +1,10 @@
+{
+  "id": "aetna-claims-assist-manager-2026",
+  "title": "Aetna reduces claims processing time by more than 20% with AI to improve care experience",
+  "publisher": "Aetna / CVS Health",
+  "date": "2026-05-26",
+  "url": "https://www.aetna.com/insights/news/aetna-reduces-claims-processing-time-with-ai.html",
+  "source_type": "first-party insurer operational announcement",
+  "claims_used": "Aetna describes its second-generation Claims Assist Manager as an AI-powered agentic claims advisor platform. The company reports that adjuster AI agents reduce processing time by more than 20 percent for complex claims requiring manual review. The manuscript uses the case to illustrate agentic systems entering consequential administrative review while preserving human adjuster roles, not to claim autonomous claim adjudication without oversight.",
+  "caveat": "The performance figure is company-reported and the cited announcement does not provide an independent evaluation or full experimental methodology."
+}

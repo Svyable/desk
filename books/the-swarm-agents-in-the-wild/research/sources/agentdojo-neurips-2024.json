@@ -1,6 +1,5 @@
 {
-  "id": "agentdojo-neurips-2024",
-  "year": 2024,
+  "year": "2024",
   "author_or_institution": "Edoardo Debenedetti; Jie Zhang; Mislav Balunovic; Luca Beurer-Kellner; Marc Fischer; Florian Tramer",
   "title": "AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents",
   "source_type": "Peer-reviewed benchmark paper",

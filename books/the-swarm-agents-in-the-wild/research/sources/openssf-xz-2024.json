@@ -1,6 +1,5 @@
 {
-  "id": "openssf-xz-2024",
-  "year": 2024,
+  "year": "2024",
   "author_or_institution": "Open Source Security Foundation",
   "title": "xz Backdoor CVE-2024-3094",
   "source_type": "Open-source security foundation analysis",

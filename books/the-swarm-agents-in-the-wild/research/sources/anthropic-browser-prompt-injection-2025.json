@@ -1,6 +1,5 @@
 {
-  "id": "anthropic-browser-prompt-injection-2025",
-  "year": 2025,
+  "year": "2025",
   "author_or_institution": "Anthropic",
   "title": "Mitigating the risk of prompt injections in browser use",
   "source_type": "First-party security research account",

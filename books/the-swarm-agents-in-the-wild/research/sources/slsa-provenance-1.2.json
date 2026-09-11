@@ -1,6 +1,5 @@
 {
-  "id": "slsa-provenance-1.2",
-  "year": 2026,
+  "year": "2026",
   "author_or_institution": "SLSA project / Linux Foundation",
   "title": "SLSA Specification v1.2 — Provenance",
   "source_type": "Open software-supply-chain specification",

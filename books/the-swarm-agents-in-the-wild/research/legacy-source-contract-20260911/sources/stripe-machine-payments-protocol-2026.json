@@ -1,0 +1,9 @@
+{
+  "id": "stripe-machine-payments-protocol-2026",
+  "year": 2026,
+  "author_or_institution": "Stripe and Tempo",
+  "title": "Introducing the Machine Payments Protocol",
+  "source_type": "First-party protocol announcement",
+  "book_use": "Documents an open protocol aimed at letting agents pay businesses and one another programmatically, motivated by the friction agents face when human-oriented payment flows require account creation, checkout navigation, payment entry, and billing setup.",
+  "url": "https://stripe.com/blog/machine-payments-protocol"
+}

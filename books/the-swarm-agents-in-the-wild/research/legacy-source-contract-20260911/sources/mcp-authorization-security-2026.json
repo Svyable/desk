@@ -1,0 +1,9 @@
+{
+  "id": "mcp-authorization-security-2026",
+  "year": 2026,
+  "author_or_institution": "Model Context Protocol project",
+  "title": "Authorization and Security Considerations",
+  "source_type": "Protocol specification",
+  "book_use": "Documents resource-bound access tokens, audience validation, the confused-deputy risk, and the prohibition on token passthrough; supports the distinction between portable identity and portable authority.",
+  "url": "https://modelcontextprotocol.io/specification/2025-06-18/basic/authorization"
+}

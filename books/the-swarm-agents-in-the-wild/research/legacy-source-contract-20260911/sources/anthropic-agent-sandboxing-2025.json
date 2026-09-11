@@ -1,0 +1,9 @@
+{
+  "id": "anthropic-agent-sandboxing-2025",
+  "year": 2025,
+  "author_or_institution": "Anthropic",
+  "title": "Beyond permission prompts: making Claude Code more secure and autonomous",
+  "source_type": "First-party security engineering account",
+  "book_use": "Documents filesystem and network sandbox boundaries for an agent that edits files and executes commands; supports containment-by-default and the idea that stronger boundaries can permit greater autonomy inside a limited blast radius.",
+  "url": "https://www.anthropic.com/engineering/claude-code-sandboxing"
+}

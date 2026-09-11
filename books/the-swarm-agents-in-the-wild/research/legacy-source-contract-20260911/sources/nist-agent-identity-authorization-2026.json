@@ -1,0 +1,9 @@
+{
+  "id": "nist-agent-identity-authorization-2026",
+  "year": 2026,
+  "author_or_institution": "National Institute of Standards and Technology, National Cybersecurity Center of Excellence",
+  "title": "Accelerating the Adoption of Software and Artificial Intelligence Agent Identity and Authorization",
+  "source_type": "Government concept paper",
+  "book_use": "Frames agent security around identification, authorization, auditing, non-repudiation, data-flow tracking, and controls for prompt injection as enterprises give software agents broader access to tools, applications, and data.",
+  "url": "https://csrc.nist.gov/pubs/other/2026/02/05/accelerating-the-adoption-of-software-and-ai-agent/ipd"
+}

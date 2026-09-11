@@ -1,0 +1,9 @@
+{
+  "id": "owasp-mcp-tool-poisoning-2026",
+  "year": 2026,
+  "author_or_institution": "OWASP Foundation",
+  "title": "MCP Tool Poisoning",
+  "source_type": "Industry security attack catalog",
+  "book_use": "Describes indirect prompt injection through malicious MCP tool servers whose descriptions or responses enter an agent's context and can steer privileged tool use; supports the distinction between trusting a tool's identity at connection time and trusting what it emits at runtime.",
+  "url": "https://owasp.org/www-community/attacks/MCP_Tool_Poisoning"
+}

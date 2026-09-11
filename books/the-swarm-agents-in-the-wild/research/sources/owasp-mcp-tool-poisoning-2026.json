@@ -1,6 +1,5 @@
 {
-  "id": "owasp-mcp-tool-poisoning-2026",
-  "year": 2026,
+  "year": "2026",
   "author_or_institution": "OWASP Foundation",
   "title": "MCP Tool Poisoning",
   "source_type": "Industry security attack catalog",

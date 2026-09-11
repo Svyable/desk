@@ -1,0 +1,9 @@
+{
+  "id": "owasp-excessive-agency-2025",
+  "year": 2025,
+  "author_or_institution": "OWASP GenAI Security Project",
+  "title": "LLM06:2025 Excessive Agency",
+  "source_type": "Industry security guidance",
+  "book_use": "Identifies excessive functionality, excessive permissions, and excessive autonomy as root causes that turn model mistakes or manipulation into damaging actions; recommends minimizing tools and permissions, using scoped credentials, requiring approval for high-impact actions, and applying rate limits.",
+  "url": "https://genai.owasp.org/llmrisk/llm062025-excessive-agency/"
+}

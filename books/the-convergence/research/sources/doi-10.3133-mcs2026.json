@@ -1,8 +1,8 @@
 {
-  "year": 2026,
+  "year": "2026",
   "author_or_institution": "U.S. Geological Survey",
   "title": "Mineral Commodity Summaries 2026",
   "source_type": "Government mineral production, trade, reserves, and use report",
-  "book_use": "Chapter 13 grounding for copper end uses, mineral supply chains, reserves, recycling, and substitution",
+  "book_use": "Chapter 13 grounding for copper end uses, mineral supply chains, reserves, recycling, and substitution; Chapter 13 evidence that U.S. copper demand is distributed across construction, electrical/electronic products, transportation, consumer/general products, and industrial machinery rather than belonging to the energy transition alone; Legacy duplicate metadata: U.S. Geological Survey — Mineral Commodity Summaries 2026 — Copper; Legacy duplicate source id: usgs-mineral-commodity-summaries-2026-copper; Chapter 13 evidence that copper and other mineral supply chains serve broad existing industrial demand as well as energy-system buildout; also supports the chapter's distinction between geological availability, reserves, processing concentration, recycling, and supply risk",
   "url": "https://doi.org/10.3133/mcs2026"
 }

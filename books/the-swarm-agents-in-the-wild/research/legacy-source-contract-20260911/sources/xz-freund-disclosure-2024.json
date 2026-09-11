@@ -1,0 +1,9 @@
+{
+  "id": "xz-freund-disclosure-2024",
+  "year": 2024,
+  "author_or_institution": "Andres Freund / oss-security",
+  "title": "backdoor in upstream xz/liblzma leading to ssh server compromise",
+  "source_type": "Primary incident disclosure",
+  "book_use": "Primary disclosure of the XZ/liblzma backdoor after anomalous SSH CPU use and related debugging; documents that malicious build material was present in XZ 5.6.0/5.6.1 release tarballs and differed materially from the expected source path.",
+  "url": "https://www.openwall.com/lists/oss-security/2024/03/29/4"
+}

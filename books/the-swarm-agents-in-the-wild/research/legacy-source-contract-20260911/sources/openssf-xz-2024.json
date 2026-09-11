@@ -1,0 +1,9 @@
+{
+  "id": "openssf-xz-2024",
+  "year": 2024,
+  "author_or_institution": "Open Source Security Foundation",
+  "title": "xz Backdoor CVE-2024-3094",
+  "source_type": "Open-source security foundation analysis",
+  "book_use": "Places the XZ incident in software-supply-chain context and notes that staged distribution through experimental releases limited exposure before stable deployment; supports the book's resilience argument that release friction can function as containment.",
+  "url": "https://openssf.org/blog/2024/03/30/xz-backdoor-cve-2024-3094/"
+}

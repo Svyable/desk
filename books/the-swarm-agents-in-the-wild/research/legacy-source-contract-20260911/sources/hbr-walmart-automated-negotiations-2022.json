@@ -1,0 +1,10 @@
+{
+  "id": "hbr-walmart-automated-negotiations-2022",
+  "title": "How Walmart Automated Supplier Negotiations",
+  "publisher": "Harvard Business Review",
+  "date": "2022-11-08",
+  "url": "https://hbr.org/2022/11/how-walmart-automated-supplier-negotiations",
+  "source_type": "reported enterprise case coauthored by company practitioners and academics",
+  "claims_used": "Walmart used Pactum software to negotiate with tail-end suppliers at scale; the published case reports expansion beyond the initial Canadian pilot and deal-closure and savings outcomes. The manuscript treats the case as evidence that automation can economically reach supplier negotiations that human procurement teams would otherwise leave standardized or untouched, not as evidence about modern LLM-agent capability in general.",
+  "caveat": "The article includes Walmart practitioners as coauthors and describes a specific procurement system and deployment. Its reported outcomes should not be generalized to all autonomous negotiation systems."
+}

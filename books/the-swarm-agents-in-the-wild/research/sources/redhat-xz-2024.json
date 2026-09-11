@@ -1,6 +1,5 @@
 {
-  "id": "redhat-xz-2024",
-  "year": 2024,
+  "year": "2024",
   "author_or_institution": "Red Hat Product Security",
   "title": "CVE-2024-3094 and urgent XZ security alert",
   "source_type": "Vendor security advisory",

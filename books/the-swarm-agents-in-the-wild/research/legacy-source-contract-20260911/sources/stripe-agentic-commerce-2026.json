@@ -1,0 +1,9 @@
+{
+  "id": "stripe-agentic-commerce-2026",
+  "year": 2026,
+  "author_or_institution": "Stripe",
+  "title": "Agentic commerce documentation",
+  "source_type": "First-party developer documentation",
+  "book_use": "Documents current agentic-commerce primitives including seller-agent checkout, customer-controlled wallets, programmatic machine payments, and shared payment tokens that can be scoped to a transaction and time-limited; distinguishes commerce protocols from machine-payment protocols.",
+  "url": "https://docs.stripe.com/agentic-commerce"
+}

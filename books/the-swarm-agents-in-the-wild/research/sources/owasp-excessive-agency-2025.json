@@ -1,6 +1,5 @@
 {
-  "id": "owasp-excessive-agency-2025",
-  "year": 2025,
+  "year": "2025",
   "author_or_institution": "OWASP GenAI Security Project",
   "title": "LLM06:2025 Excessive Agency",
   "source_type": "Industry security guidance",

@@ -1,6 +1,5 @@
 {
-  "id": "anthropic-agent-sandboxing-2025",
-  "year": 2025,
+  "year": "2025",
   "author_or_institution": "Anthropic",
   "title": "Beyond permission prompts: making Claude Code more secure and autonomous",
   "source_type": "First-party security engineering account",
