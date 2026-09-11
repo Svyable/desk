@@ -24,6 +24,4 @@ There will still be reasons to learn difficult things simply because learning ch
 
 A system that can supply the answer does not make understanding worthless. It makes understanding more voluntary. When nobody is forced to memorize the route, the people who learn the city may do so because they want to see it. When nobody is forced to write the first draft, the people who write may be doing more than producing text. That choice will recur in classrooms, product defaults, hiring plans, professional standards, public procurement, family habits, and individual moments when the machine offers to finish the thought. Sometimes letting it finish is exactly the point. Sometimes the work is the exercise. Sometimes delegation buys the time to go outside.
 
-The point is authorship: building minds outside ourselves without accidentally surrendering the ability to notice when those tools have begun setting the terms. After all the assistance, memory, answers, and delegated action, the remaining question is whether we can still decide what happens next.
-
-If we can, we have not abdicated. We are still thinking.
+What matters is whether all that assistance leaves us able to notice when the tools begin setting the terms, and able to decide what happens next. That is a less dramatic test than defeating the machine or refusing it. It is also harder to fake. A person, profession, institution, or society that still has that capacity has delegated a great deal, but has not abdicated.
