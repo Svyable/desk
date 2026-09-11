@@ -4,9 +4,9 @@ Checked September 11, 2026 against Getty's own technical and institutional publi
 
 ## Why this audit exists
 
-Chapter 10 currently uses the Getty kouros as a case about expert pattern recognition colliding with apparently objective scientific authentication. That is a good case for a book about taste, but the familiar popular retelling is tidier than the primary record.
+Chapter 10 uses the Getty kouros as a case about expert pattern recognition colliding with apparently objective scientific authentication. That is a good case for a book about taste, but the familiar popular retelling is tidier than the primary record.
 
-The manuscript's strongest overreach is the sentence-level implication that **intuition ultimately proved more accurate than the science**. The object's authenticity has not been resolved cleanly enough to support that verdict.
+The original manuscript's strongest overreach was the implication that **intuition ultimately proved more accurate than the science**. The object's authenticity has not been resolved cleanly enough to support that verdict.
 
 The correction is more interesting: connoisseurship and laboratory evidence identified different kinds of uncertainty, the scientific interpretation itself evolved as the surface was studied more deeply, and even a deliberately multidisciplinary colloquium failed to close the case.
 
@@ -50,7 +50,7 @@ That assessment cannot be treated as neutral: the institution owned the object a
 
 The chapter should preserve this asymmetry:
 
-- some connoisseurs had immediate negative reactions;
+- some connoisseurs had negative reactions;
 - some experts judged the statue authentic;
 - scientific testing initially supported authenticity strongly;
 - later technical work complicated the surface-weathering mechanism;
@@ -59,19 +59,13 @@ The chapter should preserve this asymmetry:
 
 No honest version of that sequence yields 'intuition won.'
 
-## Editorial correction required before merge
+## Editorial correction applied
 
-Keep the chapter's larger argument but revise any wording equivalent to:
+Chapter 10 was revised on September 11, 2026 to remove the unsupported retrospective verdict that intuition was more accurate than science.
 
-> intuition, in this case, appears to have been more accurate than the science
+The revised chapter now treats the object as a case of **uncertainty localization** rather than a victory story. It distinguishes stylistic suspicion, material analysis and provenance as separate evidence lanes; describes the later whewellite result without calling the original science simply debunked; preserves Getty's own post-colloquium view as interested but substantive counterevidence; and explicitly notes that the famous instant-reaction anecdotes often reach readers through later retellings rather than a clean primary record of the first inspection.
 
-That sentence claims a ground truth the historical record does not supply.
-
-A stronger replacement argument would be:
-
-> The unsettling lesson is not that the eye beat the laboratory. It is that neither form of expertise could cash its confidence into a decisive authentication. The connoisseurs detected stylistic tension that laboratory work could not erase; the laboratory found a surface history that intuition could not explain away. The unresolved object exposed where each method's uncertainty lived.
-
-Also avoid presenting quoted gut reactions from later popular retellings as though they are themselves the primary evidentiary record unless their original source is retrieved.
+The central revised argument is narrower: trained visual judgment can notice tension before it can explain it, laboratory work can constrain material history without proving object history, and institutions need methods whose failure modes differ because neither intuition nor measurement earns a verdict merely by sounding confident.
 
 ## What this case can support in *Taste*
 
@@ -82,8 +76,6 @@ The Getty kouros is a good example of **uncertainty localization**:
 - provenance documents provide another evidence lane and should not inherit certainty from either style or chemistry;
 - institutional incentives can affect how ambiguous evidence is weighted without making the evidence itself fraudulent;
 - a mature decision process needs methods whose failure modes differ.
-
-That is a better fit for the book's thesis than a victory story about gut instinct.
 
 Taste is valuable when it notices the thing the metric did not measure.
 
