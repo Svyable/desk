@@ -16,12 +16,12 @@ Checked or refreshed 2026-09-11. Prefer original papers and PubMed/PMC records. 
 
 Claim boundary: male-origin DNA was detected in female brain tissue, including multiple brain regions. Source from a specific pregnancy was not established in every case; function and neural integration were not demonstrated.
 
-## Heart and repair
+## Heart and injury
 
 - Kara RJ, Bolli P, Karakikes I, et al. “Fetal cells traffic to injured maternal myocardium and undergo cardiac differentiation.” *Circulation Research* 110, 2012. PubMed: https://pubmed.ncbi.nlm.nih.gov/22082491/
 - Llorente V, López-Olañeta M, Blázquez-López E, et al. “Presence of fetal microchimerisms in the heart and effect on cardiac repair.” *Frontiers in Cell and Developmental Biology* 12, 2024, 1390533. DOI: https://doi.org/10.3389/fcell.2024.1390533 ; PubMed: https://pubmed.ncbi.nlm.nih.gov/39206089/
 
-Claim boundary: the 2024 mouse study used selective depletion of fetal-origin microchimeric cells and reported impaired post-infarction repair. Translation to human myocardial repair is not established.
+Claim boundary: the 2012 work established injury homing and reported cardiac-associated differentiation phenotypes in mice. The 2024 study then used a diphtheria-toxin-receptor strategy to reduce fetal-origin microchimeric cells before myocardial infarction and reported **improved cardiac contraction after depletion**, concluding that the population was detrimental in that specific postpartum mouse model. It should not be cited as evidence of reparative benefit.
 
 ## Skin and wound repair
 
@@ -29,7 +29,7 @@ Claim boundary: the 2024 mouse study used selective depletion of fetal-origin mi
 - Castela M, Nassar D, Sbeih M, et al. “Ccl2/Ccr2 signalling recruits a distinct fetal microchimeric population that rescues delayed maternal wound healing.” 2017. PubMed: https://pubmed.ncbi.nlm.nih.gov/28516946/
 - “Contribution of fetal microchimeric cells to maternal wound healing in sickle cell ulcers.” 2022. PubMed: https://pubmed.ncbi.nlm.nih.gov/36373248/
 
-Claim boundary: the strongest causal evidence is experimental and largely murine. Human parity associations in sickle-cell ulcer burden are retrospective and confounded.
+Claim boundary: the strongest positive repair evidence is experimental and largely murine. Human parity associations in sickle-cell ulcer burden are retrospective and confounded. These results should not be generalized to heart or other tissues; the 2024 cardiac depletion study points in the opposite functional direction.
 
 ## Autoimmunity and thyroid
 

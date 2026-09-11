@@ -11,14 +11,14 @@ This ledger is the claim boundary for *The Children You Keep*.
 - Microchimerism has been demonstrated in multiple tissues including blood, marrow, bone, thyroid, liver, skin, heart, breast and brain, though source assignment varies by study.
 - Male-origin microchimerism can occur in women who have never delivered a son, so a Y-positive result is not proof of a specific male birth.
 - In murine injury models, fetal-origin cells can home to maternal wounds and injured myocardium.
-- CCR2/CCL2-dependent recruitment of a defined fetal-origin population has been demonstrated in a mouse wound-healing model.
-- A 2024 murine myocardial-infarction study selectively depleted fetal-origin microchimeric cells and reported impaired repair, providing causal evidence within that model.
+- CCR2/CCL2-dependent recruitment of a defined fetal-origin population has been demonstrated in a mouse wound-healing model, with reported improvement of delayed healing under the study conditions.
+- A 2024 murine myocardial-infarction study selectively reduced fetal-origin microchimeric cells and reported **improved cardiac contraction after depletion**, leading the authors to interpret the population as detrimental in that model. This directly contradicts any rule that injury recruitment implies repair benefit.
 - Preeclampsia has been associated with altered or increased fetal microchimerism in maternal circulation; a 2023 study reported increases in particular immune-cell subsets.
 
 ## Class 2 — Credible but incomplete
 
 - Persistent fetal-origin progenitor reservoirs in maternal marrow can later contribute cells to injury sites.
-- Some microchimeric populations contribute materially to maternal tissue repair beyond being recruited bystanders.
+- Particular fetal-origin populations can materially alter injury outcomes, but the direction may differ by tissue, cell type and timing.
 - Fetal-origin cells can adopt endothelial, immune, stromal or other differentiated states in maternal tissues.
 - Particular microchimeric populations may participate in immune tolerance to pregnancy-associated antigens.
 - Detectable fetal microchimerism may be associated with reduced risk of some cancers; the 2025 meta-analysis is consistent with this but remains observational.
@@ -30,6 +30,7 @@ This ledger is the claim boundary for *The Children You Keep*.
 
 - Fetal microchimerism is a general cause of systemic sclerosis, Hashimoto thyroiditis, lupus or female-predominant autoimmunity.
 - Fetal-origin cells provide clinically important allogeneic tumor surveillance in humans.
+- Fetal-origin microchimerism is generally reparative in maternal tissues.
 - Microchimerism is a major mediator of the long-term cardiovascular risk following preeclampsia.
 - Male-origin cells detected in a woman can generally be assigned to a live-born son without family-specific genotyping.
 - Fetal-origin cells in the human brain have neural function, synaptic integration or effects on cognition.

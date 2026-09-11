@@ -60,13 +60,13 @@
 
 ## 2017 — CCR2/CCL2 wound healing
 
-**Question:** Is recruitment of a reparative fetal-origin population mechanistically controllable?
+**Question:** Is recruitment of a functionally important fetal-origin population mechanistically controllable?
 
 **Design:** mouse wound model; phenotype of fetal-origin cells; chemokine-axis manipulation.
 
 **Established:** a CCR2-associated fetal microchimeric population was recruited to wounds; CCL2 manipulation improved delayed healing in pregnancy/postpartum contexts in the reported model.
 
-**Boundary:** host chemokine effects and translation to human chronic wounds require independent testing.
+**Boundary:** host chemokine effects and translation to human chronic wounds require independent testing; positive skin-wound results do not establish positive effects in other organs.
 
 ## 2023 — preeclampsia immune subsets
 
@@ -80,13 +80,15 @@
 
 ## 2024 — selective cardiac depletion
 
-**Question:** Do fetal-origin microchimeric cells materially change maternal cardiac repair?
+**Question:** Do fetal-origin microchimeric cells materially change maternal cardiac outcome after myocardial infarction?
 
-**Design:** fetal genetic expression of diphtheria-toxin receptor; postpartum maternal depletion of fetal-origin cells; myocardial infarction; repair outcomes.
+**Design:** wild-type females crossed with males carrying a diphtheria-toxin receptor; postpartum toxin treatment to reduce fetal-origin microchimerism; permanent left-descending coronary ligation; echocardiography before infarction and 28 days later.
 
-**Established:** depletion altered/worsened repair in the reported mouse system, moving evidence beyond colocalization.
+**Established:** according to the paper's abstract, reducing fetal microchimeric cells **improved cardiac contraction** in the postpartum post-infarction model. The authors interpreted the microchimeric population as detrimental in this setting.
 
-**Boundary:** lineage heterogeneity, depletion specificity and translation to humans remain central.
+**Importance:** this is the manuscript's strongest warning against inferring benefit from injury homing or differentiation markers. The direction of a microchimeric effect has to be measured tissue by tissue.
+
+**Boundary:** modest animal numbers, broad depletion of a heterogeneous population, acute postpartum timing and a mouse infarction model limit generalization to human or decades-old microchimerism.
 
 ## 2025 — cancer meta-analysis
 
@@ -106,7 +108,7 @@
 4. Cell phenotype.
 5. Prospective recruitment or temporal change.
 6. Lineage-specific perturbation.
-7. Functional outcome.
+7. Functional outcome and its direction.
 8. Independent replication.
 9. Human prospective validation.
 

@@ -7,8 +7,8 @@
 3. Build a human tissue atlas that separates bulk DNA detection, intact-cell localization, immunophenotype and functional evidence.
 4. Reconstruct systemic-sclerosis evidence chronologically, including positive, null and contradictory HLA/microchimerism studies.
 5. Build a cancer matrix separating prediagnostic blood, case-control blood, normal tissue, tumor tissue, tumor stroma and cancer type.
-6. Deeply audit the 2024 cardiac-ablation model: depletion efficiency, off-target effects, infarct size, fibrosis, vascular endpoints, timing, statistical power and whether specific microchimeric lineages drive benefit.
-7. Reconstruct the CCR2/CCL2 wound-healing experiments and all independent replications.
+6. Deeply audit the 2024 cardiac-ablation model: depletion efficiency, off-target effects, infarct size, ejection fraction, stroke volume, scar endpoints, timing and statistical power. The published direction—improved contraction after depletion—must remain explicit rather than being folded into a generic “repair” narrative.
+7. Reconstruct the CCR2/CCL2 wound-healing experiments and all independent replications, then compare why their functional direction differs from the 2024 cardiac model.
 8. Quantify fetal cell traffic across normal pregnancy, delivery, miscarriage, termination and preeclampsia using comparable units.
 9. Identify the strongest direct evidence for or against multigenerational cell transfer and separate proven lineage transfer from theoretical routes.
 10. Survey single-cell and spatial-transcriptomic microchimerism work through 2026 to see whether ancestry and phenotype are finally being measured together at useful scale.
@@ -19,9 +19,11 @@ Enroll mother-father-fetus trios with genome-wide genotyping and pre-pregnancy m
 
 Predefine the primary persistence endpoint as repeated detection of the same pregnancy-specific genotype in intact cells across at least two postpartum time points using orthogonal confirmation.
 
-## Decisive repair experiment
+## Decisive injury experiment
 
 In parallel animal work, identify the human-observed microchimeric phenotype first, then create lineage-specific deletion or receptor knockout confined to fetal-origin cells. Test defined injury outcomes with blinded analysis. A generic maternal knockout is insufficient because it cannot separate microchimeric from host mechanisms.
+
+The sign of the effect is an outcome, not an assumption. Skin, heart and other tissues should be allowed to disagree.
 
 ## Decisive cancer test
 
@@ -37,7 +39,7 @@ The claim that microchimerism is a meaningful long-term physiological system sho
 
 - genotype-specific replication shows far lower persistence than sex-chromosome studies implied;
 - most tissue signals cannot be confirmed as intact living cells;
-- injury recruitment is reproducible but selective removal never alters function;
+- injury recruitment is reproducible but lineage-specific perturbation produces no functional change;
 - prospective disease associations disappear after source assignment and adequate confounder control;
 - purported differentiated fetal-origin cells prove largely to be cell-fusion or imaging artifacts;
 - multigenerational transfer proves too rare to matter outside unusual cases.
@@ -46,7 +48,7 @@ The synthesis should strengthen if:
 
 - specific fetal-origin clones can be tracked from pregnancy into late-life tissues;
 - their abundance or state changes prospectively with defined injuries;
-- lineage-specific perturbation changes repair, immune or disease outcomes;
+- lineage-specific perturbation changes outcomes reproducibly, whether beneficial or detrimental;
 - effects replicate independently across laboratories and species;
 - human studies identify the same mechanisms implicated by experimental models.
 
