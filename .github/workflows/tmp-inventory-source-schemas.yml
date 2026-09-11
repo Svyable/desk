@@ -1,0 +1,49 @@
+name: Temporary inventory source schemas
+
+on:
+  push:
+    branches:
+      - validate/desk-integrity-current
+
+permissions:
+  contents: read
+
+jobs:
+  inventory:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out inventory branch
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Restore clean Desk head
+        run: |
+          git reset --hard HEAD^
+          git clean -fd
+      - name: Inventory source schemas
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import csv, json
+          root = Path('books')
+          canonical = ('id','year','author_or_institution','title','source_type','book_use','url')
+          print('=== NONCANONICAL CSV HEADERS ===')
+          for p in sorted(root.glob('*/research/source-ledger.csv')):
+              with p.open(encoding='utf-8', newline='') as h:
+                  r = csv.reader(h)
+                  header = tuple(next(r, []))
+              if header != canonical:
+                  print(f'{p}: {header}')
+          print('=== JSON KEYSETS ===')
+          groups = {}
+          for p in sorted(root.glob('*/research/sources/*.json')):
+              try:
+                  obj = json.loads(p.read_text(encoding='utf-8'))
+              except Exception as exc:
+                  print(f'BADJSON {p}: {exc}')
+                  continue
+              keys = tuple(sorted(obj.keys())) if isinstance(obj, dict) else ('<non-dict>',)
+              groups.setdefault(keys, []).append(str(p))
+          for keys, paths in sorted(groups.items(), key=lambda kv:(kv[0],kv[1][0])):
+              print(f'KEYS {keys} COUNT {len(paths)} EXAMPLE {paths[0]}')
+          PY
