@@ -16,4 +16,98 @@ None of these four mechanisms — the affordability check, the shared exclusion 
 
 What stands between the mechanisms this chapter has described and their actual passage is not a missing idea. Every one of them exists, tested, in a market whose government has already generated its own real evidence of what happens when it is applied. What stands between them and American law is the same gap chapter 16 spent an entire chapter describing: a $2.9 million-and-rising annual lobbying effort defending the value of an unregulated federal space that a fully coordinated market would close, a Congress that has now let two separate bills — one restricting the product, one funding the cleanup its own existing 1951 excise tax could pay for without raising a single new dollar in taxes — sit in committee for going on two years apiece, and fifty state legislatures each weighing, correctly, that unilateral action costs their own operators a competitive disadvantage against every neighboring state that declines to match it. That collective-action problem is precisely the shape of failure a federal minimum standard exists to solve, and precisely the shape of failure Britain's Gambling Commission and Australia's ACMA never had to solve at all, because neither country had fifty separate legislatures independently deciding whether to move first.
 
+## The audit trail a defensible market would leave
+
+There is a way to tell whether those four mechanisms are serious policy or merely nicer language around the same product.
+
+Make each one leave an audit trail.
+
+An affordability check should not be judged by how many checks were performed. That is a compliance count, not an outcome. The useful questions come after the check. How many customers were identified? How many received no-friction clearance? How many were asked for more information? How many had deposit or loss limits imposed? What happened to their wagering in the next seven, thirty, and ninety days? How many simply opened a second account with another operator?
+
+A shared exclusion system should not be judged by registrations alone. Measure attempted access after exclusion. Measure how quickly every participating operator blocks the credential. Measure marketing contacts after exclusion. Measure attempted re-registration using a new email address, payment method, or device. Publish the false-positive rate too, because a safety system that regularly blocks the wrong person will lose legitimacy and eventually be weakened.
+
+An advertising rule should be measurable without hiring a room full of people to argue about whether a celebrity's sentence felt promotional. Count exposures. Count minutes. Count the number of commercial betting prompts delivered during live play. Separate national broadcasts, team-owned channels, social media, push notifications, and direct account messages. A regulator should be able to say not simply that advertising is “responsible,” but that a seventeen-year-old watching an ordinary game is exposed to fewer betting prompts this season than last season under a rule designed to produce that result.
+
+A funding floor should be the easiest audit of all. Dollars collected. Dollars appropriated. Dollars actually spent. Treatment slots created. Counselors trained. Research datasets produced. Waiting times for care. Helpline referrals completed rather than merely offered. If a state announces that one percent of gaming revenue is dedicated to harm reduction and then allows the money to sit unspent in a fund, the percentage is a press release, not a program.
+
+This is where the book's argument becomes less ideological than it may first appear.
+
+A good audit can prove the critics wrong.
+
+If affordability checks identify very few customers and those customers show no meaningful financial distress, publish that. If loss concentration remains modest even after regulators require operators to report it consistently, publish that. If a national exclusion system prevents very little additional gambling because state systems were already working well, publish that. If advertising caps have no effect on youth exposure or betting behavior, publish that too.
+
+The point of measurement is not to guarantee one side a victory. It is to make failure visible whichever side owns it.
+
+The first wave of sports-betting law did almost the opposite. It standardized the easiest measures for industry and government to celebrate—handle, gross gaming revenue, tax receipts, account registrations—while leaving the measures most likely to reveal concentrated harm fragmented, proprietary, or nonexistent.
+
+A defensible market would reverse that informational asymmetry.
+
+It would publish enough for an outsider to test whether the safety system changes behavior rather than merely creating another button in the settings menu.
+
+## The product has to be allowed to lose a customer
+
+There is a deeper test beneath all four mechanisms.
+
+At some point, a safety system has to be allowed to cost the company money.
+
+That sounds obvious until it reaches a real account.
+
+Imagine a customer who has wagered for three years without incident. Over six weeks the deposits accelerate, the average stake rises, late-night sessions become more frequent, and the customer begins cancelling withdrawals and redepositing the money. The account is profitable. The customer answers a VIP host immediately. The same behavioral change that makes the account more valuable also makes it more concerning.
+
+What happens next tells you what the system is for.
+
+If the risk model sends a generic message while the marketing model continues to offer personalized promotions, the company has not resolved the conflict. It has automated both sides of it.
+
+If a safer-gambling team can recommend a cooling-off period but a commercial manager can override the recommendation because the customer is valuable, the intervention policy is subordinate to revenue.
+
+If the operator voluntarily closes or limits the account and the customer can move every remaining dollar of activity to a competitor in ten minutes, the market has turned one firm's responsible decision into another firm's acquisition opportunity.
+
+A federal floor matters partly because it changes that competitive equation. The operator that intervenes should not be punished for intervening. The company that refuses to chase the riskiest revenue should not surrender those customers to the company with the weakest standards.
+
+That is what regulation does when it works well: it makes the expensive responsible choice mandatory enough that firms can stop pretending the cheapest irresponsible choice is forced on them by competition.
+
+The same principle applies to product design.
+
+If live micro-betting produces unusually high loss velocity among a narrow group, a regulator should be able to slow or limit that feature even if customers enjoy it. If a promotion reliably reactivates customers immediately after cooling-off periods, the promotion should be restricted even if it performs beautifully in a marketing experiment. If VIP outreach is associated with customers who have already triggered risk markers, the company should have to demonstrate why contact continued rather than relying on the fact that the customer never explicitly asked it to stop.
+
+A sportsbook you could defend is therefore not a sportsbook with perfect warning copy.
+
+It is a sportsbook whose internal rules permit the safety system to win a dispute against the growth system.
+
+That will sometimes mean losing handle.
+
+It will sometimes mean losing a high-value account.
+
+It may mean accepting that a product feature capable of increasing revenue is not worth offering in its fastest or most personalized form.
+
+The regulated industry's strongest argument has always been that legal operators can do things illegal bookmakers cannot: know the customer, secure the money, honor disputes, enforce exclusion, detect suspicious betting, and answer to a regulator.
+
+The logical conclusion of that argument is not merely that legal operators should be permitted to exist.
+
+It is that they should be required to use the advantages that justify their existence.
+
+## What success would look like
+
+The final mistake would be to define success as zero gambling harm.
+
+No legal market can promise that. Neither can prohibition.
+
+A defensible standard is comparative and measurable.
+
+The recreational customer should be able to place an ordinary wager with little more friction than today. A customer whose behavior becomes sharply riskier should encounter more friction than today. A person who asks to stop should be able to stop across the regulated market, not one operator at a time. A state collecting tax revenue should know how concentrated the underlying losses are. A regulator should be able to distinguish a safety intervention that changed behavior from one that merely satisfied a disclosure requirement.
+
+And the system should get better at those things over time.
+
+That means publishing baselines before rules change. It means preserving enough data to compare cohorts. It means letting independent researchers test the same claims operators and regulators make about themselves. It means designing privacy protections that permit aggregate accountability without creating a public registry of individual gamblers. It means reporting uncertainty instead of laundering every estimate into a headline.
+
+Most of all, it means refusing the convenient idea that legality itself is the safety feature.
+
+Legality is the precondition for enforceable safety features.
+
+The distinction is the reason this book ends here rather than at the Supreme Court decision where it began. *Murphy* answered who could authorize sports betting. It did not answer how fast the product should be, how much customer behavior an operator should be allowed to exploit, when a profitable account becomes a dangerous one, which data should follow a customer across companies, or what evidence a state should demand before calling its market successful.
+
+Those are not cleanup questions around the edges of legalization.
+
+They are the design specification for its second generation.
+
 Return, for a final image, to something this book has already shown the reader rather than invented for the occasion. In a betting shop on an ordinary British high street, the machine that used to accept £100 in a single spin — the machine campaigners spent years calling the crack cocaine of gambling, the machine that was, by some bookmakers' own accounting, generating close to half their profit before 2019 — is still there. It still lights up, still spins, still pays out. The screen still asks the same question it always asked. What changed is a single number, printed now on the machine's own interface: a maximum stake of two pounds, not one hundred, chosen not because the industry offered it voluntarily but because Parliament, faced with Jack Ritchie's story and thousands like it that never made a headline, decided the difference between those two numbers was the entire argument. Nothing about the machine's underlying appeal was removed. The bright screen, the twenty-second cycle, the near-miss animation this book's earlier chapters showed American app designers borrowing from slot-machine research decades old — all of it is still exactly as engineered as it was in 2018, still built by the same behavioral logic, still standing in the same shop. Only the ceiling on how much a single spin can take from a single person in a single moment of bad judgment actually moved. That is not a solution to gambling. It is not even a solution to fixed-odds betting terminals, which still exist, still profit, still occasionally still hurt somebody in a shop on a Tuesday afternoon. It is a demonstration that an industry this book has spent twenty-one chapters showing knows exactly how to engineer a product toward maximum extraction can be told, by a government willing to say so and mean it, precisely how far that engineering is allowed to go — and that the industry, however loudly it predicts catastrophe beforehand, generally finds a way to keep operating anyway. The American sportsbook industry has never once been told that. It has been asked, occasionally, by a state commission here or a stalled bill in Washington there. It has never once, since May 14, 2018, actually been told. This book's argument, across every chapter that came before this one, is that the difference between asking and telling is not a technicality. It is the entire remaining distance between the legal market this country actually built and the one it could still choose to defend.
