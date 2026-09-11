@@ -78,6 +78,7 @@ Every dated claim in this book is checkable against a court record, a company fi
 - [Source ledger A](research/source-ledger-A.csv)
 - [Source ledger B](research/source-ledger-B.csv)
 - [Source ledger C](research/source-ledger-C.csv)
+- [Publication fact-check ledger D](research/source-ledger-D.csv)
 
 ## Rights
 
