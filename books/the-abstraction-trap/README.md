@@ -1,4 +1,4 @@
-# The Abstraction Trap
+# Abstraction Trap
 
 *How Useful Simplifications Become Dangerous Realities*
 
