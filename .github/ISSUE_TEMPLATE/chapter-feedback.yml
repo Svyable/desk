@@ -16,6 +16,7 @@ body:
       description: Which book is this about?
       options:
         - abdicating-intelligence
+        - action
         - adaptation-debt
         - adjacency
         - agentile
@@ -31,6 +32,7 @@ body:
         - asleep-at-the-wheel
         - austerity-measures
         - autonomy-half-life
+        - beyond-the-veil
         - bookself
         - chiptastrophy
         - chokepoint
@@ -84,6 +86,7 @@ body:
         - the-compatibility-dividend
         - the-confidence-republic
         - the-convergence
+        - the-crime-that-made-the-decade
         - the-decisive-25
         - the-delegation-machine
         - the-delete-key
@@ -118,6 +121,7 @@ body:
         - the-swarm-agents-in-the-wild
         - the-taiwan-threshold
         - the-ten-year-republic
+        - the-third-language
         - the-unbounding
         - the-unobserved-world
         - the-value-stack
