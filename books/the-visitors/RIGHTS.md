@@ -1,8 +1,8 @@
-# Rights & permissions — The Visitors
+# Rights & permissions — Visitors
 
 © 2026 Sven Hardy Benson. All Rights Reserved.
 
-**Work:** *The Visitors*  
+**Work:** *Visitors*  
 **Author and copyright owner:** Sven Hardy Benson  
 **Rights profile:** `bookself-arr-v1`
 

@@ -1,8 +1,8 @@
-# Rights & permissions — The Ten-Year Republic
+# Rights & permissions — Ten-Year Republic
 
 © 2026 Sven Hardy Benson. All Rights Reserved.
 
-**Work:** *The Ten-Year Republic*  
+**Work:** *Ten-Year Republic*  
 **Author and copyright owner:** Sven Hardy Benson  
 **Rights profile:** `bookself-arr-v1`
 

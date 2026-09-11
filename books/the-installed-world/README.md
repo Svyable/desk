@@ -1,4 +1,4 @@
-# The Installed World
+# Installed World
 
 <!-- bookself-reader-links:start -->
 **Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/the-installed-world/)
@@ -67,7 +67,7 @@ The book asks the same four questions of every case it studies.
 
 ## The book's lane
 
-*The Installed World* sits deliberately close to several existing Desk books without duplicating their pressure point.
+*Installed World* sits deliberately close to several existing Desk books without duplicating their pressure point.
 
 *Adaptation Debt* studies the commitments a successful organization accumulates around its own past decisions — the debt success itself creates. This book studies a related but distinct stock: the physical, contractual, and technical world an organization or a whole society has to move *through*, whether or not that organization was ever the one that built it. A city inherits pipe networks it never chose. A new employer inherits licensing rules it did not write. A newcomer inherits a socket shape, a rail gauge, and a charging standard it had no vote on.
 

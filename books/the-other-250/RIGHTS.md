@@ -1,8 +1,8 @@
-# Rights & permissions — The Other 250
+# Rights & permissions — America’s Other 250
 
 © 2026 Sven Hardy Benson. All Rights Reserved.
 
-**Work:** *The Other 250*  
+**Work:** *America’s Other 250*  
 **Author and copyright owner:** Sven Hardy Benson  
 **Rights profile:** `bookself-arr-v1`
 
