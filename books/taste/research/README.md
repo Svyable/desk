@@ -41,10 +41,10 @@ and a URL.
   documents a technical record that became more complicated as the surface
   alteration layer was studied, and the museum's later institutional history
   calls the symposium inconclusive while stating that Getty itself still
-  believed the balance of evidence favored authenticity. The chapter therefore
-  must **not** claim that skeptical intuition was ultimately proved correct or
-  that the scientific test was simply debunked. See
-  `research/ch10-kouros-primary-audit.md` for the sentence-level release fix.
+  believed the balance of evidence favored authenticity. The chapter now uses
+  the case to show that stylistic judgment, material analysis, and provenance
+  can fail in different places rather than claiming intuition was ultimately
+  proven more accurate than science. See `research/ch10-kouros-primary-audit.md`.
 - Wine-tasting research is deliberately used both to support (Ch 5) and to
   complicate (Ch 6, Ch 7) the idea that trained taste is reliable. This is
   intentional: the book's argument depends on holding those findings in
@@ -63,10 +63,6 @@ and a URL.
 
 ## Before release
 
-- Revise Ch 10 so the Getty kouros is not presented as a retrospective victory
-  of intuition over science. Preserve the unresolved status and use the case
-  instead to show that stylistic judgment, material analysis, and provenance
-  can fail in different places.
 - Recheck the Michael Smith sentencing outcome and any appeal against the
   DOJ docket, since sentencing postdates this draft's research cutoff.
 - Recheck current Amazon KDP AI-disclosure policy language, which platforms
