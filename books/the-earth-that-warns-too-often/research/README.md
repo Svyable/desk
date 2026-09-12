@@ -13,12 +13,18 @@ This research layer separates observation from interpretation and prediction fro
 - DEMETER, Swarm, CSES, and GNSS ionospheric / electromagnetic analyses
 - QuakeFinder long-baseline ground magnetometer network
 - Google + QuakeFinder 2022 time-held-out case-control study
+- operational probabilistic forecasting / USGS aftershock forecasts / CSEP prospective testing
 - L'Aquila risk-communication and legal record
 
 ## Primary / serious source log
 
 - USGS, **Can you predict earthquakes?** https://www.usgs.gov/faqs/can-you-predict-earthquakes
 - USGS Geomagnetism Program, **Do magnetic variations precede earthquakes?** https://www.usgs.gov/programs/geomagnetism/science/earthquake-prediction
+- USGS, **Aftershock Forecast Overview**. https://earthquake.usgs.gov/data/oaf/overview.php
+- USGS, **Aftershock Forecast Scientific Background**. https://earthquake.usgs.gov/data/oaf/background.php
+- USGS, **PDL Products for Operational Aftershock Forecasting** (2026 software/product documentation). https://www.usgs.gov/software/pdl-products-operational-aftershock-forecasting
+- Southern California Earthquake Center, **Collaboratory for the Study of Earthquake Predictability (CSEP)**. https://southern.scec.org/research/csep
+- Matteo Taroni et al., **Prospective CSEP Evaluation of 1-Day, 3-Month, and 5-Yr Earthquake Forecasts for Italy** (2018), *Seismological Research Letters*. https://doi.org/10.1785/0220180031
 - Robert J. Geller, **Earthquake prediction: a critical review** (1997), *Geophysical Journal International*. https://doi.org/10.1111/j.1365-246X.1997.tb06588.x
 - P. Varotsos et al., **Basic principles for evaluating an earthquake prediction method** (1996), *Geophysical Research Letters*. https://doi.org/10.1029/96GL00905
 - David D. Jackson, **Earthquake prediction evaluation standards applied to the VAN Method** (1996), *Geophysical Research Letters*. https://doi.org/10.1029/96GL01439
@@ -57,6 +63,22 @@ Fresh read of the complete 2022 Heavlin et al. paper, not only its abstract, cha
 - The result is therefore strongest as a held-out **existence test for a modest statistical association**, not as localization of a seismic physical source or as a forecasting model.
 - As of the September 2026 literature check, no clear direct published replication was located in which the frozen 2022 feature/scoring pipeline was prospectively evaluated on a new independent earthquake set with comparable dense ground-station coverage. This is a search-status statement, not evidence of failed replication.
 
+## Chapter 15 promotion rule — association to forecast
+
+The new `ch15-forecast-ladder-audit.md` freezes the standard a precursor must meet before the manuscript calls it operationally useful.
+
+USGS operational aftershock forecasting is used as the control case because it publishes probabilities over explicit magnitude and time windows and exposes model parameters / machine-readable forecasts. The model can begin with tectonic-region priors and update as the sequence develops.
+
+A dated August 29, 2026 USGS example after an M5.0 event near Unalaska shows the required output structure: the probability of at least one M5+ aftershock was reported as roughly **1 in 30,000 within one day**, **1 in 4,000 within one week**, **1 in 1,000 within one month**, and **1 in 200 within one year**. The point is not those particular numbers; it is that magnitude, horizon and probability are explicit enough to score.
+
+CSEP supplies the prospective-test architecture. A candidate electromagnetic precursor should be frozen before the target catalog arrives and judged on whether it improves a baseline seismicity forecast in future space–magnitude–time bins under proper probabilistic scoring.
+
+**Promotion rule:** a case-control signal becomes forecast evidence only after continuous forward application establishes absolute probabilities. It becomes operationally interesting only if it improves a seismicity-only baseline prospectively and survives independent regional testing without post-event retuning.
+
+A physically real rupture-associated signal that fails this test may still be scientifically important. It is forecast-redundant, not necessarily fake.
+
 ## Source discipline
 
 A source demonstrating that a mechanism can exist is not treated as evidence that it predicts earthquakes. A satellite mission's existence establishes institutional interest and data collection, not validation. The 2022 Google/QuakeFinder paper is treated as a modest held-out association requiring independent forward replication. Its temporal holdout is meaningful, while its small number of independent test earthquakes, missing-data/control substitutions, hardware history and remaining common-mode backgrounds stay inside the claim boundary. The Corralitos trace is retained as an observed historical measurement but not as clean precursor evidence after the 2009 reanalysis.
+
+Operational forecast claims must specify target magnitude, spatial domain, future window, base rate and probability. `Elevated risk` without those dimensions is not treated as a forecast.
