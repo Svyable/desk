@@ -1,0 +1,28 @@
+# Chronology
+
+- **5 August 1963** — United States, Soviet Union, and United Kingdom sign the Limited Test Ban Treaty.
+- **10 October 1963** — Treaty enters into force.
+- **17 October 1963** — First pair of Vela satellites launches for nuclear-test monitoring.
+- **2 July 1967** — Vela spacecraft record the event later treated as the first observed gamma-ray burst.
+- **1968–1970** — Advanced Vela pairs launch with improved high-energy and optical nuclear-detection instrumentation.
+- **1969** — Nixon administration moves toward an accommodation with Israeli nuclear ambiguity rather than continued pressure for open inspection/NPT commitment.
+- **1969–1972** — Vela 5/6 constellation records the sixteen events published by Klebesadel, Strong, and Olson.
+- **1973** — “Observations of Gamma-Ray Bursts of Cosmic Origin” establishes a new astrophysical transient class in the open literature.
+- **August 1977** — Soviet warning and U.S. reconnaissance focus on a suspected South African nuclear test site in the Kalahari; U.S. concludes South Africa is probably preparing a test site and applies diplomatic pressure.
+- **5 March 1979** — Extraordinary gamma-ray transient detected by multiple spacecraft and localized toward N49 in the Large Magellanic Cloud; later foundational to the soft-gamma-repeater/magnetar class.
+- **22 September 1979, ~00:53 UTC** — Vela 6911 records the disputed double-flash optical event over the southern Atlantic/Indian Ocean viewing region.
+- **Autumn 1979** — U.S. intelligence, weapons laboratories, White House science staff, and outside experts investigate; views diverge.
+- **1 November 1979** — White House scientific panel chaired by Jack Ruina is convened to assess the event and alternatives.
+- **December 1979** — Interagency assessment, under an explicit assumption that a nuclear event occurred, examines possible perpetrators and scenarios.
+- **January 1980** — State Department transmits the panel’s continuing uncertainty; diplomatic policy cannot wait for complete physical closure.
+- **February 1980** — Carter diary records a growing belief among scientists advising him that Israel had conducted a test near southern Africa; entry documents Carter’s belief, not independent event proof.
+- **June 1980** — Frank Press memo records continued disagreement: major intelligence/DOE technical actors lean nuclear while the White House panel leans non-nuclear and emphasizes unexplained inconsistencies.
+- **1991** — South Africa joins the NPT; IAEA safeguards work expands.
+- **1991 onward** — BATSE produces a large, nearly isotropic gamma-ray-burst sky distribution and sharpens the Galactic-vs-cosmological distance dispute.
+- **24 March 1993** — President F. W. de Klerk publicly discloses South Africa’s former nuclear weapons capability and dismantlement.
+- **1993–1994** — IAEA verification finds no indication that South Africa’s declared nuclear weapons program had not been completely terminated and dismantled.
+- **1996** — Comprehensive Nuclear-Test-Ban Treaty opens for signature; International Monitoring System construction establishes modern multimodal verification architecture even though treaty entry into force remains pending.
+- **1997** — BeppoSAX afterglow observations and redshift measurements establish cosmological distances for gamma-ray bursts.
+- **2017** — Wright and De Geer publish a modern technical reanalysis arguing the Vela optical double flash is more consistent with a nuclear explosion than the Ruina panel’s meteoroid scenario.
+- **2018** — De Geer and Wright publish radionuclide/hydroacoustic reconstruction arguing further support for a low-yield nuclear event.
+- **2026** — CTBTO International Monitoring System remains roughly ninety percent operational, using seismic, hydroacoustic, infrasound, and radionuclide technologies; U.S. space-based nuclear detonation detection continues through Vela-descended sensor missions publicly described by NNSA.
