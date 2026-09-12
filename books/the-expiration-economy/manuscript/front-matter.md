@@ -1,8 +1,8 @@
-# The Expiration Economy
+# Built to End
 
 *Why the Future Belongs to Things That Know How to End*
 
-Sven Hardy Benson
+**Sven Hardy Benson**
 
 © 2026 Sven Hardy Benson. All Rights Reserved.
 

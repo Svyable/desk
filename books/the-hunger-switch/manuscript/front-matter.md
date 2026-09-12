@@ -1,4 +1,4 @@
-# The Hunger Switch
+# Hunger Switch
 
 *How One Molecule Took Over Appetite, Industry, and the Global Body*
 

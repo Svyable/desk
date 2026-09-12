@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| **Author** | Sven Hardy Benson |
+| **Authors** | Sven Hardy Benson |
 | **Status** | Complete draft · Published on Shelf |
 | **Chapters** | 17 of 17 + prologue + conclusion |
 | **Publication** | First edition · September 2026 |

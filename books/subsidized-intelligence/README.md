@@ -1,5 +1,7 @@
 # Subsidized Intelligence
 
+*How Twenty Dollars Bought the Frontier — and Who Paid the Rest*
+
 <!-- bookself-reader-links:start -->
 **Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/subsidized-intelligence/)
 <!-- bookself-reader-links:end -->

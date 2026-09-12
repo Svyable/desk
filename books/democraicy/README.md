@@ -1,12 +1,14 @@
 # DemocrAIcy
 
+*Governing a World Where Machines Can Persuade, Decide, Negotiate, and Govern*
+
 <!-- bookself-reader-links:start -->
 **Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/democraicy/)
 <!-- bookself-reader-links:end -->
 
 | | |
 |---|---|
-| **Author**    | Sven Hardy Benson |
+| **Authors**    | Sven Hardy Benson |
 | **Status**    | Drafting |
 | **Chapters**  | 11 of 11 drafted |
 

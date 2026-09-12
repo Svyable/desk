@@ -1,6 +1,6 @@
-# The Value Stack
+# Value Stack
 
-*How Value Moves from Matter to Meaning*
+*How value moves from matter to capability to access to trust to meaning—and why power returns to the bottom when scarcity changes*
 
 **Sven Hardy Benson**
 

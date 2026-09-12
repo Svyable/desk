@@ -1,4 +1,6 @@
-# Deceptatron: Propaganda in the 2030s
+# Deceptatron
+
+*Propaganda in the 2030s*
 
 <!-- bookself-reader-links:start -->
 **Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/deceptatron/)
@@ -6,11 +8,10 @@
 
 | | |
 |---|---|
-| **Author**    | Sven Hardy Benson |
+| **Authors**    | Sven Hardy Benson |
 | **Status**    | Complete first draft |
 | **Chapters**  | 20 of 20 drafted |
 
-*Propaganda in the 2030s*
 
 Propaganda used to have a production problem.
 

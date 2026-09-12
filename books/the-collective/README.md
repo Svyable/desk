@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| **Author** | Sven Hardy Benson |
+| **Authors** | Sven Hardy Benson |
 | **Status** | Complete draft |
 | **Form** | Narrative nonfiction / technology |
 | **Chapters** | 30 / 30 |

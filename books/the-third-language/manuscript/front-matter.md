@@ -1,8 +1,8 @@
-# The Third Language
+# Third Language
 
 *How Animals Talk Back — and What Happens When We Finally Learn to Listen*
 
-Sven Hardy Benson
+**Sven Hardy Benson**
 
 There is a fantasy hiding inside the phrase *talking to animals*.
 

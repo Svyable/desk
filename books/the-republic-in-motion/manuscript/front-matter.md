@@ -1,4 +1,4 @@
-# The Republic in Motion
+# Republic in Motion
 
 *250 Years of America in 25 Vehicles*
 

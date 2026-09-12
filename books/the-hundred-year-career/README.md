@@ -1,12 +1,14 @@
 # Hundred-Year Career
 
+*Work, Identity, and Reinvention in a Life That No Longer Has One Profession*
+
 <!-- bookself-reader-links:start -->
 **Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/the-hundred-year-career/)
 <!-- bookself-reader-links:end -->
 
 | | |
 |---|---|
-| **Author**    | Sven Hardy Benson |
+| **Authors**    | Sven Hardy Benson |
 | **Status**    | Drafting |
 | **Chapters**  | 10 of 10 drafted |
 

@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| **Author** | Sven Hardy Benson |
+| **Authors** | Sven Hardy Benson |
 | **Status** | Drafting — full structural draft; expansion and citation pass in progress |
 | **Chapters** | 21 of 21 drafted |
 

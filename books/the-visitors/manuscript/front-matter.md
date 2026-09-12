@@ -1,8 +1,8 @@
-# The Visitors
+# Visitors
 
 *250 Years of Foreign Dignitaries Who Changed America, One Decade at a Time*
 
-Sven Hardy Benson
+**Sven Hardy Benson**
 
 On August 6, 1778, a French diplomat named Conrad Alexandre Gérard entered the room where the Continental Congress was sitting and presented his credentials.
 

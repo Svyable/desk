@@ -1,6 +1,6 @@
 # Beyond the Veil
 
-## Evidence of Non-Sapient Intellect in the Universe
+*Evidence of Non-Sapient Intellect in the Universe*
 
 **Sven Hardy Benson**
 

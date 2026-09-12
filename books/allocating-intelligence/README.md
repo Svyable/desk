@@ -1,12 +1,14 @@
 # Allocating Intelligence
 
+*Who Gets the Mind, When It Matters*
+
 <!-- bookself-reader-links:start -->
 **Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/allocating-intelligence/) · [Published edition · Shelf Reader](https://svyable.github.io/shelf/reader/#/b/allocating-intelligence/)
 <!-- bookself-reader-links:end -->
 
 | | |
 |---|---|
-| **Author**    | Sven Hardy Benson |
+| **Authors**    | Sven Hardy Benson |
 | **Status**    | Complete draft |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |

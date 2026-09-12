@@ -1,4 +1,4 @@
-# The Second Order
+# Second Order
 
 **Sven Hardy Benson**
 

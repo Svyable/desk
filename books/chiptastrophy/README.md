@@ -1,12 +1,14 @@
 # Chiptastrophy
 
+*How the U.S. Can Save the Semiconductor Supply Chain Before It’s Too Late*
+
 <!-- bookself-reader-links:start -->
 **Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/chiptastrophy/)
 <!-- bookself-reader-links:end -->
 
 | | |
 |---|---|
-| **Author**    | Sven Hardy Benson |
+| **Authors**    | Sven Hardy Benson |
 | **Status**    | Drafting |
 | **Chapters**  | 4 of 24 drafted |
 

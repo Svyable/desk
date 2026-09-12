@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| **Author** | Sven Hardy Benson |
+| **Authors** | Sven Hardy Benson |
 | **Status** | Complete draft |
 | **Chapters** | Front matter, prologue, epilogue, back matter; 26 of 26 chapters drafted |
 | **Language** | English |

@@ -1,4 +1,4 @@
-# The Deletion Economy
+# Negative Assets
 
 *Why the Next Great Industries Will Be Built by Taking Things Away*
 

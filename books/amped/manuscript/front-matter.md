@@ -1,4 +1,6 @@
-# Amped: How Power-Hungry Data Centers Are Revolutionizing the American Grid
+# Amped
+
+*How Power-Hungry Data Centers Are Revolutionizing the American Grid*
 
 **Sven Hardy Benson**
 

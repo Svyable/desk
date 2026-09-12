@@ -1,5 +1,7 @@
 # Keep Cooking
 
+*Who Wins When AI Never Stops Thinking*
+
 <!-- bookself-reader-links:start -->
 **Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/keep-cooking/) · [Published edition · Shelf Reader](https://svyable.github.io/shelf/reader/#/b/keep-cooking/)
 <!-- bookself-reader-links:end -->

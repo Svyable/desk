@@ -2,7 +2,7 @@
 
 *How We Learned to Persuade Machines to Persuade People*
 
-Sven Hardy Benson
+**Sven Hardy Benson**
 
 There is a person you are trying to reach, and increasingly there is something standing between you and that person.
 

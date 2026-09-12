@@ -1,5 +1,7 @@
 # Visitors
 
+*250 Years of Foreign Dignitaries Who Changed America, One Decade at a Time*
+
 <!-- bookself-reader-links:start -->
 **Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/the-visitors/)
 <!-- bookself-reader-links:end -->
@@ -8,7 +10,7 @@
 
 | | |
 |---|---|
-| **Author** | Sven Hardy Benson |
+| **Authors** | Sven Hardy Benson |
 | **Status** | Complete first draft |
 | **Chapters** | 26 of 26 drafted |
 

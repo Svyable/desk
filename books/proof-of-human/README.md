@@ -1,12 +1,14 @@
 # Proof of Human
 
+*Trust, Truth, and Value in the Age of Infinite Intelligence*
+
 <!-- bookself-reader-links:start -->
 **Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/proof-of-human/) · [Published edition · Shelf Reader](https://svyable.github.io/shelf/reader/#/b/proof-of-human/)
 <!-- bookself-reader-links:end -->
 
 | | |
 |---|---|
-| **Author**    | Sven Hardy Benson |
+| **Authors**    | Sven Hardy Benson |
 | **Status**    | Complete draft |
 | **Chapters**  | 29 of 29 drafted |
 | **Edition** | First-release candidate · September 2026 |

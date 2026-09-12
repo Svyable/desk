@@ -1,12 +1,14 @@
 # Who Taught America?
 
+*Twenty-Six Schools, 250 Years, and the Classrooms That Made a Nation*
+
 <!-- bookself-reader-links:start -->
 **Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/who-taught-america/) · [Published edition · Shelf Reader](https://svyable.github.io/shelf/reader/#/b/who-taught-america/)
 <!-- bookself-reader-links:end -->
 
 | | |
 |---|---|
-| **Author** | Sven Hardy Benson |
+| **Authors** | Sven Hardy Benson |
 | **Status** | Complete draft |
 | **Format** | Book |
 | **Publisher** | Svyable |

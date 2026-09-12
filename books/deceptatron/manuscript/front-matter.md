@@ -1,8 +1,8 @@
-# Deceptatron: Propaganda in the 2030s
-
-**Sven Hardy Benson**
+# Deceptatron
 
 *Propaganda in the 2030s*
+
+**Sven Hardy Benson**
 
 © 2026 Sven Hardy Benson. All Rights Reserved.
 

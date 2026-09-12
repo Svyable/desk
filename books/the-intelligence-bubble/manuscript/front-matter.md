@@ -1,4 +1,4 @@
-# The Intelligence Bubble
+# Intelligence Bubble
 
 *How AI Will Transform the Economy—and Why So Many Investors Will Lose Money*
 

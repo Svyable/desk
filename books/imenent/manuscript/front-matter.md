@@ -2,7 +2,7 @@
 
 *The Global AI Takeover Threat*
 
-Sven Hardy Benson
+**Sven Hardy Benson**
 
 There is a spelling mistake on the cover.
 

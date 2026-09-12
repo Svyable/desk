@@ -1,12 +1,14 @@
 # Sifting for Alpha
 
+*How I Won Fourth Place in the Q23 Quantiacs Stock-Picking Contest*
+
 <!-- bookself-reader-links:start -->
 **Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/sifting-for-alpha/)
 <!-- bookself-reader-links:end -->
 
 | | |
 |---|---|
-| **Author** | Sven Hardy Benson |
+| **Authors** | Sven Hardy Benson |
 | **Status** | Drafting |
 | **Chapters** | 18 chapters + 2 epilogues + 3 supplements drafted |
 

@@ -1,12 +1,14 @@
 # The Books That Wrote America
 
+*Twenty-Five Books, Twenty-Five Decades, and the Stories Behind a Nation*
+
 <!-- bookself-reader-links:start -->
 **Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/the-books-that-wrote-america/)
 <!-- bookself-reader-links:end -->
 
 | | |
 |---|---|
-| **Author**    | Sven Hardy Benson |
+| **Authors**    | Sven Hardy Benson |
 | **Status**    | Complete draft |
 | **Chapters**  | 25 of 25 drafted |
 | **Edition**   | First complete draft · September 2026 |

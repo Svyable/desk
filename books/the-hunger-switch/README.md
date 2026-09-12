@@ -1,12 +1,14 @@
 # Hunger Switch
 
+*How One Molecule Took Over Appetite, Industry, and the Global Body*
+
 <!-- bookself-reader-links:start -->
 **Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/the-hunger-switch/)
 <!-- bookself-reader-links:end -->
 
 | | |
 |---|---|
-| **Author** | Sven Hardy Benson |
+| **Authors** | Sven Hardy Benson |
 | **Status** | Drafting |
 | **Chapters** | 20 of 20 + prologue + epilogue + back matter |
 

@@ -1,4 +1,12 @@
-# The World Does Not Arrive Pre-Sorted
+# The Limit Does Not Exist
+
+*Who Gets to Draw the Line?*
+
+**Sven Hardy Benson**
+
+---
+
+## The World Does Not Arrive Pre-Sorted
 
 There is a small violence in every clean line.
 

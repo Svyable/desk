@@ -1,6 +1,6 @@
 # The Crime That Made the Decade
 
-## 250 Years, 25 Crimes, and the America They Left Behind
+*250 Years, 25 Crimes, and the America They Left Behind*
 
 **Sven Hardy Benson**
 

@@ -2,7 +2,7 @@
 
 *Hiding Signal in Artificial Noise*
 
-**@svyable**
+**Sven Hardy Benson**
 
 ---
 

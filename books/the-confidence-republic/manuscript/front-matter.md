@@ -1,4 +1,4 @@
-# The Confidence Republic
+# Confidence Republic
 
 *America at 250, Told Through the Scam That Defined Every Decade*
 

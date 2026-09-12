@@ -1,4 +1,4 @@
-# The Search Frontier
+# Search Frontier
 
 *How Civilization Finds Its Next Move*
 

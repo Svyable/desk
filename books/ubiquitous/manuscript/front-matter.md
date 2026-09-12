@@ -1,14 +1,10 @@
 # Ubiquitous
 
-*Ubiquitous*
+*What Remains Valuable When Intelligence Is Everywhere*
 
 **Sven Hardy Benson**
 
 ---
-
-### What Remains Valuable When Intelligence Is Everywhere
-
-Sven Hardy Benson
 
 A strange labor-market question appears when competence gets cheap.
 
