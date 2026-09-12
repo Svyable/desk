@@ -90,24 +90,50 @@ No direct evidence located so far establishes:
 
 This is an excellent interview target because it could reveal the earliest version of a pattern later documented very clearly: the team stays in Boston while Burns moves across time zones.
 
-## Current archival gap
+## Open-web search boundary
 
-Targeted open-web searches have not surfaced a contemporaneous Burns byline, letter, student-newspaper quote, yearbook entry, or alumni recollection connecting him directly to:
+Repeated exact-name searches combining Nicholas Burns with the **1975 Red Sox**, **1978 Red Sox/Yankees**, and the Boston College years have not surfaced a direct Burns memory, interview, letter, student-newspaper quotation, or other contemporaneous baseball testimony. Results continue to resolve to later institutional biographies and general career profiles.
 
-- the 1975 World Series;
-- the 1978 Yankees tiebreaker;
-- Boston College baseball fandom more generally during 1974–78.
+That is not evidence that the memories do not exist. It does tell us the next efficient move is archival rather than another broad web pass.
 
-That is not negative evidence. Much of the relevant student press/yearbook material is poorly indexed or available only through archival interfaces.
+## The archive route is now concrete
+
+Boston College Libraries confirms that **The Heights**, the Boston College Chronicle, and other university newspapers and serials have been digitized and are available online for reading and keyword searching.
+
+Source:
+https://libguides.bc.edu/c.php?g=985438&p=9804296
+
+The University Archives also identifies:
+
+- **The Heights, 1919–2013**;
+- **Sub Turri, 1913–2009**;
+- many campus-life photographs and publications available digitally, with additional material in the Burns Library Reading Room.
+
+Source:
+https://events.bc.edu/event/you_are_here_the_chestnut_hill_campus_in_maps_photos_from_the_university_archives
+
+Most promisingly, the Burns Library has a dedicated **Boston College scrapbooks collection** whose later material dates **1975–1977** and whose scope is described as pertaining particularly to athletics. The collection includes newspaper clippings, photographs, programs, and ephemera and is open for research.
+
+Finding aid:
+https://findingaids.bc.edu/repositories/2/resources/831
+
+The Boston College Office of Public Relations records also cover the mid- to late-twentieth century and may contain photographs, profiles, event material, or student-life publicity from Burns's exact undergraduate years.
+
+Finding aid:
+https://findingaids.bc.edu/repositories/2/resources/863
+
+These collections do not prove a Burns baseball connection. They dramatically improve the search strategy because they place searchable and physical source bodies directly over 1975–1978 rather than relying on modern web indexing.
 
 ## Highest-value Boston College archival targets
 
-1. **The Heights**, 1974–1978 — search Nicholas Burns / Nick Burns; Red Sox; 1975 World Series; 1978 playoff; foreign study; history honors; student commentary.
+1. **The Heights**, 1974–1978 — search Nicholas Burns / Nick Burns; Red Sox; World Series; Fisk; Yankees; Bucky Dent; Fenway; foreign study; history honors; student commentary.
 2. **Sub Turri** yearbooks, classes 1975–1978 — identify Burns's student activities, honors, residence/community references, photographs.
-3. **History Department records / Honors Program material** — courses, faculty, Phi Beta Kappa context, Mark O'Connor chronology.
-4. **1977 study-abroad material** — Sorbonne exchange/student records, letters, alumni profiles.
-5. **Class of 1978 alumni reminiscence** — roommates or Mod 36A residents who might remember Burns and the 1978 season.
-6. **Burns Library / university archives** — commencement files, alumni questionnaires, oral histories, photographs.
+3. **Boston College scrapbooks collection, 1975–1977** — inspect athletics-heavy clippings and ephemera for campus reaction to the 1975 World Series and any student/fan references tied to Burns or his circle.
+4. **Office of Public Relations records** — search Burns, class of 1978, history honors, Phi Beta Kappa, student profiles, photographs, commencement, and Mod culture.
+5. **History Department records / Honors Program material** — courses, faculty, Phi Beta Kappa context, Mark O'Connor chronology.
+6. **1977 study-abroad material** — Sorbonne exchange/student records, letters, alumni profiles.
+7. **Class of 1978 alumni reminiscence** — roommates or Mod 36A residents who might remember Burns and the 1978 season.
+8. **Burns Library / university archives** — commencement files, alumni questionnaires, oral histories, photographs.
 
 ## Manuscript consequence
 
