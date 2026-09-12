@@ -31,6 +31,26 @@ This speech is useful because it establishes that Burns arrived in Athens with a
 
 Source: https://1997-2001.state.gov/policy_remarks/970509.burns.html
 
+## Libby's parallel public-service record in Athens
+
+The Athens story should not treat Elizabeth “Libby” Baylies as a background spouse when the surviving record gives her a documented public-service role of her own.
+
+The State Department's archived biography identifies Burns's wife as Elizabeth Baylies. A State Department feature from the Athens years places Elizabeth Allen Baylies alongside Ambassador Burns in embassy public-cultural activity. More substantially, contemporaneous Greek reporting identifies Elizabeth Baylies-Burns as honorary president and an instigator of an MDA Hellas project that created a specialized neuromuscular-disease unit at Aghia Sophia Children's Hospital. A later MDA Hellas retrospective says the organization was established in 2000 with her help and subsequently expanded its interdisciplinary clinical work.
+
+This material matters for the book because it broadens the idea of representation beyond the ambassador's formal job. The Burns family's presence in Greece included a spouse pursuing independently documented civic and humanitarian work. That gives the manuscript a way to describe the shared diplomatic life without reducing Libby to ceremonial attendance or inventing private scenes.
+
+Sources:
+- https://1997-2001.state.gov/about_state/biography/burns.html
+- https://1997-2001.state.gov/publications/statemag/statemag_jul2000/feature5.html
+- https://www.ekathimerini.com/culture/9992/president-inaugurates-a-project-of-mda-hellas/
+- https://musculardystrophynews.com/news/mda-hellas-gives-greek-sma-duchenne-patients-reason-to-hope/
+
+### Attribution boundary
+
+No reliable primary source located in this research pass shows Libby herself making a Red Sox statement. A Senate hearing can place her in the room while someone else calls Burns a member of Red Sox Nation; that does not make the baseball line hers.
+
+Use Libby's documented public-service record, Burns's own descriptions of their shared overseas life, and direct family-history references where sourced. Do not manufacture Red Sox dialogue, baseball enthusiasm, or private reactions for her.
+
 ## The baseball problem
 
 Contemporary reporting describes Greece preparing to host the 2004 Olympics with almost no domestic baseball infrastructure. An Associated Press report in January 2000 described only two weed-choked sandlots at a former U.S. military base and Greeks struggling to understand the game.
@@ -81,6 +101,8 @@ https://chrissmith.house.gov/uploadedfiles/1999.03.04_foreign_relations_authoriz
 - The Greek baseball initiative connected an emerging Greek federation with American political, diaspora, and baseball institutions.
 - Burns considered the project personally significant years later.
 - Boston identity remained visibly present in his ambassadorial persona.
+- Libby Baylies had an independently documented public-service role in Greece, including work connected to MDA Hellas and embassy cultural life.
+- The Athens posting can therefore be written as a shared diplomatic life without collapsing the couple's distinct activities or inventing private scenes.
 
 ## What the evidence does not yet support
 
@@ -88,6 +110,7 @@ https://chrissmith.house.gov/uploadedfiles/1999.03.04_foreign_relations_authoriz
 - Burns conceived the baseball project primarily as a strategic communications campaign.
 - Specific causal claims that baseball produced military, law-enforcement, or regional-policy gains.
 - A full reconstruction of private conversations among Burns, Sarbanes, Angelos, MLB, and Greek officials.
+- Any direct Red Sox quotation, fandom claim, or baseball anecdote attributable to Libby without a direct source.
 
 ## Highest-value next archival targets
 
@@ -98,12 +121,13 @@ https://chrissmith.house.gov/uploadedfiles/1999.03.04_foreign_relations_authoriz
 5. Hellenic federation correspondence or retrospective interviews with Panos Mitsiopoulos.
 6. Sarbanes papers or statements concerning the connection to Angelos.
 7. Oral histories from Athens embassy staff beyond Nielsen.
+8. MDA Hellas archival material, board records, event programs, and Greek reporting that can reconstruct Libby's work without relying only on retrospective summaries.
 
 ## Manuscript implication
 
 The Greece material now supports at least two distinct dramatic units rather than one generic chapter:
 
-- **Athens** — the difficult political environment, Burns's public-diplomacy method, and the problem of representing America in a skeptical society.
+- **Athens** — the difficult political environment, Burns's public-diplomacy method, Libby's parallel civic work, and the problem of representing America in a skeptical society.
 - **Bringing Baseball to Greece** — the federation call, the institutional network, the practical work, and Burns's later judgment that it was among the best things he did as ambassador.
 
 Those chapters should remain separate unless later archival work shows the baseball story is too thin to sustain its own documented scene sequence.
