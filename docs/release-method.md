@@ -13,6 +13,31 @@ All four must be green on the same frozen Desk commit.
 
 A failed gate produces a concrete remediation and the candidate leaves the front of the queue until that remediation changes. Do not repeatedly re-review a known blocker.
 
+## Literary evidence for the substantive gate
+
+Apply [the prose authoring standard](prose-authoring-standard.md), especially its
+whole-book and stage-specific review guidance, to the exact candidate edition.
+Read the opening, middle, and ending in sequence. Check whether the book delivers
+its reader promise, whether chapters advance rather than repeat the argument,
+whether its principal cases and counterevidence are developed, and whether the
+voice remains particular to the author and subject.
+
+Use the existing editorial/research review location. Record what manuscript
+scope or revision was read, concrete passage-level evidence for the readiness
+judgment, and any unresolved defect with its next action. Reassess affected
+judgments after material changes. Do not accept a generic quality claim or a
+review of a different edition as evidence for the frozen candidate.
+
+An unsupported central claim, unresolved structural break, substantial redundant
+material, or unfinished passage is a substantive blocker. An optional preference
+for different imagery or cadence is not automatically one. Agents may perform
+this review; no additional human sign-off, scoring threshold, or paid service is
+required. Existing release authorization and repository gates still apply.
+
+Word count and automated style checks cannot establish that a book is ready to
+read. Do not use passing mechanical checks to overrule an unresolved substantive
+problem, or use literary judgment to waive an applicable mechanical requirement.
+
 ## One source of truth per fact
 
 - `catalog.json`: canonical Desk slug inventory.

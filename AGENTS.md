@@ -71,6 +71,15 @@ not a prerequisite for writing or releasing. The normal release helper and
 - The prose standard is an authoring requirement, not merely a cleanup rubric.
   Do not knowingly hand downstream a draft full of problems that a later
   anti-slop pass is expected to repair.
+- For new books and substantial expansions, establish the reader promise,
+  distinct contribution, competing explanation, and chapter progression before
+  drafting. Use the planning and revision guidance in the prose standard.
+- Revise structure and evidence before line polish. Calibrate voice against
+  passages that work in this book, and let form follow the subject. Preserve
+  useful roughness in explicitly exploratory work; identify unresolved gaps.
+- For release candidates, read the whole manuscript and record specific
+  editorial evidence in the existing review notes. Passing length, metadata,
+  or style checks does not establish literary quality or authorize release.
 - Preserve the author's voice, tense, rhythm, judgment, and useful
   idiosyncrasies. Match the surrounding manuscript, not a house style you
   brought with you.

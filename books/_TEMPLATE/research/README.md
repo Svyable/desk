@@ -48,6 +48,19 @@ Never put secrets, credentials, confidential material, or personal data that
 should not be public here. A public Desk makes committed research public even if
 the Desk is lower-profile than the Shelf.
 
+## Planning and editorial continuity
+
+For a new book or substantial expansion, keep the reader promise, distinct
+contribution, chapter progression, and open research questions in existing
+planning notes here. Keep notes short enough to use while drafting. Record when
+counterevidence changes the argument and where the manuscript still needs work.
+
+For a substantial revision or release review, retain specific editorial findings
+and the manuscript scope or revision reviewed in the existing review notes.
+See the Desk's `docs/prose-authoring-standard.md` and `docs/release-method.md`.
+These notes support judgment; a completed template or positive score does not
+certify literary quality.
+
 ## Before release
 
 - Recheck time-sensitive material.
