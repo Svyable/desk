@@ -23,6 +23,28 @@ This is valuable corroboration for the book's larger claim: the ambassador did n
 Source: Barbara H. Nielsen oral history, Association for Diplomatic Studies and Training, especially discussion of Athens service, 1999–2001.
 https://adst.org/OH%20TOCs/Nielsen%2C%20Barbara%20H.toc.pdf
 
+## Near-contemporary evaluation: baseball inside the Kosovo-war climate
+
+A 2003 cultural-diplomacy study by former U.S. ambassador and Georgetown scholar Cynthia P. Schneider is unusually important because it describes the Burns baseball project **before** the Athens Olympics and places it explicitly inside the political climate of the Kosovo war.
+
+Schneider writes that Burns used baseball diplomacy to temper hostility toward the United States, says he helped secure Greek-American political and sports support to form a nonprofit **Friends of Greek Baseball**, and records a growing network of twenty baseball teams, ten softball teams, and Little Leagues.
+
+She then quotes Burns describing cultural diplomacy as a way to make headway in a hostile climate.
+
+Source:
+- Cynthia P. Schneider, *Diplomacy That Works: “Best Practices” in Cultural Diplomacy*, Center for Arts and Culture / Georgetown University, 2003.
+  https://www.interarts.net/descargas/interarts645.pdf
+
+### Evidentiary boundary
+
+This is near-contemporary secondary evidence from a practitioner-scholar, not a controlled measurement of Greek public opinion. It supports three narrower claims:
+
+- contemporaries understood the baseball project as cultural / people-to-people diplomacy;
+- the project was consciously situated against a period of intense anti-American sentiment;
+- Burns's Greece baseball work was being cited as a public-diplomacy “best practice” before the Olympic team took the field.
+
+It does **not** by itself prove that baseball shifted Greek public opinion at national scale or caused strategic-policy gains.
+
 ## Burns's own public-diplomacy philosophy before Athens
 
 In May 1997, months before taking the Greece post, Burns described public diplomacy as communicating American ideas, ideals, policy, and the American role in the world. In the same event, another participant emphasized that public diplomacy includes changing attitudes, bringing together people of different views, persuasion, and better understanding between societies.
@@ -77,6 +99,28 @@ Sources:
 - https://www.latimes.com/archives/la-xpm-2000-jan-02-mn-49873-story.html
 - https://www.washingtonpost.com/archive/sports/1999/09/08/injuries-to-teens-are-still-a-concern/fe2eb9f0-7fc2-4b43-80a4-a9cb6ac94670/
 
+## Hands-on work in Burns's own account
+
+An ESPN Magazine profile published in the run-up to the Athens Olympics records Burns saying that the embassy brought American coaches and players to Greece for demonstrations. Burns recalls personally appearing on Greek television from a batting cage to demonstrate hitting, playing catch with Greek children, and lobbying the Greek government for a baseball budget.
+
+He also described growth within roughly two years to twenty youth baseball teams and ten softball teams playing in two leagues.
+
+Source:
+https://www.espn.co.uk/espn/magazine/archives/news/story?page=magazine-20040119-article32
+
+This evidence moves the story beyond institutional introductions. Burns's own account depicts direct participation in teaching, promotion, television, and political advocacy around the sport.
+
+## The project outlived Burns
+
+Ambassador Thomas J. Miller, who succeeded Burns in Athens, later recalled in an ADST oral history that Greek Olympic baseball had started under his predecessor, whom Miller called a “baseball nut.” Miller said he continued the effort and helped engineer an arrangement with Major League Baseball for training and for identifying U.S.-based players of Greek ancestry.
+
+Source:
+https://adst.org/OH%20TOCs/Miller%2C%20Thomas%20J.toc.pdf
+
+This matters because it demonstrates institutional persistence. By Miller's tenure, the effort was no longer simply the personal enthusiasm of one ambassador; it had become an inherited embassy project tied to MLB, Greek-American networks, and Olympic preparation.
+
+Miller's account is retrospective oral history, so exact dates and mechanics should still be checked against contemporaneous records.
+
 ## Burns's retrospective judgment
 
 In 2004, with Burns then serving at NATO, the Christian Science Monitor returned to the Greek Olympic baseball story. Burns described himself as “a confirmed, unconditional, rabid fan of the Boston Red Sox.” He called introducing baseball to Greece a joint American-Greek venture and “one of the best things I ever did as ambassador.”
@@ -87,9 +131,9 @@ Source: https://www.csmonitor.com/2004/0818/p02s01-woeu.html
 
 ## A broader representational problem
 
-A contemporaneous profile reproduced in a congressional public-diplomacy compilation describes Burns's Athens office filled with Boston objects, including a model associated with Boston, a Red Sox cap signed by President Clinton, Celtics material, and other Boston paraphernalia. The same profile quotes Burns describing his task as convincing Greeks that the era of an interventionist American “Big Brother” was over and that the relationship should be normal, rational, mature, and open.
+A contemporaneous profile reproduced in a congressional public-diplomacy compilation describes Burns's Athens office filled with Boston objects, including a Red Sox cap signed by President Clinton, Celtics material, and other Boston paraphernalia. The same profile quotes Burns describing his task as convincing Greeks that the era of an interventionist American “Big Brother” was over and that the relationship should be normal, rational, mature, and open.
 
-This is a potentially excellent scene because personal Boston identity and a serious theory of representation occupy the same physical office. Before using it extensively, verify the original article/publication and exact wording from the underlying source rather than relying solely on the congressional compilation.
+This is a potentially excellent scene because personal Boston identity and a serious theory of representation occupy the same physical office. Before using it extensively, verify the exact wording from the underlying Boston Globe profile as well as the congressional reproduction.
 
 Source lead:
 https://chrissmith.house.gov/uploadedfiles/1999.03.04_foreign_relations_authorization_for_fy_2000_2001-_public_diplomacy_programs.pdf
@@ -98,7 +142,10 @@ https://chrissmith.house.gov/uploadedfiles/1999.03.04_foreign_relations_authoriz
 
 - Baseball was part of a deliberate embassy public-diplomacy environment.
 - Burns's prior experience as spokesman shaped how embassy colleagues understood his approach to public diplomacy.
+- A near-contemporary cultural-diplomacy study explicitly places the baseball initiative inside the hostile Kosovo-war political climate.
 - The Greek baseball initiative connected an emerging Greek federation with American political, diaspora, and baseball institutions.
+- Burns's own account includes hands-on television, youth, and government-budget work rather than introductions alone.
+- Successor testimony indicates that the initiative continued after Burns left and developed into an MLB-linked training and player-recruitment effort.
 - Burns considered the project personally significant years later.
 - Boston identity remained visibly present in his ambassadorial persona.
 - Libby Baylies had an independently documented public-service role in Greece, including work connected to MDA Hellas and embassy cultural life.
@@ -107,27 +154,29 @@ https://chrissmith.house.gov/uploadedfiles/1999.03.04_foreign_relations_authoriz
 ## What the evidence does not yet support
 
 - Baseball materially changed Greek public opinion toward the United States at national scale.
-- Burns conceived the baseball project primarily as a strategic communications campaign.
 - Specific causal claims that baseball produced military, law-enforcement, or regional-policy gains.
 - A full reconstruction of private conversations among Burns, Sarbanes, Angelos, MLB, and Greek officials.
+- A precise accounting of what the Boston Red Sox organization itself contributed to the Greek effort.
 - Any direct Red Sox quotation, fandom claim, or baseball anecdote attributable to Libby without a direct source.
 
 ## Highest-value next archival targets
 
-1. Original source behind the profile of Burns's Boston-filled Athens office.
+1. Original Boston Globe source behind the profile of Burns's Boston-filled Athens office.
 2. Embassy Athens newsletters, public-affairs calendars, photos, speeches, and event programs from 1998–2001.
 3. Peter Angelos/Orioles or MLB International records about the Greek project.
-4. Greek press coverage of Burns and baseball during 1999–2001.
-5. Hellenic federation correspondence or retrospective interviews with Panos Mitsiopoulos.
-6. Sarbanes papers or statements concerning the connection to Angelos.
-7. Oral histories from Athens embassy staff beyond Nielsen.
-8. MDA Hellas archival material, board records, event programs, and Greek reporting that can reconstruct Libby's work without relying only on retrospective summaries.
+4. Boston Red Sox records identifying the staff, department, equipment, coaching, or financial support pledged to Greece.
+5. Greek press coverage of Burns and baseball during 1999–2001.
+6. Hellenic federation correspondence or retrospective interviews with Panos Mitsiopoulos.
+7. Sarbanes papers or statements concerning the connection to Angelos.
+8. Greek television archives for Burns's batting-cage demonstration.
+9. Oral histories from Athens embassy staff beyond Nielsen and Miller.
+10. MDA Hellas archival material, board records, event programs, and Greek reporting that can reconstruct Libby's work without relying only on retrospective summaries.
 
 ## Manuscript implication
 
 The Greece material now supports at least two distinct dramatic units rather than one generic chapter:
 
-- **Athens** — the difficult political environment, Burns's public-diplomacy method, Libby's parallel civic work, and the problem of representing America in a skeptical society.
-- **Bringing Baseball to Greece** — the federation call, the institutional network, the practical work, and Burns's later judgment that it was among the best things he did as ambassador.
+- **Athens** — the Kosovo-war political environment, Burns's deliberate public-diplomacy method, Libby's parallel civic work, and the problem of representing America in a skeptical society.
+- **Bringing Baseball to Greece** — the local Olympic problem, Burns's hands-on demonstrations and lobbying, the federation/Sarbanes/Angelos/MLB network, the project's survival into Miller's tenure, and Burns's later judgment that it was among the best things he did as ambassador.
 
-Those chapters should remain separate unless later archival work shows the baseball story is too thin to sustain its own documented scene sequence.
+Those chapters should remain separate. The evidence is now thick enough that collapsing them would flatten two different stories: the political problem of representing America in Greece and the practical mechanics of building a baseball network.
