@@ -1,0 +1,33 @@
+name: Desk to Shelf release boundary
+
+on:
+  pull_request:
+    paths:
+      - "imprint.json"
+      - "scripts/release.py"
+      - "scripts/release-book.py"
+      - "scripts/release.test.py"
+      - "scripts/generate-publication-pages.py"
+      - ".github/workflows/release-boundary.yml"
+  push:
+    branches:
+      - main
+    paths:
+      - "imprint.json"
+      - "scripts/release.py"
+      - "scripts/release-book.py"
+      - "scripts/release.test.py"
+      - "scripts/generate-publication-pages.py"
+      - ".github/workflows/release-boundary.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify release transaction and provenance helpers
+        run: python3 scripts/release.test.py
