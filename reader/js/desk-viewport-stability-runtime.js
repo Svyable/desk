@@ -7,6 +7,8 @@ import {
   textEntryTarget,
 } from './viewport-stability.js';
 
+const FAST_DESK_CATALOG_KEY = 'sven-desk:fast-catalog:v1';
+
 function parseRoute(location = globalThis.location) {
   const query = new URLSearchParams(location?.search || '');
   const querySlug = query.get('b');
@@ -74,6 +76,87 @@ export function createReaderLifecycleGuard({ window = globalThis.window, documen
   return Object.freeze({ capture, resume, state() { return { suspended, resumeCount }; }, destroy() { cancelAnimationFrame(rafA); cancelAnimationFrame(rafB); window?.removeEventListener?.('pagehide', onPageHide, true); window?.removeEventListener?.('pageshow', onPageShow, true); document?.removeEventListener?.('visibilitychange', onVisibility, true); document?.removeEventListener?.('freeze', onFreeze, true); document?.removeEventListener?.('resume', onResume, true); } });
 }
 
+function releasedSection(markdown) {
+  const match = /^##\s+The books\s*$/im.exec(String(markdown || ''));
+  if (!match) return '';
+  const tail = String(markdown).slice(match.index + match[0].length);
+  const next = /^##\s+/m.exec(tail);
+  return next ? tail.slice(0, next.index) : tail;
+}
+
+function cleanTitle(label, slug) {
+  const title = String(label || '').replace(/[*_`]/g, '').replace(/\s+/g, ' ').trim();
+  if (title) return title;
+  return String(slug || '').split('-').filter(Boolean)
+    .map((part) => part.charAt(0).toUpperCase() + part.slice(1)).join(' ');
+}
+
+function parseFastDeskCatalog(markdown) {
+  const entries = [];
+  const seen = new Set();
+  const re = /\[([^\]]+)\]\((?:\.\/)?books\/([a-z0-9][a-z0-9-]*)\/?\)/gi;
+  let match;
+  while ((match = re.exec(releasedSection(markdown)))) {
+    const slug = match[2].toLowerCase();
+    if (seen.has(slug) || slug.startsWith('_')) continue;
+    seen.add(slug);
+    entries.push({ slug, title: cleanTitle(match[1], slug) });
+  }
+  return entries;
+}
+
+function fastDeskCatalogFromStorage() {
+  try {
+    const value = JSON.parse(localStorage.getItem(FAST_DESK_CATALOG_KEY) || '[]');
+    return Array.isArray(value) ? value.filter((entry) => entry?.slug && entry?.title) : [];
+  } catch {
+    return [];
+  }
+}
+
+function renderFastDeskCatalog(entries) {
+  if (parseRoute().view !== 'library' || !entries.length) return;
+  const shelf = document.getElementById('shelf');
+  const empty = document.getElementById('emptyShelf');
+  if (!shelf || !empty || shelf.dataset.deskFastCatalog === 'canonical') return;
+
+  const fragment = document.createDocumentFragment();
+  for (const entry of entries.slice().sort((a, b) => a.title.localeCompare(b.title))) {
+    const link = document.createElement('a');
+    link.className = 'volume';
+    link.href = `#/b/${entry.slug}/`;
+    link.innerHTML = `
+      <span class="volume-spine"></span>
+      <span class="volume-block"></span>
+      <span class="volume-cover">
+        <span class="volume-title"></span>
+        <span class="volume-author">Sven Hardy Benson</span>
+        <span class="volume-open">Open</span>
+      </span>`;
+    link.querySelector('.volume-title').textContent = entry.title;
+    fragment.appendChild(link);
+  }
+  shelf.replaceChildren(fragment);
+  shelf.dataset.deskFastCatalog = 'primed';
+  empty.hidden = true;
+}
+
+function primeDeskLibrary() {
+  if (parseRoute().view !== 'library') return;
+  const cached = fastDeskCatalogFromStorage();
+  if (cached.length) renderFastDeskCatalog(cached);
+
+  fetch(new URL('../../README.md', import.meta.url), { cache: 'default' })
+    .then((response) => response.ok ? response.text() : '')
+    .then((markdown) => {
+      const entries = parseFastDeskCatalog(markdown);
+      if (!entries.length) return;
+      try { localStorage.setItem(FAST_DESK_CATALOG_KEY, JSON.stringify(entries)); } catch {}
+      renderFastDeskCatalog(entries);
+    })
+    .catch(() => {});
+}
+
 if (typeof window !== 'undefined' && typeof document !== 'undefined') {
   if (window.visualViewport) {
     window.__bookselfViewportKeyboardGuard?.destroy?.();
@@ -81,4 +164,5 @@ if (typeof window !== 'undefined' && typeof document !== 'undefined') {
   }
   window.__bookselfReaderLifecycleGuard?.destroy?.();
   window.__bookselfReaderLifecycleGuard = createReaderLifecycleGuard({ window, document, visualViewport: window.visualViewport });
+  primeDeskLibrary();
 }
