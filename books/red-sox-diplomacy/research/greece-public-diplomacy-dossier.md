@@ -129,14 +129,23 @@ This is the most important retrospective line because it assigns value in Burns'
 
 Source: https://www.csmonitor.com/2004/0818/p02s01-woeu.html
 
-## A broader representational problem
+## “America's Salesman”: Boston identity inside the Athens office
 
-A contemporaneous profile reproduced in a congressional public-diplomacy compilation describes Burns's Athens office filled with Boston objects, including a Red Sox cap signed by President Clinton, Celtics material, and other Boston paraphernalia. The same profile quotes Burns describing his task as convincing Greeks that the era of an interventionist American “Big Brother” was over and that the relationship should be normal, rational, mature, and open.
+The previously anonymous source lead behind one of the strongest Athens office scenes has now been identified. It is **David L. Marcus, “America's Salesman,” published in U.S. News & World Report** and preserved in the appendix to a March 1999 House Committee on International Relations hearing on public diplomacy.
 
-This is a potentially excellent scene because personal Boston identity and a serious theory of representation occupy the same physical office. Before using it extensively, verify the exact wording from the underlying Boston Globe profile as well as the congressional reproduction.
+The profile describes Burns at work in Athens and places a **Red Sox cap signed by President Clinton** and other Boston material inside his embassy office. In the same profile, Burns explains that the United States must persuade Greeks that the era of an interventionist American “Big Brother” is over and that the relationship should instead be normal, rational, mature, and open.
 
-Source lead:
-https://chrissmith.house.gov/uploadedfiles/1999.03.04_foreign_relations_authorization_for_fy_2000_2001-_public_diplomacy_programs.pdf
+That juxtaposition is unusually valuable for *Red Sox Diplomacy*: the Boston objects and the theory of representation occupy the same documented workspace. The personal identity is visible, but the job is not softened into sports. Burns is trying to make American power legible in a country with strong memories of U.S. intervention.
+
+The Marcus profile also describes Burns's attention to the physical chancery: an embassy obscured by security accretions and vegetation was made more visible through maintenance, lighting, and restoration. That detail can support the Athens chapter's theme of representation as something physical as well as rhetorical.
+
+Source:
+- David L. Marcus, “America's Salesman,” *U.S. News & World Report*, preserved in U.S. House Committee on International Relations, *Foreign Relations Authorization for Fiscal Year 2000–2001: Public Diplomacy Programs*, March 4, 1999:
+  https://chrissmith.house.gov/uploadedfiles/1999.03.04_foreign_relations_authorization_for_fy_2000_2001-_public_diplomacy_programs.pdf
+
+### Source-quality boundary
+
+The congressional reproduction is authoritative provenance for the article but its OCR is degraded. Do not quote long passages from the scan without checking a cleaner page image or original magazine copy. The identity of the article, author, publication, and broad scene is now secure; exact wording should still be verified before final manuscript quotation.
 
 ## What the evidence supports
 
@@ -147,6 +156,7 @@ https://chrissmith.house.gov/uploadedfiles/1999.03.04_foreign_relations_authoriz
 - Burns's own account includes hands-on television, youth, and government-budget work rather than introductions alone.
 - Successor testimony indicates that the initiative continued after Burns left and developed into an MLB-linked training and player-recruitment effort.
 - Burns considered the project personally significant years later.
+- The Marcus profile provides a contemporaneous, identified source for the Boston-filled Athens office and Burns's theory of representing a less interventionist America.
 - Boston identity remained visibly present in his ambassadorial persona.
 - Libby Baylies had an independently documented public-service role in Greece, including work connected to MDA Hellas and embassy cultural life.
 - The Athens posting can therefore be written as a shared diplomatic life without collapsing the couple's distinct activities or inventing private scenes.
@@ -161,7 +171,7 @@ https://chrissmith.house.gov/uploadedfiles/1999.03.04_foreign_relations_authoriz
 
 ## Highest-value next archival targets
 
-1. Original Boston Globe source behind the profile of Burns's Boston-filled Athens office.
+1. A clean U.S. News & World Report copy/page image of David L. Marcus's “America's Salesman” for final quotation accuracy.
 2. Embassy Athens newsletters, public-affairs calendars, photos, speeches, and event programs from 1998–2001.
 3. Peter Angelos/Orioles or MLB International records about the Greek project.
 4. Boston Red Sox records identifying the staff, department, equipment, coaching, or financial support pledged to Greece.
@@ -176,7 +186,7 @@ https://chrissmith.house.gov/uploadedfiles/1999.03.04_foreign_relations_authoriz
 
 The Greece material now supports at least two distinct dramatic units rather than one generic chapter:
 
-- **Athens** — the Kosovo-war political environment, Burns's deliberate public-diplomacy method, Libby's parallel civic work, and the problem of representing America in a skeptical society.
+- **Athens** — the Kosovo-war political environment, Burns's deliberate public-diplomacy method, the Boston-filled office, Libby's parallel civic work, and the problem of representing America in a skeptical society.
 - **Bringing Baseball to Greece** — the local Olympic problem, Burns's hands-on demonstrations and lobbying, the federation/Sarbanes/Angelos/MLB network, the project's survival into Miller's tenure, and Burns's later judgment that it was among the best things he did as ambassador.
 
 Those chapters should remain separate. The evidence is now thick enough that collapsing them would flatten two different stories: the political problem of representing America in Greece and the practical mechanics of building a baseball network.
