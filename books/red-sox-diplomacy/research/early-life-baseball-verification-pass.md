@@ -25,11 +25,16 @@ Several independent details align unusually closely with Ambassador R. Nicholas 
 - Sanford later earned a degree from Boston College; Burns graduated from Boston College in 1978. This does not prove later contact but adds another biographical overlap.
 - Burns independently told ESPN that his own playing career peaked in the **Wellesley Babe Ruth League**, so a Little League background immediately before Babe Ruth age is chronologically coherent.
 - The condolence writer uses **Red Sox Nation** language that is exceptionally characteristic of Burns's documented public vocabulary by 2007.
-- Legacy's older guestbook rendering preserves the signer location as **Vienna, VA**, a location publicly associated with R. Nicholas Burns.
+- Legacy's older guestbook rendering preserves the signer location as **Vienna, VA**.
+- The Department of State Historian's career record lists Virginia among Burns's states of residence. That is only broad corroboration of the state, not proof of the Vienna address or authorship.
 - The entry describes a friendship continuing from Little League into junior high, matching Burns's established Wellesley childhood.
 - The entry's 2002 Fenway detail is independently corroborated at the event level: Sanford's obituary and another Run America participant both confirm that the cross-country effort ended at the Green Monster / Fenway Park.
 
-Sources for Sanford context and the independent Fenway corroboration:
+Sources for Burns and Sanford context:
+- Department of State, Office of the Historian, R. Nicholas Burns:
+  https://history.state.gov/departmenthistory/people/burns-r-nicholas
+- Nicholas Burns curriculum vitae, Harvard Kennedy School:
+  https://apps.hks.harvard.edu/faculty/cv/NicholasBurns.pdf
 - https://www.legacy.com/us/obituaries/macon/name/paul-sanford-obituary?id=25289508
 - https://www.harvardmagazine.com/2002/09/disease-fighter-html
 
@@ -75,6 +80,14 @@ https://www.wellesleyfreelibrary.org/discover-borrow/digital-resources/databases
 The library's Burns profile independently confirms Wellesley High School class of 1974 and treats lifelong membership in Red Sox Nation as part of his hometown biography:
 https://www.wellesleyfreelibrary.org/nick-burns/
 
+Burns's current Harvard CV independently lists **Wellesley Senior High School, 1974**, which fixes the correct senior-year archive:
+https://apps.hks.harvard.edu/faculty/cv/NicholasBurns.pdf
+
+A directly browsable scan of the **1974 Wellesleyan** is available through e-Yearbook:
+https://www.e-yearbook.com/yearbooks/Wellesley_High_School_Wellesleyan_Yearbook/1974/Page_16.html
+
+The scan is a concrete archive target rather than proof of any activity. Search-engine indexing has not yet yielded a Burns baseball roster or activity entry, and incomplete OCR/indexing must not be converted into negative evidence.
+
 Priority searches:
 
 - Nicholas / Nick Burns, Robert Burns, Esther Burns;
@@ -82,8 +95,6 @@ Priority searches:
 - Little League, Babe Ruth League, baseball, all-stars, youth baseball;
 - roughly 1965–1971 for Little League / Babe Ruth age;
 - 1970–1974 Wellesley High yearbooks for any baseball, club, activity, or profile evidence.
-
-Search-engine indexing confirms that scanned 1970–1974 Wellesley yearbooks exist online, but the current open-web pass has not produced a searchable Burns/baseball roster entry. That remains an archive-access problem rather than negative evidence that Burns did not play school baseball.
 
 ## What is already independently established
 
