@@ -1,103 +1,261 @@
 # Chapter 2 — The Useful Fan
 
-The most efficient sentence in diplomacy may be the one that has nothing to do with diplomacy.
+In December 2021, Nicholas Burns was waiting to go to China.
 
-A formal meeting has an announced purpose. The people entering it know the issue, the positions, often the likely disagreement. Briefing books have anticipated objections. Talking points have been cleared. Interpreters, note-takers, advisers, and security personnel have reduced uncertainty around almost everything except the human beings themselves.
+The Senate had confirmed him as ambassador to Beijing. At the State Department, a reporter asked about the confirmation and the work ahead in a relationship already crowded with trade disputes, military tension, human rights, technology controls, climate negotiations, and the possibility that the two most powerful countries in the world were becoming structurally hostile to one another.
 
-Then someone mentions baseball.
+Then somebody interrupted.
 
-The room changes by a degree.
+“But he’s a Red Sox fan.”
 
-Not enough to alter national interests. Enough to reveal a person.
+The spokesman laughed.
 
-Nicholas Burns made unusually visible use of this small opening throughout his public career. The Red Sox surfaced in State Department briefings and speeches because he was willing to let an authentic private enthusiasm coexist with official seriousness.
+Burns had not been State Department spokesman for twenty-four years.
 
-This was not strategic genius.
+It did not matter.
 
-That is precisely why it worked.
+The room still knew.
 
-Manufactured relatability is one of public life's easiest performances to detect. A politician is handed the local team's cap. A visiting official praises the famous food. A speechwriter inserts a reference to the home crowd. Everyone understands the transaction.
+There are public officials whose personal details have to be reintroduced every time they take a new job. A hometown appears in the biography. A hobby arrives in the profile. A favorite team is supplied by staff because somebody has decided the person needs one recognizable thing.
 
-Burns did not need the prop.
+Burns did not have that problem.
 
-The Red Sox were already there.
+By the time he was being sent to Beijing, the Red Sox affiliation had survived seven presidents’ worth of baseball seasons, two World Series drought narratives, several diplomatic jobs, Harvard, NATO, negotiations with Iran and India, retirement from the Foreign Service, and a return to government.
 
-This distinction—between personality used instrumentally and personality that becomes useful because it is genuine—matters beyond sports.
+It had outlived the joke that first made it visible.
 
-Diplomats require social intelligence. They need to understand hierarchy without becoming intimidated by it, form relationships without confusing relationships for policy, and establish familiarity without creating obligations they cannot honor. The job rewards people who can move between the formal and informal registers of a relationship without losing track of which is which.
+That is why the fandom is useful to this book.
 
-A baseball argument is a nearly ideal informal register.
+Not because baseball explains Nicholas Burns.
 
-It permits disagreement without diplomatic consequence.
+It does not.
 
-A Yankees fan can be wrong in a way that does not require a démarche.
+Not because the Red Sox taught him diplomacy.
 
-The joke contains a miniature lesson. Serious relationships need spaces where opposition is safe.
+They did not.
 
-Diplomatic counterparts often meet because their governments disagree. If every interaction carries the full weight of the disagreement, the relationship becomes brittle. The officials begin to encounter one another only as positions. A small personal vocabulary—sports, family, books, music, cities—creates somewhere else for the relationship to stand.
+And not because sports metaphors contain secret instructions for negotiating with Russia, China, Iran, Greece, or anybody else. They mostly do not.
 
-That somewhere else cannot substitute for substance.
+The useful thing is smaller.
 
-It can keep substance from consuming everything.
+Burns carried a piece of himself through institutions designed to make the individual subordinate to the office.
 
-Burns's Red Sox identity also worked in public because baseball allowed him to violate the emotional flatness expected of official speech. Government language is deliberately controlled. A spokesman cannot improvise national policy because he is in a good mood. An ambassador cannot convert irritation into a threat. Emotional discipline is part of authority.
+He did it without confusing the two.
 
-Sports offer a harmless place to be unreasonable.
+That distinction can look trivial until one notices how often public life gets it wrong.
 
-The fan may complain. Boast. Hope against evidence. Carry an old grievance. Declare a rival intolerable and return the next day knowing perfectly well the rival's continued existence is essential to the pleasure of the whole enterprise.
+The State Department spokesman speaks for the United States government. The ambassador speaks under presidential authority. The negotiator arrives with instructions. The career Foreign Service officer is expected to serve administrations whose politics may differ dramatically from his own. Personal conviction matters. Personal preference matters. Neither is the same thing as policy.
 
-The diplomat cannot behave that way about war.
+The profession depends on people who can remember the difference.
 
-He can reveal that he understands the feeling.
+Baseball gave Burns a place where he did not have to be neutral.
 
-This may be especially valuable for an American representative because the United States often arrives abroad as scale before it arrives as personality. Foreign governments encounter American military power, markets, technology, universities, entertainment, sanctions, aid, intelligence, and elections. The country can appear less like a nation than a system of weather.
+He could be unreasonable in public.
 
-An individual representative reduces the scale.
+He could complain about Roger Clemens leaving Boston. He could tell a Yankees fan that the rules of admission had been violated. He could declare the Yankees intolerable, wear the wrong-colored loyalty on his head, follow pitching statistics too closely, and suffer a loss at six in the morning in Brussels.
 
-He is not America.
+None of it required clearance.
 
-But America has entrusted him to speak.
+The government did not have a position on Bucky Dent.
 
-The difference between those statements is diplomacy.
+This freedom mattered because so little else in the job worked that way.
 
-Burns's career would eventually place him in negotiations where he had to communicate policies he did not personally invent to people whose governments had their own reasons for resisting them. The temptation in such settings is to overperform certainty. The representative becomes more official than the government itself.
+At the State Department podium in 1997, Burns spent his days making distinctions. Confirmed versus unconfirmed. Policy versus proposal. Negotiation versus rumor. What Washington had decided versus what a foreign government claimed Washington had decided. A phrase could move a market, become a headline, reassure an ally, alarm an adversary, or create a problem for the secretary of state before dinner.
 
-Personal identity can act as ballast.
+Then somebody would ask about the Red Sox.
 
-It reminds everyone that representation is a role being performed by a human being who exists outside the role.
+The pressure dropped.
 
-This is not a plea for casual diplomacy. Burns's career was built inside institutions where precision mattered. A misplaced phrase from a State Department spokesman could become news. An ambassador's improvisation could be interpreted as policy. The freedom to joke depended on knowing exactly where the joke ended.
+Reporters learned the ritual quickly. They brought up Clemens. They tested visitors’ team loyalties. Burns asked foreign journalists whether they knew Fenway Park. On one occasion he announced, with the timing of a man who knew exactly what room he was standing in, that this had become the baseball briefing.
 
-That boundary is a form of craft.
+Then he returned to foreign policy.
 
-The effective diplomat learns which parts of himself are safe to spend.
+The return is the important part.
 
-A baseball allegiance is cheap currency. It creates familiarity without promising policy. It can be offered freely because the United States does not have to ratify it.
+Anyone can be informal.
 
-Other personal disclosures are more expensive. Political views can undermine confidence in nonpartisan service. Private opinions about leaders can become diplomatic incidents. Gossip can destroy trust. Familiarity can tempt a counterpart to believe the ambassador has promised something Washington has not.
+The professional skill is knowing when informality ends.
 
-The professional knows the exchange rate.
+A personal register becomes useful only if everyone trusts the boundary around it. The reporters could laugh about the Yankees and then press Burns on Bosnia, Israel, Turkey, Russia, proliferation, terrorism, or whatever crisis had arrived that morning. There is no evidence baseball softened their questions. There is no reason to pretend it did.
 
-Burns's baseball talk was therefore revealing not because it was frivolous but because it was bounded.
+Familiarity was not deference.
 
-Here is the fan.
+That was the arrangement.
 
-There is the ambassador.
+By the time Burns left the podium, other people had absorbed the identity. President Clinton sent him a signed Red Sox cap. A reporter gave him a Red Sox alarm clock. His successor, James Rubin, joked that the Department was retiring baseball analogies in Burns’s honor.
 
-The two occupy the same chair.
+The persona had become collaborative.
 
-The distinction would become especially visible when Burns moved from Washington into ambassadorial command in Greece. There, baseball ceased to be merely conversational identity and became something closer to public diplomacy. Greece was preparing for the Olympic Games. Baseball, an Olympic sport at the time, needed infrastructure, players, knowledge, and institutional support in a country where it had little native tradition.
+Burns supplied the allegiance. The room supplied the repetition.
 
-The American ambassador happened to care deeply about the game.
+Years later, the same thing happened in a different institution.
 
-Now the cheap currency could be spent on something real.
+At NATO in Brussels, the Red Sox were no longer press-room punctuation. They had entered the office.
 
-That story will come later.
+A reporter visiting Burns found an autographed photograph of Tony Conigliaro, a baseball signed by Ted Williams, and a bat signed by Nomar Garciaparra. The objects covered different Red Sox generations. They were not the decoration of somebody following only that week’s standings. They looked more like a portable archive.
 
-First Burns had to learn the profession that would make the gesture matter.
+Then came October 2003.
 
-A fan can introduce a game.
+Burns was the U.S. ambassador to NATO. The alliance was living through arguments over Iraq, Afghanistan, Europe’s relationship with the United States, and the meaning of NATO after September 11. The work was not light.
 
-An ambassador can connect institutions.
+The baseball game was on Armed Forces television.
 
-The difference is authority.
+Boston and New York were playing Game 7 of the American League Championship Series.
+
+Burns later remembered the exact local time when Aaron Boone ended it.
+
+6:16 a.m.
+
+That number is better than anything a biographer could invent.
+
+It tells us he watched long enough for an eleven-inning game in New York to reach morning in Brussels. It tells us the moment stuck. It does not tell us whether he shouted, went silent, woke anyone, called home, cursed the Yankees, or walked directly into a NATO meeting.
+
+The archive gives us the clock.
+
+That is enough.
+
+A year later, Boston won.
+
+The record becomes strangely less intimate.
+
+We know the baseball sequence exactly: the 0–3 hole against the Yankees, the Dave Roberts steal, David Ortiz, Curt Schilling, the comeback no Major League team had completed before, then four straight wins over St. Louis. We know Burns was serving at NATO. We know that months later he used his own word for what New England had experienced.
+
+Redemption.
+
+What we do not know is where he watched the last out.
+
+The archive remembers the loss at 6:16 in the morning more precisely than the championship.
+
+That imbalance is useful too.
+
+Real lives are not documented according to narrative need.
+
+A biographer does not get to move the 2003 television into 2004 because the second scene would be more satisfying.
+
+Burns’s baseball identity becomes more revealing when the gaps are left visible.
+
+It was present often enough that we do not need to manufacture continuity.
+
+In Greece, the fandom became something else entirely.
+
+There, a host country preparing for the 2004 Olympics had a practical problem. Greece needed baseball infrastructure, coaches, players, equipment, money, and eventually an Olympic-caliber roster in a place where the game barely had a domestic system.
+
+Burns did not solve that problem because he liked the Red Sox.
+
+He became useful because the interest was already real and the office gave him access to networks that could do things fandom could not.
+
+He could call people.
+
+He could convene.
+
+He could get Greek organizers into contact with Greek-American politicians and professional baseball institutions. He could lend embassy visibility to a sport that needed legitimacy. He could lobby the Greek government for a budget.
+
+And, according to his own later account, he could do some of the ridiculous practical work himself.
+
+He went on Greek television from a batting cage to demonstrate how to hit.
+
+He played catch with Greek children.
+
+That is a different kind of use.
+
+At the State Department podium, baseball revealed the person inside the office.
+
+In Athens, the same personal competence became available to the office.
+
+The distinction matters because authenticity alone is not public diplomacy. Lots of diplomats genuinely love things that are diplomatically useless. The useful moment comes when an authentic interest intersects with somebody else’s actual need.
+
+Greece needed baseball help.
+
+The ambassador happened to know the game and know people who could help build a network around it.
+
+That does not make baseball a grand strategy.
+
+It makes it a resource.
+
+The project survived him, which is one of the better tests of whether it mattered. His successor, Thomas Miller, inherited the effort. Major League Baseball remained involved. The Orioles and Peter Angelos became central to finding Greek-eligible players. Coaches and organizers did work Burns could not do. A national team eventually reached the Olympics.
+
+The ambassador became less important to the story as the project became more real.
+
+That is how brokerage is supposed to work.
+
+The fan opens a door.
+
+Other people walk through it carrying equipment.
+
+By 2007, there was no longer any plausible argument that the Red Sox identity was a youthful press-office affectation.
+
+Burns could discuss Boston’s rotation, bullpen, West Coast schedule, the previous season’s collapse, and the importance of pitching in the postseason in an official State Department interview. He predicted the Red Sox would win the World Series.
+
+They did.
+
+The morning after the championship, Burns stood before an audience at the State Department and asked how many people were members of Red Sox Nation.
+
+The transcript records applause.
+
+Winning had changed the team’s history.
+
+It had not ended the identity.
+
+That is important because “long suffering” could no longer do all the work. After 2004, and then 2007, and later 2013 and 2018, Red Sox fandom had to mean something other than waiting for rescue from eighty-six years of failure.
+
+Burns’s own language changed with it.
+
+Community became more visible.
+
+Regional belonging.
+
+Recognition.
+
+A way of finding your people when you were somewhere else.
+
+That is the version that reached China.
+
+In Beijing, Burns was operating in a relationship where people-to-people contact had itself become politically contested. He publicly complained that Chinese authorities were obstructing American embassy events and exchanges. Strategic competition was tightening the space in which ordinary contact could occur.
+
+And there he was, still carrying the hat.
+
+Official images show him pitching a baseball at the embassy’s Independence Day celebration. At the Great Wall, the Red Sox language appears again in public-affairs posts. At a Beijing baseball clinic in 2024, Burns posed with young Chinese participants and called them future members of Red Sox Nation.
+
+After leaving government, he explained that he had worn his battered Red Sox cap in public around China whenever he could—at the Great Wall, on the Bund, in Xiamen, in Chengdu, even during a television interview.
+
+He also admitted that the campaign had not exactly conquered the market.
+
+Dodgers hats were everywhere.
+
+He remained irritated that Boston had traded Mookie Betts.
+
+This is not evidence that the cap improved U.S.–China relations.
+
+That claim would be ridiculous.
+
+It is evidence of something narrower and more durable: the same personal identity remained available to Burns in the hardest bilateral posting of his career.
+
+The useful fan did not become useful because baseball carried diplomatic power of its own.
+
+He became useful because people are easier to meet when they are not pretending to be only their titles.
+
+The trick is not to confuse that human access with the substance that follows.
+
+A Red Sox hat cannot settle a trade dispute.
+
+A joke about the Yankees cannot deter a war.
+
+A baseball clinic cannot repair a strategic rivalry between nuclear powers.
+
+The value lies in refusing the opposite mistake: the idea that serious work requires the people doing it to become featureless.
+
+Burns spent a career inside institutions larger than himself. The State Department. The White House. NATO. An embassy. Harvard. The government again.
+
+Each required discipline.
+
+None required disappearance.
+
+That is the distinction this book keeps returning to.
+
+The representative carries authority that is not his own.
+
+He also carries a self the government did not issue.
+
+The useful diplomat knows which is which.
+
+The useful fan never quite takes off the cap.
