@@ -52,7 +52,39 @@ Miller describes helping engineer an arrangement with Major League Baseball for 
 Source:
 https://adst.org/OH%20TOCs/Miller%2C%20Thomas%20J.toc.pdf
 
-## 4. The distinctive Burns contribution
+## 4. The Red Sox club itself later appears in a clean diplomatic-post case
+
+An April 2008 *State Magazine* article documents a case in which the **Boston Red Sox organization itself** participated visibly in U.S. consular public outreach in Halifax.
+
+A local Red Sox fan club approached the U.S. Consulate General for help persuading the team to bring the **2007 World Series trophy and mascot Wally** to Nova Scotia. Consul General Harold Foster and Consul Elizabeth Schwefler wrote the Red Sox in support of the proposal, and the team accepted.
+
+The resulting visit included:
+
+- a welcome reception at the Nova Scotia Legislature;
+- a consul-general's residence event with fans, politicians, and community leaders;
+- visits to a children's hospital and elementary school;
+- a public fan event at a shopping mall.
+
+The article explicitly situates the visit inside the long New England–Atlantic Canada relationship, including Massachusetts aid after the 1917 Halifax explosion and Halifax's reception of diverted U.S.-bound aircraft after September 11, 2001.
+
+Source:
+- Marcia Seitz-Ehler, “Red Sox Pitch In — Consulate General in Halifax Celebrates 175 Years,” *State Magazine*, April 2008.
+  https://2001-2009.state.gov/documents/organization/102927.pdf
+
+### Why Halifax matters to the Greece question
+
+Halifax provides a useful **control case**. Here, the documentary record clearly tells us what the Red Sox club did: it accepted a diplomatic post's invitation, sent the championship trophy and mascot, and participated in a sequence of official/community events.
+
+The Greece record is different. Contemporary reports say the Red Sox were helping and had pledged support, but the public sources located so far do not describe the club's concrete contribution.
+
+That difference should make the manuscript more disciplined, not less:
+
+- **Halifax:** club-level contribution is explicit and observable.
+- **Greece:** club-level participation is reported, mechanics unresolved.
+
+Do not use the Halifax case to infer what the Red Sox did in Greece. Use it to show what a well-documented club/post collaboration looks like and therefore why the missing Greece details matter.
+
+## 5. The distinctive Burns contribution
 
 The comparative evidence argues against easy uniqueness claims. Burns was not the first U.S. diplomat to discover that baseball could create contact abroad, and the Greek project depended on many actors.
 
@@ -67,7 +99,7 @@ What is distinctive in the Burns record is the combination:
 
 That is a better thesis than “Burns invented baseball diplomacy.”
 
-## 5. What the book should resist
+## 6. What the book should resist
 
 Avoid these formulations:
 
@@ -83,7 +115,7 @@ Prefer formulations such as:
 - In Greece, a lifelong personal interest became useful public-diplomacy infrastructure when local organizers had a concrete Olympic problem.
 - The project worked because it connected a host-country need with American expertise, diaspora networks, and a diplomat willing to participate personally.
 
-## 6. Broader historical frame for later research
+## 7. Broader historical frame for later research
 
 A full comparative chapter is probably unnecessary, but a few pages of context may prevent the book from becoming self-mythologizing. Future research can test Burns against:
 
@@ -91,6 +123,7 @@ A full comparative chapter is probably unnecessary, but a few pages of context m
 - State Department baseball outreach in Latin America and Asia;
 - Foreign Service officers who used local or American sports as relationship-building tools;
 - MLB International's expansion efforts in the 1990s and early 2000s;
+- direct club/post collaborations such as the Red Sox–Halifax case;
 - the place of sport within post-USIA public diplomacy after the 1999 reorganization.
 
 The aim is not to dilute Burns. It is to define what, precisely, was his.
