@@ -1,16 +1,56 @@
 # Chapter 6 — Nature Says Yes, Sort Of
 
-In October 1974, *Nature* published a paper by Russell Targ and Harold Puthoff titled “Information transmission under conditions of sensory shielding.”
+On October 18, 1974, *Nature* published a paper by Russell Targ and Harold Puthoff titled “Information transmission under conditions of sensory shielding.”
 
 That sentence has done enormous work for half a century.
 
 For believers, publication in one of the world’s most prestigious scientific journals is evidence that remote viewing passed the gate of serious science. For skeptics, the paper is a cautionary tale about what peer review can and cannot establish. For the biographer, it is something more specific: the moment Puthoff’s strange research became impossible to dismiss as a private government curiosity.
 
-The paper exists. It was reviewed, revised, and published. Its abstract says the authors were presenting experimental results suggesting one or more perceptual modalities by which individuals obtained information not presented to any known sense. The authors argued that such abilities could be studied under laboratory conditions.
+The paper exists. It was reviewed, revised, and published. Nature’s own record says it was received on March 11, revised on July 8, and published in the October 18 issue. Its abstract says the authors were presenting experimental results “suggesting” one or more perceptual modalities by which individuals obtained information not presented to any known sense. The authors argued that such abilities could be studied under laboratory conditions.
 
 Notice the verbs.
 
-“Suggesting” is not “proving.” “Can be studied” is not “has been explained.” The paper was bold, but the strongest public mythology around it is bolder.
+Suggesting is not proving.
+
+Can be studied is not has been explained.
+
+The paper was bold, but the strongest public mythology around it is bolder.
+
+The most important document in the issue may not be the paper.
+
+It may be the editorial printed forty-three pages earlier.
+
+*Nature* titled it “Investigating the paranormal.” The editors did something unusual: they explained why they were publishing a paper their own referees had found seriously flawed.
+
+This is almost never included when “published in *Nature*” is used as a credential.
+
+The editorial says three independent referees had reviewed the manuscript. One thought it should not be published. One did not feel strongly either way. One was guardedly favorable. That is not a panel standing at the gate and unanimously saluting a breakthrough.
+
+The objections were concrete.
+
+The referees found the experimental design and presentation weak enough that details of how some experiments had actually been conducted were too vague. They thought the authors had not sufficiently absorbed established experimental-psychology methods or some lessons already learned inside parapsychology. They criticized at least one target-selection procedure as naïve. They worried that descriptions of safeguards against sensory leakage and other ordinary information paths were not strong enough to eliminate doubt. Two referees objected to the paper’s architecture itself: instead of one meticulous experiment, it bundled different subjects and different methods into what they regarded more as pilot studies than a completed experimental program.
+
+That is a severe editorial note.
+
+It is also not a rejection.
+
+The editors then laid out the case for publication. Targ and Puthoff were qualified scientists at a major research institute. The subject was disputed but scientifically testable. Publication would let the broader community see what SRI had actually done instead of relying on extravagant press accounts, especially those surrounding Uri Geller. The referees’ criticisms had been sent to the authors, who modified the manuscript. The editors said they had also considered whether familiar conjuring methods could have forced targets and were persuaded on the particular issues they discussed that this had not occurred.
+
+Then *Nature* stated the principle that should have followed the paper everywhere it went.
+
+Publication is not a seal of approval.
+
+The editorial’s actual conception of publication was closer to service of process: notice to the scientific community that a claim is now available for inspection.
+
+This makes the 1974 episode much more interesting than either side’s simplified version.
+
+The journal did not certify remote viewing.
+
+It refused to keep the dispute outside the literature.
+
+Those are different acts.
+
+The editorial even defended the value of occasional high-risk papers, arguing that unusual work sometimes deserved a foothold in the literature precisely so it could flourish or die under scrutiny. That position is intellectually healthier than the modern tendency to treat publication venue as a binary credibility token.
 
 Peer review is frequently misunderstood because people want it to function like certification. A published paper feels stamped TRUE. That is not what journals do. Editors and reviewers ask whether work is sufficiently interesting, methodologically serious, and legible to enter the scientific conversation. A high-profile journal may publish a controversial result precisely because exposing it to scrutiny is valuable.
 
@@ -22,7 +62,19 @@ That is a real virtue.
 
 It is not the same as being right.
 
-The paper combined several kinds of experiments and subjects, including well-known individuals. This created a rhetorical problem that has never gone away. Spectacular anecdotes and statistical laboratory data occupied the same conceptual package. A reader could be impressed by a famous subject’s apparent success and carry that impression into evaluation of experiments that required a different standard.
+The paper combined several kinds of experiments and subjects. It included tests involving Uri Geller, work with Pat Price, remote geographical targets, and pilot physiological studies. This created a rhetorical problem that has never gone away. Spectacular anecdotes and statistical laboratory data occupied the same conceptual package. A reader could be impressed by a famous subject’s apparent success and carry that impression into evaluation of experiments that required a different standard.
+
+The *Nature* referees had noticed the same structural problem before publication. The manuscript looked to them less like one finished experiment than a cluster of investigations held together by a claim about anomalous information transfer.
+
+That matters because different sub-experiments fail in different ways.
+
+Picture reproduction raises questions about target generation, handling, sensory isolation, judging, and subject behavior.
+
+Outdoor remote viewing raises questions about target pools, outbound experimenters, timing, transcript judging, geographic cues, and post-session feedback.
+
+EEG work raises questions about physiological signal processing, multiple comparisons, stimulus timing, blinding, and statistical analysis.
+
+One paper can place those results beside each other. It cannot make one protocol validate another.
 
 Scientific papers usually try to reduce narrative heat. Paranormal research generates it automatically.
 
@@ -30,9 +82,19 @@ A target description that seems uncannily accurate produces a visceral response.
 
 Puthoff and Targ framed remote viewing as an information-transfer problem partly to escape this trap. Their experiments attempted to quantify performance. But free-response data remained semantically complicated, and critics focused on exactly that point.
 
-David Marks and Richard Kammann later published a failed replication and critique in *Nature*. They argued that they could not verify the SRI conclusions. Their later work emphasized cues in transcripts and judging procedures, claiming that supposedly blind judges could match records using ordinary information embedded in the materials.
+There is another detail in the editorial worth preserving because it predicts the next decade of argument. *Nature* suggested that paranormal experiments might need unusually austere division of labor: one group could prescribe the experiment in advance, another unassociated group could conduct it, and the first could evaluate performance afterward. The editors were reaching toward a principle now familiar from adversarial collaboration, preregistration, independent replication, and blinded analysis.
 
-Puthoff, Targ, and allies disputed the force of these criticisms. The argument became technical and personal in the way long scientific disputes often do.
+The stronger the claim, the less one should ask the same small team to design the trial, run the subject, preserve the transcript, choose the scoring system, judge the outcome, and interpret the meaning.
+
+This is not because the team is presumed dishonest.
+
+It is because every researcher knows where the interesting result is supposed to be.
+
+The experiment should be built so that knowing does not help.
+
+David Marks and Richard Kammann later published a failed replication and critique in *Nature*. Their 1978 paper said plainly that they had carried out duplicate experiments and that their results did not verify the SRI conclusions. Their later work emphasized cues in transcripts and judging procedures, claiming that supposedly blind judges could match records using ordinary information embedded in the materials.
+
+Puthoff, Targ, and allies disputed the force of these criticisms. Charles Tart, Puthoff, and Targ replied in *Nature* in 1980. The argument became technical and personal in the way long scientific disputes often do.
 
 The important fact is not that critics existed. Every consequential claim attracts critics. The important fact is that the criticism addressed a plausible ordinary mechanism that could generate apparent success.
 
@@ -42,7 +104,7 @@ If a judge can match transcripts to targets because of cues, then above-chance m
 
 This is how science should work.
 
-The problem is that public belief rarely updates as cleanly as protocols do. Once a dramatic result has entered culture, later methodological corrections become footnotes. “Published in *Nature*” is short. “Published in *Nature*, challenged by a failed replication and a transcript-cueing critique, followed by responses and later experiments with changed methods” is not.
+The problem is that public belief rarely updates as cleanly as protocols do. Once a dramatic result has entered culture, later methodological corrections become footnotes. “Published in *Nature*” is short. “Published in *Nature* after a divided referee process, accompanied by an editorial listing serious design objections, then challenged by a failed replication and transcript-cueing criticism, followed by responses and later experiments with changed methods” is not.
 
 Puthoff’s biography is full of truths too long for slogans.
 
@@ -95,6 +157,8 @@ That strategy can produce valuable negative knowledge. It can also create decade
 The 1974 *Nature* paper is therefore not a verdict.
 
 It is a document showing that the question survived one gate.
+
+The journal itself said so, in effect, on the morning it published it.
 
 The next gate was replication.
 
