@@ -26,6 +26,12 @@ The central problem is not that only three cases were found. The central problem
 
 A normal chest film is a present observation. It is not a negative twenty-year follow-up compressed into one afternoon.
 
+Later judicial reconstructions of the Fleischer study make the denominator problem unusually concrete: about **95 percent of the 1,074 workers had been in the trade for less than ten years**. All three diagnosed cases, by contrast, had more than twenty years in pipe covering.
+
+Nineteen out of every twenty men in the headline denominator therefore sat on the short-tenure side of a disease already understood to favor prolonged exposure.
+
+That does not make the 1,071 negative examinations fake. It changes what they can mean.
+
 When a disease emerges slowly, the meaning of a negative examination depends on time since first exposure and cumulative dose. If an employee has worked around asbestos for two years, the absence of radiographic fibrosis may be exactly what one would expect even under a harmful exposure regime. Counting that worker as evidence against future asbestosis inflates the reassuring denominator.
 
 The paper's own positive cases should have warned against this compression because all three occurred among men with long trade histories.
@@ -36,13 +42,19 @@ It was.
 
 Asbestosis was already understood as a disease associated with substantial exposure and often prolonged employment. British and American literature had described workers becoming symptomatic or radiographically abnormal after years in dusty industries. The investigators themselves had occupational histories. The fact that the three identified cases had more than twenty years in pipe covering was presented in the paper. Time was not hidden from them.
 
-What the paper did not do was let time dominate the conclusion.
+Nor was cumulative exposure entirely absent from their own discussion. Later courts quoting the paper preserved an important caveat: the dust samples did not provide a composite picture of what a pipe coverer might breathe over years, and if men worked steadily in operations with consistently high asbestos-dust concentrations, the incidence of asbestosis would have been considerably greater.
+
+That caveat matters because it prevents an easy retrospective caricature.
+
+The investigators did not literally believe that a few spot measurements plus three cases could describe every worker's lifetime dose. The paper contained the seeds of the narrower conclusion it should have made.
+
+What it did not do was let those seeds govern the headline.
 
 There is a subtle psychological reason this happens in large surveys. Large numbers feel like strong evidence. A thousand is impressive. It can make a reader forget that a cohort can be large in people and small in person-years at meaningful latency. Statistical information has dimensions. Sample size is only one.
 
 The wartime workforce made the distortion worse. Naval construction had expanded rapidly. Many pipe coverers had entered the trade during the buildup or war. A study performed in 1945 was necessarily sampling a great deal of recent exposure. The war had created a population ideal for asking what immediate respiratory effects were visible. It was much less useful for asking what the work would do over a career.
 
-A recent 2026 historical critique has argued that this flaw was severe enough to make the study's broad reassurance scientifically untenable. That paper arrives with its own retrospective perspective and should not be treated as the final word simply because it is recent. But the basic criticism does not depend on modern moral standards. It depends on the logic of latency.
+A recent 2026 historical critique has argued that this flaw was severe enough to make the study's broad reassurance scientifically untenable. That paper arrives with its own retrospective perspective and should not be treated as the final word simply because it is recent. But the basic criticism does not depend on modern moral standards. It depends on the logic of latency and on a denominator we can now state numerically.
 
 The other weakness is diagnostic sensitivity.
 
@@ -80,7 +92,7 @@ That is normal for the era.
 
 What is less defensible is using a coarse exposure picture to make a fine statement about safety.
 
-The sentence endured partly because institutions prefer conclusions that can be detached from methods. "Three cases among 1,074" is portable. "Most of the denominator had insufficient latency, exposure measurement was task-based, radiography had limited sensitivity, and some operations exceeded the recommended dust concentration" is not.
+The sentence endured partly because institutions prefer conclusions that can be detached from methods. "Three cases among 1,074" is portable. "Ninety-five percent had less than ten years in the trade, all three cases had more than twenty years, exposure measurement was task-based, radiography had limited sensitivity, and some operations exceeded the recommended dust concentration" is not.
 
 Once the short version enters a policy file, it can become more authoritative with each repetition.
 
@@ -126,7 +138,7 @@ The absence of a perfect study, however, does not require a strong conclusion.
 
 Uncertainty can be an output.
 
-The paper could have said the current survey does not show a high prevalence of asbestosis but cannot determine long-term risk because most workers have relatively short exposure histories. It could have recommended continued surveillance of long-tenure employees and follow-up of the wartime cohort. It could have treated the three twenty-year cases as evidence that time matters rather than as reassurance that only unusual veterans become sick.
+The paper could have said the current survey does not show a high prevalence of asbestosis but cannot determine long-term risk because most workers have relatively short exposure histories. It could have recommended continued surveillance of long-tenure employees and follow-up of the wartime cohort. It could have treated the three twenty-year cases not as evidence that only unusual veterans were at risk but as a warning about where the younger men might be headed.
 
 This would not have stopped shipbuilding in January 1946.
 
