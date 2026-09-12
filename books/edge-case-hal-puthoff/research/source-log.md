@@ -46,13 +46,24 @@ Working source trail for *Edge Case*. Links are preserved as usable research pat
 - CENTER LANE approval/history file CIA-RDP96-00788R001700280006-9. Preserves human-use questions, program-management transitions, cautious fiscal-support language and 1983–84 institutional posture: https://www.cia.gov/readingroom/document/cia-rdp96-00788r001700280006-9
 - DIA 1984 *Psychoenergetics Research*, CIA-RDP96-00788R001800210001-0, distinguishes Army operational/training interests from DIA R&D, countermeasure and threat-assessment work: https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001800210001-0.pdf
 
-## Zero-point / vacuum / propulsion
+## Zero-point / hydrogen / inertia / vacuum extraction
 
 - Harold E. Puthoff, “Ground state of hydrogen as a zero-point-fluctuation-determined state,” *Physical Review D* 35 (1987), 3266: https://doi.org/10.1103/PhysRevD.35.3266 ; APS abstract: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.35.3266
+- Timothy H. Boyer, “Random electrodynamics: The theory of classical electrodynamics with classical electromagnetic zero-point radiation,” *Physical Review D* 11 (1975), 790: https://doi.org/10.1103/PhysRevD.11.790
+- Timothy H. Boyer, “Stochastic Electrodynamics: The Closest Classical Approximation to Quantum Theory,” *Atoms* 7 (2019), 29: https://doi.org/10.3390/atoms7010029 . Proponent review with useful description of SED successes and the disputed hydrogen/self-ionization problem.
+- G. Jordan Maclay, “The Role of Vacuum Fluctuations and Symmetry in the Hydrogen Atom in Quantum Mechanics and Stochastic Electrodynamics,” *Atoms* 7 (2019), 39: https://doi.org/10.3390/atoms7020039 . Reviews the hydrogen atom as a critical SED challenge; numerical work can avoid collapse yet self-ionize.
+- L. de la Peña and A. M. Cetto, “The Foundations of Linear Stochastic Electrodynamics,” *Foundations of Physics* 36 (2006), 350–368: https://doi.org/10.1007/s10701-005-9020-1 . Authors sympathetic to the vacuum-particle program describe failures of older SED on nonlinear systems and motivation for reformulation.
+- Daniel C. Cole and Harold E. Puthoff, “Extracting energy and heat from the vacuum,” *Physical Review E* 48 (1993), 1562: https://doi.org/10.1103/PhysRevE.48.1562
+- Garret Moddel and Olga Dmitriyeva, “Extraction of Zero-Point Energy from the Vacuum: Assessment of Stochastic Electrodynamics-Based Approach as Compared to Other Methods,” *Atoms* 7 (2019), 51: https://doi.org/10.3390/atoms7020051 . Separates extraction mechanisms; concludes nonlinear rectification and mechanical Casimir cycling conflict with equilibrium thermodynamics in the forms analyzed, while an atom-pumping approach remains not reliably demonstrated.
 - Bernhard Haisch, Alfonso Rueda, and H. E. Puthoff, “Inertia as a zero-point-field Lorentz force,” *Physical Review A* 49 (1994), 678–694: https://doi.org/10.1103/PhysRevA.49.678
 - Yefim S. Levin, “Inertia as a zero-point-field force: Critical analysis of the Haisch-Rueda-Puthoff inertia theory,” *Physical Review A* 79 (2009), 012114: https://doi.org/10.1103/PhysRevA.79.012114 ; APS record: https://journals.aps.org/pra/abstract/10.1103/PhysRevA.79.012114
+- Harold E. Puthoff, “Polarizable-Vacuum Approach to General Relativity,” 2002 conference version: https://doi.org/10.1007/0-306-48052-2_44 . The abstract says the formulation reproduces standard weak-field predictions while diverging in strong-field regimes, making observational comparison essential.
 - Harold E. Puthoff, “Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering,” arXiv / later DIA Defense Intelligence Reference Document lineage: https://arxiv.org/abs/1204.2184
 - DIA, “Concepts for Extracting Energy From the Quantum Vacuum,” public electronic reading-room record: https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/
+
+## EarthTech device testing
+
+- Scott R. Little, “Null Tests of Breakthrough Energy Claims,” AIAA 2006-4909, 42nd AIAA/ASME/SAE/ASEE Joint Propulsion Conference, July 2006, DOI https://doi.org/10.2514/6.2006-4909 . Public author-uploaded copy: https://www.researchgate.net/publication/228821628_Null_Tests_of_Breakthrough_Energy_Claims . This is a crucial failure-heavy source: EarthTech reports years of unsuccessful Shoulders charge-cluster replication; null Potapov/cavitation results; approximately 99% ± 1% energy balance in another cavitation device; discovery of incorrect input-power measurement in a sonofusion claim; 48 null in-house sonofusion runs; and unsuccessful Casimir/hydrogen ground-state-shift experiments at the University of Wisconsin–Madison synchrotron.
 - EarthTech bibliography and technical materials: https://earthtech.org/
 
 ## NIDS / Bigelow
