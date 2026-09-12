@@ -1,0 +1,13 @@
+# Back Matter
+
+This draft is an institutional biography, not an adjudication of every UAP, Skinwalker Ranch, parapsychology, near-death, or mediumship claim associated with Robert Bigelow's orbit. The evidentiary unit is deliberately small: a document, a contract, a launch, a public statement, a reported observation, a study, a chain of custody, a later official conclusion. The manuscript resists collapsing those units into one metaphysical answer.
+
+The strongest documentary spine is public: NASA's expandable-habitat record; UNLV's contemporaneous Bigelow Chair announcements; Defense Intelligence Agency procurement, contract-status, deliverable-review, and special-access-program records; AARO's historical assessment; Robert Bigelow's own public statements; and the Bigelow Institute for Consciousness Studies' unusually explicit account of its premises, judges, prizes, and later mediumship challenge.
+
+The weakest areas are equally important to name. NIDS did not leave a complete public archive adequate to reconstruct its entire case denominator. Skinwalker Ranch accounts remain heavily dependent on participant and witness narrative. The exact authorization and billing chain connecting every AAWSAP-era field activity to the government statement of objectives is not fully public in one coherent record. Modern recovery and reverse-engineering allegations around the broader UAP ecosystem remain disputed where independent public confirmation is absent. Survival-of-consciousness research spans multiple literatures with different methods and failure modes; a prize competition is not a substitute for independent experimental replication.
+
+The book's research folder therefore includes an evidence matrix, chronology, contradiction and incentive audit, document appendix, source log, bibliography, defeat conditions, and a research appendix identifying the records and tests most likely to change the manuscript.
+
+A future source-driven expansion should deepen scenes and technical detail rather than repeat the book's epistemic argument. The highest-value additions are original NIDS records if lawfully available; complete AAWSAP proposal/contract/modification/invoice chains; detailed DIRD author-by-author evaluation; contemporaneous aerospace engineering records; independent mediumship and near-death replication literature; and interviews that can be cross-checked against documents.
+
+The working rule remains simple: if an extraordinary claim is real, stronger custody and stronger controls should help it. The point of rigor is not to make the world ordinary. It is to make a genuinely strange result hard to explain away.
