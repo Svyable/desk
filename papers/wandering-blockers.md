@@ -726,13 +726,25 @@ Now fix \(K\). Any blocker for \(\mathcal H_j\) must contain every vertex of \(F
 
 Every such \(F_j\) contains its minimum, which lies in \(\{1,\ldots,K\}\). A pairwise disjoint family of such sets can therefore contain at most \(K\) members. No infinite bounded disjoint blocker family exists.
 
-Finally, protect the first \(M\) vertices,
+For an arbitrary finite anchor \(T\), let
 
 \[
-T_M=\{1,\ldots,M\}.
+m=\min(V\setminus T).
 \]
 
-Any target whose blocker avoids \(T_M\) has minimum at least \(M+1\), hence blocker size at least \(M+1\). There are infinitely many members of \(\mathcal S\) with minimum exactly \(M+1\) and avoiding \(T_M\), so the corresponding anchored liminf is \(M+1\). Thus every fixed anchor has finite recurring blocker size, but the required size grows without bound with \(M\). ∎
+There are infinitely many members \(F\in\mathcal S\) with \(\min F=m\) that avoid \(T\): choose the remaining \(m-1\) vertices arbitrarily far above \(\max T\). For each corresponding hypergraph, the free edges are the same singleton edges because \(F\cap T=\varnothing\), so its anchored blocker number is exactly
+
+\[
+|F|=m.
+\]
+
+Thus every fixed finite anchor has finite anchored blocker liminf. On the other hand, for
+
+\[
+T_M=\{1,\ldots,M\},
+\]
+
+any target with finite anchored blocker must come from an \(F\) disjoint from \(T_M\), hence has \(\min F\ge M+1\) and blocker size at least \(M+1\). Infinitely many such \(F\) have minimum exactly \(M+1\). Therefore the anchored liminf for \(T_M\) is exactly \(M+1\), and these values are unbounded. ∎
 
 This abstract model reproduces exactly the logical gap between Proposition 5.1 and the Wandering Blocker Conjecture.
 
@@ -973,7 +985,7 @@ The elementary averaging argument for thin bases is not advertised as a deep new
 
 Searches included combinations of “necessary subset,” “essential subset,” “minimal asymptotic basis,” “infinite deletion,” “blocker,” “transversal,” “pairwise disjoint necessary subsets,” “representation hypergraph,” and recent papers on robust and minimal additive bases. The 1989 Erdős–Nathanson proof and current 2026 work were inspected directly.
 
-Before journal submission, the terminology and invariant should be checked against MathSciNet and zbMATH and circulated to specialists. The safe claim is that this note formulates and develops a uniform finite-obstruction invariant for the infinite-deletion hypothesis; it is not a claim that blockers, transversals, or finite necessary sets themselves are new.
+The terminology and invariant should still be checked against MathSciNet and zbMATH and circulated to specialists before any journal-level priority claim. The safe claim is that this note formulates and develops a uniform finite-obstruction invariant for the infinite-deletion hypothesis; it is not a claim that blockers, transversals, or finite necessary sets themselves are new.
 
 ## 18. What would count as a resolution
 
