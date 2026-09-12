@@ -6,7 +6,7 @@
 |---|---|
 | **Author** | Sven Hardy Benson |
 | **Status** | Drafting |
-| **Chapters** | 1 of 18 drafted |
+| **Chapters** | 3 of 18 drafted |
 
 There is no obvious number after which a person becomes too rich to want another dollar, too accomplished to want another win, too admired to want another room to notice, too optimized to stop tracking, too productive to close the laptop, or too powerful to stop expanding the perimeter of control.
 
@@ -32,8 +32,8 @@ The point is to understand why the number moves.
 
 - [x] [Front Matter — The Number After Enough](manuscript/front-matter.md)
 - [x] [Ch 1 — The Number That Moved](manuscript/ch01-the-number-that-moved.md) — income, happiness, and the danger of a universal threshold
-- [ ] Ch 2 — Adaptation — how yesterday's luxury becomes today's baseline
-- [ ] Ch 3 — The Next Person Over — positional goods and social comparison
+- [x] [Ch 2 — Adaptation](manuscript/ch02-adaptation.md) — how yesterday's luxury becomes today's baseline
+- [x] [Ch 3 — The Next Person Over](manuscript/ch03-the-next-person-over.md) — positional goods and social comparison
 - [ ] Ch 4 — The Moving Goalpost — aspiration, reference groups, and the promotion that resets the problem
 
 ### Part II — Machines for Wanting More
