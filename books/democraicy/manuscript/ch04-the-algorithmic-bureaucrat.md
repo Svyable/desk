@@ -1,61 +1,11 @@
 # The Algorithmic Bureaucrat
 
-Much of government is not dramatic politics.
+Much of government is not dramatic politics. It is administration: determining eligibility, reviewing permits, allocating resources, inspecting records, collecting taxes, processing applications, answering questions, and enforcing regulations. These are precisely the kinds of activities AI systems can increasingly assist.
 
-It is administration.
+The benefits could be immense. Government services could operate continuously. Forms could largely disappear if citizens could speak naturally to public systems. Benefits could reach eligible people automatically, fraud could become easier to detect, rules could be translated instantly into every major language, and complex tax codes could become more navigable by ordinary citizens.
 
-Determining eligibility.
+Efficiency, however, creates a dangerous temptation. If a machine can make a decision faster, why involve a person? The question becomes serious when the decision affects liberty, money, employment, immigration, healthcare, housing, or legal status. An opaque restaurant recommendation is annoying at worst. An opaque decision denying a citizen a benefit is an exercise of public power.
 
-Reviewing permits.
+The future administrative state will therefore require a right to meaningful explanation and appeal. A citizen must be able to discover what happened, why it happened, which rule was applied, which data was used, and where human authority ultimately resides. Speed does not compensate for a decision nobody can account for.
 
-Allocating resources.
-
-Inspecting records.
-
-Collecting taxes.
-
-Processing applications.
-
-Answering questions.
-
-Enforcing regulations.
-
-These are precisely the types of activities AI systems can increasingly assist.
-
-The benefits could be immense.
-
-Government services could operate continuously.
-
-Forms could largely disappear.
-
-Citizens could speak naturally to public systems.
-
-Benefits could reach eligible people automatically.
-
-Fraud could become easier to detect.
-
-Rules could be translated instantly into every major language.
-
-Complex tax codes could become navigable by ordinary citizens.
-
-But efficiency creates a dangerous temptation.
-
-If a machine can make a decision faster, why involve a person?
-
-This question becomes serious when the decision affects liberty, money, employment, immigration, healthcare, housing, or legal status.
-
-An algorithm that recommends a restaurant can be opaque without threatening democracy.
-
-An algorithm that denies a citizen a benefit cannot.
-
-The future administrative state will therefore require a new political right:
-
-**the right to meaningful explanation and appeal.**
-
-A citizen must be able to discover what happened, why it happened, which rule was applied, which data was used, and where human authority ultimately resides.
-
-Otherwise bureaucracy becomes extraordinarily efficient and completely illegible.
-
-The most dangerous government may not be one that says no.
-
-It may be one where nobody can explain who said no.
+A government can become extraordinarily efficient while becoming illegible to the people it governs. The danger is not simply that a system says no. It is that the state can no longer identify who, or what, made the no consequential.
