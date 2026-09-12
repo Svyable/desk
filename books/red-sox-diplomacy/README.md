@@ -8,7 +8,7 @@
 | **Status** | Drafting |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
-| **Chapters** | 12 drafted + prologue |
+| **Chapters** | 13 drafted + prologue |
 | **Form** | Documentary narrative biography |
 | **Language** | English |
 
@@ -32,7 +32,7 @@ Baseball is not imposed as a metaphor on every episode. It appears where the doc
 - [x] [Ch 10 — Bringing Baseball to Greece](manuscript/ch10-bringing-baseball-to-greece.md)
 - [x] [Ch 11 — Twelve Days](manuscript/ch11-twelve-days.md)
 - [x] [Ch 12 — Article 5](manuscript/ch12-article-5.md)
-- [ ] Ch 13 — The Clubhouse Called NATO
+- [x] [Ch 13 — The Clubhouse Called NATO](manuscript/ch13-the-clubhouse-called-nato.md)
 - [ ] Ch 14 — India: Playing the Long Game
 - [ ] Ch 15 — Iran: When Patience Does Not Win
 - [ ] Ch 16 — October 2004
