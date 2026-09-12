@@ -63,20 +63,58 @@ Reader is branch-served static Pages and is an optional convenience surface,
 not a prerequisite for writing or releasing. The normal release helper and
 `scripts/check-desk.py` run locally with Python's standard library.
 
-## Voice
+## Voice and prose quality
 
 - For book, essay, narrative, or other voice-sensitive prose tasks, read and apply
-  `.agents/skills/human-prose/SKILL.md` before drafting, reviewing, or editing.
-- Preserve the author's voice, tense, and rhythm. Match the surrounding
-  sentences, not a house style you brought with you.
+  `.agents/skills/human-prose/SKILL.md` **and** `docs/prose-authoring-standard.md`
+  before drafting, reviewing, or editing.
+- The prose standard is an authoring requirement, not merely a cleanup rubric.
+  Do not knowingly hand downstream a draft full of problems that a later
+  anti-slop pass is expected to repair.
+- Preserve the author's voice, tense, rhythm, judgment, and useful
+  idiosyncrasies. Match the surrounding manuscript, not a house style you
+  brought with you.
+- Draft chapters as developed prose, not outlines expanded sentence by
+  sentence. Combine adjacent choppy lines and one-sentence paragraphs when they
+  are fragments of the same thought. Paragraph breaks should mark a real change
+  in idea, pressure, time, speaker, scene, or argumentative function.
+- Build narrative movement even in analytical nonfiction. Prefer concrete
+  event, mechanism, decision, document, person, or constraint before abstraction;
+  let pressure and consequence earn the principle. Do not invent scenes,
+  dialogue, motives, sensory detail, or biography to create drama.
+- Use fewer examples more deeply. Do not turn chapters into catalogs of famous
+  cases, risks, policy options, rhetorical questions, or near-synonymous
+  considerations. A list is justified only when the categories themselves are
+  useful.
+- Control repetition across the book. Before drafting, know what earlier
+  chapters have already established. When a theme recurs, advance it with a new
+  mechanism, exception, cost, actor, case, or consequence rather than
+  rediscovering the same lesson.
+- Avoid canned symmetry and synthetic gravitas: repeated `not X but Y`
+  constructions, stacked triads, strings of short declarative sentences,
+  question inventories, presentation voice, generic reveals, and aphorisms used
+  as scaffolding. Em dashes are punctuation, not an automatic rhythm engine.
+- Earn endings. Do not close every section or chapter by restating the thesis,
+  issuing a policy checklist, previewing the next chapter like a presentation,
+  or stamping a polished slogan onto material that has already landed.
+- Preserve uncertainty where the evidence is uncertain. Never invent a quote,
+  attribution, statistic, consensus, causal claim, source, or biographical
+  detail to make prose feel complete.
 - Do not substitute synonyms "for clarity" unless the author asked for that.
 - Do not add headings, lists, or emphasis the surrounding chapter does not
   already use.
+- Before committing voice-sensitive prose, perform a dedicated anti-slop pass
+  and a paragraph pass using `docs/prose-authoring-standard.md`. If the chapter
+  still reads like an expanded outline, repeated framework, slide deck, or
+  generic model performance, it is not ready.
 
 ## Markdown
 
 - Chapters are a single `# Title` heading, then paragraphs. No YAML front
   matter. No HTML comments in chapter files.
+- Manuscript formatting is prose-first. Do not simulate subheads with bold lead
+  phrases, turn short sentences into visual lists, or use typography to create
+  importance the prose has not earned.
 - Book READMEs are an info table plus a checkbox table of contents. No YAML
   front matter.
 - Follow existing naming: `books/<slug>/`, `chNN-slug.md`, `front-matter.md`,
@@ -110,9 +148,14 @@ authors, `Status: Drafting`. Add the book to the root `## The books` catalog and
 the chapter-feedback Book dropdown, then run `python3 scripts/check-desk.py`.
 
 **Write / edit.** Write or edit the chapter files requested by the task. A
-change may contain one chapter or a coherent batch. If you add, rename, or
-remove chapters, update that book's README TOC and Chapters count in the same
-change. Keep unrelated prose and tooling out of the batch.
+change may contain one chapter or a coherent batch. Before drafting, read enough
+surrounding manuscript to know the current voice, argument, recurring examples,
+and what earlier chapters have already earned. Use the project's research where
+it exists rather than filling gaps with unsupported general knowledge. Draft
+for argument and narrative movement, then perform the required anti-slop and
+paragraph passes before committing. If you add, rename, or remove chapters,
+update that book's README TOC and Chapters count in the same change. Keep
+unrelated prose and tooling out of the batch.
 
 **Check Desk.** Run `python3 scripts/check-desk.py`. It verifies that real book
 folders, Reader catalog rows, direct Reader slugs, the feedback dropdown, and
