@@ -3,7 +3,9 @@
 
 from __future__ import annotations
 
+import hashlib
 import importlib.util
+import json
 import re
 import subprocess
 import sys
@@ -12,6 +14,9 @@ from types import ModuleType
 
 HERE = Path(__file__).resolve().parent
 FEEDBACK_REL = ".github/ISSUE_TEMPLATE/chapter-feedback.yml"
+PROVENANCE_NAME = "release.json"
+PROVENANCE_SCHEMA = "svyable-release-v1"
+PAYLOAD_ALGORITHM = "sha256-tree-v1"
 
 
 def load_script(filename: str, module_name: str) -> ModuleType:
@@ -73,6 +78,82 @@ def rollback_release(root: Path, slug: str) -> None:
         "sitemap.xml",
     ):
         restore_clean_release_path(root, rel)
+
+
+def imprint_repository(root: Path, label: str) -> dict[str, str]:
+    path = root / "imprint.json"
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError) as exc:
+        raise ReleaseError(f"could not read {label} imprint repository identity: {exc}") from exc
+    github = data.get("github") or {}
+    owner = str(github.get("owner") or data.get("owner") or "").strip()
+    repo = str(github.get("repo") or data.get("repo") or "").strip()
+    if not owner or not repo:
+        raise ReleaseError(f"{label} imprint must declare a GitHub owner and repo")
+    return {"owner": owner, "repo": repo}
+
+
+def publication_payload_manifest(root: Path, slug: str) -> dict[str, str]:
+    manifest = release_core.file_manifest(root / "books" / slug, exclude_readme=True)
+    # release.json is destination-owned provenance, never part of the authored payload.
+    manifest.pop(PROVENANCE_NAME, None)
+    return manifest
+
+
+def publication_payload_digest(manifest: dict[str, str]) -> str:
+    canonical = json.dumps(
+        manifest,
+        sort_keys=True,
+        separators=(",", ":"),
+        ensure_ascii=False,
+    ).encode("utf-8")
+    return hashlib.sha256(canonical).hexdigest()
+
+
+def prepare_release_provenance(
+    desk: Path,
+    shelf: Path,
+    slug: str,
+    source_commit: str,
+) -> str:
+    if not re.fullmatch(r"[0-9a-f]{40}", source_commit):
+        raise ReleaseError(f"Desk source commit is not a full Git SHA: {source_commit!r}")
+
+    source_files = publication_payload_manifest(desk, slug)
+    shelf_files = publication_payload_manifest(shelf, slug)
+    if source_files != shelf_files:
+        raise ReleaseError(
+            "cannot record release provenance: Shelf publication payload no longer "
+            "byte-matches the committed Desk snapshot"
+        )
+
+    source_repo = imprint_repository(desk, "Desk")
+    destination_repo = imprint_repository(shelf, "Shelf")
+    relative = f"books/{slug}"
+    data = {
+        "schema": PROVENANCE_SCHEMA,
+        "source": {
+            **source_repo,
+            "commit": source_commit,
+            "path": relative,
+        },
+        "destination": {
+            **destination_repo,
+            "path": relative,
+        },
+        "payload": {
+            "algorithm": PAYLOAD_ALGORITHM,
+            "digest": publication_payload_digest(source_files),
+            "files": len(source_files),
+        },
+    }
+    text = json.dumps(data, indent=2, ensure_ascii=False) + "\n"
+    path = shelf / relative / PROVENANCE_NAME
+    release_core.atomic_write(path, text)
+    if path.read_text(encoding="utf-8") != text:
+        raise ReleaseError("Shelf release provenance verification failed")
+    return path.relative_to(shelf).as_posix()
 
 
 def upsert_feedback_option(markdown: str, slug: str) -> tuple[str, str]:
@@ -216,6 +297,12 @@ def prepare_release(desk: Path, shelf: Path, slug: str) -> dict[str, str | int]:
 
     result = release_core.prepare_release(desk, shelf, slug)
     try:
+        provenance_path = prepare_release_provenance(
+            desk,
+            shelf,
+            slug,
+            str(result["source_commit"]),
+        )
         feedback_action = prepare_feedback_registration(shelf, slug)
         total, changed, canonical = publication_web(shelf, slug)
     except Exception as exc:
@@ -231,6 +318,7 @@ def prepare_release(desk: Path, shelf: Path, slug: str) -> dict[str, str | int]:
 
     return {
         **result,
+        "provenance_path": provenance_path,
         "feedback_action": feedback_action,
         "publication_files": total,
         "publication_changed": changed,
@@ -261,6 +349,7 @@ def main(argv: list[str]) -> int:
     print(f"Desk snapshot: {result['source_commit']}")
     print(f"Shelf branch: {result['shelf_branch']}")
     print(f"Catalog: {result['catalog_action']}")
+    print(f"Release provenance: {result['provenance_path']}")
     print(f"Chapter feedback: {result['feedback_action']}")
     print(
         "Publication web: "
@@ -269,9 +358,9 @@ def main(argv: list[str]) -> int:
     if result.get("canonical_url"):
         print(f"Canonical URL: {result['canonical_url']}")
     print(
-        "Verified: Shelf content matches the committed Desk snapshot and the "
-        "Published catalog, chapter-feedback registration, canonical publication "
-        "pages, and sitemap are current."
+        "Verified: Shelf publication payload matches the committed Desk snapshot; "
+        "release provenance, Published catalog state, chapter-feedback registration, "
+        "canonical publication pages, and sitemap are current."
     )
     print("Nothing was committed or pushed.")
     print()
