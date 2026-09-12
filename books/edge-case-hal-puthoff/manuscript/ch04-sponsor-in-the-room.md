@@ -4,7 +4,7 @@ The Central Intelligence Agency did not need to believe in psychic powers to be 
 
 That is the cleanest way to understand why the SRI work escaped the laboratory.
 
-In the summer of 1972, according to the CIA’s own later public history, the Agency began investigating remote viewing with outside researchers. The motive lived inside the Cold War. U.S. intelligence had collected information about Soviet and Eastern European interest in parapsychology. If an adversary was spending money on a capability that sounded absurd, the United States had several choices: ignore it, mock it, imitate it, or find out whether anything was there.
+In the summer of 1972, according to the CIA’s own later public history and internal program records, the Agency began investigating remote viewing with outside researchers. The motive lived inside the Cold War. U.S. intelligence had collected information about Soviet and Eastern European interest in parapsychology. If an adversary was spending money on a capability that sounded absurd, the United States had several choices: ignore it, mock it, imitate it, or find out whether anything was there.
 
 Intelligence organizations are professionally bad at ignoring low-probability threats.
 
@@ -16,11 +16,97 @@ The habitat is easy to misread from outside. Classification makes a project look
 
 Remote viewing entered that habitat.
 
-The SRI researchers called one early sponsor-controlled effort SCANATE, a name associated with “scanning by coordinates.” Government personnel selected or protected target information. Subjects attempted to describe sites. The design addressed the objection that investigators could consciously or unconsciously cue targets they already knew. This was an important improvement, and it produced the kind of results that kept people returning.
+The CIA’s first steps were small enough to show uncertainty rather than conviction. An $874 demonstration. A $2,500 follow-on. Then roughly $50,000 for an expanded SRI effort. That progression belongs to the sponsor story because it reveals the logic of intelligence experimentation: preserve the option to spend more after an inexpensive test.
 
-One should resist the urge to make those results cleaner than they were.
+The amounts later grew. More agencies appeared. Names changed. The network of interested officials outlived individual contracts.
 
-Declassified files include summaries of striking sessions and ordinary failures. A 1978 Army remote-viewing report, for example, explicitly says a particular viewer’s impressions showed “absolutely no target correlation.” That sentence is more valuable than ten legends because it proves the archive is not merely a victory scrapbook. Remote viewing sessions could miss badly.
+This is where “the CIA psychic program” becomes historically inaccurate.
+
+CIA ended its direct research involvement in 1977. Its own current retrospective says the work then moved into the Defense Intelligence Agency and other Defense Department structures. The Army’s declassified histories make the handoff look less like one baton pass than a set of overlapping programs with different reasons for caring.
+
+Army interest had its own prehistory. A declassified Army memorandum says military medical intelligence and DIA had been studying Soviet-bloc psychoenergetics since 1972. In 1976 the Army’s Missile Intelligence Agency expressed interest in attempting to replicate claimed Soviet psychokinesis work. SRI developed a small effort, and in August 1977 the Army awarded SRI an $80,000 one-year research-and-development contract.
+
+Meanwhile, the Army Materiel Systems Analysis Activity—AMSAA—was becoming interested in remote viewing.
+
+A 1978–80 GRILL FLAME history records a wonderfully bureaucratic moment on March 21, 1978: Puthoff gave two presentations to AMSAA. One was at the SECRET controlled-access level for a small group of managers. Another, also SECRET, went to roughly forty interested staff members. According to the memorandum, those talks provided the impetus for further exploration of SRI’s work.
+
+The sponsor was no longer merely watching an odd civilian research program.
+
+The Army was asking whether it could use the thing.
+
+That distinction matters.
+
+Scientific validation asks whether a phenomenon exists under specified conditions.
+
+Military application asks whether a phenomenon can accomplish a task.
+
+A capability can look marginal under the first standard and irresistible under the second if even a small edge has high value. Intelligence organizations routinely use noisy sources: informants lie, imagery is incomplete, signals are ambiguous, defectors mix truth with self-protection. The institution does not demand philosophical purity. It asks whether the source improves the picture.
+
+In April 1978, according to the Army history, DARCOM gave tacit approval to help sustain the work and obtain data on tactical ground targets. In May, AMSAA transferred $100,000 through the Air Force’s Foreign Technology Division for SRI to continue investigations into military applications of remote viewing.
+
+The increase in funding does not tell us that the effect had become stronger.
+
+It tells us the question had become operationally interesting.
+
+That same spring, Army officials approved an in-house remote-viewing effort. By July, the Army adopted the unclassified nickname GRILL FLAME to replace open references to parapsychology. The research subject itself became SECRET NOFORN under need-to-know controls.
+
+Classification now begins to produce the optical illusion that has followed the program ever since.
+
+GRILL FLAME was secret.
+
+Therefore, the phenomenon must have worked.
+
+But the declassified paperwork tells a more complicated story. The secrecy protected Army interest, methods, targets, and the fact that military personnel were being selected and trained. The same files contain administrative uncertainty, arguments over human-subject status, attempts to define training methods, efforts to distinguish good data from bad, and records of outright failure.
+
+A secret research program can be genuinely uncertain.
+
+The Army’s internal program history makes that uncertainty unusually visible.
+
+In September 1977 an INSCOM effort called GONDOLA WISH had begun as an operations-security exercise. One purpose was to consider whether U.S. facilities might be vulnerable if foreign adversaries possessed remote-viewing capability. The name itself later disappeared into GRILL FLAME. In October 1978 Army intelligence directed INSCOM to establish a program using psychoenergetics for intelligence collection. By early 1979, personnel had been selected and training begun.
+
+The selection process was not trivial. Later Army records say 251 INSCOM personnel in the greater Baltimore–Washington area were considered. One hundred seventeen were interviewed under the cover of a survey about attitudes toward possible psychoenergetic use in intelligence. Six were eventually selected for training.
+
+Six out of 251.
+
+That ratio matters for interpretation.
+
+If later proponents say trained viewers produced anomalous results, the relevant comparison is not necessarily the average person. The program selected a tiny subset of a larger pool using criteria designed by people already seeking the capability. Selection can be legitimate—elite military units select too—but it complicates claims about general human ability and replication.
+
+The Army also encountered a question that sounds mundane until one realizes what it means: were these experiments research on human subjects?
+
+Army General Counsel advised in February 1979 that GRILL FLAME could constitute human use. The Surgeon General’s review process later characterized parts of the work as technology transfer and phenomenology validation rather than conventional research. Subsequent CENTER LANE paperwork continued to track human-use issues.
+
+This is an institutional detail with moral weight.
+
+The government was not merely asking whether information could be obtained at a distance. It was training and tasking soldiers in procedures whose psychological and physiological implications were uncertain. Even in a program built around an unverified phenomenon, ordinary research ethics did not disappear.
+
+The first operational Army remote-viewing session is listed in one program history as September 4, 1979, concerning a missing A-6E aircraft. The same chronology says the aircraft was located within a fifteen-nautical-mile radius of its actual downed location.
+
+That kind of statement is exactly how legends begin.
+
+It sounds concrete.
+
+The denominator is missing.
+
+How large was the initial search area? How many candidate locations were provided? How precise were the viewer’s statements before feedback? What other intelligence narrowed the search? How many operational sessions produced no useful localization? Was the fifteen-mile radius specified prospectively or recognized afterward as good enough?
+
+A historical memorandum can accurately record that program managers considered a session successful while still leaving open whether the method would survive a modern blinded evaluation.
+
+The sponsor’s satisfaction is evidence about sponsor satisfaction.
+
+It is not identical to effect size.
+
+This is one reason the Army files are so valuable. They preserve both enthusiasm and friction.
+
+One later session report says the viewer’s impressions had “absolutely no target correlation.” It notes that the session was the viewer’s first attempt without an interviewer and describes a modified protocol in which the beacon selected a target rather than using a randomly generated preselected one.
+
+The document is almost anti-mythological.
+
+A classified psychic-spying program produced a session in which nothing matched.
+
+The file survived.
+
+That is what a research archive should look like.
 
 The existence of misses does not disprove an effect. The proportion, scoring, and distribution matter. But operational intelligence has a harsher problem than experimental statistics. A spy cannot tell the commander which session is the hit until reality is known.
 
@@ -32,7 +118,29 @@ The laboratory wants to know whether information appears above chance. The opera
 
 Those questions are related and not equivalent.
 
-The CIA’s own retrospective account, published decades after declassification, makes the distinction unusually clear. The Agency says it stopped its direct research in 1977, after roughly five years, and the broader program continued elsewhere in the Defense Department. When the CIA revisited the program in the 1990s, it commissioned an independent evaluation. The conclusion it emphasizes is almost paradoxical: there were enough apparently accurate experiences to keep the statistical argument alive, but the phenomenon was too unreliable and inconsistent for intelligence use.
+The organizational history makes the distinction visible. In March 1980 William Perry, then Under Secretary of Defense for Research and Engineering, ordered curtailment of the particular Program 6 research money supporting parts of the effort. The Army records say he did not object to continuing non-R&D intelligence applications work.
+
+That is an extraordinary bureaucratic split.
+
+Research money: curtailed.
+
+Operational exploration: allowed to continue.
+
+It would be easy to read this as proof that operations had succeeded so well research was no longer necessary.
+
+The records do not justify that conclusion.
+
+Different budget authorities, sponsors, and institutional missions can produce different decisions without any hidden verdict about the phenomenon. The Army continued because its intelligence leadership still considered the possible application worth exploring.
+
+In 1981, management responsibility for the Army element moved to INSCOM. A joint-services GRILL FLAME committee involving DIA, Army, and initially other services attempted to define a broader program. Later documents separate DIA’s research orientation from INSCOM’s operational use. By 1982 and 1983, CENTER LANE became another name in the lineage.
+
+This is why acronym archaeology is dangerous.
+
+The names are not synonyms for one immutable experiment.
+
+Programs inherited people, techniques, targets, and assumptions while changing sponsors and mission emphasis. A result from SRI laboratory work in California, a training session at INSCOM, and an operational task for a military customer can all end up inside the same popular phrase—“Stargate proved remote viewing”—even though they answer different questions.
+
+The CIA’s own retrospective account, published decades after declassification, makes the endpoint distinction unusually clear. When the program returned to CIA review in the 1990s, the Agency required an independent evaluation. The conclusion it emphasizes is almost paradoxical: there were enough apparently accurate experiences to keep the statistical argument alive, but the phenomenon was too unreliable and inconsistent for intelligence use.
 
 That is a much more interesting outcome than either side’s slogan.
 
@@ -56,7 +164,7 @@ This is why magicians have sometimes been so useful to parapsychology. A physici
 
 SRI had strong technical people. Whether it had enough adversarial suspicion at each stage is one of the central disputes of the next decade.
 
-For intelligence sponsors, however, the bar for another contract could be lower than the bar for scientific consensus. One anomalous trial under sponsor control could justify more work. Soviet reports could justify more work. A gifted subject could justify more work. The cost remained modest.
+For intelligence sponsors, however, the bar for another contract could be lower than the bar for scientific consensus. One anomalous trial under sponsor control could justify more work. Soviet reports could justify more work. A gifted subject could justify more work. The cost remained modest relative to the strategic question.
 
 This funding ecology explains how programs survive without ever reaching closure.
 
@@ -94,6 +202,8 @@ The CIA’s interest is verified.
 
 SRI’s government-funded experiments are verified.
 
+Army and DIA sponsorship are verified.
+
 Some apparently impressive sessions are documented.
 
 Criticisms of controls are documented.
@@ -114,4 +224,4 @@ A government agency investigating remote viewing during the Cold War is already 
 
 Puthoff’s role was not to make the CIA psychic.
 
-It was to make psychic claims testable enough that the CIA could become a sponsor without first becoming a believer.
+It was to make psychic claims testable enough that the CIA, the Army, and DIA could become sponsors without first becoming believers.
