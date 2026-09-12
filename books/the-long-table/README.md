@@ -8,7 +8,7 @@
 | **Status** | Drafting |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
-| **Chapters** | 1 of 18 drafted + prologue |
+| **Chapters** | 18 of 18 drafted + prologue |
 | **Form** | Documentary narrative biography |
 | **Language** | English |
 
@@ -21,24 +21,24 @@ The book is factual nonfiction written with novelistic scene discipline. It does
 - [x] [Front Matter](manuscript/front-matter.md)
 - [x] [Prologue — The Long Table](manuscript/prologue-the-long-table.md)
 - [x] [Ch 1 — The Internship](manuscript/ch01-the-internship.md)
-- [ ] Ch 2 — Cairo
-- [ ] Ch 3 — Jerusalem
-- [ ] Ch 4 — The Secretariat
-- [ ] Ch 5 — The Wall Comes Down
-- [ ] Ch 6 — Moscow Without Moscow
-- [ ] Ch 7 — The Spokesman
-- [ ] Ch 8 — Athens
-- [ ] Ch 9 — September 12
-- [ ] Ch 10 — NATO at War
-- [ ] Ch 11 — Political Affairs
-- [ ] Ch 12 — The India Bargain
-- [ ] Ch 13 — Iran
-- [ ] Ch 14 — Leaving Government
-- [ ] Ch 15 — The Classroom
-- [ ] Ch 16 — Beijing
-- [ ] Ch 17 — The Narrow Channel
-- [ ] Ch 18 — Public Service
+- [x] [Ch 2 — Cairo](manuscript/ch02-cairo.md)
+- [x] [Ch 3 — Jerusalem](manuscript/ch03-jerusalem.md)
+- [x] [Ch 4 — The Secretariat](manuscript/ch04-the-secretariat.md)
+- [x] [Ch 5 — The Wall Comes Down](manuscript/ch05-the-wall-comes-down.md)
+- [x] [Ch 6 — Moscow Without Moscow](manuscript/ch06-moscow-without-moscow.md)
+- [x] [Ch 7 — The Spokesman](manuscript/ch07-the-spokesman.md)
+- [x] [Ch 8 — Athens](manuscript/ch08-athens.md)
+- [x] [Ch 9 — September 12](manuscript/ch09-september-12.md)
+- [x] [Ch 10 — NATO at War](manuscript/ch10-nato-at-war.md)
+- [x] [Ch 11 — Political Affairs](manuscript/ch11-political-affairs.md)
+- [x] [Ch 12 — The India Bargain](manuscript/ch12-the-india-bargain.md)
+- [x] [Ch 13 — Iran](manuscript/ch13-iran.md)
+- [x] [Ch 14 — Leaving Government](manuscript/ch14-leaving-government.md)
+- [x] [Ch 15 — The Classroom](manuscript/ch15-the-classroom.md)
+- [x] [Ch 16 — Beijing](manuscript/ch16-beijing.md)
+- [x] [Ch 17 — The Narrow Channel](manuscript/ch17-the-narrow-channel.md)
+- [x] [Ch 18 — Public Service](manuscript/ch18-public-service.md)
 
 ## Research
 
-The initial source ledger prioritizes official biographical records and will expand into diplomatic oral histories, archived speeches, confirmation materials, FRUS, memoirs, contemporaneous reporting, and other primary or near-primary records before later chapters are drafted.
+The first-pass manuscript is complete. The next editorial pass will deepen the source ledger with diplomatic oral histories, archived speeches, confirmation materials, FRUS, memoirs, contemporaneous reporting, and other primary or near-primary records; strengthen documented dramatic centers; and test every biographical and causal claim before release.
