@@ -68,6 +68,10 @@ not a prerequisite for writing or releasing. The normal release helper and
 - For book, essay, narrative, or other voice-sensitive prose tasks, read and apply
   `.agents/skills/human-prose/SKILL.md` **and** `docs/prose-authoring-standard.md`
   before drafting, reviewing, or editing.
+- Use `docs/reading-benchmarks.md` for the author's narrative and research
+  ambitions. Aim for captivating, consequential storytelling and explanations
+  supported by checkable evidence, while preserving Sven's own voice. The named
+  reading references guide craft ambitions; they do not certify factual claims.
 - The prose standard is an authoring requirement, not merely a cleanup rubric.
   Do not knowingly hand downstream a draft full of problems that a later
   anti-slop pass is expected to repair.

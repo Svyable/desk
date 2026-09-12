@@ -22,6 +22,12 @@ its reader promise, whether chapters advance rather than repeat the argument,
 whether its principal cases and counterevidence are developed, and whether the
 voice remains particular to the author and subject.
 
+Use the [reading benchmarks](reading-benchmarks.md) to assess sustained reader
+interest alongside factual and structural integrity. Cite concrete passages that
+earn attention and stretches that lose it; distinguish the need for better
+storytelling from the need for stronger evidence. Admiration for a reference
+author does not replace a source check or a specific editorial judgment.
+
 Use the existing editorial/research review location. Record what manuscript
 scope or revision was read, concrete passage-level evidence for the readiness
 judgment, and any unresolved defect with its next action. Reassess affected
