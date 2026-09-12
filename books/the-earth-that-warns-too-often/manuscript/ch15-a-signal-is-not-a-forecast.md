@@ -141,3 +141,59 @@ Most controversy in this field comes from skipping one of those steps.
 The Earth may produce signals before rupture.
 
 The hardest question is how much future they actually remove.
+
+## What a Real Forecast Looks Like
+
+There is a useful control experiment running in public right now.
+
+The U.S. Geological Survey already issues operational aftershock forecasts after significant earthquakes. The system is not a precursor detector. It begins with something earthquake science knows how to use: an earthquake catalog, a mainshock, a decaying sequence and statistical regularities measured across many prior sequences.
+
+The output is not `high risk`.
+
+It is a table.
+
+Magnitude threshold. Time window. Probability of one or more events. Expected count. Model parameters. Update time.
+
+A 2026 USGS forecast after an M5.0 earthquake south-southwest of Unalaska, Alaska, for example, gave the probability of at least one M5-or-larger aftershock as roughly **1 in 30,000 within one day**, **1 in 4,000 within one week**, **1 in 1,000 within one month**, and **1 in 200 within one year**. The same product simultaneously gave probabilities for M3+, M4+, M6+ and M7+ events.
+
+Nothing about those numbers sounds like prophecy.
+
+That is why they are useful.
+
+The USGS system uses statistical aftershock models descended from Reasenberg-Jones and, in some cases, ETAS-style models. The forecast can begin with generic parameters for the relevant tectonic setting and then update as the actual sequence produces data. In the Bayesian version, the generic model becomes a prior and the observed aftershocks update the productivity estimate.
+
+This is what operationalization looks like.
+
+The model declares its target variable. It declares its time horizon. It declares its magnitude threshold. It can be wrong in a way that can be scored.
+
+An electromagnetic precursor worthy of public use has to enter that world.
+
+The proper experiment is not `can magnetometer feature X distinguish pre-earthquake windows from control windows?`
+
+It is closer to:
+
+Given the existing seismicity forecast at time t, does adding feature X improve the probability assigned to earthquakes in future space-magnitude-time bins, prospectively, out of sample, under a proper scoring rule?
+
+That sentence is less exciting than `we found a precursor.`
+
+It is also the sentence that matters.
+
+The Collaboratory for the Study of Earthquake Predictability was built around this discipline. CSEP asks researchers to submit forecasts before the target data exist and then evaluates them prospectively. In Italy, for example, CSEP experiments tested one-day, three-month and five-year forecasts against subsequent earthquakes rather than letting each model choose its own success criteria after the sequence was known.
+
+That architecture should be the destination for precursor research.
+
+A candidate electromagnetic signal would first have to beat a seismicity-only baseline. Then it would have to keep beating it in another region. Then it would have to remain calibrated as event rates change. Then somebody would have to decide whether the probability gain crosses a threshold for any particular action.
+
+This ladder is deliberately cruel.
+
+It should be.
+
+The cost of an earthquake warning is not only the cost of evacuating when nothing happens. It is also the cost of teaching the public that warnings are theatrical.
+
+A weak but real precursor may never become an evacuation trigger.
+
+It might instead become a small term in a forecast model.
+
+That is not failure.
+
+It is what happens when a signal survives contact with the denominator.
