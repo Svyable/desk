@@ -24,6 +24,25 @@ pass. Prefer the largest scope that remains coherent and reviewable. Do not
 combine unrelated books or unrelated tooling changes merely to reduce PR count.
 Book-specific automation may deliberately use a narrower batch size.
 
+## Editorial work before line polish
+
+Use [the prose authoring standard](prose-authoring-standard.md) to review the
+book's promise, progression, evidence, and voice. Diagnose the largest problem
+before editing individual sentences. A structural pass may cut or move material;
+a sentence pass should not conceal an argument that remains unfinished.
+
+For substantial work, identify the passages that demonstrate the problem and
+explain how the proposed change improves the reading experience. Preserve
+unusual phrasing that works. Distinguish a factual correction, a structural
+necessity, and a matter of taste. Use the existing research/review notes for
+substantial editorial findings; a focused PR description suffices for small work.
+
+Read changed chapters with their neighbors. Check repeated explanations,
+examples, definitions, time references, and promises the later chapters must
+fulfill. For a release candidate, read the entire manuscript and follow
+[the release method](release-method.md); a favorable sample is not a whole-book
+review. Exploratory drafts may retain clearly identified open questions.
+
 ## Keeping the chapter-feedback book list current
 
 `.github/ISSUE_TEMPLATE/chapter-feedback.yml` has a dropdown of books.

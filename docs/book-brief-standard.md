@@ -9,6 +9,25 @@ shorter than the repository owner wanted, and the correction is recorded here
 so it survives across sessions rather than depending on any one conversation's
 memory.
 
+## Develop the book before expanding the outline
+
+Apply [the prose authoring standard](prose-authoring-standard.md) while planning
+and drafting, including its guidance for the whole-book progression and staged
+revision. Establish the reader promise, the contribution beyond nearby books,
+the strongest competing explanation, and the work each chapter must do. Reuse
+existing research/planning notes to carry those decisions between sessions.
+
+Plan enough evidence to sustain the requested length. Give major cases room to
+develop, preserve counterevidence that changes the argument, and budget time for
+structural revision before the sentence pass. Eighteen chapters generated from
+the same rhetorical template do not constitute eighteen developed arguments.
+
+The quantitative requirements below still apply to commissioned full-book
+work. They are necessary scope checks, not evidence of literary quality. Report
+a shortfall when the material needs more research or development; do not pad,
+silently lower the commissioned scope, or call the first complete draft a
+release candidate without the whole-book editorial review.
+
 ## Minimum scope for a new one-shot book
 
 - **At least 18 chapters**, not counting front matter and back matter.
