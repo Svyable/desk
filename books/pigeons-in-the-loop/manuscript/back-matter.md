@@ -1,0 +1,7 @@
+# Notes on Evidence
+
+This manuscript deliberately separates the existence and basic architecture of Project Pigeon from stronger claims about operational performance. The surviving Smithsonian apparatus, Skinner's declassified retrospective, the documented postwar ORCON continuation, and official histories of competing systems establish a substantial factual core. They do not by themselves establish combat readiness.
+
+The next research pass should prioritize the National Defense Research Committee records, General Mills contract and engineering files, the 1959 Naval Research Laboratory ORCON report, Skinner's project notebooks and films with dates/protocols, and contemporary guided-weapons test records. Numbers that circulate widely in later retellings—funding totals, bird counts, peck rates, cancellation dates, long-term retention claims—should remain provisional until traced to the strongest available record.
+
+The argument will weaken if the primary record shows that pigeon tracking degraded sharply under realistic image motion or disturbance; that ORCON failed to reproduce Skinner's basic performance; that integration failure was overwhelmingly biological rather than mechanical; or that electronic alternatives had already demonstrated clearly superior mission performance before the critical funding decisions. Those outcomes would not erase the project. They would change what it means.
