@@ -13,6 +13,44 @@ The wording is useful because it explicitly links the championship to the pre-20
 Source:
 https://2001-2009.state.gov/p/us/rm/2005/45781.htm
 
+## The baseball sequence behind “redemption”
+
+The manuscript should be more precise than saying Boston simply “broke the curse.” The 2004 title acquired its meaning through the order of events.
+
+### 2003: the wound immediately before the breakthrough
+
+In Game 7 of the 2003 American League Championship Series, Boston led the Yankees 5–2 in the eighth inning and was five outs from the World Series. New York rallied against Pedro Martinez to tie the game, and Aaron Boone hit a walk-off home run off Tim Wakefield in the bottom of the 11th.
+
+That loss matters because 2004 was not redemption from an abstract 86-year drought alone. It came one year after another especially vivid Yankees ending.
+
+Source:
+https://www.mlb.com/news/2003-alcs-recap
+
+### 2004 ALCS: the unprecedented reversal
+
+The Yankees won the first three games of the 2004 ALCS, including a 19–8 Game 3 at Fenway Park. No Major League team had ever recovered from a 0–3 deficit to win a postseason series.
+
+In Game 4, Boston trailed 4–3 in the ninth inning with Mariano Rivera on the mound. Kevin Millar walked. Dave Roberts pinch-ran, stole second, and scored on Bill Mueller's single. David Ortiz won the game with a two-run home run in the 12th.
+
+Game 5 lasted 14 innings. Boston again came from behind and won on an Ortiz single, sending the series back to New York.
+
+The Red Sox then won Games 6 and 7 at Yankee Stadium. Boston became the first MLB team to win a postseason series after losing the first three games.
+
+Sources:
+- https://www.mlb.com/redsox/news/dave-roberts-steal-set-amazing-2004-red-sox-playoff-run-in-motion/c-98844328
+- https://www.mlb.com/redsox/news/david-ortizs-heroics-trot-nixons-grab-kept-2004-ws-in-sight-for-red-sox/c-98920062
+- https://www.mlb.com/news/2004-alcs-recap
+
+### World Series: no final collapse
+
+Boston then swept the St. Louis Cardinals in four games. The Red Sox won the final eight games of their postseason and secured their first World Series title since 1918.
+
+That sequence makes Burns's later word “redemption” unusually exact. The title reversed the Yankees ending of 2003, required an unprecedented recovery against the same rival, and then ended the championship drought without another Game 7.
+
+Sources:
+- https://www.mlb.com/news/2004-world-series-recap
+- https://www.mlb.com/news/classic-seasons-2004-red-sox
+
 ## What is still missing for October 2004
 
 We still do not have a securely sourced, contemporaneous October 2004 account establishing:
@@ -25,6 +63,8 @@ We still do not have a securely sourced, contemporaneous October 2004 account es
 - whether he corresponded with friends or family about the championship.
 
 Do not reconstruct any of those details from travel calendars alone.
+
+The baseball record is now strong enough that the chapter does not need an invented Burns-watching-the-game scene. The documented postseason sequence can carry the stakes until direct Burns evidence appears.
 
 ## NATO context
 
@@ -81,7 +121,7 @@ The evidence now supports a useful long arc:
 
 - **1997 Washington:** baseball creates a safe informal register inside official briefings.
 - **1999–2001 Athens:** baseball becomes an institutional people-to-people project.
-- **2004–2005:** the lifelong losing identity crosses into championship “redemption,” in Burns's own vocabulary.
+- **2003–2005:** another Yankees collapse is followed by an unprecedented comeback and championship “redemption,” in Burns's own vocabulary.
 - **2022–2025 Beijing:** personal identity remains available, but public diplomacy operates in a much more constrained strategic environment.
 
 This is stronger than a simple “baseball followed him around the world” narrative. The role of the same personal language changes as the political environment changes.
