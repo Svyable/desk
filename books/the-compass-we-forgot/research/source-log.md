@@ -1,0 +1,61 @@
+# Source Log
+
+Checked/refreshed September 11, 2026. Prefer primary papers and authoritative institutional sources.
+
+## Human neurophysiology
+
+- Wang CX, Hilburn IA, Wu DA, et al. **Transduction of the Geomagnetic Field as Evidenced from Alpha-band Activity in the Human Brain.** *eNeuro* 2019;6(2):ENEURO.0483-18.2019. https://doi.org/10.1523/ENEURO.0483-18.2019
+  - Primary modern human EEG paper. Reports alpha-ERD to selected Earth-strength field rotations; polarity dependence used to argue against simple induction and axial radical-pair explanations.
+  - Initial sample was 34 adults; four strong responders identified in screening returned for additional sessions. Treat this as within-person repeatability after responder selection, not a prospectively validated population responder rate.
+  - Journal record provides the digital data and MATLAB analysis code: https://doi.org/10.22002/d1.930 and https://doi.org/10.22002/d1.931 . A high-value replication should freeze preprocessing, primary contrasts and responder definition before acquiring an independent cohort.
+- Lam BYK, Malkemper EP. **Magnetosensation: the unsolved mystery.** *Physiological Reviews* 2026. https://doi.org/10.1152/physrev.00032.2025
+  - Major current review. Treats human EEG results as substantial but emphasizes independent replication and unresolved receptor mechanisms.
+- Chae KS, Kim SC, Kwon HJ, Kim Y. **Human magnetic sense is mediated by a light and magnetic field resonance-dependent mechanism.** *Scientific Reports* 2022;12:8997. https://doi.org/10.1038/s41598-022-12460-6
+  - Rotary-chair / two-alternative forced-choice behavioral study in men; reports blue-light dependence and radiofrequency resonance effects interpreted as evidence for a radical-pair-like mechanism.
+  - This is not an independent replication of Wang et al.'s EEG alpha-ERD protocol. Its favored mechanism also creates useful tension with Wang et al.'s polarity argument against the simplest axial radical-pair compass. Treat the two assays as a cross-mechanism prediction problem, not mutually confirming replications.
+
+### Replication audit through September 11, 2026
+
+- Fresh exact/near-exact searches located Wang et al. 2019, related human behavioral magnetoreception work including Chae et al. 2022, and later general electromagnetic/alpha studies, but no clear independent publication reproducing Wang's specific Earth-strength field-rotation EEG alpha-ERD protocol with the same key polarity/inclination contrasts.
+- Absence from this search is a literature-search result, not evidence that a replication was attempted and failed. Continue searching citation databases, preprints and non-English literature before publication.
+- The strongest next test is multicenter and prospective: preregister the published analysis/responder rule, cross laboratories and hardware, instrument acoustic/vibration/electric side channels, and test Northern- versus Southern-Hemisphere inclination predictions.
+
+## Human candidate mechanisms
+
+- Kirschvink JL, Kobayashi-Kirschvink A, Woodford BJ. **Magnetite biomineralization in the human brain.** *PNAS* 1992;89:7683–7687. https://doi.org/10.1073/pnas.89.16.7683
+  - Establishes ferrimagnetic material in human brain tissue; does not establish sensory function.
+- Maher BA, Ahmed IAM, Karloukovski V, et al. **Magnetite pollution nanoparticles in the human brain.** *PNAS* 2016;113:10797–10801. https://doi.org/10.1073/pnas.1605941113
+  - Demonstrates abundant pollution-consistent magnetite nanoparticle population, sharply complicating receptor inference from bulk magnetic material.
+- Foley LE, Gegear RJ, Reppert SM. **Human cryptochrome exhibits light-dependent magnetosensitivity.** *Nature Communications* 2011;2:356. https://doi.org/10.1038/ncomms1364
+  - Human CRY2 rescues light-dependent magnetosensitivity in a Drosophila assay. Molecular capability, not evidence of human sensory use.
+
+## Mechanism / animal literature
+
+- Ritz T, Adem S, Schulten K. **A model for photoreceptor-based magnetoreception in birds.** *Biophysical Journal* 2000;78:707–718. https://doi.org/10.1016/S0006-3495(00)76629-X
+- Kirschvink JL, Gould JL. Historical replication work on human magnetic orientation should be reconstructed from original papers and archival records rather than later summaries before final publication.
+- Modern avian cryptochrome, Cluster N, RF-disruption, turtle magnetic-map and magnetite-receptor literature: primary-paper extraction remains a priority for expansion.
+
+## Institutional history
+
+- DARPA. **RadioBio.** https://www.darpa.mil/research/programs/radiobio
+  - Public program summary: aimed to determine whether functional electromagnetic signaling between biological cells exists and identify mechanism/information if so. Program complete.
+- DARPA. **RadioBio: What role does electromagnetic signaling have in biological systems?** 2017. https://www.darpa.mil/news/2017/radiobio
+  - Describes modeled pathways, experimental testing and independent replication phase structure.
+
+## Sources not treated as proof
+
+- Popular “sixth sense” reporting: useful for public-history framing, not mechanism.
+- Claims that DARPA funding establishes operational capability: unsupported inference.
+- Magnetite presence without cell identity, provenance and functional coupling: not receptor evidence.
+- Human navigation anecdotes: discovery leads only until controlled and replicated.
+- Patents and magnetogenetic device claims: evidence of filing/design, not efficacy.
+
+## Next source pass
+
+1. Original Robin Baker chair/bus/walkabout papers and all contemporaneous replication failures.
+2. Primary avian beak magnetite papers and macrophage correction papers.
+3. Reanalyze Wang et al.'s public data/code and continue exhaustive exact-replication search through September 2026.
+4. Primary human visual-threshold geomagnetic studies summarized in Lam & Malkemper.
+5. Primary weak-RF disruption studies in migratory birds with full field spectra.
+6. Human population/latitude work, if any, relevant to developmental geomagnetic calibration.
+7. Magnetogenetic failed-replication and quantitative force/energy critiques.
