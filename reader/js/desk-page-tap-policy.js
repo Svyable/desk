@@ -2,6 +2,7 @@ import { pageTapIntent } from './page-tap-zones.js';
 
 const OVERLAY_SELECTOR = '#tocOverlay.active, #progressPanel.active, #settingsPanel.active, #searchOverlay.active, #noteDialog.active, #helpOverlay.active';
 const INTERACTIVE_SELECTOR = 'a, button, input, textarea, select, label, mark, pre, code, [contenteditable="true"], .sel-pop';
+const LIBRARY_SORT_URL = 'https://svyable.github.io/bookself/reader/js/library-sort.js?v=r1';
 
 function coarseClick(event) {
   return event.pointerType === 'touch'
@@ -51,6 +52,20 @@ function onPageClick(event) {
   event.stopImmediatePropagation();
 }
 
+function installLibrarySort(attempt = 0) {
+  if (document.documentElement.dataset.deskLibrarySort === 'loaded') return;
+  if (window.__IMPRINT?.storagePrefix) {
+    document.documentElement.dataset.deskLibrarySort = 'loaded';
+    import(LIBRARY_SORT_URL).catch((error) => {
+      delete document.documentElement.dataset.deskLibrarySort;
+      console.warn('Reader library sorting could not be loaded', error);
+    });
+    return;
+  }
+  if (attempt >= 120) return;
+  window.setTimeout(() => installLibrarySort(attempt + 1), 25);
+}
+
 function initialize() {
   const surface = document.getElementById('pagesWrapper');
   if (!surface || document.documentElement.dataset.deskPageTapPolicy === 'true') return;
@@ -63,4 +78,5 @@ function initialize() {
 if (typeof document !== 'undefined') {
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', initialize, { once: true });
   else initialize();
+  installLibrarySort();
 }
