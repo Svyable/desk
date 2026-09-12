@@ -1,0 +1,9 @@
+# Whitecoat
+
+Fort Detrick is an awkward place to look for a clean story about consent. For decades the name has carried biological warfare, sealed buildings, pathogens, secrecy, and the Cold War's talent for turning ordinary nouns into ominous ones. Yet beginning in 1954, the Army also ran a program there that complicates the moral shorthand usually applied to military human experimentation.
+
+The men were conscientious objectors. Most were Seventh-day Adventists. They had already refused one kind of military participation: bearing arms. Some then volunteered for medical research. In certain studies that meant receiving experimental vaccines. In others it meant controlled exposure to organisms that could cause Q fever, tularemia, or other infectious disease. The exposure was not always metaphorical. Researchers wanted to know how much organism was required, how quickly fever appeared, whether a vaccine worked, and when treatment still worked after symptoms began.
+
+A program can be voluntary and still sit inside coercive structures. It can generate useful medicine and still deserve questions about who bore the burden. It can be more ethically elaborate than many civilian studies of its era without becoming an ethical blank check. Whitecoat matters because it denies us the easy pleasure of judging history from the title alone.
+
+This book follows the paperwork, the organisms, the institutional bargains, and the men themselves. It separates what Army records and medical literature document from later recollection, public-relations mythology, criticism, and inference. The point is not to acquit or prosecute an institution seventy years late. It is to find out what permission meant inside a system that could order almost everything else.
