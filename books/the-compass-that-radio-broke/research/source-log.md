@@ -28,7 +28,7 @@ Primary and high-value review sources checked for this draft. Links are intended
 
 13. Chernetsov, N. et al. (2018). “Magnetic map navigation in a migratory songbird requires trigeminal input.” *Scientific Reports* 8. https://www.nature.com/articles/s41598-018-30477-8 — trigeminal requirement in a magnetic-map displacement task.
 
-14. Wang, C. X. et al. (2019). “Transduction of the Geomagnetic Field as Evidenced from alpha-Band Activity in the Human Brain.” *eNeuro* 6. https://doi.org/10.1523/ENEURO.0483-18.2019 — reported alpha-ERD under specific Earth-strength field rotations; neural response, not conscious compass proof.
+14. Wang, C. X. et al. (2019). “Transduction of the Geomagnetic Field as Evidenced from alpha-Band Activity in the Human Brain.” *eNeuro* 6. https://doi.org/10.1523/ENEURO.0483-18.2019 ; open full text: https://pmc.ncbi.nlm.nih.gov/articles/PMC6494972/ — 36 adult participants; reported alpha-ERD under specific Earth-strength field rotations; separate sham-declination experiment with 18 participants; four strong responders retested within the same program. Neural response, not conscious compass proof, and internal retesting is not independent replication.
 
 15. Einwich, A. et al. (2020). “A novel cryptochrome 4 splice variant in the European robin.” *Scientific Reports* 10. https://doi.org/10.1038/s41598-020-72579-2 — CRY4 isoform complexity.
 
@@ -50,11 +50,18 @@ Primary and high-value review sources checked for this draft. Links are intended
 
 24. “Evidence for cephalic magnetic map receptors in sea turtles” (2026), *Journal of Experimental Biology*. https://doi.org/10.1242/jeb.252113 — recent local-magnet perturbation localizing map sensitivity toward the head; localization, not receptor identification.
 
-25. Current broad review: “Magnetosensation: the unsolved mystery” (2026), *Physiological Reviews*. https://doi.org/10.1152/physrev.00032.2025 — current synthesis emphasizing unresolved receptor and spectral inconsistencies.
+25. Lam, B. Y. K. & Malkemper, E. P. (2026). “Magnetosensation: the unsolved mystery.” *Physiological Reviews* 106, 2383–2439. https://doi.org/10.1152/physrev.00032.2025 ; PubMed: https://pubmed.ncbi.nlm.nih.gov/41902539/ — current broad synthesis. Treats the Kirschvink/Wang human EEG work as the strongest rigorous human geomagnetic result while explicitly stating that independent replication is essential before firm conclusions.
 
 26. Putman, N. F. et al. (2013). “Evidence for geomagnetic imprinting as a homing mechanism in Pacific salmon.” *Current Biology* 23, 312–316. https://doi.org/10.1016/j.cub.2012.12.041 — natural secular-variation/route-choice evidence.
 
 27. Putman, N. F. et al. (2014). “An inherited magnetic map guides ocean navigation in juvenile Pacific salmon.” *Current Biology* 24, 446–450. https://doi.org/10.1016/j.cub.2014.01.017 — inherited responses to simulated geographic magnetic fields.
+
+### Human EEG claim boundary
+
+- The 2019 program reports a selective cortical response under controlled magnetic rotations; it does **not** establish conscious detection, useful navigation, or a health effect.
+- Four responder retests establish within-program repeatability, not independent laboratory replication.
+- Polarity sensitivity constrains a standard radical-pair account; it does **not** identify a ferromagnetic receptor.
+- A strong next experiment must preregister the original clockwise/counterclockwise, vertical-polarity, inclination and sham response topology rather than search a broad stimulus space for any alpha-band difference.
 
 ### Source-use rules
 
