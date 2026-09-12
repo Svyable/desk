@@ -9,12 +9,12 @@ Desk is the working library for Sven Hardy Benson’s books: drafts, complete ma
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 126 book projects · 64 complete drafts · 2 in revision · 60 drafting**
+> **Desk: 128 book projects · 64 complete drafts · 2 in revision · 62 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
 > **Shelf: 57 author projects · 54 released · 3 public drafts/proofs**
-> **Where they live: 57 in both Desk + Shelf · 69 Desk-only · 0 Shelf-only**
+> **Where they live: 57 in both Desk + Shelf · 71 Desk-only · 0 Shelf-only**
 > **Release review queue: 15 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
@@ -178,6 +178,8 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Installed World**](books/the-installed-world/) | ✍️ Drafting | 20 of 20 | 65,526 | This book calls that surrounding stock of physical, technical, and institutional commitments the installed world, and its central claim is narrower than it might sound: | [Read →](https://svyable.github.io/desk/reader/#/b/the-installed-world/) |
 | [**Intelligence Bubble**](books/the-intelligence-bubble/) | ✍️ Drafting | 18 of 18 | 56,186 | <!-- bookself-reader-links:start --> Reader links: Working edition · Desk Reader <!-- bookself-reader-links:end --> | [Read →](https://svyable.github.io/desk/reader/#/b/the-intelligence-bubble/) |
 | [**The Intelligence Dilemma**](books/the-intelligence-dilemma/) | ✅ Complete draft | 20 of 20 | 34,989 | <!-- bookself-reader-links:start --> Reader links: Working edition · Desk Reader · Published edition · Shelf Reader <!-- bookself-reader-links:end --> | [Read →](https://svyable.github.io/desk/reader/#/b/the-intelligence-dilemma/) |
+| [**The Limit Does Not Exist: How Much Is Enough?**](books/the-limit-does-not-exist-enough/) | ✍️ Drafting | 1 of 18 drafted | 5,000 | A book about stopping rules: why people and institutions are better at detecting less than enough, and how adaptation, status, optimization, and opportunity cost shape sufficiency. | [Read →](https://svyable.github.io/desk/reader/#/b/the-limit-does-not-exist-enough/) |
+| [**The Limit Does Not Exist: Who Gets to Draw the Line?**](books/the-limit-does-not-exist-draw-the-line/) | ✍️ Drafting | 1 of 18 drafted | 4,800 | A book about the real power of constructed boundaries: how measurement, law, medicine, statistics, and software turn continuous worlds into discrete decisions. | [Read →](https://svyable.github.io/desk/reader/#/b/the-limit-does-not-exist-draw-the-line/) |
 | [**The Last Human Channel**](books/the-last-human-channel/) | ✅ Complete draft | 18 of 18 + prologue | 66,486 | The central thesis is that artificial intelligence makes many supporting functions of statecraft abundant — analysis, translation, surveillance, drafting, simulation, persuasion, and… | [Read →](https://svyable.github.io/desk/reader/#/b/the-last-human-channel/) |
 | [**Built to Be Alone**](books/the-loneliness-dividend/) | ✅ Complete draft | 19 of 19 | 66,004 | The working thesis is that the unpaid social infrastructure of the twentieth century — a stable workplace with the same coworkers for years, a weekly religious congregation, a union hall… | [Read →](https://svyable.github.io/desk/reader/#/b/the-loneliness-dividend/) |
 | [**The Long-Running Mind**](books/the-long-running-mind/) | ✅ First complete draft | 7 of 7 | 4,573 | A screenshot arrives with a rumor: the next model may work for days or weeks, remember corrections, collaborate with agents and people, move through software at superhuman speed, and… | [Read →](https://svyable.github.io/desk/reader/#/b/the-long-running-mind/) |
