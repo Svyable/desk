@@ -1,6 +1,7 @@
 # Reading ambitions for Sven Hardy Benson’s books
 
-This is the author's stated reading constellation, recorded September 12, 2026.
+This is the author's stated reading constellation, expanded with specific books
+on September 12, 2026.
 The ambition is compelling, captivating prose and narrative with substantial,
 checkable research. Michael Lewis is the explicitly emphasized narrative
 reference; the broader list below records the author's range of interests and
@@ -105,101 +106,167 @@ within the authorized scope. “Reads like Michael Lewis” is not an editorial
 finding. Neither is a high word count. Follow the existing release method and
 its distinction between substantive blockers and optional matters of taste.
 
-## Author-supplied reference list
+## Author-supplied books and author pairings
 
-Repeated entries are consolidated below; jointly named authors remain together.
-No particular book is assumed from a name. Preserve uncertain identities until
-a work or fuller reference is supplied; uncertainty here need not block ordinary
-authoring work.
+The expanded list below supersedes the earlier author-only list. It records the
+specific works supplied by the author on September 12, 2026. Original spelling,
+shortened names, joint credits, and uncertainty markers are preserved. The
+repeated identical `Dollars & Sense — Dan Ariely` entry is consolidated once;
+different works by the same author remain separate.
 
-- Douglas Hofstadter
-- Neel Doshi & Lindsay McGregor
-- Martin Lindstrom
-- Margaret Cheney
-- Rich Cohen
-- Clayton Christensen
-- David Brooks
-- Daniel Kahneman
-- Burton Malkiel
-- James Rickards
-- Nick Bilton
-- Sheelah Kolhatkar
-- Malcolm Gladwell
-- W. Brian Arthur
-- John Perkins
-- Chip & Dan Heath
-- Michael Lewis
-- Steven D. Levitt & Stephen J. Dubner
-- Jim Collins
-- Jim Collins & Morten T. Hansen
-- Thomas Friedman
-- Safi Bahcall
-- Adam Grant
-- Dan Ariely
-- Gerd Gigerenzer
-- Robert Reich
-- Amit Chatterjee
-- Jim Rogers
-- Lee Freeman-Shor
-- Monks of New Skete
-- John Tierney & Roy Baumeister
-- George Gilder
-- Kelly McGonigal
-- Daniel Pink
-- Robert Pirsig
-- Alan Thomson — work/identity unspecified
-- Heidi Grant
-- Elisabeth Rosenthal
-- Nassim Taleb
-- Ayn Rand
-- Atul Gawande
-- Miguel Nicolelis
-- Thomas Piketty
-- Jared Diamond
-- Hank Paulson
-- Brian Tracy
-- Seth Stephens-Davidowitz
-- Steven Johnson
-- Janice Kaplan & Barnaby Marsh
-- Jordan Ellenberg
-- Mark Penn
-- Richard Dobbs et al. — coauthors/work unspecified
-- Peter Laufer
-- Larry Doyle
-- Jeffrey Krames
-- Jonah Berger
-- David Carey & John Morris
-- Albert-László Barabási
-- Peter Sims
-- Peter Brown et al. — coauthors/work unspecified
-- Chris Anderson
-- Greg Brenneman
-- Ken Blanchard & Spencer Johnson
-- George Szpiro
-- Dominic Pacyga
-- Jonathan Manor — work/identity unspecified
-- Ian Ayres
-- Matt McCarthy
-- Ted McGinley — work/identity unspecified
-- Ori Brafman & Rom Brafman
-- Steven Brill
-- James Beniger
-- Thom Hartmann
-- Joseph Menn
-- Klaus Schwab
-- Richard Duncan
-- Mohamed El-Erian
-- Kate Kelly
-- Nate Silver
-- Ori Brafman & Rod Beckstrom
-- Thomas Dyja
-- Annie Duke
-- Kevin Maney
-- Rutger Bregman
-- Seth Siegel
-- Adam Winkler
-- Cathy O'Neil
-- Joseph Mercola
-- Paul Hawken — tentative; author supplied “Paul Hawken? (eco context)”
-- Daron Acemoglu & James Robinson
-- Andrew Williams — author supplied “contextual”; work/identity unspecified
+These are **supplied pairings, not a verified bibliography**. Do not silently
+convert them into authoritative citations. Before attributing a passage or
+analyzing a particular work, verify its title, authorship, and relevant edition
+against a publisher, library catalog, or the book itself. Some supplied pairings
+may need correction; preserve the intended reference and record a sourced
+correction in the relevant research note rather than inventing one. The tentative
+Paul Hawken and contextual Andrew Williams entries remain explicitly unresolved.
+
+The six supplied Michael Lewis titles make the narrative preference concrete:
+*Flash Boys*, *Liar's Poker*, *The Big Short*, *The Fifth Risk*, *Boomerang*, and
+*The Undoing Project*. Select an appropriate work and inspect the relevant
+passage before making a craft comparison. The same passage-based practice applies
+to the rest of this list; inclusion does not imply that an agent has read it.
+
+| Supplied book title | Supplied author(s) |
+|---|---|
+| Godel, Escher, Bach | Douglas Hofstadter |
+| Primed to Perform | Neel Doshi & Lindsay McGregor |
+| Small Data | Martin Lindstrom |
+| Tesla | Margaret Cheney |
+| The Fish That Ate the Whale | Rich Cohen |
+| The Innovator's Dilemma | Clayton Christensen |
+| The Social Animal | David Brooks |
+| Thinking, Fast and Slow | Daniel Kahneman |
+| A Random Walk Down Wall Street | Burton Malkiel |
+| Aftermath | James Rickards |
+| American Kingpin | Nick Bilton |
+| Black Edge | Sheelah Kolhatkar |
+| Blink | Malcolm Gladwell |
+| Buyology | Martin Lindstrom |
+| Complexity and the Economy | W. Brian Arthur |
+| Confessions of an Economic Hitman | John Perkins |
+| David and Goliath | Malcolm Gladwell |
+| Decisive | Chip & Dan Heath |
+| Flash Boys | Michael Lewis |
+| Freakonomics | Steven D. Levitt & Stephen J. Dubner |
+| Good To Great | Jim Collins |
+| Great By Choice | Jim Collins & Morten T. Hansen |
+| How the Mighty Fall | Jim Collins |
+| Lexus and the Olive Tree | Thomas Friedman |
+| Liar's Poker | Michael Lewis |
+| Loonshots | Safi Bahcall |
+| Originals | Adam Grant |
+| Predictably Irrational | Dan Ariely |
+| Risk Savvy | Gerd Gigerenzer |
+| Saving Capitalism | Robert Reich |
+| Silk to Silicon Valley | Amit Chatterjee |
+| Street Smarts | Jim Rogers |
+| Superfreakonomics | Steven D. Levitt & Stephen J. Dubner |
+| The Art of Execution | Lee Freeman-Shor |
+| The Art of Raising a Puppy | Monks of New Skete |
+| The Big Short | Michael Lewis |
+| The Fifth Risk | Michael Lewis |
+| The Honest Truth about Dishonesty | Dan Ariely |
+| The Power of Bad | John Tierney & Roy Baumeister |
+| The Road to Character | David Brooks |
+| The Scandal of Money | George Gilder |
+| The Upside of Irrationality | Dan Ariely |
+| The Willpower Instinct | Kelly McGonigal |
+| When | Daniel Pink |
+| Zen and the Art of Motorcycle Maintenance | Robert Pirsig |
+| 25 Need-to-Know MBA Models | Alan Thomson |
+| 9 Things People Do Differently | Heidi Grant |
+| American Sickness | Elisabeth Rosenthal |
+| Antifragile | Nassim Taleb |
+| Atlas Shrugged | Ayn Rand |
+| Being Mortal | Atul Gawande |
+| Beyond Boundaries | Miguel Nicolelis |
+| Boomerang | Michael Lewis |
+| Capital in the 21st Century | Thomas Piketty |
+| Collapse | Jared Diamond |
+| Dealing with China | Hank Paulson |
+| Eat That Frog | Brian Tracy |
+| Everybody Lies | Seth Stephens-Davidowitz |
+| Farsighted | Steven Johnson |
+| Fooled by Randomness | Nassim Taleb |
+| How Luck Happens | Janice Kaplan & Barnaby Marsh |
+| How Not to Be Wrong | Jordan Ellenberg |
+| How We Got to Now | Steven Johnson |
+| Microtrends | Mark Penn |
+| No Ordinary Disruption | Richard Dobbs et al. |
+| Organic | Peter Laufer |
+| Outliers | Malcolm Gladwell |
+| Pre-Suasion | Robert Cialdini |
+| Rigor Mortis | Richard Harris |
+| Scrum Without Cutting Corners | Dee Ann Turner |
+| Skin in the Game | Nassim Taleb |
+| Sun Tzu Was a Sissy | Stanley Bing |
+| That Used to Be Us | Thomas Friedman & Michael Mandelbaum |
+| The Chaos Imperative | Ori Brafman |
+| The End of Plenty | Joel Bourne |
+| The Fourth Turning | William Strauss & Neil Howe |
+| The Icarus Deception | Seth Godin |
+| The Innovators | Walter Isaacson |
+| The Intelligent Investor | Benjamin Graham |
+| The Most Dangerous Trade | Jarvis Vincent |
+| The Next 100 Years | George Friedman |
+| The Organized Mind | Daniel Levitin |
+| The Price of Everything | Russell Roberts |
+| The Tipping Point | Malcolm Gladwell |
+| The Undoing Project | Michael Lewis |
+| The World Is Flat | Thomas Friedman |
+| You May Also Like | Tom Vanderbilt |
+| Zero to One | Peter Thiel |
+| Animal Spirits | George Akerlof & Robert Shiller |
+| Barometer of Fear | Zar Amrolia |
+| Business Adventures | John Brooks |
+| Change or Die | Alan Deutschman |
+| Click | George Colony |
+| Dark Pools | Scott Patterson |
+| Dollars & Sense | Dan Ariely |
+| Elastic | Leonard Mlodinow |
+| Give and Take | Adam Grant |
+| Going Public | William Donaldson |
+| Hot, Flat, and Crowded | Thomas Friedman |
+| In Bed with Wall Street | Larry Doyle |
+| Inside Drucker's Brain | Jeffrey Krames |
+| Invisible Influence | Jonah Berger |
+| King of Capital | David Carey & John Morris |
+| Linked | Albert-László Barabási |
+| Little Bets | Peter Sims |
+| Make It Stick | Peter Brown et al. |
+| Makers | Chris Anderson |
+| On the Brink | Greg Brenneman |
+| One Minute Manager | Ken Blanchard & Spencer Johnson |
+| Pricing the Future | George Szpiro |
+| Slaughterhouse | Dominic Pacyga |
+| Sleeping with Your Smartphone | Jonathan Manor |
+| Super Crunchers | Ian Ayres |
+| Superbugs | Matt McCarthy |
+| Supreme Power | Ted McGinley |
+| Sway | Ori Brafman & Rom Brafman |
+| Tailspin | Steven Brill |
+| Technical Controversies in Public Policy | James Beniger |
+| The Crash of 2016 | Thom Hartmann |
+| The Cult of the Dead Cow | Joseph Menn |
+| The Fourth Industrial Revolution | Klaus Schwab |
+| The Great Wall of Debt | Richard Duncan |
+| The New Case for Gold | James Rickards |
+| The Only Game in Town | Mohamed El-Erian |
+| The Secret Club That Runs the World | Kate Kelly |
+| The Signal and the Noise | Nate Silver |
+| The Starfish and the Spider | Ori Brafman & Rod Beckstrom |
+| The Third Coast | Thomas Dyja |
+| Thinking in Bets | Annie Duke |
+| Trade-Off | Kevin Maney |
+| Utopia for Realists | Rutger Bregman |
+| Water in Plain Sight | Seth Siegel |
+| We the Corporations | Adam Winkler |
+| Weapons of Math Destruction | Cathy O'Neil |
+| Where Good Ideas Come From | Steven Johnson |
+| White Wash | Joseph Mercola |
+| Who Rules the Earth? | Paul Hawken? (eco context) |
+| Why Nations Fail | Daron Acemoglu & James Robinson |
+| Wit: The Art of Being Interesting | Andrew Williams (contextual) |
+| A Field Guide to Lies | Daniel Levitin |
