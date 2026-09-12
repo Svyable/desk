@@ -8,7 +8,7 @@
 | **Status** | Drafting |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
-| **Chapters** | 5 drafted + prologue |
+| **Chapters** | 6 drafted + prologue |
 | **Form** | Documentary narrative biography |
 | **Language** | English |
 
@@ -25,7 +25,7 @@ Baseball is not imposed as a metaphor on every episode. It appears where the doc
 - [x] [Ch 3 — The Road Team](manuscript/ch03-the-road-team.md)
 - [x] [Ch 4 — Cairo: Learning the Away Park](manuscript/ch04-cairo-learning-the-away-park.md)
 - [x] [Ch 5 — The Unresolved Address](manuscript/ch05-the-unresolved-address.md)
-- [ ] Ch 6 — The Score Is Not the Game
+- [x] [Ch 6 — The Score Is Not the Game](manuscript/ch06-the-score-is-not-the-game.md)
 - [ ] Ch 7 — Speaking for America
 - [ ] Ch 8 — The Briefing Room Bleachers
 - [ ] Ch 9 — Athens
