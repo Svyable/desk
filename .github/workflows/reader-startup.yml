@@ -1,0 +1,29 @@
+name: Desk Reader startup
+
+on:
+  pull_request:
+    paths:
+      - "reader/**"
+      - ".github/workflows/reader-startup.yml"
+  push:
+    branches:
+      - main
+    paths:
+      - "reader/**"
+      - ".github/workflows/reader-startup.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  parse:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Parse Desk startup modules
+        run: |
+          cp reader/js/app-loader.js /tmp/desk-app-loader.mjs
+          cp reader/js/desk-viewport-stability-runtime.js /tmp/desk-viewport-stability-runtime.mjs
+          node --check /tmp/desk-app-loader.mjs
+          node --check /tmp/desk-viewport-stability-runtime.mjs
