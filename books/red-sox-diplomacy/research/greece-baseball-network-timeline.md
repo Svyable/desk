@@ -26,6 +26,33 @@ A later ESPN profile says Greek officials approached Burns for baseball help in 
 - https://www.helleniccomserve.com/baseball.html
 - https://greekbaseball.com/history
 
+## 1998–1999 — a Boston/Greek-American grassroots layer forms in parallel
+
+Chris Karalekas's Baseball Acropolis history says he began a separate baseball-development effort in 1998, inspired in part by the memory of Greek-American Boston Red Sox player Harry Agganis. The organization's surviving archive dates Karalekas's first meeting with the Hellenic baseball federation to January 11, 1999.
+
+A later history of Greek baseball says Burns's American network included Greek-American baseball enthusiasts Chris Karalekas, Chuck Samiotis, and Bill Galatis as well as Peter Angelos.
+
+CNN reported in 2004 that Galatis and Samiotis were Boston-area **diehard Red Sox fans** who had spent roughly six years helping build baseball in Greece — constructing a field, training young people, and helping recruit players.
+
+**Why it matters:** “Red Sox” appears in the Greece story through more than one channel. The Boston Red Sox club reportedly pledged institutional support, while independent Boston-area Greek-American Red Sox fans performed documented grassroots work. Those should never be collapsed into one actor.
+
+**Sources:**
+- https://www.baseballacropolis.org/About_us.htm
+- https://www.baseballacropolis.org/photos.htm
+- https://www.oocities.org/spartakosglyfadas/history_of_baseball_in_greece2.htm
+- https://transcripts.cnn.com/show/cst/date/2004-08-07/segment/04
+
+## Summer 1999 — MLB International equipment enters Greece
+
+Tom Mazarakis's later history of Greek baseball credits Major League Baseball International with sending a **full container of baseball equipment** to Athens in summer 1999. The federation distributed the equipment to newly formed clubs.
+
+This is a retrospective community/organizational history rather than an MLB primary record, so the detail should be corroborated if possible before manuscript-level specificity.
+
+**Why it matters:** it provides a concrete candidate answer to the previously vague phrase “MLB helped” — while also showing why the manuscript must not automatically attribute equipment to the Boston Red Sox.
+
+**Source:**
+https://www.oocities.org/spartakosglyfadas/history_of_baseball_in_greece2.htm
+
 ## 1999 — public effort around Greek Olympic baseball becomes visible
 
 A Washington Post sports item reports that Peter Angelos met Greek officials at a reception held by Burns and the Hellenic Amateur Baseball Federation. It says the commissioner's office and the Boston Red Sox were helping the effort.
@@ -44,7 +71,9 @@ A later account says the federation contacted Burns in 1999. Burns then circulat
 
 An Associated Press report from Athens describes Greece's lack of baseball infrastructure, Peter Angelos's role, and Burns coordinating efforts to build a viable program. Burns discusses Greeks' unfamiliarity with the sport and the difficulty of building the effort from scratch.
 
-The AP account also says Major League Baseball's international division was helping and that the Boston Red Sox had pledged support. The precise Red Sox contribution remains an archival gap: the article establishes participation, not what department, staff, equipment, coaching, or money the club supplied.
+The AP account says Major League Baseball's international division planned to send a full-time coach and administrator and college instructors to Greece. It separately says the **Boston Red Sox had pledged support**.
+
+That separation matters. The public record currently identifies the league's intended development work much more concretely than the Red Sox club's contribution.
 
 **Why it matters:** this is strong contemporaneous evidence for Burns personally taking part in the baseball project and for actual Red Sox institutional involvement beyond his fandom.
 
@@ -69,6 +98,18 @@ This materially changes the manuscript's evidentiary picture. Burns was not only
 **Source:**
 https://www.espn.co.uk/espn/magazine/archives/news/story?page=magazine-20040119-article32
 
+## 2001 — MLB International sends a resident development coach
+
+Mazarakis's retrospective history says MLB International sent former Pomona College coach **Mike Riskas** to Greece in 2001 as a **Coach in Residence**. Riskas is described as traveling around Greece promoting youth and grassroots programs, running clinics, and training players and coaches.
+
+The 2000 AP report had already documented MLB's plan to place a full-time coach/administrator in Greece, so the two sources fit together even though an MLB primary file for Riskas has not yet been recovered.
+
+**Why it matters:** this is likely the concrete implementation of MLB's development promise. Again, it should not be credited to the Red Sox without a club-specific source.
+
+**Sources:**
+- https://www.oocities.org/spartakosglyfadas/history_of_baseball_in_greece2.htm
+- https://www.latimes.com/archives/la-xpm-2000-jan-02-mn-49873-story.html
+
 ## 2001 — federation retrospective identifies the Burns–Sarbanes–Angelos chain
 
 The Hellenic federation says president Panos Mitsiopoulos approached Burns for help. Burns contacted Senator Paul Sarbanes, who in turn contacted Peter Angelos. The federation credits Angelos with major financial and organizational support.
@@ -79,19 +120,25 @@ The Hellenic federation says president Panos Mitsiopoulos approached Burns for h
 
 **Source:** https://greekbaseball.com/history
 
-## 2002–2003 — player recruitment and professional infrastructure expand
+## 2002–2003 — Angelos/Orioles and the diaspora roster become a separate track
 
 The federation describes an organized search for players of Greek descent and later meetings involving the federation, Major League Baseball, and the Baltimore Orioles.
 
-A 2003 account focuses on Peter Angelos's financing and the diaspora-player strategy. By this phase, the project had become a professionalized Olympic-team operation rather than a small local development effort.
+Mazarakis says Angelos made the Greek project a significant Orioles undertaking and assigned scout **Robert Derksen** to find high-level players of Greek ancestry in the United States and Canada.
 
-**Why it matters:** shows that the project developed into a sustained baseball operation beyond Burns's initiating and public-diplomacy role.
+By this phase, the project had two different professional-baseball tracks that the manuscript should distinguish:
 
-**Caution:** do not imply Burns managed later roster construction unless further evidence shows it.
+- **MLB International:** grassroots development, coaching, clinics, equipment, administration;
+- **Angelos/Orioles:** elite diaspora scouting, financing, and Olympic-team construction.
+
+**Why it matters:** prevents “Major League Baseball” from becoming a vague catch-all in the narrative.
+
+**Caution:** do not imply Burns personally managed later roster construction unless further evidence shows it.
 
 **Sources:**
 - https://greekbaseball.com/history
 - https://www.helleniccomserve.com/baseball.html
+- https://www.oocities.org/spartakosglyfadas/history_of_baseball_in_greece2.htm
 
 ## 2003 — the project is cited as cultural-diplomacy “best practice”
 
@@ -134,9 +181,9 @@ https://adst.org/OH%20TOCs/Miller%2C%20Thomas%20J.toc.pdf
 
 Contemporary reporting on the Olympic team revisited Burns's role in helping establish the effort. Burns described himself as a confirmed, unconditional, rabid Red Sox fan and called the baseball initiative a joint American-Greek venture and one of the best things he had done as ambassador.
 
-The ESPN profile supplies a granular bridge from diplomatic network-building to sports development; the Schneider study supplies near-contemporary public-diplomacy framing; Miller supplies successor continuity; and the Christian Science Monitor supplies Burns's retrospective valuation once the Olympic team existed.
+The ESPN profile supplies a granular bridge from diplomatic network-building to sports development; the Schneider study supplies near-contemporary public-diplomacy framing; Miller supplies successor continuity; the grassroots sources supply the Boston/Greek-American layer; and the Christian Science Monitor supplies Burns's retrospective valuation once the Olympic team existed.
 
-**Why it matters:** together the sources support a complete chain: personal baseball competence → public demonstrations and lobbying → institutional introductions → diaspora/professional support → continuation under a successor → Olympic participation → Burns's retrospective judgment.
+**Why it matters:** together the sources support a complete chain: local Greek organizers → Burns/embassy brokerage and hands-on promotion → MLB grassroots infrastructure → Boston/Greek-American volunteer development → Angelos/Orioles elite recruitment → successor continuity → Olympic participation → Burns's retrospective judgment.
 
 **Sources:**
 - https://www.espn.co.uk/espn/magazine/archives/news/story?page=magazine-20040119-article32
@@ -153,16 +200,30 @@ He also appears, in his own account, to have done some of the unglamorous public
 
 The project then survived the Burns posting and entered a more formal training/player-development phase under his successor.
 
+## Institutional-role rule
+
+The manuscript should keep these actors separate unless a primary record shows otherwise:
+
+- **Boston Red Sox club:** contemporaneously reported help / pledged support; specific contribution still unresolved.
+- **MLB International:** development infrastructure; planned full-time personnel; retrospective evidence of equipment and resident coach.
+- **Peter Angelos / Orioles:** money, scouting, diaspora roster construction.
+- **Boston-area Greek-American Red Sox fans:** grassroots fields, youth instruction, recruitment, and promotion independent of the club.
+- **Burns / Embassy:** brokerage, visibility, demonstrations, lobbying, relationship-building.
+
+See also `red-sox-greece-assistance-audit.md`.
+
 ## Open archival questions
 
 - Was there written Burns–Sarbanes correspondence?
 - Are there embassy cables or event schedules for the Angelos reception?
 - Which Red Sox officials or departments supplied assistance?
 - What exactly did the Red Sox pledge or deliver?
-- What specifically did MLB International provide, and on what dates?
+- Can the Mazarakis account of the summer 1999 MLB equipment container be corroborated in MLB records?
+- Can Mike Riskas's 2001 Coach in Residence assignment be corroborated in MLB or federation primary records?
 - Can the 20 youth-baseball / 10 softball-team count be confirmed in Greek federation or government records?
 - Can the Greek-TV batting-cage segment be located in a television archive?
 - Are there photographs of Burns playing catch with Greek children?
-- Are there photographs, invitations, or programs from the reception?
+- Can Baseball Acropolis's Burns/Karalekas photograph and its larger network photograph be precisely dated and independently captioned?
+- Are there photographs, invitations, or programs from the Angelos reception?
 - Did Burns discuss the project in embassy reporting, speeches, or personal correspondence?
 - Can the apparent 1998/1999/2001 discrepancy in the date of the federation's approach be resolved into distinct stages of contact?
