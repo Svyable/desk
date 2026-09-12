@@ -14,7 +14,25 @@ The extremity of those tests is not theatrical. An implant lives inside a person
 
 The source therefore had to be designed against events that would never occur during intended clinical use. This is a recurring theme in technologies whose hazardous component outlives the service context. The likely accident is not always the spectacular mechanical failure imagined by the design team. It may be a records failure. Someone at a hospital does not know the deceased patient carried a nuclear pacemaker. A funeral home removes a device and returns it to the wrong institution. A package is sent through ordinary channels and disappears. The titanium can be stronger than the paperwork.
 
-The physics sets another unusual timescale. With a half-life around eighty-eight years, Pu-238 loses only a modest fraction of its heat output over a normal pacemaker service interval. If the initial thermoelectric system has enough margin, radioactive decay is predictable. Chemical batteries age through mechanisms that depend on materials, current drain, storage, internal resistance and manufacturing quality. A radioisotope source ages according to nuclear probability. That is attractive in any application where maintenance is difficult.
+The physics sets another unusual timescale. With a half-life around 87.7 years, Pu-238 loses only a modest fraction of its heat output over a normal pacemaker service interval. The Department of Energy gives a specific thermal power near 0.56 watts per gram for Pu-238. The important historical engineering number, however, is not that heat density by itself. It is what the early pacemaker could turn into electricity.
+
+An AEC-era description of the NUMEC development program gives a reference design producing about **135 milliwatts of isotopic heat**. A thermopile of 1,056 thermocouples was expected to deliver about **162 microwatts of electrical power** to the pacing electronics. That is only about **0.12 percent** conversion from decay heat to useful electricity.
+
+The ratio is more revealing than either number alone.
+
+The pacemaker did not need much electrical power. It needed tiny, dependable pulses for years. The isotope could therefore be energetically extravagant: throw away essentially all of the heat and still have enough electricity to run the circuit. A spacecraft engineer usually worries about squeezing electrical watts from a scarce heat inventory. The pacemaker engineer could afford terrible conversion efficiency because the load lived in the microwatt regime.
+
+Radioactive decay then changes that budget slowly and predictably. Using the 87.7-year half-life, the heat source retains roughly **92 percent of its initial output after ten years**, **85 percent after twenty**, and **76 percent after thirty-four**. Those percentages are not a complete generator-life calculation—thermocouples can age, interfaces can change, electronics can fail, and a design needs voltage margin rather than merely heat—but they show why isotope depletion was unlikely to be the first clock to expire.
+
+The thirty-four-year NU-5 case later makes this almost literal. The source had lost only about a quarter of its initial decay power by then. The lead had already fractured once, eleven years after implantation, and was repaired while the generator stayed in place. The historical sequence is therefore the opposite of the usual battery story: a part outside the energy source failed first, medicine repaired around it, and the isotope continued decaying on a clock measured in generations.
+
+This is the systems argument the phrase *lifetime pacemaker* can obscure. Half-life is not device life. Specific power is not delivered power. Delivered power is not useful therapy. A pacemaker is a chain:
+
+`nuclear decay → heat → thermoelectric conversion → electrical conditioning → output pulse → lead → myocardium`.
+
+Every arrow has a loss, failure mode or changing clinical requirement. Making the first term unusually durable merely gives the later terms more time to become visible.
+
+If the initial thermoelectric system has enough margin, radioactive decay is unusually predictable. Chemical batteries age through mechanisms that depend on materials, current drain, storage, internal resistance and manufacturing quality. A radioisotope source ages according to nuclear probability. That is attractive in any application where maintenance is difficult.
 
 But the thermoelectric converter is not magic. Only part of the heat becomes useful electricity. The rest must go somewhere. In a spacecraft RTG, thermal management is obvious because the generator is large and the surrounding vacuum changes heat transfer. In a pacemaker, the thermal source is tiny, and the device is surrounded by living tissue. Designers had to keep temperature rise within acceptable limits, maintain electrical output, shield or geometrically manage penetrating radiation components and package the entire system in a body-compatible form.
 
