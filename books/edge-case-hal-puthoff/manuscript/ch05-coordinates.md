@@ -26,19 +26,93 @@ The statistical logic is legitimate in principle. The devil lives in the materia
 
 Free-response experiments are vulnerable to what later critics called cueing or leakage in the judging process. Suppose the transcript itself contains information unrelated to psychic perception but correlated with the target’s position in the experiment: references to weather, travel time, experimenter remarks, paper handling, dates, or comments made after a session. A judge may unconsciously use those cues. Even a subtle difference in transcript length can matter if sessions systematically differed.
 
-The target set can create another problem. If one target is a swimming pool and every other target is dry, the word “water” is highly diagnostic. If half the targets contain water, it is not. Statistical significance depends not only on the viewer’s output but on how discriminable the targets are.
+The target set can create another problem. If one target is a swimming pool and every other target is dry, the word water is highly diagnostic. If half the targets contain water, it is not. Statistical significance depends not only on the viewer’s output but on how discriminable the targets are.
 
 These problems became central to the later Marks and Kammann critique. But before the critique, sponsors had already been shown operational cases that were harder to reduce to a clean laboratory score.
 
 The Semipalatinsk example is the most durable.
 
-A declassified government summary describes a Soviet R&D site, known within the intelligence community by a code name, characterized by a large rail-mounted crane and large metallic structures. The viewer’s reported impressions included a large crane and the assembly of large spherical forms. For proponents, this looked like a direct hit on details no subject could plausibly infer.
+The target was a Soviet research-and-development facility at Semipalatinsk, known in U.S. intelligence reporting as URDF-3 and by the nickname PNUTS. A later declassified summary describes the site as having a large rail-mounted crane several stories tall and large metallic gores used to form one or more spheres, apparently associated with underground construction.
 
-The first discipline is to notice what the same document says about cueing. The viewer was given coordinates and was told the site was an R&D facility in the Soviet Union.
+The remote viewer was Pat Price.
+
+The later summary says Price was given the latitude and longitude and told that the target was an R&D facility in the Soviet Union. Puthoff and the interviewer were otherwise described as blind to the site. The summary credits Price with a drawing of the large crane at approximately the correct scale and with describing the assembly of large spheres from metallic gores.
+
+Read that once as a believer.
+
+It is extraordinary.
+
+Now read the administrative record around it.
+
+The same government archive contains a contemporaneous or near-contemporaneous evaluator’s discussion of the session. That reviewer called the crane sketch the strongest evidence yet for remote viewing and said it was difficult to imagine how Price could have produced so close a likeness unless he actually perceived the site remotely or had somehow been supplied the information by somebody who knew the target. The reviewer even floated, then set aside as distasteful and improbable, the possibility of Soviet disinformation.
+
+This is valuable because it shows what the sponsor felt before decades of folklore accumulated.
+
+The crane drawing genuinely impressed people with access to the classified target.
+
+That impression is part of the historical evidence.
+
+It is not the same as a controlled replication.
+
+The first discipline is to notice what the summary says about cueing. Price was not handed two naked numbers in a vacuum. He was told the site was an R&D facility in the Soviet Union.
 
 That is not a trivial cue.
 
-It does not tell you “large rail-mounted crane” or “metallic gores forming a sphere.” Those remain specific. But it changes the space of plausible imagery. Industrial structures, fences, machinery, rail lines, laboratories, towers, military geometry, and construction become more likely responses than beaches or cathedrals. The proper question is not whether the cue explains everything. It is how much evidentiary weight remains after the cue is accounted for.
+It does not tell you large rail-mounted crane or metallic gores forming a sphere. Those remain specific. But it changes the space of plausible imagery. Industrial structures, fences, machinery, rail lines, laboratories, towers, military geometry, and construction become more likely responses than beaches or cathedrals. The proper question is not whether the cue explains everything. It is how much evidentiary weight remains after the cue is accounted for.
+
+Then ask a second question the legend rarely asks: what else did Price say?
+
+An operational transcript is not two surviving hits floating in white space. It is a sequence of statements, drawings, guesses, revisions, and impressions. If the analysis selects the crane and sphere after the target is known, the evidentiary weight depends on the amount of unused material surrounding them.
+
+This is the denominator problem in narrative form.
+
+Ten highly specific correct statements out of twelve are one thing.
+
+Two startling correspondences inside forty pages of mixed material are another.
+
+A historical summary that preserves only the recognized matches cannot answer that question by itself.
+
+The third question concerns independence. The target was not an arbitrary civilian landscape. It was a classified intelligence site selected because the sponsor wanted information about it. Sponsor knowledge can be a virtue because SRI personnel are kept blind. It also means the experiment’s full information topology matters. Who knew the target? Who generated and transmitted the coordinates? Who interacted with the viewer? Who handled recordings? Who performed the later matching? Which documents were available when the evaluation was written?
+
+None of this is an accusation.
+
+It is what one would reconstruct for any extraordinary intelligence claim.
+
+The Semipalatinsk case is therefore stronger than a vague anecdote and weaker than a decisive experiment.
+
+That sentence will disappoint everybody.
+
+Good.
+
+The West Virginia session in the same SRI final report shows why sponsor-controlled targets could feel compelling even without a dramatic crane. In May 1973, Puthoff received coordinates by telephone and relayed them to a subject identified only by code. The subject was told the target was in West Virginia and produced imagery involving rolling terrain, a city to the north, lawns suggestive of a military base, and possible bunkers or a covered reservoir. SRI presented the experiment as approximating an operational scenario.
+
+This kind of material is much harder for a reader to score intuitively.
+
+Which features count?
+
+What comparison target would make those features diagnostic?
+
+How much information was in the cue “West Virginia”?
+
+How did sponsor analysts rate the result before revealing the target?
+
+The more ordinary the session, the more important formal scoring becomes.
+
+The SRI team understood that problem and also ran long-distance experiments under its own control. In one Costa Rica series, Puthoff traveled through the country while subjects at SRI attempted to describe his location at specified times. The final report says twelve daily descriptions were collected and later blind-matched by Puthoff to seven target locations. Five matches were reported as correct, with a binomial probability of 0.02 under the stated matching model.
+
+This is useful because it is a different evidence shape from the PNUTS crane.
+
+The crane is emotionally specific.
+
+The Costa Rica series is statistically aggregate.
+
+Each has a different failure mode.
+
+For the Costa Rica result, one asks whether the matching procedure really produced independent one-in-seven trials, whether descriptions and targets had unequal distinctiveness, whether the traveler who knew the locations was the best person to perform the blind matching, and whether multiple transcripts could map to the same target without violating the assumed probability model.
+
+For the PNUTS result, one asks whether the specific correspondence survives the full transcript and information-chain reconstruction.
+
+Neither question can be replaced by the other.
 
 This way of thinking is less satisfying than deciding whether the session was psychic.
 
@@ -50,7 +124,7 @@ The early SRI literature often mixed these levels because the program had two go
 
 Operational people do not always care about elegant statistics. If a source gives one unique detail that leads to a verification, the source may be useful even if much of the rest is noise. Human intelligence works like this all the time. Sources are partial, biased, deceptive, mistaken, or uncertain. Analysts fuse them with other collection.
 
-Puthoff himself later emphasized that remote-viewing information should supplement normal information rather than replace it. That is a more modest claim than “psychic spying works,” and it creates a different test.
+Puthoff himself later emphasized that remote-viewing information should supplement normal information rather than replace it. That is a more modest claim than psychic spying works, and it creates a different test.
 
 If a viewer produces twenty statements and one prompts an analyst to check an overlooked possibility, the session might be operationally valuable even if blind scoring is poor. But this introduces a search problem. Intelligence analysts are excellent pattern finders. Give them enough vague material and they may discover a match after the fact.
 
