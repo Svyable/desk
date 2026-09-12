@@ -1,0 +1,9 @@
+# Blood Under Ice
+
+Blood Falls is one of those names that arrives before the science and makes the science spend decades catching up. A red stain pours from the snout of Taylor Glacier into Lake Bonney in Antarctica's McMurdo Dry Valleys. It looks theatrical enough to invite a bad explanation. Blood. Algae. Rust. A wound in the glacier. The actual story is stranger because almost none of it is visible.
+
+The red material is the last stage of a system hidden inside and beneath ice: hypersaline liquid that can remain unfrozen well below the ordinary freezing point of freshwater; dissolved iron that changes state when it meets air; microbes making a living without sunlight; buried water that preserves a geological memory of marine inundation; and a hydrological network that geophysics suggests extends far beyond the picturesque stain tourists never reach.
+
+This book is about that hidden system and the inference problem it creates. Blood Falls has become an astrobiology analogue for Mars and icy worlds because it demonstrates that cold, dark, salty environments can remain chemically active and biologically inhabited. But analogues are dangerous when resemblance hardens into equivalence. Antarctica can teach us what to measure. It cannot tell us in advance what another world contains.
+
+The evidence is kept in four classes throughout: directly measured and documented; credible inference with incomplete access; disputed interpretation; and speculative synthesis. The red color is not proof of life. A viable organism is not proof that its habitat has been isolated for the age assigned to the water. A terrestrial analogue is not evidence of extraterrestrial biology. Those distinctions are not editorial caution around the edges. They are the subject.

@@ -1,0 +1,11 @@
+# Not Blood
+
+The first useful correction is also the least interesting one: Blood Falls is not blood. The second correction is harder because older explanations often reduce the color to familiar crystalline rust. Modern mineralogical work has made the surface product less tidy.
+
+The liquid emerging from Taylor Glacier is rich in dissolved ferrous iron. Once the brine reaches an oxygenated surface environment, that iron changes. A 2022 multi-technique analysis found abundant iron- and chlorine-rich amorphous nanospheres in Blood Falls material and did not find strong evidence that familiar crystalline iron oxide or hydroxide phases alone explain the deposit. The red fan is therefore not a giant smear of one textbook mineral. It is a reaction product assembled during exposure, mixing, oxidation and precipitation.
+
+This is more than a correction for mineralogists. It demonstrates how quickly a biosignature discussion can become method-dependent. Raman spectroscopy, Mössbauer spectroscopy, X-ray diffraction, electron microscopy and bulk chemistry do not all see the same material with the same sensitivity. A phase that is invisible to one method can dominate interpretation under another. On Mars, where instruments are few, samples are scarce and preparation is constrained, those blind spots become part of the scientific object.
+
+The red surface can therefore tell two stories at once. It records an iron-rich subsurface fluid, but it also records what happened to that fluid after leaving its environment. The material we photograph is not necessarily the material that existed under the ice. Exposure to oxygen creates a chemical editing step between reservoir and observation.
+
+That seems obvious once stated. It is routinely forgotten. Planetary science lives on altered samples: meteorites heated through atmospheres, minerals irradiated at surfaces, salts mobilized by transient water, organics oxidized after excavation, plume material freezing during ascent. Blood Falls makes the transformation visible enough to embarrass us into remembering it. A sample does not merely come from somewhere. It travels through conditions that can change what it is.
