@@ -8,11 +8,17 @@ That is how a serious criticism should work. Skepticism is cheap when it consist
 
 Marks and Richard Kammann went after the pathway.
 
-Their 1978 paper in *Nature* reported an attempted replication of the kind of remote-viewing procedure associated with SRI. They did not reproduce the claimed effect. Later, Marks and collaborators argued that transcripts used in judging could contain cues allowing targets to be matched without paranormal perception. Dates, references to sequence, experimenter remarks, and other apparently irrelevant material could become identifiers. A judge did not have to know consciously that a clue was a clue. It was enough that the records were not informationally sterile.
+Their 1978 paper in *Nature* did not merely complain about the 1974 SRI work from a distance. It said they had carried out duplicate remote-viewing experiments and that their results did not verify Targ and Puthoff’s conclusions. The paper was received in July 1977, accepted the following May, and published in August 1978. Whatever one thinks of the later argument, this was not an instant hostile reaction to a newspaper headline. It was an attempt to put another laboratory between the claim and the conclusion.
 
-This is the kind of criticism that should make an experimenter grateful and furious at the same time.
+Replication failure alone is not enough to settle a human-subject phenomenon.
 
-Grateful because a concrete failure mode can be fixed. Furious because if the failure mode survives, an impressive result can collapse without any fraud at all.
+A failed replication can mean the original result was wrong. It can mean the replication changed a crucial condition. It can mean the effect is small and the studies are underpowered. It can mean subject selection matters. It can mean the phenomenon does not exist. It can mean the original investigators accidentally optimized a protocol around local quirks they did not understand.
+
+That ambiguity is why Marks’s later criticism mattered more than the failure itself.
+
+He proposed a route for information.
+
+Transcripts used for judging could contain cues allowing targets to be matched without paranormal perception. Dates, references to sequence, experimenter remarks, subject location, comments about previous sessions, and other apparently irrelevant material could become identifiers. A judge did not have to know consciously that a clue was a clue. It was enough that the records were not informationally sterile.
 
 Remote viewing was especially vulnerable because its data were not simple numbers. A transcript might contain pages of words and drawings. A judge then compared that semantic cloud against possible targets. If the judge had any nonpsychic clue about which transcript belonged to which trial, the scoring process could become contaminated even though the viewer had remained perfectly blind.
 
@@ -24,6 +30,52 @@ That possibility is an important correction to the popular image of sensory shie
 
 Modern clinical trials learned the same lesson through different failures. Blinding the patient is not enough if the physician knows treatment assignment and changes care. Blinding the physician is not enough if the statistician receives revealing labels. Randomization is not enough if investigators exclude inconvenient outcomes after seeing them. Scientific evidence is produced by a pipeline, and information can enter at every junction.
 
+The SRI dispute became unusually instructive because the argument did not end with the first cueing accusation.
+
+Charles Tart tried to answer it.
+
+The response published in *Nature* in 1980 described a rejudging exercise using edited transcripts intended to remove the cues. The reported result remained significant. To proponents, this looked like the clean answer one would want: identify the critic’s proposed artifact, remove it, repeat the judging, and preserve the effect.
+
+If the story ended there, cueing would be a footnote.
+
+It did not.
+
+Marks and Christopher Scott later obtained the relevant Price-series records and returned to the argument in *Nature* in 1986. Their one-page correspondence is devastating precisely because it is so specific. They said that after comparing the edited and unedited transcripts, the supposedly cleaned set still contained potentially diagnostic information.
+
+The Price series contained nine experiments. Marks and Scott reported that eight of the edited transcripts retained information about the subject’s physical location. Some sessions had been conducted in a park, one in an office, and others in a shielded room. In one transcript, a question referred explicitly to whether the subject noticed a difference from being in the shielded room. In another, the office location was unique. They also pointed out that *Mind-Reach*, Targ and Puthoff’s own popular book, had published extracts from some transcripts and listed target order and subject location, creating another possible route by which a judge could identify records.
+
+The critics’ claim was therefore not “perhaps there were vibes.”
+
+It was: these words are still in the supposedly blinded material.
+
+That is the kind of criticism an experimental history can actually inspect.
+
+Puthoff, Targ, Tart, Marks, Kammann, Scott, and later defenders disagreed about how much of the original result the cues explained, whether particular rejudgings were valid, and how much later remote-viewing work inherited the problem. The dispute acquired years of correspondence, books, rebuttals, and retrospective argument.
+
+A biography should not pretend that one side vanished because a sentence in *Nature* was sharp.
+
+But the methodological lesson does not depend on total victory.
+
+Once a mundane pathway is demonstrated in the evidence chain, the burden changes.
+
+The next dataset needs to be designed so that pathway cannot operate.
+
+Not argued away after the fact.
+
+Designed away.
+
+That is a different standard.
+
+A clean protocol would freeze the target pool before sessions begin. Target assignment would be generated by a process inaccessible to the subject and session monitor. The raw transcript would be time-stamped and preserved. Any redaction or editing for judging would be performed by someone who did not know the correct target. Judges would see identical metadata across trials. The scoring rule would exist before results were visible. Every session would remain in the denominator. Independent laboratories could receive the same protocol without receiving the original laboratory’s preferred interpretation.
+
+These rules sound obvious now because half a century of replication crises, clinical-trial reforms, preregistration, and forensic failures have made information hygiene a recognized scientific problem.
+
+They were not all obvious in 1973.
+
+That historical context should make the SRI work more understandable without making it more probative.
+
+The danger is using “it was the seventies” as a permanent waiver. Once a flaw has been named, the field has to get better.
+
 Puthoff and Targ disputed the critics’ account and defended the SRI work. Later experiments changed procedures. The debate became a dispute over which datasets were contaminated, whether cueing explained the strongest results, whether replications under cleaner conditions still showed an effect, and whether statistical findings from later laboratories inherited the weaknesses of the early work.
 
 This is where biographies usually choose a team.
@@ -32,11 +84,25 @@ A believer can say Marks exposed one procedural vulnerability without explaining
 
 What it does permit is a change in burden.
 
-Once a mundane pathway has been demonstrated, extraordinary interpretation becomes more expensive. The next experiment should be designed specifically to make that pathway impossible. Transcripts can be standardized and stripped of identifying information. Judges can receive only the material necessary to score. Target pools can be constructed prospectively. Sessions can be registered before outcome. All trials can remain in the analysis. Independent groups can receive the protocol before seeing the result.
+Once a mundane pathway has been demonstrated, extraordinary interpretation becomes more expensive.
 
-If the effect survives, confidence rises.
+The principle is bigger than remote viewing.
 
-If it disappears, the disappearance becomes evidence too.
+Suppose an archaeological inscription looks impossible for its date, but excavation records cannot exclude modern intrusion. The inscription may still be ancient. The burden now includes stratigraphy and chain of custody.
+
+Suppose a laboratory finds an anomalous isotope ratio in alleged UAP material, but the sample passed through unknown hands. The ratio may still be unusual. The burden now includes provenance and contamination.
+
+Suppose a military video appears to show extraordinary acceleration, but the sensor geometry and line-of-sight rate are incompletely reconstructed. The object may still have accelerated. The burden now includes the optics.
+
+The ordinary pathway does not have to explain every case before it earns attention.
+
+It has to be capable of producing the measured evidence.
+
+That is why cueing follows Puthoff through the rest of this book as more than a historical quarrel.
+
+It is a template.
+
+For every edge claim: identify where ordinary information, ordinary matter, ordinary incentives, or ordinary instrumentation could enter the chain. Then make the test hostile to those pathways.
 
 Puthoff’s public career is important because he did not respond to criticism by leaving the field. He continued to work within the government-supported program, and the program itself evolved. That fact is sometimes offered as evidence that the critics failed. It is not. Research programs continue for institutional reasons as well as scientific ones. Sponsors can remain interested while investigators disagree about mechanism. A disputed effect can justify additional testing precisely because the dispute is unresolved.
 
