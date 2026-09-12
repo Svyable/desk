@@ -8,7 +8,7 @@
 | **Status** | Drafting |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
-| **Chapters** | 10 drafted + prologue |
+| **Chapters** | 11 drafted + prologue |
 | **Form** | Documentary narrative biography |
 | **Language** | English |
 
@@ -30,7 +30,7 @@ Baseball is not imposed as a metaphor on every episode. It appears where the doc
 - [x] [Ch 8 — The Briefing Room Bleachers](manuscript/ch08-the-briefing-room-bleachers.md)
 - [x] [Ch 9 — Athens](manuscript/ch09-athens.md)
 - [x] [Ch 10 — Bringing Baseball to Greece](manuscript/ch10-bringing-baseball-to-greece.md)
-- [ ] Ch 11 — September Baseball
+- [x] [Ch 11 — Twelve Days](manuscript/ch11-twelve-days.md)
 - [ ] Ch 12 — Article 5
 - [ ] Ch 13 — The Clubhouse Called NATO
 - [ ] Ch 14 — India: Playing the Long Game
