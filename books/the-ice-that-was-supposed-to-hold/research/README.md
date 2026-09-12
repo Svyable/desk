@@ -13,7 +13,7 @@ Classification attaches to individual claims, not whole sources.
 
 ### Camp Century construction and engineering
 
-- E. F. Clark, **Camp Century: Evolution of Concept and History of Design, Construction, and Performance**, U.S. Army CRREL Technical Report 174 (1965/1966). DTIC scan: https://apps.dtic.mil/sti/pdfs/AD0477706.pdf
+- E. F. Clark, **Camp Century: Evolution of Concept and History of Design, Construction, and Performance**, U.S. Army CRREL Technical Report 174 (1965/1966). GovInfo: https://www.govinfo.gov/app/details/GOVPUB-D103-PURL-gpo86535 ; USACE Digital Library: https://usace.contentdm.oclc.org/digital/collection/p266001coll1/id/4529/ ; NSF Ice Drilling Program copy: https://icedrill.org/library/camp-century-evolution-concept-and-history-design-construction-and-performance
 - James W. Barnett, **Construction of the Army Nuclear Power Plant PM-2A at Camp Century, Greenland: Final Report** (1961), U.S. Army Corps of Engineers Digital Library: https://usace.contentdm.oclc.org/digital/collection/p266001coll1/id/3968/
 - W. J. McCool et al., **Startup Testing of the PM-2A Nuclear Power Plant** (1962), Army Nuclear Power Program technical report. UNT Digital Library: https://digital.library.unt.edu/ark:/67531/metadc1201987/
 - L. D. Walthousen et al., **PM-2A Core II Zero Power Experiment** (1962), documenting the replacement-core program and on-site loading procedure. UNT Digital Library: https://digital.library.unt.edu/ark:/67531/metadc1201998/
@@ -59,12 +59,26 @@ Classification attaches to individual claims, not whole sources.
 - Camp Century deep core: approximately **1,390 m / 4,550 ft** of ice, plus approximately 12 ft of sub-ice material in the 1966 drilling report.
 - 1969 climate paper: oxygen isotopes in approximately **1,600 samples**; nearly **100,000 years** of climate record.
 - Iceworm planning scale: commonly reconstructed as roughly **600 missiles**, **60 launch-control centers**, and a network on the order of **130,000 km²**. These are planning figures, not evidence of deployment.
+- **Camp Century deformation:** CRREL TR-174 reports average gross vertical closure of roughly **30 inches/year**. Its 1962–63 table includes measured yearly centerline-height losses from about **1.1 ft to 3.9 ft** at sampled stations. Modern peer-reviewed summary places tunnel deformation broadly around **0.1–1.0 m/yr**.
+- **Thermal sensitivity:** Clark reports observed snow/ice creep about **2× faster at 14°F than at 2°F** and about **100× faster at 28°F than at −40°F**. Treat this as an empirical engineering observation from the Camp Century program, not a universal constitutive law for all Greenland firn.
+- **PM-2A wide-trench rehabilitation:** trenches 3–5 were up to roughly **40 ft wide**; asymmetrically loaded Wonder Arches showed severe distress, and sections were raised roughly **6 ft twice during PM-2A's three-year life** to protect enclosed structures.
 - PM-2A liquid-waste planning: U.S. officials told Danish counterparts to expect approximately **7,500 gallons of radioactive liquid waste per year** from reactor operation, service and sampling. The agreed discharge ceiling was **0.05 curies / 50 millicuries annually** into a dedicated ice-sheet wastewater well. Danish documentation cited by GAO records **72.3 millicuries total** over the three-year operating period, below the **150-millicurie** cumulative allowance.
 - PM-2A dismantlement: documentation cited by GAO records the return to the United States of **136 drums of solid reactor waste**, **three reactor water-purification plants**, **all 37 spent fuel elements**, and the remaining reactor plant; current USACE institutional history likewise describes PM-2A as dismantled and removed rather than left in place.
 - 2016 abandoned-material reconstruction: approximately **9,200 t physical waste**, **200,000 L diesel**, at least **24 million L grey water/sewage**, probable PCB-containing material, and reactor-associated liquid radiological waste.
 - 2017 radar: most debris reflectors deeper than **32 m**; principal tunnel network roughly **45–55 m**; debris field radius under **1 km**.
 - 2021 firn projection: upper debris horizon projected around **58–64 m** depth in 2100; modeled maximum surface meltwater percolation approximately **1.1 m**; interaction before 2100 described as extremely unlikely across the tested RCP scenarios.
 - 2023 basal-sediment result: flowing-water deposition in an ice-free environment **416 ± 38 ka**; local surface exposure **<16 ka** before deposition; ice-sheet modeling implies at least **1.4 m sea-level-equivalent** Greenland contribution for a geometry exposing Camp Century.
+
+## Chapter 7 claim boundaries — deformation
+
+- **Documented:** deformation was expected and usually close to prediction under ordinary thermal conditions. The failure story should not say engineers discovered for the first time that ice moves.
+- **Documented:** persistent internal heat could warm surrounding snow/firn enough to accelerate deformation several-fold; Camp Century therefore coupled habitation heat directly into structural maintenance.
+- **Documented:** measured closure varied strongly by trench and station. Do not turn the 30-inch average into a universal constant.
+- **Documented:** wide PM-2A trenches suffered severe Wonder-Arch distress aggravated by nonsymmetrical snow loading from incomplete covering; sections were raised twice by about six feet during the reactor's operating life.
+- **Counterevidence to an impossibility narrative:** Clark concluded that subsurface ice camps were feasible and practicable for certain purposes. Camp Century demonstrates a maintenance/scale problem, not a theorem that all under-ice construction is impossible.
+- **Open Iceworm question:** the full network economics require route length by geometry, allowable clearance loss, trimming productivity, imported structural material, thermal loads, geodetic resurvey, replacement rate and intended strategic lifetime. The manuscript should not claim this calculation is complete.
+
+See `ch07-deformation-audit.md` for the extracted engineering table and frozen interpretation.
 
 ## Chapter 4 claim boundaries — PM-2A
 
@@ -77,7 +91,7 @@ Classification attaches to individual claims, not whole sources.
 ## Research gaps before publication-length lock
 
 1. Recover the full declassified *Strategic Value of the Greenland Ice Cap* / Iceworm planning record and build a document-by-document decision timeline rather than relying primarily on Petersen’s reconstruction.
-2. Extract exact trench closure / roof-load / maintenance values from CRREL Technical Report 174 and the supporting structural reports into a quantitative appendix.
+2. Convert the now-frozen Camp Century closure data into an Iceworm network-maintenance model with route length, excavation productivity, structural replacement and energy/logistics costs.
 3. Complete the PM-2A operations table beyond the now-frozen waste/dismantlement facts: criticality date, thermal/electrical output, outage history, shielding measurements and modifications, occupational dose, fuel burnup, shutdown economics and component disposition.
 4. Reconcile the 2016 waste inventory with GAO’s 2024 archival accounting at contaminant and disposal-location level.
 5. Build a chain-of-custody table for basal material from July 1966 recovery through Copenhagen storage, 2017 rediscovery and current subsampling.
