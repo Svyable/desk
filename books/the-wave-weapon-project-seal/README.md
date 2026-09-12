@@ -1,4 +1,4 @@
-# The Wave Weapon: Project Seal and the Bomb That Tried to Move the Sea
+# Wave Weapon: Project Seal and the Bomb That Tried to Move the Sea
 
 **Author:** Sven Hardy Benson
 **Status:** Drafting
