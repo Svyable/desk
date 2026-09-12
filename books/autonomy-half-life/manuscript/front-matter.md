@@ -2,7 +2,7 @@
 
 *Why Authority Should Decay as the World Changes*
 
-Sven Hardy Benson
+**Sven Hardy Benson**
 
 There is an old habit hidden inside modern autonomy.
 

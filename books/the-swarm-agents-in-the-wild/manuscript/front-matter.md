@@ -1,4 +1,4 @@
-# The Swarm: Agents in the Wild
+# Swarm: Agents in the Wild
 
 *A Field Guide to Synthetic Ecology*
 

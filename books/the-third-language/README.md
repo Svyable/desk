@@ -1,5 +1,7 @@
 # Third Language
 
+*How Animals Talk Back — and What Happens When We Finally Learn to Listen*
+
 <!-- bookself-reader-links:start -->
 **Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/the-third-language/)
 <!-- bookself-reader-links:end -->
@@ -8,7 +10,7 @@
 
 | | |
 |---|---|
-| **Author** | Sven Hardy Benson |
+| **Authors** | Sven Hardy Benson |
 | **Status** | Complete first draft |
 | **Chapters** | 20 of 20 drafted |
 

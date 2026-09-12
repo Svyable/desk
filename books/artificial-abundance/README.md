@@ -1,5 +1,7 @@
 # Artificial Abundance
 
+*When Intelligence Becomes Cheap, What Becomes Priceless?*
+
 <!-- bookself-reader-links:start -->
 **Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/artificial-abundance/)
 <!-- bookself-reader-links:end -->

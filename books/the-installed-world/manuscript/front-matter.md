@@ -1,4 +1,4 @@
-# The Installed World
+# Installed World
 
 *Why the Future Has to Fit Through What Already Exists*
 

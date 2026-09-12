@@ -1,4 +1,4 @@
-# The Murder That Mattered Most
+# Which Murder Mattered Most?
 
 *250 Years of America, One Consequential Killing at a Time*
 

@@ -1,8 +1,8 @@
-# The Other 250
+# America’s Other 250
 
-Twenty-Six Overlooked Events That Made America
+*Twenty-Six Overlooked Events That Made America*
 
-Sven Hardy Benson
+**Sven Hardy Benson**
 
 A country remembers itself in scenes.
 

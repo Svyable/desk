@@ -1,12 +1,14 @@
 # Autonomy Half-Life
 
+*Why Authority Should Decay as the World Changes*
+
 <!-- bookself-reader-links:start -->
 **Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/autonomy-half-life/)
 <!-- bookself-reader-links:end -->
 
 | | |
 |---|---|
-| **Author**    | Sven Hardy Benson |
+| **Authors**    | Sven Hardy Benson |
 | **Status**    | Drafting |
 | **Format** | Book |
 | **Publisher** | Svyable |

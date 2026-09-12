@@ -1,8 +1,8 @@
-# The Ten-Year Republic
+# Ten-Year Republic
 
 *One Defining Event from Every Ten Years of America, 1776–2026*
 
-Sven Hardy Benson
+**Sven Hardy Benson**
 
 © 2026 Sven Hardy Benson. All Rights Reserved.
 

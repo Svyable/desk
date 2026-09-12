@@ -1,4 +1,4 @@
-# The Expiration Machine
+# Trust With a Fuse
 
 *How Civilization Learned to Make Trust Temporary*
 

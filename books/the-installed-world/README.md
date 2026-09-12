@@ -1,12 +1,14 @@
 # Installed World
 
+*Why the Future Has to Fit Through What Already Exists*
+
 <!-- bookself-reader-links:start -->
 **Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/the-installed-world/)
 <!-- bookself-reader-links:end -->
 
 | | |
 |---|---|
-| **Author**    | Sven Hardy Benson |
+| **Authors**    | Sven Hardy Benson |
 | **Status**    | Drafting |
 | **Chapters**  | 20 of 20 drafted |
 

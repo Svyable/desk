@@ -1,4 +1,6 @@
-# The Decisive 25: The People Who Made America, One Decade at a Time
+# Decisive 25
+
+*The People Who Made America, One Decade at a Time*
 
 **Sven Hardy Benson**
 

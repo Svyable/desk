@@ -1,14 +1,10 @@
-# The Abstraction Trap
+# Abstraction Trap
 
-*The Abstraction Trap*
+*How Useful Simplifications Become Dangerous Realities*
 
 **Sven Hardy Benson**
 
 ---
-
-**How Useful Simplifications Become Dangerous Realities**
-
-Sven Hard Benson
 
 A map is useful because it omits almost everything. A balance sheet is useful for the same reason. So is a musical score, a probability, a job title, a credit rating, a gross-domestic-product figure, an organizational chart, a market price, a model benchmark, and the little red number on an app icon. Civilization scales by turning thick reality into thinner symbols that can travel farther than the circumstances from which they came.
 

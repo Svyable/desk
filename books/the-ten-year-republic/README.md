@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| **Author** | Sven Hardy Benson |
+| **Authors** | Sven Hardy Benson |
 | **Status** | Expanded working draft · length audit |
 | **Form** | Narrative nonfiction / American history |
 | **Chapters** | 25 / 25 drafted + epilogue |

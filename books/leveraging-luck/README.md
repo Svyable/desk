@@ -1,12 +1,14 @@
 # Leveraging Luck
 
+*An Optimistic Guide to Life*
+
 <!-- bookself-reader-links:start -->
 **Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/leveraging-luck/) · [Published edition · Shelf Reader](https://svyable.github.io/shelf/reader/#/b/leveraging-luck/)
 <!-- bookself-reader-links:end -->
 
 | | |
 |---|---|
-| **Author**    | Sven Hardy Benson |
+| **Authors**    | Sven Hardy Benson |
 | **Status**    | Revision in progress |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |

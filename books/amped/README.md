@@ -1,4 +1,6 @@
-# Amped: How Power-Hungry Data Centers Are Revolutionizing the American Grid
+# Amped
+
+*How Power-Hungry Data Centers Are Revolutionizing the American Grid*
 
 <!-- bookself-reader-links:start -->
 **Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/amped/)

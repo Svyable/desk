@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| **Author** | Sven Hardy Benson |
+| **Authors** | Sven Hardy Benson |
 | **Status** | Expanded first draft |
 | **Chapters** | 12 + prologue + epilogue + back matter |
 | **Draft date** | September 3, 2026 |

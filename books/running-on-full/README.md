@@ -1,5 +1,7 @@
 # Running on Full
 
+*How to Get the Most of Your AI Compute*
+
 <!-- bookself-reader-links:start -->
 **Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/running-on-full/)
 <!-- bookself-reader-links:end -->

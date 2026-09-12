@@ -2,7 +2,7 @@
 
 *Twenty-Five Books, Twenty-Five Decades, and the Stories Behind a Nation*
 
-Sven Hardy Benson
+**Sven Hardy Benson**
 
 A country can be founded in a room and still require a printing press.
 

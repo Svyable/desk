@@ -1,4 +1,4 @@
-# The Waiting List
+# Waiting List
 
 *How We Really Decide Who Gets What*
 

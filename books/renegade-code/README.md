@@ -1,5 +1,7 @@
 # Renegade Code
 
+*What Happens When AI Escapes Containment*
+
 <!-- bookself-reader-links:start -->
 **Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/renegade-code/) · [Published edition · Shelf Reader](https://svyable.github.io/shelf/reader/#/b/renegade-code/)
 <!-- bookself-reader-links:end -->
@@ -8,7 +10,7 @@
 
 | | |
 |---|---|
-| **Author** | Sven Hardy Benson |
+| **Authors** | Sven Hardy Benson |
 | **Status** | Complete draft |
 | **Form** | Narrative nonfiction / technology / security |
 | **Chapters** | 26 of 26 |

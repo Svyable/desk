@@ -1,12 +1,14 @@
 # Gradient Ascent
 
+*Hiding Signal in Artificial Noise*
+
 <!-- bookself-reader-links:start -->
 **Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/gradient-ascent/)
 <!-- bookself-reader-links:end -->
 
 | | |
 |---|---|
-| **Authors**   | @svyable |
+| **Authors**   | Sven Hardy Benson |
 | **Status**    | Drafting |
 | **Chapters**  | 16 of 24 drafted |
 

@@ -1,12 +1,14 @@
 # Shannon's Demon
 
+*Claude Shannon and the Invention of the Digital Mind*
+
 <!-- bookself-reader-links:start -->
 **Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/shannons-demon/)
 <!-- bookself-reader-links:end -->
 
 | | |
 |---|---|
-| **Author**    | Sven Hardy Benson |
+| **Authors**    | Sven Hardy Benson |
 | **Status**    | Drafting |
 | **Drafting Source** | Sven Hardy Benson's Desk |
 | **Publication Surface** | Sven Hardy Benson's Shelf |

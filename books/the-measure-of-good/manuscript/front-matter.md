@@ -1,4 +1,4 @@
-# The Measure of Good
+# What Counts as Good?
 
 **Sven Hardy Benson**
 

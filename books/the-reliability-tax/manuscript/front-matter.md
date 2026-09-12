@@ -1,4 +1,4 @@
-# The Reliability Tax
+# Reliability Tax
 
 *Why Civilization Pays for Things Not to Happen*
 

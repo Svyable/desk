@@ -1,5 +1,7 @@
 # Artificial Promises
 
+*How Founders Sell Tomorrow Before It Exists*
+
 <!-- bookself-reader-links:start -->
 **Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/artificial-promises/)
 <!-- bookself-reader-links:end -->

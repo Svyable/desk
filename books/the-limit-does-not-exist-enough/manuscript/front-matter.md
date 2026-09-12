@@ -1,4 +1,12 @@
-# The Number After Enough
+# The Limit Does Not Exist
+
+*How Much Is Enough?*
+
+**Sven Hardy Benson**
+
+---
+
+## The Number After Enough
 
 There is a peculiar kind of number that almost never appears on a financial statement, a fitness dashboard, a résumé, a growth plan, a leaderboard, or a map of an empire.
 

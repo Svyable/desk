@@ -1,4 +1,4 @@
-# The Hundred-Year Career
+# Hundred-Year Career
 
 *Work, Identity, and Reinvention in a Life That No Longer Has One Profession*
 

@@ -2,7 +2,7 @@
 
 *Twenty-Six Schools, 250 Years, and the Classrooms That Made a Nation*
 
-Sven Hardy Benson
+**Sven Hardy Benson**
 
 There is a familiar way to tell the history of the United States. Begin with a declaration. Move through presidents, wars, elections, inventions, court decisions, depressions, booms, movements, assassinations, scandals, and technologies. Keep the camera mostly on adults who already possess power. Schools appear when a Supreme Court case requires one, when a protest spills onto a campus, or when a statistic about literacy or college attendance helps explain something happening elsewhere.
 

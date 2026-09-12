@@ -1,5 +1,7 @@
 # The Crime That Made the Decade
 
+*250 Years, 25 Crimes, and the America They Left Behind*
+
 <!-- bookself-reader-links:start -->
 **Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/the-crime-that-made-the-decade/)
 <!-- bookself-reader-links:end -->
@@ -8,7 +10,7 @@
 
 | | |
 |---|---|
-| **Author** | Sven Hardy Benson |
+| **Authors** | Sven Hardy Benson |
 | **Status** | Complete first draft; research and mechanical expansion pending |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |

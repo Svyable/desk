@@ -1,4 +1,4 @@
-# The Potentiality
+# Potentiality
 
 **Sven Hardy Benson**
 
