@@ -240,6 +240,21 @@ if catalog_manifest_check.returncode:
     )
 
 readme_text = README.read_text(encoding="utf-8")
+cover_check = subprocess.run(
+    [sys.executable, str(ROOT / "scripts" / "check-book-cover-metadata.py"), "--root", str(ROOT), "--json"],
+    check=False,
+    capture_output=True,
+    text=True,
+)
+if cover_check.returncode:
+    try:
+        cover_report = json.loads(cover_check.stdout)
+    except json.JSONDecodeError:
+        fail(f"cover metadata audit failed: {cover_check.stderr.strip() or cover_check.stdout.strip()}")
+    else:
+        for error in cover_report.get("errors", []) or ["cover audit failed without diagnostics"]:
+            fail(f"cover metadata: {error}")
+
 rows = dashboard_rows(readme_text)
 readme_slugs = {book_slug for book_slug, _reader_slug in rows}
 compare("README book catalog", book_dirs, readme_slugs)
