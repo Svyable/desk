@@ -8,9 +8,17 @@ Sources are grouped by evidentiary role, not by the order in which they were fou
 
 - PubMed: https://pubmed.ncbi.nlm.nih.gov/21016030/
 - *Journal of Industrial Hygiene and Toxicology*, January 1946, vol. 28, pp. 9–16.
-- **Use:** Central published survey. Examined 1,074 pipe coverers and reported three cases of asbestosis; the affected workers had long occupational histories. The publication also described dust-producing tasks and recommended local exhaust for selected operations while reaching the broad conclusion that naval pipe covering was not a dangerous trade.
+- **Use:** Central published survey. Examined 1,074 pipe coverers and reported three cases of asbestosis; all three affected workers had more than twenty years in the trade. The publication also described dust-producing tasks and recommended local exhaust for selected operations while reaching the broad conclusion that naval pipe covering was not a dangerous trade.
 - **Evidence class:** 1 for publication/design/findings; class 2 for claims about its downstream institutional influence unless tied to citations or correspondence.
+- **Latency denominator:** Later judicial reconstructions, including *Borel v. Fibreboard*, report that about **95% of the 1,074 workers had less than ten years in the trade**. Treat this as a high-value reconstructed figure pending direct extraction of the original worker-duration table. The paper's own discussion also acknowledged that sampled dust levels did not represent a worker's multi-year exposure history and that sustained high-dust work would have produced more asbestosis.
 - **Next extraction:** Recover full text in a stable archive and tabulate every reported worker-duration category, dust sample, operation, control condition, radiographic criterion, and limitation.
+
+### Judicial reconstructions of the 1946 denominator
+
+- *Borel v. Fibreboard Paper Products Corp.*, 493 F.2d 1076 (5th Cir. 1973). Accessible mirror: https://www.casemine.com/judgement/us/5914c6daadd7b049347de266 — reports that 95% of the surveyed workers had less than ten years in the trade and contrasts the young denominator with the long latency of diagnosable asbestosis. It also preserves the original paper's warning that sampled dust did not represent years of exposure.
+- *Moran v. Johns-Manville Sales Corp.*, 691 F.2d 811 (6th Cir. 1982): https://law.resource.org/pub/us/case/reporter/F2/691/691.F2d.811.81-3373.html — likewise discusses the small long-term-exposure fraction and the paper's high-dust caveat.
+- **Evidence class:** 1 for what the judicial opinions report about their records and quoted historical material; the final manuscript should still replace reconstructed duration statistics with the original table if a stable scan is recovered.
+- **Claim boundary:** `3 / 1,074` is a cross-sectional prevalence result, not a lifetime-risk denominator. The 95% figure does not establish fraudulent sampling, deliberate selection of short-tenure workers, or that the 1946 study alone caused later Navy asbestos policy.
 
 ## Navy wartime knowledge and Bath Iron Works
 
@@ -151,6 +159,7 @@ Sources are grouped by evidentiary role, not by the order in which they were fou
 ### “When errors become etched in stone: The U.S. Navy's deeply flawed, never retracted World War II asbestos epidemiology study” (2026)
 
 - PubMed: https://pubmed.ncbi.nlm.nih.gov/42307414/
+- DOI: https://doi.org/10.1177/10482911261446696
 - **Use:** Recent critique arguing that the 1946 Fleischer/Drinker survey contained major epidemiological/industrial-hygiene flaws and that its reassuring conclusion had long downstream consequences.
 - **Evidence class:** 2 for historical/causal interpretation; use as critique, not as authority for the stronger claim that the study alone caused later disease or that the Navy deliberately withheld protection.
 - **Value:** Forces a modern methodological audit of the central survey and directly contests state-of-the-art defense uses of it.
@@ -162,5 +171,6 @@ Sources are grouped by evidentiary role, not by the order in which they were fou
 - A classified stamp is evidence of access restriction, not automatically of health-concealment motive.
 - A safety requirement is evidence of formal hazard recognition/control policy, not of implementation.
 - A normal chest film is a contemporaneous observation, not a lifetime negative outcome.
+- A large cross-sectional denominator is not automatically a mature-risk denominator; exposure duration and disease latency must travel with prevalence figures.
 - Later science changes the state of knowledge prospectively; it should not be projected backward as if known in wartime.
 - Current VA/OSHA/NIOSH materials establish current or later institutional posture, not what a 1940s official knew.
