@@ -6,6 +6,16 @@ This sounds too obvious to mention. Official biographies encourage the opposite 
 
 Nicholas Burns came from Massachusetts.
 
+More particularly, he grew up in Wellesley.
+
+Years later, when a sportswriter asked about his own baseball credentials, Burns located the high point of his playing career in the Wellesley Babe Ruth League. It is a wonderfully modest credential. Not college ball. Not a tryout. Not some lost almost-professional mythology. Organized youth baseball in a Massachusetts town.
+
+That matters because it gives the baseball in this story a physical beginning.
+
+Before Red Sox Nation became a phrase Burns could use behind a State Department podium, baseball was a game he had actually played.
+
+The surviving evidence does not yet tell us his position, his team, his batting average, or which fields he played on. It does not justify placing a glove on one hand or a particular uniform on his back. But it does establish the important thing cleanly: the sport was not merely watched from a distance.
+
 That fact would remain visible.
 
 Boston is unusually generous to biography because it supplies its residents with identities they can carry elsewhere without explanation. The accent may fade. The affiliations do not. Neighborhood, school, parish, university, politics, teams: each can become a shorthand for belonging.
@@ -13,6 +23,26 @@ Boston is unusually generous to biography because it supplies its residents with
 The Red Sox are among the most portable.
 
 For a child growing up in Massachusetts in the second half of the twentieth century, the team offered something more complicated than uncomplicated civic pride. Fenway Park was old even then. The club possessed history in abundance and championships in scarcity. Generations inherited stories of seasons that had ended before they were born.
+
+Burns's own family supplied one version of that inheritance.
+
+In a 1997 State Department briefing, after reporters pulled him once again into Red Sox talk, Burns explained that his mother had been a fan. His father had been hurt badly enough by the team going back to the 1930s that he advised his children not to root for Boston.
+
+Burns said he ignored the advice.
+
+There is no need to improve that story.
+
+A father says: spare yourself.
+
+A son roots for them anyway.
+
+By the time Burns was eleven, the 1967 Red Sox had produced the Impossible Dream season. At nineteen came Carlton Fisk waving a home run fair in the 1975 World Series and Cincinnati winning the championship the next night. In Burns's Boston College graduation year, 1978, the Yankees erased a huge summer deficit and Bucky Dent put a home run over the Green Monster in the division tiebreaker. Those are facts about the baseball culture surrounding his Massachusetts life, not yet memories we can assign to him. The distinction matters. We do not know where he watched those games, whether he attended them, or which one mattered most.
+
+We know enough without pretending.
+
+He played baseball in Wellesley. His mother rooted for the Red Sox. His father carried an older generation's disappointment and warned the children away. Burns chose the team anyway.
+
+That is already a real inheritance.
 
 Burns would later speak publicly and casually about being part of Red Sox Nation. The phrase mattered less than the ease with which he used it. Baseball did not appear as a hobby appended to the official biography. It functioned as identification.
 
@@ -32,7 +62,7 @@ The contradiction cannot be eliminated.
 
 It can be used honestly.
 
-Burns's later career would depend on the ability to separate personal identity from official authority without pretending personal identity had vanished. He could be from Boston and speak for Washington. He could be a Democrat or Republican voter in private—whatever his ballot said—and serve presidents of both parties in public. He could love the Red Sox and negotiate with someone who had never watched an inning.
+Burns's later career would depend on the ability to separate personal identity from official authority without pretending personal identity had vanished. He could be from Boston and speak for Washington. He could serve presidents of both parties without requiring counterpart governments to care about his private politics. He could love the Red Sox and negotiate with someone who had never watched an inning.
 
 The point was not to become neutral as a human being.
 
