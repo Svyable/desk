@@ -10,6 +10,12 @@ Working source trail for *Edge Case*. Links are preserved as usable research pat
 - Richard H. Pantell and Harold E. Puthoff, *Fundamentals of Quantum Electronics* (Wiley, 1969). WorldCat: https://search.worldcat.org/title/Fundamentals-of-quantum-electronics/oclc/901415232
 - SEC, To The Stars Inc., 2025 annual report, current corporate biography of Puthoff and career history: https://www.sec.gov/Archives/edgar/data/1710274/000149315226019571/partii.htm
 
+## SRI program origin and first CIA money
+
+- Harold E. Puthoff, “CIA-Initiated Remote Viewing Program at Stanford Research Institute,” *Journal of Scientific Exploration* 10, no. 1 (1996), participant retrospective of the 1972 origin, Swann contact, early SRI experiments and CIA interest: https://www.scientificexploration.org/docs/10/jse_10_1_puthoff.pdf . Treat interpersonal details as retrospective testimony.
+- CIA internal historical paper, CIA-RDP88G01116R000600690003-8, often released under *Parapsychology and Personalogy*: official CIA Reading Room record https://www.cia.gov/readingroom/document/cia-rdp88g01116r000600690003-8 . The institutional history records Puthoff’s 27 June 1972 contact with Kenneth Green after the Swann/magnetometer episode, an initial OTS work order of $874 for an August demonstration, a $2,500 follow-on, and expansion to roughly $50,000 under Contract 8473 dated 1 October 1972.
+- Puthoff 1995 interview, useful only as participant recollection, in which he said the remote-viewing work “started as a lark” and remembered about $50,000 in initial substantial CIA support: https://www.independent.co.uk/arts-entertainment/a-psychic-spy-tells-his-story-1601937.html
+
 ## SRI / remote viewing / government program
 
 - Russell Targ and Harold Puthoff, “Information transmission under conditions of sensory shielding,” *Nature* 251 (1974), 602–607: https://doi.org/10.1038/251602a0 . Nature records receipt 11 March 1974, revision 8 July, publication 18 October.
