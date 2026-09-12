@@ -1,17 +1,19 @@
 # Three Million Dollars
 
-On April 2, 1981, Canada and the Soviet Union signed a settlement in Moscow. The text is admirably short.
+On April 2, 1981, Canada and the Soviet Union signed a three-article protocol in Moscow. It is short enough that the missing sentence is conspicuous: nowhere does the Soviet government admit liability.
 
-The Soviet government agreed to pay Canada three million Canadian dollars in full and final settlement of all matters connected with the disintegration of Cosmos 954. Canada accepted the payment on the same basis.
+What the text does say is harder to wave away. Moscow agreed to pay C$3 million, and Ottawa agreed to accept it, in "full and final settlement" of all matters connected with the disintegration of Cosmos 954, including the Canadian claim.
 
-Three million was less than Canada had sought. It was also something more useful than a perfect doctrinal victory: money actually paid by one state to another after a space object scattered radioactive debris across national territory.
+That claim had been considerably larger. Canada's January 1979 submission asked for C$6,041,174.70. The number did not represent everything the government had spent. Canadian departments and agencies had incurred about C$13.97 million during the two phases of Morning Light, but Ottawa claimed only the portion it said was reasonable, proximately caused by the satellite's intrusion and debris, and calculable with reasonable certainty. Phase I alone cost more than C$12 million; Canada put about C$4.41 million of it on the Soviet bill. Phase II cost about C$1.92 million, of which roughly C$1.63 million was claimed.
 
-The settlement's legal meaning has been debated because the Soviet payment did not amount to a judicial ruling on every Canadian interpretation of the Liability Convention. United Nations materials later described it as a settlement and, in some contexts, as an ex gratia or goodwill payment. That ambiguity is important.
+The arithmetic matters because it keeps the settlement from becoming a morality play about one superpower paying half of what it owed. Canada had already drawn a legal boundary inside its own expenditures. Search and cleanup could be compensable; ordinary salaries, standing capacity, or costs too remote from the accident did not automatically become Soviet debt merely because they occurred during the emergency.
 
-Precedent in international law is not always a clean holding. Sometimes it is behavior under pressure that later lawyers mine for norms.
+The settlement drew a second boundary and left it deliberately untidy. Canada had invoked the 1972 Liability Convention and general principles of international law. The protocol disposed of the dispute without saying which theory prevailed, whether every category in the Canadian claim qualified as "damage" under the convention, or why C$3 million was the right number. Later United Nations legal work has accordingly described the payment as ex gratia. That characterization is useful precisely because it prevents a diplomatic compromise from masquerading as a court judgment.
 
-Canada's practical theory—that reasonable search, recovery and cleanup costs can count—eventually appeared in later United Nations principles concerning nuclear power sources in outer space. The 1992 principles explicitly contemplated reimbursement of substantiated search, recovery and cleanup expenses.
+There is a strong counterargument to treating Cosmos 954 as legal precedent at all. The parties never convened a claims commission, no tribunal interpreted the convention, and the Soviet Union bought finality without conceding Canada's doctrinal case. A later lawyer cannot simply point to three million dollars and say the meaning of "damage" was settled in 1981.
 
-That does not make Cosmos 954 the sole cause of later law. It does show how an accident can give abstract treaty language a physical vocabulary.
+But the episode did leave a more modest institutional trace. In 1992 the United Nations General Assembly adopted principles for nuclear power sources in outer space. Principle 9 says compensation should include duly substantiated expenses for search, recovery and clean-up operations, including assistance received from third parties. That language resembles a category Canada had insisted upon after Cosmos 954. It does not prove that the Canadian claim caused the rule; the intervening negotiations have their own history. It does show that by 1992 the once-awkward proposition that preventive search and cleanup can themselves belong inside compensation had become explicit international language.
 
-Before 1978, liability for a nuclear-powered satellite could be discussed as a hypothetical. Afterward, it had aircraft hours, field teams, laboratory invoices and a signature line in Moscow.
+The most durable fact, then, is not that Canada "won" six million and collected three. It is that an accident forced governments to turn radiation risk into line items: which helicopter hours belonged to the satellite, which laboratory costs were close enough to count, which preventive measures were reasonable, and which expenses a state could defend to another state as something more than the ordinary cost of governing.
+
+The protocol signed in Moscow settled the invoice. It did not settle all the law.
