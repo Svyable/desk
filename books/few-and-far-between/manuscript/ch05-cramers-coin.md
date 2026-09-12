@@ -1,81 +1,151 @@
 # Cramér’s Coin
 
-Harald Cramér’s 1936 paper on the difference between consecutive primes gave number theory one of its most durable imaginary machines.
+Harald Cramér’s 1936 paper gave number theory one of its most durable imaginary machines.
 
 The machine is a sequence of biased coin tosses.
 
-For each integer n, flip a coin that lands “prime” with probability roughly 1/log n. Ignore, for a moment, the fact that divisibility makes this fiction impossible in detail. The resulting random set has about the right density to imitate the primes. Ask how far apart successive successes are. Ask how large the largest run of failures becomes.
+For each integer `n`, flip a coin that lands “prime” with probability roughly `1/log n`. Pretend the tosses are independent. The set of successes then has about the right first-order density because the prime number theorem says primes near `x` occur with average spacing about `log x`.
 
-This is the Cramér model in its simplest form.
+This is already wrong in a way everybody can see. If 101 is prime, 103 is not somehow independent of the fact that it must avoid divisibility by 2, 3, 5, 7 and every other small prime. Actual integers arrive carrying congruence information. Cramér deletes most of that information on purpose.
 
-Its great virtue is not that it is true. It is that it turns vague intuition into a quantitative forecast. Around x, if success probability is about 1/log x, then typical gaps have scale log x. Extreme-value heuristics suggest the largest gaps up to x should have scale about log^2 x. This became the famous Cramér conjectural order for maximal prime gaps.
+The deletion is the point.
 
-Then arithmetic began objecting.
+Once the arithmetic is stripped away, a hard deterministic question becomes an extreme-value problem. Near `x`, the probability of a success is about `1/log x`, so a typical wait is about `log x`. Among roughly `x` opportunities, the longest unlucky run acquires another logarithmic factor. The maximal gap scale becomes
 
-The true primes do not toss independent coins. They have already agreed never to occupy most residue classes modulo small primes. Once you condition on avoiding divisibility by 2, 3, 5, and so on, candidate prime locations are more structured than Cramér’s independent model allows. Andrew Granville later emphasized that these small-prime correlations can alter the constant one expects in extreme-gap behavior. The model may have the right scale while missing the fine architecture.
+`G(x) ~ log² x`,
 
-This is a recurring pattern in analytic number theory. A probabilistic model captures the first order, then arithmetic corrects the tails.
+where `G(x)` denotes the largest gap between consecutive primes up to `x`.
 
-Why keep the model at all?
+That napkin calculation is one of the most seductive transitions in mathematics. Average spacing gives you one logarithm. Extreme-value statistics supplies another. Suddenly the emptiest intervals in a deterministic sequence have a probabilistic scale.
 
-Because it gives us something to fight with.
+Cramér’s original work and the tradition built around it are often compressed into the sentence “prime gaps should be at most about `log² x`.” That shorthand hides several different claims.
 
-A conjecture without a heuristic can become a naked guess. Cramér’s model supplies an argument for why log^2 x is natural. Large gaps become longest failure runs in a thinning Bernoulli process. Small gaps become unusually close successes. Counts in intervals acquire familiar fluctuation scales. One can then compare the actual primes against the imagined process and ask where the analogy breaks.
+One is an **order-of-magnitude conjecture**: maximal gaps should not grow much faster than `log² x`.
 
-Those breaks are often more interesting than the agreements.
+A stronger version predicts a limiting extreme constant. In modern language one is led to expect that normalized record gaps `G(x)/log² x` should reach values of order one, with Cramér’s simplest independent model suggesting `1` as the natural constant.
 
-Jacobsthal-type phenomena, covering congruences, Maier’s matrix method, and modern large-gap constructions all reveal arithmetic mechanisms invisible to independent tossing. The primes can produce deserts not merely because random failures occasionally cluster, but because residue classes can be coordinated so that every integer in a long interval is forced composite.
+Those statements are not theorems.
 
-That is not chance. It is engineering.
+The distinction matters because the proved upper bounds are still on an entirely different scale.
 
-Cramér’s coin therefore has two lives. In one, it is a predictive model. In the other, it is a foil for the fact that primes remember arithmetic.
+The best classical unconditional control quoted in the modern large-gap literature is of the form
 
-There is a philosophical trap nearby. When a deterministic sequence agrees with a random model, people sometimes conclude that the sequence “is random.” That statement is too coarse to be useful. Randomness has many meanings: algorithmic incompressibility, statistical independence, equidistribution, unpredictability under a chosen test, lack of correlation with structured sequences. The primes satisfy some random-like properties and violate others spectacularly.
+`G(x) << x^0.525`,
 
-A better question is always: random with respect to what statistic?
+coming from results on primes in short intervals. That is enormously larger than `log² x`. Even assuming the Riemann Hypothesis, the familiar consequence is only of order
 
-For average density, the prime number theorem gives a remarkably smooth law.
+`G(x) << x^(1/2) log x`,
 
-For primes in arithmetic progressions, Dirichlet and later quantitative theorems tell us how density is distributed across reduced residue classes.
+again vastly above the Cramér scale.
 
-For short intervals, the picture becomes harder.
+So there is a strange inversion here. The probabilistic picture gives a prediction precise enough to argue over a constant. The theorem does not yet reach the same universe of growth rates.
 
-For linear patterns, Hardy–Littlewood predicts local corrections.
+This is not a defect in the heuristic. It is a warning about what the heuristic is doing.
 
-For maximal gaps, Cramér offers an extreme-value benchmark that arithmetic may modify.
+Cramér’s coin is not summarizing proved knowledge. It is making a wager about local extremity far beyond current control.
 
-For consecutive residue classes, subtle biases appear.
+Then Andrew Granville made the wager more uncomfortable.
 
-The same primes can look random in one projection and highly structured in another.
+The independent model treats every large integer near `x` as though its primality chance were a fresh `1/log x` toss. But actual candidate primes have first survived a sieve by small primes. They are not distributed like untouched integers. If you condition correctly on avoiding small prime divisors before adding the probabilistic approximation, the extreme statistics change.
 
-This is why gap research is so good at exposing bad metaphors. “Primes are random” is too blunt. “Primes are patterned” is equally blunt. The subject lives in the qualifiers.
+Granville’s 1995 analysis argued that if one accepts the spirit of Cramér’s extreme-gap reasoning, the arithmetic correction should push the relevant lower extreme constant from `1` to at least
 
-Cramér’s original paper belongs to a period when probabilistic thinking was becoming a powerful language for number theory. Later probabilistic number theory would formalize distributions of arithmetic functions in ways far beyond this model. Yet the coin remains irresistible because anybody can understand it.
+`2e^{-γ} ≈ 1.1229`,
 
-Suppose the chance of a prime near x is about 1/log x. Then waiting time about log x makes sense. To get an empty interval much longer than average, one needs a streak of failures. Among roughly x opportunities, the longest streak in an independent model naturally grows by another logarithmic factor. Hence log^2 x.
+where `γ` is the Euler–Mascheroni constant.
 
-The argument fits on a napkin.
+That number is not a theorem about maximal prime gaps either.
 
-Proving anything comparable for the actual primes does not.
+It is a correction to a heuristic generated by taking divisibility structure more seriously.
 
-There is an important asymmetry between upper and lower bounds for maximal gaps. To prove a large lower bound for G(x), we need construct or guarantee at least one very long prime-free interval. To prove an upper bound, we must guarantee that every sufficiently long interval contains a prime. The latter problem brushes against some of the deepest questions about primes in short intervals.
+This is the part of the story that matters most. Arithmetic does not merely add noise around a random baseline. It changes the baseline.
 
-Under the Riemann Hypothesis one obtains much stronger control than unconditionally, but even RH by itself does not hand us Cramér’s conjecture. The extreme local distribution of primes is a finer problem.
+The simplest model says: every location independently survives with probability `1/log x`.
 
-This is another lesson from the coin. A model can suggest an answer more precise than our strongest global theory can reach.
+The refined model says: no, first acknowledge that small primes carve the integers into permitted and forbidden residue classes; only then treat the survivors probabilistically.
 
-And sometimes the model deserves correction before the proof arrives.
+The distinction is exactly what the primes force on every statistical metaphor eventually. They can look random after you condition on the right structure. Choose the wrong conditioning and the tails betray you.
 
-If we sieve out small prime factors first, then model the remaining candidates probabilistically, we get a different random object. Granville’s refinements show how this changes extreme-gap constants and helps explain why raw Cramér independence is too naive. The local congruence structure acts before the random approximation, not after it.
+A small example makes the logic visible. Around a large `x`, half the integers are already forbidden by divisibility by 2. Another portion is removed by divisibility by 3, another by 5, and so on. The candidates that remain are sparse, but their sparseness is organized. Long prime-free runs can be manufactured when congruence classes line up so that consecutive integers are each captured by some small prime divisor.
 
-One can tell two stories about this.
+That is qualitatively different from a run of bad coin tosses.
 
-In the first, Cramér was wrong.
+It is closer to arranging the board before the coin is flipped.
 
-In the second, Cramér gave us exactly the right wrong model: simple enough to calculate, accurate enough to illuminate, and flawed enough to reveal what arithmetic contributes.
+This is why covering congruences and modern large-gap constructions belong in the same book as Cramér’s probabilistic model. A prime desert can arise because random-like opportunity fails repeatedly. It can also arise because arithmetic precludes opportunity across an interval.
 
-The second story is more useful.
+The two mechanisms can coexist.
 
-A good model does not need to survive contact with reality intact. It needs to make the point of failure informative.
+That makes the largest gaps unusually dangerous evidence for anyone who wants the primes to be either “random” or “patterned.”
+
+They are patterned enough that congruences can create deserts.
+
+They are random-looking enough that extreme-value models remain predictive guides.
+
+They are deterministic enough that neither description is literally causal.
+
+And they are poorly enough controlled that the cleanest asymptotic predictions remain unproved.
+
+The finite computations add another trap.
+
+Record-gap data can be normalized by `log² p` and compared with Cramér- or Granville-style constants. Published computations over enormous ranges have not simply marched toward an obvious asymptotic verdict. Up to finite computational limits, normalized record gaps can sit below the conjectural constants while still increasing irregularly. That does not refute the heuristic because asymptotic statements are about what happens arbitrarily far out, not what happens before the largest number somebody has certified.
+
+This is one of the recurring humiliations of prime research: `10^18` is unimaginably large in ordinary life and potentially tiny in asymptotic number theory.
+
+A graph can look conclusive for eighteen decimal orders and still be prehistory.
+
+Cramér’s coin therefore needs four labels attached to it.
+
+**First: density model.** It reproduces the prime-number-theorem scale `1/log x` by construction.
+
+**Second: extreme-value heuristic.** It suggests maximal gaps on the order of `log² x`.
+
+**Third: arithmetic correction.** Granville shows that small-prime structure changes the naive extreme constant and suggests the `2e^{-γ}` scale.
+
+**Fourth: unproved frontier.** Neither the naive nor refined asymptotic picture is remotely established by current unconditional upper bounds.
+
+Those labels prevent a common kind of mathematical laundering. A formula begins as a model. It gets repeated because it predicts data well. It acquires a name. Then the name is quoted as though the object had crossed from conjecture into theorem.
+
+Prime gaps punish that slippage because nearby statements can have radically different statuses.
+
+The prime number theorem is proved.
+
+Average gap scale `log x` follows from it.
+
+Cramér’s independent random model is a heuristic construction.
+
+`log² x` as the natural extreme scale is conjectural.
+
+Granville’s corrected constant is a refined heuristic.
+
+Current large-gap lower bounds are rigorous but live on a different expression involving iterated logarithms.
+
+Current upper bounds are rigorous but far larger than `log² x`.
+
+The hierarchy is not pedantry. It is the story.
+
+There is also a useful asymmetry between proving that a large gap exists and proving that no larger gap exists.
+
+A lower bound for `G(x)` needs one engineered desert. Find an interval where every integer is forced composite and you have your witness.
+
+An upper bound must protect **every** sufficiently long interval from being empty. That means proving primes cannot disappear anywhere for too long. This is why upper bounds on prime gaps become questions about primes in short intervals, and why global information like the Riemann Hypothesis still does not simply hand over the Cramér scale.
+
+Extreme local behavior is a finer demand than global regularity.
+
+The same lesson appears all over forecasting. A model can estimate the average remarkably well and still be weakest in the tail where the most dramatic observations live.
+
+Cramér’s coin is nearly perfect as a teaching object because it is not a failure.
+
+It is too useful to discard and too wrong to trust literally.
+
+The original paper is here: https://doi.org/10.4064/aa-2-1-23-46
+
+Granville’s 1995 correction is here: https://doi.org/10.1080/03461238.1995.10413946
+
+Modern large-gap literature makes the remaining theorem/heuristic distance explicit; for example Ford, Green, Konyagin, Maynard and Tao discuss the `x^0.525` unconditional upper-bound scale and the much smaller Cramér–Granville prediction: https://doi.org/10.1090/jams/876
+
+A good model does not need to survive contact with arithmetic intact.
+
+It needs to make the point of failure informative.
 
 The prime gaps have been doing that to Cramér’s coin for ninety years.
