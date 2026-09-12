@@ -1,8 +1,24 @@
-# China Baseball / Red Sox Diplomacy Pass — 2023–2025
+# China Baseball / Red Sox Diplomacy Pass — 2021–2025
 
 The China years give *Red Sox Diplomacy* a late-career test of the book's central question. By Beijing, Nicholas Burns was no longer a young spokesman discovering that baseball could loosen a room. He was the U.S. ambassador in the most consequential and politically constrained bilateral relationship of his career. The evidence shows that the Red Sox identity nevertheless remained visible in official public diplomacy.
 
 The important claim is not that baseball changed U.S.–China relations. It did not. The stronger, supportable point is that Burns continued using the same portable personal identity — Boston, baseball, Red Sox Nation — inside a far more difficult people-to-people environment.
+
+## 0. December 6, 2021 — the Red Sox identity arrives before the ambassador
+
+Before Burns was confirmed and before he reached Beijing, the State Department press corps was already treating his baseball allegiance as part of his public identity.
+
+During a December 6, 2021 briefing about the importance of getting a Senate-confirmed ambassador to China, spokesperson Ned Price praised Burns's experience and standing. A reporter interrupted: **“But he's a Red Sox fan.”** Price laughed, said the reporter had “maligned his sports preferences,” and immediately returned to the argument for confirming Burns.
+
+Source:
+- U.S. Department of State, Department Press Briefing, December 6, 2021:
+  https://2021-2025.state.gov/briefings/department-press-briefing-december-6-2021/
+
+### Why this matters
+
+This is small but unusually clean institutional continuity. The joke appears in a discussion of one of the most consequential ambassadorial appointments in the U.S. government, years after Burns had left the daily State briefing room. The press corps did not need the Red Sox persona reintroduced; it remained legible.
+
+Do not inflate the exchange. It proves recognition, not diplomatic significance.
 
 ## 1. July 4, 2023 — Burns literally pitches baseball at the embassy
 
@@ -130,7 +146,17 @@ That matters because it demonstrates current baseball fluency well after Burns l
 Source:
 https://www.belfercenter.org/research-analysis/lessons-front-lines-us-china-relationship
 
-## 8. Longitudinal arc: Athens to Beijing
+## 8. June 2025 — baseball vocabulary survives after the ambassadorship
+
+In a Belfer Center interview about U.S.–China climate negotiations, Burns describes the work that produced the Sunnylands climate statement as negotiators working in **“overtime or in extra innings as we'd say in American baseball.”**
+
+Source:
+- Robert N. Stavins and Nicholas Burns, “Nicholas Burns on His Time as U.S. Ambassador to China and on Efforts to Address Climate Change,” Belfer Center, June 9, 2025:
+  https://www.belfercenter.org/research-analysis/nicholas-burns-his-time-us-ambassador-china-and-efforts-address-climate-change
+
+This is not Red Sox-specific and should not be over-weighted. Its value is narrower: baseball language still appears naturally in Burns's diplomatic vocabulary when he is explaining long, difficult negotiations after government service.
+
+## 9. Longitudinal arc: Athens to Beijing
 
 The Greece and China evidence now supports a disciplined comparison.
 
@@ -138,17 +164,17 @@ The Greece and China evidence now supports a disciplined comparison.
 
 Burns's baseball identity meets a concrete local institutional problem: Greece must field an Olympic baseball team despite minimal infrastructure. His role expands into demonstrations, lobbying, introductions, diaspora networking, and institutional development.
 
-### China, 2023–2024
+### China, 2021–2024
 
-Baseball appears inside official public events, social media, travel imagery, and a Beijing clinic. The Red Sox identity remains playful and portable, but the surviving evidence shows a much smaller programmatic footprint.
+Before Burns arrives, Washington reporters already know the Red Sox persona. In Beijing, baseball appears inside official public events, social media, travel imagery, and a baseball clinic. The identity remains playful and portable, but the surviving evidence shows a much smaller programmatic footprint than Greece.
 
 ### Post-China, 2025
 
-Burns retrospectively acknowledges deliberate public use of the Sox hat across China and jokes about his limited success expanding Red Sox Nation.
+Burns retrospectively acknowledges deliberate public use of the Sox hat across China, jokes about his limited success expanding Red Sox Nation, critiques the Mookie Betts trade, and still uses baseball language when describing difficult bilateral negotiations.
 
 The comparison is useful precisely because the outcomes are not the same. Baseball is not a diplomatic technique that automatically produces a network. It is a personal/social resource whose utility depends on the host-country environment and the opportunity in front of the diplomat.
 
-## 9. Highest-value China archival targets
+## 10. Highest-value China archival targets
 
 1. Identify the organizers and partners of the October 22, 2024 Beijing baseball clinic.
 2. Find additional official photographs/video from that clinic and identify coaches, teams, schools, or baseball organizations present.
@@ -159,10 +185,10 @@ The comparison is useful precisely because the outcomes are not the same. Baseba
 7. Search Burns's China travel photos for repeated Red Sox-hat use and distinguish official events from personal sightseeing.
 8. Find the *60 Minutes* footage showing the cap to pair Burns's retrospective claim with the broadcast record.
 
-## 10. Manuscript implication
+## 11. Manuscript implication
 
 China can provide a strong late-book echo without pretending history repeats itself.
 
-The young spokesman once used the Red Sox to turn a briefing room into a temporary social club. The ambassador to Greece helped turn baseball enthusiasm into a real institutional network. Decades later in China, Burns was still wearing the cap, pitching a baseball, greeting young players, and joking about Red Sox Nation — but in a bilateral relationship where even ordinary people-to-people exchange had become politically contested.
+The young spokesman once used the Red Sox to turn a briefing room into a temporary social club. Before the China posting even began, reporters could still invoke that identity without explanation. The ambassador to Greece helped turn baseball enthusiasm into a real institutional network. Decades later in China, Burns was still wearing the cap, pitching a baseball, greeting young players, and joking about Red Sox Nation — but in a bilateral relationship where even ordinary people-to-people exchange had become politically contested.
 
 That is continuity with changed conditions, not a baseball metaphor for geopolitics.
