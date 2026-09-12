@@ -1,65 +1,45 @@
 # The Funeral Home Problem
 
-The most revealing nuclear-pacemaker accident in the public record may be a package that did not arrive.
+The most revealing nuclear-pacemaker accident in the public record may be a package that disappeared between two institutions that both knew what a pacemaker was.
 
-In 1998 Washington Hospital Center was trying to do the correct thing with a deceased patient's pacemaker. The device had been explanted at a funeral home and returned to the hospital. It contained 2.8 curies of plutonium-238. The hospital then attempted to ship it to St. Jude Medical for proper disposition.
+On September 15, 1998, Washington Hospital Center prepared a deceased patient’s nuclear pacemaker for shipment. The device contained 2.8 curies of plutonium-238. Staff intended to send it to St. Jude Medical in California. The NRC later found two problems before the package even vanished: the hospital apparently sent it through ordinary mail without a return address, and St. Jude was not licensed to receive that radioactive material.
 
-The intended recipient did not receive it.
+The package did not arrive.
 
-The NRC later cited the hospital for failing to maintain control and constant surveillance of licensed material in an unrestricted area and for failing to make the required timely report after learning the source was missing. The proposed civil penalty was $5,500.
+By October 22, hospital staff knew the intended recipient had not received it. The NRC was not notified until November 30. Inspectors searched the hospital with radiation instruments and found nothing. For months the source was simply somewhere else.
 
-Nothing in the enforcement record says the missing pacemaker injured anyone. The event is important precisely because harm is not required to make it a safety failure. The institution could not account for a curie-scale Pu-238 source.
+Then, on March 26, 1999, Washington Hospital Center told the NRC that the pacemaker had been located at the facility of an NRC licensee in Minnesota.
 
-This is what mature nuclear regulation looks like when stripped of reactors and drama: inventory.
+That ending is almost too convenient for a parable. The source was recovered. The enforcement record identifies no injury or contamination. Yet the NRC still classified the loss of control as a Severity Level III violation and proposed a $5,500 civil penalty. Recovery did not erase the interval during which nobody responsible for the source could say where it was.
 
-The history of atomic technology often concentrates on accidents with visible consequences—releases, exposures, contamination. Source-control systems are designed to intervene one step earlier. The dangerous state is uncertainty about where the material is and who controls it.
+This is what mature nuclear regulation looks like when stripped of reactors and spectacle: custody.
 
-A nuclear pacemaker is an unusually difficult item to control because its normal use requires letting it leave the facility for years at a time inside a person. The source can travel freely because the patient must live freely. The licensee cannot keep the material behind a fence. It must instead keep a record strong enough to function as an invisible fence.
+A nuclear pacemaker is unusually difficult to control because normal use requires the source to leave the licensee for years at a time inside a person. The patient must be free to move, change physicians, move cities, enter another hospital and eventually die somewhere the original implanting team may never see. The material cannot remain behind a fence. The control system has to travel as records, notification duties and handoffs.
 
-The 1998 event shows the fence breaking during return.
+The Washington case is useful because the physical capsule apparently did its job. Nothing in the NRC notice says it leaked. The failure was administrative and logistical. Staff did not keep control of the source, did not verify that the intended recipient was authorized to receive it, and did not report the loss on time. A device engineered to tolerate extraordinary physical abuse was temporarily defeated by ordinary shipping.
 
-Shipping appears mundane compared with source encapsulation, but logistics often dominate mature hazardous systems. A capsule engineered to survive impact can be defeated administratively by a wrong address. A package can be separated from its paperwork. A receiving department can change. A manufacturer can be acquired. A funeral home can call the wrong hospital. A radioactive source can become an orphan not because the metal failed but because the chain of responsibility did.
+The Pennsylvania enforcement record from two years earlier shows a different route through the same problem. Lower Bucks Hospital had implanted a Coratomic C-101 containing about 4.8 curies of Pu-238 in 1978. The patient died at Nazareth Hospital on October 31, 1996, and the pacemaker was explanted there. Lower Bucks learned within days that the patient had died and the device had been removed. On December 10, Nazareth reported that the pacemaker could not be found.
 
-The Pennsylvania enforcement case from 1996 is even more revealing because it exposed several paths at once. A pacemaker containing about 4.8 curies of Pu-238 had been implanted in 1978. After the patient's death, it was explanted at another hospital. The original licensee was notified, yet the source was improperly disposed of or lost from control. Supplier records also indicated that two additional patients had been buried with nuclear pacemakers and one device had not been returned from a funeral home.
+Investigators sampled waste facilities in Morgantown and Allentown because one possibility was that the pacemaker had entered the waste stream and been damaged. The samples showed no evidence of contamination. That negative finding matters. A missing source is not the same thing as a breached source, and the historical record should not collapse the two.
 
-These facts should not be inflated into a claim that nuclear pacemakers were routinely lost. The denominator is missing from the enforcement page. If thousands of devices had been successfully recovered, four problematic sources could represent a low failure rate. If the relevant licensee had only a small implant cohort, the rate could be more concerning. The records are leads, not a verdict.
+But the inspection widened. Supplier records showed two earlier patients buried with their Coratomic pacemakers, in 1981 and 1983, and another pacemaker explanted in 1987 that was never returned to the supplier. The NRC notice also records that Lower Bucks had already encountered two other burials in 1987. The problem was therefore not one spectacular furnace accident. It was repeated failure at the final handoff.
 
-They are nevertheless powerful because they identify the true lifecycle interfaces.
+The hospital’s license made that handoff explicit. It required patient follow-up during life and recovery and authorized disposal of the pacemaker by return to the manufacturer after death. Another license condition required notice to the NRC within twenty-four hours of a nuclear-pacemaker patient’s death. These were not vague expectations added after the fact. They were part of keeping the source licensed while it lived inside a person.
 
-Death notification. Funeral-home recognition. Explantation. Hospital custody. Shipping. Manufacturer acceptance. Disposal.
+That is a stranger arrangement than the word “implant” suggests. The patient carried the object, but institutional responsibility for it did not end at the skin.
 
-Every interface is staffed by people whose primary job is something else.
+Death disassembled the clinical network that had maintained the device. The cardiologist’s work might be over; responsibility could pass through a hospital, family, funeral home, morgue, shipper, manufacturer or waste contractor. Each institution had a different ordinary job. The plutonium source needed the unusual chain among them to remain unbroken.
 
-This is a different safety problem from a nuclear plant, where radioactive material remains inside an organization built around radiological control. The pacemaker deliberately distributes material into ordinary society. Its safe operation relies on temporary coordination among institutions that may encounter one nuclear source in an entire career.
+This is why cremation was only one end-of-life hazard. A source capsule could be engineered and tested against severe heat, but the more common historical vulnerability was recognition and custody before any furnace was involved. Burial could strand a source in a grave. An explanted device could sit in the wrong department. A package could be addressed to a company not licensed to receive it. The last engineering barrier might remain intact while the administrative map failed around it.
 
-Rarity makes procedure brittle.
+There is a strong counterargument to reading these notices as an indictment of the program. Enforcement records are selected for failure. They do not supply the denominator. If nearly every nuclear pacemaker was recovered correctly, a few vivid cases could exaggerate the normal experience. The Washington device was eventually found. The Pennsylvania waste-site samples did not show contamination. And the NRC was still reconstructing implant and disposal histories decades after the original surgeries, which is evidence that some institutional memory endured.
 
-Training decays when an event seldom occurs. A hospital may have had several nuclear pacemaker patients in the 1970s and almost none by the 1990s. The radiation-safety officer remembers the program; a new cardiology fellow does not. A funeral director has removed hundreds of conventional pacemakers but never a plutonium device. Labels fade. Corporate names change.
+The denominator is therefore the important unfinished research problem: how many U.S. nuclear pacemakers were implanted, how many were recovered at replacement or death, how many were buried, how many were lost and later found, and how many were never accounted for? Until those records are reconciled, the enforcement files can establish failure modes but not a national failure rate.
 
-The safe system therefore needs artifacts stronger than memory.
+That limitation makes the cases more useful, not less. They show what extreme battery life bought besides fewer replacement operations. A plutonium source could remain regulated after the pacing technology around it had become obsolete, after manufacturers changed, after hospital staff turned over, and after the patient-care relationship ended. The source did not become less durable when the institution’s memory did.
 
-Durable implant cards help. Device radiopaque markers can help. Central registries help. Standing manufacturer recovery programs help. Regulatory license conditions help. Periodic inventory reconciliation helps. But the historical record should establish which of these existed, when, and how consistently.
+Early economic comparisons could price the generator and the surgeries avoided. They were less naturally equipped to price decades of tracking, death notification, explantation, authorized transfer and eventual disposition. Those costs need not have been enormous to matter. They only had to persist after lithium had made extraordinary source longevity less valuable.
 
-The source-recovery program at Los Alamos is part of that afterlife. Museum records note that recovered pacemaker sources were returned so plutonium could be handled properly. The fact that a national laboratory became part of the disposal chain decades after implant illustrates how far the device extended beyond cardiology.
+This is the part of the nuclear pacemaker story that ordinary battery history misses. A chemical cell running down closes an obligation. Pu-238 barely notices a human lifetime.
 
-This also complicates cost comparisons. An early economic analysis might count generator price and avoided surgery while underpricing a federal source-recovery infrastructure that persists after the market disappears. Those costs are real even if they are small per patient.
-
-The opposite mistake is equally possible. Because source-control failures are vivid, one can overprice them morally and ignore the surgeries the devices prevented. The correct comparison again requires denominators.
-
-How many nuclear pacemakers were implanted in the United States? How many sources were recovered at elective replacement? How many after death? How many remain implanted? How many are buried? How many were lost and later recovered? How many were never found? How much staff time and regulatory effort did retrieval require?
-
-These are answerable historical questions if the records survive.
-
-The strange thing is that the pacemakers themselves may be easier to trace than the data. A Pu-238 source remains physically distinctive. Paper records can be discarded under retention schedules. Digital systems migrate. Manufacturer archives close. The material can outlast its documentation.
-
-That mismatch is a form of technical debt in the literal sense: future institutions inherit an obligation created by a past design.
-
-Modern long-lived implants should be evaluated with the same lens. Neural interfaces, drug pumps, radioactive seeds, implanted sensors and rechargeable systems can create end-of-life obligations that are peripheral to their headline function. The question “who removes it?” deserves the same status as “how long does it work?”
-
-The atomic pacemaker offers a harsh version because failure to answer can create an uncontrolled radioactive source.
-
-It also offers a surprisingly hopeful lesson. The later NRC cases did not arise because the government had forgotten nuclear pacemakers entirely. The violations were detected because a regulatory system still cared decades later. Inspectors reconstructed serial numbers, implant histories and disposal requirements. A forgotten technology still had a custodian.
-
-The hospital's failure became visible because the institution of memory had not failed completely.
-
-That may be the most generous reading of the funeral-home problem. Long-lived hazardous technology will eventually meet ordinary human error. Good systems do not assume otherwise. They make the error detectable before the consequence becomes larger than the paperwork.
+The Washington source crossed the country after medicine was finished with it. For months, the important fact about a device built to keep perfect time was that nobody responsible for it knew where it was.
