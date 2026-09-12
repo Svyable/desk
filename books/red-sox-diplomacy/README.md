@@ -8,7 +8,7 @@
 | **Status** | Drafting |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
-| **Chapters** | 4 drafted + prologue |
+| **Chapters** | 5 drafted + prologue |
 | **Form** | Documentary narrative biography |
 | **Language** | English |
 
@@ -24,7 +24,7 @@ Baseball is not imposed as a metaphor on every episode. It appears where the doc
 - [x] [Ch 2 — The Useful Fan](manuscript/ch02-the-useful-fan.md)
 - [x] [Ch 3 — The Road Team](manuscript/ch03-the-road-team.md)
 - [x] [Ch 4 — Cairo: Learning the Away Park](manuscript/ch04-cairo-learning-the-away-park.md)
-- [ ] Ch 5 — Jerusalem: Rivalry Is Not Hatred
+- [x] [Ch 5 — The Unresolved Address](manuscript/ch05-the-unresolved-address.md)
 - [ ] Ch 6 — The Score Is Not the Game
 - [ ] Ch 7 — Speaking for America
 - [ ] Ch 8 — The Briefing Room Bleachers
