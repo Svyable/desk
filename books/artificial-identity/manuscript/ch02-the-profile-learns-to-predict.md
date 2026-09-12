@@ -8,17 +8,11 @@ That distinction is more useful than the headline version of the research. The s
 
 Two years later, Wu Youyou, Kosinski, and Stillwell compared computer-based personality judgments derived from Facebook Likes with judgments made by people who knew the participants. On the study's Big Five measures, the computer judgments improved as more Likes became available and, at sufficient levels of observed behavior, outperformed several categories of human acquaintance.
 
-The irresistible headline was that computers knew you better than your friends. The experiment established much less, which is still plenty. It did not test whether a model could comfort you after a funeral, catch a joke from childhood, notice that you were pretending to enjoy a party, or know which promise you would keep under pressure. It performed a defined prediction task from a defined behavioral trace against a defined personality measure.
+The irresistible headline was that computers knew you better than your friends. The experiment established much less, which is still plenty. It did not test whether a model could comfort you after a funeral, catch a joke from childhood, notice that you were pretending to enjoy a party, or know which promise you would keep under pressure. It performed a defined prediction task from a defined behavioral trace against a defined personality measure. Machines do not need to know a person in the human sense to infer something useful that the person did not tell them.
 
-Machines do not need to know a person in the human sense to infer something useful that the person did not tell them.
+That changed the profile. A traditional administrative profile is largely declarative: name, address, date of birth, occupation. A predictive profile is a collection of wagers: likely to respond, churn, default, be the legitimate account holder, prefer premium service, or click if the offer arrives this afternoon rather than tomorrow morning.
 
-That changed the profile.
-
-A traditional administrative profile is largely declarative: name, address, date of birth, occupation. A predictive profile is a collection of wagers. Likely to respond. Likely to churn. Likely to default. Likely to be the legitimate account holder. Likely to prefer premium service. Likely to click if the offer arrives this afternoon rather than tomorrow morning.
-
-The machine-made identity begins to resemble a weather forecast more than a form. The comparison helps because a seventy-percent chance of rain is obviously probabilistic without being useless. It is an estimate generated from observations and a model, not a secret fact about the sky waiting to be uncovered.
-
-Person models have one complication the weather does not: people live inside environments changed by predictions about them.
+The machine-made identity begins to resemble a weather forecast more than a form. The comparison helps because a seventy-percent chance of rain is obviously probabilistic without being useless. It is an estimate generated from observations and a model, not a secret fact about the sky waiting to be uncovered. Person models have one complication the weather does not: people live inside environments changed by predictions about them.
 
 A music service predicts that you prefer a kind of song and shows you more of it. You listen because it is available; the service observes the listening and strengthens the prediction. A retailer predicts price sensitivity and emphasizes discounts; the purchases that follow make the segment look better calibrated. In both cases the system may be discovering a preference and helping to create the conditions under which that preference is expressed.
 
@@ -26,23 +20,15 @@ Predictive systems are often trained on behavior produced under earlier predicti
 
 The data-broker industry built businesses around this logic long before generative AI entered ordinary life. The Federal Trade Commission's 2014 report described companies assembling information from many sources and selling products for marketing, risk mitigation, people search, and other uses, often without a direct relationship with the consumers being profiled. The commercial value was not merely possession of more rows. It was compression: transactions, devices, locations, and browsing behavior could be turned into audiences, segments, and predictions that clients could act on.
 
-Compression is what makes a profile operational. No advertiser wants to inspect the life history of ten million people. No fraud analyst can read every transaction in sequence before approving a grocery purchase. A model throws away most of the person and keeps what appears useful for the task.
+Compression is what makes a profile operational. No advertiser wants to inspect the life history of ten million people. No fraud analyst can read every transaction in sequence before approving a grocery purchase. A model throws away most of the person and keeps what appears useful for the task. That incompleteness is not necessarily a defect. A mechanic does not need your politics to diagnose an engine noise. A dentist does not need your investment portfolio to fill a cavity. Selective attention is often a condition of competence.
 
-That incompleteness is not necessarily a defect. A mechanic does not need your politics to diagnose an engine noise. A dentist does not need your investment portfolio to fill a cavity. Selective attention is often a condition of competence.
-
-The computational difference is that the person may never see which details became relevant. A form shows its questions. An inference engine can create categories the person was never asked to supply.
-
-This complicates the familiar idea of disclosure. Ordinary privacy intuitions often imagine information moving outward from a person: you tell the doctor, fill out the application, post the photograph, authorize the account. Predictive systems reverse part of that flow. The person supplies behavior; the system supplies meaning.
+The computational difference is that the person may never see which details became relevant. A form shows its questions. An inference engine can create categories the person was never asked to supply. This complicates the familiar idea of disclosure. Ordinary privacy intuitions often imagine information moving outward from a person: you tell the doctor, fill out the application, post the photograph, authorize the account. Predictive systems reverse part of that flow. The person supplies behavior; the system supplies meaning.
 
 The meaning can travel surprisingly far from the original act. A movement pattern can suggest routine. Typing rhythm can support continuous authentication. Media choices can support a personality estimate. Ordinary language can now become another inference surface.
 
 In 2026, researchers reported in *Nature Human Behaviour* that widely available large language models could estimate personality traits from brief open-ended narratives with useful agreement to self-reports and predictive validity for other measured outcomes. That does not make a personality estimate a diagnosis, a short narrative a complete life, or a research measure an immutable inner self. The interesting change is the input. Facebook Likes were machine-native traces. Open-ended narrative is ordinary human expression.
 
-Language is messy evidence because people use it to experiment with identity. We exaggerate, speculate, joke, rehearse, vent, contradict ourselves, try on positions, and say things in one context that we would never want preserved as permanent statements of self. A model built to extract stable traits has a reason to smooth some of that ambiguity away.
-
-Stability is useful. People are not always stable.
-
-That produces a harder question than whether an inference is technically possible: when does a pattern become permission to generalize?
+Language is messy evidence because people use it to experiment with identity. We exaggerate, speculate, joke, rehearse, vent, contradict ourselves, try on positions, and say things in one context that we would never want preserved as permanent statements of self. A model built to extract stable traits has a reason to smooth some of that ambiguity away. Stability is useful. People are not always stable. The harder question is when a pattern becomes permission to generalize.
 
 Imagine someone spending three months researching a disease after a relative is diagnosed. A system observes unusual reading, purchases, and travel. Those behaviors might help predict caregiving, health interest, or future spending without ever establishing that the person has the disease. The model does not need to make the stronger claim to alter the person's environment. It only needs a category relevant to the next decision.
 
@@ -52,15 +38,11 @@ A statistical inference can be reasonable in aggregate and absurd for the indivi
 
 The risk grows when the category sounds like a description of character. **Frequent traveler** is easy to hear as a convenience. **Financially vulnerable**, **high risk**, **politically persuadable**, or **likely parent** sounds closer to a judgment about the person. The label can hide the fact that somebody chose an objective, selected data, defined outcomes, and built a distinction because it was useful for a particular purpose.
 
-There may be no stable thing in the world called a highly persuadable consumer waiting to be measured like blood pressure. The system may be constructing a market category whose meaning comes from what the category is used to do.
-
-That is an important limit on the artificial-identity metaphor. The machine-made self is often less a hidden portrait than a working theory: locally useful, revisable, sometimes wrong, sometimes in conflict with another theory built for another purpose.
+There may be no stable thing in the world called a highly persuadable consumer waiting to be measured like blood pressure. The system may be constructing a market category whose meaning comes from what the category is used to do. That is an important limit on the artificial-identity metaphor. The machine-made self is often less a hidden portrait than a working theory: locally useful, revisable, sometimes wrong, sometimes in conflict with another theory built for another purpose.
 
 The Federal Trade Commission's 2016 big-data report captured this dual character. Statistical models can help institutions notice opportunity that older rules missed, and they can also create exclusion, discrimination, or opaque segmentation. The same ambiguity remains. A predictive identity can widen access because it notices evidence a crude legacy category ignored. It can narrow access because it discovers a proxy for disadvantage. It can protect an account by recognizing familiar behavior and lock out the real owner when legitimate behavior suddenly looks unfamiliar. It can remember an accessibility need and preserve a temporary condition long after the person wants it forgotten.
 
-Accuracy does not settle those questions. A highly accurate prediction can be used for a purpose a person reasonably rejects. An imperfect prediction can be acceptable when the stakes are low and correction is easy.
-
-What matters is the decision regime around the model.
+Accuracy does not settle those questions. A highly accurate prediction can be used for a purpose a person reasonably rejects. An imperfect prediction can be acceptable when the stakes are low and correction is easy. What matters is the decision regime around the model.
 
 A music recommender can tolerate error because one bad song is cheap. A fraud system balances false positives and false negatives because a missed theft and a blocked legitimate purchase impose different costs. A lender operates under legal requirements that do not disappear because a model is complex. A facial-identification system used for security creates another burden because a false positive can attach suspicion to the wrong person.
 
@@ -68,8 +50,4 @@ The same predictive performance can therefore be adequate in one setting and rec
 
 Once a prediction enters a pipeline, however, these distinctions become easy to forget. The model returns a score; the score meets a threshold; the threshold routes the person. A working theory about someone becomes an operational fact one conditional statement at a time.
 
-That is the real evolution of the profile. The old profile asked what facts were on file. The predictive profile asks what the system should expect.
-
-Expectation points forward. It turns a record of behavior into a wager about the next behavior. And once institutions stake money, access, security, attention, or opportunity on that wager, the model has acquired something it did not have while sitting quietly in storage.
-
-A vote.
+That is the real evolution of the profile. The old profile asked what facts were on file. The predictive profile asks what the system should expect. Expectation points forward, turning a record of behavior into a wager about the next behavior. Once institutions stake money, access, security, attention, or opportunity on that wager, the model has acquired something it did not have while sitting quietly in storage: a vote.
