@@ -15,6 +15,8 @@ Working source trail for *Edge Case*. Links are preserved as usable research pat
 - Harold E. Puthoff, “CIA-Initiated Remote Viewing Program at Stanford Research Institute,” *Journal of Scientific Exploration* 10, no. 1 (1996), participant retrospective of the 1972 origin, Swann contact, early SRI experiments and CIA interest: https://www.scientificexploration.org/docs/10/jse_10_1_puthoff.pdf . Treat interpersonal details as retrospective testimony.
 - CIA internal historical paper, CIA-RDP88G01116R000600690003-8, often released under *Parapsychology and Personalogy*: official CIA Reading Room record https://www.cia.gov/readingroom/document/cia-rdp88g01116r000600690003-8 . The institutional history records Puthoff’s 27 June 1972 contact with Kenneth Green after the Swann/magnetometer episode, an initial OTS work order of $874 for an August demonstration, a $2,500 follow-on, and expansion to roughly $50,000 under Contract 8473 dated 1 October 1972.
 - Puthoff 1995 interview, useful only as participant recollection, in which he said the remote-viewing work “started as a lark” and remembered about $50,000 in initial substantial CIA support: https://www.independent.co.uk/arts-entertainment/a-psychic-spy-tells-his-story-1601937.html
+- CIA/SRI program review CIA-RDP96-00791R000100440001-9, later institutional assessment stating that the major impetus for coordinate remote viewing came when Ingo Swann proposed he could view anywhere if given latitude and longitude; it says early coordinate tests were initially run largely to placate him and that later controlled protocols and training developed from the apparent successes: https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000100440001-9.pdf
+- Puthoff & Targ, “Physics, Entropy, and Psychokinesis,” CIA-preserved SRI paper with detailed account of the 1972 Swann SQUID-magnetometer observation: https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000700090007-1.pdf
 
 ## SRI / remote viewing / government program
 
@@ -24,16 +26,25 @@ Working source trail for *Edge Case*. Links are preserved as usable research pat
 - Charles Tart, Harold Puthoff, Russell Targ, response, *Nature* 284 (1980), 191: https://doi.org/10.1038/284191a0
 - David Marks and Christopher Scott, “Remote viewing exposed,” *Nature* 319 (1986), 444: https://doi.org/10.1038/319444a0 . The correspondence argues that supposedly edited Price-series transcripts retained diagnostic cues including subject-location information.
 - CIA, current retrospective, “Ask Molly: Did CIA Really Study Psychic Powers?”: https://www.cia.gov/stories/story/ask-molly-did-cia-really-study-psychic-powers/
-- CIA Reading Room, *Perceptual Augmentation Techniques, Part Two — Research Report*: https://www.cia.gov/readingroom/document/cia-rdp96-00791r000300030003-0
+- CIA Reading Room, *Perceptual Augmentation Techniques, Part Two — Research Report*: https://www.cia.gov/readingroom/document/cia-rdp96-00791r000300030003-0 . Includes sponsor-controlled West Virginia site, Costa Rica long-distance series, protocol descriptions and SRI’s own positive interpretation.
+- CIA/SRI summary of Semipalatinsk URDF-3 (PNUTS) case, CIA-RDP96-00788R001100340001-3. Records target characteristics, cue given to viewer, and the crane/sphere correspondences claimed for Pat Price: https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001100340001-3.pdf
+- CIA/SRI contemporaneous evaluator discussion of the Semipalatinsk sessions, including strong reaction to Price’s crane drawing and explicit consideration of an ordinary information-compromise/disinformation possibility: https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000100500001-2.pdf
 - CIA Reading Room, *Remote Viewing of Natural Targets*, SRI: https://www.cia.gov/readingroom/document/cia-rdp96-00787r000500410001-3
 - CIA Reading Room, *Standard Remote-Viewing Protocol (Local Targets)*, SRI, Puthoff and Targ: https://www.cia.gov/readingroom/document/cia-rdp96-00787r000500400001-4
 - CIA Reading Room, SRI / government remote-viewing materials including sponsor-controlled targets: https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000100440001-9.pdf
 - CIA Reading Room, Grill Flame final report, Puthoff/Targ/May et al.: https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001300170001-0.pdf
-- CIA Reading Room, Grill Flame protocol record showing AMSAA-sponsored SRI remote viewing: https://www.cia.gov/readingroom/document/cia-rdp96-00788r001300070003-9
 - CIA Reading Room, example session report explicitly recording “no target correlation”: https://www.cia.gov/readingroom/document/cia-rdp96-00788r000900390001-1
 - CIA Reading Room, 1984 DIA psychoenergetics review: https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001800210001-0.pdf
 - American Institutes for Research, *An Evaluation of Remote Viewing: Research and Applications* (1995), preservation copy: https://irp.fas.org/program/collect/air1995.pdf ; official CIA document identifier CIA-RDP96-00791R000200180006-4.
 - Full facsimile/transcription preservation of the AIR review sourced from the CIA release, useful for page-level checking: https://www.declassifiedcollection.com/archive/002/
+
+## Army / DIA program lineage
+
+- U.S. Army historical memorandum CIA-RDP96-00788R001100370005-6. Records Army interest from 1972, 1976 MIA interest in Soviet-claim replication, August 1977 $80,000 SRI contract, GONDOLA WISH, GRILL FLAME, March 1980 Perry curtailment of P6 R&D money but no objection to intelligence applications, 1981 INSCOM management, and joint-service structure: https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001100370005-6.pdf
+- GRILL FLAME AMSAA Phase I history CIA-RDP96-00788R001100080005-8. Records Puthoff’s 21 March 1978 AMSAA briefings, May 1978 $100,000 transfer to sustain SRI work, establishment of in-house effort, and classification of Army interest: https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001100080005-8.pdf
+- Army GRILL FLAME chronology CIA-RDP96-00788R001100020001-8. Records selection of 251 personnel, interview of 117, selection of six trainees, human-use review, and first operational session chronology: https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001100020001-8.pdf
+- CENTER LANE approval/history file CIA-RDP96-00788R001700280006-9. Preserves human-use questions, program-management transitions, cautious fiscal-support language and 1983–84 institutional posture: https://www.cia.gov/readingroom/document/cia-rdp96-00788r001700280006-9
+- DIA 1984 *Psychoenergetics Research*, CIA-RDP96-00788R001800210001-0, distinguishes Army operational/training interests from DIA R&D, countermeasure and threat-assessment work: https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001800210001-0.pdf
 
 ## Zero-point / vacuum / propulsion
 
