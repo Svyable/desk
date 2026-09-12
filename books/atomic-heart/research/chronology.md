@@ -1,0 +1,22 @@
+# Chronology
+
+- **1946** — Atomic Energy Commission created with combined nuclear-development and safety-regulatory responsibilities.
+- **1950s–1960s** — implantable cardiac pacing becomes practical; battery longevity remains a major limitation.
+- **1960s** — U.S. radioisotope pacemaker development emerges from AEC / contractor work; NUMEC becomes a key program participant.
+- **1970** — peer-reviewed U.S. experimental evaluation of a radioisotope-powered pacemaker published; French program reaches human implantation in the same period.
+- **1971** — Greatbatch and colleagues publish solid-state lithium pacemaker-battery work; NUMEC AEC progress reports document Pu-238 heat-source development/testing.
+- **April 10, 1973** — twenty-year-old patient later reported in NEJM receives a Numec NU-5 Pu-238 pacemaker.
+- **April 1973** — decade-long U.S. nuclear-pacemaker clinical study described by Parsonnet et al. begins.
+- **1974–1975** — additional isotopic pacemaker designs and containment/reliability results published.
+- **1974–1975** — AEC reorganized; NRC assumes regulatory functions.
+- **1976** — Medical Device Amendments expand FDA premarket medical-device authority.
+- **1979** — five-year appraisal reports 96% actuarial generator survival in the observed radioisotope series.
+- **January 1983** — last nuclear pacemaker in the Parsonnet decade-long U.S. series implanted.
+- **1983** — pacing review describes strong five-year lithium-device survival and rapid movement toward programmable/dual-chamber systems.
+- **1984** — two major ten-year nuclear-pacing follow-up papers published; generator performance remains strong while nonbattery replacement reasons matter.
+- **1984** — lead fracture occurs in the patient later reported as carrying the same nuclear generator for 34 years; generator retained after repair.
+- **1996–1997** — NRC Lower Bucks/Nazareth investigation documents loss of control over a ~4.8-Ci Pu-238 pacemaker and records of other buried/unreturned devices.
+- **1998–1999** — Washington Hospital Center loses control/accounting of a 2.8-Ci Pu-238 pacemaker during return/disposal process; NRC enforcement follows.
+- **2007** — NEJM letter reports the 1973 Numec NU-5 still in service after 34 years.
+- **2011** — Heart Rhythm case report documents a Pu-238 pacemaker encountered in the context of lead fracture.
+- **2026** — nuclear pacemakers remain a legacy-source-management and historical-engineering problem; current surviving-device count requires regulator/manufacturer verification.
