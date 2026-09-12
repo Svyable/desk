@@ -20,8 +20,52 @@ Primary and authoritative starting points used in this draft.
 14. Williams et al., **Lunar interior properties from the GRAIL mission** (JGR Planets, 2014) — GRAIL/laser-ranging-compatible interior parameters, including solid-Moon normalized moment of inertia `I_s/MR² = 0.393112 ± 0.000012` for mean radius 1737.151 km. https://doi.org/10.1002/2013JE004559
 15. Konopliv et al., **The JPL lunar gravity field to spherical harmonic degree 660 from the GRAIL Primary Mission** (JGR Planets, 2013) — high-resolution GRAIL gravity solution and improved low-degree mass-distribution constraints. https://doi.org/10.1002/jgre.20097
 16. Konopliv et al., **High-resolution lunar gravity fields from the GRAIL Primary and Extended Missions** (GRL, 2014) — degree-900 gravity solutions and extended-mission resolution. https://doi.org/10.1002/2013GL059066
+17. NASA, **Apollo 13 Mission Report** (MSC-02680, 1970) — S-IVB controlled-source impact: ~30,700 lb at ~5,600 mi/hr; mission-report energy estimate 7.7 tons TNT equivalent; first seismic arrival 28.4 s after impact; signals >4 h; initial clear phase ~4.8 km/s; contemporary interpretation sampling roughly 20–40 km depth. https://www.nasa.gov/wp-content/uploads/static/history/afj/ap13fj/pdf-hr/43-a13-mission-report.pdf
+18. NASA/JPL, **Music of the Spheres** — public-history retelling that quotes ~1 ton TNT equivalent for Apollo 12's LM ascent-stage impact and ~11.5 tons for Apollo 13's S-IVB. Useful for documenting how later public summaries differ from the primary mission-report estimate. https://www.jpl.nasa.gov/podcasts/on-a-mission-season-1/season-1-the-insight-mission-to-mars/episode-2-music-of-the-spheres/
+19. NASA, **LRO Finds Apollo 16 Booster Rocket Impact Site** (2015) — later orbital identification of an intentionally impacted S-IVB crater whose precise position had remained uncertain. https://www.nasa.gov/image-article/lro-finds-apollo-16-booster-rocket-impact-site/
+20. NASA, **Apollo 14 S-IVB Impact Crater** — LRO confirmation of the deliberately impacted Apollo 14 booster crater. https://science.nasa.gov/photojournal/apollo-14-s-ivb-impact-crater/
 
-Mission-history pages are used for mission chronology and publicly stated experiment details. NTRS records anchor the Apollo-era technical record. Peer-reviewed papers carry modern interpretations. Popular phrases such as “rang like a bell” are not treated as material diagnoses.
+Mission-history pages are used for mission chronology and publicly stated experiment details. NTRS and mission reports anchor the Apollo-era technical record. Peer-reviewed papers carry modern interpretations. Popular phrases such as “rang like a bell” are not treated as material diagnoses.
+
+### Controlled-impact audit
+
+Apollo's deliberate impacts are treated as source-calibration experiments, not just anecdotes.
+
+#### Apollo 12 LM ascent stage
+
+NASA's mission history places the ascent-stage impact roughly 40 miles from the Apollo 12 station and summarizes the mechanical energy as about **1 ton TNT equivalent**. Strong signals lasted >30 min; weaker motion persisted to about an hour.
+
+Safe use: a known low-energy artificial surface source generated an unusually long coda.
+
+Too broad: the duration by itself identifies the Moon's bulk material or proves a hollow cavity.
+
+#### Apollo 13 S-IVB
+
+The 1970 mission report provides the strongest quantitative anchor currently used in Ch 3:
+
+- impact mass: ~**30,700 lb**;
+- speed: ~**5,600 mi/hr**;
+- range from Apollo 12 station: ~**74 miles** in the mission-report wording;
+- mission-report energy estimate: **7.7 tons TNT equivalent**;
+- first seismic arrival: **28.4 s** after impact;
+- signal duration: **>4 h**;
+- peak reached roughly 10 min after initial onset and was about 8× the Apollo 12 ascent-stage peak;
+- clear initial phase: about **4.8 km/s**;
+- contemporary interpretation: energy sampling lunar material to roughly **20–40 km** depth.
+
+The report explicitly says the rapid early buildup was not explained solely by the then-simple rubble-scattering picture and discusses source-mechanism alternatives, including extended excitation from impact ejecta/gas. The historical account must therefore not imply that `scattering solved the ringing immediately`.
+
+#### TNT-equivalent discrepancy
+
+Later NASA public-history material quotes **~11.5 tons TNT equivalent** for Apollo 13 rather than the mission report's 7.7 tons.
+
+This is preserved as a source-discipline lesson, not silently harmonized. `TNT equivalent` is a derived mechanical-energy summary based on input assumptions; the seismometer measured waveform amplitude versus time, not tons of TNT. Technical manuscript claims default to the contemporaneous mission report unless a later engineering reconciliation is located.
+
+#### Apollo 16 source-location correction
+
+Apollo 16's S-IVB was intentionally targeted for lunar impact and recorded seismically, but its exact crater was uncertain for decades. LRO imagery identified the booster impact site in 2015 at a location differing from the older estimate.
+
+This is a useful inverse-problem example: improving source coordinates can improve an old travel-time/path interpretation without changing the archived waveform.
 
 ### Quantitative hollow-shell audit
 
@@ -63,7 +107,8 @@ A claim may move classes only when new evidence changes its status. Institutiona
 
 - **1969-07** — Apollo 11 deploys an early passive seismic experiment; short operational life demonstrates lunar seismic measurement.
 - **1969-11-20** — Apollo 12 LM ascent stage is deliberately impacted; its long seismic coda creates the enduring “ringing Moon” description.
-- **1971–1972** — Apollo 14, 15 and 16 expand the ALSEP seismic network; deliberate S-IVB and LM impacts provide additional controlled sources.
+- **1970-04-14** — Apollo 13 S-IVB impacts the Moon as a controlled source; Apollo 12 station records first arrival 28.4 s later and >4 h of signal.
+- **1971–1972** — Apollo 14, 15, 16 and 17 missions add deliberate S-IVB/LM impacts and expand source-receiver geometry as the ALSEP network grows.
 - **1969–1977** — Four-station network accumulates thousands of natural and artificial seismic events.
 - **1977-09** — Apollo lunar seismic network is shut down.
 - **1978–1982** — final-era processing papers and catalogs refine deep-moonquake nests, mantle velocities, shallow events and impact classes.
@@ -71,6 +116,7 @@ A claim may move classes only when new evidence changes its status. Institutiona
 - **2011** — Weber et al. use array processing of Apollo data to support a layered lunar core.
 - **2012** — Blanchette-Guertin et al. quantify coda behavior and argue for dominant near-surface scattering in many shallow events.
 - **2013–2014** — GRAIL gravity solutions and compatible laser-ranging fits sharply improve constraints on lunar mass distribution, gravity harmonics and tidal response.
+- **2015** — LRO imagery identifies Apollo 16's S-IVB crater, tightening the source location decades after the seismic waveform was recorded.
 - **2019** — Watters et al. relocate shallow moonquakes and connect a subset statistically/geographically with young thrust faults.
 - **2022** — numerical modeling of Apollo coda supports very strong heterogeneity in the shallow lunar subsurface.
 - **2026** — NASA's current lunar science material continues to frame moonquakes as active research and hazard-relevant phenomena.
@@ -81,6 +127,8 @@ A claim may move classes only when new evidence changes its status. Institutiona
 Early Apollo interpretations of deep structure changed as event catalogs and processing improved. This is expected model revision, not evidence that the raw seismograms were fabricated.
 
 Popular explanations often reduce the long coda to lunar dryness. Modern coda work assigns an important role to scattering in a highly heterogeneous megaregolith; “dryness” alone is an incomplete causal account.
+
+The source mechanism itself was also uncertain in real time. Apollo 13 investigators explicitly considered whether ejecta/gas traveling across the surface prolonged or amplified excitation. Do not rewrite source uncertainty as if all long coda belonged to the propagation medium from the first observation.
 
 The presence of genuine lunar subsurface voids or lava tubes does not support a planetary-scale hollow shell. The scales and predictions differ by orders of magnitude.
 
