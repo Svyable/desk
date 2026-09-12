@@ -2,8 +2,10 @@
   Start a book: copy this folder to books/<slug>/ (lowercase, hyphens).
   Fill in the table, replace the title, and tick boxes as chapters land.
   The manuscript files are example prose — overwrite them.
-  Front matter uses a worked title ("The Example Book"); the hub title
-  below this comment is the fill-in-the-blank you replace first.
+  Use the same title in this README and manuscript/front-matter.md.
+  If a subtitle is established, add it in italics directly below both H1s.
+  Keep Sven Hardy Benson as the author. See docs/book-metadata-standard.md
+  at the repository root for registration and validation.
   Reader links are inserted from the folder slug by scripts/sync-reader-links.py
   once the publication is cataloged; do not hand-maintain them.
   Delete this comment when you are ready.

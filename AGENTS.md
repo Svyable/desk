@@ -108,6 +108,25 @@ not a prerequisite for writing or releasing. The normal release helper and
   still reads like an expanded outline, repeated framework, slide deck, or
   generic model performance, it is not ready.
 
+## Book identity and completion checks
+
+- Follow `docs/book-metadata-standard.md` when starting a book or changing its
+  title, subtitle, byline, front matter, or catalog entry. Use Sven Hardy Benson
+  as the author and keep the README and title page aligned.
+- Run `python3 scripts/check-book-cover-metadata.py <book-slug>` for the affected
+  book before handing off manuscript work. For inventory changes, run the global
+  cover audit and `python3 scripts/check-desk.py`; the latter includes cover checks.
+- Start from the current repository state and inspect relevant changes before
+  editing. Preserve concurrent author/editor work rather than replaying an old
+  manuscript snapshot over it.
+- If a required check fails, distinguish defects introduced by the change from
+  failures reproduced on its base revision. Fix new defects; report unrelated
+  existing failures accurately. Do not weaken a check or claim a full pass merely
+  because a focused check passes.
+- Keep PRs mergeable. Use objective checks and the repository's existing merge
+  rules; enable automatic merging when supported and authorized. Do not add a
+  human-review blocker solely as a workflow ritual or bypass required checks.
+
 ## Markdown
 
 - Chapters are a single `# Title` heading, then paragraphs. No YAML front
@@ -144,8 +163,8 @@ not a prerequisite for writing or releasing. The normal release helper and
 ## Verbs (author and agent)
 
 **Start a book.** Copy `books/_TEMPLATE/` to `books/<slug>/`. Fill title,
-authors, `Status: Drafting`. Add the book to the root `## The books` catalog and
-the chapter-feedback Book dropdown, then run `python3 scripts/check-desk.py`.
+authors, `Status: Drafting`, and the matching title-page opening. Follow
+`docs/book-metadata-standard.md` for inventory updates and validation.
 
 **Write / edit.** Write or edit the chapter files requested by the task. A
 change may contain one chapter or a coherent batch. Before drafting, read enough

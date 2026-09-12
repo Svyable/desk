@@ -26,8 +26,10 @@ memory.
 - Matching `RIGHTS.md` and `rights.json` files for the new book, following the
   pattern in any sibling book (for example `books/predictable/RIGHTS.md`).
 - The usual catalog updates: an entry in the root `README.md` books table,
-  `llms.txt`, `sitemap.xml`, `index.html`, and the `Book` dropdown in
-  `.github/ISSUE_TEMPLATE/chapter-feedback.yml`.
+  `catalog.json`, `llms.txt`, `sitemap.xml`, and the `Book` dropdown in
+  `.github/ISSUE_TEMPLATE/chapter-feedback.yml`. The landing page reads the root
+  catalog automatically. Follow `docs/book-metadata-standard.md` for matching
+  cover metadata and the title-page byline.
 
 ## Validate the length mechanically
 
