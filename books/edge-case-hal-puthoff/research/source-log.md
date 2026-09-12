@@ -16,20 +16,31 @@ Working source trail for *Edge Case*. Links are preserved as usable research pat
 - David Marks and Christopher Scott, “Remote viewing exposed,” *Nature* 319 (1986), 444: https://doi.org/10.1038/319444a0
 - CIA, current retrospective, “Ask Molly: Did CIA Really Study Psychic Powers?”: https://www.cia.gov/stories/story/ask-molly-did-cia-really-study-psychic-powers/
 - CIA Reading Room, *Perceptual Augmentation Techniques, Part Two — Research Report*: https://www.cia.gov/readingroom/document/cia-rdp96-00791r000300030003-0
+- CIA Reading Room, *Remote Viewing of Natural Targets*, SRI: https://www.cia.gov/readingroom/document/cia-rdp96-00787r000500410001-3
+- CIA Reading Room, *Standard Remote-Viewing Protocol (Local Targets)*, SRI, Puthoff and Targ: https://www.cia.gov/readingroom/document/cia-rdp96-00787r000500400001-4
 - CIA Reading Room, SRI / government remote-viewing materials including sponsor-controlled targets: https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000100440001-9.pdf
 - CIA Reading Room, Grill Flame final report, Puthoff/Targ/May et al.: https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001300170001-0.pdf
+- CIA Reading Room, Grill Flame protocol record showing AMSAA-sponsored SRI remote viewing: https://www.cia.gov/readingroom/document/cia-rdp96-00788r001300070003-9
 - CIA Reading Room, example session report explicitly recording “no target correlation”: https://www.cia.gov/readingroom/document/cia-rdp96-00788r000900390001-1
 - CIA Reading Room, 1984 DIA psychoenergetics review: https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001800210001-0.pdf
 - American Institutes for Research, *An Evaluation of Remote Viewing: Research and Applications* (1995), preservation copy: https://irp.fas.org/program/collect/air1995.pdf ; official CIA document identifier CIA-RDP96-00791R000200180006-4.
+- Full facsimile/transcription preservation of the AIR review sourced from the CIA release, useful for page-level checking: https://www.declassifiedcollection.com/archive/002/
 
 ## Zero-point / vacuum / propulsion
 
-- Harold E. Puthoff, “Ground state of hydrogen as a zero-point-fluctuation-determined state,” *Physical Review D* 35 (1987), 3266: https://doi.org/10.1103/PhysRevD.35.3266
+- Harold E. Puthoff, “Ground state of hydrogen as a zero-point-fluctuation-determined state,” *Physical Review D* 35 (1987), 3266: https://doi.org/10.1103/PhysRevD.35.3266 ; APS abstract: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.35.3266
+- Bernhard Haisch, Alfonso Rueda, and H. E. Puthoff, “Inertia as a zero-point-field Lorentz force,” *Physical Review A* 49 (1994), 678–694: https://doi.org/10.1103/PhysRevA.49.678
+- Yefim S. Levin, “Inertia as a zero-point-field force: Critical analysis of the Haisch-Rueda-Puthoff inertia theory,” *Physical Review A* 79 (2009), 012114: https://doi.org/10.1103/PhysRevA.79.012114 ; APS record: https://journals.aps.org/pra/abstract/10.1103/PhysRevA.79.012114
 - Harold E. Puthoff, “Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering,” arXiv / later DIA Defense Intelligence Reference Document lineage: https://arxiv.org/abs/1204.2184
+- DIA, “Concepts for Extracting Energy From the Quantum Vacuum,” public electronic reading-room record: https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/
 - EarthTech bibliography and technical materials: https://earthtech.org/
 
 ## NIDS / Bigelow / AAWSAP / UAP
 
+- DIA electronic reading-room AAWSAP/AATIP collection, umbrella source for BAASS contract records, modifications, memoranda, and DIRDs: https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/211378/
+- DIA, Aerospace Contract Status, recording BAASS performance as excellent, twelve project-management plans, 26 first-year technical reports and recommendation to continue subject to funding: https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237642/
+- DIA, September 2009 modification to contract HHM402-08-C-0072, exercising the first option year subject to funds and carrying forward management plans, research reports and integrated threat assessment: https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/
+- Department of Defense / DIA package on Senator Harry Reid’s request for restricted Special Access Program protection, including official AAWSAP/AATIP naming discussion, first-year deliverable review, and James Clapper recommendation against the SAP: https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/
 - Gideon Lewis-Kraus, “How the Pentagon Started Taking U.F.O.s Seriously,” *The New Yorker* (2021), useful reported history including Puthoff’s NIDS role: https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously
 - Sarah Scoles, “Inside Robert Bigelow’s Decades-Long Obsession With UFOs,” *Wired* (2018): https://www.wired.com/story/inside-robert-bigelows-decades-long-obsession-with-ufos/
 - Puthoff 2018 public account of AAWSAP/BAASS and EarthTech subcontract role, preserved transcript/video context: https://paradigmresearchgroup.org/2018/06/12/dr-hal-puthoff-presentation-at-the-sse-irva-conference-las-vegas-nv-15-june-2018/
@@ -38,8 +49,11 @@ Working source trail for *Edge Case*. Links are preserved as usable research pat
 
 - SEC 2017 offering material naming Puthoff as VP Science and Technology: https://www.sec.gov/Archives/edgar/data/1710274/000114420417036300/filename2.htm
 - SEC 2019 filing / equity and board record: https://www.sec.gov/Archives/edgar/data/1710274/000114420419006365/tv509356_partiiandiii.htm
-- SEC 2020 offering statement / ownership: https://www.sec.gov/Archives/edgar/data/1710274/000110465920101562/tm2023098d4_partiiandiii.htm
-- SEC 2021 Form 1-U recording Puthoff transition from director to scientific advisory board: https://www.sec.gov/Archives/edgar/data/1710274/000149315221006682/form1-u.htm
+- SEC 2019 asset-purchase agreement for materials acquired from Thomas DeLonge: https://www.sec.gov/Archives/edgar/data/1710274/000114420419046318/tv530141_ex6-22.htm
+- SEC 2020 offering statement / ownership and A.D.A.M. program descriptions: https://www.sec.gov/Archives/edgar/data/1710274/000110465920101562/tm2023098d4_partiiandiii.htm
+- SEC annual report for 2020/2019 with audited balance sheet, founder equity, related-party transactions, $35,000 metamaterials purchase disclosure, merchant-loan costs and other operating detail: https://www.sec.gov/Archives/edgar/data/1710274/000149315221010202/partii.htm
+- SEC 2021 Form 1-U explicitly recording the scale-back of science/technology commercialization and Puthoff’s transition from director to scientific advisory board: https://www.sec.gov/Archives/edgar/data/1710274/000149315221006682/form1-u.htm
+- Current SEC issuer archive for later corporate continuity and name/strategy changes: https://www.sec.gov/Archives/edgar/data/1710274/
 
 ## Evidence-handling note
 
