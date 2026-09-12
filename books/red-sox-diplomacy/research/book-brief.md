@@ -37,6 +37,10 @@ The deeper research now establishes that baseball is more than a decorative biog
 
 Independent witnesses now strengthen that strand. James Rubin joked on taking over the State podium that baseball analogies were being retired with Burns. Ambassador Thomas Miller later remembered Burns as a “baseball nut” and described inheriting the Greek baseball effort into the MLB/player-development phase. Ambassador Thomas Krajeski remembered Red Sox affiliation as part of his friendship with Burns. State Magazine and senior colleagues repeatedly used Red Sox Nation as shorthand for Burns’s professional persona.
 
+A probable but not yet authenticated 2007 condolence entry signed “Nick Burns” of Vienna, Virginia adds a potentially important early-life lead: the writer says he met Paul Sanford in Wellesley Little League baseball and later watched Sanford finish a cross-country run at Fenway's Green Monster. Because the guestbook identity is not independently authenticated, this remains a verification target rather than settled manuscript fact.
+
+Comparative research also sharpens the claim. Krajeski himself wrote in *State Magazine* in 1988 about U.S. diplomats helping develop baseball in Poland. Burns therefore should not be portrayed as inventing baseball diplomacy. His distinctive record is the combination of personal Red Sox identity, hands-on public participation, network brokerage, and continuity across postings.
+
 That matters because the baseball identity is not merely self-description. Other people in the diplomatic institution recognized it, remembered it, and sometimes carried forward work associated with it.
 
 That evidence allows the manuscript to treat baseball as a genuine biographical strand. It still does **not** justify claiming that baseball caused his diplomatic temperament or that every sports reference was strategically planned.
@@ -68,10 +72,11 @@ Use a simple hierarchy when deciding what can carry narrative weight:
 1. **Direct/primary:** Burns quotation, official transcript, contemporaneous document, photograph, letter, calendar, recording.
 2. **Named near-primary:** reporter or colleague recording what Burns told them; usable with attribution.
 3. **Retrospective institutional witness:** successor, colleague, hometown institution, or professional publication remembering Burns or work associated with him; useful for continuity and reputation, but not a substitute for contemporaneous detail.
-4. **Contextual overlap:** Burns’s age/posting coincides with a Red Sox event; useful as background only.
-5. **Research hypothesis:** a chronology or baseball fact strongly suggests a scene or date; keep in research notes until corroborated.
+4. **Probable but unauthenticated first-person attribution:** a source such as the 2007 “Nick Burns” guestbook entry whose content and biography align strongly but whose signer identity has not been independently verified; research-note material until corroborated.
+5. **Contextual overlap:** Burns’s age/posting coincides with a Red Sox event; useful as background only.
+6. **Research hypothesis:** a chronology or baseball fact strongly suggests a scene or date; keep in research notes until corroborated.
 
-Example: 2003 Brussels/Armed Forces TV is a documented Burns scene. The April 2004 CENTCOM/Yankees–Red Sox anecdote is a named secondary account. Miller and Krajeski are retrospective institutional witnesses. April 25 as the likely CENTCOM date is a research hypothesis. The 1967 Impossible Dream occurring when Burns was eleven remains cultural context until Burns or another direct source connects him personally to it.
+Example: 2003 Brussels/Armed Forces TV is a documented Burns scene. The April 2004 CENTCOM/Yankees–Red Sox anecdote is a named secondary account. Miller and Krajeski are retrospective institutional witnesses. The Wellesley Little League guestbook lead is probable but unauthenticated. April 25 as the likely CENTCOM date is a research hypothesis. The 1967 Impossible Dream occurring when Burns was eleven remains cultural context until Burns or another direct source connects him personally to it.
 
 ## Structural principle
 
@@ -83,17 +88,22 @@ A stronger recurring structure is now available: **where was the fan while the d
 
 A second structure is now available too: **what did other people recognize in the baseball identity?** Rubin, Miller, Krajeski, Rice, reporters, hometown institutions, and foreign visitors allow the book to show the persona from outside Burns rather than relying only on self-description.
 
+A third discipline is equally important: **what does the archive refuse to tell us?** The focused October 2004 pass still does not locate Burns for the championship clincher. That absence should be preserved rather than patched with the documented 2003 Armed Forces TV scene.
+
 ## Distinctive scenes to research deeply
 
 - Wellesley youth baseball: Babe Ruth League roster, team, position, coaches, teammates, yearbooks, local papers, and whether any photographs survive.
+- Authenticate the 2007 “Nick Burns” / Paul Sanford condolence entry and test its Little League claim against Wellesley records.
 - Burns using Red Sox references at the State Department podium and in public appearances; especially how reporters learned and co-produced the baseball register.
 - James Rubin’s first briefing after Burns, when he jokes that baseball analogies are being retired.
 - The July 1997 Cuba/baseball exchange, where the sport becomes an actual foreign-policy subject involving travel, state control, and defection.
-- Greece: the Greek federation, MLB, Peter Angelos, the Red Sox, Paul Sarbanes, television demonstrations, youth leagues, and Burns’s role connecting institutions.
+- Greece: the Greek federation, MLB, Peter Angelos, the Red Sox, Paul Sarbanes, Friends of Greek Baseball, television demonstrations, youth leagues, and Burns’s role connecting institutions.
+- Cynthia Schneider's 2003 case study situating Burns's baseball diplomacy inside the Kosovo-war hostile climate, while refusing to turn that into an unsupported public-opinion claim.
 - Thomas Miller’s successor testimony: how the Greek baseball project survived Burns and developed into MLB training and diaspora-player recruitment.
+- Comparative Foreign Service baseball diplomacy, especially Krajeski's 1988 Poland account, to define what was distinctive about Burns without falsely making him the inventor of the practice.
 - The 2003 Brussels ALCS Game 7 scene and NATO-office Red Sox objects.
 - The April 2004 CENTCOM Qatar anecdote: corroborate Friedman’s account and test the April 25 candidate date without promoting inference into fact.
-- The 2004 Red Sox championship: locate Burns’s immediate reaction and viewing circumstances rather than importing the documented 2003 setup.
+- The 2004 Red Sox championship: locate Burns’s immediate reaction and viewing circumstances rather than importing the documented 2003 setup. The current focused search still leaves this gap open.
 - The April 11, 2007 Boston College speech, where Burns jokes about the audience missing Daisuke Matsuzaka’s Fenway home debut while he speaks about American global leadership.
 - The 2007 championship: exploit the unusually good before-and-after record — Burns’s August prediction and detailed pitching analysis, then his official State Department Red Sox Nation moment the morning after the title.
 - Baseball banter as rapport in classrooms, speeches, interviews, and diplomatic settings where documented.
