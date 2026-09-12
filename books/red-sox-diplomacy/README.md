@@ -8,7 +8,7 @@
 | **Status** | Drafting |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
-| **Chapters** | 8 drafted + prologue |
+| **Chapters** | 9 drafted + prologue |
 | **Form** | Documentary narrative biography |
 | **Language** | English |
 
@@ -28,7 +28,7 @@ Baseball is not imposed as a metaphor on every episode. It appears where the doc
 - [x] [Ch 6 — The Score Is Not the Game](manuscript/ch06-the-score-is-not-the-game.md)
 - [x] [Ch 7 — Speaking for America](manuscript/ch07-speaking-for-america.md)
 - [x] [Ch 8 — The Briefing Room Bleachers](manuscript/ch08-the-briefing-room-bleachers.md)
-- [ ] Ch 9 — Athens
+- [x] [Ch 9 — Athens](manuscript/ch09-athens.md)
 - [ ] Ch 10 — Bringing Baseball to Greece
 - [ ] Ch 11 — September Baseball
 - [ ] Ch 12 — Article 5
