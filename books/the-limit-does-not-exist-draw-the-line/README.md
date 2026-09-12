@@ -6,7 +6,7 @@
 |---|---|
 | **Author** | Sven Hardy Benson |
 | **Status** | Drafting |
-| **Chapters** | 3 of 18 drafted |
+| **Chapters** | 4 of 18 drafted |
 
 A coastline is not one length.
 
@@ -38,7 +38,7 @@ The interesting part is the drawing.
 - [x] [Ch 1 — The Line in the Water](manuscript/ch01-the-line-in-the-water.md) — coastlines, scale, and the first problem of measurement
 - [x] [Ch 2 — The Violence of a Cutoff](manuscript/ch02-the-violence-of-a-cutoff.md) — what a threshold does to a continuous distribution
 - [x] [Ch 3 — Eighteen](manuscript/ch03-eighteen.md) — the strange precision of legal adulthood
-- [ ] Ch 4 — Poor Enough — poverty lines, eligibility, and the dollar on the other side
+- [x] [Ch 4 — Poor Enough](manuscript/ch04-poor-enough.md) — poverty lines, eligibility, and the dollar on the other side
 
 ### Part II — The Box Becomes Real
 
