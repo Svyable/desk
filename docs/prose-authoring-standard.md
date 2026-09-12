@@ -4,6 +4,12 @@ This is the Desk's authoring-time quality bar for books, essays, narrative nonfi
 
 The goal is not merely to remove obvious AI tells after drafting. The first authored version should already have a point of view, narrative movement, purposeful paragraphing, evidence proportionate to the claim, and the specificity and judgment of Sven Hardy Benson. Do not manufacture irregularity to simulate a human voice.
 
+The author's [reading benchmarks](reading-benchmarks.md) specify the positive
+ambition: captivating narrative, consequential people and decisions, rewarding
+explanations, and research that can withstand scrutiny. Use those benchmarks to
+identify the craft problem at hand while retaining this book's particular voice
+and form.
+
 ## Establish what this book can do
 
 Before a new book or substantial expansion, state its central question, the
