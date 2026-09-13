@@ -36,19 +36,15 @@ So will another temptation.
 
 Baseball will not be treated here as a sepia photograph of an uncomplicated America.
 
-The national pastime carried the country's arguments inside it. Race. Labor. Immigration. Money. Cities. Television. War. Patriotism. Celebrity. The Red Sox themselves were the last major-league club to field a Black player, when Pumpsie Green broke Boston's color barrier in 1959. The team Burns inherited as a Massachusetts child therefore arrived with civic romance and civic failure already braided together.
+The national pastime carried the country's arguments inside it. Race. Labor. Immigration. Money. Cities. Television. War. Patriotism. Celebrity. The Red Sox carried their own versions of those arguments. The team Burns inherited as a Massachusetts child came with civic romance and civic failure already braided together.
 
 That is more useful than nostalgia.
 
-Over the course of Burns's life, the Red Sox would mean different things in different Americas. They would revive a city in 1967 while the country fought in Vietnam and argued violently over race. They would lose brilliantly in the 1970s while Boston itself convulsed over school desegregation. Major League Baseball would lose an entire World Series to a labor dispute in 1994. After September 11, baseball would become one of the rituals through which public life resumed. In 2004 Boston would finally win. In 2013, after bombs exploded near the finish line of the Boston Marathon, the Red Sox would become part of the city's public language of mourning and recovery.
+None of that history belongs to Burns merely because he was a fan. It belongs to the America he came from.
 
-None of those events belongs to Burns simply because he was a fan.
+Baseball can therefore give us a second clock running beneath the diplomatic one. Administrations change. Wars begin and end. Alliances enlarge. Countries disappear from maps. A season opens in April. Fenway fills. A score reaches an embassy in another time zone. The scale is absurdly smaller. The continuity is real.
 
-They belong to the America he came from.
-
-That distinction will matter throughout this book.
-
-Baseball can give us a second clock running beneath the diplomatic one. Administrations change. Wars begin and end. Alliances enlarge. Countries disappear from maps. A season opens in April. Fenway fills. A score reaches an embassy in another time zone. The scale is absurdly smaller. The continuity is real.
+The chapters ahead will let those clocks cross only where the record earns the crossing.
 
 Still, a lifelong fan acquires habits.
 
