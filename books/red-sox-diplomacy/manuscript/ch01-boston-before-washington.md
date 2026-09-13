@@ -80,6 +80,16 @@ A father says: spare yourself.
 
 A son roots for them anyway.
 
+That spring, the family briefly occupied the same public frame. At Worcester Polytechnic Institute's commencement, Burns introduced himself as a native New Englander and a long-suffering Red Sox fan. He traced an uncle, three cousins and a family manufacturing business into Worcester, then pointed out that his parents, Bob and Esther Burns, were sitting in the audience.
+
+The transcript does not tell us how either parent reacted to the baseball line.
+
+It does something better.
+
+It places the people behind the inheritance in the room while their son was already using that inheritance as public identification. Weeks later, at the State Department podium, he would explain which parent rooted for the Sox and which had warned the children away.
+
+*ARCHIVE NOTE — U.S. Department of State, “Preparing for the International Age,” commencement address at Worcester Polytechnic Institute, May 24, 1997. The surviving web transcript identifies Burns as a native New Englander and long-suffering Red Sox fan, names Worcester family ties, and says Bob and Esther Burns were present. The next clause after “were raised” is truncated in the web archive and is not reconstructed here. [Primary transcript.](https://1997-2001.state.gov/policy_remarks/970524.burns.html)*
+
 By the time Burns was eleven, the 1967 Red Sox had produced the Impossible Dream season. At nineteen came Carlton Fisk waving a home run fair in the 1975 World Series and Cincinnati winning the championship the next night. In Burns's Boston College graduation year, 1978, the Yankees erased a huge summer deficit and Bucky Dent put a home run over the Green Monster in the division tiebreaker. Those are facts about the baseball culture surrounding his Massachusetts life, not yet memories we can assign to him. The distinction matters. We do not know where he watched those games, whether he attended them, or which one mattered most.
 
 The dates carry another history too.
