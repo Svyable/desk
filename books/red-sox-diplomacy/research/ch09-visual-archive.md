@@ -4,11 +4,12 @@
 
 Chapter 9 is about representation becoming physical. The podium disappears; the embassy building, residence, country team, civic relationships, and public-facing spaces become part of what the United States looks like from Greece.
 
-The chapter therefore uses three visual moves:
+The chapter therefore uses four visual moves with four different evidentiary jobs:
 
 1. a **real federal archive photograph** showing that the Athens chancery had already functioned as a politically charged public symbol long before Burns arrived;
 2. a **RESTORATION OBJECT** separating the physical 1998–2000 renewal from any unsupported claim about political effect;
-3. a **HOUSEHOLD LEDGER** making the residence and Libby Baylies-Burns's independently documented civic work visible without confusing those activities with delegated state authority.
+3. an **ARCHIVE PLATE** preserving a Burns-era State Department publication page that places Nicholas Burns, Elizabeth Allen Baylies, and sculptor Thodoros Papayiannis together with the George C. Marshall statue model while retaining the publication's own caption and context;
+4. a **HOUSEHOLD LEDGER** making the residence and Libby Baylies-Burns's independently documented civic work visible without confusing those activities with delegated state authority.
 
 The Greece-baseball network remains reserved for Chapter 10.
 
@@ -23,8 +24,8 @@ The Greece-baseball network remains reserved for Chapter 10.
 **Rights:** U.S. National Archives source; public-domain archive aggregators identify no known copyright restrictions. Re-verify exact Commons/NARA rights metadata when vendoring the release asset.  
 **Narrative job:** Establish that the building was a public political symbol decades before Burns's 1997 arrival. The photograph is **not** evidence of the physical condition he inherited and must never be captioned as Burns-era protest damage.
 
-Draft image endpoint:
-`https://commons.wikimedia.org/wiki/Special:Redirect/file/Athens_-_Chancery_Office_Building_-_1975_-_DPLA_-_8fb298c265bf14eb903b3e1a800b527e.jpg`
+Local asset:
+`../media/primary-source/ch09-us-embassy-athens-demonstration-damage-1975.jpg`
 
 Archive/category routes:
 - https://commons.wikimedia.org/wiki/Category:NARA_images_of_Greece
@@ -49,16 +50,25 @@ The State Department article directly connects the improvements to pride in the 
 
 **Narrative job:** Make the chapter's distinction visible: facilities work can be representational without being magical. The object carries a right-hand evidentiary boundary listing what the physical changes do **not** prove.
 
-## State Magazine photo route — Burns, Libby, Papayiannis
+## ARCHIVE PLATE 02 — Burns, Libby, Papayiannis, and the Marshall model
 
-The same 2000 State Department feature contains a period photograph whose caption identifies sculptor **Thodoros Papayiannis**, Ambassador **Nicholas Burns**, and **Elizabeth Allen Baylies** standing in front of the model of the George C. Marshall statue in the artist's Athens studio.
+The same State Department feature contains a period photograph whose caption identifies sculptor **Thodoros Papayiannis**, Ambassador **Nicholas Burns**, and **Elizabeth Allen Baylies** standing in front of the model of the George C. Marshall statue in the artist's Athens studio.
 
-This is unusually valuable because it is a genuine Burns-era photograph and places Libby inside the cultural/physical representation project without implying authorship.
+The full publication page has now been vendored rather than extracting a standalone crop. Keeping the page intact preserves the magazine's own caption, the article typography, and the neighboring documentary context.
 
-**Status:** **RELEASE-SAFE SOURCE / FILE ROUTE UNRESOLVED.** The federal publication and caption are verified, but a stable direct image asset has not yet been isolated from the archived HTML. Do not substitute a screenshot or fabricated crop. Recover the original State image or a NARA/State derivative before promoting it to `FIG. 06`.
+**Local media:** `../media/primary-source/ch09-state-magazine-athens-embassy-2000-page.jpg`  
+**Publication:** *State Magazine*, No. 437, July–August 2000, printed p. 29.  
+**Article:** “New Look Transforms U.S. Embassy, Athens,” Todd Pierce.  
+**Rights:** public domain — U.S. Department of State federal work; the Commons issue record carries a U.S.-government public-domain designation.  
+**Acquisition:** recorded in `primary-media-acquisition-wave6.json` and `../media/primary-source/acquisition-report.json`; checksum retained in `SHA256SUMS.txt`.
 
-Source:
-https://1997-2001.state.gov/publications/statemag/statemag_jul2000/feature5.html
+**Metadata warning:** the Internet Archive / Commons filename incorrectly labels issue 437 as “July-August 1998.” The State Department archive and the issue's internal metadata identify **July–August 2000, No. 437**. Captions in the book should use the publication date, not the malformed filename.
+
+**Narrative job:** Supply period presence, not causal authority. The page shows Burns and Baylies with Papayiannis and the Marshall model. It does **not** establish who originated the statue, who selected the sculptor, who made particular design decisions, or that the project changed Greek attitudes toward U.S. policy.
+
+Primary routes:
+- https://1997-2001.state.gov/publications/statemag/statemag_jul2000/feature5.html
+- https://commons.wikimedia.org/wiki/File:State_Magazine_July-August_1998-_Iss_437_(IA_sim_state-magazine_july-august-1998_437).pdf
 
 ## HOUSEHOLD LEDGER 01 — shared representation, distinct roles
 
@@ -98,13 +108,13 @@ Sources:
 
 | Object | Rights state | Release action |
 | --- | --- | --- |
-| FIG. 05 1975 chancery damage | DRAFT-SAFE / likely federal public domain | verify exact NARA/Commons metadata; vendor locally |
+| FIG. 05 1975 chancery damage | RELEASE-SAFE federal archive asset | retain local file and archive provenance |
 | RESTORATION OBJECT 01 | RELEASE-SAFE original diagram | retain State Magazine source link |
-| State Magazine Burns/Libby/Papayiannis photo | RELEASE-SAFE federal source, unresolved asset route | recover original image before use |
+| ARCHIVE PLATE 02 Burns/Libby/Papayiannis page | RELEASE-SAFE federal publication page, vendored | use full-page local asset; retain issue/article provenance and metadata warning |
 | HOUSEHOLD LEDGER 01 | RELEASE-SAFE original diagram | retain underlying source notes and authority boundary |
 
 ## Visual restraint
 
-Three objects are enough for Chapter 9. The federal photograph supplies historical depth; the restoration object makes the embassy's representational choices inspectable; the household ledger broadens agency. A fourth object would need to add a genuinely different evidentiary function.
+Four objects are justified because they answer four different questions: **what the building already meant; what physically changed; who appears inside the documented cultural/representation project; and how household/civic agency differs from formal state authority.**
 
-The 1999 Clinton-visit protests are important prose evidence of the limits of representation, but no additional protest photograph is needed unless a rights-clearable image is recovered that materially sharpens the argument rather than repeating FIG. 05's function.
+No fifth object is warranted merely because more Athens photography exists. The 1999 Clinton-visit protests are important prose evidence of the limits of representation, but no additional protest photograph is needed unless a rights-clearable image materially sharpens an evidentiary question that the 1975 chancery image and the four-object sequence do not already answer.
