@@ -1,7 +1,7 @@
 const BOOK_SLUG = 'red-sox-diplomacy';
 const STYLE_ID = 'deskRedSoxDiplomacyStyle';
 const STYLE_HREF = new URL('../css/desk-red-sox-diplomacy.css?v=20260912-2', import.meta.url).href;
-const VIDEO_FILE_URL = 'https://commons.wikimedia.org/wiki/Special:Redirect/file/Ambassador_Nicholas_Burns%E2%80%99_Introductory_Video.webm';
+const VIDEO_FILE_URL = new URL('../../books/red-sox-diplomacy/media/primary-source/ch01-nicholas-burns-introductory-video-2022.webm', import.meta.url).href;
 
 function routeSlug(hash = window.location.hash || '') {
   const match = hash.match(/^#\/b\/([^/?#]+)/);
