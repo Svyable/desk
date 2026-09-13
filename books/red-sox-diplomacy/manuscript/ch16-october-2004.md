@@ -56,6 +56,24 @@ Then Boston swept St. Louis.
 
 On October 27, the drought ended.
 
+The country around the celebration was not waiting quietly for baseball history.
+
+American forces were fighting in Iraq and Afghanistan. September 11 was still close enough to organize much of the country's political language. The presidential election was six days away. Americans were arguing about war, security, executive power and what the United States should do with the extraordinary military and political reach it possessed.
+
+The Red Sox championship resolved none of that.
+
+It was not national reconciliation.
+
+It was local exultation inside a divided country.
+
+That difference matters to the tone of this book. `America's pastime` does not mean baseball rises above American history. It means the games continue inside it. The same citizen can be furious about a war, anxious about an election and irrationally invested in whether Keith Foulke fields a ground ball cleanly.
+
+In 2001, baseball had briefly become part of a national ritual of recovery after attack.
+
+In 2004, Boston was allowed something more ordinary.
+
+Its team won.
+
 For a fan identity that had spent decades feeding on complication, the scoreboard finally offered no ambiguity.
 
 Champion.
