@@ -16,6 +16,10 @@ In an April 2025 lecture reflecting on China, Burns reached for a relay race rat
 
 The image is better than a final score.
 
+![HANDOFF 01 — Burns's relay-race image for the ambassadorial office and the continuing U.S.-China relationship.](../media/ch22-handoff.svg)
+
+*HANDOFF 01 — In April 2025 Burns compared diplomacy to an Olympic relay race: he had held the U.S. baton in China and was handing it to his successor. The object records continuity of office, not endorsement of every future policy choice. [Fairbank/Belfer lecture.](https://www.belfercenter.org/research-analysis/lessons-front-lines-us-china-relationship)*
+
 A diplomat inherits a relationship already in motion and leaves it unfinished. The next person receives both.
 
 The U.S.-China relationship did not belong to the ambassador who occupied the residence. NATO did not begin when Burns arrived twelve days before September 11. The India nuclear agreement did not belong to one negotiator. Iran did not resolve itself because an Under Secretary left office. Greece did not stop having an argument with America when the embassy changed occupants.
@@ -61,6 +65,10 @@ Diplomatic outcomes decay, reverse, compound and reappear. A successful agreemen
 This last point became explicit in Burns's own public record.
 
 In September 2026, twenty-five years after the attacks of September 11, Burns returned publicly to the period when he had been ambassador to NATO. He had supported the 2003 invasion of Iraq at the time. Looking back, he said he regretted that support and believed the decision to invade had been wrong.
+
+![REVISION OBJECT 01 — Burns's 2003 support for the Iraq intervention and his September 2026 retrospective reversal.](../media/ch22-revision-object.svg)
+
+*REVISION OBJECT 01 — The record contains both judgments. Burns supported the Iraq intervention while serving as U.S. Ambassador to NATO; on September 9, 2026, he said, *“I regret that now,”* and described the decision to invade as wrong in retrospect. The arrow is time, not absolution. [PBS, Amanpour and Company.](https://www.pbs.org/video/september-9-2026-prwre2/)*
 
 The later judgment does not erase the original one.
 
