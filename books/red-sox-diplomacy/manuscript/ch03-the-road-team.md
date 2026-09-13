@@ -8,9 +8,13 @@ The passport changes less than the context.
 
 Nicholas Burns's career began this way before it acquired any grandeur. He served as an intern at the American embassy in Nouakchott, Mauritania, then worked for a nonprofit development organization before entering the Foreign Service. His early assignments took him to Cairo and Jerusalem. Later came Washington, the National Security Council, the State Department podium, Athens, NATO, and the upper reaches of the Department itself.
 
-Years afterward, looking back on the distance between the beginning and the end of that government career, Burns described himself as having gone from a lowly embassy intern to under secretary of state.
+Years afterward, looking back on the distance between the beginning and the end of that government career, Burns described himself as having gone from a *“lowly intern”* at the American embassy in Nouakchott to under secretary of state.
 
 The phrase is useful because it restores scale.
+
+[![Chronological route object showing Nicholas Burns's repeated diplomatic arrivals from Nouakchott through Beijing](../media/ch03-road-team-route.svg)](https://1997-2001.state.gov/about_state/biography/burns.html)
+
+*ROUTE OBJECT 01 — Repeated arrival, 1980–2025. The sequence is built from State Department biographies: Nouakchott, Cairo, Jerusalem, Washington, Athens, Brussels, Washington again, and eventually Beijing. It is deliberately a chronology rather than a promotion ladder; nothing in the line claims that one post made the next inevitable. [1997 State biography.](https://1997-2001.state.gov/about_state/biography/burns.html)*
 
 Diplomatic careers are usually remembered backward. The ambassadorial portrait goes on the wall. The title survives. The crisis gets a chapter in somebody's memoir. The first years disappear into résumé lines.
 
@@ -32,7 +36,11 @@ This is one reason diplomatic institutions value repetition.
 
 A posting ends. Another begins. The officer carries forward a few habits that worked and, ideally, a memory of the habits that did not. The useful lessons are often embarrassingly ordinary. Learn the names. Call people back. Know who actually understands the file. Do not confuse the person with the position. Remember that a minister has a staff, a staff has internal politics, and a government has more than one audience. Learn when a formal answer is really an opening bid. Learn when a friendly conversation is still official.
 
-Years later Burns would write admiringly about George Shultz's idea of “tending the diplomatic garden.” He had watched Shultz practice it as a young Foreign Service officer during a long trip through Asia in 1988. The important feature of the story was what had not happened. No emergency had forced the secretary of state onto the airplane. Shultz traveled because relationships that matter in crises have to exist before the crisis.
+Years later Burns would write admiringly about George Shultz's idea of *“tending the diplomatic garden.”* He had watched Shultz practice it as a young Foreign Service officer during a long trip through Asia in 1988. The important feature of the story was what had not happened. No emergency had forced the secretary of state onto the airplane. Shultz traveled because relationships that matter in crises have to exist before the crisis.
+
+[![Documentary itinerary of George Shultz's July 1988 Asia travels observed by Nicholas Burns](../media/ch03-shultz-asia-1988.svg)](https://www.hks.harvard.edu/publications/diplomat-gardener)
+
+*ITINERARY OBJECT 01 — July 1988. Bangkok, Kuala Lumpur, Jakarta, Manila, Hong Kong, Beijing, Seoul, Tokyo, Majuro; Shultz concluded the Asia travels with a July 21 address in Honolulu. Burns later described the underlying journey as an eight-country, three-week tour and remembered it as a lesson in tending relationships before crisis. Stop dates follow the State Department historian’s travel ledger. [Burns, “The Diplomat as Gardener.”](https://www.hks.harvard.edu/publications/diplomat-gardener) [Official travel chronology.](https://history.state.gov/departmenthistory/travels/secretary/shultz-george-pratt)*
 
 Maintenance is hard to dramatize.
 
