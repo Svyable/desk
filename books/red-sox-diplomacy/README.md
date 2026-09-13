@@ -16,6 +16,8 @@ A second, deliberately different biography of R. Nicholas Burns. Where *The Long
 
 Baseball is not imposed as a metaphor on every episode. It appears where the documentary record earns it. The book asks how Burns used an unmistakably American personal identity—including a lifelong attachment to the Boston Red Sox—as social intelligence, public diplomacy, humor, and a way of remaining a person inside institutions designed to make people representatives.
 
+The Red Sox also provide a second historical clock. Burns’s life runs beside a changing Boston, a changing game, and a changing United States: integration and exclusion, civic revival and racial conflict, labor fights, national trauma, championships, immigration and diaspora, globalization, and the persistent American habit of carrying local loyalties into a much larger world. That history is used as backdrop and counterpoint, not as invented memory or a claim that baseball secretly explains diplomacy.
+
 ## Contents
 
 - [x] [Front Matter](manuscript/front-matter.md)
