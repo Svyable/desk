@@ -90,6 +90,34 @@ Burns also pushed a less dramatic form of contact.
 
 People.
 
+The word can become abstract quickly. In Burns's own China life it had a more physical form, and it was not his alone.
+
+He and Libby arrived in March 2022 and spent their first twenty-one days quarantined in the residence. Later Burns described the posting repeatedly in the plural: the two of them trying to learn Mandarin, traveling when they could, attempting to see a country that had been difficult for outsiders to enter during zero-COVID.
+
+In one of their first months, Burns recalled, he and Libby walked from the residence toward Tiananmen Square. They passed through checkpoint after checkpoint—he counted roughly thirteen—and at one point were held while officials tried to determine what the American ambassador was doing walking there.
+
+The story is funny only because the restriction is real.
+
+Later, when movement became easier, the couple took second-class train rides and talked with people around them. They went to a Beijing soccer match, wore the home team's green scarves, and received high-fives from nearby spectators. They both studied Chinese.
+
+None of this was negotiation.
+
+That is exactly why it belongs in the people-to-people part of the story.
+
+A diplomatic household can encounter a country in ways that do not carry delegated authority. The ambassador remains the official representative. The spouse does not become a second ambassador by proximity. Yet the life of the post is shared, and the documentary record from Beijing gives Libby a more visible role than the generic phrase *ambassador's wife* allows.
+
+By October 2024 that distinction had become clearer. An American expatriate who attended a residence event called *A Celebration of Contemporary Chinese Art* reported that Libby had conceived the idea of bringing Chinese and China-inspired artists into the residence, where American art normally dominated the display. The attendee describes her introducing the artists and presenting art as a bridge between cultures.
+
+That account is eyewitness reporting, not an embassy transcript, and should be treated at that level. But the broader pattern is independently visible: an American artist whose work hung in the residence says Burns and Libby personally selected pieces for the State Department's Art in the Embassies program. A local conservation organization later recorded both of them hosting Chinese academics and foreign diplomats at an Ambassadors for Nature event in the same residence.
+
+The residence had become, again, a place where the shared life of the posting touched public representation.
+
+Athens had done this too.
+
+The parallel is not that Greece and China were alike. They were not.
+
+The parallel is domestic architecture becoming diplomatic space. A house becomes a place where art, philanthropy, history, nature, visiting students, officials and neighbors can enter a relationship that is otherwise described in ministries and strategy papers.
+
 The pandemic years and political deterioration had reduced ordinary movement between the two societies. American students were far less present in China than they had been. Academic and cultural exchange had become harder. Political suspicion attached itself to institutions that once would have been treated as routine bridges.
 
 Burns argued publicly for rebuilding those connections.
