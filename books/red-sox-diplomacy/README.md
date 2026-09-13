@@ -8,7 +8,7 @@
 | **Status** | Drafting |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
-| **Chapters** | 17 drafted + prologue |
+| **Chapters** | 18 drafted + prologue |
 | **Form** | Documentary narrative biography |
 | **Language** | English |
 
@@ -37,7 +37,7 @@ Baseball is not imposed as a metaphor on every episode. It appears where the doc
 - [x] [Ch 15 — Iran: When Patience Does Not Win](manuscript/ch15-iran-when-patience-does-not-win.md)
 - [x] [Ch 16 — October 2004](manuscript/ch16-october-2004.md)
 - [x] [Ch 17 — The Professor in the Cheap Seats](manuscript/ch17-the-professor-in-the-cheap-seats.md)
-- [ ] Ch 18 — Beijing
+- [x] [Ch 18 — Beijing](manuscript/ch18-beijing.md)
 - [ ] Ch 19 — Yankees, Rivals, Adversaries
 - [ ] Ch 20 — The Human Channel
 - [ ] Ch 21 — What America Looks Like From Away
