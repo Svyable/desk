@@ -52,6 +52,10 @@ The door existed.
 
 Iran did not walk through it on the required terms.
 
+![ENTRY CONDITION 01 — the 2006 offer created a doorway, not an agreed threshold.](../media/ch15-entry-condition.svg)
+
+*ENTRY CONDITION 01 — Washington offered to join the European-led nuclear negotiations if Iran fully and verifiably suspended enrichment and reprocessing activity. Iranian leaders, as reported through the U.N. diplomatic record, resisted suspension as the precondition for entering substantive talks. The object shows incompatible entry logic; it does not certify either side's account as the whole motive. [U.S. offer, May 31, 2006.](https://2001-2009.state.gov/secretary/rm/2006/67210.htm)*
+
 The dispute moved increasingly through Vienna and New York as well as national capitals. The IAEA record supplied the technical and safeguards basis for international concern. The Security Council supplied a different kind of power: demands that could become binding and sanctions that could become multilateral.
 
 In July 2006, Security Council Resolution 1696 demanded that Iran suspend enrichment-related and reprocessing activities. When Iran did not comply, Resolution 1737 imposed sanctions in December. Resolution 1747 expanded them in 2007. Resolution 1803 added further measures in March 2008.
@@ -63,6 +67,10 @@ Resolution. Sanctions. More sanctions. More countries aligned.
 But pressure is not an outcome.
 
 A sanctions coalition can demonstrate that governments have agreed to impose costs. It cannot demonstrate that the targeted government will make the political choice the coalition wants. The distinction is elementary and frequently forgotten.
+
+![PRESSURE LEDGER 01 — Security Council pressure accumulated from 2006 through early 2008.](../media/ch15-pressure-ledger.svg)
+
+*PRESSURE LEDGER 01 — Resolution 1696 demanded suspension; Resolutions 1737, 1747 and 1803 progressively added sanctions and restrictions. This is a ledger of coalition action, not a diplomatic scorecard: Iran continued enrichment and no comprehensive nuclear bargain existed when Burns left government. [U.N. Security Council resolution index.](https://main.un.org/securitycouncil/en/sanctions/1737/resolutions)*
 
 Iran continued enriching uranium.
 
@@ -115,6 +123,10 @@ The United States had accepted publicly that it could participate in a negotiate
 Those structures would outlast Burns.
 
 They would also outlast the Bush administration.
+
+![OPEN FILE 01 — unresolved outcome and institutional inheritance at Burns's departure.](../media/ch15-open-file-ledger.svg)
+
+*OPEN FILE 01 — The left side records what the Burns-era diplomacy had not achieved; the right side records machinery that survived it. The later JCPOA belongs to different governments and a different negotiation. Institutional continuity is not authorship.*
 
 Years later, a different American administration would enter direct secret diplomacy with Iran, and the P5+1 would eventually negotiate the agreement known as the Joint Comprehensive Plan of Action. It would be tempting, especially in a biography, to draw a clean line from the Burns years to 2015 and declare the later agreement the delayed payoff of earlier patience.
 
