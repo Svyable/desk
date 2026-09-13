@@ -68,6 +68,10 @@ Allied governments and ambassadors were not waiting passively to see what favor 
 
 They were offering solidarity before the American representative could fully reconnect with his own capital.
 
+[![Documentary diagram showing temporary communication failure from the U.S. mission in Brussels toward evacuated Washington institutions while allied calls moved toward Nicholas Burns](../media/ch11-signal-reversal.svg)](../research/ch11-visual-archive.md)
+
+*SIGNAL REVERSAL 01 — Brussels, September 11, 2001. Burns's later account records his team initially unable to reach the evacuated White House and State Department or the disrupted Pentagon while allied ambassadors were calling toward him. The diagram shows temporary information flow, not a claim that Washington had ceased functioning; incoming solidarity was political intent, not yet formal NATO policy. [Source map.](../research/ch11-visual-archive.md)*
+
 That must be stated carefully.
 
 Solidarity is not yet policy.
@@ -165,6 +169,10 @@ It is a system for converting political will into shared action.
 The evening of September 11 supplied the first part.
 
 The second would require capitals, instructions, lawyers, military planners, presidents, ministers, and another morning.
+
+[![Documentary object distinguishing allied political instinct, national authorization, and the still-pending formal Article 5 decision on the night of September 11](../media/ch11-authority-gap.svg)](../research/ch11-visual-archive.md)
+
+*AUTHORITY GAP 01 — Late September 11, 2001. Burns's account says a majority of the nineteen ambassadors gave an unequivocal yes, while some were still awaiting instructions and Denmark required parliamentary consultation. The object stops before the formal treaty act: Article 5 had not yet been invoked. That decision belongs to September 12—and to Chapter 12. [Source map.](../research/ch11-visual-archive.md)*
 
 Burns's later retellings emphasize the offers of solidarity because that is what stayed with him.
 
