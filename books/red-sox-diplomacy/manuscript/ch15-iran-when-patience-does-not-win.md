@@ -44,17 +44,27 @@ From Washington's perspective, suspension was a test. Iran should not continue a
 
 Both formulations could fit the same sentence of policy.
 
+The disagreement is visible in the international record without needing to infer Iranian motives from American descriptions. At the Security Council in July 2006, Iran's representative argued that the earlier suspension had been voluntary and that making suspension mandatory upset the balance of rights and obligations Iran claimed under the Non-Proliferation Treaty. Six weeks later, Secretary-General Kofi Annan said Iranian leaders had told him they would not suspend enrichment as a precondition to negotiations but were prepared to put suspension on the negotiating agenda.
+
+That distinction did not close the gap.
+
+It defined it.
+
+Washington and its partners wanted suspension to create the conditions for negotiation. Tehran's stated position was that suspension could be negotiated, but should not be the price of admission to the negotiation itself.
+
+*ARCHIVE NOTE — The United Nations record of the July 31, 2006 Security Council meeting preserves both Resolution 1696's suspension demand and Iran's answer. Kofi Annan's September 13 briefing separately records the precondition-versus-agenda distinction after his discussions with Iranian leaders. [Security Council record.](https://press.un.org/en/2006/sc8792.doc.htm) [Secretary-General briefing.](https://www.un.org/sg/en/content/highlight/2006-09-13.html)*
+
 That is one reason diplomatic language becomes so exact when the stakes rise. A precondition to one government can be a confidence-building measure to another and an unacceptable surrender to a third audience at home.
 
 The American offer was still significant. Washington was publicly saying that direct participation in a negotiated nuclear settlement was possible. The United States was not offering unconditional bilateral talks, and it was not accepting Iranian enrichment as a settled fact. But it had moved from standing outside the European nuclear negotiation toward a conditional willingness to enter it.
 
 The door existed.
 
-Iran did not walk through it on the required terms.
+Iran did not accept the threshold on the required terms.
 
 ![ENTRY CONDITION 01 — the 2006 offer created a doorway, not an agreed threshold.](../media/ch15-entry-condition.svg)
 
-*ENTRY CONDITION 01 — Washington offered to join the European-led nuclear negotiations if Iran fully and verifiably suspended enrichment and reprocessing activity. Iranian leaders, as reported through the U.N. diplomatic record, resisted suspension as the precondition for entering substantive talks. The object shows incompatible entry logic; it does not certify either side's account as the whole motive. [U.S. offer, May 31, 2006.](https://2001-2009.state.gov/secretary/rm/2006/67210.htm)*
+*ENTRY CONDITION 01 — Washington offered to join the European-led nuclear negotiations if Iran fully and verifiably suspended enrichment and reprocessing activity. Iranian leaders, as recorded in the U.N. diplomatic record, resisted suspension as the precondition for entering substantive talks while indicating it could be discussed inside negotiations. The object shows incompatible entry logic; it does not certify either side's account as the whole motive. [U.S. offer, May 31, 2006.](https://2001-2009.state.gov/secretary/rm/2006/67210.htm) [U.N. record, July 31, 2006.](https://press.un.org/en/2006/sc8792.doc.htm)*
 
 The dispute moved increasingly through Vienna and New York as well as national capitals. The IAEA record supplied the technical and safeguards basis for international concern. The Security Council supplied a different kind of power: demands that could become binding and sanctions that could become multilateral.
 
@@ -68,9 +78,15 @@ But pressure is not an outcome.
 
 A sanctions coalition can demonstrate that governments have agreed to impose costs. It cannot demonstrate that the targeted government will make the political choice the coalition wants. The distinction is elementary and frequently forgotten.
 
+The December 2006 Council record makes another point worth preserving. Russia and China voted for sanctions while still describing negotiation as the route out. The sanctions were structured to be suspended if Iran suspended enrichment and reprocessing and returned to the diplomatic track.
+
+Consensus therefore did not mean the six powers had acquired one motive.
+
+They had acquired one decision.
+
 ![PRESSURE LEDGER 01 — Security Council pressure accumulated from 2006 through early 2008.](../media/ch15-pressure-ledger.svg)
 
-*PRESSURE LEDGER 01 — Resolution 1696 demanded suspension; Resolutions 1737, 1747 and 1803 progressively added sanctions and restrictions. This is a ledger of coalition action, not a diplomatic scorecard: Iran continued enrichment and no comprehensive nuclear bargain existed when Burns left government. [U.N. Security Council resolution index.](https://main.un.org/securitycouncil/en/sanctions/1737/resolutions)*
+*PRESSURE LEDGER 01 — Resolution 1696 demanded suspension; Resolutions 1737, 1747 and 1803 progressively added sanctions and restrictions. The December 2006 Council record also preserves Russian and Chinese insistence that pressure remain tied to a negotiated solution. This is a ledger of coalition action, not a diplomatic scorecard: Iran continued enrichment and no comprehensive nuclear bargain existed when Burns left government. [Resolution 1737 meeting record.](https://press.un.org/en/2006/sc8928.doc.htm) [U.N. Security Council resolution index.](https://main.un.org/securitycouncil/en/sanctions/1737/resolutions)*
 
 Iran continued enriching uranium.
 
