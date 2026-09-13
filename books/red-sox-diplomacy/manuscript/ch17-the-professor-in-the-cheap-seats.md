@@ -118,7 +118,39 @@ He was still from Boston.
 
 The Red Sox identity survived the transition from diplomat to professor because it had never depended on office. By then the team had won championships. The old suffering joke no longer carried the same premise. Burns could still talk baseball, still advertise allegiance, still make himself legible through a piece of ordinary American life.
 
-But Harvard changed the function of the persona.
+Then, in 2013, that ordinary piece of Boston life changed function again.
+
+On Patriots' Day, two bombs exploded near the finish line of the Boston Marathon. People were killed and hundreds were injured. The attack struck one of the city's defining civic rituals—the day when the marathon, an early Red Sox game and the public holiday collapse into a single long Boston calendar.
+
+Burns was no longer an American representative abroad. He was back in Massachusetts, teaching at Harvard.
+
+The documentary record used for this book does not give us his private reaction to the bombing or to the Red Sox season that followed. It should not be invented.
+
+The public history is enough.
+
+The Red Sox placed `Boston Strong` into the team's visible identity. Fenway became one of the places where the city mourned, thanked first responders and insisted on ordinary civic life after violence. That October Boston reached the World Series. On October 30, the Red Sox clinched the championship at Fenway Park—the first time the club had won a World Series on its home field since 1918.
+
+The 2004 championship had destroyed the old claim that Red Sox identity required permanent losing.
+
+The 2013 season did something different.
+
+It showed how deeply a baseball club could be embedded in a city's public language even after winning had become familiar.
+
+The team was not therapy. A championship did not repair the physical or psychological damage of the Marathon attack. Sport is too small for that claim.
+
+But a civic institution does not have to cure grief to become one of the places where grief is expressed.
+
+That distinction belongs in a biography about representation.
+
+Burns had spent much of his professional life thinking about how countries make themselves visible through ceremonies, speeches, buildings, symbols and people. Boston in 2013 supplied a hometown example with no foreign-policy content at all. A community under shock used a ballpark, uniforms, signs, rituals and a team already saturated with local identity as part of the way it represented itself to itself.
+
+Baseball did not explain Boston.
+
+It gave Boston a stage.
+
+*ARCHIVE NOTE — Major League Baseball's 2013 retrospective records the Red Sox adoption of `Boston Strong` symbolism after the Marathon bombing and the team's championship that fall. Boston clinched Game 6 of the World Series at Fenway, its first home-field World Series clincher since 1918. [MLB 2013 retrospective.](https://www.mlb.com/redsox/news/mlb-2013-year-in-review) [2013 postseason history.](https://www.mlb.com/postseason/history/2013)*
+
+Harvard changed the function of Burns's own baseball persona too.
 
 At a State briefing, baseball had been a momentary register shared with reporters before the spokesman returned to policy. In Greece, it had sometimes become public diplomacy and network-building. In a classroom, the important form of accessibility was different. The professor had to make experience available without making experience sacred.
 
