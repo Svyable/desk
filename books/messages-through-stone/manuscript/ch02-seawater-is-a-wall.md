@@ -1,0 +1,9 @@
+# Seawater Is a Wall
+
+Radio becomes strange when the receiver goes underwater. Conductive seawater is not empty space with a little inconvenience added. It absorbs electromagnetic energy. Higher-frequency signals that travel happily through air die quickly beneath the surface. Lower the frequency and penetration improves, but wavelength expands and the transmitter becomes harder to build efficiently.
+
+This is the bargain behind ELF. At tens of hertz the wavelength is measured in thousands of kilometers. No practical Navy antenna could resemble the tidy fraction-of-a-wavelength structures familiar to ordinary radio. The transmitter therefore had to cheat: use long grounded conductors, push alternating current into the earth, and let an enormous volume of geology participate in the radiating system.
+
+That sounds like a triumph until efficiency enters the room. A physically gigantic antenna can still be electrically tiny relative to the wavelength. Most input power does not depart as useful radiation. The system works because the signal attenuates very slowly over immense distances and because the receiver can accumulate and decode a weak, repetitive signal. Strategic usefulness and engineering elegance are not the same thing.
+
+ELF therefore reverses the intuitive picture of military communications. The signal that reaches a hidden submarine can be globally important while the radiated power is surprisingly small. The infrastructure on land can be enormous while the information content is miserly. The ocean creates the requirement. Frequency solves part of it. Wavelength sends the bill inland.
