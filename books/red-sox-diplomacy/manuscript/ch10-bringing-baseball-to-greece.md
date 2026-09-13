@@ -216,9 +216,53 @@ It was not a medal contender. It was not evidence that Greece had suddenly becom
 
 That solution carried its own tension.
 
-The diaspora supplied players who could compete at an Olympic level. But the more the roster depended on experienced Greek-descended players formed abroad, the less room there could be for some of the local Greek athletes who had learned the sport during its earliest domestic years. A later documentary, *Who's on First?*, was built around precisely that conflict.
+The competitive case for the diaspora roster was not imaginary. Greece's own later history describes a local player pool that international baseball officials judged nowhere near Olympic level. The federation's account says the qualifying team that finally broke through in Europe relied on twenty-two North American players and only two from the local Greek league.
 
-The film is a source to investigate, not a verdict to import. Its existence is enough to keep the chapter from pretending everybody experienced the Olympic team's construction as uncomplicated success.
+That strategy worked at the thing it was designed to do.
+
+Greece qualified.
+
+It also changed what the local players thought they were training for.
+
+During the Athens Games, *Kathimerini* reported that documentary filmmaker Valerie Kontakos had begun following the local players years earlier, when the federation was training Greek amateurs for the national team. By the final Olympic run-up, the paper reported, only two of thirteen locally trained players were selected. Greek coach Dimitris Gousios resigned after the shift toward the diaspora-heavy roster.
+
+The most useful part of Kontakos's account is that she did not pretend the local players were better than they were.
+
+She said they understood the skill gap.
+
+The grievance was about the bargain.
+
+Players who had been encouraged to train as potential Olympians came to believe, late in the process, that the competitive plan had changed around them. One local player told Kontakos that clearer expectations would have allowed them to treat the experience as training and education rather than a roster promise.
+
+The distinction matters.
+
+A person can accept that someone else is the better shortstop and still object to how he was told the competition would work.
+
+Derksen himself makes the story harder to divide into villains and victims. After his sudden death, a *Washington Post* report said the native Greek players competing for spots adored him because he taught them the game. The scout who helped recruit the diaspora talent that narrowed their Olympic chances was also one of the people who expanded their baseball knowledge.
+
+That is closer to how institutions usually change.
+
+Help and displacement can arrive through the same door.
+
+Twenty years later, the Greek national program was still arguing with the tradeoff. In a 2024 retrospective, general manager Tom Mazarakis looked back on the Olympic effort with admiration and a sense of missed opportunity. Building a federation principally to field an Olympic team, he said, had been a mistake. The domestic work should have begun with children from the first day.
+
+The diagnosis did not mean Greece could simply stop using the diaspora.
+
+The modern national team remained overwhelmingly composed of players raised or based abroad. Local facilities were scarce. The last Olympic-era baseball fields at Elliniko had disappeared. Federation leaders were again trying to recruit children and create places for them to practice.
+
+The Olympic team had survived as a national-team institution.
+
+A self-sustaining baseball culture had not emerged at the same scale.
+
+Those are different scoreboards.
+
+That difference is useful far beyond baseball. Governments and institutions like measurable objectives because deadlines make action possible. Qualify for the Games. Build the roster. Open the facility. Sign the agreement. A deadline can force people who would otherwise drift apart to cooperate.
+
+It can also reward the result that arrives on time over the capacity that would matter ten years later.
+
+The Greek baseball project succeeded in putting a team on an Olympic field.
+
+Whether it succeeded in building baseball in Greece depends on which part of that sentence one emphasizes.
 
 There was an easy way to ridicule the hybrid roster.
 
