@@ -120,6 +120,10 @@ The photograph does not tell us who decided what.
 
 It does tell us who was there.
 
+[![State Magazine archival page showing sculptor Thodoros Papayiannis with Nicholas Burns and Elizabeth Allen Baylies beside the George C. Marshall statue model in Athens](../media/primary-source/ch09-state-magazine-athens-embassy-2000-page.jpg)](https://commons.wikimedia.org/wiki/File:State_Magazine_July-August_1998-_Iss_437_(IA_sim_state-magazine_july-august-1998_437).pdf)
+
+*ARCHIVE PLATE 02 — `State Magazine`, July–August 2000, No. 437, p. 29. Sculptor Thodoros Papayiannis with Ambassador Nicholas Burns and Elizabeth Allen Baylies beside the model of the George C. Marshall statue in the artist's Athens studio. U.S. Department of State; public domain. The full publication page is retained so the magazine's own caption and neighboring context remain visible. The archive filename mislabels the issue as 1998; State's contemporary archive and the issue itself identify July–August 2000. [State feature.](https://1997-2001.state.gov/publications/statemag/statemag_jul2000/feature5.html) [Archive issue.](https://commons.wikimedia.org/wiki/File:State_Magazine_July-August_1998-_Iss_437_(IA_sim_state-magazine_july-august-1998_437).pdf)*
+
 [![Documentary ledger separating embassy residence hosting, Libby Baylies-Burns's civic work, and her earlier preservation background from the ambassador's formal state authority](../media/ch09-household-ledger.svg)](../research/ch09-visual-archive.md)
 
 *HOUSEHOLD LEDGER 01 — Athens and earlier background. The ledger distinguishes Libby Baylies-Burns's federal preservation work, the couple's documented Gennadeion residence hosting, and her MDA Hellas role. Its bottom line is an authority boundary: shared diplomatic life did not give the ambassador's spouse authority to speak for U.S. policy, and her civic work remains her record rather than his. [Source map.](../research/ch09-visual-archive.md)*
