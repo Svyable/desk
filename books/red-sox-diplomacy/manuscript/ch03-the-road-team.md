@@ -6,37 +6,39 @@ New country. New building. New chain of command. New names that have to be learn
 
 The passport changes less than the context.
 
-Nicholas Burns's career began this way before it acquired any grandeur. He served as an intern at the American embassy in Nouakchott, Mauritania, then worked for a nonprofit development organization before entering the Foreign Service. His early assignments took him to Cairo and Jerusalem. Later came Washington, the National Security Council, the State Department podium, Athens, NATO, and the upper reaches of the Department itself.
+Nicholas Burns's career began this way before it acquired any grandeur. He served as an intern at the American embassy in Nouakchott, Mauritania, then worked for a nonprofit development organization before entering the Foreign Service. His early assignments took him to Cairo and Jerusalem. Later came Washington, the National Security Council, the State Department podium, Athens, NATO, the upper reaches of the Department, and—after a long interval outside government—Beijing.
 
-Years afterward, looking back on the distance between the beginning and the end of that government career, Burns described himself as having gone from a *“lowly intern”* at the American embassy in Nouakchott to under secretary of state.
+Years afterward, Burns described the distance between the beginning and the senior ranks by saying he had gone from a *“lowly intern”* in Nouakchott to under secretary of state.
 
-The phrase is useful because it restores scale.
+The phrase restores scale.
 
 [![Chronological route object showing Nicholas Burns's repeated diplomatic arrivals from Nouakchott through Beijing](../media/ch03-road-team-route.svg)](https://1997-2001.state.gov/about_state/biography/burns.html)
 
 *ROUTE OBJECT 01 — Repeated arrival, 1980–2025. The sequence is built from State Department biographies: Nouakchott, Cairo, Jerusalem, Washington, Athens, Brussels, Washington again, and eventually Beijing. It is deliberately a chronology rather than a promotion ladder; nothing in the line claims that one post made the next inevitable. [1997 State biography.](https://1997-2001.state.gov/about_state/biography/burns.html)*
 
-Diplomatic careers are usually remembered backward. The ambassadorial portrait goes on the wall. The title survives. The crisis gets a chapter in somebody's memoir. The first years disappear into résumé lines.
+Diplomatic careers are usually remembered backward. The ambassadorial portrait goes on the wall. The title survives. The crisis gets a chapter in somebody's memoir. The first years collapse into résumé lines.
 
 But the first years are where the profession teaches its terms.
 
-Foreign Service officers do not simply travel for a living. They repeatedly enter somebody else's home field.
+Foreign Service officers repeatedly enter somebody else's home field.
 
-The phrase is tempting enough to become dangerous. Diplomacy is not an away game in the ordinary sporting sense. The embassy is not trying to defeat the host country. The official who behaves as though every negotiation has a winner and a loser will eventually discover that countries remain on the schedule long after one round of talks ends.
+The phrase is tempting enough to become dangerous. Diplomacy is not an away game in the ordinary sporting sense. An embassy is not trying to defeat the host country. A government that treats every negotiation as a contest with a winner and loser can discover that the other side is still there after the applause ends.
 
-Still, there is something useful in the geometry.
+The useful part of the comparison is location.
 
-At home, almost everything is legible without effort. Accent, gesture, humor, rank, political shorthand, neighborhood, school, class, the meaning of a pause. Abroad, the representative becomes a beginner again. Even a powerful country can be socially clumsy in miniature.
+At home, much of social life is legible without conscious effort. Accent, gesture, humor, rank, school, class, the meaning of a pause. Abroad, the representative becomes a beginner again.
 
-The work starts with accepting that disadvantage.
+Burns had studied European history at Boston College, spent time at the Sorbonne, and earned a graduate degree at Johns Hopkins SAIS. He spoke French and Arabic and would later study Greek. Preparation mattered. It did not abolish arrival.
 
-Burns had studied European history at Boston College, spent time at the Sorbonne, and earned a graduate degree at Johns Hopkins SAIS. He spoke French and Arabic and would later study Greek. None of that eliminated the basic condition of overseas service: knowledge acquired before arrival is never the same thing as knowledge acquired by being there.
+A posting still required learning which official actually understood a file, which formal answer was an opening bid, which silence meant hesitation and which meant refusal, which relationship was ceremonial and which could carry weight in a crisis.
 
-This is one reason diplomatic institutions value repetition.
+The institution teaches some of this through repetition.
 
-A posting ends. Another begins. The officer carries forward a few habits that worked and, ideally, a memory of the habits that did not. The useful lessons are often embarrassingly ordinary. Learn the names. Call people back. Know who actually understands the file. Do not confuse the person with the position. Remember that a minister has a staff, a staff has internal politics, and a government has more than one audience. Learn when a formal answer is really an opening bid. Learn when a friendly conversation is still official.
+A posting ends. Another begins. The officer carries forward habits that worked and, ideally, some memory of the ones that did not.
 
-Years later Burns would write admiringly about George Shultz's idea of *“tending the diplomatic garden.”* He had watched Shultz practice it as a young Foreign Service officer during a long trip through Asia in 1988. The important feature of the story was what had not happened. No emergency had forced the secretary of state onto the airplane. Shultz traveled because relationships that matter in crises have to exist before the crisis.
+Burns later found a language for this in George Shultz.
+
+As a young Foreign Service officer, he watched Secretary of State Shultz travel through Asia in 1988. Burns would remember the trip decades later through Shultz's phrase *“tending the diplomatic garden.”* The important feature was not a single crisis. Shultz traveled because relationships that matter in crises have to exist before the crisis.
 
 [![Documentary itinerary of George Shultz's July 1988 Asia travels observed by Nicholas Burns](../media/ch03-shultz-asia-1988.svg)](https://www.hks.harvard.edu/publications/diplomat-gardener)
 
@@ -44,119 +46,81 @@ Years later Burns would write admiringly about George Shultz's idea of *“tendi
 
 Maintenance is hard to dramatize.
 
-That may be why it is so often neglected.
+That may be why it disappears so easily from accounts of statecraft.
 
 A summit produces photographs. A breakthrough produces headlines. A relationship quietly kept in working order rarely produces either. The diplomat who spends an hour with somebody who will matter three years later cannot know that the hour will matter. Most such hours probably do not.
 
 The profession requires making the investment anyway.
 
-Burns's later career can make this lesson look inevitable because he became an unusually public diplomat. He briefed reporters from the State Department podium. He represented the United States in Greece. He led the American mission to NATO. He handled India, Iran, Kosovo and other major files as under secretary. Eventually he returned to government as ambassador to China.
+That is a better guide to Burns's early career than any claim that each post neatly prepared him for the next.
 
-Nothing about the early postings guaranteed that trajectory.
+Successful careers invite that kind of hindsight. Cairo seems to lead to Jerusalem; Jerusalem to Washington; Washington upward. The sequence becomes a pipeline because we already know where it ended.
 
-This matters for the story because the temptation with successful careers is to turn them into pipelines. One assignment seems to prepare perfectly for the next. Cairo leads to Jerusalem; Jerusalem leads to Washington; Washington leads upward. The sequence becomes neat after the fact.
+A young officer does not.
 
-Careers are rarely experienced that way.
+He does not know which language will become useful, which colleague will reappear, which government will become central, which senior official will become a model, or which assignment that feels temporary will supply a habit that lasts thirty years.
 
-A young officer does not know which language will become unexpectedly useful, which colleague will reappear, which government will become central, which superior will become a model, or which seemingly minor assignment will supply the habit that survives thirty years.
+What accumulates is not mastery of one place.
 
-The road team keeps moving.
+It is a method for entering places without pretending to have mastered them.
 
-What accumulates is not mastery of one place so much as a method for entering places without pretending to have mastered them.
+That method includes mundane things. Learn the names. Return calls. Know who actually knows. Distinguish a friendly conversation from an unofficial one. Remember that the minister has a staff and the staff has politics. Do not mistake access for agreement. Do not assume a sentence means abroad what it meant in the room where Washington drafted it.
 
-There is humility in that, but not passivity.
+The last point would recur throughout Burns's career because every American policy changed slightly when it crossed a border.
 
-The United States does not send ambassadors abroad to be anthropologists. They carry instructions. They advocate. They ask for things. They defend policies that may be unpopular. They sometimes deliver messages the receiving government would prefer not to hear.
+It met somebody else's history.
 
-The skill is to do all of that without becoming unintelligible as a person.
+This was true even in public speeches at home.
 
-Burns's public career would eventually make that tension unusually visible. At the State Department podium, he could move from a joke about the Red Sox to a dispute involving war or sanctions in a few sentences. In Athens he would discover that the symbolic behavior of an embassy could matter alongside military cooperation and formal policy. In Beijing, decades later, he would argue for keeping human and educational channels open even as the strategic relationship hardened.
+At Worcester Polytechnic Institute's commencement in 1997, Burns was explaining what he called the coming “international age.” Globalization, he argued, was arriving in ordinary American life as surely as in diplomacy and trade. One of his examples was baseball: Japanese players were moving into American ballparks. Then came the local complaint—somehow, he joked, this international migration had skipped Fenway Park and the Red Sox bullpen.
 
-Those episodes belong later in the book.
-
-The point here is simpler.
-
-The representative travels with two forms of continuity.
-
-One is institutional. The flag on the building, the instructions from Washington, the accumulated commitments of the United States, the bureaucracy that existed before the officer arrived and will remain after departure.
-
-The other is personal. Language. Judgment. Humor. Memory. Family. Habits. Loyalties that have nothing to do with the government.
-
-The job requires carrying both without confusing them.
-
-At WPI's commencement in 1997, Burns let those two worlds overlap for a moment while explaining what he called the coming “international age.” Globalization, he said, was making itself felt in ordinary American life as well as diplomacy and trade. One of his examples was baseball: Japanese players were moving into American ballparks. Then came the local complaint—somehow, he joked, this international migration had skipped Fenway Park and the Red Sox bullpen.
-
-It was a throwaway line in a speech about global interdependence.
+It was a throwaway line.
 
 That is exactly why it is useful.
 
-Long before Greek baseball became an ambassadorial project, Burns already had baseball available as a way to make cross-border movement legible to an American audience. The joke does not reveal a doctrine. It shows a habit of translation: start with the abstraction, find something ordinary enough to make it visible, then return to the serious argument.
+Long before Greek baseball became part of his work in Athens, Burns already had the sport available as ordinary language for movement across borders. The joke proves no theory. It shows the reflex: take something large and abstract, find a piece of ordinary life that makes it visible, then return to the argument.
 
 *ARCHIVE NOTE — U.S. Department of State, “Preparing for the International Age,” Worcester Polytechnic Institute commencement address, May 24, 1997. Burns cites Japanese baseball players moving into U.S. ballparks as an example of internationalization and jokes about Fenway and the Red Sox bullpen. [Primary transcript.](https://1997-2001.state.gov/policy_remarks/970524.burns.html)*
 
-Burns's attachment to the Red Sox is useful in this book because it is one unusually visible example of the second kind of continuity. He could move from continent to continent and remain recognizably from somewhere. Boston did not vanish because he was posted abroad.
+Baseball also made Burns's own continuity unusually visible. The country changed. The posting changed. The title changed. He was still from Boston.
 
-But the more important continuity was professional.
+But the road-team idea should stop there.
 
-He repeatedly returned to the idea that diplomacy is built before it is needed.
-
-That belief helps explain the otherwise mundane density of a diplomatic life: lunches, calls, courtesy meetings, ceremonial appearances, visits that seem to produce no immediate result, the repeated act of showing up in rooms where nothing historic happens.
-
-Most days in foreign policy are not historic.
-
-The system still has to work on those days.
-
-Baseball offers another tempting comparison here, so it is worth refusing the easy version. A long season rewards durability, repetition and memory. So does diplomacy. But the comparison breaks where the work becomes serious. A baseball club wants the other club to lose. An embassy often needs the government across the table to remain stable, capable and willing to keep talking even while the two sides disagree.
-
-The road-team lesson is not hostility.
+A baseball club travels in order to win a game. An embassy may need the government across the table to remain stable, capable and willing to keep talking even while the two countries disagree sharply. The point is not hostility.
 
 It is adjustment.
 
 You are not at home. Act like you noticed.
 
-Burns's later public diplomacy often had this quality. He could carry Boston with him without requiring the room to become Boston. That distinction is easy to miss. Cultural confidence can create connection; cultural insistence creates resistance.
+Foreign Service life enforces that lesson through movement. Nouakchott was not Cairo. Cairo was not Jerusalem. Jerusalem was not Washington. Each place changed which facts mattered and which memories Washington did not share.
 
-The representative has to know the difference.
+The diplomat stands near the point where the official American sentence lands.
 
-The Foreign Service taught this through movement. Nouakchott was not Cairo. Cairo was not Jerusalem. Jerusalem was not Washington. Each place altered the set of facts that mattered and the people whose trust had to be earned.
+Sometimes the sentence travels cleanly.
 
-By the time Burns reached senior rank, he had spent years watching American policy change as it crossed borders.
+Sometimes it arrives carrying meanings its authors never intended.
 
-A sentence drafted in Washington enters another climate abroad.
+The officer close to the receiving country is supposed to notice the difference and report it before Washington mistakes intention for effect.
 
-It encounters history.
+That is less glamorous than a summit and more durable than one.
 
-It meets memory Washington may not share.
+Burns's admiration for Shultz's gardening metaphor makes sense in that light. Gardens are maintained in ordinary time. The work is repetitive, local, easy to neglect and impossible to improvise all at once after the weather changes.
 
-It lands inside another country's domestic politics.
+Burns did not invent the metaphor.
 
-Sometimes it acquires meanings its authors never intended.
+He kept the lesson.
 
-The diplomat is the person standing close enough to notice.
-
-That function is easy to undervalue in a government that can communicate instantly with almost anywhere on earth. Technology can deliver instructions faster. It cannot make the receiving country interpret them the way Washington hoped.
-
-Representation remains a human correction mechanism.
-
-That is one reason Burns's admiration for diplomatic gardening is more revealing than it first appears. Gardening is local work. Soil differs. Seasons differ. Conditions have to be observed rather than assumed. The gardener cannot command a plant to grow because headquarters has approved the talking points.
-
-Burns did not invent the metaphor. He inherited it from Shultz.
-
-He kept returning to the underlying idea because it matched the profession he had lived.
-
-Relationships take maintenance. Institutions require care before emergency. Presence matters. The ordinary meeting may turn out not to have been ordinary.
+Relationships need maintenance before emergency. Presence matters. The ordinary meeting may turn out not to have been ordinary.
 
 A career built this way can look slow from the outside.
 
-Then a crisis arrives and everybody begins asking who can make the call.
+Then a crisis arrives and everybody asks who can make the call.
 
-The answer usually depends on work done earlier.
-
-Burns would encounter that truth in increasingly consequential places. Before NATO enlargement, before India, before Iran, before Beijing, there were the early posts where the stakes were real but the officer was not yet famous enough for anyone to narrate the day afterward.
+Before the crises attached themselves to Burns's name, there were the postings where the stakes were real and the officer was not important enough for anyone to preserve his day in detail.
 
 Cairo was one of them.
 
-He arrived there as a vice consul and staff assistant to the ambassador in the early 1980s.
+Burns arrived there in the early 1980s as a vice consul and staff assistant to the ambassador.
 
 No one had sent him to Egypt to learn a baseball lesson.
 
