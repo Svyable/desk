@@ -133,8 +133,7 @@ theorem no_exact_locally_finitary_classifier
   rintro ⟨observer, hlocal, hexact⟩
   rcases hnt.1 with ⟨x, hxP⟩
   rcases hlocal x with ⟨s, hs⟩
-  have hnt' : PredicateNontrivial P := hnt
-  have htwo := two_sided_finite_extension P hinv hnt' s x
+  have htwo := two_sided_finite_extension P hinv hnt s x
   rcases htwo.2 with ⟨y, hyAgree, hyNotP⟩
   have hsame : observer y = observer x := hs y hyAgree
   have hxTrue : observer x = true := (hexact x).2 hxP
@@ -161,15 +160,14 @@ theorem finite_ensemble_indistinguishable
     intro j
     exact Classical.choose_spec (hlocal j x)
   let s : Finset ι := Finset.univ.biUnion support
-  have hnt' : PredicateNontrivial P := hnt
-  have htwo := two_sided_finite_extension P hinv hnt' s x
+  have htwo := two_sided_finite_extension P hinv hnt s x
   rcases htwo.2 with ⟨y, hyAgree, hyNotP⟩
   refine ⟨x, y, hxP, hyNotP, ?_⟩
   intro j
   have hsub : ∀ i ∈ support j, y i = x i := by
     intro i hi
     apply hyAgree i
-    simp [s, hi]
+    exact Finset.mem_biUnion.mpr ⟨j, Finset.mem_univ j, hi⟩
   exact (hsupport j y hsub).symm
 
 end FiniteEvidenceBoundary
