@@ -6,7 +6,7 @@ He brings a country with him.
 
 Not literally. Not completely. But enough of one that strangers will begin using him as evidence.
 
-The suit. The flag. The security detail. The accent. The embassy. The motorcade. The invitations. The silences. The causes he chooses to defend. The questions he avoids. The way his government behaves when no reception is happening.
+The suit. The flag. The security detail. The accent. The embassy. The motorcade. The invitations. The silences. The causes he chooses to defend. The way his government behaves when no reception is happening.
 
 All of it accumulates.
 
@@ -16,29 +16,19 @@ That part is beyond the ambassador's control.
 
 Nicholas Burns learned this early enough that he eventually made public diplomacy a subject of professional argument. As State Department spokesman in 1997, he described the challenge as communicating American ideas, policy and the country's role in the world. He worried that the diplomatic service was not serious enough about explaining itself—not only to Americans, but overseas.
 
-The premise was simple.
-
 Policy does not explain itself.
 
 Power certainly does not.
 
 The United States can believe it is acting for one set of reasons while another society experiences the action through a completely different archive.
 
-That gap is where representation begins.
-
 Greece made the point brutally clear.
 
 When Burns arrived in Athens in 1997, he did not enter a blank bilateral relationship waiting to be narrated by a new ambassador. Greeks already possessed stories about the United States: the civil war, the Cold War, the military junta, Cyprus, Turkey, NATO, the Balkans, American intervention, American culture.
 
-Some of those stories were flattering.
+Some were flattering. Some were hostile. Some were rooted in fact. Some simplified history into usable politics.
 
-Some were hostile.
-
-Some were rooted in fact.
-
-Some simplified history into usable politics.
-
-All of them existed before Burns presented his credentials.
+All existed before Burns presented his credentials.
 
 His task was not to delete them.
 
@@ -50,55 +40,29 @@ The embassy could issue arguments.
 
 It could not issue a new Greek memory.
 
-Burns nevertheless pushed the mission outward.
-
-The documentary record from the embassy years shows a public-facing operation that did more than negotiate with ministries. Commercial diplomacy, cultural work, educational programs, civic engagement and contact beyond the official elite all mattered. Burns's office carried Boston artifacts and the signed Red Sox cap. The embassy itself became part of the argument: the United States should be encountered not only as policy but as people.
+Burns nevertheless pushed the mission outward. The documentary record from the embassy years shows a public-facing operation that did more than negotiate with ministries. Commercial diplomacy, cultural work, educational programs, civic engagement and contact beyond the official elite all mattered. Burns's office carried Boston artifacts and the signed Red Sox cap. The embassy itself became part of the argument: the United States should be encountered not only as policy but as people.
 
 That idea can become sentimental if stated too quickly.
-
-People do not cancel policy.
 
 A Greek citizen furious about Kosovo was not required to become less furious because the ambassador liked baseball. A student at an embassy program did not thereby accept American policy on Cyprus.
 
 Public diplomacy is not a trick for making disagreement disappear.
 
-At its best, it does something more modest.
-
-It makes disagreement take place against a more complicated picture.
+At its best, it makes disagreement take place against a more complicated picture.
 
 That is harder than propaganda.
 
-Propaganda wants compression.
-
-This country is good.
-
-That country is bad.
-
-Our action is necessary.
-
-Their objection is dishonest.
-
-Diplomacy becomes more useful when it can survive complexity without losing the ability to advocate.
+Propaganda wants compression. Diplomacy becomes more useful when it can survive complexity without losing the ability to advocate.
 
 An ambassador is not a neutral anthropologist. He is there to advance his government's interests and explain its policies. But he becomes useless if advocacy requires him to stop noticing how the country looks from outside itself.
 
-The American self-image is particularly vulnerable to this problem because the United States speaks in universal language.
-
-Freedom.
-
-Democracy.
-
-Rights.
-
-Opportunity.
-
-Rule of law.
+The American self-image is particularly vulnerable to this problem because the United States speaks in universal language: freedom, democracy, rights, opportunity, rule of law.
 
 Those words travel well.
 
 They also invite comparison.
 
-Foreign audiences do not encounter American values only through speeches. They compare the speech with immigration policy, war, racial conflict, elections, prisons, alliances, trade rules, television, universities, companies, music, military bases and the behavior of Americans they actually meet.
+Foreign audiences encounter American values not only through speeches but through immigration policy, war, racial conflict, elections, universities, companies, military bases, entertainment and the Americans they actually meet.
 
 The comparison can be unfair.
 
@@ -108,61 +72,45 @@ A diplomat has to live with both possibilities.
 
 This is where Burns's public style matters more than his baseball fandom by itself.
 
-The Red Sox gave him a recognizable biography.
-
-Boston. Family. Losing. Loyalty. Humor. A city. A team. A set of inherited attachments that were obviously not government policy.
-
-That was useful because an official representative is otherwise easy to flatten into the institution he serves.
-
-Burns kept letting small pieces of the person show.
+The Red Sox gave him a recognizable biography: Boston, family, loyalty, humor, a city and a team. An official representative is otherwise easy to flatten into the institution he serves. Burns kept letting small pieces of the person show.
 
 The effect was not to make America lovable.
 
 It was to make the representative less abstract.
 
-Decades later, China posed the same representational problem under harder political conditions. By then both governments had developed dense public stories about the other. Washington described an authoritarian competitor using coercion, violating rights and seeking technological and military advantage. Beijing described a United States attempting to contain China's rise, interfere in its internal affairs and preserve an order built around American dominance.
+Decades later, China posed the same problem under harder political conditions. By then both governments had developed dense public stories about the other. Washington described an authoritarian competitor using coercion, violating rights and seeking technological and military advantage. Beijing described a United States attempting to contain China's rise, interfere in its internal affairs and preserve an order built around American dominance.
 
 Neither story was merely invented.
 
 Neither was the whole country.
 
-Burns argued for more educational and cultural exchange even while representing a competitive American strategy. In 2024 the exchange effort itself became disputed: Burns accused Chinese authorities of interfering with U.S. cultural and educational programming; China rejected his characterization and said it supported people-to-people contact while opposing American interference and politicization.
+Burns argued for more educational and cultural exchange while representing a competitive American strategy. In 2024 he accused Chinese authorities of interfering with U.S. cultural and educational programming; China rejected his characterization and said it supported people-to-people contact while opposing American interference and politicization.
 
-Chapter 18 treated that dispute as a problem of keeping communication alive under competition.
+The details matter in Chapter 18 because the dispute concerned whether communication could remain open under competition.
 
-Here it reveals something else.
+Here the point is narrower.
 
-National image is contested terrain.
+National image is itself contested terrain.
 
 Governments understand that people form political impressions outside formal negotiations. That is why states care about media, scholarships, cultural programs, visas, tourism, censorship, information campaigns and influence operations.
 
 Yet no government fully owns the picture.
 
-Hollywood exports one America.
-
-Harvard exports another.
-
-A Marine at an embassy gate exports another.
-
-A technology company exports another.
-
-A Black American musician, a Chinese American scientist, a Midwestern exchange student, a President, a protester, a billionaire, a refugee, a diplomat and a baseball fan can all be read abroad as evidence about the United States.
+Hollywood exports one America. Harvard exports another. A Marine at an embassy gate exports another. So do a technology company, a musician, a scientist, an exchange student, a protester, a refugee, a diplomat and a baseball fan.
 
 Often they contradict one another.
 
 Even the baseball fan carries a more complicated object than the phrase `American pastime` suggests.
 
-By the time Burns wore a Red Sox cap in China, major-league baseball had long since become a global professional system. The Greece episode had already shown the network in miniature: Greek organizers, Greek-American volunteers, a Baltimore owner, Major League Baseball's international operation, North American players of Greek descent, a scout with Pacific Rim experience, and a Boston team whose exact contribution remains partly archival rather than mythic.
+By the time Burns wore a Red Sox cap in China, major-league baseball had long since become a global professional system. The Greece episode showed the network in miniature: Greek organizers, Greek-American volunteers, professional baseball institutions, North American players of Greek descent and people whose baseball lives had already crossed national boundaries.
 
 Baseball traveled as American culture while being continually remade by people moving into and through the game from outside the United States.
 
-That is not a contradiction to solve.
-
-It may be one of the more accurate things the sport says about America.
+That may be one of the more accurate things the sport says about America.
 
 The country is forever exporting things it has already imported, absorbed, commercialized, argued over and renamed as its own.
 
-So when Burns appeared in Beijing with the Red Sox visible, the image was not `America presents a sealed American tradition to China.`
+So when Burns appeared in Beijing with the Red Sox visible, the image was not a sealed American tradition being presented to China.
 
 It was messier.
 
@@ -186,7 +134,7 @@ Burns served repeatedly in places where American power was impossible to ignore 
 
 There was never one America to represent.
 
-There was only an official obligation to represent the government honestly within that complexity.
+There was an official obligation to represent the government honestly within that complexity.
 
 The word honestly needs care.
 
@@ -196,25 +144,11 @@ Professional honesty therefore cannot mean total disclosure.
 
 It means not confusing advocacy with self-deception.
 
-The ambassador who cannot understand why another society distrusts the United States cannot explain the distrust back to Washington.
-
-The ambassador who dismisses every criticism as propaganda will eventually send propaganda home.
-
-The ambassador who treats every criticism as morally decisive will stop representing his own country.
+The ambassador who cannot understand why another society distrusts the United States cannot explain the distrust back to Washington. The ambassador who dismisses every criticism as propaganda will eventually send propaganda home. The ambassador who treats every criticism as morally decisive will stop representing his own country.
 
 The work is in the tension.
 
-Listen without surrendering judgment.
-
-Advocate without assuming comprehension.
-
-Explain without pretending history began with the current administration.
-
-Recognize hypocrisy without deciding ideals are meaningless.
-
-Recognize ideals without assuming the country always lives up to them.
-
-That is representation from away.
+Listen without surrendering judgment. Advocate without assuming comprehension. Explain without pretending history began with the current administration. Recognize hypocrisy without deciding ideals are meaningless. Recognize ideals without assuming the country always lives up to them.
 
 Burns's long career also reveals a reversal that is easy to miss.
 
@@ -224,13 +158,11 @@ They also spend their lives explaining foreign countries to America.
 
 That second direction may be more important.
 
-The most dangerous failure in foreign policy is not that another government dislikes the United States.
-
-It is that the United States misunderstands the other government badly enough to act on a fantasy.
+The most dangerous failure in foreign policy is not that another government dislikes the United States. It is that the United States misunderstands the other government badly enough to act on a fantasy.
 
 A good embassy is therefore an instrument of national self-correction.
 
-It reports what local officials say when the cameras are gone. It reports what the opposition believes. It reports what the government cannot admit publicly. It reports what the newspapers are getting wrong, what Washington is getting wrong, what the street is angry about and which American assumptions do not survive contact with the country itself.
+It reports what local officials say when the cameras are gone. It reports what the opposition believes, what the government cannot admit publicly, what Washington is getting wrong and which American assumptions do not survive contact with the country itself.
 
 This is not glamorous representation.
 
@@ -242,9 +174,9 @@ World into world.
 
 Burns once worried that Americans did not understand what the State Department did.
 
-The answer, after his career, is not simply that diplomats negotiate treaties.
+After his career, one answer is clear enough.
 
-They carry national power across the boundary where national self-image stops being sovereign.
+Diplomats carry national power across the boundary where national self-image stops being sovereign.
 
 On the other side, America becomes visible from angles Americans cannot control.
 
