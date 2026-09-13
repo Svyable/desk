@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" role="img" aria-labelledby="title desc">
+  <title id="title">Return-to-work ledger after NATO's 2003 Iraq rupture</title>
+  <desc id="desc">A documentary ledger showing the alliance's shift from the Turkey-defense dispute to renewed shared work in Afghanistan, support for Poland in Iraq, and Burns's repair rhetoric.</desc>
+  <defs><linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f5f0e6"/><stop offset="1" stop-color="#e8dfd0"/></linearGradient></defs>
+  <rect width="1400" height="900" fill="#101722"/>
+  <rect x="56" y="48" width="1288" height="804" rx="8" fill="url(#paper)"/>
+  <text x="104" y="108" font-family="Georgia, 'Times New Roman', serif" font-size="25" letter-spacing="5" fill="#6c6258">RETURN LEDGER 01 · AFTER THE RIFT</text>
+  <line x1="104" y1="138" x2="1296" y2="138" stroke="#bd3039" stroke-width="3"/>
+  <text x="104" y="198" font-family="Georgia, 'Times New Roman', serif" font-size="42" fill="#171411">The disagreement remained. So did the institution.</text>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="104" y="286" width="1192" height="125" rx="7" fill="#efe7da" stroke="#cbbfaf"/>
+    <text x="136" y="325" font-size="18" font-weight="700" letter-spacing="2.3" fill="#bd3039">FEB–APR 2003 · TURKEY DEFENSE / IRAQ RUPTURE</text>
+    <text x="136" y="362" font-size="20" fill="#443d36">NATO authorizes defensive support for Turkey; the United States invades Iraq without NATO conducting the war as an alliance operation.</text>
+    <text x="136" y="391" font-size="16" fill="#71675d">The policy dispute is not resolved by the Turkey compromise.</text>
+
+    <rect x="104" y="438" width="1192" height="125" rx="7" fill="#0c2340"/>
+    <text x="136" y="477" font-size="18" font-weight="700" letter-spacing="2.3" fill="#f3eee3">16 APR → 11 AUG 2003 · NATO TAKES ISAF COMMAND</text>
+    <text x="136" y="514" font-size="20" fill="#f3eee3">At the request of Germany, the Netherlands and Canada, the alliance agrees to take strategic command, control and coordination of ISAF.</text>
+    <text x="136" y="543" font-size="16" fill="#c6d0da">Germany—central to the February dispute—remains central to shared alliance work.</text>
+
+    <rect x="104" y="590" width="1192" height="125" rx="7" fill="#efe7da" stroke="#cbbfaf"/>
+    <text x="136" y="629" font-size="18" font-weight="700" letter-spacing="2.3" fill="#7a6855">JUNE 2003 · SUPPORT FOR POLAND IN IRAQ</text>
+    <text x="136" y="666" font-size="20" fill="#443d36">NATO agrees to help Poland with force generation, communications, logistics and movement for its stabilization role.</text>
+    <text x="136" y="695" font-size="16" fill="#71675d">The alliance had not agreed to wage the Iraq war; it could still agree on bounded support afterward.</text>
+  </g>
+
+  <rect x="104" y="754" width="1192" height="70" rx="5" fill="#ece3d5" stroke="#cbbfaf"/>
+  <text x="132" y="785" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="2" fill="#0c2340">INSTITUTIONAL SURVIVAL</text>
+  <text x="132" y="813" font-family="Georgia, 'Times New Roman', serif" font-size="19" font-style="italic" fill="#4b433b">Repair did not require anyone to pretend the Iraq dispute had been trivial. It required finding shared work that could still be done.</text>
+  <text x="1296" y="850" text-anchor="end" font-family="'Courier New', monospace" font-size="16" fill="#82776c">RSD / CH13 / 2003 / R01</text>
+</svg>
