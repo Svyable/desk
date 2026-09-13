@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "policy": "Wave 3: add only media with an explicit public-domain or reuse record; preserve date and evidentiary limits.",
+  "destination_root": "books/red-sox-diplomacy/media/primary-source",
+  "assets": [
+    {
+      "dest": "ch11-nicholas-burns-nato-december-2001.jpg",
+      "commons_filename": "Defense.gov News Photo 011219-D-2987S-008.jpg",
+      "archive_record": "https://commons.wikimedia.org/wiki/File:Defense.gov_News_Photo_011219-D-2987S-008.jpg",
+      "maker": "United States Department of Defense",
+      "date": "2001-12-19",
+      "rights": "public domain — U.S. Department of Defense employee work",
+      "chapter": "11/12",
+      "job": "post-9/11 NATO ministerial context with Burns accompanying Secretary Rumsfeld; explicitly not the September 11 scene"
+    },
+    {
+      "dest": "ch14-burns-ischinger-german-reunification-day-2005.jpg",
+      "commons_filename": "German Reunification Day - DPLA - 76a88a2cb0ab3d33a922ad992ad4f5dc.JPG",
+      "archive_record": "https://commons.wikimedia.org/wiki/File:German_Reunification_Day_-_DPLA_-_76a88a2cb0ab3d33a922ad992ad4f5dc.JPG",
+      "maker": "Earl McDonald / U.S. National Archives and Records Administration",
+      "date": "2005-10-03",
+      "rights": "public domain — NARA/DPLA record; RightsStatements.org: No Copyright - United States",
+      "chapter": "13/14",
+      "job": "Burns with German Ambassador Wolfgang Ischinger during his Under Secretary period; relationship context, not evidence about a specific negotiation"
+    },
+    {
+      "dest": "ch18-nicholas-burns-basketball-zhijiang-2023.webm",
+      "commons_filename": "Ambassador Nicholas Burns plays basketball with Chinese students in Zhijiang Dong Autonomous County.webm",
+      "archive_record": "https://commons.wikimedia.org/wiki/File:Ambassador_Nicholas_Burns_plays_basketball_with_Chinese_students_in_Zhijiang_Dong_Autonomous_County.webm",
+      "maker": "U.S. Ambassador to China / U.S. Department of State",
+      "date": "2023-09-10",
+      "rights": "public domain — U.S. Department of State employee work",
+      "chapter": "18/21",
+      "job": "6-second primary-source moving image of people-to-people contact; not evidence of negotiation or policy effect"
+    }
+  ]
+}
