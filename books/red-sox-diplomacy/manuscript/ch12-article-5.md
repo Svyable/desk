@@ -34,7 +34,9 @@ Rice told him to proceed.
 
 Burns would remember one more sentence from the call.
 
-It was good to have friends in the world.
+> *“It’s good to have friends in the world.”*
+
+*ARCHIVE NOTE — Condoleezza Rice, as recalled by Nicholas Burns in his 2024 retrospective on NATO and September 11. This is Burns's remembered wording, not a contemporaneous White House transcript. [First-person source.](https://afsa.org/nato-75)*
 
 The line survives because it reduces an elaborate alliance system to something almost embarrassingly plain.
 
@@ -75,6 +77,10 @@ On October 2, after NATO received the results of the American investigation, the
 The attacks had been directed from abroad.
 
 Article 5 applied.
+
+[![Documentary object showing NATO's September 12 conditional Article 5 decision and the October 2 determination that the attacks had been directed from abroad](../media/ch12-conditional-clause.svg)](https://www.nato.int/docu/pr/2001/p01-124e.htm)
+
+*CONDITIONAL CLAUSE 01 — September 12 to October 2, 2001. NATO committed to collective defense while retaining a factual condition: the attacks had to be established as externally directed. After the Council received the investigation results on October 2, that condition was satisfied. Verification was part of the alliance process, not the opposite of solidarity. [Source map.](../research/ch12-visual-archive.md)*
 
 Then came the harder question.
 
@@ -122,6 +128,10 @@ Airborne early-warning aircraft available to support operations.
 
 This was Article 5 turning from a sentence into infrastructure.
 
+[![Documentary implementation package summarizing the eight NATO support measures approved on October 4, 2001](../media/ch12-eight-measures.svg)](https://www.nato.int/en/news-and-events/events/transcripts/2001/10/04/statement-to-the-press)
+
+*IMPLEMENTATION PACKAGE 01 — October 4, 2001. At U.S. request, NATO agreed eight forms of support spanning intelligence, security, backfill, overflight, access, naval presence and airborne warning. The package did not require every ally to perform an identical act; it organized different capabilities into shared assistance. [Source map.](../research/ch12-visual-archive.md)*
+
 That transformation is the chapter.
 
 Alliances are often discussed at their most theatrical level.
@@ -161,6 +171,10 @@ The symbolism was almost too neat.
 For decades, the United States had stationed forces in Europe as tangible proof that an attack on Europe would involve America.
 
 Now multinational NATO crews were flying over the United States because America had been attacked.
+
+[![Flight ledger for Operation Eagle Assist showing NATO aircraft, multinational crews and sorties over the United States](../media/ch12-eagle-assist-ledger.svg)](https://www.nato.int/en/what-we-do/introduction-to-nato/collective-defence-and-article-5)
+
+*FLIGHT LEDGER 01 — Operation Eagle Assist, October 2001–May 2002. NATO's official history records seven AWACS aircraft, 830 crew members from thirteen NATO countries and more than 360 sorties helping patrol U.S. airspace. It was the first deployment of NATO military assets in support of an Article 5 operation. [Source map.](../research/ch12-visual-archive.md)*
 
 The alliance had reversed its traditional flow without abandoning its original principle.
 
