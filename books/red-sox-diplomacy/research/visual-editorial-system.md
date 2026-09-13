@@ -37,6 +37,7 @@ Current sequence:
 - FIG. 02 — Burns with young Chinese baseball fans, Beijing, 2024
 - FIG. 03 — State Department briefing room / Ned Price, December 6, 2021
 - FIG. 04 — Burns at NATO press conference, Brussels, December 2, 2003
+- FIG. 05 — Athens chancery after demonstration damage, 1975; explicitly pre-Burns
 
 ### CONTACT SHEET
 
@@ -112,6 +113,12 @@ Every node and arrow must correspond to a sourced transfer or callback. The diag
 
 A documentary relationship map. Every line or arrow must mean something stated in the label. It may show brokerage, sequence, institutional flow, or competing actors; it must not imply command, causation, or ownership that the sources do not establish.
 
+### CREDIT MAP
+
+A role-based map used when a network diagram would over-center one actor. Credit maps assign distinct kinds of labor, authority, expertise, or responsibility without ranking them as a single causal chain.
+
+A credit map must separate what each actor is documented doing from what the project as a whole achieved. It should make it easy to see why one participant could not substitute for another.
+
 ### WITNESS OBJECT
 
 A visual comparison of testimony or source proximity. Use when the distinction between direct witness, near-primary witness, same-post context, retrospective institutional account, or research hypothesis materially changes what the book may say.
@@ -130,6 +137,12 @@ A stop-by-stop documentary travel sequence drawn from a reliable travel ledger, 
 
 When a participant later interprets the trip, keep the retrospective interpretation distinct from the contemporaneous itinerary facts.
 
+### ORIGIN LEDGER
+
+A chronology for projects whose beginnings are plural, contested, gradual, or differently dated by later witnesses. It may show grassroots, institutional, political, financial, or competitive beginnings as separate events.
+
+An origin ledger should reduce false certainty, not manufacture it. When retrospective accounts disagree, label the source-specific chronology rather than choosing a ceremonial founding date for narrative convenience.
+
 ### ADDRESS OBJECT
 
 An institutional or administrative geometry diagram used when an address, accreditation relationship, mission status, jurisdiction, or organization chart itself carries policy meaning.
@@ -147,6 +160,24 @@ A ledger should clarify the denominator and scope before allowing a number to ca
 A compact accounting of selected mechanisms used to execute an agreement or policy: funding, resettlement, dismantlement, technical assistance, cleanup, staffing, or other operational terms.
 
 It is not a total-cost table unless the sources establish completeness. Every row must state what the measure was for, and the label must distinguish enabling measures from political causation.
+
+### RESTORATION OBJECT
+
+A documentary object for physical changes to a building, landscape, object, archive, or institutional space. Use when the material intervention itself is part of representation or institutional history.
+
+A restoration object must separate the physical record from claims about political or social effect. Cleaning marble, removing vines, changing lighting, or restoring a fountain can be documented without claiming those acts changed public opinion.
+
+### HOUSEHOLD LEDGER
+
+A documentary ledger for shared diplomatic life when spouses, family members, residences, or household institutions have independent roles worth preserving.
+
+The ledger must make authority boundaries explicit. A spouse's civic, cultural, charitable, professional, or hosting activity does not confer authority to speak for the state, and that work should not be absorbed into the ambassador's personal credit.
+
+### TWO SCOREBOARDS
+
+A paired-measure object for projects that can succeed according to one objective while remaining incomplete according to another. Each scoreboard must name its metric, time horizon, and source basis.
+
+The form is not an invitation to moralize one metric as the “real” result. Its purpose is to make competing definitions of success visible—for example, qualifying an Olympic team versus building a self-sustaining domestic sports culture.
 
 ### MAP OBJECT
 
@@ -180,6 +211,7 @@ The Beijing Red Sox clinic image used in Chapter 1 should not simply recur in Ch
 
 - A photograph proves that the photographed moment occurred, not what a person felt.
 - A later photograph cannot backfill an undocumented earlier memory.
+- A historic photograph from before a subject's tenure must not be captioned as evidence of conditions during that tenure.
 - A contact sheet preserves roll-level context; named people may not appear in every frame.
 - A social post proves the post and the depicted/claimed event only to the extent separately supported by its provenance.
 - An official source can prove that the government said something without proving the underlying claim.
@@ -189,6 +221,11 @@ The Beijing Red Sox clinic image used in Chapter 1 should not simply recur in Ch
 - A recurrence ledger must identify whether it is selected or exhaustive.
 - A farewell inventory must distinguish reported objects from recovered originals.
 - A circuit diagram may visualize a documented route; it cannot silently turn an indirect route into a direct relationship.
+- A credit map assigns lanes, not a hierarchy of moral or causal importance.
+- An origin ledger must preserve conflicting dates when the archive preserves them.
+- A restoration object must distinguish physical intervention from political effect.
+- A household ledger must make official authority and independent civic/professional work distinct.
+- A paired scoreboard must define each metric instead of hiding disagreement inside one synthetic score.
 - Cropping cannot remove context in a way that changes meaning.
 - Overlapping service at a large post does not establish personal acquaintance; witness distance must remain explicit.
 - Program-wide financial totals do not become a named official's personal budget merely because the official worked on the program.
@@ -196,7 +233,7 @@ The Beijing Red Sox clinic image used in Chapter 1 should not simply recur in Ch
 - An institutional diagram cannot smuggle disputed sovereignty assumptions into the page through design.
 - Unknown is an allowed state. If the archive does not locate the 2004 championship-night room, the design can make that absence visible rather than filling it.
 
-## Current Chapter 1–8 release ledger
+## Current Chapter 1–10 release ledger
 
 | Object | Chapter | Rights | Draft state | Release action |
 | --- | --- | --- | --- | --- |
@@ -225,9 +262,19 @@ The Beijing Red Sox clinic image used in Chapter 1 should not simply recur in Ch
 | FAREWELL INVENTORY 01 | 8 | original documentary inventory from contemporaneous reporting + federal records | local SVG | retain source map; do not imply original objects are held by Desk |
 | CIRCUIT OBJECT 01 | 8 | original diagram from State transcript + contemporaneous reporting | local SVG | retain explicit note that signed photograph itself is not reproduced |
 | Burns–McCurry farewell photograph route | 8 | Washington Post photograph | research-only | obtain publication rights or replace with rights-clearable federal/press-pool image |
+| FIG. 05 1975 Athens chancery damage | 9 | U.S. National Archives source / no-known-restriction route | remote Commons endpoint | verify exact NARA metadata and vendor locally |
+| RESTORATION OBJECT 01 | 9 | original diagram from State documentation | local SVG | retain State Magazine source link and political-effect limit |
+| HOUSEHOLD LEDGER 01 | 9 | original diagram from institutional, Greek press, HABS/HAER sources | local SVG | preserve spouse/state authority boundary |
+| Burns–Baylies–Papayiannis State Magazine photo route | 9 | U.S. State Department federal publication | source verified; direct asset unresolved | recover original federal image before promotion to FIG. 06 |
+| ORIGIN LEDGER 01 | 10 | original diagram from contemporaneous and retrospective sources | local SVG | re-audit dates; preserve chronology conflict |
+| CREDIT MAP 01 | 10 | original role map | local SVG | re-audit each lane and unresolved Red Sox support wording |
+| TWO SCOREBOARDS 01 | 10 | original paired evidence object | local SVG | verify roster counts and 2024 retrospective context |
+| Derksen photograph route | 10 | unresolved sports-photo rights | research-only | locate rights-clearable image before use |
+| Samiotes/Galatis CNN imagery route | 10 | CNN copyrighted imagery | research-only | license only if indispensable |
+| Burns batting-cage image | 10 | not located | documentary absence | do not fabricate |
 
 ## Visual restraint target
 
-A typical chapter does **not** need five objects. Chapter 2 does because it is explicitly arguing about identity moving across institutions and uses several periods as evidence. Chapter 3 needs only two because movement and maintenance can be made legible without another portrait. Chapter 4 also needs only two: one archival artifact for the senior bilateral relationship and one object that exposes witness distance. Chapter 5 needs only two because institutional ambiguity and assistance scale are the evidence; refusing a territorial map is itself part of the editorial method. Chapter 6 needs only the date and the machinery beneath it; the real presidential photographs stay in research until Burns is identified at frame level. Chapter 7 needs language objects rather than photography because the chapter's subject is the boundary between what a person can say and what the institution can own. Chapter 8 earns three objects because recurrence itself is the argument: repetition, farewell symbolism, and a joke completing a documented circuit.
+A typical chapter does **not** need five objects. Chapter 2 does because it is explicitly arguing about identity moving across institutions and uses several periods as evidence. Chapter 3 needs only two because movement and maintenance can be made legible without another portrait. Chapter 4 also needs only two: one archival artifact for the senior bilateral relationship and one object that exposes witness distance. Chapter 5 needs only two because institutional ambiguity and assistance scale are the evidence; refusing a territorial map is itself part of the editorial method. Chapter 6 needs only the date and the machinery beneath it; the real presidential photographs stay in research until Burns is identified at frame level. Chapter 7 needs language objects rather than photography because the chapter's subject is the boundary between what a person can say and what the institution can own. Chapter 8 earns three objects because recurrence itself is the argument: repetition, farewell symbolism, and a joke completing a documented circuit. Chapter 9 earns a historic federal photograph plus two designed objects because the building, the material intervention, and the shared household/civic sphere are three different kinds of evidence. Chapter 10 earns three designed objects because it must actively resist a founder myth: beginnings, credit, and outcomes are all plural.
 
 The test is simple: remove the object. If the reader loses no evidence, mechanism, temporal contrast, or archival understanding, the object probably does not belong.
