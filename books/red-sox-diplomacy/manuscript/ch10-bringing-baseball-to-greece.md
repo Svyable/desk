@@ -26,6 +26,10 @@ They begin when somebody asks a question. Again when somebody makes an introduct
 
 They can also begin in somebody else's backyard.
 
+[![Chronological ledger showing several distinct beginnings of the Greek baseball project from grassroots teaching to Olympic participation](../media/ch10-origin-ledger.svg)](../research/ch10-visual-archive.md)
+
+*ORIGIN LEDGER 01 — Greek baseball, 1997–2004. The ledger refuses a single founder or ceremonial start date: grassroots teaching, the diplomatic request, professional-baseball support, competitive qualification and Olympic participation entered at different moments. [Source map.](../research/ch10-visual-archive.md)*
+
 In January 2000, an Associated Press reporter found Chuck Samiotes, a civil engineer from Wayland, Massachusetts, already carrying his own origin story. On a family visit to Greece in 1997, Samiotes had improvised a baseball game for nieces and nephews with a tennis ball and his grandmother's cane. He returned the next year with balls, bats and gloves and began teaching children in an Athens suburb.
 
 That sequence matters because it precedes some of the cleaner institutional histories written later.
@@ -77,6 +81,10 @@ He was not activating empty space.
 People such as Samiotes and Galatis were already moving through it. Greek organizers already had their own project. What diplomatic brokerage could do was make those local and diaspora efforts touch institutions with greater reach.
 
 Later federation accounts put Senator Paul Sarbanes in the chain connecting Burns to Angelos. The exact sequence should not be overdrawn. What is clear is that Burns, Sarbanes, Angelos, Major League Baseball, the Orioles organization, Greek organizers, Boston-area Greek Americans, and eventually a group of professional baseball people became linked around the project.
+
+[![Role map distributing credit across Greek organizers, diaspora volunteers, Embassy Athens, political and baseball institutions, Rob Derksen, and players](../media/ch10-credit-map.svg)](../research/ch10-visual-archive.md)
+
+*CREDIT MAP 01 — Greece baseball project. The map assigns documented work lanes instead of drawing a hero at the center: Greek organizers supplied local initiative and legitimacy; diaspora volunteers taught and built; Burns and the embassy convened and advocated; baseball institutions supplied expertise; Rob Derksen and staff built a competitive team; players made it real. This is a role map, not a causal ranking. [Source map.](../research/ch10-visual-archive.md)*
 
 Once Angelos was involved, the scale changed.
 
@@ -267,6 +275,10 @@ The Olympic team had survived as a national-team institution.
 A self-sustaining baseball culture had not emerged at the same scale.
 
 Those are different scoreboards.
+
+[![Paired scoreboards contrasting Greek Olympic baseball qualification with the unfinished project of durable domestic baseball development](../media/ch10-two-scoreboards.svg)](../research/ch10-visual-archive.md)
+
+*TWO SCOREBOARDS 01 — Athens 2004 and the afterlife. The Olympic objective was achieved: the federation's later history lists a roster of nineteen Greek-Americans, two Greek-Canadians and two players from the local Greek league. The domestic-development objective remained harder; in 2024 Tom Mazarakis argued that the federation should have begun with children from day one. These are different measures of success, not a verdict that one side of the roster debate was morally pure. [Source map.](../research/ch10-visual-archive.md)*
 
 That difference is useful far beyond baseball. Governments and institutions like measurable objectives because deadlines make action possible. Qualify for the Games. Build the roster. Open the facility. Sign the agreement. A deadline can force people who would otherwise drift apart to cooperate.
 
