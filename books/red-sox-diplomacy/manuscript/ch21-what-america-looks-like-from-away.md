@@ -150,7 +150,29 @@ A Black American musician, a Chinese American scientist, a Midwestern exchange s
 
 Often they contradict one another.
 
-That contradiction is not a branding problem.
+Even the baseball fan carries a more complicated object than the phrase `American pastime` suggests.
+
+By the time Burns wore a Red Sox cap in China, major-league baseball had long since become a global professional system. The Greece episode had already shown the network in miniature: Greek organizers, Greek-American volunteers, a Baltimore owner, Major League Baseball's international operation, North American players of Greek descent, a scout with Pacific Rim experience, and a Boston team whose exact contribution remains partly archival rather than mythic.
+
+Baseball traveled as American culture while being continually remade by people moving into and through the game from outside the United States.
+
+That is not a contradiction to solve.
+
+It may be one of the more accurate things the sport says about America.
+
+The country is forever exporting things it has already imported, absorbed, commercialized, argued over and renamed as its own.
+
+So when Burns appeared in Beijing with the Red Sox visible, the image was not `America presents a sealed American tradition to China.`
+
+It was messier.
+
+An American representative carried a regional loyalty inside a sport whose modern life had already crossed oceans in every direction.
+
+That America is harder to brand.
+
+It is easier to recognize.
+
+The contradiction among all these versions is not a branding problem.
 
 It is the country.
 
