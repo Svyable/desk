@@ -8,7 +8,7 @@
 | **Status** | Drafting |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
-| **Chapters** | 18 drafted + prologue |
+| **Chapters** | 19 drafted + prologue |
 | **Form** | Documentary narrative biography |
 | **Language** | English |
 
@@ -38,7 +38,7 @@ Baseball is not imposed as a metaphor on every episode. It appears where the doc
 - [x] [Ch 16 — October 2004](manuscript/ch16-october-2004.md)
 - [x] [Ch 17 — The Professor in the Cheap Seats](manuscript/ch17-the-professor-in-the-cheap-seats.md)
 - [x] [Ch 18 — Beijing](manuscript/ch18-beijing.md)
-- [ ] Ch 19 — Yankees, Rivals, Adversaries
+- [x] [Ch 19 — Yankees, Rivals, Adversaries](manuscript/ch19-yankees-rivals-adversaries.md)
 - [ ] Ch 20 — The Human Channel
 - [ ] Ch 21 — What America Looks Like From Away
 - [ ] Ch 22 — Extra Innings
