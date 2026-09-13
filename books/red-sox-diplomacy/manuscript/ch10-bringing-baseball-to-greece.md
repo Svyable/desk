@@ -24,6 +24,18 @@ Projects like this do not always begin once.
 
 They begin when somebody asks a question. Again when somebody makes an introduction. Again when money appears. Again when a professional agrees to help. Again when an institution decides the effort is serious enough to support.
 
+They can also begin in somebody else's backyard.
+
+In January 2000, an Associated Press reporter found Chuck Samiotes, a civil engineer from Wayland, Massachusetts, already carrying his own origin story. On a family visit to Greece in 1997, Samiotes had improvised a baseball game for nieces and nephews with a tennis ball and his grandmother's cane. He returned the next year with balls, bats and gloves and began teaching children in an Athens suburb.
+
+That sequence matters because it precedes some of the cleaner institutional histories written later.
+
+Samiotes did not need an embassy to tell him baseball might travel to Greece. He was a Greek American, a die-hard Red Sox fan, and somebody who wanted to play and teach the game. Years later CNN would describe him and his best friend and business partner Bill Galatis as instrumental in developing Greek baseball: helping build a field, train young people and recruit players.
+
+Their work did not replace the federation's work or Burns's.
+
+It complicates the ownership of the story.
+
 By 1999, the network was plainly alive.
 
 Peter Angelos, the Greek-American owner of the Baltimore Orioles, met Greek baseball officials at a reception held by Burns and the Hellenic Amateur Baseball Federation. A contemporary *Washington Post* item reported that the baseball commissioner's office and the Boston Red Sox were also helping.
@@ -48,7 +60,11 @@ The word sounds soft until one notices what convening can do. Official position 
 
 Burns helped activate the Greek-American community and American baseball institutions around a problem the embassy could never solve directly.
 
-Later federation accounts put Senator Paul Sarbanes in the chain connecting Burns to Angelos. The exact sequence should not be overdrawn. What is clear is that Burns, Sarbanes, Angelos, Major League Baseball, the Orioles organization, Greek organizers, and eventually a group of professional baseball people became linked around the project.
+He was not activating empty space.
+
+People such as Samiotes and Galatis were already moving through it. Greek organizers already had their own project. What diplomatic brokerage could do was make those local and diaspora efforts touch institutions with greater reach.
+
+Later federation accounts put Senator Paul Sarbanes in the chain connecting Burns to Angelos. The exact sequence should not be overdrawn. What is clear is that Burns, Sarbanes, Angelos, Major League Baseball, the Orioles organization, Greek organizers, Boston-area Greek Americans, and eventually a group of professional baseball people became linked around the project.
 
 Once Angelos was involved, the scale changed.
 
@@ -77,6 +93,14 @@ Burns could do something there that he could not do with Cyprus or Kosovo.
 He could demonstrate.
 
 That did not make the act strategically important. It made it humanly specific.
+
+Burns also understood that the Olympic deadline was not the same thing as building a baseball culture. In the 2000 account, he used a Greek phrase for going slowly and said the change would not happen overnight; it would take a generation.
+
+Samiotes, speaking from the grassroots side of the same project, made almost the same distinction. He rejected the idea of treating Athens as a one-off Olympic adventure and talked instead about continuing to teach children afterward.
+
+The institutions and the volunteers did not have identical roles.
+
+They did share a problem of time.
 
 There was also an asymmetry worth noticing. In most of Burns's professional life abroad, the United States arrived as the stronger state. America had more money, more military power, more institutional reach. Even when Washington needed something, nobody confused the relative scale of the countries involved.
 
@@ -190,9 +214,17 @@ The team went to Athens anyway.
 
 It was not a medal contender. It was not evidence that Greece had suddenly become a baseball country. The roster itself showed the hybrid reality of the project: Greek citizens and Greek-descended players formed through baseball systems largely outside Greece, gathered under a national flag for a sport still new to much of the host country.
 
-There was an easy way to ridicule that.
+That solution carried its own tension.
 
-There was also a better way to see it.
+The diaspora supplied players who could compete at an Olympic level. But the more the roster depended on experienced Greek-descended players formed abroad, the less room there could be for some of the local Greek athletes who had learned the sport during its earliest domestic years. A later documentary, *Who's on First?*, was built around precisely that conflict.
+
+The film is a source to investigate, not a verdict to import. Its existence is enough to keep the chapter from pretending everybody experienced the Olympic team's construction as uncomplicated success.
+
+There was an easy way to ridicule the hybrid roster.
+
+There was also an easy way to romanticize it.
+
+The evidence earns neither.
 
 The Olympics had created a deadline. Greek organizers had responded. A federation had emerged. American and Greek-American networks had become involved. Professional baseball institutions had contributed expertise. Players had found a route into a national team. Youth participation had grown. A sport that had barely registered in Greek public life had acquired enough structure to field an Olympic side.
 
@@ -218,7 +250,7 @@ At the State Department podium, Burns had represented American policy in words t
 
 In Athens, he learned how much could happen when authority was used differently: not to announce, not to command, but to connect.
 
-The embassy could identify a small problem. The ambassador could treat it seriously. A senator could know an owner. An owner could supply a scout. A scout could find players. A league office could supply expertise. A federation could build legitimacy. A government could create a budget. Children could learn a new game.
+The embassy could identify a small problem. The ambassador could treat it seriously. A senator could know an owner. An owner could supply a scout. A scout could find players. A league office could supply expertise. A federation could build legitimacy. A government could create a budget. A civil engineer could teach children with a bat and ball. Two Boston business partners could help build a field. Children could learn a new game.
 
 None of that belongs comfortably in the traditional hierarchy of statecraft.
 
