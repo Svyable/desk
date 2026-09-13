@@ -8,7 +8,7 @@
 | **Status** | Drafting |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
-| **Chapters** | 15 drafted + prologue |
+| **Chapters** | 16 drafted + prologue |
 | **Form** | Documentary narrative biography |
 | **Language** | English |
 
@@ -35,7 +35,7 @@ Baseball is not imposed as a metaphor on every episode. It appears where the doc
 - [x] [Ch 13 — The Clubhouse Called NATO](manuscript/ch13-the-clubhouse-called-nato.md)
 - [x] [Ch 14 — India: Playing the Long Game](manuscript/ch14-india-playing-the-long-game.md)
 - [x] [Ch 15 — Iran: When Patience Does Not Win](manuscript/ch15-iran-when-patience-does-not-win.md)
-- [ ] Ch 16 — October 2004
+- [x] [Ch 16 — October 2004](manuscript/ch16-october-2004.md)
 - [ ] Ch 17 — The Professor in the Cheap Seats
 - [ ] Ch 18 — Beijing
 - [ ] Ch 19 — Yankees, Rivals, Adversaries
