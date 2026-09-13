@@ -4,6 +4,10 @@ Before a diplomat represents a country, he has to come from somewhere.
 
 This sounds too obvious to mention. Official biographies encourage the opposite impression. They begin with appointments. Ambassador to this country. Assistant secretary for that region. Degrees, dates, decorations. The person appears to enter history already wearing a suit.
 
+![Official portrait of Nicholas Burns as U.S. Ambassador to China](https://commons.wikimedia.org/wiki/Special:Redirect/file/Nicholas_Burns%2C_U.S._Ambassador.jpg)
+
+*FIG. 01 — R. Nicholas Burns, official portrait as U.S. Ambassador to China, January 25, 2022. U.S. Department of State. Public domain. A late-career portrait placed here deliberately: the official image arrives before the hometown. [Archive record.](https://commons.wikimedia.org/wiki/File:Nicholas_Burns,_U.S._Ambassador.jpg)*
+
 Nicholas Burns came from Massachusetts.
 
 More particularly, he grew up in Wellesley.
@@ -26,9 +30,15 @@ For a child growing up in Massachusetts in the second half of the twentieth cent
 
 Burns's own family supplied one version of that inheritance.
 
-In a 1997 State Department briefing, after reporters pulled him once again into Red Sox talk, Burns explained that his mother had been a fan. His father had been hurt badly enough by the team going back to the 1930s that he advised his children not to root for Boston.
+In a 1997 State Department briefing, after reporters pulled him once again into Red Sox talk, Burns said his mother was a fan. Then he supplied the older family warning in his own words:
 
-Burns said he ignored the advice.
+> *“My father, however, said they broke his heart in the 1930s. He advised us never to root for them.”*
+
+And then, after the laughter:
+
+> *“But I didn’t follow his advice.”*
+
+*ARCHIVE NOTE — U.S. Department of State Daily Press Briefing, June 16, 1997. [Primary transcript.](https://1997-2001.state.gov/www/briefings/9706/970616db.html)*
 
 There is no need to improve that story.
 
@@ -102,6 +112,12 @@ He carried a local identity into a global profession.
 
 That identity kept surfacing because it was real.
 
+![Ambassador Nicholas Burns in a Red Sox cap with young Chinese baseball fans in Beijing](https://commons.wikimedia.org/wiki/Special:Redirect/file/Ambassador_Burns_with_Chinese_baseball_fans.png)
+
+*FIG. 02 — Ambassador Burns with young Chinese baseball fans, Beijing, October 22, 2024. U.S. Department of State / @USAmbChina. Public domain. This is a later-life echo, not evidence about Wellesley: the local allegiance has simply survived the distance. [Archive record.](https://commons.wikimedia.org/wiki/File:Ambassador_Burns_with_Chinese_baseball_fans.png)*
+
+[![Text facsimile of Ambassador Burns's October 22, 2024 post about a Beijing baseball clinic and future members of Red Sox Nation](../media/ch01-social-2024-baseball-clinic.svg)](https://x.com/USAmbChina/status/1848646673523728693)
+
 The American diplomatic tradition has often struggled with how its representatives should present the country abroad. Too much ceremony and the ambassador can look imperial. Too much informality and the office loses weight. Too much patriotic performance and foreigners hear propaganda. Too much distance from home and the diplomat risks becoming the caricature of a cosmopolitan elite who understands every capital except his own.
 
 A baseball team solves none of these problems.
@@ -119,3 +135,7 @@ The scale would change.
 The person would not disappear.
 
 Boston came with him.
+
+[![Moving-image archive card for Ambassador Nicholas Burns's 2022 introductory video](../media/ch01-video-intro-2022.svg)](https://commons.wikimedia.org/wiki/File:Ambassador_Nicholas_Burns%E2%80%99_Introductory_Video.webm)
+
+*MOVING IMAGE 01 — Ambassador Nicholas Burns’s introductory video, U.S. Embassy & Consulates in China, April 29, 2022, 2:25. Public domain. The prose ends at home; the archive keeps moving.*
