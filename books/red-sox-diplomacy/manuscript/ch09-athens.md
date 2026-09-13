@@ -44,6 +44,30 @@ Barbara Nielsen arrived in Athens as cultural affairs officer in 1999. She remem
 
 The programs Nielsen described were not glamorous. There was an American studies seminar. There were discussions of biotechnology when European audiences were skeptical of genetically modified foods. There was work explaining the American election system to Greek media and audiences during the strange presidential contest of 2000. There were efforts involving American-style higher education and cultural programming. Greek-American organizations came through frequently, and Nielsen remembered Burns as welcoming their involvement.
 
+The residence belonged to that representational world too, and this is where an ambassador-only account becomes incomplete.
+
+In September 1999, the American School of Classical Studies at Athens used the residence for the final push in a Gennadeion fundraising campaign. Its contemporary newsletter says the dinner was hosted by Nicholas Burns and his wife, Elizabeth Baylies-Burns. About fifty guests came. The evening produced seventy thousand dollars in pledges.
+
+The source records Burns giving the welcome. It does not give Libby a speech, and there is no reason to invent one.
+
+Her documented role is enough.
+
+The diplomatic household was helping convene a Greek-American cultural institution around a concrete project. The residence was not merely where the ambassador slept after the official work ended. It was one of the places where representation happened.
+
+Libby's own Athens record goes further than hosting.
+
+MDA Hellas, the Greek muscular-dystrophy organization, was established in 2000 with her help, according to a later organizational retrospective. By 2002, when Greece's president inaugurated a specialized neuromuscular-disease unit at Aghia Sophia Children's Hospital, *Kathimerini* identified Elizabeth Baylies-Burns as the organization's honorary president and an instigator of the project. A year later she was still being identified as honorary president while MDA Hellas raised money for another unit.
+
+That work belongs to her record, not as decoration around his.
+
+It also clarifies what a shared diplomatic life can mean without confusing roles. Libby did not acquire authority to speak for the United States because her husband was ambassador. Her civic work was not foreign policy. But a posting creates a household presence as well as an official office, and the surviving Athens record shows that she used that presence for projects with their own institutional life.
+
+A State Department feature from the same period offers a quieter image. It shows sculptor Thodoros Papayiannis with Burns and Libby standing in front of the model of the George C. Marshall statue that would become part of the embassy's physical retelling of the U.S.-Greek relationship.
+
+The photograph does not tell us who decided what.
+
+It does tell us who was there.
+
 This is what public diplomacy often looks like when nobody is making a movie about it. Not one transformative speech. Repetition. Invitations. Explanations. People who already disagree showing up anyway.
 
 Nielsen's recollection is useful for another reason. She resisted an easy American story about Greece.
@@ -92,7 +116,7 @@ There is a temptation in diplomatic biography to turn every small act into evide
 
 The record is better than that.
 
-The contemporary account of the embassy work explicitly connects the physical changes to respect and apparent openness. Nielsen independently remembers a public-diplomacy-minded ambassador setting the mission's tone. Koenig independently remembers an ambassador intensely engaged in direct persuasion on difficult political-military business. The Harvard record shows Burns publicly arguing for stronger personal and institutional connections between the two countries. And the protests surrounding Clinton's visit show the limit of all of it.
+The contemporary account of the embassy work explicitly connects the physical changes to respect and apparent openness. Nielsen independently remembers a public-diplomacy-minded ambassador setting the mission's tone. Koenig independently remembers an ambassador intensely engaged in direct persuasion on difficult political-military business. The Harvard record shows Burns publicly arguing for stronger personal and institutional connections between the two countries. The Gennadeion dinner and MDA Hellas record show that the representational life of the post also had a household and civic dimension that cannot be reduced to the ambassador alone. And the protests surrounding Clinton's visit show the limit of all of it.
 
 Representation mattered.
 
