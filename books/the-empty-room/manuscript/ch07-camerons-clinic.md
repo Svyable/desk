@@ -1,9 +1,15 @@
 # Cameron's Clinic
 
-At Montreal's Allan Memorial Institute, psychiatrist D. Ewen Cameron pursued interventions that combined drugs, sleep, repeated messages, and forms of isolation. Declassified CIA material records covert agency funding through the Society for the Investigation of Human Ecology and notes uncertainty about whether patients were witting.
+At Montreal's Allan Memorial Institute, psychiatrist D. Ewen Cameron pursued a set of interventions that combined drugs, prolonged sleep, repeated messages, and forms of isolation. The later revelation that the CIA had covertly supported work connected to his program makes the story easy to flatten into a familiar shape: intelligence agency conceives mind-control experiment, psychiatrist carries it out, patients become unwitting subjects.
 
-The record is ethically ugly without embellishment.
+The surviving record is uglier and more interesting than that shorthand.
 
-It is also scientifically dangerous to treat Cameron's work as proof that the methods succeeded. His ambition outran what the evidence can carry. The fact of covert sponsorship belongs in evidence class one. Claims about durable, controllable reconstruction of personality require separate support.
+A CIA review prepared after the program became public says Cameron's research had begun in 1953, before the Agency became aware of it. According to that review, the request for money from the Society for the Investigation of Human Ecology was unsolicited; CIA-linked support was only one part of the funding; Cameron's researchers and McGill did not know of the Agency's interest; and the file expressly prohibited CIA personnel from contacting the principal researcher or institution. In 1979, after publicity and questions from the Canadian government, the Agency was still trying to establish how much of the work had been conceived, designed, and managed entirely by Cameron and McGill rather than shaped by the covert sponsor.
 
-Cameron's clinic matters because it shows how an intelligence question can migrate into medicine, where asymmetries of authority make experimental enthusiasm especially consequential. The apparatus was no longer a paid volunteer's boring room. Patients were inside it.
+That does not make the sponsorship incidental. Secretly financing human behavioral research while keeping the institution and investigators ignorant of the sponsor is itself an ethical rupture. The 1977 Senate MKULTRA hearing documented a much wider pattern in which CIA money moved through universities and research institutions, sometimes without the researchers' knowledge, and in which some human experimentation proceeded without meaningful consent. Cameron's clinic belongs inside that history.
+
+But the chronology matters because funding is not authorship, and authorship is not efficacy. The CIA's interest does not prove that Cameron's methods were invented by the Agency. Cameron's methods do not prove that they produced a durable technology of personality destruction or reconstruction. And the fact that a secret sponsor found a line of research attractive tells us more reliably what the sponsor hoped might be possible than what the experiments actually demonstrated.
+
+This is the chapter's harder lesson. Secrecy can distort scientific history in both directions. It can hide abuses that deserve exposure; later, once exposed, it can also make every nearby fact appear causally connected. The responsible reconstruction has to keep the layers apart: Cameron's own psychiatric program, the covert funding channel, what patients understood, what the sponsor knew, and what the methods could actually do.
+
+The apparatus was no longer a paid volunteer's boring room. Patients were inside it. That fact needs no legend attached to it.
