@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" role="img" aria-labelledby="title desc">
+  <title id="title">Two scoreboards for the Greek baseball project</title>
+  <desc id="desc">A paired evidence object contrasting the successful creation of an Olympic national team with the more difficult task of building a durable domestic baseball culture in Greece.</desc>
+  <defs><linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f5f0e6"/><stop offset="1" stop-color="#e8dfd0"/></linearGradient></defs>
+  <rect width="1400" height="900" fill="#101722"/>
+  <rect x="56" y="48" width="1288" height="804" rx="8" fill="url(#paper)"/>
+  <text x="104" y="108" font-family="Georgia, 'Times New Roman', serif" font-size="25" letter-spacing="5" fill="#6c6258">TWO SCOREBOARDS 01 · ATHENS 2004 / AFTERLIFE</text>
+  <line x1="104" y1="138" x2="1296" y2="138" stroke="#bd3039" stroke-width="3"/>
+  <text x="104" y="198" font-family="Georgia, 'Times New Roman', serif" font-size="42" fill="#171411">The project succeeded at one deadline and struggled at another horizon.</text>
+
+  <g transform="translate(104 270)">
+    <rect x="0" y="0" width="560" height="410" rx="8" fill="#0c2340"/>
+    <text x="32" y="52" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2.5" fill="#f3eee3">SCOREBOARD A · OLYMPIC TEAM</text>
+    <text x="32" y="120" font-family="Georgia, 'Times New Roman', serif" font-size="54" fill="#f3eee3">QUALIFIED</text>
+    <text x="32" y="163" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#d8dbe0">European silver → Athens berth</text>
+    <line x1="32" y1="195" x2="528" y2="195" stroke="#586b83"/>
+    <text x="32" y="238" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#f3eee3">2004 Olympic roster, federation history:</text>
+    <text x="32" y="282" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#f3eee3">19 Greek-Americans</text>
+    <text x="32" y="322" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#f3eee3">2 Greek-Canadians</text>
+    <text x="32" y="362" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#f3eee3">2 players from local Greek league</text>
+    <text x="32" y="394" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#c5ccd5">A competitive national team existed on schedule.</text>
+  </g>
+
+  <g transform="translate(736 270)">
+    <rect x="0" y="0" width="560" height="410" rx="8" fill="#efe7da" stroke="#cbbfaf"/>
+    <text x="32" y="52" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2.5" fill="#bd3039">SCOREBOARD B · DOMESTIC CULTURE</text>
+    <text x="32" y="120" font-family="Georgia, 'Times New Roman', serif" font-size="54" fill="#2a241f">UNFINISHED</text>
+    <text x="32" y="163" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#62594f">Fields, youth pipeline, local senior league</text>
+    <line x1="32" y1="195" x2="528" y2="195" stroke="#c8bcad"/>
+    <text x="32" y="240" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#463f38">2024 retrospective:</text>
+    <text x="32" y="284" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-style="italic" fill="#342e28">Building the federation principally</text>
+    <text x="32" y="321" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-style="italic" fill="#342e28">for an Olympic team was “a mistake.”</text>
+    <text x="32" y="363" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#514940">Tom Mazarakis: development should have</text>
+    <text x="32" y="389" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#514940">started with children from day one.</text>
+  </g>
+
+  <rect x="104" y="716" width="1192" height="76" rx="5" fill="#ece3d5" stroke="#cbbfaf"/>
+  <text x="132" y="747" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="2" fill="#0c2340">THE TRADEOFF</text>
+  <text x="132" y="777" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-style="italic" fill="#4b433b">Olympic competitiveness and durable domestic development were different objectives. The project could succeed at one without fully succeeding at the other.</text>
+
+  <text x="1296" y="830" text-anchor="end" font-family="'Courier New', monospace" font-size="16" fill="#82776c">RSD / CH10 / 2004–2024 / S01</text>
+</svg>
