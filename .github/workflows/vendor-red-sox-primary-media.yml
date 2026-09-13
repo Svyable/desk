@@ -5,7 +5,7 @@ on:
     branches:
       - book/red-sox-diplomacy-20260912-sol
     paths:
-      - books/red-sox-diplomacy/research/primary-media-acquisition.json
+      - 'books/red-sox-diplomacy/research/primary-media-acquisition*.json'
       - .github/workflows/vendor-red-sox-primary-media.yml
 
 permissions:
@@ -39,10 +39,29 @@ jobs:
           import urllib.parse
           import urllib.request
 
-          manifest_path = pathlib.Path('books/red-sox-diplomacy/research/primary-media-acquisition.json')
-          manifest = json.loads(manifest_path.read_text(encoding='utf-8'))
-          root = pathlib.Path(manifest['destination_root'])
+          research = pathlib.Path('books/red-sox-diplomacy/research')
+          manifest_paths = sorted(research.glob('primary-media-acquisition*.json'))
+          if not manifest_paths:
+              raise SystemExit('No primary-media acquisition manifests found.')
+
+          manifests = [json.loads(path.read_text(encoding='utf-8')) for path in manifest_paths]
+          roots = {m['destination_root'] for m in manifests}
+          if len(roots) != 1:
+              raise SystemExit(f'Manifests disagree on destination_root: {sorted(roots)}')
+          root = pathlib.Path(roots.pop())
           root.mkdir(parents=True, exist_ok=True)
+
+          assets = []
+          seen = set()
+          for path, manifest in zip(manifest_paths, manifests):
+              for item in manifest['assets']:
+                  dest = item['dest']
+                  if dest in seen:
+                      raise SystemExit(f'Duplicate destination {dest!r} in {path}')
+                  seen.add(dest)
+                  tagged = dict(item)
+                  tagged['_manifest'] = path.name
+                  assets.append(tagged)
 
           successes = []
           failures = []
@@ -56,7 +75,7 @@ jobs:
                   req = urllib.request.Request(
                       url,
                       headers={
-                          'User-Agent': 'Svyable-Desk-primary-media-vendor/1.2 (+https://github.com/Svyable/desk)',
+                          'User-Agent': 'Svyable-Desk-primary-media-vendor/1.3 (+https://github.com/Svyable/desk)',
                           'Accept': '*/*',
                       },
                   )
@@ -96,11 +115,12 @@ jobs:
                   'date': item['date'],
                   'chapter': item['chapter'],
                   'job': item['job'],
+                  'manifest': item['_manifest'],
                   'acquisition_status': status,
               })
               print(f'{status.upper()} {dest} ({len(data):,} bytes)')
 
-          for item in manifest['assets']:
+          for item in assets:
               dest = root / item['dest']
               is_commons = 'commons_filename' in item
 
@@ -128,6 +148,7 @@ jobs:
                   failures.append({
                       'dest': str(dest),
                       'archive_record': item['archive_record'],
+                      'manifest': item['_manifest'],
                       'error': f'{type(exc).__name__}: {exc}',
                   })
                   print(f'FAILED {dest}: {exc}')
@@ -142,7 +163,8 @@ jobs:
           (root / 'SHA256SUMS.txt').write_text(sums, encoding='utf-8')
 
           report = {
-              'manifest_version': manifest['version'],
+              'manifest_files': [p.name for p in manifest_paths],
+              'manifest_versions': {p.name: m.get('version') for p, m in zip(manifest_paths, manifests)},
               'acquired_count': sum(row['acquisition_status'] == 'acquired' for row in successes),
               'reused_count': sum(row['acquisition_status'] == 'reused' for row in successes),
               'available_count': len(successes),
@@ -160,19 +182,19 @@ jobs:
               f"Reused from repo: **{report['reused_count']}**  ",
               f"Failed: **{len(failures)}**",
               '',
-              'The files below correspond to archive records in `research/primary-media-acquisition.json`. Rights claims are copied from the source audit and remain subject to release-stage re-verification.',
+              'The files below correspond to archive records in the batched `research/primary-media-acquisition*.json` manifests. Rights claims are copied from the source audit and remain subject to release-stage re-verification.',
               '',
               '## Available',
               '',
           ]
           for row in successes:
               md.append(
-                  f"- `{pathlib.Path(row['dest']).name}` — {row['maker']}, {row['date']}; {row['rights']}; {row['bytes']:,} bytes; SHA-256 `{row['sha256']}`; status `{row['acquisition_status']}`; [archive record]({row['archive_record']})"
+                  f"- `{pathlib.Path(row['dest']).name}` — {row['maker']}, {row['date']}; {row['rights']}; {row['bytes']:,} bytes; SHA-256 `{row['sha256']}`; status `{row['acquisition_status']}`; manifest `{row['manifest']}`; [archive record]({row['archive_record']})"
               )
           if failures:
               md += ['', '## Failed', '']
               for row in failures:
-                  md.append(f"- `{pathlib.Path(row['dest']).name}` — `{row['error']}`; [archive record]({row['archive_record']})")
+                  md.append(f"- `{pathlib.Path(row['dest']).name}` — `{row['error']}`; manifest `{row['manifest']}`; [archive record]({row['archive_record']})")
           (root / 'README.md').write_text('\n'.join(md) + '\n', encoding='utf-8')
           PY
 
@@ -190,9 +212,6 @@ jobs:
 
           git commit -m "media: vendor primary-source Red Sox Diplomacy assets [media-vendor]"
 
-          # The manuscript branch is intentionally active. Preserve concurrent work by
-          # rebasing the media commit on the newest remote head and retrying the
-          # non-forced push if the branch moves again between fetch and push.
           for attempt in 1 2 3 4 5; do
             git fetch origin "${GITHUB_REF_NAME}"
             git rebase "origin/${GITHUB_REF_NAME}"
