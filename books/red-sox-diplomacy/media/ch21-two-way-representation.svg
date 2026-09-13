@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" role="img" aria-labelledby="title desc">
+  <title id="title">Two-way diplomatic representation between the United States and a host society</title>
+  <desc id="desc">An editorial diagram showing the ambassador carrying authorized U.S. policy outward while also carrying host-country realities, reactions and constraints back toward Washington as a mechanism of national self-correction.</desc>
+  <defs><linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f5f0e6"/><stop offset="1" stop-color="#e8dfd0"/></linearGradient></defs>
+  <rect width="1400" height="900" fill="#101722"/>
+  <rect x="56" y="48" width="1288" height="804" rx="8" fill="url(#paper)"/>
+  <text x="104" y="108" font-family="Georgia, 'Times New Roman', serif" font-size="25" letter-spacing="5" fill="#6c6258">TWO-WAY REPRESENTATION 01 · THE AMBASSADOR LOOKS BOTH DIRECTIONS</text>
+  <line x1="104" y1="138" x2="1296" y2="138" stroke="#bd3039" stroke-width="3"/>
+  <text x="104" y="198" font-family="Georgia, 'Times New Roman', serif" font-size="42" fill="#171411">Representation is not only projection. It is also return.</text>
+
+  <g transform="translate(104 306)">
+    <rect width="404" height="284" rx="8" fill="#0c2340"/>
+    <text x="202" y="47" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2.2" fill="#f3eee3">UNITED STATES</text>
+    <text x="30" y="104" font-family="Georgia, 'Times New Roman', serif" font-size="23" fill="#f3eee3">Policy</text>
+    <text x="30" y="141" font-family="Georgia, 'Times New Roman', serif" font-size="23" fill="#f3eee3">Declared ideals</text>
+    <text x="30" y="178" font-family="Georgia, 'Times New Roman', serif" font-size="23" fill="#f3eee3">Power and institutions</text>
+    <text x="30" y="215" font-family="Georgia, 'Times New Roman', serif" font-size="23" fill="#f3eee3">Domestic assumptions</text>
+    <text x="30" y="252" font-family="Georgia, 'Times New Roman', serif" font-size="23" fill="#f3eee3">National self-image</text>
+  </g>
+
+  <g transform="translate(892 306)">
+    <rect width="404" height="284" rx="8" fill="#efe7da" stroke="#cbbfaf"/>
+    <text x="202" y="47" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2.2" fill="#bd3039">HOST COUNTRY / SOCIETY</text>
+    <text x="30" y="104" font-family="Georgia, 'Times New Roman', serif" font-size="23" fill="#211c18">Its own history</text>
+    <text x="30" y="141" font-family="Georgia, 'Times New Roman', serif" font-size="23" fill="#211c18">Political constraints</text>
+    <text x="30" y="178" font-family="Georgia, 'Times New Roman', serif" font-size="23" fill="#211c18">Public reactions</text>
+    <text x="30" y="215" font-family="Georgia, 'Times New Roman', serif" font-size="23" fill="#211c18">Counterpart intentions</text>
+    <text x="30" y="252" font-family="Georgia, 'Times New Roman', serif" font-size="23" fill="#211c18">A view America cannot control</text>
+  </g>
+
+  <rect x="578" y="348" width="244" height="200" rx="122" fill="#bd3039"/>
+  <text x="700" y="418" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="2" fill="#fff9ef">AMBASSADOR</text>
+  <text x="700" y="456" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="21" fill="#fff9ef">authorized advocate</text>
+  <text x="700" y="489" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="21" fill="#fff9ef">+ reporting channel</text>
+
+  <line x1="508" y1="382" x2="574" y2="382" stroke="#0c2340" stroke-width="4"/>
+  <polygon points="574,382 553,370 553,394" fill="#0c2340"/>
+  <text x="541" y="352" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="1.6" fill="#0c2340">OUTWARD</text>
+
+  <line x1="826" y1="512" x2="892" y2="512" stroke="#bd3039" stroke-width="4"/>
+  <polygon points="892,512 871,500 871,524" fill="#bd3039"/>
+  <text x="859" y="550" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="1.6" fill="#bd3039">OUTWARD</text>
+
+  <line x1="892" y1="382" x2="826" y2="382" stroke="#7a6855" stroke-width="4"/>
+  <polygon points="826,382 847,370 847,394" fill="#7a6855"/>
+  <text x="859" y="352" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="1.6" fill="#7a6855">BACK IN</text>
+
+  <line x1="574" y1="512" x2="508" y2="512" stroke="#7a6855" stroke-width="4"/>
+  <polygon points="508,512 529,500 529,524" fill="#7a6855"/>
+  <text x="541" y="550" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="1.6" fill="#7a6855">BACK IN</text>
+
+  <rect x="104" y="680" width="1192" height="112" rx="6" fill="#ece3d5" stroke="#cbbfaf"/>
+  <text x="132" y="716" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="2" fill="#0c2340">NATIONAL SELF-CORRECTION</text>
+  <text x="132" y="753" font-family="Georgia, 'Times New Roman', serif" font-size="21" font-style="italic" fill="#4b433b">A useful embassy does not merely tell another country what America thinks. It tells America which of its own assumptions fail when viewed from the other side.</text>
+
+  <text x="1296" y="836" text-anchor="end" font-family="'Courier New', monospace" font-size="16" fill="#82776c">RSD / CH21 / TWO-WAY / R01</text>
+</svg>
