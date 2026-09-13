@@ -281,6 +281,36 @@ def publication_web(root: Path, slug: str) -> tuple[int, int, str]:
     return len(outputs), changed, canonical
 
 
+def normalize_shelf_reader_links(shelf: Path) -> int:
+    """Run the Shelf's canonical reader-link sync on the Shelf working tree.
+
+    The Desk source README advertises its Desk Reader surface; the Shelf copy
+    must link to the published Shelf Reader instead. Invoking the Shelf's own
+    ``scripts/sync-reader-links.py`` keeps the released copy in the exact form
+    the Shelf's read-only CI guard enforces.
+    """
+    reader_sync = shelf / "scripts" / "sync-reader-links.py"
+    if not reader_sync.is_file():
+        raise ReleaseError(
+            f"Shelf canonical reader-link guard not found: {reader_sync}"
+        )
+    proc = subprocess.run(
+        [sys.executable, str(reader_sync)],
+        cwd=str(shelf),
+        text=True,
+        stdout=subprocess.PIPE,
+        stderr=subprocess.PIPE,
+    )
+    if proc.returncode != 0:
+        detail = (proc.stderr or proc.stdout or "").strip()
+        raise ReleaseError(
+            f"Shelf canonical reader-link sync failed: {detail}"
+        )
+    if proc.stdout.strip():
+        print(proc.stdout.rstrip())
+    return proc.returncode
+
+
 def prepare_release(desk: Path, shelf: Path, slug: str) -> dict[str, str | int]:
     desk = Path(desk).resolve()
     shelf = Path(shelf).resolve()
@@ -297,6 +327,7 @@ def prepare_release(desk: Path, shelf: Path, slug: str) -> dict[str, str | int]:
 
     result = release_core.prepare_release(desk, shelf, slug)
     try:
+        normalize_shelf_reader_links(shelf)
         provenance_path = prepare_release_provenance(
             desk,
             shelf,

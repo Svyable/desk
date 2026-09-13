@@ -11,6 +11,7 @@ SCRIPT = Path(__file__).with_name("release.py")
 release = runpy.run_path(str(SCRIPT))
 upsert_feedback_option = release["upsert_feedback_option"]
 prepare_release_provenance = release["prepare_release_provenance"]
+normalize_shelf_reader_links = release["normalize_shelf_reader_links"]
 ReleaseError = release["ReleaseError"]
 
 
@@ -99,6 +100,38 @@ class ReleaseProvenanceTest(unittest.TestCase):
             (shelf / "books/example/chapter.md").write_text("drifted\n", encoding="utf-8")
             with self.assertRaisesRegex(ReleaseError, "no longer byte-matches"):
                 prepare_release_provenance(desk, shelf, "example", "b" * 40)
+
+
+class ReaderLinkNormalizationTest(unittest.TestCase):
+    def test_invokes_shelf_guard_and_prints_result(self) -> None:
+        with tempfile.TemporaryDirectory() as temp:
+            shelf = Path(temp) / "shelf"
+            scripts = shelf / "scripts"
+            scripts.mkdir(parents=True)
+            (scripts / "sync-reader-links.py").write_text(
+                '#!/usr/bin/env python3\nprint("1 publication README updated")\n',
+                encoding="utf-8",
+            )
+            self.assertEqual(normalize_shelf_reader_links(shelf), 0)
+
+    def test_fails_when_shelf_guard_missing(self) -> None:
+        with tempfile.TemporaryDirectory() as temp:
+            shelf = Path(temp) / "shelf"
+            shelf.mkdir()
+            with self.assertRaisesRegex(ReleaseError, "canonical reader-link guard not found"):
+                normalize_shelf_reader_links(shelf)
+
+    def test_fails_when_shelf_guard_rejects(self) -> None:
+        with tempfile.TemporaryDirectory() as temp:
+            shelf = Path(temp) / "shelf"
+            scripts = shelf / "scripts"
+            scripts.mkdir(parents=True)
+            (scripts / "sync-reader-links.py").write_text(
+                '#!/usr/bin/env python3\nimport sys\nprint("2 publication READMEs need normalization")\nsys.exit(1)\n',
+                encoding="utf-8",
+            )
+            with self.assertRaisesRegex(ReleaseError, "canonical reader-link sync failed"):
+                normalize_shelf_reader_links(shelf)
 
 
 if __name__ == "__main__":
