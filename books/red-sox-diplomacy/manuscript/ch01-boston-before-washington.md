@@ -52,6 +52,14 @@ Boston is unusually generous to biography because it supplies its residents with
 
 The Red Sox are among the most portable.
 
+They were never an uncomplicated inheritance.
+
+Burns was born in 1956. Three years later, Pumpsie Green became the first Black player to appear for Boston, making the Red Sox the last major-league club to integrate. Burns was a small child; there is no basis for assigning him any awareness of that history at the time.
+
+But the history belongs to the team he inherited.
+
+Fenway, family loyalty and civic romance came with older exclusions too. That is more useful to this story than a hometown polished into nostalgia.
+
 For a child growing up in Massachusetts in the second half of the twentieth century, the team offered something more complicated than uncomplicated civic pride. Fenway Park was old even then. The club possessed history in abundance and championships in scarcity. Generations inherited stories of seasons that had ended before they were born.
 
 Burns's own family supplied one version of that inheritance.
@@ -73,6 +81,16 @@ A father says: spare yourself.
 A son roots for them anyway.
 
 By the time Burns was eleven, the 1967 Red Sox had produced the Impossible Dream season. At nineteen came Carlton Fisk waving a home run fair in the 1975 World Series and Cincinnati winning the championship the next night. In Burns's Boston College graduation year, 1978, the Yankees erased a huge summer deficit and Bucky Dent put a home run over the Green Monster in the division tiebreaker. Those are facts about the baseball culture surrounding his Massachusetts life, not yet memories we can assign to him. The distinction matters. We do not know where he watched those games, whether he attended them, or which one mattered most.
+
+The dates carry another history too.
+
+The 1967 pennant race unfolded while the United States was deep in Vietnam and the country was being transformed by the civil-rights struggle and racial conflict. Burns entered Boston College in 1974 as Boston's court-ordered school desegregation produced protests, political upheaval and violence. The 1975 World Series arrived as the country moved from Vietnam and Watergate toward the Bicentennial and argued over what exactly it was celebrating.
+
+Baseball did not explain any of those events.
+
+It shared the calendar with them.
+
+That is what makes a national pastime useful as historical backdrop. The game does not sit outside American history. It gives people another place to gather while the country remains complicated.
 
 We know enough without pretending.
 
@@ -167,6 +185,10 @@ It can puncture them.
 To say you are a Red Sox fan is to make a claim about America that is modest enough to be believable. It says the country contains loyalties that are not ideological. It contains inherited disappointment. It contains ridiculous hope. It contains arguments that matter intensely and not at all.
 
 That America can be easier to meet than the superpower.
+
+It is not simpler than the superpower. The same inherited institution can carry affection, failure, exclusion, reinvention and pride at once.
+
+That complexity will matter when Burns begins carrying the country somewhere else.
 
 Years later, Burns would stand behind the State Department podium speaking officially for the United States. He would represent the country in Athens. He would sit at NATO during the aftermath of the deadliest terrorist attack on American soil. He would negotiate nuclear questions with governments whose decisions carried consequences far beyond a baseball season.
 
