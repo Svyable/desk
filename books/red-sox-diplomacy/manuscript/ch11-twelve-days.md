@@ -210,11 +210,25 @@ And there were allied ambassadors calling him.
 
 That is enough.
 
-The book does not need baseball here.
+The book does not need baseball inside those first hours.
 
-Major League games stopped after the attacks. Baseball later became part of America's return to public life. The sport would acquire its own September symbolism.
+Major League games stopped after the attacks. When play resumed on September 17, the sport entered a public role larger than the standings. Ballparks became places for mourning, flags, first responders, ordinary routine and the uncomfortable question of whether playing a game could matter when thousands of people had just died.
 
-But there is no evidence that Burns experienced those first NATO hours through baseball, and there is no reason to make him do so on the page.
+Then October produced an image that would have been strange in almost any other chapter of this book.
+
+The New York Yankees—the comic enemy in Burns's Red Sox vocabulary—reached the World Series. Before Game 3 at Yankee Stadium on October 30, President George W. Bush walked to the mound wearing an FDNY pullover and threw the ceremonial first pitch. The White House later described the moment as a symbol of the country's determination to continue ordinary life after September 11.
+
+For once, the Yankees were carrying a meaning far larger than Boston's rivalry with them.
+
+That is useful to remember because `America's pastime` is not only the team a person loves. It is also a shared civic institution whose meaning can change abruptly when the country changes around it.
+
+None of this explains NATO solidarity.
+
+None of it belongs inside Burns's memory of September 11 unless he put it there himself.
+
+It is the American backdrop to the alliance work: while Burns and other diplomats converted solidarity into treaty procedure overseas, people at home were also rebuilding ordinary public rituals whose value had suddenly become visible because they had been interrupted.
+
+*ARCHIVE NOTE — Major League Baseball resumed play on September 17, 2001. On October 30, forty-nine days after the attacks, President George W. Bush threw the ceremonial first pitch before Game 3 of the World Series at Yankee Stadium. The George W. Bush White House archive later framed the pitch as a symbol of ordinary American life continuing after September 11. [MLB retrospective.](https://www.mlb.com/news/featured/yankees-reflect-on-returning-to-baseball-after-9-11/) [White House archive.](https://georgewbush-whitehouse.archives.gov/baseball/)*
 
 A metaphor becomes dishonest when it insists on surviving every event.
 
