@@ -170,6 +170,16 @@ The gift pointed somewhere else.
 
 Burns was leaving the podium.
 
+But the baseball bit did not quite leave with him.
+
+By October, while Burns was waiting for Senate confirmation to go to Athens, the Clemens joke came back from outside the State Department. The Washington Post reported that CBS State Department producer Charles Wolfson, another long-suffering Red Sox fan, had arranged for an eight-by-ten photograph of Roger Clemens in his Toronto uniform. Clemens signed it to Burns with good wishes for the new job and thanks for Burns's earlier “kind words.”
+
+The joke had completed a circuit.
+
+A player changed teams. A government spokesman complained theatrically at the podium. Reporters remembered. One of them carried the joke into baseball itself. The player sent it back.
+
+That is stronger evidence of a shared persona than Burns announcing his own fandom again. Other people had learned the script well enough to keep writing it after he left the room.
+
 Greece was next.
 
 That movement changes the meaning of the baseball material again.
