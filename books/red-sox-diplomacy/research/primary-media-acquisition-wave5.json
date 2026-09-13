@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "policy": "One additional early-career archival augmentation: preserve the State Magazine page as a documentary object rather than extracting or inventing a standalone portrait.",
+  "destination_root": "books/red-sox-diplomacy/media/primary-source",
+  "assets": [
+    {
+      "dest": "ch07-state-magazine-foreign-service-day-burns-1997-page.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/State_Magazine_1997-06-_Iss_406_%28IA_sim_state-magazine_1997-06_406%29.pdf/page10-1085px-State_Magazine_1997-06-_Iss_406_%28IA_sim_state-magazine_1997-06_406%29.pdf.jpg",
+      "archive_record": "https://commons.wikimedia.org/wiki/File:State_Magazine_1997-06-_Iss_406_(IA_sim_state-magazine_1997-06_406).pdf",
+      "maker": "Ann Thomas / U.S. Department of State, State Magazine",
+      "date": "1997-05-09 / published 1997-06",
+      "rights": "public domain — U.S. Department of State employee work; Commons file record marks the issue PD-USGov-DOS",
+      "chapter": "7",
+      "job": "archival State Magazine page preserving Department spokesman R. Nicholas Burns at the podium as the Foreign Service Day afternoon plenary speaker; page kept intact so caption and publication context remain visible"
+    }
+  ]
+}
