@@ -90,6 +90,24 @@ A compact primary-source artifact showing a correction, retraction, clarificatio
 
 Keep the original error and the correction distinct. Do not inflate a minor factual repair into a larger admission the speaker did not make.
 
+### RECURRENCE LEDGER
+
+A chronological selection of repeated appearances of a phrase, behavior, object, ritual, or theme. Use when recurrence itself is evidence that something became socially or institutionally established.
+
+The ledger must say whether it is exhaustive. A selected recurrence ledger cannot imply a total count, frequency rate, or complete archive sweep unless that work has actually been done.
+
+### FAREWELL INVENTORY
+
+A documentary inventory of objects or gestures selected by other people at a departure, transition, retirement, ceremony, or handoff. Use when the chosen objects reveal what a group had learned about the person or office.
+
+An inventory is not proof that the original objects survive in the archive. Distinguish reported objects from recovered artifacts, and do not fabricate facsimiles of originals that have not been located.
+
+### CIRCUIT OBJECT
+
+A documented chain in which an idea, joke, document, object, message, or practice moves through several people or institutions and returns, changes hands, or acquires new meaning.
+
+Every node and arrow must correspond to a sourced transfer or callback. The diagram must not imply causation, friendship, or a direct handoff when the source only establishes an intermediate route.
+
 ### NETWORK OBJECT
 
 A documentary relationship map. Every line or arrow must mean something stated in the label. It may show brokerage, sequence, institutional flow, or competing actors; it must not imply command, causation, or ownership that the sources do not establish.
@@ -168,6 +186,9 @@ The Beijing Red Sox clinic image used in Chapter 1 should not simply recur in Ch
 - A designed facsimile must never masquerade as an original scan.
 - An editorial grammar must be labeled as synthesis rather than impersonating an official taxonomy.
 - A correction object must not enlarge the scope of the original correction.
+- A recurrence ledger must identify whether it is selected or exhaustive.
+- A farewell inventory must distinguish reported objects from recovered originals.
+- A circuit diagram may visualize a documented route; it cannot silently turn an indirect route into a direct relationship.
 - Cropping cannot remove context in a way that changes meaning.
 - Overlapping service at a large post does not establish personal acquaintance; witness distance must remain explicit.
 - Program-wide financial totals do not become a named official's personal budget merely because the official worked on the program.
@@ -175,7 +196,7 @@ The Beijing Red Sox clinic image used in Chapter 1 should not simply recur in Ch
 - An institutional diagram cannot smuggle disputed sovereignty assumptions into the page through design.
 - Unknown is an allowed state. If the archive does not locate the 2004 championship-night room, the design can make that absence visible rather than filling it.
 
-## Current Chapter 1–7 release ledger
+## Current Chapter 1–8 release ledger
 
 | Object | Chapter | Rights | Draft state | Release action |
 | --- | --- | --- | --- | --- |
@@ -200,9 +221,13 @@ The Beijing Red Sox clinic image used in Chapter 1 should not simply recur in Ch
 | Clinton Riga photo route | 6 | Clinton White House/NARA public-domain collection | research-only finding-aid route | select an exact Burns-identifiable frame before promotion to FIG. |
 | EVIDENCE GRAMMAR 01 | 7 | original synthesis from State transcripts | local SVG | re-audit every category against primary examples |
 | CORRECTION OBJECT 01 | 7 | primary transcript / local facsimile | local SVG | seek archived State copy in addition to searchable mirror if available |
+| RECURRENCE LEDGER 01 | 8 | original diagram from State transcripts + contemporaneous reporting | local SVG | verify selected dates and retain non-exhaustive label |
+| FAREWELL INVENTORY 01 | 8 | original documentary inventory from contemporaneous reporting + federal records | local SVG | retain source map; do not imply original objects are held by Desk |
+| CIRCUIT OBJECT 01 | 8 | original diagram from State transcript + contemporaneous reporting | local SVG | retain explicit note that signed photograph itself is not reproduced |
+| Burns–McCurry farewell photograph route | 8 | Washington Post photograph | research-only | obtain publication rights or replace with rights-clearable federal/press-pool image |
 
 ## Visual restraint target
 
-A typical chapter does **not** need five objects. Chapter 2 does because it is explicitly arguing about identity moving across institutions and uses several periods as evidence. Chapter 3 needs only two because movement and maintenance can be made legible without another portrait. Chapter 4 also needs only two: one archival artifact for the senior bilateral relationship and one object that exposes witness distance. Chapter 5 needs only two because institutional ambiguity and assistance scale are the evidence; refusing a territorial map is itself part of the editorial method. Chapter 6 needs only the date and the machinery beneath it; the real presidential photographs stay in research until Burns is identified at frame level. Chapter 7 needs language objects rather than photography because the chapter's subject is the boundary between what a person can say and what the institution can own.
+A typical chapter does **not** need five objects. Chapter 2 does because it is explicitly arguing about identity moving across institutions and uses several periods as evidence. Chapter 3 needs only two because movement and maintenance can be made legible without another portrait. Chapter 4 also needs only two: one archival artifact for the senior bilateral relationship and one object that exposes witness distance. Chapter 5 needs only two because institutional ambiguity and assistance scale are the evidence; refusing a territorial map is itself part of the editorial method. Chapter 6 needs only the date and the machinery beneath it; the real presidential photographs stay in research until Burns is identified at frame level. Chapter 7 needs language objects rather than photography because the chapter's subject is the boundary between what a person can say and what the institution can own. Chapter 8 earns three objects because recurrence itself is the argument: repetition, farewell symbolism, and a joke completing a documented circuit.
 
 The test is simple: remove the object. If the reader loses no evidence, mechanism, temporal contrast, or archival understanding, the object probably does not belong.
