@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 1040" role="img" aria-labelledby="title desc">
+  <title id="title">Nicholas Burns road-team career route</title>
+  <desc id="desc">A chronological documentary route showing Nicholas Burns moving from a 1980 embassy internship in Nouakchott through Cairo, Jerusalem, Washington, Athens, Brussels, Washington, and Beijing.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f5f0e6"/>
+      <stop offset="1" stop-color="#e9dfd0"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="125%">
+      <feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#1b1510" flood-opacity="0.14"/>
+    </filter>
+  </defs>
+  <rect width="1500" height="1040" fill="#111820"/>
+  <rect x="54" y="48" width="1392" height="944" rx="8" fill="url(#paper)" filter="url(#shadow)"/>
+  <text x="104" y="111" font-family="Georgia, 'Times New Roman', serif" font-size="25" letter-spacing="5" fill="#6e645a">ROUTE OBJECT 01 · REPEATED ARRIVAL</text>
+  <line x1="104" y1="140" x2="1396" y2="140" stroke="#bd3039" stroke-width="3"/>
+  <text x="104" y="190" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#61584f">Not a promotion ladder. A record of contexts that had to be learned again.</text>
+
+  <line x1="188" y1="280" x2="188" y2="895" stroke="#a99d91" stroke-width="3"/>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <g>
+      <circle cx="188" cy="290" r="13" fill="#bd3039"/>
+      <text x="235" y="281" font-size="18" font-weight="700" letter-spacing="2.4" fill="#bd3039">1980</text>
+      <text x="235" y="319" font-size="29" font-weight="700" fill="#0c2340">NOUAKCHOTT</text>
+      <text x="235" y="350" font-size="20" fill="#62594f">U.S. Embassy · intern · first federal posting</text>
+    </g>
+    <g>
+      <circle cx="188" cy="380" r="11" fill="#0c2340"/>
+      <text x="235" y="371" font-size="18" font-weight="700" letter-spacing="2.4" fill="#6b6158">1983–1985</text>
+      <text x="235" y="409" font-size="28" font-weight="700" fill="#171411">CAIRO</text>
+      <text x="235" y="440" font-size="20" fill="#62594f">Vice consul · staff assistant to the ambassador</text>
+    </g>
+    <g>
+      <circle cx="188" cy="470" r="11" fill="#0c2340"/>
+      <text x="235" y="461" font-size="18" font-weight="700" letter-spacing="2.4" fill="#6b6158">1985–1987</text>
+      <text x="235" y="499" font-size="28" font-weight="700" fill="#171411">JERUSALEM</text>
+      <text x="235" y="530" font-size="20" fill="#62594f">Political officer · economic-assistance portfolio</text>
+    </g>
+    <g>
+      <circle cx="188" cy="560" r="11" fill="#0c2340"/>
+      <text x="235" y="551" font-size="18" font-weight="700" letter-spacing="2.4" fill="#6b6158">1987–1997</text>
+      <text x="235" y="589" font-size="28" font-weight="700" fill="#171411">WASHINGTON</text>
+      <text x="235" y="620" font-size="20" fill="#62594f">Operations Center · Counselor · NSC · State Department podium</text>
+    </g>
+    <g>
+      <circle cx="188" cy="650" r="11" fill="#0c2340"/>
+      <text x="235" y="641" font-size="18" font-weight="700" letter-spacing="2.4" fill="#6b6158">1997–2001</text>
+      <text x="235" y="679" font-size="28" font-weight="700" fill="#171411">ATHENS</text>
+      <text x="235" y="710" font-size="20" fill="#62594f">U.S. Ambassador to Greece</text>
+    </g>
+    <g>
+      <circle cx="188" cy="740" r="11" fill="#0c2340"/>
+      <text x="235" y="731" font-size="18" font-weight="700" letter-spacing="2.4" fill="#6b6158">2001–2005</text>
+      <text x="235" y="769" font-size="28" font-weight="700" fill="#171411">BRUSSELS</text>
+      <text x="235" y="800" font-size="20" fill="#62594f">U.S. Ambassador to NATO</text>
+    </g>
+    <g>
+      <circle cx="188" cy="830" r="11" fill="#0c2340"/>
+      <text x="235" y="821" font-size="18" font-weight="700" letter-spacing="2.4" fill="#6b6158">2005–2008</text>
+      <text x="235" y="859" font-size="28" font-weight="700" fill="#171411">WASHINGTON</text>
+      <text x="235" y="890" font-size="20" fill="#62594f">Under Secretary of State for Political Affairs</text>
+    </g>
+    <g>
+      <circle cx="188" cy="920" r="13" fill="#bd3039"/>
+      <text x="235" y="911" font-size="18" font-weight="700" letter-spacing="2.4" fill="#bd3039">2022–2025</text>
+      <text x="235" y="949" font-size="28" font-weight="700" fill="#0c2340">BEIJING</text>
+      <text x="235" y="980" font-size="20" fill="#62594f">U.S. Ambassador to China · return to government</text>
+    </g>
+  </g>
+
+  <g transform="translate(970 274)">
+    <rect x="0" y="0" width="360" height="342" rx="5" fill="#f1ebe0" stroke="#b7aa9c"/>
+    <text x="30" y="52" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="2.2" fill="#bd3039">THE CONTINUITY</text>
+    <text x="30" y="99" font-family="Georgia, 'Times New Roman', serif" font-size="29" font-style="italic" fill="#2a2520">Passport:</text>
+    <text x="30" y="138" font-family="Georgia, 'Times New Roman', serif" font-size="29" fill="#2a2520">mostly the same.</text>
+    <text x="30" y="194" font-family="Georgia, 'Times New Roman', serif" font-size="29" font-style="italic" fill="#2a2520">Context:</text>
+    <text x="30" y="233" font-family="Georgia, 'Times New Roman', serif" font-size="29" fill="#2a2520">relearned each time.</text>
+    <line x1="30" y1="268" x2="330" y2="268" stroke="#c7baac"/>
+    <text x="30" y="306" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#6a6057">Chronology from State Department</text>
+    <text x="30" y="330" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#6a6057">official biographies.</text>
+  </g>
+
+  <text x="1396" y="954" text-anchor="end" font-family="'Courier New', monospace" font-size="17" fill="#82776c">RSD / CH03 / CAREER / R01</text>
+</svg>
