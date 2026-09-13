@@ -2,7 +2,7 @@
 
 The strange thing about modern diplomacy is that communication keeps getting easier while certainty about what communication means keeps getting harder.
 
-A government can translate a statement almost instantly. It can retrieve the last ten years of another government's public positions in seconds. It can compare satellite imagery, economic data, social media, intercepted signals, press coverage, legislative language and intelligence reporting before an ambassador reaches the next meeting. Drafts can be generated quickly. Scenarios can be modeled. Contradictions can be found. Artificial intelligence will make many of these supporting functions faster still.
+A government can translate a statement almost instantly. It can retrieve years of another government's public positions in seconds. It can compare satellite imagery, economic data, social media, intercepted signals, press coverage, legislation and intelligence reporting before an ambassador reaches the next meeting. Drafts can be generated quickly. Scenarios can be modeled. Contradictions can be found. Artificial intelligence will make many supporting functions faster still.
 
 None of that answers the oldest question in diplomacy.
 
@@ -10,13 +10,13 @@ Who is actually speaking for the state?
 
 Nicholas Burns spent a career moving through technologies that changed almost beyond recognition while that problem remained stubbornly familiar.
 
-When he entered the Foreign Service, diplomacy still moved heavily through cables, secure telephones, formal notes and meetings whose records took time to circulate. By the time he was State Department spokesman, televised briefings and the early internet were changing the velocity of public diplomacy. By Athens, email and twenty-four-hour news had tightened the cycle again. By NATO after September 11, television was carrying catastrophe around the world in real time while ambassadors were trying to determine what their governments were prepared to do about it. By Beijing, presidents, ministries, embassies, militaries, companies, journalists and ordinary citizens all operated inside an information environment of smartphones, social media, ubiquitous video and increasingly capable artificial intelligence.
+When he entered the Foreign Service, diplomacy still moved heavily through cables, secure telephones, formal notes and meetings whose records took time to circulate. By the time he was State Department spokesman, televised briefings and the early internet were changing the velocity of public diplomacy. Athens brought email and twenty-four-hour news. NATO after September 11 operated inside real-time television. Beijing added smartphones, social media, ubiquitous video and increasingly capable artificial intelligence.
 
 More information did not abolish interpretation.
 
 It multiplied it.
 
-Burns said after leaving Beijing that the basic mission of an ambassador had not changed. One part of the job was to represent the perspectives and policies of his own government to the host government and function as a primary point of communication between them.
+Burns said after leaving Beijing that the basic mission of an ambassador had not changed. One part of the job was to represent the perspectives and policies of his own government to the host government and to serve as a primary point of communication between them.
 
 The phrase sounds almost administrative.
 
@@ -30,17 +30,11 @@ Was it a trial balloon?
 
 Was the minister improvising?
 
-Was the president committing the government or merely describing a preference?
-
-Was the threat deliberate?
+Was the president committing the government or describing a preference?
 
 Was the ambiguity deliberate?
 
-Is the private message different from the public one because one of them is dishonest, or because each is aimed at a different audience?
-
 What changed since yesterday?
-
-What did not?
 
 Machines can help recover the record.
 
@@ -48,19 +42,19 @@ Institutions still need someone to own the meaning.
 
 That ownership appeared in Burns's career long before Beijing.
 
-At the State Department podium in the 1990s, one of the spokesman's basic disciplines was grammatical. Known was different from reported. Confirmed was different from alleged. Policy was different from speculation. A mistake had to be corrected rather than buried under another sentence.
+At the State Department podium in the 1990s, one of the spokesman's basic disciplines was grammatical. Known was different from reported. Confirmed was different from alleged. Policy was different from speculation. A mistake had to be corrected rather than hidden under another sentence.
 
 Those distinctions can look fussy until the subject is war.
 
 Then a misplaced verb can become policy in another capital before the briefing has ended.
 
-The spokesman does not create national policy by personal force. His authority comes from somewhere else. The Secretary of State, the President, the bureaucracy, the interagency process and the law give the words their institutional status. Yet the person at the podium still matters because audiences are deciding whether the institution can be believed through him.
+The spokesman does not create national policy by personal force. His authority comes from somewhere else: the President, the Secretary of State, the bureaucracy, the interagency process, the law. Yet the person at the podium still matters because audiences are deciding whether the institution can be believed through him.
 
 That is the first element of the human channel.
 
 Authentication.
 
-Not authentication in the cryptographic sense, though that increasingly matters too. Political authentication: this person is authorized to convey the position of this government, and this government expects the recipient to treat the message accordingly.
+Not authentication only in the cryptographic sense, though that increasingly matters too. Political authentication: this person is authorized to convey the position of this government, and this government expects the recipient to treat the message accordingly.
 
 The second element is precision.
 
@@ -80,7 +74,7 @@ This is the part technology enthusiasts often describe too casually because judg
 
 It is not vague to the person who has to decide whether to speak now or later.
 
-Should the ambassador deliver the warning privately before the government announces it publicly?
+Should the ambassador deliver a warning privately before the government announces it publicly?
 
 Should a demand be explicit or leave space for a counterpart to comply without humiliation?
 
@@ -88,13 +82,11 @@ Should an ally be confronted inside the alliance room or outside it?
 
 Should an apparent provocation be answered immediately, or is the information still incomplete?
 
-Should a president's sentence be clarified, amplified, softened or simply allowed to stand?
-
 These decisions can be informed by more data.
 
 They cannot be made useful by data volume alone.
 
-During the NATO rupture over Iraq in 2003, the United States had immense intelligence and military capability. So did its allies collectively. The argument over defensive planning for Turkey still came down to governments with different readings of timing, risk, alliance procedure and what action would signal about an approaching war.
+During the NATO rupture over Iraq in 2003, the United States and its allies possessed immense intelligence and military capability. The argument over defensive planning for Turkey still came down to governments with different readings of timing, risk, alliance procedure and what action would signal about an approaching war.
 
 No amount of processing power could erase the disagreement.
 
@@ -104,19 +96,19 @@ The fourth element is relationship memory.
 
 This is not friendship.
 
-Burns's career repeatedly resists the sentimental version of diplomacy in which personal rapport dissolves national interests. It does not. A Russian official does not become less Russian because an American has known him for ten years. An Iranian negotiator does not surrender a national position because meetings have become cordial. A Chinese official does not stop answering to the Chinese Communist Party because he knows an ambassador's family.
+Burns's career repeatedly resists the sentimental version of diplomacy in which personal rapport dissolves national interests. It does not. A Russian official does not become less Russian because an American has known him for ten years. An Iranian negotiator does not surrender a national position because meetings have become cordial. A Chinese official does not stop answering to his own political system because he knows an ambassador's family.
 
 Repeated interaction matters for a less romantic reason.
 
 It changes interpretation.
 
-A counterpart who has watched the same person deliver good news, bad news, corrections, warnings and concessions accumulates information about how that person behaves under pressure. The relationship becomes another data set, except the data are not merely words. They include consistency, evasiveness, timing, follow-through and memory of previous commitments.
+A counterpart who has watched the same person deliver good news, bad news, corrections, warnings and concessions accumulates information about how that person behaves under pressure. The relationship becomes another record: consistency, evasiveness, timing, follow-through and memory of previous commitments.
 
 Trust can grow from that.
 
 So can informed distrust.
 
-Both are useful compared with fantasy.
+Both are more useful than fantasy.
 
 The fifth element is accountability.
 
@@ -146,57 +138,41 @@ Who had the power to mean it?
 
 Who can be held to it tomorrow?
 
-Burns encountered a version of that problem in Beijing during two periods when communication itself broke down.
+Beijing supplied the late-career stress test. As the previous chapter showed, important U.S.-China channels were disrupted after major crises even while American and Chinese forces continued operating near one another. Burns later described the danger in practical terms: an accident at sea or in the air could force two capitals to interpret intent under pressure precisely when senior communication was weakest.
 
-After Speaker Nancy Pelosi's 2022 visit to Taiwan, and again after the 2023 balloon crisis, important channels between the United States and China were disrupted. Burns later described those periods as among the most worrying of his tenure because American and Chinese military forces continued to operate near one another even while senior political communication had become harder.
+The crucial point is not the chronology of those crises.
 
-His nightmare was not a planned war.
+It is that interpretation does not stop when communication does.
 
-It was an accident that became one.
+If the channel fails, each government still has to decide whether an event was ordered, accidental, limited or preparatory. It simply does so with less reliable access to the other side's authorized intent.
 
-An aircraft or ship. A collision. A misread maneuver. A local commander. A few minutes without enough information. Then two capitals trying to determine whether the event was deliberate while nationalism and fear accelerated faster than clarification.
+That makes communication part of deterrence rather than diplomacy's decorative layer.
 
-In that circumstance, communication is not diplomacy's decorative layer.
+Technology complicates the problem because speed compresses the time available for political judgment. A government may receive more warning, more imagery and more possible explanations than any previous generation while leaders have fewer minutes to determine which interpretation is real enough to act on.
 
-It is part of deterrence.
+The world will not slow down because decision-makers would prefer more time.
 
-The channel allows leaders to say: this was not ordered; this is our understanding; this is what we are doing now; this is what we need you not to do next.
+Institutions therefore have to get better at authenticating decisions under pressure.
 
-The message may fail.
-
-Without the channel, the interpretation happens anyway.
-
-That is worse.
-
-Technology complicates the problem further because speed compresses the time available for political judgment. A government may receive more warning, more imagery and more possible explanations than any previous generation while leaders have fewer minutes to determine which interpretation is real enough to act on.
-
-The answer cannot simply be to slow the world down.
-
-The world will not cooperate.
-
-The answer is to build institutions that can authenticate decisions under pressure.
-
-Burns's last year in China produced one small but important example.
+Burns's last year in China produced one narrow example with unusually high stakes.
 
 At their November 2024 meeting in Lima, President Joe Biden and President Xi Jinping affirmed the need to maintain human control over decisions to use nuclear weapons.
 
-The statement was narrow.
+The statement did not settle the military competition between the countries. It did not resolve questions about artificial intelligence, autonomous systems, cyber operations, command-and-control vulnerability or escalation in space. Burns later described it as a beginning rather than an answer.
 
-It did not settle the military competition between the countries. It did not resolve questions about artificial intelligence, autonomous systems, cyber operations, command-and-control vulnerability or escalation in space. Burns later described it as a beginning rather than an answer.
+That modesty is why it matters.
 
-That modesty is exactly why it matters.
-
-Nuclear command is the hardest possible case of authorized intent. The world does not merely need to know whether a signal is authentic. It needs to know that a decision of irreversible consequence belongs to an accountable human chain of command.
+Nuclear command is an extreme case of authorized intent. The world does not merely need to know whether a signal is authentic. It needs a traceable chain of responsibility for a decision of irreversible consequence.
 
 That principle may become harder to preserve as machine systems become more capable.
 
-It does not become less necessary.
+It does not become less important.
 
 None of this means diplomacy must remain technologically primitive in order to remain human.
 
 The opposite is true.
 
-A diplomat who refuses better translation, retrieval, simulation or analysis because of nostalgia would be neglecting the job. Better tools should make the institution more capable. They can expose inconsistencies, remember forgotten commitments, model reactions, reveal missing information and give officials more time for the decisions that only authority can make.
+A diplomat who refuses better translation, retrieval, simulation or analysis because of nostalgia would be neglecting the job. Better tools can expose inconsistencies, remember forgotten commitments, model reactions, reveal missing information and give officials more time for the decisions that authority still requires someone to make.
 
 The mistake would be confusing assistance with authorization.
 
@@ -204,9 +180,9 @@ A model can generate ten plausible responses to a crisis.
 
 The state still has to choose one.
 
-A system can predict that a counterpart is likely bluffing.
+A system can estimate that a counterpart is bluffing.
 
-Someone still has to decide whether to risk lives on the prediction.
+Someone still has to decide whether to risk lives on the estimate.
 
 A translator can make every sentence fluent.
 
@@ -236,29 +212,17 @@ The channel does not exist to make states like each other.
 
 It exists to make intention harder to mistake.
 
-Burns's professional life began when official communication was comparatively scarce and slow. It ended its most recent government chapter in an age of almost infinite messaging.
+Burns's professional life began when official communication was comparatively scarce and slow. Its most recent government chapter ended in an age of almost infinite messaging.
 
-The problem had not disappeared.
+The old questions had not disappeared.
 
-It had become easier to hide inside the abundance.
-
-More messages.
-
-More analysis.
-
-More speed.
-
-More simulation.
-
-And still, at the decisive moment, the old questions:
+They had become easier to hide inside the abundance.
 
 Who is speaking?
 
 What do they know?
 
 What are they authorized to promise?
-
-What are they trying not to say?
 
 What will they own tomorrow?
 
