@@ -6,6 +6,10 @@ August 31.
 
 Russian troops were supposed to be out of Latvia and Estonia by then.
 
+[![Documentary deadline object marking August 31, 1994 as the Baltic troop-withdrawal date](../media/ch06-deadline-1994-08-31.svg)](https://www.presidency.ucsb.edu/documents/statement-withdrawal-russian-forces-from-eastern-europe)
+
+*DEADLINE OBJECT 01 — August 31, 1994. President Clinton’s statement that day recorded completion of Russian military-force withdrawals from Estonia and Latvia under bilateral agreements. The date is clean enough to become historical shorthand; the object deliberately leaves the temporary Skrunda arrangements and other implementation terms outside the headline. [Presidential statement.](https://www.presidency.ucsb.edu/documents/statement-withdrawal-russian-forces-from-eastern-europe) [GovInfo record.](https://www.govinfo.gov/app/details/PPP-1994-book2/PPP-1994-book2-doc-pg1514/context)*
+
 A deadline is one of the cleanest objects in foreign policy. It gives officials something to repeat, newspapers something to print, presidents something to defend and opponents something to measure. Either the troops leave or they do not.
 
 The work required to make that sentence true was not clean at all.
@@ -72,6 +76,10 @@ The president was talking to more than one audience at once.
 
 So were the officials behind him.
 
+[![Implementation ledger for selected U.S. support measures connected to the 1994 Baltic troop withdrawals](../media/ch06-implementation-ledger.svg)](https://clintonwhitehouse6.archives.gov/1994/07/1994-07-10-backgrounder-on-clinton-yeltsin-meeting.html)
+
+*IMPLEMENTATION LEDGER 01 — Selected U.S. support measures documented by the White House in July 1994: 2,500 housing vouchers for departing Russian military officers at a stated value of $25,000 each; $4 million to help dismantle the Skrunda radar facility in Latvia; and $2 million for environmental cleanup assistance at Paldiski in Estonia. The voucher figures imply $62.5 million at the stated value. These are implementation mechanisms, not an exhaustive accounting of Baltic policy or the cost of the diplomacy. [White House background briefing.](https://clintonwhitehouse6.archives.gov/1994/07/1994-07-10-backgrounder-on-clinton-yeltsin-meeting.html)*
+
 The United States increased support for housing vouchers that could help Russian officers resettle. It backed environmental cleanup at the former Soviet nuclear training site at Paldiski in Estonia. It worked the remaining differences between Moscow and Tallinn and carried proposals from Estonian president Lennart Meri to Yeltsin.
 
 The final result would be remembered as a date.
@@ -80,9 +88,9 @@ August 31, 1994.
 
 The last Russian troops left Estonia. Russian forces also completed their withdrawal from Latvia, apart from the temporary arrangements connected to Skrunda.
 
-President Clinton called the Estonian departure the real end of World War II in Europe.
+In the official record that summer, Clinton described what the deadline would mean more precisely: for the first time since the end of World War II, there would be no Russian troops in Germany or elsewhere in Eastern Europe.
 
-That was the line history could use.
+That was a line history could use.
 
 Burns had spent years inside the parts history usually discards.
 
