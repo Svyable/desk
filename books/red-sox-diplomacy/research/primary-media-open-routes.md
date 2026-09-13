@@ -14,35 +14,56 @@ The December 19, 2001 DoD photograph acquired separately is useful NATO context.
 
 ## 2. July 1994 — Clinton / Riga / Baltic-withdrawal photography
 
-The Clinton Presidential Library finding aid identifies photo coverage of the July 5–7, 1994 trip and places Burns in the traveling White House/National Security Council context, including Riga-related meetings.
+The Clinton Presidential Library finding aid identifies official White House photo coverage of the July 5–7, 1994 trip and places Burns directly in the traveling White House/National Security Council context.
+
+On **July 5**, the finding aid records President Clinton meeting aboard Air Force One with Nicholas Burns, Sandy Berger, David Gergen, George Stephanopoulos, Dee Dee Myers, Tony Lake, Ricki Seidman, and Andrew Friendly. On **July 6 in Riga**, it records the U.S.–Latvia bilateral/signing sequence with Burns among the U.S. participants. A separate White House planning document identifies Burns as the **notetaker** for the Riga Castle bilateral/signing ceremony.
+
+The relevant photo series is narrowed to **Book 175, contact sheets P17400–P17499**, with the July 5–6 work concentrated at the beginning of that run. The Library states that official White House photographs are public domain.
 
 **Current state:** `ARCHIVE ROUTE / EXACT FRAME NOT YET SELECTED`.
 
-The collection route is strong enough for targeted archival work, but no exact Burns-identifiable downloadable frame has yet been selected and rights/provenance tied to that specific frame. Do not manufacture a FIG. from a finding-aid description.
+The archive route and rights basis are now strong, but the finding aid still exposes the material at folder/contact-sheet level rather than a stable, Burns-identifiable downloadable frame. Do not manufacture a FIG. from the finding-aid description or infer which frame contains him.
+
+Primary routes:
+- https://www.clintonlibrary.gov/research/archives/finding-aids/white-house-photos-white-house-photographs-july-5-1994-through-july
+- https://nara-media.s3.amazonaws.com/presidential-libraries/clinton/foia/2011-1037-F/2011-1037-F-PDF/Box_003/42-t-7422551-20111037F-003-004-2015.pdf
 
 ## 3. Athens — Burns / Libby Baylies Burns / embassy public-diplomacy photography
 
-State Magazine and related federal publications contain period photographs useful to the Athens chapters, including images involving Nicholas Burns, Libby Baylies Burns, Greek participants, and the embassy/courtyard.
+The State Department's **July–August 2000, No. 437** issue of *State Magazine* contains the feature **“New Look Transforms U.S. Embassy, Athens.”** The archived article identifies a period photograph of sculptor Thodoros Papayiannis with Ambassador Burns and Elizabeth Allen Baylies in the artist's Athens studio beside a model of the George C. Marshall statue. It also documents the embassy courtyard/restoration work.
 
-**Current state:** `RIGHTS CHECK REQUIRED`.
+A digitized Commons scan exists, but its filename incorrectly says “July-August 1998” even though the issue metadata and State archive identify it as **July–August 2000, No. 437**. The issue is marked public domain as a U.S. Department of State work.
 
-Publication on a federal website is not by itself proof that every embedded photograph is a federal employee work. Keep these as research routes until the individual image credit or an archive record establishes reuse rights.
+**Current state:** `PAGE-LEVEL ARCHIVE ROUTE / EXACT SCAN PAGE TO VERIFY`.
 
-## 4. Operation Eagle Assist — Burns / Robertson / AWACS crew, 2002
+This is now a promising page-level acquisition route, similar to the Chapter 7 State Magazine plate. Do not vendor a guessed PDF page number. Resolve the exact scanned page/thumbnail first and preserve the full publication page rather than extracting an unattributed crop.
 
-A NARA/DVIDS-derived image route has been located for May 16, 2002 showing Burns in the Operation Eagle Assist context with NATO leadership and AWACS personnel.
+Primary routes:
+- https://1997-2001.state.gov/publications/statemag/statemag_jul2000/feature5.html
+- https://2001-2009.state.gov/documents/organization/83356.pdf
 
-**Current state:** `PRIMARY-ASSET ROUTE NOT YET RESOLVED`.
+## 4. Operation Eagle Assist — Burns / Robertson / AWACS crew, May 16, 2002
 
-Third-party public-domain mirrors surface the image, but the book acquisition policy prefers the original NARA/DVIDS/archive object. Do not vendor the mirror merely because the underlying federal photograph is likely public domain. Resolve the primary archive file first.
+A NARA/DVIDS-derived photographic sequence has been located for **May 16, 2002 at NATO Air Base Geilenkirchen, Germany**, at the close of Operation Eagle Assist.
 
-## 5. Burns / Pranab Mukherjee — New Delhi, June 1, 2007
+The surviving federal caption data identifies **MSgt Chadwick J. Eiring, U.S. Air Force**, as photographer and marks the material **Released to Public**. One frame places Nicholas Burns, NATO Secretary General George Robertson, Adm. Guido Venturoni, and an E-3A AWACS crewmember in the same scene; another places Burns in the group as Gen. Joseph Ralston congratulates a crewmember. The source collection is identified as the National Archives' *Combined Military Service Digital Photographic Files*.
 
-A Government of India / PIB photograph appears in the same visual record as the now-vendored Burns–Shivshankar Menon image.
+This is a particularly strong Chapter 12 route because it shows Article 5 implementation as actual allied air-defense work rather than ceremony. DVIDS' official mission history records that NATO AWACS crews from 13 allied nations flew more than 360 sorties and nearly 4,300 hours over the United States before Eagle Assist ended on May 16, 2002.
 
-**Current state:** `LIKELY REUSABLE / IMAGE-SPECIFIC LICENSE CHECK REQUIRED`.
+**Current state:** `PRIMARY-ASSET ROUTE NARROWED / NARA-DVIDS OBJECT URL NOT YET RESOLVED`.
 
-The surrounding Photo Division material is commonly available under the Government Open Data License – India, but the exact image-specific Commons/source record has not yet been verified in this acquisition pass. Hold it out until that license record is explicit.
+Third-party public-domain mirrors expose the image and federal caption metadata, but the acquisition policy prefers the original NARA/DVIDS/archive object. Do not vendor the mirror merely because the underlying federal photograph is public domain. Resolve the primary object/file URL or catalog identifier first.
+
+Primary mission background:
+- https://www.dvidshub.net/news/401459/eagle-assist-mission-concludes
+
+## 5. Burns / Pranab Mukherjee — New Delhi, 2006–07
+
+Wikimedia Commons indexes exact Government of India / PIB photographs of Burns with External Affairs Minister **Pranab Mukherjee**, including New Delhi scenes dated **December 8, 2006** and **June 1, 2007**. The June 1 image sits in the same Photo Division record family as the already-vendored Burns–Shivshankar Menon photograph, whose file page explicitly carries the **Government Open Data License – India (GODL)**.
+
+**Current state:** `EXACT FILES LOCATED / IMAGE-SPECIFIC LICENSE CHECK STILL REQUIRED / LOW MARGINAL NARRATIVE VALUE`.
+
+Do not infer the Mukherjee file's license solely from the neighboring Menon file. Also note that Chapter 14 already has strong counterpart imagery with Shyam Saran and Shivshankar Menon plus the Bush–Singh leaders' image. Even if the exact Mukherjee license clears, acquire it only if it performs a distinct narrative job rather than adding another negotiation-room photograph.
 
 ## 6. October 27, 2004 — Red Sox championship night
 
