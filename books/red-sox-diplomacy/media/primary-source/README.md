@@ -1,7 +1,7 @@
 # Primary-source media acquisition report
 
-Available locally: **13**  
-Newly acquired this run: **0**  
+Available locally: **18**  
+Newly acquired this run: **5**  
 Reused from repo: **13**  
 Failed: **0**
 
@@ -22,3 +22,8 @@ The files below correspond to archive records in `research/primary-media-acquisi
 - `ch18-nicholas-burns-red-sox-great-wall-2024.jpg` — U.S. Ambassador to China / U.S. Department of State, 2024; public domain — U.S. Department of State employee work; 462,843 bytes; SHA-256 `feb1f258b7467c7ea9e805a2d799644cb8b7b27f2c1f166072f39b03782f68b5`; status `reused`; [archive record](https://commons.wikimedia.org/wiki/File:Ambassador_Burns_-_Charter_members_of_@RedSox_Nation_at_the_Great_Wall_of_China.jpg)
 - `ch18-blinken-press-availability-beijing-2023.jpg` — United States Department of State, 2023; public domain — U.S. Department of State employee work; 1,126,085 bytes; SHA-256 `c53c270842938231f8930872fa13a25db0c80bf1a583c43f81c6e6c5ee8a392e`; status `reused`; [archive record](https://commons.wikimedia.org/wiki/File:Ambassador_Burns_Listens_as_Secretary_Blinken_Hosts_a_Press_Availability_from_Beijing.jpg)
 - `ch18-nicholas-burns-woodside-recap-2023.webm` — United States Department of State, 2023-11-21; public domain — U.S. Department of State employee work; 5,107,539 bytes; SHA-256 `200a46e82af3da26bd8211685e5b2d19375bd700145c786b704782c697972320`; status `reused`; [archive record](https://commons.wikimedia.org/wiki/File:Ambassador_Nicholas_Burns_recaps_what_President_Biden_and_People%27s_Republic_of_China_President_Xi_Jinping_discussed_during_their_4-hour_meeting_in_San_Francisco.webm)
+- `ch13-rumsfeld-robertson-burns-nato-2003.jpg` — United States Department of Defense / U.S. Air Force, 2003-12-01; public domain — U.S. federal government work; 1,457,625 bytes; SHA-256 `0a65388a5bf51fcb951ea9e2547f2607c43d18eb5f9645536af22f8092ab6e64`; status `acquired`; [archive record](https://commons.wikimedia.org/wiki/File:Defense.gov_News_Photo_031201-F-2828D-034.jpg)
+- `ch13-rumsfeld-jensby-burns-nato-2003.jpg` — United States Department of Defense / U.S. Air Force, 2003-12-01; public domain — U.S. federal government work; 1,288,833 bytes; SHA-256 `c856d2fa7c6ecb34d41e7db2f1ed01c848f6afd51fb441874296605f8ba3907a`; status `acquired`; [archive record](https://commons.wikimedia.org/wiki/File:Defense.gov_News_Photo_031201-F-2828D-131.jpg)
+- `ch14-burns-saran-new-delhi-2006.jpg` — United States Department of State, 2006-01-20; public domain — U.S. Department of State employee work; 46,447 bytes; SHA-256 `e84be8f64a2408e9d6543c0b2c834695a3ddcae529d74dfaa3e2d301d83f00e4`; status `acquired`; [archive record](https://commons.wikimedia.org/wiki/File:Burns_Saran_Delhi_jan2006.jpg)
+- `ch14-burns-menon-new-delhi-2007.jpg` — M. Asokan / Photo Division, Ministry of Information & Broadcasting, Government of India, 2007-06-01; Government Open Data License – India (GODL); attribution: Ministry of External Affairs, Government of India; 510,715 bytes; SHA-256 `c31ee674a89cf4db4670760d35aefcb0efd33452e20a1054d08850b93ba628fb`; status `acquired`; [archive record](https://commons.wikimedia.org/wiki/File:The_Foreign_Secretary,_Shri_Shiv_Shankar_Menon_meeting_with_the_visiting_U.S._Under-Secretary_of_State_for_Political_Affairs,_Mr._Nicholas_Burns,_in_New_Delhi_on_June_01,_2007.jpg)
+- `ch14-burns-edinburgh-regional-command-south-2007.jpg` — Cherie A. Thurlby / United States Department of Defense, 2007-12-14; public domain — U.S. federal government work; 807,728 bytes; SHA-256 `a867de4528afea07214b8a9c160f38a7c69aaaefdd684cecd049ca252423640d`; status `acquired`; [archive record](https://commons.wikimedia.org/wiki/File:Defense.gov_photo_essay_071214-D-7203T-007.jpg)

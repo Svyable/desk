@@ -1,8 +1,8 @@
 {
-  "manifest_version": 1,
-  "acquired_count": 0,
+  "manifest_version": 2,
+  "acquired_count": 5,
   "reused_count": 13,
-  "available_count": 13,
+  "available_count": 18,
   "failed_count": 0,
   "available": [
     {
@@ -160,6 +160,66 @@
       "chapter": "18/20",
       "job": "primary-source moving image on Biden-Xi Woodside follow-up; ~1:08",
       "acquisition_status": "reused"
+    },
+    {
+      "dest": "books/red-sox-diplomacy/media/primary-source/ch13-rumsfeld-robertson-burns-nato-2003.jpg",
+      "bytes": 1457625,
+      "sha256": "0a65388a5bf51fcb951ea9e2547f2607c43d18eb5f9645536af22f8092ab6e64",
+      "archive_record": "https://commons.wikimedia.org/wiki/File:Defense.gov_News_Photo_031201-F-2828D-034.jpg",
+      "rights": "public domain — U.S. federal government work",
+      "maker": "United States Department of Defense / U.S. Air Force",
+      "date": "2003-12-01",
+      "chapter": "13",
+      "job": "Burns with NATO Secretary General George Robertson and Secretary of Defense Donald Rumsfeld during allied defense-minister consultations",
+      "acquisition_status": "acquired"
+    },
+    {
+      "dest": "books/red-sox-diplomacy/media/primary-source/ch13-rumsfeld-jensby-burns-nato-2003.jpg",
+      "bytes": 1288833,
+      "sha256": "c856d2fa7c6ecb34d41e7db2f1ed01c848f6afd51fb441874296605f8ba3907a",
+      "archive_record": "https://commons.wikimedia.org/wiki/File:Defense.gov_News_Photo_031201-F-2828D-131.jpg",
+      "rights": "public domain — U.S. federal government work",
+      "maker": "United States Department of Defense / U.S. Air Force",
+      "date": "2003-12-01",
+      "chapter": "13",
+      "job": "Burns present during Rumsfeld meeting with Danish Defense Minister Svend Aage Jensby at NATO headquarters",
+      "acquisition_status": "acquired"
+    },
+    {
+      "dest": "books/red-sox-diplomacy/media/primary-source/ch14-burns-saran-new-delhi-2006.jpg",
+      "bytes": 46447,
+      "sha256": "e84be8f64a2408e9d6543c0b2c834695a3ddcae529d74dfaa3e2d301d83f00e4",
+      "archive_record": "https://commons.wikimedia.org/wiki/File:Burns_Saran_Delhi_jan2006.jpg",
+      "rights": "public domain — U.S. Department of State employee work",
+      "maker": "United States Department of State",
+      "date": "2006-01-20",
+      "chapter": "14",
+      "job": "Nicholas Burns and Indian Foreign Secretary Shyam Saran addressing a press conference during the early civil-nuclear implementation phase",
+      "acquisition_status": "acquired"
+    },
+    {
+      "dest": "books/red-sox-diplomacy/media/primary-source/ch14-burns-menon-new-delhi-2007.jpg",
+      "bytes": 510715,
+      "sha256": "c31ee674a89cf4db4670760d35aefcb0efd33452e20a1054d08850b93ba628fb",
+      "archive_record": "https://commons.wikimedia.org/wiki/File:The_Foreign_Secretary,_Shri_Shiv_Shankar_Menon_meeting_with_the_visiting_U.S._Under-Secretary_of_State_for_Political_Affairs,_Mr._Nicholas_Burns,_in_New_Delhi_on_June_01,_2007.jpg",
+      "rights": "Government Open Data License – India (GODL); attribution: Ministry of External Affairs, Government of India",
+      "maker": "M. Asokan / Photo Division, Ministry of Information & Broadcasting, Government of India",
+      "date": "2007-06-01",
+      "chapter": "14",
+      "job": "Burns with Foreign Secretary Shivshankar Menon during the decisive 2007 bilateral negotiation phase",
+      "acquisition_status": "acquired"
+    },
+    {
+      "dest": "books/red-sox-diplomacy/media/primary-source/ch14-burns-edinburgh-regional-command-south-2007.jpg",
+      "bytes": 807728,
+      "sha256": "a867de4528afea07214b8a9c160f38a7c69aaaefdd684cecd049ca252423640d",
+      "archive_record": "https://commons.wikimedia.org/wiki/File:Defense.gov_photo_essay_071214-D-7203T-007.jpg",
+      "rights": "public domain — U.S. federal government work",
+      "maker": "Cherie A. Thurlby / United States Department of Defense",
+      "date": "2007-12-14",
+      "chapter": "14/15",
+      "job": "Burns speaking to traveling press after the Regional Command-South conference in Edinburgh as Under Secretary for Political Affairs",
+      "acquisition_status": "acquired"
     }
   ],
   "failed": []
