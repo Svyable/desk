@@ -1,6 +1,6 @@
 # Red Sox–Greece Assistance Audit — what the club did, what MLB did, and what Boston fans did
 
-The phrase “the Red Sox helped Greek baseball” appears in contemporaneous reporting, but the surviving public record does not yet specify what the Boston club itself delivered. This audit separates four overlapping assistance channels so the manuscript does not accidentally credit one actor with another actor's work.
+The phrase “the Red Sox helped Greek baseball” appears in contemporaneous reporting, but the surviving public record does not yet specify what the Boston club itself delivered. This audit separates overlapping assistance channels so the manuscript does not accidentally credit one actor with another actor's work.
 
 ## 1. Boston Red Sox organization — participation is documented; mechanics are not
 
@@ -72,15 +72,20 @@ Angelos/Orioles activity should be kept analytically separate from MLB Internati
 
 The assistance network also contained a distinctly Boston-area, Greek-American baseball strand that should not be confused with the Boston Red Sox organization.
 
-A 2007 Greek baseball history says Burns contacted several Greek-American baseball enthusiasts in addition to Angelos, including **Chuck Samiotis and Bill Galatis**.
+A 2007 Greek baseball history says Burns contacted several Greek-American baseball enthusiasts in addition to Angelos, including **Chuck Samiotes and Bill Galatis**.
 
 Source:
 https://www.oocities.org/spartakosglyfadas/history_of_baseball_in_greece2.htm
 
-A 2004 CNN report describes Galatis and Samiotis as **two Boston baseball fans** and explicitly calls them **diehard Red Sox fans**. CNN says they had spent roughly six years helping develop baseball in Greece: building a field, training young people, and helping recruit top players. The report also identifies them as Boston-area restaurant partners who originally responded to a Greek-American newspaper advertisement seeking players.
+A 2004 CNN report describes Galatis and Samiotes as best friends, business partners and **die-hard Red Sox fans**. CNN says they had spent roughly six years helping develop baseball in Greece: building a field, training young people, and helping recruit players. The report also identifies them as Boston-area restaurant partners who originally responded to a Greek-American newspaper advertisement seeking players.
 
 Source:
-https://transcripts.cnn.com/show/cst/date/2004-08-07/segment/04
+https://transcripts.cnn.com/show/asb/date/2004-08-06/segment/00
+
+A January 2000 AP report pushes Samiotes's grassroots chronology earlier still. It says he improvised baseball with nieces and nephews during a 1997 visit to Greece, then returned in 1998 with balls, bats and gloves and taught children in an Athens suburb.
+
+Source:
+https://www.latimes.com/archives/la-xpm-2000-jan-02-mn-49873-story.html
 
 This distinction matters enormously for *Red Sox Diplomacy*. There were at least two different “Red Sox” presences in the Greece story:
 
@@ -89,7 +94,72 @@ This distinction matters enormously for *Red Sox Diplomacy*. There were at least
 
 Conflating those two would make the story cleaner and less accurate.
 
-## 5. Chris Karalekas / Baseball Acropolis — another grassroots and visual archive
+### 4a. The two Boston lanes may have touched through Chuck Samiotes
+
+New research makes the separation analytically necessary but the social distance between the lanes much smaller.
+
+Boston Parks and Recreation records say **Major League Baseball and the Boston Red Sox contributed $435,382** to reconstruct Jim Rice Field at Ramsay Park in Roxbury around the 1999 All-Star Game. The city says the field was rebuilt to resemble Fenway Park.
+
+Source:
+https://www.cityofboston.gov/parks/pdfs/os3n.pdf
+
+Samiotes Consultants says it **donated all civil-engineering services** for the Jim Rice Field project and collaborated with the City of Boston, MLB, the Boston Red Sox, HOK Architects and the South End Baseball Program. The firm's biography identifies Chuck Samiotes as its founding principal.
+
+Sources:
+- https://www.samiotes.com/jim-rice-field
+- https://www.samiotes.com/chuck-samiotes
+
+The chronology is striking:
+
+- 1997–98: Samiotes is already teaching baseball in Greece;
+- 1999: his engineering firm says it is working with MLB and the Red Sox on a Boston youth-baseball development project;
+- September 1999: contemporaneous reporting says the Red Sox and commissioner's office are helping the Greek baseball effort;
+- January 2000: AP reporting says Red Sox support had been pledged while separately profiling Samiotes's Greece activity.
+
+### What this changes
+
+Samiotes is now one of the highest-value witnesses for the unresolved Red Sox contribution.
+
+He was not merely a Red Sox fan in the Greek-American grassroots network. His firm says it had a contemporaneous professional connection to an MLB / Red Sox baseball-development project in Boston.
+
+### What this still does not prove
+
+There is **no current evidence** that:
+
+- Samiotes introduced Burns or the Greek federation to the Red Sox;
+- Jim Rice Field contacts were the same club personnel who handled Greece;
+- equipment, money or services from the Boston project moved to Greece;
+- the Red Sox modeled its Greek support on Jim Rice Field;
+- Burns knew about Samiotes's Red Sox/MLB professional connection when the Greek network formed.
+
+This is a sharply improved route into the archive, not the missing answer itself.
+
+## 5. Bill Galatis — verified continuity from Greek baseball to Fenway Greek Heritage Night
+
+The other major Boston grassroots figure now provides a different kind of continuity.
+
+Contemporary 2004 sources identify Bill Galatis beside Samiotes as a Greek-baseball builder, business partner and Red Sox fan. Independent business coverage later preserves their partnership. In 2018 Galatis told the *Lynn Journal* that he approached Red Sox historian Gordon Edes about honoring Harry Agganis; Edes took the idea to senior Red Sox management, and Galatis proposed turning the tribute into a wider Greek Heritage celebration at Fenway.
+
+Sources:
+- https://transcripts.cnn.com/show/asb/date/2004-08-06/segment/00
+- https://www.cfo.com/news/a-baseball-odyssey/679439/
+- https://www.bostonmagazine.com/reviews/2006/08/08/dining-out-modern-greece/
+- https://lynnjournal.com/2018/06/21/a-labor-of-lovegalatis-worked-hard-to-create-red-sox-tribute-to-harry-agganis/
+
+GreekBoston independently identified Galatis as head coordinator of the Red Sox Greek Heritage Night in 2018.
+
+Source:
+https://www.greekboston.com/greek-program-tv-show/
+
+### Why this matters
+
+Galatis demonstrates person-level continuity between the Olympic-baseball network and later Fenway Greek-American baseball programming.
+
+It still does not prove that the modern program institutionally descended from the Burns-era Red Sox pledge.
+
+The useful question now is whether Galatis's later Red Sox access grew from relationships formed during the Greece project or arose independently around Harry Agganis.
+
+## 6. Chris Karalekas / Baseball Acropolis — another grassroots and visual archive
 
 Baseball Acropolis founder Chris Karalekas describes beginning his own effort in 1998 to help introduce baseball to Greece. Its surviving photo archive shows:
 
@@ -110,7 +180,7 @@ Sources:
 
 This is the strongest public visual lead yet found for reconstructing the human network around Burns's baseball project. The photos are organizational archive material rather than neutral press photography, so captions should be independently checked where possible before identifying every participant in manuscript prose.
 
-## 6. A more precise assistance map
+## 7. A more precise assistance map
 
 The currently documented network is best represented as follows:
 
@@ -140,15 +210,17 @@ The currently documented network is best represented as follows:
 ### Boston Red Sox organization
 
 - contemporaneously reported assistance / pledged support;
-- **specific contribution not yet recovered**.
+- known 1999 collaboration with MLB on a major Boston youth-baseball development project;
+- **specific Greece contribution not yet recovered**.
 
 ### Boston-area Greek-American baseball network
 
-- Galatis and Samiotis: field-building, youth training, recruiting, according to CNN;
-- Karalekas / Baseball Acropolis: clinics, equipment, promotion, federation/MLB networking, and surviving visual archive;
-- strong overlap with Red Sox fandom and Boston sports culture, but organizationally independent of the Red Sox club unless a source says otherwise.
+- Galatis and Samiotes: field-building, youth training, recruiting, according to CNN;
+- Samiotes: 1997–98 grassroots teaching in Greece plus a contemporaneous professional connection through his firm to the 1999 MLB/Red Sox Jim Rice Field project;
+- Galatis: later documented route into Red Sox management for the 2018 Agganis / Greek Heritage celebration;
+- Karalekas / Baseball Acropolis: clinics, equipment, promotion, federation/MLB networking, and surviving visual archive.
 
-## 7. Why the Boston layer matters to the book
+## 8. Why the Boston layer matters to the book
 
 The Greece chapter becomes richer if “Boston” is not reduced to Burns carrying a Red Sox cap overseas.
 
@@ -156,24 +228,26 @@ The surviving record suggests a transatlantic cultural network in which:
 
 - Burns's own Boston/Red Sox identity made baseball personally legible;
 - Greek-American baseball enthusiasts in Boston helped with grassroots development;
-- Harry Agganis — the Boston/Greek-American Red Sox figure — served as inspiration for Karalekas's Baseball Acropolis effort;
+- at least one of those enthusiasts, Samiotes, had a contemporaneous professional connection to a Red Sox/MLB development project;
+- Harry Agganis — the Boston/Greek-American Red Sox figure — served as inspiration for Karalekas's Baseball Acropolis effort and later for Galatis's Fenway heritage work;
 - the Red Sox club itself appears in contemporaneous reporting as an institutional supporter;
 - the Orioles, not the Red Sox, became the dominant professional-baseball organization in constructing the Olympic roster.
 
 That is a better story than “Burns got the Red Sox to bring baseball to Greece.” It is a network story with several Boston nodes and one major Baltimore node.
 
-## 8. Highest-value archival targets for the Red Sox role
+## 9. Highest-value archival targets for the Red Sox role
 
-1. **Boston Red Sox correspondence / front-office files, 1998–2001** — Greece, Hellenic Amateur Baseball Federation, Nicholas Burns, Jim Small, Peter Angelos, Panos Mitsiopoulos.
-2. **Dick Bresciani papers or Red Sox public-relations archive** — he was a long-serving club PR executive during this period and may have preserved correspondence or press material.
-3. **MLB International files** — records distinguishing league-level equipment/coaching from club-specific contributions.
-4. **U.S. Embassy Athens correspondence** — requests sent to or received from the Red Sox.
-5. **Burns–Red Sox correspondence** — particularly around the 1999 reception and early development phase.
-6. **Boston Globe / Boston Herald archives, 1999–2001** — local coverage may have named Red Sox personnel involved.
-7. **Friends of Greek Baseball records** — board lists, donors, correspondence, equipment inventories.
-8. **Baseball Acropolis photo negatives/captions** — identify the “Boston businessmen” and date the Burns/Karalekas photograph.
+1. **Chuck Samiotes / Samiotes Consultants project files** — Jim Rice Field correspondence, Red Sox contacts, MLB contacts, and any Greek-baseball records from the same period.
+2. **Boston Red Sox correspondence / front-office files, 1998–2001** — Greece, Hellenic Amateur Baseball Federation, Nicholas Burns, Jim Small, Peter Angelos, Panos Mitsiopoulos, Chuck Samiotes, Bill Galatis, Chris Karalekas, Jim Rice Field, Ramsay Park.
+3. **Dick Bresciani papers or Red Sox public-relations archive** — he was a long-serving club PR/public-affairs executive during this period and may have preserved correspondence or press material.
+4. **MLB International / RBI files** — records distinguishing league-level equipment/coaching from club-specific contributions and potentially linking the Boston and Greece development networks.
+5. **U.S. Embassy Athens correspondence** — requests sent to or received from the Red Sox and any references to Samiotes/Galatis contacts.
+6. **Bill Galatis papers/interview** — especially whether his 2018 Gordon Edes route had any antecedent in the Olympic-baseball effort.
+7. **Boston Globe / Boston Herald archives, 1999–2001** — local coverage may have named Red Sox personnel involved.
+8. **Friends of Greek Baseball records** — board lists, donors, correspondence, equipment inventories.
+9. **Baseball Acropolis photo negatives/captions** — identify the “Boston businessmen” and date the Burns/Karalekas photograph.
 
-## 9. Manuscript rule
+## 10. Manuscript rule
 
 Until those records appear, use language at the correct level:
 
@@ -181,8 +255,12 @@ Until those records appear, use language at the correct level:
 
 **Safe:** “MLB International supplied development expertise; a later Greek baseball history credits it with a 1999 equipment shipment and a resident coach in 2001.”
 
-**Safe:** “Boston-area Greek-American Red Sox fans such as Bill Galatis and Chuck Samiotis performed documented grassroots work in Greece.”
+**Safe:** “Boston-area Greek-American Red Sox fans such as Bill Galatis and Chuck Samiotes performed documented grassroots work in Greece.”
+
+**Safe research inference:** “Samiotes's firm says it was working with MLB and the Red Sox on a Boston youth-baseball project in 1999, making him a plausible human bridge worth testing in the archives.”
+
+**Unsafe:** “Samiotes brought the Red Sox into Burns's Greek project.”
 
 **Unsafe:** “Burns persuaded the Red Sox to send equipment and coaches to Greece.”
 
-The last sentence may eventually prove true. The current public record does not prove it.
+Those stronger claims may eventually prove true. The current public record does not prove them.
