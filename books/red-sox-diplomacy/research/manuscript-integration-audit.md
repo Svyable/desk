@@ -6,27 +6,44 @@ The first-pass documentary narrative is complete: front matter, prologue, Chapte
 
 The book remains **Drafting**. A complete first pass is not the same thing as a publication-ready manuscript.
 
-Rights files now exist at the book root under the `bookself-arr-v1` All Rights Reserved profile.
+Rights files exist at the book root under the `bookself-arr-v1` All Rights Reserved profile.
 
 PR #1786 remains intentionally draft. Do not mark it ready, merge it, or publish the book until the integration gates below are complete and a human explicitly directs that transition.
+
+## Work completed in the first integration pass
+
+- Rebuilt `research/source-ledger.csv` from the old canonical ledger plus addenda 02–15.
+- Canonical ledger now contains 185 unique URLs with sequential canonical IDs `rsd-001` through `rsd-185` and the exact validator schema.
+- Resolved duplicate URLs and historical row-ID collisions rather than treating them as separate sources.
+- Preserved old addenda as research history; they are no longer authoritative for canonical IDs.
+- Added `source-ledger-addendum-16.csv` for post-addendum India, Iran, and 2025–26 closing-stage sources, IDs `rsd-186` through `rsd-205`.
+- Refreshed `chapter-source-map.md` against the complete manuscript.
+- Added `continuity-pass-01.md` and applied its three highest-value closing edits: a shorter epilogue, a compressed repeated Beijing-crisis section in Chapter 20, and a more distinct representation-focused China passage in Chapter 21.
 
 ## Integration gates
 
 ### 1. Canonical source ledger
 
-`research/source-ledger.csv` is the validator-facing canonical ledger. Research accumulated faster than the canonical file and now extends through `source-ledger-addendum-15.csv`.
+`research/source-ledger.csv` is the validator-facing canonical ledger.
 
-Required normalization:
+Current canonical state: normalized through historical addendum 15, 185 unique source URLs.
 
-- merge all legitimate addendum rows into the canonical ledger;
+Current staging state: `source-ledger-addendum-16.csv` adds 20 unique research rows for:
+
+- 2025 Harvard post-Beijing reflection;
+- September 2026 Burns Iraq retrospective;
+- U.S.-India 123 Agreement primary records and Evan Feigenbaum oral history;
+- Iran 2006 U.S. policy shift, Burns testimony, Iranian/UN records, EU institutional material, an independent nonproliferation source, and an IAEA technical record.
+
+Before validator/integration work:
+
+- merge addendum 16 into canonical after one duplicate-URL check;
 - retain exact schema `id,year,author_or_institution,title,source_type,book_use,url`;
-- deduplicate by URL rather than merely by row ID;
-- resolve ID collisions without silently discarding a source;
-- remove duplicate Marcus/U.S. News scan references where the same URL appears under multiple IDs;
+- continue deduplicating by URL rather than merely by row ID;
 - keep research hypotheses clearly identifiable by source type/use rather than upgrading them into evidence;
-- validate URLs syntactically and remove tracking parameters where a stable canonical URL exists.
+- remove tracking parameters where a stable canonical URL exists.
 
-Do not overwrite the canonical ledger until a complete reconstruction can be made safely from the canonical file plus every addendum.
+Old addenda may remain as provenance/history unless they create tooling confusion. Their row IDs should not be treated as canonical after normalization.
 
 ### 2. Chapter-source map
 
@@ -40,6 +57,7 @@ Before publication, exact language derived from PDFs, scans or oral-history PDFs
 - Douglas Keene / Jerusalem witness wording;
 - David L. Marcus, “America’s Salesman” scan;
 - Indian MEA documentary volumes;
+- IAEA `GOV/2006/15` if any exact language is used;
 - NATO/archival PDFs where exact procedural quotations are retained.
 
 If a clean primary text cannot be secured, paraphrase rather than preserve an uncertain quotation.
@@ -59,21 +77,27 @@ The manuscript may use contextual baseball history, but it must continue to labe
 
 ### 5. High-value remaining source work
 
-- India: read Shivshankar Menon’s *Choices* directly; obtain strongest Shyam Saran and Ronen Sen first-person material; add a serious nonproliferation-critical source.
-- Iran: direct-source check of U.S., EU/EU3, Iranian, IAEA and UNSC chronology; retain distinctions among enrichment, safeguards noncompliance, possible weaponization work and a nuclear weapon.
+- India: read Shivshankar Menon’s *Choices* directly; obtain strongest Shyam Saran and Ronen Sen first-person material; add a serious nonproliferation-critical source specific to the U.S.-India exception.
+- Iran: the new addendum substantially improves the U.S./UN/Iran/EU record, but still perform a publication-stage direct-source check of the full chronology and preserve distinctions among enrichment, safeguards noncompliance, possible weaponization work and a nuclear weapon.
 - Beijing: preserve a stable official copy of the 2024 Red Sox social post; verify contested public-diplomacy allegations against both U.S. and Chinese official records.
-- Chapter 22: preserve stable primary/transcript support for Burns’s September 2026 Iraq retrospective and precise sourcing for detained-American outcomes.
+- Chapter 22: the September 2026 PBS interview is now staged in addendum 16; still source detained-American count/details precisely.
 
 ### 6. Narrative continuity/depth pass
 
-The full manuscript now permits editing that was impossible chapter by chapter.
+`continuity-pass-01.md` completed the first closing-unit diagnosis.
 
-Audit for:
+Edits already applied:
 
-- repeated formulations of the same thesis, especially `human channel`, `representation`, `patience`, `communication is not trust`, and `person inside institution`;
+- epilogue shortened so Chapter 22 owns handoff/revisability;
+- Chapter 20 no longer re-narrates the Beijing crisis at Chapter 18 length;
+- Chapter 21 now treats the 2024 China programming dispute chiefly as evidence about representation/national image rather than repeating the channel-maintenance argument.
+
+Remaining manuscript-wide audit:
+
+- repeated formulations of `human channel`, `representation`, `patience`, and institutional inheritance;
 - chapters that summarize a policy problem instead of turning through a documented scene or decision;
 - baseball references that merely decorate rather than reveal character, social intelligence or the limits of analogy;
-- repeated sentence rhythms and presentation-style symmetry;
+- repeated `Not X. Y.` pivots, stacked noun lists, and `the distinction matters` transitions;
 - conclusions that explain the chapter after the chapter has already landed;
 - retrospective claims that make earlier outcomes look inevitable;
 - places where Burns is credited for an institutional result that belongs to a team, government, alliance or counterpart network.
@@ -95,9 +119,9 @@ Already present:
 
 Still assess before integration:
 
-- acknowledgments / note on sources if appropriate;
-- selected bibliography or source note if the Desk/Shelf book format calls for it;
-- any author note required to explain the documentary method and the two-Burns-books experiment.
+- a concise note on sources/documentary method may be useful because the book intentionally refuses invented scenes and preserves archival gaps;
+- a selected bibliography/source note only if it improves reader use beyond the research ledger;
+- a short author note about the deliberately different relationship between *Red Sox Diplomacy* and *The Long Table* only if it belongs in the reader-facing edition.
 
 Do not add ceremonial back matter merely to make the package look conventional.
 
