@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" role="img" aria-labelledby="title desc">
+  <title id="title">Opposing NATO premises in the 2003 Turkey-defense dispute</title>
+  <desc id="desc">A paired documentary object presenting the French and American interpretations of NATO defensive planning for Turkey without treating either position as bad faith.</desc>
+  <defs><linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f5f0e6"/><stop offset="1" stop-color="#e8dfd0"/></linearGradient></defs>
+  <rect width="1400" height="900" fill="#101722"/>
+  <rect x="56" y="48" width="1288" height="804" rx="8" fill="url(#paper)"/>
+  <text x="104" y="108" font-family="Georgia, 'Times New Roman', serif" font-size="25" letter-spacing="5" fill="#6c6258">OPPOSING PREMISES 01 · TURKEY / IRAQ / NATO</text>
+  <line x1="104" y1="138" x2="1296" y2="138" stroke="#bd3039" stroke-width="3"/>
+  <text x="104" y="198" font-family="Georgia, 'Times New Roman', serif" font-size="42" fill="#171411">The same defensive plan carried two political meanings.</text>
+
+  <g transform="translate(104 286)">
+    <rect x="0" y="0" width="560" height="390" rx="8" fill="#efe7da" stroke="#cbbfaf"/>
+    <text x="30" y="47" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2.3" fill="#0c2340">FRANCE · BENOÎT D'ABOVILLE</text>
+    <text x="30" y="105" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#211c18">Planning too early could make war</text>
+    <text x="30" y="142" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#211c18">the alliance's working assumption</text>
+    <text x="30" y="179" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#211c18">while diplomacy and inspections continued.</text>
+    <line x1="30" y1="218" x2="530" y2="218" stroke="#c9bdad"/>
+    <text x="30" y="260" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2" fill="#7a6855">NOT THE CLAIM</text>
+    <text x="30" y="298" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#514940">France did not claim Turkey had ceased</text>
+    <text x="30" y="328" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#514940">to be an ally or that it would never be defended.</text>
+    <text x="30" y="364" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#71675d">Direct French witness preserved by PBS Frontline.</text>
+  </g>
+
+  <g transform="translate(736 286)">
+    <rect x="0" y="0" width="560" height="390" rx="8" fill="#0c2340"/>
+    <text x="30" y="47" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2.3" fill="#f3eee3">UNITED STATES · NICHOLAS BURNS</text>
+    <text x="30" y="105" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#f3eee3">A collective-defense alliance had to</text>
+    <text x="30" y="142" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#f3eee3">prepare to protect an ally before</text>
+    <text x="30" y="179" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#f3eee3">a crisis made preparation too late.</text>
+    <line x1="30" y1="218" x2="530" y2="218" stroke="#5b6c82"/>
+    <text x="30" y="260" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2" fill="#f3eee3">NOT THE CLAIM</text>
+    <text x="30" y="298" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#d8dde4">Defensive planning did not itself make</text>
+    <text x="30" y="328" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#d8dde4">NATO the alliance conducting the Iraq war.</text>
+    <text x="30" y="364" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#bdc7d1">Burns appears in the same Frontline record.</text>
+  </g>
+
+  <rect x="104" y="726" width="1192" height="70" rx="5" fill="#ece3d5" stroke="#cbbfaf"/>
+  <text x="132" y="757" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="2" fill="#bd3039">THE ACTUAL DISPUTE</text>
+  <text x="132" y="784" font-family="Georgia, 'Times New Roman', serif" font-size="19" font-style="italic" fill="#4b433b">Not whether Turkey was an ally, but when defensive preparation should begin—and what beginning it would signal about the road to war.</text>
+  <text x="1296" y="834" text-anchor="end" font-family="'Courier New', monospace" font-size="16" fill="#82776c">RSD / CH13 / 2003-02 / P01</text>
+</svg>
