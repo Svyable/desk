@@ -104,6 +104,10 @@ Who had the power to mean it?
 
 Who can be held to it tomorrow?
 
+![AUTHORIZED INTENT 01 — abundant communication narrows to authenticity, authorization, intended weight and accountability.](../media/ch20-authorized-intent.svg)
+
+*AUTHORIZED INTENT 01 — Editorial synthesis from recurring problems across Burns's career. Modern systems can make language, retrieval and analysis abundant; institutions still have to answer whether a message is authentic, whether the speaker is authorized, what political weight the words carry and who can own or correct them tomorrow. This is not a Burns-authored doctrine. [Source map.](../research/ch20-visual-archive.md)*
+
 Beijing supplied the late-career stress test. Important U.S.-China channels were disrupted after major crises even while American and Chinese forces continued operating near one another. Burns later described the danger in practical terms: an accident at sea or in the air could force two capitals to interpret intent under pressure precisely when senior communication was weakest.
 
 The point is not to retell those crises.
@@ -119,6 +123,10 @@ Technology complicates the problem because speed compresses the time available f
 Burns's last year in China produced one narrow example with unusually high stakes.
 
 At their November 2024 meeting in Lima, President Joe Biden and President Xi Jinping affirmed the need to maintain human control over decisions to use nuclear weapons.
+
+![HUMAN CONTROL 01 — the November 2024 Biden-Xi principle on nuclear-use decisions.](../media/ch20-human-control.svg)
+
+*HUMAN CONTROL 01 — Lima, November 16, 2024. U.S. and Chinese official records both preserve the principle that the decision to use nuclear weapons should remain under human control, alongside a call for prudence around military AI. The statement is a starting principle, not an arms-control or AI-governance regime. [Chinese Foreign Ministry readout.](https://www.mfa.gov.cn/eng/xw/zyxw/202412/t20241217_11495877.html) [U.S. readout archive.](https://www.presidency.ucsb.edu/documents/readout-president-joe-bidens-meeting-with-president-xi-jinping-the-peoples-republic-1)*
 
 The statement did not settle the military competition between the countries. It did not resolve questions about artificial intelligence, autonomous systems, cyber operations, command-and-control vulnerability or escalation in space. Burns later described it as a beginning rather than an answer.
 
