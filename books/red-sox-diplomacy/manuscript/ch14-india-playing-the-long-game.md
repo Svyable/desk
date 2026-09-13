@@ -26,7 +26,15 @@ Not waiting.
 
 Surviving jurisdiction.
 
+[![Documentary sequence showing the U.S.-India civil nuclear initiative moving through leaders, separation planning, U.S. law, bilateral negotiation, Indian domestic politics, IAEA safeguards, NSG consensus and Congress](../media/ch14-gate-sequence.svg)](../research/ch14-visual-archive.md)
+
+*GATE SEQUENCE 01 — U.S.–India civil nuclear initiative, 2005–2008. The finish line moved because authority moved: leaders made the wager, negotiators built text, legislatures constrained it, Indian coalition politics could stall it, international institutions could withhold consent, and Congress still had to approve the result. “Long game” here means surviving successive jurisdictions, not merely waiting longer. [Source map.](../research/ch14-visual-archive.md)*
+
 George W. Bush and Manmohan Singh made the original wager in Washington in July 2005. The United States would work to end India's exclusion from international civilian nuclear commerce. India would separate its civilian and military nuclear facilities, place the civilian side under international safeguards and undertake a set of nonproliferation commitments.
+
+![President George W. Bush and Prime Minister Manmohan Singh shake hands in the Oval Office on July 18, 2005](https://georgewbush-whitehouse.archives.gov/news/releases/2005/07/images/20050718-1_d-0262-515h.jpg)
+
+*FIG. 06 — President George W. Bush and Prime Minister Manmohan Singh, Oval Office, July 18, 2005. Eric Draper / White House. Public-domain federal photograph. The image records the leaders' political wager on the day of their joint statement; it does not imply the separation plan, U.S. law, 123 Agreement, safeguards, NSG exception or later congressional approval had already been solved. [White House archive.](https://georgewbush-whitehouse.archives.gov/news/releases/2005/07/images/20050718-1_d-0262-515h.html) [Joint statement.](https://georgewbush-whitehouse.archives.gov/news/releases/2005/07/20050718-6.html)*
 
 The bargain was strategically ambitious because it violated the habits of the previous three decades.
 
@@ -223,6 +231,10 @@ The United States and India had to persuade them.
 The IAEA process moved forward. The Nuclear Suppliers Group eventually reached consensus. Congress approved the agreement. On October 10, 2008, Condoleezza Rice and Pranab Mukherjee signed the U.S.-India civilian nuclear cooperation agreement in Washington.
 
 Nicholas Burns was not the serving Under Secretary standing at the end of the process.
+
+[![Documentary handoff showing the bilateral 123 Agreement phase under Nicholas Burns and Indian counterparts, followed by the wider multilateral and legislative completion after he left office](../media/ch14-handoff-ledger.svg)](../research/ch14-visual-archive.md)
+
+*HANDOFF LEDGER 01 — 2005–2008. Nicholas Burns was a central American negotiator in the bilateral construction of the 123 Agreement, working first with Shyam Saran and then Shivshankar Menon inside a much wider hierarchy. The later IAEA, NSG, congressional and signature phases were carried by successor officials, the Indian government and broader coalitions. Central is not the same as sovereign. [Source map.](../research/ch14-visual-archive.md)*
 
 That is why the story belongs in this book.
 
