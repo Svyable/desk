@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" role="img" aria-labelledby="title desc">
+  <title id="title">Briefing-room baseball recurrence ledger, 1996–1997</title>
+  <desc id="desc">A chronological ledger showing repeated baseball exchanges in Nicholas Burns's State Department briefings, distinguishing Burns-initiated moments, reporter callbacks, and farewell artifacts.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f4efe5"/>
+      <stop offset="1" stop-color="#e8dfd1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="900" fill="#101722"/>
+  <rect x="56" y="48" width="1288" height="804" rx="8" fill="url(#paper)"/>
+  <text x="104" y="108" font-family="Georgia, 'Times New Roman', serif" font-size="25" letter-spacing="5" fill="#6c6258">RECURRENCE LEDGER 01 · DEAN ACHESON BRIEFING ROOM</text>
+  <line x1="104" y1="138" x2="1296" y2="138" stroke="#bd3039" stroke-width="3"/>
+  <text x="104" y="196" font-family="Georgia, 'Times New Roman', serif" font-size="42" fill="#171411">The bit was not launched. It accumulated.</text>
+  <text x="104" y="235" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#62594f">Selected documented baseball moments · December 1996–October 1997</text>
+
+  <line x1="215" y1="308" x2="215" y2="754" stroke="#0c2340" stroke-width="2" opacity="0.55"/>
+
+  <g font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#514940">
+    <circle cx="215" cy="322" r="8" fill="#bd3039"/><text x="250" y="328"><tspan font-weight="700">DEC 1996</tspan> · Clemens leaves Boston; Burns makes the “traitor” joke.</text>
+    <circle cx="215" cy="363" r="8" fill="#bd3039"/><text x="250" y="369"><tspan font-weight="700">14 FEB</tspan> · Wellesley visitor, spring prediction, Clemens grievance.</text>
+    <circle cx="215" cy="404" r="8" fill="#bd3039"/><text x="250" y="410"><tspan font-weight="700">07 MAR</tspan> · Red Sox / Tigers / Yankees “rules” stated from the podium.</text>
+    <circle cx="215" cy="445" r="8" fill="#bd3039"/><text x="250" y="451"><tspan font-weight="700">02–03 APR</tspan> · Cyprus, Opening Day, Albright first pitch, Clemens again.</text>
+    <rect x="207" y="477" width="16" height="16" fill="#0c2340"/><text x="250" y="491"><tspan font-weight="700">25 APR</tspan> · Reporter throws Burns's own “treason” joke back at him.</text>
+    <circle cx="215" cy="527" r="8" fill="#bd3039"/><text x="250" y="533"><tspan font-weight="700">13 MAY</tspan> · Fenway talk becomes, in Burns's phrase, “the baseball briefing.”</text>
+    <circle cx="215" cy="568" r="8" fill="#bd3039"/><text x="250" y="574"><tspan font-weight="700">04 JUN</tspan> · Clemens prompt; Boston bitterness; novenas; Canada boundary.</text>
+    <rect x="207" y="600" width="16" height="16" fill="#0c2340"/><text x="250" y="614"><tspan font-weight="700">16 JUN</tspan> · Reporter asks; family Red Sox inheritance surfaces.</text>
+    <circle cx="215" cy="650" r="8" fill="#bd3039"/><text x="250" y="656"><tspan font-weight="700">08 JUL</tspan> · Maine intern confesses Yankees loyalty; mock admission violation.</text>
+    <path d="M215 684 l10 18 h-20 z" fill="#7a6855"/><text x="250" y="700"><tspan font-weight="700">22 JUL</tspan> · Farewell gifts encode the persona: cap, alarm clock, ouzo.</text>
+    <path d="M215 725 l10 18 h-20 z" fill="#7a6855"/><text x="250" y="741"><tspan font-weight="700">OCT</tspan> · Clemens-signed Toronto photo returns the joke from baseball itself.</text>
+  </g>
+
+  <g transform="translate(860 300)">
+    <rect x="0" y="0" width="380" height="188" rx="5" fill="#efe7da" stroke="#cfc3b3"/>
+    <text x="28" y="42" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="2.4" fill="#0c2340">READ THE MARKS</text>
+    <circle cx="36" cy="83" r="8" fill="#bd3039"/><text x="62" y="90" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#514940">Burns initiates / extends</text>
+    <rect x="28" y="112" width="16" height="16" fill="#0c2340"/><text x="62" y="126" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#514940">Reporter activates memory</text>
+    <path d="M36 148 l10 18 h-20 z" fill="#7a6855"/><text x="62" y="163" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#514940">Room / outside world returns it</text>
+  </g>
+
+  <line x1="104" y1="794" x2="1296" y2="794" stroke="#b9ad9e"/>
+  <text x="104" y="827" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#6c6258">Selected entries, not a complete count. Each event is source-linked in the Chapter 8 visual archive.</text>
+  <text x="1296" y="827" text-anchor="end" font-family="'Courier New', monospace" font-size="16" fill="#82776c">RSD / CH08 / 1996–1997 / R01</text>
+</svg>
