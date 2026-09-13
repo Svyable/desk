@@ -78,7 +78,19 @@ The word is funny because it is too large.
 
 That is why it works.
 
-Redemption converts a baseball championship into mock theology while acknowledging that generations of supporters had already behaved as though something larger than a season was at stake. Burns was not claiming salvation. He was making fun of the emotional scale of the fandom from inside it.
+Redemption converts a baseball championship into mock theology while acknowledging that generations of supporters had already behaved as though something larger than a season was at stake. Burns placed the joke inside what he called a Calvinist New England tradition. He was not claiming salvation. He was making fun of the emotional scale of the fandom from inside it.
+
+A year later, at Northeastern's commencement in Boston, he made the meaning more precise.
+
+New Englanders, Burns said, had been delivered from a belief “embedded deep in our regional DNA”: the Red Sox must always lose. Then he named the thing that had broken the belief—the “glorious autumn of 2004.”
+
+Again, the language is deliberately oversized. Regional DNA is not biology. It is Burns's comic description of an expectation that had become hereditary: disappointment handed down long enough to feel like destiny.
+
+The championship did something specific to that inheritance.
+
+It disproved the destiny.
+
+That is different from erasing the memory.
 
 The significant thing is not that the diplomat used a baseball joke.
 
@@ -96,9 +108,17 @@ Speaking in Chicago in 2012, after Boston had won the World Series in both 2004 
 
 The suffering had survived the winning.
 
-Not as a prediction. Not as a claim that championships did not matter. As memory.
+Not as destiny. Not as a claim that championships did not matter. As memory.
 
-The old losses had become part of the community's account of itself. Winning changed the record without requiring the fans to abandon the identity they had built while losing.
+The sequence in Burns's own language is unusually clean.
+
+Redemption in 2005.
+
+Deliverance from inevitable losing in 2006.
+
+Identification with remembered suffering in 2012.
+
+The old losses had become part of the community's account of itself. Winning changed the record and the forecast without requiring the fans to abandon the identity they had built while losing.
 
 This is where sports identities are stranger than political identities. They can survive the destruction of their organizing grievance.
 
@@ -171,5 +191,9 @@ We know what happened to the Red Sox on October 27, 2004.
 We know what Burns later called it.
 
 Redemption.
+
+We know what he said it broke.
+
+The belief that they must always lose.
 
 The room remains his.
