@@ -18,6 +18,10 @@ That was the interesting part.
 
 Harvard appointed Burns Professor of the Practice of Diplomacy and International Politics after his retirement from the Foreign Service. The title contained the experiment. He was not being asked to stop being a practitioner. He was being asked to make practice teachable.
 
+![ROLE SHIFT 01 — delegated authority becomes examinable practitioner experience.](../media/ch17-role-shift.svg)
+
+*ROLE SHIFT 01 — Inside government, Burns's words could carry delegated state authority; at Harvard, experience supplied evidence and credibility but not the final interpretation. In a 2011 Kennedy School interview, Burns argued that practitioners could show students directly how governments succeed and fail. [Harvard Kennedy School, “Practice Makes Perfect.”](https://www.hks.harvard.edu/sites/default/files/magazine/archives/autumn_2011.pdf)*
+
 A few years later, Burns explained what he thought professors of practice could contribute. People who had spent most of their careers in public service, he argued, had seen directly how governments succeed and fail.
 
 The important word was not *succeed*.
@@ -53,6 +57,10 @@ The value was not that former secretaries possessed the final word.
 They possessed a word.
 
 Students could hear how powerful officials reconstructed decisions after the fact. They could compare those reconstructions with documents, scholarship, other participants and consequences. Memory itself became evidence rather than verdict.
+
+![TEACHING ARCHIVE 01 — practitioner memory enters a structure built for comparison.](../media/ch17-teaching-archive.svg)
+
+*TEACHING ARCHIVE 01 — Harvard's American Secretaries of State Project preserved extended interviews with former secretaries and used them in teaching on diplomacy and negotiation. The documentary value comes from comparison: memory against records, other witnesses, scholarship and consequences. [HKS diplomacy-program overview.](https://www.hks.harvard.edu/more/hks-magazine/research-footprint-diplomacy-programs-hks) [Negotiation and Diplomacy course.](https://www.hks.harvard.edu/courses/negotiation-and-diplomacy)*
 
 That is a subtle transformation for someone who had spent much of his adult life inside hierarchy.
 
