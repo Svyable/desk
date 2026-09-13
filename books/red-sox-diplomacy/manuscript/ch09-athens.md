@@ -14,6 +14,10 @@ This was not landscaping as foreign policy. It was landscaping as representation
 
 There is a difference.
 
+[![Documentary object showing the physical renewal of the U.S. Embassy Athens chancery and the limits of what that renewal can prove](../media/ch09-restoration-object.svg)](https://1997-2001.state.gov/publications/statemag/statemag_jul2000/feature5.html)
+
+*RESTORATION OBJECT 01 — Athens chancery, 1998–2000. The contemporaneous State Department record documents cleaned marble, revived fountains, plumbing, tile and lighting work, new landscaping, and the Marshall statue/history-exhibit projects. The object separates those physical interventions from outcomes they cannot prove: political consent, erased memory, reduced security needs, or agreement with U.S. policy. [Primary source.](https://1997-2001.state.gov/publications/statemag/statemag_jul2000/feature5.html)*
+
 Burns had spent the previous two and a half years standing behind a State Department lectern, where representation was mostly verbal. The seal was fixed to the podium. The American flag stood nearby. Reporters supplied the friction. His task was to make policy intelligible without changing it in the act of explanation.
 
 Athens enlarged the instrument.
@@ -25,6 +29,10 @@ The ambassador could not control all of these things. He was nevertheless respon
 That responsibility was unusually complicated in Greece.
 
 The bilateral relationship carried more historical memory than its formal alliance suggested. The United States and Greece were NATO allies. The United States had played a major role in Greece's postwar recovery. Greek Americans formed one of the strongest human bridges between the countries. Yet American power also arrived in Greek political memory through the civil war, the junta years, Cyprus, rivalry with Turkey, and a long habit of suspecting Washington of managing Greek affairs from above.
+
+![U.S. Embassy Athens chancery showing demonstration damage after 1975 riots](https://commons.wikimedia.org/wiki/Special:Redirect/file/Athens_-_Chancery_Office_Building_-_1975_-_DPLA_-_8fb298c265bf14eb903b3e1a800b527e.jpg)
+
+*FIG. 05 — U.S. Embassy Athens chancery, 1975. U.S. National Archives, series “Photographs Related to Embassies, Consulates, and Other Overseas Buildings.” The finding aid identifies “Demonstration Damage Following Riots.” This predates Burns's arrival by twenty-two years and is not evidence of the physical condition he inherited; it shows that the same chancery had long functioned as a public political object. Public-domain federal archive route; vendor and re-verify exact NARA metadata before release. [Archive record.](https://nara.getarchive.net/topics/athens/history%2Bof%2Bathens%2Bgreece)*
 
 Burns did not arrive with a blank sheet of paper. No ambassador does.
 
@@ -89,6 +97,10 @@ A State Department feature from the Athens period offers a quieter image. It sho
 The photograph does not tell us who decided what.
 
 It does tell us who was there.
+
+[![Documentary ledger separating embassy residence hosting, Libby Baylies-Burns's civic work, and her earlier preservation background from the ambassador's formal state authority](../media/ch09-household-ledger.svg)](../research/ch09-visual-archive.md)
+
+*HOUSEHOLD LEDGER 01 — Athens and earlier background. The ledger distinguishes Libby Baylies-Burns's federal preservation work, the couple's documented Gennadeion residence hosting, and her MDA Hellas role. Its bottom line is an authority boundary: shared diplomatic life did not give the ambassador's spouse authority to speak for U.S. policy, and her civic work remains her record rather than his. [Source map.](../research/ch09-visual-archive.md)*
 
 This is what public diplomacy often looks like when nobody is making a movie about it. Not one transformative speech. Repetition. Invitations. Explanations. People who already disagree showing up anyway.
 
