@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 920" role="img" aria-labelledby="title desc">
+  <title id="title">Shared representation ledger for the Burns-Baylies household in Athens</title>
+  <desc id="desc">A documentary ledger separating embassy residence hosting, Elizabeth Baylies-Burns's independent civic work, and her earlier preservation background from the ambassador's formal state authority.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f4efe5"/><stop offset="1" stop-color="#e8dfd1"/></linearGradient>
+  </defs>
+  <rect width="1400" height="920" fill="#161310"/>
+  <rect x="56" y="48" width="1288" height="824" rx="8" fill="url(#paper)"/>
+  <text x="104" y="108" font-family="Georgia, 'Times New Roman', serif" font-size="25" letter-spacing="5" fill="#6c6258">HOUSEHOLD LEDGER 01 · ATHENS</text>
+  <line x1="104" y1="138" x2="1296" y2="138" stroke="#bd3039" stroke-width="3"/>
+  <text x="104" y="198" font-family="Georgia, 'Times New Roman', serif" font-size="42" fill="#171411">The residence was also a representational space.</text>
+  <text x="104" y="238" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#62594f">Shared diplomatic life, distinct roles · 1981–2003 documentary sequence</text>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="104" y="300" width="1192" height="112" rx="6" fill="#efe7da" stroke="#cbbfaf"/>
+    <text x="132" y="338" font-size="18" font-weight="700" letter-spacing="2.2" fill="#0c2340">1981–82 · PRIOR PROFESSIONAL BACKGROUND</text>
+    <text x="132" y="374" font-size="20" fill="#463f38">Libby Baylies Burns is credited on federal historic-preservation work at West Point and Watertown Arsenal.</text>
+    <text x="132" y="400" font-size="16" fill="#70665c">Context, not causation: no source currently proves this work directed or caused the Athens embassy renovation.</text>
+
+    <rect x="104" y="436" width="1192" height="112" rx="6" fill="#efe7da" stroke="#cbbfaf"/>
+    <text x="132" y="474" font-size="18" font-weight="700" letter-spacing="2.2" fill="#bd3039">SEPTEMBER 1999 · EMBASSY RESIDENCE</text>
+    <text x="132" y="510" font-size="20" fill="#463f38">Nicholas Burns and Elizabeth Baylies-Burns co-host a Gennadeion fundraising dinner; about 50 guests attend.</text>
+    <text x="132" y="536" font-size="16" fill="#70665c">Contemporaneous institutional record reports $70,000 in pledges. The source attributes the welcome to Burns, not Libby.</text>
+
+    <rect x="104" y="572" width="1192" height="112" rx="6" fill="#efe7da" stroke="#cbbfaf"/>
+    <text x="132" y="610" font-size="18" font-weight="700" letter-spacing="2.2" fill="#0c2340">2000–02 · MDA HELLAS</text>
+    <text x="132" y="646" font-size="20" fill="#463f38">Later institutional reporting says MDA Hellas was established with Baylies-Burns's help; Greek reporting names her honorary president.</text>
+    <text x="132" y="672" font-size="16" fill="#70665c">In 2002 Kathimerini called her an instigator of the specialized neuromuscular-disease unit at Aghia Sophia Children's Hospital.</text>
+
+    <rect x="104" y="708" width="1192" height="86" rx="6" fill="#0c2340" opacity="0.94"/>
+    <text x="132" y="742" font-size="17" font-weight="700" letter-spacing="2.2" fill="#f3eee3">AUTHORITY BOUNDARY</text>
+    <text x="132" y="774" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-style="italic" fill="#f3eee3">Shared representation did not give the ambassador's spouse authority to speak for U.S. policy. Civic work remains her record, not his.</text>
+  </g>
+
+  <text x="104" y="838" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#6c6258">Sources: ASCSA Gennadeion records; Kathimerini; MDA Hellas retrospective; HABS/HAER and Library of Congress project records.</text>
+  <text x="1296" y="838" text-anchor="end" font-family="'Courier New', monospace" font-size="16" fill="#82776c">RSD / CH09 / HOUSEHOLD / H01</text>
+</svg>
