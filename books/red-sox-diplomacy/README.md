@@ -38,16 +38,19 @@ The Red Sox also provide a second historical clock. Burns’s life runs beside a
 - [x] [Ch 14 — India: Playing the Long Game](manuscript/ch14-india-playing-the-long-game.md)
 - [x] [Ch 15 — Iran: When Patience Does Not Win](manuscript/ch15-iran-when-patience-does-not-win.md)
 - [x] [Ch 16 — October 2004](manuscript/ch16-october-2004.md)
-- [x] [Ch 17 — The Professor in the Cheap Seats](manuscript/ch17-the-professor-in-the-cheap-seats.md)
+- [x] [Ch 17 — The Professor in the Cheap Seats](manuscript/ch17-professor-in-the-cheap-seats.md)
 - [x] [Ch 18 — Beijing](manuscript/ch18-beijing.md)
 - [x] [Ch 19 — Yankees, Rivals, Adversaries](manuscript/ch19-yankees-rivals-adversaries.md)
 - [x] [Ch 20 — The Human Channel](manuscript/ch20-the-human-channel.md)
 - [x] [Ch 21 — What America Looks Like From Away](manuscript/ch21-what-america-looks-like-from-away.md)
 - [x] [Ch 22 — Extra Innings](manuscript/ch22-extra-innings.md)
 - [x] [Epilogue — The Next Inning](manuscript/epilogue-the-next-inning.md)
+- [x] [Source Notes — Reader-facing documentary links](manuscript/source-notes.md)
 
 The architecture may expand when research reveals a distinct documented dramatic center. Chapter count is subordinate to the life.
 
 ## Evidentiary rule
 
 This is factual nonfiction with novelistic propulsion, not fictionalized biography. No invented dialogue, interior thought, composite characters, manufactured scenes, or invented baseball anecdotes. Baseball claims and biographical scenes must be supported by primary or credible near-primary sources.
+
+The reader-facing edition should make that evidence usable. When a source can be read online, prefer a direct hyperlink in the prose or in the chapter-keyed [Source Notes](manuscript/source-notes.md), rather than leaving the support visible only in the research ledger.
