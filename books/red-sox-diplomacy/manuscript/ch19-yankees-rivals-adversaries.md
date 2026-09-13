@@ -56,6 +56,10 @@ Then he turned immediately to the actual relationship in the room.
 
 He praised Stapleton for helping soothe and calm U.S.-French relations and for building a stronger connection with the French government and people.
 
+![REGISTER SWITCH 01 — a baseball joke gives way immediately to real alliance language in Paris.](../media/ch19-register-switch.svg)
+
+*REGISTER SWITCH 01 — Paris, June 12, 2007. Burns opens with the shared Red Sox allegiance he and Ambassador Craig Stapleton understood as social shorthand, invokes the Yankees as the joking “evil empire,” then immediately turns to U.S.–French repair, the Marshall Plan and transatlantic cooperation. The joke locates the diplomats; it does not explain the diplomacy. [State Department transcript.](https://2001-2009.state.gov/p/us/rm/2007/87176.htm)*
+
 The baseball line did not explain the diplomacy. It located the diplomats inside it.
 
 Two American officials could share a theatrical enemy because nobody mistook the Yankees for a strategic problem. The joke created a small piece of common identity before Burns moved into a speech about alliance history, European recovery, and transatlantic cooperation.
@@ -83,6 +87,10 @@ That is where the baseball analogy stops being cute and becomes clarifying.
 The Yankees joke works because the shared system is stronger than the hatred.
 
 Diplomacy cannot assume the same of states.
+
+![ANALOGY BREAK 01 — sports rivalry assumes a surviving shared system; sovereign competition cannot.](../media/ch19-analogy-break.svg)
+
+*ANALOGY BREAK 01 — Editorial synthesis. Red Sox–Yankees rivalry presupposes a shared league, rules, standings, outside game authorities and another season. States have law, treaties and institutions too, but enforcement is partial, power unequal and coercion or war remain possible. The analogy becomes useful at the point where it fails. [Source map.](../research/ch19-visual-archive.md)*
 
 Burns had seen the opposite error inside NATO.
 
