@@ -23,6 +23,8 @@ The China baseball photograph from Chapter 1 is deliberately not repeated. Chapt
 **Commons file:** `Spokesperson Price Holds the Department Press Briefing (51728591887).jpg`  
 **Narrative job:** This photograph documents the actual room and day of the opening exchange. Burns is absent from the frame, which is the point: twenty-four years after he left the podium, the room still recognized the Red Sox identity immediately.
 
+**Chronology guardrail:** Burns had not yet been confirmed on December 6. His nomination had cleared the Senate Foreign Relations Committee and was pending on the Senate floor. The Senate confirmed him on December 16, 2021, 75–18. Primary record: https://www.senate.gov/legislative/LIS/roll_call_votes/vote1171/vote_117_1_00503.htm
+
 ## TRANSCRIPT OBJECT 01 — “But he’s a Red Sox fan.”
 
 **Local media:** `../media/ch02-briefing-2021-red-sox.svg`  
