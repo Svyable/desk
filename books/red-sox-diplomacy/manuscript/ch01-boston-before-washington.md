@@ -118,6 +118,8 @@ That identity kept surfacing because it was real.
 
 [![Text facsimile of Ambassador Burns's October 22, 2024 post about a Beijing baseball clinic and future members of Red Sox Nation](../media/ch01-social-2024-baseball-clinic.svg)](https://x.com/USAmbChina/status/1848646673523728693)
 
+*SOCIAL OBJECT 01 — @USAmbChina, Beijing, October 22, 2024. Text facsimile of Burns’s public post after a youth baseball clinic: the social post is preserved as a document rather than reproduced as disposable platform chrome. [Original post.](https://x.com/USAmbChina/status/1848646673523728693)*
+
 The American diplomatic tradition has often struggled with how its representatives should present the country abroad. Too much ceremony and the ambassador can look imperial. Too much informality and the office loses weight. Too much patriotic performance and foreigners hear propaganda. Too much distance from home and the diplomat risks becoming the caricature of a cosmopolitan elite who understands every capital except his own.
 
 A baseball team solves none of these problems.
@@ -138,4 +140,4 @@ Boston came with him.
 
 [![Moving-image archive card for Ambassador Nicholas Burns's 2022 introductory video](../media/ch01-video-intro-2022.svg)](https://commons.wikimedia.org/wiki/File:Ambassador_Nicholas_Burns%E2%80%99_Introductory_Video.webm)
 
-*MOVING IMAGE 01 — Ambassador Nicholas Burns’s introductory video, U.S. Embassy & Consulates in China, April 29, 2022, 2:25. Public domain. The prose ends at home; the archive keeps moving.*
+*MOVING IMAGE 01 — Ambassador Nicholas Burns’s introductory video, U.S. Embassy & Consulates in China, April 29, 2022, 2:25. Public domain. In the Desk Reader, the card opens the film over the page without surrendering the reader’s place. The prose ends at home; the archive keeps moving.*

@@ -92,6 +92,82 @@ html[data-red-sox-diplomacy="true"] :is(.page-inner,.scroll-document) blockquote
 
 html[data-red-sox-diplomacy="true"] :is(.page-inner,.scroll-document) p:has(>a:only-child > img:only-child) a { display: block; }
 
+.rsd-media-dialog {
+  width: min(94vw, 1120px);
+  max-width: 1120px;
+  padding: 0;
+  border: 1px solid color-mix(in srgb,#fff 14%,#10151c);
+  border-radius: 4px;
+  background: #0b0f14;
+  color: #f4efe6;
+  box-shadow: 0 36px 110px rgba(0,0,0,.62);
+}
+
+.rsd-media-dialog::backdrop {
+  background: rgba(4,7,10,.82);
+  backdrop-filter: blur(12px) saturate(.72);
+}
+
+.rsd-media-shell { background: linear-gradient(145deg,#111923,#080b10 62%); }
+
+.rsd-media-header {
+  position: relative;
+  padding: 1.05rem 4rem .95rem 1.2rem;
+  border-bottom: 1px solid rgba(255,255,255,.11);
+}
+
+.rsd-media-eyebrow {
+  margin: 0 0 .35rem;
+  color: #d7656e;
+  font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+  font-size: .64rem;
+  font-weight: 700;
+  letter-spacing: .18em;
+}
+
+.rsd-media-header h2 {
+  margin: 0;
+  color: #f4efe6;
+  font-family: var(--font-display,Georgia,serif);
+  font-size: clamp(1.15rem,2.1vw,1.8rem);
+  font-weight: 500;
+  line-height: 1.1;
+}
+
+.rsd-media-close {
+  position: absolute;
+  top: .72rem;
+  right: .82rem;
+  width: 2.45rem;
+  height: 2.45rem;
+  border: 1px solid rgba(255,255,255,.16);
+  border-radius: 50%;
+  background: rgba(255,255,255,.04);
+  color: #f4efe6;
+  font: 300 1.55rem/1 ui-sans-serif,system-ui,sans-serif;
+  cursor: pointer;
+}
+
+.rsd-media-dialog video {
+  display: block;
+  width: 100%;
+  max-height: 70vh;
+  background: #000;
+}
+
+.rsd-media-label {
+  display: grid;
+  grid-template-columns: 1.15fr .85fr;
+  gap: 1.2rem;
+  padding: .9rem 1.2rem 1.05rem;
+  border-top: 1px solid rgba(255,255,255,.09);
+  color: rgba(244,239,230,.72);
+  font: .72rem/1.5 ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+}
+
+.rsd-media-label p { margin: 0; }
+.rsd-media-label p:last-child { color: rgba(244,239,230,.48); }
+
 @media (hover:hover) and (prefers-reduced-motion:no-preference) {
   html[data-red-sox-diplomacy="true"] :is(.page-inner,.scroll-document) p:has(>a:only-child > img:only-child) { transition: transform 180ms ease, box-shadow 180ms ease, border-color 180ms ease; }
   html[data-red-sox-diplomacy="true"] :is(.page-inner,.scroll-document) p:has(>a:only-child > img:only-child):hover {
@@ -108,6 +184,8 @@ html[data-red-sox-diplomacy="true"] :is(.page-inner,.scroll-document) p:has(>a:o
     padding: .45em;
     box-shadow: 0 10px 24px color-mix(in srgb,var(--shadow) 26%,transparent);
   }
+  .rsd-media-dialog { width: 96vw; max-height: 94dvh; }
+  .rsd-media-label { grid-template-columns: 1fr; gap: .55rem; }
 }
 
 @media print {
@@ -117,4 +195,5 @@ html[data-red-sox-diplomacy="true"] :is(.page-inner,.scroll-document) p:has(>a:o
     box-shadow: none;
     break-inside: avoid;
   }
+  .rsd-media-dialog { display: none; }
 }
