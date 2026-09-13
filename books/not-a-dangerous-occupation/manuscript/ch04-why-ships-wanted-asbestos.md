@@ -1,0 +1,17 @@
+# Why Ships Wanted Asbestos
+
+Asbestos was not forced into ships by ignorance alone. It solved real engineering problems.
+
+A steam-powered naval vessel was a dense arrangement of hot pipes, boilers, turbines, valves, machinery, ammunition, fuel, wiring, narrow passageways, and men. Heat that escaped a steam line was wasted energy and a hazard to anyone working nearby. Insulation had to tolerate temperature, vibration, moisture, cramped installation, and fire risk. Weight mattered. Volume mattered. Maintenance mattered. A material that combined thermal resistance with low mass and workable form had obvious value.
+
+The wartime survey itself explained part of the attraction. Amosite insulation was lighter than some competing materials and tolerated higher temperatures. On a ship, pounds accumulated into displacement. Saving insulation weight could create room for armor, ammunition, fuel, or machinery. The material therefore entered naval construction through the same logic that governs every engineered system: performance under constraint.
+
+That is important because hazardous technologies persist most stubbornly when they are useful. A history that treats asbestos as a bizarre mistake misses why substitution was slow. Engineers were not choosing between a dangerous white powder and an identical harmless product. They were balancing thermal performance, weight, supply, cost, installation speed, durability, fire resistance, and an incompletely quantified health risk during a war.
+
+Utility also shaped exposure. Insulation was not sealed once and forgotten. It was cut, sawed, fitted, mixed, removed, repaired, and replaced. A ship went through construction, shakedown, battle damage, overhaul, modernization, reserve, reactivation, and scrapping. Every intervention could disturb material installed years earlier. The useful life of the asbestos extended the exposure history beyond the moment of manufacture.
+
+The most dangerous assumption in retrospective accounts is that identifying a hazard automatically identifies the alternative. In 1944, a bureau could know that heavy asbestos dust caused disease and still believe the correct response was dust control rather than material abandonment. That position may look inadequate now. It was not logically incoherent then. Many industrial hazards were managed by ventilation, wet methods, masks, enclosure, housekeeping, or exposure limits rather than prohibition.
+
+The question becomes whether those controls matched the work that actually occurred. Shipboard pipe covering took place in spaces that could be hard to ventilate. Insulators worked beside other trades. Dust did not respect job classifications. A welder or machinist could inhale fibers without ever handling a block of insulation. A sailor could encounter aging material during maintenance. Work clothes could carry dust away from the yard.
+
+The engineering virtues of asbestos therefore created the geometry of the later epidemic. The material was dispersed through ships, embedded around systems that required repeated access, and installed by workers whose exposure could be intense even when their employment was temporary. A good insulator, in the thermal sense, became a remarkably efficient distributor of delayed risk.
