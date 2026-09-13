@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
-"""Regression guard for the Desk Reader portion of scripts/check-desk.py."""
+"""Regression guards for Desk Reader ownership and Bookself update boundaries."""
 
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-source = (ROOT / "scripts" / "check-desk.py").read_text(encoding="utf-8")
+check_source = (ROOT / "scripts" / "check-desk.py").read_text(encoding="utf-8")
+sync_source = (ROOT / "scripts" / "sync-bookself.sh").read_text(encoding="utf-8")
 
 required = (
     'check-reader-runtime-boundary.py',
@@ -12,7 +13,7 @@ required = (
     "const canonicalAppUrl = new URL('./app.js', import.meta.url).href;",
 )
 for marker in required:
-    assert marker in source, f"missing current Reader integrity marker: {marker}"
+    assert marker in check_source, f"missing current Reader integrity marker: {marker}"
 
 retired = (
     'Reader loader is missing DESK_CATALOG_AUDIT',
@@ -21,6 +22,13 @@ retired = (
     'rewriteSharedModuleSpecifiers(source, upstream)',
 )
 for marker in retired:
-    assert marker not in source, f"retired Reader integrity contract returned: {marker}"
+    assert marker not in check_source, f"retired Reader integrity contract returned: {marker}"
 
-print('check-desk.py enforces the local-sync Reader boundary without retired source rewriting')
+assert 'SYNC="$PLATFORM/scripts/sync-ui.py"' in sync_source
+assert 'exec python3 "$SYNC" --desk-safe "$ROOT"' in sync_source
+assert 'const SHELL = [' not in sync_source
+assert '.bookself-runtime-files' not in sync_source
+assert 'check-reader-runtime-boundary.py' not in sync_source
+assert len(sync_source.splitlines()) < 25, "Desk Bookself updater should remain a thin role adapter"
+
+print('Desk delegates framework synchronization to Bookself while retaining local Reader integrity checks')
