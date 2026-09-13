@@ -76,6 +76,16 @@ In October 2005, before briefing reporters on an upcoming trip to Brussels and t
 
 The joke was still recognizably Burns. The premise had changed.
 
+Years later, Burns supplied a better test of how much it had changed.
+
+Speaking in Chicago in 2012, after Boston had won the World Series in both 2004 and 2007, he talked about Theo Epstein leaving Boston for the Cubs and noted the two Red Sox championships. Then he said that the thing about Red Sox Nation was that “we identify with suffering.” The line was offered in sympathy with Cubs fans, but its usefulness here is narrower.
+
+The suffering had survived the winning.
+
+Not as a prediction. Not as a claim that championships did not matter. As memory.
+
+The old losses had become part of the community's account of itself. Winning changed the record without requiring the fans to abandon the identity they had built while losing.
+
 This is where sports identities are stranger than political identities. They can survive the destruction of their organizing grievance.
 
 For decades, Red Sox fandom had carried an argument with history. The Yankees supplied the antagonist. Fenway supplied continuity. Families supplied transmission.
