@@ -156,6 +156,10 @@ Ambassadors are supposed to explain America to foreign countries.
 
 They also spend their lives explaining foreign countries to America.
 
+![TWO-WAY REPRESENTATION 01 — the ambassador carries official America outward and host-country reality back inward.](../media/ch21-two-way-representation.svg)
+
+*TWO-WAY REPRESENTATION 01 — Editorial synthesis. Burns argued in 1997 for explaining American policy and ideas to publics and governments; after Beijing he described the ambassador as both a primary government-to-government communicator and a representative to the host country's people. The return arrow is the chapter's other half: reporting local realities back to Washington so national self-image can be corrected by contact with the world. [1997 public-diplomacy address.](https://1997-2001.state.gov/policy_remarks/970509.burns.html) [2025 Fairbank/Belfer lecture.](https://www.belfercenter.org/research-analysis/lessons-front-lines-us-china-relationship)*
+
 That second direction may be more important.
 
 The most dangerous failure in foreign policy is not that another government dislikes the United States. It is that the United States misunderstands the other government badly enough to act on a fantasy.
