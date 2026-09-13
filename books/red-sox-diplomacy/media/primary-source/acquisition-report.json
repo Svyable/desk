@@ -3,17 +3,19 @@
     "primary-media-acquisition-wave3.json",
     "primary-media-acquisition-wave4.json",
     "primary-media-acquisition-wave5.json",
+    "primary-media-acquisition-wave6.json",
     "primary-media-acquisition.json"
   ],
   "manifest_versions": {
     "primary-media-acquisition-wave3.json": 1,
     "primary-media-acquisition-wave4.json": 1,
     "primary-media-acquisition-wave5.json": 2,
+    "primary-media-acquisition-wave6.json": 1,
     "primary-media-acquisition.json": 2
   },
   "acquired_count": 1,
-  "reused_count": 23,
-  "available_count": 24,
+  "reused_count": 24,
+  "available_count": 25,
   "failed_count": 0,
   "available": [
     {
@@ -92,6 +94,19 @@
       "chapter": "7",
       "job": "archival State Magazine page preserving Department spokesman R. Nicholas Burns at the podium as the Foreign Service Day afternoon plenary speaker; page kept intact so caption and publication context remain visible",
       "manifest": "primary-media-acquisition-wave5.json",
+      "acquisition_status": "reused"
+    },
+    {
+      "dest": "books/red-sox-diplomacy/media/primary-source/ch09-state-magazine-athens-embassy-2000-page.jpg",
+      "bytes": 227660,
+      "sha256": "33bdc24f84d6e63ade9052ab455fcacbda986aadaa7442cba7a8d5afa5d275a2",
+      "archive_record": "https://commons.wikimedia.org/wiki/File:State_Magazine_July-August_1998-_Iss_437_(IA_sim_state-magazine_july-august-1998_437).pdf",
+      "rights": "public domain — U.S. Department of State federal work; Commons issue record marks the scan PD-USGov",
+      "maker": "U.S. Department of State, State Magazine",
+      "date": "July-August 2000",
+      "chapter": "9",
+      "job": "candidate full archival page from State Magazine No. 437 for the feature 'New Look Transforms U.S. Embassy, Athens'; verify scan-page offset and visible subjects before manuscript placement",
+      "manifest": "primary-media-acquisition-wave6.json",
       "acquisition_status": "acquired"
     },
     {
