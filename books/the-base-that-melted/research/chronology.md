@@ -1,0 +1,22 @@
+# Chronology
+
+- **1951** — United States and Denmark sign the Defense of Greenland Agreement; U.S. Arctic military presence expands.
+- **1959** — U.S. Army Corps of Engineers begins constructing Camp Century inside the northwestern Greenland Ice Sheet.
+- **1960–61** — Camp becomes operational; PM-2A portable nuclear plant is assembled/commissioned; under-ice construction and logistics experiments continue.
+- **1960–62** — Project Iceworm develops as an Army strategic concept for a large dispersed missile network under Greenland ice.
+- **1961–66** — Deep drilling program develops and tests equipment at Camp Century.
+- **1963** — Iceworm does not advance to deployment; strategic, engineering, organizational and political barriers converge. PM-2A period ends and reactor hardware is later removed.
+- **1964** — Year-round Camp Century operation ends; seasonal use continues.
+- **1966** — Deep core reaches bed after roughly 1,390 m of ice and recovers subglacial material.
+- **1967** — Camp Century abandoned with minimal decommissioning relative to modern standards; structures and wastes remain under ice.
+- **1969** — Dansgaard, Johnsen, Møller and Langway publish the Camp Century oxygen-isotope climate record in *Science*.
+- **1990s** — Declassified/historical work brings Project Iceworm into wider public view; Danish Cold War investigations examine Greenland nuclear policy and U.S. activity.
+- **2016-08-04** — Colgan et al. publish GRL paper arguing that under high-emissions climate forcing, the site's long-term burial regime could eventually shift and remobilize wastes.
+- **2017** — Denmark and Greenland establish/launch field work for the Camp Century Climate Monitoring Programme led by GEUS; automated stations, new core and extensive radar are deployed.
+- **2019** — Modern radar/debris-field work and archive rediscovery bring renewed attention to Camp Century's physical and scientific remains.
+- **2021-03** — Christ et al. publish basal-sediment evidence for ancient vegetation and past ice-free conditions in northwestern Greenland.
+- **2021-03-23** — Camp Century Climate Monitoring Programme announces updated modeling: debris is unlikely to emerge or be reached by surface meltwater before 2100 under studied scenarios.
+- **2024-04** — NASA UAVSAR flight unexpectedly images Camp Century structural features through the ice.
+- **2024-09-05** — Bierman et al. publish detailed scientific history and physical characterization of Camp Century subglacial material in *The Cryosphere*.
+- **2024-11-25** — NASA Earth Observatory publishes the new radar view of the buried camp.
+- **2026-09-13** — This manuscript source check freezes the current evidence posture: the site remains buried; current century-scale surface-melt interaction risk is low under published local models; long-term climate and stewardship questions remain open.
