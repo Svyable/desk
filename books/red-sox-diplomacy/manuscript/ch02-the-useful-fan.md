@@ -6,7 +6,7 @@ The Senate had confirmed him as ambassador to Beijing. At the State Department, 
 
 Then somebody interrupted.
 
-“But he’s a Red Sox fan.”
+> *“But he’s a Red Sox fan.”*
 
 The spokesman laughed.
 
@@ -15,6 +15,14 @@ Burns had not been State Department spokesman for twenty-four years.
 It did not matter.
 
 The room still knew.
+
+![State Department Spokesperson Ned Price at the December 6, 2021 Department Press Briefing](https://commons.wikimedia.org/wiki/Special:Redirect/file/Spokesperson_Price_Holds_the_Department_Press_Briefing_(51728591887).jpg)
+
+*FIG. 03 — Department Spokesperson Ned Price in the State Department briefing room, Washington, D.C., December 6, 2021. Freddie Everett / U.S. Department of State. Public domain. Burns is not in the photograph; that is the point. This is the room and the day on which a reporter could invoke his Red Sox identity twenty-four years after he left the podium. [Photo record.](https://www.flickr.com/photos/statephotos/51728591887/) [Primary transcript.](https://2021-2025.state.gov/briefings/department-press-briefing-december-6-2021/)*
+
+[![Transcript object preserving the December 6, 2021 Red Sox interruption](../media/ch02-briefing-2021-red-sox.svg)](https://2021-2025.state.gov/briefings/department-press-briefing-december-6-2021/)
+
+*TRANSCRIPT OBJECT 01 — The official State Department record preserves the interruption, laughter, and immediate return to the substance of Burns’s appointment. Federal government work. The joke survives because the room already knows the biography.*
 
 There are public officials whose personal details have to be reintroduced every time they take a new job. A hometown appears in the biography. A hobby arrives in the profile. A favorite team is supplied by staff because somebody has decided the person needs one recognizable thing.
 
@@ -66,7 +74,7 @@ Then somebody would ask about the Red Sox.
 
 The pressure dropped.
 
-Reporters learned the ritual quickly. They brought up Clemens. They tested visitors’ team loyalties. Burns asked foreign journalists whether they knew Fenway Park. On one occasion he announced, with the timing of a man who knew exactly what room he was standing in, that this had become the baseball briefing.
+Reporters learned the ritual quickly. They brought up Clemens. They tested visitors’ team loyalties. Burns asked foreign journalists whether they knew Fenway Park. On one occasion he announced, with the timing of a man who knew exactly what room he was standing in, that this had become the *“baseball briefing.”*
 
 Then he returned to foreign policy.
 
@@ -94,6 +102,10 @@ At NATO in Brussels, the Red Sox were no longer press-room punctuation. They had
 
 A reporter visiting Burns found an autographed photograph of Tony Conigliaro, a baseball signed by Ted Williams, and a bat signed by Nomar Garciaparra. The objects covered different Red Sox generations. They were not the decoration of somebody following only that week’s standings. They looked more like a portable archive.
 
+![U.S. Ambassador to NATO Nicholas Burns with Secretary of Defense Donald Rumsfeld and General Peter Pace at NATO headquarters in Brussels](https://commons.wikimedia.org/wiki/Special:Redirect/file/Defense.gov_News_Photo_031202-F-2828D-413.jpg)
+
+*FIG. 04 — U.S. Ambassador to NATO R. Nicholas Burns, left, with Secretary of Defense Donald Rumsfeld and Gen. Peter Pace during a press conference at NATO headquarters, Brussels, December 2, 2003. Tech. Sgt. Andy Dunaway / U.S. Air Force. Public domain. The photograph documents Burns inside the NATO institution; it is not a photograph of the Red Sox objects in his office or of the October game. [Archive record.](https://commons.wikimedia.org/wiki/File:Defense.gov_News_Photo_031202-F-2828D-413.jpg)*
+
 Then came October 2003.
 
 Burns was the U.S. ambassador to NATO. The alliance was living through arguments over Iraq, Afghanistan, Europe’s relationship with the United States, and the meaning of NATO after September 11. The work was not light.
@@ -114,13 +126,17 @@ The archive gives us the clock.
 
 That is enough.
 
+[![Archival time object for Nicholas Burns's remembered 6:16 a.m. end of the 2003 ALCS Game 7](../media/ch02-time-0616.svg)](https://www.espn.co.uk/espn/magazine/archives/news/story?page=magazine-20040119-article32)
+
+*TIME OBJECT 01 — Brussels, October 2003. ESPN’s profile records Burns saying he watched Game 7 on Armed Forces television and could supply the exact minute on his clock: 6:16 a.m. The object makes the asymmetry visible: the time is documented; the room, reaction, company, and dialogue are not. [Source.](https://www.espn.co.uk/espn/magazine/archives/news/story?page=magazine-20040119-article32)*
+
 A year later, Boston won.
 
 The record becomes strangely less intimate.
 
 We know the baseball sequence exactly: the 0–3 hole against the Yankees, the Dave Roberts steal, David Ortiz, Curt Schilling, the comeback no Major League team had completed before, then four straight wins over St. Louis. We know Burns was serving at NATO. We know that months later he used his own word for what New England had experienced.
 
-Redemption.
+*Redemption.*
 
 What we do not know is where he watched the last out.
 
@@ -182,6 +198,10 @@ The fan opens a door.
 
 Other people walk through it carrying equipment.
 
+[![Documentary network object showing the separate actors in the Greece baseball project](../media/ch02-greece-baseball-network.svg)](https://www.csmonitor.com/2004/0818/p02s01-woeu.html)
+
+*NETWORK OBJECT 01 — Greece baseball, 1999–2004. The diagram separates Greek organizers, Burns and the U.S. Embassy, Senator Paul Sarbanes, Peter Angelos and the Orioles, MLB International, coaches and players, and the Boston Red Sox club. An arrow indicates a documented connection or flow of assistance, not sole causation. The exact Red Sox club contribution remains unresolved. [Research map.](../research/ch02-visual-archive.md)*
+
 By 2007, there was no longer any plausible argument that the Red Sox identity was a youthful press-office affectation.
 
 Burns could discuss Boston’s rotation, bullpen, West Coast schedule, the previous season’s collapse, and the importance of pitching in the postseason in an official State Department interview. He predicted the Red Sox would win the World Series.
@@ -196,7 +216,7 @@ Winning had changed the team’s history.
 
 It had not ended the identity.
 
-That is important because “long suffering” could no longer do all the work. After 2004, and then 2007, and later 2013 and 2018, Red Sox fandom had to mean something other than waiting for rescue from eighty-six years of failure.
+That is important because *“long suffering”* could no longer do all the work. After 2004, and then 2007, and later 2013 and 2018, Red Sox fandom had to mean something other than waiting for rescue from eighty-six years of failure.
 
 Burns’s own language changed with it.
 
