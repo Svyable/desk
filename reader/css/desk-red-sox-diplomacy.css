@@ -1,0 +1,120 @@
+/* Red Sox Diplomacy — title-scoped museum-book treatment.
+   Activated only while the Reader route is /b/red-sox-diplomacy.
+   The manuscript remains ordinary Markdown; this layer changes presentation, not evidence. */
+
+html[data-red-sox-diplomacy="true"] {
+  --rsd-red: #bd3039;
+  --rsd-navy: #0c2340;
+  --rsd-paper: #f3eee3;
+  --rsd-rule: color-mix(in srgb, var(--rsd-red) 58%, var(--border));
+  --rsd-ink: color-mix(in srgb, var(--text-primary) 92%, var(--rsd-navy));
+  --rsd-muted: color-mix(in srgb, var(--text-secondary) 84%, var(--rsd-navy));
+}
+
+html[data-red-sox-diplomacy="true"] :is(.page-inner,.scroll-document) h1 { letter-spacing: -.025em; }
+
+html[data-red-sox-diplomacy="true"] :is(.page-inner,.scroll-document) h1::before {
+  border-top-color: var(--rsd-red) !important;
+  box-shadow: 1.95rem 0 0 -.5px color-mix(in srgb,var(--rsd-navy) 54%,transparent) !important;
+}
+
+html[data-red-sox-diplomacy="true"] :is(.page-inner,.scroll-document) p:has(>img:only-child),
+html[data-red-sox-diplomacy="true"] :is(.page-inner,.scroll-document) p:has(>a:only-child > img:only-child) {
+  position: relative;
+  margin-block: 2.15em .55em;
+  padding: .72em;
+  border: 1px solid color-mix(in srgb,var(--rsd-navy) 18%,var(--border));
+  background: linear-gradient(135deg,color-mix(in srgb,var(--rsd-paper) 54%,transparent),transparent 48%), color-mix(in srgb,var(--bg-page) 96%,var(--rsd-paper));
+  box-shadow: 0 18px 42px color-mix(in srgb,var(--shadow) 33%,transparent), inset 0 0 0 1px color-mix(in srgb,var(--text-primary) 3%,transparent);
+}
+
+html[data-red-sox-diplomacy="true"] :is(.page-inner,.scroll-document) p:has(>img:only-child)::before,
+html[data-red-sox-diplomacy="true"] :is(.page-inner,.scroll-document) p:has(>a:only-child > img:only-child)::before {
+  content: "ARCHIVE";
+  position: absolute;
+  z-index: 2;
+  top: -.72rem;
+  left: .82rem;
+  padding: .18rem .42rem .14rem;
+  border: 1px solid color-mix(in srgb,var(--rsd-red) 48%,var(--border));
+  background: var(--bg-page);
+  color: var(--rsd-red);
+  font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+  font-size: .54rem;
+  font-weight: 700;
+  letter-spacing: .18em;
+  line-height: 1;
+}
+
+html[data-red-sox-diplomacy="true"] :is(.page-inner,.scroll-document) p:has(>img:only-child) > img,
+html[data-red-sox-diplomacy="true"] :is(.page-inner,.scroll-document) p:has(>a:only-child > img:only-child) img {
+  display: block;
+  width: 100%;
+  max-height: min(68vh,46rem);
+  object-fit: contain;
+  border: 0;
+  box-shadow: none;
+}
+
+html[data-red-sox-diplomacy="true"] :is(.page-inner,.scroll-document) p:has(>img:only-child) + p:has(>em:only-child),
+html[data-red-sox-diplomacy="true"] :is(.page-inner,.scroll-document) p:has(>a:only-child > img:only-child) + p:has(>em:only-child) {
+  margin: 0 0 2.35em;
+  padding: .72em .2em .2em .86em;
+  border-left: 2px solid var(--rsd-red);
+  color: var(--rsd-muted);
+  font-family: ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+  font-size: .7em;
+  line-height: 1.48;
+  letter-spacing: .018em;
+}
+
+html[data-red-sox-diplomacy="true"] :is(.page-inner,.scroll-document) p:has(>img:only-child) + p:has(>em:only-child) em,
+html[data-red-sox-diplomacy="true"] :is(.page-inner,.scroll-document) p:has(>a:only-child > img:only-child) + p:has(>em:only-child) em { font-style: normal; }
+
+html[data-red-sox-diplomacy="true"] :is(.page-inner,.scroll-document) p:has(>img:only-child) + p:has(>em:only-child) a,
+html[data-red-sox-diplomacy="true"] :is(.page-inner,.scroll-document) p:has(>a:only-child > img:only-child) + p:has(>em:only-child) a {
+  color: color-mix(in srgb,var(--rsd-red) 76%,var(--text-primary));
+  text-decoration-thickness: 1px;
+  text-underline-offset: .18em;
+}
+
+html[data-red-sox-diplomacy="true"] :is(.page-inner,.scroll-document) blockquote {
+  margin-block: 1.45em;
+  padding: 1.05em 1.2em 1.05em 1.55em;
+  border-left: 3px solid var(--rsd-red);
+  background: linear-gradient(90deg,color-mix(in srgb,var(--rsd-red) 5%,transparent),transparent 72%), color-mix(in srgb,var(--bg-page) 97%,var(--rsd-paper));
+  color: var(--rsd-ink);
+  box-shadow: inset 0 1px color-mix(in srgb,var(--rsd-navy) 8%,transparent);
+}
+
+html[data-red-sox-diplomacy="true"] :is(.page-inner,.scroll-document) blockquote p,
+html[data-red-sox-diplomacy="true"] :is(.page-inner,.scroll-document) blockquote em { font-style: italic; }
+
+html[data-red-sox-diplomacy="true"] :is(.page-inner,.scroll-document) p:has(>a:only-child > img:only-child) a { display: block; }
+
+@media (hover:hover) and (prefers-reduced-motion:no-preference) {
+  html[data-red-sox-diplomacy="true"] :is(.page-inner,.scroll-document) p:has(>a:only-child > img:only-child) { transition: transform 180ms ease, box-shadow 180ms ease, border-color 180ms ease; }
+  html[data-red-sox-diplomacy="true"] :is(.page-inner,.scroll-document) p:has(>a:only-child > img:only-child):hover {
+    transform: translateY(-2px);
+    border-color: color-mix(in srgb,var(--rsd-red) 42%,var(--border));
+    box-shadow: 0 22px 50px color-mix(in srgb,var(--shadow) 39%,transparent), inset 0 0 0 1px color-mix(in srgb,var(--text-primary) 3%,transparent);
+  }
+}
+
+@media (max-width:700px) {
+  html[data-red-sox-diplomacy="true"] :is(.page-inner,.scroll-document) p:has(>img:only-child),
+  html[data-red-sox-diplomacy="true"] :is(.page-inner,.scroll-document) p:has(>a:only-child > img:only-child) {
+    margin-inline: -.22em;
+    padding: .45em;
+    box-shadow: 0 10px 24px color-mix(in srgb,var(--shadow) 26%,transparent);
+  }
+}
+
+@media print {
+  html[data-red-sox-diplomacy="true"] :is(.page-inner,.scroll-document) p:has(>img:only-child),
+  html[data-red-sox-diplomacy="true"] :is(.page-inner,.scroll-document) p:has(>a:only-child > img:only-child),
+  html[data-red-sox-diplomacy="true"] :is(.page-inner,.scroll-document) blockquote {
+    box-shadow: none;
+    break-inside: avoid;
+  }
+}
