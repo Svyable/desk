@@ -78,7 +78,13 @@ There was no campaign.
 
 Burns complained about Clemens. He asked visitors about their teams. Reporters teased him. He teased interns. Secretary Albright signed baseballs. The subject kept returning because people in the room remembered it.
 
-In June 1997, the memory widened.
+On June 4, the Clemens grievance opened into something more locally specific. Burns said Boston was still bitter and, describing the condition of the team, announced: “We’re saying our Novenas for the Red Sox.” He kept the joke going through mock-devotional language about resuscitation and the patron saint of lost causes.
+
+It would be a mistake to turn that exchange into a claim about Burns's theology. Its value is smaller and better. The joke sounded like somewhere. It drew on a New England Catholic vocabulary of ritual, endurance and impossible cases to describe a baseball team whose failures had become communal folklore.
+
+Then the room moved on.
+
+In June 1997, the memory widened again.
 
 A question about the Red Sox prompted Burns to talk about the family behind the allegiance. He said his mother was a Red Sox supporter. His father, by Burns's telling, had been hurt badly enough by the club's failures going back to the 1930s that he warned his children not to make the same mistake.
 
