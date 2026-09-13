@@ -1,0 +1,13 @@
+# The Protein in the Retina
+
+Cryptochrome is not a magnetic organ. It is a family of flavoproteins with established roles elsewhere in biology, including circadian systems. That mundane fact is important because candidate mechanisms become less trustworthy when a protein is discovered only after the phenomenon it is supposed to explain. Cryptochromes were already real proteins doing real chemistry before magnetoreception tried to recruit them.
+
+The attraction lies in flavin chemistry. A bound flavin adenine dinucleotide cofactor can absorb light and participate in electron-transfer reactions that generate radical pairs. In a migratory bird, a cryptochrome expressed in the retina therefore sits at an intriguing intersection: the right tissue for a light-dependent compass and the right chemistry for a spin-sensitive reaction.
+
+But there are several cryptochromes, several isoforms, and several levels of evidence. Expression is not function. Localization is not transduction. A protein can be present in a retinal cell because it has a circadian role, a developmental role, a photochemical role unrelated to magnetism, or several roles at once.
+
+CRY4 became especially interesting because it appeared to satisfy more of the awkward requirements. Work on European robins found retinal expression patterns and protein properties that made it a stronger candidate than a generic statement that “cryptochromes are in the eye.” A 2020 study identified at least two CRY4 isoforms in the robin retina, with different daily expression patterns. The more continuously expressed form, CRY4a, fit more comfortably with a sensory role that might be needed through the migratory night.
+
+Candidate interaction partners add another layer. Studies have reported possible interactions between avian CRY4 and retinal signaling proteins, including long-wavelength-sensitive opsin and G-protein-related components. These are suggestive, not a completed wiring diagram. A yeast two-hybrid interaction is not a synapse; a biochemical association is not proof that magnetic information enters the visual pathway through that complex.
+
+The field therefore began to demand something harder than localization. If CRY4 was being promoted from plausible retinal protein to primary magnetoreceptor, could the isolated molecule itself respond measurably to magnetic fields in the range relevant to biology? That experiment would not solve the compass. It would at least force the candidate protein to perform the physics it had been hired to do.
