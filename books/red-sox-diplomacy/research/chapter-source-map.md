@@ -31,7 +31,7 @@ Working research-to-draft map after completion of the first-pass manuscript. A c
 
 ## Publication-stage priorities
 
-1. Normalize `source-ledger.csv` against addenda 02–15: exact schema, unique URLs, stable noncolliding IDs, and no dropped source rows.
+1. Rebuild `source-ledger.csv` from the 185-row canonical baseline plus **all staged addenda 16–38** (and any later addendum that exists at freeze time): exact schema, normalized unique URLs, sequential canonical IDs, and no dropped source rows. Historical addendum IDs are provenance only after the rebuild.
 2. Verify every exact quotation currently sourced from a PDF or scan against a page image/screenshot or stable HTML/transcript before publication.
 3. Run a counterpart-balance pass on Cairo/Jerusalem/NATO/India/Iran/Beijing so consequential claims are not told only through the U.S. archive.
 4. Preserve known archival gaps rather than filling them by inference: 1967/1975/1978 Burns memories, the 1986 World Series from Jerusalem, the October 2004 championship-night scene, and the exact Boston Red Sox club contribution to the Greece project.
