@@ -62,7 +62,17 @@ That work belongs to her record, not as decoration around his.
 
 It also clarifies what a shared diplomatic life can mean without confusing roles. Libby did not acquire authority to speak for the United States because her husband was ambassador. Her civic work was not foreign policy. But a posting creates a household presence as well as an official office, and the surviving Athens record shows that she used that presence for projects with their own institutional life.
 
-A State Department feature from the same period offers a quieter image. It shows sculptor Thodoros Papayiannis with Burns and Libby standing in front of the model of the George C. Marshall statue that would become part of the embassy's physical retelling of the U.S.-Greek relationship.
+There was another piece of background the public biographies usually leave out.
+
+Years before Athens, Libby had worked as a historian on federal historic-preservation projects. In 1981, a Historic American Buildings Survey report credited Libby Baylies Burns with helping assemble a structures inventory of West Point. The next year, the Library of Congress credits Libby Baylies as a historian on the Watertown Arsenal survey; the underlying report identifies Libby Baylies Burns and Betsy Bahr as the historians who did the fieldwork and prepared the study. Their task included documentary research, building inventory, historical and architectural evaluation, and preservation recommendations.
+
+That does not prove she shaped the Athens embassy renovation.
+
+The archive has not earned that sentence.
+
+It does change the background. The ambassador's spouse arrived in Athens with her own prior experience asking how institutional buildings carried history and what parts of them should be preserved.
+
+A State Department feature from the Athens period offers a quieter image. It shows sculptor Thodoros Papayiannis with Burns and Libby standing in front of the model of the George C. Marshall statue that would become part of the embassy's physical retelling of the U.S.-Greek relationship.
 
 The photograph does not tell us who decided what.
 
@@ -116,7 +126,7 @@ There is a temptation in diplomatic biography to turn every small act into evide
 
 The record is better than that.
 
-The contemporary account of the embassy work explicitly connects the physical changes to respect and apparent openness. Nielsen independently remembers a public-diplomacy-minded ambassador setting the mission's tone. Koenig independently remembers an ambassador intensely engaged in direct persuasion on difficult political-military business. The Harvard record shows Burns publicly arguing for stronger personal and institutional connections between the two countries. The Gennadeion dinner and MDA Hellas record show that the representational life of the post also had a household and civic dimension that cannot be reduced to the ambassador alone. And the protests surrounding Clinton's visit show the limit of all of it.
+The contemporary account of the embassy work explicitly connects the physical changes to respect and apparent openness. Nielsen independently remembers a public-diplomacy-minded ambassador setting the mission's tone. Koenig independently remembers an ambassador intensely engaged in direct persuasion on difficult political-military business. The Harvard record shows Burns publicly arguing for stronger personal and institutional connections between the two countries. The Gennadeion dinner and MDA Hellas record show that the representational life of the post also had a household and civic dimension that cannot be reduced to the ambassador alone. Libby's earlier preservation work gives that household a professional history of its own without proving a causal role in the Athens redesign. And the protests surrounding Clinton's visit show the limit of all of it.
 
 Representation mattered.
 
