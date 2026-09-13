@@ -38,6 +38,18 @@ It complicates the ownership of the story.
 
 By 1999, the network was plainly alive.
 
+It also exposed something the phrase *America's pastime* can hide.
+
+The game arriving in Greece was already more than a sealed American cultural export. It moved through Greek-American families, professional clubs, Major League Baseball's international machinery, scouts whose work crossed the Pacific, and athletes formed in baseball systems outside Greece who still had claims on Greek identity.
+
+The American game had become international without ceasing to be recognizably American.
+
+That matters to this book because diplomacy often works through exactly that kind of cultural object: something a country calls its own even after other countries, migrants, markets and institutions have helped remake it.
+
+Greece would not simply receive baseball from the United States.
+
+It would translate it.
+
 Peter Angelos, the Greek-American owner of the Baltimore Orioles, met Greek baseball officials at a reception held by Burns and the Hellenic Amateur Baseball Federation. A contemporary *Washington Post* item reported that the baseball commissioner's office and the Boston Red Sox were also helping.
 
 For Burns, this was almost comically well matched to the person who happened to occupy the embassy.
