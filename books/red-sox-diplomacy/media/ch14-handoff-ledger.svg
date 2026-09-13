@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" role="img" aria-labelledby="title desc">
+  <title id="title">Negotiation handoff ledger for the U.S.-India civil nuclear initiative</title>
+  <desc id="desc">A documentary handoff showing Nicholas Burns and Indian counterparts carrying the bilateral phase, then successor officials and wider institutions carrying the IAEA, NSG, congressional and signature phases after Burns left government.</desc>
+  <defs><linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f4efe5"/><stop offset="1" stop-color="#e8dfd1"/></linearGradient></defs>
+  <rect width="1400" height="900" fill="#161310"/>
+  <rect x="56" y="48" width="1288" height="804" rx="8" fill="url(#paper)"/>
+  <text x="104" y="108" font-family="Georgia, 'Times New Roman', serif" font-size="25" letter-spacing="5" fill="#6c6258">HANDOFF LEDGER 01 · THE AGREEMENT OUTLIVES THE NEGOTIATOR</text>
+  <line x1="104" y1="138" x2="1296" y2="138" stroke="#bd3039" stroke-width="3"/>
+  <text x="104" y="198" font-family="Georgia, 'Times New Roman', serif" font-size="42" fill="#171411">Central is not the same as sovereign.</text>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="104" y="282" width="544" height="370" rx="8" fill="#0c2340"/>
+    <text x="136" y="326" font-size="18" font-weight="700" letter-spacing="2.2" fill="#f3eee3">2005–07 · BILATERAL CONSTRUCTION</text>
+    <text x="136" y="375" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#f3eee3">Nicholas Burns</text>
+    <text x="136" y="412" font-size="19" fill="#d7dde4">lead U.S. political negotiator</text>
+    <text x="136" y="457" font-family="Georgia, 'Times New Roman', serif" font-size="23" fill="#f3eee3">Shyam Saran → Shivshankar Menon</text>
+    <text x="136" y="491" font-size="18" fill="#d7dde4">principal Indian counterparts</text>
+    <line x1="136" y1="528" x2="616" y2="528" stroke="#5a6a80"/>
+    <text x="136" y="565" font-size="18" fill="#d7dde4">Output:</text>
+    <text x="136" y="598" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-style="italic" fill="#f3eee3">a negotiated 123 Agreement text</text>
+    <text x="136" y="628" font-size="16" fill="#bcc6d1">not yet a completed international deal</text>
+
+    <rect x="752" y="282" width="544" height="370" rx="8" fill="#efe7da" stroke="#cbbfaf"/>
+    <text x="784" y="326" font-size="18" font-weight="700" letter-spacing="2.2" fill="#bd3039">2008 · MULTILATERAL + DOMESTIC COMPLETION</text>
+    <text x="784" y="375" font-family="Georgia, 'Times New Roman', serif" font-size="26" fill="#2a241f">William J. Burns + wider U.S. team</text>
+    <text x="784" y="412" font-size="18" fill="#514940">successor officials / IAEA / NSG / Congress</text>
+    <text x="784" y="457" font-family="Georgia, 'Times New Roman', serif" font-size="23" fill="#2a241f">Indian government + multilateral coalition</text>
+    <text x="784" y="491" font-size="18" fill="#514940">domestic breakthrough + safeguards + NSG consensus</text>
+    <line x1="784" y1="528" x2="1264" y2="528" stroke="#c8bcad"/>
+    <text x="784" y="565" font-size="18" fill="#514940">Final act:</text>
+    <text x="784" y="598" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-style="italic" fill="#2a241f">Rice + Mukherjee sign, 10 Oct 2008</text>
+    <text x="784" y="628" font-size="16" fill="#71675d">Nicholas Burns is no longer Under Secretary</text>
+  </g>
+
+  <path d="M648 467 L742 467" stroke="#8a7968" stroke-width="4"/>
+  <path d="M732 456 L750 467 L732 478 Z" fill="#8a7968"/>
+  <text x="700" y="442" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="1.8" fill="#7a6855">HANDOFF</text>
+
+  <rect x="104" y="706" width="1192" height="92" rx="5" fill="#ece3d5" stroke="#cbbfaf"/>
+  <text x="132" y="740" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="2" fill="#0c2340">BIOGRAPHICAL LIMIT</text>
+  <text x="132" y="771" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-style="italic" fill="#4b433b">Burns can be central to the bilateral text without being credited with every later vote, safeguard, waiver, coalition decision or signature.</text>
+  <text x="1296" y="836" text-anchor="end" font-family="'Courier New', monospace" font-size="16" fill="#82776c">RSD / CH14 / HANDOFF / H01</text>
+</svg>
