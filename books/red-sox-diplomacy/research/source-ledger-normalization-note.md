@@ -51,6 +51,20 @@ Before Desk integration/validation:
 9. Check every final URL for uniqueness and nonempty required fields.
 10. Run `python3 scripts/check-desk.py` only after the canonical rewrite and shared integration files are synchronized.
 
+## Deterministic-input requirement
+
+Do **not** rewrite the canonical ledger from clipped or partial connector output.
+
+The rebuild is complete only if the normalization operation has deterministic access to:
+
+- all 185 canonical baseline rows;
+- every staged row from addenda 16 through the actual highest addendum;
+- the full URL field for every row so duplicate comparison is corpus-wide rather than local.
+
+During the current editorial pass, the GitHub connector exposed large CSV files in clipped conversational chunks. The manuscript, source map and integration audit could be updated safely from complete chapter/control files, but the canonical ledger was intentionally left unchanged rather than claiming a normalization based on incomplete rows.
+
+That is a correctness boundary, not a reason to do another partial merge.
+
 ## Known duplicate reconciliation from addendum 17
 
 Do **not** append these as new canonical rows:
