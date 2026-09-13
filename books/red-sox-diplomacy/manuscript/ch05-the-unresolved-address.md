@@ -74,6 +74,24 @@ Calling that rivalry would make it smaller than it was.
 
 What baseball can still contribute is only the biographical contrast.
 
+The Red Sox clock kept running at home.
+
+In October 1986, while Burns was assigned to Jerusalem, Boston reached the World Series against the New York Mets. Game 6 became one of the canonical disasters in Red Sox memory; the Mets won Game 7 two nights later.
+
+This book does not know where Burns was for those games.
+
+It does not know whether he watched them live, watched them later, followed them through news reports, or missed them because his actual life in Jerusalem was more demanding than the baseball calendar in Massachusetts.
+
+That missing scene is useful.
+
+A Foreign Service career creates two simultaneous lives. One occurs in the country where the officer is posted. The other continues at home without asking permission. Families age. Elections happen. neighborhoods change. Teams win and lose. The representative can be deeply absorbed in the first life while still carrying loyalties formed in the second.
+
+The point is not that the 1986 World Series mattered to Burns's work in Jerusalem.
+
+It is that it did not need to.
+
+The game could remain personal precisely because the posting was not.
+
 Burns carried a stable personal identity into an environment where public identities were politically loaded. He knew where he was from. The people he dealt with could not always describe where they were from without making a political statement.
 
 The American representative therefore had to listen carefully to nouns.
