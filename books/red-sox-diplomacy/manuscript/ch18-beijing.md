@@ -86,6 +86,10 @@ Professionally, it is frequently an assignment sheet.
 
 The work afterward tests whether the photograph meant anything.
 
+![CHANNEL RECOVERY 01 — crisis, reopened contact and Woodside follow-up in 2023.](../media/ch18-channel-recovery.svg)
+
+*CHANNEL RECOVERY 01 — The February balloon crisis disrupted contact; Blinken's June visit explicitly emphasized communication to reduce miscalculation; Woodside created additional military, counternarcotics and people-to-people work. This records recovery of channels, not recovery of trust and not personal authorship by the ambassador. [U.S. June 2023 readout.](https://2021-2025.state.gov/secretary-blinkens-visit-to-the-peoples-republic-of-china-prc/) [Chinese Woodside readout.](https://www.fmprc.gov.cn/eng/wjb/zzjg_663340/bmdyzs_664814/xwlb_664816/202312/t20231204_11194316.html)*
+
 Burns also pushed a less dramatic form of contact.
 
 People.
@@ -158,6 +162,10 @@ That is the relationship in miniature.
 
 Even the human channel required negotiation.
 
+![CONTESTED CHANNEL 01 — competing U.S. and Chinese accounts of people-to-people exchange in June 2024.](../media/ch18-contested-channel.svg)
+
+*CONTESTED CHANNEL 01 — Burns and the State Department alleged repeated Chinese interference with U.S. Embassy cultural and educational programming. China's Foreign Ministry rejected the characterization, said China supported exchange and argued U.S. policies were themselves obstructive. The object preserves competing government claims rather than turning either press line into a complete finding. [State Department, June 25, 2024.](https://2021-2025.state.gov/briefings/department-press-briefing-june-25-2024/) [Chinese Foreign Ministry, June 26, 2024.](https://www.fmprc.gov.cn/eng/xw/fyrbt/lxjzh/202407/t20240730_11463247.html)*
+
 There is a temptation in a book like this to make Burns's interest in ordinary contact sound like the answer to great-power competition. It was not.
 
 His tenure in Beijing did not dissolve the structural conflict between the United States and China. Taiwan remained dangerous. Technology restrictions expanded. Military competition continued. Human-rights disputes remained. China's relationship with Russia remained a major American concern. Beijing continued to object to American alliances and what it viewed as containment.
@@ -191,6 +199,10 @@ Nothing important in U.S.-China relations changed because of it.
 That is why the moment belongs here.
 
 The Red Sox had followed Burns through the State briefing room, Athens, NATO, Harvard and now Beijing. The fandom had been useful as humor, ritual, recognition and public personality. It had never been a diplomatic doctrine.
+
+![Ambassador Nicholas Burns pitching a baseball in Beijing on July 4, 2023](https://commons.wikimedia.org/wiki/Special:Redirect/file/Ambassador_Burns_pitching_baseball.jpg)
+
+*FIG. 07 — Ambassador Nicholas Burns pitching a baseball, Beijing, July 4, 2023. U.S. Department of State / @USAmbChina. Public domain. The image records a real baseball/public-diplomacy moment during the posting; it does not show that baseball altered access, public opinion or policy. [Archive record.](https://commons.wikimedia.org/wiki/File:Ambassador_Burns_pitching_baseball.jpg)*
 
 In China it remained what it had been at its best: a small piece of evidence that the American representative had arrived as a particular American rather than as a walking policy paper.
 
