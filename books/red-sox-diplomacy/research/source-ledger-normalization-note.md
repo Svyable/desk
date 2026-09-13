@@ -2,37 +2,56 @@
 
 ## Canonical baseline
 
-`source-ledger.csv` was rebuilt from the prior canonical file plus historical addenda 02–15.
+`source-ledger.csv` was previously rebuilt from the old canonical file plus historical addenda 02–15.
 
-Current canonical baseline:
+Current validator-facing baseline:
 
 - 185 rows after the header;
 - canonical IDs `rsd-001` through `rsd-185`;
-- one row per exact source URL;
+- one row per exact source URL at the time of that rebuild;
 - historical addendum ID collisions removed;
 - validator schema preserved exactly: `id,year,author_or_institution,title,source_type,book_use,url`.
 
-Canonical IDs after this rebuild supersede row IDs inside addenda 02–15. Those addenda are provenance/history, not an alternate canonical index.
+Canonical IDs after that rebuild supersede row IDs inside addenda 02–15. Those addenda remain provenance/history, not an alternate canonical index.
 
-## Addendum 16
+## Research after the baseline
 
-`source-ledger-addendum-16.csv` contains 20 post-normalization sources with IDs `rsd-186` through `rsd-205`.
+Research continued after the 185-row rebuild. Staged addenda now run through `source-ledger-addendum-38.csv`.
 
-At creation time these URLs were checked against the 185-row canonical baseline and are intended to append directly, subject to a final duplicate check before integration.
+The historical staged numbering reaches `rsd-352`, but **352 is not a canonical row count**. Later addenda include URLs already present in the canonical ledger and occasional URLs repeated across addenda. Historical row IDs also should not dictate final canonical IDs.
 
-Coverage:
+Examples already identified:
 
-- 2025 Harvard post-Beijing interviews;
-- September 2026 PBS Burns retrospective on Iraq;
-- U.S.-India civil-nuclear primary records and Evan Feigenbaum oral history;
-- Iran 2006 U.S. policy shift and Burns testimony;
-- Iranian/UN, Security Council, European, independent nonproliferation and IAEA records.
+- addendum 17 includes six refined records whose URLs are already canonical (`rsd-002`, `rsd-014`, `rsd-140`, `rsd-021`, `rsd-015`, `rsd-169`);
+- the European/Eurasian Affairs 2004 remarks-index URL appears again in later staged research;
+- several later addenda intentionally preserve archive routes, negative-source audits, institutional histories and verification targets that must remain labeled as such rather than being promoted into positive evidence.
 
-## Addendum 17 reconciliation
+The later corpus materially expands India, Iran, early-life/Wellesley, Boston College, Greece/baseball networks, Athens witnesses, Beijing, Red Sox institutional history, American-history context, and publication-stage verification routes.
 
-`source-ledger-addendum-17.csv` was created after the canonical rebuild and contains both refined duplicate entries and genuinely new archive-index sources.
+## Research-expansion freeze
 
-### Duplicate URLs already canonical
+The first-pass manuscript, epilogue and reader-facing source notes now exist. Broad source expansion should therefore be treated as **frozen** unless a specific publication-stage gap requires a targeted source.
+
+Do not create another addendum merely because another generally relevant source can be found. New sourcing should close a named gap: counterpart balance, quote verification, chronology, attribution, or one of the explicitly preserved archival unknowns.
+
+This freeze is important because repeated partial canonical merges create unnecessary ID churn and make deduplication harder.
+
+## Final canonical rebuild
+
+Before Desk integration/validation:
+
+1. Start from canonical `rsd-001`–`rsd-185`.
+2. Ingest every staged row from addenda 16–38, plus any later addendum created only to close a named publication gap.
+3. Normalize stable URLs before duplicate comparison; remove tracking parameters when a canonical URL exists.
+4. Deduplicate by normalized URL across the entire corpus, not by historical row ID or title.
+5. Where a staged duplicate has a materially better `book_use` description, improve the existing canonical row rather than append another source.
+6. Preserve evidence class honestly: archive index, negative-source audit, hypothesis/verification route, retrospective witness, primary official record, and contemporaneous reporting are not interchangeable.
+7. Reassign canonical IDs sequentially from `rsd-001` after deduplication. Historical addendum IDs become provenance only.
+8. Preserve the exact validator schema: `id,year,author_or_institution,title,source_type,book_use,url`.
+9. Check every final URL for uniqueness and nonempty required fields.
+10. Run `python3 scripts/check-desk.py` only after the canonical rewrite and shared integration files are synchronized.
+
+## Known duplicate reconciliation from addendum 17
 
 Do **not** append these as new canonical rows:
 
@@ -45,31 +64,8 @@ Do **not** append these as new canonical rows:
 | `rsd-210` | `rsd-015` | Davidson student witness |
 | `rsd-211` | `rsd-169` | Dick Bresciani / Red Sox institutional biography |
 
-The addendum versions sometimes have sharper `book_use` descriptions. During a later editorial ledger pass, those descriptions may be folded into the existing canonical rows without changing source identity.
+The five additional addendum-17 archive/index URLs (`rsd-212`–`rsd-216` in that historical file) remain candidates for the final canonical rebuild subject to corpus-wide URL deduplication.
 
-### New URLs from addendum 17
+## Publication principle
 
-After addendum 16 is merged, assign these the next canonical IDs rather than preserving their historical addendum IDs:
-
-| Future canonical ID | Addendum 17 ID | Source |
-|---|---:|---|
-| `rsd-206` | `rsd-212` | Fenway Park Living Museum — General Managers |
-| `rsd-207` | `rsd-213` | Fenway Park Timeline 2000–2009 |
-| `rsd-208` | `rsd-214` | State Bureau of European and Eurasian Affairs remarks index — 2004 |
-| `rsd-209` | `rsd-215` | NATO Press Releases 2004 |
-| `rsd-210` | `rsd-216` | NATO Speeches 2004 |
-
-These are primarily archival-route or negative-source-audit records. They should remain labeled as such and must not be converted into positive evidence about Burns's whereabouts or behavior.
-
-## Next canonical merge
-
-When book-local research stabilizes enough to run Desk validation:
-
-1. Start from canonical `rsd-001`–`rsd-185`.
-2. Append unique addendum 16 rows as canonical `rsd-186`–`rsd-205`.
-3. Append the five unique addendum 17 URLs as canonical `rsd-206`–`rsd-210`.
-4. Re-check URL uniqueness across all 210 rows.
-5. Validate the exact CSV schema.
-6. Treat all addendum IDs as historical after the merge.
-
-Do not merge duplicate rows merely because their `book_use` wording is more specific. Update the existing canonical row instead if that wording materially improves the ledger.
+The canonical ledger is an evidence index, not a trophy count. The final rebuild should prefer a smaller clean set of unique, accurately classified sources over preserving every historical row number. Addenda remain useful as research history even after their unique rows have been absorbed.
