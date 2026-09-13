@@ -70,9 +70,21 @@ A documented time, duration, score, number, or other compact fact whose precisio
 
 A documentary relationship map. Every line or arrow must mean something stated in the label. It may show brokerage, sequence, institutional flow, or competing actors; it must not imply command, causation, or ownership that the sources do not establish.
 
+### ROUTE OBJECT
+
+A chronological sequence of postings, travels, institutional moves, or repeated arrivals. Use when movement itself is the argument. Prefer chronology over faux geographic precision when mileage and exact paths do not matter.
+
+A route line must not imply inevitability. In biography, a sequence of jobs is not automatically a promotion ladder or causal pipeline.
+
+### ITINERARY OBJECT
+
+A stop-by-stop documentary travel sequence drawn from a reliable travel ledger, schedule, diary, calendar, or equivalent record. It should make the burden, density, or ordering of travel legible without inventing what happened between documented stops.
+
+When a participant later interprets the trip, keep the retrospective interpretation distinct from the contemporaneous itinerary facts.
+
 ### MAP OBJECT
 
-Use only when geography changes understanding: travel sequence, distance, alliance structure, route, border, posting, or repeated location. A decorative locator map is not enough.
+Use only when geography changes understanding: distance, alliance structure, border, route, posting, repeated location, or spatial constraint. A decorative locator map is not enough.
 
 ## Rights states
 
@@ -108,7 +120,7 @@ The Beijing Red Sox clinic image used in Chapter 1 should not simply recur in Ch
 - Cropping cannot remove context in a way that changes meaning.
 - Unknown is an allowed state. If the archive does not locate the 2004 championship-night room, the design can make that absence visible rather than filling it.
 
-## Current Chapter 1–2 release ledger
+## Current Chapter 1–3 release ledger
 
 | Object | Chapter | Rights | Draft state | Release action |
 | --- | --- | --- | --- | --- |
@@ -122,9 +134,11 @@ The Beijing Red Sox clinic image used in Chapter 1 should not simply recur in Ch
 | FIG. 04 NATO press conference | 2 | U.S. Air Force / DoD public domain | remote Commons endpoint | vendor approved image |
 | TIME OBJECT 01 | 2 | designed from sourced factual record | local SVG | retain ESPN source link |
 | NETWORK OBJECT 01 | 2 | original documentary diagram | local SVG | re-audit arrows against source ledger before release |
+| ROUTE OBJECT 01 | 3 | original diagram from State biographies | local SVG | re-audit dates against final biography chronology |
+| ITINERARY OBJECT 01 | 3 | original diagram from government travel ledger + Burns interpretation | local SVG | preserve distinction between official stop count and Burns's later “eight-country” description |
 
 ## Visual restraint target
 
-A typical chapter does **not** need five objects. Chapter 2 does because it is explicitly arguing about identity moving across institutions and uses several periods as evidence. Other chapters may need one photograph, one document, or nothing at all.
+A typical chapter does **not** need five objects. Chapter 2 does because it is explicitly arguing about identity moving across institutions and uses several periods as evidence. Chapter 3 needs only two because movement and maintenance can be made legible without another portrait.
 
 The test is simple: remove the object. If the reader loses no evidence, mechanism, temporal contrast, or archival understanding, the object probably does not belong.
