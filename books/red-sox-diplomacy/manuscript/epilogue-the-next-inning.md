@@ -6,6 +6,12 @@ That is one reason they belong at the end.
 
 A baseball fan inherits a story already underway. The standings begin fresh each spring, but the allegiance does not. Parents remember players their children never saw. A city carries losses forward until people who were not alive for them can still name the inning. Old arguments survive in families. So do old jokes. Then one night a result changes the meaning of everything that came before without erasing any of it.
 
+The inheritance is not clean.
+
+The Red Sox story Burns received contained devotion and exclusion, civic pride and civic failure, labor fights, reinvention, championships, public grief and a game increasingly remade by people and movements far beyond New England. That messiness is not something to edit away from the American backdrop of this book.
+
+It is part of what makes the backdrop American.
+
 The fan enters in the middle.
 
 So does the diplomat.
