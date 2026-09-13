@@ -14,6 +14,10 @@ The shift could happen in a line.
 
 In March 1997 Burns was welcoming visitors when the talk wandered toward team loyalties. He announced the local rules: the Red Sox were acceptable, the Yankees were not. A moment later he was walking reporters through Secretary Madeleine Albright's meetings and the architecture of European security.
 
+> *“We do like the Boston Red Sox. We don't mind the Tigers. We hate the Yankees. Those are the rules.”*
+
+*ARCHIVE NOTE — U.S. Department of State Daily Press Briefing, March 7, 1997. [Primary transcript.](https://1997-2001.state.gov/briefings/9703/970307.html)*
+
 Nothing had changed except the register.
 
 This was one of the strange competencies of the State Department briefing room. People who spent their working lives asking whether governments were lying to them could also sustain a running joke whose entire value depended on everyone knowing it was not official.
@@ -118,6 +122,10 @@ There was no campaign.
 
 Burns complained about Clemens. He asked visitors about their teams. Reporters teased him. He teased interns. Secretary Albright signed baseballs. The subject kept returning because people in the room remembered it.
 
+[![Chronological ledger of recurring baseball exchanges in Nicholas Burns's State Department briefing room](../media/ch08-recurrence-ledger.svg)](../research/ch08-visual-archive.md)
+
+*RECURRENCE LEDGER 01 — Selected documented baseball moments, December 1996 through October 1997. The marks distinguish Burns-initiated exchanges, reporter callbacks, and moments when the room or the outside world returned the persona to him. This is a curated evidentiary sequence, not a complete count. [Source map.](../research/ch08-visual-archive.md)*
+
 On June 4, the Clemens grievance opened into something more locally specific. Burns said Boston was still bitter and, describing the condition of the team, announced: “We’re saying our Novenas for the Red Sox.” He kept the joke going through mock-devotional language about resuscitation and the patron saint of lost causes.
 
 It would be a mistake to turn that exchange into a claim about Burns's theology. Its value is smaller and better. The joke sounded like somewhere. It drew on a New England Catholic vocabulary of ritual, endurance and impossible cases to describe a baseball team whose failures had become communal folklore.
@@ -212,6 +220,10 @@ There was one more gift.
 
 Lambros Papantoniou, a Greek journalist whose detailed questions about Greek-Turkish disputes had repeatedly tested Burns from the press seats, brought a bottle of ouzo.
 
+[![Documentary inventory of the Red Sox cap, alarm clock, ouzo, and podium tribute at Nicholas Burns's final State Department briefing](../media/ch08-farewell-inventory.svg)](https://www.washingtonpost.com/archive/politics/1997/07/23/as-burns-takes-bow-at-state-a-fan-sox-it-to-him/f7295a64-565a-4320-9a47-a9a75a068cc0/)
+
+*FAREWELL INVENTORY 01 — July 22, 1997. President Clinton's autographed Red Sox cap, Barry Schweid's Red Sox alarm clock, Lambros Papantoniou's ouzo, and Mike McCurry's return to the podium make the room's accumulated memory physical. The strongest contemporaneous farewell photograph remains research-only pending publication rights. [Source map.](../research/ch08-visual-archive.md)*
+
 The gift pointed somewhere else.
 
 Burns was leaving the podium.
@@ -221,6 +233,10 @@ But the baseball bit did not quite leave with him.
 By October, while Burns was waiting for Senate confirmation to go to Athens, the Clemens joke came back from outside the State Department. The Washington Post reported that CBS State Department producer Charles Wolfson, another long-suffering Red Sox fan, had arranged for an eight-by-ten photograph of Roger Clemens in his Toronto uniform. Clemens signed it to Burns with good wishes for the new job and thanks for Burns's earlier “kind words.”
 
 The joke had completed a circuit.
+
+[![Documentary circuit showing the Roger Clemens joke moving from Burns to reporters to CBS producer Charles Wolfson to Clemens and back to Burns](../media/ch08-clemens-circuit.svg)](https://www.washingtonpost.com/archive/politics/1997/10/27/a-farewell-curveball-for-states-spokesman/47b5db89-bd64-4361-b19e-161126e91e86/)
+
+*CIRCUIT OBJECT 01 — December 1996–October 1997. Burns's theatrical grievance becomes a reporter callback, then leaves the room through CBS producer Charles Wolfson and returns as a signed Clemens photograph. The original photograph is not reproduced; the diagram shows only the documented chain. [Source map.](../research/ch08-visual-archive.md)*
 
 A player changed teams. A government spokesman complained theatrically at the podium. Reporters remembered. One of them threw the language back during a policy exchange. Another carried the joke into baseball itself. The player sent it back.
 
