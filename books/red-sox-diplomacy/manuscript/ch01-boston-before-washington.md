@@ -4,7 +4,7 @@ Before a diplomat represents a country, he has to come from somewhere.
 
 Official biographies make this easy to forget. They begin with appointments. Ambassador to this country. Assistant secretary for that region. Degrees, dates, decorations. The person seems to enter history already wearing a suit.
 
-![Official portrait of Nicholas Burns as U.S. Ambassador to China](https://commons.wikimedia.org/wiki/Special:Redirect/file/Nicholas_Burns%2C_U.S._Ambassador.jpg)
+![Official portrait of Nicholas Burns as U.S. Ambassador to China](../media/primary-source/ch01-nicholas-burns-official-portrait-2022.jpg)
 
 *FIG. 01 — R. Nicholas Burns, official portrait as U.S. Ambassador to China, January 25, 2022. U.S. Department of State. Public domain. A late-career portrait placed here deliberately: the official image arrives before the hometown. [Archive record.](https://commons.wikimedia.org/wiki/File:Nicholas_Burns,_U.S._Ambassador.jpg)*
 
@@ -112,7 +112,7 @@ That combination lasted.
 
 Burns would later use Red Sox Nation as easy public identification. The allegiance did not need to carry a theory. Its value was that it was specific. Boston. Family. A team chosen despite a father's warning. A game he had played before the profession took him anywhere.
 
-![Ambassador Nicholas Burns in a Red Sox cap with young Chinese baseball fans in Beijing](https://commons.wikimedia.org/wiki/Special:Redirect/file/Ambassador_Burns_with_Chinese_baseball_fans.png)
+![Ambassador Nicholas Burns in a Red Sox cap with young Chinese baseball fans in Beijing](../media/primary-source/ch01-nicholas-burns-red-sox-clinic-beijing-2024.png)
 
 *FIG. 02 — Ambassador Burns with young Chinese baseball fans, Beijing, October 22, 2024. U.S. Department of State / @USAmbChina. Public domain. This is a later-life echo, not evidence about Wellesley: the local allegiance has simply survived the distance. [Archive record.](https://commons.wikimedia.org/wiki/File:Ambassador_Burns_with_Chinese_baseball_fans.png)*
 

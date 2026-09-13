@@ -7,8 +7,8 @@
     "primary-media-acquisition-wave3.json": 1,
     "primary-media-acquisition.json": 2
   },
-  "acquired_count": 3,
-  "reused_count": 18,
+  "acquired_count": 0,
+  "reused_count": 21,
   "available_count": 21,
   "failed_count": 0,
   "available": [
@@ -23,7 +23,7 @@
       "chapter": "11/12",
       "job": "post-9/11 NATO ministerial context with Burns accompanying Secretary Rumsfeld; explicitly not the September 11 scene",
       "manifest": "primary-media-acquisition-wave3.json",
-      "acquisition_status": "acquired"
+      "acquisition_status": "reused"
     },
     {
       "dest": "books/red-sox-diplomacy/media/primary-source/ch14-burns-ischinger-german-reunification-day-2005.jpg",
@@ -36,7 +36,7 @@
       "chapter": "13/14",
       "job": "Burns with German Ambassador Wolfgang Ischinger during his Under Secretary period; relationship context, not evidence about a specific negotiation",
       "manifest": "primary-media-acquisition-wave3.json",
-      "acquisition_status": "acquired"
+      "acquisition_status": "reused"
     },
     {
       "dest": "books/red-sox-diplomacy/media/primary-source/ch18-nicholas-burns-basketball-zhijiang-2023.webm",
@@ -49,7 +49,7 @@
       "chapter": "18/21",
       "job": "6-second primary-source moving image of people-to-people contact; not evidence of negotiation or policy effect",
       "manifest": "primary-media-acquisition-wave3.json",
-      "acquisition_status": "acquired"
+      "acquisition_status": "reused"
     },
     {
       "dest": "books/red-sox-diplomacy/media/primary-source/ch01-nicholas-burns-official-portrait-2022.jpg",

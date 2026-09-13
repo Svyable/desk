@@ -32,7 +32,7 @@ Surviving jurisdiction.
 
 George W. Bush and Manmohan Singh made the original wager in Washington in July 2005. The United States would work to end India's exclusion from international civilian nuclear commerce. India would separate its civilian and military nuclear facilities, place the civilian side under international safeguards and undertake a set of nonproliferation commitments.
 
-![President George W. Bush and Prime Minister Manmohan Singh shake hands in the Oval Office on July 18, 2005](https://georgewbush-whitehouse.archives.gov/news/releases/2005/07/images/20050718-1_d-0262-515h.jpg)
+![President George W. Bush and Prime Minister Manmohan Singh shake hands in the Oval Office on July 18, 2005](../media/primary-source/ch14-bush-singh-oval-office-2005.jpg)
 
 *FIG. 06 — President George W. Bush and Prime Minister Manmohan Singh, Oval Office, July 18, 2005. Eric Draper / White House. Public-domain federal photograph. The image records the leaders' political wager on the day of their joint statement; it does not imply the separation plan, U.S. law, 123 Agreement, safeguards, NSG exception or later congressional approval had already been solved. [White House archive.](https://georgewbush-whitehouse.archives.gov/news/releases/2005/07/images/20050718-1_d-0262-515h.html) [Joint statement.](https://georgewbush-whitehouse.archives.gov/news/releases/2005/07/20050718-6.html)*
 

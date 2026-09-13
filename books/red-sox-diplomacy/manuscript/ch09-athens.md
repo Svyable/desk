@@ -30,7 +30,7 @@ That responsibility was unusually complicated in Greece.
 
 The bilateral relationship carried more historical memory than its formal alliance suggested. The United States and Greece were NATO allies. The United States had played a major role in Greece's postwar recovery. Greek Americans formed one of the strongest human bridges between the countries. Yet American power also arrived in Greek political memory through the civil war, the junta years, Cyprus, rivalry with Turkey, and a long habit of suspecting Washington of managing Greek affairs from above.
 
-![U.S. Embassy Athens chancery showing demonstration damage after 1975 riots](https://commons.wikimedia.org/wiki/Special:Redirect/file/Athens_-_Chancery_Office_Building_-_1975_-_DPLA_-_8fb298c265bf14eb903b3e1a800b527e.jpg)
+![U.S. Embassy Athens chancery showing demonstration damage after 1975 riots](../media/primary-source/ch09-us-embassy-athens-demonstration-damage-1975.jpg)
 
 *FIG. 05 — U.S. Embassy Athens chancery, 1975. U.S. National Archives, series “Photographs Related to Embassies, Consulates, and Other Overseas Buildings.” The finding aid identifies “Demonstration Damage Following Riots.” This predates Burns's arrival by twenty-two years and is not evidence of the physical condition he inherited; it shows that the same chancery had long functioned as a public political object. Public-domain federal archive route; vendor and re-verify exact NARA metadata before release. [Archive record.](https://nara.getarchive.net/topics/athens/history%2Bof%2Bathens%2Bgreece)*
 

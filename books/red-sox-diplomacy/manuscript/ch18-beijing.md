@@ -128,7 +128,7 @@ Nothing important in U.S.-China relations changed because of either moment.
 
 That is why they belong.
 
-![Ambassador Nicholas Burns pitching a baseball in Beijing on July 4, 2023](https://commons.wikimedia.org/wiki/Special:Redirect/file/Ambassador_Burns_pitching_baseball.jpg)
+![Ambassador Nicholas Burns pitching a baseball in Beijing on July 4, 2023](../media/primary-source/ch18-nicholas-burns-pitching-baseball-beijing-2023.jpg)
 
 *FIG. 07 — Ambassador Nicholas Burns pitching a baseball, Beijing, July 4, 2023. U.S. Department of State / @USAmbChina. Public domain. The image records a real baseball/public-diplomacy moment during the posting; it does not show that baseball altered access, public opinion or policy. [Archive record.](https://commons.wikimedia.org/wiki/File:Ambassador_Burns_pitching_baseball.jpg)*
 
