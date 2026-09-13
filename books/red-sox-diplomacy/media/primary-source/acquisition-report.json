@@ -1,7 +1,12 @@
 {
-  "manifest_version": 2,
-  "acquired_count": 5,
-  "reused_count": 13,
+  "manifest_files": [
+    "primary-media-acquisition.json"
+  ],
+  "manifest_versions": {
+    "primary-media-acquisition.json": 2
+  },
+  "acquired_count": 0,
+  "reused_count": 18,
   "available_count": 18,
   "failed_count": 0,
   "available": [
@@ -15,6 +20,7 @@
       "date": "2022-01-25",
       "chapter": "1",
       "job": "official late-career portrait",
+      "manifest": "primary-media-acquisition.json",
       "acquisition_status": "reused"
     },
     {
@@ -27,6 +33,7 @@
       "date": "2024-10-22",
       "chapter": "1/18",
       "job": "Red Sox identity continuity in China",
+      "manifest": "primary-media-acquisition.json",
       "acquisition_status": "reused"
     },
     {
@@ -39,6 +46,7 @@
       "date": "2022-04-29",
       "chapter": "1/18",
       "job": "primary-source moving image; 2:25, 1280x720",
+      "manifest": "primary-media-acquisition.json",
       "acquisition_status": "reused"
     },
     {
@@ -51,6 +59,7 @@
       "date": "2003-12-02",
       "chapter": "2/13",
       "job": "Burns at NATO during Brussels tenure",
+      "manifest": "primary-media-acquisition.json",
       "acquisition_status": "reused"
     },
     {
@@ -63,6 +72,7 @@
       "date": "1993-01-26",
       "chapter": "6",
       "job": "Burns inside the Clinton NSC institutional setting",
+      "manifest": "primary-media-acquisition.json",
       "acquisition_status": "reused"
     },
     {
@@ -75,6 +85,7 @@
       "date": "1975",
       "chapter": "9",
       "job": "pre-Burns evidence that the Athens chancery was a contested political object",
+      "manifest": "primary-media-acquisition.json",
       "acquisition_status": "reused"
     },
     {
@@ -87,6 +98,7 @@
       "date": "2005-07-18",
       "chapter": "14",
       "job": "Bush-Singh leaders' political wager",
+      "manifest": "primary-media-acquisition.json",
       "acquisition_status": "reused"
     },
     {
@@ -99,6 +111,7 @@
       "date": "2005-11-25",
       "chapter": "14/15",
       "job": "period portrait for Under Secretary years",
+      "manifest": "primary-media-acquisition.json",
       "acquisition_status": "reused"
     },
     {
@@ -111,6 +124,7 @@
       "date": "2023-07-04",
       "chapter": "18",
       "job": "baseball continuity at human scale",
+      "manifest": "primary-media-acquisition.json",
       "acquisition_status": "reused"
     },
     {
@@ -123,6 +137,7 @@
       "date": "2024-05-08",
       "chapter": "18/21",
       "job": "people-to-people and student-exchange work",
+      "manifest": "primary-media-acquisition.json",
       "acquisition_status": "reused"
     },
     {
@@ -135,6 +150,7 @@
       "date": "2024",
       "chapter": "18/epilogue research",
       "job": "Red Sox Nation as public identity in China; not causal diplomacy evidence",
+      "manifest": "primary-media-acquisition.json",
       "acquisition_status": "reused"
     },
     {
@@ -147,6 +163,7 @@
       "date": "2023",
       "chapter": "18",
       "job": "senior-channel recovery after early-2023 deterioration",
+      "manifest": "primary-media-acquisition.json",
       "acquisition_status": "reused"
     },
     {
@@ -159,6 +176,7 @@
       "date": "2023-11-21",
       "chapter": "18/20",
       "job": "primary-source moving image on Biden-Xi Woodside follow-up; ~1:08",
+      "manifest": "primary-media-acquisition.json",
       "acquisition_status": "reused"
     },
     {
@@ -171,7 +189,8 @@
       "date": "2003-12-01",
       "chapter": "13",
       "job": "Burns with NATO Secretary General George Robertson and Secretary of Defense Donald Rumsfeld during allied defense-minister consultations",
-      "acquisition_status": "acquired"
+      "manifest": "primary-media-acquisition.json",
+      "acquisition_status": "reused"
     },
     {
       "dest": "books/red-sox-diplomacy/media/primary-source/ch13-rumsfeld-jensby-burns-nato-2003.jpg",
@@ -183,7 +202,8 @@
       "date": "2003-12-01",
       "chapter": "13",
       "job": "Burns present during Rumsfeld meeting with Danish Defense Minister Svend Aage Jensby at NATO headquarters",
-      "acquisition_status": "acquired"
+      "manifest": "primary-media-acquisition.json",
+      "acquisition_status": "reused"
     },
     {
       "dest": "books/red-sox-diplomacy/media/primary-source/ch14-burns-saran-new-delhi-2006.jpg",
@@ -195,7 +215,8 @@
       "date": "2006-01-20",
       "chapter": "14",
       "job": "Nicholas Burns and Indian Foreign Secretary Shyam Saran addressing a press conference during the early civil-nuclear implementation phase",
-      "acquisition_status": "acquired"
+      "manifest": "primary-media-acquisition.json",
+      "acquisition_status": "reused"
     },
     {
       "dest": "books/red-sox-diplomacy/media/primary-source/ch14-burns-menon-new-delhi-2007.jpg",
@@ -207,7 +228,8 @@
       "date": "2007-06-01",
       "chapter": "14",
       "job": "Burns with Foreign Secretary Shivshankar Menon during the decisive 2007 bilateral negotiation phase",
-      "acquisition_status": "acquired"
+      "manifest": "primary-media-acquisition.json",
+      "acquisition_status": "reused"
     },
     {
       "dest": "books/red-sox-diplomacy/media/primary-source/ch14-burns-edinburgh-regional-command-south-2007.jpg",
@@ -219,7 +241,8 @@
       "date": "2007-12-14",
       "chapter": "14/15",
       "job": "Burns speaking to traveling press after the Regional Command-South conference in Edinburgh as Under Secretary for Political Affairs",
-      "acquisition_status": "acquired"
+      "manifest": "primary-media-acquisition.json",
+      "acquisition_status": "reused"
     }
   ],
   "failed": []
