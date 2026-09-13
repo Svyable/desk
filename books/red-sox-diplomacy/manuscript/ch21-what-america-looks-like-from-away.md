@@ -6,7 +6,7 @@ He brings a country with him.
 
 Not literally. Not completely. But enough of one that strangers will begin using him as evidence.
 
-The suit. The flag. The security detail. The accent. The embassy. The motorcade. The invitations. The silences. The causes he chooses to defend. The questions he avoids. The way he treats the staff at a reception. The way his government behaves when no reception is happening.
+The suit. The flag. The security detail. The accent. The embassy. The motorcade. The invitations. The silences. The causes he chooses to defend. The questions he avoids. The way his government behaves when no reception is happening.
 
 All of it accumulates.
 
@@ -28,7 +28,7 @@ That gap is where representation begins.
 
 Greece made the point brutally clear.
 
-When Burns arrived in Athens in 1997, he did not enter a blank bilateral relationship waiting to be narrated by a new ambassador. Greeks already possessed stories about the United States: the civil war, the Cold War, the military junta, Cyprus, Turkey, NATO, the Balkans, American power, American intervention, American popular culture.
+When Burns arrived in Athens in 1997, he did not enter a blank bilateral relationship waiting to be narrated by a new ambassador. Greeks already possessed stories about the United States: the civil war, the Cold War, the military junta, Cyprus, Turkey, NATO, the Balkans, American intervention, American culture.
 
 Some of those stories were flattering.
 
@@ -44,9 +44,7 @@ His task was not to delete them.
 
 It was to represent the United States inside them.
 
-That distinction explains much of what made the Athens years so difficult and so revealing.
-
-The Kosovo war was deeply unpopular in Greece. Anti-American demonstrations grew. President Bill Clinton's 1999 visit became a security and political problem before he arrived. The United States saw a NATO campaign intended to stop Serbian violence in Kosovo. Many Greeks saw American coercion in the Balkans through a regional and historical lens Washington did not control.
+The Kosovo war made the problem impossible to ignore. The NATO campaign was deeply unpopular in Greece. Anti-American demonstrations grew. President Bill Clinton's 1999 visit became a security and political problem before he arrived. Washington saw a campaign intended to stop Serbian violence in Kosovo. Many Greeks saw American coercion in the Balkans through a regional and historical lens Washington did not control.
 
 The embassy could issue arguments.
 
@@ -60,9 +58,7 @@ That idea can become sentimental if stated too quickly.
 
 People do not cancel policy.
 
-A Greek citizen furious about Kosovo was not required to become less furious because the ambassador liked baseball.
-
-A student who attended an embassy program did not thereby accept American policy on Cyprus.
+A Greek citizen furious about Kosovo was not required to become less furious because the ambassador liked baseball. A student at an embassy program did not thereby accept American policy on Cyprus.
 
 Public diplomacy is not a trick for making disagreement disappear.
 
@@ -84,9 +80,7 @@ Their objection is dishonest.
 
 Diplomacy becomes more useful when it can survive complexity without losing the ability to advocate.
 
-An ambassador must be partisan for his government in one obvious sense. He is there to advance its interests and explain its policies. He is not a neutral anthropologist studying both sides from a safe distance.
-
-But he becomes useless if advocacy requires him to stop noticing how the country looks from outside itself.
+An ambassador is not a neutral anthropologist. He is there to advance his government's interests and explain its policies. But he becomes useless if advocacy requires him to stop noticing how the country looks from outside itself.
 
 The American self-image is particularly vulnerable to this problem because the United States speaks in universal language.
 
@@ -116,11 +110,9 @@ This is where Burns's public style matters more than his baseball fandom by itse
 
 The Red Sox gave him a recognizable biography.
 
-Boston. Family. Losing. Loyalty. Humor. A city. A team. A set of inherited loyalties that were obviously not government policy.
+Boston. Family. Losing. Loyalty. Humor. A city. A team. A set of inherited attachments that were obviously not government policy.
 
 That was useful because an official representative is otherwise easy to flatten into the institution he serves.
-
-The flag swallows the person.
 
 Burns kept letting small pieces of the person show.
 
@@ -128,35 +120,23 @@ The effect was not to make America lovable.
 
 It was to make the representative less abstract.
 
-That same problem followed him to China decades later under vastly different conditions.
+Decades later, China posed the same representational problem under harder political conditions. By then both governments had developed dense public stories about the other. Washington described an authoritarian competitor using coercion, violating rights and seeking technological and military advantage. Beijing described a United States attempting to contain China's rise, interfere in its internal affairs and preserve an order built around American dominance.
 
-By then the contest over national image had become more technologically sophisticated and more politically constrained. The United States and China were strategic competitors. Each government had developed a dense story about the other. Washington described an authoritarian China challenging international rules, coercing neighbors, violating human rights and seeking technological and military advantage. Beijing described a United States attempting to contain China's rise, interfere in its internal affairs and preserve an international order designed around American dominance.
+Neither story was merely invented.
 
-Neither story was merely a public-relations invention.
+Neither was the whole country.
 
-Neither was a complete description of the other society.
+Burns argued for more educational and cultural exchange even while representing a competitive American strategy. In 2024 the exchange effort itself became disputed: Burns accused Chinese authorities of interfering with U.S. cultural and educational programming; China rejected his characterization and said it supported people-to-people contact while opposing American interference and politicization.
 
-Burns entered the gap again.
+Chapter 18 treated that dispute as a problem of keeping communication alive under competition.
 
-He argued for more educational exchange and more direct contact between Americans and Chinese. The embassy brought speakers, artists, musicians and cultural programs into China. Burns traveled. He met students. The Red Sox appeared again in a small public moment, not as policy but as personal continuity.
+Here it reveals something else.
 
-Then the dispute itself became evidence.
+National image is contested terrain.
 
-In 2024 Burns accused Chinese authorities of repeatedly interfering with U.S. cultural and educational programming. The State Department supported his complaint. China's Foreign Ministry rejected the characterization and said China supported people-to-people contact while opposing American politicization and interference.
+Governments understand that people form political impressions outside formal negotiations. That is why states care about media, scholarships, cultural programs, visas, tourism, censorship, information campaigns and influence operations.
 
-This was public diplomacy turning into the subject of diplomacy.
-
-The two governments could not even agree on whether the channel between their societies was being obstructed.
-
-That is not a reason to conclude that exchange is pointless.
-
-It is a reason to stop pretending exchange is politically neutral.
-
-Governments understand that people form political impressions outside formal negotiations. That is why they invest in media, scholarships, cultural programs, visas, tourism promotion, information campaigns, censorship and influence operations.
-
-The human picture of a country is strategic terrain.
-
-Yet no government fully owns it.
+Yet no government fully owns the picture.
 
 Hollywood exports one America.
 
@@ -170,7 +150,7 @@ A Black American musician, a Chinese American scientist, a Midwestern exchange s
 
 Often they contradict one another.
 
-That contradiction is not a flaw to be solved by branding.
+That contradiction is not a branding problem.
 
 It is the country.
 
@@ -180,21 +160,7 @@ America abroad is not a message campaign.
 
 It is an accumulation of consequences.
 
-Burns's career offers a useful case because he repeatedly served in places where American power was impossible to ignore.
-
-In the West Bank, U.S. assistance sat inside a political conflict where the identity of the donor mattered.
-
-In Moscow and the former Soviet space, the United States appeared at one moment as model, victor, economic adviser, nuclear partner and strategic rival.
-
-At NATO after September 11, America appeared as a wounded ally whose partners rushed to its defense.
-
-During the Iraq rupture, the same alliance had to confront a United States whose policy some allies believed profoundly mistaken.
-
-In India, Washington was a potential strategic partner willing to rewrite nuclear rules.
-
-In Iran, it was the state organizing pressure and demanding suspension.
-
-In China, it was simultaneously competitor, market, military power, cultural source, educational destination and political adversary.
+Burns served repeatedly in places where American power was impossible to ignore and impossible to interpret in only one way. In the West Bank, aid carried political meaning because the donor carried political meaning. At NATO after September 11, the United States appeared as a wounded ally whose partners rushed to its defense. During the Iraq rupture, some of the same allies believed American policy profoundly mistaken. India saw strategic opportunity in a United States willing to change nuclear rules. Iran encountered the state organizing pressure and demanding suspension. China encountered a country that was at once competitor, market, military power, cultural source and educational destination.
 
 There was never one America to represent.
 
@@ -222,13 +188,13 @@ Advocate without assuming comprehension.
 
 Explain without pretending history began with the current administration.
 
-Recognize hypocrisy without deciding ideals are therefore meaningless.
+Recognize hypocrisy without deciding ideals are meaningless.
 
 Recognize ideals without assuming the country always lives up to them.
 
 That is representation from away.
 
-Burns's long career also reveals another reversal.
+Burns's long career also reveals a reversal that is easy to miss.
 
 Ambassadors are supposed to explain America to foreign countries.
 
