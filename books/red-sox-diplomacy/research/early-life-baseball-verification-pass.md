@@ -1,8 +1,77 @@
 # Early-Life Baseball Verification Pass — Wellesley, Little League, and the Burns identity
 
-This note isolates one unusually promising early-life source and deliberately prevents it from being over-promoted before authentication.
+This note originally isolated an unusually promising but unauthenticated early-life source. A new **primary Burns source now closes the central Little League question** while leaving narrower teammate/team details unresolved.
 
-## The 2007 Paul Sanford source
+## Primary-source upgrade — July 4, 2024
+
+In his Independence Day remarks as U.S. ambassador in Beijing, Nicholas Burns supplied a direct childhood baseball memory.
+
+The embassy's official transcript says the 2024 celebration's theme was **“America the Beautiful.”** Burns explains that the song had a personal Wellesley connection and says it had **“special resonance for me and my friends as we played Little League baseball at ‘Bates School’”** — the school named for Katharine Lee Bates, the Wellesley writer of “America the Beautiful.” He goes on to describe Bates as a poet, writer, social reformer, and women's-rights advocate.
+
+Primary source:
+https://china.usembassy-china.org.cn/ambassador-nicholas-burns-remarks-on-independence-day/
+
+### What this establishes cleanly
+
+The book can now state without qualification that:
+
+- Nicholas Burns played **Little League baseball** as a child;
+- he associates that baseball memory with **Bates School in Wellesley**;
+- the memory involved friends rather than an isolated backyard game;
+- the memory was durable enough that, decades later and while serving as ambassador in Beijing, Burns connected it to Wellesley and Katharine Lee Bates during an Independence Day speech.
+
+This is stronger than the previously available evidence. Burns's ESPN recollection established that his playing career peaked in the **Wellesley Babe Ruth League**. The 2024 speech now supplies the preceding Little League stage directly from Burns himself.
+
+### What it still does not establish
+
+The speech does **not** identify:
+
+- his Little League team name;
+- his position;
+- his coach;
+- his uniform number;
+- exact seasons;
+- whether Paul Sanford was on the same team or merely in the same league;
+- whether the games were on the present-day Kelly Field diamonds or an earlier field configuration.
+
+Do not fill those details from modern geography or the unauthenticated guestbook record.
+
+## Bates School / baseball geography
+
+The local geography is unusually coherent but must be handled chronologically.
+
+Wellesley municipal records today identify the athletic complex around Bates School as **Kelly Field**, with multiple youth-baseball diamonds. A town field inventory lists Kelly Fields at Bates School among Wellesley's youth baseball sites. A municipal trail guide describes a baseball field immediately adjacent to Bates School.
+
+Sources:
+- Town of Wellesley active field inventory / North 40 report:
+  https://www.wellesleyma.gov/DocumentCenter/View/43274/North-40-Final-Report-with-Appendix_2014
+- Wellesley Youth Baseball & Softball field-location guide:
+  https://wellesleyyouthbaseballandsoftball.teamsnapsites.com/wp-content/uploads/sites/270/2023/09/NEW_Safety_WYBS_2021.pdf
+- Boulder Brook / Bates School municipal trail guide:
+  https://www.wellesleyma.gov/DocumentCenter/View/25913/Boulder-Brook-Reservation
+
+These modern sources establish that the Bates/Kelly site is a real and continuing youth-baseball landscape. They do **not** prove which exact diamond or field configuration Burns used in the 1960s. His own 2024 speech is sufficient to place the Little League memory at “Bates School”; let the primary source do that work.
+
+## Why Katharine Lee Bates matters to this memory
+
+Bates School was named for **Katharine Lee Bates**, the Wellesley College professor and writer of “America the Beautiful.” A Wellesley neighborhood history says the school carried her name because of her long Wellesley connection and notes that the song became part of the school's identity.
+
+Source:
+https://wellesleywestonmagazine.com/past-issues/summer-2006-table-of-contents/wellesleys-fells-neighborhood/
+
+This makes the 2024 Beijing anecdote more than a generic recollection of childhood sports. Burns is standing at an American Independence Day event overseas, speaking under an “America the Beautiful” theme, and reaches back to playing Little League at the Wellesley school named for the song's author.
+
+That is a documented circle of memory, not a metaphor invented by the biographer.
+
+### Manuscript opportunity
+
+Chapter 1 can now begin the baseball formation with something concrete:
+
+**Bates School -> Little League -> Wellesley Babe Ruth League -> inherited Red Sox fandom.**
+
+The sequence is better than the prior formulation, which began at Babe Ruth League age and could only treat the earlier Little League record as probable.
+
+## The 2007 Paul Sanford source — still useful, but its status changes
 
 A January 15, 2007 online condolence entry for Paul Sanford is signed **“Nick Burns”** and, in Legacy's older rendering, lists the signer as **Vienna, Virginia**. The writer says he knew Sanford from childhood in Wellesley, Massachusetts and that the two **met in Little League baseball** before remaining friends through junior high school and beyond.
 
@@ -16,15 +85,28 @@ Sources:
 - Telegraph / Legacy rendering:
   https://www.legacy.com/us/obituaries/macon/name/paul-sanford-obituary?id=25289508
 
-## Why the attribution was already very high-confidence
+### What the 2024 speech changes
+
+The signed condolence is no longer needed to establish that Burns played Little League in Wellesley. Burns has now established that himself.
+
+The guestbook's remaining value is narrower and more specific:
+
+- identifying **Paul Sanford** as a possible Little League friend;
+- extending the friendship into junior high and later life;
+- supplying the 2002 Fenway / Green Monster reunion memory;
+- showing Red Sox language in a private-memorial context rather than an official speech, **if** the attribution can be authenticated.
+
+Those details still require attribution because the public guestbook did not authenticate the signer.
+
+## Why the Sanford attribution remains very high-confidence
 
 Several independent details align unusually closely with Ambassador R. Nicholas Burns:
 
 - Burns grew up in Wellesley and attended Wellesley public schools through Wellesley High School, class of 1974.
+- Burns now directly confirms in a 2024 official speech that he played Little League at Bates School in Wellesley.
 - Paul Sanford was born July 29, 1956 — the same birth year as Burns — and his obituary says he was raised in Wellesley.
-- Sanford later earned a degree from Boston College; Burns graduated from Boston College in 1978. This does not prove later contact but adds another biographical overlap.
-- Burns independently told ESPN that his own playing career peaked in the **Wellesley Babe Ruth League**, so a Little League background immediately before Babe Ruth age is chronologically coherent.
-- The condolence writer uses **Red Sox Nation** language that is exceptionally characteristic of Burns's documented public vocabulary by 2007.
+- Burns independently told ESPN that his own later playing career peaked in the **Wellesley Babe Ruth League**.
+- The condolence writer uses **Red Sox Nation** language characteristic of Burns's documented public vocabulary by 2007.
 - Legacy's older guestbook rendering preserves the signer location as **Vienna, VA**.
 - The Department of State Historian's career record lists Virginia among Burns's states of residence. That is only broad corroboration of the state, not proof of the Vienna address or authorship.
 - The entry describes a friendship continuing from Little League into junior high, matching Burns's established Wellesley childhood.
@@ -38,9 +120,9 @@ Sources for Burns and Sanford context:
 - https://www.legacy.com/us/obituaries/macon/name/paul-sanford-obituary?id=25289508
 - https://www.harvardmagazine.com/2002/09/disease-fighter-html
 
-The remaining uncertainty is not whether the events described in the entry fit Burns. They do. The uncertainty is whether Legacy authenticated the identity of the person who typed the name “Nick Burns.” There is no indication that it did.
+The remaining uncertainty is not whether Burns played Little League. That is now directly established. The uncertainty is whether Ambassador Burns authored this particular condolence and, therefore, whether Paul Sanford can be identified as the childhood friend in ordinary manuscript prose without attribution.
 
-## New cross-authentication lead — a second Wellesley sports condolence in 2015
+## Cross-authentication lead — a second Wellesley sports condolence in 2015
 
 A separate Legacy page for **Ernest R. Latessa**, published through the *Wellesley Townsman* in 2015, materially strengthens the attribution pattern.
 
@@ -65,44 +147,47 @@ The 2015 page therefore contains a combination that is difficult to dismiss as g
 - a brother named Chris;
 - a second condolence posted by Chris Burns that independently describes the same St. James softball history.
 
-This does not prove that the 2007 and 2015 “Nick Burns” entries were submitted through the same Legacy account or that Legacy verified either writer's identity. It does, however, make the broader pattern substantially stronger: a “Nick Burns” repeatedly appears in Wellesley-centered memorial contexts with sports memories, Red Sox language, and a sibling relationship independently documented in an official federal record.
+This does not prove that the 2007 and 2015 “Nick Burns” entries were submitted through the same Legacy account or that Legacy verified either writer's identity. It does, however, make the broader pattern substantially stronger.
 
-## New probable playing-history lead — St. James softball at Hunnewell Field
+## Probable playing-history lead — St. James softball at Hunnewell Field
 
-If the 2015 attribution is correct, it adds a second stage to Burns's local playing history:
+If the 2015 attribution is correct, it adds a later stage to Burns's local playing history:
 
-1. **Wellesley youth baseball** — directly established by Burns's ESPN recollection of the Babe Ruth League; probably preceded by Little League if the 2007 Sanford condolence is genuine.
-2. **St. James softball at Hunnewell Field in the 1970s** — probable first-person recollection in the 2015 Latessa condolence, independently echoed by the Chris Burns entry on the same page.
+1. **Little League at Bates School** — now directly established by Burns in 2024.
+2. **Wellesley Babe Ruth League** — directly established by Burns in his ESPN recollection.
+3. **St. James softball at Hunnewell Field in the 1970s** — probable first-person recollection in the 2015 Latessa condolence, independently echoed by the Chris Burns entry on the same page.
 
-This would broaden the early-life picture from “played organized youth baseball” to “continued playing local softball into the 1970s.”
-
-Do not silently convert this into manuscript fact yet. The evidence is strong enough for an explicitly attributed research statement but still rests on a public guestbook platform rather than an authenticated letter, interview, yearbook, roster, or newspaper game report.
+Do not silently convert stage three into manuscript fact yet. The evidence remains strong but unauthenticated.
 
 ## Current evidentiary status
 
-**Status: extremely high-confidence Burns attribution, now cross-corroborated by a second Wellesley sports guestbook and an official sibling record; still not formally authenticated enough for silent conversion into unqualified fact.**
+### Little League
 
-The safe research formulation is:
+**Status: direct primary evidence.**
 
-> A 2007 obituary guestbook entry signed “Nick Burns” of Vienna, Virginia — whose biography and baseball details align very closely with Ambassador Burns — says he and Paul Sanford met playing Little League baseball in Wellesley and remained friends afterward. A separate 2015 Wellesley sports obituary contains paired entries from Chris Burns and Nick Burns, with Nick calling Chris his brother and recalling that the two played St. James softball at Hunnewell Field in the 1970s; an official Senate record lists Christopher Burns as Nicholas Burns's brother.
+Safe:
 
-For a heavily sourced trade manuscript, an attributed version may now be usable if the qualification is worth the narrative space. The cleanest course remains to obtain one direct or archival confirmation before treating either guestbook memory as ordinary biographical fact.
+> Nicholas Burns later recalled playing Little League baseball with friends at Bates School in Wellesley.
 
-The unsafe formulations, until corroborated, are:
+### Paul Sanford as Little League friend
 
-> Nicholas Burns met Paul Sanford playing Little League baseball in Wellesley.
+**Status: extremely high-confidence attribution, but still not formally authenticated.**
 
-and
+Safe research formulation:
 
-> Nicholas Burns played St. James softball at Hunnewell Field in the 1970s.
+> A 2007 obituary guestbook entry signed “Nick Burns” of Vienna, Virginia — whose biography and baseball details align very closely with Ambassador Burns — says he and Paul Sanford met playing Little League baseball in Wellesley and remained friends afterward.
 
-Both may well be true. The guestbook evidence does not yet warrant dropping the attribution.
+### St. James softball
 
-## What would authenticate the Little League memory
+**Status: highly persuasive paired guestbook evidence, not yet primary-authenticated.**
 
-Any one of the following would materially upgrade the source:
+Keep attributed until a roster, newspaper report, photograph, parish record, or direct confirmation is found.
 
-1. Burns directly confirms the entry or the Sanford friendship.
+## What would still authenticate the Sanford memory
+
+Any one of the following would materially upgrade the remaining source:
+
+1. Burns directly confirms the Sanford friendship or guestbook entry.
 2. Wellesley Little League records place Nicholas Burns and Paul Sanford in the same league/team/season.
 3. Wellesley Townsman coverage names both boys in the same baseball context.
 4. A Wellesley school publication identifies Sanford as a Burns friend or teammate.
@@ -136,9 +221,11 @@ https://apps.hks.harvard.edu/faculty/cv/NicholasBurns.pdf
 A directly browsable scan of the **1974 Wellesleyan** is available through e-Yearbook:
 https://www.e-yearbook.com/yearbooks/Wellesley_High_School_Wellesleyan_Yearbook/1974/Page_16.html
 
-The scan is a concrete archive target rather than proof of any activity. Search-engine indexing has not yet yielded a Burns baseball roster or activity entry, and incomplete OCR/indexing must not be converted into negative evidence.
+Search-engine indexing of that yearbook has now surfaced Burns in the AFS section: Wellesley High sent **Nick Burns to Luxembourg for three months** and Eliot Powell to Belgium. The yearbook describes the AFS motto as **“Walk Together, Talk Together.”**
 
-Priority searches:
+That is not baseball evidence, but it is useful formation evidence: the same adolescence that contained local sports also contained Burns's first documented overseas exchange.
+
+Priority searches remain:
 
 - Nicholas / Nick Burns, Robert Burns, Esther Burns, Christopher / Chris Burns;
 - Paul Sanford;
@@ -147,14 +234,18 @@ Priority searches:
 - roughly 1965–1971 for Little League / Babe Ruth age;
 - 1970–1974 for high-school and local-softball evidence.
 
-## What is already independently established
+## What is independently established now
 
-These guestbook leads are additive rather than foundational. We already have stronger direct evidence from ESPN that Burns says his playing career peaked in the **Wellesley Babe Ruth League**.
+The early baseball spine no longer depends on guestbook inference:
 
-That means the manuscript can already state that Burns played organized youth baseball in Wellesley. The guestbook material matters because, if authenticated, it would extend the documented playing history backward into Little League and forward into local 1970s softball while supplying names from Burns's Wellesley sports network.
+- Burns directly recalls **Little League at Bates School**;
+- Burns directly says his playing career peaked in the **Wellesley Babe Ruth League**;
+- Burns directly supplies the inherited Red Sox family story in the 1997 State briefing room.
+
+The probable guestbook memories can now do what weaker sources should do: add possible names and continuity around a spine already established by primary evidence.
 
 ## Manuscript rule
 
-Do not build a reconstructed childhood scene around either guestbook source. Do not infer field, position, uniform, coach, inning, family attendance, or conversation.
+Do not build a reconstructed childhood game around the Bates School speech. Burns gives us place, friends, Little League, and the later meaning of the school's name. He does not give us inning, score, position, coach, weather, parents in the stands, or a particular July 4 game.
 
-Until authenticated, either keep the material in research notes or attribute it explicitly to the signed guestbook entries. If corroborated, it becomes a valuable bridge between Burns's own Babe Ruth League recollection, the larger Wellesley/Red Sox formation chapter, and evidence that playing baseball/softball remained part of his local social life beyond childhood.
+The factual scene is already strong enough without invention.
