@@ -44,6 +44,10 @@ This is one of the small disciplines of factual biography. History is full of ev
 
 So leave Burns out of the room.
 
+![ABSENCE OBJECT 01 — the archive remembers the 2003 loss more precisely than the 2004 victory.](../media/ch16-absence-object.svg)
+
+*ABSENCE OBJECT 01 — Burns later located the 2003 ALCS heartbreak precisely: Armed Forces television in Brussels, Aaron Boone, 6:16 a.m. The current record does not establish the equivalent 2004 championship-night room, companions or immediate reaction. The gap is preserved rather than filled. [2003 first-person account.](https://www.espn.co.uk/espn/magazine/archives/news/story?page=magazine-20040119-article32)*
+
 Watch the baseball instead.
 
 In 2004, Boston's route to the championship seemed briefly designed to make the old identity unbearable before destroying it.
@@ -135,6 +139,10 @@ Redemption in 2005.
 Deliverance from inevitable losing in 2006.
 
 Identification with remembered suffering in 2012.
+
+![AFTERLIFE LEDGER 01 — Burns's public Red Sox language after the drought ended.](../media/ch16-afterlife-ledger.svg)
+
+*AFTERLIFE LEDGER 01 — The championship changes Burns's public language without erasing the inherited drought: “redemption” in 2005; deliverance from the belief that the Red Sox must always lose in 2006; “we identify with suffering” in 2012. This is a chronology of public language, not a reconstruction of private feeling. [2005 USIP remarks.](https://2001-2009.state.gov/p/us/rm/2005/45781.htm) [2006 Northeastern commencement.](https://2001-2009.state.gov/p/us/rm/2006/66226.htm) [2012 Atlantic Council transcript.](https://www.atlanticcouncil.org/wp-content/uploads/2012/03/Burns_Transcript.pdf)*
 
 The old losses had become part of the community's account of itself. Winning changed the record and the forecast without requiring the fans to abandon the identity they had built while losing.
 
