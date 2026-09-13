@@ -32,6 +32,20 @@ By late 1996, the pattern was already visible. Burns welcomed a visiting New Ham
 
 The line was funny precisely because it was obviously false.
 
+But the joke contained a real baseball judgment.
+
+Burns contrasted Clemens with Ted Williams and Carl Yastrzemski. Those men, he said, could say something Clemens no longer could: they had been lifelong Red Sox.
+
+The standard was not greatness. Clemens was already one of the best pitchers of his generation.
+
+The standard was staying.
+
+That fits the rest of Burns's baseball language better than a generic description of fandom. The Red Sox identity he carried publicly kept returning to continuity: the family that handed him the team, the city that kept the grievance, the players who stayed, the fans who stayed even longer.
+
+None of that makes baseball a secret theory of diplomacy.
+
+It does make the joke more specific.
+
 Nobody in the room could mistake baseball grievance for diplomatic doctrine. The spokesman who spent his days policing the boundary around the government's actual position could cross that boundary theatrically because everyone knew where it was.
 
 He added that it would have been worse if Clemens had gone to the Yankees.
@@ -47,6 +61,22 @@ The joke contained its own answer.
 By then there was enough sports briefing inside the briefing for everybody to recognize the category.
 
 In April, Burns welcomed a group of Cypriot journalists by asking whether they had baseball in Cyprus. The visitors said they did not. He called that unfortunate and moved into Secretary Albright's ceremonial first pitch in Baltimore.
+
+Later that month came stronger evidence that the baseball identity no longer belonged to Burns alone.
+
+During a serious exchange about the evidentiary basis for accusations against American citizens, a reporter reminded Burns that he had accused Roger Clemens of treason.
+
+The room laughed.
+
+Burns did not need the reference explained. He replied that the Clemens case had already been confirmed. Another reporter pointed out that Clemens merely worked for the Toronto baseball team. Burns answered by volunteering a fresh result: Boston had beaten Baltimore 2–1 in twelve innings the previous night. Then he teased an Orioles supporter in the room.
+
+This is what a recurring bit looks like after it becomes shared property.
+
+Burns had not introduced baseball into the exchange.
+
+A reporter had used Burns's own joke against him.
+
+That matters more than another self-description as a fan. A persona can be announced unilaterally. Social shorthand requires other people to remember it.
 
 A month later a Dutch journalist said he knew the Red Sox played at Fenway Park. Burns immediately worked the answer into the standing Red Sox-Yankees script, pushed into baseball trivia, and eventually labeled the episode for what it had become: the baseball briefing.
 
@@ -81,6 +111,12 @@ Burns complained about Clemens. He asked visitors about their teams. Reporters t
 On June 4, the Clemens grievance opened into something more locally specific. Burns said Boston was still bitter and, describing the condition of the team, announced: “We’re saying our Novenas for the Red Sox.” He kept the joke going through mock-devotional language about resuscitation and the patron saint of lost causes.
 
 It would be a mistake to turn that exchange into a claim about Burns's theology. Its value is smaller and better. The joke sounded like somewhere. It drew on a New England Catholic vocabulary of ritual, endurance and impossible cases to describe a baseball team whose failures had become communal folklore.
+
+Then Burns marked the boundary himself.
+
+Toronto had taken Clemens. That was baseball grievance. Canada, he said in substance, remained one of America's closest friends and neighbors.
+
+The distinction was almost a demonstration of the chapter's point. Mock hostility could sit inside an official briefing only because everyone could tell where the joke ended and the actual bilateral relationship began.
 
 Then the room moved on.
 
@@ -176,7 +212,7 @@ By October, while Burns was waiting for Senate confirmation to go to Athens, the
 
 The joke had completed a circuit.
 
-A player changed teams. A government spokesman complained theatrically at the podium. Reporters remembered. One of them carried the joke into baseball itself. The player sent it back.
+A player changed teams. A government spokesman complained theatrically at the podium. Reporters remembered. One of them threw the language back during a policy exchange. Another carried the joke into baseball itself. The player sent it back.
 
 That is stronger evidence of a shared persona than Burns announcing his own fandom again. Other people had learned the script well enough to keep writing it after he left the room.
 
