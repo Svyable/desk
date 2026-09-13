@@ -94,6 +94,18 @@ A stop-by-stop documentary travel sequence drawn from a reliable travel ledger, 
 
 When a participant later interprets the trip, keep the retrospective interpretation distinct from the contemporaneous itinerary facts.
 
+### ADDRESS OBJECT
+
+An institutional or administrative geometry diagram used when an address, accreditation relationship, mission status, jurisdiction, or organization chart itself carries policy meaning.
+
+An address object should distinguish institutional functions without silently becoming a territorial map. When sovereignty or borders are disputed, prefer organizational relationships and explicit labels over inferred boundary lines.
+
+### ASSISTANCE LEDGER
+
+A financial or program-scale object that makes amounts, periods, units, and source provenance visible. It must distinguish program-wide totals from the protagonist's personal authority, project selection, or operational responsibility.
+
+A ledger should clarify the denominator and scope before allowing a number to carry narrative weight.
+
 ### MAP OBJECT
 
 Use only when geography changes understanding: distance, alliance structure, border, route, posting, repeated location, or spatial constraint. A decorative locator map is not enough.
@@ -132,9 +144,11 @@ The Beijing Red Sox clinic image used in Chapter 1 should not simply recur in Ch
 - A designed facsimile must never masquerade as an original scan.
 - Cropping cannot remove context in a way that changes meaning.
 - Overlapping service at a large post does not establish personal acquaintance; witness distance must remain explicit.
+- Program-wide financial totals do not become a named official's personal budget merely because the official worked on the program.
+- An institutional diagram cannot smuggle disputed sovereignty assumptions into the page through design.
 - Unknown is an allowed state. If the archive does not locate the 2004 championship-night room, the design can make that absence visible rather than filling it.
 
-## Current Chapter 1–4 release ledger
+## Current Chapter 1–5 release ledger
 
 | Object | Chapter | Rights | Draft state | Release action |
 | --- | --- | --- | --- | --- |
@@ -152,9 +166,11 @@ The Beijing Red Sox clinic image used in Chapter 1 should not simply recur in Ch
 | ITINERARY OBJECT 01 | 3 | original diagram from government travel ledger + Burns interpretation | local SVG | preserve distinction between official stop count and Burns's later “eight-country” description |
 | CONTACT SHEET 01 | 4 | White House/NARA federal photography | remote Reagan Library image | vendor full contact sheet; preserve roll-level metadata |
 | WITNESS OBJECT 01 | 4 | original diagram based on ADST oral histories | local SVG | visually re-verify cited Osius passage before release |
+| ADDRESS OBJECT 01 | 5 | original diagram from State institutional background | local SVG | final re-audit wording against period-specific mission status |
+| ASSISTANCE LEDGER 01 | 5 | original diagram from CRS/State/USAID data | local SVG | retain CRS source and verify units/figures at release |
 
 ## Visual restraint target
 
-A typical chapter does **not** need five objects. Chapter 2 does because it is explicitly arguing about identity moving across institutions and uses several periods as evidence. Chapter 3 needs only two because movement and maintenance can be made legible without another portrait. Chapter 4 also needs only two: one archival artifact for the senior bilateral relationship and one object that exposes witness distance.
+A typical chapter does **not** need five objects. Chapter 2 does because it is explicitly arguing about identity moving across institutions and uses several periods as evidence. Chapter 3 needs only two because movement and maintenance can be made legible without another portrait. Chapter 4 also needs only two: one archival artifact for the senior bilateral relationship and one object that exposes witness distance. Chapter 5 needs only two because institutional ambiguity and assistance scale are the evidence; refusing a territorial map is itself part of the editorial method.
 
 The test is simple: remove the object. If the reader loses no evidence, mechanism, temporal contrast, or archival understanding, the object probably does not belong.
