@@ -180,7 +180,39 @@ Sources:
 
 This is the strongest public visual lead yet found for reconstructing the human network around Burns's baseball project. The photos are organizational archive material rather than neutral press photography, so captions should be independently checked where possible before identifying every participant in manuscript prose.
 
-## 7. A more precise assistance map
+## 7. The club-side archive is now narrow enough to name departments and people
+
+A later Red Sox institutional obituary establishes that **Dick Bresciani had been Vice President of Public Affairs since 1996 and chaired the Red Sox task-force committee for the 1999 All-Star Game**.
+
+Source:
+https://www.mlb.com/news/longtime-red-sox-public-relations-head-dick-bresciani-passes-away/c-102858356
+
+That matters because Jim Rice Field was an All-Star-linked MLB / Red Sox development project. Bresciani therefore sat inside the club machinery surrounding the same event complex in which Samiotes Consultants says it worked with the Red Sox and MLB.
+
+A separate retrospective report says **Ron Burton Jr.** gave a supplier an opportunity to provide branded products for Red Sox Community Relations twenty-six years before 2022, placing Burton in that network around **1996**. *Fenway Lives* later lists Burton as **Community Relations Manager**, alongside Bresciani as Vice President of Public Affairs.
+
+Sources:
+- https://lynnjournal.com/2022/09/15/red-sox-honor-jazzy-sportswear-of-lynn/
+- https://cincinnatistate.ecampus.com/fenway-lives-team-behind-team-people-who/bk/9781579400903
+
+### Why this changes the archival strategy
+
+The phrase “Red Sox front office” is now too imprecise.
+
+The priority order should be:
+
+1. **Bresciani / Public Affairs / 1999 All-Star task-force files** — because the Samiotes-connected Jim Rice Field project sits directly inside that event environment;
+2. **Burton / Community Relations files** — particularly if the Greece support involved equipment, clinics, youth programs or donated materials;
+3. **John Harrington executive correspondence** — if an unusual international commitment required senior approval;
+4. **Dan Duquette baseball-operations / player-development files** — if the assistance involved coaches, scouts or baseball personnel.
+
+### Critical guardrail
+
+No current evidence says Bresciani or Burton personally handled Greece.
+
+The new evidence tells us **where to look and whom to ask**, not whom to credit.
+
+## 8. A more precise assistance map
 
 The currently documented network is best represented as follows:
 
@@ -211,6 +243,7 @@ The currently documented network is best represented as follows:
 
 - contemporaneously reported assistance / pledged support;
 - known 1999 collaboration with MLB on a major Boston youth-baseball development project;
+- now-named archival lanes through Public Affairs / the 1999 All-Star task force and Community Relations;
 - **specific Greece contribution not yet recovered**.
 
 ### Boston-area Greek-American baseball network
@@ -220,7 +253,7 @@ The currently documented network is best represented as follows:
 - Galatis: later documented route into Red Sox management for the 2018 Agganis / Greek Heritage celebration;
 - Karalekas / Baseball Acropolis: clinics, equipment, promotion, federation/MLB networking, and surviving visual archive.
 
-## 8. Why the Boston layer matters to the book
+## 9. Why the Boston layer matters to the book
 
 The Greece chapter becomes richer if “Boston” is not reduced to Burns carrying a Red Sox cap overseas.
 
@@ -235,19 +268,22 @@ The surviving record suggests a transatlantic cultural network in which:
 
 That is a better story than “Burns got the Red Sox to bring baseball to Greece.” It is a network story with several Boston nodes and one major Baltimore node.
 
-## 9. Highest-value archival targets for the Red Sox role
+## 10. Highest-value archival targets for the Red Sox role
 
-1. **Chuck Samiotes / Samiotes Consultants project files** — Jim Rice Field correspondence, Red Sox contacts, MLB contacts, and any Greek-baseball records from the same period.
-2. **Boston Red Sox correspondence / front-office files, 1998–2001** — Greece, Hellenic Amateur Baseball Federation, Nicholas Burns, Jim Small, Peter Angelos, Panos Mitsiopoulos, Chuck Samiotes, Bill Galatis, Chris Karalekas, Jim Rice Field, Ramsay Park.
-3. **Dick Bresciani papers or Red Sox public-relations archive** — he was a long-serving club PR/public-affairs executive during this period and may have preserved correspondence or press material.
-4. **MLB International / RBI files** — records distinguishing league-level equipment/coaching from club-specific contributions and potentially linking the Boston and Greece development networks.
-5. **U.S. Embassy Athens correspondence** — requests sent to or received from the Red Sox and any references to Samiotes/Galatis contacts.
-6. **Bill Galatis papers/interview** — especially whether his 2018 Gordon Edes route had any antecedent in the Olympic-baseball effort.
-7. **Boston Globe / Boston Herald archives, 1999–2001** — local coverage may have named Red Sox personnel involved.
-8. **Friends of Greek Baseball records** — board lists, donors, correspondence, equipment inventories.
-9. **Baseball Acropolis photo negatives/captions** — identify the “Boston businessmen” and date the Burns/Karalekas photograph.
+1. **Dick Bresciani / Public Affairs / 1999 All-Star task-force files** — Jim Rice Field, Chuck Samiotes, MLB/RBI, Greece, Nicholas Burns, Greek federation, Jim Small, Peter Angelos.
+2. **Ron Burton Jr. / Community Relations files** — donation and equipment logs, youth development, international requests, Jim Rice Field and Greek-American contacts.
+3. **Chuck Samiotes / Samiotes Consultants project files** — Jim Rice Field correspondence, Red Sox contacts, MLB contacts, and any Greek-baseball records from the same period.
+4. **Boston Red Sox executive correspondence, 1998–2001** — John Harrington and any approval chain for Greece/Hellenic federation support.
+5. **Dan Duquette / baseball operations** — use if the support involved instruction, player-development staff, scouting or coaches.
+6. **MLB International / RBI files** — records distinguishing league-level equipment/coaching from club-specific contributions and potentially linking the Boston and Greece development networks.
+7. **U.S. Embassy Athens correspondence** — requests sent to or received from the Red Sox and any references to Samiotes/Galatis contacts.
+8. **Bill Galatis papers/interview** — especially whether his 2018 Gordon Edes route had any antecedent in the Olympic-baseball effort.
+9. **Boston Globe / Boston Herald archives, 1999–2001** — local coverage may have named Red Sox personnel involved.
+10. **Friends of Greek Baseball records** — board lists, donors, correspondence, equipment inventories.
+11. **Baseball Acropolis photo negatives/captions** — identify the “Boston businessmen” and date the Burns/Karalekas photograph.
+12. **1999 Boston Red Sox Media Guide** — recover administrative/directory pages to map exact department staff during the support window.
 
-## 10. Manuscript rule
+## 11. Manuscript rule
 
 Until those records appear, use language at the correct level:
 
@@ -258,6 +294,10 @@ Until those records appear, use language at the correct level:
 **Safe:** “Boston-area Greek-American Red Sox fans such as Bill Galatis and Chuck Samiotes performed documented grassroots work in Greece.”
 
 **Safe research inference:** “Samiotes's firm says it was working with MLB and the Red Sox on a Boston youth-baseball project in 1999, making him a plausible human bridge worth testing in the archives.”
+
+**Safe research inference:** “The club-side archive can now be searched first through Bresciani's 1999 All-Star/Public Affairs files and Community Relations records rather than as an undifferentiated front office.”
+
+**Unsafe:** “Bresciani or Burton handled the Greece request.”
 
 **Unsafe:** “Samiotes brought the Red Sox into Burns's Greek project.”
 
