@@ -2,7 +2,7 @@
 
 In December 2021, Nicholas Burns was waiting to go to China.
 
-The Senate had confirmed him as ambassador to Beijing. At the State Department, a reporter asked about the confirmation and the work ahead in a relationship already crowded with trade disputes, military tension, human rights, technology controls, climate negotiations, and the possibility that the two most powerful countries in the world were becoming structurally hostile to one another.
+His nomination had cleared the Senate Foreign Relations Committee, but the Senate had not yet confirmed him. At the State Department, a reporter asked about getting Burns in place in Beijing and the work ahead in a relationship already crowded with trade disputes, military tension, human rights, technology controls, climate negotiations, and the possibility that the two most powerful countries in the world were becoming structurally hostile to one another.
 
 Then somebody interrupted.
 
@@ -16,13 +16,13 @@ It did not matter.
 
 The room still knew.
 
-![State Department Spokesperson Ned Price at the December 6, 2021 Department Press Briefing](https://commons.wikimedia.org/wiki/Special:Redirect/file/Spokesperson_Price_Holds_the_Department_Press_Briefing_(51728591887).jpg)
+![State Department Spokesperson Ned Price at the December 6, 2021 Department Press Briefing](https://commons.wikimedia.org/wiki/Special:Redirect/file/Spokesperson_Price_Holds_the_Department_Press_Briefing_%2851728591887%29.jpg)
 
 *FIG. 03 — Department Spokesperson Ned Price in the State Department briefing room, Washington, D.C., December 6, 2021. Freddie Everett / U.S. Department of State. Public domain. Burns is not in the photograph; that is the point. This is the room and the day on which a reporter could invoke his Red Sox identity twenty-four years after he left the podium. [Photo record.](https://www.flickr.com/photos/statephotos/51728591887/) [Primary transcript.](https://2021-2025.state.gov/briefings/department-press-briefing-december-6-2021/)*
 
 [![Transcript object preserving the December 6, 2021 Red Sox interruption](../media/ch02-briefing-2021-red-sox.svg)](https://2021-2025.state.gov/briefings/department-press-briefing-december-6-2021/)
 
-*TRANSCRIPT OBJECT 01 — The official State Department record preserves the interruption, laughter, and immediate return to the substance of Burns’s appointment. Federal government work. The joke survives because the room already knows the biography.*
+*TRANSCRIPT OBJECT 01 — The official State Department record preserves the interruption, laughter, and immediate return to the substance of Burns’s pending nomination. Federal government work. The joke survives because the room already knows the biography.*
 
 There are public officials whose personal details have to be reintroduced every time they take a new job. A hometown appears in the biography. A hobby arrives in the profile. A favorite team is supplied by staff because somebody has decided the person needs one recognizable thing.
 
