@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" role="img" aria-labelledby="title desc">
+  <title id="title">Register switch in Nicholas Burns's June 2007 Paris Marshall Plan speech</title>
+  <desc id="desc">A documentary facsimile showing Burns opening with a shared Red Sox bond and a joking Yankees reference before immediately turning to Ambassador Craig Stapleton's work on U.S.-French relations and the Marshall Plan.</desc>
+  <defs><linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f5f0e6"/><stop offset="1" stop-color="#e8dfd0"/></linearGradient></defs>
+  <rect width="1400" height="900" fill="#101722"/>
+  <rect x="56" y="48" width="1288" height="804" rx="8" fill="url(#paper)"/>
+  <text x="104" y="108" font-family="Georgia, 'Times New Roman', serif" font-size="25" letter-spacing="5" fill="#6c6258">REGISTER SWITCH 01 · PARIS · 12 JUNE 2007</text>
+  <line x1="104" y1="138" x2="1296" y2="138" stroke="#bd3039" stroke-width="3"/>
+  <text x="104" y="198" font-family="Georgia, 'Times New Roman', serif" font-size="42" fill="#171411">The joke works because everyone knows when it ends.</text>
+
+  <g transform="translate(104 284)">
+    <rect width="1192" height="132" rx="8" fill="#0c2340"/>
+    <text x="32" y="43" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2.2" fill="#f3eee3">OPENING REGISTER · PERSONAL / THEATRICAL RIVALRY</text>
+    <text x="32" y="90" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-style="italic" fill="#f3eee3">“special bond” · both Red Sox fans · Yankees as the joking “evil empire”</text>
+  </g>
+
+  <line x1="700" y1="416" x2="700" y2="492" stroke="#7a6855" stroke-width="3"/>
+  <polygon points="700,508 689,486 711,486" fill="#7a6855"/>
+  <text x="730" y="467" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="2" fill="#7a6855">ONE PARAGRAPH LATER</text>
+
+  <g transform="translate(104 524)">
+    <rect width="1192" height="176" rx="8" fill="#efe7da" stroke="#cbbfaf"/>
+    <text x="32" y="43" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2.2" fill="#bd3039">WORKING REGISTER · REAL ALLIANCE RELATIONSHIP</text>
+    <text x="32" y="91" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#211c18">Burns pivots to Stapleton's work repairing U.S.–French relations,</text>
+    <text x="32" y="128" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#211c18">then to the Marshall Plan, alliance history and transatlantic cooperation.</text>
+  </g>
+
+  <rect x="104" y="746" width="1192" height="52" rx="5" fill="#ece3d5" stroke="#cbbfaf"/>
+  <text x="132" y="778" font-family="Georgia, 'Times New Roman', serif" font-size="19" font-style="italic" fill="#4b433b">Baseball locates the people in the room. It does not explain the diplomacy they are there to conduct.</text>
+  <text x="1296" y="836" text-anchor="end" font-family="'Courier New', monospace" font-size="16" fill="#82776c">RSD / CH19 / PARIS / R01</text>
+</svg>
