@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" role="img" aria-labelledby="title desc">
+  <title id="title">Athens embassy restoration object, 1998–2000</title>
+  <desc id="desc">A documentary object separating physical changes to the U.S. Embassy in Athens from the larger political claims those changes cannot prove.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f5f0e6"/><stop offset="1" stop-color="#e7dece"/></linearGradient>
+  </defs>
+  <rect width="1400" height="900" fill="#101722"/>
+  <rect x="56" y="48" width="1288" height="804" rx="8" fill="url(#paper)"/>
+  <text x="104" y="108" font-family="Georgia, 'Times New Roman', serif" font-size="25" letter-spacing="5" fill="#6c6258">RESTORATION OBJECT 01 · ATHENS CHANCERY</text>
+  <line x1="104" y1="138" x2="1296" y2="138" stroke="#bd3039" stroke-width="3"/>
+  <text x="104" y="198" font-family="Georgia, 'Times New Roman', serif" font-size="42" fill="#171411">Representation, made physical.</text>
+  <text x="104" y="238" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#62594f">Documented two-year renewal during Nicholas Burns's ambassadorship</text>
+
+  <g transform="translate(104 300)" font-family="Arial, Helvetica, sans-serif">
+    <rect x="0" y="0" width="735" height="405" rx="7" fill="#efe7da" stroke="#cbbfaf"/>
+    <text x="30" y="45" font-size="18" font-weight="700" letter-spacing="2.4" fill="#0c2340">PHYSICAL RECORD</text>
+    <g font-size="21" fill="#403831">
+      <text x="30" y="95">01 · White marble cleaned; State Magazine called this the costliest part.</text>
+      <line x1="30" y1="116" x2="700" y2="116" stroke="#d0c5b7"/>
+      <text x="30" y="157">02 · Reflecting pool and courtyard fountains returned to operation.</text>
+      <line x1="30" y1="178" x2="700" y2="178" stroke="#d0c5b7"/>
+      <text x="30" y="219">03 · Plumbing, tile and lighting repaired or renewed.</text>
+      <line x1="30" y1="240" x2="700" y2="240" stroke="#d0c5b7"/>
+      <text x="30" y="281">04 · Landscaping changed toward local plantings and a clearer facade.</text>
+      <line x1="30" y1="302" x2="700" y2="302" stroke="#d0c5b7"/>
+      <text x="30" y="343">05 · Marshall statue and a permanent U.S.–Greece history exhibit added.</text>
+      <text x="30" y="379" font-size="17" fill="#71675d">Source: U.S. Department of State, State Magazine, July–August 2000.</text>
+    </g>
+  </g>
+
+  <g transform="translate(878 300)" font-family="Arial, Helvetica, sans-serif">
+    <rect x="0" y="0" width="418" height="405" rx="7" fill="#f0e8dc" stroke="#cbbfaf"/>
+    <text x="28" y="45" font-size="18" font-weight="700" letter-spacing="2.4" fill="#bd3039">WHAT THE RECORD SUPPORTS</text>
+    <text x="28" y="92" font-family="Georgia, 'Times New Roman', serif" font-size="24" fill="#24201c">A more visible, cared-for</text>
+    <text x="28" y="125" font-family="Georgia, 'Times New Roman', serif" font-size="24" fill="#24201c">and historically narrated embassy.</text>
+    <line x1="28" y1="158" x2="390" y2="158" stroke="#d0c5b7"/>
+    <text x="28" y="205" font-size="18" font-weight="700" letter-spacing="2.1" fill="#0c2340">WHAT IT DOES NOT PROVE</text>
+    <text x="28" y="251" font-size="20" fill="#514940">That architecture changed Greek</text>
+    <text x="28" y="282" font-size="20" fill="#514940">opinion, erased political memory,</text>
+    <text x="28" y="313" font-size="20" fill="#514940">settled Cyprus, softened Kosovo</text>
+    <text x="28" y="344" font-size="20" fill="#514940">protests, or reduced security needs.</text>
+    <text x="28" y="384" font-family="Georgia, 'Times New Roman', serif" font-size="19" font-style="italic" fill="#6a5f55">Representation mattered. It was not magic.</text>
+  </g>
+
+  <line x1="104" y1="760" x2="1296" y2="760" stroke="#b9ad9e"/>
+  <text x="104" y="800" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#6c6258">Designed from contemporaneous State Department documentation; physical intervention is kept separate from political effect.</text>
+  <text x="1296" y="800" text-anchor="end" font-family="'Courier New', monospace" font-size="16" fill="#82776c">RSD / CH09 / 1998–2000 / R01</text>
+</svg>
