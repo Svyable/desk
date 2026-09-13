@@ -12,13 +12,39 @@ Nicholas Burns came from Massachusetts.
 
 More particularly, he grew up in Wellesley.
 
-Years later, when a sportswriter asked about his own baseball credentials, Burns located the high point of his playing career in the Wellesley Babe Ruth League. It is a wonderfully modest credential. Not college ball. Not a tryout. Not some lost almost-professional mythology. Organized youth baseball in a Massachusetts town.
+For a long time, the cleanest evidence for his own playing life began at Babe Ruth League age. Then, in Beijing in 2024, Burns supplied an earlier memory himself.
+
+He was speaking at the American embassy's Independence Day celebration. The theme that year was *America the Beautiful*. Burns explained that the song carried a particular Wellesley resonance for him. As a boy, he and his friends had played Little League baseball at Bates School, the school named for Katharine Lee Bates, the Wellesley writer who gave the country the words to *America the Beautiful*.
+
+The memory is almost suspiciously well shaped for this book.
+
+That is why the source matters.
+
+The connection is Burns's, not ours.
+
+He was the American ambassador in Beijing, on the Fourth of July, reaching back to a Wellesley Little League field beside a school named for the author of the patriotic song around which the embassy had organized the evening.
+
+No metaphor has to be manufactured around it.
+
+It happened.
+
+*ARCHIVE NOTE — U.S. Embassy & Consulates in China, “Ambassador Nicholas Burns' Remarks on Independence Day,” July 4, 2024. Burns says the song had “special resonance” for him and his friends as they played Little League at Bates School. [Primary transcript.](https://china.usembassy-china.org.cn/ambassador-nicholas-burns-remarks-on-independence-day/)*
+
+The local geography still exists. Wellesley municipal records identify the athletic complex beside Bates as Kelly Field, a cluster of youth fields that includes baseball diamonds. That does not let us assign Burns to a present-day diamond or reconstruct the 1960s layout. His own memory gives us enough: Little League, friends, Bates School, Wellesley.
+
+Years later, when a sportswriter asked about his baseball credentials, Burns located the high point of his playing career in the Wellesley Babe Ruth League. It is a wonderfully modest credential. Not college ball. Not a tryout. Not some lost almost-professional mythology. Organized youth baseball in a Massachusetts town.
+
+Taken together, the two direct recollections now give the playing life a sequence.
+
+Little League at Bates School.
+
+Then the Wellesley Babe Ruth League.
 
 That matters because it gives the baseball in this story a physical beginning.
 
 Before Red Sox Nation became a phrase Burns could use behind a State Department podium, baseball was a game he had actually played.
 
-The surviving evidence does not yet tell us his position, his team, his batting average, or which fields he played on. It does not justify placing a glove on one hand or a particular uniform on his back. But it does establish the important thing cleanly: the sport was not merely watched from a distance.
+The surviving evidence still does not tell us his team, his position, his batting average, his coach, his uniform number, or the exact seasons. It does not justify placing a glove on one hand or a particular jersey on his back. One location is now secure because Burns named it himself. The rest should remain blank until the archive earns it.
 
 That fact would remain visible.
 
@@ -50,9 +76,21 @@ By the time Burns was eleven, the 1967 Red Sox had produced the Impossible Dream
 
 We know enough without pretending.
 
-He played baseball in Wellesley. His mother rooted for the Red Sox. His father carried an older generation's disappointment and warned the children away. Burns chose the team anyway.
+He played Little League with friends at Bates School. He moved on to the Wellesley Babe Ruth League. His mother rooted for the Red Sox. His father carried an older generation's disappointment and warned the children away. Burns chose the team anyway.
 
 That is already a real inheritance.
+
+The same Wellesley adolescence also pointed outward.
+
+The 1974 *Wellesleyan* yearbook records that the high school sent Nick Burns to Luxembourg for three months through American Field Service while another student went to Belgium. The club's motto, printed beneath the account, was “Walk Together, Talk Together.”
+
+It would be too neat to treat a high-school exchange as the origin story of a diplomatic career. Burns's later choices had their own reasons, and adolescents do not become ambassadors because a yearbook slogan tells them to talk together.
+
+But the juxtaposition is real.
+
+The boy whose local world included Little League and Red Sox inheritance also left Wellesley early enough to discover what it felt like to be the American somewhere else.
+
+That combination—deeply local and repeatedly outbound—would become durable.
 
 Burns would later speak publicly and casually about being part of Red Sox Nation. The phrase mattered less than the ease with which he used it. Baseball did not appear as a hobby appended to the official biography. It functioned as identification.
 
