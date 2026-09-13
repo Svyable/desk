@@ -84,6 +84,16 @@ The other is personal. Language. Judgment. Humor. Memory. Family. Habits. Loyalt
 
 The job requires carrying both without confusing them.
 
+At WPI's commencement in 1997, Burns let those two worlds overlap for a moment while explaining what he called the coming “international age.” Globalization, he said, was making itself felt in ordinary American life as well as diplomacy and trade. One of his examples was baseball: Japanese players were moving into American ballparks. Then came the local complaint—somehow, he joked, this international migration had skipped Fenway Park and the Red Sox bullpen.
+
+It was a throwaway line in a speech about global interdependence.
+
+That is exactly why it is useful.
+
+Long before Greek baseball became an ambassadorial project, Burns already had baseball available as a way to make cross-border movement legible to an American audience. The joke does not reveal a doctrine. It shows a habit of translation: start with the abstraction, find something ordinary enough to make it visible, then return to the serious argument.
+
+*ARCHIVE NOTE — U.S. Department of State, “Preparing for the International Age,” Worcester Polytechnic Institute commencement address, May 24, 1997. Burns cites Japanese baseball players moving into U.S. ballparks as an example of internationalization and jokes about Fenway and the Red Sox bullpen. [Primary transcript.](https://1997-2001.state.gov/policy_remarks/970524.burns.html)*
+
 Burns's attachment to the Red Sox is useful in this book because it is one unusually visible example of the second kind of continuity. He could move from continent to continent and remain recognizably from somewhere. Boston did not vanish because he was posted abroad.
 
 But the more important continuity was professional.
