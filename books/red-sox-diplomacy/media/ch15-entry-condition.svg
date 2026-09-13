@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" role="img" aria-labelledby="title desc">
+  <title id="title">Negotiation entry condition in the 2006 Iran nuclear diplomacy</title>
+  <desc id="desc">A paired documentary object showing the U.S. demand for full verifiable suspension before joining negotiations and the Iranian position, reported by the U.N. Secretary-General, that suspension should not be a precondition but could be discussed in negotiations.</desc>
+  <defs><linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f5f0e6"/><stop offset="1" stop-color="#e8dfd0"/></linearGradient></defs>
+  <rect width="1400" height="900" fill="#101722"/>
+  <rect x="56" y="48" width="1288" height="804" rx="8" fill="url(#paper)"/>
+  <text x="104" y="108" font-family="Georgia, 'Times New Roman', serif" font-size="25" letter-spacing="5" fill="#6c6258">ENTRY CONDITION 01 · MAY–SEPTEMBER 2006</text>
+  <line x1="104" y1="138" x2="1296" y2="138" stroke="#bd3039" stroke-width="3"/>
+  <text x="104" y="198" font-family="Georgia, 'Times New Roman', serif" font-size="42" fill="#171411">The door existed. The threshold was the dispute.</text>
+
+  <g transform="translate(104 286)">
+    <rect width="560" height="365" rx="8" fill="#0c2340"/>
+    <text x="30" y="47" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2.3" fill="#f3eee3">UNITED STATES / P5+1 OFFER</text>
+    <text x="30" y="102" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#f3eee3">The United States would join</text>
+    <text x="30" y="139" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#f3eee3">the nuclear negotiations if Iran</text>
+    <text x="30" y="176" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#f3eee3">fully and verifiably suspended</text>
+    <text x="30" y="213" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#f3eee3">enrichment-related activity.</text>
+    <line x1="30" y1="246" x2="530" y2="246" stroke="#5b6c82"/>
+    <text x="30" y="285" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2" fill="#f3eee3">WASHINGTON'S READING</text>
+    <text x="30" y="318" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#d8dde4">Suspension first prevents the disputed activity</text>
+    <text x="30" y="346" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#d8dde4">from advancing while its future is negotiated.</text>
+  </g>
+
+  <g transform="translate(736 286)">
+    <rect width="560" height="365" rx="8" fill="#efe7da" stroke="#cbbfaf"/>
+    <text x="30" y="47" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2.3" fill="#bd3039">IRANIAN POSITION · U.N.-REPORTED</text>
+    <text x="30" y="102" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#211c18">Iranian leaders told Kofi Annan</text>
+    <text x="30" y="139" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#211c18">they would not suspend as a</text>
+    <text x="30" y="176" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#211c18">precondition, but suspension</text>
+    <text x="30" y="213" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#211c18">could be discussed at the table.</text>
+    <line x1="30" y1="246" x2="530" y2="246" stroke="#c9bdad"/>
+    <text x="30" y="285" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2" fill="#7a6855">TEHRAN'S REPORTED READING</text>
+    <text x="30" y="318" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#514940">Suspension first concedes the central disputed</text>
+    <text x="30" y="346" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#514940">issue before substantive negotiation begins.</text>
+  </g>
+
+  <rect x="104" y="704" width="1192" height="92" rx="5" fill="#ece3d5" stroke="#cbbfaf"/>
+  <text x="132" y="738" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="2" fill="#0c2340">SAME PROBLEM · DIFFERENT ENTRY LOGIC</text>
+  <text x="132" y="770" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-style="italic" fill="#4b433b">One side called suspension the condition that made serious talks possible. The other resisted making the central concession the price of entering them.</text>
+  <text x="1296" y="836" text-anchor="end" font-family="'Courier New', monospace" font-size="16" fill="#82776c">RSD / CH15 / 2006 / E01</text>
+</svg>
