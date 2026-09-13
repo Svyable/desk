@@ -2,7 +2,7 @@
 
 Jerusalem made even an address political.
 
-The American Consulate General was not simply another office beneath the United States embassy in Tel Aviv. Its peculiar institutional position reflected a larger American position: the final status of Jerusalem had not been settled, and the United States did not treat the city as though the argument over sovereignty had disappeared because somebody had printed a letterhead.
+The American Consulate General was not simply another office beneath the United States embassy in Tel Aviv. Its peculiar institutional position reflected a larger American position: the final status of Jerusalem had not been settled, and the United States did not behave as though the sovereignty argument had disappeared because somebody had printed a letterhead.
 
 [![Institutional diagram contrasting the U.S. Embassy in Tel Aviv with the separate U.S. Consulate General in Jerusalem during Nicholas Burns's service](../media/ch05-unresolved-address.svg)](https://2009-2017.state.gov/outofdate/bgn/israel/35872.htm)
 
@@ -10,35 +10,29 @@ The American Consulate General was not simply another office beneath the United 
 
 Nicholas Burns arrived there in 1985.
 
-He had spent the previous two years in Cairo, moving between consular work and the ambassador's front office. Jerusalem gave him a different assignment. He was a junior political officer, and the portfolio that survives most clearly in the record was economic assistance to Palestinians in the West Bank and East Jerusalem.
+He had spent the previous two years in Cairo, moving between consular work and the ambassador's front office. Jerusalem gave him a different assignment. He was a political officer, and the portfolio that survives most clearly in the record was economic assistance to Palestinians in the West Bank and East Jerusalem.
 
 Years later official biographies compressed the work into a sentence.
 
-Burns himself eventually supplied more weight to it.
+Burns himself eventually gave it more weight.
 
 Looking back in 2025, after Beijing and after the senior jobs for which he was much better known, he called Jerusalem *“a seminal very important experience for me.”* At that stage of his life, he said, he expected to spend his career in Africa and the Arab world. He spoke Arabic. The later turn toward Soviet affairs had not happened yet.
 
-This matters because successful careers are usually narrated by destination.
+That recollection matters because successful careers are usually narrated by destination. Once Burns became a Russia specialist and later ambassador to NATO, Cairo and Jerusalem could look like preliminaries to the real story.
 
-Once Burns became the American ambassador to NATO, his early Middle East assignments could look like preliminaries to the real story. Once he became a Russia specialist at the White House, Cairo and Jerusalem could be reduced to proof that he had served abroad before Washington discovered where it wanted him.
+He did not remember Jerusalem that way.
 
-That is not how he remembered Jerusalem.
+Douglas Keene, the deputy principal officer at the consulate during the first part of Burns's tour, supplies the most useful witness to the work itself. Keene described an American assistance program operating through grants to nongovernmental organizations. A junior officer served as the point of contact. One of the officers he remembered working with on that program was a young Nick Burns.
 
-The work itself was practical.
+The testimony gives the résumé line machinery.
 
-Douglas Keene, the deputy principal officer at the consulate during the first part of Burns's tour, later described an American aid program operating through grants to nongovernmental organizations. A junior officer would ordinarily serve as the point of contact. Keene remembered one of the officers who worked with him on that program: a young Nick Burns.
-
-That small piece of testimony does more than a page of retrospective praise could do.
-
-It gives the résumé line machinery.
-
-Economic assistance was not a speech. It required grants, organizations, proposals, contacts, judgments and follow-through. Somebody had to know which institution was responsible, who could legally receive money, whether a project could function, what Washington had authorized, and how an American program would be interpreted in a political environment where almost nothing was merely administrative.
-
-The amounts were modest by the standards of later American foreign assistance. The politics around them were not.
+Economic assistance required grants, organizations, proposals, contacts, judgments and follow-through. Somebody had to know what Washington had authorized, who could receive money, whether a project could function, and how an American program would be interpreted in a political environment where little was merely administrative.
 
 [![Assistance ledger showing U.S. West Bank and Gaza expenditures in fiscal years 1985, 1986 and 1987](../media/ch05-assistance-ledger.svg)](https://www.everycrsreport.com/reports/RS21594.html)
 
 *ASSISTANCE LEDGER 01 — U.S. assistance to the West Bank and Gaza during Burns’s Jerusalem tour: FY1985, $12.141 million; FY1986, $13.950 million; FY1987, $8.400 million. CRS reports the historical figures from State/USAID records. These are program-wide expenditures, not Burns’s personal budget and not evidence that he selected or supervised every project. [CRS historical table.](https://www.everycrsreport.com/reports/RS21594.html)*
+
+The amounts were modest by the standards of later American foreign assistance. The politics around them were not.
 
 Palestinians in the West Bank and East Jerusalem lived under Israeli occupation. There was no Palestinian Authority; Oslo was years away. The Palestine Liberation Organization existed, but American policy sharply constrained official dealings with it. Israeli politics were divided. Palestinian politics were divided. Jerusalem itself was the subject of incompatible national claims.
 
@@ -46,113 +40,83 @@ Then there was the American bureaucracy.
 
 Keene remembered relations between the Jerusalem consulate and the embassy in Tel Aviv as poor when he arrived: mutual suspicion, clashing cables, different readings of the same landscape. The relationship improved. Liaison mechanisms were built. Jerusalem officers began attending embassy country-team meetings.
 
-The organizational friction was not incidental.
+That friction was not simply office politics.
 
-Two American posts could look at the same country and territory from different positions because they were built to see different things.
+Embassy Tel Aviv maintained the formal bilateral relationship with Israel. The consulate in Jerusalem had its own history, contacts, reporting responsibilities and role with Palestinians and Jerusalem affairs. Two American posts could look at the same territory from different institutional positions because they had been built to see different things.
 
-Embassy Tel Aviv maintained the formal bilateral relationship with Israel. The consulate in Jerusalem had its own history, its own contacts, its own reporting responsibilities and a distinctive role with Palestinians and Jerusalem affairs. The boundary between those functions was never only bureaucratic.
+Burns entered a workplace where the organization chart itself carried diplomatic meaning.
 
-Burns entered the profession at a place where the organization chart itself was foreign policy.
+The aid portfolio sharpened the same problem. A clinic, school, water project or small business could improve ordinary life while also raising questions about authority, permanence and control. American assistance moved through nongovernmental channels in part because there was no Palestinian state apparatus through which Washington could simply run a conventional bilateral development program.
 
-That is a useful education for a diplomat.
+The mechanism was therefore part of the policy.
 
-Governments like nouns. Ally. Adversary. State. Territory. Capital. Embassy. Consulate. Aid recipient. Terrorist organization. Negotiating partner.
+How do you help a population when recognition, sovereignty and political representation remain unresolved?
 
-Jerusalem was a reminder that reality does not always respect the filing system.
+You build something that can function before the larger dispute is solved.
 
-An assistance program could be developmental and political at the same time. A road, clinic, school, water project or small business could improve ordinary life while also raising questions about authority, permanence and control. An American conversation could be unofficial in one sense and deeply consequential in another. A building could perform a diplomatic position before anyone inside it said a word.
+The junior officer did not resolve the contradiction.
 
-The junior officer working the aid portfolio did not resolve those contradictions.
+He worked inside it.
 
-He had to operate inside them.
+This is also where the baseball architecture of this book has to know when to get out of the way.
 
-This is where the original baseball architecture of this book has to know when to get out of the way.
-
-There is no responsible Red Sox–Yankees analogy for Jerusalem in the mid-1980s. Sports rivalry depends on agreed rules, accepted boundaries and a shared institution that tells everybody when the game is over. The conflict Burns encountered had none of those conveniences. It involved sovereignty, occupation, violence, national identity, religion, security and competing historical claims.
+There is no responsible Red Sox–Yankees analogy for Jerusalem in the mid-1980s. Sports rivalry depends on agreed rules, accepted boundaries and a shared institution that tells everybody when the game is over. The conflict around Burns involved sovereignty, occupation, violence, religion, security and competing national histories.
 
 Calling that rivalry would make it smaller than it was.
 
-What baseball can still contribute is only the biographical contrast.
-
-The Red Sox clock kept running at home.
+Baseball enters only as another clock.
 
 In October 1986, while Burns was assigned to Jerusalem, Boston reached the World Series against the New York Mets. Game 6 became one of the canonical disasters in Red Sox memory; the Mets won Game 7 two nights later.
 
 This book does not know where Burns was for those games.
 
-It does not know whether he watched them live, watched them later, followed them through news reports, or missed them because his actual life in Jerusalem was more demanding than the baseball calendar in Massachusetts.
+It does not know whether he watched live, watched later, followed the result through news reports, or missed the games entirely.
 
-That missing scene is useful.
+Leave the scene missing.
 
-A Foreign Service career creates two simultaneous lives. One occurs in the country where the officer is posted. The other continues at home without asking permission. Families age. Elections happen. neighborhoods change. Teams win and lose. The representative can be deeply absorbed in the first life while still carrying loyalties formed in the second.
+The absence is truer to Foreign Service life than an invented television set in an apartment would be. One life was happening in Jerusalem. Another continued at home. Families aged. Elections happened. Neighborhoods changed. Teams won and lost without regard for the posting schedule.
 
-The point is not that the 1986 World Series mattered to Burns's work in Jerusalem.
+The 1986 World Series did not need to matter to Burns's work.
 
-It is that it did not need to.
+That is precisely the point.
 
-The game could remain personal precisely because the posting was not.
+The personal allegiance could remain personal while almost every public noun around him was politically loaded.
 
-Burns carried a stable personal identity into an environment where public identities were politically loaded. He knew where he was from. The people he dealt with could not always describe where they were from without making a political statement.
-
-The American representative therefore had to listen carefully to nouns.
-
-Keene's oral history captures the density of the environment around the consulate. Officers traveled through the West Bank. They maintained Palestinian contacts. They dealt with Israeli officials, international organizations, journalists, academics, American citizens and congressional visitors. They watched settlement expansion. They handled consular cases involving Arab Americans. They learned which formulations could trigger accusations that the consulate was biased toward one side or the other.
+Keene's broader oral history shows the density of the consulate's environment. Officers traveled through the West Bank, maintained Palestinian contacts, dealt with Israeli officials, international organizations, journalists, academics, American citizens and congressional visitors, watched settlement expansion and handled consular cases involving Arab Americans.
 
 None of that establishes that Burns personally participated in every activity Keene remembered.
 
-The distinction matters.
+We know Burns worked with Keene on the aid program. We know his portfolio covered Palestinian economic assistance. We know he later regarded the posting as formative. We do not have a diary of his daily movements, a complete list of his Palestinian counterparts or a transcript of the conversations that shaped his judgment.
 
-We know Burns worked with Keene on the aid program. We know his portfolio covered Palestinian economic assistance. We know he later regarded the experience as formative. We do not have a diary of his daily movements, a complete list of his Palestinian counterparts, or a transcript of the conversations that shaped his judgment.
+That negative space should stay visible.
 
-A documentary biography should leave that negative space visible.
+Jerusalem supplies almost unlimited atmosphere to a writer willing to borrow it: stone walls, checkpoints, church bells, calls to prayer, armed patrols, crowded markets.
 
-It is tempting to fill it because Jerusalem supplies almost unlimited atmosphere. Stone walls. checkpoints. church bells. calls to prayer. armed patrols. crowded markets. diplomats driving from one political reality into another.
+Those images may describe the city.
 
-Those images may be true of the city.
+They are not automatically Nicholas Burns's memories.
 
-They are not automatically memories of Nicholas Burns.
+The safer fact is bureaucratic.
 
-The safer and more revealing fact is bureaucratic: he managed an aid program.
+He worked an aid program in a place where administration could not be separated neatly from politics.
 
-Bureaucracy sounds bloodless until one asks what the bureaucracy is trying to do.
-
-American assistance to Palestinians in those years moved through organizations because there was no Palestinian state apparatus through which Washington could simply run a conventional bilateral development program. Nongovernmental channels were therefore not a decorative feature of the policy. They were part of the solution to a diplomatic problem.
-
-How do you help a population when recognition, sovereignty and political representation are unresolved?
-
-You build mechanisms that can function before the larger dispute is solved.
-
-This is one of diplomacy's less celebrated forms.
-
-The dramatic version of diplomacy ends with an agreement. The practical version often begins from the assumption that the agreement is not coming soon enough. People still need institutions. Students still need schools. Businesses still need capital. Municipalities still need equipment. Families still need medical care. Governments still need information. Officials still need channels.
+There is nothing bloodless about that once the bureaucracy has a purpose. Students still need schools before a final-status agreement. Businesses still need capital. Families still need medical care. Municipalities still need equipment. American officials still need mechanisms that work inside an argument they cannot settle.
 
 A diplomat cannot suspend ordinary life until history becomes cooperative.
 
-That idea would recur in Burns's later career even though the circumstances changed radically.
-
-At NATO he would work inside an alliance whose strength depended on maintenance before crisis. On India he would argue for a relationship whose payoff required years. On Iran he would defend diplomacy without pretending diplomacy guaranteed success. In China he would insist on communication and people-to-people ties while openly describing the relationship as intensely competitive.
-
-Jerusalem should not be turned into the origin story for all of those positions.
-
-People are not that tidy.
-
-But Burns's own description of the posting as seminal gives us permission to take it seriously as formation rather than merely chronology.
-
-There is another reason.
-
-He left Jerusalem in 1987.
+Burns left Jerusalem in 1987.
 
 The First Intifada began later that year.
 
-That timing creates a hard boundary for this chapter. Burns should not be inserted into events he did not experience in post. But the boundary also reveals something about diplomatic careers. Officers rotate out. The place continues. A portfolio that seemed difficult can become more difficult after departure. Contacts stay behind. Policies outlast the people administering them. History does not respect tour dates.
+The timing creates a hard boundary. He should not be inserted into events he did not experience in post. It also reminds us what a tour of duty is: partial.
 
-The Foreign Service teaches impermanence from the inside.
+The officer leaves.
 
-The officer becomes important to a place for a few years and then leaves it.
+The place does not.
 
-That can encourage arrogance—the belief that the diplomat has accumulated countries as expertise—or the opposite: a recognition that every posting is partial.
+Contacts remain. Programs continue or fail. Policies outlast the people administering them. Conditions can change almost immediately after departure.
 
-Burns would later become famous for relationships maintained over decades. Jerusalem belonged to an earlier stage, when he was still learning how much of diplomacy consisted of working through institutions that could not settle the argument around them.
+That makes Burns's own description of Jerusalem as seminal more useful than any attempt to turn the posting into a tidy origin story. He was there long enough for it to matter to him and not long enough to own the history that followed.
 
 The consulate could not determine Jerusalem's final status.
 
@@ -162,8 +126,8 @@ A junior American officer could not reconcile Israeli and Palestinian national c
 
 The work still had to be done.
 
-That may be the most useful distinction between diplomacy and spectatorship.
+That is the unresolved address: not only the place on the letterhead, but the condition of diplomacy itself.
 
-A spectator can wait for the final score.
+Sometimes there is no final score to wait for.
 
-A diplomat often works precisely because there isn't one.
+There is only the next piece of work.
