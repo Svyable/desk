@@ -4,6 +4,10 @@ Jerusalem made even an address political.
 
 The American Consulate General was not simply another office beneath the United States embassy in Tel Aviv. Its peculiar institutional position reflected a larger American position: the final status of Jerusalem had not been settled, and the United States did not treat the city as though the argument over sovereignty had disappeared because somebody had printed a letterhead.
 
+[![Institutional diagram contrasting the U.S. Embassy in Tel Aviv with the separate U.S. Consulate General in Jerusalem during Nicholas Burns's service](../media/ch05-unresolved-address.svg)](https://2009-2017.state.gov/outofdate/bgn/israel/35872.htm)
+
+*ADDRESS OBJECT 01 — U.S. representation during the institutional world Burns entered in Jerusalem. Embassy Tel Aviv carried the formal bilateral relationship with Israel; the Consulate General in Jerusalem occupied a separate mission status tied to the unresolved status of the city and maintained distinctive Palestinian and Jerusalem responsibilities. This is an institutional diagram, not a territorial map, and it makes no claim about sovereignty or final borders. [State Department background.](https://2009-2017.state.gov/outofdate/bgn/israel/35872.htm)*
+
 Nicholas Burns arrived there in 1985.
 
 He had spent the previous two years in Cairo, moving between consular work and the ambassador's front office. Jerusalem gave him a different assignment. He was a junior political officer, and the portfolio that survives most clearly in the record was economic assistance to Palestinians in the West Bank and East Jerusalem.
@@ -12,7 +16,7 @@ Years later official biographies compressed the work into a sentence.
 
 Burns himself eventually supplied more weight to it.
 
-Looking back in 2025, after Beijing and after the senior jobs for which he was much better known, he described Jerusalem as a seminal and very important experience. At that stage of his life, he said, he expected to spend his career in Africa and the Arab world. He spoke Arabic. The later turn toward Soviet affairs had not happened yet.
+Looking back in 2025, after Beijing and after the senior jobs for which he was much better known, he called Jerusalem *“a seminal very important experience for me.”* At that stage of his life, he said, he expected to spend his career in Africa and the Arab world. He spoke Arabic. The later turn toward Soviet affairs had not happened yet.
 
 This matters because successful careers are usually narrated by destination.
 
@@ -31,6 +35,10 @@ It gives the résumé line machinery.
 Economic assistance was not a speech. It required grants, organizations, proposals, contacts, judgments and follow-through. Somebody had to know which institution was responsible, who could legally receive money, whether a project could function, what Washington had authorized, and how an American program would be interpreted in a political environment where almost nothing was merely administrative.
 
 The amounts were modest by the standards of later American foreign assistance. The politics around them were not.
+
+[![Assistance ledger showing U.S. West Bank and Gaza expenditures in fiscal years 1985, 1986 and 1987](../media/ch05-assistance-ledger.svg)](https://www.everycrsreport.com/reports/RS21594.html)
+
+*ASSISTANCE LEDGER 01 — U.S. assistance to the West Bank and Gaza during Burns’s Jerusalem tour: FY1985, $12.141 million; FY1986, $13.950 million; FY1987, $8.400 million. CRS reports the historical figures from State/USAID records. These are program-wide expenditures, not Burns’s personal budget and not evidence that he selected or supervised every project. [CRS historical table.](https://www.everycrsreport.com/reports/RS21594.html)*
 
 Palestinians in the West Bank and East Jerusalem lived under Israeli occupation. There was no Palestinian Authority; Oslo was years away. The Palestine Liberation Organization existed, but American policy sharply constrained official dealings with it. Israeli politics were divided. Palestinian politics were divided. Jerusalem itself was the subject of incompatible national claims.
 
