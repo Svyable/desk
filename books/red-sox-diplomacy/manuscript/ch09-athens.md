@@ -52,6 +52,28 @@ Barbara Nielsen arrived in Athens as cultural affairs officer in 1999. She remem
 
 The programs Nielsen described were not glamorous. There was an American studies seminar. There were discussions of biotechnology when European audiences were skeptical of genetically modified foods. There was work explaining the American election system to Greek media and audiences during the strange presidential contest of 2000. There were efforts involving American-style higher education and cultural programming. Greek-American organizations came through frequently, and Nielsen remembered Burns as welcoming their involvement.
 
+The relationship with the diaspora could become more embedded than receiving delegations.
+
+AHEPA's own institutional history says Burns developed a friendship with Steve Manta, the organization's 1997–98 supreme president, and joined Manta's Milo Chapter 348 in Chicago. AHEPA was still describing Burns publicly as one of its members years after he left Greece.
+
+The surviving public record does not tell us exactly when he joined, whether the membership was honorary or ordinary, or how active he was inside the chapter. There is no need to guess.
+
+The membership matters because it changes the social geometry. Burns was not only asking Greek Americans to function as a bridge. According to the institution's own record, he stepped into one of their civic organizations himself.
+
+By October 2000, that relationship was visible at institutional scale. The embassy and AHEPA jointly staged a multi-day *Celebration of the U.S.-Greek Relationship*: a press conference, embassy briefings, civic receptions, the rededication of the Philhellenes monument, a tree-planting event, the unveiling of the George C. Marshall statue, an embassy reception, and a conference on the future of the bilateral relationship.
+
+The Marshall statue made the structure especially clear. A contemporary State Department account says Burns approached a major Greek-American association to help fund the memorial. AHEPA later said its Centennial Foundation raised $110,000 for it. Manta himself later served on that foundation.
+
+The monument therefore had more than one institutional author. It stood on American diplomatic property, commemorated an American statesman whose postwar program mattered enormously to Greece, and was financed through a Greek-American civic organization.
+
+That is what a diaspora bridge can look like when it becomes physical.
+
+It is also where the boundary matters most. AHEPA membership did not turn Burns into the organization's policy representative. AHEPA did not become an arm of the embassy. Friendship with Greek-American leaders did not entitle them to dictate American policy.
+
+The useful fact is smaller and more durable: another relationship existed between the official bilateral structure and Americans whose family identity ran through Greece.
+
+*ARCHIVE NOTE — The Order of AHEPA, “Past Supreme President Steve Manta Passes Away,” January 10, 2023, records Burns joining Manta's Milo Chapter 348. A contemporaneous American Hellenic Institute newsletter records the embassy/AHEPA October 10–13, 2000 “Celebration of the U.S.-Greek Relationship.” State Department and AHEPA records separately document the Marshall statue partnership. [AHEPA record.](https://ahepa.org/past-supreme-president-steve-manta-passes-away/) [State Department record.](https://1997-2001.state.gov/publications/statemag/statemag_jul2000/feature5.html)*
+
 The residence belonged to that representational world too, and this is where an ambassador-only account becomes incomplete.
 
 In September 1999, the American School of Classical Studies at Athens used the residence for the final push in a Gennadeion fundraising campaign. Its contemporary newsletter says the dinner was hosted by Nicholas Burns and his wife, Elizabeth Baylies-Burns. About fifty guests came. The evening produced seventy thousand dollars in pledges.
@@ -150,7 +172,7 @@ There is a temptation in diplomatic biography to turn every small act into evide
 
 The record is better than that.
 
-The contemporary account of the embassy work explicitly connects the physical changes to respect and apparent openness. Nielsen independently remembers a public-diplomacy-minded ambassador setting the mission's tone. Koenig independently remembers an ambassador intensely engaged in direct persuasion on difficult political-military business. The Harvard record shows Burns publicly arguing for stronger personal and institutional connections between the two countries. The Gennadeion dinner and MDA Hellas record show that the representational life of the post also had a household and civic dimension that cannot be reduced to the ambassador alone. Libby's earlier preservation work gives that household a professional history of its own without proving a causal role in the Athens redesign. And the protests surrounding Clinton's visit show the limit of all of it.
+The contemporary account of the embassy work explicitly connects the physical changes to respect and apparent openness. Nielsen independently remembers a public-diplomacy-minded ambassador setting the mission's tone. Koenig independently remembers an ambassador intensely engaged in direct persuasion on difficult political-military business. The Harvard record shows Burns publicly arguing for stronger personal and institutional connections between the two countries. The AHEPA record adds a diaspora institution Burns joined and with which the embassy built a multi-day representational program. The Gennadeion dinner and MDA Hellas record show that the representational life of the post also had a household and civic dimension that cannot be reduced to the ambassador alone. Libby's earlier preservation work gives that household a professional history of its own without proving a causal role in the Athens redesign. And the protests surrounding Clinton's visit show the limit of all of it.
 
 Representation mattered.
 
