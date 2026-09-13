@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 920" role="img" aria-labelledby="title desc">
+  <title id="title">Evidence grammar at the State Department podium</title>
+  <desc id="desc">A documentary editorial diagram distinguishing established position, reports and allegations, cannot confirm, not aware or not in a position to confirm, and protected categories the spokesman will not discuss.</desc>
+  <rect width="1500" height="920" fill="#eee7da"/>
+  <text x="82" y="78" font-family="Georgia, 'Times New Roman', serif" font-size="25" letter-spacing="5" fill="#655c53">EVIDENCE GRAMMAR 01 · THE PODIUM</text>
+  <line x1="82" y1="106" x2="1418" y2="106" stroke="#bd3039" stroke-width="3"/>
+  <text x="82" y="156" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#655c53">A spokesman’s sentence can change category without changing subject.</text>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="130" y="235" width="1240" height="95" rx="6" fill="#0c2340"/>
+    <text x="175" y="274" font-size="18" font-weight="700" letter-spacing="2.4" fill="#e9dfd3">STATEABLE POSITION / ESTABLISHED FACT</text>
+    <text x="175" y="307" font-family="Georgia, 'Times New Roman', serif" font-size="24" fill="#f7f1e8">What the Department is prepared to own publicly as the position of the United States.</text>
+
+    <rect x="170" y="365" width="1160" height="95" rx="6" fill="#f8f2e8" stroke="#bd3039" stroke-width="2"/>
+    <text x="215" y="404" font-size="18" font-weight="700" letter-spacing="2.4" fill="#bd3039">REPORTS / ALLEGATIONS</text>
+    <text x="215" y="437" font-family="Georgia, 'Times New Roman', serif" font-size="24" fill="#3d3630">Serious enough to discuss or investigate; not promoted to established fact by the briefing.</text>
+
+    <rect x="210" y="495" width="1080" height="95" rx="6" fill="#f5efe5" stroke="#aaa092"/>
+    <text x="255" y="534" font-size="18" font-weight="700" letter-spacing="2.4" fill="#0c2340">CANNOT CONFIRM</text>
+    <text x="255" y="567" font-family="Georgia, 'Times New Roman', serif" font-size="24" fill="#3d3630">Absence of confirmation is not automatically denial.</text>
+
+    <rect x="250" y="625" width="1000" height="95" rx="6" fill="#f1ebe1" stroke="#aaa092"/>
+    <text x="295" y="664" font-size="18" font-weight="700" letter-spacing="2.4" fill="#0c2340">NOT AWARE / NOT IN A POSITION TO CONFIRM</text>
+    <text x="295" y="697" font-family="Georgia, 'Times New Roman', serif" font-size="24" fill="#3d3630">Describes the knowledge available at the lectern, not necessarily the entire state of government knowledge.</text>
+
+    <rect x="290" y="755" width="920" height="95" rx="6" fill="#e9e3d9" stroke="#8e8378" stroke-dasharray="8 6"/>
+    <text x="335" y="794" font-size="18" font-weight="700" letter-spacing="2.4" fill="#6b6158">PROTECTED / WILL NOT DISCUSS</text>
+    <text x="335" y="827" font-family="Georgia, 'Times New Roman', serif" font-size="24" fill="#4e463e">Some categories remain outside the briefing even when the government may know more.</text>
+  </g>
+
+  <text x="82" y="889" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#6a6057">Editorial synthesis from 1997 Burns briefings — not an official State Department taxonomy.</text>
+  <text x="1418" y="889" text-anchor="end" font-family="'Courier New', monospace" font-size="17" fill="#82776c">RSD / CH07 / G01</text>
+</svg>
