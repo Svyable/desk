@@ -20,7 +20,21 @@ And yet the championship night—the scene most perfectly shaped for a book call
 
 The temptation is obvious because the archive gives us almost the scene we want one year earlier.
 
-In October 2003, Burns was the American ambassador to NATO in Brussels. The Red Sox and Yankees reached Game 7 of the American League Championship Series. Boston led late. The game stretched deep into the European morning. Burns later described following it on Armed Forces television in Brussels, all the way to another Boston loss.
+But first it gives us a prediction.
+
+At Boston College's commencement in May 2002, Burns stood in Alumni Stadium and looked toward the coming baseball season. The Patriots had just become Super Bowl champions. Then Burns identified himself as a loyal member of Red Sox Nation and predicted that, after a pause of eighty-four years, Boston would be home to the World Series champions that October.
+
+It was exactly the kind of prediction Red Sox fans had been making for generations.
+
+It was wrong.
+
+That matters because the old identity was never only suffering. It also required renewed belief. Every spring reopened the case. The drought survived because disappointment kept finding fresh optimism to disappoint.
+
+Burns was willing to perform that hope in public two years before the hope finally became accurate.
+
+Then came 2003.
+
+In October of that year, Burns was the American ambassador to NATO in Brussels. The Red Sox and Yankees reached Game 7 of the American League Championship Series. Boston led late. The game stretched deep into the European morning. Burns later described following it on Armed Forces television in Brussels, all the way to another Boston loss.
 
 That scene belongs to 2003.
 
