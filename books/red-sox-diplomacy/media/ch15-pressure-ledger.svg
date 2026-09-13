@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 940" role="img" aria-labelledby="title desc">
+  <title id="title">Iran nuclear pressure architecture, 2006–2008</title>
+  <desc id="desc">A documentary ledger showing Security Council Resolution 1696's suspension demand followed by sanctions resolutions 1737, 1747, and 1803, with a parallel reminder that coalition pressure did not produce Iranian suspension during Nicholas Burns's tenure.</desc>
+  <defs><linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f4efe5"/><stop offset="1" stop-color="#e8dfd1"/></linearGradient></defs>
+  <rect width="1400" height="940" fill="#161310"/>
+  <rect x="54" y="46" width="1292" height="848" rx="8" fill="url(#paper)"/>
+  <text x="104" y="106" font-family="Georgia, 'Times New Roman', serif" font-size="25" letter-spacing="5" fill="#6c6258">PRESSURE LEDGER 01 · SECURITY COUNCIL 2006–2008</text>
+  <line x1="104" y1="136" x2="1296" y2="136" stroke="#bd3039" stroke-width="3"/>
+  <text x="104" y="196" font-family="Georgia, 'Times New Roman', serif" font-size="42" fill="#171411">Pressure accumulated. Compliance did not.</text>
+
+  <line x1="214" y1="272" x2="214" y2="742" stroke="#0c2340" stroke-width="3" opacity="0.58"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <circle cx="214" cy="305" r="11" fill="#0c2340"/>
+    <text x="258" y="298" font-size="18" font-weight="700" letter-spacing="2" fill="#0c2340">31 JUL 2006 · RESOLUTION 1696</text>
+    <text x="258" y="331" font-size="20" fill="#443d36">Demands suspension of enrichment-related and reprocessing activities, verified by the IAEA.</text>
+
+    <circle cx="214" cy="414" r="11" fill="#bd3039"/>
+    <text x="258" y="407" font-size="18" font-weight="700" letter-spacing="2" fill="#bd3039">23 DEC 2006 · RESOLUTION 1737</text>
+    <text x="258" y="440" font-size="20" fill="#443d36">Creates sanctions machinery after Iran does not meet the suspension demand.</text>
+
+    <circle cx="214" cy="523" r="11" fill="#bd3039"/>
+    <text x="258" y="516" font-size="18" font-weight="700" letter-spacing="2" fill="#bd3039">24 MAR 2007 · RESOLUTION 1747</text>
+    <text x="258" y="549" font-size="20" fill="#443d36">Expands pressure, including an arms-related measure and additional asset freezes.</text>
+
+    <circle cx="214" cy="632" r="11" fill="#bd3039"/>
+    <text x="258" y="625" font-size="18" font-weight="700" letter-spacing="2" fill="#bd3039">3 MAR 2008 · RESOLUTION 1803</text>
+    <text x="258" y="658" font-size="20" fill="#443d36">Adds further restrictions and again presses Iran to halt enrichment-related activity.</text>
+
+    <circle cx="214" cy="741" r="11" fill="#7a6855"/>
+    <text x="258" y="734" font-size="18" font-weight="700" letter-spacing="2" fill="#7a6855">AT BURNS'S DEPARTURE</text>
+    <text x="258" y="767" font-size="20" fill="#443d36">No comprehensive nuclear agreement; enrichment continues; the negotiating offer remains conditional.</text>
+  </g>
+
+  <rect x="912" y="292" width="358" height="350" rx="7" fill="#0c2340"/>
+  <text x="940" y="334" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="2.2" fill="#f3eee3">WHAT THE LEDGER PROVES</text>
+  <text x="940" y="383" font-family="Georgia, 'Times New Roman', serif" font-size="22" fill="#f3eee3">The coalition could agree</text>
+  <text x="940" y="416" font-family="Georgia, 'Times New Roman', serif" font-size="22" fill="#f3eee3">to demand, sanction and</text>
+  <text x="940" y="449" font-family="Georgia, 'Times New Roman', serif" font-size="22" fill="#f3eee3">raise costs over time.</text>
+  <line x1="940" y1="480" x2="1240" y2="480" stroke="#5d6d82"/>
+  <text x="940" y="523" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="2.2" fill="#f3eee3">WHAT IT DOES NOT PROVE</text>
+  <text x="940" y="564" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#d6dde5">That greater pressure automatically</text>
+  <text x="940" y="593" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#d6dde5">produces the political decision the</text>
+  <text x="940" y="622" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#d6dde5">coalition wants.</text>
+
+  <rect x="104" y="814" width="1192" height="48" rx="4" fill="#ece3d5" stroke="#cbbfaf"/>
+  <text x="132" y="844" font-family="Georgia, 'Times New Roman', serif" font-size="19" font-style="italic" fill="#4b433b">A sanctions sequence is evidence of coalition action. It is not a hidden victory and not a scoreboard of diplomatic success.</text>
+  <text x="1296" y="884" text-anchor="end" font-family="'Courier New', monospace" font-size="16" fill="#82776c">RSD / CH15 / 2006–2008 / P01</text>
+</svg>
