@@ -58,6 +58,18 @@ Libby's own Athens record goes further than hosting.
 
 MDA Hellas, the Greek muscular-dystrophy organization, was established in 2000 with her help, according to a later organizational retrospective. By 2002, when Greece's president inaugurated a specialized neuromuscular-disease unit at Aghia Sophia Children's Hospital, *Kathimerini* identified Elizabeth Baylies-Burns as the organization's honorary president and an instigator of the project. A year later she was still being identified as honorary president while MDA Hellas raised money for another unit.
 
+The record now gives one particularly concrete example of initiative. In March 2003, after the Burns family had already left Athens, *Kathimerini* previewed a sold-out Agnes Baltsa benefit performance for MDA Hellas and said the idea for the concert had come from Libby.
+
+That is different from lending a title or appearing at a gala.
+
+It does not tell us that she booked the artist or ran the event. It does tell us that a contemporary Greek source credited her with originating an idea that raised public attention and money for an organization whose medical work continued after the posting ended.
+
+A later Greek column adds one piece of family context that should remain carefully attributed. It says journalists at an MDA Hellas gathering had been told that muscular dystrophy had also affected a beloved cousin in Nicholas Burns's family.
+
+The source does not identify the cousin. It does not establish the diagnosis beyond that muscular-dystrophy context. And it does not say this family experience caused Libby's work.
+
+The restraint matters because the documented work is already substantial without an invented motive.
+
 That work belongs to her record, not as decoration around his.
 
 It also clarifies what a shared diplomatic life can mean without confusing roles. Libby did not acquire authority to speak for the United States because her husband was ambassador. Her civic work was not foreign policy. But a posting creates a household presence as well as an official office, and the surviving Athens record shows that she used that presence for projects with their own institutional life.
