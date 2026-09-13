@@ -1,213 +1,81 @@
 # Epilogue — The Next Inning
 
-The easiest way to end a biography is to stop the clock.
+The Red Sox arrived in Nicholas Burns's life before diplomacy did.
 
-The subject leaves office. The motorcade turns away. The flag comes down from the residence. A successor arrives. The reader closes the book with the satisfying feeling that a life has reached the place the author intended all along.
+That is one reason they belong at the end.
 
-Real lives are less cooperative.
+A baseball fan inherits a story already underway. The standings begin fresh each spring, but the allegiance does not. Parents remember players their children never saw. A city carries losses forward until people who were not alive for them can still name the inning. Old arguments survive in families. So do old jokes. Then one night a result changes the meaning of everything that came before without erasing any of it.
 
-Nicholas Burns left Beijing in January 2025 and returned to Harvard. He returned to students, public argument, the long work of explaining a profession that does not produce many clean endings.
+The fan enters in the middle.
 
-The United States still had a relationship with China.
+So does the diplomat.
 
-NATO still had arguments.
+No ambassador gets a country at the beginning. The argument is already happening. The host government remembers an earlier promise, an earlier insult, an earlier war, an earlier ambassador. The embassy has its own memory. Washington has instructions. The other side has instructions too.
 
-Iran still had a nuclear program.
+Then, for a while, one person wears the title.
 
-India still had its own interests.
+That was the useful thing about the Red Sox cap.
 
-America still had to decide when to use power, when to negotiate, what to promise, what to regret, and who could credibly speak in its name.
+It was never a theory of statecraft. It did not negotiate a treaty, rescue an alliance or make another government agree with the United States. Burns's career provides enough evidence against that kind of romance.
 
-The files stayed open.
+The cap did something smaller.
 
-That is where this book should leave them.
+It revealed the wearer.
 
-Not because endings are false.
+Boston was still there beneath the protocol. Family was there. Humor was there. Memory was there. Irrational loyalty to a baseball team was there. The official American representative had not ceased to be a particular American simply because the seal was behind him.
 
-Endings matter. People retire. Administrations change. Ambassadors surrender credentials. Governments repudiate policies. Agreements expire. Careers acquire dates that fit neatly on official biographies.
+That particularity has limits. A diplomat who mistakes personality for policy becomes dangerous. A diplomat who believes a good relationship can erase incompatible interests eventually learns otherwise. A joke cannot solve a nuclear dispute. A friendship cannot repeal instructions from a capital.
 
-But diplomacy is built around inheritance.
+But the opposite mistake is real too.
 
-Every representative receives a world somebody else has already touched.
+The title cannot enter the room by itself.
 
-The cables are already there.
+The United States cannot shake a hand. NATO cannot remember who kept a promise. An embassy cannot hear hesitation in a sentence. A policy cannot recognize that the words which worked yesterday will fail today.
 
-The ally remembers the previous meeting.
+People do those things while carrying institutions larger than themselves.
 
-The adversary remembers the previous threat.
+Burns spent much of his career inside that tension. The work required him to become legible enough to another human being without forgetting that he was there to represent a country rather than himself.
 
-The host country remembers the old insult that Washington has forgotten.
+Baseball helped with the first part.
 
-The embassy staff remembers which promise was made carefully and which one was improvised.
+Profession helped with the second.
 
-The next diplomat begins in the middle.
+Neither guaranteed judgment.
 
-Burns did.
+Nothing does.
 
-Again and again.
+That may be the less comfortable inheritance of this story. Experience accumulates without becoming wisdom automatically. Institutions remember and forget. Countries repeat mistakes for new reasons. Officials defend positions they later revise. A representative can do serious work and still be wrong about something serious.
 
-Cairo was already carrying the consequences of war and peace before the young officer arrived. Jerusalem was already crowded with unresolved claims. NATO had existed for half a century before September 11 asked it a question it had never answered in practice. India and the United States had decades of distrust behind the civil nuclear negotiation. The Iran file had a history longer than any one official's tenure. China was not waiting for a new American ambassador to become complicated.
+Then another decision arrives.
 
-He inherited.
+This is where baseball offers one last usable image—not the scoreboard, not winning and losing, not the fantasy that geopolitics operates under agreed rules.
 
-Then somebody inherited from him.
+The schedule.
 
-That is the professional rhythm underneath all the more visible drama.
+After triumph, there is another game.
 
-Baseball returns one last time because baseball understands inheritance almost embarrassingly well.
+After collapse, there is another game.
 
-A fan receives stories about games he never saw.
+The point is not optimism. The next one may go badly too.
 
-A child is told about players who retired before he was born. A father warns his children about disappointment accumulated across decades. A city remembers an error as if it happened last night. A championship changes the meaning of old losses without erasing them.
+The point is continuation.
 
-Then the schedule starts again.
+Burns returned to Harvard after Beijing. Other people took the government positions he had held. The relationships remained. Students who had never worked in an embassy began deciding what they thought diplomacy was for. Somewhere, officials Burns would never meet inherited conversations he had once carried.
 
-The metaphor has limits. This book has spent enough pages locating them.
+That is how public service actually survives a public servant.
 
-Foreign policy is not sport. Countries cannot simply shake hands after a nuclear crisis and agree to meet next season. War casualties are not runs. Strategic competition does not occur inside a mutually accepted rulebook enforced by an umpire everyone obeys.
+Not as a monument.
 
-But the calendar does offer one useful lesson.
+As work passed forward.
 
-No result abolishes the future.
+The book began with a fan because fandom made the diplomat easier to see.
 
-Win, lose, sign, fail, deter, misjudge, repair—the next decision still arrives.
+It ends with the same man for the opposite reason.
 
-That fact can be exhausting.
+After all the titles, the negotiations, the briefing rooms, the alliances and the arguments over American power, the essential diplomatic fact is almost embarrassingly ordinary.
 
-It can also be liberating.
+A government needs a person to speak for it.
 
-A diplomat does not need to finish history.
+Another person has to decide what those words mean.
 
-He cannot.
-
-He needs to leave the relationship in a condition another person can work with.
-
-Sometimes that means an agreement.
-
-Sometimes it means a channel that still answers.
-
-Sometimes it means an ally that still believes an American promise.
-
-Sometimes it means a record clear enough that the next official understands why the previous negotiation failed.
-
-Sometimes it means admitting that the judgment you defended twenty years ago was wrong.
-
-Sometimes it means telling a student not what happened, but what you still cannot explain.
-
-The modesty of that standard is deceptive.
-
-It asks a great deal from people who temporarily carry enormous institutions.
-
-They must possess conviction without believing conviction proves correctness.
-
-They must represent policy without disappearing entirely inside it.
-
-They must make themselves understandable without confusing personality with statecraft.
-
-They must remember that the person across the table is also carrying a government, a history, a domestic audience, ambitions, fears, instructions and limits.
-
-And they must know that someday both of them will leave the room.
-
-The room will remain.
-
-This is why the Red Sox cap mattered less and more than it first appeared to.
-
-Less, because it did not negotiate anything.
-
-It did not activate Article 5. It did not write the India agreement. It did not compel Iran. It did not stabilize the U.S.-China relationship. It did not rescue a detained American or persuade an ally to follow Washington.
-
-More, because it made visible a fact official life is always trying to obscure.
-
-Somebody has to wear the title.
-
-The title cannot walk into the room by itself.
-
-The United States cannot shake a hand.
-
-NATO cannot remember a joke.
-
-An embassy cannot decide that the sentence it drafted yesterday is too dangerous to use today.
-
-Institutions require people to make them legible to other people.
-
-Those people bring more than institutions would prefer.
-
-They bring hometowns.
-
-Families.
-
-Vanities.
-
-Mistakes.
-
-Old loyalties.
-
-Private grief.
-
-Professional habits.
-
-Teams they chose as children and somehow never stopped choosing.
-
-The discipline is not to erase those things.
-
-It is to know which belong in the room and which do not.
-
-Burns's baseball could open a conversation because it was real and because he understood, most of the time, that it was not the conversation itself.
-
-That distinction is the whole book in miniature.
-
-Be recognizable.
-
-Then do the work.
-
-The work is harder now in some ways than when Burns entered the Foreign Service. Messages travel instantly. Images can be manipulated. Analysis can be generated at extraordinary speed. Governments possess more data and more ways to misunderstand what the data means. Public diplomacy occurs continuously rather than at scheduled press briefings. A sentence spoken in one capital can become domestic political material in another before the meeting has ended.
-
-The machinery has accelerated.
-
-The old questions remain.
-
-Who is speaking?
-
-Is the message authorized?
-
-Does the other side believe it?
-
-What happens if the promise is broken?
-
-What part of the threat is signal and what part is intention?
-
-Who can call whom when the system starts moving too fast?
-
-And when the answer comes back, is there a person willing to own it?
-
-There will be better tools.
-
-There will be new doctrines.
-
-There will be diplomats who think the old profession moved absurdly slowly and older diplomats who think the new one has mistaken speed for wisdom.
-
-Both groups will eventually discover the same inconvenience.
-
-Another government is still there.
-
-Another society is still there.
-
-Another human being is interpreting what you meant.
-
-The next inning is not a promise that things improve.
-
-Baseball never guaranteed that either.
-
-It is only the recognition that the work continues after the apparent ending.
-
-Another person takes the file.
-
-Another representative boards the plane.
-
-Another student decides public service might be worth the trouble.
-
-Another government sends a message that can be read several ways.
-
-Somebody has to answer.
-
-And before the country can speak, a person has to understand what the country means.
+And then the conversation continues.
