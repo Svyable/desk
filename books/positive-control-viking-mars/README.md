@@ -1,4 +1,6 @@
-# Positive Control: Viking, Mars, and the Experiment That Wouldn't Stay Negative
+# Positive Control
+
+*Viking, Mars, and the Experiment That Wouldn't Stay Negative*
 
 | | |
 |---|---|
