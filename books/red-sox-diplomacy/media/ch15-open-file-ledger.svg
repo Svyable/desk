@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 920" role="img" aria-labelledby="title desc">
+  <title id="title">Open-file inheritance from the Burns-era Iran nuclear diplomacy</title>
+  <desc id="desc">A documentary ledger separating the unresolved status at Nicholas Burns's departure from the diplomatic architecture that survived him, while explicitly denying authorship of the later JCPOA.</desc>
+  <defs><linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f5f0e6"/><stop offset="1" stop-color="#e8dfd0"/></linearGradient></defs>
+  <rect width="1400" height="920" fill="#101722"/>
+  <rect x="56" y="48" width="1288" height="824" rx="8" fill="url(#paper)"/>
+  <text x="104" y="108" font-family="Georgia, 'Times New Roman', serif" font-size="25" letter-spacing="5" fill="#6c6258">OPEN FILE 01 · EARLY 2008</text>
+  <line x1="104" y1="138" x2="1296" y2="138" stroke="#bd3039" stroke-width="3"/>
+  <text x="104" y="198" font-family="Georgia, 'Times New Roman', serif" font-size="42" fill="#171411">Unfinished does not mean unchanged.</text>
+
+  <g transform="translate(104 286)">
+    <rect width="560" height="390" rx="8" fill="#efe7da" stroke="#cbbfaf"/>
+    <text x="30" y="47" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2.3" fill="#bd3039">NOT ACHIEVED BEFORE DEPARTURE</text>
+    <text x="30" y="104" font-family="Georgia, 'Times New Roman', serif" font-size="25" fill="#211c18">No comprehensive nuclear agreement</text>
+    <text x="30" y="151" font-family="Georgia, 'Times New Roman', serif" font-size="25" fill="#211c18">No Iranian acceptance of the</text>
+    <text x="30" y="184" font-family="Georgia, 'Times New Roman', serif" font-size="25" fill="#211c18">suspension entry condition</text>
+    <text x="30" y="231" font-family="Georgia, 'Times New Roman', serif" font-size="25" fill="#211c18">Enrichment continued</text>
+    <text x="30" y="278" font-family="Georgia, 'Times New Roman', serif" font-size="25" fill="#211c18">Military-conflict risk remained</text>
+    <line x1="30" y1="315" x2="530" y2="315" stroke="#c9bdad"/>
+    <text x="30" y="351" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#71675d">No hidden victory should be manufactured from the absence of a bargain.</text>
+  </g>
+
+  <g transform="translate(736 286)">
+    <rect width="560" height="390" rx="8" fill="#0c2340"/>
+    <text x="30" y="47" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2.3" fill="#f3eee3">ARCHITECTURE THAT SURVIVED</text>
+    <text x="30" y="104" font-family="Georgia, 'Times New Roman', serif" font-size="25" fill="#f3eee3">P5+1 negotiating framework</text>
+    <text x="30" y="151" font-family="Georgia, 'Times New Roman', serif" font-size="25" fill="#f3eee3">IAEA as technical / safeguards anchor</text>
+    <text x="30" y="198" font-family="Georgia, 'Times New Roman', serif" font-size="25" fill="#f3eee3">Security Council pressure architecture</text>
+    <text x="30" y="245" font-family="Georgia, 'Times New Roman', serif" font-size="25" fill="#f3eee3">Incentives + sanctions in one strategy</text>
+    <text x="30" y="292" font-family="Georgia, 'Times New Roman', serif" font-size="25" fill="#f3eee3">U.S. willingness to join a negotiated</text>
+    <text x="30" y="325" font-family="Georgia, 'Times New Roman', serif" font-size="25" fill="#f3eee3">settlement under stated conditions</text>
+    <text x="30" y="360" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#bcc6d1">Institutional inheritance is not authorship of a later agreement.</text>
+  </g>
+
+  <rect x="104" y="726" width="1192" height="92" rx="5" fill="#ece3d5" stroke="#cbbfaf"/>
+  <text x="132" y="760" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="2" fill="#0c2340">2015 BOUNDARY</text>
+  <text x="132" y="792" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-style="italic" fill="#4b433b">The later JCPOA inherited institutions and history, but different governments made different choices and negotiated a different bargain. Continuity is not authorship.</text>
+  <text x="1296" y="854" text-anchor="end" font-family="'Courier New', monospace" font-size="16" fill="#82776c">RSD / CH15 / INHERITANCE / O01</text>
+</svg>
