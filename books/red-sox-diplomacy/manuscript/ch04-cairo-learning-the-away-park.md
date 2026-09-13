@@ -34,6 +34,10 @@ The great breakthrough had already happened.
 
 Egypt and Israel had signed peace. Sinai had been returned. The photographs from Camp David belonged to an earlier chapter. What remained was maintenance.
 
+[![White House Photo Collection contact sheet from President Hosni Mubarak's February 14, 1984 working visit](https://www.reaganlibrary.gov/sites/default/files/archives/audiovisual/contactsheets/c19990.jpg)](https://www.reaganlibrary.gov/archives/photo/c19990-02)
+
+*CONTACT SHEET 01 — White House Photo Collection roll C19990 (02), Cabinet Room, Washington, D.C., February 14, 1984. President Reagan’s working visit with Egyptian President Hosni Mubarak. The Reagan Library record lists George Shultz, Robert McFarlane, Caspar Weinberger, Richard Murphy, Egyptian officials, Ambassador Nicholas Veliotes and others among the personal references, noting that not every person appears in every frame. Kightlinger / White House Photo Collection / National Archives. U.S. government work. Burns is not placed in this meeting or in these frames; the object shows the senior bilateral relationship Embassy Cairo was helping maintain while he served there as a junior officer. [Archive record.](https://www.reaganlibrary.gov/archives/photo/c19990-02)*
+
 Maintenance is where the romance usually drains out of diplomacy and the profession becomes visible.
 
 Beecroft, whose portfolio covered Egypt-Israel relations, remembered a cold peace. The agreement existed. The relationship did not become warm merely because signatures had been placed on paper. Egypt was also trying to restore its standing in an Arab world that had punished it for the separate peace with Israel. The United States was pouring assistance into the relationship. Military cooperation mattered enormously. So did Egyptian suspicion of foreign military presence.
@@ -99,6 +103,10 @@ The Foreign Service is perpetuated partly this way: one person notices another p
 Burns's later speeches would return so often to public service that the theme can sound polished in retrospect. Cairo gives it a less polished origin. We cannot say that he had already formed the philosophy he would articulate decades later. We can say that one future ambassador remembered young Nick Burns encouraging him to become a diplomat.
 
 That is enough.
+
+[![Documentary witness object distinguishing Ted Osius's personal Cairo recollection from Robert Beecroft's same-post contextual testimony](../media/ch04-cairo-witnesses.svg)](https://adst.org/OH%20TOCs/Osius.Ted.pdf)
+
+*WITNESS OBJECT 01 — Cairo, 1983–85. Ted Osius says he got to know Burns and identifies him as Ambassador Nicholas Veliotes’s staff aide; his oral history preserves Burns’s advice to attend SAIS and join the Foreign Service. Robert Beecroft served in the same enormous mission during almost exactly the same years, but his Cairo recollection does not name Burns; it supplies institutional context rather than personal testimony. The design keeps those evidentiary distances visible. [Osius oral history.](https://adst.org/OH%20TOCs/Osius.Ted.pdf) [Beecroft oral history.](https://adst.org/OH%20TOCs/Beecroft%2C%20Robert%20M.toc.pdf)*
 
 The Cairo around them was not calm in any broad historical sense. Lebanon remained violent. The Iran-Iraq War continued. The Soviet Union occupied Afghanistan. American military planners were thinking hard about access to the Gulf. Egypt under Hosni Mubarak was consolidating after Anwar Sadat's assassination and trying to manage its separate peace with Israel without surrendering its claim to Arab leadership.
 
