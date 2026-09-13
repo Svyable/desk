@@ -12,6 +12,7 @@ release = runpy.run_path(str(SCRIPT))
 upsert_feedback_option = release["upsert_feedback_option"]
 prepare_release_provenance = release["prepare_release_provenance"]
 ReleaseError = release["ReleaseError"]
+_set_published_reader_links = release["release_core"].set_published_reader_links
 
 
 SAMPLE = """name: Chapter feedback
@@ -99,6 +100,57 @@ class ReleaseProvenanceTest(unittest.TestCase):
             (shelf / "books/example/chapter.md").write_text("drifted\n", encoding="utf-8")
             with self.assertRaisesRegex(ReleaseError, "no longer byte-matches"):
                 prepare_release_provenance(desk, shelf, "example", "b" * 40)
+
+
+class ReaderLinksCanonicalizationTest(unittest.TestCase):
+    """The released Shelf copy must link to the Published Shelf Reader."""
+
+    def set_reader_links(self, markdown: str, slug: str) -> str:
+        return _set_published_reader_links(markdown, slug)
+
+    def test_replaces_desk_block_with_shelf_reader_link(self) -> None:
+        source = (
+            "# Example\n\n"
+            "*An example subtitle*\n\n"
+            "<!-- bookself-reader-links:start -->\n"
+            "**Reader links:** [Working edition · Desk Reader]"
+            "(https://svyable.github.io/desk/reader/#/b/example/)\n"
+            "<!-- bookself-reader-links:end -->\n\n"
+            "| | |\n|---|---|\n"
+        )
+        result = self.set_reader_links(source, "example")
+        self.assertNotIn("desk/reader", result)
+        self.assertIn(
+            "**Reader links:** [Published edition · Shelf Reader]"
+            "(https://svyable.github.io/shelf/reader/#/b/example/)",
+            result,
+        )
+        self.assertIn("<!-- bookself-reader-links:start -->", result)
+        self.assertIn("<!-- bookself-reader-links:end -->", result)
+        self.assertIn("| | |\n|---|---|\n", result)
+        self.assertEqual(result.count("bookself-reader-links:start"), 1)
+
+    def test_idempotent_on_canonical_block(self) -> None:
+        canonical = (
+            "# Example\n\n"
+            "*An example subtitle*\n\n"
+            "<!-- bookself-reader-links:start -->\n"
+            "**Reader links:** [Published edition · Shelf Reader]"
+            "(https://svyable.github.io/shelf/reader/#/b/example/)\n"
+            "<!-- bookself-reader-links:end -->\n\n"
+            "| | |\n|---|---|\n"
+        )
+        self.assertEqual(self.set_reader_links(canonical, "example"), canonical)
+
+    def test_handles_legacy_read_link(self) -> None:
+        source = (
+            "# Example\n\n"
+            "**Reader links:** [Read](https://svyable.github.io/desk/reader/#/b/example/)\n\n"
+            "| | |\n|---|---|\n"
+        )
+        result = self.set_reader_links(source, "example")
+        self.assertNotIn("desk/reader", result)
+        self.assertIn("Shelf Reader", result)
 
 
 if __name__ == "__main__":
