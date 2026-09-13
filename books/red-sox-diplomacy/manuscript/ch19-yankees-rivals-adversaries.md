@@ -48,6 +48,20 @@ This was rivalry as social language.
 
 The content mattered less than the pattern. Everyone knew the antagonism had limits.
 
+Ten years later, in Paris, Burns used the same language with another American diplomat.
+
+He had come to commemorate the sixtieth anniversary of the Marshall Plan with Craig Stapleton, the United States ambassador to France. Burns opened by saying the two men shared a special bond: both were fans of the Boston Red Sox, and both opposed what Burns jokingly called the evil empire of the New York Yankees.
+
+Then he turned immediately to the actual relationship in the room.
+
+He praised Stapleton for helping soothe and calm U.S.-French relations and for building a stronger connection with the French government and people.
+
+The baseball line did not explain the diplomacy. It located the diplomats inside it.
+
+Two American officials could share a theatrical enemy because nobody mistook the Yankees for a strategic problem. The joke created a small piece of common identity before Burns moved into a speech about alliance history, European recovery, and transatlantic cooperation.
+
+That distinction is useful because it shows how rivalry language can be harmless only when everyone knows the boundaries around it.
+
 Years later, Burns would use similar vocabulary in a very different register.
 
 As ambassador to China, he described the United States and China as engaged in historic competition and rivalry. The stakes were no longer a pennant race. Technology, military power, Taiwan, trade, artificial intelligence, human rights, alliances and global influence all sat inside the relationship.
