@@ -24,6 +24,18 @@ Compete. Communicate. Cooperate where interests permitted.
 
 The middle word did most of the diplomatic work.
 
+It was not a neutral word.
+
+Beijing wanted communication too, but rejected the American premise around it.
+
+When Foreign Minister Qin Gang met Burns in May 2023, the Chinese Foreign Ministry's own account said the relationship needed stabilization and that the two countries should prevent unexpected incidents. Then Qin accused Washington of talking about communication while pursuing policies China regarded as suppression and containment. He urged Burns to make more contacts inside China and to serve as a bridge between the two countries.
+
+That is a useful complication.
+
+Both governments could say communication mattered while disagreeing about what communication was for. Burns's formula treated competition as the condition inside which communication had to work. Beijing repeatedly objected to defining the relationship by competition at all.
+
+*ARCHIVE NOTE — China's Foreign Ministry records Qin Gang's May 8, 2023 meeting with Burns, including both the call to stabilize the relationship and Beijing's objection to American containment language and policy. The same readout says Qin urged Burns to serve as a bridge. [Chinese Foreign Ministry record.](https://www.fmprc.gov.cn/mfa_eng/gjhdq_665435/3376_665447/3432_664920/3435_664926/202305/t20230509_11073827.html)*
+
 The United States and China did not need an ambassador to discover that they disagreed. Washington criticized Chinese military pressure around Taiwan, economic practices, human-rights abuses and support that benefited Russia's war effort. Beijing objected to American technology controls, alliances, Taiwan policy and what it described as interference and containment.
 
 The useful question was whether serious competition could remain intelligible to both sides.
@@ -61,6 +73,14 @@ Professionally, it is frequently an assignment sheet.
 ![CHANNEL RECOVERY 01 — crisis, reopened contact and Woodside follow-up in 2023.](../media/ch18-channel-recovery.svg)
 
 *CHANNEL RECOVERY 01 — The February balloon crisis disrupted contact; Blinken's June visit explicitly emphasized communication to reduce miscalculation; Woodside created additional military, counternarcotics and people-to-people work. This records recovery of channels, not recovery of trust and not personal authorship by the ambassador. [U.S. June 2023 readout.](https://2021-2025.state.gov/secretary-blinkens-visit-to-the-peoples-republic-of-china-prc/) [Chinese Woodside readout.](https://www.fmprc.gov.cn/eng/wjb/zzjg_663340/bmdyzs_664814/xwlb_664816/202312/t20231204_11194316.html)*
+
+By April 2024, the Chinese record was describing Burns, Assistant Secretary Daniel Kritenbrink, National Security Council official Sarah Beran and Chinese officials engaged in candid and constructive talks across bilateral and regional issues. The same readout paired that support for continued exchange with sharp objections over Taiwan, technology policy, alliances and the South China Sea.
+
+The channel did not sit outside the conflict.
+
+It was one of the places the conflict was conducted.
+
+*ARCHIVE NOTE — China's April 15, 2024 Foreign Ministry readout records continued high-level exchanges while preserving Beijing's objections on Taiwan, technology, alliances and regional security. [Chinese Foreign Ministry record.](https://www.fmprc.gov.cn/eng/gjhdq_665435/3376_665447/3432_664920/3435_664926/202404/t20240417_11282825.html)*
 
 Burns also pushed a less dramatic form of contact.
 
