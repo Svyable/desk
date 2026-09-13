@@ -30,6 +30,101 @@ Sources:
 - https://www.nato.int/docu/pr/2004/index.html
 - https://www.nato.int/docu/speech/2004/index.html
 
+## The gap now has a named witness route
+
+The absence of a public transcript no longer means the next step is simply “search USNATO archives.”
+
+John M. Koenig's Association for Diplomatic Studies and Training oral history establishes that Burns had discussed bringing Koenig from Greece to Brussels and later put him forward as his deputy chief of mission at USNATO. Koenig describes the job as roughly **fifty-fifty between mission management and active negotiation**.
+
+Source:
+https://adst.org/OH%20TOCs/Koenig.John.pdf
+
+The oral history places Koenig at NATO during the 2004 enlargement period and describes him working directly under Burns. Targeted searches of the 143-page transcript found no `Red Sox` or `baseball` reference, so the published oral history does not recover the championship scene.
+
+That negative result makes Koenig more useful as a **direct witness to ask**, not a source to keep mining for a sentence that is not there.
+
+An archived State Department Belgium background note independently lists:
+
+- Nicholas Burns — Permanent U.S. Representative to NATO;
+- John M. Koenig — Deputy Chief of Mission, USNATO.
+
+Source:
+https://2009-2017.state.gov/outofdate/bgn/belgium/47409.htm
+
+A 2004 key-officer directory further identifies a small mission witness tree under Burns and Koenig:
+
+- **John Heffern** — Political Counselor;
+- **Robert A. Glacel** — Management Officer;
+- **Barry Levin** — Public Affairs Officer.
+
+Period directory mirror:
+https://www.callyourlawyers.com/pdfcaselaw/keyoffcr.pdf
+
+Koenig's oral history independently identifies Heffern as the political counselor with whom he worked closely on NATO negotiations, strengthening that role assignment even though the directory itself survives on a mirror rather than the preferred State host.
+
+## Truman Hall is the right residence target — but not yet the scene
+
+State Department property material identifies **Truman Hall** as the official residence of the U.S. Ambassador to NATO in Brussels.
+
+Source:
+https://2001-2009.state.gov/documents/organization/66242.pdf
+
+The public record still does **not** establish that Burns watched Game 4 there.
+
+A 2005 *State Magazine* item names **Cathleen Lambredis** as residence manager for Truman Hall; a 2006 Art in Embassies publication likewise credits Cathleen Lambridis as Truman Hall Event Coordinator / Residence Manager.
+
+Sources:
+- https://2001-2009.state.gov/documents/organization/50902.pdf
+- https://uss58003.s3.amazonaws.com/uploads-migrated/2016/11/Brussels-NATO-Publication-2006.pdf
+
+Those dates are after the championship. Do not assume she held the role in October 2004.
+
+The useful question is now: **who managed Truman Hall in autumn 2004, and do the residence event books / calendars / staffing records survive?**
+
+Koenig's oral history also says USNATO relied partly on a tri-mission administrative structure based at Embassy Brussels, alongside the U.S. Mission to the EU. That widens the likely record homes beyond USNATO front-office files alone.
+
+## Highest-value next actions
+
+### John Koenig interview
+
+Ask only questions the published oral history cannot answer:
+
+1. Where did Burns watch Game 4 on October 27, 2004?
+2. Did Burns usually watch major Red Sox postseason games at Truman Hall, somewhere else, or privately?
+3. Did Koenig ever watch baseball with him?
+4. What does Koenig remember about Burns arriving at the mission on October 28?
+5. Did staff congratulate him, decorate an office, joke about the title, circulate email, or mention it in a staff meeting?
+6. Who else is most likely to remember: Heffern, front-office staff, management, public affairs, residence staff?
+7. Who managed Truman Hall in autumn 2004?
+8. Were residence event books and ambassador calendars retained at turnover?
+
+### Mission / residence records
+
+Date window: **October 25–29, 2004**, with October 15–November 5 as fallback.
+
+Search:
+- ambassador calendar / schedule;
+- DCM calendar;
+- Truman Hall event book / residence diary;
+- front-office appointment log;
+- vehicle / motor-pool schedule;
+- staff email;
+- internal newsletter;
+- public-affairs clips;
+- morning-meeting notes;
+- residence staffing roster;
+- official representational-event calendar.
+
+Terms:
+`Red Sox`, `Boston`, `World Series`, `baseball`, `Cardinals`, `Game 4`, `championship`, `congratulations`, `Fenway`.
+
+Likely record homes:
+- USNATO front office;
+- Embassy Brussels / Joint Administrative Services;
+- Truman Hall residence records;
+- tri-mission motor pool / protocol / general services;
+- ambassador / DCM office-management files.
+
 ## Documentary architecture
 
 1. Establish the inherited drought already built earlier in the book: family fandom, decades of disappointment, 1986, the Yankees rivalry.
@@ -42,9 +137,13 @@ Sources:
 
 ## Guardrails
 
-Do not manufacture the emotional climax the archive refuses to give us. Do not write that Burns cried, celebrated with diplomats, called family, stayed up all night, watched in Brussels, or experienced the championship in any particular place unless direct evidence is found.
+Do not manufacture the emotional climax the archive refuses to give us. Do not write that Burns cried, celebrated with diplomats, called family, stayed up all night, watched in Brussels, watched at Truman Hall, or experienced the championship in any particular place unless direct evidence is found.
 
 Do not infer location from silence in the public speech indexes.
+
+Do not infer that Koenig, Heffern, Glacel, Levin or residence staff witnessed the game because they were at post.
+
+Do not assume a 2005 residence manager held the same job in October 2004.
 
 Do not make the 2004 title a causal explanation for Burns's diplomacy.
 
@@ -54,4 +153,15 @@ Do not use the 2012 “suffering” line to imply that the 2004 and 2007 champio
 
 ## Draft threshold
 
-High enough to draft without inventing the missing scene. The gap itself is narratively useful if handled confidently. Before any final fact-check, re-check the 2003 Brussels first-person source, March 2005 USIP remarks, the 2012 Chicago transcript, and any newly available U.S. Mission NATO October 2004 calendars/correspondence.
+High enough to draft without inventing the missing scene. The gap itself is narratively useful if handled confidently.
+
+Before final fact-check, re-check:
+
+- the 2003 Brussels first-person source;
+- March 2005 USIP remarks;
+- 2006 Northeastern remarks;
+- 2012 Chicago transcript;
+- Koenig's direct recollection if obtainable;
+- USNATO / Truman Hall / tri-mission October 2004 records if obtainable.
+
+The championship-night scene now has an executable witness-and-records route even though it remains unresolved.
