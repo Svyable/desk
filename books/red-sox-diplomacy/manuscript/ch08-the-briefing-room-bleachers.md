@@ -6,217 +6,135 @@ Red Sox good. Yankees bad.
 
 The rules were not foreign policy. That was why they worked.
 
-Nicholas Burns spent two and a half years standing at a podium where nearly every sentence carried institutional weight. Bosnia. Russia. China. Israel. North Korea. Terrorism. Arms control. A coup, a bombing, a negotiation, a rumor that had outrun confirmation. The room existed to strip ambiguity from official statements and, when ambiguity remained, to expose it.
+Nicholas Burns spent two and a half years at a podium where nearly every sentence carried institutional weight. Bosnia. Russia. China. Israel. North Korea. Terrorism. Arms control. A coup, a bombing, a negotiation, a rumor outrunning confirmation.
 
 Then someone would ask about baseball.
 
 The shift could happen in a line.
 
-In March 1997 Burns was welcoming visitors when the talk wandered toward team loyalties. He announced the local rules: the Red Sox were acceptable, the Yankees were not. A moment later he was walking reporters through Secretary Madeleine Albright's meetings and the architecture of European security.
+In March 1997 Burns was welcoming visitors when the talk wandered toward team loyalties. He announced the local rules:
 
 > *“We do like the Boston Red Sox. We don't mind the Tigers. We hate the Yankees. Those are the rules.”*
+
+A moment later he was back to Secretary Madeleine Albright's meetings and European security.
 
 *ARCHIVE NOTE — U.S. Department of State Daily Press Briefing, March 7, 1997. [Primary transcript.](https://1997-2001.state.gov/briefings/9703/970307.html)*
 
 Nothing had changed except the register.
 
-This was one of the strange competencies of the State Department briefing room. People who spent their working lives asking whether governments were lying to them could also sustain a running joke whose entire value depended on everyone knowing it was not official.
+The briefing room existed to test what the United States government meant. Reporters spent their days pressing the difference between policy and rumor, certainty and inference, public language and private maneuver.
 
-Burns could say something absurd about baseball and the room understood that he had briefly stepped outside the voice of the United States government.
+Baseball occupied a territory everyone could identify as Burns's own.
 
-That distinction mattered because the rest of the time he could not.
+That boundary made the joke possible.
 
-The previous chapter is about the discipline required to speak for an institution: the difference between confirmed and unconfirmed, allegation and fact, negotiation and policy, what the government knows and what the spokesman is authorized to say.
+The Burns years also came immediately after baseball's 1994 labor war had stopped the season and erased the World Series. The sport was not some timeless national object untouched by conflict. Fans had watched owners and players argue until the calendar simply ended, then came back when the games did.
 
-Baseball occupied the opposite territory.
+Burns came back too.
 
-It was low stakes, personal, repetitive and safe enough to be recognizable.
+By late 1996, the pattern was established. When Roger Clemens left Boston for Toronto, Burns jokingly denounced the pitcher as a traitor and declared the grievance the official position of the State Department.
 
-It was also not floating outside its own recent history.
+The line was funny because it was obviously false.
 
-The Burns briefing-room years came immediately after baseball's 1994 labor war had stopped the season in August and erased the World Series. The national pastime had managed to interrupt one of its own most durable rituals. When the games returned, the sport was rebuilding not only schedules and standings but its relationship with fans who had watched owners and players argue over money until the calendar simply ended.
+But the baseball judgment underneath it was real enough. Burns contrasted Clemens with Ted Williams and Carl Yastrzemski. Those men, he said, could say something Clemens no longer could: they had been lifelong Red Sox.
 
-That context makes Burns's baseball talk slightly more interesting.
+The standard was not greatness.
 
-He did not invoke some timeless national object untouched by conflict. He invoked an institution Americans loved enough to resent, criticize and return to anyway.
-
-That was recognizably Boston even before the Red Sox entered the sentence.
-
-By late 1996, the pattern was already visible. Burns welcomed a visiting New Hampshire family to the briefing room by identifying them as huge Red Sox fans. When Roger Clemens left Boston for Toronto that December, Burns jokingly denounced the pitcher as a traitor and declared the complaint to be the official position of the State Department.
-
-The line was funny precisely because it was obviously false.
-
-But the joke contained a real baseball judgment.
-
-Burns contrasted Clemens with Ted Williams and Carl Yastrzemski. Those men, he said, could say something Clemens no longer could: they had been lifelong Red Sox.
-
-The standard was not greatness. Clemens was already one of the best pitchers of his generation.
+Clemens was already one of the best pitchers of his generation.
 
 The standard was staying.
 
-That fits the rest of Burns's baseball language better than a generic description of fandom. The Red Sox identity he carried publicly kept returning to continuity: the family that handed him the team, the city that kept the grievance, the players who stayed, the fans who stayed even longer.
+A few months later, the joke came back to Burns from the room.
 
-None of that makes baseball a secret theory of diplomacy.
-
-It does make the joke more specific.
-
-Nobody in the room could mistake baseball grievance for diplomatic doctrine. The spokesman who spent his days policing the boundary around the government's actual position could cross that boundary theatrically because everyone knew where it was.
-
-He added that it would have been worse if Clemens had gone to the Yankees.
-
-That was the durable part.
-
-The Yankees appeared again and again because the rivalry required no briefing book. It did not need clearance. It did not change with a secretary's travel schedule. A reporter could invoke it, a visitor could be tested against it, and Burns could respond without pretending that the exchange mattered more than it did.
-
-In January 1997 a sports detour went far enough that Burns stopped it with a question: this was not a sports briefing, right?
-
-The joke contained its own answer.
-
-By then there was enough sports briefing inside the briefing for everybody to recognize the category.
-
-In April, Burns welcomed a group of Cypriot journalists by asking whether they had baseball in Cyprus. The visitors said they did not. He called that unfortunate and moved into Secretary Albright's ceremonial first pitch in Baltimore.
-
-Later that month came stronger evidence that the baseball identity no longer belonged to Burns alone.
-
-During a serious exchange about the evidentiary basis for accusations against American citizens, a reporter reminded Burns that he had accused Roger Clemens of treason.
+During a serious exchange about the evidentiary basis for accusations against American citizens, a reporter reminded him that he had accused Roger Clemens of treason.
 
 The room laughed.
 
-Burns did not need the reference explained. He replied that the Clemens case had already been confirmed. Another reporter pointed out that Clemens merely worked for the Toronto baseball team. Burns answered by volunteering a fresh result: Boston had beaten Baltimore 2–1 in twelve innings the previous night. Then he teased an Orioles supporter in the room.
+Burns replied that the Clemens case had already been confirmed. Another reporter pointed out that Clemens merely worked for Toronto's baseball team. Burns answered with the previous night's result: Boston had beaten Baltimore 2–1 in twelve innings. Then he teased an Orioles supporter in the room.
 
-This is what a recurring bit looks like after it becomes shared property.
+The episode is stronger evidence than Burns simply announcing his fandom again.
 
-Burns had not introduced baseball into the exchange.
+He had not introduced baseball into the exchange.
 
-A reporter had used Burns's own joke against him.
+A reporter had remembered his language and thrown it back at him.
 
-That matters more than another self-description as a fan. A persona can be announced unilaterally. Social shorthand requires other people to remember it.
-
-A month later a Dutch journalist said he knew the Red Sox played at Fenway Park. Burns immediately worked the answer into the standing Red Sox-Yankees script, pushed into baseball trivia, and eventually labeled the episode for what it had become: the baseball briefing.
-
-Then the briefing became a briefing again.
-
-That return is more important than the jokes.
-
-The press room was not a clubhouse. Reporters who played along with Burns on baseball could, seconds later, press him on settlement policy, nuclear proliferation, missing Americans, sanctions, military deployments or negotiations the Department did not want to discuss publicly.
-
-There is no evidence that baseball bought Burns gentler questions.
-
-There is no reason to romanticize the room that way.
-
-The social fact is smaller and more interesting.
-
-The people in the room had learned something authentic and trivial about the official in front of them. Burns had learned that they had learned it. The subject could be summoned almost instantly, played for a few exchanges, and dropped.
-
-Familiarity coexisted with scrutiny.
-
-That may be the most useful feature of the ritual.
-
-Public officials are often advised to become relatable, as though relatability were a technique that could be applied with enough consulting. The result is usually visible. A candidate names a favorite band. An executive repeats a hometown anecdote. A cabinet officer is photographed doing something ordinary.
-
-The briefing-room Red Sox material did not have that quality because it accumulated too messily.
-
-It was not launched.
-
-There was no campaign.
-
-Burns complained about Clemens. He asked visitors about their teams. Reporters teased him. He teased interns. Secretary Albright signed baseballs. The subject kept returning because people in the room remembered it.
+A persona can be declared by one person. Social shorthand requires other people to carry it.
 
 [![Chronological ledger of recurring baseball exchanges in Nicholas Burns's State Department briefing room](../media/ch08-recurrence-ledger.svg)](../research/ch08-visual-archive.md)
 
 *RECURRENCE LEDGER 01 — Selected documented baseball moments, December 1996 through October 1997. The marks distinguish Burns-initiated exchanges, reporter callbacks, and moments when the room or the outside world returned the persona to him. This is a curated evidentiary sequence, not a complete count. [Source map.](../research/ch08-visual-archive.md)*
 
-On June 4, the Clemens grievance opened into something more locally specific. Burns said Boston was still bitter and, describing the condition of the team, announced: “We’re saying our Novenas for the Red Sox.” He kept the joke going through mock-devotional language about resuscitation and the patron saint of lost causes.
+The repetition mattered more than any single joke.
 
-It would be a mistake to turn that exchange into a claim about Burns's theology. Its value is smaller and better. The joke sounded like somewhere. It drew on a New England Catholic vocabulary of ritual, endurance and impossible cases to describe a baseball team whose failures had become communal folklore.
+Burns would ask visitors about their teams. Reporters would test him with Yankees references. He could complain about Clemens, be teased about the complaint, and then turn immediately back to questions involving settlements, proliferation or military deployments.
+
+There is no evidence that the baseball ritual bought him easier questions.
+
+It did something smaller.
+
+The room knew a trivial fact about the man behind the institutional voice, and the fact was real enough to recur without needing to be reintroduced.
+
+On June 4, 1997, the material became more locally specific. Burns said Boston was still bitter and announced, describing the condition of the team, that New England was saying novenas for the Red Sox. He extended the joke through mock-devotional language about resuscitation and the patron saint of lost causes.
+
+It would be a mistake to turn that into a claim about Burns's theology.
+
+The value is regional texture. The joke sounded like somewhere. It drew on a New England Catholic vocabulary of ritual, endurance and impossible cases to describe a baseball team whose failures had become communal folklore.
 
 Then Burns marked the boundary himself.
 
-Toronto had taken Clemens. That was baseball grievance. Canada, he said in substance, remained one of America's closest friends and neighbors.
+Toronto had taken Clemens. That was baseball grievance. Canada remained one of America's closest friends and neighbors.
 
-The distinction was almost a demonstration of the chapter's point. Mock hostility could sit inside an official briefing only because everyone could tell where the joke ended and the actual bilateral relationship began.
+The mock hostility and the actual bilateral relationship could coexist because everyone knew which was which.
 
-Then the room moved on.
+A few days later, the baseball talk supplied something more important to the biography.
 
-In June 1997, the memory widened again.
+Burns said his mother had been a Red Sox supporter. His father, by Burns's telling, had been hurt badly enough by the club's failures going back to the 1930s that he warned the children not to make the same mistake.
 
-A question about the Red Sox prompted Burns to talk about the family behind the allegiance. He said his mother was a Red Sox supporter. His father, by Burns's telling, had been hurt badly enough by the club's failures going back to the 1930s that he warned his children not to make the same mistake.
+Burns ignored him.
 
-Burns had ignored him.
-
-The exchange was comic, and it should not be asked to carry more autobiography than Burns gave it. But it matters because it supplies something the later public persona alone cannot.
+The exchange is comic, but it supplies the thing public-persona analysis cannot manufacture afterward.
 
 The fandom had a family history.
 
-It was not simply a prop acquired by an official who found baseball useful in public life.
+It was not a prop acquired by a government spokesman who discovered that baseball played well with reporters.
 
-His father's warning also contained the central absurdity of inherited sports loyalty. It was perfectly rational advice. The team had caused disappointment. Stop caring.
+His father's warning was perfectly rational advice.
 
-Burns cared anyway.
+The team had caused disappointment. Stop caring.
 
-That is not yet a theory of diplomacy.
+The son cared anyway.
 
-It should not become one.
+That is enough explanation for why the Red Sox identity could survive the podium. It preceded the job.
 
-But it explains why the Red Sox could remain useful to this story without being made to explain everything else. The attachment preceded the podium and survived it. It belonged to the category of things a representative carries that the government did not issue.
+The room kept elaborating the bit because Burns had given it something stable to elaborate.
 
-By June the room knew enough of that identity to provoke him on Roger Clemens again. Burns answered from Boston's accumulated grievance. A few days later, baseballs signed by Secretary Albright were waiting for journalists who had attended Opening Day ceremonies in Baltimore.
-
-The sport was now threaded through the public-affairs culture around him, not because the Department had become a baseball institution but because ceremonial life, press ritual and personal taste overlap in government the way they do almost everywhere else.
-
-On July 8 a Colby College intern from Maine appeared in the room.
-
-Burns identified Maine as Red Sox territory and asked the obvious question.
+On July 8, a Colby College intern from Maine appeared at the briefing. Burns identified Maine as Red Sox territory and asked the obvious question.
 
 The intern said he was a Yankees fan.
 
-Burns acted as though a security violation had occurred.
+Burns acted as though a security violation had occurred. He jokingly invoked the rules of admission and directed the intern toward the doors before granting an All-Star Game reprieve.
 
-He told the intern that the rules of admission prohibited such a thing and jokingly directed him toward the doors. Then, because it was All-Star Game day, he granted a reprieve.
+No explanation was necessary.
 
-By then no explanation was necessary.
+The script had become ritual.
 
-The room understood the script before the lines arrived.
+That is the useful word here—not branding, not relatability, not charm.
 
-That is what ritual looks like when nobody has formally created it.
+Ritual.
 
-It becomes shorthand.
+A repeated, low-stakes exchange that helped a room full of people in structured professional opposition recognize one another without changing their jobs.
 
-The shorthand was harmless, but not meaningless. Diplomacy and public affairs both require repeated contact among people whose roles put them in structured opposition. The spokesman wants to defend and explain. The reporter wants to question and expose. Neither role disappears because the people carrying them learn each other's habits.
+The spokesman still defended policy.
 
-The relationship becomes easier to inhabit without becoming less real.
+The reporters still tried to break through the defense.
 
-That difference is easy to miss.
-
-Official Washington often treats professionalism as impersonality. The safest representative, in that view, is the one who reveals nothing that has not been cleared.
-
-Burns's briefing room suggests a different possibility.
-
-A representative can remain institutionally disciplined without becoming anonymous.
-
-The personal detail does not have to manipulate the room. It can simply be there.
-
-The proof came at the end.
+Familiarity coexisted with scrutiny.
 
 On July 22, 1997, Burns gave his final State Department briefing before leaving for his next assignment.
 
 Other people chose the symbols.
 
-President Clinton sent an autographed Red Sox cap. The inscription told Burns he was still number one.
-
-Barry Schweid of the Associated Press gave him a Red Sox alarm clock and used it to tease him about the briefing's famously elastic start time.
-
-Mike McCurry, the White House press secretary and himself a former State Department spokesman, came to the podium and praised Burns's command of it.
-
-The objects and the jokes summarized a public persona the room had assembled over time.
-
-Not merely spokesman.
-
-Not merely diplomat.
-
-The guy from Boston who would argue with you about the Yankees and then tell you exactly what the United States government was prepared to say about a crisis.
-
-There was one more gift.
+President Clinton sent an autographed Red Sox cap. Barry Schweid of the Associated Press gave Burns a Red Sox alarm clock and used it to tease him about the briefing's famously elastic start time. Mike McCurry, the White House press secretary and a former State Department spokesman, came to the podium to praise Burns's command of it.
 
 Lambros Papantoniou, a Greek journalist whose detailed questions about Greek-Turkish disputes had repeatedly tested Burns from the press seats, brought a bottle of ouzo.
 
@@ -224,13 +142,17 @@ Lambros Papantoniou, a Greek journalist whose detailed questions about Greek-Tur
 
 *FAREWELL INVENTORY 01 — July 22, 1997. President Clinton's autographed Red Sox cap, Barry Schweid's Red Sox alarm clock, Lambros Papantoniou's ouzo, and Mike McCurry's return to the podium make the room's accumulated memory physical. The strongest contemporaneous farewell photograph remains research-only pending publication rights. [Source map.](../research/ch08-visual-archive.md)*
 
-The gift pointed somewhere else.
+The objects summarized the room's memory of him.
 
-Burns was leaving the podium.
+The government spokesman.
 
-But the baseball bit did not quite leave with him.
+The guy from Boston.
 
-By October, while Burns was waiting for Senate confirmation to go to Athens, the Clemens joke came back from outside the State Department. The Washington Post reported that CBS State Department producer Charles Wolfson, another long-suffering Red Sox fan, had arranged for an eight-by-ten photograph of Roger Clemens in his Toronto uniform. Clemens signed it to Burns with good wishes for the new job and thanks for Burns's earlier “kind words.”
+The official who could spend one minute arguing about the Yankees and the next telling reporters exactly what the United States was—and was not—prepared to say about a crisis.
+
+The baseball bit did not quite leave with him.
+
+By October, while Burns was waiting for Senate confirmation to go to Athens, the Clemens joke returned from outside the Department. *The Washington Post* reported that CBS State Department producer Charles Wolfson, another long-suffering Red Sox fan, had arranged for an eight-by-ten photograph of Roger Clemens in his Toronto uniform. Clemens signed it to Burns with good wishes for the new job and thanks for Burns's earlier “kind words.”
 
 The joke had completed a circuit.
 
@@ -238,20 +160,18 @@ The joke had completed a circuit.
 
 *CIRCUIT OBJECT 01 — December 1996–October 1997. Burns's theatrical grievance becomes a reporter callback, then leaves the room through CBS producer Charles Wolfson and returns as a signed Clemens photograph. The original photograph is not reproduced; the diagram shows only the documented chain. [Source map.](../research/ch08-visual-archive.md)*
 
-A player changed teams. A government spokesman complained theatrically at the podium. Reporters remembered. One of them threw the language back during a policy exchange. Another carried the joke into baseball itself. The player sent it back.
+A player changed teams. A government spokesman complained theatrically. Reporters remembered. One used Burns's own language against him during a policy exchange. Another carried the joke into baseball itself. The player sent it back.
 
-That is stronger evidence of a shared persona than Burns announcing his own fandom again. Other people had learned the script well enough to keep writing it after he left the room.
+Other people had learned the script well enough to keep writing it after Burns left the room.
+
+That is the useful fan at full strength: not an official deploying a hobby on command, but a piece of biography durable enough to become reciprocal social memory.
 
 Greece was next.
 
-That movement changes the meaning of the baseball material again.
+The move would change the meaning of the baseball material again.
 
-In Washington, the Red Sox had been a recurring mark of personality inside an American institution. In Athens, personal identity would enter a different environment. Burns would no longer be explaining policy to a press corps that already knew the bit. He would be representing the United States inside another country's politics, history and suspicions.
-
-The audience would change.
-
-So would the stakes.
+In Washington, the Red Sox had been a mark of personality inside an American institution whose press corps already knew the rules. In Athens, Burns would represent the United States inside another country's politics, history and suspicions.
 
 The cap could travel.
 
-The rules of the room could not.
+The room could not.
