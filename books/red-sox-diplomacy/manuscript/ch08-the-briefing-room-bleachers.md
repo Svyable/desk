@@ -28,6 +28,16 @@ Baseball occupied the opposite territory.
 
 It was low stakes, personal, repetitive and safe enough to be recognizable.
 
+It was also not floating outside its own recent history.
+
+The Burns briefing-room years came immediately after baseball's 1994 labor war had stopped the season in August and erased the World Series. The national pastime had managed to interrupt one of its own most durable rituals. When the games returned, the sport was rebuilding not only schedules and standings but its relationship with fans who had watched owners and players argue over money until the calendar simply ended.
+
+That context makes Burns's baseball talk slightly more interesting.
+
+He did not invoke some timeless national object untouched by conflict. He invoked an institution Americans loved enough to resent, criticize and return to anyway.
+
+That was recognizably Boston even before the Red Sox entered the sentence.
+
 By late 1996, the pattern was already visible. Burns welcomed a visiting New Hampshire family to the briefing room by identifying them as huge Red Sox fans. When Roger Clemens left Boston for Toronto that December, Burns jokingly denounced the pitcher as a traitor and declared the complaint to be the official position of the State Department.
 
 The line was funny precisely because it was obviously false.
