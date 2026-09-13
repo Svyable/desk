@@ -38,7 +38,7 @@ The Red Sox also provide a second historical clock. Burns’s life runs beside a
 - [x] [Ch 14 — India: Playing the Long Game](manuscript/ch14-india-playing-the-long-game.md)
 - [x] [Ch 15 — Iran: When Patience Does Not Win](manuscript/ch15-iran-when-patience-does-not-win.md)
 - [x] [Ch 16 — October 2004](manuscript/ch16-october-2004.md)
-- [x] [Ch 17 — The Professor in the Cheap Seats](manuscript/ch17-professor-in-the-cheap-seats.md)
+- [x] [Ch 17 — The Professor in the Cheap Seats](manuscript/ch17-the-professor-in-the-cheap-seats.md)
 - [x] [Ch 18 — Beijing](manuscript/ch18-beijing.md)
 - [x] [Ch 19 — Yankees, Rivals, Adversaries](manuscript/ch19-yankees-rivals-adversaries.md)
 - [x] [Ch 20 — The Human Channel](manuscript/ch20-the-human-channel.md)
