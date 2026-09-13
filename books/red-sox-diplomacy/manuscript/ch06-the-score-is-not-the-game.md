@@ -16,6 +16,18 @@ The work required to make that sentence true was not clean at all.
 
 Nicholas Burns had reached the National Security Council after years spent closer to the edge of American power: Cairo, Jerusalem, the State Department Operations Center, Soviet and Eastern European work. By the Clinton administration he was the senior White House official for Russia, Ukraine and Eurasia. The Soviet Union had disappeared. The consequences had not.
 
+America was already telling itself a story about the new era. The Cold War was over. The ideological contest that had organized generations of strategy had apparently produced a winner. Markets were opening. Borders were changing. Institutions that had been built for one world were being asked to function in another.
+
+Even baseball, the institution Americans liked to describe as timeless, was having an argument about its own rules of survival.
+
+On August 12, 1994, major-league players went on strike. The season stopped. The postseason never happened. There was no World Series.
+
+The juxtaposition should not be pushed into allegory. A labor dispute in professional sports does not explain the post-Soviet order.
+
+It does supply atmosphere.
+
+The United States was entering a decade of enormous confidence while some of its most familiar institutions were proving less permanent and less consensual than their mythology suggested. Baseball's dispute was about ownership, labor, money and power. Washington's argument was infinitely more consequential, but it carried its own version of the same historical warning: institutions survive because people renegotiate how they work, not because everybody remembers them as inevitable.
+
 Fifteen independent states now occupied the map where one superpower had stood. Some transitions were peaceful. Some were not. Nuclear weapons had to be accounted for. Economies were collapsing and being rebuilt at the same time. Political institutions were changing faster than habits of authority. Borders that had existed inside one state became international borders.
 
 And Russian troops were still sitting in countries that regarded them as an occupying force.
