@@ -1,0 +1,151 @@
+{
+  "manifest_version": 1,
+  "acquired_count": 13,
+  "failed_count": 0,
+  "acquired": [
+    {
+      "dest": "books/red-sox-diplomacy/media/primary-source/ch01-nicholas-burns-official-portrait-2022.jpg",
+      "bytes": 372644,
+      "sha256": "b30b0aae834a3204d5cfe940256f35eb633a08aca12f80ae3663ccc352c13f69",
+      "archive_record": "https://commons.wikimedia.org/wiki/File:Nicholas_Burns,_U.S._Ambassador.jpg",
+      "rights": "public domain — U.S. Department of State employee work",
+      "maker": "United States Department of State",
+      "date": "2022-01-25",
+      "chapter": "1",
+      "job": "official late-career portrait"
+    },
+    {
+      "dest": "books/red-sox-diplomacy/media/primary-source/ch01-nicholas-burns-red-sox-clinic-beijing-2024.png",
+      "bytes": 1405463,
+      "sha256": "359b3ca185206a602a7e28309eae28a76564a624925b76503bd6de4e71401783",
+      "archive_record": "https://commons.wikimedia.org/wiki/File:Ambassador_Burns_with_Chinese_baseball_fans.png",
+      "rights": "public domain — U.S. Department of State employee work",
+      "maker": "U.S. Ambassador to China / U.S. Department of State",
+      "date": "2024-10-22",
+      "chapter": "1/18",
+      "job": "Red Sox identity continuity in China"
+    },
+    {
+      "dest": "books/red-sox-diplomacy/media/primary-source/ch01-nicholas-burns-introductory-video-2022.webm",
+      "bytes": 24269471,
+      "sha256": "cfc24f7cc097494fc20ddbf97ef089a0acfa24f5e7b9a044e062767580841cbd",
+      "archive_record": "https://commons.wikimedia.org/wiki/File:Ambassador_Nicholas_Burns%E2%80%99_Introductory_Video.webm",
+      "rights": "public domain — U.S. Department of State employee work",
+      "maker": "U.S. Embassy & Consulates in China",
+      "date": "2022-04-29",
+      "chapter": "1/18",
+      "job": "primary-source moving image; 2:25, 1280x720"
+    },
+    {
+      "dest": "books/red-sox-diplomacy/media/primary-source/ch02-nicholas-burns-nato-brussels-2003.jpg",
+      "bytes": 1471474,
+      "sha256": "ec8a98ee0ba2a781eb8fb401a66598c0fdc62ec6e7e09dc392d52e7729a12d2f",
+      "archive_record": "https://commons.wikimedia.org/wiki/File:Defense.gov_News_Photo_031202-F-2828D-413.jpg",
+      "rights": "public domain — U.S. federal government work",
+      "maker": "United States Department of Defense / U.S. Air Force",
+      "date": "2003-12-02",
+      "chapter": "2/13",
+      "job": "Burns at NATO during Brussels tenure"
+    },
+    {
+      "dest": "books/red-sox-diplomacy/media/primary-source/ch06-clinton-berger-burns-oval-office-1993.jpg",
+      "bytes": 4947194,
+      "sha256": "0c865a399bae72a74f6e5410b16305f8a526e81a90f21aaafb9e841eb16e7024",
+      "archive_record": "https://commons.wikimedia.org/wiki/File:President_Bill_Clinton_meets_with_Sandy_Berger_and_Nicholas_Burns_in_the_Oval_Office_(01).jpg",
+      "rights": "public domain — U.S. federal government work",
+      "maker": "White House Photograph Office / Clinton Presidential Library",
+      "date": "1993-01-26",
+      "chapter": "6",
+      "job": "Burns inside the Clinton NSC institutional setting"
+    },
+    {
+      "dest": "books/red-sox-diplomacy/media/primary-source/ch09-us-embassy-athens-demonstration-damage-1975.jpg",
+      "bytes": 1844501,
+      "sha256": "b498f98c82219206bc0c46950255b31f29ddce5f81d98b468961e5decf1fcfab",
+      "archive_record": "https://commons.wikimedia.org/wiki/File:Athens_-_Chancery_Office_Building_-_1975_-_DPLA_-_8fb298c265bf14eb903b3e1a800b527e.jpg",
+      "rights": "public domain — U.S. federal archive",
+      "maker": "U.S. National Archives / Department of State overseas buildings collection",
+      "date": "1975",
+      "chapter": "9",
+      "job": "pre-Burns evidence that the Athens chancery was a contested political object"
+    },
+    {
+      "dest": "books/red-sox-diplomacy/media/primary-source/ch14-bush-singh-oval-office-2005.jpg",
+      "bytes": 40700,
+      "sha256": "3bde50c8941cf75fc0f145ac92a2fbb7e0e144a30b3cda1e37e239efd095779e",
+      "archive_record": "https://georgewbush-whitehouse.archives.gov/news/releases/2005/07/images/20050718-1_d-0262-515h.html",
+      "rights": "public domain — White House federal photograph",
+      "maker": "Eric Draper / White House",
+      "date": "2005-07-18",
+      "chapter": "14",
+      "job": "Bush-Singh leaders' political wager"
+    },
+    {
+      "dest": "books/red-sox-diplomacy/media/primary-source/ch14-nicholas-burns-under-secretary-portrait-2005.jpg",
+      "bytes": 4605971,
+      "sha256": "26c00b2208ce618cadb6cfb0bdde6f26b0743fdeff7e149747716468e4d0c2d8",
+      "archive_record": "https://commons.wikimedia.org/wiki/File:Assignment-_59-CF-DS-24774-05)_Official_portrait_of_R._Nicholas_Burns,_Under_Secretary_for_Political_Affairs_(Photographer-_Ann_Thomas--State)_(59-CF-DS-24774-05_Burns_Nick_fromPSD._-_DPLA_-_f4243003ba9e37e05b4cd2e0e77a3e8d.jpg",
+      "rights": "public domain — U.S. Department of State employee work",
+      "maker": "Ann Thomas / U.S. Department of State / National Archives",
+      "date": "2005-11-25",
+      "chapter": "14/15",
+      "job": "period portrait for Under Secretary years"
+    },
+    {
+      "dest": "books/red-sox-diplomacy/media/primary-source/ch18-nicholas-burns-pitching-baseball-beijing-2023.jpg",
+      "bytes": 442713,
+      "sha256": "a428f2fd02bed4cddeb3f5863133fbd880d3c6036d890bfe2394a5719f4d307b",
+      "archive_record": "https://commons.wikimedia.org/wiki/File:Ambassador_Burns_pitching_baseball.jpg",
+      "rights": "public domain — U.S. Department of State employee work",
+      "maker": "U.S. Ambassador to China / U.S. Department of State",
+      "date": "2023-07-04",
+      "chapter": "18",
+      "job": "baseball continuity at human scale"
+    },
+    {
+      "dest": "books/red-sox-diplomacy/media/primary-source/ch18-nicholas-burns-student-visa-hall-2024.jpg",
+      "bytes": 846491,
+      "sha256": "02a823b90c46ed9d7ee5621b73dfdfe1134f9eae6537822c6ae197b0e496ede4",
+      "archive_record": "https://commons.wikimedia.org/wiki/File:Ambassador_Burns_speaking_to_a_group_of_student_visa_applicants_in_the_Visa_Hall_of_U.S._Embassy_Beijing.jpg",
+      "rights": "public domain — U.S. Department of State employee work",
+      "maker": "U.S. Ambassador to China / U.S. Department of State",
+      "date": "2024-05-08",
+      "chapter": "18/21",
+      "job": "people-to-people and student-exchange work"
+    },
+    {
+      "dest": "books/red-sox-diplomacy/media/primary-source/ch18-nicholas-burns-red-sox-great-wall-2024.jpg",
+      "bytes": 462843,
+      "sha256": "feb1f258b7467c7ea9e805a2d799644cb8b7b27f2c1f166072f39b03782f68b5",
+      "archive_record": "https://commons.wikimedia.org/wiki/File:Ambassador_Burns_-_Charter_members_of_@RedSox_Nation_at_the_Great_Wall_of_China.jpg",
+      "rights": "public domain — U.S. Department of State employee work",
+      "maker": "U.S. Ambassador to China / U.S. Department of State",
+      "date": "2024",
+      "chapter": "18/epilogue research",
+      "job": "Red Sox Nation as public identity in China; not causal diplomacy evidence"
+    },
+    {
+      "dest": "books/red-sox-diplomacy/media/primary-source/ch18-blinken-press-availability-beijing-2023.jpg",
+      "bytes": 1126085,
+      "sha256": "c53c270842938231f8930872fa13a25db0c80bf1a583c43f81c6e6c5ee8a392e",
+      "archive_record": "https://commons.wikimedia.org/wiki/File:Ambassador_Burns_Listens_as_Secretary_Blinken_Hosts_a_Press_Availability_from_Beijing.jpg",
+      "rights": "public domain — U.S. Department of State employee work",
+      "maker": "United States Department of State",
+      "date": "2023",
+      "chapter": "18",
+      "job": "senior-channel recovery after early-2023 deterioration"
+    },
+    {
+      "dest": "books/red-sox-diplomacy/media/primary-source/ch18-nicholas-burns-woodside-recap-2023.webm",
+      "bytes": 5107539,
+      "sha256": "200a46e82af3da26bd8211685e5b2d19375bd700145c786b704782c697972320",
+      "archive_record": "https://commons.wikimedia.org/wiki/File:Ambassador_Nicholas_Burns_recaps_what_President_Biden_and_People%27s_Republic_of_China_President_Xi_Jinping_discussed_during_their_4-hour_meeting_in_San_Francisco.webm",
+      "rights": "public domain — U.S. Department of State employee work",
+      "maker": "United States Department of State",
+      "date": "2023-11-21",
+      "chapter": "18/20",
+      "job": "primary-source moving image on Biden-Xi Woodside follow-up; ~1:08"
+    }
+  ],
+  "failed": []
+}
