@@ -1,7 +1,8 @@
 // Temporary migration boundary: canonical Bookself still supplies app.js until
 // scripts/sync-bookself.sh materializes the complete application graph locally.
 const canonicalAppUrl = 'https://svyable.github.io/bookself/reader/js/app.js?v=r6';
-const canonicalNavigationCssUrl = 'https://svyable.github.io/bookself/reader/css/navigation.css?v=r1';
+const canonicalReadingSurfaceUrl = new URL('./reading-surface.js?v=20260913-first-layout', canonicalAppUrl).href;
+const canonicalNavigationCssUrl = 'https://svyable.github.io/bookself/reader/css/navigation.css?v=r2';
 const viewportStabilityUrl = new URL('./desk-viewport-stability-runtime.js', import.meta.url).href;
 const nativeShareUrl = new URL('./native-share.js', import.meta.url).href;
 const appShellPolishUrl = new URL('./app-shell-polish.js', import.meta.url).href;
@@ -290,12 +291,20 @@ function scheduleOptionalEnhancements() {
 }
 
 try {
-  // Viewport stability and layout-critical CSS belong on the critical path. They
-  // establish the correct page geometry before the canonical app paginates.
+  // Viewport stability, adaptive spread state, and layout-critical CSS belong on
+  // the critical path. Install them before the canonical app paginates so the
+  // first measurement uses the same geometry that later reflows would choose.
   try {
     await import(viewportStabilityUrl);
   } catch (error) {
     console.warn('Viewport stability could not be loaded before Reader startup', error);
+  }
+
+  try {
+    const { installReadingSurface } = await import(canonicalReadingSurfaceUrl);
+    installReadingSurface();
+  } catch (error) {
+    console.warn('Adaptive reading surface could not be loaded before Reader startup', error);
   }
 
   await import(canonicalAppUrl);
