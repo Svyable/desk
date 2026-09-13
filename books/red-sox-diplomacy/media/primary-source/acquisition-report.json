@@ -1,8 +1,10 @@
 {
   "manifest_version": 1,
-  "acquired_count": 13,
+  "acquired_count": 0,
+  "reused_count": 13,
+  "available_count": 13,
   "failed_count": 0,
-  "acquired": [
+  "available": [
     {
       "dest": "books/red-sox-diplomacy/media/primary-source/ch01-nicholas-burns-official-portrait-2022.jpg",
       "bytes": 372644,
@@ -12,7 +14,8 @@
       "maker": "United States Department of State",
       "date": "2022-01-25",
       "chapter": "1",
-      "job": "official late-career portrait"
+      "job": "official late-career portrait",
+      "acquisition_status": "reused"
     },
     {
       "dest": "books/red-sox-diplomacy/media/primary-source/ch01-nicholas-burns-red-sox-clinic-beijing-2024.png",
@@ -23,7 +26,8 @@
       "maker": "U.S. Ambassador to China / U.S. Department of State",
       "date": "2024-10-22",
       "chapter": "1/18",
-      "job": "Red Sox identity continuity in China"
+      "job": "Red Sox identity continuity in China",
+      "acquisition_status": "reused"
     },
     {
       "dest": "books/red-sox-diplomacy/media/primary-source/ch01-nicholas-burns-introductory-video-2022.webm",
@@ -34,7 +38,8 @@
       "maker": "U.S. Embassy & Consulates in China",
       "date": "2022-04-29",
       "chapter": "1/18",
-      "job": "primary-source moving image; 2:25, 1280x720"
+      "job": "primary-source moving image; 2:25, 1280x720",
+      "acquisition_status": "reused"
     },
     {
       "dest": "books/red-sox-diplomacy/media/primary-source/ch02-nicholas-burns-nato-brussels-2003.jpg",
@@ -45,7 +50,8 @@
       "maker": "United States Department of Defense / U.S. Air Force",
       "date": "2003-12-02",
       "chapter": "2/13",
-      "job": "Burns at NATO during Brussels tenure"
+      "job": "Burns at NATO during Brussels tenure",
+      "acquisition_status": "reused"
     },
     {
       "dest": "books/red-sox-diplomacy/media/primary-source/ch06-clinton-berger-burns-oval-office-1993.jpg",
@@ -56,7 +62,8 @@
       "maker": "White House Photograph Office / Clinton Presidential Library",
       "date": "1993-01-26",
       "chapter": "6",
-      "job": "Burns inside the Clinton NSC institutional setting"
+      "job": "Burns inside the Clinton NSC institutional setting",
+      "acquisition_status": "reused"
     },
     {
       "dest": "books/red-sox-diplomacy/media/primary-source/ch09-us-embassy-athens-demonstration-damage-1975.jpg",
@@ -67,7 +74,8 @@
       "maker": "U.S. National Archives / Department of State overseas buildings collection",
       "date": "1975",
       "chapter": "9",
-      "job": "pre-Burns evidence that the Athens chancery was a contested political object"
+      "job": "pre-Burns evidence that the Athens chancery was a contested political object",
+      "acquisition_status": "reused"
     },
     {
       "dest": "books/red-sox-diplomacy/media/primary-source/ch14-bush-singh-oval-office-2005.jpg",
@@ -78,7 +86,8 @@
       "maker": "Eric Draper / White House",
       "date": "2005-07-18",
       "chapter": "14",
-      "job": "Bush-Singh leaders' political wager"
+      "job": "Bush-Singh leaders' political wager",
+      "acquisition_status": "reused"
     },
     {
       "dest": "books/red-sox-diplomacy/media/primary-source/ch14-nicholas-burns-under-secretary-portrait-2005.jpg",
@@ -89,7 +98,8 @@
       "maker": "Ann Thomas / U.S. Department of State / National Archives",
       "date": "2005-11-25",
       "chapter": "14/15",
-      "job": "period portrait for Under Secretary years"
+      "job": "period portrait for Under Secretary years",
+      "acquisition_status": "reused"
     },
     {
       "dest": "books/red-sox-diplomacy/media/primary-source/ch18-nicholas-burns-pitching-baseball-beijing-2023.jpg",
@@ -100,7 +110,8 @@
       "maker": "U.S. Ambassador to China / U.S. Department of State",
       "date": "2023-07-04",
       "chapter": "18",
-      "job": "baseball continuity at human scale"
+      "job": "baseball continuity at human scale",
+      "acquisition_status": "reused"
     },
     {
       "dest": "books/red-sox-diplomacy/media/primary-source/ch18-nicholas-burns-student-visa-hall-2024.jpg",
@@ -111,7 +122,8 @@
       "maker": "U.S. Ambassador to China / U.S. Department of State",
       "date": "2024-05-08",
       "chapter": "18/21",
-      "job": "people-to-people and student-exchange work"
+      "job": "people-to-people and student-exchange work",
+      "acquisition_status": "reused"
     },
     {
       "dest": "books/red-sox-diplomacy/media/primary-source/ch18-nicholas-burns-red-sox-great-wall-2024.jpg",
@@ -122,7 +134,8 @@
       "maker": "U.S. Ambassador to China / U.S. Department of State",
       "date": "2024",
       "chapter": "18/epilogue research",
-      "job": "Red Sox Nation as public identity in China; not causal diplomacy evidence"
+      "job": "Red Sox Nation as public identity in China; not causal diplomacy evidence",
+      "acquisition_status": "reused"
     },
     {
       "dest": "books/red-sox-diplomacy/media/primary-source/ch18-blinken-press-availability-beijing-2023.jpg",
@@ -133,7 +146,8 @@
       "maker": "United States Department of State",
       "date": "2023",
       "chapter": "18",
-      "job": "senior-channel recovery after early-2023 deterioration"
+      "job": "senior-channel recovery after early-2023 deterioration",
+      "acquisition_status": "reused"
     },
     {
       "dest": "books/red-sox-diplomacy/media/primary-source/ch18-nicholas-burns-woodside-recap-2023.webm",
@@ -144,7 +158,8 @@
       "maker": "United States Department of State",
       "date": "2023-11-21",
       "chapter": "18/20",
-      "job": "primary-source moving image on Biden-Xi Woodside follow-up; ~1:08"
+      "job": "primary-source moving image on Biden-Xi Woodside follow-up; ~1:08",
+      "acquisition_status": "reused"
     }
   ],
   "failed": []
