@@ -40,6 +40,10 @@ Robertson called the differences substantive.
 
 That word matters.
 
+[![Paired documentary object showing the French and American premises in the 2003 NATO dispute over defensive planning for Turkey](../media/ch13-two-premises.svg)](https://www.pbs.org/wgbh/pages/frontline/shows/blair/etc/script.html)
+
+*OPPOSING PREMISES 01 — Turkey, Iraq and NATO, February 2003. French Ambassador Benoît d'Aboville argued that starting military planning while diplomacy continued risked making war the alliance's working assumption; Burns argued that a collective-defense organization had to retain the capacity to prepare quickly for an ally's protection. NATO's own history confirms that the underlying commitment to defend Turkey was not the disputed point. [Source map.](../research/ch13-visual-archive.md)*
+
 Alliances become easy to romanticize when disagreement is treated as betrayal. The story then writes itself. Loyal allies stand together; difficult allies obstruct; a determined diplomat restores unity.
 
 NATO is harder than that.
@@ -92,6 +96,10 @@ On February 16 the eighteen ambassadors met for hours. Belgium proposed amendmen
 
 Three days later it authorized urgent implementation of defensive measures for Turkey under Operation Display Deterrence.
 
+[![Procedural timeline of the 2003 NATO Turkey-defense dispute from silence procedure through Article 4 consultations to Defence Planning Committee consensus](../media/ch13-consensus-path.svg)](https://www.nato.int/en/about-us/organization/nato-structure/defence-planning-committee-1963-2010)
+
+*CONSENSUS PATH 01 — February 2003. France, Germany and Belgium broke the silence procedure; Turkey invoked Article 4; the North Atlantic Council remained blocked; with all members' concurrence the matter moved to the pre-existing Defence Planning Committee, where Germany and Belgium still had to agree. On February 19 the DPC authorized Operation Display Deterrence. [Source map.](../research/ch13-visual-archive.md)*
+
 The alliance had not discovered that everyone agreed about Iraq.
 
 It had discovered a narrower proposition on which they could agree.
@@ -143,6 +151,10 @@ It could later agree to help an ally manage part of the aftermath.
 This is not consistency in the simple sense.
 
 It is institutional survival.
+
+[![Documentary ledger showing NATO returning to shared work after the 2003 Iraq rupture through Afghanistan and support for Poland in Iraq](../media/ch13-return-ledger.svg)](https://www.nato.int/en/news-and-events/articles/news/2003/04/16/same-name-same-banner-same-mission-as-nato-enhances-isaf-role)
+
+*RETURN LEDGER 01 — 2003. After the Turkey-defense rupture, Germany, the Netherlands and Canada requested the NATO role that led to alliance command of ISAF; NATO also agreed to bounded support for Poland's stabilization role in Iraq. Repair did not require any government to pretend the original war dispute had been trivial. It required enough shared ground to keep working. [Source map.](../research/ch13-visual-archive.md)*
 
 Burns gave a speech in May 2003 about healing the transatlantic rift. The phrase itself reveals how far the alliance had traveled from the emotional clarity of September 2001. Healing did not mean proving that one side had been right about everything. It meant finding enough shared work to prevent one disagreement, even a historic disagreement, from consuming the institution.
 
