@@ -1,15 +1,56 @@
 {
   "manifest_files": [
+    "primary-media-acquisition-wave3.json",
     "primary-media-acquisition.json"
   ],
   "manifest_versions": {
+    "primary-media-acquisition-wave3.json": 1,
     "primary-media-acquisition.json": 2
   },
-  "acquired_count": 0,
+  "acquired_count": 3,
   "reused_count": 18,
-  "available_count": 18,
+  "available_count": 21,
   "failed_count": 0,
   "available": [
+    {
+      "dest": "books/red-sox-diplomacy/media/primary-source/ch11-nicholas-burns-nato-december-2001.jpg",
+      "bytes": 672178,
+      "sha256": "e06e6db9de7433a456052917d02964349354afae530facc9535a0eb3f804e466",
+      "archive_record": "https://commons.wikimedia.org/wiki/File:Defense.gov_News_Photo_011219-D-2987S-008.jpg",
+      "rights": "public domain — U.S. Department of Defense employee work",
+      "maker": "United States Department of Defense",
+      "date": "2001-12-19",
+      "chapter": "11/12",
+      "job": "post-9/11 NATO ministerial context with Burns accompanying Secretary Rumsfeld; explicitly not the September 11 scene",
+      "manifest": "primary-media-acquisition-wave3.json",
+      "acquisition_status": "acquired"
+    },
+    {
+      "dest": "books/red-sox-diplomacy/media/primary-source/ch14-burns-ischinger-german-reunification-day-2005.jpg",
+      "bytes": 2254400,
+      "sha256": "166b83f1ee5d1502c231f7a3ad335c1411210387a9b75f79894ce9aa56d591a6",
+      "archive_record": "https://commons.wikimedia.org/wiki/File:German_Reunification_Day_-_DPLA_-_76a88a2cb0ab3d33a922ad992ad4f5dc.JPG",
+      "rights": "public domain — NARA/DPLA record; RightsStatements.org: No Copyright - United States",
+      "maker": "Earl McDonald / U.S. National Archives and Records Administration",
+      "date": "2005-10-03",
+      "chapter": "13/14",
+      "job": "Burns with German Ambassador Wolfgang Ischinger during his Under Secretary period; relationship context, not evidence about a specific negotiation",
+      "manifest": "primary-media-acquisition-wave3.json",
+      "acquisition_status": "acquired"
+    },
+    {
+      "dest": "books/red-sox-diplomacy/media/primary-source/ch18-nicholas-burns-basketball-zhijiang-2023.webm",
+      "bytes": 1577445,
+      "sha256": "e2ffca2d0dac0f8d974fe005292b5e31ffebc0949288e3b7231039fccaeebe92",
+      "archive_record": "https://commons.wikimedia.org/wiki/File:Ambassador_Nicholas_Burns_plays_basketball_with_Chinese_students_in_Zhijiang_Dong_Autonomous_County.webm",
+      "rights": "public domain — U.S. Department of State employee work",
+      "maker": "U.S. Ambassador to China / U.S. Department of State",
+      "date": "2023-09-10",
+      "chapter": "18/21",
+      "job": "6-second primary-source moving image of people-to-people contact; not evidence of negotiation or policy effect",
+      "manifest": "primary-media-acquisition-wave3.json",
+      "acquisition_status": "acquired"
+    },
     {
       "dest": "books/red-sox-diplomacy/media/primary-source/ch01-nicholas-burns-official-portrait-2022.jpg",
       "bytes": 372644,
