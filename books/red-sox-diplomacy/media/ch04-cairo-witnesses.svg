@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 930" role="img" aria-labelledby="title desc">
+  <title id="title">Cairo witness object comparing Ted Osius and Robert Beecroft</title>
+  <desc id="desc">A documentary evidence card distinguishing Ted Osius, who personally remembered Nicholas Burns in Cairo, from Robert Beecroft, whose overlapping oral history documents the embassy environment but does not name Burns in the Cairo section.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f5f0e6"/>
+      <stop offset="1" stop-color="#e9dfd0"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="125%">
+      <feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#1b1510" flood-opacity="0.15"/>
+    </filter>
+  </defs>
+  <rect width="1500" height="930" fill="#111820"/>
+  <rect x="54" y="48" width="1392" height="834" rx="8" fill="url(#paper)" filter="url(#shadow)"/>
+  <text x="104" y="111" font-family="Georgia, 'Times New Roman', serif" font-size="25" letter-spacing="5" fill="#6e645a">WITNESS OBJECT 01 · CAIRO · 1983–1985</text>
+  <line x1="104" y1="140" x2="1396" y2="140" stroke="#bd3039" stroke-width="3"/>
+  <text x="104" y="190" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#61584f">Two oral histories. Two different distances from Nicholas Burns.</text>
+
+  <rect x="104" y="244" width="610" height="480" rx="7" fill="#faf5ec" stroke="#bd3039" stroke-width="2"/>
+  <text x="146" y="300" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2.7" fill="#bd3039">DIRECT PERSONAL WITNESS</text>
+  <text x="146" y="350" font-family="Georgia, 'Times New Roman', serif" font-size="38" fill="#171411">Ted Osius</text>
+  <text x="146" y="389" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#6a6057">American University in Cairo · later U.S. Ambassador to Vietnam</text>
+  <line x1="146" y1="426" x2="672" y2="426" stroke="#c3b6a8"/>
+  <text x="146" y="474" font-family="Georgia, 'Times New Roman', serif" font-size="25" fill="#332d27">Osius says he got to know Burns, identifies him as</text>
+  <text x="146" y="510" font-family="Georgia, 'Times New Roman', serif" font-size="25" fill="#332d27">Ambassador Nicholas Veliotes’s staff aide, and remembers</text>
+  <text x="146" y="546" font-family="Georgia, 'Times New Roman', serif" font-size="25" fill="#332d27">Burns as welcoming toward the AUC interns.</text>
+  <text x="146" y="606" font-family="Georgia, 'Times New Roman', serif" font-size="29" font-style="italic" fill="#0c2340">“Ted, you should go to SAIS</text>
+  <text x="146" y="646" font-family="Georgia, 'Times New Roman', serif" font-size="29" font-style="italic" fill="#0c2340">and join the Foreign Service.”</text>
+  <text x="146" y="691" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#6a6057">Osius later attended SAIS and entered the Foreign Service.</text>
+
+  <rect x="786" y="244" width="610" height="480" rx="7" fill="#f1ece3" stroke="#91867b"/>
+  <text x="828" y="300" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2.7" fill="#6c6258">SAME-POST CONTEXT WITNESS</text>
+  <text x="828" y="350" font-family="Georgia, 'Times New Roman', serif" font-size="38" fill="#171411">Robert M. Beecroft</text>
+  <text x="828" y="389" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#6a6057">Embassy Cairo political officer · 1983–1985</text>
+  <line x1="828" y1="426" x2="1354" y2="426" stroke="#c3b6a8"/>
+  <text x="828" y="474" font-family="Georgia, 'Times New Roman', serif" font-size="25" fill="#332d27">Beecroft overlaps Burns almost exactly in Cairo.</text>
+  <text x="828" y="510" font-family="Georgia, 'Times New Roman', serif" font-size="25" fill="#332d27">His Cairo oral-history section does not name Burns.</text>
+  <text x="828" y="566" font-family="Georgia, 'Times New Roman', serif" font-size="25" fill="#332d27">His value is institutional context: an enormous mission,</text>
+  <text x="828" y="602" font-family="Georgia, 'Times New Roman', serif" font-size="25" fill="#332d27">a major USAID presence, Egypt–Israel “cold peace,” and</text>
+  <text x="828" y="638" font-family="Georgia, 'Times New Roman', serif" font-size="25" fill="#332d27">the cross-embassy craft of ambassadorial staff-aide work.</text>
+  <text x="828" y="691" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#6a6057">CONTEXT ≠ PERSONAL RECOLLECTION</text>
+
+  <line x1="104" y1="780" x2="1396" y2="780" stroke="#b9ad9e"/>
+  <text x="104" y="825" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2.5" fill="#bd3039">EVIDENTIARY DISTANCE</text>
+  <text x="104" y="858" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#5d544b">The book keeps these witnesses separate so overlap in place never becomes invented intimacy.</text>
+  <text x="1396" y="858" text-anchor="end" font-family="'Courier New', monospace" font-size="17" fill="#82776c">RSD / CH04 / W01</text>
+</svg>

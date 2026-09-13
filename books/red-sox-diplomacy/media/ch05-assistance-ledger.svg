@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 860" role="img" aria-labelledby="title desc">
+  <title id="title">U.S. assistance to West Bank and Gaza during Nicholas Burns's Jerusalem tour</title>
+  <desc id="desc">A documentary ledger showing U.S. assistance expenditures of 12.141 million dollars in fiscal year 1985, 13.950 million in 1986, and 8.400 million in 1987, with a warning that these were program-wide totals and not Nicholas Burns's personal budget authority.</desc>
+  <rect width="1500" height="860" fill="#eee7da"/>
+  <text x="82" y="78" font-family="Georgia, 'Times New Roman', serif" font-size="25" letter-spacing="5" fill="#655c53">ASSISTANCE LEDGER 01 · WEST BANK &amp; GAZA</text>
+  <line x1="82" y1="106" x2="1418" y2="106" stroke="#bd3039" stroke-width="3"/>
+  <text x="82" y="156" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#655c53">U.S. assistance expenditures during Burns’s Jerusalem tour · dollars in millions</text>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="210" y="273" font-size="20" font-weight="700" letter-spacing="3" fill="#0c2340">FY1985</text>
+    <text x="210" y="374" font-family="Georgia, 'Times New Roman', serif" font-size="82" fill="#171411">$12.141M</text>
+    <line x1="210" y1="420" x2="520" y2="420" stroke="#b8aa9b"/>
+
+    <text x="595" y="273" font-size="20" font-weight="700" letter-spacing="3" fill="#0c2340">FY1986</text>
+    <text x="595" y="374" font-family="Georgia, 'Times New Roman', serif" font-size="82" fill="#bd3039">$13.950M</text>
+    <line x1="595" y1="420" x2="905" y2="420" stroke="#b8aa9b"/>
+
+    <text x="980" y="273" font-size="20" font-weight="700" letter-spacing="3" fill="#0c2340">FY1987</text>
+    <text x="980" y="374" font-family="Georgia, 'Times New Roman', serif" font-size="82" fill="#171411">$8.400M</text>
+    <line x1="980" y1="420" x2="1290" y2="420" stroke="#b8aa9b"/>
+  </g>
+
+  <rect x="188" y="505" width="1124" height="174" rx="7" fill="#f7f1e7" stroke="#c5b8aa"/>
+  <text x="228" y="555" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2.5" fill="#bd3039">WHAT THESE NUMBERS ESTABLISH</text>
+  <text x="228" y="600" font-family="Georgia, 'Times New Roman', serif" font-size="25" fill="#3d3630">The scale of the U.S. assistance program surrounding Burns’s documented portfolio.</text>
+  <text x="228" y="647" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-style="italic" fill="#3d3630">They do not establish his personal budget authority, project selection, or supervision of every grant.</text>
+
+  <line x1="82" y1="744" x2="1418" y2="744" stroke="#b8aa9b"/>
+  <text x="82" y="790" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#62584f">CRS historical table · source data: U.S. Department of State / USAID</text>
+  <text x="1418" y="790" text-anchor="end" font-family="'Courier New', monospace" font-size="17" fill="#82776c">RSD / CH05 / FY85–87 / L01</text>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 860" role="img" aria-labelledby="title desc">
+  <title id="title">Transcript object from the December 6, 2021 State Department briefing</title>
+  <desc id="desc">An archival typography card preserving the interruption But he’s a Red Sox fan during discussion of Nicholas Burns's pending Senate confirmation to Beijing.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f4efe5"/>
+      <stop offset="1" stop-color="#e7ddcf"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="125%">
+      <feDropShadow dx="0" dy="18" stdDeviation="20" flood-color="#160f0c" flood-opacity="0.2"/>
+    </filter>
+  </defs>
+  <rect width="1400" height="860" fill="#101722"/>
+  <rect x="58" y="54" width="1284" height="752" rx="7" fill="url(#paper)" filter="url(#shadow)"/>
+  <text x="108" y="118" font-family="Georgia, 'Times New Roman', serif" font-size="25" letter-spacing="5" fill="#6c6258">TRANSCRIPT OBJECT 01 · DEAN ACHESON BRIEFING ROOM</text>
+  <line x1="108" y1="146" x2="1292" y2="146" stroke="#bd3039" stroke-width="3"/>
+
+  <text x="108" y="211" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="2.7" fill="#0c2340">WASHINGTON, D.C. · 6 DECEMBER 2021</text>
+  <text x="108" y="260" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#62594f">Discussion: Burns's pending Senate confirmation as U.S. Ambassador to China</text>
+
+  <text x="108" y="375" font-family="Georgia, 'Times New Roman', serif" font-size="29" font-weight="700" fill="#5a5149">QUESTION</text>
+  <text x="108" y="443" font-family="Georgia, 'Times New Roman', serif" font-size="58" font-style="italic" fill="#171411">“But he’s a Red Sox fan.”</text>
+
+  <text x="108" y="535" font-family="Georgia, 'Times New Roman', serif" font-size="27" font-weight="700" fill="#5a5149">MR. PRICE</text>
+  <text x="108" y="590" font-family="Georgia, 'Times New Roman', serif" font-size="35" font-style="italic" fill="#2f2924">“Matt maligned his sports preferences…”</text>
+  <text x="108" y="637" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#6c6258">The official transcript records laughter before Price returns to the nomination.</text>
+
+  <line x1="108" y1="696" x2="1292" y2="696" stroke="#b9ad9e"/>
+  <text x="108" y="742" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2.6" fill="#bd3039">PROVENANCE</text>
+  <text x="108" y="777" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#50483f">U.S. Department of State · Department Press Briefing · federal government work</text>
+  <text x="1292" y="777" text-anchor="end" font-family="'Courier New', monospace" font-size="17" fill="#82776c">RSD / CH02 / 2021-12-06 / T01</text>
+</svg>
