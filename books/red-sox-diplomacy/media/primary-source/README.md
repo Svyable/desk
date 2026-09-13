@@ -1,9 +1,9 @@
 # Primary-source media acquisition report
 
-Available locally: **23**  
-Newly acquired this run: **0**  
+Available locally: **24**  
+Newly acquired this run: **1**  
 Reused from repo: **23**  
-Failed: **1**
+Failed: **0**
 
 The files below correspond to archive records in the batched `research/primary-media-acquisition*.json` manifests. Rights claims are copied from the source audit and remain subject to release-stage re-verification.
 
@@ -14,6 +14,7 @@ The files below correspond to archive records in the batched `research/primary-m
 - `ch18-nicholas-burns-basketball-zhijiang-2023.webm` — U.S. Ambassador to China / U.S. Department of State, 2023-09-10; public domain — U.S. Department of State employee work; 1,577,445 bytes; SHA-256 `e2ffca2d0dac0f8d974fe005292b5e31ffebc0949288e3b7231039fccaeebe92`; status `reused`; manifest `primary-media-acquisition-wave3.json`; [archive record](https://commons.wikimedia.org/wiki/File:Ambassador_Nicholas_Burns_plays_basketball_with_Chinese_students_in_Zhijiang_Dong_Autonomous_County.webm)
 - `ch02-state-briefing-ned-price-2021.jpg` — Freddie Everett / U.S. Department of State, 2021-12-06; public domain — U.S. Department of State employee work; State Flickr record explicitly marks Public Domain; 8,127,252 bytes; SHA-256 `7b12b5c1dc77114604527f998cff70fd43b1ef11e22934caf61b959bc00aa322`; status `reused`; manifest `primary-media-acquisition-wave4.json`; [archive record](https://www.flickr.com/photos/statephotos/51728591887/)
 - `ch04-reagan-mubarak-contact-sheet-1984.jpg` — Kightlinger / White House Photo Collection / National Archives, 1984-02-14; public domain — White House Photo Collection / U.S. federal government work; 833,787 bytes; SHA-256 `0589756cfb015191e122401c25d5f5ec4efee2c3c672293ce8311e5b8e4116ac`; status `reused`; manifest `primary-media-acquisition-wave4.json`; [archive record](https://www.reaganlibrary.gov/archives/photo/c19990-02)
+- `ch07-state-magazine-foreign-service-day-burns-1997-page.jpg` — Ann Thomas / U.S. Department of State, State Magazine, 1997-05-09 / published 1997-06; public domain — U.S. Department of State employee work; Commons file record marks the issue PD-USGov-DOS; 297,186 bytes; SHA-256 `3df76b96c7197aef7a6727ca4c6805e30b51fe23f5ea1133d1ea61f12aa82831`; status `acquired`; manifest `primary-media-acquisition-wave5.json`; [archive record](https://commons.wikimedia.org/wiki/File:State_Magazine_1997-06-_Iss_406_(IA_sim_state-magazine_1997-06_406).pdf)
 - `ch01-nicholas-burns-official-portrait-2022.jpg` — United States Department of State, 2022-01-25; public domain — U.S. Department of State employee work; 372,644 bytes; SHA-256 `b30b0aae834a3204d5cfe940256f35eb633a08aca12f80ae3663ccc352c13f69`; status `reused`; manifest `primary-media-acquisition.json`; [archive record](https://commons.wikimedia.org/wiki/File:Nicholas_Burns,_U.S._Ambassador.jpg)
 - `ch01-nicholas-burns-red-sox-clinic-beijing-2024.png` — U.S. Ambassador to China / U.S. Department of State, 2024-10-22; public domain — U.S. Department of State employee work; 1,405,463 bytes; SHA-256 `359b3ca185206a602a7e28309eae28a76564a624925b76503bd6de4e71401783`; status `reused`; manifest `primary-media-acquisition.json`; [archive record](https://commons.wikimedia.org/wiki/File:Ambassador_Burns_with_Chinese_baseball_fans.png)
 - `ch01-nicholas-burns-introductory-video-2022.webm` — U.S. Embassy & Consulates in China, 2022-04-29; public domain — U.S. Department of State employee work; 24,269,471 bytes; SHA-256 `cfc24f7cc097494fc20ddbf97ef089a0acfa24f5e7b9a044e062767580841cbd`; status `reused`; manifest `primary-media-acquisition.json`; [archive record](https://commons.wikimedia.org/wiki/File:Ambassador_Nicholas_Burns%E2%80%99_Introductory_Video.webm)
@@ -32,7 +33,3 @@ The files below correspond to archive records in the batched `research/primary-m
 - `ch14-burns-saran-new-delhi-2006.jpg` — United States Department of State, 2006-01-20; public domain — U.S. Department of State employee work; 46,447 bytes; SHA-256 `e84be8f64a2408e9d6543c0b2c834695a3ddcae529d74dfaa3e2d301d83f00e4`; status `reused`; manifest `primary-media-acquisition.json`; [archive record](https://commons.wikimedia.org/wiki/File:Burns_Saran_Delhi_jan2006.jpg)
 - `ch14-burns-menon-new-delhi-2007.jpg` — M. Asokan / Photo Division, Ministry of Information & Broadcasting, Government of India, 2007-06-01; Government Open Data License – India (GODL); attribution: Ministry of External Affairs, Government of India; 510,715 bytes; SHA-256 `c31ee674a89cf4db4670760d35aefcb0efd33452e20a1054d08850b93ba628fb`; status `reused`; manifest `primary-media-acquisition.json`; [archive record](https://commons.wikimedia.org/wiki/File:The_Foreign_Secretary,_Shri_Shiv_Shankar_Menon_meeting_with_the_visiting_U.S._Under-Secretary_of_State_for_Political_Affairs,_Mr._Nicholas_Burns,_in_New_Delhi_on_June_01,_2007.jpg)
 - `ch14-burns-edinburgh-regional-command-south-2007.jpg` — Cherie A. Thurlby / United States Department of Defense, 2007-12-14; public domain — U.S. federal government work; 807,728 bytes; SHA-256 `a867de4528afea07214b8a9c160f38a7c69aaaefdd684cecd049ca252423640d`; status `reused`; manifest `primary-media-acquisition.json`; [archive record](https://commons.wikimedia.org/wiki/File:Defense.gov_photo_essay_071214-D-7203T-007.jpg)
-
-## Failed
-
-- `ch07-state-magazine-foreign-service-day-burns-1997-page.jpg` — `HTTPError: HTTP Error 400: Use thumbnail sizes listed on https://w.wiki/GHai`; manifest `primary-media-acquisition-wave5.json`; [archive record](https://commons.wikimedia.org/wiki/File:State_Magazine_1997-06-_Iss_406_(IA_sim_state-magazine_1997-06_406).pdf)

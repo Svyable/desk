@@ -8,13 +8,13 @@
   "manifest_versions": {
     "primary-media-acquisition-wave3.json": 1,
     "primary-media-acquisition-wave4.json": 1,
-    "primary-media-acquisition-wave5.json": 1,
+    "primary-media-acquisition-wave5.json": 2,
     "primary-media-acquisition.json": 2
   },
-  "acquired_count": 0,
+  "acquired_count": 1,
   "reused_count": 23,
-  "available_count": 23,
-  "failed_count": 1,
+  "available_count": 24,
+  "failed_count": 0,
   "available": [
     {
       "dest": "books/red-sox-diplomacy/media/primary-source/ch11-nicholas-burns-nato-december-2001.jpg",
@@ -80,6 +80,19 @@
       "job": "full contact sheet for President Reagan's working visit with President Hosni Mubarak; roll-level context for the senior U.S.-Egypt relationship, not evidence of Burns's presence",
       "manifest": "primary-media-acquisition-wave4.json",
       "acquisition_status": "reused"
+    },
+    {
+      "dest": "books/red-sox-diplomacy/media/primary-source/ch07-state-magazine-foreign-service-day-burns-1997-page.jpg",
+      "bytes": 297186,
+      "sha256": "3df76b96c7197aef7a6727ca4c6805e30b51fe23f5ea1133d1ea61f12aa82831",
+      "archive_record": "https://commons.wikimedia.org/wiki/File:State_Magazine_1997-06-_Iss_406_(IA_sim_state-magazine_1997-06_406).pdf",
+      "rights": "public domain — U.S. Department of State employee work; Commons file record marks the issue PD-USGov-DOS",
+      "maker": "Ann Thomas / U.S. Department of State, State Magazine",
+      "date": "1997-05-09 / published 1997-06",
+      "chapter": "7",
+      "job": "archival State Magazine page preserving Department spokesman R. Nicholas Burns at the podium as the Foreign Service Day afternoon plenary speaker; page kept intact so caption and publication context remain visible",
+      "manifest": "primary-media-acquisition-wave5.json",
+      "acquisition_status": "acquired"
     },
     {
       "dest": "books/red-sox-diplomacy/media/primary-source/ch01-nicholas-burns-official-portrait-2022.jpg",
@@ -316,12 +329,5 @@
       "acquisition_status": "reused"
     }
   ],
-  "failed": [
-    {
-      "dest": "books/red-sox-diplomacy/media/primary-source/ch07-state-magazine-foreign-service-day-burns-1997-page.jpg",
-      "archive_record": "https://commons.wikimedia.org/wiki/File:State_Magazine_1997-06-_Iss_406_(IA_sim_state-magazine_1997-06_406).pdf",
-      "manifest": "primary-media-acquisition-wave5.json",
-      "error": "HTTPError: HTTP Error 400: Use thumbnail sizes listed on https://w.wiki/GHai"
-    }
-  ]
+  "failed": []
 }
