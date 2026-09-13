@@ -38,6 +38,12 @@ Current sequence:
 - FIG. 03 — State Department briefing room / Ned Price, December 6, 2021
 - FIG. 04 — Burns at NATO press conference, Brussels, December 2, 2003
 
+### CONTACT SHEET
+
+An archival roll, contact sheet, frame sheet, or proof sheet shown as an object in its own right. Use when the full sheet preserves uncertainty or context better than extracting one frame.
+
+A contact-sheet label must say what the archive identifies at the roll level and must not imply that every named person appears in every frame. Do not crop down to a single frame unless that frame has its own reliable identification.
+
 ### ARCHIVE NOTE
 
 A primary document or source citation that deserves visible treatment but not a full-page object.
@@ -69,6 +75,12 @@ A documented time, duration, score, number, or other compact fact whose precisio
 ### NETWORK OBJECT
 
 A documentary relationship map. Every line or arrow must mean something stated in the label. It may show brokerage, sequence, institutional flow, or competing actors; it must not imply command, causation, or ownership that the sources do not establish.
+
+### WITNESS OBJECT
+
+A visual comparison of testimony or source proximity. Use when the distinction between direct witness, near-primary witness, same-post context, retrospective institutional account, or research hypothesis materially changes what the book may say.
+
+A witness object should make evidentiary distance more visible, not flatten several sources into an artificial composite scene.
 
 ### ROUTE OBJECT
 
@@ -114,13 +126,15 @@ The Beijing Red Sox clinic image used in Chapter 1 should not simply recur in Ch
 
 - A photograph proves that the photographed moment occurred, not what a person felt.
 - A later photograph cannot backfill an undocumented earlier memory.
+- A contact sheet preserves roll-level context; named people may not appear in every frame.
 - A social post proves the post and the depicted/claimed event only to the extent separately supported by its provenance.
 - An official source can prove that the government said something without proving the underlying claim.
 - A designed facsimile must never masquerade as an original scan.
 - Cropping cannot remove context in a way that changes meaning.
+- Overlapping service at a large post does not establish personal acquaintance; witness distance must remain explicit.
 - Unknown is an allowed state. If the archive does not locate the 2004 championship-night room, the design can make that absence visible rather than filling it.
 
-## Current Chapter 1–3 release ledger
+## Current Chapter 1–4 release ledger
 
 | Object | Chapter | Rights | Draft state | Release action |
 | --- | --- | --- | --- | --- |
@@ -136,9 +150,11 @@ The Beijing Red Sox clinic image used in Chapter 1 should not simply recur in Ch
 | NETWORK OBJECT 01 | 2 | original documentary diagram | local SVG | re-audit arrows against source ledger before release |
 | ROUTE OBJECT 01 | 3 | original diagram from State biographies | local SVG | re-audit dates against final biography chronology |
 | ITINERARY OBJECT 01 | 3 | original diagram from government travel ledger + Burns interpretation | local SVG | preserve distinction between official stop count and Burns's later “eight-country” description |
+| CONTACT SHEET 01 | 4 | White House/NARA federal photography | remote Reagan Library image | vendor full contact sheet; preserve roll-level metadata |
+| WITNESS OBJECT 01 | 4 | original diagram based on ADST oral histories | local SVG | visually re-verify cited Osius passage before release |
 
 ## Visual restraint target
 
-A typical chapter does **not** need five objects. Chapter 2 does because it is explicitly arguing about identity moving across institutions and uses several periods as evidence. Chapter 3 needs only two because movement and maintenance can be made legible without another portrait.
+A typical chapter does **not** need five objects. Chapter 2 does because it is explicitly arguing about identity moving across institutions and uses several periods as evidence. Chapter 3 needs only two because movement and maintenance can be made legible without another portrait. Chapter 4 also needs only two: one archival artifact for the senior bilateral relationship and one object that exposes witness distance.
 
 The test is simple: remove the object. If the reader loses no evidence, mechanism, temporal contrast, or archival understanding, the object probably does not belong.
