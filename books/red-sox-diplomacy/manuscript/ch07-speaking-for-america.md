@@ -152,6 +152,10 @@ The spokesman does not get to claim institutional authority when the government 
 
 By 1997 Burns had developed a theory around this work.
 
+![State Magazine page showing Department spokesman R. Nicholas Burns at the podium during Foreign Service Day in 1997](../media/primary-source/ch07-state-magazine-foreign-service-day-burns-1997-page.jpg)
+
+*ARCHIVE PLATE 01 — State Magazine, June 1997, p. 10. Department spokesman R. Nicholas Burns appears at the podium as the afternoon plenary speaker at Foreign Service Day on May 9, 1997. Photograph by Ann Thomas / U.S. Department of State. Public domain. The full magazine page is preserved rather than a detached crop so the contemporary caption and institutional context remain attached to the image. [Archive record.](https://commons.wikimedia.org/wiki/File:State_Magazine_1997-06-_Iss_406_(IA_sim_state-magazine_1997-06_406).pdf)*
+
 Speaking to Foreign Service officers that May, he argued that public diplomacy was being undervalued inside the Department. Officers should not be judged only by the quality of the memoranda they wrote. They should also be expected to leave the building and explain what the United States was doing to people beyond Washington.
 
 That argument reaches further than press technique.
