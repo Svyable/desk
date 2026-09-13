@@ -16,7 +16,7 @@ It did not matter.
 
 The room still knew.
 
-![State Department Spokesperson Ned Price at the December 6, 2021 Department Press Briefing](https://commons.wikimedia.org/wiki/Special:Redirect/file/Spokesperson_Price_Holds_the_Department_Press_Briefing_%2851728591887%29.jpg)
+![State Department Spokesperson Ned Price at the December 6, 2021 Department Press Briefing](../media/primary-source/ch02-state-briefing-ned-price-2021.jpg)
 
 *FIG. 03 — Department Spokesperson Ned Price in the State Department briefing room, Washington, D.C., December 6, 2021. Freddie Everett / U.S. Department of State. Public domain. Burns is not in the photograph; that is the point. This is the room and the day on which a reporter could invoke his Red Sox identity twenty-four years after he left the podium. [Photo record.](https://www.flickr.com/photos/statephotos/51728591887/) [Primary transcript.](https://2021-2025.state.gov/briefings/department-press-briefing-december-6-2021/)*
 

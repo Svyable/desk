@@ -1,43 +1,21 @@
 {
-  "changed_files": 4,
+  "changed_files": 2,
   "files": [
     {
-      "path": "books/red-sox-diplomacy/manuscript/ch01-boston-before-washington.md",
+      "path": "books/red-sox-diplomacy/manuscript/ch02-the-useful-fan.md",
       "changes": [
         {
-          "remote": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Nicholas_Burns%2C_U.S._Ambassador.jpg",
-          "local": "../media/primary-source/ch01-nicholas-burns-official-portrait-2022.jpg"
-        },
-        {
-          "remote": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ambassador_Burns_with_Chinese_baseball_fans.png",
-          "local": "../media/primary-source/ch01-nicholas-burns-red-sox-clinic-beijing-2024.png"
+          "remote": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Spokesperson_Price_Holds_the_Department_Press_Briefing_%2851728591887%29.jpg",
+          "local": "../media/primary-source/ch02-state-briefing-ned-price-2021.jpg"
         }
       ]
     },
     {
-      "path": "books/red-sox-diplomacy/manuscript/ch09-athens.md",
+      "path": "books/red-sox-diplomacy/manuscript/ch04-cairo-learning-the-away-park.md",
       "changes": [
         {
-          "remote": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Athens_-_Chancery_Office_Building_-_1975_-_DPLA_-_8fb298c265bf14eb903b3e1a800b527e.jpg",
-          "local": "../media/primary-source/ch09-us-embassy-athens-demonstration-damage-1975.jpg"
-        }
-      ]
-    },
-    {
-      "path": "books/red-sox-diplomacy/manuscript/ch14-india-playing-the-long-game.md",
-      "changes": [
-        {
-          "remote": "https://georgewbush-whitehouse.archives.gov/news/releases/2005/07/images/20050718-1_d-0262-515h.jpg",
-          "local": "../media/primary-source/ch14-bush-singh-oval-office-2005.jpg"
-        }
-      ]
-    },
-    {
-      "path": "books/red-sox-diplomacy/manuscript/ch18-beijing.md",
-      "changes": [
-        {
-          "remote": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ambassador_Burns_pitching_baseball.jpg",
-          "local": "../media/primary-source/ch18-nicholas-burns-pitching-baseball-beijing-2023.jpg"
+          "remote": "https://www.reaganlibrary.gov/sites/default/files/archives/audiovisual/contactsheets/c19990.jpg",
+          "local": "../media/primary-source/ch04-reagan-mubarak-contact-sheet-1984.jpg"
         }
       ]
     }

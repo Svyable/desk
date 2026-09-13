@@ -1,15 +1,17 @@
 {
   "manifest_files": [
     "primary-media-acquisition-wave3.json",
+    "primary-media-acquisition-wave4.json",
     "primary-media-acquisition.json"
   ],
   "manifest_versions": {
     "primary-media-acquisition-wave3.json": 1,
+    "primary-media-acquisition-wave4.json": 1,
     "primary-media-acquisition.json": 2
   },
-  "acquired_count": 0,
+  "acquired_count": 2,
   "reused_count": 21,
-  "available_count": 21,
+  "available_count": 23,
   "failed_count": 0,
   "available": [
     {
@@ -50,6 +52,32 @@
       "job": "6-second primary-source moving image of people-to-people contact; not evidence of negotiation or policy effect",
       "manifest": "primary-media-acquisition-wave3.json",
       "acquisition_status": "reused"
+    },
+    {
+      "dest": "books/red-sox-diplomacy/media/primary-source/ch02-state-briefing-ned-price-2021.jpg",
+      "bytes": 8127252,
+      "sha256": "7b12b5c1dc77114604527f998cff70fd43b1ef11e22934caf61b959bc00aa322",
+      "archive_record": "https://www.flickr.com/photos/statephotos/51728591887/",
+      "rights": "public domain — U.S. Department of State employee work; State Flickr record explicitly marks Public Domain",
+      "maker": "Freddie Everett / U.S. Department of State",
+      "date": "2021-12-06",
+      "chapter": "2",
+      "job": "the State Department briefing room and exact day on which a reporter invoked Burns's Red Sox identity; Burns is not pictured",
+      "manifest": "primary-media-acquisition-wave4.json",
+      "acquisition_status": "acquired"
+    },
+    {
+      "dest": "books/red-sox-diplomacy/media/primary-source/ch04-reagan-mubarak-contact-sheet-1984.jpg",
+      "bytes": 833787,
+      "sha256": "0589756cfb015191e122401c25d5f5ec4efee2c3c672293ce8311e5b8e4116ac",
+      "archive_record": "https://www.reaganlibrary.gov/archives/photo/c19990-02",
+      "rights": "public domain — White House Photo Collection / U.S. federal government work",
+      "maker": "Kightlinger / White House Photo Collection / National Archives",
+      "date": "1984-02-14",
+      "chapter": "4",
+      "job": "full contact sheet for President Reagan's working visit with President Hosni Mubarak; roll-level context for the senior U.S.-Egypt relationship, not evidence of Burns's presence",
+      "manifest": "primary-media-acquisition-wave4.json",
+      "acquisition_status": "acquired"
     },
     {
       "dest": "books/red-sox-diplomacy/media/primary-source/ch01-nicholas-burns-official-portrait-2022.jpg",

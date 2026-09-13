@@ -44,7 +44,7 @@ The great breakthrough had already happened.
 
 Egypt and Israel had signed peace. Sinai had been returned. The Camp David photographs belonged to an earlier chapter. What remained was the less photogenic work of maintaining a relationship that had not become warm simply because the treaty existed.
 
-[![White House Photo Collection contact sheet from President Hosni Mubarak's February 14, 1984 working visit](https://www.reaganlibrary.gov/sites/default/files/archives/audiovisual/contactsheets/c19990.jpg)](https://www.reaganlibrary.gov/archives/photo/c19990-02)
+[![White House Photo Collection contact sheet from President Hosni Mubarak's February 14, 1984 working visit](../media/primary-source/ch04-reagan-mubarak-contact-sheet-1984.jpg)](https://www.reaganlibrary.gov/archives/photo/c19990-02)
 
 *CONTACT SHEET 01 — White House Photo Collection roll C19990 (02), Cabinet Room, Washington, D.C., February 14, 1984. President Reagan’s working visit with Egyptian President Hosni Mubarak. The Reagan Library record lists George Shultz, Robert McFarlane, Caspar Weinberger, Richard Murphy, Egyptian officials, Ambassador Nicholas Veliotes and others among the personal references, noting that not every person appears in every frame. Kightlinger / White House Photo Collection / National Archives. U.S. government work. Burns is not placed in this meeting or in these frames; the object shows the senior bilateral relationship Embassy Cairo was helping maintain while he served there as a junior officer. [Archive record.](https://www.reaganlibrary.gov/archives/photo/c19990-02)*
 
