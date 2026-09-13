@@ -1,0 +1,143 @@
+name: Vendor Red Sox Diplomacy primary media
+
+on:
+  push:
+    branches:
+      - book/red-sox-diplomacy-20260912-sol
+    paths:
+      - books/red-sox-diplomacy/research/primary-media-acquisition.json
+      - .github/workflows/vendor-red-sox-primary-media.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: red-sox-primary-media-vendor
+  cancel-in-progress: false
+
+jobs:
+  vendor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out branch
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+          fetch-depth: 0
+
+      - name: Fetch documented primary-source media
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import hashlib
+          import json
+          import os
+          import pathlib
+          import urllib.parse
+          import urllib.request
+
+          manifest_path = pathlib.Path('books/red-sox-diplomacy/research/primary-media-acquisition.json')
+          manifest = json.loads(manifest_path.read_text(encoding='utf-8'))
+          root = pathlib.Path(manifest['destination_root'])
+          root.mkdir(parents=True, exist_ok=True)
+
+          successes = []
+          failures = []
+
+          for item in manifest['assets']:
+              dest = root / item['dest']
+              if 'commons_filename' in item:
+                  quoted = urllib.parse.quote(item['commons_filename'], safe='')
+                  url = f'https://commons.wikimedia.org/wiki/Special:Redirect/file/{quoted}'
+              else:
+                  url = item['url']
+
+              req = urllib.request.Request(
+                  url,
+                  headers={'User-Agent': 'Svyable-Desk-primary-media-vendor/1.0 (+https://github.com/Svyable/desk)'}
+              )
+              tmp = dest.with_suffix(dest.suffix + '.part')
+              try:
+                  with urllib.request.urlopen(req, timeout=90) as response, open(tmp, 'wb') as out:
+                      while True:
+                          chunk = response.read(1024 * 1024)
+                          if not chunk:
+                              break
+                          out.write(chunk)
+                  size = tmp.stat().st_size
+                  if size < 1024:
+                      raise RuntimeError(f'file unexpectedly small: {size} bytes')
+                  os.replace(tmp, dest)
+                  data = dest.read_bytes()
+                  successes.append({
+                      'dest': str(dest),
+                      'bytes': len(data),
+                      'sha256': hashlib.sha256(data).hexdigest(),
+                      'archive_record': item['archive_record'],
+                      'rights': item['rights'],
+                      'maker': item['maker'],
+                      'date': item['date'],
+                      'chapter': item['chapter'],
+                      'job': item['job'],
+                  })
+                  print(f'ACQUIRED {dest} ({len(data):,} bytes)')
+              except Exception as exc:
+                  if tmp.exists():
+                      tmp.unlink()
+                  failures.append({
+                      'dest': str(dest),
+                      'archive_record': item['archive_record'],
+                      'error': f'{type(exc).__name__}: {exc}',
+                  })
+                  print(f'FAILED {dest}: {exc}')
+
+          if not successes:
+              raise SystemExit('No primary-source media could be acquired.')
+
+          sums = ''.join(f"{row['sha256']}  {pathlib.Path(row['dest']).name}\n" for row in sorted(successes, key=lambda x: x['dest']))
+          (root / 'SHA256SUMS.txt').write_text(sums, encoding='utf-8')
+
+          report = {
+              'manifest_version': manifest['version'],
+              'acquired_count': len(successes),
+              'failed_count': len(failures),
+              'acquired': successes,
+              'failed': failures,
+          }
+          (root / 'acquisition-report.json').write_text(json.dumps(report, indent=2, ensure_ascii=False) + '\n', encoding='utf-8')
+
+          md = [
+              '# Primary-source media acquisition report',
+              '',
+              f"Acquired: **{len(successes)}**  ",
+              f"Failed: **{len(failures)}**",
+              '',
+              'The files below were fetched from the archive URLs recorded in `research/primary-media-acquisition.json`. Rights claims are copied from the source audit and remain subject to release-stage re-verification.',
+              '',
+              '## Acquired',
+              '',
+          ]
+          for row in successes:
+              md += [
+                  f"- `{pathlib.Path(row['dest']).name}` — {row['maker']}, {row['date']}; {row['rights']}; {row['bytes']:,} bytes; SHA-256 `{row['sha256']}`; [archive record]({row['archive_record']})",
+              ]
+          if failures:
+              md += ['', '## Failed', '']
+              for row in failures:
+                  md += [f"- `{pathlib.Path(row['dest']).name}` — `{row['error']}`; [archive record]({row['archive_record']})"]
+          (root / 'README.md').write_text('\n'.join(md) + '\n', encoding='utf-8')
+          PY
+
+      - name: Commit acquired media to this branch
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add books/red-sox-diplomacy/media/primary-source
+          if git diff --cached --quiet; then
+            echo "No media changes to commit."
+            exit 0
+          fi
+          git commit -m "media: vendor primary-source Red Sox Diplomacy assets [media-vendor]"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
