@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "policy": "Only acquire primary-source or archive-hosted media with a documented public-domain/reuse basis. Preserve the archive record and do not infer scene facts from the image alone.",
   "destination_root": "books/red-sox-diplomacy/media/primary-source",
   "assets": [
@@ -132,6 +132,56 @@
       "rights": "public domain — U.S. Department of State employee work",
       "chapter": "18/20",
       "job": "primary-source moving image on Biden-Xi Woodside follow-up; ~1:08"
+    },
+    {
+      "dest": "ch13-rumsfeld-robertson-burns-nato-2003.jpg",
+      "commons_filename": "Defense.gov News Photo 031201-F-2828D-034.jpg",
+      "archive_record": "https://commons.wikimedia.org/wiki/File:Defense.gov_News_Photo_031201-F-2828D-034.jpg",
+      "maker": "United States Department of Defense / U.S. Air Force",
+      "date": "2003-12-01",
+      "rights": "public domain — U.S. federal government work",
+      "chapter": "13",
+      "job": "Burns with NATO Secretary General George Robertson and Secretary of Defense Donald Rumsfeld during allied defense-minister consultations"
+    },
+    {
+      "dest": "ch13-rumsfeld-jensby-burns-nato-2003.jpg",
+      "commons_filename": "Defense.gov News Photo 031201-F-2828D-131.jpg",
+      "archive_record": "https://commons.wikimedia.org/wiki/File:Defense.gov_News_Photo_031201-F-2828D-131.jpg",
+      "maker": "United States Department of Defense / U.S. Air Force",
+      "date": "2003-12-01",
+      "rights": "public domain — U.S. federal government work",
+      "chapter": "13",
+      "job": "Burns present during Rumsfeld meeting with Danish Defense Minister Svend Aage Jensby at NATO headquarters"
+    },
+    {
+      "dest": "ch14-burns-saran-new-delhi-2006.jpg",
+      "commons_filename": "Burns Saran Delhi jan2006.jpg",
+      "archive_record": "https://commons.wikimedia.org/wiki/File:Burns_Saran_Delhi_jan2006.jpg",
+      "maker": "United States Department of State",
+      "date": "2006-01-20",
+      "rights": "public domain — U.S. Department of State employee work",
+      "chapter": "14",
+      "job": "Nicholas Burns and Indian Foreign Secretary Shyam Saran addressing a press conference during the early civil-nuclear implementation phase"
+    },
+    {
+      "dest": "ch14-burns-menon-new-delhi-2007.jpg",
+      "commons_filename": "The Foreign Secretary, Shri Shiv Shankar Menon meeting with the visiting U.S. Under-Secretary of State for Political Affairs, Mr. Nicholas Burns, in New Delhi on June 01, 2007.jpg",
+      "archive_record": "https://commons.wikimedia.org/wiki/File:The_Foreign_Secretary,_Shri_Shiv_Shankar_Menon_meeting_with_the_visiting_U.S._Under-Secretary_of_State_for_Political_Affairs,_Mr._Nicholas_Burns,_in_New_Delhi_on_June_01,_2007.jpg",
+      "maker": "M. Asokan / Photo Division, Ministry of Information & Broadcasting, Government of India",
+      "date": "2007-06-01",
+      "rights": "Government Open Data License – India (GODL); attribution: Ministry of External Affairs, Government of India",
+      "chapter": "14",
+      "job": "Burns with Foreign Secretary Shivshankar Menon during the decisive 2007 bilateral negotiation phase"
+    },
+    {
+      "dest": "ch14-burns-edinburgh-regional-command-south-2007.jpg",
+      "commons_filename": "Defense.gov photo essay 071214-D-7203T-007.jpg",
+      "archive_record": "https://commons.wikimedia.org/wiki/File:Defense.gov_photo_essay_071214-D-7203T-007.jpg",
+      "maker": "Cherie A. Thurlby / United States Department of Defense",
+      "date": "2007-12-14",
+      "rights": "public domain — U.S. federal government work",
+      "chapter": "14/15",
+      "job": "Burns speaking to traveling press after the Regional Command-South conference in Edinburgh as Under Secretary for Political Affairs"
     }
   ]
 }
