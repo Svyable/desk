@@ -1,6 +1,8 @@
-# Positive Control: Viking, Mars, and the Experiment That Wouldn't Stay Negative
+# Positive Control
 
-*Sven Hardy Benson*
+*Viking, Mars, and the Experiment That Wouldn't Stay Negative*
+
+**Sven Hardy Benson**
 
 In 1976 two machines landed on Mars carrying tiny laboratories built to ask a question that still sounds indecently direct: is the dirt alive?
 
