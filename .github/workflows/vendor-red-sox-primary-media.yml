@@ -18,10 +18,10 @@ concurrency:
 jobs:
   vendor:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
     steps:
       - name: Check out branch
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           ref: ${{ github.ref_name }}
           fetch-depth: 0
@@ -34,6 +34,8 @@ jobs:
           import json
           import os
           import pathlib
+          import time
+          import urllib.error
           import urllib.parse
           import urllib.request
 
@@ -45,26 +47,55 @@ jobs:
           successes = []
           failures = []
 
+          def fetch(url, tmp):
+              delays = (0, 3, 8, 15)
+              last_error = None
+              for attempt, delay in enumerate(delays, start=1):
+                  if delay:
+                      time.sleep(delay)
+                  req = urllib.request.Request(
+                      url,
+                      headers={
+                          'User-Agent': 'Svyable-Desk-primary-media-vendor/1.1 (+https://github.com/Svyable/desk)',
+                          'Accept': '*/*',
+                      },
+                  )
+                  try:
+                      with urllib.request.urlopen(req, timeout=120) as response, open(tmp, 'wb') as out:
+                          while True:
+                              chunk = response.read(1024 * 1024)
+                              if not chunk:
+                                  break
+                              out.write(chunk)
+                      return
+                  except urllib.error.HTTPError as exc:
+                      last_error = exc
+                      if exc.code not in (429, 500, 502, 503, 504) or attempt == len(delays):
+                          raise
+                      if tmp.exists():
+                          tmp.unlink()
+                      print(f'RETRY {attempt}/{len(delays)} after HTTP {exc.code}: {url}')
+                  except Exception as exc:
+                      last_error = exc
+                      if attempt == len(delays):
+                          raise
+                      if tmp.exists():
+                          tmp.unlink()
+                      print(f'RETRY {attempt}/{len(delays)} after {type(exc).__name__}: {url}')
+              raise last_error
+
           for item in manifest['assets']:
               dest = root / item['dest']
-              if 'commons_filename' in item:
+              is_commons = 'commons_filename' in item
+              if is_commons:
                   quoted = urllib.parse.quote(item['commons_filename'], safe='')
                   url = f'https://commons.wikimedia.org/wiki/Special:Redirect/file/{quoted}'
               else:
                   url = item['url']
 
-              req = urllib.request.Request(
-                  url,
-                  headers={'User-Agent': 'Svyable-Desk-primary-media-vendor/1.0 (+https://github.com/Svyable/desk)'}
-              )
               tmp = dest.with_suffix(dest.suffix + '.part')
               try:
-                  with urllib.request.urlopen(req, timeout=90) as response, open(tmp, 'wb') as out:
-                      while True:
-                          chunk = response.read(1024 * 1024)
-                          if not chunk:
-                              break
-                          out.write(chunk)
+                  fetch(url, tmp)
                   size = tmp.stat().st_size
                   if size < 1024:
                       raise RuntimeError(f'file unexpectedly small: {size} bytes')
@@ -91,6 +122,9 @@ jobs:
                       'error': f'{type(exc).__name__}: {exc}',
                   })
                   print(f'FAILED {dest}: {exc}')
+              finally:
+                  if is_commons:
+                      time.sleep(1.0)
 
           if not successes:
               raise SystemExit('No primary-source media could be acquired.')
@@ -119,19 +153,20 @@ jobs:
               '',
           ]
           for row in successes:
-              md += [
-                  f"- `{pathlib.Path(row['dest']).name}` — {row['maker']}, {row['date']}; {row['rights']}; {row['bytes']:,} bytes; SHA-256 `{row['sha256']}`; [archive record]({row['archive_record']})",
-              ]
+              md.append(
+                  f"- `{pathlib.Path(row['dest']).name}` — {row['maker']}, {row['date']}; {row['rights']}; {row['bytes']:,} bytes; SHA-256 `{row['sha256']}`; [archive record]({row['archive_record']})"
+              )
           if failures:
               md += ['', '## Failed', '']
               for row in failures:
-                  md += [f"- `{pathlib.Path(row['dest']).name}` — `{row['error']}`; [archive record]({row['archive_record']})"]
+                  md.append(f"- `{pathlib.Path(row['dest']).name}` — `{row['error']}`; [archive record]({row['archive_record']})")
           (root / 'README.md').write_text('\n'.join(md) + '\n', encoding='utf-8')
           PY
 
       - name: Commit acquired media to this branch
         shell: bash
         run: |
+          set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add books/red-sox-diplomacy/media/primary-source
@@ -139,5 +174,21 @@ jobs:
             echo "No media changes to commit."
             exit 0
           fi
+
           git commit -m "media: vendor primary-source Red Sox Diplomacy assets [media-vendor]"
-          git push origin "HEAD:${GITHUB_REF_NAME}"
+
+          # The manuscript branch is intentionally active. Preserve concurrent work by
+          # rebasing the media commit on the newest remote head and retrying the
+          # non-forced push if the branch moves again between fetch and push.
+          for attempt in 1 2 3 4 5; do
+            git fetch origin "${GITHUB_REF_NAME}"
+            git rebase "origin/${GITHUB_REF_NAME}"
+            if git push origin "HEAD:${GITHUB_REF_NAME}"; then
+              exit 0
+            fi
+            echo "Branch moved during media push attempt ${attempt}; retrying without force."
+            sleep $((attempt * 2))
+          done
+
+          echo "Could not fast-forward primary media after 5 attempts." >&2
+          exit 1
