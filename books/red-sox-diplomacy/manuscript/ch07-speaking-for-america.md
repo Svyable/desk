@@ -38,7 +38,7 @@ That distinction mattered.
 
 Burns looked at his notes.
 
-He clarified that he had placed both categories under reports and allegations.
+He clarified that he had placed both categories under *reports and allegations*.
 
 The exchange is small enough to disappear inside the larger history of U.S.-China relations. It is almost absurdly small compared with the subjects involved.
 
@@ -68,6 +68,10 @@ There was what Burns himself did not know.
 
 Those categories overlap in ordinary conversation. At the State Department they can carry different diplomatic consequences.
 
+[![Editorial diagram of the evidence grammar visible across Nicholas Burns's 1997 State Department briefings](../media/ch07-evidence-grammar.svg)](https://1997-2001.state.gov/regions/eap/970428_burns_us-chin_bilat.html)
+
+*EVIDENCE GRAMMAR 01 — A synthesis of recurring states in Burns’s briefing language: an established U.S. position, reports or allegations, inability to confirm, limits on the briefer’s own awareness, and categories the Department will not discuss publicly. This is an editorial diagram built from transcripts, not an official State Department taxonomy. The April 28 China exchange is the clearest compact example: Burns checked his notes and returned both disputed transfer claims to the category of reports and allegations. [April 28 briefing.](https://1997-2001.state.gov/regions/eap/970428_burns_us-chin_bilat.html) [June 13 briefing.](https://1997-2001.state.gov/briefings/9706/970613db.html)*
+
 In July 1997, as Cambodia descended into crisis, reporters pressed Burns about reports of Vietnamese involvement and arrests. He repeatedly declined to convert what had been reported into what the United States could establish. At one point he explained the distinction directly: inability to confirm a rumor did not mean the government was denying it.
 
 This is not evasiveness by definition.
@@ -88,7 +92,11 @@ Burns was not infallible.
 
 In February 1997, during questioning over talks involving North Korea, he gave the wrong date. Reporters corrected him. Burns accepted it immediately.
 
-“I stand corrected. Sorry.”
+> *“I stand corrected. Sorry.”*
+
+[![Documentary correction object preserving Nicholas Burns's February 27, 1997 words I stand corrected. Sorry.](../media/ch07-stand-corrected.svg)](https://www.globalsecurity.org/wmd/library/news/dprk/1997/970227a.htm)
+
+*CORRECTION OBJECT 01 — State Department noon briefing, February 27, 1997. Burns initially said March 4 for the planned New York briefing talks; reporters supplied March 5. His repair occupied four words. The artifact is useful because correction itself becomes part of the institution’s credibility mechanism. [Briefing transcript mirror.](https://www.globalsecurity.org/wmd/library/news/dprk/1997/970227a.htm)*
 
 There is no grandeur in the sentence.
 
