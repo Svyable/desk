@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "policy": "Controlled page-level acquisition from State Magazine No. 437. The scan page is inspected after vendoring and must not enter the manuscript until its contents match the documented July-August 2000 Athens feature.",
+  "destination_root": "books/red-sox-diplomacy/media/primary-source",
+  "assets": [
+    {
+      "dest": "ch09-state-magazine-athens-embassy-2000-page.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/State_Magazine_July-August_1998-_Iss_437_%28IA_sim_state-magazine_july-august-1998_437%29.pdf/page31-960px-State_Magazine_July-August_1998-_Iss_437_%28IA_sim_state-magazine_july-august-1998_437%29.pdf.jpg",
+      "archive_record": "https://commons.wikimedia.org/wiki/File:State_Magazine_July-August_1998-_Iss_437_(IA_sim_state-magazine_july-august-1998_437).pdf",
+      "maker": "U.S. Department of State, State Magazine",
+      "date": "July-August 2000",
+      "rights": "public domain — U.S. Department of State federal work; Commons issue record marks the scan PD-USGov",
+      "chapter": "9",
+      "job": "candidate full archival page from State Magazine No. 437 for the feature 'New Look Transforms U.S. Embassy, Athens'; verify scan-page offset and visible subjects before manuscript placement"
+    }
+  ]
+}
