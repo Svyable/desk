@@ -32,11 +32,15 @@ Keep this chapter distinct from Chapter 16's evidence on the effort heuristic an
 
 Michael Spence's 1973 job-market signaling model is a useful conceptual control. In the model, an observable signal can affect beliefs because it is differentially costly for different types to obtain; the signal need not itself create the underlying productivity being inferred. The model is not evidence that effort reliably signals quality in AI-mediated work. It gives the chapter a precise reason to ask what happens when technology collapses the cost of producing an old signal.
 
-The implication should stay narrow. If polished prose, code, design, or presentation once carried some information about time, training, or access to skilled labor, cheaper generation can weaken that inference even when the artifact remains useful. Receivers may then shift toward evidence that is harder to reproduce cheaply: live adaptation, version history, demonstrated performance, references, responsibility, or longitudinal outcomes.
+A large field experiment supplies an important counterexample to a simple signal-decay story. Wiles, Munyikwa, and Horton studied nearly half a million jobseekers on an online labor market who were randomly offered nongenerative algorithmic writing assistance for their résumés. The treated jobseekers were hired 8% more often and at 10% higher wages, and the researchers found no evidence of lower employer satisfaction. The intervention reduced spelling errors and improved readability. Their interpretation is that writing quality can be an imperfect proxy that sometimes obscures rather than reveals the quality an employer cares about. This is not a generative-AI study and should not be described as one.
+
+That evidence narrows the chapter usefully. Cheaper production can weaken a signal when the old production cost carried relevant information, but it can improve matching when the expensive surface was merely noise. A polished artifact therefore cannot be classified in the abstract as either informative or counterfeit. The receiver has to specify what property the artifact is supposed to reveal.
+
+The implication should stay narrow. If polished prose, code, design, or presentation once carried some information about time, training, or access to skilled labor, cheaper generation can weaken that inference even when the artifact remains useful. Receivers may then shift toward evidence that is harder to reproduce cheaply: live adaptation, version history, demonstrated performance, references, responsibility, or longitudinal outcomes. But where surface quality is only an accidental barrier to observing the underlying capability, assistance may remove a bad screen rather than create a verification burden.
 
 Preserve the welfare warning already present in the chapter. Signal replacement can be wasteful. Institutions can respond to cheap old signals by inventing harder tests, more credentials, surveillance, or ceremonial manual work that raises cost without measuring the quality they actually care about.
 
-Falsification / counterevidence: some generated artifacts can be verified directly, making process history irrelevant. In those cases the right response to signal decay is not a new proof-of-effort ritual but performance-based verification.
+Falsification / counterevidence: some generated artifacts can be verified directly, making process history irrelevant. In those cases the right response to signal decay is not a new proof-of-effort ritual but performance-based verification. The Wiles–Munyikwa–Horton result adds a second boundary: when assistance removes irrelevant writing noise and lets receivers assess underlying quality more accurately, making the old surface expensive again can make selection worse rather than better.
 
 ## Chapter 8 — Infinite Versions
 
@@ -54,9 +58,11 @@ Falsification / counterevidence: adaptive systems can increase accessibility, co
 
 - Do not reuse Chapter 19's choice-overload meta-analysis as Chapter 5's main evidence; keep Chapter 5 centered on search cost and stopping.
 - Do not imply Simon or Stigler studied AI or proved a universal decision rule.
-- Pair algorithm aversion with algorithm appreciation so Chapter 6 does not smuggle in a permanent human-trust premium.
+- Pair algorithm aversion with algorithm appreciation so Chapter 6 does not smuggle in a permanent human-trust-premium claim.
 - Keep Chapter 7 about signal informativeness, not the psychological value of effort already covered later.
 - Do not treat Spence's signaling model as empirical proof that effort is an honest signal in every labor market.
+- Do not describe the Wiles–Munyikwa–Horton résumé experiment as generative AI; the intervention was nongenerative algorithmic writing assistance.
+- Do not assume cheaper writing assistance necessarily worsens screening; it can remove noise when surface writing is not the capability being purchased.
 - Do not generalize intelligent-tutoring results to current generative tutors; use them only as evidence that adaptive computer instruction can sometimes improve outcomes.
 - Do not claim the OECD dark-pattern evidence proves generative personalization is already manipulating consumers at scale.
 - Preserve the positive case for accessibility, better matching, cheaper experimentation, and adaptive explanation.
@@ -69,5 +75,6 @@ Falsification / counterevidence: adaptive systems can increase accessibility, co
 - Berkeley J. Dietvorst, Joseph P. Simmons, and Cade Massey, “Algorithm Aversion: People Erroneously Avoid Algorithms after Seeing Them Err,” *Journal of Experimental Psychology: General* 144, no. 1 (2015): 114–126. https://doi.org/10.1037/xge0000033
 - Jennifer M. Logg, Julia A. Minson, and Don A. Moore, “Algorithm Appreciation: People Prefer Algorithmic to Human Judgment,” *Organizational Behavior and Human Decision Processes* 151 (2019): 90–103. https://doi.org/10.1016/j.obhdp.2018.12.005
 - Michael Spence, “Job Market Signaling,” *Quarterly Journal of Economics* 87, no. 3 (1973): 355–374. https://doi.org/10.2307/1882010
+- Emma Wiles, Zanele Munyikwa, and John J. Horton, “Algorithmic Writing Assistance on Jobseekers’ Resumes Increases Hires,” *Management Science* 71, no. 12 (2025): 10144–10164. https://doi.org/10.1287/mnsc.2024.04528
 - James A. Kulik and J. D. Fletcher, “Effectiveness of Intelligent Tutoring Systems: A Meta-Analytic Review,” *Review of Educational Research* 86, no. 1 (2016): 42–78. https://doi.org/10.3102/0034654315581420
 - OECD, “Dark Commercial Patterns,” *OECD Digital Economy Papers*, no. 336 (2022). https://doi.org/10.1787/44f5e846-en
