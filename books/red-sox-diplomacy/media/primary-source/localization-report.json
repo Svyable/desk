@@ -1,23 +1,4 @@
 {
-  "changed_files": 2,
-  "files": [
-    {
-      "path": "books/red-sox-diplomacy/manuscript/ch02-the-useful-fan.md",
-      "changes": [
-        {
-          "remote": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Spokesperson_Price_Holds_the_Department_Press_Briefing_%2851728591887%29.jpg",
-          "local": "../media/primary-source/ch02-state-briefing-ned-price-2021.jpg"
-        }
-      ]
-    },
-    {
-      "path": "books/red-sox-diplomacy/manuscript/ch04-cairo-learning-the-away-park.md",
-      "changes": [
-        {
-          "remote": "https://www.reaganlibrary.gov/sites/default/files/archives/audiovisual/contactsheets/c19990.jpg",
-          "local": "../media/primary-source/ch04-reagan-mubarak-contact-sheet-1984.jpg"
-        }
-      ]
-    }
-  ]
+  "changed_files": 0,
+  "files": []
 }

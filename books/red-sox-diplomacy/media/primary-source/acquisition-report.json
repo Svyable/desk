@@ -2,17 +2,19 @@
   "manifest_files": [
     "primary-media-acquisition-wave3.json",
     "primary-media-acquisition-wave4.json",
+    "primary-media-acquisition-wave5.json",
     "primary-media-acquisition.json"
   ],
   "manifest_versions": {
     "primary-media-acquisition-wave3.json": 1,
     "primary-media-acquisition-wave4.json": 1,
+    "primary-media-acquisition-wave5.json": 1,
     "primary-media-acquisition.json": 2
   },
-  "acquired_count": 2,
-  "reused_count": 21,
+  "acquired_count": 0,
+  "reused_count": 23,
   "available_count": 23,
-  "failed_count": 0,
+  "failed_count": 1,
   "available": [
     {
       "dest": "books/red-sox-diplomacy/media/primary-source/ch11-nicholas-burns-nato-december-2001.jpg",
@@ -64,7 +66,7 @@
       "chapter": "2",
       "job": "the State Department briefing room and exact day on which a reporter invoked Burns's Red Sox identity; Burns is not pictured",
       "manifest": "primary-media-acquisition-wave4.json",
-      "acquisition_status": "acquired"
+      "acquisition_status": "reused"
     },
     {
       "dest": "books/red-sox-diplomacy/media/primary-source/ch04-reagan-mubarak-contact-sheet-1984.jpg",
@@ -77,7 +79,7 @@
       "chapter": "4",
       "job": "full contact sheet for President Reagan's working visit with President Hosni Mubarak; roll-level context for the senior U.S.-Egypt relationship, not evidence of Burns's presence",
       "manifest": "primary-media-acquisition-wave4.json",
-      "acquisition_status": "acquired"
+      "acquisition_status": "reused"
     },
     {
       "dest": "books/red-sox-diplomacy/media/primary-source/ch01-nicholas-burns-official-portrait-2022.jpg",
@@ -314,5 +316,12 @@
       "acquisition_status": "reused"
     }
   ],
-  "failed": []
+  "failed": [
+    {
+      "dest": "books/red-sox-diplomacy/media/primary-source/ch07-state-magazine-foreign-service-day-burns-1997-page.jpg",
+      "archive_record": "https://commons.wikimedia.org/wiki/File:State_Magazine_1997-06-_Iss_406_(IA_sim_state-magazine_1997-06_406).pdf",
+      "manifest": "primary-media-acquisition-wave5.json",
+      "error": "HTTPError: HTTP Error 400: Use thumbnail sizes listed on https://w.wiki/GHai"
+    }
+  ]
 }
