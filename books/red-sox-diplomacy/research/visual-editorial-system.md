@@ -72,6 +72,12 @@ A video or film object with visible maker, date, runtime, rights, and source. Wh
 
 A documented time, duration, score, number, or other compact fact whose precision is narratively meaningful. A time object may be visually dramatic precisely because it contains less information than an invented scene.
 
+### DEADLINE OBJECT
+
+A documented deadline or target date whose apparent simplicity is part of the argument. Use when policy is publicly measured against a calendar even though implementation contains multiple unresolved conditions.
+
+A deadline object must distinguish the headline date from exceptions, phase-outs, residual arrangements, or obligations that continue after the nominal deadline.
+
 ### NETWORK OBJECT
 
 A documentary relationship map. Every line or arrow must mean something stated in the label. It may show brokerage, sequence, institutional flow, or competing actors; it must not imply command, causation, or ownership that the sources do not establish.
@@ -105,6 +111,12 @@ An address object should distinguish institutional functions without silently be
 A financial or program-scale object that makes amounts, periods, units, and source provenance visible. It must distinguish program-wide totals from the protagonist's personal authority, project selection, or operational responsibility.
 
 A ledger should clarify the denominator and scope before allowing a number to carry narrative weight.
+
+### IMPLEMENTATION LEDGER
+
+A compact accounting of selected mechanisms used to execute an agreement or policy: funding, resettlement, dismantlement, technical assistance, cleanup, staffing, or other operational terms.
+
+It is not a total-cost table unless the sources establish completeness. Every row must state what the measure was for, and the label must distinguish enabling measures from political causation.
 
 ### MAP OBJECT
 
@@ -145,10 +157,11 @@ The Beijing Red Sox clinic image used in Chapter 1 should not simply recur in Ch
 - Cropping cannot remove context in a way that changes meaning.
 - Overlapping service at a large post does not establish personal acquaintance; witness distance must remain explicit.
 - Program-wide financial totals do not become a named official's personal budget merely because the official worked on the program.
+- An implementation measure does not become the cause of an agreement merely because it made execution easier.
 - An institutional diagram cannot smuggle disputed sovereignty assumptions into the page through design.
 - Unknown is an allowed state. If the archive does not locate the 2004 championship-night room, the design can make that absence visible rather than filling it.
 
-## Current Chapter 1–5 release ledger
+## Current Chapter 1–6 release ledger
 
 | Object | Chapter | Rights | Draft state | Release action |
 | --- | --- | --- | --- | --- |
@@ -168,9 +181,12 @@ The Beijing Red Sox clinic image used in Chapter 1 should not simply recur in Ch
 | WITNESS OBJECT 01 | 4 | original diagram based on ADST oral histories | local SVG | visually re-verify cited Osius passage before release |
 | ADDRESS OBJECT 01 | 5 | original diagram from State institutional background | local SVG | final re-audit wording against period-specific mission status |
 | ASSISTANCE LEDGER 01 | 5 | original diagram from CRS/State/USAID data | local SVG | retain CRS source and verify units/figures at release |
+| DEADLINE OBJECT 01 | 6 | original diagram from presidential/public papers | local SVG | preserve Skrunda qualification and exact withdrawal wording |
+| IMPLEMENTATION LEDGER 01 | 6 | original diagram from White House briefing | local SVG | verify selected figures and avoid presenting as total cost |
+| Clinton Riga photo route | 6 | Clinton White House/NARA public-domain collection | research-only finding-aid route | select an exact Burns-identifiable frame before promotion to FIG. |
 
 ## Visual restraint target
 
-A typical chapter does **not** need five objects. Chapter 2 does because it is explicitly arguing about identity moving across institutions and uses several periods as evidence. Chapter 3 needs only two because movement and maintenance can be made legible without another portrait. Chapter 4 also needs only two: one archival artifact for the senior bilateral relationship and one object that exposes witness distance. Chapter 5 needs only two because institutional ambiguity and assistance scale are the evidence; refusing a territorial map is itself part of the editorial method.
+A typical chapter does **not** need five objects. Chapter 2 does because it is explicitly arguing about identity moving across institutions and uses several periods as evidence. Chapter 3 needs only two because movement and maintenance can be made legible without another portrait. Chapter 4 also needs only two: one archival artifact for the senior bilateral relationship and one object that exposes witness distance. Chapter 5 needs only two because institutional ambiguity and assistance scale are the evidence; refusing a territorial map is itself part of the editorial method. Chapter 6 needs only the date and the machinery beneath it; the real presidential photographs stay in research until Burns is identified at frame level.
 
 The test is simple: remove the object. If the reader loses no evidence, mechanism, temporal contrast, or archival understanding, the object probably does not belong.
