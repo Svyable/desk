@@ -18,29 +18,19 @@ It multiplied it.
 
 Burns said after leaving Beijing that the basic mission of an ambassador had not changed. One part of the job was to represent the perspectives and policies of his own government to the host government and to serve as a primary point of communication between them.
 
-The phrase sounds almost administrative.
+The phrase sounds administrative.
 
 It is not.
 
-A primary point of communication is valuable because the receiving government needs to know not merely what words exist but what weight the words carry.
+A primary point of communication matters because the receiving government needs to know not merely what words exist but what weight the words carry.
 
-Was the statement authorized?
-
-Was it a trial balloon?
-
-Was the minister improvising?
-
-Was the president committing the government or describing a preference?
-
-Was the ambiguity deliberate?
-
-What changed since yesterday?
+Was the statement authorized? Was the minister improvising? Was the president committing the government or describing a preference? Was the ambiguity deliberate? What changed since yesterday?
 
 Machines can help recover the record.
 
 Institutions still need someone to own the meaning.
 
-That ownership appeared in Burns's career long before Beijing.
+Burns had been learning that long before Beijing.
 
 At the State Department podium in the 1990s, one of the spokesman's basic disciplines was grammatical. Known was different from reported. Confirmed was different from alleged. Policy was different from speculation. A mistake had to be corrected rather than hidden under another sentence.
 
@@ -50,15 +40,11 @@ Then a misplaced verb can become policy in another capital before the briefing h
 
 The spokesman does not create national policy by personal force. His authority comes from somewhere else: the President, the Secretary of State, the bureaucracy, the interagency process, the law. Yet the person at the podium still matters because audiences are deciding whether the institution can be believed through him.
 
-That is the first element of the human channel.
+This is political authentication.
 
-Authentication.
+Not merely the cryptographic question of whether a message is genuine, though that increasingly matters too. The harder question is whether this person is authorized to convey the position of this government and whether the government expects the recipient to treat the message accordingly.
 
-Not authentication only in the cryptographic sense, though that increasingly matters too. Political authentication: this person is authorized to convey the position of this government, and this government expects the recipient to treat the message accordingly.
-
-The second element is precision.
-
-Diplomacy is full of sentences designed to survive tomorrow.
+Authentication is only the beginning. Diplomacy is full of sentences designed to survive tomorrow.
 
 Governments need to state enough to be understood and sometimes leave enough unsaid to preserve room for another move. Precision is therefore not the elimination of ambiguity. It is control over ambiguity.
 
@@ -68,23 +54,13 @@ The answer was not to stop using words.
 
 It was to know what the words did.
 
-The third element is judgment.
+Then comes the part that resists neat systematizing: judgment.
 
-This is the part technology enthusiasts often describe too casually because judgment sounds vague beside data.
+Should an ambassador deliver a warning privately before the government announces it publicly? Should a demand be explicit or leave space for a counterpart to comply without humiliation? Should an ally be confronted inside the alliance room or outside it? Should an apparent provocation be answered immediately, or is the information still incomplete?
 
-It is not vague to the person who has to decide whether to speak now or later.
+More data can inform those choices.
 
-Should the ambassador deliver a warning privately before the government announces it publicly?
-
-Should a demand be explicit or leave space for a counterpart to comply without humiliation?
-
-Should an ally be confronted inside the alliance room or outside it?
-
-Should an apparent provocation be answered immediately, or is the information still incomplete?
-
-These decisions can be informed by more data.
-
-They cannot be made useful by data volume alone.
+Data volume cannot make them useful by itself.
 
 During the NATO rupture over Iraq in 2003, the United States and its allies possessed immense intelligence and military capability. The argument over defensive planning for Turkey still came down to governments with different readings of timing, risk, alliance procedure and what action would signal about an approaching war.
 
@@ -92,17 +68,13 @@ No amount of processing power could erase the disagreement.
 
 Representatives had to manage it.
 
-The fourth element is relationship memory.
+Repeated interaction changes that management without making it sentimental.
 
-This is not friendship.
+A Russian official does not become less Russian because an American has known him for ten years. An Iranian negotiator does not surrender a national position because meetings have become cordial. A Chinese official does not stop answering to his own political system because he knows an ambassador's family.
 
-Burns's career repeatedly resists the sentimental version of diplomacy in which personal rapport dissolves national interests. It does not. A Russian official does not become less Russian because an American has known him for ten years. An Iranian negotiator does not surrender a national position because meetings have become cordial. A Chinese official does not stop answering to his own political system because he knows an ambassador's family.
+What repeated contact creates is another kind of record.
 
-Repeated interaction matters for a less romantic reason.
-
-It changes interpretation.
-
-A counterpart who has watched the same person deliver good news, bad news, corrections, warnings and concessions accumulates information about how that person behaves under pressure. The relationship becomes another record: consistency, evasiveness, timing, follow-through and memory of previous commitments.
+A counterpart watches the same person deliver good news, bad news, corrections, warnings and concessions. He learns something about consistency, evasiveness, timing, follow-through and memory of previous commitments.
 
 Trust can grow from that.
 
@@ -110,19 +82,13 @@ So can informed distrust.
 
 Both are more useful than fantasy.
 
-The fifth element is accountability.
+And both depend on accountability. An identifiable representative can return to the room and say the last message was wrong. He can say the government has changed its position. He can clarify that a newspaper report is not policy. He can carry a commitment and later be asked why it was not fulfilled.
 
-A channel that cannot be held responsible is not much of a channel.
-
-An identifiable representative can return to the room and say the last message was wrong. He can say the government has changed its position. He can clarify that a newspaper report is not policy. He can carry a commitment and later be asked why the commitment was not fulfilled.
-
-The point is not moral purity.
+None of this makes human beings naturally trustworthy.
 
 Diplomats mislead. Governments deceive. Human beings posture, flatter, threaten, misunderstand and sometimes lie directly to one another.
 
-The human channel is not valuable because humans are naturally trustworthy.
-
-It is valuable because responsibility can attach to a person acting on behalf of an institution.
+The human channel matters because responsibility can attach to a person acting on behalf of an institution.
 
 That feature becomes more important as synthetic communication becomes cheaper.
 
@@ -138,21 +104,17 @@ Who had the power to mean it?
 
 Who can be held to it tomorrow?
 
-Beijing supplied the late-career stress test. As the previous chapter showed, important U.S.-China channels were disrupted after major crises even while American and Chinese forces continued operating near one another. Burns later described the danger in practical terms: an accident at sea or in the air could force two capitals to interpret intent under pressure precisely when senior communication was weakest.
+Beijing supplied the late-career stress test. Important U.S.-China channels were disrupted after major crises even while American and Chinese forces continued operating near one another. Burns later described the danger in practical terms: an accident at sea or in the air could force two capitals to interpret intent under pressure precisely when senior communication was weakest.
 
-The crucial point is not the chronology of those crises.
+The point is not to retell those crises.
 
 It is that interpretation does not stop when communication does.
 
 If the channel fails, each government still has to decide whether an event was ordered, accidental, limited or preparatory. It simply does so with less reliable access to the other side's authorized intent.
 
-That makes communication part of deterrence rather than diplomacy's decorative layer.
+Communication is therefore part of deterrence, not diplomacy's decorative layer.
 
 Technology complicates the problem because speed compresses the time available for political judgment. A government may receive more warning, more imagery and more possible explanations than any previous generation while leaders have fewer minutes to determine which interpretation is real enough to act on.
-
-The world will not slow down because decision-makers would prefer more time.
-
-Institutions therefore have to get better at authenticating decisions under pressure.
 
 Burns's last year in China produced one narrow example with unusually high stakes.
 
@@ -160,7 +122,7 @@ At their November 2024 meeting in Lima, President Joe Biden and President Xi Jin
 
 The statement did not settle the military competition between the countries. It did not resolve questions about artificial intelligence, autonomous systems, cyber operations, command-and-control vulnerability or escalation in space. Burns later described it as a beginning rather than an answer.
 
-That modesty is why it matters.
+That modesty is the point.
 
 Nuclear command is an extreme case of authorized intent. The world does not merely need to know whether a signal is authentic. It needs a traceable chain of responsibility for a decision of irreversible consequence.
 
@@ -168,33 +130,19 @@ That principle may become harder to preserve as machine systems become more capa
 
 It does not become less important.
 
-None of this means diplomacy must remain technologically primitive in order to remain human.
-
-The opposite is true.
-
-A diplomat who refuses better translation, retrieval, simulation or analysis because of nostalgia would be neglecting the job. Better tools can expose inconsistencies, remember forgotten commitments, model reactions, reveal missing information and give officials more time for the decisions that authority still requires someone to make.
+None of this requires diplomacy to remain technologically primitive in order to remain human. A diplomat who refuses better translation, retrieval, simulation or analysis because of nostalgia would be neglecting the job. Better tools can expose inconsistencies, remember forgotten commitments, model reactions, reveal missing information and give officials more time for decisions.
 
 The mistake would be confusing assistance with authorization.
 
-A model can generate ten plausible responses to a crisis.
+A model can generate ten plausible responses to a crisis. The state still has to choose one.
 
-The state still has to choose one.
+A system can estimate that a counterpart is bluffing. Someone still has to decide whether to risk lives on the estimate.
 
-A system can estimate that a counterpart is bluffing.
-
-Someone still has to decide whether to risk lives on the estimate.
-
-A translator can make every sentence fluent.
-
-Someone still has to mean the sentence.
+A translator can make every sentence fluent. Someone still has to mean the sentence.
 
 That is where Burns's career becomes useful beyond Burns.
 
-He was never simply the man in the Red Sox cap.
-
-The cap mattered because it made the representative legible as a person. The person mattered because the institution had authorized him to speak. The institution mattered because the words had consequences beyond the room.
-
-Remove any one of those layers and the diplomatic act changes.
+He was never simply the man in the Red Sox cap. The cap mattered because it made the representative legible as a person. The person mattered because the institution had authorized him to speak. The institution mattered because the words had consequences beyond the room.
 
 A personality without authority is conversation.
 
@@ -204,9 +152,7 @@ A recognizable person who forgets the institution becomes dangerous.
 
 The craft lies in carrying all three at once.
 
-This is why the human channel should not be confused with charm.
-
-Some of the most important diplomatic conversations are unpleasant. Some occur between people who distrust one another. Some transmit threats. Some end without agreement. Some succeed precisely because each side leaves understanding that the other side will not move.
+This is why the human channel should not be confused with charm. Some of the most important diplomatic conversations are unpleasant. Some occur between people who distrust one another. Some transmit threats. Some end without agreement. Some succeed precisely because each side leaves understanding that the other side will not move.
 
 The channel does not exist to make states like each other.
 
@@ -219,8 +165,6 @@ The old questions had not disappeared.
 They had become easier to hide inside the abundance.
 
 Who is speaking?
-
-What do they know?
 
 What are they authorized to promise?
 
