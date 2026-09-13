@@ -4,175 +4,149 @@ The alliance had discovered how to agree when America was attacked.
 
 Then it had to discover how to disagree.
 
-For a few months after September 11, NATO could look deceptively simple from the outside. An ally had been struck. Article 5 had been invoked. Allied aircraft flew over American territory. NATO ships went to the Mediterranean. The treaty had answered a question that had hung over it since 1949: would the promise of collective defense survive contact with history?
+For a few months after September 11, NATO could look deceptively simple from the outside. An ally had been struck. Article 5 had been invoked. Allied aircraft flew over American territory. NATO ships went to the Mediterranean.
 
-It had.
+Iraq did not offer that clarity.
 
-But solidarity is easiest to describe when the danger points in one direction.
+By early 2003, the argument over Saddam Hussein had divided governments on both sides of the Atlantic. Washington was moving toward war. France and Germany were resisting that movement. Belgium joined them inside NATO on a narrower but explosive question: when should the alliance begin military planning to defend Turkey if war came?
 
-Iraq did not.
-
-By early 2003, the argument over Saddam Hussein had divided governments on both sides of the Atlantic. Washington was moving toward war. France and Germany were resisting that movement. Belgium joined them inside NATO on a narrower but symbolically explosive question: when should the alliance begin military planning to defend Turkey if war with Iraq came?
-
-Turkey bordered Iraq. Its concern was not theoretical. NATO had already discussed possible defensive support for weeks. The proposed measures included surveillance aircraft, missile defense and protection against chemical or biological attack.
+Turkey bordered Iraq. The concern was not theoretical. NATO had already discussed possible defensive support, including surveillance aircraft, missile defense and protection against chemical or biological attack.
 
 To Nicholas Burns, the American ambassador at NATO, the principle looked elementary.
 
 An ally felt threatened. The alliance should prepare to defend it.
 
-The problem was that three allies were looking at the same proposal and seeing something else.
+France, Germany and Belgium did not publicly reject that obligation. Their objection was to timing. Beginning military preparations while United Nations weapons inspectors were still working in Iraq, they argued, could send a political signal that the decision for war had effectively been made.
 
-They did not publicly argue that Turkey had ceased to be an ally. They did not announce that collective defense no longer applied. Their objection was to timing. Beginning NATO military preparations while United Nations weapons inspectors were still working in Iraq, they argued, could send a political signal that the decision for war had effectively been made.
+That distinction is essential.
 
-That distinction is essential because Burns did not experience the dispute neutrally.
+Burns was an advocate inside the dispute, not a neutral narrator of it.
 
-He was an advocate inside it.
+When Belgium announced that it would block the proposed planning, Burns called the situation a test of NATO's credibility. In later congressional testimony he said the actions of France, Germany and Belgium had created a crisis of credibility and violated the core fabric of the alliance.
 
-When Belgium announced that it would block the proposed planning, Burns called the situation a test of NATO's credibility. After the dispute, in testimony to Congress, he went further. He said the actions of France, Germany and Belgium had created a crisis of credibility and violated the core fabric of the alliance.
-
-Those were the words of the American representative in a serious institutional fight.
-
-They were not the only legitimate description of the fight.
-
-George Robertson, NATO's secretary general, later reconstructed the episode in more measured terms. All the allies, he said, accepted that Turkey would be defended if attacked. All accepted Turkey's right to consultations. The disagreement was over when military planning should begin. Sixteen wanted to proceed. Three believed proceeding then would send the wrong signal as the United Nations process continued.
+George Robertson, NATO's secretary general, reconstructed the disagreement differently. All the allies, he said, accepted that Turkey would be defended if attacked. All accepted Turkey's right to consultations. Sixteen wanted planning to begin. Three believed the timing would send the wrong signal while the United Nations process continued.
 
 Robertson called the differences substantive.
-
-That word matters.
 
 [![Paired documentary object showing the French and American premises in the 2003 NATO dispute over defensive planning for Turkey](../media/ch13-two-premises.svg)](https://www.pbs.org/wgbh/pages/frontline/shows/blair/etc/script.html)
 
 *OPPOSING PREMISES 01 — Turkey, Iraq and NATO, February 2003. French Ambassador Benoît d'Aboville argued that starting military planning while diplomacy continued risked making war the alliance's working assumption; Burns argued that a collective-defense organization had to retain the capacity to prepare quickly for an ally's protection. NATO's own history confirms that the underlying commitment to defend Turkey was not the disputed point. [Source map.](../research/ch13-visual-archive.md)*
 
-Alliances become easy to romanticize when disagreement is treated as betrayal. The story then writes itself. Loyal allies stand together; difficult allies obstruct; a determined diplomat restores unity.
+The procedural fight began with NATO's consensus rule.
 
-NATO is harder than that.
+There was no majority vote that could simply defeat the minority and move on.
 
-It is an organization of sovereign democratic states whose governments have different electorates, different histories, different threat perceptions, different legal constraints and sometimes different ideas about what American power is doing.
-
-Those differences do not disappear because the flags are arranged in a circle.
-
-In February 2003 they became procedural.
-
-NATO works by consensus. That gives the institution a peculiar combination of strength and frustration. There is no ordinary parliamentary majority that can simply defeat the minority and move on. A small state can matter. An unhappy government can stop agreement. The price of collective legitimacy is that the conversation sometimes cannot end when the largest member wants it to.
-
-On February 6, Robertson used NATO's silence procedure on a package of planning measures. In such a procedure, a proposal can take effect if no government objects by the deadline.
+On February 6, Robertson used the alliance's silence procedure on a package of planning measures: if no government objected by the deadline, the proposal would take effect.
 
 France, Germany and Belgium objected.
 
 They broke the silence.
 
-Turkey then formally invoked Article 4 of the North Atlantic Treaty, requesting consultations because it believed its security was threatened. For days the North Atlantic Council met and failed to produce agreement.
+Turkey then formally invoked Article 4 of the North Atlantic Treaty, requesting consultations because it believed its security was threatened. For days the North Atlantic Council met without agreement.
 
-The public language sharpened.
+Public language hardened.
 
-Burns said the alliance faced a credibility crisis. Belgian Foreign Minister Louis Michel openly defended the decision to block the planning. Germany continued to argue that diplomacy had not been exhausted. The larger Iraq argument pressed into every institutional crevice.
+Burns said the alliance faced a credibility crisis. Belgian Foreign Minister Louis Michel defended the decision to block planning. Germany continued to argue that diplomacy had not been exhausted.
 
-Yet one fact complicates the picture of three countries refusing to defend Turkey.
+Yet Germany was also prepared to contribute to Turkey's defense.
 
-Germany was prepared to contribute to Turkey's defense.
-
-Robertson later explained that Berlin's willingness to provide Patriot missiles was intended precisely to show that Germany did not dispute the substantive obligation. What Germany disputed was the timing and political meaning of the NATO decision. After the eventual compromise, German Foreign Minister Joschka Fischer emphasized that German personnel participating in AWACS support over Turkey were performing a defensive alliance mission, not joining offensive operations against Iraq.
+Robertson later pointed to Berlin's willingness to provide Patriot missiles as evidence that Germany did not reject the defensive obligation. After the eventual compromise, Foreign Minister Joschka Fischer emphasized that German personnel participating in AWACS support over Turkey were performing a defensive alliance mission, not joining offensive operations against Iraq.
 
 A government could oppose the road to war and still help defend an ally from the consequences of that war.
 
-That is the kind of distinction alliances are built to contain.
+That is the distinction the public argument kept threatening to erase.
 
-It is also the kind that public arguments tend to erase.
+After repeated North Atlantic Council meetings, Robertson concluded that consensus among all nineteen governments was not available. NATO had another established body: the Defence Planning Committee. France, at the time, did not participate in NATO's integrated military structure and therefore did not sit on it.
 
-After repeated North Atlantic Council meetings, Robertson concluded that consensus among all nineteen governments was not available. NATO had another established body: the Defence Planning Committee. At the time, France did not participate in NATO's integrated military structure and therefore did not sit on that committee.
+The move can look in retrospect like a procedural trick designed to remove France from the room.
 
-The matter moved there.
+The institutional record is more careful.
 
-This can sound, in retrospect, like a procedural maneuver designed to remove France from the room. The actual institutional record is more careful. Robertson said he delayed using the committee until he had concluded that agreement at nineteen was impossible. NATO's own history records that the move occurred with the concurrence of the members.
+Robertson said he delayed using the committee until he had concluded that agreement at nineteen was impossible. NATO's own history records that the move occurred with the concurrence of the members. France was absent from the committee because of a longstanding institutional choice, not because somebody invented a new room for the occasion.
 
-France was absent from the committee by virtue of a longstanding institutional choice, not because somebody had invented a new room overnight.
-
-Germany and Belgium were still there.
+Germany and Belgium were still in it.
 
 They still had to agree.
 
-On February 16 the eighteen ambassadors met for hours. Belgium proposed amendments. The text moved. The negotiation continued. Eventually the committee reached consensus on military planning.
+On February 16 the eighteen ambassadors met for hours. Belgium proposed amendments. The text moved. The negotiation continued.
 
-Three days later it authorized urgent implementation of defensive measures for Turkey under Operation Display Deterrence.
+Consensus was reached.
+
+Three days later the committee authorized urgent implementation of defensive measures for Turkey under Operation Display Deterrence.
 
 [![Procedural timeline of the 2003 NATO Turkey-defense dispute from silence procedure through Article 4 consultations to Defence Planning Committee consensus](../media/ch13-consensus-path.svg)](https://www.nato.int/en/about-us/organization/nato-structure/defence-planning-committee-1963-2010)
 
 *CONSENSUS PATH 01 — February 2003. France, Germany and Belgium broke the silence procedure; Turkey invoked Article 4; the North Atlantic Council remained blocked; with all members' concurrence the matter moved to the pre-existing Defence Planning Committee, where Germany and Belgium still had to agree. On February 19 the DPC authorized Operation Display Deterrence. [Source map.](../research/ch13-visual-archive.md)*
 
-The alliance had not discovered that everyone agreed about Iraq.
+The alliance had not discovered agreement about Iraq.
 
-It had discovered a narrower proposition on which they could agree.
+It had found a narrower proposition on which agreement was possible.
 
-That difference is the whole chapter.
+That difference is the chapter.
 
-A clubhouse has an inside and an outside. The people inside develop rituals, private jokes, grievances, status hierarchies and habits of reading one another. Burns certainly understood that part of institutional life. He had spent years in rooms where repeated contact mattered. At NATO he dealt with the same ambassadors over and over, and each of them represented a government that could say no.
+The word *clubhouse* captures only a small part of NATO. Its ambassadors meet repeatedly. They accumulate private history, grievances, habits and judgments about one another. Burns understood that kind of institutional life.
 
-But the clubhouse metaphor fails exactly where NATO becomes interesting.
+But a baseball clubhouse has a manager and a roster under contract.
 
-A baseball team has an owner, a manager and a roster under contract. It can decide what play to run. A player does not possess a national veto.
+NATO has sovereign governments.
 
-NATO has no such sovereign center.
+The American ambassador can persuade, pressure and warn that credibility is at stake. The United States can bring enormous political and military weight into the room.
 
-The American ambassador can persuade. He can pressure. He can warn that credibility is at stake. The United States can bring enormous military and political weight into the room.
+It cannot cast the other governments' votes for them.
 
-It still cannot manufacture consensus by itself.
+The February fight exposed the temptation on both sides. Washington could see dissent as a failure to understand what an alliance was for. Dissenting capitals could see Washington as confusing leadership with entitlement.
 
-Burns learned that in unusually public fashion.
+Neither perception ended the dispute.
 
-The February fight also exposed a temptation that comes with American alliance leadership. When Washington believes the institution's purpose is obvious, dissent can look like failure to understand the institution. From the dissenting capital, the same argument can look like Washington confusing leadership with entitlement.
+Procedure did.
 
-Both perceptions can be sincerely held.
+Not procedure as bureaucracy for its own sake. Procedure as the means by which governments that disagreed about the larger war found the smaller decision they could all live with.
 
-Neither settles the question.
+Then the United States invaded Iraq in March without NATO conducting the war as an alliance operation.
 
-The work is what happens next.
-
-For Burns, the next phase required something more difficult than winning the Turkey argument. NATO had to continue existing after the Iraq argument.
-
-The United States invaded Iraq in March without NATO conducting the war as an alliance operation. France and Germany did not suddenly decide that their objections had been foolish. Washington did not suddenly decide that its critics had been right.
+France and Germany did not decide their objections had been foolish. Washington did not decide its critics had been right.
 
 The disagreement remained.
 
 So did NATO.
 
-Within months, the alliance unanimously agreed to take command of the International Security Assistance Force in Afghanistan. Robertson later emphasized an inconvenient detail for anyone who wanted to divide the alliance permanently into loyalists and obstructionists: the initiative had come from Canada, Germany and the Netherlands.
+Within months, the alliance unanimously agreed to take command of the International Security Assistance Force in Afghanistan. Robertson later emphasized an inconvenient detail for anyone wanting to divide the institution permanently into loyalists and obstructionists: the initiative came from Canada, Germany and the Netherlands.
 
-Germany had been one of the governments at the center of the February rupture.
+Germany had been at the center of the February rupture.
 
 Now it was helping move NATO into a major new mission.
 
-Then came another turn. The alliance agreed to support Poland in assembling a multinational stabilization division for Iraq.
+The alliance also agreed to support Poland in assembling a multinational stabilization division for Iraq.
 
 NATO could not agree to fight the Iraq war as an alliance.
 
 It could later agree to help an ally manage part of the aftermath.
 
-This is not consistency in the simple sense.
-
-It is institutional survival.
-
 [![Documentary ledger showing NATO returning to shared work after the 2003 Iraq rupture through Afghanistan and support for Poland in Iraq](../media/ch13-return-ledger.svg)](https://www.nato.int/en/news-and-events/articles/news/2003/04/16/same-name-same-banner-same-mission-as-nato-enhances-isaf-role)
 
 *RETURN LEDGER 01 — 2003. After the Turkey-defense rupture, Germany, the Netherlands and Canada requested the NATO role that led to alliance command of ISAF; NATO also agreed to bounded support for Poland's stabilization role in Iraq. Repair did not require any government to pretend the original war dispute had been trivial. It required enough shared ground to keep working. [Source map.](../research/ch13-visual-archive.md)*
 
-Burns gave a speech in May 2003 about healing the transatlantic rift. The phrase itself reveals how far the alliance had traveled from the emotional clarity of September 2001. Healing did not mean proving that one side had been right about everything. It meant finding enough shared work to prevent one disagreement, even a historic disagreement, from consuming the institution.
+Burns gave a speech in May 2003 about healing the transatlantic rift.
 
-That is a less satisfying story than permanent solidarity.
+Healing did not mean agreement about the war.
 
-It is also more useful.
+It meant the disagreement had not consumed the institution.
 
-The United States did not need allies because they would always agree with it. If agreement were guaranteed, the alliance would have been closer to an instrument of American policy than an alliance among sovereign states.
+That is less satisfying than permanent solidarity and more useful than pretending permanent solidarity ever existed.
 
-Nor did the Europeans need NATO because it offered a permanent mechanism for restraining Washington. The institution also imposed obligations on them, including obligations to countries whose security concerns might not arrive at a politically convenient moment.
+The Turkey crisis preserved several facts at once.
 
-The February crisis put both truths on the table.
+Burns's anger was real.
 
-Burns's anger was real. So was the opposing governments' fear that military preparation could acquire political momentum of its own.
+So was the French, German and Belgian concern that military preparation could acquire political momentum of its own.
 
-Turkey's vulnerability was real. So was the continuing United Nations process.
+Turkey's vulnerability was real.
 
-Consensus was blocked. Then a narrower consensus was built.
+So was the continuing United Nations process.
+
+Consensus was blocked.
+
+Then a narrower consensus was built.
 
 The alliance bent.
 
@@ -180,14 +154,8 @@ It did not become harmonious.
 
 It did not break.
 
-Years later, Burns would describe NATO as a community held together by more than military planning. Shared democratic commitments mattered to him. So did habit, history and the dense personal relationships that accumulate among governments that have spent decades arguing in the same rooms.
-
-The word *clubhouse* captures a small piece of that density.
-
-It should not capture too much.
-
 The important thing about NATO in 2003 was not that its ambassadors behaved like teammates.
 
 They did not.
 
-The important thing was that after behaving like adversaries across a table, they came back to the same table.
+It was that after behaving like adversaries across a table, they came back to the same table.
