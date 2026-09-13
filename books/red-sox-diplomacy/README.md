@@ -8,7 +8,7 @@
 | **Status** | Drafting |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
-| **Chapters** | 22 drafted + prologue |
+| **Chapters** | 22 of 22 drafted + prologue + epilogue |
 | **Form** | Documentary narrative biography |
 | **Language** | English |
 
@@ -42,7 +42,7 @@ Baseball is not imposed as a metaphor on every episode. It appears where the doc
 - [x] [Ch 20 — The Human Channel](manuscript/ch20-the-human-channel.md)
 - [x] [Ch 21 — What America Looks Like From Away](manuscript/ch21-what-america-looks-like-from-away.md)
 - [x] [Ch 22 — Extra Innings](manuscript/ch22-extra-innings.md)
-- [ ] [Epilogue — The Next Inning](manuscript/epilogue-the-next-inning.md)
+- [x] [Epilogue — The Next Inning](manuscript/epilogue-the-next-inning.md)
 
 The architecture may expand when research reveals a distinct documented dramatic center. Chapter count is subordinate to the life.
 
