@@ -15,6 +15,17 @@ from pathlib import Path
 SLUG_RE = re.compile(r"^[a-z0-9][a-z0-9-]*$")
 SHELF_READER_BASE = "https://svyable.github.io/shelf/reader/#/b/"
 
+READER_LINKS_START = "<!-- bookself-reader-links:start -->"
+READER_LINKS_END = "<!-- bookself-reader-links:end -->"
+READER_LINKS_MANAGED_RE = re.compile(
+    rf"{re.escape(READER_LINKS_START)}\n.*?\n{re.escape(READER_LINKS_END)}\n*",
+    re.DOTALL,
+)
+READER_LINKS_LEGACY_RE = re.compile(
+    r"^\*\*(?:Read|Reader|Reader links):\*\*[^\n]*(?:svyable\.github\.io/(?:desk|shelf)/reader/)[^\n]*\n*",
+    re.MULTILINE | re.IGNORECASE,
+)
+
 
 class ReleaseError(RuntimeError):
     pass
@@ -81,6 +92,54 @@ def set_status_published(markdown: str) -> str:
         + f"{match.group(1)}Published {match.group(3)}"
         + markdown[match.end() :]
     )
+
+
+def _reader_links_offset(markdown: str) -> int:
+    """Byte offset after the title (and optional italic subtitle), mirroring the Shelf guard."""
+    lines = markdown.splitlines(keepends=True)
+    heading = next((i for i, line in enumerate(lines) if re.match(r"^#\s+\S", line)), None)
+    if heading is None:
+        fail("publication README has no level-1 title")
+    index = heading + 1
+    while index < len(lines) and not lines[index].strip():
+        index += 1
+    if index < len(lines):
+        stripped = lines[index].strip()
+        italic_subtitle = (
+            len(stripped) >= 2
+            and not stripped.startswith("**")
+            and ((stripped.startswith("*") and stripped.endswith("*"))
+                 or (stripped.startswith("_") and stripped.endswith("_")))
+        )
+        if italic_subtitle:
+            index += 1
+    while index < len(lines) and not lines[index].strip():
+        index += 1
+    return sum(len(line) for line in lines[:index])
+
+
+def set_published_reader_links(markdown: str, slug: str) -> str:
+    """Normalize the managed reader-links block to the published Shelf form.
+
+    The Desk source README advertises its Desk Reader surface; the released
+    Shelf copy must link to the Published Shelf Reader instead. This produces
+    exactly the canonical block the Shelf's ``sync-reader-links.py`` CI guard
+    requires, so a release lands Shelf-canonical by construction.
+    """
+    clean = READER_LINKS_MANAGED_RE.sub("", markdown)
+    clean = READER_LINKS_LEGACY_RE.sub("", clean)
+    offset = _reader_links_offset(clean)
+    before = clean[:offset]
+    after = clean[offset:]
+    if before and not before.endswith("\n\n"):
+        before = before.rstrip("\n") + "\n\n"
+    block = (
+        f"{READER_LINKS_START}\n"
+        f"**Reader links:** [Published edition · Shelf Reader]"
+        f"({SHELF_READER_BASE}{slug}/)\n"
+        f"{READER_LINKS_END}\n\n"
+    )
+    return before + block + after.lstrip("\n")
 
 
 def book_title(markdown: str, slug: str) -> str:
@@ -402,7 +461,7 @@ def prepare_release(desk: Path, shelf: Path, slug: str) -> dict[str, str]:
         next_root, catalog_action = upsert_catalog_row(
             root_md, slug, title, authors, format_label, chapters, description
         )
-    next_book_md = set_status_published(book_md)
+    next_book_md = set_published_reader_links(set_status_published(book_md), slug)
 
     source_manifest = file_manifest(source_book, exclude_readme=True)
     source_commit = run_git(desk, "rev-parse", "HEAD")
