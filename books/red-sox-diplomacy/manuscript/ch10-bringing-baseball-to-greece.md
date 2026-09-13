@@ -104,7 +104,15 @@ It was also about constructing a national team across a diaspora.
 
 That is where Rob Derksen enters the story.
 
-Derksen had spent years in professional baseball as a player, coach, manager, and scout. He had international experience. Peter Angelos put him to work on the Greek effort.
+Derksen had spent years in professional baseball as a player, coach, manager, and scout. His résumé crossed more of this story's baseball geography than it first appears. A contemporaneous Associated Press obituary records that he had managed in the minor-league systems of both Milwaukee and the Boston Red Sox before becoming a Pacific Rim scout for the Baltimore Orioles. Minor-league records identify his Boston stop precisely: in 1997, while Burns was still finishing his spokesman years, Derksen managed the Sarasota Red Sox, Boston's Class A Florida State League affiliate.
+
+That is an intriguing coincidence of networks, not an explanation.
+
+There is no evidence that Burns recruited Derksen because of the Red Sox connection. There is no evidence that Derksen's Boston tenure identifies what the Red Sox organization later pledged to the Greek project. The documented route into Greece runs through Peter Angelos and the Orioles.
+
+Still, the human network was less cleanly divided into Boston and Baltimore than a simple organizational chart would suggest. The man who became the operational center of the Greek Olympic team had once worked inside the Boston farm system too.
+
+By the time he reached Greece, Derksen had international experience. Angelos put him to work on the Greek effort.
 
 Derksen became the operational hinge.
 
