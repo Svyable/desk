@@ -66,6 +66,14 @@ It was to discover what the words meant.
 
 By October 2005 Burns was in New Delhi talking with Saran about implementation. He described the arrangement publicly as both historic and complex. The two countries had spent roughly three decades without normal civilian nuclear cooperation. Now each side had obligations to perform.
 
+Saran's own public language from the next phase matters here. After talks with Burns in January 2006, he described the discussions as useful but unfinished and emphasized India's planned expansion of civilian nuclear energy and the scale of international cooperation India expected that expansion to require.
+
+The bargain was not being received in New Delhi as an American policy initiative to which India had to respond.
+
+India had its own program, its own expected gains and its own constraints.
+
+*ARCHIVE NOTE — The January 20, 2006 joint press appearance preserves Shyam Saran's own public account of the talks alongside Burns's. [Primary transcript.](https://2001-2009.state.gov/p/us/rm/2006/59491.htm)*
+
 Reciprocity became one of the controlling words.
 
 It meant different things in Washington and New Delhi.
@@ -142,6 +150,16 @@ The last ten percent was where the negotiation lived.
 
 Fuel assurances mattered because India remembered previous disruptions in nuclear supply, particularly the history surrounding Tarapur. Termination and right-of-return provisions mattered because the United States was not willing to surrender legal protections for the worst cases. Reprocessing mattered because India wanted the ability to deal with spent fuel and did not want cooperation that left it permanently dependent on American discretion.
 
+These were not merely American descriptions of difficult issues.
+
+India's own scientific establishment was making the constraint visible. In May 2007, the Department of Atomic Energy told a parliamentary committee that future bilateral cooperation agreements needed an explicit provision enabling reprocessing. Menon, meanwhile, publicly acknowledged that unresolved issues remained while declining to negotiate individual provisions through the media.
+
+The negotiating team was therefore carrying more than a position across a table.
+
+It was carrying commitments back into an Indian political and technical system that would judge whether the text preserved the bargain India believed it had made.
+
+*ARCHIVE NOTE — Contemporary Indian reporting records both the Department of Atomic Energy's insistence on explicit reprocessing rights and Menon's refusal to litigate unresolved 123 Agreement provisions through the press. [DAE report.](https://www.hindustantimes.com/delhi/dae-wants-explicit-provision-on-reprocessing-in-future-n-pacts/story-KYJFtjf4xLAI3GxepeL6jO.html) [Menon press account.](https://svaradarajan.com/2007/05/03/india-u-s-claim-progress-in-nuclear-talks/)*
+
 These were not details in the ordinary sense.
 
 They were the places where each country's memory of the other had been converted into legal language.
@@ -149,6 +167,12 @@ They were the places where each country's memory of the other had been converted
 In late May, Burns traveled to New Delhi with Richard Stratford, the State Department's nuclear-cooperation specialist. They met Menon and a wider Indian leadership that included Prime Minister Singh, External Affairs Minister Pranab Mukherjee and National Security Adviser M.K. Narayanan.
 
 Burns later identified those days as the turning point.
+
+Menon described the same round from the Indian side with less retrospective drama. After three days of talks, he said the sides had made considerable progress toward narrowing their differences and that he was optimistic a deal could be made.
+
+That difference in register is useful.
+
+The same negotiation can later become one participant's turning point while, at the time, the counterpart describes progress and unfinished work.
 
 The Indian government proposed establishing a new reprocessing facility under International Atomic Energy Agency safeguards. The proposal gave the United States a way to confer reprocessing consent while attaching it to a safeguarded facility and to arrangements and procedures the two governments would subsequently negotiate.
 
@@ -161,6 +185,8 @@ American negotiators examined it.
 The two sides used it to solve a problem neither had been able to solve by repeating its original position.
 
 That is negotiation in its most useful form. Not splitting the difference. Changing the shape of the problem.
+
+*ARCHIVE NOTE — Menon's June 2007 press account records substantial progress without claiming completion. [Contemporaneous Indian report.](https://www.hindustantimes.com/india/we-will-make-a-deal-says-menon/story-O23fIarq1JpA6k0bMKYK9K.html)*
 
 Even then, the agreement was not done.
 
