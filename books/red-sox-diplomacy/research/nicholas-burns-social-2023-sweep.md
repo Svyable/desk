@@ -24,6 +24,18 @@ Stable preservation: https://commons.wikimedia.org/wiki/File:Ambassador_Burns_st
 
 Use: exchange and education as person-to-person infrastructure.
 
+### April 26, 2023 — Roosevelt House on the Bund
+
+Burns's official account documented a visit to Roosevelt House on the Bund with host Tim Tse and U.S. Consul General Jim Heller.
+
+Original status: https://twitter.com/USAmbChina/status/1651022088399114241
+
+Stable federal preservation: https://commons.wikimedia.org/wiki/File:Ambassador_Nicholas_Burns_visits_Roosevelt_House_on_the_Bund_in_Shanghai_02.jpg
+
+The Commons record gives the April 26 publication date, exact originating status URL, and official State Department authorship.
+
+Use: **high-value location anchor** for Burns's later first-person statement that he deliberately wore his Red Sox hat on the Bund. The April 2023 post establishes Burns at the named place contemporaneously; it does **not** by itself identify a Red Sox hat. Keep those two evidentiary layers separate.
+
 ### April 27, 2023 — Fudan University Center for American Studies
 
 Burns greeted students at Fudan University's Center for American Studies.
@@ -66,6 +78,17 @@ Use: **high-value preservation evidence for visible Red Sox identity in official
 
 This distinction matters: the image itself is evidence; a tweet caption we have not recovered is not.
 
+### 2023 — Chengdu travel preserved in the federal image corpus
+
+The 2023 Commons corpus independently indexes Burns in Chengdu, including `Ambassador Burns on the flight from Beijing to Chengdu.jpg` and `Ambassador Burns by the Funan River in Chengdu.jpg`. The latter is also categorized with Chengdu's riverfront and Anshun Bridge.
+
+Stable category evidence:
+- https://commons.wikimedia.org/wiki/Category:R._Nicholas_Burns_in_2023
+- https://commons.wikimedia.org/wiki/Category:Rivers_of_Chengdu
+- https://commons.wikimedia.org/wiki/Category:Anshun_Bridge
+
+Use: location-level corroboration for Burns's 2025 statement that Chengdu was another place where he deliberately wore his Red Sox hat. This is **preservation context, not yet a recovered social post**: the exact date, originating status URL, caption, and contemporaneous hat identification remain unresolved.
+
 ### September 2, 2023 — Temple of Heaven
 
 Burns described a visit to Beijing's Ming Dynasty Temple of Heaven.
@@ -93,6 +116,18 @@ The same preserved Zhijiang visit includes Burns playing basketball with student
 Stable category preservation: https://commons.wikimedia.org/wiki/Category:Zhijiang_Dong_Autonomous_County
 
 Use: supporting visual evidence that the sports/public-engagement pattern continued during provincial school visits. Recover the exact originating status URL before promoting this as a separate canonical social row.
+
+### September 2023 — walking the Bund with Consul General Scott Walker
+
+The federal Commons corpus also indexes an image titled `Ambassador Burns with CG Scott Walker along the Bund.jpg` in September 2023 Shanghai material and in the Bund sightseeing-area corpus.
+
+Stable category evidence:
+- https://commons.wikimedia.org/wiki/Category:September_2023_in_Shanghai
+- https://commons.wikimedia.org/wiki/Category:Bund_Sightseeing_Avenue
+
+Use: a second contemporaneous Bund anchor, separate from the fully source-resolved April Roosevelt House visit. It strengthens the geography of Burns's later Red Sox-hat recollection without proving what he wore in the image.
+
+Control: the exact file-page metadata and original status URL remain unrecovered. Do not promote this item to `official_social_primary` until those fields are recovered.
 
 ### October 26, 2023 — Great Wall with Governor Gavin Newsom
 
@@ -124,6 +159,12 @@ That cluster materially strengthens the manuscript. By mid-2023, Burns was not m
 
 The defensible formulation is not that Burns staged a formal Red Sox diplomatic initiative in July 2023. It is that the official July 4 record shows Burns publicly embodying American sport and visibly handling Red Sox gear during embassy programming. The later 2024 Beijing baseball-clinic post then makes the Red Sox connection explicit in words.
 
+## The location cross-check now begins in 2023
+
+Burns's April 30, 2025 Belfer Center lecture names the Bund and Chengdu among the places where he deliberately wore his Red Sox hat. The 2023 record independently places him at both locations: the April Roosevelt House post on the Bund is fully source-resolved; a second September Bund image and the Chengdu riverfront imagery survive in the federal preservation corpus.
+
+That does not make every preserved image a Red Sox image. It does make the later recollection testable against a contemporaneous travel record rather than floating free of it. The full place-by-place provenance audit is in `nicholas-burns-red-sox-hat-location-crosswalk.md`.
+
 ## Negative finding worth preserving
 
 A targeted 2023 search for `RedSox`, `Red Sox`, and `@RedSox` attached to Burns/`@USAmbChina` still does not surface an independently preserved 2023 tweet text comparable to the 2024 Beijing baseball-clinic post. The Red Sox-cap image therefore remains evidentially narrower than a recovered caption.
@@ -132,11 +173,12 @@ A targeted 2023 search for `RedSox`, `Red Sox`, and `@RedSox` attached to Burns/
 
 The 2023 record strengthens the book's argument in a different way from 2022. In 2022, Boston sports identity appears conversationally—Celtics in Wuhan, NBA at the station, Yao Ming. In 2023, sport becomes increasingly **embodied and visual**: Burns plays jianzi, pitches a baseball, shoots a basketball, and plays basketball with students. The Red Sox-cap image sits directly inside that sequence.
 
-That sequence is more defensible than saying 'baseball was Burns's diplomatic strategy.' The evidence supports a broader claim: Burns repeatedly used ordinary participation—sports, schools, historical sites, cultural visits—to keep the ambassador recognizable as a person while doing official work.
+The same year also supplies geographic corroboration for the later Red Sox-hat account: repeated public activity on the Bund and preserved travel in Chengdu. That sequence is more defensible than saying 'baseball was Burns's diplomatic strategy.' The evidence supports a broader claim: Burns repeatedly used ordinary participation—sports, schools, historical sites, cultural visits, and recognizable personal identity—to keep the ambassador legible as a person while doing official work.
 
 ## Remaining 2023 work
 
 - Recover the full file-page metadata and originating status URL for `Ambassador Burns holding Red Sox baseball cap.jpg`.
 - Recover the exact originating status URL for the Zhijiang basketball-with-students imagery/video.
-- Inspect the remaining 2023 Commons corpus for first-person sports/cultural posts, especially Pride, Roosevelt House, Pearl Buck home, Nanjing historical sites, and American Ballet Theatre.
+- Recover the source metadata for `Ambassador Burns with CG Scott Walker along the Bund.jpg` and `Ambassador Burns by the Funan River in Chengdu.jpg`.
+- Inspect the remaining 2023 Commons corpus for first-person sports/cultural posts, especially Pride, Pearl Buck home, Nanjing historical sites, and American Ballet Theatre.
 - Avoid promoting routine bilateral meeting photographs unless the post text materially contributes to the representation thesis.
