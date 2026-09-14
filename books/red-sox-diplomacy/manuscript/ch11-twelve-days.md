@@ -136,9 +136,15 @@ Major League games stopped after the attacks and resumed on September 17. Ballpa
 
 The Yankees—the comic enemy in Burns's Red Sox vocabulary—were carrying a meaning far larger than the rivalry.
 
-None of that explains NATO solidarity, and none of it should be inserted into Burns's memory of September 11. It is only the American backdrop: ordinary institutions were finding ways to resume while diplomatic institutions were finding ways to respond.
+There was American precedent for treating baseball this way in crisis. In January 1942, weeks after Pearl Harbor, Commissioner Kenesaw Mountain Landis asked Franklin Roosevelt whether professional baseball should continue during the war. Roosevelt answered that it should. People working longer and harder, he wrote, needed recreation and a way to take their minds off their work. The letter did not make baseball important compared with the war. It made ordinary recreation one small part of the civilian country the war was being fought to preserve.
 
-*ARCHIVE NOTE — Major League Baseball resumed play on September 17, 2001. On October 30, forty-nine days after the attacks, President George W. Bush threw the ceremonial first pitch before Game 3 of the World Series at Yankee Stadium. [MLB retrospective.](https://www.mlb.com/news/featured/yankees-reflect-on-returning-to-baseball-after-9-11/) [White House archive.](https://georgewbush-whitehouse.archives.gov/baseball/)*
+Nearly sixty years later, the civic function was visible again. Ken Burns and Lynn Novick's *The Tenth Inning* would describe baseball after September 11 as common ground: solace, distraction and the possibility that ordinary life might someday feel ordinary again. Burns's larger point about the game is not that it floats above history. It is that history keeps entering the ballpark.
+
+That distinction fits this chapter. Baseball did not answer the attack. It did not explain Article 5. It did not produce allied solidarity. It gave Americans one familiar public ritual in which grief, patriotism, fear, rivalry and continuity could occupy the same physical space.
+
+None of that should be inserted into Nicholas Burns's memory of September 11. It is the American backdrop: ordinary institutions were finding ways to resume while diplomatic institutions were finding ways to respond.
+
+*ARCHIVE NOTE — Major League Baseball resumed play on September 17, 2001. On October 30, forty-nine days after the attacks, President George W. Bush threw the ceremonial first pitch before Game 3 of the World Series at Yankee Stadium. PBS's *The Tenth Inning* describes baseball after September 11 as offering solace and common ground. Roosevelt's January 15, 1942 “Green Light Letter,” preserved by the National Baseball Hall of Fame, urged professional baseball to continue during World War II as recreation for a country at work and war. [MLB retrospective.](https://www.mlb.com/news/featured/yankees-reflect-on-returning-to-baseball-after-9-11/) [White House archive.](https://georgewbush-whitehouse.archives.gov/baseball/) [PBS: Baseball and The Tenth Inning.](https://www.pbs.org/kenburns/baseball/about) [National Baseball Hall of Fame: Green Light Letter.](https://baseballhall.org/discover/inside-pitch/roosevelt-sends-green-light-letter)*
 
 For Burns, the diplomatic meaning began with something simpler.
 
