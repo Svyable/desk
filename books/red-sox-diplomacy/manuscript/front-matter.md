@@ -1,10 +1,8 @@
-# Front Matter
+# Red Sox Diplomacy
 
-## Red Sox Diplomacy
+*Nicholas Burns, Baseball, and the Art of Representing America*
 
-### Nicholas Burns, Baseball, and the Art of Representing America
-
-Sven Hardy Benson
+**Sven Hardy Benson**
 
 ---
 
