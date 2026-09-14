@@ -1,0 +1,5 @@
+# The Animal Station
+
+Intelligence history has a recurring engineering mistake: assuming the interesting part of an animal is the capability humans want to borrow. A pigeon is treated as a cheap aircraft. A dolphin becomes sonar with a pulse. A cat becomes a walking microphone mount. The animal keeps objecting—not politically, but biologically. It gets hungry, frightened, curious, distracted, territorial, tired. The failures are funny only until one notices what they teach about autonomy.
+
+This book follows the documented record conservatively. CIA acknowledges pigeon-camera work and a wider history of animal-inspired espionage; the U.S. Navy openly operates a marine-mammal program using dolphins and sea lions. Where colorful stories outrun primary records, they remain stories. The subject is not a secret bestiary. It is the boundary between a tool and an agent.
