@@ -2,110 +2,66 @@
 
 Diplomacy has uniforms even when diplomats do not.
 
-The dark suit. The flag. The seal. The prepared language. The careful title. The motorcade waiting outside. The little card marking where everyone should sit.
+The dark suit. The flag. The seal. The careful title. The place card that tells everyone where to sit.
 
-Nicholas Burns spent a career learning those forms because forms matter. Protocol tells a room who speaks for whom. A title tells a foreign government whether the person delivering a message can commit the state behind it. The apparent stiffness of diplomacy is often an authentication system disguised as manners.
+Nicholas Burns spent a career inside those forms because they are not ornamental. Protocol tells a room who speaks for whom. A title tells a foreign government whether the person delivering a message can commit the state behind it. Much of diplomacy's stiffness is authentication disguised as manners.
 
 And then there was the baseball.
 
-Burns was a Red Sox fan.
+Burns was a Red Sox fan long before anyone needed the fact for a biography. Reporters knew it. Colleagues knew it. Presidents knew it. Greek journalists knew it. Decades later, when his nomination to become ambassador to China was still pending, somebody could interrupt a State Department briefing with five words—*but he's a Red Sox fan*—and the room understood the joke.
 
-Not in the focus-grouped manner of a politician photographed in a cap during an election year. The attachment was biographical. Boston and the Red Sox belonged to the personal equipment he carried into public life. Harvard would later describe his devotion to Red Sox Nation with the sort of affectionate teasing that works only because everyone already knows it is true.
+The allegiance belonged to Burns, not to the office.
 
-At the State Department podium, baseball could surface inside official business. In speeches and public appearances, Burns could identify himself through the Red Sox before turning to NATO, India, Iran, or the machinery of American foreign policy.
+That difference is the subject of this book.
 
-This might appear trivial.
+A diplomat represents something much larger than himself. He carries instructions, authorities, alliances, domestic politics, economic interests and military power. The foreign minister across the table is not negotiating with Nick from Massachusetts. He is negotiating with the United States.
 
-That is why it is useful.
+But the United States still arrives in a human body.
 
-Diplomacy is conducted by people who are required to behave as institutions. The foreign minister does not sit across from Nicholas in the abstract. He sits across from the United States. Burns did not arrive at a negotiation merely as a man from Massachusetts. He carried instructions, authorities, alliances, domestic politics, military power, economic interests, and a government capable of saying no long after he had said yes.
+The representative laughs at something. Remembers a favor. Misreads a pause. Hates a baseball team for ridiculous reasons. Knows when a sentence is his own and when it belongs to the government behind him.
 
-The institution had to be present.
+Burns carried Boston into rooms where nearly everything else about him was official.
 
-But if only the institution was present, something was lost.
+That did not make baseball a diplomatic doctrine. Fenway Park did not teach him how to negotiate nuclear safeguards with India. Decades of Red Sox disappointment did not secretly train him for Iran. The Yankees are not a useful substitute for a geopolitical adversary once the stakes become coercion, sovereignty or war.
 
-Human beings are unusually good at detecting performance. A diplomat who speaks entirely in approved language can become perfectly clear and completely unreadable. The counterpart hears the position but learns little about the person delivering it: what he finds funny, what irritates him, whether he can absorb a loss, whether he remembers a favor, whether his confidence is real, whether he understands rivalry without needing to convert it into hatred.
+The metaphor gets smaller as the diplomacy gets larger.
 
-Baseball offered Burns a small breach in the wall.
+Good.
 
-A team is not a foreign policy doctrine. Being a Red Sox fan did not teach him how to negotiate nuclear safeguards with India or manage an alliance after September 11. Fenway Park is not a school of statecraft.
+Baseball is more interesting here as provenance than instruction. It is a piece of home that survived the titles.
 
-The temptation to force the metaphor will be resisted in these pages.
+It also carries its own American history. The Red Sox of Burns's childhood were the last major-league club to have integrated. Boston's civic romance existed beside racial exclusion and later racial conflict. The game itself carried arguments about labor, money, immigration, television, patriotism and who was allowed to belong.
 
-So will another temptation.
+There is no uncomplicated national pastime to recover.
 
-Baseball will not be treated here as a sepia photograph of an uncomplicated America.
+There is only the actual one.
 
-The national pastime carried the country's arguments inside it. Race. Labor. Immigration. Money. Cities. Television. War. Patriotism. Celebrity. The Red Sox carried their own versions of those arguments. The team Burns inherited as a Massachusetts child came with civic romance and civic failure already braided together.
+That gives the book a second clock. Administrations change. Wars begin and end. Alliances enlarge. Countries disappear from maps. April comes. Fenway fills. A score reaches an embassy in another time zone.
 
-That is more useful than nostalgia.
+Sometimes the two clocks cross in the record.
 
-None of that history belongs to Burns merely because he was a fan. It belongs to the America he came from.
+In Greece, they crossed literally. As the country prepared for the 2004 Olympics and tried to build a national baseball program, Burns helped connect Greek organizers with American baseball institutions and a wider Greek-American network. The effort was never his alone, and it did not transform U.S.-Greek relations. It did show an ambassador using something recognizably American that he actually cared about, without pretending the game was policy.
 
-Baseball can therefore give us a second clock running beneath the diplomatic one. Administrations change. Wars begin and end. Alliances enlarge. Countries disappear from maps. A season opens in April. Fenway fills. A score reaches an embassy in another time zone. The scale is absurdly smaller. The continuity is real.
+Most of the time the clocks simply run beside one another.
 
-The chapters ahead will let those clocks cross only where the record earns the crossing.
+Burns was in Jerusalem when the Red Sox lost the 1986 World Series. The archive does not tell us where he watched, or whether he watched at all. In Brussels in 2003, by contrast, the record does place him in front of Armed Forces television for another loss to the Yankees. A year later, when Boston finally won the World Series, the perfect biographical scene goes missing again.
 
-Still, a lifelong fan acquires habits.
+The missing scenes stay missing.
 
-Memory, for one.
+That rule matters more than the metaphor.
 
-Baseball remembers almost everything. The sport carries statistics, seasons, collapses, curses, streaks, grudges, heroes, errors, and family stories forward with a density that can make the present feel inhabited by the past. A fan does not watch only the pitch being thrown. He watches it inside a history.
+The life already contains enough: Cairo, Jerusalem, the Soviet collapse, the State Department podium, Athens, NATO after September 11, India, Iran, Harvard, Beijing. Baseball enters when Burns or the record puts it there.
 
-Diplomats do something similar.
+What it offers is scale.
 
-A border dispute is rarely about the line alone. An alliance disagreement arrives carrying older disagreements. A phrase that sounds harmless in Washington may be politically radioactive in another capital because it echoes an earlier humiliation. Countries keep score in ways no official scoreboard records.
+A government can become an abstraction very quickly. So can a diplomat. The résumé fills with large nouns—NATO, Russia, China—and the person disappears inside them.
 
-Then there is losing.
+The Red Sox keep returning a smaller fact.
 
-For most of the twentieth century, Red Sox loyalty required a peculiar emotional discipline: hope without much empirical support for expecting the final reward. The team could be excellent and still lose. It could come close enough to make losing worse. The fan returned anyway.
+He was from somewhere.
 
-Diplomacy also contains more loss than its public ceremonies admit.
+Before he spoke for America, Nicholas Burns had a hometown, a family and a team his father had warned him not to love.
 
-Negotiations fail. Agreements are rejected. Allies ignore advice. Adversaries refuse pressure. Governments change and abandon years of work. The diplomatic archive contains far more proposals than treaties.
+He loved it anyway.
 
-The professional returns to the table.
-
-Not because optimism is always justified.
-
-Because the next decision still has to be made.
-
-There is rivalry too.
-
-The Red Sox and Yankees offer an almost embarrassingly convenient metaphor, which is reason enough to handle it carefully. Sports rivalry is bounded by rules that geopolitical rivalry is not. No baseball game carries nuclear risk. No pennant race determines sovereignty.
-
-Yet rivalry has a social grammar worth noticing. A serious fan can want the opponent beaten without wanting the opponent abolished. The rival is part of the meaning of the contest. Familiarity and competition coexist. Respect can survive dislike.
-
-Diplomacy often needs that emotional range.
-
-An adversary is not a friend. A competitor is not necessarily an enemy. A government can oppose another government's conduct while still needing to understand its internal logic accurately. Hatred is not a strategy. Neither is affection.
-
-The diplomat works in the less satisfying territory between them.
-
-Burns eventually carried his baseball identity into Greece in a way that made the connection literal. As Greece prepared for the 2004 Olympics and worked to develop a national baseball program, the American ambassador helped connect Greek baseball with American baseball institutions and people. He would later remember the effort with pride.
-
-That episode is the hinge of this book.
-
-Not because baseball transformed Greek-American relations.
-
-It did not.
-
-Because it reveals something about representation that the formal record can hide.
-
-A country is represented abroad through treaties, military commitments, economic policy, speeches, sanctions, aid, intelligence, and official visits. It is also represented through people. Music. Food. Universities. Movies. Sports. Jokes. Family histories. The ordinary cultural things foreigners may encounter before they ever encounter an American policy.
-
-The ambassador is responsible for the official America.
-
-He cannot avoid carrying an unofficial one too.
-
-Nicholas Burns's unofficial America included Boston.
-
-It included Fenway.
-
-It included the Red Sox.
-
-And that gives us another way into a life already crowded with the large nouns of history: Soviet Union, NATO, September 11, India, Iran, China.
-
-The first biography can begin with the institution.
-
-This one begins with the fan.
+This book begins there.
