@@ -1,0 +1,20 @@
+# Source Log
+
+## Primary and official anchors
+
+1. CIA, Gene Poteat, “Stealth, Countermeasures, and ELINT, 1960–1975,” declassified Studies in Intelligence article. Core PALLADIUM source; describes false-target generation, variable delay, RCS simulation, NSA feedback, global deployments, and the Cuban operation. https://www.cia.gov/readingroom/docs/stealth_%20count.pdf
+2. CIA Reading Room, “Probable Communist Reactions to Use of the OXCART for Reconnaissance over Cuba,” 8 September 1966. Context for OXCART/Cuba and detection assumptions. https://www.cia.gov/readingroom/document/cia-rdp79r00904a001300030002-5
+3. Naval History and Heritage Command, Operation NEPTUNE, radar countermeasures section. Primary-history treatment of GLIMMER, TAXABLE, BIGDRUM and RCM. https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/o/operation-neptune-invasion-normandy/chapter-8-bombardment-other-defensive-operations-against-enemy-land-forces.html
+4. U.S. Air Force Doctrine Publication 3-85, Electromagnetic Spectrum Operations. Defines contemporary manipulative, simulative and imitative EM deception; emphasizes multi-source plausibility. https://www.doctrine.af.mil/Portals/61/documents/AFDP_3-85/AFDP%203-85%20Electromagnetic%20Spectrum%20Ops.pdf
+5. Defense Acquisition University, EMS Survivability Guidebook. Public definition of DRFM spoofing and other EMS survivability concepts. https://www.dau.edu/sites/default/files/webform/documents/25701/ems_survivability_guidebook.pdf
+6. GAO, B-292403/B-292403.2, 10 September 2003. Public acquisition record describing MALD as a decoy intended to imitate fighter/bomber aircraft and provoke enemy air defenses. https://www.gao.gov/products/b-292403%2Cb-292403.2
+7. GAO-03-51, Electronic Warfare: Comprehensive Strategy Still Needed for Suppressing Enemy Air Defenses. MALD/ITALD and SEAD context. https://www.gao.gov/assets/gao-03-51.pdf
+8. National Museum of the U.S. Air Force, EB-66 Electronic Warfare over North Vietnam. Official history of detection/jamming role. https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196013/blinding-the-enemy-eb-66-electronic-warfare-over-north-vietnam/
+9. Department of the Air Force history, Electronic Countermeasures in the Air War Against North Vietnam, 1965–1973. https://www.dafhistory.af.mil/The-DAF-Legacy-Vault/AFHRA-Studies-and-Interviews/igphoto/2003919749/
+10. U.S. Naval Research Laboratory, radar history. https://www.nrl.navy.mil/Media/News/Article/2577147/nrl-history-radar/
+11. U.S. Army, command-post survivability lessons, including emitter decoys and false positions. https://www.army.mil/article/273510/lessons_learned_from_the_ukrainian_territorial_defense_forces_command_post_survivability
+12. U.S. Air Force, Wild Weasel history. https://www.shaw.af.mil/News/Article-Display/Article/4366345/wild-weasels-at-60-origins-and-history-of-20th-fighter-wing-sead-mission/
+
+## Research deficits
+
+The next pass should retrieve the fullest available original Studies in Intelligence issue context; additional declassified PALLADIUM/PPMS records; OXCART technical intelligence histories; NSA historical material if public; radar-engineering texts on angle/range gate pull-off; primary D-Day RCM planning documents; Vietnamese air-defense counter-countermeasure records; technical MALD/MALD-J histories; peer-reviewed DRFM detection/countermeasure literature; and public test reports on multi-sensor deception resilience.
