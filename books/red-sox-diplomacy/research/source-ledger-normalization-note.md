@@ -18,7 +18,7 @@ Canonical IDs after that rebuild supersede row IDs inside addenda 02–15. Those
 
 Research continued after the 185-row rebuild. Staged addenda now run through `source-ledger-addendum-39.csv`.
 
-The historical staged numbering reaches `rsd-390`, but **390 is not a canonical row count**. Later addenda include URLs already present in the canonical ledger and URLs repeated across addenda. Historical row IDs do not dictate final canonical IDs.
+The historical staged numbering reaches `rsd-397`, but **397 is not a canonical row count**. Later addenda include URLs already present in the canonical ledger and URLs repeated across addenda. Historical row IDs do not dictate final canonical IDs.
 
 Examples already identified:
 
@@ -27,7 +27,7 @@ Examples already identified:
 - later Greece/Red Sox, AHEPA, Wellesley, Beijing and Burns-retrospective passes intentionally revisit URLs with better `book_use` descriptions;
 - archive routes, negative-source audits, institutional histories and verification targets must remain labeled as such rather than being promoted into positive evidence.
 
-A corpus-wide reconciliation during the publication pass identified roughly fifty repeated staged URLs before final normalization. The expected final row count is therefore materially below the historical `rsd-390` sequence. Do not treat the provisional count as authoritative until the deterministic rebuild script has run over the refreshed checkout.
+A corpus-wide reconciliation during the publication pass identified roughly fifty repeated staged URLs before final normalization. The expected final row count is therefore materially below the historical `rsd-397` sequence. Do not treat the provisional count as authoritative until the deterministic rebuild script has run over the refreshed checkout.
 
 ## Research-expansion freeze
 
