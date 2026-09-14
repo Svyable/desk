@@ -48,8 +48,6 @@ Officials decide with partial information, institutional pressure and the confid
 
 Harvard gave Burns a place where former decisions could become material students questioned. Return to government exposed the professor's ideas to authority again. Return to teaching put the latest exercise of authority back under examination.
 
-The same tension belongs to representation. A diplomat who assumes the country is always right cannot report inconvenient reality. One who cannot defend the country at all cannot do the job.
-
 Baseball can return once, narrowly.
 
 Extra innings begin after the expected ending has passed. The game continues.
@@ -58,20 +56,6 @@ Burns's public career has had several apparent endings: the Foreign Service in 2
 
 That is not a victory lap. It is continued participation, which preserves the possibility of correction.
 
-This book has resisted ranking Burns as America's greatest diplomat because the category collapses too much into one adjective: craft, judgment, luck, presidents, colleagues, counterparts, institutions and history.
+A biography can stop there without pretending the record is finished.
 
-The record supports a smaller claim.
-
-Burns's career shows a profession that repeatedly asks people to enter countries they do not own, represent policies they did not make alone, maintain relationships that do not erase interests, leave work unfinished and sometimes return years later to say where their judgment failed.
-
-The Red Sox cap never answered any of those problems.
-
-It simply kept one fact visible.
-
-There was a person under the title.
-
-Then the title passed to somebody else.
-
-The inning was never extra.
-
-It was only next.
+The public argument continues.
