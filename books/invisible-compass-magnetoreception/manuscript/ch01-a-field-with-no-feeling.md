@@ -1,0 +1,17 @@
+# A Field With No Feeling
+
+Stand outside in northern Europe and the Earth's magnetic field passes through you at roughly tens of microtesla. There is no sting, no visible shimmer, no obvious pressure. A compass needle will care. Most people, in ordinary awareness, will not.
+
+A European robin does not need the field to become stronger before it becomes useful. In controlled orientation experiments, the bird's migratory restlessness can be redirected when experimenters rotate the magnetic field around it. That simple fact is where the subject should begin, because magnetoreception attracts exactly the wrong kind of impatience. The mystery invites the mechanism to be announced before the phenomenon has been specified.
+
+There are several magnetic problems an animal might solve. A compass asks for direction. A map asks for position. A homing system can combine magnetic information with stars, sunlight, odor, landmarks, inertial cues, or remembered geography. A laboratory result showing that a bird changes orientation under a rotated field does not establish that the same animal owns a global magnetic map. It does establish that the manipulated field entered the behavioral decision somewhere.
+
+That distinction has saved this field more than once. The history of magnetoreception is littered with claims that were too eager to move from response to receptor. Iron is magnetic; iron-bearing tissue appears in an animal; therefore the tissue is the magnetic organ. Cryptochromes form radical pairs; radical pairs can be magnetically sensitive; therefore cryptochrome must be the compass. Both arguments skip the dangerous middle—the causal chain from physical interaction to neural signal to behavior.
+
+The geomagnetic field is also not one variable. At any place it has direction, inclination, intensity, and local structure. These vary over the planet. Different animals could extract different pieces. An inclination compass can distinguish poleward from equatorward without distinguishing magnetic polarity the way a pocket compass does. A map sense could use combinations of intensity and inclination that vary geographically. The word *magnetoreception* therefore hides several computational tasks.
+
+This matters because receptor design follows task design. A sensor suitable for an axial compass does not automatically supply polarity. A mechanism that responds beautifully to direction may provide poor positional resolution. An animal can also fuse magnetic input with other cues, so deleting one route may reveal compensation rather than absence.
+
+The field becomes most persuasive when experiments are designed against those ambiguities. Rotate the field while holding the room fixed. Reverse components separately. Change inclination. Alter light wavelength. Apply radiofrequency noise. Lesion or disconnect candidate neural pathways. Search anatomically for structures, then test whether those structures are what they seem.
+
+The result is an unusual scientific object. We have a sense whose existence is easier to defend than the location of its primary receptor. That sounds backward only because vision trained us to expect sensory biology to begin with a visible organ. Magnetism gives us behavior first and anatomy later, if later ever arrives in a single neat place.
