@@ -40,7 +40,7 @@ Humanity is not measured in mouse events.
 
 It is measured in contestability and authority.
 
-OECD's AI Principles emphasize human agency and oversight, transparency, robustness, and accountability. NIST's AI risk framework similarly treats governance as a lifecycle function rather than a final approval box. These frameworks point toward a mature idea: trustworthy AI is a property of sociotechnical systems.
+OECD's AI Principles emphasize human agency and oversight, transparency, robustness, and accountability. [NIST's AI Risk Management Framework](https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-ai-rmf-10) similarly treats governance as a lifecycle function rather than a final approval box. These frameworks point toward a mature idea: trustworthy AI is a property of sociotechnical systems.
 
 That phrase can become jargon if left abstract.
 
@@ -88,11 +88,17 @@ This is why causal provenance matters.
 
 An explanation for a consequential automated decision should reflect the factors that materially affected the decision or clearly label itself as a post hoc interpretation.
 
+Credit law offers a narrow but useful precedent. Under [Regulation B](https://www.consumerfinance.gov/rules-policy/regulations/1002/9/), an adverse-action notice must give specific principal reasons, and the [official interpretation](https://www.consumerfinance.gov/rules-policy/regulations/1002/interp-9/) says those reasons must relate to and accurately describe the factors actually considered or scored. In 2022 the CFPB made the implication for complex algorithms explicit: opacity does not excuse a creditor from providing accurate reasons. In 2023 it added that a lender cannot simply choose the nearest generic reason from a sample checklist if that is not what actually drove the outcome. This is not a universal right to explanation for automated systems. It establishes something smaller and more concrete: in at least one consequential domain, a plausible story after the fact is not enough.
+
 The same issue appears in organizations when executives ask AI systems to explain why a metric changed. A fluent narrative can be mistaken for causal analysis. Humans prefer stories. Models are good at stories.
 
 A reason is not merely text that makes an outcome sound sensible.
 
 It is a claim that can be tested against the process and the world.
+
+![A conceptual diagram contrasts an accountable reason chain with a dead-end explanation. In the accountable path, a consequential decision leads to a specific reason, the actual factors and evidence used, an accountable authority, a challenge or review path, and correction or rule change. In the dead-end path, an opaque output leads only to a plausible explanation with no traceable factors, accountable owner, or effective appeal.](../media/ch20-reason-chain.svg)
+
+*A reason has to lead somewhere.* An accountable explanation connects an outcome to the factors that actually affected it, to an authority that owns the rule, and to a path for challenge or correction. Fluent prose without that chain can manufacture the appearance of accountability. Conceptual diagram; not a universal legal standard or compliance flowchart.
 
 The right to a human reason therefore contains a right to incompleteness.
 
