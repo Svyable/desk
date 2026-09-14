@@ -128,6 +128,16 @@ A person need not remember every fact. An institution should remember why a crit
 
 Memory can move without becoming irrelevant.
 
+The [Library of Congress card catalog](https://guides.loc.gov/card-catalog) is a useful test. It grew to more than 22 million cards before new cards stopped being added in 1980. Much of that bibliographic memory was later converted into an online catalog, which is faster and easier for most searches. But the conversion was not equivalent to perfect transfer. The Library says thousands of cards were never converted; some online records lost subtitles, content notes, or series information; transcription errors can make other records disappear from keyword search. In 2025, as the Library prepared millions of cards for offsite storage, staff were building inventory records so the old catalog could still be requested and used because parts of it remain uniquely informative.
+
+Nothing mystical happened to the missing information. The records still existed. What changed was the path by which a person could find them.
+
+A migration can preserve the archive and damage the memory.
+
+![Conceptual diagram showing records becoming operational memory through provenance, indexing, retrieval, interpretation, action, and feedback, with a second path showing information loss during migration](../media/ch11-operational-memory.svg)
+
+*A record is not operational memory merely because it survives. It must remain attributable, findable, interpretable, and capable of changing action. Migration can improve access overall while still losing fields, context, or retrieval paths; preserving the older path until equivalence is demonstrated can make those losses discoverable. Conceptual diagram by the author; documentary anchor: Library of Congress card-catalog history and National Archives records-management guidance.*
+
 External memory can even outlast biological memory. People die. Books persist. Staff leave. Records remain. A maintained knowledge base can carry a lesson across generations better than a story whispered down a hallway.
 
 But storage can become a mausoleum.
