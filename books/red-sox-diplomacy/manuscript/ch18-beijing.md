@@ -128,6 +128,10 @@ That is why they belong.
 
 *FIG. 07 — Ambassador Nicholas Burns pitching a baseball, Beijing, July 4, 2023. U.S. Department of State / @USAmbChina. Public domain. The image records a real baseball/public-diplomacy moment during the posting; it does not show that baseball altered access, public opinion or policy. [Archive record.](https://commons.wikimedia.org/wiki/File:Ambassador_Burns_pitching_baseball.jpg)*
 
+![VIDEO COMPANION 01 — QR code for the maintained Chapter 18 video companion page.](../media/ch18-instagram-video-companion-qr.svg)
+
+*VIDEO COMPANION 01 — In the digital edition, [watch the linked Instagram reel](https://www.instagram.com/reel/DdP_aO8OWQppztZhsfZjcREUnceQtaqIczk0yI0/). In print, scan the QR code to open a maintained companion page that preserves the live reel link and can later carry a verified transcript. The book links to the video rather than reproducing it. Until the source media itself is captured and checked, no dialogue from the reel is quoted or used to support a factual claim.*
+
 The Red Sox had followed Burns through the State briefing room, Athens, NATO, Harvard and now Beijing. The allegiance could still make the representative recognizable as a particular American without pretending to explain the relationship he represented.
 
 That relationship was unfinished when Burns left.
