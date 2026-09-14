@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Automation can remove practice faster than responsibility</title>
+  <desc id="desc">A conceptual diagram showing routine automated operation reducing direct human control practice, followed by a rare abnormal event that requires rapid takeover. A lower reserve loop shows recurrent practice and simulation maintaining human capability between real failures.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#222"/>
+    </marker>
+    <style>
+      .box{fill:#fff;stroke:#222;stroke-width:2;rx:14;ry:14}
+      .soft{fill:#f4f4f4;stroke:#222;stroke-width:2;rx:14;ry:14}
+      .human{fill:#e8e8e8;stroke:#111;stroke-width:3;rx:14;ry:14}
+      .line{stroke:#222;stroke-width:2.5;fill:none;marker-end:url(#arrow)}
+      .dash{stroke:#555;stroke-width:2;stroke-dasharray:8 7;fill:none;marker-end:url(#arrow)}
+      .label{font-family:Arial,Helvetica,sans-serif;font-size:24px;fill:#111;font-weight:700}
+      .body{font-family:Arial,Helvetica,sans-serif;font-size:19px;fill:#222}
+      .small{font-family:Arial,Helvetica,sans-serif;font-size:16px;fill:#444}
+      .head{font-family:Arial,Helvetica,sans-serif;font-size:32px;fill:#111;font-weight:700}
+      .sub{font-family:Arial,Helvetica,sans-serif;font-size:20px;fill:#333}
+    </style>
+  </defs>
+
+  <text x="600" y="50" text-anchor="middle" class="head">Automation can remove practice faster than responsibility</text>
+  <text x="600" y="82" text-anchor="middle" class="sub">The rare takeover arrives after the ordinary system has been doing most of the controlling.</text>
+
+  <text x="70" y="135" class="label">Ordinary operation</text>
+  <rect x="70" y="160" width="260" height="120" class="soft"/>
+  <text x="200" y="199" text-anchor="middle" class="body">Automation controls</text>
+  <text x="200" y="229" text-anchor="middle" class="small">routine trajectory / task</text>
+  <text x="200" y="254" text-anchor="middle" class="small">high repetition for the system</text>
+
+  <rect x="400" y="160" width="260" height="120" class="human"/>
+  <text x="530" y="199" text-anchor="middle" class="body">Human monitors</text>
+  <text x="530" y="229" text-anchor="middle" class="small">responsibility remains</text>
+  <text x="530" y="254" text-anchor="middle" class="small">direct control practice falls</text>
+
+  <rect x="760" y="160" width="370" height="120" class="box"/>
+  <text x="945" y="194" text-anchor="middle" class="body">Rare abnormal condition</text>
+  <text x="945" y="224" text-anchor="middle" class="small">failure • surprise • conflicting signals</text>
+  <text x="945" y="249" text-anchor="middle" class="small">ordinary automation no longer resolves the case</text>
+
+  <path d="M330 220 H400" class="line"/>
+  <path d="M660 220 H760" class="line"/>
+
+  <rect x="420" y="345" width="360" height="125" class="human"/>
+  <text x="600" y="385" text-anchor="middle" class="body">Take over now</text>
+  <text x="600" y="416" text-anchor="middle" class="small">reconstruct state + choose an action</text>
+  <text x="600" y="442" text-anchor="middle" class="small">using skills exercised less often in routine operation</text>
+  <path d="M945 280 V315 H600 V345" class="line"/>
+
+  <line x1="70" y1="515" x2="1130" y2="515" stroke="#999" stroke-width="1.5"/>
+
+  <text x="70" y="560" class="label">Reserve loop</text>
+  <rect x="70" y="585" width="300" height="105" class="soft"/>
+  <text x="220" y="623" text-anchor="middle" class="body">Recurrent practice</text>
+  <text x="220" y="652" text-anchor="middle" class="small">manual control • failure drills • simulation</text>
+  <text x="220" y="676" text-anchor="middle" class="small">safe exposure to rare conditions</text>
+
+  <rect x="450" y="585" width="300" height="105" class="box"/>
+  <text x="600" y="623" text-anchor="middle" class="body">Maintained capability</text>
+  <text x="600" y="652" text-anchor="middle" class="small">state awareness • control skill</text>
+  <text x="600" y="676" text-anchor="middle" class="small">knowledge of what failure looks like</text>
+
+  <rect x="830" y="585" width="300" height="105" class="human"/>
+  <text x="980" y="623" text-anchor="middle" class="body">More credible fallback</text>
+  <text x="980" y="652" text-anchor="middle" class="small">not guaranteed success</text>
+  <text x="980" y="676" text-anchor="middle" class="small">but a practiced human role</text>
+
+  <path d="M370 637 H450" class="line"/>
+  <path d="M750 637 H830" class="line"/>
+  <path d="M980 585 C980 525 760 505 700 470" class="dash"/>
+
+  <text x="600" y="732" text-anchor="middle" class="small">Conceptual diagram. Automation can improve safety and performance; the design question is how to preserve the human capabilities still required for exceptional cases.</text>
+</svg>
