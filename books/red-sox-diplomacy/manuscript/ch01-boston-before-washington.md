@@ -90,15 +90,15 @@ It would be too neat to treat a high-school exchange as the origin story of a di
 
 But the juxtaposition is real. The boy whose local world included Little League and Red Sox inheritance also left Wellesley early enough to discover what it meant to be the American somewhere else.
 
-Boston College made that outward movement less incidental.
+At Boston College, the outward movement continued.
 
 Burns entered BC in 1974. When he returned to deliver the university's commencement address in 2002, three of his old roommates were in the audience and he reminded them that they had lived in the Mods. Boston College later identified his student residence as Mod 36A and reported that, after the speech, he went back to visit it.
 
-That is a better college detail than a generic campus photograph. It gives us an actual place from his undergraduate life without pretending we know what happened inside it on any particular night.
+The address gives the undergraduate years an actual place without pretending we know what happened inside it on any particular night.
 
 We do not know whether Burns watched Carlton Fisk's Game 6 home run from 36A, somewhere else on campus, at Fenway, or not at all. We do not know whether Bucky Dent's 1978 tiebreaker home run entered that house as a shared catastrophe. The address survives. The baseball scene does not.
 
-The classroom record is stronger.
+The classroom gives us something different.
 
 One of the teachers Burns later named as formative was the European historian Mark O'Connor. In a Boston College profile, Burns remembered O'Connor reading Siegfried Sassoon's antiwar poetry during the closing phase of the Vietnam War. Burns recalled the effect plainly:
 
@@ -116,7 +116,7 @@ The same undergraduate period carried him abroad again. An archived White House 
 
 When Burns spoke at BC in 2002, he described the education retrospectively as a call to service. He named John Heineman, Thomas Gray and Mark O'Connor among the professors who had mattered to him, and told the graduating class that the Foreign Service was the choice he made after leaving Boston College.
 
-Retrospective self-explanation is not proof of inevitability. It is still better evidence than ours would be. Burns himself connected the institution, its teachers and a life of public service; the biography does not need to make the connection cleaner than he did.
+Retrospective self-explanation is not proof of inevitability. Still, Burns himself connected the institution, its teachers and a life of public service; the biography does not need to make the connection cleaner than he did.
 
 The baseball calendar continued alongside all of this. Burns was eleven when the 1967 Red Sox produced the Impossible Dream season. At nineteen, during his Boston College years, he lived through the 1975 pennant and World Series. In his graduation year, 1978, the Yankees erased a huge summer deficit and Bucky Dent put a home run over the Green Monster in the division tiebreaker.
 
