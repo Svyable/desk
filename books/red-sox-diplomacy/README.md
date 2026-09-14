@@ -9,7 +9,7 @@
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
 | **Chapters** | 22 of 22 drafted + prologue + epilogue |
-| **Editorial State** | Complete manuscript; continuity/compression, evidence, canonical source-ledger, and book-specific integration gates complete; explicit review/merge transition pending |
+| **Editorial State** | Complete manuscript merged to Desk; post-merge enhancement and revision in progress |
 | **Form** | Documentary narrative biography |
 | **Language** | English |
 
@@ -22,6 +22,7 @@ The Red Sox also provide a second historical clock. Burns’s life runs beside a
 ## Contents
 
 - [x] [Front Matter](manuscript/front-matter.md)
+- [x] [A Note on the Record](manuscript/note-on-the-record.md)
 - [x] [Prologue — Red Sox Nation, Foreign Service](manuscript/prologue-red-sox-nation-foreign-service.md)
 - [x] [Ch 1 — Boston Before Washington](manuscript/ch01-boston-before-washington.md)
 - [x] [Ch 2 — The Useful Fan](manuscript/ch02-the-useful-fan.md)
@@ -54,12 +55,14 @@ The architecture may expand only if research reveals a genuinely distinct docume
 
 This is factual nonfiction with novelistic propulsion, not fictionalized biography. No invented dialogue, interior thought, composite characters, manufactured scenes, or invented baseball anecdotes. Baseball claims and biographical scenes must be supported by primary or credible near-primary sources.
 
+[A Note on the Record](manuscript/note-on-the-record.md) states the reader-facing evidence contract: contemporaneous records carry chronology where available; retrospective testimony remains retrospective; contested claims remain attributed; missing scenes stay missing; and baseball context is not silently promoted into psychological cause.
+
 The reader-facing edition should make that evidence usable. When a source can be read online, prefer a direct hyperlink in the prose or in the chapter-keyed [Source Notes](manuscript/source-notes.md), rather than leaving the support visible only in the research ledger.
 
 ## Readiness
 
-The manuscript’s book-specific preparation gates are complete: quotation verification, named evidence-balance stop conditions, deterministic canonical source-ledger rebuild, title-page metadata, generated catalog integration, and differential Desk integrity validation.
+The complete manuscript and its book-specific preparation gates were merged into Desk on September 14, 2026. Quotation verification, named evidence-balance stop conditions, the deterministic canonical source-ledger rebuild, title-page metadata, generated catalog integration, and differential Desk integrity validation were completed before that merge.
 
-The full repository integrity command still reports unrelated failures already present on current `main`; a real-checkout differential validation found no new `check-desk.py` errors introduced by this PR.
+Post-merge work is revision and enhancement, not a reopening of settled evidence gates unless new prose creates a new factual burden.
 
-The manuscript remains in **Revision in progress** until the explicit transition to ready-for-review, merge, or publication is directed.
+The manuscript remains in **Revision in progress**. A Desk merge is not a Shelf publication; publication remains a separate explicit release decision.
