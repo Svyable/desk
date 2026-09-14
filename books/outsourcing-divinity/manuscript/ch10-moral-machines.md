@@ -123,3 +123,49 @@ The machine does not need a halo. It needs a role.
 We should be especially wary of a role that lets humans keep the benefits of choice while assigning the burden of justification elsewhere. No system, however intelligent, can make a delegated act morally ownerless.
 
 The trolley thought experiment asks who pulls the lever. The age of AI asks a more complicated question: who designed the track, who chose the objective, who set the threshold, who accepted the recommendation, who had the power to object, and who says afterward that the machine made them do it?
+
+The famous “Moral Machine” experiment created at MIT made one feature of this problem unusually visible. Millions of people around the world were shown stylized autonomous-vehicle dilemmas and asked which lives a hypothetical car should spare. The resulting research found broad tendencies and meaningful variation across countries and cultures. People did not converge on a single moral constitution merely because the scenario was simplified to icons and choices.
+
+The experiment was not a referendum on how cars should actually be programmed. It was closer to a map of intuitions under artificial conditions. That distinction matters. A survey can reveal what people prefer without establishing what designers ought to implement. If respondents favor saving one category of person over another, the preference may expose a social bias rather than a moral principle worthy of code.
+
+This is the aggregation problem in miniature.
+
+Imagine that a billion people vote for a discriminatory rule. Has machine ethics become easier because the sample size is enormous, or harder because the system can now scale prejudice with democratic-looking legitimacy?
+
+Majority preference is one input to public ethics. It cannot be the whole architecture. Constitutional democracies understand this. Rights exist partly because some interests should not depend entirely on popularity. Professional ethics understand it too. A doctor does not become free to abandon a patient because a focus group prefers it.
+
+Machine systems need the equivalent distinction between preference learning and moral constraint.
+
+The problem deepens when preferences are elicited through behavior rather than explicit surveys. A model can learn that users reward fast, confident advice. That does not imply confidence is ethically preferable to uncertainty. It can learn that users engage longer with outrage. That does not make outrage a social good. It can learn that a frightened person accepts more invasive monitoring. That does not settle whether the monitoring should be offered at that moment.
+
+Behavior is evidence about desire under conditions. It is not a constitution.
+
+This is why the language of “alignment with human values” can become misleading when it hides the political work inside the phrase. Which humans? Which values? Expressed when? Under what information? After what reflection? Subject to which rights? With what protection for people who are unpopular, unusual, weak, young, old, foreign, impaired, or absent from the training data?
+
+A civilization does not answer these questions once. It builds institutions for continuing to answer them.
+
+Courts, legislatures, elections, religious communities, professions, families, unions, associations, universities, markets, and social movements all participate in moral negotiation. They are slow and often maddening because human pluralism is slow and maddening. An optimization system invites us to experience this friction as technical debt.
+
+Some of it is democracy.
+
+There is also a difference between moral disagreement and moral uncertainty. Disagreement means people hold competing views. Uncertainty means I do not know what I should believe even before encountering someone who disagrees. AI can be particularly valuable for the second problem because it can expose possibilities I missed. It can show me that my decision relies on an assumption, that another party bears a cost, that a principle conflicts with another principle I also endorse.
+
+That is moral augmentation rather than moral substitution.
+
+A system can become better at this by refusing premature compression. Instead of turning five values into one score, it can preserve the tradeoff: this action is more protective but less autonomous; this option distributes harm more evenly but imposes a larger total cost; this path honors a promise but reduces welfare; this policy improves average outcomes but increases risk for a minority.
+
+Decision science often seeks a common unit because action eventually requires choice. Moral seriousness sometimes requires keeping incompatible units visible until the last responsible moment.
+
+The manager deciding layoffs should see not only productivity projections but tenure, family impact, legal obligations, future capability, team trust, and alternatives to termination. The doctor should see probability and suffering without pretending one converts cleanly into the other. The parent should see safety and developing autonomy. The policymaker should see efficiency and distribution.
+
+AI is uniquely capable of holding many dimensions in view. It would be ironic if we used that capability mainly to produce one neat recommendation.
+
+The theological traditions discussed in this book contain their own arguments about conscience. They differ sharply, but conscience often names the place where an individual cannot escape responsibility simply by citing authority. A person may be formed by tradition, counsel, law, and community and still confront a decision that must be owned.
+
+Secular ethics needs an equivalent intuition in the age of machines.
+
+Consult everything. Use the model. Read the evidence. Ask the expert. Learn the law. Hear the tradition. Consider the people affected. Simulate the consequences.
+
+Then notice the moment when all of that information becomes your act.
+
+No benchmark can cross that line for you.
