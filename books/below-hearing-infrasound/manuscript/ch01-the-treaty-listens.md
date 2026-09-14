@@ -1,0 +1,35 @@
+# The Treaty Listens
+
+The Comprehensive Nuclear-Test-Ban Treaty contains an unusual act of architectural confidence. It does not merely prohibit nuclear explosions. It specifies a world-spanning apparatus for listening, feeling, and sampling the planet well enough that a violation need not remain a matter of national accusation. The International Monitoring System is the physical part of that proposition: seismic stations for waves in the solid Earth, hydroacoustic stations for sound in the oceans, radionuclide stations and laboratories for radioactive evidence, and infrasound arrays for pressure waves moving through the atmosphere.
+
+The infrasound component is easy to underestimate because it sounds almost quaint beside satellites and particle analysis. Sixty arrays, when the network is complete, distributed across thirty-five countries. Microbarometers. Pipes or other wind-noise-reduction systems. Communications links. Computers looking for correlated arrivals. The hardware is not exotic in the way a space telescope is exotic. Its achievement is geometry, continuity, authentication, and patience.
+
+The treaty’s political problem gives that patient instrument a strange burden. A scientific observatory can discover what it is good at after it has been built. A verification network is supposed to be useful against deliberate behavior by an actor who may prefer not to be observed. That changes what counts as success. The question is not whether the station can record a pressure disturbance. It is whether a chain of evidence can support a claim about what happened, where it happened, when it happened, and what kind of source best explains it.
+
+This is why a single spectacular trace can mislead. An atmospheric explosion produces infrasound. So does a meteor exploding in the atmosphere. Volcanoes produce it. Large chemical explosions produce it. Some aircraft and rocket events produce it. Ocean waves interacting with one another create persistent low-frequency background known as microbaroms. The atmosphere itself can become noisy through weather and other processes. An instrument sensitive enough to hear the prohibited thing is necessarily sensitive enough to hear the world.
+
+The treaty designers did not accidentally forget this. The verification regime is multi-technology by design. Underground nuclear explosions are primarily a seismic problem, though atmospheric coupling can add acoustic evidence. Atmospheric explosions may be strongly infrasonic. Underwater explosions belong naturally to hydroacoustics. Radionuclide detections can supply a different kind of evidence again, closer to source identity than a mechanical wave by itself. The International Data Centre processes streams from the network; states retain the political responsibility for judgments about compliance.
+
+That last distinction matters. A sensor network does not enforce a treaty. It creates common technical objects that governments can interrogate. Arrival times. Bearings. locations. spectra. particle detections. candidate events. The treaty moves disagreement away from the question of whether anyone can observe at all and toward the harder questions of interpretation.
+
+Infrasound sits at the center of this book because interpretation is built into the medium. Low-frequency sound can travel extraordinary distances. That is its strategic advantage. It is also why the atmosphere becomes inseparable from the detector. The same source can look different at different stations because temperature and wind change the effective sound speed with altitude. Energy can refract back toward the surface or escape upward. A path can be favorable in one season and poor in another. Noise differs by station and time of day. Source radiation can be directional. The Earth is round. The source may move.
+
+The network therefore cannot be understood as sixty ears. It is closer to sixty experiments continually repeated against a changing atmosphere.
+
+The political history behind the system gives this technical problem additional weight. Nuclear-test limitation has always been entangled with verification. A prohibition that one side believes the other can violate secretly is unstable. Conversely, verification can become politically impossible if it demands unlimited access or if every ambiguous measurement is treated as evidence of cheating. The CTBT’s monitoring architecture is an attempt to build an independent technical layer between those extremes.
+
+The treaty has still not entered into force. That fact could make the monitoring system look premature: an elaborate instrument waiting for a legal moment that has not arrived. In practice the network has operated, expanded, and detected declared nuclear tests by the Democratic People’s Republic of Korea. The organization describes all six declared DPRK tests from 2006 through 2017 as having been detected by the IMS. Whatever the treaty’s incomplete legal status, its verification machinery has had a real observational life.
+
+And during that life it has recorded much more than tests.
+
+That surplus is usually described as a scientific benefit. It is. But the phrase is too soft. A network built to detect nuclear explosions has to learn meteors because meteors are large atmospheric explosions. It has to learn volcanoes because volcanoes can create immense pressure waves. It has to learn ocean noise because microbaroms occupy the same low-frequency world. It has to learn rockets and aircraft because engineered sources can travel through the same channel. A system that refused those subjects would not remain narrowly focused. It would remain ignorant of its own false positives.
+
+This is the first inversion in the book. The supposedly extraneous events are not outside the verification mission. They define the decision boundary around it.
+
+The second inversion is stranger. Once those events are collected continuously by a geographically distributed, carefully maintained network, they become scientifically valuable in their own right. An arms-control system begins to function as a planetary instrument. A meteor can calibrate long-range propagation. A remote volcano can be detected through cloud. A giant eruption can reveal modes of atmospheric motion on a global scale. Researchers can test algorithms against a catalog whose continuity is difficult for short-lived academic deployments to match.
+
+None of this makes the network omniscient. The whole argument depends on refusing that romance. Infrasound stations miss events. They hear events unevenly. Inversions carry assumptions. Classifiers inherit training data and background models. Access to data has institutional rules. The atmosphere is not merely noisy; it changes the transfer function between source and sensor.
+
+A mature monitoring system is valuable because it has learned to live inside those limitations.
+
+That is the book’s subject: how a treaty built an instrument for suspicion, how the planet filled it with signals nobody asked for, and how the unwanted signals became part of the knowledge required to make suspicion technical rather than theatrical.
