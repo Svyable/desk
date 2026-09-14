@@ -22,42 +22,40 @@ The room still knew.
 
 *TRANSCRIPT OBJECT 01 — The official State Department record preserves the interruption, laughter and immediate return to the substance of Burns’s pending nomination. Federal government work.*
 
-No one had to explain the joke. That is what makes it evidence rather than biography garnish.
+No one explained the joke. No one needed to.
 
-The Red Sox attachment had become public memory without becoming an official credential. It entered a conversation about Burns's most consequential late-career assignment, occupied five words and disappeared.
+The Red Sox attachment had become public memory without becoming a credential. It occupied five words in a conversation about Burns's most consequential late-career assignment and then vanished.
 
-Nobody suggested that fandom qualified him to deal with Beijing. Nobody mistook regional loyalty for strategic judgment. The personal detail did its small social work and left the room.
-
-Burns had learned that separation much earlier at the same podium.
+That separation had been useful much earlier at the same podium.
 
 In the 1990s, speaking for the State Department required constant boundary work. Confirmed was different from reported. Policy was different from proposal. What Washington had decided was different from what somebody said Washington had decided. A stray phrase could become a headline before the briefing ended.
 
 Baseball belonged to Burns.
 
-He could complain about Roger Clemens leaving Boston. He could tease a Yankees fan. Reporters could tease him back. The room could become ridiculous for thirty seconds because everyone knew the ridiculousness ended with the baseball conversation.
+He could complain about Roger Clemens leaving Boston. He could tease a Yankees fan. Reporters could tease him back. The room could become ridiculous for thirty seconds because everyone knew the ridiculousness ended with baseball.
 
-The Red Sox material accumulated without much stage management. Burns supplied the allegiance. Reporters remembered it. Colleagues repeated it. Other people began choosing the props.
+The material accumulated without much stage management. Burns supplied the allegiance. Reporters remembered it. Colleagues repeated it. Other people began choosing the props.
 
 On his last day as spokesman in 1997, President Clinton sent a signed Red Sox cap. A reporter gave Burns a Red Sox alarm clock. His successor later joked about retiring the baseball analogies.
 
-A public persona had formed without anyone having to call it one.
+A persona had formed without anyone having to name it.
 
 Its triviality helped.
 
-A diplomat's official biography is crowded with abstractions: bilateral relations, deterrence, democracy, nonproliferation, alliance cohesion. Baseball allowed irrational allegiance without policy consequences. It gave other people something about Burns they did not have to parse as the position of the United States government.
+A diplomat's official biography is crowded with abstractions: bilateral relations, deterrence, democracy, nonproliferation, alliance cohesion. Baseball offered irrational allegiance without policy consequences. It gave other people something about Burns that did not have to be parsed as the position of the United States government.
 
 That did not make him trustworthy. Charm can coexist with bad judgment. Familiarity can be manipulated. A counterpart who likes an ambassador can still reject the proposal; a journalist who knows the joke can still ask the damaging question.
 
-The fan mattered because the fan was not the office.
+The fan was useful because the fan was not the office.
 
-Later, baseball would become office decoration, public diplomacy, a network in Greece, a piece of home followed across time zones and a visible marker in China. Those episodes do not prove one grand method. They show the same personal fact acquiring different uses in different rooms.
+Later, baseball would become office decoration, public diplomacy, a network in Greece, a piece of home followed across time zones and a visible marker in China. There is no need to turn those episodes into one method. The same personal fact simply acquired different uses in different rooms.
 
-The simplest evidence comes from 2021.
+The cleanest evidence comes from 2021.
 
 Twenty-four years after Burns stopped briefing reporters for the State Department, somebody could still interrupt a discussion of his China nomination by naming his baseball team.
 
 The memory had outlived the job.
 
-Before it traveled through Athens, Brussels and Beijing, Burns had to learn the profession underneath all that continuity.
+Before Athens, Brussels and Beijing, though, came the profession itself.
 
 The next room was rarely the same as the last one.
