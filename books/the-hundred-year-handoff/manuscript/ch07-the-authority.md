@@ -1,551 +1,121 @@
 # The Authority
 
-At noon on December 31, 1999, the Panama Canal did not become a different canal.
+At noon on December 31, 1999, the Panama Canal did not become a different canal. The locks did not move, the water did not change direction, and ships did not learn a new route between the Atlantic and Pacific.
 
-The locks did not rearrange themselves.
-
-The water did not change direction.
-
-Ships did not need to learn a new route between the Atlantic and Pacific.
-
-The concrete did not know that a treaty had reached its final day.
-
-But something essential changed.
+Something essential changed anyway.
 
 Authority moved.
 
-The 1977 Panama Canal Treaty had set the transition in motion more than twenty-two years earlier. The United States would continue operating the Canal during the transition. Panama's role would grow. At the end of 1999, the Canal would pass fully into Panamanian hands.
+The 1977 Panama Canal Treaty had put the transition on a calendar more than twenty-two years earlier. The United States would continue operating the Canal during the transition, Panama's role would grow, and at the end of 1999 responsibility would pass fully into Panamanian hands.
 
-Panama did not wait until the final morning to improvise an operator.
-
-Its constitution established a special legal framework for the Canal. In 1997, Organic Law No. 19 created and organized the Panama Canal Authority, an autonomous public-law entity with its own assets and financial autonomy. The Authority was assigned responsibility for administration, operation, conservation, maintenance, and modernization.
+Panama did not wait until the last morning to improvise an operator. Its constitutional framework gave the Canal a special status, and in 1997 Organic Law No. 19 created and organized the Panama Canal Authority, an autonomous public-law entity with its own assets and financial autonomy. The Authority was assigned responsibility for administration, operation, conservation, maintenance, and modernization.
 
 The handoff had a receiving institution.
 
-That is easy to overlook because physical systems attract the eye.
-
-A canal is locks, channels, dams, gates, control rooms, dredges, tugboats, reservoirs, communications equipment, roads, workshops, and thousands of workers.
-
-But none of those things can answer a political question.
+That can be easy to miss because physical systems attract the eye. A canal is locks, channels, dams, gates, control rooms, dredges, tugboats, reservoirs, workshops, communications equipment, and thousands of workers. None of those things can answer the political question that appears the moment two people disagree:
 
 Who is allowed to decide?
 
-Who may close a lane?
-
-Who may hire?
-
-Who may spend?
-
-Who may borrow?
-
-Who sets tolls?
-
-Who signs contracts?
-
-Who can change operating rules?
-
-Who can commit the institution beyond the tenure of the current administrator?
-
-Who can speak for the Canal when another government, customer, court, worker, or creditor asks for an answer?
+Who may close a lane, set a toll, sign a contract, spend money, change an operating rule, or commit the institution beyond the current administrator's term?
 
 An artifact without legitimate authority is an inheritance with no recognized steward.
 
-That is the third layer of the handoff stack.
+Authority is the third layer of the handoff stack, and it is not the same thing as control. A person can control a machine without having the right to operate it. A trustee can manage assets without owning them personally. An engineer may know exactly what should be changed while lacking authority to approve the change. A founder can retain enormous informal power after every formal title has moved elsewhere.
 
-Authority is not the same as control.
+A real handoff therefore needs more than keys and credentials. It needs a decision process other participants are prepared to treat as binding.
 
-A person can control a machine without having the right to operate it.
+The Panama transition makes that visible because authority crossed sovereignty. The Canal had been entangled with U.S. power and Panamanian sovereignty for most of the twentieth century. The treaties did not simply schedule a transfer of equipment. They created a legal transition toward a new governing arrangement, and Panama built the receiving authority before the final turnover.
 
-A company can possess data without having the right to use them for every purpose.
+The long runway mattered. Panamanian participation in management increased before 1999. A new legal institution existed before the last day of U.S. operation. The receiving authority had defined responsibilities, assets, and financial structure before the flag changed.
 
-A trustee can manage assets without owning them personally.
+The artifact could be handed over because the question of who was entitled to act had been worked on in advance.
 
-A government agency can administer a public asset while being constrained by statutes, courts, budgets, and constitutional limits.
+Most succession failures are less dramatic. A founder retires. A senior maintainer leaves. A family business reaches the next generation. A principal investigator dies. A public asset moves between agencies. A standards committee changes membership. A vendor is acquired.
 
-An engineer can know exactly what should be changed while lacking authority to approve the change.
+The title may transfer instantly. Legitimacy does not always follow at the same speed.
 
-A founder can retain enormous informal influence after formal power has moved elsewhere.
+A board can have formal authority employees do not trust. A founder with no office can still be treated as the real decision maker. A maintainer may have repository permissions but no social mandate to make a breaking change. A government agency may have jurisdiction on paper and too little practical capacity to exercise it.
 
-And a successor can hold a title that appears powerful while every meaningful decision is still trapped in permissions inherited from the old regime.
+This is why succession procedures can look ceremonial until disagreement arrives. Elections, appointments, signing authority, quorum rules, trust instruments, change-control processes, published bylaws, and appeals all impose friction during ordinary operations. Their value appears when two people claim the right to decide, when a predecessor's instruction collides with present necessity, or when a stakeholder disputes whether the new leadership was validly appointed.
 
-A real handoff needs more than keys.
+The system needs a way to answer without reinventing sovereignty in every crisis.
 
-It needs legitimacy.
+The Barnes Foundation makes the problem harder because it shows that successful authority transfer cannot mean unlimited freedom for the successor.
 
-This becomes obvious when authority crosses sovereignty, as it did in Panama. The Canal had been entangled with U.S. power and Panamanian sovereignty for most of the twentieth century. The 1977 treaties did not merely schedule a transfer of equipment. They attempted to create a lawful basis for a new relationship, including the transition period and the Canal's continued operation.
+Albert C. Barnes built the foundation around an educational mission and a remarkable art collection. Its governing documents carried strong restrictions meant to protect both from later people Barnes believed might distort them. The suspicion behind those restrictions was not irrational. Institutions drift. Donors know that boards can redirect assets. Founders know successors may call opportunism adaptation.
 
-The long runway mattered.
+But the founder cannot know every condition under which later trustees will operate.
 
-Panamanian participation in management increased before the transfer. Panamanian administrators served before 1999. A new legal institution was established before the final turnover. The receiving authority was not simply a flag raised over an old control room.
+By the early 2000s, Barnes trustees argued that substantial administrative changes were needed, including expansion of the board and relocation of the collection from Merion to Philadelphia. Those proposals collided with inherited restrictions and went to court. In December 2004, the Montgomery County Orphans' Court approved changes including relocation and board expansion.
 
-It had constitutional standing, statutory organization, financial structure, and a defined mission.
+The decision was contested and remains controversial. That is part of why the case belongs here.
 
-The artifact could be handed over because the question of who was entitled to act had been worked on before the moment of transfer.
+The governing system contained an authority capable of considering deviation from the founder's administrative restrictions under changed circumstances. The trustees were not simply free to ignore Barnes, and Barnes's instructions were not mechanically eternal. There was a legal procedure through which the conflict could be argued and decided.
 
-Most succession failures are less dramatic.
+That is a much less comfortable form of continuity than honoring a founder's wishes forever, but it is closer to the problem real institutions face.
 
-The founder retires.
+How do you protect a mission from casual drift without turning the founder's administrative choices into permanent law?
 
-The senior maintainer leaves.
+Too little constraint can make an inheritance easy to capture. Too much can make it impossible to adapt. “Honor the founder's intent” does not remove the problem because intent itself has layers: literal procedure, underlying purpose, temporary safeguards, values, and compromises shaped by circumstances that may vanish.
 
-A family business reaches the next generation.
+A durable authority handoff therefore has to make several things legible at once: why the current decision maker is entitled to act; which decisions are inside that mandate; how the mandate moves when the holder leaves; and how the governing structure itself can be revised when it becomes harmful or impossible.
 
-A nonprofit outlives its charismatic director.
+Those questions are more useful in prose than as a governance checklist because they collide in practice.
 
-A scientific principal investigator dies.
+Consider a software project whose only release key belongs to one maintainer. The code survives. Documentation survives. Other developers may understand the system perfectly. Yet nobody can publish a trusted release after that maintainer disappears.
 
-A software maintainer disappears from the project.
+Authority has failed at the mechanical surface.
 
-A public asset moves from one agency to another.
+The opposite can happen too. Ten people retain production credentials after changing roles, and nobody knows who is actually authorized to approve a deployment. Access has multiplied while legitimacy has dissolved.
 
-A vendor is acquired.
+A future incident becomes a contest among tokens.
 
-A trustee is replaced.
+Credentials matter because they implement authority, but they do not create it. The deeper questions are who should hold them, who can revoke them, what evidence of approval exists, what happens when authorities disagree, and whether the system can operate through a disputed succession.
 
-A standards committee changes membership.
+The same questions scale into public institutions. A constitution that cannot survive the death of its authors is a manifesto. An organization that cannot survive the departure of its leader is still partly a personal project. A public asset that cannot cross an administration change has an authority dependency even if every bolt is in good condition.
 
-A new government inherits a program created by its opponents.
+None of this means impersonal authority is always superior. Some systems need discretion that cannot be reduced to procedure. A ship captain needs command authority in an emergency. A surgeon cannot turn every intraoperative decision into a committee vote. A conservator needs professional judgment. A young organization can be smothered by governance designed for institutional maturity it has not reached.
 
-The question is the same.
+The goal is continuity of legitimate discretion.
 
-What makes the successor's decisions legitimate?
+Can the successor exercise judgment without impersonating the founder?
 
-Organizations often treat succession as if authority were a possession stored in a role.
+The Panama Canal Authority offers one answer by matching institutional design to a long-lived operating asset. The ACP was given a distinct legal status, assets, financial autonomy, and responsibility for the Canal's operation and modernization. That does not put it outside politics; no public institution is. It gives the asset a governing structure designed to survive ordinary turnover without making the Canal merely the personal project of the current administrator.
 
-Chief Executive Officer.
+The useful principle is not that century-scale assets should be insulated from democracy. It is that the time horizon of authority should bear some relationship to the time horizon of the obligation.
 
-Director.
+If a long-lived asset can be radically redirected by every short-term impulse, continuity becomes unstable. If it can never be redirected despite changed public needs, continuity becomes a trap.
 
-Chair.
+Authority has to sit somewhere between whim and petrification.
 
-Maintainer.
+That makes rehearsal valuable. The first real exercise of successor authority should not occur at the moment of maximum consequence.
 
-Trustee.
+A future operator should run real shifts before final transfer. A future maintainer should ship changes before becoming the only maintainer. A younger scientist should own part of an experiment before the principal investigator leaves. A deputy expected to lead someday should make decisions while the current leader is still present to reveal where formal delegation and actual behavior diverge.
 
-Administrator.
+Staged transfer exposes hidden vetoes.
 
-President.
+An organization says the deputy can act, then everyone still waits for the founder. A project says two maintainers can release software, then only one has the signing key. A board says management runs operations, then an informal call from a donor reverses a decision. The chart says authority moved; behavior reveals that it did not.
 
-Owner.
+This is the governance version of founder shadow.
 
-The label matters. It is rarely sufficient.
+A former leader keeps receiving calls. Senior employees still ask what she would have done. The current executive avoids reversing an old policy because disloyalty feels riskier than bad judgment. The successor has the office; the predecessor still has the legitimacy.
 
-Authority is a relationship among rules, people, assets, and recognition.
+That shadow weakens only when the new authority makes real decisions the institution accepts. The old leader can help by refusing to become a private court of appeal.
 
-A board may have formal authority that employees do not trust.
+Leave context. Transfer power. Then allow the successor to become the successor.
 
-A founder may have no formal office and still be treated as the real decision maker.
+The same ethic should apply across generations. Builders should not use governance design to extend every preference indefinitely merely because legal documents can outlive them.
 
-A government may have legal jurisdiction but lack practical capacity.
-
-A maintainer may have repository permissions but no social mandate to make a breaking change.
-
-A community may recognize customary authority that the formal governance document never names.
-
-The handoff therefore has to reproduce more than command.
-
-It has to reproduce a decision process other participants are prepared to treat as binding.
-
-This is why succession procedures can appear ceremonial until the day they are needed.
-
-Elections.
-
-Board appointments.
-
-Oaths.
-
-Credential transfers.
-
-Quorum rules.
-
-Signing authority.
-
-Trust instruments.
-
-Court supervision.
-
-Change-control boards.
-
-Maintainer nomination processes.
-
-Legislative confirmation.
-
-Published bylaws.
-
-Appeal procedures.
-
-These mechanisms consume time during normal operations. They slow down people who are sure they already know what should happen.
-
-Their value appears when disagreement arrives.
-
-Two people claim the right to decide.
-
-A founder's instruction conflicts with current necessity.
-
-The receiving manager wants to reverse the predecessor's decision.
-
-A stakeholder argues that the new leadership was never validly appointed.
-
-A contractor refuses an instruction because the person giving it lacks delegated authority.
-
-A community rejects a technically competent operator because the operator has no legitimate mandate.
-
-The system needs a way to answer without reinventing sovereignty every time.
-
-The Canal transfer makes the positive case.
-
-The Barnes Foundation makes the problem harder.
-
-Albert C. Barnes created the foundation in the early twentieth century around an educational mission and a remarkable art collection. The governing documents reflected strong preferences about how the institution should operate. Barnes wanted to protect the collection and the educational method from people he believed would distort them after his death.
-
-This was a handoff designed with suspicion of the successor.
-
-That suspicion was not irrational.
-
-Founders know that institutions drift.
-
-Donors know that later boards can redirect money toward fashionable purposes.
-
-Families know that heirs can squander assets.
-
-Scientists know that a later administrator can compromise a research mission.
-
-Communities know that a developer can reinterpret stewardship as monetization.
-
-Constraints are one way the present protects the future from the future.
-
-But constraints create a second problem.
-
-The founder does not know the conditions under which the successor will operate.
-
-By the early 2000s, the Barnes Foundation's trustees argued that the institution needed substantial changes to remain viable, including expanding the board and relocating the collection from Merion to Philadelphia. Those changes collided with restrictions inherited from the founder.
-
-The dispute went to court.
-
-In December 2004, the Montgomery County Orphans' Court approved changes including relocation and board expansion. The legal history was contested and remains controversial in the cultural world, but for the purposes of this book the important fact is structural.
-
-The governing system contained an authority above the founder's dead hand.
-
-A court could consider whether administrative restrictions should be modified in order to preserve the charitable purpose under changed circumstances.
-
-The successor was not simply free to ignore the founder.
-
-Nor was the founder's instruction mechanically eternal.
-
-There was a procedure for legitimate deviation.
-
-This is one of the hardest features to design into any century-scale institution.
-
-How do you protect a mission from casual drift without making adaptation impossible?
-
-Too little constraint and the handoff becomes permission to loot the inheritance.
-
-Too much constraint and the inheritance becomes a trap.
-
-The tension is not solved by saying "honor the founder's intent."
-
-Which intent?
-
-The literal procedure?
-
-The underlying purpose?
-
-The constraints chosen for the conditions of the founder's lifetime?
-
-The values the founder was trying to protect?
-
-The institution as it actually evolved?
-
-Different answers produce different successors.
-
-This is why authority belongs in the handoff stack rather than being treated as a line on an org chart.
-
-A good authority handoff carries at least four things.
-
-**A source of power.**
-
-Why is this person or institution allowed to act?
-
-A constitution, statute, contract, trust, election, ownership right, professional rule, community process, charter, or delegated permission may answer.
-
-**A scope.**
-
-What decisions are actually inside that authority?
-
-The person allowed to operate a system may not be allowed to sell it. The trustee allowed to invest assets may not be allowed to rewrite the charitable purpose. The engineer allowed to approve a repair may not be allowed to change a safety requirement.
-
-**A succession rule.**
-
-How does authority move when the current holder leaves?
-
-If the answer is "the founder will choose," the system does not yet have a post-founder governance model.
-
-**A revision rule.**
-
-How can the authority structure itself change when the old structure becomes harmful or impossible?
-
-This is the element founders are most tempted to omit.
-
-They imagine the governance design as the solution rather than as another artifact that will eventually face changed conditions.
-
-The result is frozen administration.
-
-The same problem appears in technical systems.
-
-A software project has one person with release credentials.
-
-That person disappears.
-
-Everyone else can inspect the code but nobody can publish a trusted release.
-
-The artifact survived.
-
-The memory survived.
-
-Authority did not.
-
-Or the opposite happens.
-
-Ten people retain production credentials after changing roles. Nobody knows who is still supposed to approve a deployment. Authority has multiplied without legitimacy.
-
-A future incident becomes a contest among access tokens.
-
-This is why credential handoff matters, but credentials are only the mechanical surface of authority.
-
-The deeper issue is recognized mandate.
-
-Who should have the credential?
-
-Who can revoke it?
-
-What evidence of approval exists?
-
-What happens when two authorities disagree?
-
-Can the system operate during a disputed succession?
-
-The same questions scale upward into constitutional systems.
-
-The stability of a government is not produced simply by maintaining the same institutions forever. It is produced by repeated legitimate transfers of offices, jurisdiction, records, resources, and command.
-
-A constitution that cannot survive the death of its authors is a manifesto.
-
-An institution that cannot survive the departure of its leader is a personal project.
-
-A public asset that cannot survive an administration change is a political dependency.
-
-A company that cannot survive its founder is a career with employees.
-
-The hundred-year handoff tests whether authority has become institutional enough to cross absence.
-
-This does not mean impersonal authority is always better.
-
-Some systems need expert discretion that cannot be completely proceduralized.
-
-A museum conservator may need professional judgment.
-
-A ship captain needs command authority in emergencies.
-
-A surgeon cannot turn every intraoperative decision into a committee vote.
-
-A research leader may need latitude to follow surprising evidence.
-
-A startup can die from governance that distributes every decision before the organization has learned what it is.
-
-The goal is not bureaucratic dilution.
-
-It is continuity of legitimate discretion.
-
-Can a successor inherit enough authority to exercise judgment without impersonating the founder?
-
-The Canal Authority offers one answer through institutional autonomy.
-
-Panama did not make the Canal a normal ministry department exposed to every ordinary political cycle. The constitutional and legal framework gave the ACP a distinct status, its own assets, financial autonomy, and responsibility for safe, continuous, efficient, and profitable operation.
-
-That structure is not beyond politics. No public institution is.
-
-It is an attempt to match governance to the long-lived operating character of the asset.
-
-This principle matters.
-
-The time horizon of authority should resemble the time horizon of the obligation.
-
-If a century-scale asset can be radically redirected by a daily operational whim, the handoff is unstable.
-
-If it can never be redirected regardless of changed public needs, the handoff is frozen.
-
-Good authority sits between those extremes.
-
-It protects some decisions from short-term pressure while preserving a legitimate path for long-term change.
-
-Pension systems do this through fiduciary obligations and governance rules.
-
-Universities do it through boards, charters, faculty structures, accreditation, and law.
-
-Open-source communities do it through maintainer practices, technical governance, forks, and reputation.
-
-Trusts do it through trustees and courts.
-
-Public utilities do it through commissions, statutes, contracts, and rate procedures.
-
-Scientific collaborations do it through authorship rules, data-access committees, institutional ownership, and principal-investigator succession.
-
-No architecture is perfect because legitimacy is not a static property.
-
-People can stop accepting it.
-
-That is the fact every long-term governance system ultimately faces.
-
-Authority has to be reproduced socially.
-
-A title can be inherited in a day.
-
-Trust may take years.
-
-The Panama Canal transfer worked not only because December 31, 1999 appeared in a treaty. It was supported by a transition process that changed participation and institutions before the deadline. The receiving system had time to become real.
-
-This suggests a practical rule for succession:
-
-**Do not make the first exercise of authority the moment of maximum consequence.**
-
-A future leader should make smaller decisions before the founder disappears.
-
-A future operator should run real shifts before final transfer.
-
-A future trustee should learn the institution before a crisis.
-
-A future maintainer should ship changes before becoming the only maintainer.
-
-A successor government should receive records and operational knowledge before the formal transfer date.
-
-A younger scientist should own part of the experiment before the principal investigator retires.
-
-Authority needs rehearsal.
-
-Otherwise succession becomes a test conducted on the live system.
-
-There is another reason to stage authority transfers.
-
-They reveal hidden vetoes.
-
-The organization says the deputy can act.
-
-Then a real decision arrives and everyone waits for the founder.
-
-The project says two maintainers can publish releases.
-
-Then only one has the signing key.
-
-The board says management runs operations.
-
-Then a donor calls and reverses a decision informally.
-
-The constitution says an agency is autonomous.
-
-Then every contract requires approval from an outside ministry.
-
-The chart says authority has moved.
-
-Behavior reveals that it has not.
-
-A handoff must be tested against behavior.
-
-Who did people actually wait for?
-
-Whose objection stopped the action?
-
-Whose signature made the decision real?
-
-Who controlled the money?
-
-Who possessed the credentials?
-
-Who could remove the successor?
-
-Formal documents are essential evidence.
-
-They are not the entire authority system.
-
-This is why founders can haunt organizations for years after leaving.
-
-A former leader still receives calls.
-
-Senior employees still ask what she would have done.
-
-The current executive avoids reversing old policies out of fear of appearing disloyal.
-
-Customers still demand exceptions from the person whose name is on the building.
-
-The successor has the office.
-
-The predecessor has the legitimacy.
-
-This founder shadow is the governance version of tacit knowledge.
-
-It weakens only when the new authority makes real decisions that the institution accepts.
-
-The old leader can help by refusing to act as a shadow court.
-
-That refusal is itself a handoff skill.
-
-Leave enough context.
-
-Transfer enough power.
-
-Then allow the successor to become the successor.
-
-The same ethic applies to future generations.
-
-Builders should not use governance design to extend their preferences indefinitely simply because legal documents can outlive them.
-
-Some constraints deserve long life.
-
-Protection against theft.
-
-Requirements for due process.
-
-Fiduciary duties.
-
-Safety boundaries.
-
-Rights of affected people.
-
-Preservation of restricted assets.
-
-But no generation is wise enough to specify every future administrative choice.
+Some constraints deserve long lives: protection against theft, due process, fiduciary duties, safety boundaries, rights of affected people. But no generation is wise enough to specify every future administrative choice.
 
 A good handoff protects purpose from opportunism while protecting successors from the arrogance of the dead.
 
-That requires a legitimate way to revise the rules.
+The Barnes dispute is a warning against pretending that balance can be made clean. People can disagree deeply about whether a deviation saves a mission or betrays it. Courts can make contested decisions. Money changes what counts as practical. Powerful actors shape the options available. There is no neutral machine that converts founder intent into eternal justice.
 
-The Barnes dispute shows how ugly that can become.
+That is not an argument against governance. It is an argument for visible revision paths, accountable decision makers, evidence, and procedures that make disagreement legible before a crisis forces improvisation.
 
-People can disagree deeply over whether a deviation protects the mission or betrays it.
+The artifact and memory layers can tell a successor what exists and how it came to be. They cannot answer the final question by themselves:
 
-Courts can make contested decisions.
+Who gets to decide what happens next?
 
-Money can shape what counts as practical.
-
-Powerful institutions can influence the choices available.
-
-There is no neutral machinery that converts founder intent into eternal justice.
-
-That is not an argument against governance.
-
-It is a reason to design governance with visible revision paths, standing rules, evidence requirements, and accountable decision makers rather than hoping future conflicts will be resolved by reverence.
-
-Authority is the handoff layer that answers a question the artifact and memory cannot.
-
-We know what this is.
-
-We know what happened.
-
-Now who gets to decide what happens next?
-
-The Panama Canal entered the year 2000 with an answer.
-
-The answer was not a person.
-
-It was an institution built to receive the question.
-
-That may be the most durable form of authority any builder can leave behind.
+The Panama Canal entered the year 2000 with a receiving institution built before it had to carry the full weight of that question. The concrete stayed where it was. Authority had already learned how to move.
