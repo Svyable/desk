@@ -6,7 +6,6 @@ on:
       - book/outsourcing-divinity
     paths:
       - '.github/workflows/outsourcing-divinity-length.yml'
-      - 'books/outsourcing-divinity/manuscript/**'
 
 permissions:
   contents: read
@@ -18,14 +17,5 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ref: book/outsourcing-divinity
-      - name: Generate exact length report
-        run: |
-          set +e
-          python3 scripts/check-book-length.py outsourcing-divinity --json > books/outsourcing-divinity/research/length-report.json
-          exit 0
-      - name: Upload length report
-        uses: actions/upload-artifact@v4
-        with:
-          name: outsourcing-divinity-length-report
-          path: books/outsourcing-divinity/research/length-report.json
-          if-no-files-found: error
+      - name: Run Desk full-book length gate
+        run: python3 scripts/check-book-length.py outsourcing-divinity
