@@ -38,6 +38,8 @@ This is why succession and observability matter.
 
 The history of complex technical accidents shows that system safety rarely lives in one component. Nancy Leveson and Clark Turner’s investigation of the Therac-25 radiation-therapy accidents in the 1980s remains a classic because it resisted the idea that software safety could be understood by inspecting a single bug in isolation. The accidents involved a coupled system of software, hardware design, operator interface, organizational assumptions, and safety practices. Overconfidence in software contributed to inadequate independent safety mechanisms.
 
+The Columbia Accident Investigation Board reached a related conclusion after the 2003 loss of the Space Shuttle *Columbia*. Its investigation examined more than 30,000 documents and conducted more than 200 formal interviews, but the report did not treat the accident as a problem solved by possessing more records. It identified organizational causes alongside the physical cause and called for stronger independent technical authority, independent safety assurance, and the characteristics of a learning organization. The archive was enormous. The harder problem was whether warnings, assumptions, and experience could alter action when they needed to. ([CAIB Report, Volume I](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20030093634.pdf))
+
 The lesson should not be reduced to “software can have bugs.”
 
 Everyone knows that.
@@ -118,7 +120,11 @@ For some functions, maintaining a full manual process would be wasteful. A bette
 
 The design goal is graceful cognitive degradation.
 
-When the most capable layer disappears, the institution should become slower or narrower before it becomes blind.
+When the most capable layer disappears, the institution should become slower or narrower before it becomes blind. That logic is familiar in contingency planning: NIST guidance for federal information systems treats alternate capability, recovery priorities, testing, training, and exercises as part of continuity rather than assuming that a backup copy is enough. ([NIST SP 800-34 Rev. 1](https://doi.org/10.6028/NIST.SP.800-34r1))
+
+![Memory needs a route back to the record. An AI interface can make an archive dramatically more useful, but institutional memory becomes brittle when retrieval, interpretation, and operation depend on a single convenience layer. The durable record layer should remain independently accessible, and critical functions should have a tested degraded mode.](../media/ch13-memory-needs-a-route.svg)
+
+*Memory needs a route back to the record.* An AI interface can make an archive dramatically more useful, but institutional memory becomes brittle when retrieval, interpretation, and operation depend on a single convenience layer. The durable record layer should remain independently accessible, and critical functions should have a tested degraded mode. Conceptual figure; not a quantitative reliability model. Credit: original project artwork.
 
 This principle is common in resilient engineering. Systems fail in contained ways. Backups support critical functions rather than reproducing everything. Emergency modes prioritize safety over convenience.
 
