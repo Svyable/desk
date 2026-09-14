@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="760" viewBox="0 0 1400 760" role="img" aria-labelledby="title desc">
+  <title id="title">The applicant gets compressed before the model judges anything</title>
+  <desc id="desc">A four-stage diagram shows a rich human work history becoming captured application material, then model-readable signals, then an institutional action such as search, ranking, shortlist, review, or rejection. A lower arrow shows applicants adapting what they present after observing outcomes. The figure emphasizes that exact inputs and transformations vary by system.</desc>
+  <rect width="1400" height="760" fill="#ffffff"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#111111">
+    <text x="60" y="70" font-size="38" font-weight="700">The applicant gets compressed before the model judges anything</text>
+    <text x="60" y="110" font-size="20">The system evaluates a representation assembled from what the process captures, parses, derives, and keeps.</text>
+
+    <rect x="60" y="165" width="285" height="360" rx="18" fill="#f5f5f5" stroke="#222222" stroke-width="2"/>
+    <text x="88" y="207" font-size="24" font-weight="700">1. Human history</text>
+    <line x1="88" y1="228" x2="317" y2="228" stroke="#777777"/>
+    <text x="92" y="273" font-size="20">• jobs and projects</text>
+    <text x="92" y="312" font-size="20">• tacit judgment</text>
+    <text x="92" y="351" font-size="20">• career gaps and pivots</text>
+    <text x="92" y="390" font-size="20">• informal learning</text>
+    <text x="92" y="429" font-size="20">• context and constraints</text>
+    <text x="92" y="482" font-size="17" font-style="italic">The person is larger than the record.</text>
+
+    <rect x="395" y="165" width="285" height="360" rx="18" fill="#f5f5f5" stroke="#222222" stroke-width="2"/>
+    <text x="423" y="207" font-size="24" font-weight="700">2. Captured record</text>
+    <line x1="423" y1="228" x2="652" y2="228" stroke="#777777"/>
+    <text x="427" y="273" font-size="20">• résumé text</text>
+    <text x="427" y="312" font-size="20">• application fields</text>
+    <text x="427" y="351" font-size="20">• assessment responses</text>
+    <text x="427" y="390" font-size="20">• interview responses</text>
+    <text x="427" y="429" font-size="20">• uploaded work evidence</text>
+    <text x="427" y="482" font-size="17" font-style="italic">Only submitted or observed evidence enters.</text>
+
+    <rect x="730" y="165" width="285" height="360" rx="18" fill="#f5f5f5" stroke="#222222" stroke-width="2"/>
+    <text x="758" y="207" font-size="24" font-weight="700">3. Model-readable signals</text>
+    <line x1="758" y1="228" x2="987" y2="228" stroke="#777777"/>
+    <text x="762" y="273" font-size="20">• parsed roles and dates</text>
+    <text x="762" y="312" font-size="20">• skills or keywords</text>
+    <text x="762" y="351" font-size="20">• assessment results</text>
+    <text x="762" y="390" font-size="20">• derived scores/features</text>
+    <text x="762" y="429" font-size="20">• search or match signals</text>
+    <text x="762" y="482" font-size="17" font-style="italic">Transformations are system-dependent.</text>
+
+    <rect x="1065" y="165" width="275" height="360" rx="18" fill="#f5f5f5" stroke="#222222" stroke-width="2"/>
+    <text x="1093" y="207" font-size="24" font-weight="700">4. Institutional action</text>
+    <line x1="1093" y1="228" x2="1312" y2="228" stroke="#777777"/>
+    <text x="1097" y="273" font-size="20">• search / retrieval</text>
+    <text x="1097" y="312" font-size="20">• ranking or matching</text>
+    <text x="1097" y="351" font-size="20">• shortlist / routing</text>
+    <text x="1097" y="390" font-size="20">• human review</text>
+    <text x="1097" y="429" font-size="20">• screen-out / rejection</text>
+    <text x="1097" y="482" font-size="17" font-style="italic">Automation can assist or decide.</text>
+
+    <path d="M345 345 L385 345" stroke="#111111" stroke-width="3" fill="none"/>
+    <polygon points="385,345 369,336 369,354" fill="#111111"/>
+    <path d="M680 345 L720 345" stroke="#111111" stroke-width="3" fill="none"/>
+    <polygon points="720,345 704,336 704,354" fill="#111111"/>
+    <path d="M1015 345 L1055 345" stroke="#111111" stroke-width="3" fill="none"/>
+    <polygon points="1055,345 1039,336 1039,354" fill="#111111"/>
+
+    <text x="450" y="575" font-size="22" font-weight="700">Each handoff can narrow, standardize, or reshape what counts as evidence.</text>
+    <path d="M1200 610 C1200 690 200 690 200 565" stroke="#111111" stroke-width="3" fill="none"/>
+    <polygon points="200,565 191,582 209,582" fill="#111111"/>
+    <text x="390" y="657" font-size="20">Observed outcomes teach applicants what to foreground, rename, rehearse, or make legible next.</text>
+    <text x="60" y="720" font-size="16">Conceptual synthesis by Sven Hardy Benson / Desk. Exact inputs and decision roles vary by employer and system; no proprietary interface or third-party artwork reproduced.</text>
+  </g>
+</svg>
