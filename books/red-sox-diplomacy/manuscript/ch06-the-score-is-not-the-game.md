@@ -74,6 +74,20 @@ A Latvian parliamentary delegation that needed persuading. An Estonian governmen
 
 Those details do not diminish the outcome. They are the outcome's machinery.
 
+That summer, another American institution people liked to describe as permanent stopped in the middle of its calendar.
+
+Major League Baseball players went on strike in August. The season did not resume. The postseason disappeared with it, including the World Series.
+
+The juxtaposition should not be asked to do more than chronology can bear. A labor dispute in professional sports was not remotely equivalent to the end of a military occupation. But it belongs to the American atmosphere of 1994. Washington was speaking with enormous confidence about a new post-Cold War order while the national pastime was demonstrating that even familiar institutions could seize up over money, power, labor and trust.
+
+On August 31, Russian troops completed the Baltic withdrawals while the baseball season remained suspended.
+
+One date closed a geopolitical chapter.
+
+The other calendar simply had a hole in it.
+
+*ARCHIVE NOTE — Major League Baseball's 1994 season stopped after play on August 11 when the players' strike began; the remainder of the season and postseason were canceled, leaving 1994 without a World Series. [MLB postseason history.](https://www.mlb.com/postseason/history/1994) [1994 standings.](https://www.mlb.com/standings/mlb/1994)*
+
 The title's baseball language should not carry more than that.
 
 A score is clean. A game is not.
