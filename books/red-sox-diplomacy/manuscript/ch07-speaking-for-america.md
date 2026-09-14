@@ -34,9 +34,7 @@ Ordinary conversation blurs those categories. Diplomatic language cannot always 
 
 In July 1997, as Cambodia descended into crisis, reporters pressed Burns about reports of Vietnamese involvement and arrests. He repeatedly declined to convert what had been reported into what Washington could establish. At one point he made the boundary explicit: inability to confirm a rumor did not mean the government was denying it.
 
-Government spokespeople can hide behind formulae. They can answer the question beside the one asked and repeat approved language until the room gives up.
-
-They can also genuinely not know.
+Government spokespeople can hide behind formulae. They can also genuinely not know.
 
 The briefing room rewards answers and television rewards confidence. Turning uncertainty into certainty for the sake of fluency spends credibility the government may need later.
 
@@ -58,7 +56,7 @@ In April 1997 a reporter asked whether the United States intended to seek a six-
 
 The public spokesman was defending private negotiating space.
 
-Democratic government owes citizens an account of what it is doing. Diplomacy sometimes needs room to test an idea before turning it into a declared position. A proposal that can be explored privately may become impossible once every party has to defend it before a domestic audience.
+Democratic government owes citizens an account of what it is doing. Diplomacy sometimes needs room to test an idea before turning it into a declared position.
 
 The same precision applied to Burns's own knowledge. In June 1997 reporters questioned him about visa processing for people in Taiwan after Hong Kong's approaching handover. Burns said he was not aware of a specific timetable. A reporter pushed the statement further: had the United States decided nothing?
 
@@ -90,7 +88,7 @@ A polished spokesman can communicate bad policy effectively. The archive support
 
 That meant telling reporters he did not know. Saying a report could not be confirmed. Refusing to speculate. Catching a disputed premise buried in a question. Correcting himself. Doing all of it in front of the same people the next day.
 
-A press corps has memory. Reporters remember the answer avoided last week and the phrase that changed overnight. Familiarity therefore creates scrutiny as well as ease.
+A press corps has memory. Reporters remember the answer avoided last week and the phrase that changed overnight. Familiarity creates scrutiny as well as ease.
 
 On Burns's final day at the podium in July 1997, White House spokesman Mike McCurry came over to say goodbye. Contemporary coverage described Burns as cooperative, unflappable and relatively forthright, while noting that he could answer at length and become notably undiplomatic when the government wanted to condemn something.
 
