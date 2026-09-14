@@ -135,3 +135,45 @@ The distinctiveness may lie in commitment, community, embodiment, responsibility
 A machine can compose the prayer. It cannot settle whether prayer reaches anyone.
 
 That uncertainty is not a technical bug. It is where faith has always lived.
+
+A 2024 experiment in Lucerne made this distinction physical enough to walk into. Peter's Chapel, working with researchers from Lucerne University of Applied Sciences and Arts, installed an AI-generated Jesus avatar in a confessional booth for an art and research project called *Deus in Machina*. Visitors could speak with the system in many languages. Organizers were explicit that the interaction was not sacramental confession. That disclaimer was not a minor detail. It was the entire theological boundary rendered as product design.
+
+The project drew more than a thousand interactions and sharply mixed reactions. Some visitors reported meaningful spiritual experiences. Critics worried about superficiality, representation, and the location of the installation. The responsible conclusion is neither “people worshipped a computer” nor “nothing happened because everyone knew it was software.” Something interesting did happen: a machine-generated religious persona occupied a space whose architecture already carried centuries of symbolic meaning.
+
+The booth did part of the work.
+
+Context always does. Put the same chatbot on a technology website and it is an experiment. Put it behind the screen where generations learned to whisper sins and the interface inherits a history it did not earn.
+
+This matters far beyond one Swiss chapel. AI systems will increasingly be embedded in environments whose authority predates them: hospitals, schools, courts, churches, military systems, banks. The software arrives with its own capabilities and borrows legitimacy from the room.
+
+Designers need to notice what the room says.
+
+The Catholic Church's 2025 note *Antiqua et nova* approaches the problem from a very different scale. Issued by the Dicasteries for the Doctrine of the Faith and for Culture and Education, it argues that artificial intelligence can simulate aspects of reasoning and perform tasks at great speed while remaining fundamentally different from the embodied, relational, moral, and spiritual fullness that Catholic anthropology attributes to human intelligence. One need not accept Catholic theology to see the conceptual discipline in the distinction. Capability is not a complete account of what a person is.
+
+The document is also striking because it does not simply reject AI. It treats technology as a genuine human achievement that can serve the common good while insisting that responsibility remains with human beings. That is almost exactly the institutional posture this book is arguing for: neither demonization nor deification, but a refusal to let function silently inherit ontology.
+
+Religious traditions may be unusually well equipped to spot this category error because they have spent centuries distinguishing symbols, offices, relics, sacraments, texts, idols, icons, and the realities to which those things point. They do not all draw the lines in the same place, but they know the lines matter.
+
+Technology culture often approaches the same problem with a functional test: if the output works, what difference remains?
+
+Religion answers: sometimes the difference is the whole point.
+
+Consider communion. A machine can generate the words spoken around the ritual. It can explain doctrines of Eucharist with encyclopedic range. It can remind someone when a service begins. Those functions do not tell a Catholic, Orthodox Christian, or Protestant community whether the machine can consecrate bread. The answer turns on a theory of office, community, sacrament, and God, not on the benchmark quality of generated language.
+
+Or consider Jewish study. A model may compare rabbinic opinions at extraordinary speed. That does not by itself insert the model into the chain of legal and communal authority by which a particular question is decided. Islamic jurisprudence presents its own structures of qualification, schools, sources, and reasoning. Buddhist communities distinguish textual knowledge from practice and lineage in ways that cannot be inferred merely from verbal fluency. The examples differ precisely because the traditions differ.
+
+This is why there should never be one generic “religion mode” pretending to stand above them all.
+
+The best spiritual AI may be the system most willing to say where its simulation ends.
+
+“I can help you find the tradition's sources.”
+
+“I can compare interpretations.”
+
+“I can help you find words.”
+
+“I cannot certify that this message came from God.”
+
+The final sentence is not a weakness.
+
+It is the boundary that makes the other three useful.
