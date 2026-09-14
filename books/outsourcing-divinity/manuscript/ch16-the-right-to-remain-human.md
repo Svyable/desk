@@ -138,6 +138,60 @@ Public policy, institutions, and business models will matter. If teachers use AI
 
 The metric should include what humans get more of, not only what machines do more cheaply.
 
+A right to remain human also cannot become a right to deny other people the tools that make participation possible.
+
+This matters most around disability, language, neurodiversity, age, and access. The person who dictates because typing is difficult is not less authentic. The blind reader who uses a model to describe an image is not surrendering a human capacity another person performed unaided. The autistic employee who uses an assistant to decode ambiguous workplace language may gain agency rather than lose it. A migrant using real-time translation may finally participate in a conversation that previously excluded her.
+
+The romantic version of “human-only” can quietly privilege the humans whose bodies, education, language, money, and social skills already fit the environment.
+
+That would be a grotesque outcome for a philosophy supposedly defending dignity.
+
+The relevant distinction is not assisted versus unassisted. It is chosen assistance versus imposed mediation, agency-expanding assistance versus institution-serving substitution.
+
+Sometimes the humane option will be more AI, not less.
+
+A person with memory impairment may want persistent reminders. Someone with executive-function difficulties may want an agent to make a chosen plan harder to abandon impulsively. A person with limited mobility may want an assistant authorized to perform actions others do physically. A dyslexic student may use language tools not to avoid thought but to keep mechanics from obscuring thought.
+
+The system can equalize access to acts that were never as “natural” as the majority imagined.
+
+This is why the right to remain human cannot be written as a preservation order for twentieth-century norms. Human beings have always been technologically extended. Glasses, hearing aids, wheelchairs, pacemakers, keyboards, books, insulin pumps, translation, medication, and telecommunications all complicate fantasies of the untouched person.
+
+The future human may be deeply assisted and fully human.
+
+The danger is not mixture. It is coercion and substitution without standing.
+
+A school might require every child to use a personalized tutor because the average score improves. A worker might be required to wear a device that continuously infers attention because productivity rises. A patient might discover that the only way to reach a human clinician is first to persuade an automated triage system. A grieving customer might be offered synthetic replicas of the dead by default because retention data are strong.
+
+In each case, the institution can point to measurable benefit.
+
+The affected person may still reasonably say: not this way.
+
+That sentence needs institutional weight.
+
+A meaningful human alternative will not always mean performing the entire service manually. It may mean a human appeal, a human relationship at consequential moments, a path to opt out of a particular form of inference, or the ability to receive a decision in terms a person can contest. It may mean disclosure that lets the recipient decide whether machine authorship matters in this context.
+
+The goal is not to freeze a line between human and machine. The line will move constantly.
+
+The goal is to protect the human capacity to participate in drawing it.
+
+There is another danger: institutions may preserve “human review” while removing human authority. A user clicks “speak to a person,” reaches an employee, and discovers the employee cannot change the automated result. The conversation is human. The sovereignty is not.
+
+This is human-washing.
+
+The person becomes the friendly surface on an automated institution, absorbing frustration without possessing discretion. It may feel more humane than a bot and be less honest about where power resides.
+
+A genuine right to human consideration therefore concerns authority, not skin.
+
+The human must be able to introduce context the system missed, recognize an exception, explain a value conflict, or route the case somewhere that can. Otherwise the institution has preserved the appearance of human contact while outsourcing judgment entirely.
+
+The inverse matters too. A machine may sometimes provide more usable agency than a human gatekeeper. Automated translation can be more empowering than waiting for an interpreter. An AI legal explainer can help someone understand a form before meeting counsel. A private tutor can let a student ask the embarrassing question fifty times without humiliation.
+
+Human presence is not automatically dignity. Human power can be arbitrary, prejudiced, impatient, expensive, or inaccessible.
+
+The right worth defending is not the right to be ruled by people.
+
+It is the right to remain a person inside systems of assistance: to know when identity matters, to retain meaningful choices over intimate mediation, to receive reasons where rights are affected, to preserve relationships that institutions would otherwise replace with cheaper simulations, and to use machines aggressively when they expand rather than erase agency.
+
 This returns us to divinity. A theology that values human beings because they are made for relation offers one reason to protect contact. A secular ethics of dignity offers another. A democratic politics of equality offers a third. We do not need one metaphysical foundation to notice the risk of a society where efficient synthetic attention replaces expensive human obligation for people with less power.
 
 The right to remain human is therefore not nostalgia for incompetence.
