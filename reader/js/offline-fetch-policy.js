@@ -47,8 +47,10 @@
   }
 
   function responsePlan(kind, hasCached = false) {
-    if ((kind === 'shell' || kind === 'external') && hasCached) return 'cache-then-network';
-    if (kind === 'publication' && hasCached) return 'network-with-cache-deadline';
+    // Match canonical Bookself: Reader shell and manuscript data prefer the
+    // network while online. Cached copies are resilience for offline/failure,
+    // not a stale response that can outrank a newer Desk draft.
+    if (kind === 'external' && hasCached) return 'cache-then-network';
     return 'network-first';
   }
 
