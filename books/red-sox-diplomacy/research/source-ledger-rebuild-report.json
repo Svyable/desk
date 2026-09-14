@@ -26,11 +26,12 @@
     "source-ledger-addendum-38.csv",
     "source-ledger-addendum-39.csv"
   ],
-  "staged_rows": 213,
+  "staged_rows": 214,
   "duplicate_rows_removed": 49,
-  "canonical_rows": 349,
+  "canonical_rows": 350,
   "highest_addendum": "source-ledger-addendum-39.csv",
   "book_use_upgrades": 26,
+  "audited_text_corrections": 1,
   "duplicates": [
     {
       "normalized_url": "https://1997-2001.state.gov/briefings/9706/970604db.html",
