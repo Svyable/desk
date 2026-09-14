@@ -1,10 +1,10 @@
 # Source Ledger Normalization Note
 
-The canonical `source-ledger.csv` has been rebuilt deterministically from the 185-row baseline plus staged addenda 16–39 using `rebuild-source-ledger.py` on a real repository checkout.
+The canonical `source-ledger.csv` is rebuilt deterministically from the preserved 185-row `source-ledger-baseline.csv` plus staged addenda 16–39 using `rebuild-source-ledger.py`. The baseline file is the immutable pre-addendum canonical snapshot, so rebuilds no longer depend on recovering an earlier Git state.
 
-`source-ledger-rebuild-report.json` records 185 baseline rows, 213 staged rows, 49 duplicate rows removed after URL normalization, 26 materially fuller `book_use` upgrades, and **349 final canonical rows**. The highest staged file is `source-ledger-addendum-39.csv`.
+`source-ledger-rebuild-report.json` records 185 baseline rows, 214 staged rows, 49 duplicate rows removed after URL normalization, 26 materially fuller `book_use` upgrades, 1 audited literal text correction, and **350 final canonical rows**. The highest staged file is `source-ledger-addendum-39.csv`.
 
-The resulting ledger is sequential through `rsd-349`. Historical addendum IDs, which reached `rsd-397`, remain provenance only.
+The resulting ledger is sequential through `rsd-350`. Historical addendum IDs, which reached `rsd-399`, remain provenance only. The single audited text correction fixes `Chuck Samiotis` to `Chuck Samiotes` in the CNN source note without mutating the preserved baseline.
 
 ## Standing rules
 
