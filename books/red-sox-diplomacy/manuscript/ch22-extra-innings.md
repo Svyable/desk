@@ -44,7 +44,7 @@ It adds another fact to the record: Burns was willing to revise the account he g
 
 That is not absolution. It is revisability.
 
-Officials decide with partial information, institutional pressure and the confidence of the moment. History later supplies facts they lacked, discounted or misunderstood. Experience does not guarantee that the revised judgment will be better; sometimes it only gives error a more elaborate vocabulary.
+Officials decide with partial information, institutional pressure and the confidence of the moment. History later supplies facts they lacked, discounted or misunderstood. Experience does not guarantee that the revised judgment will be better.
 
 Harvard gave Burns a place where former decisions could become material students questioned. Return to government exposed the professor's ideas to authority again. Return to teaching put the latest exercise of authority back under examination.
 
