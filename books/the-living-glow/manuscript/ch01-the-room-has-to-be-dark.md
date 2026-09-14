@@ -1,0 +1,21 @@
+# The Room Has to Be Dark
+
+The first problem with biophotons is linguistic. The second is architectural. You cannot walk into a laboratory, look at a dish of cells and see them. The room has to be dark in the literal engineering sense, stray photons have to be treated as contamination, the detector has to sit where ordinary cameras are almost blind, and the investigator has to know whether the signal is coming from the specimen, a warmed surface, an electronic transient, cosmic radiation, delayed luminescence from prior illumination, or the detector itself.
+
+That is a useful beginning because it immediately removes the phenomenon from mystical eyesight. Ultraweak photon emission is not an aura. It is not the blue glow of Cherenkov radiation and not the familiar fluorescence that appears when a molecule is deliberately excited with light of a chosen wavelength. It is closer to an accounting trace left by chemistry. Reviews of the field describe spontaneous emission across near-ultraviolet, visible and near-infrared bands at intensities ranging from a few to hundreds of photons per second per square centimeter in ordinary oxidative metabolism, and higher under oxidative stress. Those numbers are tiny compared with ambient light. They are also comfortably within reach of photomultiplier tubes and cooled low-noise cameras.
+
+The instrumentation makes the epistemology visible. A photomultiplier can count an event without telling you much about where it came from. An imaging detector can add spatial structure at a cost in sensitivity. Filters can divide the spectrum, but every optical element throws away photons. Temperature matters. Dark adaptation matters because biological material exposed to light can emit delayed luminescence afterward. The measurement problem is not philosophical. It is screws, shutters, cooling, calibration curves and patient waiting.
+
+That difficulty is why the field contains two personalities. One is ordinary photochemistry: use the photons as a non-invasive window onto oxidative state. The other asks whether the photons themselves participate in biology. Both begin with the same detector. They diverge in what they think the count means.
+
+The distinction is easy to lose because the word *biophoton* already sounds functional. We do not call carbon dioxide a bio-message merely because a cell releases it. A photon can be biological in origin without being biological in purpose. The first claim in this book is therefore deliberately boring: living chemistry emits detectable photons. Boring claims are valuable when they establish the floor.
+
+The second claim is where the floor begins to move. Emission is patterned. It changes with oxidative stress, injury, metabolic state, circadian timing and other physiology. Once an output is patterned, it can tempt us to call it information. In the Shannon sense almost any correlated variable can carry information about a source. Smoke contains information about fire. That does not mean fire evolved to send smoke to a receiver.
+
+A biological signal requires more. Some receiver must be able to distinguish relevant states of the emission. The received photons must alter behavior, physiology or gene regulation through a pathway that is not better explained by heat, volatile chemicals, electric fields, vibration, direct contact or ordinary scattered light. Ideally, the sender or receiver should possess adaptations that improve the channel. There should be a bandwidth, a noise floor and a cost.
+
+The field often jumps from the first sentence to the last. My interest is in the missing middle.
+
+A dark room forces discipline because the photons themselves are so unforgiving. Leave the shutter open at the wrong time and the biological glow disappears beneath a torrent. Touch a surface and you can change its temperature. Move a cable and electronics can answer. A laboratory built to count almost nothing is a laboratory designed to discover how much almost nothing can contain.
+
+The question is not whether life glows. It does. The question is what, if anything, life has learned to do with the glow.

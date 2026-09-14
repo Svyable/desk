@@ -1,0 +1,19 @@
+# Fritz-Albert Popp and the Dangerous Word
+
+Every disputed field has a person who becomes shorthand for the whole thing. In biophoton research that person is Fritz-Albert Popp. His work and the research tradition around it helped popularize the term *biophoton* and advanced a much stronger interpretation than oxidative chemiluminescence alone: that living systems might produce highly ordered, even coherent, photon fields with regulatory or communicative roles.
+
+The historical problem is that the word coherence travels too easily. In optics it has technical meanings involving phase relationships and statistical properties of a field. In popular writing it becomes a synonym for organization, health, harmony or information. Those are not equivalent statements. A claim that delayed luminescence follows a particular decay law is not yet a claim of laser-like coherence. A non-Poissonian photon-count distribution is not automatically evidence of biological coding. A living system being organized does not imply that its emitted light possesses the optical coherence required by a signaling model.
+
+Popp's importance is therefore not that he solved the problem but that he forced it into a sharper form. If biological light is merely the weak tail of oxidative chemistry, then its statistics and spectra should follow from chemical sources, transport and detector physics. If there is an additional ordered component, the burden is to specify the observable that separates it from those sources. What degree of temporal coherence? What spatial coherence length? What spectral linewidth? What modulation? What dependence on physiology? What receiver?
+
+This is where the field often becomes sociological. Critics encounter extravagant claims and decide the entire subject is contaminated. Enthusiasts encounter dismissive criticism and infer that conventional science is afraid of the phenomenon. Both reactions erase the part worth measuring. The existence of UPE is not in serious dispute. The stronger interpretations are.
+
+There is also a recurring mistake in how unconventional scientists are treated. An investigator can be right that a phenomenon deserves attention and wrong about its mechanism. History is full of that combination. The proper response is not sainthood or excommunication. It is to keep the apparatus and loosen the story.
+
+The best way to read the coherence tradition is therefore experimentally. Translate every large noun into a measurement. *Communication* becomes a receiver response contingent on transmitted photons. *Coherence* becomes an optical statistic with a calibration standard. *Regulation* becomes a perturbation in which blocking or adding photons changes a biological process while confounders are held fixed. *Information* becomes discriminability among sender states at the receiver with an error rate.
+
+That translation makes some claims weaker and others more interesting. It also exposes an asymmetry in the literature. It is relatively easy to measure an emitted photon stream. It is much harder to show that another biological system receives and uses it. The former can be done with a dark box and a photomultiplier. The latter requires paired preparations, optical isolation, spectral filters, sham channels, thermal controls, volatile controls, vibration controls, electromagnetic shielding where relevant, blind analysis and a causal manipulation of the light itself.
+
+There is a reason signaling papers are rarer than emission papers.
+
+Popp's legacy, viewed generously, is the insistence that the weak light might be more than waste. Viewed critically, it is also a warning about how quickly a real anomaly can accumulate a vocabulary larger than its evidence. The most respectful thing to do with an audacious hypothesis is make it easy to kill.
