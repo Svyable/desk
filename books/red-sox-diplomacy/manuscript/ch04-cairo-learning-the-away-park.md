@@ -10,8 +10,6 @@ The surviving public record does not cleanly tell us when one role gave way to t
 
 At the consular end of an embassy, foreign policy becomes stubbornly specific. There is a person at the window. A passport. A visa. An American in trouble. A rule written thousands of miles away that now has to be applied to a case with a name attached to it. A 1999 profile of Burns, looking back on Cairo, reduced some of the work to practical dimensions: stamping passports and helping American workers who had landed in jail.
 
-Good.
-
 Diplomatic biographies tend to begin where the photographs begin. The young officer disappears so the later ambassador can enter on cue. But for many people, a consular officer is the United States government in its most immediate form.
 
 A staff assistant sees the other direction. The value of the job is not borrowed power but exposure to flow: cables, visitors, requests from Washington, questions from the front office, disputes among sections, matters that look minor until the ambassador wants an answer now.
@@ -24,7 +22,7 @@ Political officers, economic officers, consular officers, public-affairs special
 
 The ambassador when Burns arrived was Alfred Atherton, one of the senior American diplomats associated with the long Arab-Israeli negotiating process. Nicholas Veliotes succeeded him in November 1983. Ted Osius, the direct witness in the current record who remembers Burns personally in Cairo, identifies Burns as Veliotes's staff aide.
 
-That places Burns in the front-office orbit during the Veliotes period. It does not supply exact dates the archive has not yet produced.
+That puts Burns in the front-office orbit during the Veliotes period. It does not supply exact dates the archive has not yet produced.
 
 The great U.S.-Egyptian breakthrough had already happened. Egypt and Israel had signed peace. Sinai had been returned. The Camp David photographs belonged to an earlier chapter. What remained was the less photogenic work of maintaining a relationship that had not become warm simply because the treaty existed.
 
@@ -34,7 +32,7 @@ The great U.S.-Egyptian breakthrough had already happened. Egypt and Israel had 
 
 Beecroft, whose portfolio covered Egypt-Israel relations, remembered a cold peace. Egypt was also trying to restore its standing in an Arab world that had punished it for the separate peace with Israel. American assistance was immense. Military cooperation mattered. So did Egyptian suspicion of permanent foreign military presence.
 
-Veliotes's oral history gives that last tension a physical form.
+Veliotes's oral history gives that tension a physical form.
 
 Washington had considered a large American military facility at Ras Banas on Egypt's Red Sea coast. From one angle it was logistics: access, infrastructure, the ability to move forces in a dangerous region. From Cairo it carried a different history. Egyptians had lived with British power and then Soviet presence. A permanent foreign footprint could not be understood only as a Pentagon plan.
 
@@ -70,7 +68,7 @@ Cairo around them was not calm. Lebanon remained violent. The Iran-Iraq War cont
 
 Yet Beecroft remembered much of the work in Cairo itself as a long slog rather than a sequence of dramatic crises.
 
-That is a good setting for a first posting.
+That is a useful correction to the way diplomatic careers get remembered.
 
 A treaty had to be maintained. Aid had to be administered. A congressional delegation arrived. An American got detained. A military proposal acquired political meaning once the proposed concrete was in Egypt rather than on a Washington map. The ambassador needed an answer. Somebody had to find it.
 
@@ -85,8 +83,6 @@ Beecroft remembered slowly recognizing the force of Egyptian historical self-con
 Neither recollection should be rewritten as young Burns's private revelation. They describe the embassy environment around him.
 
 What Cairo gives us about Burns is rougher and better documented: a junior officer working both ends of an embassy, individual cases and institutional flow, a mission large enough to show that American policy is not made by one mind, a host country with its own memory, and an intern who remembered being welcomed.
-
-That last fact does not need to carry a theory of Burns's later career.
 
 Osius remembered the invitation.
 
