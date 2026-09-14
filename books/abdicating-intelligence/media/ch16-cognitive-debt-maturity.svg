@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">When cognitive debt matures</title>
+  <desc id="desc">A conceptual flow diagram shows assistance reducing practice while everyday output remains strong, leaving reserve capability mostly unobserved. A later trigger such as an outage, novel case, audit, or vendor exit exposes whether the reserve capability still exists. The diagram emphasizes that lost practice becomes debt only when a future obligation still depends on the capability.</desc>
+  <rect width="1200" height="720" fill="#ffffff"/>
+  <style>
+    .title { font: 700 42px Georgia, serif; fill: #111; }
+    .sub { font: 22px Georgia, serif; fill: #333; }
+    .h { font: 700 25px Arial, sans-serif; fill: #111; }
+    .b { font: 20px Arial, sans-serif; fill: #222; }
+    .small { font: 18px Arial, sans-serif; fill: #333; }
+    .box { fill: #f7f7f7; stroke: #222; stroke-width: 2; rx: 16; }
+    .trigger { fill: #e9e9e9; stroke: #111; stroke-width: 3; rx: 16; }
+    .arrow { stroke: #222; stroke-width: 3; fill: none; marker-end: url(#arrow); }
+    .dash { stroke: #555; stroke-width: 3; fill: none; stroke-dasharray: 10 8; marker-end: url(#arrow); }
+    .rule { stroke: #111; stroke-width: 2; }
+  </style>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#222"/>
+    </marker>
+  </defs>
+
+  <text x="70" y="72" class="title">When cognitive debt matures</text>
+  <text x="70" y="108" class="sub">Strong assisted performance can hide the condition of the capability underneath it.</text>
+
+  <rect x="70" y="160" width="250" height="150" class="box"/>
+  <text x="95" y="202" class="h">1. Assistance expands</text>
+  <text x="95" y="240" class="b">Less manual practice</text>
+  <text x="95" y="270" class="b">More immediate output</text>
+
+  <rect x="375" y="160" width="250" height="150" class="box"/>
+  <text x="400" y="202" class="h">2. Output looks fine</text>
+  <text x="400" y="240" class="b">Throughput stays high</text>
+  <text x="400" y="270" class="b">Reserve is mostly unseen</text>
+
+  <rect x="680" y="160" width="250" height="150" class="box"/>
+  <text x="705" y="202" class="h">3. Practice thins</text>
+  <text x="705" y="240" class="b">Skill, context, or</text>
+  <text x="705" y="270" class="b">independence may decay</text>
+
+  <path d="M320 235 L375 235" class="arrow"/>
+  <path d="M625 235 L680 235" class="arrow"/>
+
+  <rect x="410" y="370" width="380" height="130" class="trigger"/>
+  <text x="445" y="412" class="h">4. A future obligation arrives</text>
+  <text x="445" y="448" class="b">Outage · edge case · audit · handoff</text>
+  <text x="445" y="478" class="b">vendor exit · novel failure</text>
+
+  <path d="M805 310 C805 350 760 360 730 370" class="arrow"/>
+  <path d="M500 310 C500 338 520 350 545 370" class="dash"/>
+  <text x="365" y="342" class="small">everyday metrics may not reveal the reserve</text>
+
+  <rect x="70" y="555" width="480" height="105" class="box"/>
+  <text x="95" y="594" class="h">Reserve still exists</text>
+  <text x="95" y="629" class="b">The system degrades gracefully.</text>
+
+  <rect x="650" y="555" width="480" height="105" class="box"/>
+  <text x="675" y="594" class="h">Reserve is gone or too slow to rebuild</text>
+  <text x="675" y="629" class="b">The deferred cost returns as error, delay, or dependence.</text>
+
+  <path d="M520 500 C470 525 405 535 330 555" class="arrow"/>
+  <path d="M680 500 C735 525 790 535 860 555" class="arrow"/>
+
+  <line x1="70" y1="688" x2="1130" y2="688" class="rule"/>
+  <text x="70" y="714" class="small">A lost capability is debt only when a later responsibility still makes a claim on it. Diagram is conceptual, not quantitative.</text>
+</svg>
