@@ -136,6 +136,60 @@ AI labs are naturally rewarded for making systems work. Society needs other inst
 
 This is not anti-innovation. Roads need brakes because cars move. Medicine needs ethics because treatments work. Finance needs regulation because credit is useful and leverage is powerful. The need for limits is often evidence that a technology matters.
 
+What we need is less a replacement priesthood than an epistemic separation of powers.
+
+The builder knows things the regulator does not. The deployer knows things the builder does not. The teacher, physician, lawyer, soldier, or caseworker knows what happens when the system meets a particular practice. The affected user knows failure from the receiving end. An independent evaluator can test claims without carrying the same commercial incentives. A journalist can connect incidents that each institution sees as isolated. A court can ask a different question altogether: not whether the system performs well, but whether its use is lawful and whether the person affected received a fair process.
+
+No one of these viewpoints deserves supremacy merely because it is independent. Their value lies in being differently situated.
+
+This is what separation of powers does at its best. It does not assume legislators are wise and judges foolish, or courts virtuous and executives corrupt. It assumes concentrated authority creates blind spots and gives institutions different powers, incentives, information, and ways to interrupt one another.
+
+AI governance needs the epistemic version.
+
+A model card written by the builder can say what was tested. It should not be the only account of what the model can do. An external benchmark can expose a weakness. It should not become scripture either. A red team can find adversarial failures without knowing ordinary user behavior. Incident reports can reveal failures in deployment that pre-release testing never imagined. People harmed by the system may understand something essential before they possess the technical vocabulary to prove it.
+
+The architecture works when these kinds of knowledge can collide without one side dismissing the others as illegitimate.
+
+This requires standing, not just voice.
+
+A whistleblower who may speak but cannot stop an unsafe process has voice. A safety team whose sign-off is optional has voice. An external researcher allowed to publish after the product ships has voice. Standing means the objection enters a process capable of changing the decision.
+
+That distinction matters because modern institutions are very good at collecting feedback. Feedback is not governance. A comment box is not an appeal. A listening session is not a veto. A red-team report is not a safety constraint if the deployment decision can ignore it without consequence.
+
+The same problem appears in public transparency. Companies can release large quantities of information and still control the categories through which the public sees the system. Thirty benchmark scores may reveal less than one well-documented failure in a domain that matters. A glossy safety report can be factually correct and still leave the reader unable to tell which unresolved issue almost delayed launch.
+
+This is why claims about frontier systems need grammar.
+
+Measured: the model scored this result under these conditions.
+
+Observed: users behaved this way in deployment.
+
+Inferred: we think this mechanism explains the behavior.
+
+Forecast: we expect a future capability or social effect.
+
+Normative: we believe deployment is worth the tradeoff.
+
+Those sentences can all appear in the same report and carry radically different warrant. The public debate becomes confused when a measured benchmark result is used to support a forecast, and the forecast is then treated as a reason for a normative conclusion, without the transitions being named.
+
+Religious institutions learned to distinguish scripture from commentary, doctrine from speculation, office from personal opinion—imperfectly, unevenly, and after enormous conflict. Technical institutions need comparable humility about the status of their own utterances.
+
+There is another reason to distribute interpretation. Frontier capability claims can become self-fulfilling socially even when they remain uncertain technically. If employers believe coding is nearly automated, they may change hiring. If schools believe writing assistance is universal, they may change assessment. If investors believe a model will transform an industry, capital flows before the transformation is proved. The claim begins altering the environment in which the claim will later be judged.
+
+Builders therefore possess a kind of agenda-setting power merely by describing what they think they have built.
+
+That power should not be censored into silence. It should be counterweighted by institutions capable of asking different questions.
+
+Not only: What can the model do?
+
+Also: Compared with what? For whom? Under what conditions? With what failure distribution? Who bears the error? What changes after deployment? What claim here is measurement and what claim is aspiration?
+
+This is not bureaucratic suspicion for its own sake. It is how a society turns extraordinary private expertise into public knowledge without demanding that citizens become machine-learning researchers.
+
+A civilization cannot personally inspect every bridge, drug, airplane, bank, reactor, and model. It can build institutions so that no single interpreter has to be holy.
+
+That is the opposite of priesthood.
+
 The priesthood metaphor should therefore end by turning on itself. The goal is not to identify the new priests and replace them with better priests. It is to avoid constructing an epistemic order in which any small group has to be believed because nobody else can see.
 
 Powerful AI will always require expertise. The democratic question is whether expertise becomes a service within accountable institutions or a source of authority above them.
