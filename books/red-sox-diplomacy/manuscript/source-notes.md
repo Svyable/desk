@@ -11,6 +11,7 @@ Where a source fits naturally into the prose, the manuscript links it there. The
 - Nicholas Burns’s public Red Sox identity is unusually well documented in the State Department record. The June 16, 1997 [Daily Press Briefing](https://1997-2001.state.gov/www/briefings/9706/970616db.html) contains the family story about his mother, his father’s heartbreak with the club in the 1930s, and Burns ignoring the warning not to root for Boston.
 - For Burns’s later formulation of Red Sox identity after the 2004 championship, see his 2005 [remarks at the U.S. Institute of Peace](https://2001-2009.state.gov/p/us/rm/2005/45781.htm).
 - Harvard Kennedy School’s [faculty profile](https://www.hks.harvard.edu/faculty/nicholas-burns) provides the career chronology against which the book’s scenes are checked.
+- The prologue’s broader claim that baseball can expose rather than escape American contradiction comes from filmmaker Ken Burns, not diplomat Nicholas Burns. In a 1994 [International Documentary Association interview](https://www.documentary.org/feature/ken-burns-talks-about-baseball-documentary), Ken Burns identified race, labor, class, immigration, heroism and popular culture as subjects reflected through the game; PBS’s [*Baseball* project description](https://www.pbs.org/kenburns/baseball/about) similarly treats the sport as interwoven with American history.
 
 ## Chapter 1 — Boston Before Washington
 
@@ -49,6 +50,7 @@ Where a source fits naturally into the prose, the manuscript links it there. The
 - A contemporaneous *Washington Post* account credits Burns with helping elevate the Estonia withdrawal problem inside the White House: [“Clinton’s Secret Successes”](https://www.washingtonpost.com/archive/opinions/1994/09/04/clintons-secret-successes/565344c7-547f-4bb6-b53c-8bc29218ca40/).
 - President Clinton’s April 30, 1994 [statement on the Latvia withdrawal agreement](https://www.presidency.ucsb.edu/documents/statement-the-agreement-withdraw-russian-military-forces-from-latvia) explicitly credits active U.S. involvement while also identifying Sweden’s role.
 - Burns’s later public description of the U.S.-Swedish effort around the Baltic withdrawals appears in this 1996 [NATO transcript](https://www.nato.int/en/news-and-events/events/transcripts/1996/12/10/press-briefingby-nicholas-burns-spokesman).
+- The chapter’s 1994 baseball interruption is chronology, not analogy: MLB’s [1994 postseason history](https://www.mlb.com/postseason/history/1994) records that the players’ strike ended the season and eliminated the postseason and World Series. The labor dispute is not presented as equivalent to the Baltic withdrawals.
 
 ## Chapter 7 — Speaking for America
 
@@ -60,6 +62,7 @@ Where a source fits naturally into the prose, the manuscript links it there. The
 - The baseball exchanges are preserved in the primary State Department transcript corpus, including the [March 7](https://1997-2001.state.gov/briefings/9703/970307.html), [March 11](https://1997-2001.state.gov/briefings/9703/970311.html), [April 17](https://1997-2001.state.gov/briefings/9704/970417.html), [June 3](https://1997-2001.state.gov/briefings/9706/970603db.html), and [July 8, 1997](https://1997-2001.state.gov/briefings/9707/970708db.html) briefings.
 - The press-corps farewell scene is documented by *The Washington Post*: [“As Burns Takes Bow at State, A Fan Sox It to Him”](https://www.washingtonpost.com/archive/politics/1997/07/23/as-burns-takes-bow-at-state-a-fan-sox-it-to-him/f7295a64-565a-4320-9a47-a9a75a068cc0/).
 - James Rubin’s later joke about retiring Burns’s baseball analogies appears in the [August 7, 1997 State briefing](https://1997-2001.state.gov/briefings/9708/970807db.html).
+- The brief post-strike context is independently bounded by MLB’s [1994 postseason history](https://www.mlb.com/postseason/history/1994) and its [1995 season retrospective](https://www.mlb.com/news/featured/1995-mlb-season-in-review), which documents the shortened return season and the slow recovery of attendance. These sources establish period context only; they do not establish that the strike shaped Burns’s briefing-room behavior.
 
 ## Chapter 9 — Athens
 
@@ -83,6 +86,8 @@ Where a source fits naturally into the prose, the manuscript links it there. The
 - Burns’s most detailed first-person reconstruction of September 11 at NATO is his 2024 *Foreign Service Journal* essay [“NATO on 9/11”](https://afsa.org/nato-75). It is retrospective, but scene-specific and written by Burns.
 - An independent later Burns interview also recounts the inability to reach Washington and the allied calls: [Harvard Magazine, “Ask a Harvard Professor with Nicholas Burns”](https://www.harvardmagazine.com/2020/03/nicholas-burns).
 - The book keeps September 11 and the formal September 12 Article 5 decision distinct rather than collapsing them into one scene.
+- The baseball material is explicitly a separate American backdrop. MLB’s [retrospective on baseball’s return after September 11](https://www.mlb.com/news/featured/yankees-reflect-on-returning-to-baseball-after-9-11/) and the George W. Bush White House [baseball archive](https://georgewbush-whitehouse.archives.gov/baseball/) anchor the suspension, return and October 30 World Series first pitch. PBS’s [*Baseball* project](https://www.pbs.org/kenburns/baseball/about) supplies the later documentary framing of baseball as civic continuity, not evidence about NATO causality.
+- The historical comparison to World War II is anchored in Franklin Roosevelt’s January 15, 1942 [“Green Light Letter”](https://baseballhall.org/discover/inside-pitch/roosevelt-sends-green-light-letter), preserved by the National Baseball Hall of Fame. Roosevelt’s argument for continuing professional baseball is used as evidence of recreation’s wartime civic role, not as a claim that sport was important compared with the war itself.
 
 ## Chapter 12 — Article 5
 
@@ -165,7 +170,7 @@ Where a source fits naturally into the prose, the manuscript links it there. The
 
 ## Epilogue — The Next Inning
 
-The epilogue is designed not to introduce a new factual case. Its claims about inheritance, representation, handoff, and the persistence of personal identity inside institutions are synthesized from the documented chapters above. If a later revision introduces a new factual scene, person, quotation, or historical claim here, it should earn its own source link rather than borrowing authority from the rest of the book.
+The epilogue is designed not to introduce a new biographical scene. Its claims about inheritance, representation, handoff, and the persistence of personal identity inside institutions are synthesized from the documented chapters above. Its broader baseball-as-American-history frame is explicitly sourced to filmmaker Ken Burns: the 1994 [International Documentary Association interview](https://www.documentary.org/feature/ken-burns-talks-about-baseball-documentary) and PBS’s [*Baseball* project description](https://www.pbs.org/kenburns/baseball/about). Those sources are interpretive context, not evidence about Nicholas Burns’s motives or diplomatic method.
 
 ---
 
