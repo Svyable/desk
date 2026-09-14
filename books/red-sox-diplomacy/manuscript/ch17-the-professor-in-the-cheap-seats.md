@@ -20,9 +20,7 @@ Harvard appointed Burns Professor of the Practice of Diplomacy and International
 
 A few years later, Burns explained what professors of practice could contribute. People who had spent most of their careers in public service, he argued, had seen directly how governments succeed and fail.
 
-The important word was not *succeed*.
-
-It was *fail*.
+The important word was *fail*.
 
 Government service creates its own explanations. Officials remember the constraints they faced, the information they had, the alternatives they rejected. Critics remember consequences. Historians acquire documents participants did not possess. Time exposes assumptions that once looked like facts.
 
@@ -30,7 +28,7 @@ A classroom can put those versions beside one another.
 
 At the State Department podium, Burns had been required to protect institutional confidence while distinguishing what was known from what was alleged. At Harvard, the uncertainty itself could become material.
 
-A negotiation that failed might be more useful than one ending in a photograph and signatures. A coalition could be taken apart to expose the compromises hidden inside the word *unity*. A former official could be asked not merely what happened, but what he believed at the time, what he did not know and what he would now describe differently.
+A negotiation that failed might be more useful than one ending in a photograph and signatures. A coalition could be taken apart to expose the compromises hidden inside the word *unity*. A former official could be asked what he believed at the time, what he did not know and what he would now describe differently.
 
 Experience became evidence rather than verdict.
 
@@ -56,7 +54,7 @@ Hainer Sibrian, who attended the Kennedy School before entering the Foreign Serv
 
 Two students are two students.
 
-They do not establish a universal classroom effect. They do show the bridge a professor of practice can create: the profession becomes easier to inspect because someone who has done it is willing to take apart the machinery.
+They do show the bridge a professor of practice can create: the profession becomes easier to inspect because someone who has done it is willing to take apart the machinery.
 
 Burns's courses made the method explicit. Students studied negotiation through successes and failures, examined diplomacy alongside economic and military pressure, and asked why apparently intractable conflicts remained intractable.
 
@@ -82,9 +80,7 @@ That distance had value.
 
 It also had limits.
 
-Officials knew things outsiders did not know. Outsiders could say things officials could not say. Each side could mistake its advantage for superior wisdom.
-
-A professor of practice occupied the uncomfortable middle: close enough to authority to understand its pressures, far enough away to turn those pressures into questions.
+Officials knew things outsiders did not know. Outsiders could say things officials could not say. A professor of practice occupied the uncomfortable middle: close enough to authority to understand its pressures, far enough away to turn those pressures into questions.
 
 The Red Sox identity survived the move because it had never depended on office.
 
@@ -108,15 +104,13 @@ A baseball team was not therapy.
 
 But a civic institution did not have to cure grief to become one of the places where grief was expressed.
 
-That is enough for this book.
-
 Baseball gave Boston a stage.
 
 *ARCHIVE NOTE — Major League Baseball's 2013 retrospective records the Red Sox adoption of `Boston Strong` symbolism after the Marathon bombing and the team's championship that fall. Boston clinched Game 6 of the World Series at Fenway, its first home-field World Series clincher since 1918. [MLB 2013 retrospective.](https://www.mlb.com/redsox/news/mlb-2013-year-in-review) [2013 postseason history.](https://www.mlb.com/postseason/history/2013)*
 
 Burns spent thirteen years at Harvard before returning to government.
 
-That was long enough for practitioner to become professor without former official becoming spectator. Administrations changed. The wars after September 11 changed shape. Russia seized Crimea. The Iran nuclear agreement was negotiated, signed and later abandoned by the United States. China became more powerful and the American argument about China became harder.
+Administrations changed. The wars after September 11 changed shape. Russia seized Crimea. The Iran nuclear agreement was negotiated, signed and later abandoned by the United States. China became more powerful and the American argument about China became harder.
 
 Burns watched, argued and taught from outside delegated authority.
 
