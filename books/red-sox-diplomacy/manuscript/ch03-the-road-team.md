@@ -40,8 +40,6 @@ As a young Foreign Service officer, he watched Secretary of State Shultz travel 
 
 Maintenance is hard to dramatize. A summit produces photographs. A breakthrough produces headlines. A relationship quietly kept in working order rarely produces either.
 
-Most ordinary meetings probably remain ordinary. The profession still requires making the investment.
-
 That is a better guide to Burns's early career than the hindsight that makes Cairo seem to lead neatly to Jerusalem and Jerusalem to Washington. A young officer does not know which language will become useful, which colleague will reappear, which government will become central or which temporary assignment will supply a durable habit.
 
 What accumulates is not mastery of one place. It is a method for entering places without pretending to have mastered them.
@@ -54,11 +52,13 @@ At Worcester Polytechnic Institute's commencement in 1997, he was explaining wha
 
 *ARCHIVE NOTE — U.S. Department of State, “Preparing for the International Age,” Worcester Polytechnic Institute commencement address, May 24, 1997. Burns cites Japanese baseball players moving into U.S. ballparks as an example of internationalization and jokes about Fenway and the Red Sox bullpen. [Primary transcript.](https://1997-2001.state.gov/policy_remarks/970524.burns.html)*
 
-The joke proves nothing about diplomacy. It shows a reflex: take something large, find an ordinary example, return to the argument.
+The joke proves nothing about diplomacy. It shows the reflex: take something large, find an ordinary example, return to the argument.
 
 The road-team metaphor should stop there too.
 
-A baseball club travels to win. An embassy may need the government across the table to remain stable, capable and willing to keep talking even while the countries disagree sharply. The point is not hostility.
+A baseball club travels to win. An embassy may need the government across the table to remain stable, capable and willing to keep talking even while the countries disagree sharply.
+
+The point is not hostility.
 
 It is adjustment.
 
@@ -67,8 +67,6 @@ You are not at home. Act like you noticed.
 Nouakchott was not Cairo. Cairo was not Jerusalem. Each place changed which facts mattered and which memories Washington did not share.
 
 The diplomat stands near the point where an official American sentence lands. Sometimes it travels cleanly. Sometimes it arrives carrying meanings its authors never intended. The officer close to the receiving country is supposed to notice before Washington mistakes intention for effect.
-
-That is the durable part of Shultz's gardening lesson. Relationships need maintenance before emergency. Presence matters. The ordinary meeting may turn out not to have been ordinary.
 
 Before the crises attached themselves to Burns's name, there were postings where the stakes were real and the officer was not important enough for anyone to preserve his day in detail.
 
