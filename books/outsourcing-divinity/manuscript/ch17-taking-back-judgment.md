@@ -138,6 +138,62 @@ Redundancy looks inelegant beside the dream of one intelligence that can do ever
 
 Human freedom has always been inelegant.
 
+Judgment can also be practiced more deliberately than our culture usually teaches.
+
+Pilots use checklists not because they have surrendered judgment to paper but because expert memory is unreliable under workload. Surgeons use checklists for similar reasons. A checklist can make a person more responsible by relocating routine cognition into a stable external form and preserving attention for the parts that require situational judgment.
+
+This is cognitive outsourcing in service of agency.
+
+AI can play the same role if we design the interaction correctly. Before a consequential decision, the system can help establish the record: what facts are known, which are inferred, what remains uncertain, what values are in conflict, who is affected, what options are reversible, and what evidence would change the recommendation.
+
+The important sequence is that these questions occur before commitment, not after the machine has delivered a polished answer.
+
+Once a recommendation exists, people anchor. We start interpreting evidence around the proposed action. The model can make this worse because its proposal comes with explanation, supporting arguments, anticipated objections, and a tone of completion.
+
+One way to preserve judgment is to ask the machine to map the decision before asking it to solve the decision.
+
+That change sounds minor. It changes the user's role from recipient to principal.
+
+Organizations can do something similar through decision records. For high-consequence uses, record what the system recommended, what evidence the human or institution considered, where they disagreed, which policy or objective governed the final choice, and what uncertainty remained. The point is not to create an archive for punishment. It is to make later learning possible.
+
+Without a record, outcome bias takes over. If the decision works, everyone remembers the reasoning as stronger than it was. If it fails, everyone discovers that the uncertainty was obvious. A decision record preserves the ignorance people actually had at the time.
+
+This matters enormously for machine-assisted judgment because models change. The same prompt six months later may produce a different answer. The provider may update the system. Retrieval sources may change. A recommendation that once seemed standard can become unreproducible.
+
+Responsibility requires temporal provenance: which system, which version, which evidence, which permissions, which human authority.
+
+The more consequential the action, the more important that lineage becomes.
+
+After-action review supplies the other half. Do not ask only whether the outcome was good. Ask whether the process was good given what was knowable. A reckless choice can get lucky. A careful choice can fail. If institutions train only on outcomes, they will learn superstition from small samples.
+
+The best AI systems could make after-action review unusually powerful. They can compare predicted scenarios with what happened, identify missing variables, surface where humans overrode them successfully, and find patterns in near misses. A system that participates in decisions can also help expose its own limits if governance rewards that function.
+
+But the review cannot be authored solely by the model whose recommendation is under review.
+
+We keep returning to the same architecture: assistance plus independence.
+
+There is a personal equivalent. Before asking an assistant about a major choice, write one paragraph stating what you currently believe and what would change your mind. Afterward, keep the paragraph. Months later, compare it with reality.
+
+This is not self-help theater. It is a small defense against the human ability to retrofit every past belief to the present.
+
+AI will make retrospective storytelling cheap. It can generate a convincing account of why the choice was always reasonable. A saved record can answer: that is not actually what we thought then.
+
+Judgment requires memory of uncertainty.
+
+There is another habit worth preserving: role reversal. Ask what the same principle would mean if applied by a person or institution you distrust. If an employer may infer an employee's private state because prediction improves performance, would you accept the same inference when the employer is hostile? If a political party may use an agent to personalize persuasion at intimate scale, should its opponent have the same power? If you want an assistant to hide inconvenient information from another person, would you accept being on the receiving end?
+
+This is not a universal moral test. It is an excellent detector of self-serving exceptions.
+
+Machines can make role reversal vivid. They can simulate the strongest case from the other seat. That is one of the places artificial intelligence can improve human judgment rather than merely accelerate it.
+
+A final habit is to separate recommendation from permission.
+
+The system may conclude that one action has the highest expected value. That does not automatically mean the institution has the authority to take it. A hospital may know which use of a scarce bed maximizes one outcome and still be constrained by law, consent, or policy. A company may know which message is most persuasive and still lack a legitimate basis for using intimate data to deliver it. A parent may know which surveillance method most reliably reduces a teenager's risk and still face limits created by the child's developing autonomy.
+
+Judgment is where capability meets jurisdiction.
+
+This is why taking back judgment is not anti-intellectual. It is the opposite. It requires using evidence precisely enough to know what evidence did not decide.
+
 The deepest work of taking back judgment is psychological. We have to accept that responsibility includes uncertainty. There may be no answer that guarantees innocence. The model may present the strongest option and the outcome may still be bad. A person can make a careful decision and regret it. A society can choose under uncertainty and later learn it was wrong.
 
 The desire for divinity is partly the desire to escape this condition.
