@@ -30,8 +30,6 @@ Ten years later, in Paris, Burns opened a Marshall Plan commemoration with Ambas
 
 *REGISTER SWITCH 01 — Paris, June 12, 2007. Burns opens with the shared Red Sox allegiance he and Ambassador Craig Stapleton understood as social shorthand, invokes the Yankees as the joking “evil empire,” then immediately turns to U.S.–French repair, the Marshall Plan and transatlantic cooperation. The joke locates the diplomats; it does not explain the diplomacy. [State Department transcript.](https://2001-2009.state.gov/p/us/rm/2007/87176.htm)*
 
-The joke located the diplomats. It did not explain the diplomacy.
-
 Years later Burns used *competition* and *rivalry* in a much less forgiving setting.
 
 As ambassador to China, he described the United States and China as engaged in historic competition. Technology, military power, Taiwan, trade, artificial intelligence, human rights, alliances and global influence all sat inside the relationship.
@@ -44,7 +42,7 @@ There was no commissioner to settle the dispute.
 
 *ANALOGY BREAK 01 — Editorial synthesis. Red Sox–Yankees rivalry presupposes a shared league, rules, standings, outside game authorities and another season. States have law, treaties and institutions too, but enforcement is partial, power unequal and coercion or war remain possible. The analogy becomes useful at the point where it fails. [Source map.](../research/ch19-visual-archive.md)*
 
-NATO had already shown Burns one classification error to avoid. France, Germany and Belgium fought Washington bitterly over Iraq and the timing of defensive planning for Turkey in 2003. They did not become American adversaries because they opposed the United States. The alliance survived the argument precisely because disagreement did not erase the underlying relationship.
+NATO had already shown Burns one classification error to avoid. France, Germany and Belgium fought Washington bitterly over Iraq and the timing of defensive planning for Turkey in 2003. They did not become American adversaries because they opposed the United States.
 
 Iran supplied the reverse case. Washington regarded the Iranian government as profoundly adversarial. The nuclear dispute involved sanctions, proliferation risk and the possibility of military conflict. Diplomacy still occurred.
 
@@ -58,7 +56,7 @@ The label has to follow the behavior, not replace it.
 
 What is the other government doing? What does it want? Where does it compromise? Where does it refuse? Which signals are theater and which are preparation?
 
-The answer can change. Countries that were enemies become allies. Allies drift. Competitors cooperate in one domain and threaten each other in another. Leaders and governments change faster than diplomatic vocabulary sometimes does.
+The answer can change. Countries that were enemies become allies. Allies drift. Competitors cooperate in one domain and threaten each other in another.
 
 Baseball gave Burns a language for antagonism without annihilation because the league itself was never in doubt.
 
