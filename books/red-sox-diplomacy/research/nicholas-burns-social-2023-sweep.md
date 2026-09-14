@@ -54,6 +54,18 @@ Stable preservation: https://commons.wikimedia.org/wiki/File:Ambassador_Burns_sh
 
 Use: confirms that the July 4 sports imagery was not baseball-only staging. Basketball and baseball both sat inside an American cultural celebration, consistent with Burns's later explanation that sports could create connective tissue with Chinese publics.
 
+### July 4, 2023 — Red Sox cap image at the same celebration
+
+Wikimedia Commons independently indexes a federal image titled `Ambassador Burns holding Red Sox baseball cap.jpg` in both the Nicholas Burns 2023 corpus and the Independence Day-in-China category. The same category contains the independently source-resolved baseball-pitching and basketball images from the July 4 embassy celebration.
+
+Stable category evidence:
+- https://commons.wikimedia.org/wiki/Category:R._Nicholas_Burns_in_2023
+- https://commons.wikimedia.org/wiki/Category:Independence_Day_(United_States)_in_China
+
+Use: **high-value preservation evidence for visible Red Sox identity in official-capacity July 4 programming**. The originating `@USAmbChina` status URL and full file-page metadata remain unresolved, so this item is deliberately classified in the source ledger as `primary_source_preservation_candidate`, not `official_social_primary`.
+
+This distinction matters: the image itself is evidence; a tweet caption we have not recovered is not.
+
 ### September 2, 2023 — Temple of Heaven
 
 Burns described a visit to Beijing's Ming Dynasty Temple of Heaven.
@@ -100,33 +112,31 @@ Stable preservation: https://commons.wikimedia.org/wiki/File:Ambassador_Burns_st
 
 Use: high-value evidence for Burns's use of shared U.S.-China historical memory. This is a different mechanism from sports but serves the same representational logic: finding recognizable human narratives inside a difficult state-to-state relationship.
 
-## Red Sox-specific 2023 lead — not yet promoted
+## What the July 4 cluster now establishes
 
-Wikimedia Commons's 2023 Nicholas Burns corpus and its Independence Day category both index a federal image titled:
+The July 4, 2023 embassy celebration should be treated as a cluster rather than three unrelated images:
 
-`Ambassador Burns holding Red Sox baseball cap.jpg`
+- baseball pitching — fully source-resolved;
+- basketball shooting — fully source-resolved;
+- Red Sox cap — independently preserved but originating social metadata unresolved.
 
-Category evidence:
-- https://commons.wikimedia.org/wiki/Category:R._Nicholas_Burns_in_2023
-- https://commons.wikimedia.org/wiki/Category:Independence_Day_(United_States)_in_China
+That cluster materially strengthens the manuscript. By mid-2023, Burns was not merely talking about sports. Sport had become part of the visual vocabulary of official American representation in Beijing, and Red Sox identity appears inside the same federal photographic record.
 
-The image is grouped with the July 4, 2023 embassy celebration, alongside the independently verified baseball-pitching and basketball posts. This is potentially **central evidence** because it would move visible Red Sox identity in China back more than a year before the October 2024 baseball clinic.
-
-However, the file page/original `@USAmbChina` status URL was not recoverable in this pass. **Do not quote, assign a status ID, or promote it to the canonical source ledger as an official-social primary source until that URL is recovered.** The existence of the federal image can be noted as a research lead.
+The defensible formulation is not that Burns staged a formal Red Sox diplomatic initiative in July 2023. It is that the official July 4 record shows Burns publicly embodying American sport and visibly handling Red Sox gear during embassy programming. The later 2024 Beijing baseball-clinic post then makes the Red Sox connection explicit in words.
 
 ## Negative finding worth preserving
 
-A targeted 2023 search for `RedSox`, `Red Sox`, and `@RedSox` attached to Burns/`@USAmbChina` did not surface an independently preserved 2023 tweet text comparable to the 2024 Beijing baseball-clinic post. The Red Sox-cap image is therefore important but remains evidentially narrower than a recovered caption.
+A targeted 2023 search for `RedSox`, `Red Sox`, and `@RedSox` attached to Burns/`@USAmbChina` still does not surface an independently preserved 2023 tweet text comparable to the 2024 Beijing baseball-clinic post. The Red Sox-cap image therefore remains evidentially narrower than a recovered caption.
 
 ## What 2023 adds
 
-The 2023 record strengthens the book's argument in a different way from 2022. In 2022, Boston sports identity appears conversationally—Celtics in Wuhan, NBA at the station, Yao Ming. In 2023, sport becomes increasingly **embodied and visual**: Burns plays jianzi, pitches a baseball, shoots a basketball, and plays basketball with students. The unresolved Red Sox-cap image sits directly inside that sequence.
+The 2023 record strengthens the book's argument in a different way from 2022. In 2022, Boston sports identity appears conversationally—Celtics in Wuhan, NBA at the station, Yao Ming. In 2023, sport becomes increasingly **embodied and visual**: Burns plays jianzi, pitches a baseball, shoots a basketball, and plays basketball with students. The Red Sox-cap image sits directly inside that sequence.
 
 That sequence is more defensible than saying 'baseball was Burns's diplomatic strategy.' The evidence supports a broader claim: Burns repeatedly used ordinary participation—sports, schools, historical sites, cultural visits—to keep the ambassador recognizable as a person while doing official work.
 
 ## Remaining 2023 work
 
-- Recover the original status URL and metadata for `Ambassador Burns holding Red Sox baseball cap.jpg`.
+- Recover the full file-page metadata and originating status URL for `Ambassador Burns holding Red Sox baseball cap.jpg`.
 - Recover the exact originating status URL for the Zhijiang basketball-with-students imagery/video.
-- Inspect the remaining 2023 Commons corpus for first-person sports/cultural posts, especially the Pride event, Roosevelt House, Pearl Buck home, Nanjing historical sites, and American Ballet Theatre.
+- Inspect the remaining 2023 Commons corpus for first-person sports/cultural posts, especially Pride, Roosevelt House, Pearl Buck home, Nanjing historical sites, and American Ballet Theatre.
 - Avoid promoting routine bilateral meeting photographs unless the post text materially contributes to the representation thesis.
