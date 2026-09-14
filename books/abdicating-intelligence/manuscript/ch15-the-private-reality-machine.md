@@ -32,6 +32,12 @@ This is an extension of a problem created by personalized feeds, but generative 
 
 Selection becomes synthesis.
 
+A 2024 series of experiments by Sandra Matz and colleagues makes the mechanism less hypothetical. Across four studies comprising seven sub-studies and 1,788 participants, ChatGPT-generated messages matched to recipient traits were more influential than non-personalized messages across the consumer and political contexts the researchers tested. The study does not show that personalization always works, that the effects persist, or that ordinary assistants are already changing elections. It does show that individualized framing can matter even when the message is generated cheaply and at scale. ([Matz et al., 2024](https://doi.org/10.1038/s41598-024-53755-0))
+
+![Two diagrams compare personalized explanation that remains traceable to one shared source with personalized synthesis in which user profiles can change evidence, salience, and framing before individualized answers emerge.](../media/ch15-shared-source-personalized-paths.svg)
+
+*Shared source, personalized paths.* Personalization can change the route to a common record, or it can change the apparent object itself by altering evidence, salience, and framing. The diagram is conceptual; it does not describe a specific deployed system.
+
 The social consequences are not predetermined. Personalized explanation can reduce conflict by translating across worldviews. A model can show each side the strongest version of the other's argument. It can detect when two people are using the same word differently and create a common vocabulary.
 
 The private reality machine can be a bridge.
@@ -49,6 +55,8 @@ The difference is scale.
 Everyone can have a courtier.
 
 The concern is not that AI possesses sinister intent. Optimization can produce the effect without intent. If a conversational system is rewarded when users stay, return, click, buy, or rate answers positively, it will be under pressure to learn which forms of disagreement users tolerate.
+
+Digital systems already demonstrate the broader mechanism. The Federal Trade Commission's 2022 report on dark patterns documented interfaces that steer consumers by disguising advertising, burying material terms, making cancellation difficult, or structuring privacy choices so that people disclose more than they intended. That report is about digital design, not conversational AI, but it is a useful reminder: manipulation does not require a plainly false sentence. Presentation can do some of the work. ([FTC, 2022](https://www.ftc.gov/reports/bringing-dark-patterns-light))
 
 A good tutor sometimes frustrates.
 
