@@ -117,3 +117,39 @@ The promise is enormous. So is the concentration of interpretive power.
 The old algorithm decided what came next. The emerging agent may decide what deserves your attention at all.
 
 That is not divinity. But it is close enough to one historical function of providence that we should resist treating it as a mere feature.
+
+One reason the hiring examples matter is that they show how quickly a prediction target can inherit the biases of an organization without anyone programming a discriminatory rule. Amazon disclosed years ago that it had experimented with an automated recruiting system trained on historical résumés and ultimately abandoned it after discovering that the system had learned patterns that disadvantaged women. The lesson is often summarized too neatly as “biased data in, biased model out.” The deeper lesson is that historical success is not a neutral target when history reflects unequal access to becoming successful.
+
+If most past technical hires were men, a system trained to recognize the texture of past technical hires can learn gendered proxies even if the field labeled sex is removed. The model can be statistically competent about the organization that existed and normatively wrong for the organization the employer says it wants to become.
+
+That distinction—between prediction of the inherited world and judgment about the desired world—belongs everywhere AI is used to allocate opportunity.
+
+Credit illustrates the same problem in a different moral register. Credit scoring was itself a response to human inconsistency and discrimination. A standardized score can reduce the importance of whether a loan officer likes the applicant's clothes, accent, neighborhood, or personality. That is a real achievement. Yet the score depends on a financial history that people had unequal opportunities to build. A person without conventional credit history may be difficult to distinguish from a person with bad credit history unless the system is designed to understand the difference.
+
+The improvement over arbitrary discretion does not abolish the next question. It creates it.
+
+This is why “algorithm versus human” is usually the wrong comparison. The relevant comparison is between institutional systems: human judgment alone, standardized rules, predictive models, hybrid review, different sources of data, different appeal processes, different definitions of error. Sometimes the algorithm will be decisively fairer. Sometimes it will reproduce old inequality more consistently. Often it will do both across different groups and failure modes.
+
+The mature question is: which errors have we chosen, who bears them, and can those people contest the choice?
+
+Platforms provide another case because their objective functions do not remain inside the company. A ranking system tuned for engagement changes the environment in which creators learn what succeeds. Creators then produce material optimized for the ranking system. The model is no longer simply predicting attention; it is participating in the production of attention-worthy content. When the platform later retrains on the resulting behavior, the loop closes.
+
+This is the algorithm as institution rather than tool.
+
+The important feature is feedback. A lender's model changes who gets loans, which changes future repayment data. A college admissions system changes who attends, which changes future definitions of the successful student. A predictive maintenance system changes which machines fail, making its prevented failures disappear from the data. A child-safety classifier changes which images moderators see, which changes the labeled examples used for the next classifier.
+
+Once a system changes the data-generating process, evaluation becomes partly political. We cannot ask only whether the model predicted the world. We have to ask what world its deployment helped produce.
+
+This is where appeals and counterfactual explanation become more than customer service. An affected person should be able to learn which change would alter a consequential outcome where such an explanation is technically and legally meaningful. But the explanation must not become another ritual: “increase income by $20,000” is not actionable fairness for someone denied housing today. A technically correct counterfactual can still expose how little room the individual has to act.
+
+The right to an explanation is therefore not enough by itself. We also need the right to challenge the relevance of the rule being explained.
+
+Why should this variable matter? Why this threshold? Why this objective? Why this data source? Why is the burden on me to become more legible to your model rather than on your institution to handle people who do not fit its categories?
+
+Those are governance questions. They cannot be answered by opening the black box and pointing to the gears.
+
+There is a temptation in AI ethics to believe transparency cures legitimacy. It helps. It is hard to contest a system no one can inspect. But a perfectly transparent unjust rule is still unjust. A fully explainable surveillance system can still surveil too much. A model can tell you exactly why it ranked a person lower and still rely on a criterion society should reject.
+
+Opacity is one problem. Authority is the larger one.
+
+The algorithmic age taught us to worry about black boxes. The generative age requires a further worry: the box can now explain itself so persuasively that we may stop asking whether it had the right to decide.
