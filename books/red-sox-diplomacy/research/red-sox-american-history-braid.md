@@ -140,6 +140,29 @@ The existing ledger contains MLB/Red Sox history for 1967, 1975, 1978, 1986, 200
 - Major League Baseball, `2013: Boston Strong` — Red Sox role in city after Marathon bombing and 2013 championship. https://www.mlb.com/redsox/news/mlb-2013-year-in-review
 - Major League Baseball, `2013 Postseason History` — Boston defeated St. Louis 4–2; title connected to city's recovery. https://www.mlb.com/postseason/history/2013
 
+## Integration status — 2026-09-13
+
+The broad American-history braid is now integrated. Further manuscript work should be compression, factual correction, transition repair, or source alignment—not additional thematic layering unless a documented gap requires it.
+
+- **Prologue — integrated.** Ken Burns/Lynn Novick framing establishes baseball as a durable place where American contradiction remains visible; continuity is treated as inherited memory rather than frozen rules.
+- **Chapter 1 — integrated.** The childhood/Boston material carries segregation, civic revival, busing-era conflict and inherited fandom without manufacturing Burns memories.
+- **Chapter 3 — integrated.** Pre-digital expatriate distance now supplies period texture while explicitly stopping short of claims about how Burns personally followed the Red Sox abroad.
+- **Chapter 6 — integrated and compressed.** The 1994 strike sits beside the Baltic withdrawals as American institutional atmosphere, with one explicit non-equivalence guardrail rather than repeated disclaimers.
+- **Chapter 8 — integrated and corrected.** Post-strike context is chronology, not an inferred influence on Burns's briefing-room baseball language.
+- **Chapter 10 — integrated.** Greece is presented through Greek initiative, diaspora networks and an already internationalizing game rather than a one-way American export story.
+- **Chapter 11 — integrated.** Post-9/11 baseball appears only after Burns's first-day NATO scene and is explicitly separated from the causes of allied solidarity; the 1942 Green Light Letter supplies an earlier civic-recreation precedent.
+- **Chapter 16 — integrated.** The 2004 championship is located in national time without inventing Burns's championship-night scene or claiming political unity.
+- **Chapter 17 — integrated.** Boston Strong and the 2013 title function as civic context without assigning Burns an undocumented reaction.
+- **Chapters 18/21 — integrated.** Beijing treats the American pastime as already global and keeps any diplomatic effect claim at human scale.
+- **Epilogue — integrated.** The closing distinction is continuity without stasis: an inherited institution remains recognizable while its participants, meanings and contradictions change.
+
+### Remaining verification work
+
+1. Align `manuscript/source-notes.md` with the contextual evidence now used in Chapters 6, 8 and 11, especially the 1994 strike/recovery, Roosevelt Green Light Letter and post-9/11 baseball sources.
+2. Preserve the unresolved 1986 Jerusalem viewing gap, exact Red Sox contribution to the Greece project, and 2004 championship-night gap as unresolved unless new primary evidence appears.
+3. Keep the Ken Burns documentary frame distinct from Nicholas Burns's own testimony in every reader-facing note and final verification pass.
+4. Do not reopen the completed braid merely to repeat it in India, Iran or other chapters whose refusal of baseball metaphor is structurally useful.
+
 ## Refactor targets
 
 High-value manuscript targets for this pass:
