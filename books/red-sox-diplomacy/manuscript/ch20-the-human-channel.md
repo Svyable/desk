@@ -30,10 +30,6 @@ Call that political authentication.
 
 Diplomacy also needs room. Governments must say enough to be understood while sometimes leaving enough unsaid for another move. Precision is not always the elimination of ambiguity; sometimes it is control over ambiguity.
 
-Jerusalem taught an early version of the problem. Economic assistance in the West Bank and East Jerusalem existed inside unresolved sovereignty and competing claims. An address, a title or a jurisdiction could imply more than an administrator intended.
-
-At NATO in 2003, the problem became collective. The United States and its allies had immense intelligence and military capability. They still disagreed over the timing and political meaning of defensive planning for Turkey. More information could not erase the disagreement. Representatives had to work through it.
-
 Repeated contact helps without becoming magic.
 
 A Russian official does not become less Russian because an American has known him for ten years. An Iranian negotiator does not surrender a national position because the meetings are cordial. A Chinese official does not stop answering to his own political system because he knows an ambassador's family.
