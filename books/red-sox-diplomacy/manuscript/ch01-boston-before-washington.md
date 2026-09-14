@@ -18,7 +18,7 @@ The connection is Burns's, not ours.
 
 *ARCHIVE NOTE — U.S. Embassy & Consulates in China, “Ambassador Nicholas Burns' Remarks on Independence Day,” July 4, 2024. Burns says the song had “special resonance” for him and his friends as they played Little League at Bates School. [Primary transcript.](https://china.usembassy-china.org.cn/ambassador-nicholas-burns-remarks-on-independence-day/)*
 
-The local geography still exists. Wellesley municipal records identify the athletic complex beside Bates as Kelly Field, a cluster of youth fields that includes baseball diamonds. That does not let us assign Burns to a present-day diamond or reconstruct the 1960s layout. His own memory gives enough: Little League, friends, Bates School, Wellesley.
+Wellesley municipal records identify the athletic complex beside Bates as Kelly Field, a cluster of youth fields that includes baseball diamonds. That does not let us assign Burns to a present-day diamond or reconstruct the 1960s layout. His memory gives enough: Little League, friends, Bates School, Wellesley.
 
 Years later, when a sportswriter asked about his baseball credentials, Burns located the high point of his playing career in the Wellesley Babe Ruth League.
 
@@ -32,9 +32,9 @@ The surviving evidence does not tell us his team, position, batting average, coa
 
 Before Red Sox Nation became a phrase Burns could use behind a State Department podium, baseball was a game he had played.
 
-The team he inherited was not an uncomplicated institution. Burns was born in 1956. Three years later, Pumpsie Green became the first Black player to appear for Boston, making the Red Sox the last major-league club to integrate. Burns was a small child; there is no basis for assigning him any awareness of that history at the time.
+The team he inherited was not an uncomplicated institution. Burns was born in 1956. Three years later, Pumpsie Green became the first Black player to appear for Boston, making the Red Sox the last major-league club to integrate. Burns was a small child; there is no basis for assigning him any awareness of that history then.
 
-But the history belongs to the team he inherited. Fenway, family loyalty and civic romance came with older exclusions too.
+But it belongs to the team he inherited. Fenway, family loyalty and civic romance came with older exclusions too.
 
 His family supplied the more intimate inheritance.
 
@@ -54,7 +54,7 @@ A son roots for them anyway.
 
 That spring, the family briefly occupied the same public frame. At Worcester Polytechnic Institute's commencement, Burns introduced himself as a native New Englander and a long-suffering Red Sox fan. He traced an uncle, three cousins and a family manufacturing business into Worcester, then pointed out that his parents, Bob and Esther Burns, were sitting in the audience.
 
-The transcript does not tell us how either parent reacted to the baseball line. It places the people behind the inheritance in the room while their son was already using that inheritance as public identification.
+The transcript does not tell us how either parent reacted to the baseball line. It does place the people behind the inheritance in the room while their son was already using that inheritance as public identification.
 
 *ARCHIVE NOTE — U.S. Department of State, “Preparing for the International Age,” commencement address at Worcester Polytechnic Institute, May 24, 1997. The surviving web transcript identifies Burns as a native New Englander and long-suffering Red Sox fan, names Worcester family ties, and says Bob and Esther Burns were present. The next clause after “were raised” is truncated in the web archive and is not reconstructed here. [Primary transcript.](https://1997-2001.state.gov/policy_remarks/970524.burns.html)*
 
@@ -62,13 +62,13 @@ The Massachusetts life had begun to open outward before college.
 
 The 1974 *Wellesleyan* yearbook records that the high school sent Nick Burns to Luxembourg for three months through American Field Service while another student went to Belgium. The club's motto, printed beneath the account, was “Walk Together, Talk Together.”
 
-A high-school exchange does not explain a diplomatic career. It does show that the boy whose local world included Little League and Red Sox inheritance had already spent time being the American somewhere else.
+A high-school exchange does not explain a diplomatic career. It does show a teenager from Wellesley spending time as the American somewhere else.
 
 At Boston College, the outward movement continued.
 
 Burns entered BC in 1974. When he returned to deliver the university's commencement address in 2002, three old roommates were in the audience and he reminded them that they had lived in the Mods. Boston College later identified his student residence as Mod 36A and reported that, after the speech, he went back to visit it.
 
-The address gives the undergraduate years a place without giving us scenes the archive does not contain. The public record does not establish when Burns occupied 36A, much less place him there for a specific Red Sox game. We do not know where he watched Carlton Fisk's Game 6 home run in 1975 or where Bucky Dent's 1978 tiebreaker found him. The address survives. The baseball scene does not.
+The address gives the undergraduate years a place without supplying scenes the archive does not contain. The public record does not establish when Burns occupied 36A, much less place him there for a specific Red Sox game. We do not know where he watched Carlton Fisk's Game 6 home run in 1975 or where Bucky Dent's 1978 tiebreaker found him.
 
 The more consequential surviving memory comes from a classroom.
 
@@ -78,7 +78,7 @@ One teacher Burns later named as formative was the European historian Mark O'Con
 
 The poems complicated that inheritance. Burns said O'Connor pushed students to ask ethical questions of history, not merely master its sequence.
 
-A memory recovered decades later cannot be made to explain Cairo, Jerusalem, NATO, Iraq or China. It does tell us that at least one college class disturbed an assumption he had brought into it.
+A memory recovered decades later cannot explain Cairo, Jerusalem, NATO, Iraq or China. It does establish that at least one college class disturbed an assumption he had brought into it.
 
 The same period took Burns abroad again. In 1977 he earned the *Certificat Pratique de Langue Française* at the Sorbonne. He returned to Boston College and graduated in 1978 with a B.A. in history, summa cum laude and Phi Beta Kappa. We do not know how he followed the Red Sox from Paris, or whether he did.
 
@@ -94,7 +94,7 @@ Those are facts about the baseball culture around his Massachusetts life, not me
 
 The dates also keep baseball inside the country around it. The 1967 pennant race unfolded amid Vietnam and the civil-rights struggle. Burns entered Boston College in 1974 as court-ordered school desegregation produced protest and violence in Boston. The 1975 World Series arrived as the country moved from Vietnam and Watergate toward the Bicentennial.
 
-Baseball did not explain any of that.
+Baseball explained none of it.
 
 It shared the calendar.
 
