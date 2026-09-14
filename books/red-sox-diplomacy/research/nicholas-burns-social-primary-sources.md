@@ -7,7 +7,7 @@ This file collects **verifiable posts by Nicholas Burns himself**—especially p
 A post moves into the verified corpus only when at least one of these is available:
 
 1. a direct `twitter.com/USAmbChina/status/...` or `x.com/USAmbChina/status/...` URL with sufficiently clear authorship; or
-2. a stable preservation layer that names Nicholas Burns as author and records the original status URL, date, and content context (for example Wikimedia Commons metadata sourced from the official account).
+2. a stable preservation layer that names Nicholas Burns as author and records the original status URL, date, and content context.
 
 Secondary reporting can identify candidates, but it does not by itself turn a remembered or paraphrased post into manuscript-ready primary evidence. Retweets, Mission China institutional notices, and staff-authored material remain distinct unless Burns's authorship is clear.
 
@@ -22,25 +22,49 @@ Secondary reporting can identify candidates, but it does not by itself turn a re
 
 Burns narrated his first trip outside Beijing after lockdown, leaving Beijing West Station for the U.S. Consulate General in Wuhan.
 
-Source: https://twitter.com/USAmbChina/status/1535809403651371008
+Source: https://twitter.com/USAmbChina/status/1535803125201702912
 
-Secondary preservation/context: USC Center on Public Diplomacy, “Nicholas Burns: Influencer? The Twitter Diplomacy of Biden’s New China Ambassador.”
+Independent contemporary preservation/context: USC Center on Public Diplomacy, “Nicholas Burns: Influencer? The Twitter Diplomacy of Biden’s New China Ambassador,” July 5, 2022. The USC embed exposes the exact status ID above.
 
 Editorial use: strong evidence for the account’s first-person, human-scale register; useful for Chapters 18, 20, and 21.
 
 ### June 13, 2022 — Celtics fan in Wuhan
 
-USC’s contemporaneous analysis preserves Burns calling out a fellow `@Celtics` fan from Portland, Maine while visiting the Wuhan consulate project.
+> I found a @Celtics fan in #Wuhan, Don Hogg of Portland, Maine. His day job is to oversee construction of our new U.S. Consulate General. He and I will be at the Ribbon Cutting in this space in September.
 
-Preservation/context: https://uscpublicdiplomacy.org/blog/nicholas-burns-influencer-twitter-diplomacy-bidens-new-china-ambassador
+Source: https://twitter.com/USAmbChina/status/1536186469966131201
 
-Editorial use: early evidence that Boston sports identity entered the official ambassadorial feed naturally rather than as a later retrospective theme. Recover the direct status ID before quoting in the manuscript.
+Independent contemporary preservation/context: USC Center on Public Diplomacy article above, which reproduces the post and links the original status.
+
+Editorial use: **high-value early Boston-sports evidence**. A Celtics reference appears incidentally inside an official trip to a consular construction project. This matters precisely because it is not a staged sports-diplomacy event: Burns’s Boston identity is already visible in the ordinary conduct of his ambassadorial work.
+
+### June 14, 2022 — NBA on CCTV5 at Wuhan train station
+
+USC’s contemporaneous account links a Burns post about NBA games airing on CCTV5 at Wuhan’s train station.
+
+Source: https://twitter.com/USAmbChina/status/1536522916808085505
+
+Independent preservation/context: USC Center on Public Diplomacy article above.
+
+Editorial use: sports appears in the feed as ordinary observation rather than only ceremonial programming. Preserve as contextual primary evidence; verify the full post text against a stable capture before direct quotation.
+
+### June 25, 2022 — Fenghuangling hike / Journey to the West
+
+Burns posted from a Saturday hike around Fenghuangling Nature Park outside Beijing and described the mountains as inspiring the Chinese novel *Journey to the West*.
+
+Source: https://twitter.com/USAmbChina/status/1540907480900698112
+
+Independent preservation/context: USC Center on Public Diplomacy article above.
+
+Editorial use: first-person cultural and recreational register; strong example of an official ambassadorial account functioning partly as a human-scale diary of living in China.
 
 ### June 25, 2022 — democratic self-criticism as national strength
 
 Burns argued on the official account that American openness about national flaws and constitutional freedoms was a strength rather than a weakness.
 
-Preservation/context: USC Center on Public Diplomacy article above, which reproduces and links the post.
+Source: https://twitter.com/USAmbChina/status/1540531343544553472
+
+Independent contemporary preservation/context: USC Center on Public Diplomacy article above, which reproduces the post and exact status link.
 
 Editorial use: compact evidence for Burns’s theory of representing America abroad: patriotic without pretending flawlessness.
 
@@ -110,8 +134,6 @@ Burns welcomed John Quelch to Beijing and publicly wished Duke Kunshan students 
 
 Source: https://twitter.com/USAmbChina/status/1764909169876914590
 
-Independent preservation: Wikimedia Commons, “Ambassador Burns and John Quelch, Executive Vice Chancellor at Duke Kunshan University...”
-
 Editorial use: direct evidence that Burns framed education as relationship infrastructure.
 
 ### April 11, 2024 — Yenching Academy at Peking University
@@ -140,8 +162,6 @@ Burns met Chinese student visa applicants at Embassy Beijing and stated that Ame
 
 Source: https://twitter.com/USAmbChina/status/1788112597205581826
 
-Independent preservation: https://commons.wikimedia.org/wiki/File:Ambassador_Burns_speaking_to_a_group_of_student_visa_applicants_in_the_Visa_Hall_of_U.S._Embassy_Beijing.jpg
-
 Editorial use: concrete evidence that educational mobility was not just rhetoric but part of his public ambassadorial agenda.
 
 ### May 9, 2024 — Ashley Tellis at Embassy Beijing
@@ -149,8 +169,6 @@ Editorial use: concrete evidence that educational mobility was not just rhetoric
 Burns described hosting his friend Ashley Tellis for a conversation with embassy staff about the U.S.-India relationship.
 
 Source: https://twitter.com/USAmbChina/status/1788496889240780876
-
-Independent preservation: Wikimedia Commons, “Ambassador Nicholas Burns and Dr. Ashley Tellis in front of US Embassy Beijing backdrop and flags.jpg.”
 
 Editorial use: evidence of Burns’s networked, conversational style and how prior diplomatic relationships traveled with him to Beijing.
 
@@ -160,17 +178,23 @@ Burns publicly argued for increasing the number of American students in China an
 
 Source: https://x.com/USAmbChina/status/1789926417859227751
 
-Independent preservation: https://commons.wikimedia.org/wiki/File:Meeting_between_US_and_Yunnan_University_delegations_at_long_table.jpg
-
 Editorial use: unusually explicit statement that student exchange is part of rebuilding the bilateral relationship itself.
+
+### June 22, 2024 — German member of Red Sox Nation at the Great Wall
+
+Wikimedia Commons places a preserved official image titled `Ambassador Nicholas Burns met a German member of RedSox Nation at the Great Wall of China.jpg` in its June 22, 2024 China-photo category and in the 2024 Nicholas Burns corpus.
+
+Stable preservation evidence:
+- https://commons.wikimedia.org/wiki/Category:China_photographs_taken_on_2024-06-22
+- https://commons.wikimedia.org/wiki/Category:R._Nicholas_Burns_in_2024
+
+Editorial use: strong evidence that the Great Wall / Red Sox Nation motif was real and repeated. **Status ID and exact original caption remain unrecovered**, so this item is not yet cleared for direct quotation or canonical ledger promotion as an official-social primary source.
 
 ### June 27, 2024 — Fudan and Harvard students in Shanghai
 
 Burns described academic exchanges as essential to future U.S. and Chinese leaders knowing and understanding one another.
 
 Source: https://x.com/USAmbChina/status/1806264733810696434
-
-Independent preservation: https://commons.wikimedia.org/wiki/File:Ambassador_Burns_chatting_with_students_from_Harvard_and_Fudan_University.jpg
 
 Editorial use: one of the cleanest primary statements of Burns’s belief in exchanges as strategic infrastructure.
 
@@ -180,8 +204,6 @@ Burns’s “America the Beautiful” framing highlighted landscape, religious/e
 
 Source: https://x.com/USAmbChina/status/1808094537203830910
 
-Independent preservation: https://commons.wikimedia.org/wiki/File:Ambassador_Burns_stands_behind_podium_next_to_US_flag_on_stage_with_CG_Sara_Yun_facing_crowd.jpg
-
 Editorial use: high-value evidence for the manuscript’s representation theme: what, specifically, did Burns choose to say America was?
 
 ### July 6, 2024 — young China scholars and four Celtics fans
@@ -189,8 +211,6 @@ Editorial use: high-value evidence for the manuscript’s representation theme: 
 At an embassy discussion with the next generation of American China scholars, Burns singled out that four participants were `@Celtics` fans.
 
 Source: https://x.com/USAmbChina/status/1809558763784794512
-
-Independent preservation: https://commons.wikimedia.org/wiki/File:Ambassador_Nicholas_Burns_at_the_Embassy_with_a_group_representing_the_next_generation_of_American_China_scholars.jpg
 
 Editorial use: **high-value Boston-sports evidence**. The Celtics reference is incidental to the formal purpose of the gathering, which makes it especially useful: Boston identity appears spontaneously inside official diplomatic work.
 
@@ -200,8 +220,6 @@ Burns congratulated Ambassador Barrett Salato and marked the Solomon Islands Nat
 
 Source: https://x.com/USAmbChina/status/1810499335391527263
 
-Independent preservation: Wikimedia Commons, “Ambassador Burns shaking hands with Solomon Islands Ambassador to PRC.jpg.”
-
 Editorial use: diplomatic community, ceremony, and routine representation in Beijing.
 
 ### July 11, 2024 — traditional Mongolian triathlon
@@ -210,40 +228,51 @@ Burns used a humorous, self-deprecating sports register after trying archery, bu
 
 Source: https://x.com/USAmbChina/status/1811279200793579929
 
-Independent preservation: https://commons.wikimedia.org/wiki/File:Ambassador_Nicholas_Burns_trying_out_the_traditional_Mongolian_triathlon_02.jpg
-
 Editorial use: evidence that the account’s human register included embodied participation and willingness to joke about losing—not just polished cultural-diplomacy language.
 
 ### October 22, 2024 — Beijing baseball clinic / Red Sox Nation
 
-Burns explicitly connected young Chinese participants at a Beijing baseball clinic with future membership in Red Sox Nation.
+> Great to see so many young Chinese friends attend our Baseball Clinic in Beijing. Future members of @Redsox Nation.
 
 Source: https://x.com/USAmbChina/status/1848646673523728693
 
-Independent preservation: https://commons.wikimedia.org/wiki/File:Ambassador_Burns_with_Chinese_baseball_fans.png
+Independent preservation: Wikimedia Commons, “Ambassador Burns with Chinese baseball fans.png,” published October 22, 2024 and attributed to Ambassador Nicholas Burns.
 
 Editorial use: **central primary evidence** for the book’s baseball-and-representation thesis. This is not an inferred anecdote: Burns himself connected China, youth baseball, and Red Sox identity while serving as ambassador.
 
 ### December 9, 2024 — Stony Brook Institute at Anhui University
 
-Burns appeared with Chinese students at the Stony Brook Institute at Anhui University, described in the preservation record as the first U.S.-China joint institute in Anhui Province.
+Burns appeared with Chinese students at the Stony Brook Institute at Anhui University.
 
 Source: https://x.com/USAmbChina/status/1866102008664797211
 
-Independent preservation: https://commons.wikimedia.org/wiki/File:Ambassador_Burns_with_Chinese_students_from_the_Stony_Brook_Institute_at_Anhui_University_(2024).jpg
-
 Editorial use: late-tenure continuity in the education/exchange strand.
 
-## Red Sox / Boston candidate queue — do not promote yet
+## Retrospective corroboration: Burns explains the strategy himself
 
-Wikimedia Commons category records surface at least two additional 2024 images whose filenames themselves indicate Burns using “RedSox Nation” at the Great Wall of China:
+### April 30, 2025 — “Lessons from the Front Lines of the U.S.-China Relationship”
 
-- `Ambassador Burns - Charter members of @RedSox Nation at the Great Wall of China.jpg`
-- `Ambassador Nicholas Burns met a German member of RedSox Nation at the Great Wall of China.jpg`
+In a first-person Harvard lecture delivered three months after returning from Beijing, Burns made explicit what the social record only partly reveals. He called sports—especially basketball—a major bridge between the two societies; described himself as a lifelong Celtics fan; joked about Yankees hats as a Chinese fashion phenomenon; said Mookie Betts should never have been traded; and explained that he deliberately wore his Red Sox hat in public at the Great Wall, the Bund in Shanghai, Xiamen, Chengdu, and during his *60 Minutes* interview.
 
-Category evidence: https://commons.wikimedia.org/wiki/Category:People_on_the_Great_Wall_of_China
+Source: https://www.belfercenter.org/research-analysis/lessons-front-lines-us-china-relationship
 
-These are potentially important because they suggest Red Sox identity was not a one-off baseball-clinic flourish. **Do not quote or use as manuscript fact yet.** Recover each file page’s original `@USAmbChina` status URL, date, and caption first, then promote to the ledger.
+Editorial use: **crucial first-person retrospective corroboration**. This does not replace contemporaneous social posts, but it establishes that Burns himself understood sports—and specifically visible Red Sox identity—as part of how he engaged Chinese publics. It also confirms that the Great Wall Red Sox material is not an archivist’s accidental filename or retrospective inference.
+
+## Red Sox / Boston candidate queue — unresolved but narrowed
+
+### Great Wall “charter members” image
+
+Wikimedia Commons preserves a file titled `Ambassador Burns - Charter members of @RedSox Nation at the Great Wall of China.jpg` in the 2024 Burns corpus.
+
+Category evidence: https://commons.wikimedia.org/wiki/Category:R._Nicholas_Burns_in_2024
+
+Burns’s April 2025 lecture independently confirms that he wore his Red Sox hat during Great Wall visits. That materially strengthens this item’s context, but **the original `@USAmbChina` status ID, date, and exact caption still need recovery before direct quotation or promotion as a canonical official-social row**.
+
+### Great Wall German Red Sox fan
+
+Wikimedia Commons dates a file titled `Ambassador Nicholas Burns met a German member of RedSox Nation at the Great Wall of China.jpg` to June 22, 2024 via the corresponding date category. This gives us a reliable date and stable federal-image preservation, but the original social status ID remains unresolved.
+
+Use as an evidence lead, not yet as a quotable tweet.
 
 ## Personal-account material
 
@@ -253,14 +282,18 @@ Profile: https://x.com/RNicholasBurns
 
 ## Research controls / next passes
 
-1. **Recover the two Great Wall Red Sox posts.** They are now the highest-value unresolved social-source leads.
-2. **Complete a 2022 sweep.** Focus on sports, family, travel, humor, cultural visits, and posts where USC’s contemporaneous article preserves content but the direct status ID still needs recovery.
+1. **Recover the two Great Wall status IDs.** The German-fan image is now dated June 22, 2024; the charter-members item remains undated in the recovered metadata.
+2. **Continue the 2022 sweep.** The USC article now gives exact status IDs for the June 12 Wuhan departure, June 13 Celtics fan, June 14 NBA/CCTV5 observation, June 25 hike, and June 25 democratic-values post. Search the rest of 2022 for sports, Boston, family, humor, cultural visits, and travel.
 3. **Complete a 2023 sweep.** Prioritize baseball, Boston sports, Chinese travel, education, cultural participation, and first-person commentary rather than routine meeting notices.
 4. **Complete a 2024 sweep through departure.** Wikimedia Commons contains a large preserved corpus of official-account imagery; use it systematically to recover source URLs and captions.
 5. **Search `@RNicholasBurns` separately.** Build a pre-China / post-China personal-fandom chronology without blending it into official Mission China material.
 6. **Quote control.** Before publication, verify any exact quotation against a stable capture. Prefer paraphrase in research notes when only a secondary reproduction survives.
-7. **Source ledger.** New verified social sources from this pass are staged in `source-ledger-addendum-39.csv`; the canonical rebuild should normalize Twitter/X URL variants and deduplicate preservation layers.
+7. **Source ledger.** Verified social sources and the 2025 first-person retrospective are staged in `source-ledger-addendum-39.csv`; the canonical rebuild should normalize Twitter/X URL variants and deduplicate preservation layers.
 
-## What the social record is beginning to establish
+## What the social record now establishes
 
-The social record is stronger than a single “baseball diplomacy” anecdote. It shows a recurring public style: Burns representing the United States through formal policy while repeatedly allowing recognizable personal identity to remain visible—Boston sports fandom, humor about losing, student conversations, travel, cultural participation, and plainspoken descriptions of American values. The strongest baseball evidence remains the October 2024 Beijing clinic, but the Celtics post and unresolved Great Wall `RedSox Nation` captures suggest a broader, repeatable pattern worth tracing carefully rather than overstating.
+The record has moved beyond a single “baseball diplomacy” anecdote. It shows a recurring public style in which Burns represented U.S. policy while leaving recognizable personal identity visible: Boston sports fandom, humor, student conversations, travel, cultural participation, and plainspoken descriptions of American values.
+
+The chronology is now especially important. Boston sports identity appears on the official feed almost immediately: a Celtics fan during the June 2022 Wuhan trip, NBA viewing in the same travel sequence, baseball imagery in 2023, repeated Celtics and Red Sox references in 2024, and finally the explicit Beijing clinic invitation into “Red Sox Nation.” Burns’s 2025 retrospective then confirms that this was not accidental. He says he deliberately wore his Red Sox hat in public around China and explicitly identifies sports as a bridge between societies.
+
+That is much stronger evidence for the book’s thesis than simply saying the ambassador liked baseball. The defensible claim is narrower and better: Burns repeatedly allowed a recognizable Boston sports identity to remain visible inside the work of representing the United States, and later described sports as part of the bridge-building function of his diplomacy.
