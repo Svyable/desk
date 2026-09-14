@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Memory needs a route back to the record</title>
+  <desc id="desc">A grayscale diagram showing durable records at the bottom, an interpretation and retrieval layer in the middle, and operational decisions at the top. A second path shows independent access, provenance, and a tested fallback route bypassing the AI interface. The figure emphasizes that an institution can retain its records while losing the practical route needed to understand and act on them.</desc>
+  <rect width="1200" height="760" fill="white"/>
+  <text x="70" y="72" font-family="Georgia, serif" font-size="34" font-weight="700" fill="#111">Memory needs a route back to the record</text>
+  <text x="70" y="112" font-family="Arial, sans-serif" font-size="19" fill="#333">Convenience can sit above the archive. It should not become the only way home.</text>
+
+  <rect x="120" y="560" width="960" height="110" rx="10" fill="#f3f3f3" stroke="#222" stroke-width="2"/>
+  <text x="155" y="605" font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#111">DURABLE RECORD LAYER</text>
+  <text x="155" y="638" font-family="Arial, sans-serif" font-size="18" fill="#333">Primary records · versions · provenance · portable formats · independently accessible sources</text>
+
+  <rect x="250" y="340" width="700" height="120" rx="10" fill="#e7e7e7" stroke="#222" stroke-width="2"/>
+  <text x="285" y="388" font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#111">RETRIEVAL + INTERPRETATION LAYER</text>
+  <text x="285" y="422" font-family="Arial, sans-serif" font-size="18" fill="#333">Search · AI summaries · indexes · taxonomies · explanations · decision support</text>
+
+  <rect x="350" y="160" width="500" height="100" rx="10" fill="#d9d9d9" stroke="#222" stroke-width="2"/>
+  <text x="385" y="205" font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#111">OPERATIONAL ACTION</text>
+  <text x="385" y="236" font-family="Arial, sans-serif" font-size="18" fill="#333">Decisions · controls · services · explanations</text>
+
+  <line x1="600" y1="560" x2="600" y2="460" stroke="#111" stroke-width="4"/>
+  <polygon points="600,447 591,465 609,465" fill="#111"/>
+  <line x1="600" y1="340" x2="600" y2="260" stroke="#111" stroke-width="4"/>
+  <polygon points="600,247 591,265 609,265" fill="#111"/>
+  <text x="625" y="518" font-family="Arial, sans-serif" font-size="17" fill="#333">normal route</text>
+
+  <path d="M 220 615 C 70 560, 70 255, 330 210" fill="none" stroke="#555" stroke-width="3" stroke-dasharray="10 8"/>
+  <polygon points="343,208 323,201 329,220" fill="#555"/>
+  <text x="72" y="400" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222">INDEPENDENT ROUTE</text>
+  <text x="72" y="428" font-family="Arial, sans-serif" font-size="16" fill="#444">source access</text>
+  <text x="72" y="451" font-family="Arial, sans-serif" font-size="16" fill="#444">tested fallback</text>
+  <text x="72" y="474" font-family="Arial, sans-serif" font-size="16" fill="#444">human know-how</text>
+
+  <rect x="870" y="175" width="255" height="265" rx="10" fill="white" stroke="#555" stroke-width="2" stroke-dasharray="8 6"/>
+  <text x="898" y="216" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#111">FAILURE TEST</text>
+  <text x="898" y="252" font-family="Arial, sans-serif" font-size="17" fill="#333">If the interface vanishes:</text>
+  <text x="898" y="286" font-family="Arial, sans-serif" font-size="16" fill="#333">Can we find the source?</text>
+  <text x="898" y="318" font-family="Arial, sans-serif" font-size="16" fill="#333">Can we explain the rule?</text>
+  <text x="898" y="350" font-family="Arial, sans-serif" font-size="16" fill="#333">Can we operate degraded?</text>
+  <text x="898" y="382" font-family="Arial, sans-serif" font-size="16" fill="#333">Can we migrate providers?</text>
+  <text x="898" y="414" font-family="Arial, sans-serif" font-size="16" fill="#333">Can we reproduce history?</text>
+
+  <text x="120" y="719" font-family="Arial, sans-serif" font-size="16" fill="#444">Conceptual figure. Not a quantitative reliability model.</text>
+</svg>
