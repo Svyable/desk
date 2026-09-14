@@ -1,189 +1,173 @@
 # A Profession Without Beginners
 
-Imagine a law firm in which the first draft is almost never written by a junior lawyer.
+Imagine a law firm where the first draft is almost never written by a junior lawyer.
 
-The model reads the complaint, retrieves relevant cases, builds a chronology, proposes arguments, drafts the motion, checks citation format, identifies contrary authority, and generates a client summary. A first-year associate reviews the work. A partner reviews the associate's review. The client pays less. The firm handles more matters.
+The model reads the complaint, retrieves cases, builds the chronology, proposes arguments, drafts the motion, checks citation format, finds contrary authority, and writes the client summary. A first-year associate reviews it. A partner reviews the associate's review. The client pays less. The firm handles more matters.
 
 For several years, everybody wins.
 
-The partner is excellent because she spent the first fifteen years of her career doing the work the machine now performs. She knows when the argument is too neat, when a factual omission is legally important, when a citation is technically correct but strategically weak, when the tone will irritate a judge, and when the model has mistaken the client's real problem for the legal question in the file.
+The partner is excellent partly because she spent fifteen years doing the work the machine now performs. She knows when an argument is too neat, when an omitted fact is legally important, when a citation is correct but strategically weak, when the tone will irritate a judge, and when the file's legal question is not the client's real problem.
 
 The associate is smart.
 
 The associate has never written fifty bad motions.
 
-That difference may not matter if reviewing generated motions teaches the same judgment faster.
+Maybe reviewing generated motions teaches the same judgment faster.
 
-It may matter enormously if the judgment was built through the act of writing.
+Maybe it does not.
 
-The profession will not know immediately because the senior layer carries historical competence forward.
+The profession will not know immediately because the senior layer carries old competence forward.
 
 This is a stock-and-flow problem.
 
-The stock is existing expertise.
+The stock is the expertise already walking around.
 
-The flow is the process that produces new experts.
+The flow is whatever turns beginners into replacements.
 
-AI can make an organization look cognitively rich while it spends down the stock.
+AI can make a profession look cognitively rich while it spends down the stock.
 
-Law provides a vivid example because professional responsibility remains human even as research and drafting automate. Medicine has an even sharper version because clinical authority is tied to licensed people who train through supervised exposure. Software engineering provides a less regulated but faster-moving version because tools can now generate large amounts of code while senior engineers remain responsible for systems that few juniors have built from first principles.
+Law makes the problem vivid because professional responsibility remains human while research and drafting automate. Medicine makes it sharper because clinical authority belongs to licensed people trained through supervised exposure. Software engineering is less regulated and moves faster: agents can generate enormous amounts of code while senior engineers remain responsible for systems fewer juniors have built from first principles.
 
-The details differ.
-
-The succession problem is shared.
+Different professions. Same succession question.
 
 Consider medicine.
 
-Clinical education is already structured around progressive responsibility because knowledge alone is insufficient. A medical student studies. A resident sees patients under supervision. Repetition builds pattern recognition. Attendings review decisions and intervene. Training is expensive partly because novices consume expert attention while performing work less efficiently than experts could perform it themselves.
+Clinical education already assumes that knowledge is not enough. A student studies. A resident sees patients under supervision. Repetition builds pattern recognition. Attendings review decisions and intervene. Training is expensive partly because novices consume expert attention while doing work less efficiently than experts could do themselves.
 
-An AI system that handles routine diagnosis, documentation, and treatment planning can create huge value. It can reduce clerical burden, surface rare possibilities, and give clinicians more time with patients. Few people in medicine need convincing that documentation overload is educationally sacred.
+An AI system that handles routine diagnosis, documentation, and treatment planning can create enormous value. It can reduce clerical burden, surface rare possibilities, and return time to patients. Nobody needs to defend copying information between records as educationally sacred.
 
-But some routine encounters are also where clinical intuition forms.
+But some ordinary encounters are also where clinical intuition forms.
 
 If software resolves every normal presentation before a trainee engages deeply, the trainee's case distribution changes. They may see more interesting medicine and less ordinary medicine.
 
-That sounds like an improvement until we remember that “interesting” is recognized relative to ordinary.
+That sounds excellent until we remember that *interesting* is recognized against a background of ordinary.
 
-The training program must decide which ordinary experiences remain developmentally necessary.
+The training program has to decide which ordinary experiences still earn their place.
 
-Software engineering faces a similar issue with code.
+Software engineering has the same problem in a noisier form.
 
-The first programs a developer writes are often bad. That is not an argument for bad software. The errors teach. Variables are mutated in the wrong place. abstractions leak. concurrency behaves differently from expectation. a dependency breaks. tests miss an edge case. The developer learns not because mistakes are noble but because feedback builds a model of how software behaves.
+The first programs a developer writes are often bad. That is not a defense of bad software. The errors teach. State mutates in the wrong place. An abstraction leaks. Concurrency violates an intuition. A dependency breaks. Tests miss the edge case. Feedback turns these embarrassments into a model of how software behaves.
 
-A code-generating agent can skip many early mistakes.
+A coding agent can skip many of those mistakes.
 
-It can also explain them when asked.
+It can also explain them afterward.
 
 The profession has to discover whether explanation after generation builds the same debugging intuition as generation before explanation.
 
-We should not assume the answer either way.
+We should not pretend to know yet.
 
-This is one of the most important empirical questions of the next decade.
+The useful empirical question is narrower than whether AI “deskills” people:
 
-Which forms of AI assistance accelerate expertise, which preserve it, and which create dependence that remains hidden under assisted performance?
+Which forms of assistance accelerate expertise, which preserve it, and which hide dependence beneath excellent assisted performance?
 
-The answer will likely vary by domain and by workflow.
+The answer will vary by domain and workflow. Evidence already points in more than one direction. AI can diffuse expert patterns to less experienced workers. Pedagogically designed tutors can improve learning. Automation can also reduce situation awareness when active control disappears, and educational experiments show that unrestricted answer assistance can improve assisted performance without guaranteeing later independent performance.
 
-We already have evidence pointing in both directions. AI can diffuse expert patterns to less experienced workers. Intelligent tutoring can improve learning when designed around pedagogy. At the same time, automation research shows that removing active control can reduce situation awareness, and educational experiments show that unrestricted answer assistance can improve practice performance without improving later independent performance.
+That mixed evidence is not an inconvenience. It is a map of the design problem.
 
-The mixed evidence is not frustrating noise.
+Skill is task-specific. So is deskilling.
 
-It is telling us to stop asking whether AI “deskills” people in the abstract.
+A profession should map its developmental pathway with the same seriousness it maps production.
 
-Skill is task-specific and architecture-dependent.
+What experiences produce judgment? Which can be simulated? Which require real consequences? Which mistakes are safe enough for trainees to make? What must be internalized before automation becomes useful rather than concealing? What competence can be tested without confusing a polished artifact for the person who submitted it?
 
-A profession should map its own developmental pathways.
+Most professions cannot answer these questions cleanly because their pathways evolved rather than being engineered.
 
-What experiences produce judgment? Which can be simulated? Which require real consequences? Which errors are safe enough for trainees to make? Which concepts must be internalized before automation becomes helpful? What competence can be assessed independently of artifact production?
+“We learned by doing” is true and useless until the next question:
 
-Most professional organizations cannot answer these questions clearly today because the pathway evolved historically rather than being engineered.
+*What did the doing teach?*
 
-“We learned by doing” is accurate and insufficient.
+Once that is named, training can be redesigned instead of merely defended.
 
-What did the doing teach?
+That could make apprenticeship better than it was.
 
-If a profession can name the answer, it can redesign training around it.
+Junior lawyers do not need nights correcting citation punctuation to learn legal judgment. Junior doctors do not need hours copying records to learn medicine. Junior programmers do not need to reinvent standard authentication flows to understand software security.
 
-This creates an opportunity to make apprenticeship better than it was.
+AI can remove low-learning drudgery and concentrate training on work that actually changes the trainee.
 
-Junior lawyers do not need to spend nights correcting citation punctuation to learn legal judgment. Junior doctors do not need to spend hours copying information between records to learn medicine. Junior programmers do not need to reinvent standard authentication flows to understand software security.
+The catch is that high-learning work is often more expensive to supervise.
 
-AI can remove low-learning drudgery and concentrate training on high-learning work.
+A trainee handling an ambiguous case needs an expert nearby. A novice reviewing a seeded AI error needs feedback. Simulations have to be designed and refreshed. Competency assessment takes time.
 
-The result could be fewer wasted hours and stronger professionals.
+Automation may not eliminate the cost of training. It may reveal it.
 
-But high-learning work is often more expensive to supervise.
+That matters because visible costs are easier to cut than hidden ones.
 
-A trainee handling a genuinely ambiguous case needs an expert nearby. A novice reviewing a seeded AI error needs feedback. A simulation must be designed and updated. Competency assessment takes time.
+When training was embedded in billable production, some of its expense could pass through to clients or disappear into ordinary labor. Once a machine can produce the billable artifact, dedicated training appears on the spreadsheet as overhead.
 
-Organizations may discover that automation does not eliminate the cost of training; it makes the cost explicit.
+The firms that cut it may look best first.
 
-That is politically significant because explicit costs are easier to cut than hidden ones.
+Professional ecosystems therefore need some reason to pay for competence that arrives later. Licensure is one blunt mechanism. Accreditation is another. Liability and insurance can create incentives, imperfectly. Clients can demand evidence. Firms can treat apprenticeship capacity as infrastructure rather than charity.
 
-When training was embedded in billable work, some of its expense could be passed through to clients or absorbed as ordinary labor. When a machine can produce the billable artifact, dedicated training looks like overhead.
+The interesting economic question is whether better training becomes a competitive advantage before the pipeline breaks.
 
-The firms that cut it may perform best in the short run.
+If companies can identify workers who become dramatically more capable through AI-assisted practice, they have a reason to preserve those pathways. The goal is not to save junior tasks. It is to manufacture people capable of higher-value judgment.
 
-Professional ecosystems will need mechanisms that reward long-run competence.
+AI itself may help measure that development.
 
-Licensure is one blunt mechanism. Continuing education is another. Malpractice liability and insurance can create incentives, though often imperfectly. Accreditation bodies can require training structures. Clients can demand evidence. Firms can treat apprenticeship capacity as strategic infrastructure and measure it explicitly.
+A training system can track how much assistance a learner needs, which errors recur, whether calibration improves, and whether competence transfers to new cases. It can compare supported and unsupported performance. It can make developmental progress visible at a resolution annual reviews never had.
 
-The most interesting mechanism may be internal labor markets.
+That possibility comes with a surveillance problem. A worker should not become a permanent psychological dataset for an employer because the tutor happens to be digital.
 
-If companies can identify workers who become dramatically more capable through AI-assisted practice, they will have economic reasons to preserve those pathways. The goal is not protecting junior tasks. It is producing people who can do higher-value work.
-
-This is where AI itself can become the measurement system.
-
-A training platform can track how much assistance a learner needs, which errors recur, how calibration changes, and whether competence transfers to new cases. It can compare performance with and without support. It can make developmental progress legible at a granularity annual reviews never achieved.
-
-That raises privacy and surveillance concerns. A worker should not become a permanent psychological dataset for the employer merely because tutoring is digital. Governance matters.
-
-Still, the possibility is powerful.
-
-We can replace time-served proxies with demonstrated growth.
+Still, the underlying possibility matters: time served can become a weaker proxy for demonstrated growth.
 
 A profession without beginners would be dangerous.
 
 A profession with better ways to become expert would be an advance.
 
-There is another transition to consider. As AI handles more of the technical core, professional value may shift toward relationships, responsibility, and judgment under uncertainty.
+There is another apprenticeship hiding beyond the technical work.
 
-Lawyers may spend more time with clients and less time searching. Doctors may spend more time explaining options and less time documenting. Engineers may spend more time defining systems and less time typing implementation. These are attractive futures.
+As AI handles more of the technical core, professional value may shift toward relationships, responsibility, and judgment under uncertainty. Lawyers may spend more time with clients and less time searching. Doctors may spend more time explaining options and less time documenting. Engineers may spend more time defining systems and less time typing implementation.
 
-But relationship and judgment are also learned.
+Attractive futures.
 
-A partner knows how to deliver bad news because she has watched others do it badly and well. A physician learns what uncertainty feels like in a room with a frightened family. An engineer learns when to stop arguing and roll back a change because past outages taught the cost of pride.
+But relationship and judgment are learned too.
 
-Machines can simulate aspects of these experiences.
+A partner learns to deliver bad news by watching people do it badly and well. A physician learns what uncertainty feels like in a room with a frightened family. An engineer learns when to stop arguing and roll back because some previous outage taught the price of pride.
 
-Real institutions still need to create social apprenticeship.
+Machines can simulate pieces of these experiences. Institutions still have to create social apprenticeship.
 
-This is one reason mentoring may become more important as task apprenticeship shrinks.
+The old workplace did some of this accidentally. Juniors and seniors occupied the same production chain. The junior drafted; the senior edited. Feedback happened because the artifact physically crossed levels of experience.
 
-The old workplace forced juniors and seniors into the same production chain. The junior drafted; the senior edited. Feedback occurred because the artifact crossed levels of experience.
-
-If the machine handles the artifact, that contact can disappear.
+If the machine handles the artifact, that contact can disappear with it.
 
 Senior people become more productive and more isolated from novices.
 
-A firm can accidentally automate mentorship out of the workflow.
+A firm can automate mentorship out of the workflow without ever deciding to.
 
-The solution is simple to describe and hard to schedule: put it back deliberately.
+Putting it back is simple to describe and hard to schedule. Review reasoning, not only output. Run cases together. Let seniors narrate why they distrust an answer. Ask juniors what evidence would change their mind. Pair people on exceptions before the exception becomes a crisis.
 
-Review reasoning, not just output. Run cases together. Let seniors narrate why they distrust an answer. Ask juniors to explain what evidence would change their mind. Pair people on exceptions before the exception becomes a crisis.
+Human attention is expensive.
 
-This is expensive because human attention is expensive.
+AI makes many other things cheap.
 
-AI makes many other things cheap, which may make human attention the scarce educational resource.
+That may make expert attention the scarce educational resource.
 
-The irony is that the technology sold as a substitute for expert time could increase the value of expert time spent teaching.
+The irony is useful: technology sold partly as a substitute for expert time may increase the value of expert time spent teaching.
 
-We should be glad if it does.
+The alternative is a barbell profession: a small senior cohort supervising powerful systems above a large population able to produce competent work with assistance but with few routes into deep expertise.
 
-The alternative is a barbell profession: a small number of highly experienced people supervising powerful systems and a large pool of users who can produce competent work with assistance but have limited pathways into deep expertise.
-
-Such a structure may function for years.
+Such a profession can function for years.
 
 Then the senior cohort retires.
 
-What happens next depends on whether the machines have become capable enough to replace the missing judgment or whether the profession has built a new route for humans to acquire it.
+What happens next depends on whether machines have become capable enough to replace the missing judgment or whether the profession has built another route for humans to acquire it.
 
-Betting entirely on the first outcome is an extraordinary wager because the damage appears late.
+Betting entirely on the first outcome is an extraordinary wager because the damage arrives late.
 
-The prudent strategy is to pursue both.
+A better strategy is less romantic and less reckless:
 
 Make the machines better.
 
 Make apprenticeship better.
 
-Let evidence determine how much human expertise remains necessary as capability changes.
+Let evidence change the balance as capability changes.
 
-That approach avoids two sentimental mistakes. It does not preserve old work merely because humans used to do it. And it does not assume that expertise reproduces itself after the work that produced it disappears.
+That avoids preserving obsolete work merely because humans once did it. It also avoids assuming that expertise reproduces itself after its reproductive machinery has been removed.
 
-A profession is more than a collection of current practitioners.
+A profession is not merely its current practitioners.
 
-It is a process for replacing them.
+It is how it replaces them.
 
 Artificial intelligence can transform that process.
 
-It should not be allowed to erase it before we understand what comes next.
+It should not erase it before we know what replaces it.
