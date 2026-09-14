@@ -158,6 +158,62 @@ General intelligence does not imply general regulation.
 
 What should remain general is the refusal to let responsibility disappear.
 
+Safety-critical industries have a useful phrase for this: stop-work authority.
+
+The details vary by organization, but the principle is simple enough that anyone can understand it. A person who sees a serious hazard must have a recognized route to halt work long enough for the concern to be evaluated. The value is not that the person with the stop signal is always right. If stopping required certainty, the authority would arrive after the accident.
+
+A real stop mechanism therefore protects false alarms to some degree.
+
+This is uncomfortable for organizations built around throughput. Every unnecessary stop imposes cost. A flight delayed for a maintenance concern may turn out to have been safe. A factory line halted over a suspected defect may have been producing good units. A clinical procedure postponed for a safety review may have proceeded uneventfully.
+
+The temptation is to score the interrupter by how often the feared catastrophe actually occurs.
+
+That would destroy the institution. Successful prevention erases its own evidence.
+
+AI safety will face this paradox repeatedly. The engineer who raises a deployment concern may be unable to prove the model will fail in production. The privacy officer may be warning about a use before any public scandal exists. The teacher may notice that a tutoring system is changing student behavior in a way no benchmark measures. The affected community may identify a harm before researchers have a clean metric for it.
+
+If only quantified, replicated harms have standing to delay deployment, the organization has defined governance so that new harms arrive too late.
+
+This does not justify indefinite veto by any nervous employee. Stop-work authority needs procedure: a threshold for invoking it, rapid investigation, documented reasons, escalation, protection against retaliation, and a route to resume when the concern is resolved. The point is not permanent paralysis. It is that the cost of asking the question should not fall entirely on the person who noticed the problem.
+
+There is a second lesson from safety culture: the person who can stop the system should not always be the person who benefits most from continuing it.
+
+A product leader whose compensation depends on launch can care deeply about safety and still face a conflict. A military commander can understand risk and still operate under mission pressure. A hospital administrator can value patient welfare and still be measured on throughput. Institutional design should not require people to become morally superhuman before safeguards activate.
+
+That means some vetoes belong outside the delivery chain.
+
+Independent review boards, regulators, courts, professional licensing bodies, procurement authorities, and empowered internal safety functions can all serve this role in different settings. Their value is not wisdom from above. It is the ability to impose a pause on actors whose incentives all point toward motion.
+
+Two-person rules illustrate another version. Some dangerous actions require more than one authorized actor, not because two people are magically incorruptible, but because adding an independent confirmation changes the failure mode. The extra person can catch error, coercion, misunderstanding, or compromised credentials.
+
+Agentic AI will make this pattern newly relevant. A personal assistant may be authorized to draft a transfer but not execute it above a threshold without confirmation. A corporate agent may prepare a deployment but require a distinct security identity to push it to production. A military or industrial system may be allowed to recommend action while a separate chain authorizes irreversible consequence.
+
+The important word is separate.
+
+If the same model generates the plan, checks the plan, approves the plan, and records that the plan passed review, the system contains many steps and one mind.
+
+Procedural multiplicity is not cognitive independence.
+
+This becomes especially important as organizations replace whole workflows rather than individual tasks. In the old system, separation of duties may have emerged from departments: one team sells, another approves credit, another handles compliance, another audits. An AI platform can technically perform all four functions. Efficiency creates pressure to collapse them into one integrated agent.
+
+The organizational chart may disappear before anyone notices it was also a control system.
+
+Automation should preserve the reasons behind institutional boundaries even when it eliminates the labor that once occupied them.
+
+This is a deeper way to understand human oversight. The purpose is not to preserve jobs as ritual checkpoints. The purpose is to preserve independent authority, contestability, and the possibility of refusal. Sometimes a machine can perform one of those roles better than a person. What matters is that the roles do not all collapse into the same optimization process.
+
+There is also a democratic stop-work problem. What happens when a capability is individually useful, legally permitted, commercially successful, and collectively corrosive?
+
+No user may have an incentive to refuse personalized persuasion if it helps sell. No company may have an incentive to refuse surveillance if competitors use it. No school may want to reject an optimization tool if rankings reward the outcome. Collective action exists because individually rational choices can produce environments nobody chose.
+
+Society therefore needs ways to say no on behalf of people who cannot coordinate refusal privately.
+
+That is what law sometimes does at its best. It does not merely punish bad actors after harm. It makes certain equilibria unavailable.
+
+The authority to refuse is not hostility to technology. It is one of the conditions under which powerful technology can be trusted.
+
+A system is safer when the people around it know they can stop it without first becoming heroes.
+
 Somebody authorizes the system. Somebody benefits. Somebody bears risk. Somebody can change the process. Somebody has standing to object. Somebody must be able to stop it.
 
 When every actor points elsewhere, the machine has acquired a form of divinity no engineer intended: it has become the thing nobody is responsible for and everyone must obey.
