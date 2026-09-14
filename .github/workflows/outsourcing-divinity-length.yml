@@ -1,0 +1,38 @@
+name: Outsourcing Divinity length check
+
+on:
+  push:
+    branches:
+      - book/outsourcing-divinity
+    paths:
+      - '.github/workflows/outsourcing-divinity-length.yml'
+      - 'books/outsourcing-divinity/manuscript/**'
+
+permissions:
+  contents: write
+
+jobs:
+  length:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: book/outsourcing-divinity
+      - name: Generate exact length report
+        run: |
+          set +e
+          python3 scripts/check-book-length.py outsourcing-divinity --json > /tmp/length-report.json
+          status=$?
+          cp /tmp/length-report.json books/outsourcing-divinity/research/length-report.json
+          echo "$status" > /tmp/length-status
+          exit 0
+      - name: Commit report
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add books/outsourcing-divinity/research/length-report.json
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m 'chore: record Outsourcing Divinity length report'
+          git push origin HEAD:book/outsourcing-divinity
