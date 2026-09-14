@@ -36,6 +36,10 @@ This turns algorithmic influence from craft into something closer to search.
 
 A human creator may hold a theory about what the recommender rewards and test one hypothesis a day. An automated system can generate many candidates, measure outcomes, and update much faster. The production process begins to meet the distribution system on its own computational terms.
 
+![Four-stage feedback loop showing cheap generation expanding candidate supply, stronger selection, and producers adapting to the selector before generating again.](../assets/ch12-synthetic-competition-loop.svg)
+
+*Generation can become cheaper without attention becoming more abundant. More candidates compete for finite positions; selectors respond with stronger ranking, filtering, provenance, satisfaction, reputation, originality, or anti-spam signals; producers then learn what survives and generate again. The diagram is conceptual rather than quantitative, and the signals differ by system. The structural point is the loop: cheap variation makes selection more consequential, and consequential selection becomes something producers optimize around.*
+
 This does not require fully autonomous agents.
 
 A marketing team using generative tools to produce dozens of ad variants is already doing it. An e-commerce seller generating title and image alternatives is doing it. A political organization creating localized clips is doing it. A publisher producing multiple summaries for different channels is doing it.
