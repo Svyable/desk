@@ -1,60 +1,64 @@
 # Campaigning for the Recommender
 
-A campaign speech used to have an obvious audience.
+A campaign speech used to have an obvious audience: the people in the room.
 
-The people in the room mattered. The cameras mattered because television would carry parts of the speech elsewhere. Reporters mattered because tomorrow's stories might decide which lines survived. Party officials mattered. Donors mattered. Opponents mattered.
+Then there were the cameras, because television would carry fragments elsewhere. Reporters mattered because tomorrow's stories might decide which lines survived. Party officials mattered. Donors mattered. Opponents mattered.
 
-The speaker was already addressing several audiences at once.
+Politics has never had a single audience.
 
-Social media added another.
+Now there is one more, and it does not vote.
 
-A sentence can now be written partly for the voter who hears it and partly for the distribution system that decides whether millions of other voters will encounter it at all.
+A sentence can be written for the voter who hears it and for the distribution system deciding whether millions of other voters will encounter it at all.
 
-This does not make modern politics uniquely artificial. Political communication has always adapted to media. Radio rewarded the voice. Television rewarded the face. The thirty-second advertisement created its own grammar. Cable news rewarded confrontation. Campaigns learned the evening news cutoff, the newspaper deadline, the direct-mail envelope, the fundraising subject line.
+This does not make modern politics uniquely artificial. Political communication has always adapted to media. Radio rewarded the voice. Television rewarded the face. The thirty-second advertisement invented its own grammar. Cable news rewarded confrontation. Campaigns learned the evening-news cutoff, the newspaper deadline, the direct-mail envelope, the fundraising subject line.
 
-Media shape messages because messages have to survive media.
+Messages learn the shape of the channels they must survive.
 
-Algorithmic feeds intensify the old relationship by making distribution personalized, measurable, and adaptive.
+Algorithmic feeds intensify that old bargain because distribution is now personalized, measurable, and adaptive.
 
-A campaign can publish a clip and watch where it travels. Supporters can recut it. Opponents can quote it. Influencers can react. The platform can recommend any of those versions to people who do not follow the original account. Comments, shares, watch behavior, searches, and social connections generate more evidence about where the material resonates.
+A campaign publishes a clip and watches where it travels. Supporters recut it. Opponents quote it. Influencers react. The platform may recommend any of those versions to people who never followed the original account. Comments, shares, watch behavior, searches, and social connections produce more evidence about where the material catches.
 
 The political message becomes an input to a learning system.
 
 The campaign learns too.
 
-A clip that spreads widely becomes evidence about form and topic. Staff make more clips. Consultants inspect retention and engagement. Candidates learn which lines reliably produce shareable moments. Journalists learn what generates discussion. Activists learn which frames travel. Opponents learn which statements can be amplified against the speaker.
+A clip that spreads becomes evidence about form and topic. Staff make more clips. Consultants inspect retention curves. Candidates discover which lines reliably escape the room. Journalists learn what generates discussion. Activists learn which frames travel. Opponents learn which statements can be amplified against the speaker.
 
-Everyone begins campaigning for the recommender even when no one can fully describe the recommender.
+Soon everyone is campaigning for the recommender, even though nobody outside the platform can fully describe what the recommender wants.
 
-This is a dangerous subject because claims about political algorithms can become political claims themselves.
+That sentence is easy to overstate. Political algorithms are a magnet for stories that outrun their evidence.
 
-Partisans have incentives to believe a platform suppresses their side and amplifies the other. Platforms have incentives to describe systems as neutral or user-centered. Researchers face difficult access problems. Recommendation systems change faster than academic publication. Political content is hard to categorize without judgment. Exposure is not the same as persuasion, persuasion is not the same as voting, and voting is not the same as an election result.
+Partisans have incentives to believe a platform suppresses their side and amplifies the other. Platforms have incentives to describe systems as neutral or user-centered. Researchers face access problems. Recommendation systems change faster than academic publication. Political content is difficult to classify without judgment. Exposure is not persuasion. Persuasion is not voting. Voting is not an election result.
 
-Any serious account has to keep those layers separate.
+Those layers have to remain separate.
 
-One of the largest research collaborations on social-media feeds did exactly that during the 2020 U.S. election.
+The cleanest way to see why is to put three experiments beside one another.
 
-Researchers working with Meta studied what happened when consenting Facebook and Instagram users were assigned to reverse chronological feeds rather than the ordinary algorithmically ranked experience. The intervention produced meaningful changes in exposure and in some aspects of platform use. Users saw different mixes of content. They spent less time on the platforms under chronological feeds.
+During the 2020 U.S. election, researchers working with Meta assigned consenting Facebook and Instagram users to reverse-chronological feeds rather than the ordinary algorithmically ranked experience. The intervention changed the information environment substantially. Users saw different mixes of content and spent less time on the platforms. Yet the researchers did not find statistically significant changes in several measured political attitudes and knowledge outcomes.
 
-Yet the study did not find statistically significant changes in several measured political attitudes, including political knowledge, polarization, and related outcomes examined by the researchers.
+The feed moved.
 
-This result frustrated anyone hoping for a simple story.
+The measured beliefs largely did not.
 
-The feed mattered.
+A later field experiment on X found something different. Researchers randomized active U.S.-based users between X's algorithmic “For You” feed and its chronological “Following” feed for roughly seven weeks in 2023. In results published in *Nature* in 2026, switching users onto the algorithmic feed changed political exposure and shifted several measured political opinions in a conservative direction. It did not move every attitude, and the result is evidence about X in that configuration and period—not a permanent ideological property of recommender systems.
 
-The measured beliefs largely did not move with it.
+Then another 2026 experiment complicated the binary itself. Researchers testing custom feeds on Bluesky during the 2024 U.S. election changed the ranking objective rather than simply switching ranking off. A redesigned feed reduced exposure to intergroup, moralized, and emotional political content and improved some perceptions of social norms without reducing reported enjoyment.
 
-A later field experiment on X produced a different result. In work published in Nature in 2026, researchers studied users during a seven-week period in 2023 and found that enabling X's algorithmic feed changed political content exposure and shifted some measured political opinions in a conservative direction relative to a chronological condition. The same study did not show that every attitude moved or that the effect should be generalized indefinitely across platforms and elections.
+Three experiments. Three different argumentative jobs.
 
-Both findings matter.
+Meta shows that large exposure changes need not move the attitudes we measure.
 
-They make it harder to say “algorithms don't affect politics.”
+X shows that, under some real platform conditions, ranking can causally move selected political attitudes and follow behavior.
 
-They also make it harder to say “algorithms program voters.”
+The redesigned-feed experiment shows that chronology is not the only alternative to engagement-oriented ranking. Recommendation is not one treatment. Ranking rules can be changed, tested, and governed.
 
-A recommendation system can have strong allocation power and variable persuasion power.
+The useful distinction is therefore not “algorithm versus no algorithm.” Every feed allocates attention somehow.
 
-That distinction should be written above every argument about algorithmic politics.
+The useful distinction is between **allocation power** and **persuasion power**.
+
+A recommender can have enormous allocation power while its persuasion effects remain conditional, uneven, and difficult to generalize.
+
+That distinction belongs above every argument about algorithmic politics.
 
 Allocation power is already consequential.
 
@@ -62,7 +66,7 @@ Politics depends on attention before it depends on agreement. A candidate who ne
 
 The feed shapes the agenda of possible persuasion.
 
-That is enough to influence campaigns.
+That alone is enough to influence campaigns.
 
 Political professionals do not need proof that a recommender changes ideology to care how it distributes content. They care about reach, fundraising, volunteer recruitment, media coverage, candidate recognition, and which messages supporters repeat.
 
@@ -134,7 +138,7 @@ The useful question is narrower: does algorithmic mediation create incentives th
 
 The answer is plainly yes once distribution through those systems becomes important.
 
-Research on political amplification adds evidence while preserving complexity. Studies have found that ranking systems can amplify political content unevenly, but the direction and magnitude vary by platform, country, period, political group, and design. A 2026 Nature audit of TikTok during the 2024 U.S. election reported asymmetric partisan exposure in its study design. Other research on Twitter has documented algorithmic amplification patterns across political content.
+Research on political amplification adds evidence while preserving complexity. Studies have found that ranking systems can amplify political content unevenly, but the direction and magnitude vary by platform, country, period, political group, and design. A 2026 *Nature* audit of TikTok during the 2024 U.S. election reported asymmetric partisan exposure in its study design. Other research on Twitter has documented algorithmic amplification patterns across political content.
 
 None justifies a permanent label on a platform's ideology.
 
