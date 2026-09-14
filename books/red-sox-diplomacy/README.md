@@ -9,7 +9,7 @@
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
 | **Chapters** | 22 of 22 drafted + prologue + epilogue |
-| **Editorial State** | Complete manuscript; full continuity/compression and antislop passes complete; publication evidence/integration gates in progress |
+| **Editorial State** | Complete manuscript; continuity/compression, evidence, canonical source-ledger, and book-specific integration gates complete; explicit review/merge transition pending |
 | **Form** | Documentary narrative biography |
 | **Language** | English |
 
@@ -48,10 +48,25 @@ The Red Sox also provide a second historical clock. Burns’s life runs beside a
 - [x] [Epilogue — The Next Inning](manuscript/epilogue-the-next-inning.md)
 - [x] [Source Notes — Reader-facing documentary links](manuscript/source-notes.md)
 
-The architecture may expand only if research reveals a genuinely distinct documented dramatic center. Chapter count is subordinate to the life; broad thematic expansion is otherwise frozen while publication evidence and integration work finish.
+The architecture may expand only if research reveals a genuinely distinct documented dramatic center. Chapter count is subordinate to the life; broad thematic expansion is otherwise frozen.
 
 ## Evidentiary rule
 
 This is factual nonfiction with novelistic propulsion, not fictionalized biography. No invented dialogue, interior thought, composite characters, manufactured scenes, or invented baseball anecdotes. Baseball claims and biographical scenes must be supported by primary or credible near-primary sources.
 
 The reader-facing edition should make that evidence usable. When a source can be read online, prefer a direct hyperlink in the prose or in the chapter-keyed [Source Notes](manuscript/source-notes.md), rather than leaving the support visible only in the research ledger.
+
+## Readiness
+
+The current manuscript has completed its book-specific publication-preparation gates:
+
+- exact quotations in the manuscript no longer depend solely on unchecked scans or oral-history PDFs;
+- publication-balance audits for India, Iran, Beijing, and the Greece/Red Sox question have reached their stated evidentiary stop conditions;
+- the canonical source ledger was rebuilt deterministically to 349 unique rows with an auditable reconciliation report;
+- title, subtitle, and Sven Hardy Benson byline pass the focused cover-metadata check;
+- generated Desk catalog output includes this book and its live manuscript count;
+- a real-checkout differential integrity run found no `check-desk.py` errors introduced by this PR beyond failures already present on current `main`.
+
+Repository-wide `check-desk.py` is not globally clean on current `main`; unrelated legacy ledger/catalog/runtime errors predate this branch. Those baseline failures are not silently attributed to or repaired inside this book PR.
+
+The manuscript remains in **Revision in progress** until the explicit transition to ready-for-review, merge, or publication is directed.
