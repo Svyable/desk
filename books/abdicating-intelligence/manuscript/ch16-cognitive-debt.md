@@ -72,9 +72,13 @@ This makes cognitive debt harder to measure than technical debt. Code at least l
 
 You cannot see reserve capability from ordinary throughput.
 
+![A flow diagram shows assistance expanding and everyday output remaining strong while practice can thin and reserve capability stays mostly unobserved. A later trigger such as an outage, novel case, audit, handoff, or vendor exit exposes whether the reserve still exists.](../media/ch16-cognitive-debt-maturity.svg)
+
+*When cognitive debt matures.* Assistance can keep everyday output high while the underlying reserve goes mostly unmeasured. The debt becomes visible only when a future obligation still depends on the capability. Conceptual diagram; not a quantitative decay model.
+
 You have to test it.
 
-This is why unassisted assessment will remain important even in a world where nobody works unassisted most of the time.
+Aviation already treats this as a maintenance problem. The FAA's active flightpath-management guidance pairs automation management with manual flight operations and training rather than assuming one replaces the other. Decades earlier, a NASA-archived simulation study of fifteen experienced pilots found degradation in flight-control and procedural performance after four months without practice, with rehearsal and dynamic warm-up mitigating different losses. The experiment is narrow and old; it is not a universal decay curve. It does make one point concrete: a capability can still exist on paper and become less available through disuse. ([FAA AC 120-123](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1041433); [NASA-CR-128912](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19730014359.pdf))
 
 Pilots train with failures. Security teams run incident exercises. Hospitals simulate emergencies. Military organizations test degraded communications. The exercise is not an attempt to recreate normal operations without tools. It measures whether the system can survive the abnormal condition for which reserve capability exists.
 
@@ -218,7 +222,7 @@ AI will move from a separate chat window into operating systems, documents, cars
 
 Cognitive debt can then accumulate without an explicit moment of delegation.
 
-The system finishes the sentence. ranks the inbox. chooses the route. drafts the reply. filters the news. schedules the day. summarizes the meeting. resolves the conflict among calendar demands.
+The system finishes the sentence. Ranks the inbox. Chooses the route. Drafts the reply. Filters the news. Schedules the day. Summarizes the meeting. Resolves the conflict among calendar demands.
 
 Each decision is small.
 
