@@ -1,0 +1,26 @@
+# Chronology
+
+- **1857–1966** — Sequence of moderate earthquakes near Parkfield, California later motivates a quasi-periodic recurrence forecast and intensive instrumentation.
+- **1975-02-04** — M7.3 Haicheng earthquake in China follows warnings, evacuations, and a conspicuous foreshock sequence; later becomes the canonical successful-prediction story.
+- **1976-07-28** — Tangshan earthquake devastates the city without a comparable successful short-term warning.
+- **Early 1980s** — VAN group in Greece begins publishing seismic electric signal (SES) work and develops station-selectivity / prediction claims.
+- **1984** — Early Varotsos / Alexopoulos *Tectonophysics* papers lay out electrical precursor claims.
+- **1985–1993** — Parkfield prediction experiment expects an approximately M6 event with substantial probability; earthquake does not arrive inside the headline window.
+- **1989-10-17** — Loma Prieta earthquake. Corralitos magnetometer record later becomes a famous ULF precursor claim.
+- **1990** — Fraser-Smith et al. publish the Loma Prieta ULF observations.
+- **1996** — *Geophysical Research Letters* publishes concentrated VAN evaluation / rebuttal papers, exposing disagreements over alarms, null models, aftershocks, and fixed prediction rules.
+- **1997** — Robert Geller publishes a major critical review of earthquake prediction.
+- **2000s** — QuakeFinder begins building a long-duration ground magnetometer network along active faults.
+- **2004-06-29** — French DEMETER satellite launches with explicit seismo-electromagnetic objectives.
+- **2004-09-28** — M6.0 Parkfield earthquake finally occurs; dense networks record coseismic electromagnetic effects but published analyses report no convincing short-term electromagnetic precursor.
+- **2009** — Thomas, Love, and Johnston publish long-record reanalysis of Corralitos, attributing the famous Loma Prieta anomaly to sensor-system malfunction.
+- **2009-04-06** — L'Aquila earthquake kills 309 people after a long swarm and disputed risk communication; subsequent criminal case becomes a global lesson in uncertainty communication.
+- **2010** — DEMETER mission ends after six years of observations.
+- **2013** — ESA launches Swarm constellation.
+- **2014–2019** — DEMETER and Swarm statistical precursor papers expand population-level satellite analyses.
+- **2018** — China launches CSES / Zhangheng-1 with seismo-electromagnetic science objectives.
+- **2019** — Kappler et al. publish a long-baseline QuakeFinder magnetic-pulse / earthquake analysis reporting a modest statistical hint.
+- **2020** — Wikelski et al. publish instrumented farm-animal activity study from the Italian earthquake sequence.
+- **2021** — Zöller et al. publish a statistical critique of the animal-forecasting claim; broad ground / space electromagnetic precursor reviews also appear.
+- **2022** — Heavlin et al. (Google + QuakeFinder) publish a time-held-out case-control study finding a modest magnetic association 24–72 hours before 19 qualifying California earthquakes, explicitly too weak for operational prediction.
+- **2026** — The field has enough long-baseline ground and space infrastructure to support a genuinely prospective, cross-region adversarial test, but no broadly accepted short-term deterministic earthquake prediction system exists.
