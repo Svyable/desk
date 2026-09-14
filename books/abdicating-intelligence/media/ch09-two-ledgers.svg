@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="780" viewBox="0 0 1200 780" role="img" aria-labelledby="title desc">
+  <title id="title">Two ledgers: the junior who is hired and the pipeline that hires juniors</title>
+  <desc id="desc">A conceptual diagram separating two questions. On the left, AI assistance can raise the productivity and learning rate of a junior who has a job. On the right, automation economics can reduce the number of junior positions through which people accumulate experience. The bottom shows that stronger development per hired junior and a narrower entry pipeline can happen at the same time, so current productivity does not by itself answer the succession question.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#222"/></marker>
+    <style>
+      .head{font-family:Arial,Helvetica,sans-serif;font-size:34px;font-weight:700;fill:#111}
+      .sub{font-family:Arial,Helvetica,sans-serif;font-size:20px;fill:#333}
+      .label{font-family:Arial,Helvetica,sans-serif;font-size:24px;font-weight:700;fill:#111}
+      .body{font-family:Arial,Helvetica,sans-serif;font-size:20px;fill:#222}
+      .small{font-family:Arial,Helvetica,sans-serif;font-size:16px;fill:#444}
+      .box{fill:#fff;stroke:#222;stroke-width:2;rx:14;ry:14}
+      .soft{fill:#f4f4f4;stroke:#222;stroke-width:2;rx:14;ry:14}
+      .strong{fill:#e8e8e8;stroke:#111;stroke-width:3;rx:14;ry:14}
+      .line{stroke:#222;stroke-width:2.5;fill:none;marker-end:url(#arrow)}
+      .dash{stroke:#555;stroke-width:2;stroke-dasharray:8 7;fill:none;marker-end:url(#arrow)}
+    </style>
+  </defs>
+
+  <text x="600" y="48" text-anchor="middle" class="head">Two ledgers: development and succession</text>
+  <text x="600" y="82" text-anchor="middle" class="sub">AI can help the junior who gets hired while the market creates fewer junior slots.</text>
+
+  <text x="80" y="135" class="label">Ledger 1 — the hired junior</text>
+  <rect x="80" y="160" width="280" height="110" class="soft"/>
+  <text x="220" y="198" text-anchor="middle" class="body">AI assistance</text>
+  <text x="220" y="228" text-anchor="middle" class="small">examples • suggestions • feedback</text>
+  <text x="220" y="252" text-anchor="middle" class="small">knowledge at the moment of need</text>
+
+  <rect x="450" y="160" width="300" height="110" class="strong"/>
+  <text x="600" y="198" text-anchor="middle" class="body">Current worker improves</text>
+  <text x="600" y="228" text-anchor="middle" class="small">higher productivity can coexist</text>
+  <text x="600" y="252" text-anchor="middle" class="small">with faster on-the-job learning</text>
+  <path d="M360 215 H450" class="line"/>
+
+  <rect x="840" y="160" width="280" height="110" class="box"/>
+  <text x="980" y="198" text-anchor="middle" class="body">Short-run evidence</text>
+  <text x="980" y="228" text-anchor="middle" class="small">output • quality • learning</text>
+  <text x="980" y="252" text-anchor="middle" class="small">for people already in the role</text>
+  <path d="M750 215 H840" class="line"/>
+
+  <line x1="80" y1="318" x2="1120" y2="318" stroke="#999" stroke-width="1.5"/>
+
+  <text x="80" y="365" class="label">Ledger 2 — the entry pipeline</text>
+  <rect x="80" y="390" width="280" height="110" class="soft"/>
+  <text x="220" y="428" text-anchor="middle" class="body">Automation economics</text>
+  <text x="220" y="458" text-anchor="middle" class="small">same output with fewer people</text>
+  <text x="220" y="482" text-anchor="middle" class="small">routine work needs less labor</text>
+
+  <rect x="450" y="390" width="300" height="110" class="strong"/>
+  <text x="600" y="428" text-anchor="middle" class="body">Fewer entry slots?</text>
+  <text x="600" y="458" text-anchor="middle" class="small">less hiring can mean fewer people</text>
+  <text x="600" y="482" text-anchor="middle" class="small">accumulating years of experience</text>
+  <path d="M360 445 H450" class="line"/>
+
+  <rect x="840" y="390" width="280" height="110" class="box"/>
+  <text x="980" y="428" text-anchor="middle" class="body">Long-run question</text>
+  <text x="980" y="458" text-anchor="middle" class="small">how many future experts</text>
+  <text x="980" y="482" text-anchor="middle" class="small">does the system still produce?</text>
+  <path d="M750 445 H840" class="line"/>
+
+  <rect x="245" y="585" width="710" height="120" class="strong"/>
+  <text x="600" y="625" text-anchor="middle" class="body">Both can be true at once</text>
+  <text x="600" y="655" text-anchor="middle" class="small">A junior with AI can learn faster — while fewer juniors are hired into the pipeline.</text>
+  <text x="600" y="682" text-anchor="middle" class="small">Current productivity therefore does not settle the succession question.</text>
+  <path d="M600 270 V310" class="dash"/>
+  <path d="M600 500 V585" class="line"/>
+
+  <text x="600" y="752" text-anchor="middle" class="small">Conceptual diagram, not an estimate of causal effect. Hiring patterns and learning effects come from different studies and settings.</text>
+</svg>
