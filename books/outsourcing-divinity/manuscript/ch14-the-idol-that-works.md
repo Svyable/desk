@@ -144,6 +144,58 @@ Who may use the system? What data does it remember? Which decisions can it make?
 
 These are not anti-technological questions. They are how human beings keep powerful tools from becoming ultimate.
 
+There is another test for functional idolatry that has nothing to do with worship: can the system fail without forcing the institution to reinterpret reality so that the system remains right?
+
+Healthy tools are corrected by the world. Unhealthy institutions correct the world to protect the tool.
+
+A company adopts an employee-performance model. Managers begin trusting its rankings because the model predicts who receives high evaluations. Soon those evaluations themselves are influenced by the model's recommendations. High-ranked employees receive better projects and more mentoring; low-ranked employees receive less. A year later the model looks even more accurate. The institution has begun manufacturing the evidence that proves its own instrument.
+
+The same loop can form around educational analytics, credit, policing, health risk, recommendation, and hiring. The technical details differ. The institutional temptation is the same: once an instrument becomes expensive, integrated, prestigious, and useful, contrary evidence becomes costly.
+
+This is where sunk cost becomes theology.
+
+Not theology in the religious sense. Theology in the organizational sense that a first principle stops being available for ordinary revision. The metric is good because the organization uses it. The organization uses it because it is good. Disagreement is translated into a data-quality problem, a user-training problem, an adoption problem, or an exception that proves the need for better modeling.
+
+Every strong institution needs a way to discover that its favorite instrument has become an idol.
+
+One sign is scope creep. A tool built to help answer one question starts answering adjacent questions because integration is convenient. A plagiarism detector becomes a measure of student honesty. A productivity metric becomes a measure of employee commitment. A wellness score becomes a proxy for responsibility. An engagement model becomes a theory of relevance.
+
+Another sign is moral vocabulary migrating into technical vocabulary. “Good customer” comes to mean profitable customer. “Quality employee” means high score. “At-risk child” sounds like a description of the child rather than a prediction produced under a particular model. “Trusted source” becomes whatever the ranking system learned to privilege.
+
+The adjective quietly stops describing a judgment and starts describing a database field.
+
+This is not a reason to avoid classification. Institutions cannot function without categories. It is a reason to preserve the sentence that comes before the category: for this purpose, using these data, under these assumptions, we are treating this person or event this way.
+
+The sentence is clumsy because reality is clumsy.
+
+Idols are clean.
+
+The most consequential version of the problem may arrive when AI systems become economically indispensable. Imagine a model that materially lowers medical error, accelerates scientific discovery, improves logistics, and expands access to expertise. Society would be right to depend on it. The question then changes from whether dependence is allowed to what obligations attach to dependence.
+
+Critical infrastructure teaches the answer. We do not respond to dependence on electricity by insisting everyone generate power at home. We build redundancy, standards, emergency procedures, public obligations, security requirements, maintenance, and rules for restoration. The objective is not independence. It is resilience.
+
+AI needs the same conceptual move.
+
+A civilization can depend heavily on machine intelligence without making machine intelligence ultimate. It can insist on interoperability so one provider does not become the only route to ordinary participation. It can preserve records needed to reconstruct consequential decisions. It can require degraded modes for critical services when models are unavailable. It can keep permissions narrower than capability. It can distinguish what a system may recommend from what it may execute.
+
+These constraints do not dishonor a powerful tool. They are the institutional form of remembering that the tool is finite.
+
+Religious prohibitions against idols are sometimes misunderstood as divine insecurity: a jealous deity objecting to competition. A more philosophically interesting reading is that finite things become destructive when asked to bear infinite weight. Nation cannot carry every loyalty. Money cannot measure every good. A spouse cannot be the entire world. A career cannot justify a life. A model cannot absorb every judgment simply because its competence keeps expanding.
+
+The failure begins when the finite thing is required to answer questions its success never authorized.
+
+This is why the strongest defense against AI idolatry is not skepticism about AI. Skepticism will become harder to sustain as systems improve, and it will often be wrong. The stronger defense is proportion.
+
+Use the best system. Believe the measurement when the evidence warrants it. Let automation remove drudgery. Let models outperform us. Let an assistant know more facts than any individual ever could.
+
+Then ask the question that performance cannot answer for itself: what place should this capability occupy among the other goods of a human life and a political community?
+
+The answer may be “a very large place.”
+
+It is still a place.
+
+That boundary is what idolatry erases.
+
 An idol that does nothing is a curiosity.
 
 An idol that works needs governance.
