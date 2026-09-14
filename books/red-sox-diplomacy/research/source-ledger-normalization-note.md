@@ -16,52 +16,70 @@ Canonical IDs after that rebuild supersede row IDs inside addenda 02–15. Those
 
 ## Research after the baseline
 
-Research continued after the 185-row rebuild. Staged addenda now run through `source-ledger-addendum-38.csv`.
+Research continued after the 185-row rebuild. Staged addenda now run through `source-ledger-addendum-39.csv`.
 
-The historical staged numbering reaches `rsd-352`, but **352 is not a canonical row count**. Later addenda include URLs already present in the canonical ledger and occasional URLs repeated across addenda. Historical row IDs also should not dictate final canonical IDs.
+The historical staged numbering reaches `rsd-390`, but **390 is not a canonical row count**. Later addenda include URLs already present in the canonical ledger and URLs repeated across addenda. Historical row IDs do not dictate final canonical IDs.
 
 Examples already identified:
 
 - addendum 17 includes six refined records whose URLs are already canonical (`rsd-002`, `rsd-014`, `rsd-140`, `rsd-021`, `rsd-015`, `rsd-169`);
 - the European/Eurasian Affairs 2004 remarks-index URL appears again in later staged research;
-- several later addenda intentionally preserve archive routes, negative-source audits, institutional histories and verification targets that must remain labeled as such rather than being promoted into positive evidence.
+- later Greece/Red Sox, AHEPA, Wellesley, Beijing and Burns-retrospective passes intentionally revisit URLs with better `book_use` descriptions;
+- archive routes, negative-source audits, institutional histories and verification targets must remain labeled as such rather than being promoted into positive evidence.
 
-The later corpus materially expands India, Iran, early-life/Wellesley, Boston College, Greece/baseball networks, Athens witnesses, Beijing, Red Sox institutional history, American-history context, and publication-stage verification routes.
+A corpus-wide reconciliation during the publication pass identified roughly fifty repeated staged URLs before final normalization. The expected final row count is therefore materially below the historical `rsd-390` sequence. Do not treat the provisional count as authoritative until the deterministic rebuild script has run over the refreshed checkout.
 
 ## Research-expansion freeze
 
-The first-pass manuscript, epilogue and reader-facing source notes now exist. Broad source expansion should therefore be treated as **frozen** unless a specific publication-stage gap requires a targeted source.
+The manuscript, epilogue and reader-facing source notes now exist. Broad source expansion is **frozen** unless a specific publication-stage gap requires a targeted source.
 
 Do not create another addendum merely because another generally relevant source can be found. New sourcing should close a named gap: counterpart balance, quote verification, chronology, attribution, or one of the explicitly preserved archival unknowns.
 
 This freeze is important because repeated partial canonical merges create unnecessary ID churn and make deduplication harder.
 
-## Final canonical rebuild
+## Deterministic rebuild implementation
 
-Before Desk integration/validation:
+The executable procedure now lives at:
+
+`books/red-sox-diplomacy/research/rebuild-source-ledger.py`
+
+From the repository root, after refreshing the branch from current `main`:
+
+```bash
+python3 books/red-sox-diplomacy/research/rebuild-source-ledger.py --check
+python3 books/red-sox-diplomacy/research/rebuild-source-ledger.py --write
+```
+
+`--check` performs the complete corpus reconciliation without modifying files. `--write` rewrites `source-ledger.csv` and emits `source-ledger-rebuild-report.json` with every duplicate decision.
+
+The script deliberately refuses to run if the canonical baseline is no longer exactly 185 rows. That guard prevents a second accidental merge from treating an already-rebuilt ledger as the old baseline.
+
+## Final canonical rebuild rules
 
 1. Start from canonical `rsd-001`–`rsd-185`.
-2. Ingest every staged row from addenda 16–38, plus any later addendum created only to close a named publication gap.
-3. Normalize stable URLs before duplicate comparison; remove tracking parameters when a canonical URL exists.
+2. Ingest every staged row from addenda 16–39, plus any later addendum created only to close a named publication gap.
+3. Normalize stable URLs before duplicate comparison. The implementation normalizes scheme/host/trailing slash, treats `twitter.com` and `x.com` status URLs as the same host identity, removes fragments, and strips only known tracking parameters.
 4. Deduplicate by normalized URL across the entire corpus, not by historical row ID or title.
-5. Where a staged duplicate has a materially better `book_use` description, improve the existing canonical row rather than append another source.
+5. Preserve the earliest encountered source record as the canonical metadata owner. If a later duplicate has a materially fuller `book_use`, upgrade only that explanatory field.
 6. Preserve evidence class honestly: archive index, negative-source audit, hypothesis/verification route, retrospective witness, primary official record, and contemporaneous reporting are not interchangeable.
 7. Reassign canonical IDs sequentially from `rsd-001` after deduplication. Historical addendum IDs become provenance only.
 8. Preserve the exact validator schema: `id,year,author_or_institution,title,source_type,book_use,url`.
-9. Check every final URL for uniqueness and nonempty required fields.
-10. Run `python3 scripts/check-desk.py` only after the canonical rewrite and shared integration files are synchronized.
+9. Check every final normalized URL for uniqueness and every required field for content.
+10. Preserve the earliest display URL in the ledger; normalization is for identity comparison, not silent rewriting of reader-facing citations.
+11. Inspect `source-ledger-rebuild-report.json` before considering the gate closed.
+12. Run `python3 scripts/check-desk.py` only after the canonical rewrite and shared integration files are synchronized.
 
 ## Deterministic-input requirement
 
 Do **not** rewrite the canonical ledger from clipped or partial connector output.
 
-The rebuild is complete only if the normalization operation has deterministic access to:
+The rebuild is complete only if the normalization operation has deterministic filesystem access to:
 
 - all 185 canonical baseline rows;
 - every staged row from addenda 16 through the actual highest addendum;
 - the full URL field for every row so duplicate comparison is corpus-wide rather than local.
 
-During the current editorial pass, the GitHub connector exposed large CSV files in clipped conversational chunks. The manuscript, source map and integration audit could be updated safely from complete chapter/control files, but the canonical ledger was intentionally left unchanged rather than claiming a normalization based on incomplete rows.
+During the publication pass, the connector was sufficient to inspect every source file and identify duplicate structure, but the available write API only replaces whole files and the execution environment could not mount or clone the live branch. The canonical ledger was therefore intentionally left unchanged rather than claiming a rebuild assembled by conversational hand-splicing.
 
 That is a correctness boundary, not a reason to do another partial merge.
 
