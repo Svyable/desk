@@ -30,6 +30,10 @@ A document says humans retain expertise. The workflow says humans always use the
 
 A test turns belief into evidence.
 
+![Conceptual diagram showing normal assisted operation, a temporary unplugged test, and four possible findings: retained reserve, weak transfer, brittle fallback architecture, or obsolete reserve. The purpose is diagnosis and redesign rather than punishment.](../media/ch22-unplugged-test.svg)
+
+*The unplugged test measures the reserve.* Normal operation should measure combined capability; a temporary removal test asks a different question: what still works when one dominant cognitive dependency disappears or becomes untrusted? A weak result may mean lost transfer, brittle fallback architecture, or simply that an old skill no longer deserves reserve. The purpose is diagnosis and redesign, not purity or punishment.
+
 The exercise can be small.
 
 Give a team a case and withhold generated synthesis. Ask them to locate primary sources. Remove one decision-support feature in simulation. Ask a senior employee to explain the process from records. Have a junior solve a neighboring problem independently after months of assisted work.
@@ -64,6 +68,8 @@ It is identifying gaps between responsibilities and capabilities.
 
 The second virtue is measuring transfer.
 
+There is now a direct example of why the distinction matters. In a [2025 randomized field experiment](https://doi.org/10.1073/pnas.2422633122) with nearly a thousand high-school math students, access to GPT-4-based tutors improved performance on assisted practice. But when the AI was removed for a later exam, students who had used the more general GPT interface performed worse than students who had never received AI assistance; a tutor designed with learning safeguards largely eliminated that penalty. The result is narrow—one school, one subject, short-term outcomes, specific tutor designs—but useful. Assisted performance and retained capability are not the same measurement.
+
 In education and training, assisted performance can look excellent while independent performance remains uncertain. Periodic removal of assistance reveals whether the learner has built representations that travel beyond the specific interaction.
 
 The test should not merely repeat the same question without AI. Transfer means changing the surface while preserving the underlying concept.
@@ -86,7 +92,7 @@ Perhaps the team cannot find source documents because everyone relied on convers
 
 The exercise maps cognitive infrastructure.
 
-Cybersecurity teams call related exercises tabletop exercises: participants walk through a hypothetical incident to expose assumptions before a real one forces the issue. Knowledge organizations can conduct cognitive table-tops.
+The logic is already familiar in resilience engineering. [NIST guidance for IT preparedness](https://csrc.nist.gov/pubs/sp/800/84/final) treats tabletop and functional exercises as structured ways to test plans, systems, roles, and recovery capability before a real disruption does it for you. A cognitive tabletop borrows the structure, not the domain claim.
 
 “The model provider is unavailable for forty-eight hours. What stops?”
 
