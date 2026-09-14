@@ -4,19 +4,17 @@ The Red Sox arrived in Nicholas Burns's life before diplomacy did.
 
 A baseball fan inherits a story already underway. Parents remember players their children never saw. A city carries losses forward until people born later can still name the inning. Then one result changes the meaning of what came before without erasing it.
 
-That is what continuity actually looks like.
+That is what continuity looks like.
 
 Not stasis.
 
 Rules change. Rosters change. Owners, workers, audiences and technologies change. A game once defended as purely American becomes more visibly international with every generation. The institution remains recognizable because it changes without becoming unrecognizable.
 
-The inheritance is not clean. The Red Sox story Burns received contained devotion and exclusion, civic pride and civic failure, labor fights, reinvention, championships and public grief. That messiness belongs to the American backdrop of this book.
+The inheritance is not clean. The Red Sox story Burns received contained devotion and exclusion, civic pride and civic failure, labor fights, reinvention, championships and public grief.
 
 Ken Burns has spent decades arguing that baseball matters as an American subject precisely because the country's contradictions keep turning up inside it: race, labor, class, immigration, celebrity, commerce, belonging. The game does not sit outside American history as relief from the complicated parts.
 
 It carries them.
-
-That is why baseball can provide continuity without providing innocence.
 
 *ARCHIVE NOTE — In a 1994 interview conducted as his documentary series *Baseball* was about to air, filmmaker Ken Burns described the game as reflecting questions of race, labor, class, heroism, popular culture and immigration, and as a microcosm of American society. [International Documentary Association interview.](https://www.documentary.org/feature/ken-burns-talks-about-baseball-documentary) PBS's later project description similarly frames baseball as interwoven with American history rather than separate from it. [PBS, *Baseball*.](https://www.pbs.org/kenburns/baseball/about)*
 
@@ -38,7 +36,7 @@ But the title cannot enter the room by itself either.
 
 The United States cannot shake a hand. NATO cannot remember who kept a promise. An embassy cannot hear hesitation in a sentence. People do those things while carrying institutions larger than themselves.
 
-Burns spent a career inside that tension. The job required him to be legible enough to another human being without forgetting that he represented a country rather than himself.
+Burns spent a career inside that tension: legible enough to another human being without forgetting that he represented a country rather than himself.
 
 Neither personality nor profession guaranteed good judgment.
 
@@ -50,7 +48,7 @@ After Beijing, Burns returned to Harvard. Other people took the offices he had h
 
 Public service survives the public servant that way—not as a monument, but as work passed forward.
 
-Baseball survives its generations in something like the same ordinary way. Not because nothing changes, and not because the past was better, but because people keep receiving an unfinished thing, arguing over what it means, altering it and handing it on.
+Baseball survives its generations in something like the same ordinary way. People keep receiving an unfinished thing, arguing over what it means, altering it and handing it on.
 
 The book began with a fan because fandom made the diplomat easier to see.
 
