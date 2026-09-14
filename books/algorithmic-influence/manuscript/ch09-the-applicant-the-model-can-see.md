@@ -24,6 +24,10 @@ There is, however, a growing machine-readable layer between applicant and employ
 
 That layer is enough to alter behavior.
 
+![Four-stage diagram showing a rich human work history becoming a captured application record, model-readable signals, and an institutional hiring action, with a return arrow showing applicant adaptation.](../assets/ch09-applicant-compression.svg)
+
+*The applicant is larger than the representation. Résumés, structured fields, assessments, interview responses, and other submitted evidence can be parsed or transformed into signals used for search, matching, ranking, routing, review, or screen-out. Exact inputs and decision roles vary by employer and system. The consequential point is the handoff: context can be narrowed before evaluation begins, and applicants learn to adapt what they make legible.*
+
 A candidate who believes a résumé will be parsed has reason to use recognizable headings. A candidate who believes recruiters search by skill terms has reason to describe experience in the vocabulary used by the role. A candidate applying through a structured form has to fit experience into the provided fields. A candidate taking an automated assessment learns what kinds of evidence the assessment collects.
 
 This can be good discipline.
