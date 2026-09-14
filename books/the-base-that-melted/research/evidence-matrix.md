@@ -1,0 +1,23 @@
+# Evidence Matrix
+
+| Claim | Class | Best current support | What would strengthen / defeat it |
+|---|---|---|---|
+| Camp Century was built by the U.S. Army Corps of Engineers beginning in 1959 and operated inside the Greenland Ice Sheet. | 1 — verified/documented | USACE history; GEUS monitoring program; NASA 2024 | Defeated only by impossible archival contradiction; basic fact secure. |
+| Camp Century used the portable PM-2A nuclear reactor. | 1 | USACE PM-2A final report; NASA source trail | Secure. Distinguish reactor operation from later residual radioactivity. |
+| Project Iceworm proposed a vast under-ice mobile/dispersed missile network with hundreds of missiles/positions. | 1 | Petersen 2008 from declassified U.S. planning records; 2016 GRL historical context | Stronger with page-indexed originating Army/JCS documents in repo. |
+| An operational Iceworm missile arsenal was deployed under Greenland. | 3 — disputed/not established | No public primary evidence located; histories describe proposal/rejection | Would require deployment records, missile inventories, site evidence, unit logs, or comparable independent primary proof. |
+| Denmark formally approved an operational Iceworm deployment. | 3 | Historical work says plan was never formally broached as deployment | Requires explicit Danish approval record or equivalent contemporaneous evidence. |
+| Camp Century tunnel deformation materially undermined large-scale under-ice infrastructure feasibility. | 1/2 | Engineering histories; Camp Century deformation literature | Strengthen with page-indexed trench-deformation measurements and Iceworm requirement comparison. |
+| Camp Century recovered a roughly 1,390 m deep core to the bed in 1966. | 1 | Hansen & Langway 1966; Dansgaard et al. 1969 | Secure. |
+| The Camp Century core produced an early long Greenland paleoclimate isotope record. | 1 | Dansgaard et al. 1969; later historiography | Secure; interpretation refined by later cores. |
+| Basal material contains preserved plant macrofossils and evidence of past ice-free conditions. | 1 | Christ et al. 2021; Bierman et al. 2024 | Secure at site level; timing and landscape details remain active research. |
+| Past Camp Century ice-free conditions imply imminent modern deglaciation. | 3 | Not supported | Would require modern forcing/dynamics model demonstrating timetable; paleoclimate possibility alone is insufficient. |
+| Camp Century retained physical/chemical/biological/radiological wastes after abandonment. | 1/2 | Colgan et al. 2016; monitoring-program records | Strengthen with original closure inventory and contaminant-specific records. |
+| Camp Century waste is likely to melt out or be contacted by surface meltwater before 2100. | 3 under current site-specific work | Vandecrux/GEUS 2021 finds debris remains deeply buried and melt infiltration shallow | Could change with materially different future observations, scenarios or new pathways. |
+| 2016 climate work was simply “wrong.” | 3 | Overstated. It identified a climate-dependent sequestration pathway and motivated monitoring; later local data narrowed century-scale timing. | Defeat/strengthen by reproducing both models with common forcing and field data. |
+| 2024 UAVSAR imagery detected structural features of Camp Century. | 1 | NASA Earth Observatory 2024 | Secure as radar detection; not proof of intact rooms. |
+| Camp Century is a general case of secret infrastructure creating involuntary long-term scientific/environmental experiments. | 4 — speculative synthesis | Cross-stream synthesis of military, climate, archive and monitoring histories | Defeated if framed as universal law; should remain interpretive and comparative. |
+
+## Defeat conditions for the book's thesis
+
+The thesis must narrow if primary Iceworm records show Camp Century had essentially no meaningful relationship to missile-network feasibility; if the basal sediment provenance is shown to be compromised or non-local in a way that removes site-level ice-free inference; if current Camp Century waste inventories prove essentially complete remediation rather than meaningful material remaining; or if the claimed tension between 2016 and 2021 disappears under direct model replication because the studies were answering non-overlapping questions. None of those outcomes would erase the site history, but each would require rewriting the central collision among strategy, ice physics, paleoclimate and environmental inheritance.
