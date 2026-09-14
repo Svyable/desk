@@ -30,7 +30,19 @@ A posting still required learning which official actually understood a file, whi
 
 The institution teaches some of this through repetition. A posting ends. Another begins. The officer carries forward habits that worked and, ideally, some memory of the ones that did not.
 
-Years later Burns found a language for this in George Shultz.
+The distance from home was also more literal then.
+
+Burns's early postings belonged to the era before a score, a hometown newspaper, a family photograph and a live television broadcast could all travel in the same pocket. Americans abroad had radio, newspapers, letters, phone calls, Armed Forces broadcasting and whatever local transmission happened to carry the thing they cared about. Home traveled. It did not arrive continuously.
+
+The record does not tell us how Burns followed the Red Sox from Cairo or Jerusalem, and it does not need to. The larger condition matters because it makes continuity more physical. A team, a paper, a voice on a broadcast, a result arriving late—small things could carry disproportionate weight when the rest of daily life had changed languages.
+
+That is atmosphere, not psychology.
+
+It does not tell us what Burns felt.
+
+It tells us what distance still meant.
+
+Years later Burns found a language for the professional side of this in George Shultz.
 
 As a young Foreign Service officer, he watched Secretary of State Shultz travel through Asia in 1988. Burns remembered the trip decades later through Shultz's phrase *“tending the diplomatic garden.”* The lesson was not a single crisis. Shultz traveled because relationships needed in a crisis have to exist before the crisis.
 
