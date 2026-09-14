@@ -86,6 +86,46 @@ Human beings are biased, selfish, inconsistent, manipulable, tribal, forgetful, 
 
 AI should become another layer in this architecture of compensated fallibility, not the escape hatch from it.
 
+A serious objection now presents itself.
+
+What if the machine is not merely useful but better?
+
+Not better at arithmetic or retrieval. Better at the judgment itself. Imagine systems that consistently make fewer diagnostic errors than physicians, forecast consequences more accurately than policy teams, recognize manipulation better than judges, and give moral advice that independent observers rate as wiser, fairer, and more consistent than ordinary human counsel. At some point, insisting that a person must retain final authority can begin to sound like insisting that the worse pilot fly because dignity requires touching the controls.
+
+If human responsibility means the right to overrule superior judgment on a whim, the concept deserves to lose.
+
+That is not what responsibility means.
+
+Responsibility is not cognitive supremacy. It is an architecture of answerability.
+
+A hospital can rely overwhelmingly on a diagnostic system and still remain responsible for when it is deployed, what evidence supports it, which patients fall outside validation, how disagreements are handled, what happens when it fails, and who owes the patient an explanation. A court can use predictive tools that outperform unaided intuition and still remain responsible for which questions prediction may answer and which legal rights constrain the use of prediction. A person can follow an assistant’s recommendation because the assistant is probably wiser on the facts without turning the recommendation into permission from nowhere.
+
+The human contribution may increasingly be jurisdiction rather than calculation.
+
+This is a humbling possibility. We may become less important as producers of some judgments precisely while becoming more important as authors of the institutions that decide where those judgments belong.
+
+A cockpit already illustrates the pattern in miniature. The pilot does not prove human dignity by refusing autopilot. The institution surrounding flight determines when automation is appropriate, what the crew must understand, how authority shifts under failure, which systems are redundant, what training remains necessary, and who answers after an accident. The moral center is not the hand on the control at every second. It is the structure that keeps competence connected to accountability.
+
+Advanced AI should be treated the same way.
+
+There will be contexts in which the responsible human act is to defer.
+
+A patient may be better served when a clinician follows a validated machine recommendation over personal intuition. A manager may be acting responsibly by accepting a model’s forecast instead of trusting a favorite employee’s optimistic story. A government may reduce arbitrary treatment by binding officials to a well-tested system rather than allowing unchecked discretion.
+
+Deference can be a form of judgment.
+
+The line is crossed when nobody remains authorized to ask whether the system is answering the right question, whether the conditions have changed, whether the affected person can appeal, or whether the optimized outcome is one the institution has a right to pursue.
+
+This distinction matters because “human in the loop” may become the wrong slogan for highly capable systems. Sometimes the human will be the weak link. The better objective is humanly accountable loops: systems in which authority, evidence, permissions, review, and remedy remain attached to institutions and people who can be named even when machines perform most of the cognition.
+
+A person does not need to be the smartest actor in the room to be responsible for what the room is allowed to do.
+
+Parents are not the best mathematicians merely because they are parents. Citizens are not policy experts merely because they vote. Juries are not forensic laboratories. Responsibility and legitimacy have never required maximal intelligence.
+
+The confusion arises because we have spent centuries flattering intelligence as though it were the source of moral rank.
+
+AI may cure us of that.
+
 That framing also changes how we think about human uniqueness.
 
 If machines write poetry, humans are still human. If they prove theorems, humans remain human. If they diagnose better, strategize better, remember better, and reason across larger bodies of evidence, our worth cannot depend on retaining the championship belt in cognition.
@@ -131,6 +171,32 @@ The risk is that its convenience will encourage a more childlike relation: ask, 
 We should design against that relation even when users request it.
 
 A system can preserve agency by exposing uncertainty, showing sources, asking before irreversible actions, remembering the user’s own commitments, distinguishing facts from value judgments, and refusing to manufacture certainty where none exists. Institutions can preserve agency through appeal, alternatives, oversight, portability, and responsibility that ends with an identifiable actor.
+
+The same principle can be written almost constitutionally.
+
+Capability does not grant jurisdiction.
+
+Prediction does not grant permission.
+
+Personalization does not grant ownership.
+
+Memory does not grant the right to use everything remembered.
+
+Fluency does not grant office.
+
+Reliability does not grant infallibility.
+
+Assistance does not erase authorship.
+
+These distinctions may sound legalistic beside the scale of what AI could become. That is exactly why they matter. Constitutions are made of distinctions. So are contracts, vows, professional duties, sacraments, scientific methods, and the boundaries of intimate relationships. Human freedom is often protected by apparently fussy statements about who may do what, under which conditions, with whose consent.
+
+The machine will not find these boundaries in intelligence itself.
+
+We have to draw them.
+
+And we should draw them knowing they will move. A capability that requires confirmation today may become safe enough to automate tomorrow. A system treated as a tool today may one day present evidence of morally relevant experience that changes what obligations we owe it. A domain we once believed essentially human may become better served by machines. None of this invalidates the architecture. Revisability is one of its features.
+
+The important thing is that boundary changes remain events of judgment rather than side effects of convenience.
 
 Culture can preserve agency by valuing practices that remain human not because machines cannot perform them, but because participation matters.
 
