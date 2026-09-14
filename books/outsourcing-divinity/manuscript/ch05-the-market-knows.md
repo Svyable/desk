@@ -111,3 +111,43 @@ The boundary will move. That is fine. Boundaries between human and machine compe
 What should not move invisibly is the boundary between knowing and valuing.
 
 Markets are among the greatest collective intelligence systems humans have built. Their success should make us more, not less, careful about the difference. A market can tell us what people will pay. A model can tell us what patterns predict. Neither can relieve us of deciding what must never be for sale.
+
+The global financial crisis offers a useful case because it demonstrates how sophisticated systems can be simultaneously informative and dangerously over-credited. Mortgage-backed securities, structured products, credit ratings, risk models, and market prices were not meaningless before 2008. They processed real information. Many of the people using them were technically capable. The failure was not that finance had discovered nothing. It was that layers of models, incentives, ratings, leverage, and shared assumptions created a system in which confidence could become self-reinforcing.
+
+The details matter because mythology simplifies in both directions. It would be childish to say that a single risk model caused the crisis. Lending standards, securitization practices, regulatory choices, monetary conditions, incentives, housing expectations, institutional leverage, derivatives, ratings, and other factors interacted. The useful lesson is more structural: a numerical architecture can distribute responsibility so widely that nobody feels like the author of the aggregate risk.
+
+That is precisely the kind of environment in which AI will operate.
+
+Imagine a firm where one model summarizes customers, another predicts churn, another recommends price, another drafts retention offers, another monitors fraud, and an agent executes approved actions. Each system can be locally rational. Each can improve the metric assigned to it. Yet the whole may produce a relationship with customers that no executive ever consciously chose: more surveillance, more personalized pressure, less generosity to people predicted to stay, more generosity to those predicted to leave.
+
+The organization did not hold a meeting titled “Should we become this kind of company?” It accumulated an ethics through optimization.
+
+Markets have a name for a related danger: externality. A transaction can be beneficial to buyer and seller while imposing costs elsewhere. Pollution is the textbook case because the missing party is easy to imagine. Algorithmic systems produce subtler externalities. A hiring model can make one company more efficient while narrowing the range of backgrounds that receive opportunity. A dynamic-pricing system can improve revenue while making essential goods harder to budget for. A recommendation engine can maximize engagement while changing the information environment in which politics occurs.
+
+The output metric does not deny these costs. It simply does not contain them.
+
+That sentence should become one of our basic tests for machine authority: what does this objective not contain?
+
+The question is not answered by making the model more intelligent. A superhuman optimizer given the wrong boundary can optimize the omission more effectively. If the objective is lifetime customer value, the system can become extraordinary at lifetime customer value without discovering dignity. If the objective is fraud reduction, it can become excellent at finding suspicious patterns without discovering how much suspicion a free society should tolerate. If the objective is student completion, it can improve completion without discovering what education is for.
+
+This is where market design offers a better analogy than market worship. Economies do not rely on price alone. They surround markets with property law, contract law, disclosure rules, antitrust, bankruptcy, consumer protection, labor law, environmental regulation, taxes, courts, central banks, and political institutions that decide which things should not be left to price. The boundaries are contested, often badly designed, and always changing. Their existence is an admission that a powerful allocation mechanism needs a constitutional environment.
+
+AI needs one too.
+
+A model should not be asked to discover its own jurisdiction from the data it was given. We have to decide which decisions require consent, which require explanation, which require professional responsibility, which require appeal, which may be automated entirely, and which should retain deliberate friction even when automation is possible.
+
+Friction sounds inefficient until you notice what it protects. Waiting periods around irreversible financial decisions. Two signatures for a dangerous action. Independent audit. Conflict-of-interest rules. The requirement that a public company disclose bad news instead of optimizing only for persuasion. These are designed inefficiencies. Markets function better because not every friction has been engineered away.
+
+The same insight applies to AI agents. An agent capable of spending money can be useful precisely because it removes steps. But some steps are where preference becomes commitment. “Find me the cheapest acceptable flight” is not the same instruction as “buy anything you predict I would accept.” One preserves a threshold the user articulated. The other invites the system to infer a self and act on the inference.
+
+As systems become better at prediction, inferred preference may outperform stated preference in ordinary consumer terms. The model may know that I say I prefer the morning flight but routinely choose the afternoon one when price differs by more than two hundred dollars. Useful. Yet there remains a political and personal distinction between a preference inferred from behavior and a permission granted by a person.
+
+Markets already struggle with this distinction because revealed preference is powerful economic evidence. What people do with scarce resources tells us something that surveys do not. But a revealed preference is not the whole person. Addiction reveals willingness to pay. Desperation reveals willingness to accept. Poverty reveals constrained choices. Behavioral data record what happened inside circumstances; they do not automatically tell us what circumstances ought to be.
+
+AI systems trained on behavior will repeatedly be tempted to turn the descriptive record into a normative instruction: people like you chose this, therefore this is what you want, therefore this is what should be optimized.
+
+The chain contains three separate claims.
+
+Keeping them separate is the work.
+
+The market does not become less impressive when we stop asking it to be God. It becomes more useful because we can finally see what it is good at. The same will be true of artificial intelligence.
