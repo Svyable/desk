@@ -62,6 +62,10 @@ A machine writes. Another machine checks. A third summarizes the check. A human 
 
 More review events. Less independent review.
 
+![Diagram comparing repeated automated review with an independent evidence path](../media/ch01-independent-review.svg)
+
+*More review events do not necessarily create independent review. A chain of automated stages may perform real checking while still inheriting the same upstream source error or omission. Independent review requires some route to evidence that can disagree for a reason.*
+
 Redundancy is not independence. Two calculators implementing the same mistaken formula do not corroborate each other. Two models inheriting the same source error may agree beautifully. Two departments using the same generated summary may believe they reached consensus when they merely received the same upstream compression.
 
 The more cognition becomes infrastructural, the more provenance matters.
