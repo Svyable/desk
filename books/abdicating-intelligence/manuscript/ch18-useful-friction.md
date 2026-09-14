@@ -2,7 +2,7 @@
 
 The smoothest possible interface is not always the best one.
 
-This sounds heretical in software because decades of good design have taught us to remove unnecessary steps. Make the button obvious. remember the preference. fill the form automatically. eliminate the confirmation that nobody reads. reduce time to value.
+This sounds heretical in software because decades of good design have taught us to remove unnecessary steps. Make the button obvious. Remember the preference. Fill the form automatically. Eliminate the confirmation that nobody reads. Reduce time to value.
 
 Most friction deserves to die.
 
@@ -11,6 +11,8 @@ Some friction is where judgment enters.
 A surgeon pauses before an operation to confirm patient, procedure, and site. A software deployment may require a second approval before reaching production. A bank may delay a large transfer. A cockpit checklist forces attention through steps that skilled pilots already know.
 
 The delay is deliberate because the cost of an unexamined error exceeds the cost of interruption.
+
+Mature safety systems already distinguish between friction everywhere and friction at the boundary that matters. The FAA's [sterile-cockpit rule](https://www.faa.gov/sites/faa.gov/files/2022-11/121.542%20Flight%20crewmember%20duties.pdf) restricts nonessential duties and distracting activity during critical phases of flight rather than throughout the entire trip. AHRQ's patient-safety guidance makes a similar human-factors distinction: [checklists](https://psnet.ahrq.gov/primer/checklists) and [forcing functions](https://psnet.ahrq.gov/primer/human-factors-engineering) can prevent slips or block unsafe transitions, but a poorly targeted checklist is not a substitute for training or judgment. The point is not that AI should imitate aviation or hospitals. It is that interruption works best when the system can name the failure it is trying to prevent.
 
 AI will make it possible to remove cognitive friction from almost every knowledge task.
 
@@ -83,6 +85,12 @@ Useful friction has another enemy: scale.
 A confirmation that works once can become meaningless after a thousand repetitions. Security researchers call this habituation in other contexts. People click through warnings they see constantly. A reviewer confronted with endless AI approvals will approve by default.
 
 Friction must be scarce enough to retain signal.
+
+NIST research on [security fatigue](https://www.nist.gov/news-events/news/2016/10/security-fatigue-can-cause-computer-users-feel-hopeless-and-act-recklessly) found that people overwhelmed by repeated security decisions can become resigned and drift toward avoidance, the easiest available option, or failure to follow the rule. It is a cybersecurity finding, not an AI approval experiment. But it makes the design failure concrete: friction that fires constantly can train the user to stop reading it.
+
+![A task enters an AI system and is routed according to purpose and stakes. Low-stakes reversible work receives little interruption. Learning tasks pause for prediction, retrieval, explanation, or comparison. Consequential actions pause before commitment for authorization, verification, or a second party. A note explains that repeated warnings become background noise and can train users to click through them.](../media/ch18-friction-routing.svg)
+
+*Put friction where the consequence changes.* Low-stakes reversible work, learning, and consequential commitment need different interaction contracts. Repeating the same interruption everywhere weakens its signal. Conceptual diagram; not a quantitative risk model.
 
 This means systems should automate obvious checks and reserve interruption for uncertainty, consequence, or meaningful choice.
 
@@ -198,7 +206,7 @@ That is the mature promise.
 
 There is also a social form of useful friction: another person.
 
-Human disagreement is inefficient. Meetings wander. colleagues misunderstand. reviewers ask questions that seem obvious. Yet other minds provide independence no interface can fully simulate if the underlying system is shared.
+Human disagreement is inefficient. Meetings wander. Colleagues misunderstand. Reviewers ask questions that seem obvious. Yet other minds provide independence no interface can fully simulate if the underlying system is shared.
 
 AI can make individual work so capable that collaboration appears less necessary.
 
