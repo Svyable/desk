@@ -1,0 +1,22 @@
+# Chronology
+
+- **31 January 1958** — Explorer 1 launches; early measurements contribute to discovery of Earth's trapped-radiation environment.
+- **August–September 1958** — Project Argus conducts three high-altitude nuclear detonations over the South Atlantic; artificial trapped-radiation populations are observed.
+- **1961–1962** — U.S.-Soviet nuclear testing accelerates after the testing moratorium collapses.
+- **May 28, 1962** — U.S. announces a series of high-altitude tests that includes Starfish.
+- **June 1962** — Fishbowl launch failures occur before a successful Starfish shot; primary accident chronology remains an expansion target.
+- **July 9, 1962** — Starfish Prime detonates at roughly 400 km altitude with announced 1.4 Mt yield.
+- **July 10, 1962** — Telstar 1 launches into the altered radiation environment.
+- **July–August 1962** — NASA reports severe effects on Ariel I, Transit IVB and TRAAC; artificial belt measurements intensify.
+- **October 1962** — Goddard/NASA reporting publicly discusses the artificial radiation belt.
+- **October 22, 1962** — Soviet high-altitude nuclear test produces additional trapped radiation.
+- **October 27, 1962** — Explorer XV launches to characterize the artificial belt environment.
+- **October 28, 1962** — Another Soviet high-altitude nuclear test.
+- **November 1, 1962** — Further Soviet high-altitude test; later reviews identify another artificial trapped-electron population.
+- **November 4, 1962** — Telstar experiences loss of command function after earlier degradation indications; Bell Labs investigates radiation damage.
+- **1963** — NASA publishes status and technical reports on Starfish artificial radiation.
+- **August 5, 1963** — United States, Soviet Union and United Kingdom sign the Limited Test Ban Treaty.
+- **October 10, 1963** — LTBT enters into force, prohibiting nuclear explosions in the atmosphere, underwater and in outer space for parties.
+- **1963–1966** — Measurements continue tracking the structure and decay of Starfish-created electrons.
+- **1967–1972** — Published reviews consolidate the multiyear artificial-belt record and comparative U.S./Soviet observations.
+- **Present** — Starfish remains a central historical data point in spacecraft-radiation, HEMP and anthropogenic-space-weather discussions because comparable open testing is prohibited.
