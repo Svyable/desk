@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">The unplugged test measures the reserve</title>
+  <desc id="desc">A conceptual diagram separates normal assisted performance from a temporary unplugged test. The test routes results into four interpretations: capability is retained, transfer is weak, fallback architecture is missing, or the old skill no longer needs to be preserved. A footer notes that the purpose is diagnosis and redesign, not purity or punishment.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#222"/></marker>
+    <style>
+      .t{font-family:Arial,Helvetica,sans-serif;fill:#111}.h{font-size:34px;font-weight:700}.s{font-size:22px;font-weight:700}.b{font-size:20px}.n{font-size:18px}.box{fill:#fff;stroke:#222;stroke-width:2}.soft{fill:#f4f4f4;stroke:#222;stroke-width:2}.line{stroke:#222;stroke-width:2.5;fill:none;marker-end:url(#arrow)}
+    </style>
+  </defs>
+  <text x="60" y="62" class="t h">The unplugged test measures the reserve</text>
+  <text x="60" y="98" class="t b">Not whether tools are bad. Not whether unaided work is morally purer. What remains when the dominant layer is unavailable?</text>
+
+  <rect x="60" y="150" width="300" height="150" rx="12" class="soft"/>
+  <text x="90" y="190" class="t s">Normal operation</text>
+  <text x="90" y="228" class="t b">Human + AI + records +</text>
+  <text x="90" y="258" class="t b">workflow + infrastructure</text>
+  <text x="90" y="286" class="t n">Measure real combined performance.</text>
+
+  <rect x="450" y="150" width="300" height="150" rx="12" class="box"/>
+  <text x="480" y="190" class="t s">Temporary test condition</text>
+  <text x="480" y="228" class="t b">Remove, distrust, or mask one</text>
+  <text x="480" y="258" class="t b">dominant cognitive dependency.</text>
+  <text x="480" y="286" class="t n">Change the surface; preserve the task.</text>
+
+  <path d="M360 225 H438" class="line"/>
+
+  <text x="850" y="145" class="t s">What the result can reveal</text>
+
+  <rect x="830" y="170" width="310" height="88" rx="10" class="box"/>
+  <text x="855" y="204" class="t b">Reserve retained</text>
+  <text x="855" y="234" class="t n">Fallback capability is credible.</text>
+
+  <rect x="830" y="278" width="310" height="88" rx="10" class="box"/>
+  <text x="855" y="312" class="t b">Transfer is weak</text>
+  <text x="855" y="342" class="t n">Assisted success did not travel.</text>
+
+  <rect x="830" y="386" width="310" height="88" rx="10" class="box"/>
+  <text x="855" y="420" class="t b">Architecture is brittle</text>
+  <text x="855" y="450" class="t n">Records, access, routing, or backup fail.</text>
+
+  <rect x="830" y="494" width="310" height="88" rx="10" class="box"/>
+  <text x="855" y="528" class="t b">Reserve is obsolete</text>
+  <text x="855" y="558" class="t n">Stop pretending an old skill still matters.</text>
+
+  <path d="M750 225 C790 225 790 214 820 214" class="line"/>
+  <path d="M750 225 C790 250 790 322 820 322" class="line"/>
+  <path d="M750 225 C790 280 790 430 820 430" class="line"/>
+  <path d="M750 225 C790 310 790 538 820 538" class="line"/>
+
+  <rect x="60" y="370" width="690" height="212" rx="12" class="soft"/>
+  <text x="90" y="410" class="t s">Design rule</text>
+  <text x="90" y="450" class="t b">Test the capability that still carries responsibility.</text>
+  <text x="90" y="486" class="t b">Use a low-risk simulation, define the objective in advance,</text>
+  <text x="90" y="518" class="t b">record strengths and gaps, then change training, workflow,</text>
+  <text x="90" y="550" class="t b">fallbacks, or accountability.</text>
+
+  <line x1="60" y1="625" x2="1140" y2="625" stroke="#222" stroke-width="2"/>
+  <text x="60" y="665" class="t s">The point is diagnosis and redesign — not purity, nostalgia, or punishment.</text>
+</svg>
