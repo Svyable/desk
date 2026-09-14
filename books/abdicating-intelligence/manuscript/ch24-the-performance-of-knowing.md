@@ -20,7 +20,9 @@ These cues are not foolish. They are part of how social knowledge works.
 
 They are also becoming cheaper to manufacture.
 
-Psychologists have spent decades studying what they call processing fluency: the subjective ease with which information is perceived or understood. Adam Alter and Daniel Oppenheimer reviewed a large literature showing that fluency can influence judgment across surprisingly different settings. Statements that are easier to process can feel more familiar, more plausible, or more true than harder-to-process versions, depending on context. Related work on the truth effect has shown that repetition and familiarity can alter truth judgments even when the underlying proposition has not become better supported.
+The signal problem is already measurable. In a [2024 *Scientific Reports* study](https://doi.org/10.1038/s41598-024-76218-y), participants were only modestly better than chance at distinguishing human- from AI-generated longer texts: average accuracy was 57 percent, and AI texts themselves were correctly recognized as AI only 53 percent of the time. That is not evidence that authorship is impossible to detect, much less that expertise is. It is evidence that the page is becoming a weaker witness about who—or what—produced it.
+
+Psychologists have spent decades studying what they call processing fluency: the subjective ease with which information is perceived or understood. [Adam Alter and Daniel Oppenheimer](https://doi.org/10.1177/1088868309341564) reviewed a large literature showing that fluency can influence judgment across surprisingly different settings. Statements that are easier to process can feel more familiar, more plausible, or more true than harder-to-process versions, depending on context. Related work on the truth effect has shown that repetition and familiarity can alter truth judgments even when the underlying proposition has not become better supported.
 
 No one needed generative AI for this to happen.
 
@@ -132,6 +134,10 @@ Another is error recognition.
 
 Can the person tell you what would make them stop trusting the result?
 
+![Conceptual diagram showing that a polished artifact can be backed either by durable capability or by borrowed capability, with provenance, prediction, sensitivity, transfer, and error recognition as probes that distinguish the two.](../media/ch24-performance-of-knowing.svg)
+
+*The artifact and the capability can diverge.* A polished output can be produced by durable knowledge or by borrowed capability. The distinction appears when the work has to move: trace a claim, predict a consequence, survive a changed assumption, transfer to a new case, or recognize the condition that should break trust. *Original diagram by Sven Hardy Benson / Abdicating Intelligence project.*
+
 These are harder to fake with surface fluency because they require the knowledge to survive movement.
 
 Not impossible. Harder.
@@ -170,7 +176,7 @@ The institution still has to see the capability that remains.
 
 This is where explanations can become deceptive in a new way.
 
-It is tempting to think that if an AI system explains its recommendation, the user will become appropriately calibrated. Sometimes explanations help. Sometimes they increase confidence without improving performance. Studies of clinicians and other professionals using decision support increasingly find that the effect of explanation depends on the task, the user, and the quality of the explanation. There is no general law that more rationale produces better judgment.
+It is tempting to think that if an AI system explains its recommendation, the user will become appropriately calibrated. Sometimes explanations help. Sometimes they do not. In a [2023 human-AI decision study](https://www.microsoft.com/en-us/research/publication/understanding-the-role-of-human-intuition-on-reliance-in-human-ai-decision-making-with-explanations/), the effect depended on the form of explanation: the tested feature-based explanations did not improve decision outcomes and increased overreliance, while example-based explanations performed better in those tasks. That is not a universal ranking of explanation methods. It is a warning that fluent rationale can become another interface cue rather than a reliable route to better judgment.
 
 A fluent explanation can itself become another performance of knowing.
 
