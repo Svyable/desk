@@ -46,6 +46,10 @@ To a ranking or eligibility system, it may contribute to a threshold.
 
 Same star. Different institution.
 
+![Two-column diagram comparing how Airbnb and Uber attach different institutional rules to similar five-star rating surfaces.](../assets/ch08-same-stars-different-rules.svg)
+
+*The visible scale is not the rule. Airbnb's published guest-rating documentation groups four- and five-star category ratings as positive and one- through three-star ratings as negative for future hosts. Uber's published driver documentation describes a rolling average of the most recent 500 rated trips and a city-specific minimum that can affect platform access after warnings. Both use five stars; the institutional semantics are different. Policies vary by market and can change.*
+
 This mismatch encourages rating inflation.
 
 When workers tell customers that anything below five harms them, customers who intend to say “good” learn to say “perfect.” Once most satisfactory experiences receive the maximum score, the scale loses resolution. A 4.7 can begin to look mediocre even though it would seem extraordinary on an ordinary five-point scale.
