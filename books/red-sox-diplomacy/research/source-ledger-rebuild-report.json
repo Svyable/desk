@@ -1,0 +1,428 @@
+{
+  "baseline_rows": 185,
+  "addendum_files": [
+    "source-ledger-addendum-16.csv",
+    "source-ledger-addendum-17.csv",
+    "source-ledger-addendum-18.csv",
+    "source-ledger-addendum-19.csv",
+    "source-ledger-addendum-20.csv",
+    "source-ledger-addendum-21.csv",
+    "source-ledger-addendum-22.csv",
+    "source-ledger-addendum-23.csv",
+    "source-ledger-addendum-24.csv",
+    "source-ledger-addendum-25.csv",
+    "source-ledger-addendum-26.csv",
+    "source-ledger-addendum-27.csv",
+    "source-ledger-addendum-28.csv",
+    "source-ledger-addendum-29.csv",
+    "source-ledger-addendum-30.csv",
+    "source-ledger-addendum-31.csv",
+    "source-ledger-addendum-32.csv",
+    "source-ledger-addendum-33.csv",
+    "source-ledger-addendum-34.csv",
+    "source-ledger-addendum-35.csv",
+    "source-ledger-addendum-36.csv",
+    "source-ledger-addendum-37.csv",
+    "source-ledger-addendum-38.csv",
+    "source-ledger-addendum-39.csv"
+  ],
+  "staged_rows": 213,
+  "duplicate_rows_removed": 49,
+  "canonical_rows": 349,
+  "highest_addendum": "source-ledger-addendum-39.csv",
+  "book_use_upgrades": 26,
+  "duplicates": [
+    {
+      "normalized_url": "https://1997-2001.state.gov/briefings/9706/970604db.html",
+      "kept_origin": "source-ledger.csv",
+      "kept_original_id": "rsd-002",
+      "duplicate_origin": "source-ledger-addendum-17.csv",
+      "duplicate_original_id": "rsd-206",
+      "book_use_upgraded": true
+    },
+    {
+      "normalized_url": "https://atlanticcouncil.org/wp-content/uploads/2012/03/Burns_Transcript.pdf",
+      "kept_origin": "source-ledger.csv",
+      "kept_original_id": "rsd-014",
+      "duplicate_origin": "source-ledger-addendum-17.csv",
+      "duplicate_original_id": "rsd-207",
+      "book_use_upgraded": true
+    },
+    {
+      "normalized_url": "https://2001-2009.state.gov/documents/organization/91629.pdf",
+      "kept_origin": "source-ledger.csv",
+      "kept_original_id": "rsd-140",
+      "duplicate_origin": "source-ledger-addendum-17.csv",
+      "duplicate_original_id": "rsd-208",
+      "book_use_upgraded": true
+    },
+    {
+      "normalized_url": "https://hks.harvard.edu/announcements/us-ambassador-china-nicholas-burns-deliver-2024-harvard-kennedy-school-graduation",
+      "kept_origin": "source-ledger.csv",
+      "kept_original_id": "rsd-021",
+      "duplicate_origin": "source-ledger-addendum-17.csv",
+      "duplicate_original_id": "rsd-209",
+      "book_use_upgraded": false
+    },
+    {
+      "normalized_url": "https://davidson.edu/news/2025/09/23/my-day-davidson-ambassador-china-nicholas-burns",
+      "kept_origin": "source-ledger.csv",
+      "kept_original_id": "rsd-015",
+      "duplicate_origin": "source-ledger-addendum-17.csv",
+      "duplicate_original_id": "rsd-210",
+      "book_use_upgraded": true
+    },
+    {
+      "normalized_url": "https://mlb.com/news/longtime-red-sox-public-relations-head-dick-bresciani-passes-away/c-102858356",
+      "kept_origin": "source-ledger.csv",
+      "kept_original_id": "rsd-169",
+      "duplicate_origin": "source-ledger-addendum-17.csv",
+      "duplicate_original_id": "rsd-211",
+      "book_use_upgraded": false
+    },
+    {
+      "normalized_url": "https://1997-2001.state.gov/policy_remarks/970524.burns.html",
+      "kept_origin": "source-ledger.csv",
+      "kept_original_id": "rsd-001",
+      "duplicate_origin": "source-ledger-addendum-19.csv",
+      "duplicate_original_id": "rsd-224",
+      "book_use_upgraded": true
+    },
+    {
+      "normalized_url": "https://2001-2009.state.gov/p/us/rm/2007/87176.htm",
+      "kept_origin": "source-ledger.csv",
+      "kept_original_id": "rsd-013",
+      "duplicate_origin": "source-ledger-addendum-19.csv",
+      "duplicate_original_id": "rsd-226",
+      "book_use_upgraded": true
+    },
+    {
+      "normalized_url": "https://wellesleyfreelibrary.org/nick-burns",
+      "kept_origin": "source-ledger.csv",
+      "kept_original_id": "rsd-134",
+      "duplicate_origin": "source-ledger-addendum-19.csv",
+      "duplicate_original_id": "rsd-227",
+      "book_use_upgraded": false
+    },
+    {
+      "normalized_url": "https://2001-2009.state.gov/p/us/rm/2007/90347.htm",
+      "kept_origin": "source-ledger.csv",
+      "kept_original_id": "rsd-017",
+      "duplicate_origin": "source-ledger-addendum-19.csv",
+      "duplicate_original_id": "rsd-228",
+      "book_use_upgraded": true
+    },
+    {
+      "normalized_url": "https://mediamax.am/en/news/interviews/54",
+      "kept_origin": "source-ledger.csv",
+      "kept_original_id": "rsd-150",
+      "duplicate_origin": "source-ledger-addendum-19.csv",
+      "duplicate_original_id": "rsd-229",
+      "book_use_upgraded": false
+    },
+    {
+      "normalized_url": "https://2001-2009.state.gov/p/eur/rt/nato/c11326.htm",
+      "kept_origin": "source-ledger.csv",
+      "kept_original_id": "rsd-149",
+      "duplicate_origin": "source-ledger-addendum-19.csv",
+      "duplicate_original_id": "rsd-230",
+      "book_use_upgraded": false
+    },
+    {
+      "normalized_url": "https://2001-2009.state.gov/p/eur/rls/rm/c11132.htm",
+      "kept_origin": "source-ledger-addendum-17.csv",
+      "kept_original_id": "rsd-214",
+      "duplicate_origin": "source-ledger-addendum-19.csv",
+      "duplicate_original_id": "rsd-231",
+      "book_use_upgraded": false
+    },
+    {
+      "normalized_url": "https://1997-2001.state.gov/publications/statemag/statemag_jul2000/feature5.html",
+      "kept_origin": "source-ledger.csv",
+      "kept_original_id": "rsd-094",
+      "duplicate_origin": "source-ledger-addendum-20.csv",
+      "duplicate_original_id": "rsd-233",
+      "book_use_upgraded": true
+    },
+    {
+      "normalized_url": "https://ekathimerini.com/culture/9992/president-inaugurates-a-project-of-mda-hellas",
+      "kept_origin": "source-ledger.csv",
+      "kept_original_id": "rsd-095",
+      "duplicate_origin": "source-ledger-addendum-20.csv",
+      "duplicate_original_id": "rsd-234",
+      "book_use_upgraded": false
+    },
+    {
+      "normalized_url": "https://musculardystrophynews.com/news/mda-hellas-gives-greek-sma-duchenne-patients-reason-to-hope",
+      "kept_origin": "source-ledger.csv",
+      "kept_original_id": "rsd-096",
+      "duplicate_origin": "source-ledger-addendum-20.csv",
+      "duplicate_original_id": "rsd-235",
+      "book_use_upgraded": false
+    },
+    {
+      "normalized_url": "https://csis.org/analysis/ambassador-nicholas-burns-us-china-relationship",
+      "kept_origin": "source-ledger.csv",
+      "kept_original_id": "rsd-069",
+      "duplicate_origin": "source-ledger-addendum-20.csv",
+      "duplicate_original_id": "rsd-243",
+      "book_use_upgraded": true
+    },
+    {
+      "normalized_url": "https://sfgate.com/sports/article/TOP-OF-THE-SIXTH-2955829.php",
+      "kept_origin": "source-ledger.csv",
+      "kept_original_id": "rsd-125",
+      "duplicate_origin": "source-ledger-addendum-22.csv",
+      "duplicate_original_id": "rsd-258",
+      "book_use_upgraded": true
+    },
+    {
+      "normalized_url": "https://1997-2001.state.gov/briefings/9706/970604db.html",
+      "kept_origin": "source-ledger.csv",
+      "kept_original_id": "rsd-002",
+      "duplicate_origin": "source-ledger-addendum-22.csv",
+      "duplicate_original_id": "rsd-260",
+      "book_use_upgraded": false
+    },
+    {
+      "normalized_url": "https://2001-2009.state.gov/p/us/rm/2005/45781.htm",
+      "kept_origin": "source-ledger.csv",
+      "kept_original_id": "rsd-010",
+      "duplicate_origin": "source-ledger-addendum-23.csv",
+      "duplicate_original_id": "rsd-263",
+      "book_use_upgraded": true
+    },
+    {
+      "normalized_url": "https://2001-2009.state.gov/p/us/rm/2006/66226.htm",
+      "kept_origin": "source-ledger.csv",
+      "kept_original_id": "rsd-041",
+      "duplicate_origin": "source-ledger-addendum-23.csv",
+      "duplicate_original_id": "rsd-264",
+      "book_use_upgraded": true
+    },
+    {
+      "normalized_url": "https://atlanticcouncil.org/wp-content/uploads/2012/03/Burns_Transcript.pdf",
+      "kept_origin": "source-ledger.csv",
+      "kept_original_id": "rsd-014",
+      "duplicate_origin": "source-ledger-addendum-23.csv",
+      "duplicate_original_id": "rsd-265",
+      "book_use_upgraded": false
+    },
+    {
+      "normalized_url": "https://e-yearbook.com/yearbooks/Wellesley_High_School_Wellesleyan_Yearbook/1974/Page_1.html",
+      "kept_origin": "source-ledger-addendum-21.csv",
+      "kept_original_id": "rsd-255",
+      "duplicate_origin": "source-ledger-addendum-24.csv",
+      "duplicate_original_id": "rsd-268",
+      "book_use_upgraded": false
+    },
+    {
+      "normalized_url": "https://1997-2001.state.gov/briefings/9704/970403.html",
+      "kept_origin": "source-ledger.csv",
+      "kept_original_id": "rsd-057",
+      "duplicate_origin": "source-ledger-addendum-24.csv",
+      "duplicate_original_id": "rsd-269",
+      "book_use_upgraded": true
+    },
+    {
+      "normalized_url": "https://sfgate.com/sports/article/TOP-OF-THE-SIXTH-2955829.php",
+      "kept_origin": "source-ledger.csv",
+      "kept_original_id": "rsd-125",
+      "duplicate_origin": "source-ledger-addendum-24.csv",
+      "duplicate_original_id": "rsd-270",
+      "book_use_upgraded": false
+    },
+    {
+      "normalized_url": "https://greekbaseball.com/news/are-there-baseball-teams-in-greece",
+      "kept_origin": "source-ledger.csv",
+      "kept_original_id": "rsd-072",
+      "duplicate_origin": "source-ledger-addendum-25.csv",
+      "duplicate_original_id": "rsd-272",
+      "book_use_upgraded": true
+    },
+    {
+      "normalized_url": "https://cfo.com/news/a-baseball-odyssey/679439",
+      "kept_origin": "source-ledger.csv",
+      "kept_original_id": "rsd-157",
+      "duplicate_origin": "source-ledger-addendum-26.csv",
+      "duplicate_original_id": "rsd-279",
+      "book_use_upgraded": true
+    },
+    {
+      "normalized_url": "https://samiotes.com/chuck-samiotes",
+      "kept_origin": "source-ledger-addendum-26.csv",
+      "kept_original_id": "rsd-287",
+      "duplicate_origin": "source-ledger-addendum-27.csv",
+      "duplicate_original_id": "rsd-290",
+      "book_use_upgraded": false
+    },
+    {
+      "normalized_url": "https://greekbaseball.com/news/are-there-baseball-teams-in-greece",
+      "kept_origin": "source-ledger.csv",
+      "kept_original_id": "rsd-072",
+      "duplicate_origin": "source-ledger-addendum-28.csv",
+      "duplicate_original_id": "rsd-295",
+      "book_use_upgraded": false
+    },
+    {
+      "normalized_url": "https://greekbaseball.com/history",
+      "kept_origin": "source-ledger.csv",
+      "kept_original_id": "rsd-008",
+      "duplicate_origin": "source-ledger-addendum-28.csv",
+      "duplicate_original_id": "rsd-296",
+      "book_use_upgraded": true
+    },
+    {
+      "normalized_url": "https://baseballacropolis.org/About_us.htm",
+      "kept_origin": "source-ledger.csv",
+      "kept_original_id": "rsd-155",
+      "duplicate_origin": "source-ledger-addendum-31.csv",
+      "duplicate_original_id": "rsd-305",
+      "book_use_upgraded": true
+    },
+    {
+      "normalized_url": "https://baseballacropolis.org/photos.htm",
+      "kept_origin": "source-ledger.csv",
+      "kept_original_id": "rsd-147",
+      "duplicate_origin": "source-ledger-addendum-31.csv",
+      "duplicate_original_id": "rsd-306",
+      "book_use_upgraded": true
+    },
+    {
+      "normalized_url": "https://thecrimson.com/article/1998/11/3/ambassador-to-greece-urges-improved-relations",
+      "kept_origin": "source-ledger.csv",
+      "kept_original_id": "rsd-070",
+      "duplicate_origin": "source-ledger-addendum-31.csv",
+      "duplicate_original_id": "rsd-307",
+      "book_use_upgraded": true
+    },
+    {
+      "normalized_url": "https://mlb.com/news/longtime-red-sox-public-relations-head-dick-bresciani-passes-away/c-102858356",
+      "kept_origin": "source-ledger.csv",
+      "kept_original_id": "rsd-169",
+      "duplicate_origin": "source-ledger-addendum-33.csv",
+      "duplicate_original_id": "rsd-317",
+      "book_use_upgraded": false
+    },
+    {
+      "normalized_url": "https://samiotes.com/jim-rice-field",
+      "kept_origin": "source-ledger-addendum-27.csv",
+      "kept_original_id": "rsd-289",
+      "duplicate_origin": "source-ledger-addendum-33.csv",
+      "duplicate_original_id": "rsd-318",
+      "book_use_upgraded": false
+    },
+    {
+      "normalized_url": "https://cityofboston.gov/parks/pdfs/os3n.pdf",
+      "kept_origin": "source-ledger-addendum-27.csv",
+      "kept_original_id": "rsd-288",
+      "duplicate_origin": "source-ledger-addendum-33.csv",
+      "duplicate_original_id": "rsd-319",
+      "book_use_upgraded": false
+    },
+    {
+      "normalized_url": "https://2001-2009.state.gov/p/eur/rt/nato/c11326.htm",
+      "kept_origin": "source-ledger.csv",
+      "kept_original_id": "rsd-149",
+      "duplicate_origin": "source-ledger-addendum-33.csv",
+      "duplicate_original_id": "rsd-322",
+      "book_use_upgraded": true
+    },
+    {
+      "normalized_url": "https://1997-2001.state.gov/policy_remarks/970524.burns.html",
+      "kept_origin": "source-ledger.csv",
+      "kept_original_id": "rsd-001",
+      "duplicate_origin": "source-ledger-addendum-34.csv",
+      "duplicate_original_id": "rsd-323",
+      "book_use_upgraded": true
+    },
+    {
+      "normalized_url": "https://1997-2001.state.gov/www/briefings/9706/970616db.html",
+      "kept_origin": "source-ledger.csv",
+      "kept_original_id": "rsd-058",
+      "duplicate_origin": "source-ledger-addendum-34.csv",
+      "duplicate_original_id": "rsd-324",
+      "book_use_upgraded": true
+    },
+    {
+      "normalized_url": "https://ahiworld.serverbox.net/media-center/newsletters/2000/1264-december-3-2000.html",
+      "kept_origin": "source-ledger.csv",
+      "kept_original_id": "rsd-076",
+      "duplicate_origin": "source-ledger-addendum-37.csv",
+      "duplicate_original_id": "rsd-344",
+      "book_use_upgraded": true
+    },
+    {
+      "normalized_url": "https://1997-2001.state.gov/publications/statemag/statemag_jul2000/feature5.html",
+      "kept_origin": "source-ledger.csv",
+      "kept_original_id": "rsd-094",
+      "duplicate_origin": "source-ledger-addendum-37.csv",
+      "duplicate_original_id": "rsd-345",
+      "book_use_upgraded": false
+    },
+    {
+      "normalized_url": "https://baseballacropolis.org/About_us.htm",
+      "kept_origin": "source-ledger.csv",
+      "kept_original_id": "rsd-155",
+      "duplicate_origin": "source-ledger-addendum-38.csv",
+      "duplicate_original_id": "rsd-350",
+      "book_use_upgraded": false
+    },
+    {
+      "normalized_url": "https://lynnjournal.com/2018/06/21/a-labor-of-lovegalatis-worked-hard-to-create-red-sox-tribute-to-harry-agganis",
+      "kept_origin": "source-ledger-addendum-26.csv",
+      "kept_original_id": "rsd-283",
+      "duplicate_origin": "source-ledger-addendum-38.csv",
+      "duplicate_original_id": "rsd-351",
+      "book_use_upgraded": false
+    },
+    {
+      "normalized_url": "https://gewrite.medium.com/why-we-honored-harry-agganis-939f3b87a61b",
+      "kept_origin": "source-ledger-addendum-35.csv",
+      "kept_original_id": "rsd-332",
+      "duplicate_origin": "source-ledger-addendum-38.csv",
+      "duplicate_original_id": "rsd-352",
+      "book_use_upgraded": false
+    },
+    {
+      "normalized_url": "https://commons.wikimedia.org/wiki/File:Ambassador_Burns_with_Chinese_baseball_fans.png",
+      "kept_origin": "source-ledger.csv",
+      "kept_original_id": "rsd-019",
+      "duplicate_origin": "source-ledger-addendum-39.csv",
+      "duplicate_original_id": "rsd-368",
+      "book_use_upgraded": true
+    },
+    {
+      "normalized_url": "https://belfercenter.org/research-analysis/lessons-front-lines-us-china-relationship",
+      "kept_origin": "source-ledger.csv",
+      "kept_original_id": "rsd-163",
+      "duplicate_origin": "source-ledger-addendum-39.csv",
+      "duplicate_original_id": "rsd-376",
+      "book_use_upgraded": true
+    },
+    {
+      "normalized_url": "https://foreignaffairs.com/podcasts/alone-beijing-view-embassy-nicholas-burns",
+      "kept_origin": "source-ledger-addendum-20.csv",
+      "kept_original_id": "rsd-238",
+      "duplicate_origin": "source-ledger-addendum-39.csv",
+      "duplicate_original_id": "rsd-382",
+      "book_use_upgraded": true
+    },
+    {
+      "normalized_url": "https://commons.wikimedia.org/wiki/File:Ambassador_Burns_pitching_baseball.jpg",
+      "kept_origin": "source-ledger.csv",
+      "kept_original_id": "rsd-161",
+      "duplicate_origin": "source-ledger-addendum-39.csv",
+      "duplicate_original_id": "rsd-388",
+      "book_use_upgraded": false
+    },
+    {
+      "normalized_url": "https://commons.wikimedia.org/wiki/Category:People_on_the_Great_Wall_of_China",
+      "kept_origin": "source-ledger-addendum-39.csv",
+      "kept_original_id": "rsd-391",
+      "duplicate_origin": "source-ledger-addendum-39.csv",
+      "duplicate_original_id": "rsd-392",
+      "book_use_upgraded": false
+    }
+  ]
+}
