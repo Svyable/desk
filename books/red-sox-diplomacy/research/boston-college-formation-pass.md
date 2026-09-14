@@ -4,7 +4,7 @@ The Red Sox chronology creates obvious temptations around Nicholas Burns's Bosto
 
 ## What is firmly established
 
-Burns graduated from Boston College in 1978 with a B.A. in history, concentrating on European history. Official biographies record that he graduated summa cum laude and was elected Phi Beta Kappa. He spent part of his junior year at the University of Paris-Sorbonne, earning the Certificat Pratique de Langue Française in 1977.
+Burns graduated from Boston College in 1978 after studying history, with European history prominent in the official biographical record. Later official biographies record that he graduated summa cum laude and was elected Phi Beta Kappa. He spent part of his undergraduate period at the University of Paris-Sorbonne, earning the Certificat Pratique de Langue Française in 1977.
 
 Sources:
 - https://georgewbush-whitehouse.archives.gov/government/nburns-bio.html
@@ -18,12 +18,33 @@ These facts matter because they break the undergraduate period into a more preci
 
 That overlap is contextual, not autobiographical evidence.
 
+## Degree-label conflict — do not silently choose a cleaner version
+
+The degree abbreviation is inconsistent across official U.S. government biographies.
+
+- The 1997 State Department biography says Burns earned a **B.S. in European History** from Boston College in 1978.
+- The later George W. Bush White House biography says he earned a **B.A. in European History** from Boston College in 1978.
+- In his own 2002 Boston College commencement address, Burns simply refers to leaving with a **history degree**.
+
+Sources:
+- https://1997-2001.state.gov/about_state/biography/burns.html
+- https://georgewbush-whitehouse.archives.gov/government/nburns-bio.html
+- https://www.bc.edu/bc-web/bcnews/campus-community/alumni/r--nicholas-burns-2002-commencement-address.html
+
+**Editorial rule:** until a Boston College 1978 degree list, commencement program, registrar record, or equivalent BC source resolves the abbreviation, manuscript prose should use “history degree,” “history graduate,” or equivalent wording and should not silently convert the conflict into certainty.
+
+Boston College's Burns Library has an exact 1978 commencement file in the Office of Public Relations records. Its scope includes programs, press releases, and lists of graduates by degree and school. That is now the highest-value institutional route for resolving the abbreviation.
+
+Finding aid:
+https://findingaids.bc.edu/repositories/2/archival_objects/162944
+
 ## Mod 36A — one concrete student-life place
 
-Boston College Magazine later reported that Burns had lived in **Mod 36A** as a student. In his 2002 commencement visit, the one BC building he singled out was the Mod where he had lived, and after the ceremony he returned to visit 36A.
+Burns's 2002 Boston College commencement address supplies the first-person core: three of his old roommates were present, and he reminded the audience that they had lived in the Mods. Boston College Magazine later identified his residence as **Mod 36A** and reported that one of his few campus stops after the 2002 ceremony was a visit back to 36A.
 
-Source:
-https://www.bc.edu/content/bc-web/sites/bc-magazine/bc-magazine-spring-2020-issue/features/mod-world.html
+Sources:
+- https://www.bc.edu/bc-web/bcnews/campus-community/alumni/r--nicholas-burns-2002-commencement-address.html
+- https://www.bc.edu/bc-web/bcnews/campus-community/around-campus/mod-world.html
 
 This is unusually valuable because it gives the undergraduate biography a real physical anchor that does not depend on baseball. The Mods were a specific social institution in late-1970s Boston College life: small prefabricated senior housing units with a strong communal culture.
 
@@ -44,7 +65,24 @@ This belongs in the biography because it provides a documented intellectual coun
 
 The Boston College article is retrospective institutional reporting, and O'Connor's course chronology should be checked closely before assigning the memory to a precise semester. Burns's recollection is direct, but the phrase “in the last year of the Vietnam War” is his later framing rather than a registrar entry.
 
-## Burns's own memory of graduating in 1978
+Do not let this memory become a retrospective master key. It can establish that Burns later remembered a specific intellectual disturbance. It cannot, by itself, explain his later positions on alliance policy, war, intervention, or diplomacy.
+
+## Burns's own 2002 return — stronger self-explanation than a résumé line
+
+Burns returned to Boston College as commencement speaker on May 20, 2002. The address is unusually useful because it combines several parts of the undergraduate biography in Burns's own retrospective account:
+
+- three former roommates were present and he remembered living in the Mods;
+- he named John Heineman, Thomas Gray, and Mark O'Connor as important professors from his BC years;
+- he described the history degree as the degree he left with;
+- he framed a Boston College education as a call to service;
+- he told the graduating class that the American Foreign Service was the choice he made after leaving Boston College.
+
+Source:
+https://www.bc.edu/bc-web/bcnews/campus-community/alumni/r--nicholas-burns-2002-commencement-address.html
+
+This does **not** mean BC mechanically produced a diplomat. It does mean Burns himself later connected the institution, named teachers, public service, and his own professional choice. That is stronger evidence than a biographer inferring causation from a chronology.
+
+## Burns's earlier memory of graduating in 1978
 
 In a 1997 Worcester Polytechnic Institute commencement address, Burns explicitly remembered his own Boston College graduation nearly twenty years earlier. He joked that the speaker had delivered a long lecture on federal communications law and promised not to do the same to WPI graduates.
 
@@ -73,7 +111,7 @@ Burns graduated from Boston College in 1978. That October, after New York erased
 
 The coincidence with Burns's graduation year is strong period texture. It is not a scene.
 
-The newly recovered Mod 36A evidence makes the temptation especially dangerous: we now possess a real student residence, but no source linking that residence to the playoff. The manuscript should resist joining those two facts simply because they fit neatly.
+The Mod 36A evidence makes the temptation especially dangerous: we now possess a real student residence, but no source linking that residence to the playoff. The manuscript should resist joining those two facts simply because they fit neatly.
 
 ## The Sorbonne year and the “fan abroad” question
 
@@ -94,7 +132,7 @@ This is an excellent interview target because it could reveal the earliest versi
 
 Repeated exact-name searches combining Nicholas Burns with the **1975 Red Sox**, **1978 Red Sox/Yankees**, and the Boston College years have not surfaced a direct Burns memory, interview, letter, student-newspaper quotation, or other contemporaneous baseball testimony. Results continue to resolve to later institutional biographies and general career profiles.
 
-That is not evidence that the memories do not exist. It does tell us the next efficient move is archival rather than another broad web pass.
+The additional Boston College pass located stronger institutional records but still no direct Burns baseball memory from those seasons. The right next move is archival, not another broad web search.
 
 ## The archive route is now concrete
 
@@ -117,31 +155,45 @@ Most promisingly, the Burns Library has a dedicated **Boston College scrapbooks 
 Finding aid:
 https://findingaids.bc.edu/repositories/2/resources/831
 
-The Boston College Office of Public Relations records also cover the mid- to late-twentieth century and may contain photographs, profiles, event material, or student-life publicity from Burns's exact undergraduate years.
+The Boston College Office of Public Relations records also cover the mid- to late-twentieth century and may contain photographs, profiles, event material, or student-life publicity from Burns's exact undergraduate years. The separate 1978 commencement file is especially valuable because its stated scope includes graduate lists by degree and school.
 
-Finding aid:
-https://findingaids.bc.edu/repositories/2/resources/863
+Finding aids:
+- https://findingaids.bc.edu/repositories/2/resources/863
+- https://findingaids.bc.edu/repositories/2/archival_objects/162944
 
 These collections do not prove a Burns baseball connection. They dramatically improve the search strategy because they place searchable and physical source bodies directly over 1975–1978 rather than relying on modern web indexing.
 
 ## Highest-value Boston College archival targets
 
-1. **The Heights**, 1974–1978 — search Nicholas Burns / Nick Burns; Red Sox; World Series; Fisk; Yankees; Bucky Dent; Fenway; foreign study; history honors; student commentary.
-2. **Sub Turri** yearbooks, classes 1975–1978 — identify Burns's student activities, honors, residence/community references, photographs.
-3. **Boston College scrapbooks collection, 1975–1977** — inspect athletics-heavy clippings and ephemera for campus reaction to the 1975 World Series and any student/fan references tied to Burns or his circle.
-4. **Office of Public Relations records** — search Burns, class of 1978, history honors, Phi Beta Kappa, student profiles, photographs, commencement, and Mod culture.
-5. **History Department records / Honors Program material** — courses, faculty, Phi Beta Kappa context, Mark O'Connor chronology.
-6. **1977 study-abroad material** — Sorbonne exchange/student records, letters, alumni profiles.
-7. **Class of 1978 alumni reminiscence** — roommates or Mod 36A residents who might remember Burns and the 1978 season.
-8. **Burns Library / university archives** — commencement files, alumni questionnaires, oral histories, photographs.
+1. **1978 commencement file** — resolve B.A./B.S. discrepancy from a Boston College record; inspect program, graduate list, honors, and any Burns-specific press material.
+2. **The Heights**, 1974–1978 — search Nicholas Burns / Nick Burns; Red Sox; World Series; Fisk; Yankees; Bucky Dent; Fenway; foreign study; history honors; student commentary.
+3. **Sub Turri** yearbooks, classes 1975–1978 — identify Burns's student activities, honors, residence/community references, photographs.
+4. **Boston College scrapbooks collection, 1975–1977** — inspect athletics-heavy clippings and ephemera for campus reaction to the 1975 World Series and any student/fan references tied to Burns or his circle.
+5. **Office of Public Relations records** — search Burns, class of 1978, history honors, Phi Beta Kappa, student profiles, photographs, commencement, and Mod culture.
+6. **History Department records / Honors Program material** — courses, faculty, Phi Beta Kappa context, Mark O'Connor chronology.
+7. **1977 study-abroad material** — Sorbonne exchange/student records, letters, alumni profiles.
+8. **Class of 1978 alumni reminiscence** — roommates or Mod 36A residents who might remember Burns and the 1978 season.
+9. **Burns Library / university archives** — alumni questionnaires, oral histories, photographs, and any digitized commencement imagery.
+
+## Media decision for Chapter 1
+
+A generic modern photograph of Gasson Hall or the Chestnut Hill campus would add atmosphere but little evidence. A modern photograph of the Mods would establish that the housing still exists, not what Burns's 1970s residence looked like. Boston College Magazine and archival pages contain potentially useful historic imagery, but the rights and exact Burns-specific relevance are not yet strong enough to justify using those photographs in the manuscript.
+
+The chapter therefore uses a local designed synthesis:
+
+- `../media/ch01-boston-college-formation.svg`
+
+It combines three documented traces—Mod 36A, Burns's O'Connor/Sassoon recollection, and the 1977 Sorbonne certificate—and labels itself explicitly as editorial synthesis rather than a scan or reconstructed scene. It contains no invented room, no invented game-night setting, and no implication that the three traces occurred together.
 
 ## Manuscript consequence
 
-The strongest version of Chapter 1 or an early formation chapter should not force 1975 and 1978 into Burns's mouth. A better sequence is available:
+The strongest version of Chapter 1 should not force 1975 and 1978 into Burns's mouth. The revised sequence is now:
 
 - Wellesley youth baseball is direct evidence.
-- Boston College gives us a documented place (Mod 36A), a serious intellectual formation, a Sorbonne year, and a graduation Burns later remembered.
-- The Red Sox's famous 1975 and 1978 losses belong to the culture around those years.
+- The high-school AFS exchange shows an early documented trip outward without turning it into a diplomatic origin myth.
+- Boston College supplies a lived place (Mod 36A), named teachers, a serious intellectual formation, and Burns's own later account of service.
+- The Sorbonne year makes the undergraduate period geographically wider.
+- The Red Sox's famous 1975 and 1978 losses remain part of the culture around those years.
 - Personal game memories remain blank until an archive or interview fills them.
 
-That distinction gives the book more credibility and, paradoxically, more texture. The college years can become a real life rather than a set of baseball dates waiting to be dramatized.
+That distinction gives the book more credibility and more texture. The college years can become a real life rather than a set of baseball dates waiting to be dramatized.
