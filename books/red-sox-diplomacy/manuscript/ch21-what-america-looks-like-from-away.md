@@ -52,8 +52,6 @@ Even baseball is less sealed than the phrase *American pastime* suggests. The Gr
 
 By the time Burns wore a Red Sox cap in China, he was carrying a regional American loyalty inside a global game.
 
-That is closer to the country than a branding exercise would be.
-
 America abroad is an accumulation of consequences.
 
 Burns served in places where American power was impossible to interpret only one way. In the West Bank, aid carried political meaning because the donor carried political meaning. At NATO after September 11, the United States appeared as a wounded ally whose partners rushed to its defense. During the Iraq rupture, some of the same allies believed American policy profoundly mistaken. India saw strategic opportunity in an American decision to change nuclear rules. Iran encountered a state organizing pressure and demanding suspension. China encountered a competitor, market, military power, cultural source and educational destination at once.
