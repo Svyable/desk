@@ -60,11 +60,19 @@ That requires a stopping rule.
 
 Scientists have formal stopping rules in some experiments because endless data collection can itself distort results. Businesses often pretend they can avoid the issue, but every deadline is a stopping rule wearing a wristwatch. Writers discover the rule when research begins stealing time from the book. Investors discover it when an opportunity disappears while the spreadsheet improves.
 
-A practical stopping rule can be crude: stop when the last several credible sources have mostly repeated what you already know; stop when additional information is unlikely to reverse the decision; stop when the cost of delay exceeds the expected value of another round of collection.
+Decision analysts give the problem a less literary name: value of information. The idea is simple enough to survive without the mathematics. Additional information earns its cost when plausible answers could improve the decision enough to justify obtaining them. If every credible answer leaves you making the same choice, the research has very little decision value. The National Academies uses essentially this test in its guidance on decisions under uncertainty: ask whether even perfect information could change the decision before commissioning more analysis. ([National Academies, 2013](https://www.nationalacademies.org/read/12568/chapter/7))
 
-The wording matters less than having the nerve to obey it.
+This is stricter than waiting for sources to become repetitive. Repetition can be fake reassurance. Ten reports may all inherit the same dataset, the same measurement error, or the same missing variable. If you are deciding whether a bridge is safe, a drug has an uncommon lethal effect, or a company can survive a refinancing, the eleventh piece of evidence may deserve disproportionate attention precisely because the downside is large and the unresolved fact can still reverse the choice.
 
-Because stopping collection creates a new obligation. You must say what the material means.
+The opposite mistake is easier to make because it looks conscientious: collecting facts that can no longer alter anything. A forecast can be imperfect and still worth buying; the relevant question is what better decisions it permits, not whether it eliminates uncertainty. That is the older decision-theory point Howard Thompson and William Beranek made about imperfect forecasts: accuracy has value through the action it changes, and improving a forecast is worth doing only under conditions where the improvement earns its cost. ([Thompson & Beranek, 1966](https://doi.org/10.1287/mnsc.13.3.233))
+
+There is no universal spreadsheet for this. Sometimes delay is expensive. Sometimes waiting preserves options. Sometimes another experiment does not choose among the actions you can see; it reveals an action you had not imagined. Exploratory science and creative search are especially awkward because the option set itself is part of what you are trying to discover.
+
+So the stopping rule is not “I have read enough.” It is closer to a wager: what uncertainty remains, what could the next credible piece of information do to my choice, and what will it cost me to find out?
+
+Then you stop when the expected improvement is no longer worth the research and the wait.
+
+Stopping collection creates a new obligation. You must say what the material means.
 
 That is the threshold many collectors avoid.
 
