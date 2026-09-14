@@ -1,0 +1,21 @@
+# Chronology
+
+- **1942** — U.S. biological warfare program organized during World War II.
+- **1947** — Nuremberg Code articulates voluntary-consent principles in human experimentation.
+- **1949** — Early U.S. open-air biological vulnerability testing begins within the postwar program.
+- **September 1950** — Operation Sea-Spray releases microbial simulants in the San Francisco Bay Area.
+- **1950–1951** — Stanford clinicians encounter and later publish an unusual cluster of *Serratia marcescens* infections.
+- **Early/mid-1950s** — fluorescent-particle urban and large-area dispersion tests expand; mosquito/vector feasibility tests also occur during the decade.
+- **1961** — Kennedy/McNamara-era policy reviews expand attention to chemical and biological capabilities.
+- **1962** — White House ventilation vulnerability testing is later acknowledged in 1977 reporting.
+- **1960s** — Project 112/SHAD tests examine chemical/biological vulnerability and protective systems in military settings.
+- **June 1966** — New York subway biological simulant dispersion work demonstrates rapid transport through the transit network.
+- **November 25, 1969** — President Nixon renounces U.S. offensive biological weapons.
+- **1970** — Nixon extends renunciation to toxins.
+- **1972** — Biological Weapons Convention opens for signature.
+- **1975** — BWC enters into force.
+- **March/May 1977** — Senate hearings and Army history disclose extensive open-air testing, including the 239-test inventory.
+- **Late 1970s–1980s** — Sea-Spray records and Nevin litigation bring the San Francisco health-causation dispute into court and public reporting.
+- **1997** — National Research Council publishes toxicologic assessment of Army zinc cadmium sulfide dispersion tests.
+- **Early 2000s** — Project SHAD/112 receives renewed public and congressional scrutiny; veteran notification and health review expand.
+- **Present research boundary** — known public records establish the testing architecture while leaving test-level exposure reconstruction and some health claims unresolved.
