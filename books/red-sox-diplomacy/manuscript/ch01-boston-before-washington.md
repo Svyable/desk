@@ -82,29 +82,53 @@ It does something better. It places the people behind the inheritance in the roo
 
 *ARCHIVE NOTE — U.S. Department of State, “Preparing for the International Age,” commencement address at Worcester Polytechnic Institute, May 24, 1997. The surviving web transcript identifies Burns as a native New Englander and long-suffering Red Sox fan, names Worcester family ties, and says Bob and Esther Burns were present. The next clause after “were raised” is truncated in the web archive and is not reconstructed here. [Primary transcript.](https://1997-2001.state.gov/policy_remarks/970524.burns.html)*
 
-By the time Burns was eleven, the 1967 Red Sox had produced the Impossible Dream season. At nineteen came Carlton Fisk waving a home run fair in the 1975 World Series and Cincinnati winning the championship the next night. In Burns's Boston College graduation year, 1978, the Yankees erased a huge summer deficit and Bucky Dent put a home run over the Green Monster in the division tiebreaker.
-
-Those are facts about the baseball culture surrounding his Massachusetts life, not memories we can assign to him. We do not know where he watched those games, whether he attended them, or which one mattered most.
-
-The same dates carry another history.
-
-The 1967 pennant race unfolded while the United States was deep in Vietnam and the country was being transformed by the civil-rights struggle and racial conflict. Burns entered Boston College in 1974 as Boston's court-ordered school desegregation produced protest, political upheaval and violence. The 1975 World Series arrived as the country moved from Vietnam and Watergate toward the Bicentennial and argued over what exactly it was celebrating.
-
-Baseball did not explain any of it.
-
-It shared the calendar.
-
-That distinction is enough. The game was one place Americans kept gathering while the country around it changed.
-
-Burns's adolescence also pointed outward.
+The Massachusetts life had already begun to open outward before college.
 
 The 1974 *Wellesleyan* yearbook records that the high school sent Nick Burns to Luxembourg for three months through American Field Service while another student went to Belgium. The club's motto, printed beneath the account, was “Walk Together, Talk Together.”
 
 It would be too neat to treat a high-school exchange as the origin story of a diplomatic career. Adolescents do not become ambassadors because a yearbook slogan tells them to talk together.
 
-But the juxtaposition is real.
+But the juxtaposition is real. The boy whose local world included Little League and Red Sox inheritance also left Wellesley early enough to discover what it meant to be the American somewhere else.
 
-The boy whose local world included Little League and Red Sox inheritance also left Wellesley early enough to discover what it meant to be the American somewhere else.
+Boston College made that outward movement less incidental.
+
+Burns entered BC in 1974. When he returned to deliver the university's commencement address in 2002, three of his old roommates were in the audience and he reminded them that they had lived in the Mods. Boston College later identified his student residence as Mod 36A and reported that, after the speech, he went back to visit it.
+
+That is a better college detail than a generic campus photograph. It gives us an actual place from his undergraduate life without pretending we know what happened inside it on any particular night.
+
+We do not know whether Burns watched Carlton Fisk's Game 6 home run from 36A, somewhere else on campus, at Fenway, or not at all. We do not know whether Bucky Dent's 1978 tiebreaker home run entered that house as a shared catastrophe. The address survives. The baseball scene does not.
+
+The classroom record is stronger.
+
+One of the teachers Burns later named as formative was the European historian Mark O'Connor. In a Boston College profile, Burns remembered O'Connor reading Siegfried Sassoon's antiwar poetry during the closing phase of the Vietnam War. Burns recalled the effect plainly:
+
+> *“I had grown up with the notion that war could be heroic.”*
+
+The poems complicated that inheritance. Burns said O'Connor pushed students to ask ethical questions of history, not merely to master its sequence.
+
+This does not give us a secret key to Burns's later foreign policy judgments. A memory recovered decades later cannot be made to explain Cairo, Jerusalem, NATO, Iraq, or China. It does tell us something official biographies usually flatten: history at Boston College was not only a subject he completed. At least one class disturbed an assumption he had brought into it.
+
+The same undergraduate period carried him abroad again. An archived White House biography records that Burns earned the *Certificat Pratique de Langue Française* at the Sorbonne in 1977, before returning to graduate from Boston College in 1978. We do not yet know how he followed the Red Sox from Paris, or whether he did. That blank is more useful than an invented story about box scores arriving across the Atlantic.
+
+![Boston College formation archive note showing Mod 36A, Mark O'Connor and Sassoon, and the 1977 Sorbonne year](../media/ch01-boston-college-formation.svg)
+
+*ARCHIVE NOTE — Boston College formation, 1974–1978. Editorial synthesis, not a reconstructed scene. Burns's 2002 commencement address supplies the roommates-and-Mods memory and his retrospective link from Boston College to the Foreign Service; Boston College identifies Mod 36A; a later BC profile preserves Burns's recollection of Mark O'Connor and Sassoon; the archived White House biography records the 1977 Sorbonne certificate. [2002 commencement address.](https://www.bc.edu/bc-web/bcnews/campus-community/alumni/r--nicholas-burns-2002-commencement-address.html) [Mod 36A.](https://www.bc.edu/bc-web/bcnews/campus-community/around-campus/mod-world.html) [O'Connor profile.](https://www.bc.edu/bc-web/bcnews/campus-community/faculty/the-seminar.html) [Official biography.](https://georgewbush-whitehouse.archives.gov/government/nburns-bio.html)*
+
+When Burns spoke at BC in 2002, he described the education retrospectively as a call to service. He named John Heineman, Thomas Gray and Mark O'Connor among the professors who had mattered to him, and told the graduating class that the Foreign Service was the choice he made after leaving Boston College.
+
+Retrospective self-explanation is not proof of inevitability. It is still better evidence than ours would be. Burns himself connected the institution, its teachers and a life of public service; the biography does not need to make the connection cleaner than he did.
+
+The baseball calendar continued alongside all of this. Burns was eleven when the 1967 Red Sox produced the Impossible Dream season. At nineteen, during his Boston College years, he lived through the 1975 pennant and World Series. In his graduation year, 1978, the Yankees erased a huge summer deficit and Bucky Dent put a home run over the Green Monster in the division tiebreaker.
+
+Those are facts about the baseball culture surrounding his Massachusetts life, not memories we can assign to him. We do not know where he watched those games, whether he attended them, or which one mattered most.
+
+The dates also keep the baseball story inside the country around it. The 1967 pennant race unfolded while the United States was deep in Vietnam and being transformed by the civil-rights struggle and racial conflict. Burns entered Boston College in 1974 as court-ordered school desegregation produced protest, political upheaval and violence in Boston. The 1975 World Series arrived as the country moved from Vietnam and Watergate toward the Bicentennial and argued over what exactly it was celebrating.
+
+Baseball did not explain any of it.
+
+It shared the calendar.
+
+That distinction is enough. The game was one place Americans kept gathering while the country around it changed. Burns's college record adds something the baseball chronology cannot: roommates, a numbered residence, a teacher, an antiwar poem, a year in Paris, and a later memory of service.
 
 Deeply local. Already outbound.
 
