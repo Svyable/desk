@@ -26,6 +26,12 @@ The flow is whatever turns beginners into replacements.
 
 AI can make a profession look cognitively rich while it spends down the stock.
 
+The delay matters. The U.S. Health Resources and Services Administration notes that preparing a physician can take more than a decade of education and residency. Its current workforce projections look out to 2038 for exactly that reason: changes to training capacity made now can take years to appear in the visible supply of experienced practitioners. CMS has likewise been adding Medicare-supported graduate-medical-education positions in phases, including additional slots beginning in 2026. None of this is evidence that AI causes physician shortages. It is evidence that expert replacement has lead time.
+
+![Conceptual pipeline showing entrants, supervised formation, independent practitioners, exits, and the delayed effect of a weakened replacement flow](../media/ch10-expertise-lead-time.svg)
+
+*A profession can look healthy while its replacement flow is already weakening. Experienced practitioners remain visible for years after an entry or training shock, especially where formation takes a long time. Medicine makes the lag concrete: HRSA notes that preparing a physician can take more than a decade. The figure is an analogy about replacement time, not a claim that AI causes physician shortages. Conceptual diagram by the author; workforce lead-time anchor: HRSA Bureau of Health Workforce.*
+
 Law makes the problem vivid because professional responsibility remains human while research and drafting automate. Medicine makes it sharper because clinical authority belongs to licensed people trained through supervised exposure. Software engineering is less regulated and moves faster: agents can generate enormous amounts of code while senior engineers remain responsible for systems fewer juniors have built from first principles.
 
 Different professions. Same succession question.
