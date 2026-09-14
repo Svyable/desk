@@ -1,0 +1,56 @@
+name: Red Sox Diplomacy publication gates
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+    paths:
+      - ".github/workflows/red-sox-diplomacy-publication-gates.yml"
+      - "books/red-sox-diplomacy/research/source-ledger.csv"
+      - "books/red-sox-diplomacy/research/source-ledger-addendum-*.csv"
+      - "books/red-sox-diplomacy/research/rebuild-source-ledger.py"
+      - "books/red-sox-diplomacy/research/source-ledger-rebuild-report.json"
+      - "catalog.json"
+      - "llms.txt"
+      - "sitemap.xml"
+      - "reader/**"
+
+permissions:
+  contents: write
+
+jobs:
+  publication-gates:
+    if: github.event.pull_request.number == 1786 && github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.ref }}
+          fetch-depth: 0
+          persist-credentials: true
+
+      - name: Refresh from main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin main
+          git merge --no-edit origin/main
+
+      - name: Rebuild canonical source ledger
+        run: |
+          python3 books/red-sox-diplomacy/research/rebuild-source-ledger.py --write
+          git add \
+            books/red-sox-diplomacy/research/source-ledger.csv \
+            books/red-sox-diplomacy/research/source-ledger-rebuild-report.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Rebuild Red Sox Diplomacy source ledger"
+          fi
+
+      - name: Push deterministic integration result
+        run: |
+          git fetch origin "${GITHUB_HEAD_REF}"
+          if [ "$(git rev-parse HEAD)" != "$(git rev-parse origin/${GITHUB_HEAD_REF})" ]; then
+            git push origin "HEAD:${GITHUB_HEAD_REF}"
+          fi
+
+      - name: Run Desk validation
+        run: python3 scripts/check-desk.py
