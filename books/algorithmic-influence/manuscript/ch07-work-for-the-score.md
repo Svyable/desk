@@ -58,7 +58,9 @@ More information can produce better management.
 
 It can also produce more surfaces to manage.
 
-The OECD's 2025 work on algorithmic management surveyed managers across thousands of establishments in several countries and found that tools for instructing, monitoring, and evaluating workers had moved well beyond platform labor. Managers reported benefits, including improved decision-making in some contexts, alongside concerns about accountability, explainability, and effects on workers.
+The OECD's 2025 employer survey covered more than 6,000 firms across six countries. In a December 2025 policy brief drawn from that work, 90 percent of U.S. managers surveyed said their firms used at least one tool to instruct, monitor, or evaluate workers. The average across France, Germany, Italy, and Spain was 79 percent; Japan was 40 percent. The numbers do not describe every workplace everywhere, and they come from managers rather than workers. They do make one point difficult to dismiss: algorithmic management is no longer a niche feature of platform labor.
+
+The same research also found a mixed picture. Managers reported benefits such as more information and faster decision-making, while nearly two-thirds of managers using algorithmic-management tools reported at least one concern about their impact on workers. Unclear accountability and difficulty following the logic of algorithmic decisions were among the leading concerns.
 
 That mixed picture is more believable than either extreme.
 
@@ -103,6 +105,8 @@ These questions sound procedural because procedural rights matter most when subs
 A worker rarely needs to know every parameter of a dispatch model.
 
 The worker needs to know whether declining an unsafe assignment will threaten access to future work.
+
+The European Union's Platform Work Directive makes this distinction concrete for digital labour platforms. Its algorithmic-management provisions focus on information about automated monitoring and decision systems, human oversight, explanations, and review of consequential decisions—not on forcing workers to read source code. The law is specific to its jurisdiction and scope, but the design principle travels well: meaningful transparency is about the relationship between signals and consequences.
 
 This is where algorithmic influence becomes easy to confuse with obedience.
 
@@ -221,6 +225,10 @@ There is another asymmetry worth noticing.
 Employers and platforms can often observe workers more deeply than workers can observe the system.
 
 The company sees large populations, experiments, demand patterns, acceptance behavior, performance distributions, fraud signals, and economic outcomes. The individual sees a phone.
+
+![Three-column diagram contrasting the worker's local view, the system's population-scale view, and the consequences the system can change, with a return arrow showing workers adapting to observed outcomes.](../assets/ch07-worker-system-asymmetry.svg)
+
+*The asymmetry is not only that the platform or employer can collect more information. It can connect population-scale observation to allocation, incentives, evaluation, and sanctions, while each worker learns from a narrow stream of personal outcomes. The return arrow is the important part: consequences teach workers what the system appears to reward, and those adaptations become new data.*
 
 This information asymmetry means the two sides learn at different speeds.
 
