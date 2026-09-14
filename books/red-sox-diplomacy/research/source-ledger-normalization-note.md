@@ -16,16 +16,9 @@ Canonical IDs from that baseline supersede row IDs inside addenda 02–15. Those
 
 ## Final deterministic rebuild
 
-The canonical ledger has now been rebuilt from the 185-row baseline plus staged addenda 16–39 using `rebuild-source-ledger.py` on a real repository checkout.
+The canonical ledger has been rebuilt from the 185-row baseline plus staged addenda 16–39 using `rebuild-source-ledger.py` on a real repository checkout.
 
-`source-ledger-rebuild-report.json` records:
-
-- 185 baseline rows;
-- 213 staged rows;
-- 49 duplicate rows removed after URL normalization;
-- 26 materially fuller `book_use` upgrades;
-- 349 final canonical rows;
-- highest staged file: `source-ledger-addendum-39.csv`.
+`source-ledger-rebuild-report.json` records 185 baseline rows, 213 staged rows, 49 duplicate rows removed after URL normalization, 26 materially fuller `book_use` upgrades, and **349 final canonical rows**. The highest staged file is `source-ledger-addendum-39.csv`.
 
 The resulting `source-ledger.csv` is sequential through `rsd-349`. Historical addendum IDs, which reached `rsd-397`, remain provenance only and do not dictate canonical numbering.
 
@@ -35,17 +28,13 @@ The manuscript, epilogue and reader-facing source notes now exist. Broad source 
 
 Do not create another addendum merely because another generally relevant source can be found. New sourcing should close a named gap: counterpart balance, quote verification, chronology, attribution, or one of the explicitly preserved archival unknowns.
 
-This freeze is important because repeated partial canonical merges create unnecessary ID churn and make deduplication harder.
-
 ## Deterministic rebuild implementation
 
-The executable procedure lives at:
-
-`books/red-sox-diplomacy/research/rebuild-source-ledger.py`
+The executable procedure lives at `books/red-sox-diplomacy/research/rebuild-source-ledger.py`.
 
 The final rebuild used the script’s complete corpus reconciliation rather than a conversational hand-merge. The script normalized scheme/host/trailing-slash identity, treated `twitter.com` and `x.com` status URLs as the same host identity, removed fragments and known tracking parameters, preserved the earliest source record, upgraded only materially fuller `book_use` fields, and emitted the reconciliation report for inspection.
 
-## Final canonical rules
+## Canonical rules after rebuild
 
 1. The current canonical ledger is `rsd-001`–`rsd-349`.
 2. Historical addenda remain provenance and must not be appended again wholesale.
@@ -54,19 +43,6 @@ The final rebuild used the script’s complete corpus reconciliation rather than
 5. Preserve the exact validator schema: `id,year,author_or_institution,title,source_type,book_use,url`.
 6. Normalize URLs for identity comparison only; preserve display URLs deliberately.
 7. Any future canonical rebuild must inspect its reconciliation report before the ledger is treated as clean.
-
-## Known historical duplicate example
-
-Addendum 17 contained six refined records whose URLs were already present in the baseline and were correctly deduplicated during the final rebuild:
-
-| Addendum 17 ID | Existing baseline ID | Source |
-|---|---:|---|
-| `rsd-206` | `rsd-002` | State Daily Press Briefing — June 4 1997 |
-| `rsd-207` | `rsd-014` | Atlantic Council / Chicago Council Burns transcript |
-| `rsd-208` | `rsd-140` | State Magazine Q&A with Burns |
-| `rsd-209` | `rsd-021` | HKS 2024 graduation-address announcement |
-| `rsd-210` | `rsd-015` | Davidson student witness |
-| `rsd-211` | `rsd-169` | Dick Bresciani / Red Sox institutional biography |
 
 ## Publication principle
 
