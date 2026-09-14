@@ -1,0 +1,26 @@
+# Chronology
+
+- **1960s–early 1970s** — U.S. intelligence reporting and scientific circles track Soviet/Eastern Bloc parapsychology claims amid broader concern about technological surprise.
+- **Summer 1972** — CIA later states that it begins its own research into psychic phenomena, working with outside scientists on what becomes known as remote viewing.
+- **1974** — Russell Targ and Harold Puthoff publish `Information transmission under conditions of sensory shielding` in *Nature*.
+- **1977** — CIA ends its direct early research sponsorship; later Agency history says the work passes into Defense Department/DIA channels.
+- **1978** — Army organizations become involved in GRILL FLAME; Marks and Kammann publish a *Nature* criticism/report of replication and judging problems.
+- **27 Oct 1978** — Declassified INSCOM history dates selection of a project manager for its GRILL FLAME involvement to this period.
+- **Feb–Apr 1979** — Army legal and medical authorities debate human-subject status; INSCOM progress reporting documents the intelligence-application program. Karnes and colleagues publish negative controlled replication work in 1979.
+- **1980** — GRILL FLAME sessions are tasked against the U.S. embassy hostage crisis in Tehran. Tart, Puthoff and Targ publish a response to remote-viewing criticism in *Nature*.
+- **14 Jan 1981** — According to later CENTER LANE approval history, INSCOM becomes the Army's only active operational GRILL FLAME element.
+- **11 Feb 1981** — Program management transfers to Commander, INSCOM. Joint-service structures include DIA/Army participation; Air Force later withdraws.
+- **1981** — Puthoff and Targ publish a rebuttal to critics in *Nature*.
+- **FY 1982** — Congressional budget action restricts Army psychoenergetics activity within the National Foreign Intelligence Program; DIA is allowed to complete its effort.
+- **3 Dec 1982** — CENTER LANE implementation date given in Army historical memorandum after INSCOM continuation under different funding/authority.
+- **1 Sep 1983** — Secretary of the Army approves continued Army participation in CENTER LANE, according to the declassified program history.
+- **1984–mid-1980s** — CENTER LANE training and applications continue; later organizational transfers lead into SUN STREAK-era work.
+- **1988** — National Research Council publishes *Enhancing Human Performance* review; committee reports little or no scientific evidence supporting remote viewing/psychokinesis as reviewed.
+- **Late 1980s–early 1990s** — Later SRI/SAIC experimental work uses more formalized randomized/blinded procedures; program naming ultimately consolidates under STAR GATE.
+- **1991** — STAR GATE becomes the commonly cited umbrella name for the DIA-era effort.
+- **1995** — Program returns to CIA for review before any continuation decision. American Institutes for Research evaluates research and operational applications.
+- **29 Sep 1995** — AIR issues *An Evaluation of Remote Viewing: Research and Applications*. Utts and Hyman present divergent causal interpretations of the statistical literature; AIR finds adequate evidence of operational intelligence utility lacking and recommends against continuation of the operational component.
+- **1995** — CIA does not restore the program as an intelligence capability.
+- **Late 1990s–2000s** — CIA, DIA and Army records enter declassification/FOIA release processes, making a large STAR GATE collection publicly accessible.
+- **2021** — CIA publishes a public-facing summary reiterating that the 1995 review found enough accurate experiences to interest reviewers statistically but insufficient reliability/consistency for intelligence use.
+- **2026** — This manuscript treats the released archive as an unusually rich case study in separating program existence, statistical anomaly, mechanism, and operational usefulness.
