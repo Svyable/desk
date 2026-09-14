@@ -1,0 +1,11 @@
+# Deseret
+
+The name sounds older than the bureaucracy it contained. Deseret Test Center, based at Fort Douglas in Utah, planned and conducted Project 112 tests from the early 1960s into the 1970s. By the time veterans began asking what they had been exposed to, the center itself had been gone for decades. That administrative fact became an evidentiary fact.
+
+Cold War programs were not designed for the questions that arrive forty years later. Records followed commands, services, contractors, security compartments, laboratories, ships, test series and retention schedules. A historian wants one archive. A veteran wants one answer. The institution had produced neither in that form.
+
+Project 112 extended beyond ships. Land tests asked how chemical and biological agents behaved under different environmental and climatic conditions. SHAD concentrated on shipboard vulnerability and defensive response. The distinction matters because “Project 112” and “SHAD” are often used as if they were synonyms, then every agent listed anywhere in the larger program gets rhetorically placed aboard every ship. That is not evidence. Exposure has to be reconstructed test by test.
+
+The same discipline applies to the program’s purpose. Vulnerability testing was not irrational. The United States had reasons to fear chemical and biological attack. A navy that did not understand aerosol penetration, detection, protective equipment and decontamination would be guessing under combat conditions. But a legitimate military question does not make every research arrangement legitimate by inheritance.
+
+Deseret’s afterlife is therefore partly a problem of information architecture. The people running a test needed a narrow slice of knowledge to perform it. The people later studying health outcomes needed a different slice: names, dates, substances, concentrations, protective status, routes of exposure and medical histories. Classification optimized the first problem. Decades later the country discovered how poorly that optimization served the second.
