@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">The artifact and the capability can diverge</title>
+  <desc id="desc">A conceptual diagram shows one polished artifact at the top feeding two possible states below it: durable capability in the person or institution, and borrowed capability supplied mainly by an external system. A second row shows tests that distinguish the two: provenance, prediction, sensitivity, transfer, and error recognition. The footer states that polished output is evidence of output quality, not by itself evidence of who can reconstruct, challenge, or repair the reasoning.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#222"/></marker>
+    <style>
+      .t{font-family:Arial,Helvetica,sans-serif;fill:#111}.h{font-size:34px;font-weight:700}.s{font-size:22px;font-weight:700}.b{font-size:20px}.n{font-size:18px}.box{fill:#fff;stroke:#222;stroke-width:2}.soft{fill:#f4f4f4;stroke:#222;stroke-width:2}.line{stroke:#222;stroke-width:2.5;fill:none;marker-end:url(#arrow)}
+    </style>
+  </defs>
+  <text x="60" y="62" class="t h">The artifact and the capability can diverge</text>
+  <text x="60" y="98" class="t b">The finished page can look the same while the knowledge behind it is very different.</text>
+
+  <rect x="330" y="145" width="540" height="120" rx="12" class="soft"/>
+  <text x="380" y="190" class="t s">Polished output</text>
+  <text x="380" y="226" class="t b">Clear prose · correct terminology · plausible structure · calm confidence</text>
+
+  <path d="M520 265 C470 315 370 322 300 350" class="line"/>
+  <path d="M680 265 C730 315 830 322 900 350" class="line"/>
+
+  <rect x="85" y="350" width="430" height="165" rx="12" class="box"/>
+  <text x="120" y="392" class="t s">Durable capability</text>
+  <text x="120" y="430" class="t b">Can reconstruct the reasoning.</text>
+  <text x="120" y="462" class="t b">Can notice when the case changes.</text>
+  <text x="120" y="494" class="t b">Can repair the work when it breaks.</text>
+
+  <rect x="685" y="350" width="430" height="165" rx="12" class="box"/>
+  <text x="720" y="392" class="t s">Borrowed capability</text>
+  <text x="720" y="430" class="t b">Can present the reasoning.</text>
+  <text x="720" y="462" class="t b">May not know which part is load-bearing.</text>
+  <text x="720" y="494" class="t b">May fail when the template stops fitting.</text>
+
+  <text x="60" y="570" class="t s">Signals that travel with the knowledge</text>
+
+  <rect x="60" y="595" width="190" height="78" rx="10" class="soft"/>
+  <text x="88" y="628" class="t b">Provenance</text>
+  <text x="88" y="657" class="t n">Where did it come from?</text>
+
+  <rect x="275" y="595" width="190" height="78" rx="10" class="soft"/>
+  <text x="303" y="628" class="t b">Prediction</text>
+  <text x="303" y="657" class="t n">What should happen next?</text>
+
+  <rect x="490" y="595" width="190" height="78" rx="10" class="soft"/>
+  <text x="518" y="628" class="t b">Sensitivity</text>
+  <text x="518" y="657" class="t n">What changes the result?</text>
+
+  <rect x="705" y="595" width="190" height="78" rx="10" class="soft"/>
+  <text x="733" y="628" class="t b">Transfer</text>
+  <text x="733" y="657" class="t n">Does it survive a new case?</text>
+
+  <rect x="920" y="595" width="220" height="78" rx="10" class="soft"/>
+  <text x="948" y="628" class="t b">Error recognition</text>
+  <text x="948" y="657" class="t n">What would break trust?</text>
+
+  <line x1="60" y1="708" x2="1140" y2="708" stroke="#222" stroke-width="2"/>
+  <text x="60" y="742" class="t s">Polish tells you something about the artifact. It does not, by itself, tell you who can carry the knowledge.</text>
+</svg>
