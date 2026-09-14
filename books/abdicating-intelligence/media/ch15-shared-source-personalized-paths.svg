@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Shared source, personalized paths</title>
+  <desc id="desc">Two side-by-side diagrams compare personalization architectures. The left shows one shared source branching into tailored explanations that retain visible links back to the source. The right shows user profiles altering evidence, emphasis, and framing before individualized answers emerge, making the common source harder to see.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#111"/>
+    </marker>
+    <style>
+      .box{fill:#fff;stroke:#111;stroke-width:2;rx:14;ry:14}.muted{fill:#f3f3f3}.dash{fill:#fff;stroke:#555;stroke-width:2;stroke-dasharray:8 7;rx:14;ry:14}.line{stroke:#111;stroke-width:2.4;fill:none;marker-end:url(#arrow)}.thin{stroke:#555;stroke-width:1.8;fill:none;marker-end:url(#arrow)}.title{font:700 29px Arial,sans-serif;fill:#111}.head{font:700 21px Arial,sans-serif;fill:#111}.text{font:18px Arial,sans-serif;fill:#111}.small{font:16px Arial,sans-serif;fill:#222}.cap{font:italic 17px Arial,sans-serif;fill:#222}
+    </style>
+  </defs>
+  <rect width="1200" height="760" fill="#fff"/>
+  <text x="600" y="48" text-anchor="middle" class="title">Shared source, personalized paths</text>
+
+  <text x="300" y="100" text-anchor="middle" class="head">Personalized explanation</text>
+  <text x="900" y="100" text-anchor="middle" class="head">Personalized reality</text>
+
+  <rect x="155" y="135" width="290" height="82" class="box muted"/>
+  <text x="300" y="168" text-anchor="middle" class="head">Shared source</text>
+  <text x="300" y="195" text-anchor="middle" class="small">law · study · policy · record</text>
+
+  <path d="M300 217 L300 267" class="line"/>
+  <rect x="165" y="270" width="270" height="82" class="box"/>
+  <text x="300" y="303" text-anchor="middle" class="head">Tailor the path</text>
+  <text x="300" y="330" text-anchor="middle" class="small">examples · language · depth</text>
+
+  <path d="M300 352 C300 390 210 390 210 425" class="thin"/>
+  <path d="M300 352 C300 390 390 390 390 425" class="thin"/>
+
+  <rect x="95" y="430" width="230" height="98" class="box"/>
+  <text x="210" y="466" text-anchor="middle" class="head">Explanation A</text>
+  <text x="210" y="495" text-anchor="middle" class="small">different analogy</text>
+  <rect x="275" y="430" width="230" height="98" class="box"/>
+  <text x="390" y="466" text-anchor="middle" class="head">Explanation B</text>
+  <text x="390" y="495" text-anchor="middle" class="small">different vocabulary</text>
+
+  <path d="M210 528 C210 575 270 575 270 610" class="thin"/>
+  <path d="M390 528 C390 575 330 575 330 610" class="thin"/>
+  <rect x="165" y="612" width="270" height="76" class="box muted"/>
+  <text x="300" y="644" text-anchor="middle" class="head">Same record underneath</text>
+  <text x="300" y="670" text-anchor="middle" class="small">visible route back to source</text>
+
+  <rect x="755" y="135" width="290" height="82" class="box muted"/>
+  <text x="900" y="168" text-anchor="middle" class="head">Source world</text>
+  <text x="900" y="195" text-anchor="middle" class="small">documents · claims · evidence</text>
+
+  <rect x="615" y="255" width="235" height="105" class="dash"/>
+  <text x="732" y="289" text-anchor="middle" class="head">User profile</text>
+  <text x="732" y="317" text-anchor="middle" class="small">history · preferences</text>
+  <text x="732" y="341" text-anchor="middle" class="small">identity · anxieties · goals</text>
+
+  <rect x="905" y="255" width="235" height="105" class="box"/>
+  <text x="1022" y="289" text-anchor="middle" class="head">Synthesis layer</text>
+  <text x="1022" y="317" text-anchor="middle" class="small">select evidence</text>
+  <text x="1022" y="341" text-anchor="middle" class="small">set salience · choose frame</text>
+
+  <path d="M900 217 L985 255" class="line"/>
+  <path d="M850 307 L905 307" class="line"/>
+
+  <path d="M1022 360 C1022 403 890 401 890 435" class="thin"/>
+  <path d="M1022 360 C1022 403 1080 401 1080 435" class="thin"/>
+
+  <rect x="775" y="440" width="230" height="98" class="box"/>
+  <text x="890" y="476" text-anchor="middle" class="head">Answer A</text>
+  <text x="890" y="505" text-anchor="middle" class="small">efficiency foregrounded</text>
+  <rect x="965" y="440" width="230" height="98" class="box"/>
+  <text x="1080" y="476" text-anchor="middle" class="head">Answer B</text>
+  <text x="1080" y="505" text-anchor="middle" class="small">fairness foregrounded</text>
+
+  <path d="M890 538 L890 606" class="thin"/>
+  <path d="M1080 538 L1080 606" class="thin"/>
+  <rect x="780" y="612" width="405" height="76" class="dash"/>
+  <text x="982" y="644" text-anchor="middle" class="head">Do these answers still point back</text>
+  <text x="982" y="670" text-anchor="middle" class="small">to a durable shared object?</text>
+
+  <line x1="600" y1="118" x2="600" y2="704" stroke="#bbb" stroke-width="2"/>
+  <text x="600" y="732" text-anchor="middle" class="cap">Conceptual diagram — not a model of any specific deployed system</text>
+</svg>
