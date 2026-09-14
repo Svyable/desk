@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">The answer engine changes the reader relationship</title>
+  <desc id="desc">Flow diagram showing publisher content moving through an access layer into retrieval and synthesis, then to an answer shown to a reader. A citation and referral path can return the reader to the publisher, while another path shows the reader's need being completed on the intermediary surface without a site visit. Callouts mark access rules, licensing and permissions, source selection and citation visibility, and the publisher's reader relationship.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L10,5 L0,10 z" fill="#222"/>
+    </marker>
+    <marker id="arrow-light" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L10,5 L0,10 z" fill="#666"/>
+    </marker>
+    <style>
+      .bg{fill:#fff}.box{fill:#fff;stroke:#222;stroke-width:2}.soft{fill:#f4f4f4;stroke:#555;stroke-width:1.5}.title{font:700 34px system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#111}.subtitle{font:400 19px system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#444}.h{font:700 21px system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#111}.body{font:400 17px system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#222}.small{font:400 14px system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#444}.label{font:700 14px system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#333;letter-spacing:.2px}.arrow{stroke:#222;stroke-width:2.4;fill:none;marker-end:url(#arrow)}.return{stroke:#666;stroke-width:2;fill:none;stroke-dasharray:7 6;marker-end:url(#arrow-light)}.hair{stroke:#888;stroke-width:1.2;fill:none}.dot{fill:#222}.rule{stroke:#bbb;stroke-width:1}
+    </style>
+  </defs>
+  <rect class="bg" width="1200" height="720"/>
+
+  <text class="title" x="64" y="68">The answer engine changes the reader relationship</text>
+  <text class="subtitle" x="64" y="101">From source access to synthesis, citation, referral—and completion without a click</text>
+
+  <!-- Main flow -->
+  <rect class="box" x="64" y="176" width="218" height="150" rx="12"/>
+  <text class="h" x="88" y="213">Publisher / source</text>
+  <text class="body" x="88" y="246">Reporting</text>
+  <text class="body" x="88" y="272">documentation</text>
+  <text class="body" x="88" y="298">data • evidence</text>
+
+  <rect class="soft" x="344" y="176" width="218" height="150" rx="12"/>
+  <text class="h" x="368" y="213">Access layer</text>
+  <text class="body" x="368" y="246">Crawling / indexing</text>
+  <text class="body" x="368" y="272">feeds / APIs</text>
+  <text class="body" x="368" y="298">licensed access</text>
+
+  <rect class="box" x="624" y="176" width="218" height="150" rx="12"/>
+  <text class="h" x="648" y="213">Retrieval + synthesis</text>
+  <text class="body" x="648" y="246">Select sources</text>
+  <text class="body" x="648" y="272">resolve claims</text>
+  <text class="body" x="648" y="298">compose answer</text>
+
+  <rect class="box" x="904" y="176" width="232" height="150" rx="12"/>
+  <text class="h" x="928" y="213">Reader surface</text>
+  <text class="body" x="928" y="246">Answer</text>
+  <text class="body" x="928" y="272">citations / links</text>
+  <text class="body" x="928" y="298">possible next action</text>
+
+  <path class="arrow" d="M282 251 H334"/>
+  <path class="arrow" d="M562 251 H614"/>
+  <path class="arrow" d="M842 251 H894"/>
+
+  <!-- Control points -->
+  <circle class="dot" cx="313" cy="251" r="5"/>
+  <path class="hair" d="M313 246 V143 H194"/>
+  <text class="label" x="64" y="134">CONTROL POINT 1</text>
+  <text class="small" x="64" y="154">Discovery and access rules</text>
+
+  <circle class="dot" cx="593" cy="251" r="5"/>
+  <path class="hair" d="M593 246 V143 H700"/>
+  <text class="label" x="708" y="134">CONTROL POINT 2</text>
+  <text class="small" x="708" y="154">Permissions, feeds, licensing</text>
+
+  <circle class="dot" cx="873" cy="251" r="5"/>
+  <path class="hair" d="M873 256 V351 H746"/>
+  <text class="label" x="624" y="374">CONTROL POINT 3</text>
+  <text class="small" x="624" y="394">Source selection and citation visibility</text>
+
+  <!-- Reader outcomes -->
+  <rect class="soft" x="904" y="430" width="232" height="88" rx="12"/>
+  <text class="h" x="928" y="464">Need completed here</text>
+  <text class="small" x="928" y="490">No publisher visit required</text>
+  <path class="arrow" d="M1020 326 V420"/>
+
+  <rect class="box" x="64" y="430" width="300" height="108" rx="12"/>
+  <text class="h" x="88" y="466">Publisher relationship</text>
+  <text class="body" x="88" y="496">Visit • subscription • sale</text>
+  <text class="body" x="88" y="522">correction • deeper reading</text>
+
+  <path class="return" d="M946 326 C900 391 793 482 374 482"/>
+  <text class="label" x="548" y="456">CITATION / LINK → POSSIBLE REFERRAL</text>
+
+  <path class="return" d="M214 430 C214 387 214 365 214 336"/>
+  <text class="small" x="80" y="405">Attention can return to the source</text>
+
+  <!-- Distinction bar -->
+  <line class="rule" x1="64" y1="588" x2="1136" y2="588"/>
+  <text class="h" x="64" y="626">Three different questions</text>
+  <text class="body" x="64" y="660">Can the system access it?</text>
+  <text class="body" x="397" y="660">Can / should it use or represent it?</text>
+  <text class="body" x="790" y="660">Does the reader ever reach the source?</text>
+  <text class="small" x="64" y="695">Access controls, copyright/licensing, training controls, citation, and referral are related—but they are not interchangeable.</text>
+</svg>
