@@ -37,7 +37,7 @@ Owns the shift from conversational sports references toward embodied visual part
 - July 4 baseball pitching;
 - July 4 basketball;
 - July 4 Red Sox-cap preservation candidate;
-- Zhijiang school/basketball material;
+- source-resolved Zhijiang school/basketball material;
 - Chengdu preservation context;
 - Bund/Scott Walker preservation context;
 - Great Wall with Gavin Newsom;
@@ -72,6 +72,18 @@ Owns the place-by-place audit of Burns's April 30, 2025 retrospective statement 
 
 This file assigns provenance grades. Consult it before writing any sentence that converts Burns's later recollection into a claim about what a contemporaneous image or broadcast visibly showed.
 
+### `nicholas-burns-social-provenance-closure.md`
+
+Owns the current **stop conditions** for the remaining high-value provenance gaps. It records:
+
+- the resolved September 9, 2023 Zhijiang basketball preservation and exact source URL;
+- the July 2023 Red Sox-cap candidate and why it remains below recovered-tweet grade;
+- the June 22, 2024 German `RedSox Nation` Great Wall candidate;
+- the undated `Charter members of @RedSox Nation` Great Wall candidate and PICRYL caption preservation;
+- the distinction between a verified February 25, 2024 *60 Minutes* interview and Burns's later statement that he wore his Red Sox hat during it.
+
+Consult this file before repeating broad searches for those candidates. Reopen them only when a new archive, file page, first-party preservation source, or broadcast visual becomes available.
+
 ### `nicholas-burns-personal-social-red-sox-chronology.md`
 
 Owns the separate `@RNicholasBurns` stream:
@@ -84,7 +96,7 @@ Use this file to establish continuity of fandom before and after Beijing. Do **n
 
 ### `source-ledger-addendum-39.csv`
 
-Owns staged source records for the recovered official posts, preservation layers, location anchors, broadcast record, and high-value candidates.
+Owns staged source records for the recovered official posts, preservation layers, location anchors, broadcast record, and high-value candidates. It now includes `rsd-399`, the verified federal preservation of Burns playing basketball with Zhijiang students tied to the exact September 9, 2023 `@USAmbChina` status.
 
 The canonical ledger rebuild should normalize `twitter.com` / `x.com` variants and deduplicate a direct post against its preservation layer without losing provenance metadata.
 
@@ -110,6 +122,7 @@ A lower-ranked source can still be useful when it preserves something the higher
 - His official China account mixed formal diplomacy with first-person travel, sports, cultural participation, education, and humor from early in the posting.
 - Boston sports references appeared incidentally inside ordinary official work, including the June 2022 Wuhan Celtics post and the July 2024 China-scholars/Celtics post.
 - Burns publicly participated in baseball and basketball during official-capacity programming in 2023.
+- The September 2023 Zhijiang school record independently preserves Burns playing basketball with students and ties the image to the same exact official status as the classroom visit.
 - In October 2024 Burns explicitly connected young Chinese baseball participants to future membership in Red Sox Nation on the official ambassadorial account.
 - After leaving post, Burns explicitly described sports as a bridge and said he deliberately wore his Red Sox hat in multiple Chinese locations and on *60 Minutes*.
 
