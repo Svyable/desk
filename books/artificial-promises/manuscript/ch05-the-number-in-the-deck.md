@@ -34,9 +34,11 @@ A model can assign a modest improvement to ten different variables and produce a
 
 The spreadsheet becomes a place where optimism can diversify.
 
-One of the more useful responses to this problem comes from a setting far removed from an early startup deck. In 2024 the Securities and Exchange Commission changed the disclosure rules governing projections in de-SPAC transactions and updated its broader guidance for projections used in Commission filings. The SEC did not respond by banning forecasts. It required more information about what the projections were for, who prepared them, the material bases and assumptions underneath them, and whether management or the board still stood behind them near the time investors would act.
+A useful counterexample comes from a place with far more lawyers than the average seed deck. In January 2024, the Securities and Exchange Commission adopted new rules for projections disclosed in de-SPAC filings. The Commission did not ban forecasts. [Item 1609](https://www.sec.gov/resources-small-businesses/small-business-compliance-guides/special-purpose-acquisition-companies-shell-companies-projections) instead requires disclosure of who prepared the projections, why they were prepared, the material bases and assumptions underneath them, and whether management or the board still stands behind them when investors are about to act. The rules took effect July 1, 2024; the SEC was still implementing their structured-data requirements in 2025 and continued to identify the release as effective in its June 2026 reporting-manual revisions.
 
-The legal context is obviously different. A private founder speaking to a venture investor is not filing a de-SPAC registration statement. The useful part is the design instinct. When a consequential projection cannot be eliminated, preserve enough of its lineage that another person can tell what kind of claim it is.
+That legal setting is not a venture pitch, and the distinction matters. A private founder is not subject to Item 1609 merely because a deck contains a forecast. Nor does the SPAC record prove that startup projections are usually false or that sophisticated investors are helpless in front of a hockey stick. The SEC's own adopting release discusses evidence of poor forecast realization in sampled SPACs, but SPAC incentives, disclosure rules, and investor populations are different enough that the result should stay where it belongs.
+
+What travels is the design instinct. If a consequential projection cannot be eliminated—and usually it cannot—keep enough of its lineage that another person can tell what kind of claim it is and whether the people who made it still believe it.
 
 That is a harder standard than simply putting “forward-looking” in small type.
 
