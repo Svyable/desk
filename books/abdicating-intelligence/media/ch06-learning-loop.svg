@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Same AI capability, different learning loop</title>
+  <desc id="desc">A conceptual comparison of two AI-assisted learning patterns. In a completion-first path, a task goes quickly to a full answer, acceptance or repair, and a finished artifact while prediction, generation, and retrieval can be bypassed. In a learning-preserving path, the learner attempts or predicts first, receives a hint or feedback, revises and explains, then reaches the artifact while preserving more opportunities for learning and later independent performance.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#222"/>
+    </marker>
+    <style>
+      .box{fill:#fff;stroke:#222;stroke-width:2;rx:14;ry:14}
+      .soft{fill:#f3f3f3;stroke:#222;stroke-width:2;rx:14;ry:14}
+      .human{fill:#e7e7e7;stroke:#111;stroke-width:3;rx:14;ry:14}
+      .ghost{fill:#fafafa;stroke:#777;stroke-width:2;stroke-dasharray:7 6;rx:14;ry:14}
+      .line{stroke:#222;stroke-width:2.5;fill:none;marker-end:url(#arrow)}
+      .dash{stroke:#666;stroke-width:2;stroke-dasharray:8 7;fill:none;marker-end:url(#arrow)}
+      .head{font-family:Arial,Helvetica,sans-serif;font-size:32px;fill:#111;font-weight:700}
+      .sub{font-family:Arial,Helvetica,sans-serif;font-size:20px;fill:#333}
+      .label{font-family:Arial,Helvetica,sans-serif;font-size:25px;fill:#111;font-weight:700}
+      .body{font-family:Arial,Helvetica,sans-serif;font-size:19px;fill:#222}
+      .small{font-family:Arial,Helvetica,sans-serif;font-size:16px;fill:#444}
+      .tiny{font-family:Arial,Helvetica,sans-serif;font-size:14px;fill:#555}
+    </style>
+  </defs>
+
+  <text x="600" y="48" text-anchor="middle" class="head">Same AI capability. Different learning loop.</text>
+  <text x="600" y="80" text-anchor="middle" class="sub">The design question is not only whether the answer is good. It is what the human still has to do.</text>
+
+  <text x="65" y="132" class="label">Completion-first</text>
+  <text x="65" y="160" class="small">Immediate performance can improve while required learning events shrink.</text>
+
+  <rect x="65" y="195" width="180" height="92" class="box"/>
+  <text x="155" y="232" text-anchor="middle" class="body">Task</text>
+  <text x="155" y="259" text-anchor="middle" class="small">problem / draft / case</text>
+
+  <rect x="315" y="195" width="220" height="92" class="soft"/>
+  <text x="425" y="231" text-anchor="middle" class="body">Full answer</text>
+  <text x="425" y="259" text-anchor="middle" class="small">solution arrives early</text>
+
+  <rect x="605" y="195" width="220" height="92" class="human"/>
+  <text x="715" y="231" text-anchor="middle" class="body">Accept / repair</text>
+  <text x="715" y="259" text-anchor="middle" class="small">review the supplied path</text>
+
+  <rect x="895" y="195" width="240" height="92" class="box"/>
+  <text x="1015" y="231" text-anchor="middle" class="body">Finished artifact</text>
+  <text x="1015" y="259" text-anchor="middle" class="small">work gets done</text>
+
+  <path d="M245 241 H315" class="line"/>
+  <path d="M535 241 H605" class="line"/>
+  <path d="M825 241 H895" class="line"/>
+
+  <rect x="315" y="320" width="510" height="88" class="ghost"/>
+  <text x="570" y="351" text-anchor="middle" class="body">Learning events that can be bypassed</text>
+  <text x="570" y="379" text-anchor="middle" class="small">prediction • retrieval • generation • error discovery • explanation</text>
+  <path d="M155 287 C155 350 245 364 315 364" class="dash"/>
+  <path d="M825 364 C890 364 1015 336 1015 287" class="dash"/>
+
+  <line x1="65" y1="447" x2="1135" y2="447" stroke="#999" stroke-width="1.5"/>
+
+  <text x="65" y="497" class="label">Learning-preserving</text>
+  <text x="65" y="525" class="small">Assistance is delayed or shaped so the learner still generates evidence about their own model.</text>
+
+  <rect x="65" y="560" width="180" height="100" class="box"/>
+  <text x="155" y="599" text-anchor="middle" class="body">Task</text>
+  <text x="155" y="628" text-anchor="middle" class="small">same starting point</text>
+
+  <rect x="285" y="560" width="210" height="100" class="human"/>
+  <text x="390" y="593" text-anchor="middle" class="body">Attempt / predict</text>
+  <text x="390" y="621" text-anchor="middle" class="small">commit to a model</text>
+  <text x="390" y="646" text-anchor="middle" class="small">before seeing the answer</text>
+
+  <rect x="535" y="560" width="190" height="100" class="soft"/>
+  <text x="630" y="593" text-anchor="middle" class="body">Hint / feedback</text>
+  <text x="630" y="621" text-anchor="middle" class="small">support without</text>
+  <text x="630" y="646" text-anchor="middle" class="small">necessarily completing</text>
+
+  <rect x="765" y="560" width="190" height="100" class="human"/>
+  <text x="860" y="593" text-anchor="middle" class="body">Revise / explain</text>
+  <text x="860" y="621" text-anchor="middle" class="small">compare expectation</text>
+  <text x="860" y="646" text-anchor="middle" class="small">with outcome</text>
+
+  <rect x="995" y="560" width="140" height="100" class="box"/>
+  <text x="1065" y="593" text-anchor="middle" class="body">Artifact</text>
+  <text x="1065" y="621" text-anchor="middle" class="small">plus a richer</text>
+  <text x="1065" y="646" text-anchor="middle" class="small">practice trace</text>
+
+  <path d="M245 610 H285" class="line"/>
+  <path d="M495 610 H535" class="line"/>
+  <path d="M725 610 H765" class="line"/>
+  <path d="M955 610 H995" class="line"/>
+
+  <rect x="325" y="700" width="550" height="52" class="ghost"/>
+  <text x="600" y="722" text-anchor="middle" class="small">Occasionally test the real target: can the learner perform, explain, or detect error without the tool?</text>
+  <text x="600" y="742" text-anchor="middle" class="tiny">Conceptual synthesis; not a cross-domain effect estimate.</text>
+  <path d="M860 660 C860 690 790 700 740 700" class="dash"/>
+
+  <text x="600" y="785" text-anchor="middle" class="tiny">Evidence anchor: Bastani et al. (2025), high-school mathematics; Kestin et al. (2025), undergraduate physics. Diagram by the author.</text>
+</svg>
