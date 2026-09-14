@@ -94,29 +94,25 @@ At Boston College, the outward movement continued.
 
 Burns entered BC in 1974. When he returned to deliver the university's commencement address in 2002, three of his old roommates were in the audience and he reminded them that they had lived in the Mods. Boston College later identified his student residence as Mod 36A and reported that, after the speech, he went back to visit it.
 
-The address gives the undergraduate years an actual place without pretending we know what happened inside it on any particular night.
+The address gives the undergraduate years an actual place without pretending we know what happened inside it on any particular night. The public record does not establish when Burns occupied 36A, much less place him there for a specific Red Sox game. We do not know where he watched Carlton Fisk's Game 6 home run in 1975, whether he watched the 1978 tiebreaker from campus, or whether either game became a shared roommate memory. The address survives. The baseball scene does not.
 
-We do not know whether Burns watched Carlton Fisk's Game 6 home run from 36A, somewhere else on campus, at Fenway, or not at all. We do not know whether Bucky Dent's 1978 tiebreaker home run entered that house as a shared catastrophe. The address survives. The baseball scene does not.
+The more consequential surviving memory comes from a classroom.
 
-The classroom gives us something different.
-
-One of the teachers Burns later named as formative was the European historian Mark O'Connor. In a Boston College profile, Burns remembered O'Connor reading Siegfried Sassoon's antiwar poetry during the closing phase of the Vietnam War. Burns recalled the effect plainly:
+One of the teachers Burns later named as formative was the European historian Mark O'Connor. In a Boston College profile, Burns remembered O'Connor reading Siegfried Sassoon's antiwar poetry during the closing phase of the Vietnam War. Burns recalled the assumption he brought with him:
 
 > *“I had grown up with the notion that war could be heroic.”*
 
-The poems complicated that inheritance. Burns said O'Connor pushed students to ask ethical questions of history, not merely to master its sequence.
+He remembered the encounter as a revelation and credited O'Connor with pushing students to ask ethical questions of history, not merely to master its sequence.
 
 This does not give us a secret key to Burns's later foreign policy judgments. A memory recovered decades later cannot be made to explain Cairo, Jerusalem, NATO, Iraq, or China. It does tell us something official biographies usually flatten: history at Boston College was not only a subject he completed. At least one class disturbed an assumption he had brought into it.
 
-The same undergraduate period carried him abroad again. An archived White House biography records that Burns earned the *Certificat Pratique de Langue Française* at the Sorbonne in 1977, before returning to graduate from Boston College in 1978. We do not yet know how he followed the Red Sox from Paris, or whether he did. That blank is more useful than an invented story about box scores arriving across the Atlantic.
+The same undergraduate period carried him abroad again. In 1977 Burns earned the *Certificat Pratique de Langue Française* at the Sorbonne. He returned to Boston College and graduated in 1978 with a B.A. in history, summa cum laude and Phi Beta Kappa. We do not yet know how he followed the Red Sox from Paris, or whether he did. That blank is more useful than an invented story about box scores arriving across the Atlantic.
 
 ![Boston College formation archive note showing Mod 36A, Mark O'Connor and Sassoon, and the 1977 Sorbonne year](../media/ch01-boston-college-formation.svg)
 
-*ARCHIVE NOTE — Boston College formation, 1974–1978. Editorial synthesis, not a reconstructed scene. Burns's 2002 commencement address supplies the roommates-and-Mods memory and his retrospective link from Boston College to the Foreign Service; Boston College identifies Mod 36A; a later BC profile preserves Burns's recollection of Mark O'Connor and Sassoon; the archived White House biography records the 1977 Sorbonne certificate. [2002 commencement address.](https://www.bc.edu/bc-web/bcnews/campus-community/alumni/r--nicholas-burns-2002-commencement-address.html) [Mod 36A.](https://www.bc.edu/bc-web/bcnews/campus-community/around-campus/mod-world.html) [O'Connor profile.](https://www.bc.edu/bc-web/bcnews/campus-community/faculty/the-seminar.html) [Official biography.](https://georgewbush-whitehouse.archives.gov/government/nburns-bio.html)*
+*ARCHIVE NOTE — Boston College formation, 1974–1978. Editorial synthesis, not a reconstructed scene. Burns's 2002 commencement address supplies the roommates-and-Mods memory and his retrospective link from Boston College to the Foreign Service; Boston College identifies Mod 36A; a later BC profile preserves Burns's recollection of Mark O'Connor and Sassoon; the archived White House biography and Burns's Harvard CV record the 1977 Sorbonne certificate and his 1978 Boston College degree. [2002 commencement address.](https://www.bc.edu/bc-web/bcnews/campus-community/alumni/r--nicholas-burns-2002-commencement-address.html) [Mod 36A.](https://www.bc.edu/bc-web/bcnews/campus-community/around-campus/mod-world.html) [O'Connor profile.](https://www.bc.edu/bc-web/bcnews/campus-community/faculty/the-seminar.html) [White House biography.](https://georgewbush-whitehouse.archives.gov/government/nburns-bio.html) [Harvard CV.](https://apps.hks.harvard.edu/faculty/cv/NicholasBurns.pdf)*
 
-When Burns spoke at BC in 2002, he described the education retrospectively as a call to service. He named John Heineman, Thomas Gray and Mark O'Connor among the professors who had mattered to him, and told the graduating class that the Foreign Service was the choice he made after leaving Boston College.
-
-Retrospective self-explanation is not proof of inevitability. Still, Burns himself connected the institution, its teachers and a life of public service; the biography does not need to make the connection cleaner than he did.
+When Burns spoke at BC in 2002, he described the education retrospectively as a call to service and named John Heineman, Thomas Gray and Mark O'Connor among the professors who had mattered to him. In the compressed rhetoric of a commencement address, he said the Foreign Service was the choice he made *“when I left Boston College.”* The chronology was less direct—graduate study at Johns Hopkins SAIS came next—but the retrospective connection is Burns's own. The biography does not need to make it cleaner than he did.
 
 The baseball calendar continued alongside all of this. Burns was eleven when the 1967 Red Sox produced the Impossible Dream season. At nineteen, during his Boston College years, he lived through the 1975 pennant and World Series. In his graduation year, 1978, the Yankees erased a huge summer deficit and Bucky Dent put a home run over the Green Monster in the division tiebreaker.
 
