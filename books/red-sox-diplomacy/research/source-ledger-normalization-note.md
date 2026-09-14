@@ -1,26 +1,19 @@
 # Source Ledger Normalization Note
 
-## Canonical baseline
+## Canonical baseline and rebuild
 
-`source-ledger.csv` was previously rebuilt from the old canonical file plus historical addenda 02–15.
+The current `source-ledger.csv` was rebuilt deterministically from the 185-row canonical baseline plus staged addenda 16–39 using `rebuild-source-ledger.py` on a real repository checkout.
 
-Baseline used for the final deterministic rebuild:
+`source-ledger-rebuild-report.json` records:
 
-- 185 rows after the header;
-- canonical IDs `rsd-001` through `rsd-185`;
-- one row per exact source URL at the time of that rebuild;
-- historical addendum ID collisions removed;
-- validator schema preserved exactly: `id,year,author_or_institution,title,source_type,book_use,url`.
+- 185 baseline rows;
+- 213 staged rows;
+- 49 duplicate rows removed after URL normalization;
+- 26 materially fuller `book_use` upgrades;
+- **349 final canonical rows**;
+- highest staged file: `source-ledger-addendum-39.csv`.
 
-Canonical IDs from that baseline supersede row IDs inside addenda 02–15. Those addenda remain provenance/history, not an alternate canonical index.
-
-## Final deterministic rebuild
-
-The canonical ledger has been rebuilt from the 185-row baseline plus staged addenda 16–39 using `rebuild-source-ledger.py` on a real repository checkout.
-
-`source-ledger-rebuild-report.json` records 185 baseline rows, 213 staged rows, 49 duplicate rows removed after URL normalization, 26 materially fuller `book_use` upgrades, and **349 final canonical rows**. The highest staged file is `source-ledger-addendum-39.csv`.
-
-The resulting `source-ledger.csv` is sequential through `rsd-349`. Historical addendum IDs, which reached `rsd-397`, remain provenance only and do not dictate canonical numbering.
+The resulting ledger is sequential through `rsd-349`. Historical addendum IDs, which reached `rsd-397`, remain provenance only and do not dictate canonical numbering.
 
 ## Research-expansion freeze
 
@@ -32,7 +25,7 @@ Do not create another addendum merely because another generally relevant source 
 
 The executable procedure lives at `books/red-sox-diplomacy/research/rebuild-source-ledger.py`.
 
-The final rebuild used the script’s complete corpus reconciliation rather than a conversational hand-merge. The script normalized scheme/host/trailing-slash identity, treated `twitter.com` and `x.com` status URLs as the same host identity, removed fragments and known tracking parameters, preserved the earliest source record, upgraded only materially fuller `book_use` fields, and emitted the reconciliation report for inspection.
+The rebuild uses complete corpus reconciliation rather than conversational hand-merging. It normalizes stable URL identity, preserves the earliest source record, upgrades only materially fuller `book_use` fields, reassigns canonical IDs sequentially, validates required fields and normalized-URL uniqueness, and emits the reconciliation report for inspection.
 
 ## Canonical rules after rebuild
 
@@ -46,4 +39,4 @@ The final rebuild used the script’s complete corpus reconciliation rather than
 
 ## Publication principle
 
-The canonical ledger is an evidence index, not a trophy count. The final rebuild therefore prefers a smaller clean set of unique, accurately classified sources over preserving every historical row number. Addenda remain useful as research history after their unique rows have been absorbed.
+The canonical ledger is an evidence index, not a trophy count. The final rebuild prefers a smaller clean set of unique, accurately classified sources over preserving every historical row number. Addenda remain useful as research history after their unique rows have been absorbed.
