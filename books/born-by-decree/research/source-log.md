@@ -12,6 +12,13 @@
 - Europa Liberă România, Romanian-language recollections of Decree 770 enforcement: https://romania.europalibera.org/amp/nostalgici-comunism/32737911.html
 - Europa Liberă România, communist child institutions investigation: https://romania.europalibera.org/a/lagarele-lui-ceausescu-mii-de-copii-au-murit-bolnavi-si-nemancati-in-camine-comuniste-munti-de-dovezi-zero-condamnari-orfelinate/32703026.html
 
+## Demographic series and policy effects
+- World Bank World Development Indicators via FRED, Romania crude birth rate, annual 1960–2024: https://fred.stlouisfed.org/series/SPDYNCBRTINROU
+- World Bank World Development Indicators via FRED, Romania total fertility rate, annual 1960–2024: https://fred.stlouisfed.org/series/SPDYNTFRTINROU
+- Keil & Andreescu, `Fertility policy in Ceausescu's Romania`, *Journal of Family History* 24(4), 1999, DOI 10.1177/036319909902400405: https://pubmed.ncbi.nlm.nih.gov/11623953/
+
+For Chapter 7, keep the immediate 1967 discontinuity separate from the longer-run policy effect. A period TFR is not completed family size and cannot by itself partition prevented abortion, birth timing, conception timing, or durable lifetime fertility. See `research/ch07-baby-boom-audit.md`.
+
 ## Medical/demographic scholarship
 - BMJ Sexual & Reproductive Health, Romanian fertility and maternal-mortality history: https://doi.org/10.1136/jfprhc-2012-100498
 - Review of Romanian abortion legislation and socio-medical outcomes: https://pmc.ncbi.nlm.nih.gov/articles/PMC7728127/
