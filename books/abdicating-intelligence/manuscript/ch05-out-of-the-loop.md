@@ -36,7 +36,11 @@ Aviation has spent decades learning how peculiar.
 
 Modern commercial aircraft are among the strongest arguments for automation ever built. Automatic flight systems reduce workload, support precision, improve efficiency, and contribute to an extraordinary safety record. No serious discussion should romanticize a return to an earlier cockpit as though hand-flying itself were safety.
 
-Yet regulators and airlines have also worried about manual-flying proficiency and the effects of prolonged automation. In a 2013 Safety Alert for Operators, the U.S. Federal Aviation Administration encouraged operators to promote manual flight operations when appropriate. The concern was not that automation had failed as a technology. It was that humans retained responsibilities requiring skills that could weaken when rarely exercised.
+That concern is still visible in current FAA guidance. [Advisory Circular 120-123, *Flightpath Management*](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1041433), issued in 2022 and currently active, puts manual flight operations, management of automated systems, pilot monitoring, and energy management inside one flightpath-management framework for airline and other covered operators and training centers. For general aviation, the active 2024 [Advisory Circular 61-98E](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1043281) goes further on proficiency: it recommends that pilots of automation-equipped aircraft manually control them at times to maintain manual skills and that flight reviews safely simulate critical automation failures. The point is not that automation failed. It is that a human fallback cannot remain credible on responsibility alone.
+
+![Conceptual diagram showing routine automation, rare takeover, and recurrent practice maintaining reserve capability](../media/ch05-out-of-loop-reserve.svg)
+
+*Automation can improve ordinary operation while leaving the human responsible for exceptional cases. If direct practice falls during routine operation, recurrent drills or simulation may be needed to keep the fallback role real rather than ceremonial. Conceptual diagram by the author; evidence boundary informed by FAA AC 120-123 and AC 61-98E.*
 
 This is the paradox we will encounter again and again.
 
