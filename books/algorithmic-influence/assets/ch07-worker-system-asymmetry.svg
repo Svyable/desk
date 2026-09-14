@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">The worker and the system do not see the same workplace</title>
+  <desc id="desc">A three-column diagram contrasts the limited signals visible to an individual worker with the population-scale signals available to a platform or employer, and shows how those signals can feed allocation, incentives, evaluation, and sanctions. A return arrow shows workers adapting their behavior to observed consequences.</desc>
+  <rect width="1200" height="760" fill="#ffffff"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#111111">
+    <text x="70" y="72" font-size="38" font-weight="700">The worker and the system do not see the same workplace</text>
+    <text x="70" y="112" font-size="20">Information asymmetry becomes behavioral pressure when hidden signals shape access, pay, evaluation, or account standing.</text>
+
+    <rect x="70" y="165" width="300" height="390" rx="18" fill="#f5f5f5" stroke="#222222" stroke-width="2"/>
+    <text x="100" y="210" font-size="25" font-weight="700">The worker sees</text>
+    <line x1="100" y1="230" x2="340" y2="230" stroke="#777777"/>
+    <text x="105" y="275" font-size="21">• one shift or route</text>
+    <text x="105" y="315" font-size="21">• the offers shown</text>
+    <text x="105" y="355" font-size="21">• a score or dashboard</text>
+    <text x="105" y="395" font-size="21">• bonuses and warnings</text>
+    <text x="105" y="435" font-size="21">• personal outcomes</text>
+    <text x="105" y="475" font-size="21">• fragments of the rule</text>
+    <text x="105" y="525" font-size="17" font-style="italic">Experience is local.</text>
+
+    <rect x="450" y="165" width="300" height="390" rx="18" fill="#f5f5f5" stroke="#222222" stroke-width="2"/>
+    <text x="480" y="210" font-size="25" font-weight="700">The system can see</text>
+    <line x1="480" y1="230" x2="720" y2="230" stroke="#777777"/>
+    <text x="485" y="275" font-size="21">• many workers at once</text>
+    <text x="485" y="315" font-size="21">• demand and location</text>
+    <text x="485" y="355" font-size="21">• timing and acceptance</text>
+    <text x="485" y="395" font-size="21">• ratings and outcomes</text>
+    <text x="485" y="435" font-size="21">• historical patterns</text>
+    <text x="485" y="475" font-size="21">• experiments and cohorts</text>
+    <text x="485" y="525" font-size="17" font-style="italic">Observation is population-scale.</text>
+
+    <rect x="830" y="165" width="300" height="390" rx="18" fill="#f5f5f5" stroke="#222222" stroke-width="2"/>
+    <text x="860" y="210" font-size="25" font-weight="700">The system can change</text>
+    <line x1="860" y1="230" x2="1100" y2="230" stroke="#777777"/>
+    <text x="865" y="275" font-size="21">• task allocation</text>
+    <text x="865" y="315" font-size="21">• scheduling</text>
+    <text x="865" y="355" font-size="21">• incentives</text>
+    <text x="865" y="395" font-size="21">• rankings and targets</text>
+    <text x="865" y="435" font-size="21">• access to future work</text>
+    <text x="865" y="475" font-size="21">• review or sanctions</text>
+    <text x="865" y="525" font-size="17" font-style="italic">Consequences are programmable.</text>
+
+    <path d="M370 350 L440 350" stroke="#111111" stroke-width="3" fill="none"/>
+    <polygon points="440,350 424,341 424,359" fill="#111111"/>
+    <path d="M750 350 L820 350" stroke="#111111" stroke-width="3" fill="none"/>
+    <polygon points="820,350 804,341 804,359" fill="#111111"/>
+
+    <path d="M980 585 C980 675 220 675 220 585" stroke="#111111" stroke-width="3" fill="none"/>
+    <polygon points="220,585 211,602 229,602" fill="#111111"/>
+    <text x="395" y="648" font-size="22" font-weight="700">Observed consequences teach workers what to make legible next.</text>
+    <text x="70" y="720" font-size="16">Conceptual synthesis by Sven Hardy Benson / Desk. No proprietary platform interface or third-party artwork reproduced.</text>
+  </g>
+</svg>
