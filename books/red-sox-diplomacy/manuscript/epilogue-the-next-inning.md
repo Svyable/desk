@@ -38,13 +38,7 @@ The United States cannot shake a hand. NATO cannot remember who kept a promise. 
 
 Burns spent a career inside that tension: legible enough to another human being without forgetting that he represented a country rather than himself.
 
-Neither personality nor profession guaranteed good judgment.
-
-Nothing does.
-
-Experience can accumulate without becoming wisdom. Officials defend positions they later revise. Institutions remember some things and lose others. Another decision arrives before history has finished grading the last one.
-
-After Beijing, Burns returned to Harvard. Other people took the offices he had held. Students who had never worked in an embassy began deciding what they thought diplomacy was for. Officials Burns would never meet inherited conversations he had once carried.
+Other people took the offices he had held. Officials Burns would never meet inherited conversations he had once carried.
 
 Public service survives the public servant that way—not as a monument, but as work passed forward.
 
