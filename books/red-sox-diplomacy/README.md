@@ -58,15 +58,8 @@ The reader-facing edition should make that evidence usable. When a source can be
 
 ## Readiness
 
-The current manuscript has completed its book-specific publication-preparation gates:
+The manuscript’s book-specific preparation gates are complete: quotation verification, named evidence-balance stop conditions, deterministic canonical source-ledger rebuild, title-page metadata, generated catalog integration, and differential Desk integrity validation.
 
-- exact quotations in the manuscript no longer depend solely on unchecked scans or oral-history PDFs;
-- publication-balance audits for India, Iran, Beijing, and the Greece/Red Sox question have reached their stated evidentiary stop conditions;
-- the canonical source ledger was rebuilt deterministically to 349 unique rows with an auditable reconciliation report;
-- title, subtitle, and Sven Hardy Benson byline pass the focused cover-metadata check;
-- generated Desk catalog output includes this book and its live manuscript count;
-- a real-checkout differential integrity run found no `check-desk.py` errors introduced by this PR beyond failures already present on current `main`.
-
-Repository-wide `check-desk.py` is not globally clean on current `main`; unrelated legacy ledger/catalog/runtime errors predate this branch. Those baseline failures are not silently attributed to or repaired inside this book PR.
+The full repository integrity command still reports unrelated failures already present on current `main`; a real-checkout differential validation found no new `check-desk.py` errors introduced by this PR.
 
 The manuscript remains in **Revision in progress** until the explicit transition to ready-for-review, merge, or publication is directed.
