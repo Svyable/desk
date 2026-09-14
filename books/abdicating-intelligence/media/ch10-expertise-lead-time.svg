@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+<title id="title">Expertise has lead time</title>
+<desc id="desc">A conceptual pipeline from entrants through supervised formation to independent practitioners and exits, showing how a weaker replacement flow can remain hidden while experienced practitioners are still working.</desc>
+<defs>
+<marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#222"/></marker>
+<style>.b{fill:#fff;stroke:#222;stroke-width:2}.g{fill:#eee;stroke:#222;stroke-width:2}.s{fill:#ddd;stroke:#111;stroke-width:3}.l{stroke:#222;stroke-width:2.5;fill:none;marker-end:url(#a)}.d{stroke:#555;stroke-width:2;stroke-dasharray:8 6;fill:none;marker-end:url(#a)}.h{font:700 34px Arial;fill:#111}.t{font:700 22px Arial;fill:#111}.p{font:18px Arial;fill:#222}.q{font:16px Arial;fill:#444}</style>
+</defs>
+<text x="600" y="50" text-anchor="middle" class="h">Expertise has lead time</text>
+<text x="600" y="82" text-anchor="middle" class="p">The stock can look healthy while the replacement flow is already thinning.</text>
+<rect x="60" y="155" width="220" height="120" rx="14" class="g"/>
+<text x="170" y="198" text-anchor="middle" class="t">Entrants</text>
+<text x="170" y="229" text-anchor="middle" class="p">students, juniors, apprentices</text>
+<rect x="350" y="155" width="280" height="120" rx="14" class="b"/>
+<text x="490" y="198" text-anchor="middle" class="t">Supervised formation</text>
+<text x="490" y="229" text-anchor="middle" class="p">practice, feedback, cases</text>
+<text x="490" y="255" text-anchor="middle" class="q">time plus expert attention</text>
+<rect x="700" y="140" width="300" height="150" rx="14" class="s"/>
+<text x="850" y="188" text-anchor="middle" class="t">Independent practitioners</text>
+<text x="850" y="220" text-anchor="middle" class="p">the visible stock of expertise</text>
+<text x="850" y="250" text-anchor="middle" class="q">today can look strong even when</text>
+<text x="850" y="274" text-anchor="middle" class="q">fewer replacements are coming</text>
+<rect x="1060" y="155" width="100" height="120" rx="14" class="g"/>
+<text x="1110" y="200" text-anchor="middle" class="t">Exit</text>
+<text x="1110" y="232" text-anchor="middle" class="q">retire</text>
+<text x="1110" y="254" text-anchor="middle" class="q">leave</text>
+<path d="M280 215 H350" class="l"/><path d="M630 215 H700" class="l"/><path d="M1000 215 H1060" class="l"/>
+<text x="490" y="325" text-anchor="middle" class="q">lead time lives here</text>
+<rect x="90" y="390" width="460" height="155" rx="14" fill="#fafafa" stroke="#555" stroke-width="2" stroke-dasharray="8 6"/>
+<text x="320" y="430" text-anchor="middle" class="t">Pipeline shock</text>
+<text x="320" y="463" text-anchor="middle" class="p">fewer entry roles or less supervised practice</text>
+<text x="320" y="494" text-anchor="middle" class="p">training capacity can weaken before senior headcount does</text>
+<path d="M300 390 C300 345 235 325 190 275" class="d"/>
+<rect x="650" y="390" width="460" height="155" rx="14" class="b"/>
+<text x="880" y="430" text-anchor="middle" class="t">Medicine makes the lag concrete</text>
+<text x="880" y="463" text-anchor="middle" class="p">HRSA says preparing a physician can take</text>
+<text x="880" y="494" text-anchor="middle" class="p">more than a decade of education and residency.</text>
+<text x="880" y="523" text-anchor="middle" class="q">Long preparation makes replacement capacity a present decision.</text>
+<path d="M550 468 H650" class="l"/>
+<rect x="150" y="610" width="900" height="70" rx="14" class="g"/>
+<text x="600" y="640" text-anchor="middle" class="p">A profession can consume its existing expertise for years before a weakened pipeline becomes obvious.</text>
+<text x="600" y="666" text-anchor="middle" class="q">Conceptual diagram. It does not claim AI causes physician shortages or that every profession shares medicine's training structure.</text>
+</svg>
