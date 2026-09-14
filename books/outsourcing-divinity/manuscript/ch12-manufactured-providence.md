@@ -141,3 +141,47 @@ Providence, if it exists, belongs to theology.
 Prediction belongs to tools.
 
 Confusing the two is how a useful forecast becomes fate.
+
+A useful warning comes from a system that once looked almost embarrassingly modern. Google Flu Trends was launched with the promise that patterns in search behavior could help estimate influenza activity faster than traditional public-health reporting. For a period, the idea looked like a demonstration that enormous behavioral datasets could reveal reality before slower institutions did. Then the system badly overestimated flu prevalence during important stretches and was ultimately retired.
+
+The postmortem was more interesting than the embarrassment. Search behavior changes. Google's own search product changes. Media attention can cause people to search for flu without having flu. The data-generating process was not a window through which reality passively entered. It was a social system that moved.
+
+The failure did not prove that digital epidemiology is useless. Quite the opposite. Researchers learned from it. The lesson was that scale of data does not abolish the need for theory, calibration, institutional knowledge, and comparison against slower ground truth.
+
+Big data had not become providence.
+
+Predictive policing created an even sharper feedback problem. Systems could use past reported crime or enforcement data to identify places where crime was expected to occur. Police presence would then increase in those places, producing more observations and more recorded incidents. If the data reflect where authorities looked as much as where underlying conduct occurred, the model can turn attention into evidence for more attention.
+
+This does not mean spatial crime analysis is inherently illegitimate. Police departments have always allocated patrols using patterns, experience, and reports. The point is that prediction is endogenous to intervention. Once the prediction changes deployment, later data cannot be interpreted as though the model stood outside the process.
+
+Machine learning makes the loop fast enough to look objective.
+
+The same structure will appear in personal AI. A career assistant predicts that you are well suited to management and begins recommending leadership articles, managerial openings, networking events, and training. Your résumé becomes more managerial. The next prediction becomes more confident. At year five, the system has excellent evidence that it understood you.
+
+Perhaps it did.
+
+Or perhaps it helped write the person it later claimed to have predicted.
+
+This is not inherently bad. Mentors do the same thing. Parents, teachers, friends, institutions, and cities all change us. Human life is full of reciprocal prediction and influence. What is new is the possibility of one adaptive system occupying many of those formative positions at once while recording the resulting behavioral evidence as confirmation.
+
+The distinction between forecast and formation will become central.
+
+A navigation app can route a city into existence. If millions of drivers are sent through one neighborhood, businesses adapt, congestion changes, residents complain, roads receive investment, and future routes respond. The route was never merely descriptive. At scale it was urban policy by accumulation.
+
+A sufficiently widespread AI assistant could do something similar with careers, purchases, relationships, media, health behavior, and language. Tiny recommendations, each defensible, could produce macro-patterns no policymaker explicitly chose.
+
+The future may be manufactured through convenience.
+
+That possibility requires a different kind of audit. It is not enough to ask whether the individual recommendation was accurate. We need to ask what repeated recommendations do to the distribution of possibilities. Does the system concentrate applicants into a smaller set of careers? Does it route patients toward a narrow set of providers? Does it homogenize creative work? Does it make certain neighborhoods, products, or political arguments systematically easier to encounter?
+
+These are ecological questions.
+
+Ecology matters because providence is not just prediction of events; it is an account of how the whole hangs together. AI systems will tempt us to produce a manufactured version: a world increasingly shaped by predictions whose later accuracy is partly a measure of how completely the predictions shaped the world.
+
+There is a simple countermeasure, borrowed from both science and good governance: preserve surprise as evidence.
+
+When reality violates the model, do not treat the deviation first as noise. Study it. When the unusual student succeeds, ask what the model missed. When the patient responds unexpectedly, keep the case. When a customer rejects the predicted preference, do not immediately smooth the anomaly away. Outliers can be errors. They can also be the points at which a system discovers the world is larger than its ontology.
+
+Religious language would call some surprises grace. Science calls them anomalies. Art calls them breakthroughs. Markets call some of them opportunities. Human beings often call them the reason life was worth living.
+
+A predictive system should not get to decide in advance which surprises count.
