@@ -37,15 +37,21 @@ The German-fan image is also indexed in the June 22, 2024 China-photo category:
 
 - https://commons.wikimedia.org/wiki/Category:China_photographs_taken_on_2024-06-22
 
+A PICRYL/GetArchive public-domain mirror adds a second preservation layer for the `Charter members` item. Its indexed description reproduces the Burns-attributed wording `Charter members of @RedSox Nation at the Great Wall of China` rather than merely listing an opaque filename:
+
+- https://jenikirbyhistory.getarchive.net/topics/r%2Bnicholas%2Bburns%2Bin%2B2024
+
+This strengthens the preserved **content** of the item, but the mirror does not supply a recoverable original `@USAmbChina` status ID or publication date.
+
 ### What this establishes
 
-The Great Wall is the strongest of the named retrospective locations because the contemporaneous federal preservation corpus independently carries `RedSox Nation` in the image titles. This is more than a later memory that Burns happened to wear a cap there.
+The Great Wall is the strongest of the named retrospective locations because the contemporaneous federal preservation corpus independently carries `RedSox Nation` in the image titles, and a separate public-domain index reproduces the Burns-attributed `Charter members` wording. This is more than a later memory that Burns happened to wear a cap there.
 
 ### Still missing
 
 - original `@USAmbChina` status ID for the June 22 German-fan image;
 - date and original status ID for the `Charter members` image;
-- stable full captions from the originating posts.
+- the originating-post metadata needed to treat either item as a recovered tweet rather than a preservation record.
 
 Do not invent those fields.
 
@@ -82,7 +88,7 @@ Burns's presence and public-diplomacy activity on the Bund are contemporaneously
 
 The originating status URL and full metadata for `Ambassador Burns with CG Scott Walker along the Bund.jpg` remain unrecovered in this pass. Do not claim that the preserved Bund image itself shows the Red Sox hat unless the image is directly inspected and that visual fact is recorded separately.
 
-## Xiamen — Grade B
+## Xiamen — Grade B, with an independent Boston/family identity post
 
 ### Retrospective statement
 
@@ -100,13 +106,20 @@ https://commons.wikimedia.org/wiki/File:Ambassador_Burns_with_Xiamen_Mayor_Huang
 
 The 2024 federal corpus also contains `Ambassador Nicholas Burns en route to Xiamen from Fuzhou.jpg` and other Xiamen material.
 
+A separate March 21 Xiamen preservation is especially relevant to *Red Sox Diplomacy*. Public-domain preservation mirrors retain Burns-attributed text about hearing a pipe organ in Xiamen that had been purchased from `#EmmanuelChurchBoston`; Burns identified Emmanuel as his wife's family church across five generations. The preservation includes Burns with his wife and the musician at the organ.
+
+Preservation:
+https://itoldya420.getarchive.net/media/an-organ-in-amoy-ambassador-stands-with-his-wife-and-the-musician-in-front-e4335b
+
 ### What this establishes
 
 The Xiamen trip is contemporaneously source-resolved and clearly part of Burns's public ambassadorial travel. His 2025 Red Sox-hat statement can therefore be treated as first-person identification of what he chose to wear during a documented trip.
 
+More importantly for the manuscript, Xiamen independently shows **Boston and family identity entering the official/public record even without baseball**: a Chinese cultural visit becomes a story about an organ from a Boston church tied to Libby Burns's family over generations. That is direct evidence for the broader thesis that recognizable personal identity remained visible inside ambassadorial work.
+
 ### Still missing
 
-This pass has not recovered a contemporaneous Xiamen post or stable image caption that itself says `Red Sox`, `RedSox`, or otherwise identifies the hat. Keep the hat detail attributed to Burns's 2025 recollection.
+This pass has not recovered the original `@USAmbChina` status URL for the Emmanuel Church organ post, nor a contemporaneous Xiamen post or stable caption that itself identifies the Red Sox hat. Keep the hat detail attributed to Burns's 2025 recollection and keep the organ item at preservation-candidate grade until its originating status metadata is recovered.
 
 ## Chengdu — Grade B-minus / preservation context
 
@@ -168,12 +181,12 @@ A defensible formulation is:
 
 > After leaving Beijing, Burns said he had deliberately worn his battered Red Sox hat at the Great Wall, on the Bund, in Xiamen and Chengdu, and during his *60 Minutes* appearance. The contemporaneous record independently places him in each of those settings, while the Great Wall archive goes further: federal-image titles from 2024 explicitly invoke `RedSox Nation`.
 
-The final clause is important. It distinguishes **corroboration of place** from **contemporaneous Red Sox-specific evidence**.
+The Xiamen organ record adds a separate point: even when sports were absent, Burns sometimes narrated diplomatic travel through deeply personal Boston and family connections. The manuscript therefore does not need to make baseball carry the entire argument about recognizable identity.
 
 ## Next recovery targets
 
 1. Recover the source metadata for `Ambassador Burns with CG Scott Walker along the Bund.jpg`.
 2. Recover the source metadata for `Ambassador Burns by the Funan River in Chengdu.jpg`.
-3. Recover the source metadata for `Ambassador Nicholas Burns en route to Xiamen from Fuzhou.jpg` and search adjacent Xiamen posts for Red Sox references.
-4. Recover both Great Wall `RedSox Nation` status IDs.
+3. Recover the original status metadata for the Xiamen Emmanuel Church organ post and `Ambassador Nicholas Burns en route to Xiamen from Fuzhou.jpg`.
+4. Recover both Great Wall `RedSox Nation` status IDs; retain the PICRYL caption mirror as preservation evidence in the meantime.
 5. Visually verify the February 25, 2024 *60 Minutes* footage/stills before treating the hat as broadcast-visible fact rather than Burns's later recollection.
