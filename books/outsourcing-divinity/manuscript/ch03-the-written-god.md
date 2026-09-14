@@ -99,3 +99,47 @@ Now the archive speaks back in real time.
 We should listen. We should also remember that a voice assembled from texts is not the same thing as the authority those texts may carry, and explanation is not the final form of understanding.
 
 A book can outlive its author. A model can ingest millions of books. Neither fact tells us whom to obey.
+
+There is a useful way to see how much institutional machinery hides behind the apparently inert page: look at what happens when a manuscript is discovered.
+
+The Dead Sea Scrolls did not descend into modern scholarship as self-interpreting proof of a single thesis. Their discovery created decades of archaeology, conservation, paleography, textual comparison, dating, translation, editorial dispute, access politics, and argument about community context. The physical words mattered enormously. So did the chain of custody around them. The discovery did not eliminate mediation. It multiplied the number of mediating disciplines required to say responsibly what the fragments were and what they showed.
+
+The same is true, in a different register, of textual criticism. Modern readers can buy a Bible whose sentences look clean and inevitable. Behind some of those sentences sit variant manuscripts, damaged witnesses, scribal changes, editorial judgments, and footnotes that compress generations of scholarship into a few marks at the bottom of a page. A reader does not personally repeat that work every morning. We trust institutions and specialists to maintain an apparatus. What matters is that the apparatus exists and can, at least in principle, be inspected and challenged.
+
+This is a better model for machine interpretation than the fantasy of the omniscient answer box.
+
+Imagine an AI that did not merely provide a polished explanation of a contested text, but exposed something like an interpretive apparatus: which sources it relied on, which communities disagree, what textual variants matter, which claims are historical and which are theological, where the evidence is thin, and what would change the answer. The output might be longer and less satisfying. It would also be more adult. It would treat the user as someone capable of inhabiting disagreement rather than someone purchasing resolution.
+
+There is an economic reason products resist this. Uncertainty is friction. Provenance takes space. A carefully bounded answer often feels less impressive than a comprehensive one. Product metrics may reward the interaction in which the user leaves quickly and pleased, not the one in which the user discovers that a question cannot be closed without choosing among rival authorities.
+
+That incentive is not sinister. It is ordinary. It is also exactly why authority needs structure outside the interaction itself.
+
+The history of canon formation makes the same point from another direction. Communities did not simply discover a table of contents floating above history. They recognized, debated, transmitted, excluded, grouped, and ranked texts through processes that differed across traditions and unfolded over time. Even where believers understand providence to be at work, providence moved through councils, teachers, scribes, liturgies, communities, political conditions, and human judgment. The sacred collection arrived through history rather than bypassing it.
+
+This should make us suspicious of technological language that claims to remove the human layer altogether. A system that says it has “learned the corpus” has not escaped selection. Someone decided what could be collected, licensed, digitized, filtered, weighted, retrieved, or excluded. Someone decided what behavior the model should reward. Someone decided what counts as a harmful answer and what counts as a useful one. Those choices may be defensible. The problem begins when the resulting voice sounds as though nobody chose anything.
+
+The page at least bears scars.
+
+Old books have editions. New translations announce themselves. Legal opinions carry names. Academic articles have methods sections, affiliations, dates, references, and other imperfect clues about how a claim came to exist. These are not bureaucratic decorations. They are technologies of accountable knowledge. They allow a reader to say not only “is this sentence plausible?” but “who is responsible for this sentence, under what method, against which alternatives?”
+
+Generative AI needs equivalents that fit its own medium. A list of links pasted beneath an answer is a start, not a solution. The deeper requirement is to preserve the route back from synthesis to contestable sources and from output to accountable institutional choices.
+
+That route matters most when the model is right.
+
+Obvious errors provoke skepticism. Reliable systems earn trust. Trust then migrates from domains where performance can be checked to domains where performance is much harder to evaluate. A user sees the machine correctly explain tax brackets, translate a paragraph, fix code, and identify a historical date. Later the same user asks what a sacred command requires, whether a life has meaning, whether a marriage should end, whether guilt is justified. Competence in the first category becomes emotional collateral for authority in the second.
+
+Human experts benefit from the same halo effect, of course. The brilliant physicist is asked about politics. The successful entrepreneur is asked about education. The celebrated surgeon is treated as a philosopher. We have always transferred authority across boundaries too easily. AI simply makes the transfer smoother because the same interface really does operate across hundreds of domains.
+
+That is why the written tradition has one more lesson for us. A canon does not only elevate texts. It limits them. To call something law is also to distinguish it from commentary. To call something commentary is to admit that it stands beside the source rather than replacing it. A scholarly footnote can be excellent without becoming scripture. A sermon can be moving without becoming a new gospel. Categories protect both source and interpreter.
+
+We need similarly visible categories for machine speech.
+
+Retrieved fact. Generated synthesis. Professional recommendation. Moral reflection. Speculation. Institutional policy. User preference. These are not the same kind of sentence even when the model writes all of them in the same font.
+
+The interface currently makes them look almost identical.
+
+That may be the most consequential typographical choice of the AI age.
+
+A civilization that learned to distinguish text from commentary should be able to distinguish evidence from synthesis. The challenge is that synthesis now arrives faster, friendlier, and often more readable than the evidence beneath it.
+
+The answer is not to retreat from the talking archive. It is to give the archive margins again.
