@@ -18,8 +18,6 @@ An ally felt threatened. The alliance should prepare to defend it.
 
 France, Germany and Belgium did not publicly reject that obligation. Their objection was to timing. Beginning military preparations while United Nations weapons inspectors were still working in Iraq, they argued, could send a political signal that the decision for war had effectively been made.
 
-That distinction is essential.
-
 Burns was an advocate inside the dispute, not a neutral narrator of it.
 
 When Belgium announced that it would block the proposed planning, Burns called the situation a test of NATO's credibility. In later congressional testimony he said the actions of France, Germany and Belgium had created a crisis of credibility and violated the core fabric of the alliance.
@@ -54,8 +52,6 @@ Robertson later pointed to Berlin's willingness to provide Patriot missiles as e
 
 A government could oppose the road to war and still help defend an ally from the consequences of that war.
 
-That is the distinction the public argument kept threatening to erase.
-
 After repeated North Atlantic Council meetings, Robertson concluded that consensus among all nineteen governments was not available. NATO had another established body: the Defence Planning Committee. France, at the time, did not participate in NATO's integrated military structure and therefore did not sit on it.
 
 The move can look in retrospect like a procedural trick designed to remove France from the room.
@@ -82,8 +78,6 @@ The alliance had not discovered agreement about Iraq.
 
 It had found a narrower proposition on which agreement was possible.
 
-That difference is the chapter.
-
 The word *clubhouse* captures only a small part of NATO. Its ambassadors meet repeatedly. They accumulate private history, grievances, habits and judgments about one another. Burns understood that kind of institutional life.
 
 But a baseball clubhouse has a manager and a roster under contract.
@@ -96,11 +90,7 @@ It cannot cast the other governments' votes for them.
 
 The February fight exposed the temptation on both sides. Washington could see dissent as a failure to understand what an alliance was for. Dissenting capitals could see Washington as confusing leadership with entitlement.
 
-Neither perception ended the dispute.
-
-Procedure did.
-
-Not procedure as bureaucracy for its own sake. Procedure as the means by which governments that disagreed about the larger war found the smaller decision they could all live with.
+Procedure did not erase that disagreement. It found the smaller decision they could all live with.
 
 Then the United States invaded Iraq in March without NATO conducting the war as an alliance operation.
 
@@ -131,8 +121,6 @@ Burns gave a speech in May 2003 about healing the transatlantic rift.
 Healing did not mean agreement about the war.
 
 It meant the disagreement had not consumed the institution.
-
-That is less satisfying than permanent solidarity and more useful than pretending permanent solidarity ever existed.
 
 The Turkey crisis preserved several facts at once.
 
