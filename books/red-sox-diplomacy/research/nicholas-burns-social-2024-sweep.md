@@ -4,6 +4,18 @@ This file isolates the strongest 2024 items from Nicholas Burns's official `@USA
 
 ## Verified chronology
 
+### February 25, 2024 — *60 Minutes*: “An American in China”
+
+CBS broadcast Lesley Stahl's interview with Burns on February 25, 2024 as part of its reporting on the U.S.-China relationship. CBS says Burns invited the team to China; the reporting included Beijing and Shanghai and an interview at the ambassador's residence.
+
+Primary broadcast/reporting anchors:
+- https://www.cbsnews.com/amp/news/china-us-relationship-nicholas-burns-60-minutes/
+- https://www.cbsnews.com/news/reporting-from-china-how-this-trip-was-different-60-minutes/
+
+Use: independent contemporaneous anchor for one of the places Burns later named when explaining his deliberate Red Sox-hat habit.
+
+Control: the CBS text and transcript establish the interview and date but do **not** independently identify a Red Sox hat. The hat detail currently comes from Burns's April 30, 2025 first-person retrospective. Attribute it to him unless the broadcast footage or stills are separately visually verified.
+
 ### March 5, 2024 — Duke Kunshan educational ties
 
 Original status: https://twitter.com/USAmbChina/status/1764909169876914590
@@ -11,6 +23,16 @@ Original status: https://twitter.com/USAmbChina/status/1764909169876914590
 Burns publicly wished Duke Kunshan students and faculty success in building stronger U.S.-China educational ties.
 
 Use: exchange as relationship infrastructure, not decorative programming.
+
+### March 21, 2024 — Xiamen / Mayor Huang Wenhui
+
+Burns's official account documented his Xiamen visit and meeting with Mayor Huang Wenhui. The preserved post notes that the United States first opened a consulate in Xiamen in 1844 and records discussion of the environment for American businesses.
+
+Original status: https://twitter.com/USAmbChina/status/1770600169962156499
+
+Stable federal preservation: https://commons.wikimedia.org/wiki/File:Ambassador_Burns_with_Xiamen_Mayor_Huang_Wenhui_1.jpg
+
+Use: **high-value location anchor** for Burns's later statement that he deliberately wore his Red Sox hat in the streets of Xiamen. The contemporaneous post establishes the trip; it does not itself identify the hat.
 
 ### April 11, 2024 — Yenching Academy at Peking University
 
@@ -43,6 +65,16 @@ Original status: https://x.com/USAmbChina/status/1789926417859227751
 Burns argued for increasing the number of American students in China and reconnecting academic communities separated during the pandemic.
 
 Use: unusually explicit evidence that educational exchange was part of rebuilding the bilateral relationship itself.
+
+### June 2024 — “America the Beautiful” in Shanghai
+
+Burns used Independence Day programming in Shanghai to describe the country he represented through the beauty of its land, diversity of its people, and enduring democratic ideals.
+
+Original status: https://x.com/USAmbChina/status/1806593655794196934
+
+Stable federal preservation: https://commons.wikimedia.org/wiki/File:Group_photo_-_%27America_the_Beautiful%27_in_Shanghai_2024.jpg
+
+Use: useful comparator for the book's central representational question. Red Sox identity was one recognizable piece of the America Burns carried abroad; this post shows the larger civic vocabulary surrounding it.
 
 ### June 22, 2024 — German member of Red Sox Nation at the Great Wall
 
@@ -78,7 +110,9 @@ Use: one of the clearest primary statements of his exchange philosophy.
 
 Original status: https://x.com/USAmbChina/status/1808094537203830910
 
-Burns framed America abroad through landscape, diversity, individual rights, and freedoms.
+Stable federal preservation: https://commons.wikimedia.org/wiki/File:Ambassador_Burns_stands_behind_podium_next_to_US_flag_on_stage_with_CG_Sara_Yun_facing_crowd.jpg
+
+Burns framed America abroad through landscape, religious/ethnic/racial diversity, individual rights, and freedoms while celebrating with Consul General Sara Yun and guests from Northeast China.
 
 Use: high-value evidence for the book's central representation question: what version of America did Burns choose to present?
 
@@ -122,12 +156,14 @@ Use: late-tenure continuity in the education/exchange strand.
 
 The strongest sequence is:
 
-1. Great Wall Red Sox Nation imagery — preserved, source IDs still incomplete;
-2. Celtics aside among young China scholars — fully source-resolved;
-3. embodied sports participation during provincial travel — fully source-resolved;
-4. Beijing baseball clinic — fully source-resolved and explicit: “Future members of @Redsox Nation.”
+1. a February national television interview later named by Burns as another occasion for wearing the Red Sox hat — interview/date independently verified, hat detail still retrospective;
+2. a March Xiamen trip later named by Burns in the same account — trip fully source-resolved, hat detail still retrospective;
+3. Great Wall Red Sox Nation imagery — contemporaneous federal preservation is explicitly Red Sox-specific, though original status IDs remain incomplete;
+4. Celtics aside among young China scholars — fully source-resolved;
+5. embodied sports participation during provincial travel — fully source-resolved;
+6. Beijing baseball clinic — fully source-resolved and explicit: “Future members of @Redsox Nation.”
 
-That sequence is materially stronger than a generic claim that Burns “liked baseball.” The evidence shows Boston sports identity entering official ambassadorial communication repeatedly and across settings: the Great Wall, academic exchange, provincial travel, and an organized baseball clinic.
+That sequence is materially stronger than a generic claim that Burns “liked baseball.” It shows several **different grades of evidence** converging: documented travel, retrospective first-person explanation, explicitly Red Sox-specific federal image titles, incidental Celtics references, and a direct official-account Red Sox Nation post.
 
 ## Retrospective corroboration, not substitution
 
@@ -137,10 +173,13 @@ Source: https://www.belfercenter.org/research-analysis/lessons-front-lines-us-ch
 
 Use: this is first-person interpretation of the strategy after leaving post. It corroborates the contemporaneous social record but should not replace it.
 
+The place-by-place audit is now isolated in `nicholas-burns-red-sox-hat-location-crosswalk.md`. Its core rule is simple: **a contemporaneous location anchor is not automatically contemporaneous proof of the hat**. The Great Wall currently has the strongest contemporaneous Red Sox-specific preservation evidence; Bund, Xiamen, Chengdu, and *60 Minutes* have varying grades of independent location/event corroboration while the hat detail remains attributed to Burns's later statement unless separately verified.
+
 ## Remaining 2024 work
 
 - Recover the original status IDs and exact captions for both Great Wall Red Sox Nation images.
-- Search for additional Red Sox / baseball / Celtics posts around Xiamen, Chengdu, and the Bund, because Burns's 2025 retrospective specifically says he wore the Red Sox hat in those places.
-- Identify whether the *60 Minutes* appearance generated an official `@USAmbChina` post showing the Red Sox hat.
+- Recover direct Red Sox-specific contemporaneous evidence, if it exists, from the Xiamen trip rather than relying only on Burns's later identification.
+- Visually verify the February 25, 2024 *60 Minutes* footage/stills before describing the Red Sox hat as broadcast-visible fact.
+- Continue the Bund and Chengdu metadata recovery in the crosswalk even though those trips sit partly in the 2023 corpus.
 - Continue separating official-account first-person posts from generic Mission China institutional notices.
 - Preserve exact quotation only where the post text itself is stably recoverable.
