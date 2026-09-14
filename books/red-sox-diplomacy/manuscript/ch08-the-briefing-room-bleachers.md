@@ -10,6 +10,16 @@ Nicholas Burns spent two and a half years at a podium where nearly every sentenc
 
 Then someone would ask about baseball.
 
+The timing matters a little. Burns's spokesman years came just after the 1994 strike had erased the World Series and as Major League Baseball was trying to recover its ordinary place in American life. The game he treated as harmless shorthand had itself just demonstrated that a national ritual could be damaged by a fight over labor, ownership and money.
+
+That history never entered the briefing room jokes explicitly.
+
+It sat behind them.
+
+By 1997, baseball could again feel routine enough to interrupt Bosnia or NATO for thirty seconds and then disappear.
+
+*ARCHIVE NOTE — The 1994 players' strike ended the season and canceled the postseason. MLB's 1995 retrospective records a shortened return season and a substantial attendance drop as fans came back slowly. [1994 postseason history.](https://www.mlb.com/postseason/history/1994) [MLB 1995 year in review.](https://www.mlb.com/news/mlb-1995-year-in-review)*
+
 The shift could happen in a line.
 
 In March 1997 Burns was welcoming visitors when the talk wandered toward team loyalties. He announced the local rules:
