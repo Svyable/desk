@@ -68,6 +68,20 @@ The capability is neutral between tutor and substitute.
 
 The product incentives may not be.
 
+That distinction is no longer hypothetical. In a 2025 field experiment with nearly a thousand high-school math students, [Bastani and colleagues](https://doi.org/10.1073/pnas.2422633122) found that a GPT-4 tool resembling an unrestricted chatbot improved assisted practice grades by 48 percent, yet students later scored 17 percent below control when the AI was removed. A safeguarded tutor built around teacher-designed hints improved assisted practice grades by 127 percent and largely erased that negative unassisted effect. The scope matters: one subject, one age group, particular tools. It is not a universal law of AI and learning.
+
+The opposite result can also be real. In a separate 2025 randomized trial in a Harvard physics course, [Kestin and colleagues](https://doi.org/10.1038/s41598-025-97652-6) found that a deliberately pedagogical AI tutor produced greater learning gains in less time than an in-class active-learning comparison, while students also reported higher engagement and motivation.
+
+Those findings are not contradictory.
+
+They are a warning against treating “AI assistance” as a single treatment.
+
+The interface decides how much of the cognitive sequence the learner still has to perform.
+
+![Conceptual comparison of completion-first and learning-preserving AI-assisted learning loops](../media/ch06-learning-loop.svg)
+
+*The same model capability can create very different developmental environments. A completion-first workflow can deliver a correct artifact while bypassing prediction, retrieval, generation, and error discovery. A learning-preserving workflow delays or shapes assistance so the learner still has to produce evidence about their own model. The diagram is conceptual; the cited experiments are educational studies, not universal effect estimates for knowledge work. Conceptual diagram by the author; evidence anchor: Bastani et al. (2025) and Kestin et al. (2025).*
+
 Users often judge tools by immediate completion. A coding assistant that makes the developer wrestle with an unfamiliar concept before showing code may be educationally excellent and commercially irritating. A writing tool that asks what the author thinks before offering a paragraph creates useful friction and loses a speed benchmark to the tool that instantly generates ten polished options.
 
 Convenience wins local comparisons.
