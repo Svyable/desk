@@ -34,6 +34,18 @@ Stable federal preservation: https://commons.wikimedia.org/wiki/File:Ambassador_
 
 Use: **high-value location anchor** for Burns's later statement that he deliberately wore his Red Sox hat in the streets of Xiamen. The contemporaneous post establishes the trip; it does not itself identify the hat.
 
+### March 21, 2024 — Xiamen organ from Emmanuel Church Boston
+
+A separate preservation from the Xiamen trip retains Burns-attributed text about hearing a pipe organ that had been purchased from `#EmmanuelChurchBoston`. Burns identified Emmanuel as his wife's family church across five generations. The preserved image places Burns with his wife and the musician beside the instrument.
+
+Preservation mirror: https://itoldya420.getarchive.net/media/an-organ-in-amoy-ambassador-stands-with-his-wife-and-the-musician-in-front-e4335b
+
+The preservation dates the item to March 21, 2024 and traces it to Wikimedia Commons, but this pass has not recovered its original `@USAmbChina` status ID.
+
+Use: **high-value Boston/family evidence independent of baseball**. A cultural visit in Xiamen becomes an official/public story about Boston, Libby Burns's family history, music, and a physical object that traveled from a Boston church to South China. This materially supports the book's broader argument that recognizable personal identity remained visible inside diplomatic work.
+
+Control: preserve as a source candidate until the originating status metadata is recovered. Do not represent the mirror URL as the original post.
+
 ### April 11, 2024 — Yenching Academy at Peking University
 
 Original status: https://twitter.com/USAmbChina/status/1778411498894659924
@@ -94,9 +106,13 @@ Wikimedia Commons independently indexes a federal image titled `Ambassador Burns
 
 Stable preservation: https://commons.wikimedia.org/wiki/Category:People_on_the_Great_Wall_of_China
 
-Use: potentially central evidence because it suggests Burns was not merely wearing a Red Sox cap at the Great Wall but explicitly labeling companions as members of Red Sox Nation.
+A separate PICRYL/GetArchive public-domain index reproduces Burns-attributed wording matching the title: `Charter members of @RedSox Nation at the Great Wall of China`.
 
-Control: date, originating status URL, and exact caption beyond the preserved title remain unresolved. Do not quote it as a tweet yet.
+Preservation mirror: https://jenikirbyhistory.getarchive.net/topics/r%2Bnicholas%2Bburns%2Bin%2B2024
+
+Use: potentially central evidence because the preservation does more than show a cap: it records Burns explicitly framing people he encountered as members of Red Sox Nation.
+
+Control: the date and originating status URL remain unresolved. The mirror strengthens the preserved caption record but does not turn the item into a recovered tweet.
 
 ### June 27, 2024 — Fudan and Harvard students in Shanghai
 
@@ -158,12 +174,13 @@ The strongest sequence is:
 
 1. a February national television interview later named by Burns as another occasion for wearing the Red Sox hat — interview/date independently verified, hat detail still retrospective;
 2. a March Xiamen trip later named by Burns in the same account — trip fully source-resolved, hat detail still retrospective;
-3. Great Wall Red Sox Nation imagery — contemporaneous federal preservation is explicitly Red Sox-specific, though original status IDs remain incomplete;
-4. Celtics aside among young China scholars — fully source-resolved;
-5. embodied sports participation during provincial travel — fully source-resolved;
-6. Beijing baseball clinic — fully source-resolved and explicit: “Future members of @Redsox Nation.”
+3. a separate Xiamen item tying a Chinese cultural visit directly to Emmanuel Church Boston and Libby Burns's family history — preserved text/date, originating status still unresolved;
+4. Great Wall Red Sox Nation imagery — contemporaneous federal preservation is explicitly Red Sox-specific, though original status IDs remain incomplete;
+5. Celtics aside among young China scholars — fully source-resolved;
+6. embodied sports participation during provincial travel — fully source-resolved;
+7. Beijing baseball clinic — fully source-resolved and explicit: “Future members of @Redsox Nation.”
 
-That sequence is materially stronger than a generic claim that Burns “liked baseball.” It shows several **different grades of evidence** converging: documented travel, retrospective first-person explanation, explicitly Red Sox-specific federal image titles, incidental Celtics references, and a direct official-account Red Sox Nation post.
+That sequence is materially stronger than a generic claim that Burns “liked baseball.” It shows several **different grades of evidence** converging: documented travel, Boston/family memory, retrospective first-person explanation, explicitly Red Sox-specific federal image titles, incidental Celtics references, and a direct official-account Red Sox Nation post.
 
 ## Retrospective corroboration, not substitution
 
@@ -177,8 +194,8 @@ The place-by-place audit is now isolated in `nicholas-burns-red-sox-hat-location
 
 ## Remaining 2024 work
 
-- Recover the original status IDs and exact captions for both Great Wall Red Sox Nation images.
-- Recover direct Red Sox-specific contemporaneous evidence, if it exists, from the Xiamen trip rather than relying only on Burns's later identification.
+- Recover the original status IDs for both Great Wall Red Sox Nation images; the `Charter members` wording is now independently mirrored, but the post metadata remains unresolved.
+- Recover the original status metadata for the Xiamen Emmanuel Church organ item and any direct Red Sox-specific contemporaneous Xiamen evidence if it exists.
 - Visually verify the February 25, 2024 *60 Minutes* footage/stills before describing the Red Sox hat as broadcast-visible fact.
 - Continue the Bund and Chengdu metadata recovery in the crosswalk even though those trips sit partly in the 2023 corpus.
 - Continue separating official-account first-person posts from generic Mission China institutional notices.
