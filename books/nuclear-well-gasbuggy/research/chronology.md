@@ -1,0 +1,22 @@
+# Chronology
+
+- **1957** — Atomic Energy Commission formally establishes the Plowshare program for peaceful uses of nuclear explosives; the Rainier underground weapons test helps expand confidence in contained underground effects.
+- **December 1961** — Project Gnome is detonated in salt near Carlsbad, New Mexico; Plowshare gains experimental data and an early reminder that underground nuclear engineering includes release pathways.
+- **August 1963** — Limited Test Ban Treaty is signed; underground nuclear explosions remain possible under treaty constraints, reinforcing the importance of containment.
+- **1960s** — AEC, national laboratories, industry and Interior study nuclear stimulation of low-permeability natural-gas reservoirs while conventional hydraulic-fracturing methods also expand.
+- **December 10, 1967** — Project Gasbuggy nuclear explosive is detonated more than 4,000 feet underground in the Pictured Cliffs Formation, New Mexico.
+- **July 1968–October 1969** — Gasbuggy production testing; DOE later summarizes roughly 213 million cubic feet produced in five tests, higher production than nearby conventional wells, radioactive constituents, reduced heat value, and less fracture reach than expected.
+- **September 10, 1969** — Project Rulison, approximately 40 kilotons, is detonated roughly 8,400 feet underground in western Colorado to stimulate tight gas.
+- **1970–April 1971** — Rulison production testing and flaring; radioactive constituents decline but the tested gas does not become commercially marketable.
+- **January 1, 1970** — National Environmental Policy Act takes effect, changing the federal decision environment for subsequent large projects.
+- **1972** — Federal energy outlook models conditional futures containing hundreds of nuclear-stimulated gas wells by 1985, including a 676-well case.
+- **May 17, 1973** — Rio Blanco detonates three roughly 33-kiloton devices in a vertical array in northwestern Colorado; it becomes the final U.S. Plowshare nuclear test.
+- **1974** — Threshold Test Ban Treaty is signed, setting a 150-kiloton threshold for underground nuclear weapon tests while peaceful nuclear explosions remain a separate verification problem.
+- **1968–1974** — Project Wagon Wheel near Pinedale, Wyoming advances through drilling, hydrology and detailed technical study but no nuclear explosive is fired.
+- **May 28, 1976** — United States and Soviet Union sign the Treaty on Underground Nuclear Explosions for Peaceful Purposes, establishing a dedicated arms-control framework for declared PNEs.
+- **Mid-1970s onward** — U.S. Plowshare nuclear-explosion activity ends; gas-stimulation sites transition through decommissioning, plugging, cleanup and long-term surveillance.
+- **December 11, 1990** — Threshold Test Ban Treaty and Peaceful Nuclear Explosions Treaty enter into force after additional verification arrangements.
+- **Late twentieth / early twenty-first century** — Conventional tight-gas and shale development expands through horizontal drilling, massive/multistage hydraulic fracturing and associated oilfield technology rather than nuclear stimulation.
+- **2004** — DOE records completion of major Gasbuggy surface cleanup; long-term stewardship continues.
+- **2009** — DOE reduces Gasbuggy water-monitoring frequency after a long record without detected Gasbuggy-related contamination in monitored locations.
+- **Present stewardship era** — DOE Legacy Management maintains records, monitoring and land/subsurface controls at Gasbuggy, Rulison and Rio Blanco and coordinates with relevant land managers, regulators and stakeholders.
