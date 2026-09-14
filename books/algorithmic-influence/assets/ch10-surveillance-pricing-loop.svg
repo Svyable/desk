@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">The surveillance-pricing loop</title>
+  <desc id="desc">An original diagram showing how observable consumer signals can feed profiling and inference, which can influence prices, promotions, product rankings, or offers, generating new behavior that becomes additional data.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#222"/>
+    </marker>
+    <style>
+      .bg { fill: #fff; }
+      .box { fill: #fff; stroke: #222; stroke-width: 3; rx: 18; }
+      .title { font: 700 38px Georgia, serif; fill: #111; }
+      .label { font: 700 25px Arial, sans-serif; fill: #111; }
+      .body { font: 21px Arial, sans-serif; fill: #222; }
+      .small { font: 18px Arial, sans-serif; fill: #333; }
+      .arrow { fill: none; stroke: #222; stroke-width: 3; marker-end: url(#arrow); }
+      .dash { fill: none; stroke: #555; stroke-width: 2.5; stroke-dasharray: 10 9; marker-end: url(#arrow); }
+    </style>
+  </defs>
+
+  <rect class="bg" width="1200" height="720"/>
+  <text class="title" x="600" y="62" text-anchor="middle">The price can learn from the person looking at it</text>
+
+  <rect class="box" x="55" y="140" width="300" height="320"/>
+  <text class="label" x="205" y="184" text-anchor="middle">Observable signals</text>
+  <text class="body" x="85" y="232">
+    <tspan x="85" dy="0">• location</tspan>
+    <tspan x="85" dy="38">• browsing history</tspan>
+    <tspan x="85" dy="38">• shopping history</tspan>
+    <tspan x="85" dy="38">• demographics</tspan>
+    <tspan x="85" dy="38">• device / channel</tspan>
+    <tspan x="85" dy="38">• clicks, carts, timing</tspan>
+  </text>
+
+  <rect class="box" x="450" y="175" width="300" height="250"/>
+  <text class="label" x="600" y="220" text-anchor="middle">Model / intermediary</text>
+  <text class="body" x="485" y="270">
+    <tspan x="485" dy="0">segments consumers</tspan>
+    <tspan x="485" dy="38">estimates response</tspan>
+    <tspan x="485" dy="38">predicts willingness</tspan>
+    <tspan x="485" dy="38">to buy or compare</tspan>
+  </text>
+
+  <rect class="box" x="845" y="140" width="300" height="320"/>
+  <text class="label" x="995" y="184" text-anchor="middle">What can change</text>
+  <text class="body" x="875" y="232">
+    <tspan x="875" dy="0">• price</tspan>
+    <tspan x="875" dy="38">• discount</tspan>
+    <tspan x="875" dy="38">• promotion</tspan>
+    <tspan x="875" dy="38">• product ranking</tspan>
+    <tspan x="875" dy="38">• product shown</tspan>
+    <tspan x="875" dy="38">• offer timing</tspan>
+  </text>
+
+  <path class="arrow" d="M355 300 C395 300 410 300 450 300"/>
+  <path class="arrow" d="M750 300 C790 300 805 300 845 300"/>
+
+  <rect class="box" x="330" y="535" width="540" height="105"/>
+  <text class="label" x="600" y="576" text-anchor="middle">Behavior becomes the next round of evidence</text>
+  <text class="small" x="600" y="613" text-anchor="middle">buy • refuse • compare • abandon • return • wait • switch</text>
+
+  <path class="dash" d="M995 460 C995 520 930 585 875 585"/>
+  <path class="dash" d="M330 585 C240 585 185 530 185 462"/>
+
+  <text class="small" x="600" y="686" text-anchor="middle">Original diagram by Sven Hardy Benson’s Shelf. Evidence basis: U.S. Federal Trade Commission surveillance-pricing materials, 2024–2026.</text>
+</svg>
