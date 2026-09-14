@@ -30,7 +30,7 @@ Then there was the American bureaucracy.
 
 Keene remembered relations between the Jerusalem consulate and the embassy in Tel Aviv as poor when he arrived: mutual suspicion, clashing cables, different readings of the same landscape. The relationship improved. Liaison mechanisms were built. Jerusalem officers began attending embassy country-team meetings.
 
-This was more than office friction. Embassy Tel Aviv maintained the formal bilateral relationship with Israel. The consulate had its own history, contacts, reporting responsibilities and role with Palestinians and Jerusalem affairs. Two American posts could look at the same territory from different institutional positions because they had been built to see different things.
+Embassy Tel Aviv maintained the formal bilateral relationship with Israel. The consulate had its own history, contacts, reporting responsibilities and role with Palestinians and Jerusalem affairs. Two American posts could look at the same territory from different institutional positions because they had been built to see different things.
 
 The aid portfolio carried the same complication. A clinic, school, water project or small business could improve ordinary life while also raising questions about authority, permanence and control. American assistance moved through nongovernmental channels in part because there was no Palestinian state apparatus through which Washington could run a conventional bilateral development program.
 
@@ -58,8 +58,6 @@ None of that establishes that Burns personally participated in every activity Ke
 
 We know Burns worked with Keene on the aid program. We know his portfolio covered Palestinian economic assistance. We know he later regarded the posting as formative. We do not have a diary of his daily movements, a complete list of Palestinian counterparts or a transcript of the conversations that shaped his judgment.
 
-The negative space should stay visible.
-
 Jerusalem offers unlimited atmosphere to a writer willing to borrow it: stone walls, checkpoints, church bells, calls to prayer, armed patrols, crowded markets. Those images may describe the city. They are not automatically Nicholas Burns's memories.
 
 The safer fact is bureaucratic and still human. He worked an aid program in a place where administration could not be separated neatly from politics. Students needed schools before a final-status agreement. Businesses needed capital. Families needed medical care. American officials needed mechanisms that could function inside an argument they could not settle.
@@ -68,7 +66,7 @@ Burns left Jerusalem in 1987. The First Intifada began later that year.
 
 The timing is a hard boundary. He should not be inserted into events he did not experience in post.
 
-A tour is partial. The officer leaves; the place does not. Contacts remain. Programs continue or fail. Conditions can change almost immediately after departure.
+A tour is partial. The officer leaves; the place does not.
 
 Burns's own description of Jerusalem as seminal is enough. He was there long enough for it to matter to him and not long enough to own the history that followed.
 
