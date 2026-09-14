@@ -10,19 +10,19 @@ Education has always lived with this distinction. A parent can help too much. A 
 
 Generative AI makes the distinction impossible to ignore because assistance can be extraordinarily competent.
 
-In a field experiment involving nearly a thousand high-school mathematics students, researchers led by Hamsa Bastani studied what happened when students had access to GPT-based support during practice. One version provided relatively open access to a model. Another was designed as a more constrained tutor intended to guide students rather than simply supply answers.
+In a field experiment involving nearly a thousand high-school mathematics students, researchers led by Hamsa Bastani studied what happened when students had access to GPT-4-based support during practice. One version resembled a relatively open chatbot. Another used teacher-designed safeguards and hints intended to guide students without simply handing over solutions.
 
-The immediate results were encouraging for assisted performance. Students could solve more problems with AI help.
+The immediate results were encouraging for assisted performance. The open GPT condition improved practice grades by 48 percent relative to control; the safeguarded tutor improved them by 127 percent.
 
 The unassisted results were the important part.
 
-Students who had used the more open GPT interface performed worse than the control group when later tested without AI. The more carefully guardrailed tutor largely avoided that negative effect.
+When the AI was removed for the later exam, students from the open GPT condition scored 17 percent below control. The safeguarded tutor largely eliminated that negative effect.
 
-The experiment should not be inflated into a universal law. It took place in a particular subject, age group, curriculum, time period, and generation of models. Future systems will improve. Students will adapt. Teachers will invent new practices. The result does not show that AI harms learning by nature.
+The experiment should not be inflated into a universal law. It took place in one high school, in mathematics, with particular interfaces and a particular generation of models. The deployment occurred in Fall 2023, and the published paper itself calls for more work on generalizability and long-term outcomes. The result does not show that AI harms learning by nature.
 
 It shows something more useful.
 
-Design matters enough to reverse the learning effect.
+Design matters enough to change the relationship between assisted performance and later independent performance.
 
 The same underlying technological capability can function as scaffold or substitute depending on how it enters the task.
 
@@ -45,6 +45,12 @@ That creates a measurement crisis.
 An essay used to serve two purposes at once. It was a piece of writing and evidence that a student had practiced organizing thought. A homework problem was an answer and evidence that a procedure had been attempted. A take-home project was an artifact and a record of sustained work.
 
 Once a machine can produce the artifact, the artifact becomes weaker evidence about the student.
+
+![Conceptual diagram showing equally strong-looking student artifacts produced through different mixes of independent work and AI assistance, followed by different assessment probes](../media/ch08-artifact-capability-gap.svg)
+
+*Three equally polished submissions can reflect very different underlying capabilities once powerful assistance is available. The artifact still matters, but it cannot by itself tell an assessor whether the student can explain the reasoning, transfer it, reconstruct it without assistance, or use tools to extend it. Different probes answer different questions. Conceptual diagram by the author; not a validated psychometric model. Evidence boundary informed by Bastani et al. (2025), Kestin et al. (2025), OECD (2026), and UNESCO guidance.*
+
+This is increasingly an explicit policy problem, not merely a classroom annoyance. The OECD's July 2026 spotlight on responsible generative-AI adoption in higher education treats assessment, academic integrity, reliability, equity, and the development of student knowledge and skills as system-level concerns, and points to evidence collection and pilot evaluation among emerging policy responses. The useful shift is away from asking whether AI touched an assignment and toward asking what capability the assignment was supposed to measure.
 
 Schools can respond punitively by trying to detect machine use. That may work in narrow settings and fail as models improve. More importantly, it treats the old artifact as sacred rather than asking what evidence of learning should replace it.
 
