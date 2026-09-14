@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="820" viewBox="0 0 1200 820" role="img" aria-labelledby="title desc">
+  <title id="title">The same polished artifact can hide different capabilities</title>
+  <desc id="desc">Conceptual diagram showing three students producing equally strong-looking artifacts through different mixes of independent work and AI assistance. A lower assessment layer shows oral defense, transfer to a neighboring problem, unassisted reconstruction, and tool-assisted extension as different probes that reveal different forms of capability.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#222"/></marker>
+    <style>
+      .box{fill:#fff;stroke:#222;stroke-width:2;rx:14;ry:14}
+      .soft{fill:#f4f4f4;stroke:#222;stroke-width:2;rx:14;ry:14}
+      .dark{fill:#e6e6e6;stroke:#111;stroke-width:3;rx:14;ry:14}
+      .line{stroke:#222;stroke-width:2.5;fill:none;marker-end:url(#arrow)}
+      .head{font-family:Arial,Helvetica,sans-serif;font-size:32px;font-weight:700;fill:#111}
+      .sub{font-family:Arial,Helvetica,sans-serif;font-size:20px;fill:#333}
+      .label{font-family:Arial,Helvetica,sans-serif;font-size:23px;font-weight:700;fill:#111}
+      .body{font-family:Arial,Helvetica,sans-serif;font-size:18px;fill:#222}
+      .small{font-family:Arial,Helvetica,sans-serif;font-size:16px;fill:#444}
+    </style>
+  </defs>
+
+  <text x="600" y="48" text-anchor="middle" class="head">The same polished artifact can hide different capabilities</text>
+  <text x="600" y="80" text-anchor="middle" class="sub">Once assistance can produce the visible product, assessment needs more than the product.</text>
+
+  <text x="70" y="130" class="label">Three paths to an equally strong-looking submission</text>
+
+  <rect x="70" y="160" width="300" height="150" class="soft"/>
+  <text x="220" y="198" text-anchor="middle" class="body">Student A</text>
+  <text x="220" y="231" text-anchor="middle" class="small">forms argument independently</text>
+  <text x="220" y="257" text-anchor="middle" class="small">uses AI for critique + editing</text>
+  <text x="220" y="283" text-anchor="middle" class="small">can reconstruct the reasoning</text>
+
+  <rect x="450" y="160" width="300" height="150" class="soft"/>
+  <text x="600" y="198" text-anchor="middle" class="body">Student B</text>
+  <text x="600" y="231" text-anchor="middle" class="small">co-develops structure with AI</text>
+  <text x="600" y="257" text-anchor="middle" class="small">understands some choices deeply</text>
+  <text x="600" y="283" text-anchor="middle" class="small">others remain borrowed</text>
+
+  <rect x="830" y="160" width="300" height="150" class="soft"/>
+  <text x="980" y="198" text-anchor="middle" class="body">Student C</text>
+  <text x="980" y="231" text-anchor="middle" class="small">requests a finished response</text>
+  <text x="980" y="257" text-anchor="middle" class="small">makes surface edits</text>
+  <text x="980" y="283" text-anchor="middle" class="small">cannot yet rebuild the argument</text>
+
+  <rect x="330" y="355" width="540" height="100" class="dark"/>
+  <text x="600" y="394" text-anchor="middle" class="label">Visible artifact: A-quality essay / correct solution / working project</text>
+  <text x="600" y="425" text-anchor="middle" class="small">Artifact quality alone no longer identifies the path that produced it.</text>
+
+  <path d="M220 310 V335 H470 V355" class="line"/>
+  <path d="M600 310 V355" class="line"/>
+  <path d="M980 310 V335 H730 V355" class="line"/>
+
+  <line x1="70" y1="505" x2="1130" y2="505" stroke="#999" stroke-width="1.5"/>
+  <text x="70" y="548" class="label">Different probes answer different questions</text>
+
+  <rect x="70" y="575" width="245" height="125" class="box"/>
+  <text x="192" y="612" text-anchor="middle" class="body">Oral defense</text>
+  <text x="192" y="642" text-anchor="middle" class="small">Can you explain why?</text>
+  <text x="192" y="668" text-anchor="middle" class="small">Can you answer follow-ups?</text>
+
+  <rect x="342" y="575" width="245" height="125" class="box"/>
+  <text x="465" y="612" text-anchor="middle" class="body">Transfer task</text>
+  <text x="465" y="642" text-anchor="middle" class="small">Can you solve a nearby</text>
+  <text x="465" y="668" text-anchor="middle" class="small">but unfamiliar problem?</text>
+
+  <rect x="614" y="575" width="245" height="125" class="box"/>
+  <text x="737" y="612" text-anchor="middle" class="body">Unassisted reconstruction</text>
+  <text x="737" y="642" text-anchor="middle" class="small">What remains when</text>
+  <text x="737" y="668" text-anchor="middle" class="small">the tool is removed?</text>
+
+  <rect x="886" y="575" width="245" height="125" class="box"/>
+  <text x="1008" y="612" text-anchor="middle" class="body">Tool-assisted extension</text>
+  <text x="1008" y="642" text-anchor="middle" class="small">Can you use leverage to</text>
+  <text x="1008" y="668" text-anchor="middle" class="small">do something harder?</text>
+
+  <path d="M600 455 V535 H192 V575" class="line"/>
+  <path d="M600 455 V535 H465 V575" class="line"/>
+  <path d="M600 455 V535 H737 V575" class="line"/>
+  <path d="M600 455 V535 H1008 V575" class="line"/>
+
+  <text x="600" y="758" text-anchor="middle" class="body">The assessment question is not “Was AI involved?” It is “What capability is this evidence supposed to establish?”</text>
+  <text x="600" y="790" text-anchor="middle" class="small">Conceptual diagram; not a validated psychometric model or a claim that any single probe fully measures competence.</text>
+</svg>
