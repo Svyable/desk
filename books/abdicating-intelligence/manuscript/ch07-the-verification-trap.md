@@ -18,6 +18,10 @@ At that point “human verification” is no longer a universal act. It is an al
 
 That is how mature safety systems actually work. Absolute verification is usually impossible. The goal is to reduce risk in proportion to consequence, detect known failure modes cheaply, preserve escalation paths, and learn from near misses. AI governance should become this concrete.
 
+![Conceptual four-level verification ladder from mechanical validity to challenging the frame](../media/ch07-verification-ladder.svg)
+
+*Verification is not one act. Cheap checks can catch malformed output, broken references, or violated constraints; stronger assurance may require reading the source, reconstructing the reasoning, seeking contrary evidence, or using an independent method capable of disagreeing. Risk-based review decides how far to climb. Conceptual diagram by the author; verification framing informed by NIST AI RMF/TEVV guidance.*
+
 A policy saying “all AI outputs must be reviewed” often means the organization has not calculated the review burden. What percentage can a person meaningfully inspect? Which claims require primary-source validation? Which operations are reversible? What independent signals exist? How is reviewer disagreement handled? How often do apparently low-risk outputs receive random audit? Most importantly, what is the measured error rate after review rather than before it?
 
 Organizations may become very good at measuring model accuracy and remain ignorant about combined-system accuracy. A model with a ten percent error rate plus excellent human review may produce a safer process than a model with a one percent error rate plus complacent review. The relevant metric is what happens after the loop has operated under real incentives and time pressure.
