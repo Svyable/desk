@@ -68,15 +68,18 @@ Use: confirms that the July 4 sports imagery was not baseball-only staging. Bask
 
 ### July 4, 2023 — Red Sox cap image at the same celebration
 
-Wikimedia Commons independently indexes a federal image titled `Ambassador Burns holding Red Sox baseball cap.jpg` in both the Nicholas Burns 2023 corpus and the Independence Day-in-China category. The same category contains the independently source-resolved baseball-pitching and basketball images from the July 4 embassy celebration.
+Wikimedia Commons independently indexes a federal image titled `Ambassador Burns holding Red Sox baseball cap.jpg` in the Nicholas Burns 2023 corpus, the Independence Day-in-China category, and the general 2023 Fourth of July celebration corpus. The same categories contain the independently source-resolved baseball-pitching and basketball images from the Beijing embassy celebration.
 
 Stable category evidence:
 - https://commons.wikimedia.org/wiki/Category:R._Nicholas_Burns_in_2023
 - https://commons.wikimedia.org/wiki/Category:Independence_Day_(United_States)_in_China
+- https://commons.wikimedia.org/wiki/Category:4th_of_July_Celebration,_2023
 
 Use: **high-value preservation evidence for visible Red Sox identity in official-capacity July 4 programming**. The originating `@USAmbChina` status URL and full file-page metadata remain unresolved, so this item is deliberately classified in the source ledger as `primary_source_preservation_candidate`, not `official_social_primary`.
 
 This distinction matters: the image itself is evidence; a tweet caption we have not recovered is not.
+
+Targeted exact-title and `USAmbChina` source searches repeated during the September 2026 provenance pass did not surface the missing status metadata. Preserve that as a negative result rather than filling the gap by inference.
 
 ### 2023 — Chengdu travel preserved in the federal image corpus
 
@@ -99,23 +102,17 @@ Stable preservation: https://commons.wikimedia.org/wiki/File:Ambassador_Nicholas
 
 Use: first-person cultural/travel register outside formal meeting rooms.
 
-### September 9, 2023 — classroom visit in Zhijiang
+### September 9, 2023 — classroom visit and basketball with students in Zhijiang
 
-Burns appeared with students at No. 4 Middle School in Zhijiang Dong Autonomous County.
+Burns appeared with students at No. 4 Middle School in Zhijiang Dong Autonomous County. Wikimedia Commons preserves both the classroom imagery and a separate still of Burns playing basketball with students; the basketball file is published September 9, attributes the image to the U.S. ambassador, and records the exact same original status URL as the classroom visit.
 
 Original status: https://twitter.com/USAmbChina/status/1700476740282524035
 
-Stable preservation: https://commons.wikimedia.org/wiki/File:Ambassador_Burns_with_students_in_classroom.jpg
+Stable preservation:
+- https://commons.wikimedia.org/wiki/File:Ambassador_Burns_with_students_in_classroom.jpg
+- https://commons.wikimedia.org/wiki/File:Ambassador_Burns_playing_basketball_with_students_at_Zhijiang_No.4_Middle_School.jpg
 
-Use: provincial travel and youth engagement.
-
-### September 2023 — basketball with students in Zhijiang
-
-The same preserved Zhijiang visit includes Burns playing basketball with students; Commons indexes both still images and a short federal-government video in the county's category.
-
-Stable category preservation: https://commons.wikimedia.org/wiki/Category:Zhijiang_Dong_Autonomous_County
-
-Use: supporting visual evidence that the sports/public-engagement pattern continued during provincial school visits. Recover the exact originating status URL before promoting this as a separate canonical social row.
+Use: this is now **source-resolved evidence of sports participation inside a documented provincial school engagement**, not merely contextual imagery. It strengthens the pattern of Burns joining ordinary activity rather than standing outside it.
 
 ### September 2023 — walking the Bund with Consul General Scott Walker
 
@@ -178,7 +175,6 @@ The same year also supplies geographic corroboration for the later Red Sox-hat a
 ## Remaining 2023 work
 
 - Recover the full file-page metadata and originating status URL for `Ambassador Burns holding Red Sox baseball cap.jpg`.
-- Recover the exact originating status URL for the Zhijiang basketball-with-students imagery/video.
 - Recover the source metadata for `Ambassador Burns with CG Scott Walker along the Bund.jpg` and `Ambassador Burns by the Funan River in Chengdu.jpg`.
 - Inspect the remaining 2023 Commons corpus for first-person sports/cultural posts, especially Pride, Pearl Buck home, Nanjing historical sites, and American Ballet Theatre.
 - Avoid promoting routine bilateral meeting photographs unless the post text materially contributes to the representation thesis.
