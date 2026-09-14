@@ -109,3 +109,43 @@ AI will make that boundary harder to see because it can continue speaking smooth
 A human expert often reveals the edge by becoming uncomfortable: “That’s not really my field.” The machine needs an engineered equivalent of intellectual embarrassment.
 
 Without it, we risk creating a universal consultant whose greatest credential is that it never has to admit it went to the wrong school.
+
+The history of complex systems suggests one additional discipline: protect the dissenter before you know whether the dissenter is right.
+
+Organizations are usually very good at celebrating dissent after disaster. The dissenting engineer becomes the person everyone wishes management had listened to. The skeptical physician becomes evidence that the warning signs were visible. The analyst who challenged the consensus acquires retrospective glamour. Before the outcome is known, the same person often looks obstructive, anxious, disloyal, or simply slower than the process can tolerate.
+
+This is why expertise is not only a property of individuals. It is a property of institutions that decide what happens to inconvenient expertise.
+
+The Challenger disaster is remembered partly through this lens. Engineers at Morton Thiokol had serious concerns about O-ring performance in unusually cold conditions before the launch. The accident cannot be reduced to one ignored sentence or one villain; NASA and contractor decision-making had accumulated organizational pressures, assumptions, and normalization over time. What remains important is that technical knowledge existed inside a system whose decision process did not convert that knowledge into a stop.
+
+The case matters for AI because a model can change the social cost of dissent. Suppose an engineer says a launch is unsafe and the approved decision-support system says risk is acceptable. The engineer is no longer arguing only against management. She is arguing against a quantified institutional artifact that may encode years of data, thousands of tests, and a documented validation process. Her objection can look anecdotal beside the system's confidence.
+
+Sometimes the system should win that argument. The point is not to canonize intuition. The point is to preserve a procedure in which the human can force a serious reconsideration without first proving, from outside the system, that the system is wrong.
+
+Medicine has a similar structure in the second opinion. We do not offer second opinions because truth is relative. We offer them because diagnosis is difficult, evidence can be ambiguous, professionals differ, and the cost of some errors justifies another independent look. A second opinion is an institutionalized admission that expertise can be real without being final.
+
+Machine-assisted professions need the same idea but with genuine independence. Two prompts to the same model are not two opinions. Two wrappers around the same foundation model may not be meaningfully independent either. A hospital that wants resilient diagnostic review may need diversity of models, data, methods, and human expertise rather than merely two screens.
+
+This is where benchmark culture can mislead. A benchmark asks a bounded question: how often did the system get this test set right? Institutional authority asks a larger one: under what conditions should this system be allowed to shape decisions, how will its errors be discovered, and what happens when its confidence conflicts with local knowledge?
+
+The best benchmark in the world cannot answer the governance question because the governance question includes values the benchmark was never designed to measure.
+
+Calibration is a better metaphor than omniscience. A calibrated forecaster does not merely produce correct answers; confidence tracks reliability over many cases. The idea is humble and powerful. It says uncertainty is information. A system that knows when it is likely to be wrong is more useful than one that performs the same on average while sounding equally certain everywhere.
+
+Humans are badly calibrated too. Experts can be overconfident. Novices can mistake confidence for competence. Institutions can suppress uncertainty because decision makers dislike hearing “it depends.” AI gives us an opportunity to do better if we resist the commercial temptation to equate smoothness with usefulness.
+
+A good machine expert should sometimes make the user feel less certain than before the question.
+
+That sounds like failure only if the purpose of expertise is reassurance.
+
+The real purpose is better contact with reality.
+
+There is also a political reason to preserve visible disagreement. Public trust is damaged when institutions pretend uncertainty never existed and then reverse themselves. People experience revision as evidence of incompetence or deception because the earlier uncertainty was hidden. A healthier expert culture shows the range from the beginning: what is known, what is inferred, what is disputed, what decision must nevertheless be made.
+
+Models can help with this. They can generate the strongest counterargument, surface minority evidence, compare assumptions, and make uncertainty legible. Used that way, AI could strengthen expert institutions by making their internal contestability available to more people.
+
+The paradox is that the same technology can do the opposite. It can synthesize disagreement so smoothly that the debate vanishes from view.
+
+Whether AI becomes an engine of epistemic pluralism or a machine for producing the one official answer will be partly a design choice and partly an institutional choice. The model is capable of both.
+
+The expert problem will not be solved by choosing between experts and machines. It will be solved, if at all, by refusing to let either competence become a synonym for sovereignty.
