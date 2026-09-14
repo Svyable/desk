@@ -1,49 +1,96 @@
 # The New Literacy
 
-Every important information technology eventually creates people who know how to use it and people who know how to live with what it changes. Those are not the same skill.
+Every important information technology creates two kinds of competence: knowing how to use the tool, and knowing what the tool is doing to the world around you.
 
-Early computer literacy meant knowing how to operate a machine. Later it meant understanding files, networks, privacy, search, security, and the social conventions that grew around digital life. Media literacy became more than the ability to turn on a television. Statistical literacy became more than entering numbers into software.
+Those are not the same skill.
 
-AI literacy will outgrow prompting quickly. Prompting matters today because users need to communicate intent to systems that remain unusually sensitive to wording, context, examples, and constraints. Interfaces will improve. Agents will infer more. Models will ask better questions. Prompt technique will become less like programming and more like ordinary conversation.
+Early computer literacy meant operating a machine. Then it meant files, networks, privacy, search, security, and the strange social weather of digital life. Media literacy became more than turning on a television. Statistical literacy became more than entering numbers into software.
 
-The durable literacy lies underneath: what kind of claim is the system making, where did it come from, how much should it be trusted here, what would change the conclusion, and what objective is being served? A user also needs to know when the answer has moved beyond their own ability to verify. These questions sound advanced because most information tools did not require ordinary users to think about epistemology during daily work. Generative systems will.
+AI literacy will outgrow prompting just as quickly.
 
-For centuries, literate people have learned, imperfectly, to ask who wrote something, when, for what audience, and using what evidence. The Web complicated the process but did not abolish it. AI adds another layer between source and reader. A user may receive a sentence assembled from patterns across many documents rather than copied from one identifiable document. Retrieval can improve traceability by grounding an answer in specific sources, but a citation still does not prove that the source supports the claim made.
+Prompting matters now because systems remain unusually sensitive to wording, context, examples, and constraints. Interfaces will improve. Agents will infer more. Models will ask better questions. Prompt technique will drift from something resembling programming toward ordinary conversation.
 
-*Mata v. Avianca* demonstrated the cartoon version: the sources did not exist. More mature failures are subtler. The source exists but says something narrower. The date is stale. A correlation becomes a cause. A guideline is applied outside the population it addresses. A quotation is accurate but the surrounding context changes its meaning. The habit worth preserving is not universal suspicion. It is following the chain when consequence justifies it.
+The durable literacy sits underneath: What kind of claim is this? Where did it come from? How much should I trust it *here*? What would change the conclusion? What objective is being served? And has the answer moved beyond my own ability to check it?
 
-Uncertainty needs the same practical treatment. “The model might be wrong” is true and nearly useless. The useful question is what is uncertain. Are the facts missing? Is the causal relationship disputed? Is the future simply unknowable? Are the user's values doing work that the answer presents as technical? Is a rule clear while its applicability is not?
+These sound like philosophy-seminar questions. Increasingly they are Tuesday-afternoon questions.
 
-Different uncertainty calls for different action. Missing facts may require retrieval. A fragile prediction may need another method or a reversible decision. Value disagreement needs governance, not another confidence score. Several plausible explanations may call for evidence that would distinguish them. A strong system can make those distinctions visible without turning every answer into a hedge-filled disclaimer.
+For centuries, literate people have learned, imperfectly, to ask who wrote something, when, for whom, and from what evidence. The Web complicated that chain without abolishing it. AI inserts another layer. A sentence may arrive assembled from patterns across many documents rather than copied from one identifiable source. Retrieval can restore some traceability, but a citation is only a door. You still have to check what is behind it.
 
-Trust also has to become local. Users are offered broad labels such as advanced model, professional assistant, or research mode when what they need is a feel for performance on this task under these conditions. A system can be excellent at summarizing familiar documents and weak at extracting a precise number from a complex table, strong at common programming languages and fragile in an obscure library, useful for symptom education and inappropriate as a substitute for clinical diagnosis.
+*Mata v. Avianca* gave us the cartoon failure: the cited cases did not exist. Mature failures are less obliging. The source exists but says something narrower. The date is stale. Correlation becomes cause somewhere between retrieval and prose. A guideline wanders outside the population it covers. A quotation is accurate while its surrounding paragraph points the other way.
 
-Calibration comes from feedback. Users should see when systems are corrected. Organizations should measure errors by task type. Professionals can compare assisted decisions with outcomes. Global trust and global distrust both avoid the harder work of learning where a system deserves reliance.
+The useful habit is not suspicion. It is knowing when consequence justifies following the chain.
 
-The same is true of objectives. A capable system can execute the wrong objective brilliantly. A recommendation engine may optimize engagement rather than welfare. A writing assistant may optimize clarity while sanding away originality. A scheduling agent may optimize calendar efficiency and erase the inefficient lunch that is keeping a friendship alive. A business model may maximize expected revenue while ignoring a fairness constraint the organization actually cares about.
+Uncertainty deserves the same treatment. “The model might be wrong” is true in roughly the way “cars can crash” is true. It tells you almost nothing about what to do next.
 
-The user does not need an optimization lecture before every interaction. They do need the habit of noticing when means have quietly become ends.
+Ask what is uncertain. Are facts missing? Is the causal relationship disputed? Is the future simply unknowable? Are the user's values doing work that the answer has dressed up as technique? Is the rule clear while its applicability is not?
 
-Independence matters when error is consequential, hard to reverse, or likely to be correlated. A second prompt to the same model is not the same as a second method. Another model from the same ecosystem may add useful diversity, but a primary measurement, a source record, or an expert working from different evidence can disagree for reasons that matter. Users do not need to become reliability engineers. They need a feel for when agreement is cheap.
+Different uncertainty demands different action. Missing facts may require retrieval. A fragile prediction may call for another method or a reversible decision. Value disagreement needs governance, not another confidence score. Competing explanations need evidence capable of separating them. A good system can expose these differences without coating every sentence in disclaimer paste.
 
-AI literacy also includes knowing which activity you are engaged in. Completing a task and becoming more capable are different goals. If completion is the point, use the system fully. If learning matters, the sequence should change: attempt before revealing, ask for a hint, retrieve from memory, explain the result back, or test a neighboring problem later. This is not only school advice. Work will become one of the largest AI learning environments, and a professional can produce excellent assisted output for years while their independent capability becomes difficult to see.
+Trust has to become local too.
 
-As systems begin to act, literacy extends from belief into authority. “Handle it” is not a meaningful permission boundary by itself. What can the system spend? Who can it contact? Which promises can it make? Which data can it disclose? What can be reversed? What requires interruption? People should not have to imagine every possible action in advance, but the boundary around an agent's authority should be understandable before the agent crosses it.
+Users are offered broad labels—advanced model, professional assistant, research mode—when what they need is a feel for performance on *this task under these conditions*. A system can be excellent at summarizing familiar documents and poor at extracting one number from a hostile table. It can be strong in common programming languages and brittle around an obscure library. It can be useful for symptom education and the wrong instrument for diagnosis.
 
-Then there is the social layer, where correctness is not enough.
+Calibration comes from contact with error. Users should see corrections. Organizations should measure failures by task type. Professionals can compare assisted decisions with outcomes. Global trust and global distrust are both shortcuts around the harder work of learning where reliance belongs.
 
-A generated message can be factually perfect and socially destructive. An assistant can help someone rehearse a conflict or let them avoid the vulnerable act of speaking in their own imperfect words. A manager can use AI to personalize feedback or build a polished wall between themselves and employees. Not every piece of generated language needs disclosure; nobody cares whether software helped format a routine reminder. But assistance changes the meaning of an act when the recipient reasonably reads effort, attention, or personal authorship as part of the message. A condolence is not only information. An apology is not only syntax. A recommendation letter is partly testimony about a relationship.
+Objectives are just as local. A capable system can execute the wrong one beautifully. A recommendation engine can optimize engagement rather than welfare. A writing assistant can optimize clarity until the prose has been sanded smooth enough to belong to nobody. A scheduling agent can optimize calendar efficiency and delete the inefficient lunch keeping a friendship alive. A business model can maximize expected revenue while stepping over a fairness constraint the organization actually cares about.
 
-No school curriculum can settle all of this permanently because the products will keep changing. That is why the literacy has to be conceptual rather than brand-specific. Students should learn with real systems while learning to ask durable questions about source, uncertainty, objectives, consequence, independence, learning, agency, and social meaning. Professionals need versions fitted to their domains: doctors to clinical evidence and responsibility, lawyers to sources and authority, engineers to system failure, managers to incentives and delegation, citizens to public records and personalized explanation.
+Nobody needs an optimization lecture before opening a calendar. They do need to notice when the means have quietly promoted themselves to ends.
 
-The point is not critique for its own sake. Mature literacy lets people rely on a medium without becoming naive about it. A literate reader can love books and know books can lie. A statistically literate person can value data and know measurement can mislead. An AI-literate person should be able to rely deeply on machine intelligence without treating reliance as surrender.
+Independence matters when error is consequential, difficult to reverse, or likely to be correlated. A second prompt to the same model is not a second method. Another model may add useful diversity, but a primary measurement, source record, or expert working from different evidence can disagree for reasons that matter.
 
-Permanent vigilance would defeat the purpose. Most interactions should remain easy. We do not perform a source-analysis ritual every time we read a menu. Scrutiny wakes when stakes rise or something feels wrong.
+You do not need to become a reliability engineer. You need a feel for when agreement is cheap.
 
-That last phrase matters. Feeling that something is wrong depends on having expectations. If users never build enough domain knowledge to possess a rough model, no literacy checklist can save them. They may know in theory that the machine can err while having no basis for noticing the error.
+AI literacy also means knowing what game you are playing. Completing a task and becoming more capable are different goals.
 
-This is why the new literacy cannot replace old knowledge. There will be a fashionable temptation to say that because AI can retrieve facts, education should teach only “critical thinking.” Critical thinking without something to think about is empty. People reason with concepts, examples, causal models, vocabulary, and remembered patterns. A person who knows nothing about biology cannot critically evaluate a medical claim through skepticism alone. Someone with no history cannot notice a chronology that makes no sense. Someone with no statistics cannot interrogate a confident percentage.
+If completion is the point, use the machine. If learning is the point, change the sequence: attempt before reveal; ask for a hint; retrieve from memory; explain the result back; test a neighboring problem tomorrow. This is not school advice dressed up for adults. Work is becoming one of the largest AI learning environments on Earth. A professional can produce excellent assisted output for years while their independent capability becomes strangely hard to locate.
 
-The machine can teach a missing prerequisite in the moment, and that is valuable. The user still needs enough structure to know when a prerequisite is missing.
+As systems begin to act, literacy crosses from belief into authority.
 
-AI literacy is old literacy expanded to a world where answers themselves are automated. It asks us to notice who or what knows, how the claim was produced, what would prove it wrong, and when the answer is sufficient. The skill is not winning a trivia contest against the machine. It is knowing when to accept the leverage and when to look underneath it, because knowledge remains useful only when somebody can still decide what it is for.
+“Handle it” is not a permission boundary.
+
+What can the agent spend? Who can it contact? Which promises can it make? Which data can it disclose? What can be reversed? What requires interruption? Nobody can enumerate every future action, but the perimeter of an agent's authority should be understandable before the agent discovers it by crossing it.
+
+Then comes the social layer, where correctness is not enough.
+
+A generated message can be factually perfect and socially ruinous. An assistant can help someone rehearse a conflict or help them avoid the vulnerable act of speaking in their own imperfect words. A manager can use AI to personalize feedback or build a polished wall between themselves and employees.
+
+Not every use of generated language needs disclosure. Nobody cares whether software helped format a routine reminder. Assistance matters when the recipient reasonably reads effort, attention, or personal authorship as part of the act. A condolence is not only information. An apology is not only syntax. A recommendation letter is partly testimony about a relationship.
+
+No curriculum can freeze this into a permanent checklist. The products will change too quickly. The literacy therefore has to be conceptual rather than brand-specific.
+
+A useful core is small enough to remember:
+
+1. **Source:** What is this answer standing on?
+2. **Uncertainty:** What, specifically, is not known?
+3. **Objective:** What is the system actually optimizing?
+4. **Consequence:** What happens if this is wrong?
+5. **Independence:** Is the second opinion genuinely independent?
+6. **Learning:** Am I finishing the task or building capability?
+7. **Authority:** What is the system allowed to do?
+8. **Social meaning:** What human signal changes when the machine speaks for me?
+
+The domain changes the weight of each question. Doctors need clinical evidence and responsibility. Lawyers need sources and authority. Engineers need failure modes. Managers need incentives and delegation. Citizens need public records and ways back from personalized explanation to shared evidence.
+
+The point is not critique for its own sake. Mature literacy lets people rely on a medium without becoming naive about it. A literate reader can love books and know books can lie. A statistically literate person can value data and know measurement can mislead. An AI-literate person should be able to rely deeply on machine intelligence without mistaking reliance for surrender.
+
+Permanent vigilance would defeat the purpose. Most interactions should be easy. We do not conduct source analysis over a restaurant menu. Scrutiny wakes when stakes rise or something feels wrong.
+
+That last condition is more important than it sounds.
+
+Feeling that something is wrong requires expectations. If users never build enough domain knowledge to possess even a rough model, no literacy checklist can rescue them. They can know abstractly that the machine makes mistakes while having no basis for recognizing one.
+
+This is why the new literacy cannot replace old knowledge.
+
+There will be a fashionable temptation to say that because AI can retrieve facts, education should teach only “critical thinking.” But critical thinking without something to think *with* is empty. People reason with concepts, examples, causal models, vocabulary, remembered patterns, and the occasional fact that refuses to fit.
+
+A person who knows nothing about biology cannot interrogate a medical claim through skepticism alone. Someone with no history cannot feel a chronology snap. Someone with no statistics cannot tell when a confident percentage is wearing a costume.
+
+The machine can teach a missing prerequisite in the moment. That is valuable.
+
+The user still needs enough structure to notice that something is missing.
+
+AI literacy is old literacy expanded to a world where answers themselves are automated. It asks who or what knows, how the claim was produced, what would prove it wrong, what the system is permitted to do, and when the answer is sufficient.
+
+The skill is not beating the machine at trivia.
+
+It is knowing when to take the leverage—and when to lift the hood.
