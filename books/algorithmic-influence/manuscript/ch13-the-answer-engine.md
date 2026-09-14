@@ -46,6 +46,10 @@ For algorithmic influence, the important point is simpler.
 
 The producer's optimization target changes when the intermediary can complete the user's task.
 
+![Flow diagram showing publisher content moving through access, retrieval and synthesis to a reader surface, with separate citation/referral and no-visit paths.](../assets/ch13-answer-engine-reader-relationship.svg)
+
+*An answer engine can separate source access, source use, citation, and referral. Citations and links can return attention to the publisher, while some reader needs can be completed on the intermediary surface without a site visit. Access controls, licensing, training controls, citation, and referral are related—but they are not interchangeable.*
+
 A publisher once asked: how do I rank for this query?
 
 Now the publisher may ask: how do I become a source the answer engine retrieves, trusts, cites, or incorporates?
@@ -211,6 +215,8 @@ The machine audience becomes more important while becoming less observable.
 That will generate folk physics again.
 
 Companies will monitor which assistants mention them. Vendors will sell “AI visibility” dashboards. Consultants will test prompts. Marketers will compare citation frequency. Publishers will infer which pages appear to influence answers. Some of this work will be useful measurement. Some will confuse unstable samples with universal behavior.
+
+By 2026, part of that forecast had already become ordinary analytics. Google Search Console rolled out dedicated reporting for visibility in generative-AI search features, letting site owners inspect impressions and the pages surfaced inside those experiences. Visibility had become measurable even when citation, referral, and conversion remained separate questions.
 
 Prompt-based audits face a special problem: generative systems can vary outputs across time, user context, model version, retrieval state, and wording. A brand appearing in seven of ten test prompts is evidence about those tests, not a permanent share of machine mind.
 
