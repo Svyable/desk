@@ -6,8 +6,8 @@ Historical addenda 02-15 are already absorbed and are therefore provenance
 only. This script merges addenda 16 through the highest numbered addendum
 present, normalizes stable URLs for duplicate comparison, preserves the
 earliest source record, uses a later duplicate's materially fuller book_use
-description when useful, and finally reassigns canonical rsd-### IDs in stable
-corpus order.
+description when useful, applies explicit audited text corrections, and
+finally reassigns canonical rsd-### IDs in stable corpus order.
 
 Run from the repository root:
 
@@ -51,6 +51,12 @@ TRACKING_PREFIXES = ("utm_",)
 BASELINE_ROWS = 185
 BASELINE_FILE = "source-ledger-baseline.csv"
 ADDENDUM_START = 16
+BOOK_USE_CORRECTIONS = {
+    "https://transcripts.cnn.com/show/cst/date/2004-08-07/segment/04": (
+        "Chuck Samiotis",
+        "Chuck Samiotes",
+    ),
+}
 
 
 @dataclass
@@ -186,6 +192,20 @@ def merge(rows: list[SourceRow]) -> tuple[list[SourceRow], list[DuplicateDecisio
     return canonical, decisions
 
 
+def apply_audited_corrections(rows: list[SourceRow]) -> int:
+    """Apply narrow literal fixes without mutating the preserved baseline file."""
+    corrections = 0
+    for row in rows:
+        replacement = BOOK_USE_CORRECTIONS.get(normalize_url(row.url))
+        if replacement is None:
+            continue
+        old, new = replacement
+        if old in row.book_use:
+            row.book_use = row.book_use.replace(old, new)
+            corrections += 1
+    return corrections
+
+
 def render_csv(rows: list[SourceRow]) -> str:
     buffer = io.StringIO(newline="")
     writer = csv.DictWriter(buffer, fieldnames=FIELDS, lineterminator="\n")
@@ -251,6 +271,7 @@ def main() -> int:
         staged.extend(load_csv(path))
 
     merged, duplicates = merge(baseline + staged)
+    audited_corrections = apply_audited_corrections(merged)
     validate(merged)
 
     report = {
@@ -261,6 +282,7 @@ def main() -> int:
         "canonical_rows": len(merged),
         "highest_addendum": staged_paths[-1].name,
         "book_use_upgrades": sum(d.book_use_upgraded for d in duplicates),
+        "audited_text_corrections": audited_corrections,
         "duplicates": [asdict(decision) for decision in duplicates],
     }
 
