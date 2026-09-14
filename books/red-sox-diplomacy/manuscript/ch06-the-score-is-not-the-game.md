@@ -86,8 +86,6 @@ The other calendar had a hole in it.
 
 *ARCHIVE NOTE — Major League Baseball's 1994 season stopped after play on August 11 when the players' strike began; the remainder of the season and postseason were canceled, leaving 1994 without a World Series. [MLB postseason history.](https://www.mlb.com/postseason/history/1994) [1994 standings.](https://www.mlb.com/standings/mlb/1994)*
 
-The title's baseball language should not carry more than that.
-
 A score is clean. A game is not.
 
 By 1994 the Soviet flag was gone and the Baltic states were free. If visible outcomes were enough, the story would have been finished.
