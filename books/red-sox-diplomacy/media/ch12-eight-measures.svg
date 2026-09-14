@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 980" role="img" aria-labelledby="title desc">
+  <title id="title">NATO's eight October 4, 2001 support measures</title>
+  <desc id="desc">A documentary implementation object summarizing the eight NATO measures supporting the United States after the Article 5 determination.</desc>
+  <defs><linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f5f0e6"/><stop offset="1" stop-color="#e8dfd0"/></linearGradient></defs>
+  <rect width="1400" height="980" fill="#161310"/>
+  <rect x="54" y="46" width="1292" height="888" rx="8" fill="url(#paper)"/>
+  <text x="104" y="106" font-family="Georgia, 'Times New Roman', serif" font-size="25" letter-spacing="5" fill="#6c6258">IMPLEMENTATION PACKAGE 01 · 4 OCTOBER 2001</text>
+  <line x1="104" y1="136" x2="1296" y2="136" stroke="#bd3039" stroke-width="3"/>
+  <text x="104" y="196" font-family="Georgia, 'Times New Roman', serif" font-size="42" fill="#171411">Article 5 becomes infrastructure.</text>
+  <text x="104" y="236" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#62594f">Eight NATO measures requested by the United States</text>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="104" y="290" width="575" height="112" rx="6" fill="#efe7da" stroke="#cbbfaf"/>
+    <text x="132" y="326" font-size="17" font-weight="700" letter-spacing="2" fill="#0c2340">01 · INTELLIGENCE</text>
+    <text x="132" y="362" font-size="20" fill="#443d36">Increase intelligence-sharing and counterterrorism cooperation.</text>
+
+    <rect x="717" y="290" width="579" height="112" rx="6" fill="#efe7da" stroke="#cbbfaf"/>
+    <text x="745" y="326" font-size="17" font-weight="700" letter-spacing="2" fill="#bd3039">02 · THREAT SUPPORT</text>
+    <text x="745" y="362" font-size="20" fill="#443d36">Assist allies or partners facing greater terrorist threat because they help the campaign.</text>
+
+    <rect x="104" y="426" width="575" height="112" rx="6" fill="#efe7da" stroke="#cbbfaf"/>
+    <text x="132" y="462" font-size="17" font-weight="700" letter-spacing="2" fill="#0c2340">03 · FACILITY SECURITY</text>
+    <text x="132" y="498" font-size="20" fill="#443d36">Increase protection for U.S. and allied facilities on member territory.</text>
+
+    <rect x="717" y="426" width="579" height="112" rx="6" fill="#efe7da" stroke="#cbbfaf"/>
+    <text x="745" y="462" font-size="17" font-weight="700" letter-spacing="2" fill="#bd3039">04 · BACKFILL</text>
+    <text x="745" y="498" font-size="20" fill="#443d36">Cover selected NATO assets needed elsewhere for counterterrorism operations.</text>
+
+    <rect x="104" y="562" width="575" height="112" rx="6" fill="#efe7da" stroke="#cbbfaf"/>
+    <text x="132" y="598" font-size="17" font-weight="700" letter-spacing="2" fill="#0c2340">05 · OVERFLIGHT</text>
+    <text x="132" y="634" font-size="20" fill="#443d36">Provide blanket military overflight clearances, subject to national procedures.</text>
+
+    <rect x="717" y="562" width="579" height="112" rx="6" fill="#efe7da" stroke="#cbbfaf"/>
+    <text x="745" y="598" font-size="17" font-weight="700" letter-spacing="2" fill="#bd3039">06 · PORTS + AIRFIELDS</text>
+    <text x="745" y="634" font-size="20" fill="#443d36">Provide access for relevant counterterrorism operations and refuelling.</text>
+
+    <rect x="104" y="698" width="575" height="112" rx="6" fill="#0c2340"/>
+    <text x="132" y="734" font-size="17" font-weight="700" letter-spacing="2" fill="#f3eee3">07 · NAVAL PRESENCE</text>
+    <text x="132" y="770" font-size="20" fill="#f3eee3">Make standing naval forces available in the Eastern Mediterranean.</text>
+
+    <rect x="717" y="698" width="579" height="112" rx="6" fill="#0c2340"/>
+    <text x="745" y="734" font-size="17" font-weight="700" letter-spacing="2" fill="#f3eee3">08 · AIRBORNE WARNING</text>
+    <text x="745" y="770" font-size="20" fill="#f3eee3">Make NATO airborne early-warning assets available to support operations.</text>
+  </g>
+
+  <rect x="104" y="842" width="1192" height="46" rx="4" fill="#ece3d5" stroke="#cbbfaf"/>
+  <text x="132" y="871" font-family="Georgia, 'Times New Roman', serif" font-size="19" font-style="italic" fill="#4b433b">The package did not require every ally to perform the same act; Article 5 organized different capabilities into shared assistance.</text>
+  <text x="1296" y="914" text-anchor="end" font-family="'Courier New', monospace" font-size="16" fill="#82776c">RSD / CH12 / 2001-10-04 / I01</text>
+</svg>

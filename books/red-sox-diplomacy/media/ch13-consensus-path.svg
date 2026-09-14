@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 940" role="img" aria-labelledby="title desc">
+  <title id="title">NATO consensus path in the 2003 Turkey-defense dispute</title>
+  <desc id="desc">A procedural sequence from silence procedure objection through Turkey's Article 4 consultations to Defence Planning Committee consensus and Operation Display Deterrence.</desc>
+  <defs><linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f4efe5"/><stop offset="1" stop-color="#e8dfd1"/></linearGradient></defs>
+  <rect width="1400" height="940" fill="#161310"/>
+  <rect x="54" y="46" width="1292" height="848" rx="8" fill="url(#paper)"/>
+  <text x="104" y="106" font-family="Georgia, 'Times New Roman', serif" font-size="25" letter-spacing="5" fill="#6c6258">CONSENSUS PATH 01 · FEBRUARY 2003</text>
+  <line x1="104" y1="136" x2="1296" y2="136" stroke="#bd3039" stroke-width="3"/>
+  <text x="104" y="196" font-family="Georgia, 'Times New Roman', serif" font-size="42" fill="#171411">Consensus failed. Negotiation did not stop.</text>
+
+  <line x1="224" y1="280" x2="224" y2="750" stroke="#0c2340" stroke-width="3" opacity="0.55"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <circle cx="224" cy="306" r="11" fill="#bd3039"/>
+    <text x="266" y="299" font-size="18" font-weight="700" letter-spacing="2" fill="#bd3039">6 FEB · SILENCE PROCEDURE</text>
+    <text x="266" y="332" font-size="20" fill="#443d36">France, Germany and Belgium object to the proposed planning package.</text>
+
+    <circle cx="224" cy="404" r="11" fill="#7a6855"/>
+    <text x="266" y="397" font-size="18" font-weight="700" letter-spacing="2" fill="#7a6855">10 FEB · ARTICLE 4</text>
+    <text x="266" y="430" font-size="20" fill="#443d36">Turkey formally requests consultations over threats arising from a possible Iraq war.</text>
+
+    <circle cx="224" cy="502" r="11" fill="#bd3039"/>
+    <text x="266" y="495" font-size="18" font-weight="700" letter-spacing="2" fill="#bd3039">NORTH ATLANTIC COUNCIL</text>
+    <text x="266" y="528" font-size="20" fill="#443d36">Repeated meetings still fail to produce consensus among all nineteen allies.</text>
+
+    <circle cx="224" cy="600" r="11" fill="#0c2340"/>
+    <text x="266" y="593" font-size="18" font-weight="700" letter-spacing="2" fill="#0c2340">16 FEB · DEFENCE PLANNING COMMITTEE</text>
+    <text x="266" y="626" font-size="20" fill="#443d36">With all members' concurrence, the matter moves to the pre-existing DPC.</text>
+    <text x="266" y="653" font-size="16" fill="#71675d">France does not sit there because it is outside NATO's integrated military structure.</text>
+
+    <circle cx="224" cy="710" r="11" fill="#5e6b62"/>
+    <text x="266" y="703" font-size="18" font-weight="700" letter-spacing="2" fill="#5e6b62">19 FEB · OPERATION DISPLAY DETERRENCE</text>
+    <text x="266" y="736" font-size="20" fill="#443d36">Germany and Belgium join consensus; urgent defensive measures for Turkey are authorized.</text>
+  </g>
+
+  <rect x="850" y="290" width="420" height="335" rx="7" fill="#0c2340" opacity="0.95"/>
+  <text x="882" y="334" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="2.3" fill="#f3eee3">WHAT CONSENSUS MEANS HERE</text>
+  <text x="882" y="385" font-family="Georgia, 'Times New Roman', serif" font-size="24" fill="#f3eee3">No majority simply defeats</text>
+  <text x="882" y="417" font-family="Georgia, 'Times New Roman', serif" font-size="24" fill="#f3eee3">the minority and moves on.</text>
+  <line x1="882" y1="450" x2="1238" y2="450" stroke="#607087"/>
+  <text x="882" y="494" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#d5dce4">The cost:</text>
+  <text x="882" y="525" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#d5dce4">delay, procedural friction, anger.</text>
+  <text x="882" y="566" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#d5dce4">The benefit:</text>
+  <text x="882" y="597" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#d5dce4">the final act has collective legitimacy.</text>
+
+  <rect x="104" y="790" width="1192" height="58" rx="4" fill="#ece3d5" stroke="#cbbfaf"/>
+  <text x="132" y="826" font-family="Georgia, 'Times New Roman', serif" font-size="19" font-style="italic" fill="#4b433b">The DPC route was procedurally advantageous to Washington, but it was not a room invented in February 2003 to eject France.</text>
+  <text x="1296" y="874" text-anchor="end" font-family="'Courier New', monospace" font-size="16" fill="#82776c">RSD / CH13 / CONSENSUS / C01</text>
+</svg>

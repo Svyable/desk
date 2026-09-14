@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 820" role="img" aria-labelledby="title desc">
+  <title id="title">Moving image archive card for Ambassador Nicholas Burns introductory video</title>
+  <desc id="desc">A museum-label-style video card for the public-domain U.S. Embassy and Consulates in China introductory video published April 29, 2022, duration two minutes twenty-five seconds.</desc>
+  <defs>
+    <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d2238"/>
+      <stop offset="1" stop-color="#14181d"/>
+    </linearGradient>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f4eee3"/>
+      <stop offset="1" stop-color="#e9dfcf"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="820" fill="#161310"/>
+  <rect x="54" y="52" width="1292" height="716" rx="8" fill="url(#paper)"/>
+  <text x="104" y="112" font-family="Georgia, 'Times New Roman', serif" font-size="26" letter-spacing="5" fill="#6f655a">MOVING IMAGE 01 · PUBLIC ARCHIVE</text>
+  <line x1="104" y1="140" x2="1296" y2="140" stroke="#9b1c31" stroke-width="3"/>
+  <rect x="104" y="192" width="600" height="390" rx="5" fill="url(#screen)"/>
+  <circle cx="404" cy="387" r="76" fill="none" stroke="#efe9de" stroke-width="5" opacity="0.92"/>
+  <path d="M382 342 L382 432 L457 387 Z" fill="#efe9de" opacity="0.96"/>
+  <text x="404" y="535" text-anchor="middle" font-family="'Courier New', monospace" font-size="20" fill="#aeb9c4">02:25 · 1280×720 · WEBM</text>
+  <text x="760" y="235" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="2.8" fill="#9b1c31">AMBASSADOR NICHOLAS BURNS</text>
+  <text x="760" y="298" font-family="Georgia, 'Times New Roman', serif" font-size="44" fill="#201b17">Introductory Video</text>
+  <text x="760" y="354" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#5f564d">Published 29 April 2022</text>
+  <text x="760" y="399" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#5f564d">U.S. Embassy &amp; Consulates in China</text>
+  <text x="760" y="468" font-family="Georgia, 'Times New Roman', serif" font-size="27" font-style="italic" fill="#342e28">A moving-image counterpart to the official portrait:</text>
+  <text x="760" y="507" font-family="Georgia, 'Times New Roman', serif" font-size="27" font-style="italic" fill="#342e28">the representative speaking in his own cadence.</text>
+  <line x1="760" y1="551" x2="1296" y2="551" stroke="#b9ad9e"/>
+  <text x="760" y="600" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="2.8" fill="#9b1c31">RIGHTS</text>
+  <text x="760" y="639" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#4f473f">U.S. Department of State official-duty work · public domain</text>
+  <text x="760" y="676" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#6f655a">Click this card in the chapter to open the playable archive copy.</text>
+  <text x="1296" y="720" text-anchor="end" font-family="'Courier New', monospace" font-size="18" fill="#8b8074">RSD / CH01 / 2022-04-29 / V01</text>
+</svg>

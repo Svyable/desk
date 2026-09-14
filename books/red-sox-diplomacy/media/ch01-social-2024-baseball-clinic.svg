@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 820" role="img" aria-labelledby="title desc">
+  <title id="title">Social archive card for Ambassador Nicholas Burns's October 22, 2024 Beijing baseball clinic post</title>
+  <desc id="desc">A museum-label-style facsimile showing the public-domain State Department post: Great to see so many young Chinese friends attend our Baseball Clinic in Beijing. Future members of @Redsox Nation.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f5f0e6"/>
+      <stop offset="1" stop-color="#e8dfd0"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#241b15" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+  <rect width="1400" height="820" fill="#161310"/>
+  <rect x="54" y="52" width="1292" height="716" rx="8" fill="url(#paper)" filter="url(#shadow)"/>
+  <line x1="104" y1="140" x2="1296" y2="140" stroke="#9b1c31" stroke-width="3"/>
+  <text x="104" y="112" font-family="Georgia, 'Times New Roman', serif" font-size="26" letter-spacing="5" fill="#6f655a">SOCIAL OBJECT 01 · FIELD ARCHIVE</text>
+  <text x="104" y="205" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#171411">Ambassador Nicholas Burns</text>
+  <text x="104" y="247" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#5f564d">@USAmbChina · Beijing · 22 October 2024</text>
+  <text x="104" y="350" font-family="Georgia, 'Times New Roman', serif" font-size="47" font-style="italic" fill="#221d18">
+    <tspan x="104" dy="0">“Great to see so many young Chinese friends attend our</tspan>
+    <tspan x="104" dy="66">Baseball Clinic in Beijing. Future members of @Redsox Nation.”</tspan>
+  </text>
+  <rect x="104" y="545" width="1192" height="1" fill="#b9ad9e"/>
+  <text x="104" y="605" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="2.8" fill="#9b1c31">PROVENANCE</text>
+  <text x="104" y="645" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#4f473f">U.S. Department of State official-duty work · public domain · first published on the ambassador’s account</text>
+  <text x="104" y="682" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#6f655a">Text facsimile, not a platform screenshot · source: x.com/USAmbChina/status/1848646673523728693</text>
+  <text x="1296" y="720" text-anchor="end" font-family="'Courier New', monospace" font-size="18" fill="#8b8074">RSD / CH01 / 2024-10-22 / 01</text>
+</svg>

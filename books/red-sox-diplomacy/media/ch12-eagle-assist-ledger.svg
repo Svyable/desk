@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" role="img" aria-labelledby="title desc">
+  <title id="title">Operation Eagle Assist flight ledger</title>
+  <desc id="desc">A numerical ledger showing NATO AWACS support over the United States after September 11: seven aircraft, 830 crew members from 13 NATO countries, and more than 360 sorties through May 2002.</desc>
+  <defs><linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f4efe5"/><stop offset="1" stop-color="#e8dfd1"/></linearGradient></defs>
+  <rect width="1400" height="900" fill="#101722"/>
+  <rect x="56" y="48" width="1288" height="804" rx="8" fill="url(#paper)"/>
+  <text x="104" y="108" font-family="Georgia, 'Times New Roman', serif" font-size="25" letter-spacing="5" fill="#6c6258">FLIGHT LEDGER 01 · OPERATION EAGLE ASSIST</text>
+  <line x1="104" y1="138" x2="1296" y2="138" stroke="#bd3039" stroke-width="3"/>
+  <text x="104" y="198" font-family="Georgia, 'Times New Roman', serif" font-size="42" fill="#171411">The alliance crossed the Atlantic the other way.</text>
+  <text x="104" y="238" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#62594f">NATO airborne warning support over the United States · October 2001–May 2002</text>
+
+  <g font-family="Georgia, 'Times New Roman', serif" text-anchor="middle">
+    <text x="280" y="398" font-size="90" fill="#0c2340">7</text>
+    <text x="700" y="398" font-size="90" fill="#bd3039">830</text>
+    <text x="1120" y="398" font-size="90" fill="#0c2340">360+</text>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="280" y="447" font-size="20" font-weight="700" letter-spacing="2.2" fill="#514940">NATO AWACS AIRCRAFT</text>
+    <text x="700" y="447" font-size="20" font-weight="700" letter-spacing="2.2" fill="#514940">CREW MEMBERS</text>
+    <text x="1120" y="447" font-size="20" font-weight="700" letter-spacing="2.2" fill="#514940">SORTIES</text>
+    <text x="700" y="482" font-size="18" fill="#71675d">from 13 NATO countries</text>
+  </g>
+
+  <line x1="140" y1="535" x2="1260" y2="535" stroke="#c8bcad"/>
+  <text x="104" y="590" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2.2" fill="#bd3039">FIRST</text>
+  <text x="104" y="632" font-family="Georgia, 'Times New Roman', serif" font-size="29" fill="#211c18">NATO military assets deployed in support of an Article 5 operation.</text>
+
+  <rect x="104" y="688" width="1192" height="108" rx="5" fill="#0c2340"/>
+  <text x="132" y="724" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="2.1" fill="#f3eee3">WHAT THE NUMBERS MAKE VISIBLE</text>
+  <text x="132" y="758" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-style="italic" fill="#f3eee3">Collective defense was not only a declaration. Multinational crews spent months helping patrol the airspace of the ally that had been attacked.</text>
+  <text x="132" y="785" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#c7d0da">NATO official history records the operation through mid-May 2002.</text>
+  <text x="1296" y="836" text-anchor="end" font-family="'Courier New', monospace" font-size="16" fill="#82776c">RSD / CH12 / EAGLE ASSIST / F01</text>
+</svg>

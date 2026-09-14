@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 980" role="img" aria-labelledby="title desc">
+  <title id="title">Institutional gates in the U.S.-India civil nuclear initiative, 2005–2008</title>
+  <desc id="desc">A documentary sequence showing the civil nuclear initiative moving from leaders' political commitment through separation planning, U.S. law, bilateral agreement, Indian domestic politics, IAEA safeguards, NSG consensus, Congress and final signature.</desc>
+  <defs><linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f5f0e6"/><stop offset="1" stop-color="#e8dfd0"/></linearGradient></defs>
+  <rect width="1400" height="980" fill="#101722"/>
+  <rect x="54" y="46" width="1292" height="888" rx="8" fill="url(#paper)"/>
+  <text x="104" y="106" font-family="Georgia, 'Times New Roman', serif" font-size="25" letter-spacing="5" fill="#6c6258">GATE SEQUENCE 01 · U.S.–INDIA CIVIL NUCLEAR INITIATIVE</text>
+  <line x1="104" y1="136" x2="1296" y2="136" stroke="#bd3039" stroke-width="3"/>
+  <text x="104" y="196" font-family="Georgia, 'Times New Roman', serif" font-size="42" fill="#171411">The finish line moved because jurisdiction changed hands.</text>
+
+  <line x1="216" y1="268" x2="216" y2="812" stroke="#0c2340" stroke-width="3" opacity="0.55"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <circle cx="216" cy="292" r="10" fill="#bd3039"/><text x="258" y="286" font-size="18" font-weight="700" letter-spacing="2" fill="#bd3039">JUL 2005 · LEADERS</text><text x="258" y="319" font-size="20" fill="#443d36">Bush and Singh make the political bargain.</text>
+    <circle cx="216" cy="356" r="10" fill="#0c2340"/><text x="258" y="350" font-size="18" font-weight="700" letter-spacing="2" fill="#0c2340">MAR 2006 · SEPARATION PLAN</text><text x="258" y="383" font-size="20" fill="#443d36">India defines civilian and strategic facilities; safeguards architecture emerges.</text>
+    <circle cx="216" cy="420" r="10" fill="#7a6855"/><text x="258" y="414" font-size="18" font-weight="700" letter-spacing="2" fill="#7a6855">DEC 2006 · U.S. LAW</text><text x="258" y="447" font-size="20" fill="#443d36">Congress passes the Hyde Act; the bilateral text must now live inside it.</text>
+    <circle cx="216" cy="484" r="10" fill="#bd3039"/><text x="258" y="478" font-size="18" font-weight="700" letter-spacing="2" fill="#bd3039">JUL 2007 · 123 AGREEMENT</text><text x="258" y="511" font-size="20" fill="#443d36">Burns and Menon complete the decisive bilateral negotiating phase.</text>
+    <circle cx="216" cy="548" r="10" fill="#9a754f"/><text x="258" y="542" font-size="18" font-weight="700" letter-spacing="2" fill="#9a754f">2007–08 · INDIAN DOMESTIC POLITICS</text><text x="258" y="575" font-size="20" fill="#443d36">Coalition opposition stalls movement even after the text exists.</text>
+    <circle cx="216" cy="612" r="10" fill="#5e6b62"/><text x="258" y="606" font-size="18" font-weight="700" letter-spacing="2" fill="#5e6b62">2008 · IAEA</text><text x="258" y="639" font-size="20" fill="#443d36">India-specific safeguards move through the international agency.</text>
+    <circle cx="216" cy="676" r="10" fill="#0c2340"/><text x="258" y="670" font-size="18" font-weight="700" letter-spacing="2" fill="#0c2340">SEP 2008 · NSG CONSENSUS</text><text x="258" y="703" font-size="20" fill="#443d36">Other nuclear suppliers must agree to an exception.</text>
+    <circle cx="216" cy="740" r="10" fill="#7a6855"/><text x="258" y="734" font-size="18" font-weight="700" letter-spacing="2" fill="#7a6855">OCT 2008 · U.S. CONGRESS</text><text x="258" y="767" font-size="20" fill="#443d36">Congress approves the agreement.</text>
+    <circle cx="216" cy="804" r="10" fill="#bd3039"/><text x="258" y="798" font-size="18" font-weight="700" letter-spacing="2" fill="#bd3039">10 OCT 2008 · SIGNATURE</text><text x="258" y="831" font-size="20" fill="#443d36">Rice and Mukherjee sign; Nicholas Burns is no longer in office.</text>
+  </g>
+
+  <rect x="948" y="292" width="322" height="362" rx="7" fill="#0c2340"/>
+  <text x="976" y="334" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="2.2" fill="#f3eee3">WHAT CHANGES AT EACH GATE</text>
+  <text x="976" y="385" font-family="Georgia, 'Times New Roman', serif" font-size="22" fill="#f3eee3">Who can say no?</text>
+  <text x="976" y="428" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#d7dde4">leaders → negotiators</text>
+  <text x="976" y="462" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#d7dde4">Congress → executives</text>
+  <text x="976" y="496" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#d7dde4">coalition parties → cabinet</text>
+  <text x="976" y="530" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#d7dde4">IAEA → safeguards</text>
+  <text x="976" y="564" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#d7dde4">NSG members → exception</text>
+  <text x="976" y="598" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#d7dde4">Congress → final approval</text>
+  <text x="976" y="632" font-family="Georgia, 'Times New Roman', serif" font-size="18" font-style="italic" fill="#f3eee3">No negotiator owns the whole path.</text>
+
+  <rect x="104" y="862" width="1192" height="46" rx="4" fill="#ece3d5" stroke="#cbbfaf"/>
+  <text x="132" y="891" font-family="Georgia, 'Times New Roman', serif" font-size="19" font-style="italic" fill="#4b433b">Playing the long game meant surviving successive jurisdictions, not merely waiting longer.</text>
+  <text x="1296" y="924" text-anchor="end" font-family="'Courier New', monospace" font-size="16" fill="#82776c">RSD / CH14 / 2005–2008 / G01</text>
+</svg>

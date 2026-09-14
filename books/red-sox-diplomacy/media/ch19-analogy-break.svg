@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 920" role="img" aria-labelledby="title desc">
+  <title id="title">Where the Red Sox-Yankees rivalry analogy breaks in international politics</title>
+  <desc id="desc">A paired editorial object contrasting sports rivalry inside a jointly accepted league with interstate competition among sovereign states where rules and institutions matter but no commissioner guarantees another game.</desc>
+  <defs><linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f5f0e6"/><stop offset="1" stop-color="#e8dfd0"/></linearGradient></defs>
+  <rect width="1400" height="920" fill="#161310"/>
+  <rect x="56" y="48" width="1288" height="824" rx="8" fill="url(#paper)"/>
+  <text x="104" y="108" font-family="Georgia, 'Times New Roman', serif" font-size="25" letter-spacing="5" fill="#6c6258">ANALOGY BREAK 01 · RIVALRY IS NOT A UNIVERSAL CATEGORY</text>
+  <line x1="104" y1="138" x2="1296" y2="138" stroke="#bd3039" stroke-width="3"/>
+  <text x="104" y="198" font-family="Georgia, 'Times New Roman', serif" font-size="42" fill="#171411">A sports rival presupposes another game. Diplomacy cannot.</text>
+
+  <g transform="translate(104 286)">
+    <rect width="560" height="392" rx="8" fill="#0c2340"/>
+    <text x="30" y="48" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2.3" fill="#f3eee3">RED SOX ↔ YANKEES</text>
+    <text x="30" y="103" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#f3eee3">Shared league</text>
+    <text x="30" y="143" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#f3eee3">Shared rulebook</text>
+    <text x="30" y="183" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#f3eee3">Shared standings</text>
+    <text x="30" y="223" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#f3eee3">External umpires / commissioner</text>
+    <text x="30" y="263" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#f3eee3">Another season is assumed</text>
+    <line x1="30" y1="300" x2="530" y2="300" stroke="#5b6c82"/>
+    <text x="30" y="340" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#d8dde4">The theatrical hatred is safe because</text>
+    <text x="30" y="369" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#d8dde4">the shared system is stronger than it.</text>
+  </g>
+
+  <g transform="translate(736 286)">
+    <rect width="560" height="392" rx="8" fill="#efe7da" stroke="#cbbfaf"/>
+    <text x="30" y="48" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2.3" fill="#bd3039">STATE ↔ STATE</text>
+    <text x="30" y="103" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#211c18">Rules and treaties matter</text>
+    <text x="30" y="143" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#211c18">Institutions can constrain</text>
+    <text x="30" y="183" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#211c18">Power and enforcement are unequal</text>
+    <text x="30" y="223" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#211c18">Coercion and war remain possible</text>
+    <text x="30" y="263" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#211c18">Another meeting is not guaranteed</text>
+    <line x1="30" y1="300" x2="530" y2="300" stroke="#c9bdad"/>
+    <text x="30" y="340" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#5f554b">Classification errors can become policy:</text>
+    <text x="30" y="369" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#5f554b">ally, competitor and adversary are not synonyms.</text>
+  </g>
+
+  <rect x="104" y="730" width="1192" height="76" rx="5" fill="#ece3d5" stroke="#cbbfaf"/>
+  <text x="132" y="760" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="2" fill="#0c2340">EDITORIAL SYNTHESIS</text>
+  <text x="132" y="789" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-style="italic" fill="#4b433b">The useful lesson is not that geopolitics resembles baseball. It is that the analogy fails exactly where sovereign danger begins.</text>
+  <text x="1296" y="850" text-anchor="end" font-family="'Courier New', monospace" font-size="16" fill="#82776c">RSD / CH19 / BREAK / A01</text>
+</svg>

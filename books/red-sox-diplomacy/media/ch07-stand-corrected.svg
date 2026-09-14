@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 820" role="img" aria-labelledby="title desc">
+  <title id="title">I stand corrected. Sorry.</title>
+  <desc id="desc">A documentary correction object preserving Nicholas Burns's February 27, 1997 response after reporters corrected the date of North Korea-related briefing talks.</desc>
+  <defs><radialGradient id="bg" cx="50%" cy="42%" r="78%"><stop offset="0" stop-color="#17304c"/><stop offset="1" stop-color="#09111b"/></radialGradient></defs>
+  <rect width="1500" height="820" fill="url(#bg)"/>
+  <text x="82" y="77" font-family="Georgia, 'Times New Roman', serif" font-size="25" letter-spacing="5" fill="#ddd5c9">CORRECTION OBJECT 01 · 27 FEBRUARY 1997</text>
+  <line x1="82" y1="106" x2="1418" y2="106" stroke="#bd3039" stroke-width="3"/>
+  <text x="750" y="350" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="78" font-style="italic" fill="#f5efe6">“I stand corrected.</text>
+  <text x="750" y="448" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="78" font-style="italic" fill="#f5efe6">Sorry.”</text>
+  <text x="750" y="545" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing="2.4" fill="#bdc6cf">A REPORTER CORRECTS THE DATE · BURNS ACCEPTS THE CORRECTION</text>
+  <line x1="235" y1="615" x2="1265" y2="615" stroke="#687684"/>
+  <text x="235" y="662" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="2.2" fill="#ddd5c9">THE ERROR</text>
+  <text x="235" y="699" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#b7c0c9">Burns first says March 4.</text>
+  <text x="1265" y="662" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="2.2" fill="#ddd5c9">THE REPAIR</text>
+  <text x="1265" y="699" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#b7c0c9">The room says March 5. No argument follows.</text>
+  <text x="82" y="774" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#94a0aa">State Department noon briefing · North Korea / Four-Party briefing talks</text>
+  <text x="1418" y="774" text-anchor="end" font-family="'Courier New', monospace" font-size="17" fill="#88939d">RSD / CH07 / C01</text>
+</svg>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 940" role="img" aria-labelledby="title desc">
+  <title id="title">Distributed credit map for the Greek Olympic baseball project</title>
+  <desc id="desc">A role matrix assigning documented lanes to Greek organizers, diaspora volunteers, Nicholas Burns and Embassy Athens, political connectors, Peter Angelos and the Orioles, MLB International, Rob Derksen, and players.</desc>
+  <defs><linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f4efe5"/><stop offset="1" stop-color="#e7dece"/></linearGradient></defs>
+  <rect width="1400" height="940" fill="#161310"/>
+  <rect x="54" y="46" width="1292" height="848" rx="8" fill="url(#paper)"/>
+  <text x="104" y="106" font-family="Georgia, 'Times New Roman', serif" font-size="25" letter-spacing="5" fill="#6c6258">CREDIT MAP 01 · NOT A HERO DIAGRAM</text>
+  <line x1="104" y1="136" x2="1296" y2="136" stroke="#bd3039" stroke-width="3"/>
+  <text x="104" y="196" font-family="Georgia, 'Times New Roman', serif" font-size="42" fill="#171411">Different actors carried different baseball burdens.</text>
+  <text x="104" y="235" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#62594f">Documented lanes in the Greece project</text>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="104" y="292" width="580" height="112" rx="6" fill="#efe7da" stroke="#cabdad"/>
+    <text x="130" y="328" font-size="18" font-weight="700" letter-spacing="2" fill="#0c2340">GREEK ORGANIZERS / FEDERATION</text>
+    <text x="130" y="362" font-size="20" fill="#443d36">Local initiative · federation · Greek legitimacy · leagues · Olympic responsibility</text>
+    <text x="130" y="389" font-size="16" fill="#71675d">The project was not an American invention.</text>
+
+    <rect x="716" y="292" width="580" height="112" rx="6" fill="#efe7da" stroke="#cabdad"/>
+    <text x="742" y="328" font-size="18" font-weight="700" letter-spacing="2" fill="#7a6855">SAMIOTES / GALATIS / DIASPORA</text>
+    <text x="742" y="362" font-size="20" fill="#443d36">Grassroots teaching · equipment · field-building · recruitment · volunteer labor</text>
+    <text x="742" y="389" font-size="16" fill="#71675d">Their lane began before some later institutional chronologies.</text>
+
+    <rect x="104" y="430" width="580" height="112" rx="6" fill="#efe7da" stroke="#cabdad"/>
+    <text x="130" y="466" font-size="18" font-weight="700" letter-spacing="2" fill="#bd3039">BURNS / EMBASSY ATHENS</text>
+    <text x="130" y="500" font-size="20" fill="#443d36">Convening · introductions · public demonstrations · budget advocacy · visibility</text>
+    <text x="130" y="527" font-size="16" fill="#71675d">Connector, not team architect.</text>
+
+    <rect x="716" y="430" width="580" height="112" rx="6" fill="#efe7da" stroke="#cabdad"/>
+    <text x="742" y="466" font-size="18" font-weight="700" letter-spacing="2" fill="#0c2340">SARBANES / ANGELOS / ORIOLES</text>
+    <text x="742" y="500" font-size="20" fill="#443d36">Diaspora-political link · ownership resources · organizational and recruiting support</text>
+    <text x="742" y="527" font-size="16" fill="#71675d">Exact timing of every introduction remains uneven across sources.</text>
+
+    <rect x="104" y="568" width="580" height="112" rx="6" fill="#efe7da" stroke="#cabdad"/>
+    <text x="130" y="604" font-size="18" font-weight="700" letter-spacing="2" fill="#5e6b62">MLB INTERNATIONAL</text>
+    <text x="130" y="638" font-size="20" fill="#443d36">Coaches · development infrastructure · full-time baseball support in Athens</text>
+    <text x="130" y="665" font-size="16" fill="#71675d">Keep this lane distinct from the still-unresolved Red Sox club contribution.</text>
+
+    <rect x="716" y="568" width="580" height="112" rx="6" fill="#efe7da" stroke="#cabdad"/>
+    <text x="742" y="604" font-size="18" font-weight="700" letter-spacing="2" fill="#9a754f">ROB DERKSEN / BASEBALL STAFF</text>
+    <text x="742" y="638" font-size="20" fill="#443d36">Scouting · player evaluation · roster-building · coaching · competitive baseball</text>
+    <text x="742" y="665" font-size="16" fill="#71675d">The operational hinge; Burns could not perform this work.</text>
+
+    <rect x="104" y="706" width="1192" height="88" rx="6" fill="#0c2340" opacity="0.94"/>
+    <text x="130" y="741" font-size="18" font-weight="700" letter-spacing="2" fill="#f3eee3">PLAYERS · LOCAL + DIASPORA</text>
+    <text x="130" y="775" font-family="Georgia, 'Times New Roman', serif" font-size="21" font-style="italic" fill="#f3eee3">They made the national team real. The roster also made visible the tension between Olympic competitiveness and domestic development.</text>
+  </g>
+
+  <text x="104" y="846" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#6c6258">A role map, not a causal ranking. No box is a claim of sole ownership.</text>
+  <text x="1296" y="846" text-anchor="end" font-family="'Courier New', monospace" font-size="16" fill="#82776c">RSD / CH10 / CREDIT / C01</text>
+</svg>

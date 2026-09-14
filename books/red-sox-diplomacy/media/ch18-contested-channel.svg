@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" role="img" aria-labelledby="title desc">
+  <title id="title">Contested people-to-people channel in U.S.-China relations in June 2024</title>
+  <desc id="desc">A two-sided documentary object showing the U.S. allegation that Chinese authorities interfered with U.S. Embassy cultural and educational programming and the Chinese Foreign Ministry's rejection of that allegation while asserting support for people-to-people exchange.</desc>
+  <defs><linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f5f0e6"/><stop offset="1" stop-color="#e8dfd0"/></linearGradient></defs>
+  <rect width="1400" height="900" fill="#161310"/>
+  <rect x="56" y="48" width="1288" height="804" rx="8" fill="url(#paper)"/>
+  <text x="104" y="108" font-family="Georgia, 'Times New Roman', serif" font-size="25" letter-spacing="5" fill="#6c6258">CONTESTED CHANNEL 01 · JUNE 2024</text>
+  <line x1="104" y1="138" x2="1296" y2="138" stroke="#bd3039" stroke-width="3"/>
+  <text x="104" y="198" font-family="Georgia, 'Times New Roman', serif" font-size="42" fill="#171411">Both governments said exchange mattered. They disputed what was blocking it.</text>
+
+  <g transform="translate(104 286)">
+    <rect width="560" height="388" rx="8" fill="#0c2340"/>
+    <text x="30" y="48" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2.3" fill="#f3eee3">U.S. POSITION · BURNS / STATE</text>
+    <text x="30" y="104" font-family="Georgia, 'Times New Roman', serif" font-size="25" fill="#f3eee3">Burns alleged Chinese authorities</text>
+    <text x="30" y="139" font-family="Georgia, 'Times New Roman', serif" font-size="25" fill="#f3eee3">had interfered with dozens of</text>
+    <text x="30" y="174" font-family="Georgia, 'Times New Roman', serif" font-size="25" fill="#f3eee3">Embassy public events after Woodside.</text>
+    <line x1="30" y1="211" x2="530" y2="211" stroke="#5b6c82"/>
+    <text x="30" y="250" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="2" fill="#f3eee3">STATE DEPARTMENT, JUNE 25</text>
+    <text x="30" y="287" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#d8dde4">Backed Burns's characterization and said</text>
+    <text x="30" y="316" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#d8dde4">interference ran against Woodside's</text>
+    <text x="30" y="345" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#d8dde4">people-to-people commitments.</text>
+  </g>
+
+  <g transform="translate(736 286)">
+    <rect width="560" height="388" rx="8" fill="#efe7da" stroke="#cbbfaf"/>
+    <text x="30" y="48" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2.3" fill="#bd3039">CHINESE FOREIGN MINISTRY POSITION</text>
+    <text x="30" y="104" font-family="Georgia, 'Times New Roman', serif" font-size="25" fill="#211c18">Mao Ning rejected Burns's claims</text>
+    <text x="30" y="139" font-family="Georgia, 'Times New Roman', serif" font-size="25" fill="#211c18">as inaccurate and said China was</text>
+    <text x="30" y="174" font-family="Georgia, 'Times New Roman', serif" font-size="25" fill="#211c18">committed to cultural exchange.</text>
+    <line x1="30" y1="211" x2="530" y2="211" stroke="#c9bdad"/>
+    <text x="30" y="250" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="2" fill="#7a6855">BEIJING'S COUNTERCLAIM</text>
+    <text x="30" y="287" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#5f554b">China argued U.S. policies and treatment</text>
+    <text x="30" y="316" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#5f554b">of Chinese students were themselves</text>
+    <text x="30" y="345" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#5f554b">damaging exchange.</text>
+  </g>
+
+  <rect x="104" y="720" width="1192" height="76" rx="5" fill="#ece3d5" stroke="#cbbfaf"/>
+  <text x="132" y="751" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="2" fill="#0c2340">DOCUMENTARY LIMIT</text>
+  <text x="132" y="779" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-style="italic" fill="#4b433b">This object preserves competing government claims. It does not turn either press line into a complete account of every disputed event.</text>
+  <text x="1296" y="836" text-anchor="end" font-family="'Courier New', monospace" font-size="16" fill="#82776c">RSD / CH18 / PEOPLE / C01</text>
+</svg>

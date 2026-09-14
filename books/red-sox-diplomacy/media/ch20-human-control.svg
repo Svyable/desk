@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" role="img" aria-labelledby="title desc">
+  <title id="title">Biden-Xi November 2024 human-control statement on nuclear weapons</title>
+  <desc id="desc">A compact documentary object showing the jointly reported principle that decisions to use nuclear weapons should remain under human control, alongside the explicit limit that the statement did not settle broader military or artificial-intelligence competition.</desc>
+  <defs><linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f5f0e6"/><stop offset="1" stop-color="#e8dfd0"/></linearGradient></defs>
+  <rect width="1400" height="900" fill="#161310"/>
+  <rect x="56" y="48" width="1288" height="804" rx="8" fill="url(#paper)"/>
+  <text x="104" y="108" font-family="Georgia, 'Times New Roman', serif" font-size="25" letter-spacing="5" fill="#6c6258">HUMAN CONTROL 01 · LIMA · 16 NOVEMBER 2024</text>
+  <line x1="104" y1="138" x2="1296" y2="138" stroke="#bd3039" stroke-width="3"/>
+  <text x="104" y="205" font-family="Georgia, 'Times New Roman', serif" font-size="38" fill="#171411">Biden and Xi affirmed the need to keep the decision</text>
+  <text x="104" y="255" font-family="Georgia, 'Times New Roman', serif" font-size="38" fill="#171411">to use nuclear weapons under human control.</text>
+
+  <rect x="104" y="318" width="1192" height="116" rx="8" fill="#0c2340"/>
+  <text x="132" y="356" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2.3" fill="#f3eee3">OVERLAPPING OFFICIAL RECORD</text>
+  <text x="132" y="398" font-family="Georgia, 'Times New Roman', serif" font-size="23" fill="#f3eee3">The U.S. readout and China's official account both record the human-control principle</text>
+  <text x="132" y="428" font-family="Georgia, 'Times New Roman', serif" font-size="23" fill="#f3eee3">and a call for prudence around AI in the military domain.</text>
+
+  <g transform="translate(104 492)">
+    <rect width="560" height="204" rx="8" fill="#efe7da" stroke="#cbbfaf"/>
+    <text x="30" y="45" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="2" fill="#bd3039">WHAT THE PRINCIPLE DOES</text>
+    <text x="30" y="94" font-family="Georgia, 'Times New Roman', serif" font-size="24" fill="#211c18">Attaches the most irreversible</text>
+    <text x="30" y="128" font-family="Georgia, 'Times New Roman', serif" font-size="24" fill="#211c18">decision to human responsibility.</text>
+    <text x="30" y="170" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#5f554b">A starting principle for risk reduction.</text>
+  </g>
+
+  <g transform="translate(736 492)">
+    <rect width="560" height="204" rx="8" fill="#efe7da" stroke="#cbbfaf"/>
+    <text x="30" y="45" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="2" fill="#7a6855">WHAT IT DOES NOT DO</text>
+    <text x="30" y="94" font-family="Georgia, 'Times New Roman', serif" font-size="24" fill="#211c18">Resolve nuclear competition, AI</text>
+    <text x="30" y="128" font-family="Georgia, 'Times New Roman', serif" font-size="24" fill="#211c18">governance or military rivalry.</text>
+    <text x="30" y="170" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#5f554b">Principle is not implementation architecture.</text>
+  </g>
+
+  <rect x="104" y="746" width="1192" height="50" rx="5" fill="#ece3d5" stroke="#cbbfaf"/>
+  <text x="132" y="778" font-family="Georgia, 'Times New Roman', serif" font-size="19" font-style="italic" fill="#4b433b">At the extreme edge of automation, the political question returns to responsibility: who is permitted to decide?</text>
+  <text x="1296" y="836" text-anchor="end" font-family="'Courier New', monospace" font-size="16" fill="#82776c">RSD / CH20 / LIMA / H01</text>
+</svg>

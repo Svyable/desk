@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" role="img" aria-labelledby="title desc">
+  <title id="title">Conditional Article 5 sequence, September 12 to October 2, 2001</title>
+  <desc id="desc">A documentary sequence showing NATO's September 12 conditional collective-defense decision and the October 2 determination that the attacks had been directed from abroad.</desc>
+  <defs><linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f5f0e6"/><stop offset="1" stop-color="#e8dfd0"/></linearGradient></defs>
+  <rect width="1400" height="900" fill="#101722"/>
+  <rect x="56" y="48" width="1288" height="804" rx="8" fill="url(#paper)"/>
+  <text x="104" y="108" font-family="Georgia, 'Times New Roman', serif" font-size="25" letter-spacing="5" fill="#6c6258">CONDITIONAL CLAUSE 01 · ARTICLE 5</text>
+  <line x1="104" y1="138" x2="1296" y2="138" stroke="#bd3039" stroke-width="3"/>
+  <text x="104" y="198" font-family="Georgia, 'Times New Roman', serif" font-size="42" fill="#171411">Solidarity did not erase the evidence question.</text>
+
+  <g transform="translate(104 286)">
+    <rect x="0" y="0" width="545" height="330" rx="8" fill="#efe7da" stroke="#cbbfaf"/>
+    <text x="30" y="48" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2.4" fill="#bd3039">12 SEPTEMBER 2001</text>
+    <text x="30" y="102" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#211c18">NATO agrees:</text>
+    <text x="30" y="158" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-style="italic" fill="#211c18">if the attack was directed</text>
+    <text x="30" y="199" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-style="italic" fill="#211c18">from abroad, Article 5 applies.</text>
+    <line x1="30" y1="232" x2="515" y2="232" stroke="#c9bdad"/>
+    <text x="30" y="271" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#554c43">Political commitment + treaty condition.</text>
+    <text x="30" y="303" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#71675d">NATO Press Release (2001)124</text>
+  </g>
+
+  <g transform="translate(751 286)">
+    <rect x="0" y="0" width="545" height="330" rx="8" fill="#0c2340"/>
+    <text x="30" y="48" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2.4" fill="#f3eee3">2 OCTOBER 2001</text>
+    <text x="30" y="102" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#f3eee3">NATO determines:</text>
+    <text x="30" y="158" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-style="italic" fill="#f3eee3">the attacks were directed</text>
+    <text x="30" y="199" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-style="italic" fill="#f3eee3">from abroad.</text>
+    <line x1="30" y1="232" x2="515" y2="232" stroke="#5b6c82"/>
+    <text x="30" y="271" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#d8dde4">The condition is satisfied.</text>
+    <text x="30" y="303" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#bcc6d1">Council briefed on U.S. investigation</text>
+  </g>
+
+  <path d="M649 451 L735 451" stroke="#8a7968" stroke-width="3"/>
+  <path d="M727 442 L744 451 L727 460 Z" fill="#8a7968"/>
+
+  <rect x="104" y="666" width="1192" height="105" rx="5" fill="#ece3d5" stroke="#cbbfaf"/>
+  <text x="132" y="700" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="2" fill="#0c2340">WHY THE GAP MATTERS</text>
+  <text x="132" y="733" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-style="italic" fill="#4b433b">The alliance could stand with the United States immediately while still requiring the facts to satisfy the treaty's scope.</text>
+  <text x="132" y="760" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#71675d">Verification is part of institutional strength, not the opposite of solidarity.</text>
+  <text x="1296" y="822" text-anchor="end" font-family="'Courier New', monospace" font-size="16" fill="#82776c">RSD / CH12 / 2001-09-12→10-02 / C01</text>
+</svg>

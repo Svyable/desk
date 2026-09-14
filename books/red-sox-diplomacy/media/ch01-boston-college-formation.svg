@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 980" role="img" aria-labelledby="title desc">
+  <title id="title">Boston College formation archive note, 1974 to 1978</title>
+  <desc id="desc">A sourced editorial synthesis of Nicholas Burns's Boston College years: Mod 36A and roommates, Mark O'Connor's history teaching and Siegfried Sassoon, and Burns's 1977 Sorbonne certificate. The object explicitly states that it is not a reconstructed scene.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f4efe5"/>
+      <stop offset="1" stop-color="#e7ddcf"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="16" stdDeviation="20" flood-color="#17120f" flood-opacity="0.22"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="980" fill="#151311"/>
+  <rect x="56" y="54" width="1488" height="872" rx="8" fill="url(#paper)" filter="url(#shadow)"/>
+
+  <text x="112" y="118" font-family="Georgia, 'Times New Roman', serif" font-size="25" letter-spacing="4.5" fill="#6b625a">ARCHIVE NOTE · FORMATION / 1974–1978</text>
+  <line x1="112" y1="148" x2="1488" y2="148" stroke="#9b1c31" stroke-width="3"/>
+  <text x="112" y="214" font-family="Georgia, 'Times New Roman', serif" font-size="50" fill="#1c1815">Boston College was a place, a classroom, and a departure point.</text>
+  <text x="112" y="258" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#625950">Three documentary traces survive without reconstructing a single college-day scene.</text>
+
+  <line x1="548" y1="318" x2="548" y2="744" stroke="#c7bcad" stroke-width="2"/>
+  <line x1="1048" y1="318" x2="1048" y2="744" stroke="#c7bcad" stroke-width="2"/>
+
+  <text x="112" y="348" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="3" fill="#9b1c31">PLACE</text>
+  <text x="112" y="424" font-family="'Courier New', monospace" font-size="72" font-weight="700" fill="#201b17">36A</text>
+  <text x="112" y="478" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-style="italic" fill="#2a241f">“three of my roommates are here,</text>
+  <text x="112" y="518" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-style="italic" fill="#2a241f">we lived in the Mods.”</text>
+  <text x="112" y="586" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#544c45">Burns, returning for Commencement in 2002.</text>
+  <text x="112" y="620" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#544c45">Boston College later identifies his residence as Mod 36A</text>
+  <text x="112" y="654" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#544c45">and records that he went back to visit it after the speech.</text>
+
+  <text x="604" y="348" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="3" fill="#9b1c31">CLASSROOM</text>
+  <text x="604" y="410" font-family="Georgia, 'Times New Roman', serif" font-size="35" font-weight="700" fill="#201b17">Mark O'Connor</text>
+  <text x="604" y="448" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#625950">European history · Siegfried Sassoon · Vietnam era</text>
+  <text x="604" y="520" font-family="Georgia, 'Times New Roman', serif" font-size="29" font-style="italic" fill="#2a241f">“I had grown up with the notion</text>
+  <text x="604" y="558" font-family="Georgia, 'Times New Roman', serif" font-size="29" font-style="italic" fill="#2a241f">that war could be heroic.”</text>
+  <text x="604" y="624" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#544c45">Burns later described O'Connor's teaching as a revelation</text>
+  <text x="604" y="658" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#544c45">and remembered being pushed to ask ethical questions of history.</text>
+
+  <text x="1104" y="348" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="3" fill="#9b1c31">OUTWARD</text>
+  <text x="1104" y="420" font-family="'Courier New', monospace" font-size="56" font-weight="700" fill="#201b17">PARIS · 1977</text>
+  <text x="1104" y="482" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#544c45">Official biographies record a</text>
+  <text x="1104" y="518" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#544c45">Certificat Pratique de Langue Française</text>
+  <text x="1104" y="554" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#544c45">at the Sorbonne.</text>
+  <text x="1104" y="624" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#544c45">Movement, not destiny: no located source shows how Burns</text>
+  <text x="1104" y="658" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#544c45">followed Boston baseball from France or that Paris caused</text>
+  <text x="1104" y="692" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#544c45">his later choice of diplomacy.</text>
+
+  <line x1="112" y1="776" x2="1488" y2="776" stroke="#b7ab9d" stroke-width="1.5"/>
+  <text x="112" y="820" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2.5" fill="#9b1c31">EVIDENTIARY LIMIT</text>
+  <text x="112" y="856" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#514941">Editorial synthesis, not a reconstructed scene. The archive does not place Burns at a specific 1975 or 1978 Red Sox game.</text>
+  <text x="112" y="890" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#70675f">Sources: Boston College 2002 Commencement address · BC profile “The Seminar” · archived White House biography</text>
+  <text x="1488" y="890" text-anchor="end" font-family="'Courier New', monospace" font-size="17" fill="#8a8077">RSD / CH01 / BC / 01</text>
+</svg>

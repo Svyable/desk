@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 940" role="img" aria-labelledby="title desc">
+  <title id="title">Teaching archive built from practitioner interviews, documents, other witnesses, outcomes, and classroom debate</title>
+  <desc id="desc">A documentary diagram showing practitioner memory entering a teaching archive and being compared with documents, other participants, scholarship and consequences before becoming a classroom interpretation.</desc>
+  <defs><linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f5f0e6"/><stop offset="1" stop-color="#e8dfd0"/></linearGradient></defs>
+  <rect width="1400" height="940" fill="#161310"/>
+  <rect x="54" y="46" width="1292" height="848" rx="8" fill="url(#paper)"/>
+  <text x="104" y="106" font-family="Georgia, 'Times New Roman', serif" font-size="25" letter-spacing="5" fill="#6c6258">TEACHING ARCHIVE 01 · PRACTITIONER MEMORY AS EVIDENCE</text>
+  <line x1="104" y1="136" x2="1296" y2="136" stroke="#bd3039" stroke-width="3"/>
+  <text x="104" y="196" font-family="Georgia, 'Times New Roman', serif" font-size="42" fill="#171411">A former official gets a word. Not the last word.</text>
+
+  <g transform="translate(104 274)">
+    <rect width="1192" height="116" rx="8" fill="#0c2340"/>
+    <text x="34" y="43" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2.2" fill="#f3eee3">AMERICAN SECRETARIES OF STATE PROJECT</text>
+    <text x="34" y="83" font-family="Georgia, 'Times New Roman', serif" font-size="24" fill="#f3eee3">Extended practitioner interviews preserve how senior officials remember consequential negotiations.</text>
+  </g>
+
+  <line x1="700" y1="390" x2="700" y2="454" stroke="#7a6855" stroke-width="3"/>
+  <polygon points="700,470 689,448 711,448" fill="#7a6855"/>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="104" y="486" width="254" height="140" rx="7" fill="#efe7da" stroke="#cbbfaf"/>
+    <text x="231" y="526" text-anchor="middle" font-size="17" font-weight="700" letter-spacing="2" fill="#bd3039">DOCUMENTS</text>
+    <text x="231" y="569" text-anchor="middle" font-size="19" fill="#4b433b">Contemporaneous records</text>
+    <text x="231" y="599" text-anchor="middle" font-size="19" fill="#4b433b">and official texts</text>
+
+    <rect x="384" y="486" width="254" height="140" rx="7" fill="#efe7da" stroke="#cbbfaf"/>
+    <text x="511" y="526" text-anchor="middle" font-size="17" font-weight="700" letter-spacing="2" fill="#bd3039">OTHER WITNESSES</text>
+    <text x="511" y="569" text-anchor="middle" font-size="19" fill="#4b433b">Counterparts, colleagues</text>
+    <text x="511" y="599" text-anchor="middle" font-size="19" fill="#4b433b">and opposing accounts</text>
+
+    <rect x="664" y="486" width="254" height="140" rx="7" fill="#efe7da" stroke="#cbbfaf"/>
+    <text x="791" y="526" text-anchor="middle" font-size="17" font-weight="700" letter-spacing="2" fill="#bd3039">SCHOLARSHIP</text>
+    <text x="791" y="569" text-anchor="middle" font-size="19" fill="#4b433b">Analysis outside the</text>
+    <text x="791" y="599" text-anchor="middle" font-size="19" fill="#4b433b">participant's memory</text>
+
+    <rect x="944" y="486" width="352" height="140" rx="7" fill="#efe7da" stroke="#cbbfaf"/>
+    <text x="1120" y="526" text-anchor="middle" font-size="17" font-weight="700" letter-spacing="2" fill="#bd3039">CONSEQUENCES</text>
+    <text x="1120" y="569" text-anchor="middle" font-size="19" fill="#4b433b">What happened after the</text>
+    <text x="1120" y="599" text-anchor="middle" font-size="19" fill="#4b433b">decision left the room</text>
+  </g>
+
+  <line x1="231" y1="626" x2="231" y2="690" stroke="#7a6855" stroke-width="2"/>
+  <line x1="511" y1="626" x2="511" y2="690" stroke="#7a6855" stroke-width="2"/>
+  <line x1="791" y1="626" x2="791" y2="690" stroke="#7a6855" stroke-width="2"/>
+  <line x1="1120" y1="626" x2="1120" y2="690" stroke="#7a6855" stroke-width="2"/>
+  <line x1="231" y1="690" x2="1120" y2="690" stroke="#7a6855" stroke-width="2"/>
+  <line x1="700" y1="690" x2="700" y2="730" stroke="#7a6855" stroke-width="3"/>
+  <polygon points="700,746 689,724 711,724" fill="#7a6855"/>
+
+  <rect x="268" y="756" width="864" height="74" rx="6" fill="#0c2340"/>
+  <text x="700" y="788" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2.2" fill="#f3eee3">CLASSROOM INTERPRETATION · DISCUSSION · REVISION</text>
+  <text x="700" y="817" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-style="italic" fill="#f3eee3">Memory becomes inspectable when it enters a structure built for comparison.</text>
+
+  <text x="1296" y="874" text-anchor="end" font-family="'Courier New', monospace" font-size="16" fill="#82776c">RSD / CH17 / ARCHIVE / T01</text>
+</svg>

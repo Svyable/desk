@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 850" role="img" aria-labelledby="title desc">
+  <title id="title">August 31, 1994 Baltic withdrawal deadline</title>
+  <desc id="desc">A documentary date object marking August 31, 1994 as the completion date for Russian troop withdrawals from Estonia and Latvia under bilateral agreements.</desc>
+  <defs><radialGradient id="bg" cx="50%" cy="38%" r="76%"><stop offset="0" stop-color="#18314f"/><stop offset="1" stop-color="#08111c"/></radialGradient></defs>
+  <rect width="1500" height="850" fill="url(#bg)"/>
+  <text x="84" y="77" font-family="Georgia, 'Times New Roman', serif" font-size="25" letter-spacing="5" fill="#ddd5c9">DEADLINE OBJECT 01 · BALTIC WITHDRAWAL</text>
+  <line x1="84" y1="106" x2="1416" y2="106" stroke="#bd3039" stroke-width="3"/>
+
+  <text x="750" y="335" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" letter-spacing="10" fill="#bd3039">AUGUST</text>
+  <text x="750" y="535" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="220" font-weight="700" fill="#f4efe5">31</text>
+  <text x="750" y="625" text-anchor="middle" font-family="'Courier New', monospace" font-size="66" letter-spacing="12" fill="#d8d0c5">1994</text>
+
+  <line x1="180" y1="699" x2="1320" y2="699" stroke="#687684"/>
+  <text x="180" y="744" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="2.5" fill="#d9d0c4">PUBLIC OUTCOME</text>
+  <text x="180" y="781" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#b7c0c9">Russian troop withdrawal completed from Estonia and Latvia under bilateral agreements.</text>
+  <text x="1320" y="744" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="2.5" fill="#d9d0c4">NOT THE WHOLE STORY</text>
+  <text x="1320" y="781" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#b7c0c9">Skrunda, resettlement, cleanup, minority rights, and domestic politics still required terms.</text>
+</svg>

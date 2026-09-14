@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 860" role="img" aria-labelledby="title desc">
+  <title id="title">Farewell inventory from Nicholas Burns's final State Department briefing, July 22, 1997</title>
+  <desc id="desc">A documentary inventory of the Red Sox cap, alarm clock, ouzo, and podium tribute recorded at Burns's farewell from the State Department briefing room.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f5f0e6"/><stop offset="1" stop-color="#e8dfd0"/></linearGradient>
+  </defs>
+  <rect width="1400" height="860" fill="#161310"/>
+  <rect x="58" y="50" width="1284" height="760" rx="8" fill="url(#paper)"/>
+  <text x="106" y="112" font-family="Georgia, 'Times New Roman', serif" font-size="25" letter-spacing="5" fill="#6f655a">FAREWELL INVENTORY 01 · 22 JULY 1997</text>
+  <line x1="106" y1="142" x2="1294" y2="142" stroke="#bd3039" stroke-width="3"/>
+  <text x="106" y="205" font-family="Georgia, 'Times New Roman', serif" font-size="41" fill="#201b17">Other people chose the symbols.</text>
+  <text x="106" y="244" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#655c52">Nicholas Burns's final day as State Department spokesman</text>
+
+  <g transform="translate(106 300)">
+    <rect width="560" height="170" rx="6" fill="#efe7da" stroke="#cbbfaf"/>
+    <text x="28" y="40" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2.4" fill="#bd3039">OBJECT A · RED SOX CAP</text>
+    <text x="28" y="83" font-family="Georgia, 'Times New Roman', serif" font-size="25" fill="#201b17">President Bill Clinton</text>
+    <text x="28" y="119" font-family="Georgia, 'Times New Roman', serif" font-size="23" font-style="italic" fill="#3a332d">“To Nick, you're still Number One.”</text>
+    <text x="28" y="149" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#6f655a">Autographed farewell gift · delivered via Mike McCurry</text>
+  </g>
+
+  <g transform="translate(728 300)">
+    <rect width="566" height="170" rx="6" fill="#efe7da" stroke="#cbbfaf"/>
+    <text x="28" y="40" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2.4" fill="#0c2340">OBJECT B · RED SOX ALARM CLOCK</text>
+    <text x="28" y="83" font-family="Georgia, 'Times New Roman', serif" font-size="25" fill="#201b17">Barry Schweid · Associated Press</text>
+    <text x="28" y="119" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#514940">A press-corps joke about the briefing's elastic start time.</text>
+    <text x="28" y="149" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#6f655a">The room turns a work habit into a baseball object.</text>
+  </g>
+
+  <g transform="translate(106 502)">
+    <rect width="560" height="170" rx="6" fill="#efe7da" stroke="#cbbfaf"/>
+    <text x="28" y="40" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2.4" fill="#7a6855">OBJECT C · OUZO</text>
+    <text x="28" y="83" font-family="Georgia, 'Times New Roman', serif" font-size="25" fill="#201b17">Lambros Papantoniou · Greek journalist</text>
+    <text x="28" y="119" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#514940">A gift pointed toward Burns's expected next assignment: Athens.</text>
+    <text x="28" y="149" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#6f655a">The chapter hands itself from Washington to Greece.</text>
+  </g>
+
+  <g transform="translate(728 502)">
+    <rect width="566" height="170" rx="6" fill="#efe7da" stroke="#cbbfaf"/>
+    <text x="28" y="40" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2.4" fill="#0c2340">OBJECT D · PODIUM TRIBUTE</text>
+    <text x="28" y="83" font-family="Georgia, 'Times New Roman', serif" font-size="25" fill="#201b17">Mike McCurry · White House Press Secretary</text>
+    <text x="28" y="119" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#514940">A former State spokesman returned to mark Burns's command of the room.</text>
+    <text x="28" y="149" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#6f655a">Primary White House record corroborates his visit that day.</text>
+  </g>
+
+  <line x1="106" y1="720" x2="1294" y2="720" stroke="#b9ad9e"/>
+  <text x="106" y="758" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#6f655a">Sources: Washington Post farewell report; White House July 22, 1997 briefing; State Department July 22 record.</text>
+  <text x="1294" y="758" text-anchor="end" font-family="'Courier New', monospace" font-size="16" fill="#8b8074">RSD / CH08 / 1997-07-22 / F01</text>
+</svg>

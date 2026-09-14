@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" role="img" aria-labelledby="title desc">
+  <title id="title">Absence object comparing Burns's documented 2003 Red Sox loss with the undocumented 2004 championship-night scene</title>
+  <desc id="desc">A documentary comparison: the archive records Burns watching the 2003 ALCS loss on Armed Forces television in Brussels at 6:16 a.m., but does not establish his location, companions, or immediate reaction when the Red Sox won the World Series on October 27, 2004.</desc>
+  <defs><linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f5f0e6"/><stop offset="1" stop-color="#e8dfd0"/></linearGradient></defs>
+  <rect width="1400" height="900" fill="#101722"/>
+  <rect x="56" y="48" width="1288" height="804" rx="8" fill="url(#paper)"/>
+  <text x="104" y="108" font-family="Georgia, 'Times New Roman', serif" font-size="25" letter-spacing="5" fill="#6c6258">ABSENCE OBJECT 01 · OCTOBER 2003 / OCTOBER 2004</text>
+  <line x1="104" y1="138" x2="1296" y2="138" stroke="#bd3039" stroke-width="3"/>
+  <text x="104" y="198" font-family="Georgia, 'Times New Roman', serif" font-size="42" fill="#171411">The archive remembers the loss more precisely than the victory.</text>
+
+  <g transform="translate(104 280)">
+    <rect width="560" height="392" rx="8" fill="#0c2340"/>
+    <text x="30" y="47" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2.3" fill="#f3eee3">2003 · DOCUMENTED SCENE</text>
+    <text x="30" y="105" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#f3eee3">Brussels</text>
+    <text x="30" y="151" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#f3eee3">Armed Forces television</text>
+    <text x="30" y="197" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#f3eee3">Game 7 · Red Sox–Yankees</text>
+    <text x="30" y="255" font-family="Georgia, 'Times New Roman', serif" font-size="72" font-weight="700" fill="#f3eee3">06:16</text>
+    <text x="270" y="252" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="2" fill="#bcc6d1">A.M. LOCAL</text>
+    <line x1="30" y1="286" x2="530" y2="286" stroke="#5b6c82"/>
+    <text x="30" y="325" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#d8dde4">Burns later remembered the exact time of</text>
+    <text x="30" y="354" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#d8dde4">Aaron Boone's walk-off ending Boston's season.</text>
+  </g>
+
+  <g transform="translate(736 280)">
+    <rect width="560" height="392" rx="8" fill="#efe7da" stroke="#cbbfaf"/>
+    <text x="30" y="47" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2.3" fill="#bd3039">2004 · OUTCOME KNOWN / SCENE OPEN</text>
+    <text x="30" y="104" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#211c18">October 27: Boston wins</text>
+    <text x="30" y="142" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#211c18">its first World Series since 1918.</text>
+    <line x1="30" y1="178" x2="530" y2="178" stroke="#c9bdad"/>
+    <text x="30" y="220" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="2" fill="#7a6855">NOT ESTABLISHED IN A RELIABLE RECORD</text>
+    <text x="30" y="264" font-family="Georgia, 'Times New Roman', serif" font-size="24" fill="#4b433b">Where Burns watched</text>
+    <text x="30" y="303" font-family="Georgia, 'Times New Roman', serif" font-size="24" fill="#4b433b">Who was with him</text>
+    <text x="30" y="342" font-family="Georgia, 'Times New Roman', serif" font-size="24" fill="#4b433b">What he said or did at the final out</text>
+  </g>
+
+  <rect x="104" y="720" width="1192" height="76" rx="5" fill="#ece3d5" stroke="#cbbfaf"/>
+  <text x="132" y="751" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="2" fill="#0c2340">EDITORIAL RULE</text>
+  <text x="132" y="779" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-style="italic" fill="#4b433b">Do not move the vivid 2003 Brussels scene forward one year simply because 2004 supplies the better ending.</text>
+  <text x="1296" y="836" text-anchor="end" font-family="'Courier New', monospace" font-size="16" fill="#82776c">RSD / CH16 / ABSENCE / A01</text>
+</svg>

@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" role="img" aria-labelledby="title desc">
+  <title id="title">Signal reversal at NATO on September 11, 2001</title>
+  <desc id="desc">A documentary diagram showing the U.S. ambassador at NATO temporarily unable to reach evacuated institutions in Washington while allied ambassadors called toward the U.S. mission with offers of solidarity.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f4efe5"/><stop offset="1" stop-color="#e8dfd1"/></linearGradient>
+    <marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto"><path d="M0 0 L9 4.5 L0 9 Z" fill="#0c2340"/></marker>
+    <marker id="redarrow" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto"><path d="M0 0 L9 4.5 L0 9 Z" fill="#bd3039"/></marker>
+  </defs>
+  <rect width="1400" height="900" fill="#101722"/>
+  <rect x="56" y="48" width="1288" height="804" rx="8" fill="url(#paper)"/>
+  <text x="104" y="108" font-family="Georgia, 'Times New Roman', serif" font-size="25" letter-spacing="5" fill="#6c6258">SIGNAL REVERSAL 01 · 11 SEPTEMBER 2001</text>
+  <line x1="104" y1="138" x2="1296" y2="138" stroke="#bd3039" stroke-width="3"/>
+  <text x="104" y="198" font-family="Georgia, 'Times New Roman', serif" font-size="42" fill="#171411">The representative remained. The center went quiet.</text>
+  <text x="104" y="238" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#62594f">Brussels ↔ Washington · first hours after the attacks</text>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="520" y="342" width="360" height="170" rx="8" fill="#0c2340"/>
+    <text x="700" y="385" text-anchor="middle" font-size="17" font-weight="700" letter-spacing="2.4" fill="#f3eee3">U.S. MISSION TO NATO · BRUSSELS</text>
+    <text x="700" y="430" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#f3eee3">Ambassador Nicholas Burns</text>
+    <text x="700" y="468" text-anchor="middle" font-size="18" fill="#d6dce4">12 days in post</text>
+
+    <rect x="104" y="316" width="280" height="92" rx="6" fill="#efe7da" stroke="#cbbfaf"/>
+    <text x="244" y="352" text-anchor="middle" font-size="17" font-weight="700" letter-spacing="2" fill="#bd3039">WHITE HOUSE</text>
+    <text x="244" y="382" text-anchor="middle" font-size="17" fill="#655c52">evacuated</text>
+
+    <rect x="104" y="437" width="280" height="92" rx="6" fill="#efe7da" stroke="#cbbfaf"/>
+    <text x="244" y="473" text-anchor="middle" font-size="17" font-weight="700" letter-spacing="2" fill="#bd3039">STATE DEPARTMENT</text>
+    <text x="244" y="503" text-anchor="middle" font-size="17" fill="#655c52">evacuated</text>
+
+    <rect x="104" y="558" width="280" height="92" rx="6" fill="#efe7da" stroke="#cbbfaf"/>
+    <text x="244" y="594" text-anchor="middle" font-size="17" font-weight="700" letter-spacing="2" fill="#bd3039">PENTAGON</text>
+    <text x="244" y="624" text-anchor="middle" font-size="17" fill="#655c52">attacked / disrupted</text>
+
+    <rect x="1016" y="286" width="280" height="92" rx="6" fill="#efe7da" stroke="#cbbfaf"/>
+    <text x="1156" y="322" text-anchor="middle" font-size="17" font-weight="700" letter-spacing="2" fill="#0c2340">CANADA</text>
+    <text x="1156" y="352" text-anchor="middle" font-size="17" fill="#655c52">David Wright calls</text>
+
+    <rect x="1016" y="407" width="280" height="92" rx="6" fill="#efe7da" stroke="#cbbfaf"/>
+    <text x="1156" y="443" text-anchor="middle" font-size="17" font-weight="700" letter-spacing="2" fill="#0c2340">OTHER ALLIES</text>
+    <text x="1156" y="473" text-anchor="middle" font-size="17" fill="#655c52">solidarity arrives inward</text>
+
+    <rect x="1016" y="528" width="280" height="92" rx="6" fill="#efe7da" stroke="#cbbfaf"/>
+    <text x="1156" y="564" text-anchor="middle" font-size="17" font-weight="700" letter-spacing="2" fill="#0c2340">NATO SYSTEM</text>
+    <text x="1156" y="594" text-anchor="middle" font-size="17" fill="#655c52">political instinct, not yet formal act</text>
+  </g>
+
+  <g stroke="#bd3039" stroke-width="3" stroke-dasharray="10 8" fill="none">
+    <path d="M520 382 C465 360 440 352 394 352" marker-end="url(#redarrow)"/>
+    <path d="M520 427 C455 452 432 476 394 482" marker-end="url(#redarrow)"/>
+    <path d="M520 475 C456 528 430 574 394 598" marker-end="url(#redarrow)"/>
+  </g>
+  <text x="414" y="682" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#bd3039">Burns's team tried to reach Washington; for a period, it could not.</text>
+
+  <g stroke="#0c2340" stroke-width="3" fill="none">
+    <path d="M1006 332 C954 340 925 365 888 394" marker-end="url(#arrow)"/>
+    <path d="M1006 453 C950 451 927 448 888 444" marker-end="url(#arrow)"/>
+    <path d="M1006 574 C958 548 930 510 888 482" marker-end="url(#arrow)"/>
+  </g>
+  <text x="928" y="682" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#0c2340">Allied calls moved toward the American representative before procedure caught up.</text>
+
+  <rect x="104" y="728" width="1192" height="72" rx="5" fill="#ece3d5" stroke="#cbbfaf"/>
+  <text x="132" y="758" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="2" fill="#0c2340">EVIDENTIARY LIMIT</text>
+  <text x="132" y="785" font-family="Georgia, 'Times New Roman', serif" font-size="19" font-style="italic" fill="#4b433b">Temporary communication failure did not mean Washington had ceased functioning; allied solidarity did not yet equal authorized NATO policy.</text>
+  <text x="1296" y="834" text-anchor="end" font-family="'Courier New', monospace" font-size="16" fill="#82776c">RSD / CH11 / 2001-09-11 / S01</text>
+</svg>

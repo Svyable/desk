@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 920" role="img" aria-labelledby="title desc">
+  <title id="title">Afterlife ledger of Nicholas Burns's public Red Sox language after the 2004 championship</title>
+  <desc id="desc">A three-point chronology showing Burns describing the 2004 title as redemption in 2005, deliverance from a belief that the Red Sox must always lose in 2006, and continued identification with suffering in 2012.</desc>
+  <defs><linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f5f0e6"/><stop offset="1" stop-color="#e8dfd0"/></linearGradient></defs>
+  <rect width="1400" height="920" fill="#161310"/>
+  <rect x="54" y="46" width="1292" height="828" rx="8" fill="url(#paper)"/>
+  <text x="104" y="106" font-family="Georgia, 'Times New Roman', serif" font-size="25" letter-spacing="5" fill="#6c6258">AFTERLIFE LEDGER 01 · 2005 → 2012</text>
+  <line x1="104" y1="136" x2="1296" y2="136" stroke="#bd3039" stroke-width="3"/>
+  <text x="104" y="196" font-family="Georgia, 'Times New Roman', serif" font-size="42" fill="#171411">Winning changed the forecast. It did not erase the memory.</text>
+
+  <line x1="210" y1="290" x2="210" y2="700" stroke="#0c2340" stroke-width="3" opacity="0.62"/>
+
+  <g>
+    <circle cx="210" cy="330" r="12" fill="#bd3039"/>
+    <text x="258" y="320" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2.3" fill="#bd3039">MARCH 2005 · U.S. INSTITUTE OF PEACE</text>
+    <text x="258" y="365" font-family="Georgia, 'Times New Roman', serif" font-size="38" font-style="italic" fill="#211c18">“redemption”</text>
+    <text x="258" y="401" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#5f554b">The first strong documented Burns interpretation after the title.</text>
+  </g>
+
+  <g>
+    <circle cx="210" cy="500" r="12" fill="#0c2340"/>
+    <text x="258" y="490" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2.3" fill="#0c2340">MAY 2006 · NORTHEASTERN COMMENCEMENT</text>
+    <text x="258" y="535" font-family="Georgia, 'Times New Roman', serif" font-size="29" fill="#211c18">Delivered from the belief that</text>
+    <text x="258" y="572" font-family="Georgia, 'Times New Roman', serif" font-size="29" font-style="italic" fill="#211c18">“the Red Sox must always lose”</text>
+    <text x="258" y="608" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#5f554b">The championship disproved inevitability; it did not delete the drought.</text>
+  </g>
+
+  <g>
+    <circle cx="210" cy="686" r="12" fill="#7a6855"/>
+    <text x="258" y="676" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2.3" fill="#7a6855">MARCH 2012 · CHICAGO</text>
+    <text x="258" y="721" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-style="italic" fill="#211c18">“we identify with suffering”</text>
+    <text x="258" y="757" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#5f554b">Two titles later, suffering remains part of the public identity as memory.</text>
+  </g>
+
+  <rect x="104" y="802" width="1192" height="42" rx="4" fill="#ece3d5" stroke="#cbbfaf"/>
+  <text x="132" y="829" font-family="Georgia, 'Times New Roman', serif" font-size="19" font-style="italic" fill="#4b433b">Sequence, not psychology: the ledger records Burns's public language after the drought ended.</text>
+  <text x="1296" y="864" text-anchor="end" font-family="'Courier New', monospace" font-size="16" fill="#82776c">RSD / CH16 / AFTERLIFE / L01</text>
+</svg>

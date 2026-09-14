@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 940" role="img" aria-labelledby="title desc">
+  <title id="title">U.S.-China channel recovery from the 2023 balloon crisis through the Woodside summit</title>
+  <desc id="desc">A documentary chronology showing the February 2023 balloon crisis and postponed Blinken visit, the June 2023 Beijing visit focused on reopening communication, and the November 2023 Woodside summit producing concrete military, counternarcotics and people-to-people follow-up.</desc>
+  <defs><linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f5f0e6"/><stop offset="1" stop-color="#e8dfd0"/></linearGradient></defs>
+  <rect width="1400" height="940" fill="#101722"/>
+  <rect x="54" y="46" width="1292" height="848" rx="8" fill="url(#paper)"/>
+  <text x="104" y="106" font-family="Georgia, 'Times New Roman', serif" font-size="25" letter-spacing="5" fill="#6c6258">CHANNEL RECOVERY 01 · 2023</text>
+  <line x1="104" y1="136" x2="1296" y2="136" stroke="#bd3039" stroke-width="3"/>
+  <text x="104" y="196" font-family="Georgia, 'Times New Roman', serif" font-size="42" fill="#171411">Communication resumed. Competition did not stop.</text>
+
+  <line x1="214" y1="286" x2="214" y2="734" stroke="#0c2340" stroke-width="3" opacity="0.62"/>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <circle cx="214" cy="318" r="12" fill="#bd3039"/>
+    <text x="260" y="311" font-size="18" font-weight="700" letter-spacing="2.2" fill="#bd3039">FEBRUARY 2023 · CRISIS</text>
+    <text x="260" y="348" font-family="Georgia, 'Times New Roman', serif" font-size="25" fill="#211c18">Chinese high-altitude balloon crosses the United States.</text>
+    <text x="260" y="382" font-size="18" fill="#5f554b">Washington postpones Secretary Blinken's planned Beijing visit.</text>
+
+    <circle cx="214" cy="478" r="12" fill="#0c2340"/>
+    <text x="260" y="471" font-size="18" font-weight="700" letter-spacing="2.2" fill="#0c2340">JUNE 18–19 · BEIJING</text>
+    <text x="260" y="508" font-family="Georgia, 'Times New Roman', serif" font-size="25" fill="#211c18">Blinken meets Xi Jinping, Wang Yi and Qin Gang.</text>
+    <text x="260" y="542" font-size="18" fill="#5f554b">U.S. readout: open channels are needed to reduce miscalculation.</text>
+
+    <circle cx="214" cy="638" r="12" fill="#7a6855"/>
+    <text x="260" y="631" font-size="18" font-weight="700" letter-spacing="2.2" fill="#7a6855">NOVEMBER 15 · WOODSIDE / SAN FRANCISCO</text>
+    <text x="260" y="668" font-family="Georgia, 'Times New Roman', serif" font-size="25" fill="#211c18">Biden and Xi move several channels from principle to follow-up.</text>
+    <text x="260" y="702" font-size="18" fill="#5f554b">Military communications · counternarcotics · student and cultural exchange.</text>
+  </g>
+
+  <rect x="918" y="300" width="350" height="374" rx="7" fill="#0c2340"/>
+  <text x="946" y="342" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="2.2" fill="#f3eee3">WHAT RECOVERED</text>
+  <text x="946" y="389" font-family="Georgia, 'Times New Roman', serif" font-size="22" fill="#f3eee3">Senior-level contact</text>
+  <text x="946" y="424" font-family="Georgia, 'Times New Roman', serif" font-size="22" fill="#f3eee3">Working-level assignments</text>
+  <text x="946" y="459" font-family="Georgia, 'Times New Roman', serif" font-size="22" fill="#f3eee3">Specific communication channels</text>
+  <line x1="946" y1="494" x2="1240" y2="494" stroke="#5b6c82"/>
+  <text x="946" y="536" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="2.2" fill="#f3eee3">WHAT DID NOT DISAPPEAR</text>
+  <text x="946" y="579" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#d8dde4">Taiwan · technology controls</text>
+  <text x="946" y="609" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#d8dde4">military competition · human rights</text>
+  <text x="946" y="639" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#d8dde4">Russia · economic and security disputes</text>
+
+  <rect x="104" y="798" width="1192" height="48" rx="4" fill="#ece3d5" stroke="#cbbfaf"/>
+  <text x="132" y="828" font-family="Georgia, 'Times New Roman', serif" font-size="19" font-style="italic" fill="#4b433b">The object records recovery of contact, not recovery of trust and not personal authorship by the ambassador.</text>
+  <text x="1296" y="880" text-anchor="end" font-family="'Courier New', monospace" font-size="16" fill="#82776c">RSD / CH18 / CHANNEL / C01</text>
+</svg>

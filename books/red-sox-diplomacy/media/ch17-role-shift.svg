@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" role="img" aria-labelledby="title desc">
+  <title id="title">Role shift from career diplomat to professor of practice</title>
+  <desc id="desc">A documentary comparison between delegated authority inside government and practitioner authority in a university, where experience becomes material that can be challenged and compared.</desc>
+  <defs><linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f5f0e6"/><stop offset="1" stop-color="#e8dfd0"/></linearGradient></defs>
+  <rect width="1400" height="900" fill="#101722"/>
+  <rect x="56" y="48" width="1288" height="804" rx="8" fill="url(#paper)"/>
+  <text x="104" y="108" font-family="Georgia, 'Times New Roman', serif" font-size="25" letter-spacing="5" fill="#6c6258">ROLE SHIFT 01 · 2008</text>
+  <line x1="104" y1="138" x2="1296" y2="138" stroke="#bd3039" stroke-width="3"/>
+  <text x="104" y="198" font-family="Georgia, 'Times New Roman', serif" font-size="42" fill="#171411">Experience kept its value. It lost its monopoly on meaning.</text>
+
+  <g transform="translate(104 286)">
+    <rect width="560" height="390" rx="8" fill="#0c2340"/>
+    <text x="30" y="48" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2.3" fill="#f3eee3">INSIDE GOVERNMENT · DELEGATED AUTHORITY</text>
+    <text x="30" y="111" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#f3eee3">A spokesman's answer can become</text>
+    <text x="30" y="148" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#f3eee3">the government's answer.</text>
+    <text x="30" y="202" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#f3eee3">An ambassador speaks with official</text>
+    <text x="30" y="239" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#f3eee3">standing and institutional limits.</text>
+    <line x1="30" y1="278" x2="530" y2="278" stroke="#5b6c82"/>
+    <text x="30" y="318" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#d8dde4">Accuracy, clearance, responsibility and</text>
+    <text x="30" y="347" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#d8dde4">message discipline constrain the sentence.</text>
+  </g>
+
+  <g transform="translate(736 286)">
+    <rect width="560" height="390" rx="8" fill="#efe7da" stroke="#cbbfaf"/>
+    <text x="30" y="48" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2.3" fill="#bd3039">AT HARVARD · PRACTITIONER AUTHORITY</text>
+    <text x="30" y="111" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#211c18">Experience creates evidence, access</text>
+    <text x="30" y="148" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#211c18">and credibility—not final interpretation.</text>
+    <text x="30" y="202" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#211c18">Students and scholars can compare,</text>
+    <text x="30" y="239" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#211c18">challenge and revise the account.</text>
+    <line x1="30" y1="278" x2="530" y2="278" stroke="#c9bdad"/>
+    <text x="30" y="318" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#5f554b">The useful professor of practice exposes</text>
+    <text x="30" y="347" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#5f554b">the seams rather than hiding them.</text>
+  </g>
+
+  <rect x="104" y="724" width="1192" height="74" rx="5" fill="#ece3d5" stroke="#cbbfaf"/>
+  <text x="132" y="754" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="2" fill="#0c2340">BURNS'S 2011 FORMULATION</text>
+  <text x="132" y="782" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-style="italic" fill="#4b433b">Practitioners can show students directly how governments succeed and fail. The value is experience made examinable.</text>
+  <text x="1296" y="836" text-anchor="end" font-family="'Courier New', monospace" font-size="16" fill="#82776c">RSD / CH17 / ROLE / R01</text>
+</svg>

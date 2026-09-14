@@ -49,4 +49,5 @@ if (typeof document !== 'undefined') {
   } else {
     initialize();
   }
+  import('./desk-red-sox-diplomacy.js?v=20260912-1').catch(() => {});
 }

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 920" role="img" aria-labelledby="title desc">
+  <title id="title">The unresolved address: U.S. diplomatic representation in Jerusalem and Tel Aviv</title>
+  <desc id="desc">A documentary institutional diagram contrasting the U.S. Embassy in Tel Aviv with the separate U.S. Consulate General in Jerusalem during Nicholas Burns's 1985 to 1987 service, without drawing territorial borders.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f5f0e6"/>
+      <stop offset="1" stop-color="#e9dfd0"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="125%"><feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#1b1510" flood-opacity="0.14"/></filter>
+  </defs>
+  <rect width="1500" height="920" fill="#101722"/>
+  <rect x="54" y="48" width="1392" height="824" rx="8" fill="url(#paper)" filter="url(#shadow)"/>
+  <text x="104" y="111" font-family="Georgia, 'Times New Roman', serif" font-size="25" letter-spacing="5" fill="#6e645a">ADDRESS OBJECT 01 · JERUSALEM · 1985–1987</text>
+  <line x1="104" y1="140" x2="1396" y2="140" stroke="#bd3039" stroke-width="3"/>
+  <text x="104" y="190" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#61584f">The organization chart itself carried a diplomatic position.</text>
+
+  <rect x="112" y="258" width="560" height="380" rx="8" fill="#faf5ec" stroke="#7e8a96"/>
+  <text x="156" y="316" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2.6" fill="#0c2340">FORMAL BILATERAL MISSION</text>
+  <text x="156" y="370" font-family="Georgia, 'Times New Roman', serif" font-size="39" fill="#171411">U.S. Embassy</text>
+  <text x="156" y="416" font-family="Georgia, 'Times New Roman', serif" font-size="31" font-style="italic" fill="#5a5149">Tel Aviv</text>
+  <line x1="156" y1="451" x2="628" y2="451" stroke="#c5b8aa"/>
+  <text x="156" y="499" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#4f473f">Accredited bilateral relationship</text>
+  <text x="156" y="534" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#4f473f">with the Government of Israel.</text>
+  <text x="156" y="590" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#6b6158">Different contacts · different reporting position</text>
+
+  <rect x="828" y="258" width="560" height="380" rx="8" fill="#faf5ec" stroke="#bd3039" stroke-width="2"/>
+  <text x="872" y="316" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2.6" fill="#bd3039">SEPARATE U.S. MISSION</text>
+  <text x="872" y="370" font-family="Georgia, 'Times New Roman', serif" font-size="39" fill="#171411">Consulate General</text>
+  <text x="872" y="416" font-family="Georgia, 'Times New Roman', serif" font-size="31" font-style="italic" fill="#5a5149">Jerusalem</text>
+  <line x1="872" y1="451" x2="1344" y2="451" stroke="#c5b8aa"/>
+  <text x="872" y="499" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#4f473f">Distinct mission status tied to the</text>
+  <text x="872" y="534" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#4f473f">unresolved final status of Jerusalem.</text>
+  <text x="872" y="575" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#4f473f">Palestinian contacts and assistance work.</text>
+
+  <path d="M672 448 C728 420 772 420 828 448" fill="none" stroke="#a99d91" stroke-width="2" stroke-dasharray="7 7"/>
+  <text x="750" y="404" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="2" fill="#81766b">SAME U.S. GOVERNMENT</text>
+  <text x="750" y="468" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#81766b">not the same institutional vantage point</text>
+
+  <rect x="338" y="702" width="824" height="105" rx="6" fill="#0c2340"/>
+  <text x="750" y="743" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="2.4" fill="#e5d9cc">NICHOLAS BURNS · POLITICAL OFFICER · 1985–1987</text>
+  <text x="750" y="780" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-style="italic" fill="#f6f1e8">Economic assistance to Palestinians in the West Bank and East Jerusalem</text>
+
+  <text x="104" y="846" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#71675d">Institutional diagram — not a territorial map. It makes no claim about sovereignty or final borders.</text>
+  <text x="1396" y="846" text-anchor="end" font-family="'Courier New', monospace" font-size="17" fill="#82776c">RSD / CH05 / A01</text>
+</svg>

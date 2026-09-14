@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 900" role="img" aria-labelledby="title desc">
+  <title id="title">Implementation ledger for 1994 Baltic troop withdrawals</title>
+  <desc id="desc">A documentary ledger showing 2,500 housing vouchers at 25,000 dollars each, 4 million dollars for Skrunda radar dismantling, and 2 million dollars for Paldiski environmental cleanup.</desc>
+  <rect width="1500" height="900" fill="#eee7da"/>
+  <text x="82" y="78" font-family="Georgia, 'Times New Roman', serif" font-size="25" letter-spacing="5" fill="#655c53">IMPLEMENTATION LEDGER 01 · SUMMER 1994</text>
+  <line x1="82" y1="106" x2="1418" y2="106" stroke="#bd3039" stroke-width="3"/>
+  <text x="82" y="156" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#655c53">Selected U.S. support measures documented in a July 10 White House background briefing</text>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="105" y="232" width="390" height="310" rx="7" fill="#f8f2e8" stroke="#b9ad9e"/>
+    <text x="145" y="282" font-size="18" font-weight="700" letter-spacing="2.4" fill="#0c2340">RESETTLEMENT</text>
+    <text x="145" y="360" font-family="Georgia, 'Times New Roman', serif" font-size="62" fill="#171411">2,500</text>
+    <text x="145" y="402" font-size="22" fill="#5c534b">housing vouchers</text>
+    <text x="145" y="458" font-family="Georgia, 'Times New Roman', serif" font-size="35" font-style="italic" fill="#bd3039">$25,000 each</text>
+    <text x="145" y="505" font-size="19" fill="#6a6057">$62.5M implied at stated value</text>
+
+    <rect x="555" y="232" width="390" height="310" rx="7" fill="#f8f2e8" stroke="#b9ad9e"/>
+    <text x="595" y="282" font-size="18" font-weight="700" letter-spacing="2.4" fill="#0c2340">SKRUNDA · LATVIA</text>
+    <text x="595" y="382" font-family="Georgia, 'Times New Roman', serif" font-size="70" fill="#bd3039">$4M</text>
+    <text x="595" y="436" font-size="22" fill="#5c534b">to help dismantle</text>
+    <text x="595" y="472" font-size="22" fill="#5c534b">the radar facility</text>
+
+    <rect x="1005" y="232" width="390" height="310" rx="7" fill="#f8f2e8" stroke="#b9ad9e"/>
+    <text x="1045" y="282" font-size="18" font-weight="700" letter-spacing="2.4" fill="#0c2340">PALDISKI · ESTONIA</text>
+    <text x="1045" y="382" font-family="Georgia, 'Times New Roman', serif" font-size="70" fill="#171411">$2M</text>
+    <text x="1045" y="436" font-size="22" fill="#5c534b">for environmental</text>
+    <text x="1045" y="472" font-size="22" fill="#5c534b">cleanup assistance</text>
+  </g>
+
+  <rect x="165" y="622" width="1170" height="145" rx="7" fill="#0c2340"/>
+  <text x="205" y="672" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2.6" fill="#e8ddd0">WHAT THE LEDGER MEANS</text>
+  <text x="205" y="718" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-style="italic" fill="#f6f1e8">Implementation had people, facilities, money, and environmental residue attached to it.</text>
+  <text x="205" y="751" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#b8c2cb">These selected measures are not an exhaustive accounting of U.S. policy or the total cost of withdrawal diplomacy.</text>
+
+  <text x="82" y="840" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#62584f">Source: White House background briefing on the Clinton–Yeltsin meeting, July 10, 1994</text>
+  <text x="1418" y="840" text-anchor="end" font-family="'Courier New', monospace" font-size="17" fill="#82776c">RSD / CH06 / 1994 / L01</text>
+</svg>

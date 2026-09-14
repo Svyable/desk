@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 980" role="img" aria-labelledby="title desc">
+  <title id="title">Greece baseball brokerage network</title>
+  <desc id="desc">A documentary network diagram showing the separate roles of Greek baseball organizers, Ambassador Nicholas Burns and the U.S. Embassy, Senator Paul Sarbanes, Peter Angelos and the Baltimore Orioles, Major League Baseball International, coaches, equipment, and unresolved Boston Red Sox club support.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#7e8a96"/>
+    </marker>
+    <filter id="soft" x="-10%" y="-10%" width="120%" height="120%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-opacity="0.12"/></filter>
+  </defs>
+  <rect width="1500" height="980" fill="#eee7da"/>
+  <text x="80" y="78" font-family="Georgia, 'Times New Roman', serif" font-size="25" letter-spacing="5" fill="#655c53">NETWORK OBJECT 01 · GREECE BASEBALL · 1999–2004</text>
+  <line x1="80" y1="105" x2="1420" y2="105" stroke="#bd3039" stroke-width="3"/>
+  <text x="80" y="154" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#655c53">Brokerage, not hero mythology: separate actors retain separate functions.</text>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="95" y="350" width="300" height="170" rx="8" fill="#fbf7ef" stroke="#7e8a96" filter="url(#soft)"/>
+    <text x="245" y="397" text-anchor="middle" font-size="18" font-weight="700" letter-spacing="2" fill="#0c2340">GREEK ORGANIZERS</text>
+    <text x="245" y="439" text-anchor="middle" font-size="25" font-weight="700" fill="#1b1a18">Hellenic baseball federation</text>
+    <text x="245" y="478" text-anchor="middle" font-size="18" fill="#61584f">Local institution · Olympic need</text>
+
+    <rect x="600" y="280" width="300" height="235" rx="8" fill="#f9f2e7" stroke="#bd3039" stroke-width="2" filter="url(#soft)"/>
+    <text x="750" y="327" text-anchor="middle" font-size="18" font-weight="700" letter-spacing="2" fill="#bd3039">BROKER / CONVENER</text>
+    <text x="750" y="371" text-anchor="middle" font-size="28" font-weight="700" fill="#0c2340">Nicholas Burns</text>
+    <text x="750" y="407" text-anchor="middle" font-size="21" fill="#4f473f">U.S. Embassy Athens</text>
+    <text x="750" y="451" text-anchor="middle" font-size="18" fill="#61584f">Embassy visibility · contacts</text>
+    <text x="750" y="480" text-anchor="middle" font-size="18" fill="#61584f">budget lobbying · demonstrations</text>
+
+    <rect x="1110" y="180" width="300" height="155" rx="8" fill="#fbf7ef" stroke="#7e8a96" filter="url(#soft)"/>
+    <text x="1260" y="226" text-anchor="middle" font-size="18" font-weight="700" letter-spacing="2" fill="#0c2340">DIASPORA LINK</text>
+    <text x="1260" y="270" text-anchor="middle" font-size="26" font-weight="700" fill="#1b1a18">Paul Sarbanes</text>
+    <text x="1260" y="303" text-anchor="middle" font-size="18" fill="#61584f">U.S. Senator · Greek-American network</text>
+
+    <rect x="1110" y="405" width="300" height="170" rx="8" fill="#fbf7ef" stroke="#7e8a96" filter="url(#soft)"/>
+    <text x="1260" y="451" text-anchor="middle" font-size="18" font-weight="700" letter-spacing="2" fill="#0c2340">PRO BASEBALL</text>
+    <text x="1260" y="493" text-anchor="middle" font-size="25" font-weight="700" fill="#1b1a18">Peter Angelos / Orioles</text>
+    <text x="1260" y="531" text-anchor="middle" font-size="18" fill="#61584f">Recruiting · resources · diaspora access</text>
+
+    <rect x="600" y="650" width="300" height="165" rx="8" fill="#fbf7ef" stroke="#7e8a96" filter="url(#soft)"/>
+    <text x="750" y="697" text-anchor="middle" font-size="18" font-weight="700" letter-spacing="2" fill="#0c2340">INFRASTRUCTURE</text>
+    <text x="750" y="741" text-anchor="middle" font-size="26" font-weight="700" fill="#1b1a18">MLB International</text>
+    <text x="750" y="780" text-anchor="middle" font-size="18" fill="#61584f">Coaches · clinics · equipment · systems</text>
+
+    <rect x="95" y="685" width="300" height="160" rx="8" fill="#fbf7ef" stroke="#7e8a96" filter="url(#soft)"/>
+    <text x="245" y="732" text-anchor="middle" font-size="18" font-weight="700" letter-spacing="2" fill="#0c2340">ON THE GROUND</text>
+    <text x="245" y="776" text-anchor="middle" font-size="25" font-weight="700" fill="#1b1a18">Coaches + players</text>
+    <text x="245" y="814" text-anchor="middle" font-size="18" fill="#61584f">Training · leagues · repeated practice</text>
+
+    <rect x="1110" y="690" width="300" height="170" rx="8" fill="#f0ece4" stroke="#9f9488" stroke-dasharray="9 7"/>
+    <text x="1260" y="735" text-anchor="middle" font-size="18" font-weight="700" letter-spacing="2" fill="#6b6158">DOCUMENTED SUPPORT</text>
+    <text x="1260" y="778" text-anchor="middle" font-size="25" font-weight="700" fill="#4a433c">Boston Red Sox</text>
+    <text x="1260" y="816" text-anchor="middle" font-size="18" fill="#6b6158">Exact club contribution remains unresolved</text>
+  </g>
+
+  <g fill="none" stroke="#7e8a96" stroke-width="3" marker-end="url(#arrow)">
+    <path d="M395 425 C470 425 515 403 600 397"/>
+    <path d="M900 350 C1000 316 1040 268 1110 258"/>
+    <path d="M1260 335 L1260 405"/>
+    <path d="M750 515 L750 650"/>
+    <path d="M600 730 C500 730 470 760 395 765"/>
+    <path d="M900 735 C990 735 1030 770 1110 775" stroke-dasharray="8 7"/>
+  </g>
+
+  <text x="80" y="922" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2.4" fill="#bd3039">EVIDENTIARY RULE</text>
+  <text x="80" y="954" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#5f564d">An arrow means a documented connection or flow of assistance — not sole causation, command, or ownership.</text>
+  <text x="1420" y="954" text-anchor="end" font-family="'Courier New', monospace" font-size="17" fill="#82776c">RSD / CH02 / GREECE / N01</text>
+</svg>

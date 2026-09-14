@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "policy": "Wave 4: acquire primary images already embedded in the manuscript so the reading experience does not depend on remote image hotlinks.",
+  "destination_root": "books/red-sox-diplomacy/media/primary-source",
+  "assets": [
+    {
+      "dest": "ch02-state-briefing-ned-price-2021.jpg",
+      "commons_filename": "Spokesperson Price Holds the Department Press Briefing (51728591887).jpg",
+      "archive_record": "https://www.flickr.com/photos/statephotos/51728591887/",
+      "maker": "Freddie Everett / U.S. Department of State",
+      "date": "2021-12-06",
+      "rights": "public domain — U.S. Department of State employee work; State Flickr record explicitly marks Public Domain",
+      "chapter": "2",
+      "job": "the State Department briefing room and exact day on which a reporter invoked Burns's Red Sox identity; Burns is not pictured"
+    },
+    {
+      "dest": "ch04-reagan-mubarak-contact-sheet-1984.jpg",
+      "url": "https://www.reaganlibrary.gov/sites/default/files/archives/audiovisual/contactsheets/c19990.jpg",
+      "archive_record": "https://www.reaganlibrary.gov/archives/photo/c19990-02",
+      "maker": "Kightlinger / White House Photo Collection / National Archives",
+      "date": "1984-02-14",
+      "rights": "public domain — White House Photo Collection / U.S. federal government work",
+      "chapter": "4",
+      "job": "full contact sheet for President Reagan's working visit with President Hosni Mubarak; roll-level context for the senior U.S.-Egypt relationship, not evidence of Burns's presence"
+    }
+  ]
+}

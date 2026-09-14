@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 920" role="img" aria-labelledby="title desc">
+  <title id="title">Nicholas Burns revises his judgment on the 2003 Iraq intervention in 2026</title>
+  <desc id="desc">A two-date documentary object preserving Burns's support for the Iraq intervention while serving as ambassador to NATO and his September 2026 public statement that he regretted that support and believed the decision was wrong.</desc>
+  <defs><linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f5f0e6"/><stop offset="1" stop-color="#e8dfd0"/></linearGradient></defs>
+  <rect width="1400" height="920" fill="#161310"/>
+  <rect x="56" y="48" width="1288" height="824" rx="8" fill="url(#paper)"/>
+  <text x="104" y="108" font-family="Georgia, 'Times New Roman', serif" font-size="25" letter-spacing="5" fill="#6c6258">REVISION OBJECT 01 · JUDGMENT ACROSS TIME</text>
+  <line x1="104" y1="138" x2="1296" y2="138" stroke="#bd3039" stroke-width="3"/>
+  <text x="104" y="198" font-family="Georgia, 'Times New Roman', serif" font-size="42" fill="#171411">Revision does not erase the first judgment. It places both in the record.</text>
+
+  <g transform="translate(104 294)">
+    <rect width="560" height="304" rx="8" fill="#0c2340"/>
+    <text x="30" y="48" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2.3" fill="#f3eee3">2003 · THEN</text>
+    <text x="30" y="105" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#f3eee3">Burns was U.S. ambassador to NATO.</text>
+    <text x="30" y="150" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#f3eee3">He supported the Iraq intervention.</text>
+    <line x1="30" y1="188" x2="530" y2="188" stroke="#5b6c82"/>
+    <text x="30" y="229" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#d8dde4">That support belongs to the historical record.</text>
+    <text x="30" y="260" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#d8dde4">Later regret does not retroactively remove it.</text>
+  </g>
+
+  <g transform="translate(736 294)">
+    <rect width="560" height="304" rx="8" fill="#efe7da" stroke="#cbbfaf"/>
+    <text x="30" y="48" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2.3" fill="#bd3039">9 SEPTEMBER 2026 · NOW</text>
+    <text x="30" y="108" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-style="italic" fill="#211c18">“I regret that now.”</text>
+    <text x="30" y="160" font-family="Georgia, 'Times New Roman', serif" font-size="28" fill="#211c18">Burns said the decision to invade</text>
+    <text x="30" y="198" font-family="Georgia, 'Times New Roman', serif" font-size="28" fill="#211c18">Iraq had been wrong.</text>
+    <line x1="30" y1="231" x2="530" y2="231" stroke="#c9bdad"/>
+    <text x="30" y="269" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5f554b">Retrospective judgment, explicitly labeled as such.</text>
+  </g>
+
+  <line x1="664" y1="446" x2="736" y2="446" stroke="#bd3039" stroke-width="4"/>
+  <polygon points="736,446 714,434 714,458" fill="#bd3039"/>
+  <text x="700" y="420" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="1.8" fill="#7a6855">23 YEARS</text>
+
+  <rect x="104" y="676" width="1192" height="116" rx="6" fill="#ece3d5" stroke="#cbbfaf"/>
+  <text x="132" y="712" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="2" fill="#0c2340">DOCUMENTARY RULE</text>
+  <text x="132" y="750" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-style="italic" fill="#4b433b">Self-correction is evidence of reassessment, not absolution, and not proof that every later judgment is superior by virtue of being later.</text>
+
+  <text x="1296" y="850" text-anchor="end" font-family="'Courier New', monospace" font-size="16" fill="#82776c">RSD / CH22 / REVISION / R01</text>
+</svg>

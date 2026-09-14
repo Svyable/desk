@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 980" role="img" aria-labelledby="title desc">
+  <title id="title">George Shultz July 1988 Asia itinerary observed by Nicholas Burns</title>
+  <desc id="desc">A documentary itinerary showing the sequence of stops on Secretary of State George Shultz's July 1988 Asia travels, which Nicholas Burns later described as a lesson in tending the diplomatic garden.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1c30"/>
+      <stop offset="1" stop-color="#10151c"/>
+    </linearGradient>
+  </defs>
+  <rect width="1500" height="980" fill="url(#bg)"/>
+  <text x="78" y="76" font-family="Georgia, 'Times New Roman', serif" font-size="25" letter-spacing="5" fill="#ddd5c9">ITINERARY OBJECT 01 · JULY 1988</text>
+  <line x1="78" y1="104" x2="1422" y2="104" stroke="#bd3039" stroke-width="3"/>
+  <text x="78" y="154" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#b6c0ca">Secretary of State George Shultz · an extended Asia trip with young Foreign Service Officer Nicholas Burns accompanying</text>
+
+  <path d="M122 290 C260 210 344 355 470 285 S700 220 812 306 S1042 360 1160 280 S1320 230 1380 300" fill="none" stroke="#687684" stroke-width="3" stroke-dasharray="7 8"/>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <g transform="translate(112 246)"><circle cx="0" cy="0" r="12" fill="#bd3039"/><text x="0" y="-31" text-anchor="middle" font-size="17" font-weight="700" fill="#ddd5c9">JUL 6–9</text><text x="0" y="47" text-anchor="middle" font-size="22" font-weight="700" fill="#f2ede5">BANGKOK</text></g>
+    <g transform="translate(270 302)"><circle cx="0" cy="0" r="10" fill="#d7cec1"/><text x="0" y="-31" text-anchor="middle" font-size="17" fill="#bdc5cc">JUL 9</text><text x="0" y="47" text-anchor="middle" font-size="21" font-weight="700" fill="#f2ede5">KUALA LUMPUR</text></g>
+    <g transform="translate(430 262)"><circle cx="0" cy="0" r="10" fill="#d7cec1"/><text x="0" y="-31" text-anchor="middle" font-size="17" fill="#bdc5cc">JUL 9–11</text><text x="0" y="47" text-anchor="middle" font-size="21" font-weight="700" fill="#f2ede5">JAKARTA</text></g>
+    <g transform="translate(582 322)"><circle cx="0" cy="0" r="10" fill="#d7cec1"/><text x="0" y="-31" text-anchor="middle" font-size="17" fill="#bdc5cc">JUL 11–13</text><text x="0" y="47" text-anchor="middle" font-size="21" font-weight="700" fill="#f2ede5">MANILA</text></g>
+    <g transform="translate(735 270)"><circle cx="0" cy="0" r="10" fill="#d7cec1"/><text x="0" y="-31" text-anchor="middle" font-size="17" fill="#bdc5cc">JUL 13–14</text><text x="0" y="47" text-anchor="middle" font-size="21" font-weight="700" fill="#f2ede5">HONG KONG</text></g>
+    <g transform="translate(885 326)"><circle cx="0" cy="0" r="12" fill="#bd3039"/><text x="0" y="-31" text-anchor="middle" font-size="17" font-weight="700" fill="#ddd5c9">JUL 14–16</text><text x="0" y="47" text-anchor="middle" font-size="22" font-weight="700" fill="#f2ede5">BEIJING</text></g>
+    <g transform="translate(1034 284)"><circle cx="0" cy="0" r="10" fill="#d7cec1"/><text x="0" y="-31" text-anchor="middle" font-size="17" fill="#bdc5cc">JUL 16–18</text><text x="0" y="47" text-anchor="middle" font-size="21" font-weight="700" fill="#f2ede5">SEOUL</text></g>
+    <g transform="translate(1187 247)"><circle cx="0" cy="0" r="10" fill="#d7cec1"/><text x="0" y="-31" text-anchor="middle" font-size="17" fill="#bdc5cc">JUL 18–20</text><text x="0" y="47" text-anchor="middle" font-size="21" font-weight="700" fill="#f2ede5">TOKYO</text></g>
+    <g transform="translate(1360 305)"><circle cx="0" cy="0" r="10" fill="#d7cec1"/><text x="0" y="-31" text-anchor="middle" font-size="17" fill="#bdc5cc">JUL 20</text><text x="0" y="47" text-anchor="middle" font-size="21" font-weight="700" fill="#f2ede5">MAJURO</text></g>
+  </g>
+
+  <rect x="112" y="455" width="1276" height="302" rx="7" fill="#f1eadf"/>
+  <text x="156" y="510" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2.8" fill="#bd3039">WHAT BURNS REMEMBERED</text>
+  <text x="156" y="572" font-family="Georgia, 'Times New Roman', serif" font-size="35" font-style="italic" fill="#29231f">“Tending the diplomatic garden.”</text>
+  <text x="156" y="624" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#4b433c">No single emergency made the itinerary necessary.</text>
+  <text x="156" y="663" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#4b433c">The travel itself was maintenance: showing up before the relationship was needed.</text>
+  <line x1="156" y1="704" x2="1344" y2="704" stroke="#b9ad9e"/>
+  <text x="156" y="738" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#6d6258">Burns later described the journey as an eight-country, three-week Asia tour. The stop dates above follow the State Department historian’s travel ledger.</text>
+
+  <g transform="translate(112 824)">
+    <circle cx="0" cy="0" r="10" fill="#bd3039"/>
+    <text x="26" y="7" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#ddd5c9">HONOLULU · JUL 21</text>
+    <text x="277" y="7" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#aeb8c2">Shultz closes the Asia travels with a public address on America’s Pacific role.</text>
+  </g>
+
+  <text x="78" y="914" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2.4" fill="#bd3039">SOURCES</text>
+  <text x="78" y="948" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#aeb8c2">Office of the Historian travel chronology · Nicholas Burns, “The Diplomat as Gardener,” 2021</text>
+  <text x="1422" y="948" text-anchor="end" font-family="'Courier New', monospace" font-size="17" fill="#88939d">RSD / CH03 / 1988-07 / I01</text>
+</svg>

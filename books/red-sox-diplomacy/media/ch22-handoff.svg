@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" role="img" aria-labelledby="title desc">
+  <title id="title">Diplomatic handoff from Nicholas Burns to his successor in China</title>
+  <desc id="desc">A relay-style documentary object based on Burns's April 2025 Fairbank lecture, showing the ambassadorial office as a temporary leg in a continuing relationship rather than a final score.</desc>
+  <defs><linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f5f0e6"/><stop offset="1" stop-color="#e8dfd0"/></linearGradient></defs>
+  <rect width="1400" height="900" fill="#101722"/>
+  <rect x="56" y="48" width="1288" height="804" rx="8" fill="url(#paper)"/>
+  <text x="104" y="108" font-family="Georgia, 'Times New Roman', serif" font-size="25" letter-spacing="5" fill="#6c6258">HANDOFF 01 · BEIJING FILE · 2025</text>
+  <line x1="104" y1="138" x2="1296" y2="138" stroke="#bd3039" stroke-width="3"/>
+  <text x="104" y="198" font-family="Georgia, 'Times New Roman', serif" font-size="42" fill="#171411">The office is temporary. The relationship keeps moving.</text>
+
+  <line x1="144" y1="464" x2="1256" y2="464" stroke="#cbbfaf" stroke-width="8" stroke-linecap="round"/>
+
+  <g>
+    <circle cx="342" cy="464" r="92" fill="#0c2340"/>
+    <text x="342" y="442" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="2" fill="#f3eee3">NICHOLAS BURNS</text>
+    <text x="342" y="478" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="21" fill="#f3eee3">2022–2025</text>
+    <text x="342" y="510" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="18" fill="#d8dde4">holds the baton</text>
+  </g>
+
+  <rect x="566" y="423" width="268" height="82" rx="41" fill="#bd3039"/>
+  <text x="700" y="455" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="2.2" fill="#fff9ef">THE FILE / THE RELATIONSHIP</text>
+  <text x="700" y="485" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="18" font-style="italic" fill="#fff9ef">unfinished by design</text>
+
+  <g>
+    <circle cx="1058" cy="464" r="92" fill="#efe7da" stroke="#bd3039" stroke-width="3"/>
+    <text x="1058" y="442" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="2" fill="#bd3039">DAVID PERDUE</text>
+    <text x="1058" y="478" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="21" fill="#211c18">successor</text>
+    <text x="1058" y="510" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="18" fill="#5f554b">receives the next leg</text>
+  </g>
+
+  <line x1="434" y1="464" x2="558" y2="464" stroke="#0c2340" stroke-width="4"/>
+  <polygon points="558,464 536,452 536,476" fill="#0c2340"/>
+  <line x1="842" y1="464" x2="958" y2="464" stroke="#bd3039" stroke-width="4"/>
+  <polygon points="958,464 936,452 936,476" fill="#bd3039"/>
+
+  <rect x="104" y="650" width="1192" height="132" rx="6" fill="#ece3d5" stroke="#cbbfaf"/>
+  <text x="132" y="689" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="2" fill="#0c2340">BURNS'S OWN IMAGE</text>
+  <text x="132" y="729" font-family="Georgia, 'Times New Roman', serif" font-size="21" font-style="italic" fill="#4b433b">In April 2025 he compared diplomacy to a relay race: he had held the U.S. baton in China and was handing it to his successor.</text>
+  <text x="132" y="760" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#6c6258">The metaphor describes continuity of office, not endorsement of every future policy choice.</text>
+
+  <text x="1296" y="836" text-anchor="end" font-family="'Courier New', monospace" font-size="16" fill="#82776c">RSD / CH22 / HANDOFF / H01</text>
+</svg>
