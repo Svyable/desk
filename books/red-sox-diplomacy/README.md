@@ -5,11 +5,11 @@
 | | |
 |---|---|
 | **Author** | Sven Hardy Benson |
-| **Status** | Drafting |
+| **Status** | Revision in progress |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
 | **Chapters** | 22 of 22 drafted + prologue + epilogue |
-| **Editorial State** | Complete first-pass manuscript; continuity/compression passes complete; evidence control in progress |
+| **Editorial State** | Complete manuscript; full continuity/compression and antislop passes complete; publication evidence/integration gates in progress |
 | **Form** | Documentary narrative biography |
 | **Language** | English |
 
@@ -48,7 +48,7 @@ The Red Sox also provide a second historical clock. Burns’s life runs beside a
 - [x] [Epilogue — The Next Inning](manuscript/epilogue-the-next-inning.md)
 - [x] [Source Notes — Reader-facing documentary links](manuscript/source-notes.md)
 
-The architecture may expand only if research reveals a genuinely distinct documented dramatic center. Chapter count is subordinate to the life; broad thematic expansion is otherwise frozen while evidence control catches up with the complete manuscript.
+The architecture may expand only if research reveals a genuinely distinct documented dramatic center. Chapter count is subordinate to the life; broad thematic expansion is otherwise frozen while publication evidence and integration work finish.
 
 ## Evidentiary rule
 
