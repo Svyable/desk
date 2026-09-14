@@ -10,7 +10,7 @@ They are also where juniors live.
 
 That creates a problem that first appears as a triumph.
 
-In one of the most influential early studies of generative AI in real work, Erik Brynjolfsson, Danielle Li, and Lindsey Raymond examined more than five thousand customer-support agents. Access to an AI assistant increased productivity on average, with much larger gains among less experienced and lower-skilled workers. The system appeared to help diffuse patterns associated with stronger performers.
+In one of the most influential early studies of generative AI in real work, Erik Brynjolfsson, Danielle Li, and Lindsey Raymond examined [5,172 customer-support agents](https://www.gsb.stanford.edu/faculty-research/publications/generative-ai-work). In the final 2025 *Quarterly Journal of Economics* article, access to an AI assistant increased issues resolved per hour by 15 percent on average, with much larger gains among less experienced and lower-skilled workers. The authors also found evidence that the assistance accelerated worker learning rather than merely making novices look better while the tool was present.
 
 That is the optimistic story of AI and apprenticeship.
 
@@ -43,6 +43,14 @@ The arithmetic is compelling. If one senior professional with AI can produce the
 For a profession, it can become a succession problem.
 
 Where do seniors come from?
+
+That question has begun to acquire labor-market evidence. In an [August 12, 2026 revision](https://digitaleconomy.stanford.edu/publication/canaries-in-the-coal-mine-six-facts-about-the-recent-employment-effects-artificial-intelligence/) using payroll data through June 2026, Erik Brynjolfsson, Bharat Chandar, and Ruyu Chen report no widespread economy-wide AI displacement, but a widening gap among workers ages twenty-two to twenty-five in highly AI-exposed occupations. Employment for that group stood about 19 percent below where it would have been had it kept pace with similarly aged workers in less-exposed occupations, with the difference appearing mainly through reduced hiring rather than increased separations. Experienced workers showed no comparable gap.
+
+That is not proof that AI has broken apprenticeship. Hiring moves for many reasons, exposure measures are imperfect, and the result is early observational evidence. But it makes the pipeline question harder to dismiss as science fiction.
+
+![Conceptual diagram separating development of the hired junior from the profession-level entry pipeline](../media/ch09-two-ledgers.svg)
+
+*Two separate ledgers matter. AI assistance can make the junior who is already hired more productive and, in some settings, help that worker learn faster. At the same time, automation can change how many junior positions exist through which people accumulate experience. Better development per hired junior does not by itself answer how many future experts the system will produce. Conceptual diagram by the author; evidence anchors: Brynjolfsson, Li & Raymond (2025) and Brynjolfsson, Chandar & Chen (rev. 2026).*
 
 Labor markets make experienced people look like natural resources. Post a job requiring ten years of experience and applicants appear. The ten years happened somewhere else.
 
