@@ -24,13 +24,9 @@ Compete. Communicate. Cooperate where interests permitted.
 
 The middle word did most of the diplomatic work.
 
-It was not a neutral word.
-
 Beijing wanted communication too, but rejected the American premise around it.
 
 When Foreign Minister Qin Gang met Burns in May 2023, the Chinese Foreign Ministry's own account said the relationship needed stabilization and that the two countries should prevent unexpected incidents. Then Qin accused Washington of talking about communication while pursuing policies China regarded as suppression and containment. He urged Burns to make more contacts inside China and to serve as a bridge between the two countries.
-
-That is a useful complication.
 
 Both governments could say communication mattered while disagreeing about what communication was for. Burns's formula treated competition as the condition inside which communication had to work. Beijing repeatedly objected to defining the relationship by competition at all.
 
@@ -50,11 +46,7 @@ Two governments assigned different explanations to it.
 
 Domestic politics accelerated.
 
-Military action followed.
-
 A diplomatic visit disappeared from the calendar.
-
-Whatever communication had existed was suddenly more difficult at exactly the moment interpretation mattered more.
 
 The relationship did not remain frozen.
 
@@ -74,7 +66,7 @@ Professionally, it is frequently an assignment sheet.
 
 *CHANNEL RECOVERY 01 — The February balloon crisis disrupted contact; Blinken's June visit explicitly emphasized communication to reduce miscalculation; Woodside created additional military, counternarcotics and people-to-people work. This records recovery of channels, not recovery of trust and not personal authorship by the ambassador. [U.S. June 2023 readout.](https://2021-2025.state.gov/secretary-blinkens-visit-to-the-peoples-republic-of-china-prc/) [Chinese Woodside readout.](https://www.fmprc.gov.cn/eng/wjb/zzjg_663340/bmdyzs_664814/xwlb_664816/202312/t20231204_11194316.html)*
 
-By April 2024, the Chinese record was describing Burns, Assistant Secretary Daniel Kritenbrink, National Security Council official Sarah Beran and Chinese officials engaged in candid and constructive talks across bilateral and regional issues. The same readout paired that support for continued exchange with sharp objections over Taiwan, technology policy, alliances and the South China Sea.
+By April 2024, the Chinese record was describing Burns, Assistant Secretary Daniel Kritenbrink, National Security Council official Sarah Beran and Chinese officials engaged in candid and constructive talks across bilateral and regional issues. The same readout paired that support for exchange with sharp objections over Taiwan, technology policy, alliances and the South China Sea.
 
 The channel did not sit outside the conflict.
 
@@ -86,8 +78,6 @@ Burns also pushed a less dramatic form of contact.
 
 People.
 
-The word can become abstract quickly. In Burns's China life it had a physical form, and it was not his alone.
-
 He and Libby arrived in March 2022 and spent their first twenty-one days quarantined in the residence. Later Burns often described the posting in the plural: the two of them trying to learn Mandarin, traveling when they could, attempting to see a country that had been difficult for outsiders to enter during zero-COVID.
 
 In one early walk from the residence toward Tiananmen Square, Burns recalled passing through checkpoint after checkpoint and being held while officials tried to determine what the American ambassador was doing on foot.
@@ -96,41 +86,27 @@ Later, when movement became easier, the couple took second-class train rides and
 
 None of this was negotiation.
 
-That is why it belongs here.
-
 The ambassador remained the official representative. His spouse did not acquire delegated authority by proximity. But diplomatic life was shared, and the Beijing record gives Elizabeth Baylies Burns an independent presence.
 
 An attendee at an October 2024 residence event, *A Celebration of Contemporary Chinese Art*, reported that Libby conceived the idea of bringing Chinese and China-inspired artists into a residence where American art normally dominated the display. The account is eyewitness reporting, not an embassy transcript, and should remain at that evidentiary level. Other records show Burns and Libby selecting work for the State Department's Art in the Embassies program and hosting Chinese academics and foreign diplomats at an Ambassadors for Nature event.
 
 The residence had again become a place where the shared life of a posting touched public representation.
 
-Athens had done this too.
-
-The parallel is not that Greece and China were alike.
-
-It is that domestic space can become diplomatic space without turning every dinner, painting or conversation into foreign policy.
-
 The pandemic and political deterioration had reduced ordinary movement between the two societies. American students were far less present in China than they had once been. Academic and cultural exchange had become harder. Political suspicion attached itself to institutions that might previously have been treated as routine bridges.
 
 Burns argued publicly for rebuilding some of those connections.
-
-The claim should remain modest.
 
 Students do not solve Taiwan. A cultural event does not remove export controls. A visiting scholar does not create military confidence.
 
 Direct contact does something smaller: it makes the other society harder to reduce entirely to an abstraction.
 
-Even that proposition became contested terrain.
+Even that became contested terrain.
 
-In 2024, Burns publicly accused Chinese authorities of interfering with U.S. Embassy cultural, educational and people-to-people programming. He described repeated obstruction after Woodside and argued that Chinese actions were making the promised expansion of exchange more difficult.
+In 2024, Burns publicly accused Chinese authorities of interfering with U.S. Embassy cultural, educational and people-to-people programming. The State Department backed his complaint.
 
-The State Department backed his complaint.
+China rejected the characterization. Its Foreign Ministry said China supported people-to-people exchange while objecting to what it regarded as American interference and politicization.
 
-China rejected the characterization.
-
-Its Foreign Ministry said China supported people-to-people exchange while objecting to what it regarded as American interference and politicization. Beijing's stated position was that Washington could not pursue policies China regarded as hostile in other domains and then treat Chinese resistance as proof that China opposed exchange itself.
-
-The dispute is useful because both governments said contact mattered and then disagreed about what was preventing it.
+Both governments said contact mattered and disagreed about what was preventing it.
 
 ![CONTESTED CHANNEL 01 — competing U.S. and Chinese accounts of people-to-people exchange in June 2024.](../media/ch18-contested-channel.svg)
 
