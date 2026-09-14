@@ -1,12 +1,13 @@
 #!/usr/bin/env python3
 """Rebuild Red Sox Diplomacy's canonical source ledger deterministically.
 
-The 185-row source-ledger.csv is the canonical baseline. Historical addenda
-02-15 are already absorbed and are therefore provenance only. This script
-merges addenda 16 through the highest numbered addendum present, normalizes
-stable URLs for duplicate comparison, preserves the earliest source record,
-uses a later duplicate's materially fuller book_use description when useful,
-and finally reassigns canonical rsd-### IDs in stable corpus order.
+The preserved 185-row source-ledger-baseline.csv is the canonical baseline.
+Historical addenda 02-15 are already absorbed and are therefore provenance
+only. This script merges addenda 16 through the highest numbered addendum
+present, normalizes stable URLs for duplicate comparison, preserves the
+earliest source record, uses a later duplicate's materially fuller book_use
+description when useful, and finally reassigns canonical rsd-### IDs in stable
+corpus order.
 
 Run from the repository root:
 
@@ -48,6 +49,7 @@ TRACKING_KEYS = {
 }
 TRACKING_PREFIXES = ("utm_",)
 BASELINE_ROWS = 185
+BASELINE_FILE = "source-ledger-baseline.csv"
 ADDENDUM_START = 16
 
 
@@ -226,12 +228,19 @@ def main() -> int:
 
     research = Path(__file__).resolve().parent
     ledger = research / "source-ledger.csv"
-    baseline = load_csv(ledger)
+    baseline_path = research / BASELINE_FILE
+    baseline = load_csv(baseline_path)
     if len(baseline) != BASELINE_ROWS:
         raise SystemExit(
-            f"Refusing rebuild: expected {BASELINE_ROWS} canonical baseline rows, found {len(baseline)}. "
-            "If the canonical baseline has already changed, update this script deliberately."
+            f"Refusing rebuild: expected {BASELINE_ROWS} rows in {BASELINE_FILE}, found {len(baseline)}. "
+            "Update the preserved baseline and this script deliberately if the baseline contract changes."
         )
+
+    # Preserve the historical reconciliation vocabulary from the first rebuild:
+    # these rows are the original source-ledger.csv baseline even though that
+    # immutable snapshot now lives in source-ledger-baseline.csv.
+    for row in baseline:
+        row.origin = "source-ledger.csv"
 
     staged_paths = addenda(research)
     if not staged_paths:
