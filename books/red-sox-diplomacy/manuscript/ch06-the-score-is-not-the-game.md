@@ -14,11 +14,11 @@ A deadline gives officials something to repeat, newspapers something to print an
 
 The work required to make the sentence true was less tidy.
 
-Nicholas Burns had reached the National Security Council after years spent closer to the edge of American power: Cairo, Jerusalem, the State Department Operations Center, Soviet and Eastern European work. By the Clinton administration he was the senior White House official for Russia, Ukraine and Eurasia.
+Nicholas Burns had reached the National Security Council after Cairo, Jerusalem, the State Department Operations Center, and Soviet and Eastern European work. By the Clinton administration he was the senior White House official for Russia, Ukraine and Eurasia.
 
 The Soviet Union had disappeared. Its consequences had not.
 
-Fifteen independent states occupied the map where one superpower had stood. Nuclear weapons had to be accounted for. Economies were collapsing and being rebuilt at the same time. Borders that had existed inside one state had become international borders.
+Fifteen independent states occupied the map where one superpower had stood. Nuclear weapons had to be accounted for. Economies were collapsing and being rebuilt. Borders that had existed inside one state had become international borders.
 
 Russian troops were still sitting in countries that regarded them as an occupying force.
 
@@ -30,7 +30,7 @@ Russian officials linked the issue to the rights of Russian-speaking minorities 
 
 In early February 1994, a Latvian delegation came to Washington carrying much of that argument with it. Foreign Minister Georgs Andrejevs was joined by leaders of all eight political factions in Latvia's parliament. One session in the White House Situation Room lasted roughly an hour and a half with Burns.
 
-Washington was not negotiating only with a government. Latvia itself had to decide what compromise it could live with. Any agreement with Russia would be judged at home by people whose country had spent decades under Soviet control. A technically elegant bargain that looked like submission would not survive its own politics.
+Latvia itself had to decide what compromise it could live with. Any agreement with Russia would be judged at home by people whose country had spent decades under Soviet control. A technically elegant bargain that looked like submission would not survive its own politics.
 
 The dispute over Skrunda concentrated the problem.
 
@@ -40,9 +40,9 @@ President Clinton proposed a compromise: four years of operation, then eighteen 
 
 Burns communicated the proposal to the Latvian side.
 
-No secret channel. No lone envoy carrying a final offer through the night. A delegation, a conference table, competing domestic pressures, technical details and a White House official trying to prevent one component from swallowing the objective.
+No secret channel. No lone envoy carrying a final offer through the night. A delegation, a conference table, competing domestic pressures, technical details and a White House official trying to keep one component from swallowing the objective.
 
-Agreement on the headline did not produce agreement on the implementation.
+Agreement on the headline did not produce agreement on implementation.
 
 The Latvian negotiations eventually produced a withdrawal agreement for August 31. Clinton publicly credited the engagement of both sides and emphasized Sweden's constructive role as well as that of the United States. Washington was important. It was not alone.
 
@@ -50,9 +50,7 @@ Estonia remained more difficult.
 
 The Clinton administration pressed Moscow while also confronting the argument Yeltsin kept making about Russian minorities. Washington did not accept continued military presence as the answer to minority-rights concerns. It did treat those concerns as politically real.
 
-In Riga in July 1994, Clinton publicly pressed for complete Russian withdrawal while also urging the Baltic states to build inclusive democratic societies. He was talking to more than one audience at once.
-
-So were the officials behind him.
+In Riga in July 1994, Clinton publicly pressed for complete Russian withdrawal while urging the Baltic states to build inclusive democratic societies. He was talking to more than one audience at once.
 
 [![Implementation ledger for selected U.S. support measures connected to the 1994 Baltic troop withdrawals](../media/ch06-implementation-ledger.svg)](https://clintonwhitehouse6.archives.gov/1994/07/1994-07-10-backgrounder-on-clinton-yeltsin-meeting.html)
 
@@ -72,19 +70,19 @@ History could keep the line. Burns had spent years inside the parts the line dis
 
 A Latvian parliamentary delegation that needed persuading. An Estonian government trying to keep the problem from drifting. Russian officers who needed somewhere to go. A radar station that was both military hardware and historical residue. A Russian president facing his own parliament and military. Baltic governments whose recovered sovereignty could not yet enforce itself automatically.
 
-Those details do not diminish the outcome. They are the outcome's machinery.
+Those details are the outcome's machinery.
 
 That summer, another American institution people liked to describe as permanent stopped in the middle of its calendar.
 
 Major League Baseball players went on strike in August. The season did not resume. The postseason disappeared with it, including the World Series.
 
-The juxtaposition should not be asked to do more than chronology can bear. A labor dispute in professional sports was not remotely equivalent to the end of a military occupation. But it belongs to the American atmosphere of 1994. Washington was speaking with enormous confidence about a new post-Cold War order while the national pastime was demonstrating that even familiar institutions could seize up over money, power, labor and trust.
+The juxtaposition should not be asked to do more than chronology can bear. A labor dispute in professional sports was not remotely equivalent to the end of a military occupation. It belongs to the American atmosphere of 1994, nothing more.
 
 On August 31, Russian troops completed the Baltic withdrawals while the baseball season remained suspended.
 
 One date closed a geopolitical chapter.
 
-The other calendar simply had a hole in it.
+The other calendar had a hole in it.
 
 *ARCHIVE NOTE — Major League Baseball's 1994 season stopped after play on August 11 when the players' strike began; the remainder of the season and postseason were canceled, leaving 1994 without a World Series. [MLB postseason history.](https://www.mlb.com/postseason/history/1994) [1994 standings.](https://www.mlb.com/standings/mlb/1994)*
 
@@ -92,13 +90,11 @@ The title's baseball language should not carry more than that.
 
 A score is clean. A game is not.
 
-Foreign policy rarely offers the relief of a final result. A country can achieve military withdrawal and remain insecure. It can settle one issue and inherit another. It can sign an agreement with today's president and still have to think about tomorrow's government.
-
 By 1994 the Soviet flag was gone and the Baltic states were free. If visible outcomes were enough, the story would have been finished.
 
 It was not.
 
-The question was what kind of order would replace the one that had disappeared. NATO enlargement, Russia's place in Europe and the violence in the Balkans would keep the problem open for years.
+NATO enlargement, Russia's place in Europe and the violence in the Balkans would keep the larger question open for years.
 
 The Baltic withdrawal was unusually clear only at the surface.
 
