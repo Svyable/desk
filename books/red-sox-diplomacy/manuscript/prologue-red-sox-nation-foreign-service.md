@@ -36,6 +36,12 @@ There is no uncomplicated national pastime to recover.
 
 There is only the actual one.
 
+Ken Burns and Lynn Novick built their *Baseball* films around essentially that refusal of innocence. In Burns's 1994 description, the game held the same American fault lines he kept finding elsewhere: race, labor, class, immigration, heroism and popular culture. He called baseball a microcosm of American society. Years later, the PBS account of *The Tenth Inning* described the game as a mirror of the country at its best and worst.
+
+That is closer to the role baseball plays in this book. Not an escape from American complication. A durable place where the complication keeps becoming visible.
+
+Burns and Novick also make a second claim that matters here: continuity. Baseball gives generations a shared store of memory, a ritual that can survive enormous changes in the country around it. The continuity is cultural, not literally geometric. The pitcher's distance of sixty feet, six inches dates to 1893; the point is not that every measurement has been frozen since the Civil War. The point is that Americans have kept returning to a recognizable game while the meaning of America around the diamond has changed repeatedly.
+
 That gives the book a second clock. Administrations change. Wars begin and end. Alliances enlarge. Countries disappear from maps. April comes. Fenway fills. A score reaches an embassy in another time zone.
 
 Sometimes the two clocks cross in the record.
@@ -65,3 +71,5 @@ Before he spoke for America, Nicholas Burns had a hometown, a family and a team 
 He loved it anyway.
 
 This book begins there.
+
+*ARCHIVE NOTE — Ken Burns told the International Documentary Association in 1994 that baseball reflects American questions of race, labor, class, immigration, heroism and popular culture, and described the game as a microcosm of society. Burns and Lynn Novick's PBS account of the series emphasizes continuity, accumulated memory and baseball as a mirror of America at its best and worst. [IDA interview.](https://www.documentary.org/feature/ken-burns-talks-about-baseball-documentary) [PBS: About Baseball and The Tenth Inning.](https://www.pbs.org/kenburns/baseball/about)*
