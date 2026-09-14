@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Stored is not the same as remembered</title>
+  <desc id="desc">A conceptual diagram showing knowledge becoming operational memory only when storage is connected to provenance, indexing, retrieval, interpretation, action, and feedback. A lower migration path shows how moving information into a new system can preserve records while losing fields, context, or findability.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#222"/>
+    </marker>
+    <style>
+      .box{fill:#fff;stroke:#222;stroke-width:2;rx:13;ry:13}
+      .soft{fill:#f3f3f3;stroke:#222;stroke-width:2;rx:13;ry:13}
+      .dark{fill:#e5e5e5;stroke:#111;stroke-width:3;rx:13;ry:13}
+      .line{stroke:#222;stroke-width:2.4;fill:none;marker-end:url(#arrow)}
+      .dash{stroke:#555;stroke-width:2.2;stroke-dasharray:8 7;fill:none;marker-end:url(#arrow)}
+      .head{font-family:Arial,Helvetica,sans-serif;font-size:32px;font-weight:700;fill:#111}
+      .sub{font-family:Arial,Helvetica,sans-serif;font-size:20px;fill:#333}
+      .label{font-family:Arial,Helvetica,sans-serif;font-size:21px;font-weight:700;fill:#111}
+      .body{font-family:Arial,Helvetica,sans-serif;font-size:18px;fill:#222}
+      .small{font-family:Arial,Helvetica,sans-serif;font-size:16px;fill:#444}
+      .tiny{font-family:Arial,Helvetica,sans-serif;font-size:14px;fill:#555}
+    </style>
+  </defs>
+
+  <text x="600" y="48" text-anchor="middle" class="head">Stored is not the same as remembered</text>
+  <text x="600" y="79" text-anchor="middle" class="sub">Operational memory is a path from record to retrieval to changed action.</text>
+
+  <text x="60" y="132" class="label">A working memory system</text>
+
+  <rect x="60" y="157" width="150" height="105" class="soft"/>
+  <text x="135" y="194" text-anchor="middle" class="body">Record</text>
+  <text x="135" y="223" text-anchor="middle" class="small">what happened</text>
+  <text x="135" y="246" text-anchor="middle" class="small">what was decided</text>
+
+  <rect x="245" y="157" width="150" height="105" class="box"/>
+  <text x="320" y="194" text-anchor="middle" class="body">Provenance</text>
+  <text x="320" y="223" text-anchor="middle" class="small">who • when • why</text>
+  <text x="320" y="246" text-anchor="middle" class="small">source + context</text>
+
+  <rect x="430" y="157" width="150" height="105" class="box"/>
+  <text x="505" y="194" text-anchor="middle" class="body">Index</text>
+  <text x="505" y="223" text-anchor="middle" class="small">names • subjects</text>
+  <text x="505" y="246" text-anchor="middle" class="small">relationships</text>
+
+  <rect x="615" y="157" width="150" height="105" class="dark"/>
+  <text x="690" y="194" text-anchor="middle" class="body">Retrieve</text>
+  <text x="690" y="223" text-anchor="middle" class="small">find the right thing</text>
+  <text x="690" y="246" text-anchor="middle" class="small">when it matters</text>
+
+  <rect x="800" y="157" width="150" height="105" class="box"/>
+  <text x="875" y="194" text-anchor="middle" class="body">Interpret</text>
+  <text x="875" y="223" text-anchor="middle" class="small">apply context</text>
+  <text x="875" y="246" text-anchor="middle" class="small">notice mismatch</text>
+
+  <rect x="985" y="157" width="150" height="105" class="dark"/>
+  <text x="1060" y="194" text-anchor="middle" class="body">Act</text>
+  <text x="1060" y="223" text-anchor="middle" class="small">change a decision</text>
+  <text x="1060" y="246" text-anchor="middle" class="small">or behavior</text>
+
+  <path d="M210 210 H245" class="line"/>
+  <path d="M395 210 H430" class="line"/>
+  <path d="M580 210 H615" class="line"/>
+  <path d="M765 210 H800" class="line"/>
+  <path d="M950 210 H985" class="line"/>
+
+  <path d="M1060 262 V306 H135 V262" class="dash"/>
+  <text x="600" y="330" text-anchor="middle" class="small">Feedback updates the record: what worked, what failed, what changed.</text>
+
+  <line x1="60" y1="372" x2="1140" y2="372" stroke="#999" stroke-width="1.5"/>
+
+  <text x="60" y="419" class="label">Migration can preserve storage while damaging memory</text>
+
+  <rect x="90" y="449" width="260" height="126" class="soft"/>
+  <text x="220" y="486" text-anchor="middle" class="body">Old system</text>
+  <text x="220" y="517" text-anchor="middle" class="small">records + fields + filing rules</text>
+  <text x="220" y="542" text-anchor="middle" class="small">local knowledge of how to search it</text>
+
+  <rect x="470" y="449" width="260" height="126" class="box"/>
+  <text x="600" y="486" text-anchor="middle" class="body">Conversion</text>
+  <text x="600" y="517" text-anchor="middle" class="small">copy • map • transcribe</text>
+  <text x="600" y="542" text-anchor="middle" class="small">some structure may not survive</text>
+
+  <rect x="850" y="449" width="260" height="126" class="dark"/>
+  <text x="980" y="486" text-anchor="middle" class="body">New system</text>
+  <text x="980" y="517" text-anchor="middle" class="small">faster access for most queries</text>
+  <text x="980" y="542" text-anchor="middle" class="small">but omissions can become invisible</text>
+
+  <path d="M350 512 H470" class="line"/>
+  <path d="M730 512 H850" class="line"/>
+
+  <rect x="345" y="618" width="510" height="74" class="box"/>
+  <text x="600" y="649" text-anchor="middle" class="body">Resilience keeps the older path available until equivalence is proven.</text>
+  <text x="600" y="675" text-anchor="middle" class="small">Preserve enough provenance and retrieval structure to discover what the migration missed.</text>
+  <path d="M220 575 C220 625 290 655 345 655" class="dash"/>
+
+  <text x="600" y="732" text-anchor="middle" class="tiny">Conceptual diagram. Inspired by records-management practice and the Library of Congress card-catalog migration case; not a quantitative model.</text>
+</svg>
