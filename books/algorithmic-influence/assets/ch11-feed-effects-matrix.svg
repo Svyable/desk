@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Feed ranking changes exposure reliably, but persuasion depends on the system</title>
+  <desc id="desc">An original comparison of three experiments used in Chapter 11. Meta's 2020 election experiment changed feed exposure without statistically significant movement in several measured political attitudes. A 2023 X experiment found that switching some users from chronological to algorithmic ranking changed exposure and selected political attitudes. A 2024 election custom-feed experiment published in 2026 found that redesigning ranking objectives reduced exposure to intergroup, moralized, emotional and toxic content and improved some perceived social norms without reducing enjoyment. The figure emphasizes that ranking is not one treatment and that chronology is not the only alternative.</desc>
+  <style>
+    text { font-family: Georgia, 'Times New Roman', serif; fill: #111; }
+    .title { font-size: 34px; font-weight: 700; }
+    .subtitle { font-size: 19px; }
+    .label { font-size: 23px; font-weight: 700; }
+    .body { font-size: 18px; }
+    .small { font-size: 15px; }
+    .rule { stroke: #111; stroke-width: 2; }
+    .box { fill: none; stroke: #111; stroke-width: 2; rx: 14; }
+    .arrow { fill: none; stroke: #111; stroke-width: 2.5; marker-end: url(#arrowhead); }
+  </style>
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#111"/>
+    </marker>
+  </defs>
+
+  <text x="60" y="62" class="title">The feed changes first. Persuasion is conditional.</text>
+  <text x="60" y="96" class="subtitle">Three experiments, three different causal jobs.</text>
+
+  <rect x="60" y="145" width="330" height="390" class="box"/>
+  <text x="90" y="190" class="label">META · 2020 election</text>
+  <text x="90" y="225" class="body">Algorithmic ranking → chronology</text>
+  <line x1="90" y1="245" x2="360" y2="245" class="rule"/>
+  <text x="90" y="286" class="body">Exposure changed substantially.</text>
+  <text x="90" y="320" class="body">Time on platform fell.</text>
+  <text x="90" y="372" class="body">Several measured political</text>
+  <text x="90" y="401" class="body">attitudes and knowledge outcomes</text>
+  <text x="90" y="430" class="body">did not move significantly.</text>
+  <text x="90" y="486" class="small">Causal lesson: allocation power</text>
+  <text x="90" y="508" class="small">does not guarantee persuasion.</text>
+
+  <rect x="435" y="145" width="330" height="390" class="box"/>
+  <text x="465" y="190" class="label">X · 2023 field experiment</text>
+  <text x="465" y="225" class="body">Chronology → algorithmic feed</text>
+  <line x1="465" y1="245" x2="735" y2="245" class="rule"/>
+  <text x="465" y="286" class="body">Exposure and engagement changed.</text>
+  <text x="465" y="320" class="body">Users followed different accounts.</text>
+  <text x="465" y="372" class="body">Selected political attitudes shifted</text>
+  <text x="465" y="401" class="body">in a conservative direction.</text>
+  <text x="465" y="453" class="body">Turning the algorithm off did not</text>
+  <text x="465" y="482" class="body">produce a symmetric reversal.</text>
+  <text x="465" y="516" class="small">Causal lesson: persuasion can occur,</text>
+  <text x="465" y="538" class="small">and path dependence matters.</text>
+
+  <rect x="810" y="145" width="330" height="390" class="box"/>
+  <text x="840" y="190" class="label">CUSTOM FEEDS · 2024</text>
+  <text x="840" y="225" class="body">Ranking objective redesigned</text>
+  <line x1="840" y1="245" x2="1110" y2="245" class="rule"/>
+  <text x="840" y="286" class="body">Less intergroup, moralized,</text>
+  <text x="840" y="315" class="body">emotional and toxic exposure.</text>
+  <text x="840" y="367" class="body">Some social-norm perceptions</text>
+  <text x="840" y="396" class="body">became more accurate.</text>
+  <text x="840" y="448" class="body">Reported enjoyment was maintained.</text>
+  <text x="840" y="500" class="small">Causal lesson: ranking itself can be</text>
+  <text x="840" y="522" class="small">redesigned; chronology is not the only alternative.</text>
+
+  <path d="M225 575 C225 625, 600 625, 600 665" class="arrow"/>
+  <path d="M600 575 L600 665" class="arrow"/>
+  <path d="M975 575 C975 625, 600 625, 600 665" class="arrow"/>
+  <text x="330" y="710" class="label">The political effect belongs to a specific ranking rule, platform state,</text>
+  <text x="355" y="740" class="label">content supply, user population and moment — not to “the algorithm” in general.</text>
+</svg>
