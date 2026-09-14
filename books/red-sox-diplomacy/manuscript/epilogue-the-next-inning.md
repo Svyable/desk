@@ -18,6 +18,8 @@ It carries them.
 
 That is why baseball can provide continuity without providing innocence.
 
+*ARCHIVE NOTE — In a 1994 interview conducted as his documentary series *Baseball* was about to air, filmmaker Ken Burns described the game as reflecting questions of race, labor, class, heroism, popular culture and immigration, and as a microcosm of American society. [International Documentary Association interview.](https://www.documentary.org/feature/ken-burns-talks-about-baseball-documentary) PBS's later project description similarly frames baseball as interwoven with American history rather than separate from it. [PBS, *Baseball*.](https://www.pbs.org/kenburns/baseball/about)*
+
 The fan enters in the middle.
 
 So does the diplomat.
