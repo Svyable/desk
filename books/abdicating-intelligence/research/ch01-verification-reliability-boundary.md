@@ -73,3 +73,42 @@ Do not use aviation or medicine to claim that generative AI will necessarily pro
 ## Safe one-sentence formulation
 
 A reliable machine does not make verification impossible; it changes the economics and attention of verification, which is why the quality of the human-machine system depends on whether independent evidence, practiced judgment, and real authority remain available when the machine is wrong.
+
+## Media integration — independent review versus repeated review
+
+Asset: `../media/ch01-independent-review.svg`
+
+Working title: **More review events ≠ more independent review**
+
+Purpose: make the manuscript’s sequence — “A machine writes. Another machine checks. A third summarizes the check. A human receives a green indicator.” — legible as an architectural problem rather than a claim that machine review is inherently useless. The diagram contrasts a shared cognitive pipeline, where several review events can inherit the same upstream evidence or omissions, with a review architecture that introduces an independent evidence path before the human decision.
+
+### Rights and provenance
+
+- Artwork: original SVG created for *Abdicating Intelligence* in the Desk repository on 2026-09-14.
+- Third-party visual material: none.
+- Logos, screenshots, proprietary interfaces, commercial icons, copied charts, and traced artwork: none.
+- Copyright/permission posture: publication-safe original artwork. The underlying research sources are used as factual and conceptual evidence only; no source artwork is reproduced.
+- Attribution required in the published figure: none beyond normal book authorship/production credit. Keep the research sources in notes/back matter as appropriate.
+
+### Evidence boundary
+
+The upper pipeline is conceptual. It does **not** claim that two models, agents, or vendors necessarily share errors, nor that model ensembles or automated cross-checking lack value. Its narrower claim is that repeated processing is not the same thing as evidentiary independence when stages inherit the same source error, omission, or upstream compression.
+
+That boundary is consistent with the automation-bias literature already collected here. Mosier et al. and Skitka et al. show that additional people or expertise do not automatically remove automation-related omission and commission errors; Singh et al. shows that reliability history can alter monitoring. None of those studies directly tests modern multi-agent generative-AI review chains, so the figure must remain explicitly conceptual rather than empirical.
+
+Fresh source verification for this pass:
+- Singh, Molloy & Parasuraman (1997), PubMed record and DOI: https://pubmed.ncbi.nlm.nih.gov/11539855/ and https://doi.org/10.1006/ijhc.1996.0081
+- Mosier et al. (1997), PubMed record and DOI: https://pubmed.ncbi.nlm.nih.gov/11540946/ and https://doi.org/10.1207/s15327108ijap0801_3
+- Skitka et al. (2000), PubMed record and DOI: https://pubmed.ncbi.nlm.nih.gov/11543300/ and https://doi.org/10.1207/S15327108IJAP1001_5
+
+### Caption and accessibility
+
+Caption: *More review events do not necessarily create independent review. A chain of automated stages may perform real checking while still inheriting the same upstream source error or omission. Independent review requires some route to evidence that can disagree for a reason.*
+
+Alt text: *Diagram comparing two review architectures. In the first, a shared upstream model or source layer feeds a machine that writes, another that checks, another that summarizes, and finally a human who receives a positive indicator; the stages may inherit the same omissions. In the second, primary sources or separate evidence feed an independent check before the human decision, while the generated result may still inform the review.*
+
+### Placement and production guidance
+
+Place the figure immediately after “More review events. Less independent review.” That is the point at which the abstraction has been earned and before the text explains why redundancy is not independence.
+
+Keep the figure and caption together on the same page/spread in print when possible. Use full text width; do not shrink below comfortable reading size. The SVG is intentionally grayscale-safe and does not encode meaning by color. Preserve vector output for print/PDF. For EPUB or other reflowable formats, retain the full alt text and avoid rasterizing below a width that makes the node labels illegible.
