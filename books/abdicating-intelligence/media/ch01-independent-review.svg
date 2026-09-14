@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">More review events do not necessarily create independent review</title>
+  <desc id="desc">A conceptual diagram comparing a chain in which several automated stages inherit the same upstream evidence with a review architecture that introduces independent evidence before a human decision.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#222"/>
+    </marker>
+    <style>
+      .box{fill:#fff;stroke:#222;stroke-width:2;rx:14;ry:14}
+      .soft{fill:#f4f4f4;stroke:#222;stroke-width:2;rx:14;ry:14}
+      .human{fill:#e8e8e8;stroke:#111;stroke-width:3;rx:14;ry:14}
+      .line{stroke:#222;stroke-width:2.5;fill:none;marker-end:url(#arrow)}
+      .dash{stroke:#555;stroke-width:2;stroke-dasharray:8 7;fill:none;marker-end:url(#arrow)}
+      .label{font-family:Arial,Helvetica,sans-serif;font-size:24px;fill:#111;font-weight:700}
+      .body{font-family:Arial,Helvetica,sans-serif;font-size:19px;fill:#222}
+      .small{font-family:Arial,Helvetica,sans-serif;font-size:16px;fill:#444}
+      .head{font-family:Arial,Helvetica,sans-serif;font-size:32px;fill:#111;font-weight:700}
+      .sub{font-family:Arial,Helvetica,sans-serif;font-size:20px;fill:#333}
+    </style>
+  </defs>
+
+  <text x="600" y="50" text-anchor="middle" class="head">More review events ≠ more independent review</text>
+  <text x="600" y="82" text-anchor="middle" class="sub">The question is not how many checks occurred, but whether any check can see something genuinely different.</text>
+
+  <text x="70" y="135" class="label">Shared cognitive pipeline</text>
+  <rect x="70" y="160" width="230" height="105" class="soft"/>
+  <text x="185" y="198" text-anchor="middle" class="body">Upstream model /</text>
+  <text x="185" y="225" text-anchor="middle" class="body">shared source layer</text>
+  <text x="185" y="249" text-anchor="middle" class="small">same omissions can persist</text>
+
+  <rect x="350" y="160" width="205" height="105" class="box"/>
+  <text x="452" y="203" text-anchor="middle" class="body">Machine writes</text>
+  <text x="452" y="233" text-anchor="middle" class="small">draft / answer</text>
+
+  <rect x="605" y="160" width="205" height="105" class="box"/>
+  <text x="707" y="203" text-anchor="middle" class="body">Machine checks</text>
+  <text x="707" y="233" text-anchor="middle" class="small">review event #2</text>
+
+  <rect x="860" y="160" width="270" height="105" class="box"/>
+  <text x="995" y="194" text-anchor="middle" class="body">Machine summarizes</text>
+  <text x="995" y="223" text-anchor="middle" class="small">review event #3</text>
+  <text x="995" y="247" text-anchor="middle" class="small">confidence can look cumulative</text>
+
+  <path d="M300 212 H350" class="line"/>
+  <path d="M555 212 H605" class="line"/>
+  <path d="M810 212 H860" class="line"/>
+
+  <rect x="420" y="315" width="360" height="115" class="human"/>
+  <text x="600" y="357" text-anchor="middle" class="body">Human receives “looks good”</text>
+  <text x="600" y="387" text-anchor="middle" class="small">many stages, one inherited evidence path</text>
+  <path d="M995 265 V292 H600 V315" class="line"/>
+
+  <line x1="70" y1="475" x2="1130" y2="475" stroke="#999" stroke-width="1.5"/>
+
+  <text x="70" y="525" class="label">Independent-review architecture</text>
+  <rect x="70" y="555" width="250" height="110" class="soft"/>
+  <text x="195" y="594" text-anchor="middle" class="body">Primary sources /</text>
+  <text x="195" y="623" text-anchor="middle" class="body">separate evidence</text>
+  <text x="195" y="648" text-anchor="middle" class="small">outside the generated chain</text>
+
+  <rect x="475" y="555" width="250" height="110" class="box"/>
+  <text x="600" y="596" text-anchor="middle" class="body">Independent check</text>
+  <text x="600" y="625" text-anchor="middle" class="small">can disagree for a reason</text>
+  <text x="600" y="649" text-anchor="middle" class="small">not merely echo upstream output</text>
+
+  <rect x="880" y="555" width="250" height="110" class="human"/>
+  <text x="1005" y="596" text-anchor="middle" class="body">Human decision</text>
+  <text x="1005" y="625" text-anchor="middle" class="small">evidence + authority</text>
+  <text x="1005" y="649" text-anchor="middle" class="small">to stop or override</text>
+
+  <path d="M320 610 H475" class="line"/>
+  <path d="M725 610 H880" class="line"/>
+  <path d="M185 265 C185 410 600 430 600 555" class="dash"/>
+  <text x="330" y="420" class="small">generated result may still inform review — but is not the only evidence</text>
+
+  <text x="600" y="720" text-anchor="middle" class="small">Conceptual diagram. It does not imply that machine review is useless; it distinguishes repeated processing from evidentiary independence.</text>
+</svg>
