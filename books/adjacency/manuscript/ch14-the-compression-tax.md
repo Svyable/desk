@@ -6,17 +6,11 @@ Out comes a fixed-length vector.
 
 The paragraph may contain three hundred words, twelve claims, two names, a date, a joke, a qualification, an exception and an ambiguity. The vector contains a few hundred or a few thousand numbers.
 
-Something has been compressed.
-
-That is not a criticism.
-
-Compression is the reason the system is useful.
+Something has been compressed. Compression is the reason the system is useful.
 
 If every semantic search required preserving every detail of every document in a form that had to be compared exhaustively with every query, retrieval would be impossibly expensive. The representation works because it discards enough detail to make relation cheap while preserving enough structure to make the relation useful.
 
-The miracle of embeddings is not that they preserve everything.
-
-It is how much they preserve after throwing so much away.
+The miracle of embeddings is how much they preserve after throwing so much away.
 
 But every compression has a tax.
 
@@ -156,9 +150,7 @@ A region is legible when the representation preserves the distinctions users car
 
 Legibility can be local. A model can be excellent at broad topical similarity and poor at legal authority. Excellent at English paraphrase and weak at mathematical notation. Excellent at common consumer images and unreliable on medical scans.
 
-The question is not whether the embedding “understands” the data in some general sense.
-
-It is whether the relevant distinctions survive compression here.
+The question is whether the relevant distinctions survive compression here.
 
 That question should guide evaluation.
 
@@ -470,18 +462,8 @@ Without it, a vector store becomes a collection of derived impressions detached 
 
 This is especially dangerous when models change. If the original source remains linked, the representation can be regenerated. If only the vector survives, the organization has preserved an interpretation while losing the thing interpreted.
 
-The principle is almost archival.
-
-Indexes should be replaceable.
-
-Sources should be durable.
+The principle is almost archival: indexes should be replaceable; sources should be durable.
 
 The future of vector systems may therefore involve more representation, not less: multiple vectors, multiple modalities, explicit graphs, structured metadata and source-level provenance operating together.
 
-That does not betray the promise of embeddings.
-
-It clarifies it.
-
-The vector is valuable because it is a compact, useful loss.
-
-A mature system knows which losses it can afford and keeps another representation nearby for the details it cannot.
+That clarifies the promise of embeddings rather than betraying it. The vector is valuable because it is a compact, useful loss. A mature system knows which losses it can afford and keeps another representation nearby for the details it cannot.
