@@ -1,0 +1,23 @@
+# Chronology
+
+- **Pre-20th century** — Historical chronicles in several regions describe unusual lights around earthquakes. These accounts are culturally and evidentially heterogeneous; the manuscript treats them as an archive of claims, not a clean dataset.
+- **1931** — Early Japanese compilations by Musha help preserve older earthquake-light reports for later investigators.
+- **1965–1967** — The Matsushiro earthquake swarm in Japan produces an unusual concentration of reports and photographs later associated with Yutaka Yasui’s publications. The swarm becomes a foundational modern earthquake-light case.
+- **1973** — John Derr publishes an influential review of earthquake-light observations and proposed mechanisms in the *Bulletin of the Seismological Society of America*.
+- **1981–1984** — Reports of unusual lights surge in Hessdalen, Norway.
+- **1983** — Project Hessdalen is organized to move the problem from witness reports toward instrumentation.
+- **21 January–26 February 1984** — Project Hessdalen’s principal field campaign uses cameras, radar, spectrum analysis, seismography, magnetometry, infrared viewing, a Geiger counter and other instruments. Its final report records 53 observations it classified as the Hessdalen phenomenon and multiple radar returns; interpretation remains disputed.
+- **1988** — Luminous phenomena are reported around the Saguenay, Quebec earthquake, later used in earthquake-light catalogues.
+- **1995** — The Kobe/Hyogoken-Nambu earthquake generates additional luminous reports and renewed scientific interest in earthquake-related electromagnetic phenomena.
+- **1998** — The Hessdalen Automatic Measurement Station, the “Blue Box,” begins long-term monitoring.
+- **2000–2004** — EMBLA and related Italian-Norwegian campaigns bring additional optical, radio and radar instrumentation to Hessdalen; the resulting claims also draw detailed criticism.
+- **2003** — Matteo Leone publishes a rebuttal of the 2002 EMBLA optical interpretation, emphasizing ordinary-source and analytical alternatives.
+- **2004–2007** — Freund and collaborators publish laboratory work on stress-activated charge carriers and rock currents, developing a physical route from crustal stress to surface electrical phenomena.
+- **15 August 2007** — The Mw 8.0 Pisco earthquake occurs off Peru. A PUCP security camera in Lima records co-seismic flashes later analyzed against the local accelerogram by Heraud and Lira.
+- **2010** — Enomoto and Hashimoto publish laboratory photographic evidence of luminescence during granite faulting, favoring piezoelectricity as an important contribution in their setup.
+- **2011** — Heraud and Lira publish the Pisco/Lima analysis in *Natural Hazards and Earth System Sciences*.
+- **2014** — Thériault, St-Laurent, Freund and Derr publish a 65-case geological review arguing that earthquake lights disproportionately associate with rift environments and near-vertical faults. The same year, Cen, Yuan and Xue publish the first optical spectrum of a natural ball-lightning event in *Physical Review Letters*.
+- **2016** — Caron and Faridi publish a discussion of scientific attitudes toward unexplored atmospheric light phenomena, using Hessdalen as a central case.
+- **2017–2023** — Viral earthquake videos repeatedly demonstrate the classification problem: some widely shared “earthquake lights” can be plausibly explained by power-grid arcing and transformer failures reflected from clouds.
+- **2024** — Vargemezis and collaborators publish a VLF electromagnetic survey of the Hessdalen area in the *Journal of Applied Geophysics*, continuing the attempt to characterize the valley’s subsurface electrical environment without resolving the luminous phenomenon.
+- **2026** — The evidentiary situation remains asymmetrical: laboratory rock electrification and ball lightning have strong physical support; specific earthquake-light cases range from suggestive to weak; reliable electromagnetic earthquake prediction is unestablished; Hessdalen remains a heterogeneous, partly instrumented observation problem rather than a solved mechanism.
