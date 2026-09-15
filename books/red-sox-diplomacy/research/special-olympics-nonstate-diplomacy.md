@@ -6,7 +6,7 @@ Nicholas Burns's Special Olympics work is not a stray nonprofit-board credential
 
 The material belongs primarily in Chapter 17, **The Professor in the Cheap Seats**, where Burns moves from official authority into teaching, public argument, nonprofit governance and other forms of international engagement. It should echo briefly in Chapter 20, **The Human Channel**, because Special Olympics provides a useful contrast between civic cross-border networks and communication that can formally bind a state.
 
-This is not evidence that Burns treated Special Olympics as an instrument of U.S. policy. It is evidence that, during his Harvard years, he engaged seriously with a global non-state institution organized around inclusion, citizen networks and sport.
+This is not evidence that Burns treated Special Olympics as an instrument of U.S. policy. It is evidence that, especially during his Harvard years, he engaged seriously with a global non-state institution organized around inclusion, citizen networks and sport.
 
 ## Documented record
 
@@ -58,7 +58,7 @@ Do not convert this into a general Burns doctrine unless repeated evidence suppo
 
 ### 4. Burns serves on the Special Olympics International board
 
-A State Department biography from the mid-2010s lists Burns among the directors of Special Olympics. The current Special Olympics biography for Burns also identifies him as a board member and explains that the international board determines organization-wide policies.
+A State Department biography from the mid-2010s lists Burns among the directors of Special Olympics. The Special Olympics biography for Burns also identifies him as a board member and explains that the international board determines organization-wide policies.
 
 Sources:
 - U.S. Department of State archived biography  
@@ -75,7 +75,32 @@ Safe narrative claim:
 
 Do not claim that every Special Olympics policy during Burns's tenure was his policy or that he personally directed operations.
 
-### 5. Burns is re-elected to a second three-year term in 2016
+### 5. Tax records establish sustained, unpaid board service from at least 2013 into 2022
+
+Special Olympics' public IRS filings make the board relationship more concrete than the biographies do.
+
+Sources:
+- Special Olympics 2013 Form 990  
+  https://media.specialolympics.org/resources/planning-and-finance/Finance/Annual_Reports_990s/990-Tax-Form-2013.pdf
+- Special Olympics 2020 Form 990  
+  https://dotorg.brightspotcdn.com/8b/38/a1d688a8422d9efb5dd8f9a96015/special-olympics-2020-irs-990.pdf
+- Special Olympics 2022 Form 990  
+  https://media.specialolympics.org/resources/planning-and-finance/Finance/Annual_Reports_990s/Special-Olympics-2022-IRS-form-990.pdf
+
+The 2013 filing lists **Nicholas Burns — Director**, reports an average of **0.80 hours per week**, and reports **$0** in compensation from the organization and related organizations. The 2020 filing again lists **Ambassador Nicholas Burns — Director** at 0.80 average hours per week and zero compensation. The 2022 filing lists **Mr. Nicholas Burns — Director (until 6/22)**, again with 0.80 average hours per week and zero compensation.
+
+Safe narrative claims:
+- Burns was a documented director by 2013;
+- the relationship continued for years rather than appearing once on a ceremonial roster;
+- the filings describe the board position as uncompensated;
+- the 2022 filing fixes the end of his directorship at June 2022.
+
+Important limits:
+- Form 990 “average hours per week” is a reporting estimate, not a time sheet;
+- the filings do not identify which meetings Burns attended, which committees he served on, how he voted, or which projects he influenced;
+- because the board service continued into 2022, avoid wording that implies his entire Special Olympics tenure occurred exclusively while he was outside government. The strongest non-state contrast concerns the long Harvard-period portion of the service.
+
+### 6. Burns is re-elected to a second three-year term in 2016
 
 At the international board meeting that selected Abu Dhabi to host the 2019 Special Olympics World Summer Games, Special Olympics announced Burns's re-election to a second three-year board term.
 
@@ -91,7 +116,7 @@ Safe narrative claims:
 Important limit:
 - the record cited here does **not** establish Burns's individual view on Abu Dhabi, his role in the selection, or how he voted. Use the board decision to show institutional scale, not individual agency.
 
-### 6. Red Sox Nation and Special Olympics appear in the same official biography
+### 7. Red Sox Nation and Special Olympics appear in the same official biography
 
 The archived State Department biography lists Burns both as a Special Olympics board member and as a member of Red Sox Nation.
 
@@ -101,7 +126,7 @@ Source:
 
 This is narratively useful because it prevents an artificial separation between the book's sports identity and Burns's international civic work. The same public biography recorded both, although the two affiliations had very different functions.
 
-### 7. Supporter record
+### 8. Supporter record
 
 The current Special Olympics major-donors/supporters page lists **R. Nicholas Burns & Elizabeth Baylies** among supporters.
 
@@ -123,7 +148,7 @@ The Greece baseball story is official public diplomacy. Burns was the U.S. ambas
 
 ### Special Olympics
 
-The Special Olympics strand is different again. Burns was outside government and served a global civic institution. The organization could build networks, inclusion, recurring encounters and public claims without possessing state authority.
+The Special Olympics strand is different again. Most of the documented board relationship falls in Burns's Harvard period outside government, and the organization itself is a global civic institution rather than an arm of the U.S. state. It can build networks, inclusion, recurring encounters and public claims without possessing state authority. The board record continued into June 2022, so the manuscript should not describe every day of Burns's Special Olympics service as occurring outside government.
 
 This three-part distinction is stronger than collapsing all of them into “sports diplomacy”:
 
@@ -160,6 +185,6 @@ Potential later research:
 - locate Special Olympics board minutes or annual reports from Burns's first term;
 - search Harvard video/audio for Shriver's 2012 appearances and any Burns introduction or Q&A;
 - search Burns interviews/speeches for first-person comments on Special Olympics;
-- determine the earliest documented date of Burns's board membership;
+- determine whether board records establish a start date earlier than the 2013 Form 990;
 - inspect Special Olympics annual reports for committees, attendance or governance roles that can be attributed to Burns individually;
 - search for documented Burns participation at Special Olympics events rather than assuming attendance from board membership.
