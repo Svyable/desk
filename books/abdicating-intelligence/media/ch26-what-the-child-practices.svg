@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+<title id="title">What the child practices</title>
+<desc id="desc">A conceptual diagram showing that the same child question can lead through an AI system toward either immediate completion or developmental practice. The completion path ends at a polished answer. The practice path includes prediction, attempt, explanation, perspective-taking, source checking, and revision, ending at capability the child can carry into the next situation. A note says the right path depends on age, domain, consequence, and purpose.</desc>
+<style>
+ text{font-family:Arial,Helvetica,sans-serif;fill:#111} .h{font-size:42px;font-weight:700}.s{font-size:22px}.b{font-size:24px;font-weight:700}.n{font-size:19px}.box{fill:#fff;stroke:#111;stroke-width:2}.soft{fill:#f2f2f2;stroke:#111;stroke-width:2}.line{stroke:#111;stroke-width:3;fill:none}.dash{stroke:#555;stroke-width:2;stroke-dasharray:8 8;fill:none}
+</style>
+<rect width="1200" height="760" fill="white"/>
+<text x="70" y="70" class="h">What the child practices</text>
+<text x="70" y="108" class="s">The same intelligent assistance can complete a task or help build a capability.</text>
+<rect x="70" y="165" width="250" height="100" rx="8" class="box"/>
+<text x="195" y="205" text-anchor="middle" class="b">Child asks</text><text x="195" y="238" text-anchor="middle" class="n">a question</text>
+<path d="M320 215 H420" class="line"/><polygon points="420,215 402,205 402,225" fill="#111"/>
+<rect x="420" y="165" width="250" height="100" rx="8" class="soft"/>
+<text x="545" y="205" text-anchor="middle" class="b">AI can help</text><text x="545" y="238" text-anchor="middle" class="n">in more than one way</text>
+<path d="M670 195 C760 195 760 175 835 175" class="line"/><polygon points="835,175 817,165 817,185" fill="#111"/>
+<path d="M670 235 C745 235 745 420 835 420" class="line"/><polygon points="835,420 817,410 817,430" fill="#111"/>
+<rect x="835" y="130" width="295" height="150" rx="8" class="box"/>
+<text x="982" y="170" text-anchor="middle" class="b">Immediate completion</text>
+<text x="982" y="207" text-anchor="middle" class="n">answer • outline • message</text>
+<text x="982" y="237" text-anchor="middle" class="n">solution • polished artifact</text>
+<text x="982" y="266" text-anchor="middle" class="n">Useful when completion is the goal.</text>
+<rect x="755" y="350" width="375" height="210" rx="8" class="box"/>
+<text x="942" y="390" text-anchor="middle" class="b">Developmental practice</text>
+<text x="785" y="430" class="n">predict → attempt → get a hint</text>
+<text x="785" y="463" class="n">explain → check a source → revise</text>
+<text x="785" y="496" class="n">take another perspective → try again</text>
+<text x="785" y="535" class="n">The work is partly the point.</text>
+<path d="M942 560 V625" class="line"/><polygon points="942,625 932,607 952,607" fill="#111"/>
+<rect x="755" y="625" width="375" height="80" rx="8" class="soft"/>
+<text x="942" y="660" text-anchor="middle" class="b">Capability carried forward</text>
+<text x="942" y="687" text-anchor="middle" class="n">Can the child do more in the next situation?</text>
+<path d="M70 610 H655" class="dash"/>
+<text x="70" y="648" class="b">The design question is not “help or no help?”</text>
+<text x="70" y="683" class="n">It is which work should remain active for this child,</text>
+<text x="70" y="713" class="n">at this age, in this domain, for this purpose and consequence.</text>
+</svg>
