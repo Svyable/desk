@@ -24,6 +24,29 @@ jobs:
           path: .bookself
       - name: Verify upstream sync policy
         run: python3 .bookself/tests/test_sync_ui.py
+      - name: Localize Desk-owned Reader adapters
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+
+          replacements = {
+              Path('reader/js/desk-book-opening-handoff.js'): (
+                  "from 'https://svyable.github.io/bookself/reader/js/router.js';",
+                  "from './router.js';",
+              ),
+              Path('reader/js/desk-page-tap-policy.js'): (
+                  "const LIBRARY_SORT_URL = 'https://svyable.github.io/bookself/reader/js/library-sort.js?v=r1';",
+                  "const LIBRARY_SORT_URL = new URL('./library-sort.js?v=r1', import.meta.url).href;",
+              ),
+          }
+          for path, (old, new) in replacements.items():
+              text = path.read_text(encoding='utf-8')
+              if old in text:
+                  text = text.replace(old, new, 1)
+                  path.write_text(text, encoding='utf-8')
+              elif new not in text:
+                  raise SystemExit(f'expected Desk adapter seam not found: {path}')
+          PY
       - name: Safe-sync Bookself Reader runtime
         run: python3 .bookself/scripts/sync-ui.py --desk-safe "$GITHUB_WORKSPACE"
       - name: Verify Reader regression contracts
@@ -39,6 +62,10 @@ jobs:
           grep -Fq "aria-modal') !== 'false'" reader/js/viewport-stability-runtime.js
           grep -Fq "attributeFilter: ['class']" reader/js/viewport-stability-runtime.js
           ! grep -Fq "attributeFilter: ['class', 'aria-modal']" reader/js/viewport-stability-runtime.js
+          grep -Fq "const canonicalAppUrl = new URL('./app.js', import.meta.url).href;" reader/js/app-loader.js
+          grep -Fq "const canonicalNavigationCssUrl = new URL('../css/navigation.css', import.meta.url).href;" reader/js/app-loader.js
+          grep -Fq "from './router.js';" reader/js/desk-book-opening-handoff.js
+          grep -Fq "new URL('./library-sort.js?v=r1', import.meta.url).href" reader/js/desk-page-tap-policy.js
           ! grep -R -Fq "https://svyable.github.io/bookself/reader/" reader
           test -s reader/.bookself-runtime-files
           test -s reader/.bookself-offline-version
