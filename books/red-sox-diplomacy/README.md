@@ -8,7 +8,7 @@
 | **Status** | Revision in progress |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
-| **Chapters** | 22 of 22 drafted + prologue + epilogue |
+| **Chapters** | 22 of 22 drafted + preface + epilogue |
 | **Editorial State** | Complete manuscript merged to Desk; post-merge enhancement and revision in progress |
 | **Form** | Documentary narrative biography |
 | **Language** | English |
@@ -23,7 +23,7 @@ The Red Sox also provide a second historical clock. Burns’s life runs beside a
 
 - [x] [Front Matter](manuscript/front-matter.md)
 - [x] [A Note on the Record](manuscript/note-on-the-record.md)
-- [x] [Prologue — Red Sox Nation, Foreign Service](manuscript/prologue-red-sox-nation-foreign-service.md)
+- [x] [Preface — The Red Sox Came Along](manuscript/prologue-red-sox-nation-foreign-service.md)
 - [x] [Ch 1 — Boston Before Washington](manuscript/ch01-boston-before-washington.md)
 - [x] [Ch 2 — The Useful Fan](manuscript/ch02-the-useful-fan.md)
 - [x] [Ch 3 — The Road Team](manuscript/ch03-the-road-team.md)
