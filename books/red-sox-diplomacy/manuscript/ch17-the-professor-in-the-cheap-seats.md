@@ -2,7 +2,11 @@
 
 For twenty-seven years, Nicholas Burns had worked inside the sentence. At a State Department podium, a phrase could become policy. An ambassador's cable could change what Washington believed was happening abroad. A negotiating formulation could preserve a coalition or expose a disagreement.
 
-Then, in 2008, Burns left government and went to Harvard. The change was larger than geography: a diplomat speaks with delegated authority; a professor does not.
+Then, in 2008, Burns left government, but not for one second act. He went to Harvard and, alongside it, joined The Cohen Group as a senior counselor. He would spend twelve years at the business advisory firm before returning to government in 2021.
+
+The split matters because it changes the silhouette of the Harvard years. Burns was not simply a retired official turning experience into lectures. At Harvard, he made statecraft examinable. At Cohen, he remained in an advisory world where former senior officials provided strategic counsel to business clients. A diplomat speaks with delegated authority; a professor or adviser does not. But neither role is retirement from power.
+
+*ARCHIVE NOTE — The Cohen Group says Burns served as a senior counselor at the firm for twelve years before returning to government in 2021. The firm's account describes its senior leaders as providing strategic advice and practical assistance to clients. [The Cohen Group, “Ambassador Nicholas Burns to Rejoin The Cohen Group as a Vice Chair,” February 2025.](https://cohengroup.net/ambassador-nicholas-burns-rejoin-cohen-group-vice-chair)*
 
 Harvard appointed Burns Professor of the Practice of Diplomacy and International Politics after his retirement from the Foreign Service. The title contained the experiment. He was not being asked to stop being a practitioner. He was being asked to make practice examinable.
 
