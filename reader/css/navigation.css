@@ -1,0 +1,218 @@
+@import url('./reading-surface.css?v=r1');
+@import url('./reading-chrome.css?v=r1');
+@import url('./reading-content.css?v=r1');
+
+/* Navigation mechanics — safer tap zones and tactile swipe feedback. */
+
+#pagesWrapper {
+  touch-action: pan-y pinch-zoom;
+}
+
+.pages-wrapper.active {
+  contain: layout;
+}
+
+.nav-gesture-preview {
+  position: absolute;
+  top: 8%;
+  bottom: 8%;
+  z-index: 8;
+  width: min(7.5rem, 22%);
+  display: grid;
+  place-items: center;
+  pointer-events: none;
+  opacity: 0;
+  color: var(--accent);
+  transition: opacity 120ms ease, transform 120ms ease;
+}
+
+.nav-gesture-preview::before {
+  width: 2.25rem;
+  height: 2.25rem;
+  display: grid;
+  place-items: center;
+  border: 1px solid color-mix(in srgb, var(--accent) 48%, var(--border));
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--bg-elevated) 84%, transparent);
+  box-shadow: 0 8px 24px color-mix(in srgb, var(--shadow) 58%, transparent);
+  font: 500 1.25rem/1 var(--font-accent);
+  backdrop-filter: blur(8px);
+}
+
+.nav-gesture-preview.prev {
+  left: env(safe-area-inset-left);
+  transform: translateX(calc(-0.4rem + var(--nav-drag-distance, 0px)));
+  background: linear-gradient(90deg, color-mix(in srgb, var(--accent) 8%, transparent), transparent);
+}
+
+.nav-gesture-preview.next {
+  right: env(safe-area-inset-right);
+  transform: translateX(calc(0.4rem - var(--nav-drag-distance, 0px)));
+  background: linear-gradient(270deg, color-mix(in srgb, var(--accent) 8%, transparent), transparent);
+}
+
+.nav-gesture-preview.prev::before { content: "‹"; }
+.nav-gesture-preview.next::before { content: "›"; }
+
+#pagesWrapper.nav-drag-prev .nav-gesture-preview.prev,
+#pagesWrapper.nav-drag-next .nav-gesture-preview.next {
+  opacity: var(--nav-drag-opacity, 0.3);
+}
+
+#pagesWrapper[data-nav-buffered="prev"] .nav-gesture-preview.prev,
+#pagesWrapper[data-nav-buffered="next"] .nav-gesture-preview.next {
+  opacity: 0.3;
+  animation: navBufferedPulse 520ms ease-in-out infinite alternate;
+}
+
+/* Touch/pen direct manipulation: pagination geometry does not move; only the
+   active visual leaf is compositor-transformed while the pointer owns it. */
+#pagesWrapper.dragging-page .page-surface.active,
+#pagesWrapper.drag-settling .page-surface.active {
+  will-change: transform, box-shadow;
+}
+
+#pagesWrapper.dragging-page.drag-next[data-reader-spread="single"] #pageLeft.active,
+#pagesWrapper.dragging-page.drag-next[data-reader-spread="spread"] #pageRight.active,
+#pagesWrapper.dragging-page.drag-prev #pageLeft.active {
+  z-index: 7;
+  transform: translate3d(var(--drag-x, 0), 0, 0) rotateY(var(--drag-rotate, 0deg));
+  box-shadow: 0 16px 38px color-mix(in srgb, var(--shadow) 74%, transparent);
+}
+
+#pagesWrapper.dragging-page.drag-next[data-reader-spread="single"] #pageLeft.active,
+#pagesWrapper.dragging-page.drag-next[data-reader-spread="spread"] #pageRight.active {
+  transform-origin: left center;
+}
+
+#pagesWrapper.dragging-page.drag-prev #pageLeft.active {
+  transform-origin: right center;
+}
+
+#pagesWrapper.dragging-page::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 8;
+  pointer-events: none;
+  opacity: var(--drag-shade, 0);
+  background: linear-gradient(90deg, transparent, rgba(0,0,0,.34));
+}
+
+#pagesWrapper.drag-settling .page-surface.active {
+  transition: transform 180ms cubic-bezier(.2,.75,.25,1), box-shadow 180ms ease;
+  transform: translate3d(0,0,0) rotateY(0deg);
+}
+
+/* Final page-turn target contract. Adaptive chrome may make the visible button
+   more compact, but it must not undercut the interaction box. Keeping the
+   minimum in one inherited variable prevents device-specific selector
+   specificity from silently shrinking phone/tablet targets. */
+.page-nav {
+  --reader-nav-target: 3rem;
+}
+
+.page-nav .nav-btn,
+[data-reader-device="phone"] .page-nav .nav-btn,
+[data-reader-device="tablet"] .page-nav .nav-btn {
+  min-width: var(--reader-nav-target);
+  min-height: var(--reader-nav-target);
+}
+
+.page-nav .nav-btn:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+/* Wide tables and code are reading destinations, not accidental page-turn
+   traps. The runtime adds this state only when horizontal overflow exists. */
+[data-reader-overflow="true"]:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+}
+
+[data-reader-overflow="true"][data-overflow-start="false"] {
+  box-shadow: inset 12px 0 12px -14px color-mix(in srgb, var(--accent) 60%, transparent);
+}
+
+[data-reader-overflow="true"][data-overflow-end="false"] {
+  box-shadow: inset -12px 0 12px -14px color-mix(in srgb, var(--accent) 60%, transparent);
+}
+
+[data-reader-overflow="true"][data-overflow-start="false"][data-overflow-end="false"] {
+  box-shadow:
+    inset 12px 0 12px -14px color-mix(in srgb, var(--accent) 60%, transparent),
+    inset -12px 0 12px -14px color-mix(in srgb, var(--accent) 60%, transparent);
+}
+
+@media (pointer: coarse) {
+  .page-nav {
+    --reader-nav-target: 3.25rem;
+  }
+
+  .nav-gesture-preview.prev {
+    width: 20%;
+  }
+
+  .nav-gesture-preview.next {
+    width: 28%;
+  }
+
+  .nav-gesture-preview::before {
+    width: 2.5rem;
+    height: 2.5rem;
+    font-size: 1.45rem;
+  }
+
+  /* Edge cues appear only while manually revealed immersive chrome is visible.
+     They disappear with the chrome and never become another persistent toolbar. */
+  body[data-stage="read"][data-reader-immersive="manual"].reader-chrome-visible
+    #pagesWrapper.active:not(.nav-drag-prev):not(.nav-drag-next):not([data-nav-buffered])
+    .nav-gesture-preview {
+    opacity: .085;
+  }
+}
+
+@media (max-width: 700px) {
+  .nav-gesture-preview {
+    top: 4%;
+    bottom: 4%;
+  }
+}
+
+@media (forced-colors: active) {
+  [data-reader-overflow="true"]:focus-visible {
+    outline-color: Highlight;
+  }
+
+  body[data-stage="read"][data-reader-immersive="manual"].reader-chrome-visible
+    #pagesWrapper .nav-gesture-preview {
+    opacity: 0;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .nav-gesture-preview {
+    transition: none;
+  }
+
+  #pagesWrapper[data-nav-buffered] .nav-gesture-preview {
+    animation: none;
+  }
+
+  #pagesWrapper.dragging-page .page-surface.active,
+  #pagesWrapper.drag-settling .page-surface.active {
+    transform: none !important;
+    transition: none !important;
+    box-shadow: none !important;
+  }
+
+  #pagesWrapper.dragging-page::after {
+    display: none;
+  }
+}
+
+@keyframes navBufferedPulse {
+  from { opacity: 0.18; }
+  to { opacity: 0.42; }
+}

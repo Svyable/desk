@@ -3,12 +3,14 @@ importScripts('./js/offline-fetch-policy.js');
 importScripts('./js/offline-storage-budget.js');
 importScripts('./js/offline-shell-install.js');
 
-const CACHE = 'obb-shell-v105';
+const CACHE_PREFIX = 'bookself-reader-shell-';
+const CACHE = 'bookself-reader-shell-v109';
 const KATEX_CDN = 'https://cdn.jsdelivr.net/npm/katex@0.18.4/dist/katex.min.js';
 const SHELL = [
   './',
   './index.html',
   './css/style.css',
+  './css/title-page.css',
   './css/experience.css',
   './css/experience-scroll.css',
   './css/scroll-performance.css',
@@ -24,6 +26,7 @@ const SHELL = [
   './css/content-scroll-regions.css',
   './css/one-handed-actions.css',
   './css/gui.css',
+  './css/shelf-gui.css',
   './css/settings-panel.css',
   './css/library-quick-look.css',
   './css/search-navigation.css',
@@ -45,9 +48,11 @@ const SHELL = [
   './manifest.webmanifest',
   './vendor/marked.min.js',
   './js/atmosphere.js',
+  './js/rights.js',
   './js/navigation.js',
   './js/content-navigation.js',
   './js/reading-surface.js',
+  './js/spread-state.js',
   './js/viewport-stability.js',
   './js/viewport-stability-runtime.js',
   './js/global-reader-controls.js',
@@ -68,6 +73,7 @@ const SHELL = [
   './js/scroll-performance-model.js',
   './js/scroll-performance.js',
   './js/gui.js',
+  './js/shelf-gui.js',
   './js/dialog-stack.js',
   './js/pwa-update-model.js',
   './js/pwa-update.js',
@@ -83,6 +89,8 @@ const SHELL = [
   './js/formats.js',
   './js/library-book-preview-model.js',
   './js/library-quick-look.js',
+  './js/library-sort-model.js',
+  './js/library-sort.js',
   './js/theme-controls.js',
   './js/math.js',
   './js/academic.js',
@@ -230,7 +238,9 @@ self.addEventListener('message', (event) => {
 self.addEventListener('activate', (event) => {
   event.waitUntil(
     caches.keys()
-      .then((keys) => Promise.all(keys.filter((key) => key !== CACHE).map((key) => caches.delete(key))))
+      .then((keys) => Promise.all(keys
+        .filter((key) => key.startsWith(CACHE_PREFIX) && key !== CACHE)
+        .map((key) => caches.delete(key))))
       .then(() => self.clients.claim())
   );
 });
@@ -366,8 +376,9 @@ self.addEventListener('fetch', (event) => {
     shellUrls: SHELL_URLS,
   });
 
-  // Keep revalidation alive even when a cached response wins immediately or
-  // after the publication deadline. The next request then sees the fresh copy.
+  // Keep revalidation alive even when a cached response wins immediately. The
+  // next request then sees the fresh copy; network-first requests simply share
+  // the same in-flight response.
   event.waitUntil(network.then(() => {}).catch(() => {}));
 
   if (sameOrigin && self.BookselfOfflineCache.isPublicationReadme(url.href)) {

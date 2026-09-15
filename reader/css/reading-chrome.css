@@ -1,0 +1,369 @@
+/* Immersive reader chrome
+   -----------------------
+   Controls adapt to the reading device without changing manuscript geometry. */
+
+body[data-stage="read"] .app-header,
+body[data-stage="read"] .page-nav,
+body[data-stage="read"] .progress-bar-container,
+body[data-stage="read"] .proof-ribbon {
+  transition:
+    opacity 180ms ease,
+    transform 220ms cubic-bezier(.2,.72,.2,1),
+    background 180ms ease;
+}
+
+/* The unified controller owns visibility. These selectors deliberately override
+   the legacy focus-mode hover rules without removing chrome from layout, so
+   entering or leaving Focus mode never changes pagination geometry. */
+body[data-stage="read"].focus-mode:not(.reader-chrome-hidden) .app-header,
+body[data-stage="read"].focus-mode:not(.reader-chrome-hidden) .page-nav,
+body[data-stage="read"].focus-mode:not(.reader-chrome-hidden) .progress-bar-container,
+body[data-stage="read"].focus-mode:not(.reader-chrome-hidden) .proof-ribbon {
+  opacity: 1 !important;
+  pointer-events: auto;
+  transform: none;
+}
+
+body[data-stage="read"].reader-chrome-hidden .app-header {
+  opacity: 0 !important;
+  transform: translateY(calc(-100% - env(safe-area-inset-top))) !important;
+  pointer-events: none !important;
+}
+
+body[data-stage="read"].reader-chrome-hidden .progress-bar-container {
+  opacity: 0 !important;
+  pointer-events: none !important;
+}
+
+body[data-stage="read"].reader-chrome-hidden .page-nav {
+  opacity: 0 !important;
+  transform: translateY(calc(100% + env(safe-area-inset-bottom))) !important;
+  pointer-events: none !important;
+}
+
+body[data-stage="read"].reader-chrome-hidden .proof-ribbon {
+  opacity: 0 !important;
+  transform: translateY(12px) !important;
+  pointer-events: none !important;
+}
+
+/* Header actions stay visually compact while preserving a comfortable 44px hit
+   area on desktop, tablet, portrait phones, and constrained landscape phones. */
+.app-header .header-btn,
+.app-header .logo {
+  min-width: 2.75rem;
+  min-height: 2.75rem;
+}
+
+[data-reader-device="phone"] .app-header {
+  padding-left: max(.55rem, env(safe-area-inset-left));
+  padding-right: max(.55rem, env(safe-area-inset-right));
+  gap: .25rem;
+}
+
+[data-reader-device="phone"] .header-right {
+  gap: .08rem;
+}
+
+[data-reader-device="phone"] .header-btn,
+[data-reader-device="phone"] .logo {
+  width: 2.35rem;
+  height: 2.35rem;
+}
+
+[data-reader-device="phone"] .reading-time {
+  display: none;
+}
+
+[data-reader-device="phone"] body[data-stage="read"] .page-nav {
+  position: fixed;
+  z-index: 36;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: .5rem max(.55rem, env(safe-area-inset-right)) max(.55rem, env(safe-area-inset-bottom)) max(.55rem, env(safe-area-inset-left));
+  pointer-events: none;
+  background: linear-gradient(180deg, transparent, color-mix(in srgb, var(--bg-primary) 58%, transparent) 48%, color-mix(in srgb, var(--bg-primary) 78%, transparent));
+}
+
+[data-reader-device="phone"] .page-nav .nav-btn,
+[data-reader-device="phone"] .page-nav .nav-center {
+  pointer-events: auto;
+}
+
+[data-reader-device="phone"] .page-nav .nav-btn {
+  width: 2.8rem;
+  min-width: 2.8rem;
+  height: 2.8rem;
+  min-height: 2.8rem;
+  border-color: color-mix(in srgb, var(--border) 68%, transparent);
+  background: color-mix(in srgb, var(--bg-elevated) 82%, transparent);
+}
+
+[data-reader-device="phone"] .nav-center {
+  flex: 0 1 auto;
+  min-width: 7.3rem;
+  max-width: min(54vw, 13rem);
+  padding: .38rem .65rem;
+  background: color-mix(in srgb, var(--bg-elevated) 84%, transparent);
+}
+
+[data-reader-device="phone"] .page-chapter {
+  display: none;
+}
+
+[data-reader-device="phone"] .page-indicator {
+  font-size: .82rem;
+}
+
+[data-reader-device="phone"] .view-toggle {
+  display: none !important;
+}
+
+[data-reader-device="phone"] .proof-ribbon {
+  bottom: max(4.35rem, calc(3.8rem + env(safe-area-inset-bottom)));
+  right: max(.65rem, env(safe-area-inset-right));
+}
+
+[data-reader-device="tablet"] .page-nav .nav-btn {
+  min-width: 2.8rem;
+  min-height: 2.8rem;
+}
+
+[data-reader-device="tablet"] .nav-center {
+  max-width: min(52vw, 23rem);
+}
+
+[data-reader-device="desktop"] .nav-center {
+  max-width: min(46vw, 25rem);
+}
+
+/* Semantic progress is also a navigation surface. The range control floats over
+   the existing 3px progress rail so the hit area grows without changing stage
+   height or pagination geometry. */
+.progress-bar-container[data-reader-seekable="true"] {
+  --reader-seek-position: 0%;
+  position: relative;
+  overflow: visible;
+}
+
+.progress-seek {
+  position: absolute;
+  z-index: 4;
+  top: -2px;
+  left: env(safe-area-inset-left);
+  right: env(safe-area-inset-right);
+  width: auto;
+  height: 24px;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  appearance: none;
+  -webkit-appearance: none;
+  background: transparent;
+  color: var(--accent);
+  cursor: ew-resize;
+  touch-action: none;
+}
+
+.progress-seek:disabled {
+  pointer-events: none;
+  cursor: default;
+}
+
+.progress-seek::-webkit-slider-runnable-track {
+  height: 24px;
+  border: 0;
+  background: transparent;
+}
+
+.progress-seek::-moz-range-track {
+  height: 24px;
+  border: 0;
+  background: transparent;
+}
+
+.progress-seek::-webkit-slider-thumb {
+  width: 14px;
+  height: 14px;
+  margin-top: 5px;
+  border: 2px solid var(--bg-elevated);
+  border-radius: 999px;
+  -webkit-appearance: none;
+  background: var(--accent);
+  box-shadow: 0 2px 8px color-mix(in srgb, var(--shadow) 70%, transparent);
+  opacity: 0;
+  transition: opacity 120ms ease, box-shadow 120ms ease, transform 120ms ease;
+}
+
+.progress-seek::-moz-range-thumb {
+  width: 14px;
+  height: 14px;
+  border: 2px solid var(--bg-elevated);
+  border-radius: 999px;
+  background: var(--accent);
+  box-shadow: 0 2px 8px color-mix(in srgb, var(--shadow) 70%, transparent);
+  opacity: 0;
+  transition: opacity 120ms ease, box-shadow 120ms ease, transform 120ms ease;
+}
+
+.progress-bar-container[data-reader-seekable="true"]:hover .progress-seek::-webkit-slider-thumb,
+.progress-bar-container.is-seeking .progress-seek::-webkit-slider-thumb,
+.progress-seek:focus-visible::-webkit-slider-thumb {
+  opacity: 1;
+  transform: scale(1.06);
+}
+
+.progress-bar-container[data-reader-seekable="true"]:hover .progress-seek::-moz-range-thumb,
+.progress-bar-container.is-seeking .progress-seek::-moz-range-thumb,
+.progress-seek:focus-visible::-moz-range-thumb {
+  opacity: 1;
+  transform: scale(1.06);
+}
+
+.progress-seek:focus-visible {
+  outline: none;
+}
+
+.progress-seek:focus-visible::-webkit-slider-thumb {
+  box-shadow:
+    0 0 0 4px color-mix(in srgb, var(--accent) 26%, transparent),
+    0 2px 8px color-mix(in srgb, var(--shadow) 70%, transparent);
+}
+
+.progress-seek:focus-visible::-moz-range-thumb {
+  box-shadow:
+    0 0 0 4px color-mix(in srgb, var(--accent) 26%, transparent),
+    0 2px 8px color-mix(in srgb, var(--shadow) 70%, transparent);
+}
+
+.progress-bar-container.is-seeking .progress-bar {
+  transition: none;
+}
+
+.progress-seek-label {
+  position: absolute;
+  z-index: 5;
+  top: 1.25rem;
+  left: clamp(
+    calc(3.25rem + env(safe-area-inset-left)),
+    var(--reader-seek-position),
+    calc(100% - 3.25rem - env(safe-area-inset-right))
+  );
+  max-width: min(18rem, calc(100vw - 1.5rem));
+  padding: .3rem .55rem;
+  overflow: hidden;
+  border: 1px solid color-mix(in srgb, var(--accent) 38%, var(--border));
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--bg-elevated) 92%, transparent);
+  box-shadow: 0 7px 20px color-mix(in srgb, var(--shadow) 42%, transparent);
+  color: var(--text-secondary);
+  font-family: var(--font-accent);
+  font-size: .74rem;
+  line-height: 1.15;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  pointer-events: none;
+  opacity: 0;
+  transform: translate(-50%, 4px);
+  transition: opacity 120ms ease, transform 120ms ease;
+}
+
+.progress-bar-container.is-seeking .progress-seek-label,
+.progress-bar-container:focus-within .progress-seek-label {
+  opacity: 1;
+  transform: translate(-50%, 0);
+}
+
+@media (pointer: coarse) {
+  .progress-seek {
+    top: -2px;
+    height: 28px;
+  }
+
+  .progress-seek::-webkit-slider-runnable-track {
+    height: 28px;
+  }
+
+  .progress-seek::-moz-range-track {
+    height: 28px;
+  }
+
+  .progress-seek::-webkit-slider-thumb {
+    width: 16px;
+    height: 16px;
+    margin-top: 6px;
+  }
+
+  .progress-seek::-moz-range-thumb {
+    width: 16px;
+    height: 16px;
+  }
+}
+
+@media (max-height: 620px) and (orientation: landscape) {
+  [data-reader-device="phone"] .app-header {
+    padding-top: max(.28rem, env(safe-area-inset-top));
+    padding-bottom: .28rem;
+  }
+
+  [data-reader-device="phone"] .header-btn,
+  [data-reader-device="phone"] .logo {
+    width: 2.1rem;
+    height: 2.1rem;
+  }
+
+  [data-reader-device="phone"] body[data-stage="read"] .page-nav {
+    padding-top: .28rem;
+    padding-bottom: max(.28rem, env(safe-area-inset-bottom));
+  }
+
+  .progress-seek-label {
+    top: 1rem;
+    font-size: .7rem;
+  }
+}
+
+@media (forced-colors: active) {
+  .progress-seek::-webkit-slider-thumb {
+    border-color: Canvas;
+    background: Highlight;
+    box-shadow: none;
+    opacity: 1;
+  }
+
+  .progress-seek::-moz-range-thumb {
+    border-color: Canvas;
+    background: Highlight;
+    box-shadow: none;
+    opacity: 1;
+  }
+
+  .progress-seek-label {
+    border-color: CanvasText;
+    background: Canvas;
+    color: CanvasText;
+    box-shadow: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  body[data-stage="read"] .app-header,
+  body[data-stage="read"] .page-nav,
+  body[data-stage="read"] .progress-bar-container,
+  body[data-stage="read"] .proof-ribbon {
+    transition: none;
+  }
+
+  .progress-seek::-webkit-slider-thumb {
+    transition: none;
+  }
+
+  .progress-seek::-moz-range-thumb {
+    transition: none;
+  }
+
+  .progress-seek-label {
+    transition: none;
+  }
+}

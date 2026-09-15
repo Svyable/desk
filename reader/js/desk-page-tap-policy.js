@@ -2,7 +2,7 @@ import { pageTapIntent } from './page-tap-zones.js';
 
 const OVERLAY_SELECTOR = '#tocOverlay.active, #progressPanel.active, #settingsPanel.active, #searchOverlay.active, #noteDialog.active, #helpOverlay.active';
 const INTERACTIVE_SELECTOR = 'a, button, input, textarea, select, label, mark, pre, code, [contenteditable="true"], .sel-pop';
-const LIBRARY_SORT_URL = 'https://svyable.github.io/bookself/reader/js/library-sort.js?v=r1';
+const LIBRARY_SORT_URL = new URL('./library-sort.js?v=r1', import.meta.url).href;
 
 function coarseClick(event) {
   return event.pointerType === 'touch'

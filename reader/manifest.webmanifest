@@ -16,6 +16,10 @@
       "purpose": "any maskable"
     }
   ],
-  "categories": ["books", "education", "productivity"],
+  "categories": [
+    "books",
+    "education",
+    "productivity"
+  ],
   "description": "Working drafts, complete manuscripts, research, and next editions by Sven Hardy Benson before deliberate release."
 }

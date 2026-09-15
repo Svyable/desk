@@ -1,0 +1,312 @@
+import './page-drag.js';
+import './reader-keyboard-runtime.js';
+import './one-handed-actions.js';
+import './dialog-focus-runtime.js';
+import './font-settlement.js';
+import { applyPortalCatalogManifest, parseBookReadme } from './catalog.js';
+import { parseRoute } from './router.js';
+import { createAsyncResourceCache } from './resource-cache.js';
+import { installNavigationPrefetch } from './navigation-prefetch.js';
+import { createStartupPublicationPrimer, startupAcquisitionPlan } from './startup-publication-primer.js';
+import {
+  reportChapterAcquisitionFailure,
+  reportChapterAcquisitionSuccess,
+} from './chapter-availability.js';
+
+queueMicrotask(() => {
+  import('./accessibility-surfaces.js').catch((error) => {
+    console.warn('Accessibility surface isolation could not be loaded', error);
+  });
+  import('./direct-route-preview.js').catch((error) => {
+    console.warn('Direct-route first paint could not be loaded', error);
+  });
+});
+
+function loadDeferredEnhancements() {
+  import('./semantic-progress.js').catch((error) => {
+    console.warn('Semantic reading progress could not be loaded', error);
+  });
+  import('./native-share.js').catch((error) => {
+    console.warn('Native sharing could not be loaded', error);
+  });
+  import('./content-inspector.js').catch((error) => {
+    console.warn('Expanded content inspection could not be loaded', error);
+  });
+  import('./media-resilience.js').catch((error) => {
+    console.warn('Publication media resilience could not be loaded', error);
+  });
+  import('./reading-wake-lock.js').catch((error) => {
+    console.warn('Reading wake lock controls could not be loaded', error);
+  });
+  import('./read-aloud.js').catch((error) => {
+    console.warn('Read-aloud controls could not be loaded', error);
+  });
+  import('./reading-guide.js').catch((error) => {
+    console.warn('Reading guide could not be loaded', error);
+  });
+  import('./progressive-library-search.js').catch((error) => {
+    console.warn('Progressive library search could not be loaded', error);
+  });
+  import('./reading-mode-transition.js').catch((error) => {
+    console.warn('Reading-mode transition continuity could not be loaded', error);
+  });
+  import('./scroll-chapter-nav.js').catch((error) => {
+    console.warn('Continuous chapter navigation could not be loaded', error);
+  });
+  import('./continuous-keyboard.js').catch((error) => {
+    console.warn('Continuous keyboard cadence could not be loaded', error);
+  });
+  import('./reading-session.js')
+    .then(({ installReadingSession }) => installReadingSession())
+    .catch((error) => {
+      console.warn('Active reading-time enhancement could not be loaded', error);
+    });
+}
+
+function scheduleDeferredEnhancements() {
+  const begin = () => {
+    if ('requestIdleCallback' in window) {
+      window.requestIdleCallback(loadDeferredEnhancements, { timeout: 2000 });
+      return;
+    }
+    window.setTimeout(loadDeferredEnhancements, 250);
+  };
+  if (document.readyState === 'complete') begin();
+  else window.addEventListener('load', begin, { once: true });
+}
+
+scheduleDeferredEnhancements();
+
+/** Repo-root URL prefix so fetches work at / and at /<repo>/ */
+
+const documentCache = createAsyncResourceCache({ limit: 256 });
+const existenceCache = createAsyncResourceCache({ limit: 256 });
+let portalCatalogManifestPromise = null;
+
+function installPaginationReflowGuard(root = document) {
+  const wrapper = root.getElementById?.('pagesWrapper');
+  if (!wrapper || wrapper.dataset.reflowGuard === 'installed') return;
+  wrapper.dataset.reflowGuard = 'installed';
+
+  const pageNav = root.getElementById?.('pageNav');
+  const live = root.getElementById?.('pageLive');
+  const style = root.createElement?.('style');
+  if (style) {
+    style.dataset.readerReflowGuard = 'true';
+    style.textContent = `
+      #pagesWrapper[aria-busy="true"] .page-inner {
+        opacity: .58;
+        transition: opacity 120ms ease-out;
+      }
+      #pagesWrapper[aria-busy="true"],
+      body[data-reader-reflowing] #pageNav {
+        cursor: progress;
+      }
+      #pagesWrapper[aria-busy="true"] .page-surface,
+      body[data-reader-reflowing] #pageNav {
+        pointer-events: none;
+      }
+      @media (prefers-reduced-motion: reduce) {
+        #pagesWrapper[aria-busy="true"] .page-inner { transition: none; }
+      }
+    `;
+    root.head?.appendChild(style);
+  }
+
+  let busy = wrapper.getAttribute('aria-busy') === 'true';
+  let announceTimer = 0;
+  const setBusy = (next) => {
+    if (busy === next) return;
+    busy = next;
+    document.body?.toggleAttribute('data-reader-reflowing', next);
+    if (pageNav) {
+      if (next) pageNav.setAttribute('aria-disabled', 'true');
+      else pageNav.removeAttribute('aria-disabled');
+    }
+    clearTimeout(announceTimer);
+    if (next) {
+      if (live) live.textContent = 'Updating page layout';
+      return;
+    }
+    announceTimer = window.setTimeout(() => {
+      if (live && !busy) live.textContent = 'Page layout updated';
+    }, 80);
+  };
+
+  setBusy(busy);
+  const observer = new MutationObserver(() => {
+    setBusy(wrapper.getAttribute('aria-busy') === 'true');
+  });
+  observer.observe(wrapper, { attributes: true, attributeFilter: ['aria-busy'] });
+
+  const blocksPageTurn = (event) => {
+    if (!busy || document.body?.dataset.stage !== 'read') return false;
+    if (event.metaKey || event.ctrlKey || event.altKey) return false;
+    return event.key === 'ArrowLeft'
+      || event.key === 'ArrowRight'
+      || event.key === 'ArrowUp'
+      || event.key === 'ArrowDown'
+      || event.key === ' '
+      || event.key === 'PageUp'
+      || event.key === 'PageDown';
+  };
+
+  root.addEventListener('keydown', (event) => {
+    if (!blocksPageTurn(event)) return;
+    event.preventDefault();
+    event.stopImmediatePropagation();
+  }, true);
+
+  wrapper.addEventListener('click', (event) => {
+    if (!busy) return;
+    event.preventDefault();
+    event.stopImmediatePropagation();
+  }, true);
+}
+
+export function repoBase() {
+  const path = window.location.pathname.replace(/index\.html$/, '');
+  if (path.endsWith('/reader/') || path.endsWith('/reader')) {
+    return path.replace(/reader\/?$/, '');
+  }
+  const i = path.indexOf('/reader/');
+  if (i >= 0) return path.slice(0, i + 1);
+  return path.endsWith('/') ? path : `${path}/`;
+}
+
+export function fileUrl(relativePath) {
+  const base = repoBase();
+  const clean = String(relativePath).replace(/^\.\//, '').replace(/^\/+/, '');
+  return `${base}${clean}`;
+}
+
+export function fetchDocument(relativePath) {
+  const url = fileUrl(relativePath);
+  const acquisition = documentCache.load(url, async () => {
+    const res = await fetch(url, { cache: 'no-cache' });
+    if (!res.ok) {
+      const err = new Error(`Could not load ${relativePath} (${res.status})`);
+      err.status = res.status;
+      err.url = url;
+      throw err;
+    }
+    return Object.freeze({
+      text: await res.text(),
+      modified: res.headers.get('Last-Modified'),
+    });
+  });
+  return acquisition.then(
+    (documentResult) => {
+      reportChapterAcquisitionSuccess(relativePath);
+      return documentResult;
+    },
+    (error) => {
+      reportChapterAcquisitionFailure(relativePath, error);
+      throw error;
+    }
+  );
+}
+
+async function loadPortalCatalogManifest() {
+  if (!portalCatalogManifestPromise) {
+    portalCatalogManifestPromise = fetch(fileUrl('catalog.json'), { cache: 'no-cache' })
+      .then(async (res) => (res.ok ? res.text() : null))
+      .catch(() => null);
+  }
+  return portalCatalogManifestPromise;
+}
+
+export async function fetchText(relativePath) {
+  const doc = await fetchDocument(relativePath);
+  const clean = String(relativePath).replace(/^\.\//, '').replace(/^\/+/, '');
+  if (clean !== 'README.md') return doc.text;
+  const manifest = await loadPortalCatalogManifest();
+  return manifest === null ? doc.text : applyPortalCatalogManifest(doc.text, manifest);
+}
+
+export function invalidateDocument(relativePath) {
+  const clean = String(relativePath).replace(/^\.\//, '').replace(/^\/+/, '');
+  if (clean === 'README.md' || clean === 'catalog.json') portalCatalogManifestPromise = null;
+  return documentCache.invalidate(fileUrl(relativePath));
+}
+
+export function clearDocumentCache() {
+  documentCache.clear();
+  existenceCache.clear();
+  portalCatalogManifestPromise = null;
+}
+
+export async function fileExists(relativePath) {
+  const url = fileUrl(relativePath);
+  try {
+    const res = await fetch(url, { method: 'HEAD', cache: 'no-cache' });
+    if (res.ok) return true;
+    const get = await fetch(url, { method: 'GET', cache: 'no-cache' });
+    return get.ok;
+  } catch {
+    return false;
+  }
+}
+
+async function existingUrl(relativePath) {
+  const url = fileUrl(relativePath);
+  return existenceCache.load(url, async () => {
+    const head = await fetch(url, { method: 'HEAD', cache: 'no-cache' });
+    if (head.ok) return url;
+    if (head.status !== 405 && head.status !== 501) return null;
+    const get = await fetch(url, { method: 'GET', cache: 'no-cache' });
+    return get.ok ? url : null;
+  });
+}
+
+export async function firstExisting(relativePaths) {
+  const candidates = await Promise.all(relativePaths.map(async (path) => {
+    try {
+      return await existingUrl(path);
+    } catch {
+      return null;
+    }
+  }));
+  return candidates.find(Boolean) || null;
+}
+
+const startupPlan = startupAcquisitionPlan(navigator.connection || {});
+
+const startupPrimer = createStartupPublicationPrimer({
+  loadReadme: (slug) => fetchText(`books/${slug}/README.md`),
+  parseReadme: parseBookReadme,
+  loadChapter: (slug, chapter) => fetchText(`books/${slug}/${chapter.file}`),
+  concurrency: startupPlan.publicationConcurrency,
+  warmRemainder: startupPlan.warmPublicationRemainder,
+});
+
+function primePublication(route) {
+  if (!route?.slug) return Promise.resolve({ status: 'skipped', loaded: 0 });
+  return startupPrimer.prime({
+    slug: route.slug,
+    chapter: route.chapter,
+    intent: route.intent || 'route',
+  }).catch(() => ({
+    status: 'failed',
+    loaded: 0,
+  }));
+}
+
+function primeInitialPublication() {
+  const route = parseRoute();
+  if (!route.slug || (route.view !== 'cover' && route.view !== 'read')) return;
+  primePublication(route);
+}
+
+// Only an intentional publication route is warmed at startup. The canonical
+// library loader owns catalog acquisition when the user actually needs it.
+primeInitialPublication();
+
+if (typeof document !== 'undefined') {
+  installPaginationReflowGuard(document);
+  installNavigationPrefetch(document, {
+    base: window.location.href,
+    connection: navigator.connection || {},
+    prime: primePublication,
+  });
+}
