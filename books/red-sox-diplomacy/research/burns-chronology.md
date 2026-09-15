@@ -61,18 +61,30 @@ This overlay creates specific research questions: what did Burns actually rememb
 - **2006** — In an official Charlie Rose interview on the India nuclear deal, Burns and Ed Markey are described as “both members of Red Sox Nation” before the discussion returns immediately to nuclear policy.
 - **2007** — Continues using Red Sox/Yankees rivalry in official remarks, including in Paris and domestic policy settings.
 
-## Harvard and diplomacy as a vocation
+## Harvard, Aspen, and diplomacy as a vocation
 
 - **2008 onward** — Burns enters Harvard Kennedy School and builds the Future of Diplomacy Project.
 - **2008** — Publishes “We Should Talk to Our Enemies.”
+- **July 2, 2009** — Aspen Institute announces Burns as director of the Aspen Strategy Group, succeeding Kurt Campbell. Source: https://www.aspeninstitute.org/news/aspen-strategy-group-welcomes-nicholas-burns/
+- **2010** — The first Aspen Security Forum is launched by the Aspen Institute Homeland Security Program. Editorial boundary: do **not** say Burns founded the Forum. Aspen later credits him with overseeing the merger of the Forum and Strategy Group. Source: https://www.aspeninstitute.org/news/aspen-institute-announces-2010-aspen-security-forum/
 - **2011–2021** — Repeatedly argues in lectures, essays, and interviews for diplomacy as a first-line instrument of statecraft, for keeping channels open, and for alliance maintenance.
 - **2012** — Publishes “Diplomacy is the best tool for Iran,” explicitly arguing that talks should precede war.
+- **January 2013** — Aspen Strategy Group and Aspen Institute India convene the eighteenth U.S.-India Strategic Dialogue. The dialogue began in 2002, before Burns became ASG director. Source: https://www.aspeninstitute.org/blog-posts/us-india-strategic-dialogue/
+- **June 11–13, 2013** — Aspen Strategy Group launches a U.S.-China Track II dialogue with the Party School of the Central Committee of the Communist Party of China. Aspen's current history says President Xi Jinping explicitly endorsed the effort. Source: https://www.aspeninstitute.org/programs/aspen-strategy-group/the-u-s-china-policy-dialogue/
 - **2013** — At Massachusetts Bay Community College, Burns describes Boston's sports teams as institutions that “bind us together as a ‘Community’” and treats the Red Sox as a “Nation” across New England.
 - **2013** — Describes diplomacy as “a venerable and antique art” that remains indispensable.
+- **2014** — Aspen Strategy Group begins a U.S.-Brazil Track II dialogue. Source: https://www.aspeninstitute.org/programs/aspen-strategy-group/the-u-s-brazil-strategic-dialogue/
+- **2017** — Aspen Strategy Group begins a U.S.-Europe / transatlantic Track II dialogue; meetings continue in Brussels in 2018 and Washington in 2019. Source: https://www.aspeninstitute.org/programs/aspen-strategy-group/transatlantic-strategic-dialogue/
 - **2019** — In the John Courtney Murray lecture in New York, Burns jokes about an “abiding faith in the superiority of the Boston Red Sox” before turning to his substantive argument.
 - **2019** — Publishes “The State of the State Department and American Diplomacy,” emphasizing the professional value of career diplomats and the global reach of the Foreign Service.
+- **August 2019** — Aspen Strategy Group annual meeting focuses on U.S.-China relations; the resulting volume, *The Struggle for Power: U.S.-China Relations in the 21st Century*, is published in January 2020. Source: https://www.aspeninstitute.org/news/how-to-meet-the-china-challenge/
 - **2020** — Publishes “The Indispensable Power,” arguing for restoring American leadership through diplomacy.
+- **June 25, 2021** — State Department certificate of demonstrated competence for the China ambassadorship explicitly notes Burns's Aspen role and says he organized a policy dialogue with the Chinese government's Central Party School. This is the strongest non-Aspen corroboration of the Aspen-China bridge. Source: https://2021-2025.state.gov/burns-r-nicholas-the-peoples-republic-of-china-september-2021/
 - **2021** — Publishes “The Diplomat as Gardener,” revisiting Shultz and the idea of tending relationships before crisis.
+- **December 22, 2021** — Burns steps down as Aspen Strategy Group executive director to become ambassador to China. Aspen's institutional retrospective credits his tenure with membership expansion and diversification; new Track II dialogues with Brazil, China, and Europe; continuation of the India dialogue; merger of ASG and the Aspen Security Forum; and inauguration of the Rising Leaders Program. Treat this as Aspen's own account of its institutional history, not an independent effectiveness judgment. Source: https://www.aspeninstitute.org/news/nicholas-burns-anja-manuel-aspen-strategy-group/
+
+Dedicated research note:
+- [Nicholas Burns and the Aspen Strategy Group — Research Pass 01](aspen-strategy-group-pass-01.md)
 
 ## Beijing
 
@@ -81,6 +93,7 @@ This overlay creates specific research questions: what did Burns actually rememb
 - **2024** — Burns appears with Chinese baseball fans; official/public caption includes “Future members of @Redsox Nation.”
 - **May 22, 2024** — HKS graduation address from Beijing-era Burns emphasizes public service, courage, and changing the world “for the better.”
 - **2025** — Returns to Harvard after China service.
+- **Post-Beijing** — Harvard and Aspen currently identify Burns as co-chair of the Aspen Strategy Group and Aspen Security Forum. Sources: https://www.hks.harvard.edu/index.php/faculty/nicholas-burns and https://www.aspeninstitute.org/programs/aspen-strategy-group/
 
 ## Research gaps to close against this chronology
 
@@ -96,3 +109,7 @@ This overlay creates specific research questions: what did Burns actually rememb
 - MLB / Red Sox / Orioles / Angelos records tied directly to Burns.
 - China-era baseball events beyond the 2024 fan image.
 - Colleague oral histories confirming how frequently Burns used baseball as rapport inside private diplomatic settings.
+- Contemporaneous participant lists, agendas, or Chinese-side records for the June 2013 Aspen U.S.-China Track II dialogue.
+- Exact institutional date and mechanics of the Aspen Strategy Group / Aspen Security Forum merger.
+- Exact launch date and Burns's role in the Aspen Rising Leaders Program.
+- Archived Aspen event video/transcripts that might establish whether Burns ever used Red Sox language inside Aspen programming; until found, no Aspen baseball scene is earned.
