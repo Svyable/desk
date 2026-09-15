@@ -130,25 +130,9 @@ That gap makes moving expensive for existing owners.
 
 A household that sells a home financed at 3 percent and buys another at 6.4 percent may face a much larger payment even if the new home is not much more expensive. The old mortgage becomes an asset attached to staying put.
 
-Researchers at the Federal Reserve estimated that mortgage-rate lock-in explained 44 percent of the decline in mortgage-borrower mobility from 2021 to 2022. In the unusually tight market of that period, they estimated the lock-in shock reduced time on market and pushed prices higher than they otherwise would have been.
+Researchers at the Federal Reserve estimated that mortgage-rate lock-in explained 44 percent of the decline in mortgage-borrower mobility from 2021 to 2022. In the historically tight market of 2022, they estimate that the lock-in shock cut time on market by 29 percent and raised house prices by 8 percent. But their counterfactual matters just as much: put the same rate shock into a more balanced market like 2019, and the estimated effect on prices and tightness nearly disappears. The fixed-rate mortgage did not manufacture scarcity by itself. It amplified scarcity that was already there.
 
-The fixed-rate mortgage protected households exactly as designed.
-
-The protection created a market consequence.
-
-This is not a reason to regret fixed-rate mortgages. Their stability is enormously valuable. It is another example of a theme running through this book: a good institution can create a second-order spending problem somewhere else.
-
-The cheap mortgage lowered the owner's financing cost.
-
-When rates rose, the same contract reduced the owner's willingness to move.
-
-Lower mobility reduced listings.
-
-Tight supply helped preserve prices.
-
-New buyers confronted the new interest rate and the old scarcity at once.
-
-The monthly payment became punitive.
+That is an awkward result because the contract was protecting households exactly as designed. A homeowner who locked a 3 percent mortgage did not cause a policy failure by refusing to surrender it when market rates doubled. The stability is the point. The second-order problem appears when millions of individually sensible decisions arrive in a market already short of listings and difficult to build into.
 
 By 2026, the housing market contained a strange combination of weak transaction volume and high prices. Existing-home sales had been sitting near three-decade lows. New construction had softened. Rents had cooled in some markets. Yet affordability remained severe because the level of prices and financing costs was still high.
 
