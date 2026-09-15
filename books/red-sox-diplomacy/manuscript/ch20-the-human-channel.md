@@ -18,6 +18,10 @@ Repeated contact helps without becoming magic. A Russian official does not becom
 
 What repeated contact creates is a record of behavior. The same counterpart delivers good news, bad news, corrections, warnings and concessions. Over time, each side learns something about consistency, evasiveness, follow-through and memory. That may produce trust. It may produce informed distrust. Both are better than fantasy.
 
+Burns had spent part of his Harvard years around a revealing inverse case. Through the Future of Diplomacy Project, he brought Special Olympics leader Tim Shriver into a discussion of [non-state actors in international affairs](https://www.belfercenter.org/publication/non-state-actors-international-affairs); Burns later served on the [Special Olympics International board](https://www.specialolympics.org/about/board-of-directors/nicholas-burns). A civic network can create encounters, expectations and relationships across borders without possessing the authority to bind a government. An ambassador has the opposite burden: the relationship is human, but the words can commit an institution far larger than the person speaking them.
+
+That difference is easy to lose when every kind of cross-border contact is called diplomacy. It is better to keep the categories visible. Civic contact can widen the set of people who know one another. Official diplomacy determines what a state will promise, oppose, recognize or risk. The two can reinforce one another without becoming interchangeable.
+
 Synthetic communication makes the distinction more important. Text, audio, video and translation can be produced quickly and convincingly. Language is becoming abundant. Authorized intent is not.
 
 Who meant this? Who had the power to mean it? Who can be held to it tomorrow?
