@@ -2,25 +2,13 @@
 
 By the morning of September 12, solidarity had to become procedure.
 
-The NATO ambassadors had spent the previous day absorbing an attack whose scale was still becoming visible. They had offered support. Most were prepared to invoke the alliance's collective-defense clause. Some still needed instructions from home.
+The NATO ambassadors had spent the previous day absorbing an attack whose scale was still becoming visible. Most were prepared to invoke the alliance's collective-defense clause. Some still needed instructions from home. Nicholas Burns needed the same thing: authority from Washington.
 
-Nicholas Burns needed something too.
+He had finally reestablished contact with the government he represented. In his later telling, he called National Security Adviser Condoleezza Rice early that morning and told her what the allies wanted to do. They wanted to invoke Article 5.
 
-Authority from Washington.
+The clause had existed since 1949 and had never been used. For more than half a century, an attack on one would be treated as an attack on all. Everyone knew the promise. No one had yet had to discover its procedure.
 
-He had finally reestablished contact with the government he represented. In his later telling, he called National Security Adviser Condoleezza Rice early that morning and told her what the allies wanted to do.
-
-They wanted to invoke Article 5.
-
-The clause had existed since 1949 and had never been used.
-
-It was the sentence behind NATO's credibility: an attack on one would be treated as an attack on all. For more than half a century, everyone had known what the promise was supposed to mean without having to discover exactly how it would work.
-
-Burns told Rice he thought he needed presidential authorization before casting the American vote.
-
-Treaty language is not atmosphere.
-
-Governments have constitutions, chains of command, parliaments, military authorities, lawyers, and political consequences. Collective defense matters because it is not a spontaneous emotional response.
+Burns told Rice he thought he needed presidential authorization before casting the American vote. He was right to ask. Treaty language is not atmosphere; governments have constitutions, chains of command, parliaments, military authorities, lawyers and consequences.
 
 Rice told him to proceed.
 
@@ -30,25 +18,13 @@ Burns would remember one more sentence from the call.
 
 *ARCHIVE NOTE — Condoleezza Rice, as recalled by Nicholas Burns in his 2024 retrospective on NATO and September 11. This is Burns's remembered wording, not a contemporaneous White House transcript. [First-person source.](https://afsa.org/nato-75)*
 
-The line survives because it reduces an elaborate alliance system to something almost embarrassingly plain.
-
-Friends.
-
 The North Atlantic Council met again.
 
-What it adopted that day was historic, but not careless.
+What it adopted that day was historic, but conditional. If the attacks had been directed from abroad against the United States, NATO said, they would be regarded as covered by Article 5.
 
-The statement said that if the attacks had been directed from abroad against the United States, they would be regarded as covered by Article 5.
+That *if* matters. The allies could offer solidarity before they knew everything without pretending they already knew everything.
 
-The condition matters.
-
-The allies expressed solidarity immediately and still preserved the need to establish what had happened.
-
-Article 5 was not designed as a machine that transforms grief into war. It imposed an obligation to assist when an ally had suffered an armed attack within the treaty's scope.
-
-On October 2, after NATO received the results of the American investigation, the condition was satisfied.
-
-The attacks had been directed from abroad.
+Article 5 did not turn grief automatically into war. It imposed an obligation to assist when an ally had suffered an armed attack within the treaty's scope. On October 2, after NATO received the results of the American investigation, the Council determined that the September 11 attacks had been directed from abroad.
 
 Article 5 applied.
 
@@ -56,110 +32,40 @@ Article 5 applied.
 
 *CONDITIONAL CLAUSE 01 — September 12 to October 2, 2001. NATO committed to collective defense while retaining a factual condition: the attacks had to be established as externally directed. After the Council received the investigation results on October 2, that condition was satisfied. Verification was part of the alliance process, not the opposite of solidarity. [Source map.](../research/ch12-visual-archive.md)*
 
-Then came the harder question.
+Then came the harder question: what did application mean?
 
-What did application mean?
+Article 5 does not order nineteen countries to do one identical thing. Each ally agrees to assist by taking such action as it deems necessary, individually and in concert with the others. That can include armed force, but the treaty leaves room for different capabilities, legal structures, parliamentary rules, geography, intelligence resources and political constraints.
 
-Article 5 does not order nineteen countries to do one identical thing.
+Collective defense did not erase those differences. It had to make them useful.
 
-Each ally agrees to assist by taking such action as it deems necessary, individually and in concert with the others. That action can include armed force, but the treaty does not prescribe the same response for every member.
+By early October, the United States had begun identifying the assistance it wanted. Burns was again the channel. At an October 3 State Department briefing, spokesman Richard Boucher identified him as the ambassador who had carried the American list to NATO.
 
-Different governments had different capabilities, legal structures, parliamentary rules, geographic positions, intelligence resources, and political constraints.
-
-Collective defense did not erase those differences.
-
-It organized them.
-
-By early October, the United States had begun identifying concrete forms of assistance it wanted from NATO.
-
-Burns was again the channel.
-
-At a State Department briefing on October 3, spokesman Richard Boucher identified Burns as the ambassador who had carried the American list of requested measures to the alliance.
-
-The list did not read like a speech.
-
-It read like logistics.
-
-More intelligence sharing.
-
-Better protection for American and allied facilities.
-
-Allies backfilling selected NATO assets that might be pulled toward counterterrorism operations.
-
-Overflight clearances for military aircraft.
-
-Access to ports and airfields.
-
-Naval forces in the eastern Mediterranean.
-
-Airborne early-warning aircraft available to support operations.
-
-This was Article 5 turning from a sentence into infrastructure.
+The list did not read like a speech. It read like logistics: more intelligence sharing; better protection for American and allied facilities; allies backfilling selected NATO assets that might be pulled toward counterterrorism operations; overflight clearances for military aircraft; access to ports and airfields; naval forces in the eastern Mediterranean; airborne early-warning aircraft available to support operations.
 
 [![Documentary implementation package summarizing the eight NATO support measures approved on October 4, 2001](../media/ch12-eight-measures.svg)](https://www.nato.int/en/news-and-events/events/transcripts/2001/10/04/statement-to-the-press)
 
 *IMPLEMENTATION PACKAGE 01 — October 4, 2001. At U.S. request, NATO agreed eight forms of support spanning intelligence, security, backfill, overflight, access, naval presence and airborne warning. The package did not require every ally to perform an identical act; it organized different capabilities into shared assistance. [Source map.](../research/ch12-visual-archive.md)*
 
-Alliance power is often photographed at summits. Much of it works in details too dull for ceremony.
-
-A plane receives permission to cross airspace. A ship can enter a port. An intelligence service shares more than it shared the week before. A military fills a task another ally can no longer cover. A surveillance aircraft flies where it is needed.
-
-On October 4, NATO approved eight measures supporting the United States.
+On October 4, NATO approved eight measures supporting the United States. Their power was mostly unphotogenic. A plane could cross an ally's airspace. A ship could enter a port. An intelligence service could share more than it had the week before. One military could cover a task another was leaving to fight elsewhere.
 
 Then the alliance crossed the Atlantic in a direction its founders had not imagined.
 
-NATO airborne warning and control aircraft deployed to help patrol American skies.
-
-For decades, the United States had stationed forces in Europe as proof that an attack on Europe would involve America.
-
-Now multinational NATO crews were flying over the United States because America had been attacked.
+NATO airborne warning and control aircraft deployed to help patrol American skies. For decades, the United States had stationed forces in Europe as proof that an attack on Europe would involve America. Now multinational NATO crews were flying over the United States because America had been attacked.
 
 [![Flight ledger for Operation Eagle Assist showing NATO aircraft, multinational crews and sorties over the United States](../media/ch12-eagle-assist-ledger.svg)](https://www.nato.int/en/what-we-do/introduction-to-nato/collective-defence-and-article-5)
 
 *FLIGHT LEDGER 01 — Operation Eagle Assist, October 2001–May 2002. NATO's official history records seven AWACS aircraft, 830 crew members from thirteen NATO countries and more than 360 sorties helping patrol U.S. airspace. It was the first deployment of NATO military assets in support of an Article 5 operation. [Source map.](../research/ch12-visual-archive.md)*
 
-The alliance had reversed its traditional flow without abandoning its original principle.
+Seven aircraft. Eight hundred thirty crew members from thirteen NATO countries. More than 360 sorties over the United States before Operation Eagle Assist ended in May 2002.
 
-The principle was obligation.
+The treaty sentence had acquired crews, flight hours and American airspace.
 
-Burns would spend years returning to that fact.
+Burns would spend years returning to the fact that the United States did not need allies because it lacked power. It needed them because power still has to cross distances, bases, intelligence networks, airspace, law and politics. Allies extended American reach. They also changed the political meaning of the response.
 
-The United States did not need allied sympathy because it was weak. It needed allied capability because even the strongest state operates in a world of distances, bases, intelligence networks, airspace, law, legitimacy, and shared risk.
+That did not mean the alliance would agree forever. Afghanistan would test endurance. Iraq would split allies badly. Defense spending, enlargement, Russia, strategy and American leadership would all produce fights of their own.
 
-America had enormous power.
+None of that changes the sequence in 2001. On September 12, the allies made a conditional commitment. On October 2, they determined that the condition had been met. On October 4, they approved the machinery.
 
-Its allies expanded its reach.
+Burns's remembered line from Rice came before the machinery: *It’s good to have friends in the world.*
 
-They also expanded the political meaning of the response.
-
-That did not mean the alliance would agree forever. Afghanistan would test endurance. Iraq would split allies badly. Arguments over defense spending, strategy, enlargement, Russia, and American leadership would become fierce.
-
-Later disagreement does not weaken what happened in 2001. It clarifies it.
-
-An alliance is not meaningful because its members always agree.
-
-It is meaningful because they have agreed in advance about what they owe one another when disagreement is no longer the main problem.
-
-For fifty-two years, Article 5 had been a sentence no one wanted to test.
-
-On September 12, the allies said they were prepared to use it.
-
-On October 2, they determined that the facts required it.
-
-On October 4, they began turning it into action.
-
-Solidarity.
-
-Verification.
-
-Commitment.
-
-Execution.
-
-That is how institutions keep language from becoming theater.
-
-Burns's later memory of Rice's line works because it came before all the machinery.
-
-It was good to have friends in the world.
-
-A month later, some of those friends were helping watch the American sky.
+A month later, seven NATO aircraft were helping watch the American sky.
