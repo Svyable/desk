@@ -16,7 +16,39 @@ A classroom can put those versions beside one another. At the State Department p
 
 Burns built an institutional version of that idea in the Future of Diplomacy Project. The project brought diplomats and other practitioners into Harvard, supported teaching and research on negotiation and statecraft, and helped construct the American Secretaries of State Project: extended interviews with former secretaries about consequential negotiations.
 
-Henry Kissinger, George Shultz, James Baker, Madeleine Albright, Colin Powell, Condoleezza Rice, Hillary Clinton, John Kerry and others could explain their negotiations. Their recollections were valuable without becoming the final word. Students could put memory against documents, other participants, scholarship and consequences.
+## Diplomacy Without a Flag
+
+The former secretaries represented the obvious version of Burns's subject: people who had possessed the authority of the state and could later explain how they had used it. But one of the more revealing guests in the Future of Diplomacy Project came from outside that architecture entirely.
+
+In February 2012, the project announced Tim Shriver, then chairman and chief executive of Special Olympics, as a Fisher Family Fellow alongside former Indian foreign secretary Shyam Saran and former NATO secretary general Javier Solana. The grouping was not accidental in the administrative sense: all three had been selected by a program explicitly devoted to diplomacy, negotiation and statecraft. Shriver was the one who made the category harder to define. He did not arrive with a foreign ministry behind him. [Harvard's announcement](https://www.belfercenter.org/publication/harvard-kennedy-schools-future-diplomacy-project-announces-spring-2012-fisher-family) described Special Olympics as a movement operating in more than 170 countries and noted work in places including Afghanistan, Bosnia-Herzegovina and Iraq.
+
+When Shriver returned to Harvard that September, the Future of Diplomacy Project framed his subject directly as [“Non-state Actors in International Affairs”](https://www.belfercenter.org/publication/non-state-actors-international-affairs). His argument was not that nongovernmental organizations had quietly become governments. It was that they could organize citizens across borders, build networks around common needs and create pressure for better treatment without beginning from state security as their organizing purpose.
+
+This was close enough to diplomacy to matter and different enough to clarify what diplomacy was.
+
+A government can recognize another government, sign an agreement, impose a sanction, issue a visa or order a military deployment. Special Olympics can do none of those things. It can, however, create a field on which people who are routinely treated as marginal become athletes, teammates, competitors, leaders and representatives of their communities. It can establish rules for an encounter. It can repeat the encounter across borders. It can create a network that exists whether or not two governments are getting along.
+
+Burns made his own conceptual move visible later that year. In a December 2012 column on [“The Peacemakers of 2012”](https://www.hks.harvard.edu/publications/peacemakers-2012), he began with the scarcity of political leaders producing peace and then widened the frame to people who did not possess the power of a state. Tim Shriver was on the list. Burns pointed to Special Olympics' reach among millions of young people with intellectual disabilities around the world and described Shriver's work as peace-building person by person.
+
+That was more than an admiring aside because Burns subsequently took on a governance role in the organization. A 2015 State Department biography listed him on the board of Special Olympics International—the same biography, with almost comic compression, also listed him as a member of Red Sox Nation. In 2016, Special Olympics announced that Burns had been [re-elected to a second three-year term](https://www.prnewswire.com/news-releases/special-olympics-board-of-directors-awards-the-2019-world-summer-games-to-abu-dhabi-announces-new-board-members-and-welcomes-returning-board-members-at-international-board-directors-meeting-300363665.html). The organization's description of its [international board](https://www.specialolympics.org/about/board-of-directors/nicholas-burns) is functional rather than ceremonial: the board determines international policies.
+
+The record does not tell us which policies Burns personally proposed, which board debates he changed or what private reasons brought him to the work. It would be easy to make a diplomat's presence on an international board carry more narrative weight than the documents permit. The useful fact is narrower and stronger. After a career spent representing a state, Burns chose to spend part of his post-government life governing an international civic organization whose power depended on participation rather than sovereignty.
+
+One board meeting in 2016 puts the scale in view without telling us Burns's individual position. At the session where he was re-elected, the board also awarded the 2019 Special Olympics World Summer Games to Abu Dhabi, the first host in the Middle East for a global multisport event of that size. Tim Shriver described the choice as an invitation for people of many kinds to come together through sport. The decision belonged to the board, not to Burns alone. That distinction matters. So does the geography.
+
+Athens had shown Burns using baseball as public diplomacy while he was an American ambassador: cameras, children, a batting cage, local organizers, American baseball networks, the embassy somewhere in the machinery. Special Olympics offered almost the inverse case. There was no need to persuade anyone to like an American policy. There was no U.S. position to defend. The institution's claim was about inclusion, not national advantage.
+
+This is where the sports strand in Burns's life becomes larger than the Red Sox without becoming a metaphor for everything.
+
+The Red Sox made Burns legible. A cap, a complaint about the Yankees, a score checked from another time zone—these were pieces of a local identity he carried into rooms built for national interests. Special Olympics showed sport doing something else. It did not merely reveal the person inside the representative. It built a transnational institution around people whom many societies had failed to treat as full participants.
+
+One was fandom carried abroad. The other was an organized civic field.
+
+Neither replaces diplomacy between states. A Special Olympics board cannot negotiate a nuclear agreement or invoke Article 5. A baseball conversation cannot settle a territorial dispute. But Burns's Harvard years make the border worth seeing. International life is not made only by officials speaking to officials. It is also made by institutions that decide who gets to enter the room, who counts as a participant and what kinds of human contact can continue when governments are stuck.
+
+That idea would matter later in Beijing, where people-to-people exchange became one of the contested spaces inside a much harder strategic relationship. The authority would be different there. Burns would again speak for the United States. But his years outside government had supplied a useful contrast: some of the relationships that make international life possible are built by people who cannot sign anything on behalf of a country.
+
+Henry Kissinger, George Shultz, James Baker, Madeleine Albright, Colin Powell, Condoleezza Rice, Hillary Clinton, John Kerry and others could explain their negotiations through the American Secretaries of State Project. Their recollections were valuable without becoming the final word. Students could put memory against documents, other participants, scholarship and consequences.
 
 ![TEACHING ARCHIVE 01 — practitioner memory enters a structure built for comparison.](../media/ch17-teaching-archive.svg)
 
@@ -41,6 +73,8 @@ The record used for this book does not give us his private reaction to the bombi
 The Red Sox placed `Boston Strong` into the team's visible identity. Fenway became one of the places where the city mourned, thanked first responders and resumed ordinary civic life. That October, Boston reached the World Series. On October 30, the Red Sox clinched the championship at Fenway Park, the club's first World Series clincher on its home field since 1918.
 
 A championship did not repair the physical or psychological damage of the Marathon attack, and a baseball team was not therapy. A civic institution did not have to cure grief to become one of the places where grief was expressed. Fenway gave Boston a stage.
+
+The Special Olympics work sharpens that scene by contrast. Sport can be commerce, ritual, identity, civic gathering, international institution or simply a game. It does not become morally important merely because a diplomat likes it. The work is in what people build around it—and in who they allow onto the field.
 
 *ARCHIVE NOTE — Major League Baseball's 2013 retrospective records the Red Sox adoption of `Boston Strong` symbolism after the Marathon bombing and the team's championship that fall. Boston clinched Game 6 of the World Series at Fenway, its first home-field World Series clincher since 1918. [MLB 2013 retrospective.](https://www.mlb.com/redsox/news/mlb-2013-year-in-review) [2013 postseason history.](https://www.mlb.com/postseason/history/2013)*
 
