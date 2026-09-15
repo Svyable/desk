@@ -17,6 +17,8 @@ A second, deliberately different biography of R. Nicholas Burns. Where *The Long
 
 Baseball is not imposed as a metaphor on every episode. It appears where the documentary record earns it. The book asks how Burns used an unmistakably American personal identity—including a lifelong attachment to the Boston Red Sox—as social intelligence, public diplomacy, humor, and a way of remaining a person inside institutions designed to make people representatives.
 
+The sports story now has a second documented register beyond fandom and official baseball diplomacy. During Burns's Harvard years, the Future of Diplomacy Project brought Special Olympics leader Tim Shriver into its study of non-state international action, Burns publicly included Shriver among peace-builders operating without state power, and Burns served on the Special Olympics International board. Chapter 17 uses that record to distinguish three things the book should not collapse into one phrase: **fandom as human legibility, sport inside official public diplomacy, and sport as a non-state international civic institution.** The supporting evidence and stop conditions are in the [Special Olympics research dossier](research/special-olympics-nonstate-diplomacy.md).
+
 The Red Sox also provide a second historical clock. Burns’s life runs beside a changing Boston, a changing game, and a changing United States: integration and exclusion, civic revival and racial conflict, labor fights, national trauma, championships, immigration and diaspora, globalization, and the persistent American habit of carrying local loyalties into a much larger world. That history is used as backdrop and counterpoint, not as invented memory or a claim that baseball secretly explains diplomacy.
 
 ## Contents
@@ -63,6 +65,6 @@ The reader-facing edition should make that evidence usable. When a source can be
 
 The complete manuscript and its book-specific preparation gates were merged into Desk on September 14, 2026. Quotation verification, named evidence-balance stop conditions, the deterministic canonical source-ledger rebuild, title-page metadata, generated catalog integration, and differential Desk integrity validation were completed before that merge.
 
-Post-merge work is revision and enhancement, not a reopening of settled evidence gates unless new prose creates a new factual burden.
+Post-merge work is revision and enhancement, not a reopening of settled evidence gates unless new prose creates a new factual burden. The Special Olympics expansion is a post-merge enhancement supported by direct institutional records and a dedicated research dossier; claims about Burns's individual board decisions or private motives remain explicitly out of bounds without further evidence.
 
 The manuscript remains in **Revision in progress**. A Desk merge is not a Shelf publication; publication remains a separate explicit release decision.
