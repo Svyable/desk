@@ -2,7 +2,9 @@
 
 For twenty-seven years, Nicholas Burns had worked inside the sentence. At a State Department podium, a phrase could become policy. An ambassador's cable could change what Washington believed was happening abroad. A negotiating formulation could preserve a coalition or expose a disagreement.
 
-Then, in 2008, Burns left government and went to Harvard. The change was larger than geography: a diplomat speaks with delegated authority; a professor does not.
+Then, in 2008, Burns left government, but not for one second act. He went to Harvard and, alongside it, joined The Cohen Group as a senior counselor. He would spend twelve years at the business advisory firm before returning to government in 2021.
+
+The split matters because it changes the silhouette of the Harvard years. Burns was not simply a retired official turning experience into lectures. At Harvard, he made statecraft examinable. At Cohen, he remained in an advisory world where former senior officials provided strategic counsel to business clients. A diplomat speaks with delegated authority; a professor or adviser does not. But neither role is retirement from power.
 
 Harvard appointed Burns Professor of the Practice of Diplomacy and International Politics after his retirement from the Foreign Service. The title contained the experiment. He was not being asked to stop being a practitioner. He was being asked to make practice examinable.
 
@@ -46,6 +48,10 @@ One was fandom carried abroad. The other was an organized civic field.
 
 Neither replaces diplomacy between states. A Special Olympics board cannot negotiate a nuclear agreement or invoke Article 5. A baseball conversation cannot settle a territorial dispute. But Burns's Harvard years make the border worth seeing. International life is not made only by officials speaking to officials. It is also made by institutions that decide who gets to enter the room, who counts as a participant and what kinds of human contact can continue when governments are stuck.
 
+The Cohen Group belonged to a different non-state world altogether. It advised business clients rather than organizing civic participation. Burns's title and tenure are documented; the public sources used here do not identify which client matters he personally handled, so the book should not invent them. The useful point is institutional. After leaving government, his international work passed through university classrooms, a business advisory firm and an international civic organization—each close to power in a different way and none carrying a flag.
+
+*ARCHIVE NOTE — Harvard identified Burns contemporaneously as a senior counselor at The Cohen Group while he was on the Kennedy School faculty. The Cohen Group later said he held the role for twelve years before returning to government in 2021 and described its senior leaders as providing strategic advice and practical assistance to clients. [Harvard Kennedy School, 2020.](https://www.hks.harvard.edu/wiener-conference-calls/nicholas-burns) [The Cohen Group, February 2025.](https://cohengroup.net/ambassador-nicholas-burns-rejoin-cohen-group-vice-chair)*
+
 That idea would matter later in Beijing, where people-to-people exchange became one of the contested spaces inside a much harder strategic relationship. The authority would be different there. Burns would again speak for the United States. But his years outside government had supplied a useful contrast: some of the relationships that make international life possible are built by people who cannot sign anything on behalf of a country.
 
 Henry Kissinger, George Shultz, James Baker, Madeleine Albright, Colin Powell, Condoleezza Rice, Hillary Clinton, John Kerry and others could explain their negotiations through the American Secretaries of State Project. Their recollections were valuable without becoming the final word. Students could put memory against documents, other participants, scholarship and consequences.
@@ -78,7 +84,7 @@ The Special Olympics work sharpens that scene by contrast. Sport can be commerce
 
 *ARCHIVE NOTE — Major League Baseball's 2013 retrospective records the Red Sox adoption of `Boston Strong` symbolism after the Marathon bombing and the team's championship that fall. Boston clinched Game 6 of the World Series at Fenway, its first home-field World Series clincher since 1918. [MLB 2013 retrospective.](https://www.mlb.com/redsox/news/mlb-2013-year-in-review) [2013 postseason history.](https://www.mlb.com/postseason/history/2013)*
 
-Burns spent thirteen years at Harvard before returning to government. Administrations changed. The wars after September 11 changed shape. Russia seized Crimea. The Iran nuclear agreement was negotiated, signed and later abandoned by the United States. China became more powerful and the American argument about China became harder. Burns watched, argued and taught from outside delegated authority.
+Burns spent thirteen years at Harvard before returning to government. Administrations changed. The wars after September 11 changed shape. Russia seized Crimea. The Iran nuclear agreement was negotiated, signed and later abandoned by the United States. China became more powerful and the American argument about China became harder. Burns watched, argued, advised and taught from outside delegated authority.
 
 Then the distance ended. In 2021, President Joe Biden nominated him to become United States ambassador to the People's Republic of China. For thirteen years Burns had asked students to examine how governments succeed and fail. Now a government was asking him to represent it again.
 
