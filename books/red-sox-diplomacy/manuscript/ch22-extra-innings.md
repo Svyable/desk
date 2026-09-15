@@ -1,6 +1,8 @@
 # Extra Innings
 
-Nicholas Burns left Beijing in January 2025. A few months later he was back at Harvard.
+Nicholas Burns left Beijing in January 2025. Within weeks, one part of his pre-government life had resumed. On February 17, he rejoined The Cohen Group as a vice chair, returning to the firm where he had spent twelve years as a senior counselor before becoming ambassador to China. A few months later he was back at Harvard.
+
+*ARCHIVE NOTE — The Cohen Group announced Burns's return as vice chair effective February 17, 2025, and said he had served as a senior counselor at the firm for twelve years before returning to government. [The Cohen Group, “Ambassador Nicholas Burns to Rejoin The Cohen Group as a Vice Chair.”](https://cohengroup.net/ambassador-nicholas-burns-rejoin-cohen-group-vice-chair)*
 
 In an April lecture reflecting on China, Burns reached for a relay race rather than baseball. He had carried the American baton in Beijing for a few years, he said in substance, and now he was handing it to his successor.
 
@@ -10,7 +12,9 @@ In an April lecture reflecting on China, Burns reached for a relay race rather t
 
 A diplomat inherits a relationship already in motion and leaves it unfinished. The U.S.-China relationship did not belong to the ambassador who occupied the residence. NATO did not begin when Burns arrived twelve days before September 11. The India nuclear agreement did not belong to one negotiator. Iran did not resolve itself because an under secretary left office. The office is temporary. The file is not.
 
-Burns had made this transition once before. In 2008, after twenty-seven years in the Foreign Service, he moved to Harvard. More than a decade later President Joe Biden asked him to return as ambassador to China. Now he was back in the classroom with another government service behind him and another set of decisions available for examination.
+Burns had made this transition once before. In 2008, after twenty-seven years in the Foreign Service, he moved into a civilian life divided between Harvard and The Cohen Group. More than a decade later President Joe Biden asked him to return as ambassador to China. Now he had returned to both institutions with another government service behind him and another set of decisions available for examination and advice.
+
+The combination matters because teaching and advising ask different things of the same experience. In a classroom, a former official's decisions can be challenged after the fact. In an advisory firm, geopolitical judgment is applied while companies are still deciding what to do. Neither setting restores delegated authority. Both keep the retired diplomat close to arguments about how power works.
 
 Some of what he carried back was deliberately small. Burns later emphasized the late-2024 release of Americans who had been detained in China for years. In a relationship measured in nuclear weapons, Taiwan, trade and technological competition, a handful of individuals can sound numerically trivial. Not to their families. Statecraft operates at both scales: deterrence, sanctions, alliances and summits at one; a person walking out of a prison at the other.
 
@@ -30,7 +34,7 @@ Officials decide with partial information, institutional pressure and the confid
 
 Harvard gave Burns a place where former decisions could become material students questioned. Returning to government exposed the professor's ideas to authority again; returning to teaching put the latest exercise of authority back under examination.
 
-This is where the baseball title earns one last appearance. Extra innings begin after the expected ending has passed, and Burns's public career has had several apparent endings: the Foreign Service in 2008, thirteen years of teaching, government again, China, Harvard again. In his seventies he was still arguing publicly about alliances, China, intervention and September 11.
+This is where the baseball title earns one last appearance. Extra innings begin after the expected ending has passed, and Burns's public career has had several apparent endings: the Foreign Service in 2008, thirteen years of teaching and advising, government again, China, Harvard and Cohen again. In his seventies he was still arguing publicly about alliances, China, intervention and September 11.
 
 Not a victory lap. Continued participation preserves the possibility of correction.
 
