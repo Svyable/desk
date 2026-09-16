@@ -10,7 +10,7 @@ After leaving Beijing, Burns reduced the ambassador's first obligation to one se
 >
 > ### “represent the perspectives and policies of one’s government ... and to be the primary point of communication between them.”
 >
-> *Fairbank/Belfer lecture · April 30, 2025 · [Transcript](https://www.belfercenter.org/research-analysis/lessons-front-lines-us-china-relationship)*
+> *Fairbank/Belfer lecture · April 30, 2025 · [Lecture text](https://www.belfercenter.org/research-analysis/lessons-front-lines-us-china-relationship)*
 
 The receiving side needs more than words. It needs to know what weight to put on them. Was the statement authorized? Was the minister improvising? Was the president making a commitment or describing a preference? Was the ambiguity intentional? What changed since yesterday?
 
