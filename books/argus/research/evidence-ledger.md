@@ -32,6 +32,22 @@ Project Argus is a unusually compressed case in which discovery of the near-Eart
 - Calling Argus an early form of planetary engineering is interpretive and may be too broad. The manuscript should earn or discard the phrase.
 - The shared-medium problem — a classified experiment conducted in a globally coupled geomagnetic environment — is a synthesis that should be tested against contemporary diplomatic/scientific objections rather than projected backward.
 
+## Chronology stress test: the proposal came before Explorer 1
+
+A later Los Alamos historical report, *The Effects of Nuclear Weapons on the Earth's Environment* (LA-6405), gives the book a useful disconfirming datum: it says Christofilos proposed in **October 1957**, before discovery of the natural Van Allen belts, that a high-altitude nuclear explosion could produce observable geophysical effects. It also says only four months elapsed between the decision to proceed and the first Argus detonation. DOE/OSTI copy: https://www.osti.gov/servlets/purl/7122163-NoMqp9/
+
+This matters because the cleanest version of the opening can imply the wrong causal arrow: Explorer discovered the belts, then the military decided to perturb the newly discovered system. The available chronology instead suggests that Christofilos's intervention proposal preceded Explorer 1. What became compressed in 1958 was not necessarily **idea after discovery**, but **pre-existing trapping/intervention theory + new satellite evidence + rapid authorization and execution + a satellite measurement campaign**.
+
+That is a better story if the primary documents bear it out. The natural belts and Argus artificial populations became experimentally entangled during the same extraordinary year, but discovery should not be made the cause of the proposal without actor-level evidence. Chapter 2 should recover the October 1957 document itself and establish what Christofilos actually predicted before Explorer 1; Chapter 3 can then show what the Explorer results changed, if anything, in Argus design, justification, instrumentation, interpretation, or urgency.
+
+A second DOE/NNSA historical account describes Argus as evolving from Christofilos's proposal to create an electromagnetic shield against nuclear weapons and says the tests showed Earth's magnetic field could not sustain the hoped-for long-lasting radiation shield. *Battlefield of the Cold War: The Nevada Test Site, Volume I*, p. 188: https://www.osti.gov/opennet/servlets/purl/969352.pdf. This is an important counterweight to a science-first narrative: Argus was not merely curiosity about a newly discovered environment. Its military hypothesis had a success criterion, and producing a measurable artificial belt is not identical to demonstrating the proposed long-lived defensive effect.
+
+### Manuscript consequence
+
+Keep the opening's sense of temporal compression, but make the causal sequence harder to romanticize. The eventual prose should distinguish at least four clocks: theoretical magnetic trapping; Christofilos's October 1957 proposal; the 1958 satellite discovery/characterization of natural trapped radiation; and the rapid decision, execution, and measurement of Argus. The strongest formulation may be that **discovery and intervention converged**, not that discovery triggered intervention.
+
+The military-efficacy boundary should also become concrete: “artificial belt observed” is a scientific result; “long-lasting electromagnetic shield achieved” is a separate proposition. Recover the original proposal and final operational/scientific reports before deciding whether the latter failed outright, was only partially tested, or was framed differently by participants at the time.
+
 ## Contradiction audit
 
 1. **Explorer did not invent trapping physics.** Størmer and others supplied earlier theory. A book that says humanity discovered magnetic trapping in 1958 is wrong.
@@ -39,6 +55,7 @@ Project Argus is a unusually compressed case in which discovery of the near-Eart
 3. **Secret ≠ undetectable.** Physical effects may be externally measurable even when program purpose and planning remain classified.
 4. **Observed artificial belt ≠ useful weapon.** Scientific success at producing trapped particles does not establish operational military efficacy.
 5. **Government experiment ≠ evidence for adjacent allegations.** Argus is a comparator, not a credibility voucher.
+6. **Temporal proximity ≠ causal sequence.** Christofilos's reported October 1957 proposal predates Explorer 1; the manuscript must not imply that discovery of the Van Allen belts generated the proposal unless primary records demonstrate a later redesign or reframing.
 
 ## Incentive / disinformation audit
 
