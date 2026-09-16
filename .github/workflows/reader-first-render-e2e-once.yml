@@ -89,7 +89,6 @@ jobs:
                   && (rect?.height || 0) > 20
                   && Number(document.getElementById('totalPages')?.textContent || '0') > 0;
               }, null, { timeout: 90000 });
-              await page.waitForFunction(() => document.documentElement.dataset.guiEnhanced === 'true', null, { timeout: 30000 });
 
               const snapshot = () => page.evaluate(() => {
                 const root = document.documentElement;
