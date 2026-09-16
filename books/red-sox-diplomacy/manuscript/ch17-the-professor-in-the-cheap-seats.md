@@ -20,7 +20,7 @@ Burns built an institutional version of that idea in the Future of Diplomacy Pro
 >
 > ### “a venerable and antique art, little understood and sometimes maligned, but of great value to all of us—Diplomacy.”
 >
-> *Chautauqua Institution · August 5, 2013 · [Belfer Center transcript](https://www.belfercenter.org/publication/return-american-diplomacy)*
+> *Chautauqua Institution · August 5, 2013 · [Belfer Center prepared remarks](https://www.belfercenter.org/publication/return-american-diplomacy)*
 
 ## Diplomacy Without a Flag
 
