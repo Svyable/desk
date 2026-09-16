@@ -101,7 +101,7 @@ Function: supplies Burns's own post-championship language without inventing the 
 
 > “a venerable and antique art, little understood and sometimes maligned, but of great value to all of us—Diplomacy.”
 
-Source: Chautauqua Institution / Belfer Center transcript, August 5, 2013.
+Source: Chautauqua Institution / Belfer Center prepared remarks, August 5, 2013.
 https://www.belfercenter.org/publication/return-american-diplomacy
 
 Function: gives the professor years a sentence of doctrine in Burns's own voice before the chapter expands diplomacy beyond formal state authority through Harvard, Special Olympics, and Aspen.
@@ -134,7 +134,7 @@ Function: provides the deliberately unserious language that the chapter then con
 
 > “represent the perspectives and policies of one’s government ... and to be the primary point of communication between them.”
 
-Source: Fairbank Center / Belfer Center lecture, April 30, 2025.
+Source: Fairbank Center / Belfer Center lecture text, April 30, 2025.
 https://www.belfercenter.org/research-analysis/lessons-front-lines-us-china-relationship
 
 Function: puts delegated authority in Burns's own words at the opening of the chapter about authentication, human channels, and AI-era abundance of language.
