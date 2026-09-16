@@ -20,7 +20,15 @@ The Red Sox gave Burns one recognizable piece of biography inside that larger en
 
 China posed the same problem under harder political conditions. By the time Burns reached Beijing, Washington and Beijing had dense public stories about one another. The United States described an authoritarian competitor using coercion, violating rights and seeking technological and military advantage. Chinese officials described a United States attempting to contain China's rise, interfere in its internal affairs and preserve an order built around American dominance.
 
-Burns argued for educational and cultural exchange while representing a competitive American strategy. In 2024 he accused Chinese authorities of interfering with U.S. cultural and educational programs; China rejected the charge, saying it supported people-to-people contact while opposing American interference and politicization. National image was not scenery around the relationship. It was contested terrain.
+Burns argued for educational and cultural exchange while representing a competitive American strategy. After leaving Beijing, he compressed the distinction between a government and a people into one sentence.
+
+> **NICK / GOVERNMENT AND PEOPLE**
+>
+> ### “Ultimately, we must compete with the government in China while living in peace with the Chinese people.”
+>
+> *Fairbank Center / Belfer Center lecture · April 30, 2025 · [Harvard text](https://www.belfercenter.org/research-analysis/lessons-front-lines-us-china-relationship)*
+
+In 2024 he accused Chinese authorities of interfering with U.S. cultural and educational programs; China rejected the charge, saying it supported people-to-people contact while opposing American interference and politicization. National image was not scenery around the relationship. It was contested terrain.
 
 Governments care about media, scholarships, cultural programs, visas, tourism, censorship and influence because political impressions form far outside formal negotiations. Yet no government owns the picture. Hollywood exports one America. Harvard exports another. So do a Marine at an embassy gate, a technology company, an exchange student, a protester, a refugee, a diplomat and a baseball fan. They contradict one another.
 
