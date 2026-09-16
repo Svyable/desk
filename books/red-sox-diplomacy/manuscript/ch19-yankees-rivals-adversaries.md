@@ -10,7 +10,15 @@ Burns's career put him inside relationships where *ally*, *competitor*, *adversa
 
 The State Department podium supplied the harmless version first. In 1997, the baseball banter recurred often enough that reporters knew the ritual. A visiting intern admitted to being a Yankees fan and Burns theatrically pointed toward the doors before granting clemency. A Dutch journalist knew enough to identify Fenway, and Burns pressed him on whether Boston's club was more famous than New York's. Nobody mistook the performance for policy.
 
-Ten years later in Paris, Burns opened a Marshall Plan commemoration with Ambassador Craig Stapleton by noting their shared Red Sox allegiance and joking opposition to the Yankees' “evil empire.” Then he changed registers and turned to U.S.-French relations.
+Ten years later in Paris, Burns opened a Marshall Plan commemoration with Ambassador Craig Stapleton by noting their shared Red Sox allegiance and a line no diplomat could safely use about an actual adversary:
+
+> **NICK / THE EVIL EMPIRE**
+>
+> ### “We are opponents of the evil empire, the New York Yankees.”
+>
+> *Marshall Plan commemoration, Paris · June 12, 2007 · [State Department transcript](https://2001-2009.state.gov/p/us/rm/2007/87176.htm)*
+
+Then he changed registers and turned to U.S.-French relations.
 
 ![REGISTER SWITCH 01 — a baseball joke gives way immediately to real alliance language in Paris.](../media/ch19-register-switch.svg)
 
