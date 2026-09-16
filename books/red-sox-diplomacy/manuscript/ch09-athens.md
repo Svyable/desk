@@ -32,7 +32,15 @@ The United States and Greece were NATO allies. The United States had played a ma
 
 Burns did not arrive with a blank sheet of paper. No ambassador does.
 
-In a 1998 appearance at Harvard, he said his first priority was to strengthen a relationship that ought to be close. One mechanism he emphasized was almost embarrassingly simple: leaders needed personal relationships and reliable ways to talk to one another. He also pointed toward economics, NATO, the Balkans, terrorism, Cyprus, and Greek-Turkish relations.
+In a 1998 appearance at Harvard, he said his first priority was to strengthen a relationship that ought to be close. One mechanism he emphasized was almost embarrassingly simple: leaders needed personal relationships and reliable ways to talk to one another.
+
+> **NICK / KEEP TALKING**
+>
+> ### “We have to set up mechanisms to make sure we are talking to one another.”
+>
+> *Harvard Kennedy School appearance · November 2, 1998 · [Harvard Crimson](https://www.thecrimson.com/article/1998/11/3/ambassador-to-greece-urges-improved-relations/)*
+
+He also pointed toward economics, NATO, the Balkans, terrorism, Cyprus, and Greek-Turkish relations.
 
 Inside the embassy, John Koenig saw what that breadth looked like from the working level.
 
