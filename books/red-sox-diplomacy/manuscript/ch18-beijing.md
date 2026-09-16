@@ -38,6 +38,12 @@ None of this was negotiation, and Libby did not acquire delegated authority by p
 
 The pandemic and political deterioration had meanwhile reduced ordinary movement between the two societies. American students were far less present in China than they had once been. Academic and cultural exchange had become harder, and political suspicion attached itself to institutions that might previously have been treated as routine bridges. Burns argued publicly for rebuilding some of those connections. Students do not solve Taiwan; a cultural event does not remove export controls; a visiting scholar does not create military confidence. Direct contact does something smaller. It makes the other society harder to reduce entirely to an abstraction.
 
+> **NICK / BALLAST**
+>
+> ### “you need ballast in the relationship and you need the societies to remain connected”
+>
+> *CSIS Pekingology interview · July 25, 2024 · [Transcript](https://www.csis.org/analysis/ambassador-nicholas-burns-us-china-relationship)*
+
 Even that became contested terrain. In 2024 Burns publicly accused Chinese authorities of interfering with U.S. Embassy cultural, educational and people-to-people programming, and the State Department backed his complaint. China rejected the characterization. Its Foreign Ministry said China supported people-to-people exchange while objecting to what it regarded as American interference and politicization. Both governments said contact mattered and disagreed about what was preventing it.
 
 ![CONTESTED CHANNEL 01 — competing U.S. and Chinese accounts of people-to-people exchange in June 2024.](../media/ch18-contested-channel.svg)

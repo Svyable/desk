@@ -16,6 +16,12 @@ A classroom can put those versions beside one another. At the State Department p
 
 Burns built an institutional version of that idea in the Future of Diplomacy Project. The project brought diplomats and other practitioners into Harvard, supported teaching and research on negotiation and statecraft, and helped construct the American Secretaries of State Project: extended interviews with former secretaries about consequential negotiations.
 
+> **NICK / THE CRAFT**
+>
+> ### “a venerable and antique art, little understood and sometimes maligned, but of great value to all of us—Diplomacy.”
+>
+> *Chautauqua Institution · August 5, 2013 · [Belfer Center transcript](https://www.belfercenter.org/publication/return-american-diplomacy)*
+
 ## Diplomacy Without a Flag
 
 The former secretaries represented the obvious version of Burns's subject: people who had possessed the authority of the state and could later explain how they had used it. But one of the more revealing guests in the Future of Diplomacy Project came from outside that architecture entirely.

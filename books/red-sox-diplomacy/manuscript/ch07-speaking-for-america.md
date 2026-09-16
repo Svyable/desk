@@ -24,7 +24,11 @@ In July 1997, as Cambodia descended into crisis, reporters pressed Burns about r
 
 Burns made mistakes too. In February 1997, during questioning over talks involving North Korea, he gave the wrong date. Reporters corrected him.
 
-> *“I stand corrected. Sorry.”*
+> **NICK / CORRECTION**
+>
+> ### “I stand corrected. Sorry.”
+>
+> *State Department briefing · February 27, 1997 · [Transcript mirror](https://www.globalsecurity.org/wmd/library/news/dprk/1997/970227a.htm)*
 
 [![Documentary correction object preserving Nicholas Burns's February 27, 1997 words I stand corrected. Sorry.](../media/ch07-stand-corrected.svg)](https://www.globalsecurity.org/wmd/library/news/dprk/1997/970227a.htm)
 
@@ -46,7 +50,7 @@ By 1997 Burns had developed a larger argument about public diplomacy.
 
 *ARCHIVE PLATE 01 — State Magazine, June 1997, p. 10. Department spokesman R. Nicholas Burns appears at the podium as the afternoon plenary speaker at Foreign Service Day on May 9, 1997. Photograph by Ann Thomas / U.S. Department of State. Public domain. The full magazine page is preserved so the contemporary caption and institutional context remain attached to the image. [Archive record.](https://commons.wikimedia.org/wiki/File:State_Magazine_1997-06-_Iss_406_(IA_sim_state-magazine_1997-06_406).pdf)*
 
-Speaking to Foreign Service officers that May, he argued that public diplomacy was undervalued inside the Department. Officers should not be judged only by the memoranda they wrote; they should leave the building and explain what the United States was doing to people beyond Washington. Foreign-policy institutions easily become fluent in language that is clear only inside the institution. Representation required translation in several directions: Washington abroad, the foreign country back to Washington, policy to the public that financed it and lived with its consequences.
+Speaking to Foreign Service officers that May, he argued that public diplomacy was undervalued inside the Department. Officers should not be judged only by the memoranda they wrote; they should leave the building and explain what the United States was doing to people beyond Washington. He gave the institutional case in one compact line—“our first line of defense is our diplomacy”—before describing embassies and consulates as the first lines of national defense. [The May 9 address](https://1997-2001.state.gov/policy_remarks/970509.burns.html) makes the hierarchy explicit. Foreign-policy institutions easily become fluent in language that is clear only inside the institution. Representation required translation in several directions: Washington abroad, the foreign country back to Washington, policy to the public that financed it and lived with its consequences.
 
 Burns was also good at television. That is not the same thing. A polished spokesman can communicate bad policy effectively. What the archive supports is narrower: a craft of making institutional language usable without quietly changing its meaning. That meant saying he did not know, declining to confirm a report, refusing to speculate, catching a disputed premise buried in a question and correcting himself in front of people who would be back the next day.
 

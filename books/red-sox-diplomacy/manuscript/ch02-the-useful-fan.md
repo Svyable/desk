@@ -26,6 +26,14 @@ In the 1990s, speaking for the State Department required constant boundary work.
 
 The material accumulated without much stage management. Burns supplied the allegiance; reporters remembered it; colleagues repeated it; eventually other people supplied the props. On his last day as spokesman in 1997, President Clinton sent a signed Red Sox cap. A reporter gave Burns a Red Sox alarm clock. His successor later joked about retiring the baseball analogies. By then the affiliation required no introduction.
 
+The allegiance also had an origin story less polished than a résumé. Asked about the family inheritance in 1997, Burns said his father had already learned the lesson and tried to pass it down.
+
+> **NICK / INHERITANCE**
+>
+> ### “He advised us never to root for them. But I didn't follow his advice.”
+>
+> *State Department briefing · June 16, 1997 · [Primary transcript](https://1997-2001.state.gov/www/briefings/9706/970616db.html)*
+
 Its triviality was an advantage. A diplomat's official biography is crowded with abstractions: bilateral relations, deterrence, democracy, nonproliferation, alliance cohesion. Baseball offered irrational allegiance without policy consequences. Other people could know this about Burns without having to parse it as the position of the United States government.
 
 That did not make him trustworthy. Charm can coexist with bad judgment, and familiarity can be manipulated. A counterpart who likes an ambassador can still reject the proposal; a journalist who knows the joke can still ask the damaging question. The distinction mattered because the fan was not the office.

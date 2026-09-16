@@ -34,7 +34,15 @@ American forces were fighting in Iraq and Afghanistan. September 11 still organi
 
 Five months later, Burns supplied language the missing October scene cannot.
 
-He had just begun as Under Secretary of State for Political Affairs. At the U.S. Institute of Peace in March 2005, the subject turned briefly to baseball. Burns identified himself as a native-born member of Red Sox Nation and said the community had found “redemption.” The word is too large for baseball. That is why the joke lands.
+He had just begun as Under Secretary of State for Political Affairs. At the U.S. Institute of Peace in March 2005, the subject turned briefly to baseball. Burns put the aftermath this way:
+
+> **NICK / REDEMPTION**
+>
+> ### “I'm a native-born member of Red Sox Nation ... we did indeed find redemption.”
+>
+> *U.S. Institute of Peace remarks · March 23, 2005 · [State Department transcript](https://2001-2009.state.gov/p/us/rm/2005/45781.htm)*
+
+The word *redemption* is too large for baseball. That is why the joke lands.
 
 A year later, at Northeastern's commencement in Boston, he made it more precise. New Englanders, Burns said, had been delivered from a belief “embedded deep in our regional DNA”: the Red Sox must always lose. Then he named what had broken the belief—the “glorious autumn of 2004.”
 

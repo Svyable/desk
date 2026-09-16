@@ -18,11 +18,13 @@ The shift could happen in a line.
 
 In March 1997 Burns was welcoming visitors when the talk wandered toward team loyalties. He announced the local rules:
 
-> *“We do like the Boston Red Sox. We don't mind the Tigers. We hate the Yankees. Those are the rules.”*
+> **NICK / THE RULES**
+>
+> ### “We do like the Boston Red Sox. We don't mind the Tigers. We hate the Yankees. Those are the rules.”
+>
+> *State Department briefing · March 7, 1997 · [Primary transcript](https://1997-2001.state.gov/briefings/9703/970307.html)*
 
 A moment later he was back to Secretary Madeleine Albright's meetings and European security.
-
-*ARCHIVE NOTE — U.S. Department of State Daily Press Briefing, March 7, 1997. [Primary transcript.](https://1997-2001.state.gov/briefings/9703/970307.html)*
 
 Nothing had changed except the register.
 
@@ -92,7 +94,7 @@ On July 8, a Colby College intern from Maine appeared at the briefing. Burns ide
 
 The intern said he was a Yankees fan.
 
-Burns acted as though a security violation had occurred. He jokingly invoked the rules of admission and directed the intern toward the doors before granting an All-Star Game reprieve.
+Burns acted as though a security violation had occurred. “You can use that door or that door,” he told him, before granting an All-Star Game reprieve. [The July 8 transcript](https://1997-2001.state.gov/briefings/9707/970708db.html) preserves the whole mock-expulsion.
 
 No explanation was necessary. The script had become ritual.
 

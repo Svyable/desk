@@ -4,7 +4,15 @@ Nicholas Burns entered the Foreign Service when official communication still mov
 
 The volume changed. The old problem did not: who, exactly, is speaking for the state?
 
-After leaving Beijing, Burns described one basic ambassadorial function in plain terms: represent the policies of your government and remain a primary point of communication with the host government. The receiving side needs more than words. It needs to know what weight to put on them. Was the statement authorized? Was the minister improvising? Was the president making a commitment or describing a preference? Was the ambiguity intentional? What changed since yesterday?
+After leaving Beijing, Burns reduced the ambassador's first obligation to one sentence:
+
+> **NICK / THE AMBASSADOR'S JOB**
+>
+> ### “represent the perspectives and policies of one’s government ... and to be the primary point of communication between them.”
+>
+> *Fairbank/Belfer lecture · April 30, 2025 · [Transcript](https://www.belfercenter.org/research-analysis/lessons-front-lines-us-china-relationship)*
+
+The receiving side needs more than words. It needs to know what weight to put on them. Was the statement authorized? Was the minister improvising? Was the president making a commitment or describing a preference? Was the ambiguity intentional? What changed since yesterday?
 
 A machine can recover the record. It cannot, by itself, decide what a government intends another government to treat as binding. Burns had spent years inside that problem before anyone called it AI.
 
