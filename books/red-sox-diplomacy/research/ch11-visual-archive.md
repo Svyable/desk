@@ -62,6 +62,35 @@ https://afsa.org/nato-75
 
 **Narrative job:** Preserve the difference among political instinct, national authorization and alliance procedure. The object ends explicitly before formal Article 5 action.
 
+## FEDERAL PHOTO 01 — the baseball ritual after September 11
+
+**Candidate:** President George W. Bush throwing the ceremonial first pitch before Game 3 of the World Series, Yankee Stadium, October 30, 2001.  
+**Creator:** Eric Draper, White House Photo Office.  
+**Local identifier:** P9154-13.  
+**National Archives identifier:** 5997396.  
+**Repository:** George W. Bush Presidential Library / National Archives and Records Administration.  
+**Access restrictions:** Unrestricted.  
+**Use restrictions:** Unrestricted.  
+**Rights posture:** U.S. federal White House photograph; public-domain federal work. The NARA-hosted record also reports no known copyright restrictions.  
+**Canonical collection context:** https://www.georgewbushlibrary.gov/explore/photograph-video-galleries/september-11-2001-gallery  
+**NARA mirror record with identifiers and restrictions:** https://www.flickr.com/photos/usnationalarchives/6124108147/
+
+The image is not evidence about Burns's September 11 experience in Brussels. It is evidence for the chapter's deliberately separate American-baseball coda: forty-nine days after the attacks, a familiar public ritual had become a stage for national mourning, continuity, security and civic symbolism. The Bush Library itself groups the first-pitch sequence into its September 11 photographic gallery and describes the game as the first World Series played in New York after the attacks.
+
+### Production recommendation
+
+Use **only if the baseball coda survives final chapter architecture**. Place after the paragraph introducing Bush's October 30 first pitch, not near the Burns/NATO sequence. The visual separation should make the evidentiary separation unmistakable.
+
+**Caption draft:** *October 30, 2001 — President George W. Bush throws the ceremonial first pitch before Game 3 of the World Series at Yankee Stadium, forty-nine days after the September 11 attacks. White House photograph by Eric Draper, P9154-13. Courtesy George W. Bush Presidential Library / National Archives and Records Administration. U.S. government work; public domain.*
+
+**Alt text draft:** *President George W. Bush, wearing an FDNY pullover, throws a baseball from the mound at Yankee Stadium before Game 3 of the 2001 World Series.*
+
+**Formatting:** keep photograph, caption and credit together in print/PDF; do not run the credit as detached end matter. In EPUB, image → caption → credit is the semantic reading order. Crop only for dead space; retain enough of the mound and stadium context to make the public setting legible. Do not crop or caption the image so that it appears to depict Burns, NATO, or the immediate day of the attacks.
+
+### Why this is preferable to licensed sports photography
+
+Commercial wire and league photographs can document the same pitch but introduce unnecessary reproduction rights. This White House frame is contemporaneous, event-specific, creator-identified, institutionally preserved, high-resolution in the archival sequence, and unrestricted for use. It gives the chapter the historical object it needs without turning a legally clean federal alternative into a permissions problem.
+
 ## Handoff to Chapter 12
 
 NATO's official September 12 statement says that if the attacks were determined to have been directed from abroad against the United States, they would be regarded as covered by Article 5.
@@ -77,6 +106,8 @@ The attacks are among the most photographed events in modern history. That abund
 
 The exact Burns/Robertson/Ralston photograph exists. Until its rights are cleared, designed documentary objects are more accurate to the chapter than generic tragedy imagery.
 
+The Bush first-pitch photograph is a narrow exception because the manuscript already contains a separate baseball-after-September-11 coda and the federal frame documents that exact event. It must remain visually and rhetorically outside the Brussels scene.
+
 ## Rights / release status
 
 | Object | Rights state | Release action |
@@ -84,7 +115,8 @@ The exact Burns/Robertson/Ralston photograph exists. Until its rights are cleare
 | Burns–Robertson–Ralston Sept. 11 photograph | RESEARCH-ONLY / permission target | request permission; confirm owner and AFSA rights |
 | SIGNAL REVERSAL 01 | RELEASE-SAFE original diagram | retain AFSA primary-source link and temporary-contact limit |
 | AUTHORITY GAP 01 | RELEASE-SAFE original diagram | retain late-night status and explicit Chapter 12 handoff |
+| Bush first pitch, P9154-13 / NAID 5997396 | RELEASE-SAFE federal photograph | retrieve production master from Bush Library/NARA; retain creator, identifiers and federal credit |
 
 ## Visual restraint
 
-Two designed objects are enough unless the exact September 11 photograph is cleared. If that photograph becomes usable, it should replace—not simply stack beside—some explanatory visual weight because it is unusually strong scene-level evidence.
+The two designed NATO objects remain the chapter's core visual argument. If the Burns/Robertson/Ralston photograph is cleared, it should replace—not simply stack beside—some explanatory visual weight because it is unusually strong scene-level evidence. The Bush photograph belongs only to the separate baseball coda and should not become the chapter opener or a substitute for Burns-specific evidence.
