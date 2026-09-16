@@ -55,9 +55,56 @@ Sources:
 - https://www.nato.int/en/about-us/organization/nato-structure/defence-planning-committee-1963-2010
 - https://www.nato.int/cps/fr/natohq/topics_51977.htm?selectedLocale=en
 
+### Primary decision object — February 16, 2003
+
+NATO now exposes the Defence Planning Committee's February 16 decision sheet as an official text. It is a stronger production source than a retrospective chronology because it records what the eighteen governments actually agreed after the procedural move: support for the continuing U.N. process; Article 4 consultations following Turkey's February 10 letter; military advice on the feasibility, implications and timelines of three defensive measures; and a requirement that any implementation return to the committee for decision.
+
+Canonical official text:
+https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2003/02/16/decision-sheet-of-the-defence-planning-committee
+
+**Publication treatment:** Do not reproduce a NATO webpage screenshot or long verbatim text. If the chapter later needs a documentary inset, redraw the decision as a live-typeset original object using short labels and factual paraphrase: `UN process continues → Article 4 consultation → military advice → DPC implementation decision`. Link the canonical text in digital editions.
+
+**Rights posture:** Source authority is NATO; use it as factual/primary-source evidence, not as freely licensed artwork. No NATO photograph, logo, page design or extended text is cleared by this note. The original diagram remains the publication-safe visual layer.
+
+### Robertson's same-day boundary
+
+Robertson's February 16 press conference is useful because it states two limits that are easy to lose in summary. He said France's absence from the DPC followed from France's own nonparticipation in the integrated military structure, and he explicitly rejected accusations against the good faith, loyalty or reliability of any ally. He also described the measures as defensive.
+
+Canonical transcript:
+https://www.nato.int/en/news-and-events/events/transcripts/2003/02/16/press-conference
+
+**Evidentiary use:** This supports the chapter's refusal to turn the institutional maneuver into a simple story of Washington expelling France from the room. It does not prove that France regarded the route as politically neutral.
+
 **Guardrail:** The DPC route was procedurally advantageous to Washington, but the committee was not invented to eject France from the crisis.
 
 **Narrative job:** Make the cost and value of consensus visible. The mechanism can create delay and anger, but it also prevents the largest member from simply treating majority preference as alliance policy.
+
+## DISPLAY DETERRENCE — what the procedural decision produced
+
+The chapter currently stops the visual chronology at authorization. NATO's operational record supplies a useful factual after-image without requiring a fourth figure.
+
+Official NATO sources:
+- https://www.nato.int/en/news-and-events/articles/news/2003/02/19/nato-to-deploy-defensive-assistance-to-turkey
+- https://www.nato.int/en/what-we-do/operations-and-missions/nato-and-the-2003-campaign-against-iraq
+- https://www.nato.int/en/news-and-events/articles/news/2003/05/03/conclusion-of-operation-display-deterrence
+
+Verified operational sequence and scale:
+
+- February 19: the DPC authorizes implementation as a matter of urgency;
+- February 20: Operation Display Deterrence begins;
+- February 26: the first two NATO E-3A AWACS deploy from Geilenkirchen, Germany, to Konya, Turkey, and the first operational flight is flown;
+- March 1: three Dutch Patriot batteries are deployed to southeastern Turkey; two U.S. batteries follow;
+- March 18: two additional NATO AWACS deploy to Konya;
+- across the operation, AWACS crews fly about 100 missions and more than 950 hours;
+- NATO commits more than 1,000 personnel to the defensive deployment;
+- April 16: NATO decides to conclude the Article 4 consultations and wind down Display Deterrence;
+- May 3: the last deployed elements leave Turkey.
+
+**Formatting integration:** Keep these facts out of a new standalone timeline unless page pacing later demands it. The higher-value treatment is a compact `decision → deployment` footer beneath CONSENSUS PATH 01, no more than two lines in print: `19 Feb authorization → 26 Feb first AWACS patrol → ~100 missions / 950+ hours → 3 May final elements depart`. In EPUB, render the same information as text after the figure so it survives image scaling and remains accessible.
+
+**Narrative job:** Make procedure consequential. The argument was not only about words in Brussels; the eventual consensus moved aircraft, missile batteries, chemical/biological defense equipment and more than a thousand people.
+
+**Chronology guardrail:** NATO's current campaign history says the operation began February 20, while its May 3 completion notice describes the defensive deployment as beginning February 26 with the first operational AWACS flight. Treat these as different milestones—operation activation versus first operational flight/deployment—not as a contradiction to be silently harmonized.
 
 ## RETURN LEDGER 01 — disagreement does not end the schedule
 
@@ -114,10 +161,12 @@ https://www.dvidshub.net/image/9212035/secretary-rumsfeld-speaks-with-nato-secre
 | Object | Rights state | Release action |
 | --- | --- | --- |
 | OPPOSING PREMISES 01 | RELEASE-SAFE original diagram | re-audit French/U.S. paraphrases against Frontline source |
-| CONSENSUS PATH 01 | RELEASE-SAFE original diagram | verify procedural dates against NATO history |
+| CONSENSUS PATH 01 | RELEASE-SAFE original diagram | verify procedural dates against NATO history and February 16 decision sheet |
+| decision-sheet source | primary-source evidence; NATO text/page design not treated as open-license media | paraphrase facts; no screenshot or extended reproduction |
+| Display Deterrence operational footer | RELEASE-SAFE original factual treatment | retain NATO URLs; preserve activation/first-flight distinction |
 | RETURN LEDGER 01 | RELEASE-SAFE original diagram | retain official ISAF and Poland support sources |
 | later-2003 DoD photo route | public-domain federal photography | avoid duplication unless it gains a distinct narrative job |
 
 ## Visual restraint
 
-Three objects are enough. They answer three different questions: why the allies disagreed, how the institution processed the disagreement, and whether the institution could still work afterward.
+Three objects are enough. They answer three different questions: why the allies disagreed, how the institution processed the disagreement, and whether the institution could still work afterward. The Display Deterrence operational facts belong as a compact consequence layer under the existing consensus figure, not as a fourth decorative object.
