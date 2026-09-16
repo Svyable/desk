@@ -1,20 +1,20 @@
 # India: Playing the Long Game
 
-Every time the U.S.–India civil nuclear deal reached a finish line, another institution acquired the power to move it.
+In July 2005, George W. Bush and Manmohan Singh could make the political wager. They could not make it operative.
 
-George W. Bush and Manmohan Singh could make the political wager. They could not, by themselves, produce India's separation plan, change American law, write a bilateral nuclear agreement, secure international safeguards, persuade the Nuclear Suppliers Group to make an exception, or deliver the final vote in Congress. Each step changed not only the problem but the people entitled to stop the answer.
+India still had to separate its civilian and military nuclear facilities. Congress had to change American law. Negotiators had to write a bilateral nuclear agreement. The International Atomic Energy Agency had to accept safeguards. The Nuclear Suppliers Group had to make an exception. Congress would have to vote again. At each stage, somebody new acquired the power to stop the deal.
 
-That was the long game: not waiting, but surviving jurisdiction.
+That was the long game: surviving jurisdiction.
 
 [![Documentary sequence showing the U.S.-India civil nuclear initiative moving through leaders, separation planning, U.S. law, bilateral negotiation, Indian domestic politics, IAEA safeguards, NSG consensus and Congress](../media/ch14-gate-sequence.svg)](../research/ch14-visual-archive.md)
 
-*GATE SEQUENCE 01 — U.S.–India civil nuclear initiative, 2005–2008. The finish line moved because authority moved: leaders made the wager, negotiators built text, legislatures constrained it, Indian coalition politics could stall it, international institutions could withhold consent, and Congress still had to approve the result. “Long game” here means surviving successive jurisdictions, not merely waiting longer. [Source map.](../research/ch14-visual-archive.md)*
+*GATE SEQUENCE 01 — U.S.–India civil nuclear initiative, 2005–2008. Authority moved from leaders to negotiators, legislatures, Indian coalition politics and international institutions before returning to Congress for final approval. [Source map.](../research/ch14-visual-archive.md)*
 
 Bush and Singh made the original wager in Washington in July 2005. The United States would work to end India's exclusion from international civilian nuclear commerce. India would separate its civilian and military nuclear facilities, place the civilian side under international safeguards and undertake a set of nonproliferation commitments.
 
 ![President George W. Bush and Prime Minister Manmohan Singh shake hands in the Oval Office on July 18, 2005](../media/primary-source/ch14-bush-singh-oval-office-2005.jpg)
 
-*FIG. 06 — President George W. Bush and Prime Minister Manmohan Singh, Oval Office, July 18, 2005. Eric Draper / White House. Public-domain federal photograph. The image records the leaders' political wager on the day of their joint statement; it does not imply the separation plan, U.S. law, 123 Agreement, safeguards, NSG exception or later congressional approval had already been solved. [White House archive.](https://georgewbush-whitehouse.archives.gov/news/releases/2005/07/images/20050718-1_d-0262-515h.html) [Joint statement.](https://georgewbush-whitehouse.archives.gov/news/releases/2005/07/20050718-6.html)*
+*FIG. 06 — President George W. Bush and Prime Minister Manmohan Singh, Oval Office, July 18, 2005. Eric Draper / White House. Public-domain federal photograph. The image records the leaders' political wager on the day of their joint statement; the separation plan, U.S. law, 123 Agreement, safeguards, NSG exception and congressional approval still lay ahead. [White House archive.](https://georgewbush-whitehouse.archives.gov/news/releases/2005/07/images/20050718-1_d-0262-515h.html) [Joint statement.](https://georgewbush-whitehouse.archives.gov/news/releases/2005/07/20050718-6.html)*
 
 The bargain was strategically ambitious because it violated the habits of the previous three decades. India had never joined the Nuclear Non-Proliferation Treaty as a non-nuclear-weapon state. It had tested nuclear weapons. American law and the rules of the international nuclear-supply system had grown around that fact. The Bush administration proposed an exception.
 
@@ -38,7 +38,7 @@ By March 2006, during President Bush's visit to India, the two governments had a
 
 The administration spent much of 2006 persuading legislators to authorize exceptional nuclear cooperation with India. Burns and Secretary of State Condoleezza Rice testified repeatedly. Congress eventually passed the Hyde Act, opening a legal path while creating a new negotiating problem. Washington needed the bilateral agreement to comply with American law; New Delhi could not allow American legislation to rewrite the political commitments Singh had defended before Parliament.
 
-Two democracies had arrived at one of democratic diplomacy's less romantic facts: neither negotiating team owned its own country. The American executive could not erase Congress. The Indian executive could not erase Parliament, coalition politics or the strategic establishment.
+Neither negotiating team owned its own country. The American executive could not erase Congress. The Indian executive had Parliament, coalition politics and the strategic establishment to contend with.
 
 Burns described the work that December with a phrase that resists the false comfort of hindsight.
 
@@ -50,9 +50,7 @@ Burns described the work that December with a phrase that resists the false comf
 
 By 2007 Shyam Saran had been succeeded as foreign secretary by Shivshankar Menon. The negotiation had moved into the bilateral agreement required under Section 123 of the U.S. Atomic Energy Act. Burns publicly said in May that the two sides were about ninety percent of the way there.
 
-The last ten percent was where the negotiation lived.
-
-Fuel assurances mattered because India remembered previous disruptions in nuclear supply, particularly the history surrounding Tarapur. Termination and right-of-return provisions mattered because the United States was not willing to surrender legal protections for the worst cases. Reprocessing mattered because India wanted the ability to deal with spent fuel without remaining permanently dependent on American discretion.
+The remaining disputes were the ones that could still kill it. India wanted durable fuel assurances because it remembered previous disruptions in nuclear supply, particularly the history surrounding Tarapur. The United States was not willing to surrender termination and right-of-return protections for the worst cases. India also wanted the ability to reprocess spent fuel without remaining permanently dependent on American discretion.
 
 India's scientific establishment made that constraint visible. In May 2007, the Department of Atomic Energy told a parliamentary committee that future bilateral cooperation agreements needed an explicit provision enabling reprocessing. Menon publicly acknowledged that unresolved issues remained while declining to negotiate them through the media.
 
@@ -70,9 +68,9 @@ Even then, the agreement was not done. In July, Menon and Burns spent four days 
 
 On July 27, Rice and Mukherjee announced that negotiations on the 123 Agreement had been completed. Burns described reprocessing as the largest issue in the final phase and the safeguarded facility as the fundamental turning point. He also emphasized something less dramatic and just as consequential: the agreement had been written to remain within American law.
 
-They had a bilateral text. They did not yet have a deal that could operate.
+They had a bilateral text. It still could not operate.
 
-The agreement still had to survive the IAEA, the Nuclear Suppliers Group and the United States Congress. Before any of those could finish their work, Indian domestic politics nearly stopped the process.
+The agreement had to survive the IAEA, the Nuclear Suppliers Group and the United States Congress. Before any of those could finish their work, Indian domestic politics nearly stopped the process.
 
 Singh's coalition government depended on support from Left parties strongly opposed to the agreement and suspicious of strategic alignment with the United States. The initiative became entangled in a larger argument about Indian autonomy, American power and the direction of Indian foreign policy. Burns could negotiate with Saran and Menon. Rice could negotiate with Mukherjee. Bush could make commitments to Singh. None of them possessed the votes in India's Parliament.
 
@@ -88,12 +86,10 @@ Nicholas Burns was not the serving Under Secretary standing at the end of the pr
 
 [![Documentary handoff showing the bilateral 123 Agreement phase under Nicholas Burns and Indian counterparts, followed by the wider multilateral and legislative completion after he left office](../media/ch14-handoff-ledger.svg)](../research/ch14-visual-archive.md)
 
-*HANDOFF LEDGER 01 — 2005–2008. Nicholas Burns was a central American negotiator in the bilateral construction of the 123 Agreement, working first with Shyam Saran and then Shivshankar Menon inside a much wider hierarchy. The later IAEA, NSG, congressional and signature phases were carried by successor officials, the Indian government and broader coalitions. Central is not the same as sovereign. [Source map.](../research/ch14-visual-archive.md)*
+*HANDOFF LEDGER 01 — 2005–2008. Nicholas Burns was a central American negotiator in the bilateral construction of the 123 Agreement, working first with Shyam Saran and then Shivshankar Menon inside a much wider hierarchy. The later IAEA, NSG, congressional and signature phases were carried by successor officials, the Indian government and broader coalitions. [Source map.](../research/ch14-visual-archive.md)*
 
 Baseball offers a tempting vocabulary here: innings, relief pitchers, the runner who reaches base but does not score the run himself. Leave it alone. The diplomatic record is more interesting.
 
-Burns helped take a political wager made by Bush and Singh and turn it into a bilateral legal text that other people could carry into other arenas. Saran built the first implementation architecture. Menon negotiated the decisive final bilateral phase. Narayanan, Mukherjee, Rice, Hadley, Stratford, Jaishankar, Ronen Sen, David Mulford, legislators, technical officials and others occupied parts of the same chain.
+Burns helped turn the wager made by Bush and Singh into a bilateral legal text. Saran built the first implementation architecture; Menon negotiated the decisive final bilateral phase. Narayanan, Mukherjee, Rice, Hadley, Stratford, Jaishankar, Ronen Sen, David Mulford, legislators and technical officials occupied other parts of the chain. Then the IAEA, the suppliers and Congress had their turn.
 
-Then another set of people took over.
-
-On October 10, 2008, the agreement was signed without Nicholas Burns in the job. That was not a defect in the long game. It was the condition under which the thing had finally survived.
+On October 10, 2008, Rice and Mukherjee signed an agreement that Nicholas Burns had spent years negotiating. He was no longer in the job.
