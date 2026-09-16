@@ -36,9 +36,13 @@ The Massachusetts life had begun to open outward before college. The 1974 *Welle
 
 Burns entered Boston College in 1974. When he returned to deliver the university's commencement address in 2002, three old roommates were in the audience and he reminded them that they had lived in the Mods. Boston College later identified his student residence as Mod 36A and reported that, after the speech, he went back to visit it. The address gives the undergraduate years a place without supplying scenes the archive does not contain. The public record does not establish when Burns occupied 36A, much less place him there for a specific Red Sox game. We do not know where he watched Carlton Fisk's Game 6 home run in 1975 or where Bucky Dent's 1978 tiebreaker found him.
 
-One memory Burns did preserve came from a classroom. He later named the European historian Mark O'Connor as formative and remembered O'Connor reading Siegfried Sassoon's antiwar poetry during the closing phase of the Vietnam War:
+One memory Burns did preserve came from a classroom. He later named the European historian Mark O'Connor as formative and remembered O'Connor reading Siegfried Sassoon's antiwar poetry during the closing phase of the Vietnam War.
 
-> *“I had grown up with the notion that war could be heroic.”*
+> **NICK / REVELATION**
+>
+> ### “I had grown up with the notion that war could be heroic.”
+>
+> *Boston College recollection of Mark O'Connor's seminar · [The Seminar](https://www.bc.edu/bc-web/bcnews/campus-community/faculty/the-seminar.html)*
 
 The poems complicated that inheritance. Burns said O'Connor pushed students to ask ethical questions of history, not merely master its sequence. A memory recovered decades later cannot explain Cairo, Jerusalem, NATO, Iraq or China. It does establish that at least one college class disturbed an assumption he had brought into it.
 
