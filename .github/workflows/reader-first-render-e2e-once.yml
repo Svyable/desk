@@ -1,0 +1,161 @@
+name: One-shot Reader first-render regression
+
+on:
+  push:
+    branches:
+      - fix/reader-first-render-mobile-contents
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  browser-regression:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install Chromium harness
+        run: |
+          mkdir -p /tmp/reader-e2e
+          npm install --prefix /tmp/reader-e2e playwright@1.55.0
+          npx --prefix /tmp/reader-e2e playwright install --with-deps chromium
+      - name: Verify first render and Contents stability
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 -m http.server 4173 --bind 127.0.0.1 >/tmp/reader-http.log 2>&1 &
+          SERVER_PID=$!
+          trap 'kill "$SERVER_PID" 2>/dev/null || true' EXIT
+          for i in {1..40}; do
+            if curl -fsS http://127.0.0.1:4173/reader/ >/dev/null; then break; fi
+            sleep 0.25
+          done
+          cat >/tmp/reader-e2e/reader-first-render.mjs <<'EOF'
+          import { chromium } from 'playwright';
+          import assert from 'node:assert/strict';
+
+          const base = 'http://127.0.0.1:4173/';
+          const route = 'reader/?b=red-sox-diplomacy&c=ch02-the-useful-fan&o=1266#/b/red-sox-diplomacy/ch02-the-useful-fan/1266';
+          const saved = {
+            fontSize: 22,
+            font: 'clear',
+            fontWeight: 500,
+            tracking: 0.02,
+            leading: 1.8,
+            measure: 'narrow',
+            align: 'left',
+            paragraph: 'airy',
+            indent: 'none',
+            mode: 'paged',
+            hyphens: 'off',
+          };
+          const viewports = [
+            { name: 'phone', width: 390, height: 844, mobile: true },
+            { name: 'tablet', width: 820, height: 1180, mobile: true },
+            { name: 'desktop', width: 1280, height: 900, mobile: false },
+          ];
+
+          const browser = await chromium.launch({ headless: true });
+          try {
+            for (const viewport of viewports) {
+              const context = await browser.newContext({
+                viewport: { width: viewport.width, height: viewport.height },
+                hasTouch: viewport.mobile,
+                isMobile: viewport.mobile,
+              });
+              await context.addInitScript((prefs) => {
+                localStorage.setItem('svyable-desk:reader-experience', JSON.stringify(prefs));
+              }, saved);
+              const page = await context.newPage();
+              const pageErrors = [];
+              page.on('pageerror', (error) => pageErrors.push(error.message));
+              await page.goto(`${base}${route}`, { waitUntil: 'domcontentloaded', timeout: 45000 });
+              await page.waitForFunction(() => document.body?.dataset.stage === 'read', null, { timeout: 90000 });
+              await page.waitForFunction(() => Number(document.getElementById('totalPages')?.textContent || '0') > 0, null, { timeout: 30000 });
+              await page.waitForTimeout(350);
+
+              const snapshot = () => page.evaluate(() => {
+                const root = document.documentElement;
+                const pageInner = document.querySelector('#pagesWrapper .page-inner');
+                const rect = pageInner?.getBoundingClientRect();
+                const style = pageInner ? getComputedStyle(pageInner) : null;
+                return {
+                  fontSize: root.style.getPropertyValue('--reader-font-size').trim(),
+                  leading: root.style.getPropertyValue('--reader-leading').trim(),
+                  weight: root.style.getPropertyValue('--reader-font-weight').trim(),
+                  tracking: root.style.getPropertyValue('--reader-tracking').trim(),
+                  font: root.dataset.readerFont,
+                  measure: root.dataset.readerMeasure,
+                  align: root.dataset.readerAlign,
+                  paragraph: root.dataset.readerParagraph,
+                  hyphens: root.dataset.readerHyphens,
+                  primed: root.dataset.readerPrefsPrimed,
+                  renderedFontSize: style?.fontSize || '',
+                  renderedLineHeight: style?.lineHeight || '',
+                  renderedWeight: style?.fontWeight || '',
+                  width: Math.round((rect?.width || 0) * 10) / 10,
+                  height: Math.round((rect?.height || 0) * 10) / 10,
+                  top: Math.round((rect?.top || 0) * 10) / 10,
+                  totalPages: document.getElementById('totalPages')?.textContent || '',
+                };
+              });
+
+              const before = await snapshot();
+              assert.equal(before.primed, 'true', `${viewport.name}: saved experience must be primed before pagination`);
+              assert.equal(before.fontSize, '22px');
+              assert.equal(before.leading, '1.8');
+              assert.equal(before.weight, '500');
+              assert.equal(before.tracking, '0.02em');
+              assert.equal(before.font, 'clear');
+              assert.equal(before.measure, 'narrow');
+              assert.equal(before.align, 'left');
+              assert.equal(before.paragraph, 'airy');
+              assert.equal(before.hyphens, 'off');
+
+              await page.locator('#tocBtn').click();
+              await page.locator('#tocOverlay.active').waitFor({ state: 'visible', timeout: 10000 });
+              await page.waitForTimeout(300);
+
+              const contents = await page.evaluate(() => {
+                const drawer = document.getElementById('tocOverlay');
+                const header = document.getElementById('readerChrome');
+                const rect = drawer.getBoundingClientRect();
+                const headerRect = header.getBoundingClientRect();
+                return {
+                  activeElement: document.activeElement?.id || '',
+                  top: rect.top,
+                  bottom: rect.bottom,
+                  width: rect.width,
+                  height: rect.height,
+                  viewportWidth: window.innerWidth,
+                  viewportHeight: window.innerHeight,
+                  headerBottom: headerRect.bottom,
+                  expanded: document.getElementById('tocBtn')?.getAttribute('aria-expanded'),
+                  modal: drawer.getAttribute('aria-modal'),
+                  appInert: !!document.querySelector('.app')?.inert,
+                };
+              });
+              assert.equal(contents.expanded, 'true', `${viewport.name}: Contents button must report open state`);
+              assert.equal(contents.modal, 'false', `${viewport.name}: Contents must remain a navigation drawer`);
+              assert.equal(contents.appInert, false, `${viewport.name}: Reader background must remain interactive`);
+              assert.ok(contents.top >= contents.headerBottom - 2, `${viewport.name}: Contents must start below Reader header`);
+              assert.ok(contents.bottom <= contents.viewportHeight + 2, `${viewport.name}: Contents must stay in the visual viewport`);
+              if (viewport.mobile) {
+                assert.notEqual(contents.activeElement, 'tocSearch', `${viewport.name}: opening Contents must not autofocus search`);
+                assert.ok(contents.width >= contents.viewportWidth - 2, `${viewport.name}: mobile Contents must use the available width`);
+              }
+
+              const after = await snapshot();
+              assert.deepEqual(after, before, `${viewport.name}: opening Contents must not change typesetting or settled pagination geometry`);
+
+              await page.locator('#tocClose').click();
+              await page.waitForFunction(() => !document.getElementById('tocOverlay')?.classList.contains('active'));
+              assert.deepEqual(pageErrors, [], `${viewport.name}: no uncaught Reader errors expected`);
+              console.log(`PASS ${viewport.name}: first render + Contents stability`);
+              await context.close();
+            }
+          } finally {
+            await browser.close();
+          }
+          EOF
+          node /tmp/reader-e2e/reader-first-render.mjs
