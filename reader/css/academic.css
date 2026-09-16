@@ -1,0 +1,410 @@
+/* Desk mirror of Bookself scholarly Markdown primitives.
+ * The canonical academic module resolves this path against the host Reader, so
+ * Desk must provide the stylesheet locally for proofs and offline reading.
+ */
+
+.reader-figure {
+  margin: 1.5em auto;
+  break-inside: avoid;
+  text-align: center;
+}
+
+.reader-figure img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+.reader-figure figcaption {
+  max-width: 42rem;
+  margin: 0.7em auto 0;
+  color: var(--text-secondary);
+  font-family: var(--font-accent, var(--reader-font, inherit));
+  font-size: 0.8em;
+  line-height: 1.5;
+  text-align: left;
+  text-indent: 0;
+  text-wrap: pretty;
+}
+
+.reader-citation,
+.reader-equation-ref,
+.reader-footnote-ref {
+  color: color-mix(in srgb, var(--accent) 88%, var(--text-primary, currentColor));
+  text-decoration-line: underline;
+  text-decoration-color: color-mix(in srgb, var(--accent) 48%, transparent);
+  text-decoration-thickness: 0.055em;
+  text-underline-offset: 0.15em;
+  text-decoration-skip-ink: auto;
+  font-variant-numeric: tabular-nums;
+  transition: color 120ms ease, text-decoration-color 120ms ease;
+}
+
+.reader-citation:hover,
+.reader-equation-ref:hover,
+.reader-footnote-ref:hover {
+  color: var(--accent);
+  text-decoration-color: currentColor;
+}
+
+.reader-citation:focus-visible,
+.reader-equation-ref:focus-visible,
+.reader-footnote-ref:focus-visible {
+  outline: 2px solid color-mix(in srgb, var(--accent) 74%, transparent);
+  outline-offset: 0.16em;
+  border-radius: 0.14em;
+}
+
+.reader-footnote-marker {
+  margin-left: 0.08em;
+  font-family: var(--font-ui, system-ui, sans-serif);
+  font-size: 0.68em;
+  font-weight: 650;
+  line-height: 0;
+  vertical-align: 0.52em;
+  font-variant-numeric: tabular-nums;
+}
+
+.reader-footnote-marker .reader-footnote-ref { text-decoration: none; }
+
+.reader-footnote {
+  display: grid;
+  grid-template-columns: 1.5em minmax(0, 1fr);
+  gap: 0.45em;
+  margin: 1.05em 0;
+  padding: 0.72em 0 0;
+  border-top: 1px solid color-mix(in srgb, var(--border) 66%, transparent);
+  color: var(--text-secondary);
+  font-family: var(--font-body, var(--reader-font, inherit));
+  font-size: 0.82em;
+  line-height: 1.58;
+  text-align: left;
+  text-indent: 0;
+  text-wrap: pretty;
+  hanging-punctuation: first allow-end last;
+  scroll-margin-block: 5rem;
+}
+
+.reader-footnote > sup {
+  padding-top: 0.09em;
+  color: var(--accent);
+  font-family: var(--font-ui, system-ui, sans-serif);
+  font-size: 0.88em;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  text-align: right;
+}
+
+.reader-footnote > div { min-width: 0; }
+.reader-footnote > div > :first-child { margin-top: 0; }
+.reader-footnote > div > :last-child { margin-bottom: 0; }
+
+.reader-reference {
+  --reference-indent: 1.45em;
+  margin: 0.82em 0;
+  padding: 0 0 0 var(--reference-indent);
+  color: var(--text-primary, inherit);
+  font-family: var(--font-body, var(--reader-font, inherit));
+  font-size: 0.88em;
+  line-height: 1.58;
+  text-align: left;
+  text-indent: calc(-1 * var(--reference-indent));
+  text-wrap: pretty;
+  overflow-wrap: anywhere;
+  hanging-punctuation: first allow-end last;
+  scroll-margin-block: 5rem;
+}
+
+.reader-reference + .reader-reference { margin-top: 0.98em; }
+
+.reader-reference a[href^="http"],
+.reader-footnote a[href^="http"],
+.reader-academic-preview__body a[href^="http"] {
+  color: color-mix(in srgb, var(--accent) 90%, var(--text-primary, currentColor));
+  text-decoration-line: underline;
+  text-decoration-color: color-mix(in srgb, var(--accent) 44%, transparent);
+  text-decoration-thickness: 0.055em;
+  text-underline-offset: 0.16em;
+  text-decoration-skip-ink: auto;
+}
+
+.reader-reference a[href^="http"]::after,
+.reader-footnote a[href^="http"]::after,
+.reader-academic-preview__body a[href^="http"]::after {
+  content: " ↗";
+  font-family: var(--font-ui, system-ui, sans-serif);
+  font-size: 0.68em;
+  font-style: normal;
+  font-weight: 650;
+  line-height: 1;
+  vertical-align: 0.3em;
+  text-decoration: none;
+}
+
+.reader-reference a[href^="http"]:hover,
+.reader-footnote a[href^="http"]:hover,
+.reader-academic-preview__body a[href^="http"]:hover {
+  color: var(--accent);
+  text-decoration-color: currentColor;
+}
+
+.reader-footnote[data-academic-landed="true"],
+.reader-reference[data-academic-landed="true"] {
+  position: relative;
+  border-radius: 0.22rem;
+  outline: 2px solid color-mix(in srgb, var(--accent) 66%, transparent);
+  outline-offset: 0.38rem;
+  background: color-mix(in srgb, var(--accent) 3.5%, transparent);
+}
+
+.reader-footnote:focus,
+.reader-reference:focus {
+  outline: 2px solid color-mix(in srgb, var(--accent) 72%, transparent);
+  outline-offset: 0.32rem;
+}
+
+.reader-academic-return {
+  position: fixed;
+  z-index: 1210;
+  inset-inline-start: 50%;
+  bottom: max(1rem, calc(env(safe-area-inset-bottom) + 0.65rem));
+  min-height: 2.6rem;
+  padding: 0.52rem 0.94rem;
+  border: 1px solid color-mix(in srgb, var(--accent) 48%, var(--border));
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--page-bg) 95%, var(--accent) 5%);
+  box-shadow: 0 0.55rem 1.6rem rgb(0 0 0 / 0.16);
+  color: var(--accent);
+  font: 700 0.78rem/1.2 var(--font-ui, system-ui, sans-serif);
+  letter-spacing: 0.045em;
+  text-transform: uppercase;
+  transform: translateX(-50%);
+  cursor: pointer;
+}
+
+.reader-academic-return:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+}
+
+.reader-academic-missing {
+  color: var(--text-secondary);
+  text-decoration: none;
+}
+
+.reader-academic-preview {
+  position: fixed;
+  z-index: 1200;
+  width: min(30rem, calc(100vw - max(24px, env(safe-area-inset-left)) - max(24px, env(safe-area-inset-right))));
+  max-height: min(24rem, calc(100dvh - max(24px, env(safe-area-inset-top)) - max(24px, env(safe-area-inset-bottom))));
+  overflow: auto;
+  padding: 1rem 1.08rem 0.9rem;
+  border: 1px solid color-mix(in srgb, var(--border) 72%, var(--accent) 28%);
+  border-radius: 0.92rem;
+  background:
+    linear-gradient(180deg, color-mix(in srgb, var(--accent) 2.8%, transparent), transparent 5rem),
+    color-mix(in srgb, var(--page-bg) 97%, var(--accent) 3%);
+  box-shadow:
+    0 1.1rem 3rem rgb(0 0 0 / 0.2),
+    0 0 0 1px color-mix(in srgb, var(--page-bg) 55%, transparent) inset;
+  color: var(--text-primary, var(--text));
+  font-family: var(--font-body, var(--reader-font, inherit));
+  font-size: clamp(0.9rem, 0.86rem + 0.18vw, 1rem);
+  line-height: 1.56;
+  text-align: left;
+  text-indent: 0;
+  text-wrap: pretty;
+  overscroll-behavior: contain;
+  scrollbar-gutter: stable;
+}
+
+.reader-academic-preview:focus {
+  outline: 2px solid color-mix(in srgb, var(--accent) 68%, transparent);
+  outline-offset: 3px;
+}
+
+.reader-academic-preview__header {
+  margin-bottom: 0.58rem;
+  color: color-mix(in srgb, var(--text-secondary) 76%, var(--accent) 24%);
+  font-family: var(--font-ui, system-ui, sans-serif);
+  font-size: 0.69em;
+  font-weight: 750;
+  letter-spacing: 0.13em;
+  line-height: 1.25;
+  text-transform: uppercase;
+}
+
+.reader-academic-preview__body {
+  overflow-wrap: anywhere;
+  font-feature-settings: "kern" 1, "liga" 1;
+}
+
+.reader-academic-preview__body > :first-child { margin-top: 0; }
+.reader-academic-preview__body > :last-child { margin-bottom: 0; }
+
+.reader-academic-preview__actions {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 0.55rem;
+  margin-top: 0.92rem;
+  padding-top: 0.72rem;
+  border-top: 1px solid color-mix(in srgb, var(--border) 62%, transparent);
+}
+
+.reader-academic-preview__actions button {
+  min-height: 2.38rem;
+  padding: 0.4rem 0.76rem;
+  border: 1px solid color-mix(in srgb, var(--border) 72%, transparent);
+  border-radius: 999px;
+  background: transparent;
+  color: var(--text-secondary, inherit);
+  font: 700 0.74rem/1.15 var(--font-ui, system-ui, sans-serif);
+  letter-spacing: 0.035em;
+  cursor: pointer;
+}
+
+.reader-academic-preview__actions button:hover {
+  border-color: color-mix(in srgb, var(--accent) 52%, var(--border));
+  color: var(--accent);
+}
+
+.reader-academic-preview__jump {
+  border-color: color-mix(in srgb, var(--accent) 50%, var(--border)) !important;
+  background: color-mix(in srgb, var(--accent) 7%, transparent) !important;
+  color: var(--accent) !important;
+}
+
+.reader-academic-preview__actions button:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+@media (max-width: 640px), (pointer: coarse) {
+  .reader-academic-preview {
+    left: max(10px, env(safe-area-inset-left)) !important;
+    right: max(10px, env(safe-area-inset-right)) !important;
+    top: auto !important;
+    bottom: max(10px, env(safe-area-inset-bottom)) !important;
+    width: auto;
+    max-height: min(70dvh, 32rem);
+    padding: 0;
+    border-radius: 1.05rem;
+    overflow: auto;
+    overscroll-behavior: contain;
+    box-shadow: 0 -0.25rem 2.35rem rgb(0 0 0 / 0.22);
+  }
+
+  .reader-academic-preview::before {
+    content: '';
+    display: block;
+    width: 2.65rem;
+    height: 0.24rem;
+    margin: 0.5rem auto 0;
+    border-radius: 999px;
+    background: color-mix(in srgb, var(--text-secondary) 38%, transparent);
+  }
+
+  .reader-academic-preview__header {
+    position: sticky;
+    z-index: 1;
+    top: 0;
+    margin: 0;
+    padding: 0.58rem 1rem 0.5rem;
+    background: color-mix(in srgb, var(--page-bg) 97%, var(--accent) 3%);
+    border-bottom: 1px solid color-mix(in srgb, var(--border) 52%, transparent);
+  }
+
+  .reader-academic-preview__body {
+    padding: 0.86rem 1rem 0.98rem;
+    font-size: max(0.98rem, 1em);
+    line-height: 1.62;
+  }
+
+  .reader-academic-preview__actions {
+    position: sticky;
+    z-index: 1;
+    bottom: 0;
+    margin: 0;
+    padding: 0.7rem 0.8rem max(0.74rem, env(safe-area-inset-bottom));
+    background: color-mix(in srgb, var(--page-bg) 97%, var(--accent) 3%);
+    border-top-color: color-mix(in srgb, var(--border) 68%, transparent);
+  }
+
+  .reader-academic-preview__actions button {
+    min-height: 3rem;
+    padding-inline: 0.92rem;
+  }
+
+  .reader-academic-preview__jump { flex: 1 1 auto; }
+  .reader-academic-preview__close { flex: 0 0 auto; }
+  .reader-academic-return { min-height: 3rem; max-width: calc(100vw - 2rem); }
+}
+
+@media (max-height: 520px) and (orientation: landscape) {
+  .reader-academic-preview {
+    left: max(10px, env(safe-area-inset-left)) !important;
+    right: max(10px, env(safe-area-inset-right)) !important;
+    top: auto !important;
+    bottom: max(8px, env(safe-area-inset-bottom)) !important;
+    width: auto;
+    max-height: min(82dvh, 22rem);
+    border-radius: 0.9rem;
+  }
+
+  .reader-academic-preview__body { padding-block: 0.62rem 0.7rem; line-height: 1.48; }
+  .reader-academic-preview__actions { padding-block: 0.52rem max(0.56rem, env(safe-area-inset-bottom)); }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .reader-academic-preview { animation: reader-academic-preview-in 120ms ease-out; }
+
+  @media (max-width: 640px), (pointer: coarse) {
+    .reader-academic-preview { animation-name: reader-academic-sheet-in; animation-duration: 150ms; }
+  }
+
+  @keyframes reader-academic-preview-in {
+    from { opacity: 0; transform: translateY(4px) scale(0.995); }
+    to { opacity: 1; transform: translateY(0) scale(1); }
+  }
+
+  @keyframes reader-academic-sheet-in {
+    from { opacity: 0; transform: translateY(0.75rem); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+}
+
+@media (forced-colors: active) {
+  .reader-footnote[data-academic-landed="true"],
+  .reader-reference[data-academic-landed="true"],
+  .reader-footnote:focus,
+  .reader-reference:focus,
+  .reader-academic-return:focus-visible { outline-color: Highlight; }
+
+  .reader-academic-return { border-color: ButtonText; background: Canvas; color: LinkText; }
+  .reader-academic-preview,
+  .reader-academic-preview__header,
+  .reader-academic-preview__actions { background: Canvas; border-color: ButtonText; }
+  .reader-academic-preview::before { background: ButtonText; }
+}
+
+@media print {
+  .reader-figure,
+  .reader-footnote,
+  .reader-reference { break-inside: avoid; }
+
+  .reader-reference,
+  .reader-footnote { color: #111; }
+
+  .reader-reference a[href^="http"]::after,
+  .reader-footnote a[href^="http"]::after {
+    content: " <" attr(href) ">";
+    font: 400 0.78em/1.2 ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    vertical-align: baseline;
+    overflow-wrap: anywhere;
+  }
+
+  .reader-academic-preview,
+  .reader-academic-return { display: none !important; }
+}
