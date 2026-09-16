@@ -92,6 +92,102 @@ html[data-red-sox-diplomacy="true"] :is(.page-inner,.scroll-document) blockquote
 
 html[data-red-sox-diplomacy="true"] :is(.page-inner,.scroll-document) p:has(>a:only-child > img:only-child) a { display: block; }
 
+/* Source Notes — annotated documentary apparatus rather than a browser link list. */
+html[data-red-sox-diplomacy="true"][data-rsd-chapter="source-notes"] :is(.page-inner,.scroll-document) {
+  --rsd-source-indent: 1.18em;
+}
+
+html[data-red-sox-diplomacy="true"][data-rsd-chapter="source-notes"] :is(.page-inner,.scroll-document) h1 {
+  margin-bottom: 1.25em;
+}
+
+html[data-red-sox-diplomacy="true"][data-rsd-chapter="source-notes"] :is(.page-inner,.scroll-document) h1 + p,
+html[data-red-sox-diplomacy="true"][data-rsd-chapter="source-notes"] :is(.page-inner,.scroll-document) h1 + p + p,
+html[data-red-sox-diplomacy="true"][data-rsd-chapter="source-notes"] :is(.page-inner,.scroll-document) h1 + p + p + p {
+  color: var(--rsd-muted);
+  font-size: .92em;
+  line-height: 1.68;
+  text-align: left;
+  text-wrap: pretty;
+}
+
+html[data-red-sox-diplomacy="true"][data-rsd-chapter="source-notes"] :is(.page-inner,.scroll-document) h2 {
+  margin-top: 2.35em;
+  padding-top: .72em;
+  border-top: 1px solid color-mix(in srgb,var(--rsd-navy) 20%,var(--border));
+  color: var(--rsd-navy);
+  font-family: var(--font-ui,ui-sans-serif,system-ui,sans-serif);
+  font-size: .72em;
+  font-weight: 760;
+  line-height: 1.35;
+  letter-spacing: .105em;
+  text-transform: uppercase;
+  text-wrap: balance;
+}
+
+html[data-red-sox-diplomacy="true"][data-rsd-chapter="source-notes"] :is(.page-inner,.scroll-document) h2::before {
+  content: "DOCUMENTARY RECORD";
+  display: block;
+  margin-bottom: .28rem;
+  color: var(--rsd-red);
+  font-size: .72em;
+  letter-spacing: .18em;
+}
+
+html[data-red-sox-diplomacy="true"][data-rsd-chapter="source-notes"] :is(.page-inner,.scroll-document) ul {
+  margin: .8em 0 1.6em;
+  padding: 0;
+  list-style: none;
+}
+
+html[data-red-sox-diplomacy="true"][data-rsd-chapter="source-notes"] :is(.page-inner,.scroll-document) li {
+  position: relative;
+  margin: 0;
+  padding: .64em 0 .7em var(--rsd-source-indent);
+  border-top: 1px solid color-mix(in srgb,var(--border) 54%,transparent);
+  color: var(--rsd-ink);
+  font-size: .86em;
+  line-height: 1.62;
+  text-align: left;
+  text-indent: calc(-1 * var(--rsd-source-indent));
+  text-wrap: pretty;
+  hanging-punctuation: first allow-end last;
+}
+
+html[data-red-sox-diplomacy="true"][data-rsd-chapter="source-notes"] :is(.page-inner,.scroll-document) li:first-child {
+  border-top-color: color-mix(in srgb,var(--rsd-red) 26%,var(--border));
+}
+
+html[data-red-sox-diplomacy="true"][data-rsd-chapter="source-notes"] :is(.page-inner,.scroll-document) li::before {
+  content: "—";
+  display: inline-block;
+  width: var(--rsd-source-indent);
+  color: color-mix(in srgb,var(--rsd-red) 78%,var(--text-secondary));
+  text-indent: 0;
+}
+
+html[data-red-sox-diplomacy="true"][data-rsd-chapter="source-notes"] :is(.page-inner,.scroll-document) li a {
+  color: color-mix(in srgb,var(--rsd-red) 72%,var(--rsd-navy));
+  font-weight: 600;
+  text-decoration-line: underline;
+  text-decoration-color: color-mix(in srgb,var(--rsd-red) 34%,transparent);
+  text-decoration-thickness: .055em;
+  text-underline-offset: .16em;
+  text-decoration-skip-ink: auto;
+}
+
+html[data-red-sox-diplomacy="true"][data-rsd-chapter="source-notes"] :is(.page-inner,.scroll-document) li a[href^="http"]::after {
+  content: " ↗";
+  font-family: var(--font-ui,ui-sans-serif,system-ui,sans-serif);
+  font-size: .64em;
+  font-weight: 700;
+  vertical-align: .3em;
+}
+
+html[data-red-sox-diplomacy="true"][data-rsd-chapter="source-notes"] :is(.page-inner,.scroll-document) li strong {
+  color: var(--rsd-navy);
+}
+
 .rsd-media-dialog {
   width: min(94vw, 1120px);
   max-width: 1120px;
@@ -184,6 +280,16 @@ html[data-red-sox-diplomacy="true"] :is(.page-inner,.scroll-document) p:has(>a:o
     padding: .45em;
     box-shadow: 0 10px 24px color-mix(in srgb,var(--shadow) 26%,transparent);
   }
+
+  html[data-red-sox-diplomacy="true"][data-rsd-chapter="source-notes"] :is(.page-inner,.scroll-document) h2 {
+    margin-top: 1.9em;
+  }
+
+  html[data-red-sox-diplomacy="true"][data-rsd-chapter="source-notes"] :is(.page-inner,.scroll-document) li {
+    font-size: .9em;
+    line-height: 1.66;
+  }
+
   .rsd-media-dialog { width: 96vw; max-height: 94dvh; }
   .rsd-media-label { grid-template-columns: 1fr; gap: .55rem; }
 }
@@ -195,5 +301,17 @@ html[data-red-sox-diplomacy="true"] :is(.page-inner,.scroll-document) p:has(>a:o
     box-shadow: none;
     break-inside: avoid;
   }
+
+  html[data-red-sox-diplomacy="true"][data-rsd-chapter="source-notes"] :is(.page-inner,.scroll-document) li {
+    break-inside: avoid;
+  }
+
+  html[data-red-sox-diplomacy="true"][data-rsd-chapter="source-notes"] :is(.page-inner,.scroll-document) li a[href^="http"]::after {
+    content: " <" attr(href) ">";
+    font: 400 .72em/1.25 ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+    vertical-align: baseline;
+    overflow-wrap: anywhere;
+  }
+
   .rsd-media-dialog { display: none; }
 }
