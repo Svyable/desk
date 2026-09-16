@@ -3,6 +3,38 @@ const STYLE_ID = 'deskRedSoxDiplomacyStyle';
 const STYLE_HREF = new URL('../css/desk-red-sox-diplomacy.css?v=20260916-1', import.meta.url).href;
 const VIDEO_FILE_URL = new URL('../../books/red-sox-diplomacy/media/primary-source/ch01-nicholas-burns-introductory-video-2022.webm', import.meta.url).href;
 
+const GENERIC_SOURCE_LABEL = /^(?:primary source|source|source scan|primary transcript|transcript|transcript mirror|archive record|school-archive record|event transcript)$/i;
+const EXACT_SOURCE_LABELS = new Map([
+  [
+    'https://1997-2001.state.gov/policy_remarks/970524.burns.html',
+    '“Preparing for the International Age” — U.S. Department of State, May 24, 1997',
+  ],
+  [
+    'https://2001-2009.state.gov/p/us/rm/2007/87176.htm',
+    '“Commemoration of the 60th Anniversary of the Marshall Plan” — U.S. Department of State, June 12, 2007',
+  ],
+  [
+    'https://www.stripes.com/news/2006-10-19/no-world-series-on-afn-radio-this-year-1974176.html1',
+    '“No World Series on AFN Radio This Year” — Stars and Stripes, October 19, 2006',
+  ],
+  [
+    'https://chrissmith.house.gov/uploadedfiles/1999.03.04_foreign_relations_authorization_for_fy_2000_2001-_public_diplomacy_programs.pdf',
+    'David L. Marcus, “America’s Salesman” — congressional hearing scan',
+  ],
+]);
+
+const SOURCE_INSTITUTIONS = [
+  [/state\.gov$/i, 'U.S. Department of State — original record'],
+  [/congress\.gov$/i, 'U.S. Congress — hearing record'],
+  [/govinfo\.gov$/i, 'U.S. Government Publishing Office — official record'],
+  [/archives\.gov$/i, 'U.S. National Archives — archival record'],
+  [/nato\.int$/i, 'NATO — official record'],
+  [/un\.org$/i, 'United Nations — official record'],
+  [/washingtonpost\.com$/i, 'The Washington Post — original report'],
+  [/stripes\.com$/i, 'Stars and Stripes — original report'],
+  [/reuters\.com$/i, 'Reuters — original report'],
+];
+
 function routeParts(hash = window.location.hash || '') {
   const match = hash.match(/^#\/b\/([^/?#]+)(?:\/([^/?#]+))?/);
   return {
@@ -34,6 +66,31 @@ function syncBookIdentity() {
     delete document.documentElement.dataset.redSoxDiplomacy;
     delete document.documentElement.dataset.rsdChapter;
   }
+}
+
+function sourceLabelFor(anchor) {
+  let url;
+  try { url = new URL(anchor.href); } catch { return ''; }
+  const exact = EXACT_SOURCE_LABELS.get(url.href);
+  if (exact) return exact;
+  const host = url.hostname.replace(/^www\./i, '');
+  const institution = SOURCE_INSTITUTIONS.find(([pattern]) => pattern.test(host));
+  return institution?.[1] || `${host} — original source`;
+}
+
+function polishCitationLinks(root = document) {
+  if (document.documentElement.dataset.redSoxDiplomacy !== 'true') return;
+  root.querySelectorAll?.('a[href^="http"]').forEach((anchor) => {
+    if (anchor.dataset.rsdCitationPolished === 'true') return;
+    const visible = anchor.textContent.trim();
+    if (GENERIC_SOURCE_LABEL.test(visible)) {
+      anchor.textContent = sourceLabelFor(anchor);
+      anchor.classList.add('rsd-source-link');
+    } else if (EXACT_SOURCE_LABELS.has(anchor.href)) {
+      anchor.classList.add('rsd-source-link');
+    }
+    anchor.dataset.rsdCitationPolished = 'true';
+  });
 }
 
 function isBurnsIntroVideoLink(anchor) {
@@ -114,9 +171,26 @@ function handleArchiveClick(event) {
 
 function initialize() {
   syncBookIdentity();
-  window.addEventListener('hashchange', syncBookIdentity);
-  window.addEventListener('popstate', syncBookIdentity);
+  polishCitationLinks();
+  window.addEventListener('hashchange', () => {
+    syncBookIdentity();
+    requestAnimationFrame(() => polishCitationLinks());
+  });
+  window.addEventListener('popstate', () => {
+    syncBookIdentity();
+    requestAnimationFrame(() => polishCitationLinks());
+  });
   document.addEventListener('click', handleArchiveClick, true);
+
+  const root = document.getElementById('bookStage') || document.body;
+  new MutationObserver((mutations) => {
+    if (document.documentElement.dataset.redSoxDiplomacy !== 'true') return;
+    for (const mutation of mutations) {
+      for (const node of mutation.addedNodes) {
+        if (node.nodeType === 1) polishCitationLinks(node);
+      }
+    }
+  }).observe(root, { childList: true, subtree: true });
 }
 
 if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', initialize, { once: true });
