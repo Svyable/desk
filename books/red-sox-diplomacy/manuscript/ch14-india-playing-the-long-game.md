@@ -40,6 +40,14 @@ The administration spent much of 2006 persuading legislators to authorize except
 
 Two democracies had arrived at one of democratic diplomacy's less romantic facts: neither negotiating team owned its own country. The American executive could not erase Congress. The Indian executive could not erase Parliament, coalition politics or the strategic establishment.
 
+Burns described the work that December with a phrase that resists the false comfort of hindsight.
+
+> **NICK / UNCHARTED WATERS**
+>
+> ### “We were in uncharted waters because, of course, there had never been a deal quite like this.”
+>
+> *Press conference with Foreign Secretary Shiv Shanker Menon · New Delhi · December 8, 2006 · [State Department transcript](https://2001-2009.state.gov/p/us/rm/2006/77555.htm)*
+
 By 2007 Shyam Saran had been succeeded as foreign secretary by Shivshankar Menon. The negotiation had moved into the bilateral agreement required under Section 123 of the U.S. Atomic Energy Act. Burns publicly said in May that the two sides were about ninety percent of the way there.
 
 The last ten percent was where the negotiation lived.

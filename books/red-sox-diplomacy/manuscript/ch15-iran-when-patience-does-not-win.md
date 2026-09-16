@@ -38,6 +38,14 @@ The December 2006 Council record makes the coalition's limits visible. Russia an
 
 *PRESSURE LEDGER 01 — Resolution 1696 demanded suspension; Resolutions 1737, 1747 and 1803 progressively added sanctions and restrictions. The December 2006 Council record also preserves Russian and Chinese insistence that pressure remain tied to a negotiated solution. This is a ledger of coalition action, not a diplomatic scorecard: Iran continued enrichment and no comprehensive nuclear bargain existed when Burns left government. [Resolution 1737 meeting record.](https://press.un.org/en/2006/sc8928.doc.htm) [U.N. Security Council resolution index.](https://main.un.org/securitycouncil/en/sanctions/1737/resolutions)*
 
+By August 2007, with pressure increasing and no settlement in sight, Burns still described the strategy in terms of time that had not yet run out.
+
+> **NICK / EXHAUST DIPLOMACY**
+>
+> ### “We have time for diplomacy. We should exhaust diplomacy in this instance and we're trying very hard to do that.”
+>
+> *Radio Free Europe/Radio Liberty interview · August 20, 2007 · [State Department transcript](https://2001-2009.state.gov/p/us/rm/2007/91675.htm)*
+
 Iran continued enriching uranium. Its officials continued to describe peaceful nuclear technology as a right under the Non-Proliferation Treaty. International concern did not rest only on distrust in the abstract; the IAEA safeguards record contained unresolved questions that had damaged confidence in the peaceful character of the program. But technical findings could not settle the politics. Inspectors could describe material, facilities, declarations and compliance. They could not decide what national humiliation meant in Tehran or what proliferation risk governments in Washington, Paris, London, Berlin, Moscow and Beijing were willing to accept.
 
 Here the contrast with India becomes useful. Washington had been trying to create an exception to the existing nuclear order for India, a country outside the Non-Proliferation Treaty. With Iran, the coalition was trying to enforce and interpret an existing nonproliferation structure against a treaty member whose nuclear history had generated serious safeguards concerns. The India bargain required governments to decide an exception was worth making. Iran required governments that disagreed among themselves to keep deciding what compliance, confidence and acceptable nuclear capability meant.

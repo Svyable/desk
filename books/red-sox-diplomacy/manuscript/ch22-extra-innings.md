@@ -18,11 +18,17 @@ The end of a diplomatic biography invites a verdict. Burns's career makes the ti
 
 Agreements are abandoned. Failed negotiations leave machinery successors use. Alliances look obsolete until they do not. Judgments that appear defensible inside one moment can age badly. Burns eventually said so about one of his own.
 
-In September 2026, twenty-three years after the invasion of Iraq, he returned publicly to a decision he had supported while serving as ambassador to NATO. Looking back, he said he regretted that support and believed the invasion had been wrong.
+In September 2026, twenty-three years after the invasion of Iraq, he returned publicly to a decision he had supported while serving as ambassador to NATO. The reversal deserves his own words.
+
+> **NICK / REVISION**
+>
+> ### “I supported the war, I supported the intervention. I regret that now.”
+>
+> *Amanpour & Company · September 9, 2026 · [PBS transcript/video](https://www.pbs.org/wnet/amanpour-and-company/video/september-9-2026-prwre2/)*
 
 ![REVISION OBJECT 01 — Burns's 2003 support for the Iraq intervention and his September 2026 retrospective reversal.](../media/ch22-revision-object.svg)
 
-*REVISION OBJECT 01 — The record contains both judgments. Burns supported the Iraq intervention while serving as U.S. Ambassador to NATO; on September 9, 2026, he said, *“I regret that now,”* and described the decision to invade as wrong in retrospect. The arrow is time, not absolution. [PBS, Amanpour and Company.](https://www.pbs.org/video/september-9-2026-prwre2/)*
+*REVISION OBJECT 01 — The record contains both judgments. Burns supported the Iraq intervention while serving as U.S. Ambassador to NATO; in September 2026 he described the decision to invade as wrong in retrospect. The arrow is time, not absolution. [PBS, Amanpour and Company.](https://www.pbs.org/wnet/amanpour-and-company/video/september-9-2026-prwre2/)*
 
 The later judgment does not erase the first. It adds another fact to the record: Burns was willing to revise the account he gave of his own judgment. That is not absolution. It is revisability.
 
