@@ -12,7 +12,7 @@ A diplomat speaks for a state but arrives as a person, with a hometown, loyaltie
 
 Burns entered government near the end of the Cold War and spent more than three decades inside American diplomacy: at the White House and State Department, in Moscow, at NATO, in negotiations with India and Iran, and finally in Beijing. The assignments changed. So did the balance of power around them. Policy still had to pass through a human being before another human being could answer it.
 
-Governments do not literally speak. Alliances do not remember who kept a promise. Embassies do not hear hesitation in a sentence. People do those things on behalf of institutions, under instructions they did not write alone and amid histories they did not choose.
+A cable can carry instructions. It cannot hear hesitation in a sentence. A treaty can bind governments. It cannot remember who kept a promise. People do those things for institutions, under instructions they did not write alone and amid histories they did not choose.
 
 The Red Sox recur because they recurred in Burns's life: inheritance, local language, private allegiance, public signal, occasionally a way to talk about rivalry. The metaphor has a hard limit. Baseball has rules both sides accept, umpires, standings, a schedule, and the promise of another game. Diplomacy sometimes begins because those guarantees are missing.
 
