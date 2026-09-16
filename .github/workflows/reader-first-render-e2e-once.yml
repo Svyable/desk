@@ -14,12 +14,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Check Reader modules and contract tests
+        run: |
+          node --check reader/js/desk-first-render.js
+          node --check reader/js/desk-viewport-stability-runtime.js
+          node --test reader/js/desk-first-render-contents-contract.test.mjs
       - name: Install Chromium harness
         run: |
           mkdir -p /tmp/reader-e2e
           npm install --prefix /tmp/reader-e2e playwright@1.55.0
           npx --prefix /tmp/reader-e2e playwright install --with-deps chromium
-      - name: Verify first render and Contents stability
+      - name: Verify first visible render and Contents stability
         shell: bash
         run: |
           set -euo pipefail
@@ -70,14 +75,25 @@ jobs:
               const pageErrors = [];
               page.on('pageerror', (error) => pageErrors.push(error.message));
               await page.goto(`${base}${route}`, { waitUntil: 'domcontentloaded', timeout: 45000 });
-              await page.waitForFunction(() => document.body?.dataset.stage === 'read', null, { timeout: 90000 });
-              await page.waitForFunction(() => Number(document.getElementById('totalPages')?.textContent || '0') > 0, null, { timeout: 30000 });
+
+              await page.waitForFunction(() => {
+                const root = document.documentElement;
+                const wrapper = document.getElementById('pagesWrapper');
+                const visible = document.querySelector('#pagesWrapper .page-surface.active .page-inner');
+                const rect = visible?.getBoundingClientRect();
+                return root.dataset.readerFirstRenderReady === 'true'
+                  && document.body?.dataset.stage === 'read'
+                  && wrapper?.classList.contains('active')
+                  && !!visible
+                  && (rect?.width || 0) > 20
+                  && (rect?.height || 0) > 20
+                  && Number(document.getElementById('totalPages')?.textContent || '0') > 0;
+              }, null, { timeout: 90000 });
               await page.waitForFunction(() => document.documentElement.dataset.guiEnhanced === 'true', null, { timeout: 30000 });
-              await page.waitForTimeout(350);
 
               const snapshot = () => page.evaluate(() => {
                 const root = document.documentElement;
-                const pageInner = document.querySelector('#pagesWrapper .page-inner');
+                const pageInner = document.querySelector('#pagesWrapper .page-surface.active .page-inner');
                 const rect = pageInner?.getBoundingClientRect();
                 const style = pageInner ? getComputedStyle(pageInner) : null;
                 return {
@@ -91,6 +107,7 @@ jobs:
                   paragraph: root.dataset.readerParagraph,
                   hyphens: root.dataset.readerHyphens,
                   primed: root.dataset.readerPrefsPrimed,
+                  ready: root.dataset.readerFirstRenderReady,
                   renderedFontSize: style?.fontSize || '',
                   renderedLineHeight: style?.lineHeight || '',
                   renderedWeight: style?.fontWeight || '',
@@ -101,30 +118,25 @@ jobs:
                 };
               });
 
-              const before = await snapshot();
-              assert.equal(before.primed, 'true', `${viewport.name}: saved experience must be primed before pagination`);
-              assert.equal(before.fontSize, '22px');
-              assert.equal(before.leading, '1.8');
-              assert.equal(before.weight, '500');
-              assert.equal(before.tracking, '0.02em');
-              assert.equal(before.font, 'clear');
-              assert.equal(before.measure, 'narrow');
-              assert.equal(before.align, 'left');
-              assert.equal(before.paragraph, 'airy');
-              assert.equal(before.hyphens, 'off');
+              const firstVisible = await snapshot();
+              assert.equal(firstVisible.primed, 'true', `${viewport.name}: saved experience must be primed before first visible page`);
+              assert.equal(firstVisible.ready, 'true', `${viewport.name}: CSS/font/viewport settlement must precede first visible page`);
+              assert.equal(firstVisible.fontSize, '22px');
+              assert.equal(firstVisible.leading, '1.8');
+              assert.equal(firstVisible.weight, '500');
+              assert.equal(firstVisible.tracking, '0.02em');
+              assert.equal(firstVisible.font, 'clear');
+              assert.equal(firstVisible.measure, 'narrow');
+              assert.equal(firstVisible.align, 'left');
+              assert.equal(firstVisible.paragraph, 'airy');
+              assert.equal(firstVisible.hyphens, 'off');
 
-              const preClick = await page.evaluate(() => ({
-                buttonVisible: !!document.getElementById('tocBtn')?.getClientRects().length,
-                buttonExpanded: document.getElementById('tocBtn')?.getAttribute('aria-expanded'),
-                drawerClass: document.getElementById('tocOverlay')?.className,
-                drawerInert: !!document.getElementById('tocOverlay')?.inert,
-                appInert: !!document.querySelector('.app')?.inert,
-                guiEnhanced: document.documentElement.dataset.guiEnhanced,
-                activeElement: document.activeElement?.id || '',
-              }));
-              console.log(`${viewport.name} pre-click`, preClick);
+              await page.waitForTimeout(700);
+              const settled = await snapshot();
+              assert.deepEqual(settled, firstVisible, `${viewport.name}: first visible page must not snap into a second layout`);
 
               await page.evaluate(() => document.getElementById('tocBtn')?.click());
+              await page.waitForFunction(() => document.getElementById('tocOverlay')?.classList.contains('active'));
               await page.waitForTimeout(350);
 
               const contents = await page.evaluate(() => {
@@ -134,8 +146,6 @@ jobs:
                 const headerRect = header.getBoundingClientRect();
                 const style = getComputedStyle(drawer);
                 return {
-                  className: drawer.className,
-                  active: drawer.classList.contains('active'),
                   activeElement: document.activeElement?.id || '',
                   top: rect.top,
                   bottom: rect.bottom,
@@ -146,38 +156,31 @@ jobs:
                   headerBottom: headerRect.bottom,
                   expanded: document.getElementById('tocBtn')?.getAttribute('aria-expanded'),
                   modal: drawer.getAttribute('aria-modal'),
-                  drawerInert: !!drawer.inert,
                   appInert: !!document.querySelector('.app')?.inert,
                   display: style.display,
                   visibility: style.visibility,
-                  transform: style.transform,
-                  pointerEvents: style.pointerEvents,
                 };
               });
-              console.log(`${viewport.name} contents`, contents);
-              console.log(`${viewport.name} page errors`, pageErrors);
-
-              assert.equal(contents.active, true, `${viewport.name}: Contents drawer must activate`);
-              assert.ok(contents.width > 20 && contents.height > 20, `${viewport.name}: Contents drawer must have visible geometry`);
-              assert.notEqual(contents.display, 'none', `${viewport.name}: Contents drawer must render`);
-              assert.notEqual(contents.visibility, 'hidden', `${viewport.name}: Contents drawer must be visible`);
+              assert.ok(contents.width > 20 && contents.height > 20, `${viewport.name}: Contents must have visible geometry`);
+              assert.notEqual(contents.display, 'none');
+              assert.notEqual(contents.visibility, 'hidden');
               assert.equal(contents.expanded, 'true', `${viewport.name}: Contents button must report open state`);
-              assert.equal(contents.modal, 'false', `${viewport.name}: Contents must remain a navigation drawer`);
-              assert.equal(contents.appInert, false, `${viewport.name}: Reader background must remain interactive`);
-              assert.ok(contents.top >= contents.headerBottom - 2, `${viewport.name}: Contents must start below Reader header`);
-              assert.ok(contents.bottom <= contents.viewportHeight + 2, `${viewport.name}: Contents must stay in the visual viewport`);
+              assert.equal(contents.modal, 'false', `${viewport.name}: Contents must be navigation, not a blocking modal`);
+              assert.equal(contents.appInert, false, `${viewport.name}: Reader shell must remain interactive`);
+              assert.ok(contents.top >= contents.headerBottom - 2, `${viewport.name}: Contents must begin below Reader header`);
+              assert.ok(contents.bottom <= contents.viewportHeight + 2, `${viewport.name}: Contents must stay inside visual viewport`);
               if (viewport.mobile) {
-                assert.notEqual(contents.activeElement, 'tocSearch', `${viewport.name}: opening Contents must not autofocus search`);
-                assert.ok(contents.width >= contents.viewportWidth - 2, `${viewport.name}: mobile Contents must use the available width`);
+                assert.notEqual(contents.activeElement, 'tocSearch', `${viewport.name}: opening Contents must not invoke the keyboard`);
+                assert.ok(contents.width >= contents.viewportWidth - 2, `${viewport.name}: mobile Contents must use available width`);
               }
 
-              const after = await snapshot();
-              assert.deepEqual(after, before, `${viewport.name}: opening Contents must not change typesetting or settled pagination geometry`);
+              const withContents = await snapshot();
+              assert.deepEqual(withContents, settled, `${viewport.name}: opening Contents must not alter visible page typesetting or geometry`);
 
               await page.evaluate(() => document.getElementById('tocClose')?.click());
               await page.waitForFunction(() => !document.getElementById('tocOverlay')?.classList.contains('active'));
               assert.deepEqual(pageErrors, [], `${viewport.name}: no uncaught Reader errors expected`);
-              console.log(`PASS ${viewport.name}: first render + Contents stability`);
+              console.log(`PASS ${viewport.name}: stable first render + stable Contents`);
               await context.close();
             }
           } finally {
