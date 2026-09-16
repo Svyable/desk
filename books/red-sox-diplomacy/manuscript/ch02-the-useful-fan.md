@@ -22,7 +22,7 @@ Burns had not stood at that podium for twenty-four years. The room still knew.
 
 No one explained the joke. Five words about a baseball team entered a discussion of Burns's most consequential late-career assignment, got a laugh, and disappeared. The briefing moved on.
 
-In the 1990s, speaking for the State Department required constant boundary work. Confirmed was different from reported. Policy was different from proposal. What Washington had decided was different from what somebody said Washington had decided. A stray phrase could become a headline before the briefing ended. Within those constraints, Burns could complain about Roger Clemens leaving Boston or tease a Yankees fan, and reporters could tease him back. For thirty seconds the briefing room could become ridiculous because everyone understood where the ridiculousness stopped.
+In the 1990s, the State Department podium required constant boundary work. Confirmed was different from reported; policy was different from proposal; what Washington had decided was different from what somebody said Washington had decided. A stray phrase could become a headline before the briefing ended. Inside that machinery, Burns could complain about Roger Clemens leaving Boston or tease a Yankees fan, and reporters could tease him back. For thirty seconds the room could become ridiculous because everyone knew the joke was not policy.
 
 The material accumulated without much stage management. Burns supplied the allegiance; reporters remembered it; colleagues repeated it; eventually other people supplied the props. On his last day as spokesman in 1997, President Clinton sent a signed Red Sox cap. A reporter gave Burns a Red Sox alarm clock. His successor later joked about retiring the baseball analogies. By then the affiliation required no introduction.
 
@@ -36,7 +36,7 @@ The allegiance also had an origin story less polished than a résumé. Asked abo
 
 Its triviality was an advantage. A diplomat's official biography is crowded with abstractions: bilateral relations, deterrence, democracy, nonproliferation, alliance cohesion. Baseball offered irrational allegiance without policy consequences. Other people could know this about Burns without having to parse it as the position of the United States government.
 
-That did not make him trustworthy. Charm can coexist with bad judgment, and familiarity can be manipulated. A counterpart who likes an ambassador can still reject the proposal; a journalist who knows the joke can still ask the damaging question. The distinction mattered because the fan was not the office.
+None of this made him trustworthy. A counterpart could like the ambassador and reject the proposal. A reporter could know the joke and still ask the damaging question. The fan and the office could occupy the same room without becoming the same thing.
 
 Later, baseball would become office decoration, public diplomacy, a network in Greece, a piece of home followed across time zones and a visible marker in China. Those episodes do not amount to one diplomatic method. The same stubborn personal fact simply found different uses in different rooms.
 
