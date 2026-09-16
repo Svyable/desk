@@ -49,13 +49,44 @@ A short transcript strip can sit after the prologue's first description of Burns
 
 Alt text/text-equivalent draft: `Excerpt from the April 15, 1997 State Department daily briefing: reporters and spokesman Nicholas Burns discuss the Red Sox, Mo Vaughn and Tim Wakefield immediately before Burns formally opens the foreign-policy briefing.`
 
-## Useful supporting federal record
+## New primary-source scene record: the traveling spokesman and the camera boundary
+
+**Source:** Clinton White House historical archive, Office of the Press Secretary  
+**Document:** `Press Briefing by State Department Spokesman Nick Burns`, April 18, 1996  
+**Place:** ANA Hotel, Tokyo, Japan  
+**Canonical archive page:** https://clintonwhitehouse6.archives.gov/1996/04/1996-04-18-on-the-record-briefing-on-lebanon-tokyo.html  
+**Authority:** Executive Office of the President historical federal record  
+**Use:** Scene and media-practice evidence; short typeset excerpt only, not a webpage screenshot.
+
+This record gives the prologue something the April 1997 baseball exchange does not: the mechanics of representation while Burns was traveling with the government. The transcript identifies the room as the ANA Hotel in Tokyo and begins with Burns negotiating the terms of the briefing itself. He makes the Lebanon discussion on the record but not on camera, distinguishes print from radio needs, and only then turns to substance. That is concrete evidence for a useful point the manuscript can later exploit without abstract explanation: the spokesman did not merely choose words; he worked inside rules about who could record them, in what medium, and under what attribution conditions.
+
+### Rights and evidentiary boundary
+
+The archive is a federal historical record. Use the transcript as primary-source text and quote only the small amount necessary to establish the media boundary. Do not reproduce the archived page's design or graphics. The record supports claims about this April 18, 1996 Tokyo briefing; it does not establish that every Burns briefing used the same camera, radio, or attribution rules.
+
+### Original figure opportunity
+
+If the prologue eventually needs a second documentary element, prefer an original two-beat transcript treatment over another photograph:
+
+`TOKYO · 18 APR 1996` → Burns sets the recording/attribution boundary before discussing Lebanon.  
+`WASHINGTON · 15 APR 1997` → baseball talk occupies the same transcript immediately before the formal State Department briefing begins.
+
+The pairing clarifies two sides of the title without borrowed visual design: Burns as a person reporters knew well enough to talk baseball with, and Burns as an official who controlled the terms under which government speech entered the record. Keep the figure monochrome and typographic. In print/PDF, keep each dated excerpt with its source line and do not split a speaker exchange across pages. In EPUB, render the two records sequentially with date/place headings rather than forcing a two-column layout.
+
+Alt text/text-equivalent draft: `Two federal briefing records show different edges of Nicholas Burns's spokesman role: in Tokyo in April 1996 he specifies that a Lebanon briefing is on the record but not on camera; in Washington in April 1997 reporters discuss the Red Sox with him immediately before the formal State Department briefing begins.`
+
+## Useful supporting federal records
 
 **Document:** Nicholas Burns, `The Importance of Public Diplomacy`, Foreign Service Day, Dean Acheson Auditorium, May 9, 1997  
 **Repository:** U.S. Department of State electronic archive  
 **URL:** https://1997-2001.state.gov/policy_remarks/970509.burns.html
 
 Use this as evidentiary support for the prologue's public-diplomacy frame, not as a visual asset. It is a near-contemporaneous statement by Burns from the same spokesman period and can help distinguish what Burns himself said about public diplomacy from later interpretation.
+
+**Document:** 1995 Congressional Directory, Department of State listing  
+**Repository:** U.S. Government Publishing Office / GovInfo  
+**URL:** https://www.govinfo.gov/content/pkg/GPO-CDIR-1995-01-04/pdf/GPO-CDIR-1995-01-04.pdf  
+**Relevant record:** The Public Affairs listing places Deputy Assistant Secretary Nicholas Burns in Room 6800 and supplies a contemporaneous institutional locator for his State Department role. Use this as factual scene-setting evidence only; the directory does not identify the press-briefing room or prove where a particular briefing occurred.
 
 ## Evaluated but not cleared for direct reproduction
 
@@ -70,4 +101,4 @@ Reference: https://www.nato.int/en/multimedia/multimedia/photos/2001/09/11/press
 1. An item-level federal photograph of Burns actually conducting a 1995–97 State Department briefing, with named photographer or agency, date, identifier, and an explicit public-domain/reuse statement. This would beat every generic portrait because it shows the prologue's central human/institutional collision in the room where it happened.
 2. A rights-clean period image of the State Department briefing room or Dean Acheson Auditorium from the mid-1990s, preferably federal and item-identified, if no Burns briefing image survives online.
 3. A clearly reusable photograph of Burns wearing a Red Sox cap from an authoritative archive. Do not substitute an unlicensed press or team image merely because it matches the title literally.
-4. If none of those clear rights review, build an original two-column documentary opener from federal text: `personal language` (the April 15 baseball exchange) beside `official language` (the first substantive foreign-policy exchange from the same briefing). This would make the prologue's argument without borrowing protected visual design.
+4. If none of those clear rights review, produce the original two-record Tokyo/Washington transcript figure described above. It now has two authoritative federal sources, a clean text-equivalent path for EPUB, and no dependency on protected visual design.
