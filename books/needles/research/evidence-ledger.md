@@ -8,9 +8,12 @@ Checked 2026-09-16. Public/lawful sources only.
 
 - NASA GSFC, Westford station history: https://earth.gsfc.nasa.gov/geo/networks/sgp/sites/westford — confirms the 18.3 m telescope was built in 1961 to support Project West Ford and describes its original communications-technology role.
 - NASA History Series / *Beyond the Ionosphere*: https://www.nasa.gov/history/history-publications-and-resources/nasa-history-series/ — authoritative route into the NASA communications-history volume; recover the West Ford chapter at page level before detailed later chapters.
+- NASA, *Astronautics and Aeronautics, 1963*: https://www.nasa.gov/wp-content/uploads/2023/04/sp-4004-1963.pdf — records Homer Newell's 17 May 1963 statement to the UN Scientific and Technical Subcommittee that West Ford would create no significant interference with other scientific activity, and his assurance that no further launchings would be planned until findings were evaluated and safeguards against harmful scientific interference developed. This is useful evidence of contemporaneous governance pressure, not proof that West Ford caused later treaty language.
 - MIT Lincoln Laboratory historical literature: locate William W. Ward and Franklin W. Floyd, “Thirty Years of Space Communications Research and Development at Lincoln Laboratory,” reproduced in NASA communications history. Primary institutional technical history target.
 - I. I. Shapiro, H. M. Jones, C. W. Perkins, “Orbital Properties of the West Ford Dipole Belt,” *Proceedings of the IEEE* (1964). Recover DOI/full text and use for orbital/decay mechanics rather than secondary summaries.
 - H. Bondi et al., West Ford material in *Quarterly Journal of the Royal Astronomical Society* (1962), including astronomical objections. Recover scans and page-index claims.
+- UN Committee on the Peaceful Uses of Outer Space, A/5181 (27 September 1962): https://digitallibrary.un.org/record/844041 — establishes that formal work on general legal principles for outer space was already underway before the successful May 1963 West Ford deployment.
+- UN Audiovisual Library of International Law, Outer Space Treaty history: https://legal.un.org/avl/ha/tos/tos.html — traces legal-principles work through 1959–62, the 1963 Declaration, and the 1966 treaty. Use as a chronology control against monocausal claims about West Ford.
 - Smithsonian National Air and Space Museum: recover item-level catalog for West Ford dispenser/canister before any image or rights use.
 
 ### Class 2 — credible but incomplete
@@ -42,6 +45,8 @@ Checked 2026-09-16. Public/lawful sources only.
 
 **Military secrecy vs public controversy.** Defense classification can coexist with public knowledge that an experiment exists. Reconstruct exactly what was public in 1961–63.
 
+**Governance pressure vs treaty causation.** West Ford plainly entered a live international argument about scientific interference and consultation: Newell was answering that concern at the UN within days of the successful deployment. But the legal chronology is an important disconfirming control. COPUOS had been charged with studying legal problems years earlier, its Legal Subcommittee began substantive principles work in 1962, and the General Assembly directed urgent continuation of that work in December 1962. The successful West Ford deployment therefore cannot be treated as the origin of international space-law governance. The stronger claim to test is narrower: whether West Ford altered, accelerated, or supplied a concrete case for particular consultation/non-interference norms already under development. Require actor-level diplomatic evidence before saying it did.
+
 ## Incentive audit
 
 - Air Force / Lincoln Laboratory: demonstrate communications resilience and bound environmental objections; institutional incentive does not invalidate measurements but makes assumptions and failure modes worth auditing.
@@ -57,8 +62,8 @@ Checked 2026-09-16. Public/lawful sources only.
 4. 1961 and 1963 launch reports, dispenser design, naphthalene matrix, planned vs achieved dispersion.
 5. Actual communications-test link budgets, received signal levels and reliability.
 6. National Academy of Sciences / International Astronomical Union correspondence and committee records.
-7. U.S. State Department and UN records around Adlai Stevenson and international objections.
-8. Treaty drafting history before asserting West Ford caused a consultation provision.
+7. U.S. State Department and UN records around Adlai Stevenson and international objections, including the May 1963 Scientific and Technical Subcommittee record behind Newell's statement.
+8. Treaty drafting history before asserting West Ford caused a consultation provision: compare pre-deployment proposals and A/5181 against A/AC.105/12, A/5549, the 1963 Declaration, and the later Outer Space Treaty; search specifically for West Ford/needles references in negotiating records rather than inferring causation from chronology.
 9. NASA Orbital Debris Program Office historical data and current catalog status for surviving clumps.
 10. Telstar/active-satellite cost and performance comparison to explain abandonment without hindsight.
 
