@@ -274,6 +274,57 @@ function installContentsDrawer({ window, document }) {
   button.setAttribute('aria-label', 'Contents');
   button.title = 'Contents';
 
+  const compact = () => window.matchMedia('(max-width: 700px), (pointer: coarse)').matches;
+  const syncOpenState = (active) => {
+    drawer.classList.toggle('active', active);
+    drawer.inert = !active;
+    drawer.setAttribute('aria-modal', 'false');
+    button.setAttribute('aria-expanded', String(active));
+    if (active) {
+      const app = document.querySelector('.app');
+      if (app) {
+        app.inert = false;
+        app.classList.remove('gui-modal-background');
+      }
+      if (compact()) close?.focus?.({ preventScroll: true });
+    } else if (document.activeElement && drawer.contains(document.activeElement)) {
+      button.focus({ preventScroll: true });
+    }
+  };
+  const open = () => syncOpenState(true);
+  const closeDrawer = () => syncOpenState(false);
+  const toggle = () => syncOpenState(!drawer.classList.contains('active'));
+
+  // Desk owns the base availability of Contents. Capture the explicit open and
+  // close controls before optional upstream enhancements can install competing
+  // toggle handlers. Upstream code still owns chapter population/navigation.
+  if (!button.dataset.deskContentsOwner) {
+    button.dataset.deskContentsOwner = 'true';
+    button.addEventListener('click', (event) => {
+      event.preventDefault();
+      event.stopImmediatePropagation();
+      toggle();
+    }, true);
+  }
+  if (close && !close.dataset.deskContentsOwner) {
+    close.dataset.deskContentsOwner = 'true';
+    close.addEventListener('click', (event) => {
+      event.preventDefault();
+      event.stopImmediatePropagation();
+      closeDrawer();
+    }, true);
+  }
+  if (!document.documentElement.dataset.deskContentsEscapeOwner) {
+    document.documentElement.dataset.deskContentsEscapeOwner = 'true';
+    document.addEventListener('keydown', (event) => {
+      if (event.key !== 'Escape' || !drawer.classList.contains('active')) return;
+      event.preventDefault();
+      event.stopImmediatePropagation();
+      closeDrawer();
+    }, true);
+  }
+  syncOpenState(drawer.classList.contains('active'));
+
   // Bookself's current shared GUI focuses Contents search automatically. On a
   // phone that summons the software keyboard and changes visual viewport
   // geometry before the reader asked to search. Keep programmatic opening on a
@@ -282,14 +333,17 @@ function installContentsDrawer({ window, document }) {
     search.dataset.deskContentsFocusGuard = 'true';
     const nativeFocus = search.focus.bind(search);
     search.focus = (options) => {
-      const compact = window.matchMedia('(max-width: 700px), (pointer: coarse)').matches;
-      if (compact && drawer.classList.contains('active')) {
+      if (compact() && drawer.classList.contains('active')) {
         close?.focus?.({ preventScroll: true });
         return;
       }
       nativeFocus(options);
     };
   }
+
+  // Expose idempotent actions only for local integration/tests; chapter links
+  // continue to be populated and navigated by the canonical Reader.
+  window.__deskContentsDrawer = Object.freeze({ open, close: closeDrawer, toggle });
 }
 
 export async function prepareDeskReaderFirstRender({
