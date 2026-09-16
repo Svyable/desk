@@ -92,6 +92,29 @@ A U.S. Air Force chronology independently records NATO AWACS deployment to the U
 
 **Narrative job:** Let capability, duration and multinational participation carry the symbolism. The alliance literally supplied aircraft and crews to help patrol the attacked ally's airspace.
 
+## Tinker AFB grounding — where the aircraft actually arrived
+
+The U.S. Air Force's 552nd Air Control Wing history supplies a useful physical anchor that the NATO summary does not: on **October 9, 2001**, the first five NATO E-3 aircraft and a detachment of more than 180 personnel began arriving at **Tinker Air Force Base, Oklahoma**, from Geilenkirchen, Germany, in support of Operation Eagle Assist. Two additional NATO aircraft followed in January 2002.
+
+Primary federal sources:
+- Tinker Air Force Base, 552nd Air Control Wing fact sheet: https://www.tinker.af.mil/About-Tinker/Fact-Sheets/Display/Article/2461278/552nd-air-control-wing/
+- 552nd Air Control Wing fact sheet: https://www.552acw.acc.af.mil/About-Us/Fact-Sheets/Display/Article/2724227/552nd-air-control-wing/
+
+**Rights / publication posture:** These pages are official U.S. Air Force sources. Their factual text may be used as federal-source evidence; do not assume every photograph embedded on a `.mil` page is automatically public domain without checking its individual credit/byline and any third-party notice. No image from these pages is cleared by this note.
+
+**Narrative use:** If Chapter 12 needs one more concrete noun, use Tinker rather than a generic phrase such as “deployed to the United States.” The striking reversal is geographic and institutional: an alliance headquartered across the Atlantic sent commonly owned surveillance aircraft and multinational crews to an Oklahoma Air Force base to help defend U.S. airspace.
+
+**Visual use:** Do not add a fourth figure merely to show Oklahoma. If the existing FLIGHT LEDGER 01 is revised later, a tiny origin/destination line—Geilenkirchen → Tinker AFB—would add physical orientation without turning the chapter into a route-map spread.
+
+### Date reconciliation
+
+NATO's official history dates Eagle Assist from **October 9, 2001**; the Air Force Personnel Center's Article 5 NATO Medal eligibility page gives a qualifying service period beginning **October 12, 2001**. Treat these as different institutional dates, not as a contradiction to be silently harmonized: October 9 is the NATO operation/deployment date used in NATO and 552nd histories; October 12 is the U.S. personnel-award eligibility start date.
+
+Air Force Personnel Center source:
+https://www.afpc.af.mil/Fact-Sheets/Display/Article/873203/the-article-5-nato-medal-operation-eagle-assist/
+
+**Guardrail:** Do not rewrite the operation start as October 12 on the strength of the medal page.
+
 ## Naval counterpart — Operation Active Endeavour
 
 NATO states that naval forces began deploying to the Eastern Mediterranean in October 2001 and that the mission was formally named Operation Active Endeavour on October 26.
@@ -105,6 +128,8 @@ No separate visual object is necessary in Chapter 12 unless later page pacing re
 
 A rights-clearable, period image of NATO AWACS over or operating from the United States would be valuable if it can be tied specifically to Eagle Assist. This pass did not recover a strong enough exact image from a public-domain federal source to justify a generic aircraft photograph.
 
+The Tinker/552nd federal record now narrows the archive search: prioritize October 2001–May 2002 imagery explicitly captioned as NATO E-3 aircraft or NATO personnel at Tinker AFB. Verify photographer/creator and item-level rights before ingestion; a federal host alone is not sufficient when an image credit could identify a non-federal creator.
+
 **Status:** image route remains open; do not substitute unrelated NATO AWACS imagery.
 
 ## Rights / release status
@@ -113,9 +138,10 @@ A rights-clearable, period image of NATO AWACS over or operating from the United
 | --- | --- | --- |
 | CONDITIONAL CLAUSE 01 | RELEASE-SAFE original diagram | retain NATO September 12 and October 2 source links |
 | IMPLEMENTATION PACKAGE 01 | RELEASE-SAFE original diagram | verify all eight paraphrases against NATO Oct. 4 statement |
-| FLIGHT LEDGER 01 | RELEASE-SAFE original diagram | retain NATO official-operation statistics |
-| Eagle Assist photograph route | NOT YET LOCATED | use only exact, rights-clearable operation-specific image |
+| FLIGHT LEDGER 01 | RELEASE-SAFE original diagram | retain NATO official-operation statistics; optional Geilenkirchen → Tinker orientation only if legible |
+| Tinker AFB deployment facts | RELEASE-SAFE federal-source evidence | preserve Oct. 9 deployment date; distinguish Oct. 12 medal-eligibility date |
+| Eagle Assist photograph route | NOT YET LOCATED | search Tinker/552nd holdings; clear item-level creator and rights before use |
 
 ## Visual restraint
 
-Three objects are enough. They correspond to three different institutional states—conditional commitment, practical support package, and deployed capability—and therefore do not duplicate one another.
+Three objects are enough. They correspond to three different institutional states—conditional commitment, practical support package, and deployed capability—and therefore do not duplicate one another. The new Tinker evidence should deepen FLIGHT LEDGER 01 or the prose, not automatically become a fourth object.
