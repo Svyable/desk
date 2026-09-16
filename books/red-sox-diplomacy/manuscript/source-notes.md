@@ -18,12 +18,13 @@ Where a source fits naturally into the prose, the manuscript links it there. The
 - Burns himself supplied the strongest current evidence for the earliest playing scene: in his July 4, 2024 [Independence Day remarks in Beijing](https://china.usembassy-china.org.cn/ambassador-nicholas-burns-remarks-on-independence-day/), he recalled playing Little League with friends at Bates School in Wellesley.
 - His family’s Red Sox inheritance comes directly from the June 16, 1997 [State Department briefing](https://1997-2001.state.gov/www/briefings/9706/970616db.html).
 - Burns’s official chronology, including Wellesley Senior High School, is cross-checked against his [Harvard Kennedy School curriculum vitae](https://apps.hks.harvard.edu/faculty/cv/NicholasBurns.pdf).
-- The 1974 *Wellesleyan* yearbook is available through this [school-archive record](https://www.e-yearbook.com/yearbooks/Wellesley_High_School_Wellesleyan_Yearbook/1974/Page_16.html). The broader Wellesley local archive route is documented by the [Wellesley Free Library](https://www.wellesleyfreelibrary.org/discover-borrow/digital-resources/databases/).
+- The 1974 *Wellesleyan* yearbook is available through the [Wellesley High School 1974 yearbook archive record](https://www.e-yearbook.com/yearbooks/Wellesley_High_School_Wellesleyan_Yearbook/1974/Page_16.html). The broader Wellesley local archive route is documented by the [Wellesley Free Library](https://www.wellesleyfreelibrary.org/discover-borrow/digital-resources/databases/).
 - The manuscript treats famous Red Sox events from Burns’s youth as **historical context, not Burns memories** unless Burns himself is documented remembering them. For the baseball record, see the Red Sox/MLB [1960s timeline](https://www.mlb.com/redsox/history/timeline/1960s), the National Baseball Hall of Fame on [Game 6 of the 1975 World Series](https://baseballhall.org/discover/museum/whole-new-ballgame/carlton-fisk-and-rawly-eastwick-recall-1975-world-series), and the Red Sox/MLB [1970–79 Fenway timeline](https://www.mlb.com/redsox/ballpark/museum/timeline/1970-1979).
 
 ## Chapter 2 — The Useful Fan
 
 - The State briefing archive shows that Burns’s baseball identity was recurring social behavior, not a later biographical embellishment. Useful examples include the [April 2, 1997 briefing](https://1997-2001.state.gov/briefings/9704/970402.html), the [June 4, 1997 briefing](https://1997-2001.state.gov/briefings/9706/970604db.html), and the [May 13, 1997 briefing](https://1997-2001.state.gov/briefings/9705/970513.html).
+- A separate contemporaneous self-description appears in Burns’s May 24, 1997 Worcester Polytechnic Institute commencement address, [“Preparing for the International Age”](https://1997-2001.state.gov/policy_remarks/970524.burns.html), where he identifies himself as a long-suffering Boston Red Sox fan while speaking about the international age.
 - The identity survives into the China nomination: see the 2021 [Senate Foreign Relations Committee hearing record](https://www.congress.gov/117/chrg/CHRG-117shrg47863/CHRG-117shrg47863.pdf) and the State Department’s [December 6, 2021 briefing](https://2021-2025.state.gov/briefings/department-press-briefing-december-6-2021/).
 - For Burns’s own late-career account of deliberately wearing a battered Red Sox cap around China, see his 2025 Belfer/Fairbank lecture, [“Lessons from the Front Lines of the U.S.-China Relationship”](https://www.belfercenter.org/research-analysis/lessons-front-lines-us-china-relationship).
 
@@ -66,7 +67,7 @@ Where a source fits naturally into the prose, the manuscript links it there. The
 
 ## Chapter 9 — Athens
 
-- David L. Marcus’s period profile, “America’s Salesman,” is preserved inside a congressional hearing PDF: [source scan](https://chrissmith.house.gov/uploadedfiles/1999.03.04_foreign_relations_authorization_for_fy_2000_2001-_public_diplomacy_programs.pdf). Because this is a scan, exact quotations are checked conservatively.
+- David L. Marcus’s period profile, [“America’s Salesman”](https://chrissmith.house.gov/uploadedfiles/1999.03.04_foreign_relations_authorization_for_fy_2000_2001-_public_diplomacy_programs.pdf), is preserved inside a congressional hearing scan. Because this is a scan, exact quotations are checked conservatively.
 - The embassy redesign and public-facing use of space are documented in the *Foreign Service Journal*, [“A Light Shines in Athens”](https://afsa.org/sites/default/files/fsj-2000-06-june_0.pdf), and in State Magazine’s [“New Look Transforms Athens Embassy”](https://1997-2001.state.gov/publications/statemag/statemag_jul2000/feature5.html).
 - A contemporaneous Greek perspective is available in *Ta Nea*, [“Nicholas Burns: Two Years of Storms”](https://www.tanea.gr/1999/11/06/greece/nikolas-mperns-mia-dietia-me-trikymies/).
 - Burns’s own later retrospective on the relationship is in his 2007 State Department remarks, [“U.S.-Greece Relations and Regional Issues”](https://2001-2009.state.gov/p/us/rm/2007/95201.htm).
@@ -74,10 +75,10 @@ Where a source fits naturally into the prose, the manuscript links it there. The
 ## Chapter 10 — Bringing Baseball to Greece
 
 - An Associated Press report republished by the *Los Angeles Times* documents Chuck Samiotes teaching baseball to relatives in Greece in 1997 and returning with equipment: [“Game of Baseball Is All Greek to Them”](https://www.latimes.com/archives/la-xpm-2000-jan-02-mn-49873-story.html).
-- A 1999 *Washington Post* item already places Peter Angelos, Greek baseball officials, the commissioner’s office, and reported Boston Red Sox assistance in the network: [source](https://www.washingtonpost.com/archive/sports/1999/09/08/injuries-to-teens-are-still-a-concern/fe2eb9f0-7fc2-4b43-80a4-a9cb6ac94670/).
+- A 1999 *Washington Post* item already places Peter Angelos, Greek baseball officials, the commissioner’s office, and reported Boston Red Sox assistance in the network: [“Injuries to Teens Are Still a Concern” — “Baseball in Greece” section](https://www.washingtonpost.com/archive/sports/1999/09/08/injuries-to-teens-are-still-a-concern/fe2eb9f0-7fc2-4b43-80a4-a9cb6ac94670/).
 - Burns’s most concrete first-person account of the batting-cage demonstrations, television appearances, youth teams, and government-budget effort is the 2004 ESPN Magazine piece [“Give ’Em Hellas”](https://www.espn.co.uk/espn/magazine/archives/news/story?page=magazine-20040119-article32).
 - For Angelos, Lou Angelos, Rob Derksen, and diaspora roster construction, see the *Los Angeles Times*, [“Greece Is the Word for These Minor Leaguers”](https://www.latimes.com/archives/la-xpm-2004-feb-13-sp-olympics13-story.html), and the *Christian Science Monitor*, [“Greek baseball team made in the USA”](https://www.csmonitor.com/2004/0818/p02s01-woeu.html).
-- CNN’s 2004 transcript identifies Bill Galatis and Chuck Samiotes/Samiotis as Boston-area Red Sox fans who helped build a field, train youth, and recruit players: [CNN Saturday transcript](https://transcripts.cnn.com/show/cst/date/2004-08-07/segment/04).
+- CNN’s 2004 transcript identifies Bill Galatis and Chuck Samiotes/Samiotis as Boston-area Red Sox fans who helped build a field, train youth, and recruit players: [CNN Saturday transcript, August 7, 2004](https://transcripts.cnn.com/show/cst/date/2004-08-07/segment/04).
 - The modern Hellenic Baseball Federation’s [history](https://greekbaseball.com/history) and [2024 explanatory article](https://www.greekbaseball.com/news/are-there-baseball-teams-in-greece) are retrospective institutional accounts and are used as such, not as replacements for contemporaneous reporting.
 - The chapter deliberately leaves the **exact Boston Red Sox club contribution unresolved**. A clear comparison case in which the club itself participated directly in diplomatic outreach appears in State Magazine’s 2008 [“Red Sox Pitch In”](https://2001-2009.state.gov/documents/organization/102927.pdf); that Halifax case is a control, not evidence about Greece.
 
@@ -104,7 +105,7 @@ Where a source fits naturally into the prose, the manuscript links it there. The
 
 ## Chapter 14 — India: Playing the Long Game
 
-- Burns’s July 2007 on-the-record account of the 123 Agreement endgame is here: [State Department briefing](https://2001-2009.state.gov/p/us/rm/2007/89559.htm).
+- Burns’s July 2007 on-the-record account of the 123 Agreement endgame is here: [“On-the-Record Briefing on the Status of the U.S.-India Civil Nuclear Cooperation Initiative”](https://2001-2009.state.gov/p/us/rm/2007/89559.htm).
 - The U.S. and Indian governments jointly announced completion of the negotiations in this [Rice–Mukherjee statement](https://2001-2009.state.gov/secretary/rm/2007/89522.htm).
 - The full bilateral agreement was released by the State Department: [text of the 123 Agreement](https://2001-2009.state.gov/r/pa/prs/ps/2007/aug/90050.htm).
 - Burns’s August 2007 roundtable on the agreement and the reprocessing issue is available here: [“U.S.-India Agreement for Peaceful Nuclear Cooperation”](https://2001-2009.state.gov/p/us/rm/2007/91412.htm).
@@ -124,7 +125,7 @@ Where a source fits naturally into the prose, the manuscript links it there. The
 - The chapter intentionally does **not** invent a Burns championship-night scene. The State Department’s [2004 NATO releases index](https://2001-2009.state.gov/p/eur/rt/nato/c11326.htm) helps bound his public schedule but does not reveal where or how he watched the clincher.
 - Burns’s documented pre-championship prediction is in his 2002 [Boston College commencement address](https://www.bc.edu/content/bc-web/bcnews/campus-community/alumni/r--nicholas-burns-2002-commencement-address.html); his post-title “redemption” language appears in his 2005 [U.S. Institute of Peace remarks](https://2001-2009.state.gov/p/us/rm/2005/45781.htm).
 - The baseball sequence itself is independently fixed by MLB’s [2004 ALCS recap](https://www.mlb.com/news/2004-alcs-recap) and [2004 World Series recap](https://www.mlb.com/news/2004-world-series-recap).
-- AFN reporting is contextual only: *Stars and Stripes* later reported that 2006 was the first World Series absent from AFN radio in sixty years. That supports the general plausibility of overseas access, not Burns’s personal viewing: [source](https://www.stripes.com/news/2006-10-19/no-world-series-on-afn-radio-this-year-1974176.html1).
+- AFN reporting is contextual only: *Stars and Stripes* later reported that 2006 was the first World Series absent from AFN radio in sixty years. That supports the general plausibility of overseas access, not Burns’s personal viewing: [“No World Series on AFN Radio This Year”](https://www.stripes.com/news/2006-10-19/no-world-series-on-afn-radio-this-year-1974176.html1).
 
 ## Chapter 17 — The Professor in the Cheap Seats
 
@@ -143,7 +144,7 @@ Where a source fits naturally into the prose, the manuscript links it there. The
 
 ## Chapter 19 — Yankees, Rivals, Adversaries
 
-- The 2007 Paris opening with Ambassador Craig Stapleton is in Burns’s State Department remarks commemorating the Marshall Plan: [primary transcript](https://2001-2009.state.gov/p/us/rm/2007/87176.htm).
+- The 2007 Paris opening with Ambassador Craig Stapleton is in Burns’s State Department remarks [“Commemoration of the 60th Anniversary of the Marshall Plan”](https://2001-2009.state.gov/p/us/rm/2007/87176.htm).
 - A later Atlantic Council [event transcript](https://www.atlanticcouncil.org/wp-content/uploads/2012/03/Burns_Transcript.pdf) shows the rivalry language remaining part of Burns’s public register.
 - A late-career student-facing example is documented by Davidson College: [“My Day at Davidson with Ambassador to China Nicholas Burns”](https://www.davidson.edu/news/2025/09/23/my-day-davidson-ambassador-china-nicholas-burns).
 - The chapter’s central limit is conceptual: sports rivalry is used to illuminate social language, never to equate the Yankees with a geopolitical adversary.
@@ -151,21 +152,21 @@ Where a source fits naturally into the prose, the manuscript links it there. The
 ## Chapter 20 — The Human Channel
 
 - Burns’s April 2025 Belfer/Fairbank lecture is the strongest direct late-career source for the ambassador as a primary government communication point and for the risk of crisis without senior channels: [“Lessons from the Front Lines of the U.S.-China Relationship”](https://www.belfercenter.org/research-analysis/lessons-front-lines-us-china-relationship).
-- A 2026 U.S.-China Education Trust [event recap](https://uscet.org/event-recap-distinguished-speaker-series-china-connections-a-conversation-with-nicholas-burns/) provides additional post-China reflection on people-to-people exchange.
+- A 2026 U.S.-China Education Trust recap, [“China Connections: A Conversation with Nicholas Burns”](https://uscet.org/event-recap-distinguished-speaker-series-china-connections-a-conversation-with-nicholas-burns/), provides additional post-China reflection on people-to-people exchange.
 - Burns’s discussion of difficult climate negotiations through “overtime or extra innings” survives in this Belfer interview: [“Nicholas Burns on His Time as U.S. Ambassador to China and on Efforts to Address Climate Change”](https://www.belfercenter.org/research-analysis/nicholas-burns-his-time-us-ambassador-china-and-efforts-address-climate-change).
 - The chapter’s AI discussion is deliberately bounded. It does not claim machine consciousness, mystical human uniqueness, or that technology cannot exercise judgment; its narrower claim concerns accountable, authorized state intent.
 
 ## Chapter 21 — What America Looks Like From Away
 
 - Burns’s 1997 [“The Importance of Public Diplomacy”](https://1997-2001.state.gov/policy_remarks/970509.burns.html) is the primary early-career statement behind the chapter’s representation argument.
-- Athens provides the historical case through David L. Marcus’s [“America’s Salesman” source scan](https://chrissmith.house.gov/uploadedfiles/1999.03.04_foreign_relations_authorization_for_fy_2000_2001-_public_diplomacy_programs.pdf) and the embassy’s own [“New Look Transforms Athens Embassy”](https://1997-2001.state.gov/publications/statemag/statemag_jul2000/feature5.html).
+- Athens provides the historical case through David L. Marcus’s [“America’s Salesman”](https://chrissmith.house.gov/uploadedfiles/1999.03.04_foreign_relations_authorization_for_fy_2000_2001-_public_diplomacy_programs.pdf), preserved in a congressional hearing scan, and the embassy’s own [“New Look Transforms Athens Embassy”](https://1997-2001.state.gov/publications/statemag/statemag_jul2000/feature5.html).
 - Beijing supplies the late-career test: Reuters records both Burns’s allegation of official interference with embassy programs and China’s denial in this [June 2024 report](https://www.reuters.com/world/china/china-rejects-us-envoys-comment-that-it-hinders-people-to-people-exchanges-2024-06-26/).
 - The book therefore treats public diplomacy as representation inside disagreement, not charm that makes policy conflict disappear.
 
 ## Chapter 22 — Extra Innings
 
 - Burns’s return to Harvard and his post-Beijing emphasis on alliances and public service are documented in the Harvard Gazette, [“Lesson No. 1 — It pays to be nice to your allies”](https://news.harvard.edu/gazette/story/2025/04/lesson-no-1-it-pays-to-be-nice-to-your-allies/), and Harvard Kennedy School’s [“The importance of a strong—and diplomatic—relationship with China”](https://www.hks.harvard.edu/faculty-research/policy-topics/international-relations-security/importance-strong-and-diplomatic).
-- The chapter’s late evidence of retrospective revision comes from Burns’s September 9, 2026 *Amanpour and Company* interview, in which he says he supported the 2003 Iraq invasion at the time and now regards that judgment as wrong: [PBS interview](https://www.pbs.org/video/september-9-2026-prwre2/).
+- The chapter’s late evidence of retrospective revision comes from Burns’s September 9, 2026 *Amanpour and Company* interview, in which he says he supported the 2003 Iraq invasion at the time and now regards that judgment as wrong: [PBS *Amanpour and Company*, September 9, 2026](https://www.pbs.org/video/september-9-2026-prwre2/).
 - The manuscript treats this as later reassessment, not as erasure of the original judgment or responsibility for it.
 
 ## Epilogue — The Next Inning
@@ -176,9 +177,10 @@ The epilogue is designed not to introduce a new biographical scene. Its claims a
 
 ## Documentary rule for links
 
-A hyperlink is not decoration and it is not proof by itself. The book follows four practical rules:
+A hyperlink is not decoration and it is not proof by itself. The book follows five practical rules:
 
 1. **Link the strongest available source.** Prefer primary records, first-person material, contemporaneous reporting, and direct counterpart evidence over later summaries.
-2. **Label retrospective evidence.** Oral histories, memoirs, institutional histories, and later recollections can be valuable without becoming contemporaneous records.
-3. **Show disagreement.** When governments, witnesses, or institutions materially disagree, the notes should make the competing record visible rather than silently choosing one side.
-4. **Do not hyperlink across an evidentiary gap.** A nearby source does not authorize an undocumented scene. Where the archive does not tell us where Burns watched the 2004 World Series clincher, what he remembered about 1967 or 1975, or exactly what the Red Sox contributed to the Greek baseball project, the book says so.
+2. **Name the record, not the link.** Use the document, article, speech, hearing, interview, or archive title as the visible link whenever it is known; avoid labels such as “source,” “primary source,” or “click here.”
+3. **Label retrospective evidence.** Oral histories, memoirs, institutional histories, and later recollections can be valuable without becoming contemporaneous records.
+4. **Show disagreement.** When governments, witnesses, or institutions materially disagree, the notes should make the competing record visible rather than silently choosing one side.
+5. **Do not hyperlink across an evidentiary gap.** A nearby source does not authorize an undocumented scene. Where the archive does not tell us where Burns watched the 2004 World Series clincher, what he remembered about 1967 or 1975, or exactly what the Red Sox contributed to the Greek baseball project, the book says so.
