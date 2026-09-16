@@ -20,27 +20,19 @@ In March 1997 Burns was welcoming visitors when the talk wandered toward team lo
 
 > **NICK / THE RULES**
 >
-> ### “We do like the Boston Red Sox. We don't mind the Tigers. We hate the Yankees. Those are the rules.”
+> “We do like the Boston Red Sox. We don't mind the Tigers. We hate the Yankees. Those are the rules.”
 >
 > *State Department briefing · March 7, 1997 · [Primary transcript](https://1997-2001.state.gov/briefings/9703/970307.html)*
 
 A moment later he was back to Secretary Madeleine Albright's meetings and European security.
 
-Nothing had changed except the register.
-
-The briefing room existed to test what the United States government meant. Reporters pressed the difference between policy and rumor, certainty and inference, public language and private maneuver.
-
-Baseball occupied a territory everyone could identify as Burns's own.
+The briefing room existed to test what the United States government meant. Reporters pressed the difference between policy and rumor, certainty and inference, public language and private maneuver. Baseball occupied a territory everyone could identify as Burns's own.
 
 By late 1996, the pattern was established. When Roger Clemens left Boston for Toronto, Burns jokingly denounced the pitcher as a traitor and declared the grievance the official position of the State Department.
 
-The line was funny because it was obviously false.
+The line was funny because it was obviously false. The baseball judgment underneath it was real enough. Burns contrasted Clemens with Ted Williams and Carl Yastrzemski. Those men, he said, could say something Clemens no longer could: they had been lifelong Red Sox.
 
-The baseball judgment underneath it was real enough. Burns contrasted Clemens with Ted Williams and Carl Yastrzemski. Those men, he said, could say something Clemens no longer could: they had been lifelong Red Sox.
-
-The standard was not greatness.
-
-Clemens was already one of the best pitchers of his generation.
+The standard was not greatness. Clemens was already one of the best pitchers of his generation.
 
 The standard was staying.
 
@@ -52,29 +44,19 @@ The room laughed.
 
 Burns replied that the Clemens case had already been confirmed. Another reporter pointed out that Clemens merely worked for Toronto's baseball team. Burns answered with the previous night's result: Boston had beaten Baltimore 2–1 in twelve innings. Then he teased an Orioles supporter in the room.
 
-Burns had not introduced baseball into the exchange. A reporter had remembered his language and thrown it back at him.
-
-A persona can be announced by one person. Social shorthand requires other people to carry it.
+Burns had not introduced baseball into the exchange. A reporter had remembered his language and thrown it back at him. Social shorthand requires other people to carry it.
 
 [![Chronological ledger of recurring baseball exchanges in Nicholas Burns's State Department briefing room](../media/ch08-recurrence-ledger.svg)](../research/ch08-visual-archive.md)
 
 *RECURRENCE LEDGER 01 — Selected documented baseball moments, December 1996 through October 1997. The marks distinguish Burns-initiated exchanges, reporter callbacks, and moments when the room or the outside world returned the persona to him. This is a curated evidentiary sequence, not a complete count. [Source map.](../research/ch08-visual-archive.md)*
 
-The repetition mattered more than any single joke.
-
 Burns would ask visitors about their teams. Reporters would test him with Yankees references. He could complain about Clemens, be teased about the complaint, and turn immediately back to settlements, proliferation or military deployments.
 
-There is no evidence that the ritual bought him easier questions.
-
-It did something smaller. The room knew a trivial fact about the man behind the institutional voice, and the fact was real enough to recur without being reintroduced.
+There is no evidence that the ritual bought him easier questions. It did something smaller. The room knew a trivial fact about the man behind the institutional voice, and the fact was real enough to recur without being reintroduced.
 
 On June 4, 1997, Burns said Boston was still bitter and announced, describing the condition of the team, that New England was saying novenas for the Red Sox. He extended the joke through mock-devotional language about resuscitation and the patron saint of lost causes.
 
-Do not turn that into a claim about Burns's theology. The joke sounded like somewhere: a New England Catholic vocabulary of ritual, endurance and impossible cases attached to a baseball team whose failures had become communal folklore.
-
-Then Burns marked the boundary himself.
-
-Toronto had taken Clemens. That was baseball grievance. Canada remained one of America's closest friends and neighbors.
+The language was New England Catholic: ritual, endurance and impossible cases attached to a baseball team whose failures had become communal folklore. Burns then marked the boundary himself. Toronto had taken Clemens. That was baseball grievance. Canada remained one of America's closest friends and neighbors.
 
 A few days later came the more biographically useful exchange.
 
@@ -84,9 +66,7 @@ Burns ignored him.
 
 The fandom had a family history. It was not a prop acquired by a government spokesman who discovered that baseball played well with reporters.
 
-His father's warning was perfectly rational advice.
-
-The team had caused disappointment. Stop caring.
+His father's warning was perfectly rational advice. The team had caused disappointment. Stop caring.
 
 The son cared anyway.
 
@@ -112,13 +92,7 @@ Lambros Papantoniou, a Greek journalist whose detailed questions about Greek-Tur
 
 *FAREWELL INVENTORY 01 — July 22, 1997. President Clinton's autographed Red Sox cap, Barry Schweid's Red Sox alarm clock, Lambros Papantoniou's ouzo, and Mike McCurry's return to the podium make the room's accumulated memory physical. The strongest contemporaneous farewell photograph remains research-only pending publication rights. [Source map.](../research/ch08-visual-archive.md)*
 
-The objects summarized the room's memory of him.
-
-The government spokesman.
-
-The guy from Boston.
-
-The official who could spend one minute arguing about the Yankees and the next telling reporters exactly what the United States was—and was not—prepared to say about a crisis.
+The objects summarized the room's memory of him: the government spokesman, the guy from Boston, the official who could spend one minute arguing about the Yankees and the next telling reporters exactly what the United States was—and was not—prepared to say about a crisis.
 
 The baseball bit did not quite leave with him.
 
