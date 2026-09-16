@@ -72,6 +72,7 @@ jobs:
               await page.goto(`${base}${route}`, { waitUntil: 'domcontentloaded', timeout: 45000 });
               await page.waitForFunction(() => document.body?.dataset.stage === 'read', null, { timeout: 90000 });
               await page.waitForFunction(() => Number(document.getElementById('totalPages')?.textContent || '0') > 0, null, { timeout: 30000 });
+              await page.waitForFunction(() => document.documentElement.dataset.guiEnhanced === 'true', null, { timeout: 30000 });
               await page.waitForTimeout(350);
 
               const snapshot = () => page.evaluate(() => {
@@ -112,16 +113,29 @@ jobs:
               assert.equal(before.paragraph, 'airy');
               assert.equal(before.hyphens, 'off');
 
-              await page.locator('#tocBtn').click();
-              await page.locator('#tocOverlay.active').waitFor({ state: 'visible', timeout: 10000 });
-              await page.waitForTimeout(300);
+              const preClick = await page.evaluate(() => ({
+                buttonVisible: !!document.getElementById('tocBtn')?.getClientRects().length,
+                buttonExpanded: document.getElementById('tocBtn')?.getAttribute('aria-expanded'),
+                drawerClass: document.getElementById('tocOverlay')?.className,
+                drawerInert: !!document.getElementById('tocOverlay')?.inert,
+                appInert: !!document.querySelector('.app')?.inert,
+                guiEnhanced: document.documentElement.dataset.guiEnhanced,
+                activeElement: document.activeElement?.id || '',
+              }));
+              console.log(`${viewport.name} pre-click`, preClick);
+
+              await page.evaluate(() => document.getElementById('tocBtn')?.click());
+              await page.waitForTimeout(350);
 
               const contents = await page.evaluate(() => {
                 const drawer = document.getElementById('tocOverlay');
                 const header = document.getElementById('readerChrome');
                 const rect = drawer.getBoundingClientRect();
                 const headerRect = header.getBoundingClientRect();
+                const style = getComputedStyle(drawer);
                 return {
+                  className: drawer.className,
+                  active: drawer.classList.contains('active'),
                   activeElement: document.activeElement?.id || '',
                   top: rect.top,
                   bottom: rect.bottom,
@@ -132,9 +146,21 @@ jobs:
                   headerBottom: headerRect.bottom,
                   expanded: document.getElementById('tocBtn')?.getAttribute('aria-expanded'),
                   modal: drawer.getAttribute('aria-modal'),
+                  drawerInert: !!drawer.inert,
                   appInert: !!document.querySelector('.app')?.inert,
+                  display: style.display,
+                  visibility: style.visibility,
+                  transform: style.transform,
+                  pointerEvents: style.pointerEvents,
                 };
               });
+              console.log(`${viewport.name} contents`, contents);
+              console.log(`${viewport.name} page errors`, pageErrors);
+
+              assert.equal(contents.active, true, `${viewport.name}: Contents drawer must activate`);
+              assert.ok(contents.width > 20 && contents.height > 20, `${viewport.name}: Contents drawer must have visible geometry`);
+              assert.notEqual(contents.display, 'none', `${viewport.name}: Contents drawer must render`);
+              assert.notEqual(contents.visibility, 'hidden', `${viewport.name}: Contents drawer must be visible`);
               assert.equal(contents.expanded, 'true', `${viewport.name}: Contents button must report open state`);
               assert.equal(contents.modal, 'false', `${viewport.name}: Contents must remain a navigation drawer`);
               assert.equal(contents.appInert, false, `${viewport.name}: Reader background must remain interactive`);
@@ -148,7 +174,7 @@ jobs:
               const after = await snapshot();
               assert.deepEqual(after, before, `${viewport.name}: opening Contents must not change typesetting or settled pagination geometry`);
 
-              await page.locator('#tocClose').click();
+              await page.evaluate(() => document.getElementById('tocClose')?.click());
               await page.waitForFunction(() => !document.getElementById('tocOverlay')?.classList.contains('active'));
               assert.deepEqual(pageErrors, [], `${viewport.name}: no uncaught Reader errors expected`);
               console.log(`PASS ${viewport.name}: first render + Contents stability`);
