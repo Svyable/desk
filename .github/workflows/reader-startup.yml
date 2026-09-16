@@ -27,3 +27,4 @@ jobs:
           cp reader/js/desk-viewport-stability-runtime.js /tmp/desk-viewport-stability-runtime.mjs
           node --check /tmp/desk-app-loader.mjs
           node --check /tmp/desk-viewport-stability-runtime.mjs
+          node --test reader/js/desk-first-render-contents-contract.test.mjs
