@@ -182,7 +182,13 @@ A federation emerged. American and Greek-American networks became involved. Prof
 
 No single person did that.
 
-Burns later called the effort a joint American-Greek venture and remembered it as one of the best things he had done as ambassador.
+Burns's own later summary is useful precisely because it distributes the ownership.
+
+> **NICK / HELLAS**
+>
+> ### “It was a joint venture between America and Greece, and it was one of the best things I ever did as ambassador.”
+>
+> *Nicholas Burns on the Greek baseball project · 2004 · [Christian Science Monitor](https://www.csmonitor.com/2004/0818/p02s01-woeu.html)*
 
 The word *joint* carries more weight than any heroic version of the story.
 
