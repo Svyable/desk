@@ -1,6 +1,8 @@
-/* Desk mirror of Bookself scholarly Markdown primitives.
- * The canonical academic module resolves this path against the host Reader, so
- * Desk must provide the stylesheet locally for proofs and offline reading.
+/* Scholarly Markdown primitives: figures, citations, bibliography entries, and footnotes.
+ *
+ * Desk mirrors the canonical Bookself academic surface here because the shared
+ * Reader resolves this stylesheet against the host page. Keep the page token
+ * names aligned with Bookself themes so proofs and released editions match.
  */
 
 .reader-figure {
@@ -133,6 +135,7 @@
 .reader-footnote a[href^="http"]::after,
 .reader-academic-preview__body a[href^="http"]::after {
   content: " ↗";
+  display: inline;
   font-family: var(--font-ui, system-ui, sans-serif);
   font-size: 0.68em;
   font-style: normal;
@@ -173,7 +176,7 @@
   padding: 0.52rem 0.94rem;
   border: 1px solid color-mix(in srgb, var(--accent) 48%, var(--border));
   border-radius: 999px;
-  background: color-mix(in srgb, var(--page-bg) 95%, var(--accent) 5%);
+  background: color-mix(in srgb, var(--bg-page) 95%, var(--accent) 5%);
   box-shadow: 0 0.55rem 1.6rem rgb(0 0 0 / 0.16);
   color: var(--accent);
   font: 700 0.78rem/1.2 var(--font-ui, system-ui, sans-serif);
@@ -204,10 +207,10 @@
   border-radius: 0.92rem;
   background:
     linear-gradient(180deg, color-mix(in srgb, var(--accent) 2.8%, transparent), transparent 5rem),
-    color-mix(in srgb, var(--page-bg) 97%, var(--accent) 3%);
+    color-mix(in srgb, var(--bg-page) 97%, var(--accent) 3%);
   box-shadow:
     0 1.1rem 3rem rgb(0 0 0 / 0.2),
-    0 0 0 1px color-mix(in srgb, var(--page-bg) 55%, transparent) inset;
+    0 0 0 1px color-mix(in srgb, var(--bg-page) 55%, transparent) inset;
   color: var(--text-primary, var(--text));
   font-family: var(--font-body, var(--reader-font, inherit));
   font-size: clamp(0.9rem, 0.86rem + 0.18vw, 1rem);
@@ -312,7 +315,7 @@
     top: 0;
     margin: 0;
     padding: 0.58rem 1rem 0.5rem;
-    background: color-mix(in srgb, var(--page-bg) 97%, var(--accent) 3%);
+    background: color-mix(in srgb, var(--bg-page) 97%, var(--accent) 3%);
     border-bottom: 1px solid color-mix(in srgb, var(--border) 52%, transparent);
   }
 
@@ -328,7 +331,7 @@
     bottom: 0;
     margin: 0;
     padding: 0.7rem 0.8rem max(0.74rem, env(safe-area-inset-bottom));
-    background: color-mix(in srgb, var(--page-bg) 97%, var(--accent) 3%);
+    background: color-mix(in srgb, var(--bg-page) 97%, var(--accent) 3%);
     border-top-color: color-mix(in srgb, var(--border) 68%, transparent);
   }
 
