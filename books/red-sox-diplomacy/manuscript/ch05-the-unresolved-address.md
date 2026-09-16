@@ -26,28 +26,24 @@ The American bureaucracy reproduced some of that difficulty internally. Keene re
 
 Embassy Tel Aviv maintained the formal bilateral relationship with Israel. The consulate had its own history, contacts, reporting responsibilities, and role with Palestinians and Jerusalem affairs. Two American posts could look at the same territory and report differently because they had been built to see different things.
 
-The aid portfolio carried the same complication. A clinic, school, water project, or small business could improve ordinary life while raising questions about authority, permanence, and control. American assistance moved through nongovernmental channels in part because there was no Palestinian state apparatus through which Washington could run a conventional bilateral development program. The mechanism was not separate from the policy; it was one way of operating before the sovereignty argument had been settled.
+The aid portfolio carried the same complication. A clinic, school, water project, or small business could improve ordinary life while raising questions about authority, permanence, and control. With no Palestinian state apparatus for a conventional bilateral development program, American assistance moved through nongovernmental channels. The mechanism was part of the policy: a way to operate before the sovereignty argument had been settled.
 
 Burns worked inside that contradiction. He did not resolve it.
 
-Baseball has almost nothing useful to add here.
-
-In October 1986, while Burns was assigned to Jerusalem, Boston reached the World Series against the New York Mets. Game 6 became one of the canonical disasters in Red Sox memory; the Mets won Game 7 two nights later. This book does not know where Burns was for those games. It does not know whether he watched live, watched later, followed the result through news reports, or missed the games entirely.
+In October 1986, while Burns was assigned to Jerusalem, Boston reached the World Series against the New York Mets. Game 6 became one of the canonical disasters in Red Sox memory; the Mets won Game 7 two nights later. The record does not tell us where Burns was for those games, whether he watched live or later, followed the scores through news reports, or missed them entirely.
 
 Leave the scene missing.
 
-One life was happening in Jerusalem. Another continued at home. Families aged, elections happened, neighborhoods changed, teams won and lost without regard for the posting schedule.
+A life was happening in Jerusalem while another continued at home. Families aged, elections happened, neighborhoods changed, teams won and lost without regard for the posting schedule.
 
-Keene's oral history shows the density of the consulate's environment. Officers traveled through the West Bank, maintained Palestinian contacts, dealt with Israeli officials, international organizations, journalists, academics, American citizens, and congressional visitors, watched settlement expansion, and handled consular cases involving Arab Americans. None of that establishes that Burns personally participated in every activity Keene remembered.
+Keene's oral history shows the density of the consulate's environment. Officers traveled through the West Bank, maintained Palestinian contacts, dealt with Israeli officials, international organizations, journalists, academics, American citizens, and congressional visitors, watched settlement expansion, and handled consular cases involving Arab Americans. His account does not establish that Burns personally did each of those things.
 
-What the record supports is narrower. Burns worked with Keene on the aid program. His portfolio covered Palestinian economic assistance. He later regarded the posting as formative. We do not have a diary of his daily movements, a complete list of Palestinian counterparts, or transcripts of the conversations that shaped his judgment.
+What it does establish is narrower. Burns worked with Keene on the aid program. His portfolio covered Palestinian economic assistance. Burns later regarded the posting as formative. We do not have a diary of his daily movements, a complete list of Palestinian counterparts, or transcripts of the conversations that shaped his judgment.
 
 Jerusalem offers unlimited atmosphere to a writer willing to borrow it: stone walls, checkpoints, church bells, calls to prayer, armed patrols, crowded markets. Those images may describe the city. They are not automatically Nicholas Burns's memories.
 
-The bureaucratic fact is safer and, in its way, more revealing. He worked an aid program where administration could not be separated neatly from politics. Students needed schools before a final-status agreement. Businesses needed capital. Families needed medical care. American officials needed mechanisms that could function inside an argument they could not settle.
+The bureaucratic facts are more useful. He worked an aid program where administration could not be separated neatly from politics. Students needed schools before a final-status agreement. Businesses needed capital. Families needed medical care. American officials needed mechanisms that could function inside an argument they could not settle.
 
 Burns left Jerusalem in 1987. The First Intifada began later that year. That chronology is a boundary, not an invitation to write him into what followed.
 
-A tour is partial. The officer leaves; the place does not. Burns's own description of Jerusalem as seminal is enough. He was there long enough for it to matter to him and not long enough to own the history that followed.
-
-The consulate could not determine Jerusalem's final status. The aid program could not end the occupation. A junior American officer could not reconcile Israeli and Palestinian national claims. Meanwhile there were grants to administer, projects to judge, people who needed things before the argument was over.
+The consulate could not determine Jerusalem's final status. The aid program could not end the occupation. Burns was a junior officer administering part of an American program inside claims much larger than his authority. The grants still had to be judged. The projects still had to work. People needed things before the argument was over.
