@@ -275,17 +275,22 @@ function installContentsDrawer({ window, document }) {
   button.title = 'Contents';
 
   const compact = () => window.matchMedia('(max-width: 700px), (pointer: coarse)').matches;
-  const syncOpenState = (active) => {
-    drawer.classList.toggle('active', active);
-    drawer.inert = !active;
-    drawer.setAttribute('aria-modal', 'false');
-    button.setAttribute('aria-expanded', String(active));
+  const reconcileState = () => {
+    const active = drawer.classList.contains('active');
+    const expanded = String(active);
+    if (button.getAttribute('aria-expanded') !== expanded) button.setAttribute('aria-expanded', expanded);
+    if (drawer.getAttribute('aria-modal') !== 'false') drawer.setAttribute('aria-modal', 'false');
+    if (drawer.inert === active) drawer.inert = !active;
     if (active) {
       const app = document.querySelector('.app');
-      if (app) {
-        app.inert = false;
-        app.classList.remove('gui-modal-background');
-      }
+      if (app?.inert) app.inert = false;
+      app?.classList.remove('gui-modal-background');
+    }
+  };
+  const syncOpenState = (active) => {
+    drawer.classList.toggle('active', active);
+    reconcileState();
+    if (active) {
       if (compact()) close?.focus?.({ preventScroll: true });
     } else if (document.activeElement && drawer.contains(document.activeElement)) {
       button.focus({ preventScroll: true });
@@ -323,6 +328,13 @@ function installContentsDrawer({ window, document }) {
       closeDrawer();
     }, true);
   }
+
+  // Late optional GUI modules may rewrite ARIA/inert metadata while leaving the
+  // drawer class untouched. Keep the visible state authoritative without
+  // dispatching resize or changing Reader geometry.
+  const stateObserver = new MutationObserver(reconcileState);
+  stateObserver.observe(drawer, { attributes: true, attributeFilter: ['class', 'aria-modal', 'inert'] });
+  stateObserver.observe(button, { attributes: true, attributeFilter: ['aria-expanded'] });
   syncOpenState(drawer.classList.contains('active'));
 
   // Bookself's current shared GUI focuses Contents search automatically. On a
