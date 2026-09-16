@@ -28,6 +28,38 @@ The prologue contrasts the personal object (Burns's Red Sox cap) with the machin
 - Alt text draft: `Brown leather diplomatic briefcase used by Secretary of State Warren Christopher in the mid-1990s, with travel wear and an identifying tag.`
 - Caption draft: `Secretary of State Warren Christopher's travel briefcase, c. 1995. A surviving tag records its use on President Bill Clinton's May 1995 trip to Moscow and Kyiv. National Museum of American Diplomacy, U.S. Department of State; public domain.`
 
+## Cleared historical photograph: baseball inside the State Department before Burns
+
+**Object:** `Jackie Robinson's visit to the State Department, 1962, Washington D.C.`  
+**Creator:** Robert H. McNeill, photographer  
+**Repository:** Library of Congress, Prints and Photographs Division; Robert H. McNeill family collection  
+**Date:** 1962  
+**Item page:** https://www.loc.gov/item/2024634774/  
+**Digital ID:** `ppmsca 89849`  
+**Reproduction number:** `LC-DIG-ppmsca-89849` (digital file from original)  
+**Call number:** `LC-MC12-02326 [P&P]`  
+**Rights advisory:** `No known restrictions on publication.` The item record points to the Library's Robert H. McNeill rights-and-restrictions statement.  
+**Preferred credit:** `Robert H. McNeill / Library of Congress, Prints and Photographs Division`  
+**Commercial-publication assessment:** Cleared as a strong candidate on the Library's item-level no-known-restrictions advisory. Retain the item URL and identifier in production records; do not imply Library of Congress endorsement.
+
+The photograph shows Jackie Robinson and Roy Campanella, Campanella in his wheelchair, with African American State Department staff. It is unusually valuable to this book because the baseball/diplomacy collision is not decorative and does not depend on Nicholas Burns: thirty-five years before the April 1997 briefing transcript, two major-league figures were physically inside the State Department with Black federal employees. The image can widen the prologue's historical aperture from one diplomat's fandom to a documented earlier encounter among baseball celebrity, race, federal employment, and the institution Burns would later represent.
+
+### Evidentiary boundary
+
+Use the photograph only for what its catalog record establishes: Robinson and Campanella visited the State Department in Washington in 1962 and were photographed with African American State Department staff. Do **not** turn the image into evidence that their visit caused a policy change, that the Department formally deployed either man as a public-diplomacy emissary on this occasion, or that Burns knew this photograph or understood his own baseball talk as part of the same lineage. Those would require separate sources.
+
+The racial context is substantive rather than atmospheric. The catalog itself subjects the image under African American employment and State Department personnel. If the manuscript develops this thread, research the visit's purpose and the identities of the staff before adding interpretive claims. Until then, caption conservatively.
+
+### Reader-facing treatment
+
+This is a better historical counterpoint than a generic Fenway, baseball, or State Department exterior. If used in the prologue, place it after the first turn from Burns's cap to the institutional history of representation—not beside childhood-fandom material. A half-page landscape treatment should preserve the full group and Campanella's wheelchair; avoid crops that convert the photograph into a Robinson celebrity portrait and erase the State Department employees who make it relevant.
+
+- **Caption draft:** `Jackie Robinson and Roy Campanella with African American State Department staff, Washington, 1962. The photograph records baseball figures inside the diplomatic institution decades before Nicholas Burns's Red Sox exchanges entered official briefing transcripts. Robert H. McNeill / Library of Congress, Prints and Photographs Division; no known restrictions on publication.`
+- **Alt text draft:** `Jackie Robinson and Roy Campanella, who is seated in a wheelchair, pose with a group of African American State Department employees in Washington in 1962.`
+- **Print/PDF:** Keep photograph, caption, and credit on the same page. Preserve enough reproduction size for faces to remain legible; test grayscale before committing to a reduced trim size.
+- **EPUB:** Image → caption → credit/source link. Do not encode the credit as text baked into the image.
+- **Metadata:** Preserve creator, 1962 date, `LC-DIG-ppmsca-89849`, `LC-MC12-02326`, collection name, item URL, and rights advisory in the asset manifest.
+
 ## Primary-source text object: Burns at the briefing-room microphone
 
 **Source:** U.S. Department of State electronic archive  
@@ -98,7 +130,8 @@ Reference: https://www.nato.int/en/multimedia/multimedia/photos/2001/09/11/press
 
 ## Highest-value next searches
 
-1. An item-level federal photograph of Burns actually conducting a 1995–97 State Department briefing, with named photographer or agency, date, identifier, and an explicit public-domain/reuse statement. This would beat every generic portrait because it shows the prologue's central human/institutional collision in the room where it happened.
-2. A rights-clean period image of the State Department briefing room or Dean Acheson Auditorium from the mid-1990s, preferably federal and item-identified, if no Burns briefing image survives online.
-3. A clearly reusable photograph of Burns wearing a Red Sox cap from an authoritative archive. Do not substitute an unlicensed press or team image merely because it matches the title literally.
-4. If none of those clear rights review, produce the original two-record Tokyo/Washington transcript figure described above. It now has two authoritative federal sources, a clean text-equivalent path for EPUB, and no dependency on protected visual design.
+1. Research the 1962 Robinson/Campanella State Department visit far enough to identify the staff in McNeill's photograph and establish the visit's purpose from authoritative records. That would determine whether the image can support a deeper public-diplomacy/race argument or should remain a narrowly captioned institutional precedent.
+2. An item-level federal photograph of Burns actually conducting a 1995–97 State Department briefing, with named photographer or agency, date, identifier, and an explicit public-domain/reuse statement. This would beat every generic portrait because it shows the prologue's central human/institutional collision in the room where it happened.
+3. A rights-clean period image of the State Department briefing room or Dean Acheson Auditorium from the mid-1990s, preferably federal and item-identified, if no Burns briefing image survives online.
+4. A clearly reusable photograph of Burns wearing a Red Sox cap from an authoritative archive. Do not substitute an unlicensed press or team image merely because it matches the title literally.
+5. If none of those clear rights review, produce the original two-record Tokyo/Washington transcript figure described above. It now has two authoritative federal sources, a clean text-equivalent path for EPUB, and no dependency on protected visual design.
