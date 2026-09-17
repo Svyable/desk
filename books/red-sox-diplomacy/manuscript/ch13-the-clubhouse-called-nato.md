@@ -42,6 +42,8 @@ The February fight exposed the temptation on both sides. Washington could hear d
 
 The United States invaded Iraq in March without NATO conducting the war as an alliance operation. France and Germany did not decide their objections had been foolish. Washington did not decide its critics had been right.
 
+When John Koenig arrived as Burns's deputy at the U.S. Mission to NATO in mid-2003, he remembered the split as something the room itself displayed. The North Atlantic Council sat in a large circle. Koenig later recalled French permanent representative Benoît d'Aboville sometimes opening *Le Monde* while Burns spoke, leaning back, swiveling in his chair and talking to his delegation in a conspicuous performance of not listening. Koenig called it a vaudevillian display and remembered the behavior continuing for months. It is a later witness's recollection, not a Council transcript. Its value is smaller and more physical: sovereign allies who had just fought over a war still had to occupy the same circle and watch one another disagree. [Koenig oral history.](https://adst.org/OH%20TOCs/Koenig.John.pdf)
+
 Within months, however, NATO unanimously agreed to take command of the International Security Assistance Force in Afghanistan. Robertson later pointed out an inconvenient fact for anyone trying to sort the alliance permanently into loyalists and obstructionists: Canada, Germany and the Netherlands had pushed for the NATO role. Germany had been at the center of the February rupture and was now helping move the alliance into a major new mission.
 
 NATO also agreed to support Poland in assembling a multinational stabilization division for Iraq. The alliance had not agreed to fight the war. It could agree to help an ally manage part of the aftermath.
