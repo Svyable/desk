@@ -4,321 +4,145 @@
 
 The easiest mistake in a book about exponential change is to turn a curve into a prophecy.
 
-A line bends upward.
-
-The imagination keeps extending it.
-
-Then every institution, market, body, city, profession, and political system is expected to move with the same geometry.
+A line bends upward. The imagination extends it. Soon every institution, market, body, city, profession and political system is expected to move with the same geometry.
 
 That is not the argument of *The Exponentiality*.
 
-The argument is that several important capabilities can improve much faster than the human systems around them can absorb, price, govern, embody, or distribute them. The mismatch matters as much as the capability itself.
+The argument is simpler and more inconvenient: some capabilities can improve much faster than the human systems around them can absorb, price, govern, embody or distribute them. The mismatch matters as much as the capability itself.
 
-Cheap intelligence does not make every scarce thing abundant.
+Cheap intelligence does not make every scarce thing abundant. It changes where scarcity lives.
 
-It can make some scarcities more visible.
+A model can generate more candidate experiments than a laboratory can run. A company can produce more proposals than its executives can responsibly evaluate. A government can process an application faster while still owing the citizen explanation, appeal and remedy. A school can provide abundant explanation without making childhood shorter. A court can use better analysis without making due process instantaneous.
 
-Attention remains finite.
+The future does not arrive on one curve.
 
-Trust remains costly.
+It arrives through systems moving at different speeds.
 
-Legitimate authority still has to be earned or constituted.
+That is why the practical consequences appear in the gaps.
 
-Experiments still encounter physical time.
+A tenfold improvement in one capability can produce a much smaller real-world effect if the receiving institution cannot absorb it. The same improvement can produce a much larger effect when it removes several constraints at once. Neither outcome is visible from the capability curve by itself.
 
-Infrastructure still has materials, permits, rights of way, maintenance cycles, and construction crews.
+This is also why the book resists a single date when everything changes.
 
-Children still take years to grow.
-
-Bodies still heal at biological speeds.
-
-A court can use faster analysis without making due process instantaneous.
-
-A laboratory can design more candidate experiments than it can physically run.
-
-A company can generate more proposals than its executives can responsibly approve.
-
-A government can process applications faster while still owing citizens explanation, appeal, and remedy.
-
-The future therefore does not arrive as one exponential curve.
-
-It arrives as a collision among curves.
-
-Intelligence may move quickly.
-
-Energy capacity may move at another speed.
-
-Robotics at another.
-
-Institutional legitimacy at another.
-
-Capital stock at another.
-
-Education at another.
-
-Housing at another.
-
-Culture at another.
-
-The practical consequences live in the gaps.
-
-A capability that improves tenfold can produce less than a tenfold outcome if the receiving institution cannot absorb it.
-
-The same capability can produce more than expected when it unlocks several bottlenecks at once.
-
-This is why the book resists a single date when everything changes.
-
-There may be dramatic thresholds.
-
-There may be products or scientific results that feel discontinuous.
-
-But an economy is not a benchmark, and a civilization is not a model release.
+There may be dramatic thresholds. There may be scientific results, products or model releases that feel discontinuous. But an economy is not a benchmark and a civilization is not a software update.
 
 Translation takes time.
 
-The model has to become a workflow.
-
-The workflow has to become an organization.
-
-The organization has to reach customers, patients, students, citizens, researchers, builders, or operators.
-
-Physical systems have to be changed.
-
-Rules have to be interpreted.
-
-Power has to be renegotiated.
-
-People have to decide what they trust.
+The model has to become a workflow. The workflow has to become an organization. The organization has to reach a customer, patient, student, citizen, researcher, builder or operator. Physical systems have to be changed. Rules have to be interpreted. Power has to be renegotiated. People have to decide what they trust.
 
 Some of those processes will accelerate too.
 
-Others will become the new bottlenecks.
+Others will become newly important because the surrounding cognition became cheap.
 
-The central skill of the exponential age may therefore be bottleneck literacy.
+That is the habit I hope this book leaves behind: not futurism as prediction, but bottleneck literacy.
 
 What actually constrains the outcome now?
 
-Is it intelligence?
+Is it intelligence? Capital? Energy? Attention? Experiment throughput? Manufacturing? Regulation? Trust? Legitimacy? Distribution? The ability of people to adapt without being crushed by the transition?
 
-Capital?
+The answer will move.
 
-Energy?
+A society that becomes extremely good at one formerly scarce input can discover that a neglected complement now matters more than anyone expected. Cheap analysis can increase the value of verification. Cheap production can increase the value of selection. Cheap content can increase the value of trusted origin. Cheap expertise can increase the value of responsibility. Faster discovery can increase the value of physical testing, manufacturing and regulatory capacity.
 
-Attention?
+This is not a pessimistic account of abundance.
 
-Experiment throughput?
+It is a more precise one.
 
-Manufacturing?
+Abundance is real. So are the new scarcities it reveals.
 
-Regulation?
+The economic consequences follow from that movement. A company whose advantage comes from proprietary cognition can lose that advantage as cognition commoditizes. Another company can gain power because it controls distribution, trusted data, physical infrastructure or a workflow that customers are unwilling to replace. A worker whose value once came from producing a first draft may become more valuable for judgment, negotiation, accountability or deciding what should happen next. An institution that once rationed expertise may need to learn how to ration consequence instead.
 
-Legitimacy?
+The political consequences follow too.
 
-Distribution?
+Speed changes bargaining power. It changes who can act before others respond, how quickly errors propagate, how much time people have to adapt and who can afford to wait.
 
-Trust?
+A well-capitalized company can survive an experiment that would kill a smaller one. A professional with savings can retrain while another worker cannot. A citizen with counsel can challenge an automated decision that another person simply has to endure. A powerful institution can impose transition costs on people who had no meaningful role in choosing the transition.
 
-Human willingness to change?
+The distribution of adaptation time matters.
 
-The answer will keep moving.
+So does the distribution of reversibility.
 
-That is the point.
+Some actors can make mistakes cheaply. Others experience the same mistake as a permanent loss.
 
-A society that becomes very good at one formerly scarce input can discover that the next scarce input matters more than anyone expected.
+That leads to one principle worth carrying beyond the book:
 
-This is not a reason for pessimism.
+**Move fastest where errors are visible, bounded and reversible. Move more carefully where power is asymmetric and consequences are difficult to undo.**
 
-It is a reason to become more precise about abundance.
+This is not an argument for slowness. It is an argument for knowing what speed is buying and what it is putting at risk.
 
-When intelligence becomes cheaper, the value of good questions can rise.
+Some delays are obviously obsolete. A person should not wait weeks because information is being copied between systems. A company should not preserve a seven-step approval chain merely because the chain predates better tools. A hospital, school or government should not defend clerical friction as if bureaucracy were a moral good.
 
-When production becomes easier, selection can become harder.
+But other forms of slowness are carrying something.
 
-When analysis becomes faster, verification can become more valuable.
+A second signature may prevent unilateral power. An appeal may exist because automated decisions can be wrong. A physical test may exist because simulation cannot establish the property that matters. A transition period may exist because people need time to move without losing a home, a career or a sense of control over their lives.
 
-When content becomes abundant, trusted origin can command a premium.
+The question is not whether a process is slow.
 
-When software can perform more work, organizations that know how to delegate safely can pull away from organizations that merely possess the same tools.
+The question is what the slowness is doing.
 
-When discovery accelerates, the physical capacity to test, manufacture, deploy, and regulate discoveries can become decisive.
+The institutions that survive acceleration may be the ones that can answer that question clearly. They can remove inherited delay without removing the reason a safeguard existed. They can automate interpretation while preserving contestability. They can widen delegation while tightening evidence. They can move quickly in reversible domains and deliberately in irreversible ones.
 
-The age of exponentiality is therefore not a story in which human constraints disappear.
+This is harder than simply adopting new technology.
 
-It is a story in which constraints migrate.
+It is institutional learning.
 
-That migration creates winners, losers, and new forms of power.
+And institutional learning may become one of the decisive capabilities of the age.
 
-The person who owns a scarce model today may face commoditization tomorrow.
+A society can possess excellent models and still convert them poorly into education, health, science, infrastructure or public administration. A company can buy the same tools as its competitors and gain little because its workflows, incentives and authority structures are badly designed. A research institution can generate more hypotheses and discover that its real limit is experimental throughput. A government can automate decisions and discover that legitimacy, not computation, was the scarce resource all along.
 
-The person who controls trusted distribution may gain power.
+The technology does not arrive into neutral space.
 
-The company with proprietary data may discover that verification, relationships, workflow integration, or physical assets matter more.
+It enters inherited systems.
 
-The worker whose value once came from producing a first draft may become more valuable for judgment, accountability, taste, negotiation, and deciding what should happen next.
+Those systems contain physical limits, political compromises, habits, rights, vested interests, hard-won protections and pointless leftovers from earlier eras. Exponentiality exposes all of them at once.
 
-The institution that once rationed expertise may need to learn how to ration consequence instead.
+That is why it will feel different depending on where a person stands.
 
-This is why the politics of exponentiality cannot be separated from the economics.
+The engineer near the frontier may experience an institution as unbearably slow. The worker whose role is being automated may experience the same institution as moving with terrifying speed. The executive may see efficiency. The citizen may see loss of appeal. The entrepreneur may see a gatekeeper disappearing. The regulator may see a risk multiplying faster than the old process can observe it.
 
-Speed changes bargaining power.
+These perspectives are not interchangeable, but they can all be real.
 
-It changes who can act before others respond.
+Acceleration is uneven.
 
-It changes how quickly errors propagate.
+So is the capacity to recover from it.
 
-It changes the cost of experimentation.
+This is also why no serious account of Exponentiality can end with machine capability alone. Capability matters enormously. It is the pressure entering the system. But what happens next depends on absorption, ownership, trust, infrastructure, law, culture and human choice.
 
-It changes the time people have to adapt.
+The curve is only the beginning of the story.
 
-A wealthy company can absorb transition faster than a household living paycheck to paycheck.
+The safest conclusion, then, is not that everything will accelerate forever.
 
-A professional with savings can retrain while another worker cannot.
+Exponential processes meet ceilings. Economics changes incentives. Physical systems impose constraints. Scaling laws bend. Regulation responds. Competition commoditizes advantages. Research runs into harder problems. Public preferences move. A technology that once improved dramatically can mature.
 
-A powerful institution can experiment on people who have little ability to refuse.
-
-A citizen wrongly affected by an automated decision may experience speed not as convenience but as the disappearance of time to intervene.
-
-The distribution of adaptation time will matter.
-
-So will the distribution of reversibility.
-
-Some actors can make mistakes cheaply.
-
-Others experience the same mistake as a permanent loss.
-
-This creates a principle that runs through the book:
-
-**Move fastest where errors are visible, bounded, and reversible. Move more carefully where power is asymmetric and consequences are difficult to undo.**
-
-That is not a formula for slowing technology.
-
-It is a formula for making acceleration survivable.
-
-The institutions that do best may not be the institutions that remove every delay.
-
-They may be the ones that can explain their delays.
-
-This wait exists because evidence is incomplete.
-
-This second signature exists because unilateral power would be dangerous.
-
-This appeal exists because automated decisions can be wrong.
-
-This physical test exists because simulation cannot yet establish the property we care about.
-
-This transition period exists because people need time to move without being crushed by the change.
-
-And this old delay exists because paper used to move between buildings, so we removed it.
-
-The exponential age will audit institutional time.
-
-Every queue will be asked what it is buying.
-
-Every approval will be asked what failure it prevents.
-
-Every profession will be asked which part of its work was expensive only because intelligence was scarce.
-
-Every company will be asked which part of its structure existed only because coordination was difficult.
-
-Every school will be asked what education means when explanation and tutoring become abundant.
-
-Every government will be asked why a citizen has to wait for cognitive work that a machine can perform quickly.
-
-Every technology company will be asked whether speed is being used to remove waste or to outrun accountability.
-
-The answers will not be uniform.
-
-That is another reason not to reduce the future to a curve.
-
-Institutions differ.
-
-Countries differ.
-
-Industries differ.
-
-People differ.
-
-The same tool can be liberating in one context and coercive in another.
-
-The same acceleration can make a small firm newly capable and make a worker’s planning horizon collapse.
-
-The same abundance can democratize expertise and concentrate control over infrastructure.
-
-The same automation can remove drudgery and make a consequential process less contestable.
-
-The exponentiality is not the machine alone.
-
-It is the relationship between rapidly improving capability and everything that cannot change at the same rate.
-
-That relationship is the object worth watching.
-
-The safest conclusion is therefore not that everything will accelerate forever.
-
-Exponential processes meet ceilings.
-
-Economics changes incentives.
-
-Physical systems impose constraints.
-
-Scaling laws bend.
-
-Regulation responds.
-
-Competition commoditizes advantages.
-
-Public preferences change.
-
-Research hits harder problems.
-
-A technology that once improved dramatically can mature.
-
-The book should fail if its argument requires perpetual exponential improvement in every relevant capability.
+This book should fail if its argument requires every relevant capability to improve exponentially forever.
 
 It does not.
 
-The argument survives a slower curve if the world has already experienced enough acceleration to change where scarcity lives and how institutions are designed.
+The argument survives slower improvement if enough capability has already become cheaper to change where scarcity sits and how institutions organize around it.
 
-It should also fail if cheaper intelligence does not materially change the cost of producing useful cognitive work, if organizations cannot convert that cheaper cognition into meaningful delegation, if physical and institutional bottlenecks remain so dominant that the intelligence change barely matters, or if human demand for judgment and trusted responsibility does not become more important as generation becomes abundant.
+It should also fail if cheaper intelligence does not materially reduce the cost of useful cognitive work; if organizations cannot turn that capability into meaningful delegation; if physical and institutional constraints remain so dominant that the intelligence shift barely changes outcomes; or if judgment, verification and trusted responsibility do not become more important as generation becomes abundant.
 
 Those are empirical boundaries, not rhetorical escape hatches.
 
-The future will decide them.
+The future gets to decide whether the framework holds.
 
-That is why this book is best read as a framework for observation rather than a timetable.
+That is why I would rather leave the reader with a set of questions than a date.
 
-Watch the cost of intelligence.
+Watch what becomes cheap.
 
-Watch what people delegate.
+Then watch what that cheapness makes scarce.
 
-Watch which queues vanish.
+Watch which queues disappear and which new ones form. Watch where approval becomes the limit. Watch where verification becomes a premium. Watch which forms of friction survive and whether anyone can explain why. Watch which professions move from production toward judgment. Watch where physical throughput prevents cognitive abundance from becoming material abundance. Watch who receives time to adapt and who is simply told to keep up.
 
-Watch which new queues appear.
+Most of all, watch where power accumulates after the bottleneck moves.
 
-Watch where approval becomes the bottleneck.
+That is the Exponentiality.
 
-Watch where verification becomes valuable.
+Not one curve racing toward a predetermined future.
 
-Watch which institutions preserve friction and can explain why.
+A civilization repeatedly discovering that the thing it finally learned to make abundant was never the only scarce thing that mattered.
 
-Watch which professions move from production toward judgment.
-
-Watch where physical throughput prevents cognitive abundance from becoming material abundance.
-
-Watch where trust becomes a price premium.
-
-Watch who gets adaptation time and who does not.
-
-Watch where power grows simply because action can now happen before resistance can organize.
-
-Watch which old scarcities disappear.
-
-Then watch what becomes scarce next.
-
-That is the exponentiality.
-
-Not one curve.
-
-A world repeatedly reorganizing around the curve that just stopped being the bottleneck.
+And then reorganizing around whatever matters next.
 
 ## Claims to Keep Falsifiable
 
