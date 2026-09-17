@@ -44,6 +44,16 @@ This item requires retrieval of the strongest available primary or official cong
 
 12. Laurance Rockefeller / John Gibbons correspondence preserved in Clinton-era records. The full archival chain should be reconstructed from the Clinton Library rather than from later UFO websites. The existence of Rockefeller’s lobbying is Class 1 where established by the archive; claims about what intelligence officials privately believed remain separate.
 
+### Archival-control note — the finding aid is a map, not an org chart
+
+Fresh check, 16 September 2026: the Clinton Presidential Library’s official finding aid for FOIA 2006-0474-F shows that responsive UFO material was distributed across several ordinary record systems and offices: WHORM subject files, Agency Liaison files, White House email systems, NSC cables, NSC email, and NSC Records Management System entries. The listed responsive dates run from the Clinton administration’s opening months through 2001. Official finding aid: https://www.clintonlibrary.gov/research/archives/finding-aids/unidentified-flying-objects-ufo
+
+That distribution is useful evidence for the book’s institutional question, but it cuts both ways. It is consistent with anomalous claims being routed through existing bureaucratic channels rather than a single dedicated office. It is **not proof** that no dedicated or classified routing function existed: FOIA finding aids describe records located and processed under particular searches, not the complete organizational topology of the government. Nor does the appearance of a UFO-related record inside NSC, Agency Liaison, or White House systems establish that those components endorsed the underlying claim.
+
+The strongest counterargument to the informal-routing thesis is therefore concrete and testable: a formal function might leave little or no public footprint because its records remained classified, were filed under non-UFO terminology, sat in an excluded component, or were never captured by these FOIA searches. The manuscript should not use archival dispersion as a clever negative proof. It should ask a harder positive question: **what tasking, authority, continuity, budget, records schedule, reporting chain, or successor evidence would distinguish a real desk from recurring correspondence?**
+
+This gives the Clinton chapters a documentary control. Build a record-by-record routing table with at least: creation date; creator; recipient; office/system of record; whether the document records advocacy, referral, tasking, analysis, response, or mere mention; and whether any subsequent document demonstrates action. A chain such as outside advocate → White House/OSTP → intelligence contact → outside expert is evidence of routing only when each arrow is documented. A set of documents containing the same names is not a chain by itself.
+
 ## Lower-confidence map sources — leads, not foundations
 
 Anomaly Archives’ Ron Pandolfi collection; Grant Cameron’s Rockefeller Initiative research; Bruce Maccabee’s retrospective accounts; Richard Farley’s later commentary; UFO newsletters; alleged Aviary membership lists; Jack Sarfatti correspondence; media interviews; podcasts; Reddit threads; Wikileaks copies of third-party material; later “psyop” allegations.
