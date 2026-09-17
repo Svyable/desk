@@ -23,7 +23,7 @@ The manuscript is structurally complete and includes an afterword plus explicit 
 - [x] [Chapter 3: The Company of One Hundred Minds](manuscript/ch03-the-company-of-one-hundred-minds.md)
 - [x] [Chapter 4: The Acceleration of Discovery](manuscript/ch04-the-acceleration-of-discovery.md)
 - [x] [Chapter 5: When Intelligence Gets a Body](manuscript/ch05-when-intelligence-gets-a-body.md)
-- [x] [Chapter 6: The Slow Machines](manuscript/ch06-the-slow-machines.md)
+- [x] [Chapter 6: The Present Expires Faster](manuscript/ch06-the-present-expires-faster.md)
 - [x] [Chapter 7: The Education of a Bridge Generation](manuscript/ch07-the-education-of-a-bridge-generation.md)
 - [x] [Chapter 8: The New Geography of Power](manuscript/ch08-the-new-geography-of-power.md)
 - [x] [Chapter 9: The Authenticity Crisis](manuscript/ch09-the-authenticity-crisis.md)
