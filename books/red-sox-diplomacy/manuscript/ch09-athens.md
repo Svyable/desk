@@ -38,6 +38,8 @@ He also pointed toward economics, NATO, the Balkans, terrorism, Cyprus, and Gree
 
 Inside the embassy, John Koenig saw what that breadth looked like from the working level. Koenig headed political-military work and spent roughly three years working closely with Burns. Two major projects were American arms sales to the Hellenic armed forces and efforts to reduce tensions between Greece and Turkey. He remembered F-16s and Patriot systems among the major sales and accompanying Burns repeatedly to see Defense Minister Akis Tsochatzopoulos.
 
+The work did not stop at the political section. Koenig remembered working more closely than he ever had with the embassy's Defense Attaché Office and Office of Defense Cooperation. Arms-sale work also involved the companies themselves. Greek-Turkish confidence-building measures pulled in American regional commands, the NATO command structure and colleagues at the embassy in Ankara. The ambassador could be the person visible in the minister's office while the work behind that meeting crossed agencies, commands, another embassy and the private firms trying to make the sale. [Koenig oral history.](https://adst.org/OH%20TOCs/Koenig.John.pdf)
+
 Koenig's judgment of Burns was admiring, and it came from a colleague who later continued working for him. What matters here is the close-range observation: Burns, he recalled, was unusually effective at face-to-face persuasion.
 
 Another side of the embassy was being built in classrooms, seminars, cultural programs, press contacts, and relationships that would never produce a defense contract or summit communiqué.
