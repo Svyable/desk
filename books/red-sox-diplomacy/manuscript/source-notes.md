@@ -31,6 +31,7 @@ Where a source fits naturally into the prose, the manuscript links it there. The
 
 - The White House archive’s [R. Nicholas Burns biography](https://georgewbush-whitehouse.archives.gov/government/nburns-bio.html) and Harvard Kennedy School’s [faculty profile](https://www.hks.harvard.edu/faculty/nicholas-burns) anchor the assignment chronology.
 - Burns’s own later account of the diplomatic profession and his route through it is useful context in [“The Return of American Diplomacy”](https://www.belfercenter.org/publication/return-american-diplomacy).
+- The new Washington-apprenticeship machinery is grounded in retrospective ADST oral histories by [John Koenig](https://adst.org/OH%20TOCs/Koenig.John.pdf), who remembered the Operations Center as the first place he worked with Burns, and [Mark Tauber](https://adst.org/OH%20TOCs/Tauber.Mark.pdf), who described watch-floor and Secretary-level paper flow and explicitly placed Burns on Counselor Robert Zoellick’s staff. Tauber’s procedural examples are used as period institutional evidence, not silently reassigned as Burns’s personal diary.
 
 ## Chapter 4 — Cairo: Learning the Away Park
 
@@ -56,6 +57,7 @@ Where a source fits naturally into the prose, the manuscript links it there. The
 
 - Burns’s own argument for public diplomacy and credible explanation is in his 1997 State Department address [“The Importance of Public Diplomacy”](https://1997-2001.state.gov/policy_remarks/970509.burns.html).
 - The chapter’s examples of message discipline, correction, and register-switching come from the actual briefing archive, including the [April 3, 1997 briefing](https://1997-2001.state.gov/briefings/9704/970403.html) and [July 14, 1997 briefing](https://1997-2001.state.gov/briefings/9707/970714db.html).
+- The briefing-before-the-briefing scenes are primary-source material: on [April 28, 1997](https://1997-2001.state.gov/briefings/9704/970428.html), Burns described the morning press-guidance process trying to anticipate reporters’ questions; on [May 14](https://1997-2001.state.gov/briefings/9705/970514.html), written guidance reached him at the podium and he publicly found it inadequate for the question he had been asked.
 
 ## Chapter 8 — The Briefing Room Bleachers
 
@@ -70,6 +72,7 @@ Where a source fits naturally into the prose, the manuscript links it there. The
 - The embassy redesign and public-facing use of space are documented in the *Foreign Service Journal*, [“A Light Shines in Athens”](https://afsa.org/sites/default/files/fsj-2000-06-june_0.pdf), and in State Magazine’s [“New Look Transforms Athens Embassy”](https://1997-2001.state.gov/publications/statemag/statemag_jul2000/feature5.html).
 - A contemporaneous Greek perspective is available in *Ta Nea*, [“Nicholas Burns: Two Years of Storms”](https://www.tanea.gr/1999/11/06/greece/nikolas-mperns-mia-dietia-me-trikymies/).
 - Burns’s own later retrospective on the relationship is in his 2007 State Department remarks, [“U.S.-Greece Relations and Regional Issues”](https://2001-2009.state.gov/p/us/rm/2007/95201.htm).
+- John Koenig’s retrospective [ADST oral history](https://adst.org/OH%20TOCs/Koenig.John.pdf) supplies the working-level political-military account: repeated meetings with Defense Minister Akis Tsochatzopoulos and coordination among Koenig’s section, the Defense Attaché Office, Office of Defense Cooperation, U.S. regional and NATO commands, colleagues in Ankara, and—on arms sales—the companies themselves.
 
 ## Chapter 10 — Bringing Baseball to Greece
 
@@ -100,6 +103,7 @@ Where a source fits naturally into the prose, the manuscript links it there. The
 - The strongest direct opposing allied witness is French NATO ambassador Benoît d’Aboville in the PBS *Frontline* transcript [“Blair’s War”](https://www.pbs.org/wgbh/pages/frontline/shows/blair/etc/script.html), which places his objection beside Burns’s collective-defense argument.
 - Burns’s own primary account of the Turkey dispute and the Defense Planning Committee route appears in his April 2003 Senate testimony, [“The Future of NATO”](https://2001-2009.state.gov/p/eur/rls/rm/2003/19259.htm).
 - His post-rupture repair rhetoric is documented in [“The New NATO: Healing the Rift”](https://2001-2009.state.gov/p/eur/rls/rm/2003/21241.htm).
+- Koenig’s retrospective [ADST oral history](https://adst.org/OH%20TOCs/Koenig.John.pdf) is the source for the mid-2003 North Atlantic Council room detail involving d’Aboville opening *Le Monde* and visibly disengaging while Burns spoke. The manuscript labels it as a later witness recollection and does not relocate it into the February Turkey-defense negotiations.
 - The chapter’s 2003 Brussels Red Sox–Yankees scene comes from the 2004 ESPN Magazine account [“Give ’Em Hellas”](https://www.espn.co.uk/espn/magazine/archives/news/story?page=magazine-20040119-article32). It is human texture, not an explanation of alliance behavior.
 
 ## Chapter 14 — India: Playing the Long Game
@@ -123,6 +127,7 @@ Where a source fits naturally into the prose, the manuscript links it there. The
 
 - The chapter intentionally does **not** invent a Burns championship-night scene. The State Department’s [2004 NATO releases index](https://2001-2009.state.gov/p/eur/rt/nato/c11326.htm) helps bound his public schedule but does not reveal where or how he watched the clincher.
 - Burns’s documented pre-championship prediction is in his 2002 [Boston College commencement address](https://www.bc.edu/content/bc-web/bcnews/campus-community/alumni/r--nicholas-burns-2002-commencement-address.html); his post-title “redemption” language appears in his 2005 [U.S. Institute of Peace remarks](https://2001-2009.state.gov/p/us/rm/2005/45781.htm).
+- The 2003 managerial decision inside the game Burns says he watched in Brussels is documented by SABR’s [Game 7 account](https://sabr.org/gamesproj/game/october-16-2003-aaron-boones-home-run-wins-the-pennant-for-the-yankees/) and its [Pedro Martínez biography](https://sabr.org/bioproj/person/pedro-martinez/). Dave Roberts’s preparation and ninth-inning role in 2004 Game 4 come from his later first-person account published by [MLB](https://www.mlb.com/news/dave-roberts-2004-alcs-steal-baserunning).
 - The baseball sequence itself is independently fixed by MLB’s [2004 ALCS recap](https://www.mlb.com/news/2004-alcs-recap) and [2004 World Series recap](https://www.mlb.com/news/2004-world-series-recap).
 - AFN reporting is contextual only: *Stars and Stripes* later reported that 2006 was the first World Series absent from AFN radio in sixty years. That supports the general plausibility of overseas access, not Burns’s personal viewing: [source](https://www.stripes.com/news/2006-10-19/no-world-series-on-afn-radio-this-year-1974176.html1).
 
