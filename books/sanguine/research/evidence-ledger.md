@@ -37,7 +37,7 @@ Important: this is a strategic/operational audit, not biological evidence.
 
 https://www.gao.gov/products/lcd-77-319
 
-Supports: PISCES existed as a proposed alternative to Seafarer and contemplated adapting the Pacific Intertie to radiate ELF.
+Supports: PISCES existed as a proposed alternative to Seafarer and contemplated adapting the Pacific Intertie to radiate an ELF signal.
 
 ## Class 2 — credible but incomplete
 
@@ -69,6 +69,28 @@ These may be discussed as provenance objects if they influenced public understan
 
 **Required test:** recover Navy rebuttal and later operational evidence. A system entering service does not retrospectively prove every original necessity claim; cancellation or reduction would not prove technical impossibility.
 
+## Bounded research audit — Sanguine did not simply shrink because Wisconsin objected
+
+A useful correction comes from GAO's unclassified 1979 strategic-communications review. The report reconstructs an earlier Sanguine concept whose survivability depended on physical dispersion: buried, cement-encased transmitters and an antenna array spread over more than 20,000 square miles. GAO says a 1968 estimate held that destroying Sanguine would require roughly a third of Soviet strategic nuclear weapons. As Soviet missile numbers, accuracy, and MIRV capability improved, that estimate deteriorated; the Navy concluded the proposed system would likely not be survivable and discontinued development of Sanguine.
+
+Primary source: U.S. General Accounting Office, *An Unclassified Version of a Classified Report Entitled “The Navy's Strategic Communications Systems—Need for Management Attention and Decisionmaking”*, PSAD-79-48A, April 5, 1979, Appendix IV, p. 39: https://www.gao.gov/assets/psad-79-48a.pdf
+
+This matters because the current opening can make Sanguine's evolution sound mainly like a story of a gigantic antenna colliding with environmental and political resistance. Those forces were real, but the original design also carried a strategic engineering assumption that changed under it. **ELF feasibility, site acceptability, and nuclear survivability were separate propositions.** A physically workable transmitter could become strategically unattractive if an adversary's improving arsenal made the distributed ground system easier to suppress than planners had assumed.
+
+GAO's October 1977 Seafarer report supplies the political half of the correction. It says Wisconsin's 1973 directive allowed continued operation of the existing test facility but precluded further major installations there; GAO also quotes the February 1977 draft EIS saying concern about Wisconsin acceptance justified investigating other sites. The surviving history should therefore resist a single-cause transition from Sanguine to Seafarer. Strategic survivability pressure and site/political acceptance both changed the design space, and their chronology needs to be reconstructed rather than blended.
+
+Primary source: U.S. General Accounting Office, *Alternative to Project Seafarer*, LCD-77-360, October 7, 1977: https://www.gao.gov/products/lcd-77-360
+
+### Strongest counterargument
+
+The 1979 GAO account is retrospective and summarizes the Navy's own changing survivability analysis; it is not the original 1968 threat calculation or the actual discontinuation decision memorandum. It therefore establishes a strong research lead and GAO's reconstruction, not yet the exact causal weight of survivability relative to cost, politics, environment, or evolving communications alternatives. The manuscript should not replace one monocausal story with another.
+
+### Manuscript consequence
+
+When Chapter 2 develops Sanguine's continental-scale design, make survivability an engineering variable rather than a generic Cold War adjective. The useful scene is a design whose enormous footprint was partly intended to make destruction prohibitively expensive, followed by an adversary capability curve that changed the arithmetic. Later chapters can then introduce Wisconsin opposition and Seafarer as another constraint rather than retroactively making public resistance explain every design change.
+
+Before prose promotion, recover the underlying 1968 survivability estimate and the Navy/DOD decision record that discontinued the original Sanguine concept. If those records show GAO compressed a more complicated decision, preserve the complication.
+
 ## Incentive audit
 
 - Navy: preserve a survivable command path; obtain authorization/funding; reduce environmental and political barriers; protect classified operational details.
@@ -96,6 +118,7 @@ It must also change if recovered historical work shows the biological controvers
 9. State of Wisconsin and Michigan environmental/health records.
 10. Operational ELF system closure/decommissioning records and stated reasons.
 11. Contemporary Soviet/Russian ELF submarine-communications literature as comparator, without inferring equivalence from shared frequency band.
+12. Original 1968 Sanguine survivability estimate and the Navy/DOD decision record for discontinuing the continental-scale concept; separate threat-model changes from cost, environmental, and political causes.
 
 ## Publication holds
 
