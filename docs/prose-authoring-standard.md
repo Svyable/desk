@@ -95,6 +95,20 @@ Do not use anecdotes as decorative cold opens that are abandoned once the lectur
 
 Do not manufacture scenes, dialogue, motives, sensory detail, or biography. Story comes from sequence, stakes, causality, and uncertainty, not invented atmosphere.
 
+## Hold attention with live pressure
+
+Reader attention is an authoring requirement, not a finishing effect.
+
+At any substantial point in a chapter, the reader should have some honest reason to continue: a consequence has not arrived, a mechanism is only partly visible, a claim has met resistance, a person must choose under constraint, a number does not fit the prevailing explanation, or an earlier fact has changed meaning. The pressure can be narrative, causal, explanatory, argumentative, or human. It does not have to be melodramatic.
+
+Ask during drafting: `what is still unresolved for the reader here?` If the answer is only `more explanation is coming`, reconsider the sequence. Exposition earns attention when it answers a question the preceding material created, sharpens the stakes, reveals a hidden mechanism, or changes what the reader thinks is happening.
+
+Do not fake momentum. Do not conceal a known fact solely for a later reveal, end paragraphs with teaser questions, inflate ordinary uncertainty into mystery, or bolt cliffhangers onto analytical material. Curiosity must come from the subject.
+
+A person is not required to supply narrative. A proof can tighten around a contradiction. An experiment can fail in a revealing way. A court opinion can redefine the problem. A balance sheet can expose a business model. A declassified document can change what can responsibly be claimed. A machine can behave differently than its theory predicts. Organize such material as sequence and consequence rather than as a pile of facts.
+
+When the reader reaches an explanation, let the explanation change the story. When the reader returns to a person, object, document, number, or question, its meaning should have deepened. Recurrence without changed meaning is repetition.
+
 ## Earn abstraction
 
 Move from concrete material toward principle rather than starting with the principle and filling in examples underneath it.
@@ -102,6 +116,30 @@ Move from concrete material toward principle rather than starting with the princ
 Do not announce a lesson before the evidence has created a need for it. Avoid generic declarations such as `this changes everything`, `the real lesson is`, `the key insight is`, or `what this teaches us` unless the sentence names something specific that the preceding material could not already say for itself.
 
 Aphorisms should compress earned understanding. They should not function as connective tissue. If a memorable sentence could be moved into another business, technology, or self-help book unchanged, it is probably too generic.
+
+## Eliminate autopilot language
+
+Fluency is not evidence that a sentence belongs in the book. Model-default phrasing often hides the fact that no particular observation has been made.
+
+Treat expressions such as `in today's world`, `in an era of`, `more than ever`, `at its core`, `in many ways`, `the reality is`, `the key is`, `this is where`, `what's striking is`, `serves as a reminder`, `stands as a testament`, `underscores the importance of`, `complex interplay`, `nuanced landscape`, `navigate the landscape`, `new frontier`, `paradigm shift`, `game changer`, `quiet revolution`, `perfect storm`, `double-edged sword`, `tip of the iceberg`, `not just X but Y`, and `not merely X but Y` as warning lights.
+
+They are not mechanically forbidden in every conceivable sentence. They are forbidden as substitutes for thought. When one appears, recover the underlying fact, mechanism, image, distinction, or judgment. Do not solve a stock phrase by replacing it with a fancier stock phrase.
+
+Be especially strict with vague universal pronouns. `We live in`, `we all know`, `we tend to`, `we have always`, and `we are entering` should almost never survive without a clear referent and defensible scope. Name the group, period, institution, behavior, or evidence. Do not automatically switch to generic `you`; often the sentence needs a real subject.
+
+Prefer exactness over elevated diction. `Transformative`, `powerful`, `profound`, `complex`, `nuanced`, `critical`, `crucial`, `fundamental`, and similar evaluative words should not carry argumentative weight by themselves. Show what changed, for whom, by what mechanism, and at what cost.
+
+A useful test is transplantability: if a sentence can move unchanged into a book about AI, leadership, health, investing, education, or spirituality, it probably needs more of this book's material in it.
+
+## Refuse prefab narrative tropes
+
+Do not let a familiar story shape choose the evidence.
+
+Investigate before writing the lone genius against a foolish establishment, the visionary founder against timid incumbents, the rejected person whose failure was secretly a blessing, the childhood incident that supposedly explains an adult life, the brave outsider vindicated by history, the hidden truth `they` did not want known, or the inevitable march of technological progress. These shapes sometimes fit reality; more often reality contains additional actors, incentives, timing, luck, institutional competence, and contradictory evidence that the trope erases.
+
+Likewise, resist atmospheric shortcuts such as `everything changed`, `for centuries`, `humans have always`, `every revolution begins quietly`, or a generic `Imagine...` opening. If the chronology matters, give the chronology. If a transition was gradual, keep it gradual. If a historical pattern varies across cultures or periods, do not flatten it into species-level folklore.
+
+When a familiar shape really is supported, let the specific evidence reveal it. Do not add the prefab moral on top.
 
 ## Prefer depth to catalogs
 
@@ -200,6 +238,8 @@ Fragments can work when they belong to the voice. They should not become a forma
 
 Read the page for repeated setup-pivot-ending shapes. If every paragraph introduces a point, reverses it, then closes with an aphorism, vary the architecture.
 
+Do not explain a strong sentence after it has already landed. Models often produce a clean line and then paraphrase it in weaker language. Cut the echo unless it adds a new consequence, qualification, or fact.
+
 ## End chapters without stamping them
 
 A chapter does not need to restate its thesis three times before stopping.
@@ -222,12 +262,16 @@ step, an example that never develops, a counterargument answered too cheaply,
 and stretches that repeat a conclusion. Preserve a useful complication even
 when removing it would make the chapter smoother.
 
-Only then perform the paragraph and sentence passes. Cut duplication before
+During that pass, mark where reader pressure disappears. Do not patch a flat stretch with rhetorical questions or dramatic transitions. Ask what factual sequence, unresolved mechanism, competing explanation, decision, cost, or consequence belongs there—or whether the stretch should simply be shorter.
+
+Then perform the paragraph and sentence passes. Cut duplication before
 compressing distinct ideas. Prefer an exact verb to decorative intensity. Check
 pronoun references, transitions, time shifts, overloaded sentences, mixed
 metaphors, and unintended changes in narrator distance. Read selected passages
 aloud, or attend explicitly to their sound and syntax, to find monotony and
 awkwardness. Do not mechanically alternate sentence lengths.
+
+Perform a stock-language pass as thought recovery, not word replacement. Search mentally and mechanically where useful for generic `we`, `in today's world`, `at its core`, `this is where`, `underscores`, `serves as a reminder`, `not just...but`, `not merely...but`, inflated evaluative adjectives, and other recurring default phrases. For each hit, decide whether the sentence contains a real observation. Delete it if it does not. Rewrite from the evidence if it does.
 
 Finish by reading the changed material in sequence with its neighbors. Check
 that a moved explanation still arrives before it is needed, a recurring example
@@ -272,12 +316,17 @@ length, and metadata pass validation.
 Before treating voice-sensitive prose as ready, verify all of the following:
 
 - The chapter has a discernible progression rather than an expanded outline.
+- The reader has a real reason to continue through substantial passages: unresolved consequence, mechanism, question, decision, contradiction, or changed meaning rather than manufactured suspense.
+- Exposition answers a need created by the chapter instead of arriving because the outline says it is time to explain.
 - Paragraph breaks reflect meaning, not a habit of placing every sentence on its own line.
 - Adjacent choppy lines have been combined where one fuller paragraph carries the thought better.
 - Examples are few enough to receive useful specificity.
 - Claims are no more certain than the evidence.
 - No quote, attribution, statistic, or biographical detail was invented.
 - The chapter does not repeatedly use canned symmetry, em dashes, triads, question inventories, or aphorisms as scaffolding.
+- Stock model diction and vague universal `we` have been replaced by concrete subjects, observations, mechanisms, or removed entirely where they carried no thought.
+- Familiar narrative tropes are supported by the evidence rather than imposed on it.
+- Strong sentences are not followed by weaker paraphrases explaining what already landed.
 - Formatting remains prose-first and consistent with the manuscript rules.
 - The chapter advances rather than restates earlier chapters.
 - The ending trusts the reader and does not stamp a slogan onto material that already landed.
