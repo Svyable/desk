@@ -4,7 +4,7 @@ The cap was not part of the uniform.
 
 Nicholas Burns wore it anyway.
 
-At the State Department, the flags, titles, readouts, and order of precedence belonged to the institution. The Red Sox cap belonged to Burns. He was the official at the microphone and a Bostonian who had carried the team with him through decades of government service.
+At the State Department, the flags, titles, readouts, and order of precedence belonged to the institution. The Red Sox cap belonged to Burns. At the microphone he spoke for the United States. Under the cap was a Bostonian who had carried the team through decades of government service.
 
 That mattered less than a treaty and more than nothing.
 
@@ -16,10 +16,10 @@ A cable can carry instructions. It cannot hear hesitation in a sentence. A treat
 
 The Red Sox recur because they recurred in Burns's life: inheritance, local language, private allegiance, public signal, occasionally a way to talk about rivalry. The metaphor has a hard limit. Baseball has rules both sides accept, umpires, standings, a schedule, and the promise of another game. Diplomacy sometimes begins because those guarantees are missing.
 
-In Athens, historical memory complicated what the embassy wanted to say. At NATO, allies fought bitterly over Iraq without ceasing to be allies. Negotiations with India took years and crossed governments before a civil-nuclear agreement could be signed. Talks with Iran showed that adversaries can negotiate without becoming less adversarial. In Beijing, communication itself became part of the contest.
+Athens carried historical memory into the embassy's present. At NATO, allies fought bitterly over Iraq without ceasing to be allies. The civil-nuclear negotiations with India lasted years and crossed governments. Talks with Iran put adversaries at the same table without making them less adversarial. In Beijing, communication itself became part of the contest.
 
 None of those episodes needs baseball to matter.
 
-Burns worked in the middle: between a government and another government, policy and the people receiving it, instructions from home and facts encountered abroad.
+Burns worked in the middle: between governments, between policy and the people receiving it, between instructions from home and facts encountered abroad.
 
 The Red Sox came along.
