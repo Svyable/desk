@@ -26,7 +26,7 @@ In March 1997 Burns was welcoming visitors when the talk wandered toward team lo
 
 A moment later he was back to Secretary Madeleine Albright's meetings and European security.
 
-The briefing room existed to test what the United States government meant. Reporters pressed the difference between policy and rumor, certainty and inference, public language and private maneuver. Baseball occupied a territory everyone could identify as Burns's own.
+Reporters came to the briefing room to make the government separate what it knew from what it suspected, what it would say from what it preferred not to say. Baseball was easier. Everybody knew that part belonged to Burns.
 
 By late 1996, the pattern was established. When Roger Clemens left Boston for Toronto, Burns jokingly denounced the pitcher as a traitor and declared the grievance the official position of the State Department.
 
@@ -44,7 +44,7 @@ The room laughed.
 
 Burns replied that the Clemens case had already been confirmed. Another reporter pointed out that Clemens merely worked for Toronto's baseball team. Burns answered with the previous night's result: Boston had beaten Baltimore 2–1 in twelve innings. Then he teased an Orioles supporter in the room.
 
-Burns had not introduced baseball into the exchange. A reporter had remembered his language and thrown it back at him. Social shorthand requires other people to carry it.
+Burns had not introduced baseball into the exchange. A reporter had remembered his language and thrown it back at him. The joke had become portable.
 
 [![Chronological ledger of recurring baseball exchanges in Nicholas Burns's State Department briefing room](../media/ch08-recurrence-ledger.svg)](../research/ch08-visual-archive.md)
 
@@ -52,7 +52,7 @@ Burns had not introduced baseball into the exchange. A reporter had remembered h
 
 Burns would ask visitors about their teams. Reporters would test him with Yankees references. He could complain about Clemens, be teased about the complaint, and turn immediately back to settlements, proliferation or military deployments.
 
-There is no evidence that the ritual bought him easier questions. It did something smaller. The room knew a trivial fact about the man behind the institutional voice, and the fact was real enough to recur without being reintroduced.
+There is no evidence that any of this bought Burns an easier question. It bought him something smaller: reporters no longer needed an introduction to the Red Sox part of him.
 
 On June 4, 1997, Burns said Boston was still bitter and announced, describing the condition of the team, that New England was saying novenas for the Red Sox. He extended the joke through mock-devotional language about resuscitation and the patron saint of lost causes.
 
@@ -92,7 +92,7 @@ Lambros Papantoniou, a Greek journalist whose detailed questions about Greek-Tur
 
 *FAREWELL INVENTORY 01 — July 22, 1997. President Clinton's autographed Red Sox cap, Barry Schweid's Red Sox alarm clock, Lambros Papantoniou's ouzo, and Mike McCurry's return to the podium make the room's accumulated memory physical. The strongest contemporaneous farewell photograph remains research-only pending publication rights. [Source map.](../research/ch08-visual-archive.md)*
 
-The objects summarized the room's memory of him: the government spokesman, the guy from Boston, the official who could spend one minute arguing about the Yankees and the next telling reporters exactly what the United States was—and was not—prepared to say about a crisis.
+By the farewell, the room's memory of Burns had become an inventory: government spokesman, Boston partisan, chronically elastic start time, Greek questions waiting in the seats. Cap, alarm clock, ouzo. The job was still to say exactly what the United States was—and was not—prepared to say about a crisis.
 
 The baseball bit did not quite leave with him.
 
