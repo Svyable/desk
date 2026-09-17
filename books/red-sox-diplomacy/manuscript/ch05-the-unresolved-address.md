@@ -22,9 +22,9 @@ That gives the résumé line machinery: grants, organizations, proposals, contac
 
 The amounts were modest by the standards of later American foreign assistance. The politics were not. Palestinians in the West Bank and East Jerusalem lived under Israeli occupation. There was no Palestinian Authority; Oslo was years away. The Palestine Liberation Organization existed, but American policy sharply constrained official dealings with it. Israeli politics were divided. Palestinian politics were divided. Jerusalem itself was claimed by incompatible national projects.
 
-The American bureaucracy reproduced some of that difficulty internally. Keene remembered relations between the Jerusalem consulate and the embassy in Tel Aviv as poor when he arrived: mutual suspicion, clashing cables, different readings of the same landscape. The relationship improved. Liaison mechanisms were built, and Jerusalem officers began attending embassy country-team meetings.
+The American bureaucracy managed to reproduce some of that difficulty indoors. Keene remembered relations between the Jerusalem consulate and the embassy in Tel Aviv as poor when he arrived: mutual suspicion, clashing cables, different readings of the same landscape. The relationship improved. Liaison mechanisms were built, and Jerusalem officers began attending embassy country-team meetings.
 
-Embassy Tel Aviv maintained the formal bilateral relationship with Israel. The consulate had its own history, contacts, reporting responsibilities, and role with Palestinians and Jerusalem affairs. Two American posts could look at the same territory and report differently because they had been built to see different things.
+Embassy Tel Aviv maintained the formal bilateral relationship with Israel. The consulate had its own history, contacts, reporting responsibilities, and role with Palestinians and Jerusalem affairs. Two American posts could occupy the same small piece of the world, report to the same government, and still disagree about what they were looking at.
 
 The aid portfolio carried the same complication. A clinic, school, water project, or small business could improve ordinary life while raising questions about authority, permanence, and control. With no Palestinian state apparatus for a conventional bilateral development program, American assistance moved through nongovernmental channels. The mechanism was part of the policy: a way to operate before the sovereignty argument had been settled.
 
@@ -32,7 +32,7 @@ Burns worked inside that contradiction. He did not resolve it.
 
 In October 1986, while Burns was assigned to Jerusalem, Boston reached the World Series against the New York Mets. Game 6 became one of the canonical disasters in Red Sox memory; the Mets won Game 7 two nights later. The record does not tell us where Burns was for those games, whether he watched live or later, followed the scores through news reports, or missed them entirely.
 
-Leave the scene missing.
+Leave the scene missing. The Red Sox lost perfectly well without an ambassadorial witness.
 
 A life was happening in Jerusalem while another continued at home. Families aged, elections happened, neighborhoods changed, teams won and lost without regard for the posting schedule.
 
@@ -40,7 +40,7 @@ Keene's oral history shows the density of the consulate's environment. Officers 
 
 What it does establish is narrower. Burns worked with Keene on the aid program. His portfolio covered Palestinian economic assistance. Burns later regarded the posting as formative. We do not have a diary of his daily movements, a complete list of Palestinian counterparts, or transcripts of the conversations that shaped his judgment.
 
-Jerusalem offers unlimited atmosphere to a writer willing to borrow it: stone walls, checkpoints, church bells, calls to prayer, armed patrols, crowded markets. Those images may describe the city. They are not automatically Nicholas Burns's memories.
+Jerusalem offers unlimited atmosphere to a writer willing to borrow it: stone walls, checkpoints, church bells, calls to prayer, armed patrols, crowded markets. Those images may describe the city. They are not automatically Nicholas Burns's memories. The city does not need a novelist's expense account.
 
 The bureaucratic facts are more useful. He worked an aid program where administration could not be separated neatly from politics. Students needed schools before a final-status agreement. Businesses needed capital. Families needed medical care. American officials needed mechanisms that could function inside an argument they could not settle.
 
