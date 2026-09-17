@@ -1,6 +1,6 @@
 # Preface — The Red Sox Came Along
 
-Diplomacy can make a chair official. Put a flag behind it, a place card in front of it, and the person sitting there is no longer merely himself. Nicholas Burns spent most of his adult life in rooms arranged to make this obvious. The suit was his. The sentence, once cleared, belonged to the United States.
+Diplomacy can make a chair official. Put a flag behind it, a place card in front of it, and the person sitting there is no longer merely himself. Nicholas Burns spent decades in rooms arranged to make this obvious. The suit was his. The sentence, once cleared, belonged to the United States.
 
 The Red Sox were another matter.
 
