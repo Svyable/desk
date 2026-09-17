@@ -12,7 +12,7 @@ Cairo was a large place to learn that machinery. Robert Beecroft, a political of
 
 The ambassador when Burns arrived was Alfred Atherton, one of the senior American diplomats associated with the long Arab-Israeli negotiating process. Nicholas Veliotes succeeded him in November 1983. Ted Osius, the direct witness in the current record who remembers Burns personally in Cairo, identifies Burns as Veliotes's staff aide. That puts Burns in the front-office orbit during the Veliotes period. It does not supply exact dates the archive has not yet produced.
 
-The great U.S.-Egyptian breakthrough had already happened. Egypt and Israel had signed peace. Sinai had been returned. The Camp David photographs belonged to an earlier chapter. What remained was the less photogenic work of maintaining a relationship that had not become warm simply because the treaty existed.
+The great U.S.-Egyptian breakthrough had already happened. Egypt and Israel had signed peace. Sinai had been returned. The Camp David photographs belonged to an earlier chapter. What remained was maintenance: a relationship that had not become warm simply because the treaty existed.
 
 [![White House Photo Collection contact sheet from President Hosni Mubarak's February 14, 1984 working visit](../media/primary-source/ch04-reagan-mubarak-contact-sheet-1984.jpg)](https://www.reaganlibrary.gov/archives/photo/c19990-02)
 
@@ -20,9 +20,9 @@ The great U.S.-Egyptian breakthrough had already happened. Egypt and Israel had 
 
 Beecroft, whose portfolio covered Egypt-Israel relations, remembered a cold peace. Egypt was also trying to restore its standing in an Arab world that had punished it for the separate peace with Israel. American assistance was immense. Military cooperation mattered. So did Egyptian suspicion of permanent foreign military presence.
 
-Veliotes's oral history gives that tension a physical address: Ras Banas, on Egypt's Red Sea coast, where Washington had considered a large American military facility. From Washington it was logistics—access, infrastructure, the ability to move forces in a dangerous region. In Egypt it landed on a history of British power and Soviet presence. Veliotes later argued that senior officials in Washington did not fully grasp the depth of that sensitivity.
+Veliotes's oral history gives that tension a physical address: Ras Banas, on Egypt's Red Sea coast, where Washington had considered a large American military facility. From Washington it was logistics—access, infrastructure, the ability to move forces in a dangerous region. In Egypt it arrived carrying a history of British power and Soviet presence. Veliotes later argued that senior officials in Washington did not fully grasp the depth of that sensitivity.
 
-The record does not put Burns in the Ras Banas negotiations. The episode belongs here as environment, not borrowed biography. A policy leaves Washington with an intended meaning. It arrives somewhere with a past.
+The record does not put Burns in the Ras Banas negotiations. The episode belongs here as environment, not borrowed biography. Washington could send a proposal abroad. It could not send the meaning with it.
 
 Consular work reduced the government to one person and one case. Staff work expanded it into a building full of sections, authorities and incomplete information. Beecroft had held a similar staff-aide job earlier in his own career. His recollection is not Burns's daily routine, but it explains the craft: an aide needed people across an embassy who could answer a question without every inquiry becoming a bureaucratic production. The aide learned whom to call.
 
@@ -40,10 +40,10 @@ The Osius oral-history passage still requires page-image verification before exa
 
 Cairo around them was not calm. Lebanon remained violent. The Iran-Iraq War continued. The Soviet Union occupied Afghanistan. Egypt under Hosni Mubarak was consolidating after Anwar Sadat's assassination while managing its peace with Israel and trying to recover regional standing. Yet Beecroft remembered much of the work in Cairo itself as a long slog rather than a sequence of dramatic crises.
 
-Diplomatic careers are remembered by the days when the building catches fire, figuratively or otherwise. Most of the profession is the building on all the other days. A treaty had to be maintained. Aid had to be administered. A congressional delegation arrived. An American got detained. A military proposal acquired political meaning once the proposed concrete was in Egypt rather than on a Washington map. The ambassador needed an answer. Somebody had to find it.
+Diplomatic careers are remembered by the days when the building catches fire, figuratively or otherwise. Most of the profession is the building on all the other days. A treaty had to be maintained. Aid had to be administered. A congressional delegation arrived. An American got detained. A military proposal changed meaning when the proposed concrete moved from a Washington map to Egyptian ground. The ambassador needed an answer. Somebody had to find it.
 
-That is the useful limit of the away-park idea. Not Egypt as an opponent. Distance as a way of discovering which assumptions traveled badly.
+That is the useful limit of the away-park idea. Egypt was not an opponent. Distance exposed which assumptions traveled badly.
 
-Beecroft remembered the force of Egyptian historical self-consciousness. Veliotes remembered Washington failing to appreciate what foreign military presence could mean in a country whose modern history included British and Soviet power. Neither recollection is evidence of a private revelation by young Burns. It is evidence of the place where he learned the job.
+Beecroft remembered Egyptian historical self-consciousness. Veliotes remembered Washington failing to appreciate what foreign military presence could mean in a country whose modern history included British and Soviet power. Neither recollection is evidence of a private revelation by young Burns. It is evidence of the place where he learned the job.
 
 Osius remembered the invitation. He joined the Foreign Service.
