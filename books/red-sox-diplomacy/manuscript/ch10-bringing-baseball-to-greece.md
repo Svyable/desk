@@ -1,6 +1,6 @@
 # Bringing Baseball to Greece
 
-Greece had been awarded the 2004 Olympic Games. As host, it would be expected to field teams across a wide range of sports. Baseball presented an unusual problem. The country did not have a mature baseball culture, a deep player pool, or the infrastructure required to build an Olympic-caliber team quickly. Contemporary reporting described only a couple of rough diamonds at a former American military base. Most Greeks Burns encountered, he later said, did not really know what to make of the game.
+Greece had the 2004 Olympics. Baseball had a problem: the host country was expected to field a team in a game it barely played. Contemporary reporting found only a couple of rough diamonds at a former American military base. Most Greeks Burns encountered, he later said, did not really know what to make of the sport.
 
 Greek organizers were already trying. Panos Mitsiopoulos and others built the Hellenic Amateur Baseball Federation. They had the Olympic deadline and the local problem. What they lacked was a mature baseball system behind them, so they asked for help.
 
@@ -12,15 +12,15 @@ The exact date of the first approach shifts depending on which later account one
 
 In January 2000, an Associated Press reporter found Chuck Samiotes, a civil engineer from Wayland, Massachusetts, already carrying his own origin story. On a family visit to Greece in 1997, Samiotes had improvised a baseball game for nieces and nephews with a tennis ball and his grandmother's cane. He returned the next year with balls, bats and gloves and began teaching children in an Athens suburb.
 
-Samiotes did not need an embassy to tell him baseball might travel to Greece. He was a Greek American, a die-hard Red Sox fan, and somebody who wanted to play and teach the game. Years later CNN would describe him and his best friend and business partner Bill Galatis as instrumental in developing Greek baseball: helping build a field, train young people and recruit players. Their work did not replace the federation's work or Burns's. It complicates the ownership of the story.
+Samiotes did not need an embassy to tell him baseball might travel to Greece. He was a Greek American, a die-hard Red Sox fan, and somebody who wanted to play and teach the game. Years later CNN would describe him and his best friend and business partner Bill Galatis as instrumental in developing Greek baseball: helping build a field, train young people and recruit players. Their work did not replace the federation's work or Burns's. It makes ownership of the story harder to assign.
 
-By 1999, the network was plainly alive. Baseball was moving through Greek-American families, professional clubs, Major League Baseball's international machinery, scouts whose work crossed the Pacific, and athletes formed in baseball systems outside Greece who still had claims on Greek identity. Greece would not simply receive an American game. It would translate one.
+By 1999, baseball was already moving through Greek-American families, professional clubs, Major League Baseball's international machinery, scouts whose work crossed the Pacific, and athletes formed in baseball systems outside Greece who still had claims on Greek identity. Greece was not simply receiving an American game. It was deciding who could carry it under a Greek flag.
 
 Peter Angelos, the Greek-American owner of the Baltimore Orioles, met Greek baseball officials at a reception held by Burns and the Hellenic Amateur Baseball Federation. A contemporary *Washington Post* item reported that the baseball commissioner's office and the Boston Red Sox were also helping.
 
 For Burns, this was almost comically well matched to the person who happened to occupy the embassy. He was a lifelong Red Sox fan. But fandom by itself was useless. Greece needed coaches, players, equipment, organizational experience, money, political attention, and eventually an answer to the hardest practical question: where would an Olympic-level Greek baseball team find enough Olympic-level baseball players?
 
-Burns's first useful move was to find people who possessed what the embassy did not. An ambassador can convene. Official position creates telephone calls that get returned and rooms people enter because somebody with institutional authority asked them to come. Burns helped connect Greek-American and baseball institutions around a problem the embassy could never solve directly. He was not activating empty space; Samiotes, Galatis and Greek organizers were already moving through it.
+Burns's first useful move was to find people who possessed what the embassy did not. An ambassador can convene. The title gets telephone calls returned and puts people in rooms together. Burns helped connect Greek-American and baseball institutions around a problem the embassy could never solve directly. He was not activating empty space; Samiotes, Galatis and Greek organizers were already moving through it.
 
 Later federation accounts put Senator Paul Sarbanes in the chain connecting Burns to Angelos. The exact sequence should not be overdrawn. What is clear is that Burns, Sarbanes, Angelos, Major League Baseball, the Orioles organization, Greek organizers, Boston-area Greek Americans, and eventually a group of professional baseball people became linked around the project.
 
