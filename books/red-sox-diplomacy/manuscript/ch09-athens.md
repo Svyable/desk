@@ -1,8 +1,6 @@
 # Athens
 
-The embassy was supposed to be seen.
-
-That sounds obvious until an embassy becomes a target.
+The embassy was supposed to be seen. By 1997, that had become a security problem.
 
 The American chancery in Athens had been designed by Walter Gropius's firm as a modern building in the middle of the city, an architectural statement as well as a workplace. By the time Nicholas Burns arrived as ambassador in 1997, security measures had accumulated. Hedges and vines crowded the exterior. The fountain had stopped running. The building still represented the United States. The question was what kind of United States it represented when people looked at it.
 
@@ -16,7 +14,7 @@ This was not landscaping as foreign policy. It was landscaping as representation
 
 Burns had spent the previous two and a half years behind a State Department lectern, where representation was mostly verbal. Athens enlarged the instrument. The building represented America. So did the residence, the visa window, a defense sale, a meeting with an editor, a motorcade, a security barrier, a school visit, a protest outside the gate. The ambassador could not control the accumulation. He was still responsible for it.
 
-That responsibility was unusually complicated in Greece.
+In Greece, visibility came with a backlog.
 
 The United States and Greece were NATO allies. The United States had played a major role in Greece's postwar recovery. Greek Americans formed one of the strongest human bridges between the countries. Yet American power also arrived in Greek political memory through the civil war, the junta years, Cyprus, rivalry with Turkey, and a long suspicion that Washington managed Greek affairs from above.
 
@@ -92,7 +90,7 @@ A State Department feature from the Athens period shows sculptor Thodoros Papayi
 
 *HOUSEHOLD LEDGER 01 — Athens and earlier background. The ledger distinguishes Libby Baylies-Burns's federal preservation work, the couple's documented Gennadeion residence hosting, and her MDA Hellas role. Its bottom line is an authority boundary: shared diplomatic life did not give the ambassador's spouse authority to speak for U.S. policy, and her civic work remains her record rather than his. [Source map.](../research/ch09-visual-archive.md)*
 
-Public diplomacy often looks like this when nobody is making a movie about it: repetition, invitations, explanations, people who already disagree showing up anyway.
+Most of this produced no communiqué: seminars, invitations, explanations, people who already disagreed showing up anyway.
 
 Nielsen resisted an easy American story about Greece. The Kosovo war had made American policy deeply unpopular. The press could be ferociously critical. Demonstrations were loud and visible. Yet she did not remember ordinary diplomatic work taking place in a uniformly hostile society. She distinguished political anti-Americanism from the procedural frustrations of Greek bureaucracy and from generally workable daily relationships.
 
@@ -106,7 +104,7 @@ The building Burns had tried to make more visibly welcoming remained a natural d
 
 When the Clinton visit ran into trouble, Burns and Greek Foreign Minister George Papandreou worked through revised arrangements. Events shifted. Security and protest had to coexist somehow. Clinton came to a country where his government's recent military policy was intensely unpopular even as the two governments were cooperating on consequential business.
 
-That contradiction was the work.
+The same embassy could arrange a presidential visit and remain the place protesters wanted to march toward.
 
 Burns's representational instinct in Athens was expansive. The embassy itself became part of the message, but not the whole message. He met journalists. The mission worked with students and universities. Greek-American organizations became partners. Commercial and defense advocacy occupied serious attention. Greek-Turkish relations demanded persistent work. Terrorism remained a painful bilateral issue. The Balkans kept intruding. Cyprus never became simple.
 
@@ -116,10 +114,4 @@ The evidence does not need those acts assembled into a grand method. The physica
 
 The embassy could look better. The channels could become denser. The two governments could cooperate. None of it entitled the United States to Greek agreement, gratitude, or affection.
 
-An ambassador represents a country to people who are free to dislike what the country does.
-
-The job is to keep showing up inside that freedom.
-
-In Greece, Burns would eventually find a peculiarly American way to do some of that showing up. It began with a sport most Greeks did not understand, a small domestic baseball effort, and a network that would eventually reach into the Greek-American diaspora, Major League Baseball, the Baltimore Orioles, and the Olympic Games.
-
-That story deserves its own inning.
+In Greece, some of the showing up eventually involved a sport most Greeks did not understand, a small domestic baseball effort, and a network that would reach into the Greek-American diaspora, Major League Baseball, the Baltimore Orioles, and the Olympic Games.
