@@ -16,6 +16,10 @@ Wrong.
 
 Then came 2003. Burns was the American ambassador to NATO in Brussels when the Red Sox and Yankees reached Game 7 of the American League Championship Series. Boston led late. The game stretched deep into the European morning. Burns later described following it on Armed Forces television in Brussels, all the way to another Boston loss.
 
+The loss had a decision inside it. Boston led 5–2 entering the bottom of the eighth. Pedro Martínez had thrown 100 pitches. Alan Embree and Mike Timlin were warming in the bullpen, but manager Grady Little sent Martínez back out. After Derek Jeter doubled and Bernie Williams singled him home, Little went to the mound. Martínez later said Little asked whether he had anything left and he said yes. Little left him in. Hideki Matsui doubled. Jorge Posada dropped a hit into short center and the game was tied. Little later defended the choice by saying Martínez had been Boston's man all year. Aaron Boone's home run in the eleventh finished what that eighth inning had started. [SABR's Game 7 account.](https://sabr.org/gamesproj/game/october-16-2003-aaron-boones-home-run-wins-the-pennant-for-the-yankees/) [Pedro Martínez biography.](https://sabr.org/bioproj/person/pedro-martinez/)
+
+That is the game Burns says he watched until 6:16 in the morning. The managerial decision is documented. His words in the Brussels room are not.
+
 That scene belongs to 2003. It cannot be moved twelve months forward because 2004 supplies the better ending. History contains events that happened and scenes that surely happened around them. Only the first category belongs to the biographer without evidence.
 
 So Burns stays out of the room.
@@ -26,7 +30,9 @@ So Burns stays out of the room.
 
 Watch the baseball instead.
 
-The Yankees took the first three games of the 2004 American League Championship Series. No Major League Baseball team had recovered from a three-games-to-none deficit to win a best-of-seven postseason series. Boston won four straight, and the opponent mattered: the Red Sox went through the Yankees to reach the World Series, reversing the previous October. Then they swept St. Louis.
+For most of Game 4 of the 2004 ALCS, Dave Roberts was preparing for a job he might never get. He had not played in ten days. He later remembered spending the middle innings moving between the dugout and clubhouse, stretching and studying video of Yankees relievers because he expected that, if Boston needed one late run, his assignment would be to pinch-run. In the ninth, with the Red Sox down 4–3 and facing elimination, Mariano Rivera walked Kevin Millar. Roberts looked toward Terry Francona. Roberts remembered the manager's signal as a wink. He went in, Rivera threw over three times, Roberts stole second and Bill Mueller singled him home. [Roberts's first-person account via MLB.](https://www.mlb.com/news/dave-roberts-2004-alcs-steal-baserunning)
+
+The Yankees had taken the first three games of the series. No Major League Baseball team had recovered from a three-games-to-none deficit to win a best-of-seven postseason series. Boston won Game 4 in twelve innings, then won three more. The opponent mattered: the Red Sox went through the Yankees to reach the World Series, reversing the previous October. Then they swept St. Louis.
 
 On October 27, the drought ended.
 
