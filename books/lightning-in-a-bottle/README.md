@@ -28,7 +28,7 @@ The central argument is simple: **generation without accumulation is consumption
 
 That requires more than prompting. It requires a rhythm: generate, compare, select, synthesize, persist, revisit, and repeat.
 
-The book follows that rhythm from one conversation to a durable body of work. It asks why so much AI use feels impressive but strangely non-compounding, how to construct canonical artifacts instead of piles of answers, how to make agents revise rather than merely regenerate, how to preserve disagreement and provenance without drowning in notes, and how repeated synthesis can turn a general model into something that behaves like a growing intelligence around a particular problem.
+The book follows that rhythm from one conversation to a durable body of work. It asks why so much AI use feels impressive but strangely non-compounding, how to construct canonical artifacts instead of piles of answers, how to make agents revise rather than merely regenerate, how to preserve disagreement and provenance without manufacturing consensus from recycled agent output, and how to decide when another pass has stopped earning its cost. The larger subject is repeated synthesis: turning bursts of general intelligence into an evolving body of intelligence around a particular problem.
 
 ## Contents
 
