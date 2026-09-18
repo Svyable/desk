@@ -9,7 +9,7 @@ Desk is the working library for Sven Hardy Benson’s books: drafts, complete ma
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 131 book projects · 64 complete drafts · 3 in revision · 64 drafting**
+> **Desk: 132 book projects · 64 complete drafts · 3 in revision · 65 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
@@ -102,6 +102,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Allocating Intelligence**](books/allocating-intelligence/) | ✅ Complete draft | 20 of 20 | 60,243 | The book treats intelligence as an allocatable resource rather than a magical property. | [Read →](https://svyable.github.io/desk/reader/#/b/allocating-intelligence/) |
 | [**America's Got a Spending Problem**](books/americas-got-a-spending-problem/) | ✅ Complete draft | 18 of 18 | 43,149 | America often separates the person saying yes from the full economic price of the decision. | [Read →](https://svyable.github.io/desk/reader/#/b/americas-got-a-spending-problem/) |
 | [**Amped**](books/amped/) | ✍️ Full first draft · length gate pending | 21 of 21 | 67,186 | The book follows that demand shock through forecasting, interconnection, rate design, generation, transmission, flexible compute, equipment bottlenecks, and local political economy while… | [Read →](https://svyable.github.io/desk/reader/#/b/amped/) |
+| [**Angles At Breakfast, Demons in the Briefing Room**](books/angles-at-breakfast/) | ✍️ Drafting | 1 of 18 | 2,344 | Reagan's White House becomes a case study in how public faith, private prayer networks, astrological counsel, anomalous claims, and national-security secrecy can occupy adjacent channels without becoming the same thing. | [Read →](https://svyable.github.io/desk/reader/#/b/angles-at-breakfast/) |
 | [**Appeal**](books/appeal/) | ✅ Complete draft | Front matter, prologue, epilogue, back matter; 26 of 26 chapters | 58,632 | The central thesis is that as software and artificial intelligence make first decisions cheaper, faster, and more numerous, the scarce institutional resource becomes the second decision… | [Read →](https://svyable.github.io/desk/reader/#/b/appeal/) |
 | [**Artificial Abundance**](books/artificial-abundance/) | ✍️ Drafting | 24 of 24 | 73,066 | The working thesis is that artificial intelligence does more than increase the supply of useful cognitive work. | [Read →](https://svyable.github.io/desk/reader/#/b/artificial-abundance/) |
 | [**Artificial Identity**](books/artificial-identity/) | ✍️ Drafting | 4 of 24 | 11,811 | The central argument is that identity is crossing a threshold from description to execution. | [Read →](https://svyable.github.io/desk/reader/#/b/artificial-identity/) |
