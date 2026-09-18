@@ -428,4 +428,10 @@ A worker negotiating with a human supervisor knows where judgment sits.
 
 A worker negotiating with a score has a different problem.
 
+The threshold the book cares about is therefore not mass unemployment. It is a change in credible refusal. When a worker’s no can be routed around cheaply, the worker has less leverage. When a worker can use the same technology to find alternatives, create output independently, coordinate with others, or force a better bargain, leverage can move the other direction. The machine changes the bargaining set. Institutions decide how the gain is divided.
+
+That is a more ordinary process than replacement.
+
+It is also easier to miss.
+
 The next chapter is about the human who still has the title after the score has learned to say no.
