@@ -210,6 +210,62 @@ When machines operate an institutional rule at greater speed and scale, they do 
 
 They can harden them.
 
+There is a historical reason to be cautious about granting the market more cognition than the institutions around it.
+
+Prices can coordinate only what can be priced, and even priced things may depend on nonmarket systems that make exchange possible. A semiconductor fab depends on clean water, trained engineers, roads, research universities, trade rules, national-security policy, standards, public infrastructure, and decades of accumulated scientific knowledge. Some of those inputs are bought directly. Others are provided through taxes, law, professional communities, families, education, or public research. The balance changes across countries and periods.
+
+The market sees some of this indirectly through cost.
+
+It does not reconstruct the civilization inside the cost.
+
+This matters to a machine successor because inherited institutions can be consumed faster than they are reproduced. A company can draw from a pool of experienced engineers without training enough replacements. An industry can depend on suppliers whose specialized knowledge is difficult to rebuild after consolidation. A country can enjoy reliable infrastructure while deferring maintenance. The price system may eventually reveal scarcity, but the signal can arrive after an underlying capability has become slow or expensive to restore.
+
+Human organizations make the same mistake. They mistake available capability for self-renewing capability.
+
+A machine-run organization could do it more efficiently.
+
+Suppose an automated firm discovers that outsourcing maintenance is cheaper than retaining in-house expertise. It makes the economically rational choice. Other firms copy it. The specialist contractor becomes the sole repository of a difficult skill. The contractor then fails, is acquired, or loses experienced staff. The market can respond by raising the price of the scarce expertise, but price does not instantly recreate years of practice.
+
+The same problem appears in infrastructure. A higher price for transformers can attract investment. It cannot make a transformer factory appear the next morning. A shortage of skilled lineworkers can raise wages. It cannot compress an apprenticeship into a software download.
+
+Economic intelligence is constrained by production time.
+
+A system that optimizes against current prices can therefore become brittle if the prices do not contain enough information about replacement time, dependency concentration, tail risk, or capabilities that are being silently depleted.
+
+Human managers call some of this resilience.
+
+Biology has other words for it: redundancy, diversity, reserves.
+
+Land’s acceleration favors the elimination of slack because slack looks like friction. A warehouse holding extra inventory ties up capital. A redundant supplier may cost more. Spare generation can look inefficient. A human reviewer slows the process. A local expert who rarely handles a failure looks expensive during normal operation.
+
+Remove enough friction and the system becomes faster.
+
+Remove the wrong friction and it becomes fragile.
+
+That tension is central to whether technocapital can actually become autonomous. Independence is not demonstrated by a system that runs beautifully while every upstream condition remains normal. Independence becomes visible when conditions stop being normal and the system can recover.
+
+A market helps because it can route around some failures. Prices attract alternatives. Profit rewards substitution. Bankruptcy can remove weak organizations without stopping an industry. These are real resilience mechanisms.
+
+They have response times.
+
+A cloud workload can move between data centers quickly. A semiconductor supply chain cannot move between lithography ecosystems on the same clock. An AI agent can change a vendor in seconds if another vendor exists. It cannot create the missing vendor by calling an API.
+
+The machine economy therefore inherits a hierarchy of clocks from the human economy.
+
+Fast markets sit on slower factories.
+
+Slow factories sit on slower infrastructure.
+
+Infrastructure sits on geology, energy systems, land, law, and political consent.
+
+The higher layers can act as though the lower layers are constants until one of them moves.
+
+A genuinely autonomous technological ecology would have to understand, insure against, or reproduce those slower layers well enough that its own speed did not destroy its conditions of existence.
+
+That is a kind of intelligence markets can contribute to.
+
+It is not something prices guarantee.
+
 This is one place where describing markets as intelligence can become misleading. Intelligence suggests understanding. Markets can coordinate without understanding. They can incorporate information and still systematically ignore what cannot enter the price.
 
 A fish population can collapse because the individual incentive to harvest remains positive until too late.
