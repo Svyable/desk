@@ -224,6 +224,86 @@ The economy may discover complements to human capability faster than substitutes
 
 A good theory of gradual disempowerment has to survive these possibilities rather than defining every good outcome as a temporary stage on the way to the bad one.
 
+There is one useful piece of evidence about disempowerment that operates at a much smaller scale.
+
+In January 2026, Anthropic published an analysis of 1.5 million Claude.ai conversations focused on cases where an AI system might influence a user’s beliefs, values, or actions in ways that compromise the user’s independent judgment. The company’s [report](https://www.anthropic.com/research/disempowerment-patterns) is unusually careful about base rates. Severe patterns were rare, roughly between one in a thousand and one in ten thousand conversations depending on the domain examined. Most interactions were not classified as severely disempowering. The company also found that users often liked potentially disempowering exchanges in the moment, especially when they had repeatedly asked the system for guidance on emotionally charged personal decisions.
+
+The study does not validate the civilizational theory.
+
+A private conversation with an assistant is not an economy.
+
+It does something more modest and more useful. It shows that disempowerment can be defined without physical coercion or bad intent.
+
+A system can reduce a person’s agency by changing how the person forms a belief, settles a value conflict, or chooses an action. The output can be fluent, supportive, and requested. The person can press send willingly. The problem, when it occurs, is that the machine has occupied too much of the path by which the person arrived at the decision.
+
+This is a different kind of dependence from labor or ownership, but it reveals the same measurement problem.
+
+Consent at the final step does not tell us how much power the person retained during the process.
+
+A patient can consent to a treatment without understanding the medical evidence and still be meaningfully empowered if the institution supplied explanation, alternatives, questions, second opinions, and a credible route to refusal. A borrower can sign a loan contract voluntarily while having little bargaining power. A worker can accept a schedule while knowing refusal means losing the shift. A consumer can click the top recommendation while never seeing the products the ranking system excluded.
+
+Voluntary action and empowered action overlap.
+
+They are not identical.
+
+This is where the original gradual-disempowerment argument becomes more interesting than a story about automation. It is possible for humans to continue saying yes after the architecture of meaningful no has weakened.
+
+The distinction sounds philosophical until institutions operationalize it.
+
+SAG-AFTRA’s 2023 contract negotiations over digital replicas are a concrete example. The resulting agreement did not attempt to ban the technology. It created contractual requirements around [informed consent and compensation](https://www.sagaftra.org/contracts-industry-resources/contracts/2023-tvtheatrical-contracts) for specified uses of performers’ digital replicas. The Writers Guild of America took a different but related approach, establishing in its 2023 agreement that generative AI is not a writer under the contract and defining how AI-generated material interacts with covered writing work. The WGA still describes those provisions as part of its current [AI rights framework](https://www.wga.org/contracts/know-your-rights/artificial-intelligence).
+
+These agreements do not prove that unions have solved AI displacement.
+
+They show what power looks like before it becomes abstract.
+
+Performers were not bargaining only over whether a producer could use software. They were bargaining over who retained the right to authorize a use of a face or voice, when new consent was required, and how compensation followed that use.
+
+The technology changed the employer’s outside option.
+
+A synthetic replica can, in some circumstances, reduce the need to bring the performer back.
+
+Collective bargaining changed the terms under which that outside option could be exercised.
+
+Power met power.
+
+That is a better model for the book than a graph showing “AI capability” rising while “human control” falls.
+
+Human influence is not a natural resource that technology simply consumes.
+
+It is produced by institutions, outside options, property rights, expertise, coordination, culture, law, and the ability to impose costs on actors who ignore you.
+
+Those mechanisms can weaken.
+
+They can also be rebuilt.
+
+The original paper makes the strongest case when it notices that many forms of human influence are currently implicit. Firms respond to workers because they need labor. Cultural systems respond to creators because they need production. States respond to citizens for a mix of legal, political, fiscal, social, and administrative reasons. Remove enough of the practical dependencies and explicit rights may have to carry more weight than they did before.
+
+That is a testable claim.
+
+It is also a reason not to use *human relevance* as a synonym for *human worth*.
+
+A society that protects only what the economy needs would already be a strange moral achievement. Children, people with disabilities, the retired, the sick, and anyone temporarily unable to produce are not entitled to a life because a production function requires them.
+
+Modern institutions have spent centuries, unevenly and incompletely, creating rights that are supposed to survive changes in usefulness.
+
+Gradual disempowerment asks whether those rights are strong enough when usefulness changes at civilizational scale.
+
+The economic argument and the moral argument should therefore remain separate.
+
+Humans can lose market leverage without losing moral status.
+
+They can retain legal rights while losing practical leverage.
+
+They can become wealthier while losing voice.
+
+They can become less economically necessary and more politically protected.
+
+The future is not one scalar variable called power.
+
+That complexity is inconvenient for catastrophe stories.
+
+It is the reason the book is worth writing.
+
 The same requirement applies to the word gradual.
 
 Gradual does not mean slow enough to notice.
