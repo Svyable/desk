@@ -328,6 +328,106 @@ Who gains leverage depends on which alternative improves faster.
 
 The answer can vary by occupation, market, country, firm, and year.
 
+The distribution problem becomes sharper once ownership enters the same transaction.
+
+A worker may lose leverage over wages while gaining wealth through a pension fund invested in the employer.
+
+A homeowner may benefit from lower service prices produced by automation while a child entering the labor market encounters fewer entry-level roles.
+
+A founder may use AI to remove the need for a department and then discover that the resulting company is easier for three people to operate, increasing the founders’ control enormously.
+
+A shareholder can be empowered by exactly the change that disempowers a worker.
+
+This sounds like an ordinary conflict over surplus because it is one.
+
+AI does not abolish political economy.
+
+It changes the production function inside it.
+
+That is one reason the phrase “AI will disempower humans” can become less useful than “AI changes which humans the system depends on.”
+
+The second sentence creates questions the first one conceals.
+
+Does a company become less dependent on labor and more dependent on capital?
+
+Does it become less dependent on local workers and more dependent on a model provider?
+
+Does it become less dependent on management judgment and more dependent on data infrastructure?
+
+Does a creator become less dependent on a studio and more dependent on a distribution platform?
+
+Does a patient become less dependent on a physician for information and more dependent on a model company for interpretation?
+
+Every substitution creates a new dependency somewhere.
+
+The gradual-disempowerment scenario becomes a human problem when the replacement dependencies point toward actors that do not transmit influence back to a broad human constituency.
+
+A company dependent on customers still has a reason to satisfy customers.
+
+A company dependent on one model provider has a reason to satisfy the model provider.
+
+A state dependent on taxpayers has a reason to preserve a taxable economy.
+
+A state whose revenue comes overwhelmingly from automated capital-intensive industries could, in theory, become less dependent on the labor income of ordinary citizens while remaining deeply dependent on owners, infrastructure operators, and technical systems.
+
+That conclusion cannot be assumed from the revenue structure alone. Modern states have legal and political obligations that are not reducible to tax dependence. The example matters because it shows the direction of the mechanism: remove one dependency and another constituency can become more important.
+
+Institutions are maps of dependencies.
+
+The map is rarely written down.
+
+A hospital’s organization chart shows reporting lines. It does not show which nurse knows the workaround that prevents a particular device from delaying a procedure.
+
+A company’s balance sheet shows assets and liabilities. It does not show the customer whose departure would trigger five others.
+
+A government budget shows revenue and spending. It does not show which forms of administrative knowledge are held by retiring staff.
+
+A software architecture diagram shows services. It may not show the one vendor engineer everybody calls when the distributed system behaves strangely.
+
+Power lives in these undocumented edges.
+
+Automation is often a project to formalize them.
+
+Turn the workaround into software.
+
+Turn the trusted relationship into a CRM record.
+
+Turn the experienced judgment into a model.
+
+Turn the exception process into a rule.
+
+Turn the person who knows into a system that remembers.
+
+The organization becomes less fragile.
+
+The person becomes less singular.
+
+This is usually good engineering.
+
+It is also exactly why the book cannot treat human indispensability as an uncomplicated virtue. A civilization in which every important process depends on irreplaceable individuals would be brittle, unequal, and difficult to scale.
+
+The objective is not maximum dependence on humans.
+
+It is preserving meaningful human power as dependence becomes less necessary.
+
+That may require replacing accidental leverage with deliberate rights.
+
+A worker should not need to be operationally irreplaceable to deserve safe conditions.
+
+A citizen should not need to be economically indispensable to deserve political standing.
+
+An artist should not need monopoly control over production technology to retain authorship rights.
+
+A patient should not need medical expertise to deserve an explanation.
+
+These statements sound obvious because many modern institutions already accept versions of them.
+
+Gradual disempowerment tests how much those commitments depend on the old material facts beneath them.
+
+If the rights remain enforceable after the dependency disappears, automation can remove bottlenecks without removing power.
+
+If the rights become symbolic because nobody with practical leverage can enforce them, the old dependency was doing more work than the law admitted.
+
 The phrase human disempowerment risks hiding this distribution.
 
 There is no single bargaining table called humanity.
