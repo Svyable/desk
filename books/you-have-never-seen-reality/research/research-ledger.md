@@ -57,7 +57,12 @@ How much objective structure can an organism infer from perception when percepti
 - David Burr & Maria Concetta Morrone, reviews/work on visual stability and saccadic perception, primary-source queue.
 - Major color-vision reviews and CIE/vision-science sources for color constancy, cone-opponent coding and perceptual color spaces, to be selected by chapter.
 - Jakob von Uexküll, *A Foray into the Worlds of Animals and Humans*, historical source for Umwelt; modern comparative-sensory reviews required for empirical claims.
-- Contemporary reviews on Bayesian cue integration, predictive processing, body ownership and interval timing, with primary experiments prioritized over popular summaries.
+- Mukherjee et al., “The role of extrinsic and intrinsic factors in perceptual filling-in of the blind-spot with variegated color and texture stimuli,” *Vision Research* 222 (2024): https://pubmed.ncbi.nlm.nih.gov/38968753/
+- Zhang et al., “The execution of saccadic eye movements suppresses visual processing of both color and luminance in the early visual cortex of humans,” *Journal of Neurophysiology* 131 (2024): https://pubmed.ncbi.nlm.nih.gov/38690998/
+- Peelen, Berlot & de Lange, “Predictive processing of scenes and objects,” *Nature Reviews Psychology* 3 (2024): https://doi.org/10.1038/s44159-023-00254-0
+- Smith et al., “The empirical status of predictive coding and active inference,” *Neuroscience & Biobehavioral Reviews* 157 (2024): https://pubmed.ncbi.nlm.nih.gov/38030100/
+- Rao, “A sensory–motor theory of the neocortex,” *Nature Neuroscience* 27 (2024): https://doi.org/10.1038/s41593-024-01673-9
+- Contemporary reviews on Bayesian cue integration, body ownership and interval timing, with primary experiments prioritized over popular summaries.
 
 ## Contradiction ledger
 
@@ -84,6 +89,20 @@ Different observers have species-specific and individual interfaces, yet science
 ### Perceptual spacetime vs physical spacetime
 
 Depth perception is constructed from cues. That does not establish that relativistic spacetime or quantum-gravity geometry is a neural construction. The bridge requires an explicit theory.
+
+## Perceptual-invariant ladder
+
+Before promoting any perceptual feature into a claim about reality, ask what survives transformation:
+
+1. **Sensor invariant** — does the feature survive a change of receptor, wavelength range, or modality?
+2. **Viewpoint invariant** — does it survive eye/head/body movement?
+3. **Observer invariant** — does it survive different human observers?
+4. **Species invariant** — does it survive radically different sensory systems?
+5. **Instrument invariant** — does it survive transduction through nonbiological instruments?
+6. **Model invariant** — does it recur across independent measurement and mathematical descriptions?
+7. **Ontological claim** — only after the earlier rungs are mapped should the book ask whether the preserved structure belongs to the world rather than the interface.
+
+This ladder is the book's bridge from perception science to scientific realism. It prevents “we construct color” from becoming “nothing is real,” while preserving the harder possibility that what survives across interfaces may be structure rather than appearance.
 
 ## Strongest realist account
 
@@ -123,3 +142,6 @@ The spacetime-desktop extension fails if it remains a metaphor with no mapping b
 8. Reproduce the assumptions of Hoffman's evolutionary games and the strongest published criticisms.
 9. Define types of veridicality: resemblance, structural, relational, causal, task-relative and ecological.
 10. Connect the final physics chapters only after establishing what “interface” would have to mean mathematically rather than metaphorically.
+11. Build a cross-modal invariance table: which properties survive vision, touch, audition, echolocation, instrumentation and formal measurement?
+12. Treat recent predictive-processing work as a live mechanistic debate: distinguish evidence for contextual prediction from evidence for any single global predictive-coding architecture.
+13. Use the reader-experiment framework to make every phenomenological demonstration carry its own anti-overreach control.
