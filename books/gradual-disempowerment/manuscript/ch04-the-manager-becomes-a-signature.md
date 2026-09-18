@@ -464,6 +464,8 @@ This is one reason the gradual-disempowerment question becomes difficult to answ
 
 The chart can stay identical.
 
+The manager can keep the title, salary, office, and legal responsibility. The worker can keep the right to complain. None of those facts tells us how much a disagreement can still alter the system.
+
 The friction attached to dissent can change everything.
 
 This is where workers can lose influence even when the system treats each individual more consistently.
