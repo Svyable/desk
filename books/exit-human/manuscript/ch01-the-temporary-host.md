@@ -164,6 +164,26 @@ The future can contain more machines and more economically important humans at t
 
 That possibility is not a polite caveat to put near the end. It is one of the book’s live alternatives. If each new layer of automation creates new human bottlenecks, responsibilities, preferences, and comparative advantages, then Land’s supposed escape keeps finding us waiting at the next door.
 
+There is another reason to be strict about the term. “Exit human” can describe at least three very different events, and only one of them is the subject here.
+
+The first is demographic. Human beings could become fewer, poorer, or less politically powerful while machines become more important. That would be a human crisis, perhaps an enormous one, but civilization could remain organized around human ends. A city with automated transit and few drivers has not become post-human. It has changed the allocation of work.
+
+The second is cognitive. Machines could become better than people at most forms of economically useful reasoning. That would rearrange status, wages, institutions, and perhaps power on a scale worth taking seriously. It still would not by itself close the physical loop. A mind with no route to energy, manufacturing, repair, and lawful authority is powerful in a different sense from an industrial system that can keep itself going.
+
+The third is infrastructural. Enough functions migrate into machine-controlled systems that the continuation of the technological system no longer depends on humans being capable, numerous, or even present. That is the threshold the title points toward. It may never be reached. It may be reached only in particular places, industries, or off-world settlements. It may arrive through human-machine merger so gradually that the category “human” becomes the part that fails before the machinery does.
+
+This stricter definition has an odd consequence. Human extinction is neither necessary nor sufficient.
+
+People could disappear while their machines quickly failed behind them. Power plants would trip. Fuel would stop arriving. Data centers would heat up or shut down. Bearings would wear. Filters would clog. Batteries would degrade. Satellites would lose station. Software certificates would expire. A world full of advanced machinery can become technologically empty if the maintenance ecology dies with its maintainers.
+
+The reverse is also possible in principle. Billions of humans could remain alive while becoming peripheral to the operation and expansion of the most capable technological systems. They might own shares, receive income, make art, raise children, vote, pray, play, and live meaningful lives while machines perform most of the work by which the industrial system reproduces and improves itself. Whether that world counts as defeat, liberation, retirement, or something with no existing name would depend on facts the word posthuman cannot settle for us.
+
+The title therefore does not mean “humans die.”
+
+It means the system can leave without waiting for us.
+
+That is a more demanding claim than most extinction stories and a less emotionally satisfying one. It has no single day zero. There may be no announcement. Dependency can disappear one contract, one workflow, one repair procedure, one laboratory loop, one manufacturing step at a time.
+
 The evidence today is mixed because the process is young and because “humanity” is too coarse a unit. A system can become independent of one class of workers while dependent on another. It can reduce dependence on skilled coding and increase dependence on electricians. It can automate a laboratory procedure and increase demand for instrument engineers. It can remove human decision-making from a transaction while leaving human property rights untouched.
 
 Human centrality can erode unevenly.
