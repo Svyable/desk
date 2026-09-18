@@ -432,6 +432,6 @@ The threshold the book cares about is therefore not mass unemployment. It is a c
 
 That is a more ordinary process than replacement.
 
-It is also easier to miss.
+It can happen while employment looks healthy, while wages rise, and while every participant can point to a useful tool. It is also easier to miss.
 
 The next chapter is about the human who still has the title after the score has learned to say no.
