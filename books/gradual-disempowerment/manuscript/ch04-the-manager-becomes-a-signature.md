@@ -466,7 +466,7 @@ The chart can stay identical.
 
 The manager can keep the title, salary, office, and legal responsibility. The worker can keep the right to complain. None of those facts tells us how much a disagreement can still alter the system.
 
-The friction attached to dissent can change everything. Power often survives first as a right and disappears later as a right that no longer changes what happens in time to matter to the person affected.
+The friction attached to dissent can change everything. Power often survives first as a right and disappears later as a right that no longer changes what happens in time to matter materially to the person affected.
 
 This is where workers can lose influence even when the system treats each individual more consistently.
 
