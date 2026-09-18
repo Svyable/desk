@@ -9,7 +9,7 @@ Desk is the working library for Sven Hardy Benson’s books: drafts, complete ma
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 131 book projects · 64 complete drafts · 3 in revision · 64 drafting**
+> **Desk: 132 book projects · 64 complete drafts · 3 in revision · 65 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
@@ -114,6 +114,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Bottled Lightning**](books/bottled-lightning/) | ✍️ Drafting | 1 complete of 12 planned | 2,449 | The central argument is that the economic unit of agentic AI will not be the token, the prompt, or even the individual agent. | [Read →](https://svyable.github.io/desk/reader/#/b/bottled-lightning/) |
 | [**Chiptastrophy**](books/chiptastrophy/) | ✍️ Drafting | 4 of 24 | 10,890 | <!-- bookself-reader-links:start --> Reader links: Working edition · Desk Reader <!-- bookself-reader-links:end --> | [Read →](https://svyable.github.io/desk/reader/#/b/chiptastrophy/) |
 | [**Chokepoint**](books/chokepoint/) | ✍️ Drafting | 20 of 20 | 36,487 | The working thesis is that the twenty-first century is being rebuilt around a short list of elements — copper, lithium, cobalt, nickel, and the seventeen rare earths — the way the… | [Read →](https://svyable.github.io/desk/reader/#/b/chokepoint/) |
+| [**Consciousness First**](books/consciousness-first/) | ✍️ Drafting | 1 of 18 | 1,867 | A deliberately adversarial consciousness-first ontology: can fundamental experience, interface perception, and emergent physical reality be connected without borrowing certainty that physics and neuroscience have not supplied? | [Read →](https://svyable.github.io/desk/reader/#/b/consciousness-first/) |
 | [**Commit**](books/commit/) | ✅ Complete expanded draft · publication candidate | 22 of 22 + 4 interludes | 67,327 | The working thesis is that Git became dominant because it made a few unusually durable bets: content should have identity independent of location, history should be a graph rather than a… | [Read →](https://svyable.github.io/desk/reader/#/b/commit/) |
 | [**Deceptatron**](books/deceptatron/) | ✅ Complete first draft | 20 of 20 | 67,283 | This book calls the resulting system a Deceptatron: not a single supercomputer and not a science-fiction mind-control ray, but a closed-loop persuasion stack that can observe a person… | [Read →](https://svyable.github.io/desk/reader/#/b/deceptatron/) |
 | [**DemocrAIcy**](books/democraicy/) | ✍️ Drafting | 11 of 11 | 2,596 | The working thesis is not government by artificial intelligence. It is a democracy in which humans remain sovereign while increasingly governing through, alongside, and against artificial… | [Read →](https://svyable.github.io/desk/reader/#/b/democraicy/) |
