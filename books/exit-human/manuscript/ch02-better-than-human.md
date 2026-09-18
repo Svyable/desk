@@ -40,6 +40,32 @@ Consider cryonics. Whatever its technical prospects, the desire is continuity: t
 
 The pronouns are doing real philosophical work.
 
+The emphasis on choice produces a second tension that matters later in the book. Enhancement can be voluntary at the level of one person and coercive at the level of a competitive system.
+
+Suppose a cognitive enhancement is safe, effective, and optional. The first people to use it perform difficult work faster. Employers begin to prefer them. Professional schools redesign expectations around the new capability. Deadlines shrink. A student who would rather remain unenhanced can still refuse, but the meaning of refusal has changed. Nothing in the technology has forced her to adopt it. The environment has.
+
+This problem is not unique to speculative implants. Smartphones already created milder versions. A worker can choose not to carry one, but many jobs are organized around the assumption of immediate reachability. A programmer can choose not to use a new development tool until competitors and colleagues reorganize their pace around it. The individual retains formal freedom while the baseline moves.
+
+Transhumanist writing has language for one side of this problem: morphological freedom, the ability to modify one’s body and mind according to one’s values, coupled in serious versions with the right not to be coerced. The economic system has its own language: competition.
+
+They are compatible until they are not.
+
+If enhancement provides a large enough advantage, the decision to remain biologically ordinary can begin to resemble the decision to compete in a motor race on foot. The person is free. The outcome is not mysterious.
+
+This creates a bridge from transhumanism to acceleration that does not require abandoning human welfare. Even a movement committed to individual agency can participate in a system whose competitive dynamics make successive augmentation difficult to refuse. The future can remain full of humans while the definition of an economically viable human moves underneath them.
+
+The possibility becomes sharper with external AI because adoption is easier. A neural implant would require surgery, regulation, manufacturing, medical skill, and a person willing to put hardware in a body. A software system can spread through an organization in an afternoon. The enhancement is less intimate, but the competitive pressure can arrive sooner.
+
+This also complicates the word natural. Eyeglasses, anesthesia, vaccination, pacemakers, hormonal contraception, joint replacements, organ transplantation, and antidepressants already alter the package evolution handed us. Few people need a theory of transhumanism before accepting a titanium hip. The dispute usually begins when an intervention moves from repairing a recognized impairment toward increasing a capacity beyond some contested baseline.
+
+That line refuses to stay still.
+
+A cochlear implant can be described as restoration by one person and as a threat to a linguistic culture by another. A stimulant can be treatment in one context and enhancement in another. Genetic screening can reduce suffering and also create pressure around which traits are considered acceptable. The technology does not settle the category.
+
+This is one reason the best transhumanist writing is more interesting than the cartoon version. The subject is not simply how much technology can be added to a body. It is who gets to define an improvement, who gets access, who bears the risk, and whether transformation expands a person’s possible lives or narrows them toward whatever the surrounding system rewards.
+
+Land keeps the last part and drops the first-person veto.
+
 They become most strained in the idea of mind uploading.
 
 Whole-brain emulation has long occupied an unusual place in transhumanist thought because it offers the most dramatic escape from biology while making the question of continuity impossible to avoid. In 2008, Anders Sandberg and Nick Bostrom published a technical roadmap for whole-brain emulation. The report did not claim that uploading was imminent. It tried to decompose the problem into prerequisites: scanning, modeling, computing, neuroscience, and the levels of detail that might be required to reproduce the relevant functions of a brain.
