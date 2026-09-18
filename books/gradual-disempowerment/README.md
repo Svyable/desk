@@ -4,7 +4,7 @@
 |---|---|
 | **Authors** | Sven Hardy Benson |
 | **Status** | Drafting |
-| **Chapters** | 3 of 18 drafted |
+| **Chapters** | 4 of 18 drafted |
 
 This book takes its title and starting problem from the 2025 paper “Gradual Disempowerment: Systemic Existential Risks from Incremental AI Development” by Jan Kulveit, Raymond Douglas, Nora Ammann, Deger Turan, David Krueger, and David Duvenaud. The manuscript explicitly credits that lineage and does not present the concept as Sven Hardy Benson’s invention.
 
@@ -18,7 +18,7 @@ The strongest counterargument stays inside the book. Delegation can expand human
 - [x] [Ch 1 — No Coup](manuscript/ch01-no-coup.md)
 - [x] [Ch 2 — The Bargain Hidden in Dependence](manuscript/ch02-the-bargain-hidden-in-dependence.md)
 - [x] [Ch 3 — When Labor Stops Bargaining](manuscript/ch03-when-labor-stops-bargaining.md)
-- [ ] [Ch 4 — The Manager Becomes a Signature](manuscript/ch04-the-manager-becomes-a-signature.md)
+- [x] [Ch 4 — The Manager Becomes a Signature](manuscript/ch04-the-manager-becomes-a-signature.md)
 - [ ] [Ch 5 — The Customer Who Never Chooses](manuscript/ch05-the-customer-who-never-chooses.md)
 - [ ] [Ch 6 — Culture Finds Its Audience Without Us](manuscript/ch06-culture-finds-its-audience-without-us.md)
 - [ ] [Ch 7 — The Voice That Never Needs Anything](manuscript/ch07-the-voice-that-never-needs-anything.md)
