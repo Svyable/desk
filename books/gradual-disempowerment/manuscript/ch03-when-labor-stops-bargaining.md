@@ -238,6 +238,98 @@ A machine does not need to do the entire job.
 
 It needs to become a credible alternative at the margin where the worker was previously scarce.
 
+There is another consequence that disappears when work is treated as a wage transaction.
+
+Employment creates relationships.
+
+People learn whom to call.
+
+Managers accumulate informal obligations.
+
+Workers exchange favors.
+
+A supervisor bends a schedule because she knows a worker’s family situation.
+
+A technician teaches a new hire something no manual contains.
+
+A local employer sponsors the team because the plant manager lives in town.
+
+None of these arrangements is guaranteed to be benign. Workplaces contain favoritism, exclusion, harassment, and informal power that formal systems can reduce.
+
+They also contain reciprocal ties that do not survive every efficiency improvement.
+
+Acemoglu and Alexander Wolitzky model part of this in their 2024 NBER paper [“Employment and Community: Socioeconomic Cooperation and Its Breakdown.”](https://www.nber.org/papers/w32773) Their framework examines how employment relationships and community cooperation can reinforce one another, and how monitoring technology, automation, outsourcing, and other changes can weaken softer relational arrangements even when the changes appear economically rational.
+
+The paper is theoretical.
+
+The mechanism is recognizable.
+
+A firm that can monitor a delivery worker perfectly needs less trust.
+
+A company that can replace local expertise with remote automation needs fewer long-term relationships with a local workforce.
+
+A platform that assigns jobs through software does not need a dispatcher who knows which worker is handling a sick child.
+
+Removing discretion can remove abuse.
+
+It can remove accommodation too.
+
+Power sometimes lives inside discretion.
+
+That makes it dangerous and useful.
+
+A worker who needs mercy from one supervisor is vulnerable.
+
+A worker whose circumstances can be represented in an appeal process has a more durable form of protection.
+
+Automation often exposes the difference because informal arrangements disappear when decisions are formalized.
+
+The human bargain has to move from relationship to rule.
+
+This is another way gradual disempowerment can occur without unemployment.
+
+An institution can become less dependent on a relationship while retaining the people.
+
+The worker stays.
+
+The company no longer needs to know the worker.
+
+That sounds sentimental until the relationship was carrying information the formal system does not contain.
+
+Consider scheduling.
+
+A manager can build a schedule from availability, skill, demand, seniority, and labor rules.
+
+An algorithm can optimize the same variables at a scale and speed the manager cannot match.
+
+If the data are complete, the algorithm may be fairer and more consistent.
+
+If the worker’s actual constraint is “my mother’s chemotherapy moved to Thursday and I have not yet updated the system,” the manager’s local knowledge can matter.
+
+A good automated system can include exception handling.
+
+Then the question moves again.
+
+Who has authority to approve the exception?
+
+How costly is appeal?
+
+Does the worker know why the request failed?
+
+Can a human change the rule?
+
+The path from output to contest becomes part of the labor bargain.
+
+This is where a productivity study and a power study ask different questions about the same system.
+
+The productivity study asks how many tasks are completed, how quickly, and with what quality.
+
+The power study asks who can alter the process when the process conflicts with a human interest.
+
+Both matter.
+
+The mistake is to assume improvement in one settles the other.
+
 The same mechanism can improve fairness.
 
 A closed craft monopoly can exclude outsiders.
