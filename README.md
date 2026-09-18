@@ -9,7 +9,7 @@ Desk is the working library for Sven Hardy Benson’s books: drafts, complete ma
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 131 book projects · 64 complete drafts · 3 in revision · 64 drafting**
+> **Desk: 132 book projects · 64 complete drafts · 3 in revision · 65 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
@@ -122,6 +122,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Face the Strange**](books/face-the-strange/) | ✅ Complete draft · Published on Shelf | 25 of 25 | 63,594 | Face The Strange is about the human moment of meeting advanced intelligence. | [Read →](https://svyable.github.io/desk/reader/#/b/face-the-strange/) |
 | [**Fiscal Wall**](books/fiscal-wall/) | ✅ Complete draft | 18 of 18 | 62,271 | <!-- bookself-reader-links:start --> Reader links: Working edition · Desk Reader · Published edition · Shelf Reader <!-- bookself-reader-links:end --> | [Read →](https://svyable.github.io/desk/reader/#/b/fiscal-wall/) |
 | [**Gatekeepers**](books/gatekeepers/) | ✅ Complete draft | 21 of 21 | 72,980 | The book's central argument is that modern power often sits at transitions: between outside and inside, applicant and approved, developer and customer, patient and treatment, worker and… | [Read →](https://svyable.github.io/desk/reader/#/b/gatekeepers/) |
+| [**God, Presidents & Spies**](books/god-presidents-spies/) | ✍️ Drafting | 1 of 18 | 2,407 | Secrecy is treated as an information architecture: a system that can protect extraordinary capabilities while also allowing sincere decisions to rest on premises no single participant is positioned to inspect completely. | [Read →](https://svyable.github.io/desk/reader/#/b/god-presidents-spies/) |
 | [**Gradient Ascent**](books/gradient-ascent/) | ✍️ Drafting | 16 of 24 | 35,471 | The working thesis is that generative AI changes the information problem from scarcity to saturation. | [Read →](https://svyable.github.io/desk/reader/#/b/gradient-ascent/) |
 | [**Hallucinations**](books/hallucinations/) | ✅ Complete draft | 29 of 29 | 60,150 | The popular story says AI hallucination is a defect inside a model: a machine makes something up, a human catches it, engineers reduce the error rate, and progress resumes. | [Read →](https://svyable.github.io/desk/reader/#/b/hallucinations/) |
 | [**Imenent**](books/imenent/) | ✍️ Drafting | 20 of 20 + interlude | 66,135 | This book calls the decisive boundary the re-entry threshold: the point at which humans retain formal authority over a system but can no longer return to meaningful operational control… | [Read →](https://svyable.github.io/desk/reader/#/b/imenent/) |
