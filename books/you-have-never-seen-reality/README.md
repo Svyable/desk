@@ -6,7 +6,7 @@
 |---|---|
 | **Authors** | Sven Hardy Benson |
 | **Status** | Drafting |
-| **Chapters** | 1 of 18 drafted |
+| **Chapters** | 3 of 18 drafted |
 
 ## Thesis
 
@@ -30,8 +30,8 @@ The book does not answer that question by assertion. It asks what would have to 
 
 - [x] [Front Matter](manuscript/front-matter.md)
 - [x] [Ch 1 — The Apple Is Not Red](manuscript/ch01-the-apple-is-not-red.md)
-- [ ] Ch 2 — The Hole in Your Vision
-- [ ] Ch 3 — The World Between Saccades
+- [x] [Ch 2 — The Hole in Your Vision](manuscript/ch02-the-hole-in-your-vision.md)
+- [x] [Ch 3 — The World Between Saccades](manuscript/ch03-the-world-between-saccades.md)
 - [ ] Ch 4 — The Door Changed and You Didn't Notice
 - [ ] Ch 5 — Why You See Objects
 - [ ] Ch 6 — Your Body Is Also a Guess
@@ -48,6 +48,12 @@ The book does not answer that question by assertion. It asks what would have to 
 - [ ] Ch 17 — What Could Be Behind the Interface?
 - [ ] Ch 18 — You Have Never Seen Reality
 - [ ] Back Matter
+
+## Reader method
+
+The early chapters are deliberately experiential. Whenever possible, the reader first encounters a perceptual fact in their own visual or bodily experience, then gets the mechanism, then the strongest ordinary explanation, and only then the philosophical consequence. Every demonstration is constrained by four questions: **what physically changed, what was reported, what mechanism is supported, and what metaphysical conclusion does not follow?**
+
+See the [reader experiment framework](research/reader-experiments.md).
 
 ## Evidence rule
 
