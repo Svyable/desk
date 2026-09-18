@@ -9,12 +9,12 @@ Desk is the working library for Sven Hardy Benson’s books: drafts, complete ma
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 131 book projects · 64 complete drafts · 3 in revision · 64 drafting**
+> **Desk: 132 book projects · 64 complete drafts · 3 in revision · 65 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
 > **Shelf: 57 author projects · 54 released · 3 public drafts/proofs**
-> **Where they live: 57 in both Desk + Shelf · 71 Desk-only · 0 Shelf-only**
+> **Where they live: 57 in both Desk + Shelf · 72 Desk-only · 0 Shelf-only**
 > **Release review queue: 15 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
@@ -123,6 +123,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Fiscal Wall**](books/fiscal-wall/) | ✅ Complete draft | 18 of 18 | 62,271 | <!-- bookself-reader-links:start --> Reader links: Working edition · Desk Reader · Published edition · Shelf Reader <!-- bookself-reader-links:end --> | [Read →](https://svyable.github.io/desk/reader/#/b/fiscal-wall/) |
 | [**Gatekeepers**](books/gatekeepers/) | ✅ Complete draft | 21 of 21 | 72,980 | The book's central argument is that modern power often sits at transitions: between outside and inside, applicant and approved, developer and customer, patient and treatment, worker and… | [Read →](https://svyable.github.io/desk/reader/#/b/gatekeepers/) |
 | [**Gradient Ascent**](books/gradient-ascent/) | ✍️ Drafting | 16 of 24 | 35,471 | The working thesis is that generative AI changes the information problem from scarcity to saturation. | [Read →](https://svyable.github.io/desk/reader/#/b/gradient-ascent/) |
+| [**Gradual Disempowerment**](books/gradual-disempowerment/) | ✍️ Drafting | 4 of 18 | 12,627 | This book asks how people can lose practical power over systems that remain useful, legal, locally aligned, and formally under human control. | [Read →](https://svyable.github.io/desk/reader/#/b/gradual-disempowerment/) |
 | [**Hallucinations**](books/hallucinations/) | ✅ Complete draft | 29 of 29 | 60,150 | The popular story says AI hallucination is a defect inside a model: a machine makes something up, a human catches it, engineers reduce the error rate, and progress resumes. | [Read →](https://svyable.github.io/desk/reader/#/b/hallucinations/) |
 | [**Imenent**](books/imenent/) | ✍️ Drafting | 20 of 20 + interlude | 66,135 | This book calls the decisive boundary the re-entry threshold: the point at which humans retain formal authority over a system but can no longer return to meaningful operational control… | [Read →](https://svyable.github.io/desk/reader/#/b/imenent/) |
 | [**Intelligence State**](books/intelligence-state/) | ✅ Complete draft · Published on Shelf | 17 of 17 + prologue + conclusion | 43,255 | Intelligence State follows that transformation across the Americas and asks a harder question than who builds the best model: who can make intelligence abundant without making sovereignty… | [Read →](https://svyable.github.io/desk/reader/#/b/intelligence-state/) |
