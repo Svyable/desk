@@ -228,6 +228,20 @@ Fiber crosses oceans in cables. Cloud computing lives in buildings. AI inference
 
 Land’s future therefore cannot be tested by asking whether life moved online.
 
+The intervening decades have made that problem harder, not easier. Networked life became less visible precisely as its industrial base became larger. In the 1990s, going online still felt like entering a separate place. Modems made noise. Connections failed in ways a user could hear. The machine on the desk was obviously a machine. The distinction between local and remote was part of ordinary experience.
+
+Cloud computing removed much of that texture. Storage appears infinite until a region fails. Video arrives on demand without showing the fiber, switches, disks, accelerators, cooling towers, substations, diesel backup systems, and technicians that make immediacy possible. An AI model can seem especially detached from matter because the user encounters language rather than machinery. The request leaves a laptop and returns as an answer. The industrial journey in between is hidden by design.
+
+This hiddenness can produce two opposite errors. One is to mistake the service for magic and imagine intelligence escaping matter. The other is to point to every cable and human worker as proof that nothing important can ever become autonomous. Both freeze a moving system.
+
+Infrastructure changes its dependency structure.
+
+A telephone network once needed armies of human operators to connect calls. Automatic switching removed that role while making the network dependent on different forms of engineering, maintenance, power, and software. Containerization reduced some kinds of dock labor while increasing dependence on cranes, standardized ports, scheduling systems, and intermodal logistics. Cloud computing removed the need for many organizations to maintain their own server rooms while concentrating dependence on enormous facilities operated by a smaller number of firms.
+
+Automation often changes the shape of dependence before it changes the amount.
+
+That is the more useful historical lesson for this book. A disappearing human task is evidence of local substitution. It is not yet evidence that the larger system can survive without human beings. The question has to be repeated at each layer until the answer stops moving somewhere else.
+
 It has to be tested by asking who keeps online alive.
 
 That is a different kind of accelerationism.
