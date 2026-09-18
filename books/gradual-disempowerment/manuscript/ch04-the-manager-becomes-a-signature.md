@@ -364,6 +364,108 @@ An algorithmic system makes it through objectives, constraints, learned patterns
 
 The power question is who can change those trade-offs.
 
+There is a second asymmetry in algorithmic management that is easy to miss.
+
+The organization can become much more visible to itself while the worker sees less of the organization.
+
+A traditional supervisor watches ten people and remembers imperfectly.
+
+A platform can watch ten thousand workers through location, acceptance rates, completion times, customer ratings, cancellation patterns, idle periods, device signals, and other traces.
+
+The worker does not receive a symmetric view of the system evaluating her.
+
+She may see a score.
+
+She may not see how the score was produced, which comparison group matters, how recent behavior is weighted, what threshold triggers intervention, or whether the model has changed since last month.
+
+Information becomes asymmetric in a new direction.
+
+This matters because bargaining requires a model of the other side.
+
+A worker negotiating with a supervisor can learn what the supervisor cares about.
+
+A driver can learn which dispatcher will approve a change.
+
+A team can compare how managers respond to different requests.
+
+An opaque scoring system can make this social learning less useful. The organization retains memory at scale while the worker encounters the organization through outputs.
+
+This does not require secrecy.
+
+A company can publish the broad rules and still operate a system too complex for an individual worker to predict.
+
+Credit systems already teach this distinction. A borrower can know which categories affect a score without being able to reconstruct every model output. Search rankings can publish principles without making each ranking predictable. Complexity can produce opacity without deception.
+
+AI increases the range of signals such systems can interpret.
+
+Natural-language models can analyze messages.
+
+Computer vision can inspect activity.
+
+Predictive systems can infer risk from patterns spread across data sources.
+
+The manager gains a denser representation of the worker.
+
+The worker may receive a thinner representation of management: a prompt, a target, a warning, a route.
+
+Power can come from that difference in legibility.
+
+The EU Platform Work Directive’s algorithmic-management provisions respond partly to this problem by requiring forms of transparency and human oversight for covered platform work. The rules are not proof that a particular regulatory design solves the asymmetry. They are evidence that lawmakers recognized a practical distinction between an automated decision existing and the affected person being able to understand, contest, and obtain human review of it.
+
+The architecture of appeal is more important than the presence of a complaint button.
+
+Suppose a worker is automatically deactivated.
+
+The system offers an appeal.
+
+The appeal takes six weeks.
+
+The worker loses income during the six weeks.
+
+The reviewer receives the same underlying score and no additional evidence.
+
+The final response says the original decision was consistent with policy.
+
+Formally, the person had recourse.
+
+Practically, the system may have had finality.
+
+Now change the design.
+
+The worker sees the reason.
+
+The worker can supply counterevidence.
+
+A reviewer independent of the original decision has authority to restore access.
+
+The appeal is fast enough that winning matters.
+
+The organization records reversal rates and uses them to improve the system.
+
+That is a different distribution of power even if the same algorithm made the first decision.
+
+Contestability is not a philosophical ornament.
+
+It is an operational property.
+
+The same principle applies inside a company when an employee appeals a performance score or a manager challenges a staffing recommendation. A system can be highly automated and still preserve meaningful human authority if disagreement has a credible path.
+
+The cost of that path determines whether it survives.
+
+A ten-second override is different from a forty-page exception process.
+
+A human review that happens before harm is different from one that arrives after the consequences are irreversible.
+
+A supervisor empowered to say no is different from a supervisor measured on how often she agrees with the system.
+
+Formal rights are implemented in latency, staffing, evidence, and incentives.
+
+This is one reason the gradual-disempowerment question becomes difficult to answer from organizational charts.
+
+The chart can stay identical.
+
+The friction attached to dissent can change everything.
+
 This is where workers can lose influence even when the system treats each individual more consistently.
 
 A supervisor who knows a team may be persuadable.
