@@ -358,6 +358,22 @@ The machine is identical in both scenarios.
 
 The institution is different.
 
+The firm-level evidence gives another reason to resist dramatic early conclusions.
+
+A Census-based study of more than 300,000 U.S. firms, later published in a 2025 volume on technology and productivity, found that adoption of advanced technologies such as AI, robotics, specialized software, and cloud computing was concentrated among larger firms. Adopters had higher labor productivity and lower labor shares, but firms reported limited or ambiguous effects on employment levels. The combination matters.
+
+A technology can change the division of income between labor and capital without producing a visible wave of layoffs.
+
+It can change skill requirements.
+
+It can change which firms gain scale.
+
+It can make some tasks cheap enough that the organization expands.
+
+Headcount can look stable while leverage, task content, and the distribution of returns move.
+
+This is precisely the kind of gradual change that a jobs-only dashboard misses.
+
 This is why the phrase “AI versus humans” obscures the most immediate distributional conflict.
 
 For a long time, the first stages of AI-driven disempowerment may be humans using AI to gain leverage over other humans.
