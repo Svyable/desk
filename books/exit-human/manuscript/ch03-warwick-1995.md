@@ -26,6 +26,36 @@ It tries to catch the system’s velocity.
 
 This is one reason “Meltdown” still circulates. It feels less like an essay about a future than a transmission arriving from one. The text jumps between capital, computation, genetics, warfare, markets, cities, and artificial intelligence with a density that makes quotation unusually effective and summary unusually dangerous. Remove the style and some claims become easier to evaluate. Remove too much of the style and the argument loses part of its mechanism.
 
+The name accelerationism itself can mislead the chronology. Land’s major 1990s texts were later gathered into the history of accelerationism, but the label became established afterward. In his 2017 introduction, Land notes that Benjamin Noys supplied the critical name decades after Deleuze and Guattari had written the famous injunction to push further through capitalist decoding. The retrospective label is useful only if it does not make the earlier scene look more settled than it was.
+
+Warwick was not hosting a policy conference about whether governments should make technology go faster. The work was stranger than that.
+
+Acceleration, in Land’s sense, was not simply velocity and certainly not a contemporary startup slogan about shipping products quickly. It described a process in which positive feedback changes the thing moving. More commercialization funds more technical capacity; more technical capacity opens new domains to commercialization; each turn makes the next turn easier to finance and execute. The point is not that every technology improves exponentially. The point is that the circuit can become better at producing the conditions for its own continuation.
+
+A compiler is built with older software and then helps build newer software. A chip-design tool runs on chips created by previous generations of design tools. Financial markets supply capital to semiconductor companies whose products make automated financial markets faster. Networks coordinate global supply chains that manufacture the networking equipment required to coordinate global supply chains.
+
+The loops are real.
+
+What follows from them is not automatic.
+
+A feedback loop can amplify noise as easily as intelligence. Bubbles are positive feedback. Bank runs are positive feedback. An algorithm that rewards engagement can learn to produce social outcomes its designers dislike without becoming an independent life form. Systems often require damping, reserves, circuit breakers, audits, standards, and human intervention precisely because self-reinforcement does not imply improvement.
+
+Cybernetics contains both stories.
+
+Negative feedback keeps a system near a target. A thermostat corrects deviation. A governor prevents a machine from running away. Positive feedback amplifies deviation. A microphone placed too close to a speaker can turn a small signal into a scream.
+
+Land is interested in the scream.
+
+Modern institutions depend on both. A company wants growth and solvency. A grid wants increasing capacity and stable frequency. A model-training project may seek larger capability while engineers impose evaluation gates. A market encourages opportunity-seeking while exchanges halt trading under certain conditions. A reactor is built to sustain a chain reaction and surrounded by mechanisms designed to stop it.
+
+Human civilization is full of acceleration wrapped in brakes.
+
+This makes “escape” partly a conflict between feedback regimes. Commercial systems reward expansion. Legal systems can slow or redirect it. Safety systems add friction. Culture can make a practice unacceptable even when it is profitable. Scarcity can stop a technical curve more effectively than regulation. Physics can ignore both enthusiasm and law.
+
+Land’s work tends to privilege the escaping process. A serious test has to watch the brakes too.
+
+That does not make the philosophy less interesting. It turns it into a question with failure conditions.
+
 CCRU called related operations hyperstition: cultural fictions that do not merely represent reality but can participate in bringing about the conditions they describe. The idea has since escaped its original setting and acquired a cloud of interpretations, some useful and some mystical. The practical version is not difficult to recognize.
 
 Stories alter behavior.
