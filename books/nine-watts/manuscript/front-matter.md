@@ -1,4 +1,4 @@
-# NINE WATTS
+# RESIDUAL
 
 *How a Spacecraft Taught Us to Distrust New Physics*
 
