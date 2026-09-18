@@ -190,6 +190,50 @@ Automating one role does not remove the others.
 
 The strong Landian future requires the system to become progressively indifferent to that fact.
 
+The network-level version also changes how a failure should be interpreted.
+
+A machine-run firm that goes bankrupt is not evidence that machine autonomy failed in principle. Human-run firms fail constantly. What matters is whether the larger ecology can absorb the failure, reallocate the useful assets, and continue. Capitalism already has machinery for this. Bankruptcy can liquidate an organization while preserving factories, patents, customer relationships, equipment, and workers for a successor owner. Markets do not need every company to survive. They need enough of the productive structure to be recoverable.
+
+This makes economic institutions potential components of machine reproduction.
+
+A self-maintaining technical ecology would benefit from exactly the features modern economies already developed for human reasons: standardized contracts, fungible capital, modular suppliers, bankruptcy procedures, insurance, liquid markets, inventory systems, accounting, and prices that transmit scarcity. Those institutions reduce the amount of detailed knowledge any one actor needs in order to coordinate production.
+
+The same architecture that lets a human entrepreneur order a server without understanding semiconductor fabrication could let a software agent do so.
+
+This is a stronger argument than the image of a robot mining ore for itself.
+
+It is also weaker in another way. The institutions remain legal constructions. A bank account belongs to someone recognized by law. A contract has parties. A corporation has owners and officers. A machine can execute transactions only because an institution has decided that some credential, signature, mandate, or API call carries authority.
+
+Authority is therefore one of the hidden inputs to Land’s machine.
+
+It behaves differently from electricity or silicon because it can be revoked by collective decision. Governments can freeze assets, change liability rules, require a human principal, restrict autonomous systems, nationalize infrastructure, or decide that particular transactions are invalid. Enforcement can fail, political systems can fragment, and jurisdictions can compete, but legal recognition is not merely a cultural gloss on the technical system. It determines which machine actions become durable economic facts.
+
+This is where the easy analogy to natural selection starts to break.
+
+A bacterium does not need a court to recognize its reproduction. A company does. A software agent that “owns” a factory is meaningful only inside a property system capable of making ownership consequential.
+
+The Landian escape can therefore proceed in at least two ways. Machines could acquire so much physical independence that human legal recognition becomes less important. Or human institutions could progressively grant machine-mediated systems enough standing, delegated authority, and economic latitude that the legal layer becomes part of the automated ecology.
+
+The second path is less cinematic and probably more relevant in the near term.
+
+No parliament has to declare machines sovereign. A company can give software a budget. A payment provider can let an agent initiate purchases. A cloud platform can let software provision servers. An exchange can accept automated orders. A logistics platform can accept machine-generated shipments. Each permission is narrow and reversible. Enough narrow permissions can still produce a surprisingly long chain of action.
+
+That chain remains human-authorized.
+
+Until it does not need to be reauthorized.
+
+The difference sounds technical because it is. A standing mandate is not independence. A mandate that can be renewed automatically under conditions evaluated by another machine is a longer leash. A corporation whose directors delegate strategy to models while retaining formal fiduciary responsibility is still governed by people on paper. Whether paper governance remains effective depends on whether those people can understand, interrupt, and redirect the system they nominally control.
+
+Formal authority and operational authority can separate.
+
+Human institutions have lived with that separation before. Boards can legally govern companies they barely understand. Civilian leaders can formally command technical agencies whose expertise gives those agencies practical discretion. Regulators can oversee markets whose instruments become more complex than the staff assigned to supervise them. The signature stays human while the knowledge required to exercise the authority migrates elsewhere.
+
+AI could widen that familiar gap.
+
+Land does not need a machine constitution if human institutions become wrappers around processes they can no longer meaningfully steer.
+
+That is a less absolute version of exit, but it gives the strong version a plausible route. Operational independence can arrive before legal independence. Legal forms may then adapt to facts already produced by the system.
+
 There is a second problem.
 
 Even a self-sustaining technological system needs some criterion by which one future state is preferred to another. Biological evolution gets this from differential reproduction without a planner. Firms get it from profit and survival under institutional rules. Engineers get it from specifications. AI systems get it from training objectives, rewards, prompts, evaluators, and the environments in which they are deployed.
