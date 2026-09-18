@@ -9,7 +9,7 @@ Desk is the working library for Sven Hardy Benson’s books: drafts, complete ma
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 131 book projects · 64 complete drafts · 3 in revision · 64 drafting**
+> **Desk: 132 book projects · 64 complete drafts · 3 in revision · 65 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
@@ -109,6 +109,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Asleep at the Wheel**](books/asleep-at-the-wheel/) | ✍️ Drafting | 22 of 22 | 47,034 | The working thesis is that sleep behaves like a hard, measurable biological constraint — closer to gravity than to a personal preference — and that a long, well-documented list of… | [Read →](https://svyable.github.io/desk/reader/#/b/asleep-at-the-wheel/) |
 | [**Austerity Measures**](books/austerity-measures/) | ✅ Complete draft | 12 / 12 | 15,267 | Artificial intelligence can make public administration dramatically cheaper. | [Read →](https://svyable.github.io/desk/reader/#/b/austerity-measures/) |
 | [**Autonomy Half-Life**](books/autonomy-half-life/) | ✍️ Drafting | 20 of 20 | 66,547 | Every grant of autonomy is made inside a particular world: a purpose, a set of facts, a risk level, a counterpart, a budget, a model of what might happen, and an understanding of who… | [Read →](https://svyable.github.io/desk/reader/#/b/autonomy-half-life/) |
+| [**Before Disclosure**](books/before-disclosure/) | ✍️ Drafting | 1 of 18 | 2,457 | Three independently documented routes into American power—scientific intelligence, White House management, and presidential gatekeeping—become a test of whether later anomalous-history networks can be demonstrated rather than merely drawn. | [Read →](https://svyable.github.io/desk/reader/#/b/before-disclosure/) |
 | [**Beyond the Veil**](books/beyond-the-veil/) | ✍️ Drafting | 20 of 20 | 64,981 | The book names the narrower phenomenon non-sapient intellect: adaptive competence that can preserve state, use history, correct deviations, reallocate resources, and solve constrained… | [Read →](https://svyable.github.io/desk/reader/#/b/beyond-the-veil/) |
 | [**Bookself**](books/bookself/) | ✅ Complete expanded draft | 28 of 28 | 63,893 | The book names the accumulation of that evidence a bookself: the shelf of selves authored by what we have actually begun. | [Read →](https://svyable.github.io/desk/reader/#/b/bookself/) |
 | [**Bottled Lightning**](books/bottled-lightning/) | ✍️ Drafting | 1 complete of 12 planned | 2,449 | The central argument is that the economic unit of agentic AI will not be the token, the prompt, or even the individual agent. | [Read →](https://svyable.github.io/desk/reader/#/b/bottled-lightning/) |
