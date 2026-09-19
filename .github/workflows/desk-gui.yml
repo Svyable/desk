@@ -1,0 +1,31 @@
+name: Desk GUI checks
+
+on:
+  pull_request:
+    paths:
+      - "desk/**"
+      - "reader/**"
+      - ".github/workflows/desk-gui.yml"
+  push:
+    branches:
+      - main
+    paths:
+      - "desk/**"
+      - "reader/**"
+      - ".github/workflows/desk-gui.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  contracts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Run GUI contract checks
+        run: |
+          node --test             desk/publication-studio.test.mjs             desk/epub-export.test.mjs             desk/kdp-export.test.mjs             desk/reader-design-contract.test.mjs             reader/js/reader-html-controls.test.mjs
