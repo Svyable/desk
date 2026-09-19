@@ -55,3 +55,11 @@ test('export observer survives terminal state long enough to restore the idle la
   assert.match(source, /if \(\/failed\/i\.test\(text\)\)[\s\S]*?sawTerminalState = true;[\s\S]*?return;/);
   assert.match(source, /if \(sawTerminalState\) stopWatching\(\);/);
 });
+
+
+test('terminal export states remain disabled until the hidden exporter returns idle', async () => {
+  const source = await readFile(new URL('./publication-studio.js', import.meta.url), 'utf8');
+  assert.match(source, /if \(\/downloaded\/i\.test\(text\)\)[\s\S]*?button\.disabled = true;[\s\S]*?return;/);
+  assert.match(source, /if \(\/failed\/i\.test\(text\)\)[\s\S]*?button\.disabled = true;[\s\S]*?return;/);
+  assert.match(source, /button\.textContent = idleLabel;[\s\S]*?button\.disabled = false;[\s\S]*?if \(sawTerminalState\) stopWatching\(\);/);
+});
