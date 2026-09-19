@@ -157,7 +157,8 @@ function isPublicRole() {
 function analyzeBook(meta, markdown, cataloged, checklist) {
   const issues = [];
   const chapters = manuscriptChapters(checklist);
-  const draftedChapters = chapters.filter((entry) => entry.checked).length;
+  const progressItems = meta.format === 'book' && chapters.length ? chapters : checklist;
+  const draftedChapters = progressItems.filter((entry) => entry.checked).length;
   const allChecklistDone = checklist.length > 0 && checklist.every((entry) => entry.checked);
   const chapterCell = parseChapterCell(meta.chaptersCell);
   const placeholder = isPlaceholderBook(meta, markdown);
@@ -172,10 +173,10 @@ function analyzeBook(meta, markdown, cataloged, checklist) {
   if (!checklist.length) issues.push({ severity: 'severe', message: 'Add manuscript files to the Contents checklist.' });
   if (placeholder) issues.push({ severity: 'warn', message: 'Template setup text is still present.' });
 
-  if (chapterCell && (chapterCell.total !== chapters.length || chapterCell.drafted !== draftedChapters)) {
+  if (chapterCell && (chapterCell.total !== progressItems.length || chapterCell.drafted !== draftedChapters)) {
     issues.push({
       severity: 'warn',
-      message: `Chapters says “${meta.chaptersCell}”, but the checklist currently shows ${draftedChapters} of ${chapters.length} drafted.`,
+      message: `Chapters says “${meta.chaptersCell}”, but the checklist currently shows ${draftedChapters} of ${progressItems.length} drafted.`,
     });
   }
 
@@ -222,7 +223,7 @@ function analyzeBook(meta, markdown, cataloged, checklist) {
     nextStep = 'Review the manuscript hub and resolve the readiness items below.';
   }
 
-  return { issues, ready, checklist, chapterCount: chapters.length, draftedChapters, allChecklistDone, nextStep };
+  return { issues, ready, checklist, chapterCount: progressItems.length, draftedChapters, allChecklistDone, nextStep };
 }
 
 async function loadBookFromMarkdown(slug, markdown, catalogSlugs) {
@@ -254,7 +255,7 @@ function unreadableBook(slug, catalogSlugs) {
     slug, title: slug, status: 'Unreadable', authors: '', tags: [], checklist: [], chapterCount: 0,
     draftedChapters: 0, allChecklistDone: false, cataloged: catalogSlugs.includes(slug), ready: false,
     unreadable: true, nextStep: 'Open the book folder and repair or add its README hub.',
-    issues: [{ severity: 'severe', message: 'The Desk could not read books/<slug>/README.md.' }],
+    issues: [{ severity: 'severe', message: `The Desk could not read books/${slug}/README.md.` }],
   };
 }
 
