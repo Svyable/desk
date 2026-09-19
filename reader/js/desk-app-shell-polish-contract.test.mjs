@@ -14,7 +14,8 @@ const doesNotMatch = (value, pattern) => { assertions += 1; assert.doesNotMatch(
 // Bookself owns the shared app-shell behavior and presentation. Desk executes
 // the synced copies locally rather than delegating executable code or CSS to Shelf.
 match(loader, /const appShellPolishUrl = new URL\('\.\/app-shell-polish\.js', import\.meta\.url\)\.href;/);
-match(loader, /await import\(appShellPolishUrl\)/);
+match(loader, /\[appShellPolishUrl, 'Desk Reader app-shell polish'\]/);
+match(loader, /import\(url\)\.catch/);
 match(runtime, /const STYLE_HREF = 'css\/app-shell-polish\.css\?v=r1';/);
 match(runtime, /export function decorateAppShell/);
 match(runtime, /export function installAppShellStyles/);
