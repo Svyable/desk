@@ -48,6 +48,7 @@ body:
         - hallucinations
         - imenent
         - intelligence-state
+        - invisible-moats
         - keep-cooking
         - leveraging-luck
         - look-alive
