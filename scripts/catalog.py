@@ -153,29 +153,31 @@ def title_for(markdown: str, slug: str) -> str:
     return (match.group(1).strip().rstrip(":") if match else slug.replace("-", " ").title())
 
 
+def has_status_word(value: str, *words: str) -> bool:
+    return any(re.search(rf"\\b{re.escape(word)}\\b", value, re.IGNORECASE) for word in words)
+
+
 def status_for(markdown: str) -> str:
     value = table_cell(markdown, "Status") or "Drafting"
     value = re.sub(r"^[✅🔁✍️🟡]+\s*", "", value).strip()
-    low = value.lower()
     # Controlling workflow states outrank descriptive words such as
-    # "structurally complete". A Drafting or Revision label must never be
-    # promoted merely because the same cell also contains "complete".
-    if "drafting" in low:
+    # "structurally complete". Match complete words rather than substrings so
+    # states such as "Incomplete" are never promoted to complete.
+    if has_status_word(value, "drafting"):
         return f"✍️ {value}"
-    if "revision" in low or "editing" in low:
+    if has_status_word(value, "revision", "editing"):
         return f"🔁 {value}"
-    if "complete" in low:
+    if has_status_word(value, "complete", "completed"):
         return f"✅ {value}"
     return f"✍️ {value}"
 
 
 def status_key(value: str) -> str:
-    low = value.lower()
-    if "drafting" in low:
+    if has_status_word(value, "drafting"):
         return "drafting"
-    if "revision" in low or "editing" in low:
+    if has_status_word(value, "revision", "editing"):
         return "revision"
-    if "complete" in low:
+    if has_status_word(value, "complete", "completed"):
         return "complete"
     return "drafting"
 
@@ -235,7 +237,15 @@ def load_shelf_rows(shelf_root: Path | None) -> list[ShelfRow] | None:
         readme = book / "README.md"
         markdown = read(readme) if readme.is_file() else ""
         raw_status = table_cell(markdown, "Status") or "Drafting"
-        if "publish" in raw_status.lower() or "release" in raw_status.lower():
+        released = (
+            has_status_word(raw_status, "published", "released")
+            and not re.search(
+                r"\\b(?:not|never)\\s+(?:published|released)\\b",
+                raw_status,
+                re.IGNORECASE,
+            )
+        )
+        if released:
             state = "✅ Released"
         elif "public proof" in markdown.lower() or "unlisted" in markdown.lower():
             state = "🟡 Public proof"
@@ -363,13 +373,33 @@ def catalog_metadata(readme: str) -> dict[str, tuple[str, str]]:
     return metadata
 
 
-def audit(root: Path, rows: list[BookRow]) -> list[Finding]:
+def audit(
+    root: Path,
+    rows: list[BookRow],
+    shelf_rows: list[ShelfRow] | None = None,
+) -> list[Finding]:
     findings: list[Finding] = []
     readme_path = root / "README.md"
     root_readme = read(readme_path) if readme_path.is_file() else ""
     actual = [row.slug for row in rows]
     listed = catalog_slugs(root_readme)
     metadata = catalog_metadata(root_readme)
+
+    if shelf_rows is not None:
+        expected_shelf = render_shelf_summary(rows, shelf_rows)
+        start = root_readme.find(SHELF_SUMMARY_START)
+        end = root_readme.find(SHELF_SUMMARY_END)
+        current_shelf = None
+        if start >= 0 and end >= start:
+            end += len(SHELF_SUMMARY_END)
+            current_shelf = root_readme[start:end]
+        if current_shelf != expected_shelf:
+            findings.append(Finding(
+                "error",
+                "shelf_summary_stale",
+                "README",
+                "Desk↔Shelf summary disagrees with the current Shelf checkout. Run scripts/catalog.py --write --shelf-root ../shelf.",
+            ))
 
     missing = sorted(set(actual) - set(listed))
     extra = sorted(set(listed) - set(actual))
@@ -435,7 +465,7 @@ def main(argv: list[str] | None = None) -> int:
     shelf_root = Path(args.shelf_root).resolve() if args.shelf_root else root.parent / "shelf"
     shelf_rows = load_shelf_rows(shelf_root)
     rows = load_rows(root)
-    findings = audit(root, rows)
+    findings = audit(root, rows, shelf_rows)
 
     if args.write:
         readme_path = root / "README.md"
@@ -446,7 +476,7 @@ def main(argv: list[str] | None = None) -> int:
             updated = replace_marked(updated, SHELF_SUMMARY_START, SHELF_SUMMARY_END, render_shelf_summary(rows, shelf_rows))
         readme_path.write_text(updated, encoding="utf-8")
         rows = load_rows(root)
-        findings = audit(root, rows)
+        findings = audit(root, rows, shelf_rows)
 
     errors = [finding for finding in findings if finding.level == "error"]
     if args.as_json:
