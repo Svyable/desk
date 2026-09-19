@@ -8,19 +8,11 @@ Alexandr Wang, Scale's founder and chief executive, was leaving the chief execut
 
 A company had received an enormous new valuation. Its founder was moving to the investor. The investor was not acquiring the company. The company was not being folded into Meta. Its board installed an interim chief executive and insisted that Scale would continue serving its other customers.
 
-Five days later, Scale published another statement because those customers were asking the obvious question. If Meta had become a large investor and Wang had moved to Meta, what exactly would happen to everyone else's information?
+Six days later, Scale published another statement because those customers were asking the obvious question. If Meta had become a large investor and Wang had moved to Meta, what exactly would happen to everyone else's information?
 
 Scale's answer was unusually explicit. Meta would not receive access to Scale's internal systems or to its customers' confidential information. Scale said it would remain independent and that the expanded commercial relationship with Meta would operate under the same protections applied to other customers.
 
-The transaction had separated three things that are usually bundled together in the public imagination.
-
-There was the company.
-
-There was the person.
-
-There was the data.
-
-They were suddenly going in different directions.
+The transaction had separated three things that are usually bundled together in the public imagination: the company, the person, and the data. They were suddenly going in different directions.
 
 The episode deserves attention because the modern economy is full of deals whose legal form conceals their economic purpose. A company can buy another company because it wants factories, patents, customers, revenue, engineers, distribution, brand, licenses, contracts, data, leadership, or some combination that changes during the negotiation. An investor can take a minority stake while securing commercial access or strategic alignment. A technology company can hire a founder and part of a team without buying the corporate entity that made the founder valuable. A customer relationship can deepen without transferring ownership of the information produced inside that relationship.
 
@@ -80,25 +72,17 @@ This is where talent re-enters the story.
 
 Context is often tacit before it becomes software. Someone knows that a field in an old database is unreliable after a certain date. Someone knows that two customer identifiers refer to the same company after a merger. Someone knows which machine sensor drifts in winter. Someone knows that a contractual term matters more than the headline price. Someone knows that the apparent outlier is a measurement error and that the ordinary-looking record is the real anomaly.
 
-Organizations routinely underestimate the economic value of these people because accounting systems are better at pricing hardware than judgment.
-
-A server arrives with an invoice.
-
-Judgment often arrives as a person who asks a better question in a meeting.
+Organizations routinely underestimate the economic value of these people because accounting systems are better at pricing hardware than judgment. A server arrives with an invoice; judgment often arrives as a person who asks a better question in a meeting.
 
 That difference has consequences for how companies recruit and how markets price certain employees. During the modern AI race, firms have behaved as though a small number of researchers and leaders can change the trajectory of systems worth tens or hundreds of billions of dollars. The numbers attached to recruiting campaigns can look irrational if employees are treated as units of labor producing a fixed number of hours. They make more sense if a scarce person can change the productivity of a large compute budget, redirect a research program, attract other researchers, improve the quality of training data, and influence a product distributed to billions.
 
-The unit is no longer the person's output.
-
-It is the output of the system their judgment changes.
+The relevant unit is no longer just the person's output. It is the output of the system their judgment changes.
 
 Economists have been studying versions of this problem for far longer than the current AI cycle. Research on "superstar" effects asks why small differences in talent can produce very large differences in income or impact when technology expands the market an individual can reach. Research on teams asks why the value of one highly capable worker depends on the quality of colleagues and organizational practices around them. Studies of management repeatedly find large performance differences across firms that cannot be explained by machines alone.
 
 One of the most useful findings for this book comes from a setting far less glamorous than frontier-model research. Erik Brynjolfsson, Danielle Li, and Lindsey Raymond studied the rollout of a generative-AI assistant to 5,179 customer-support agents. They found a 14 percent average increase in productivity, measured by issues resolved per hour. The gains were far larger for novice and lower-skilled workers and much smaller for the most experienced workers. The authors found suggestive evidence that the AI system was helping transmit the practices of stronger workers to others.
 
-That is leverage operating on talent.
-
-The experienced worker already knows how to handle the difficult customer. Traditionally, that knowledge spreads slowly: shadowing, training documents, coaching, quality reviews, hallway conversations, months of practice. A sufficiently capable system can capture some regularities in those successful interactions and make them available at the moment another worker needs them.
+That is leverage operating on talent. The experienced worker already knows how to handle the difficult customer. Traditionally, that knowledge spreads slowly: shadowing, training documents, coaching, quality reviews, hallway conversations, months of practice. A sufficiently capable system can capture some regularities in those successful interactions and make them available at the moment another worker needs them.
 
 The expert's hour has been partially detached from the expert.
 
@@ -108,70 +92,38 @@ This is precisely why talent and leverage should be studied together.
 
 If AI makes the average worker more capable, some forms of scarce expertise may become less scarce. If AI lets the best people encode and distribute their methods, the economic reach of their judgment may increase. If everyone can call the same model, proprietary advantage may migrate away from the model and toward proprietary data, customer access, trust, workflow integration, or the ability to evaluate output. If a model can do more of the routine work, organizations may become more dependent on the people who can identify the nonroutine failure.
 
-Leverage rearranges scarcity.
-
-It does not abolish it.
+Leverage rearranges scarcity; it does not abolish it.
 
 The same rearrangement can be seen in science. Google DeepMind's AlphaFold work turned a specialized computational achievement into a research tool used at enormous scale. By late 2025, DeepMind said AlphaFold was being used by more than three million researchers in more than 190 countries. Demis Hassabis and John Jumper shared the 2024 Nobel Prize in Chemistry for the work, alongside David Baker for computational protein design.
 
 The remarkable part is not simply that a talented research team solved a difficult problem. Science has always had talented research teams. The modern difference is the speed and reach with which the resulting capability can be turned into infrastructure for other researchers.
 
-A discovery becomes a service.
-
-A service becomes an input into millions of other decisions.
-
-That is leverage.
+A discovery becomes a service, and the service becomes an input into millions of other decisions. That is leverage.
 
 But even here, the tempting story about genius needs discipline. AlphaFold depended on decades of public structural-biology work, experimentally determined protein structures, scientific institutions, computing infrastructure, prior methods, and large collaborative ecosystems. Concentrated talent mattered. So did accumulated communal data. So did compute. So did distribution.
 
-The point is not to award one factor the trophy.
-
-The point is to see the multiplication.
+The point is not to award one factor the trophy. It is to see the multiplication.
 
 Data changes the value of talent because better evidence lets judgment operate on a better map. Talent changes the value of data because someone has to decide which observations matter, which errors can be tolerated, and what to do next. Leverage changes the value of both because the result can be distributed through software, capital, machines, networks, or institutions.
 
-This is the loop Meta was trying to strengthen.
+This is the loop Meta was trying to strengthen. It already had extraordinary distribution. It already had capital. It already had data from its own products, bounded by law, policy, and user expectations. It needed to improve the rate at which all of those assets became better AI systems. So it invested in a company organized around the data layer and brought that company's founder into its own AI effort.
 
-It already had extraordinary distribution. It already had capital. It already had data from its own products, bounded by law, policy, and user expectations. It needed to improve the rate at which all of those assets became better AI systems. So it invested in a company organized around the data layer and brought that company's founder into its own AI effort.
-
-The legal architecture left Scale standing.
-
-The economic architecture moved pieces of the loop.
+The legal architecture left Scale standing while the economic architecture moved pieces of the loop.
 
 There is a darker interpretation, and the book should not dodge it. When the richest firms can spend enormous amounts to acquire minority stakes, secure compute, recruit founders, and hire scarce research teams, the same feedback loop that produces innovation can make markets harder to enter. The U.S. Federal Trade Commission's 2025 staff report on large cloud-provider investments in AI developers warned that such partnerships could affect access to key inputs including computing resources and engineering talent, increase switching costs, and provide large partners with sensitive technical and business information.
 
 The report was about Microsoft and OpenAI, Amazon and Anthropic, and Google and Anthropic rather than the later Meta-Scale transaction. The mechanism is broader. When capital, infrastructure, and talent markets are tightly coupled, financing is no longer just financing. It can shape who gets the machines, who gets the people, which technical paths remain open, and how easily a smaller firm can change partners.
 
-Leverage can compound concentration.
-
-That possibility gives this book its second question.
-
-The first is how to build the loop.
-
-The second is what the loop does to everyone outside it.
+Leverage can compound concentration. That possibility leaves the book with two questions that have to remain together: how is the loop built, and what does it do to everyone outside it?
 
 An organization that owns unusual data, attracts unusual people, and gives them unusually powerful tools can become astonishingly productive. Customers may benefit from better products and lower costs. Workers may become more capable. Scientific progress can accelerate. Small teams can attempt projects that once required institutions.
 
 The same structure can also create asymmetry. The worker may create more value without capturing more of it. The customer may become dependent on a system that learns from every interaction. The supplier may discover that one buyer controls access to demand. The startup may need the cloud provider that also funds its competitor. The organization may become efficient enough to remove the redundancy that would have saved it during a shock.
 
-Compounding advantage has a balance sheet.
-
-It creates assets and liabilities at the same time.
+Compounding advantage has a balance sheet. It creates assets and liabilities at the same time.
 
 That is why the Meta-Scale deal is useful beyond artificial intelligence. It exposed the pieces.
 
 A valuable company did not simply vanish into a larger one. A founder moved. Capital moved. Commercial ties deepened. Data rights remained contested enough to require a public reassurance. Customers had to decide whether they still trusted the arrangement. Competitors had to decide whether Scale still looked neutral. Meta had to decide what combination of talent, data infrastructure, compute, and distribution could accelerate its position.
 
-None of those decisions can be reduced to "technology."
-
-They are decisions about who gets to see, who gets to decide, and how far the decision can travel.
-
-Data.
-
-Talent.
-
-Leverage.
-
-The three nouns are easy.
-
-The deal was about the multiplication sign between them.
+None of those decisions can be reduced to "technology." They are decisions about who gets to see, who gets to decide, and how far the decision can travel. Data, talent, and leverage are the easy nouns. The deal was about the multiplication sign between them.
