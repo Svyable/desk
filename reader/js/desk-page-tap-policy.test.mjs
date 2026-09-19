@@ -52,6 +52,9 @@ match(adapter, /Tap center for controls · tap an edge or swipe to turn/);
 match(adapter, /OVERLAY_SELECTOR/);
 match(adapter, /selectionActive\(\)/);
 match(adapter, /INTERACTIVE_SELECTOR/);
+match(adapter, /const LIBRARY_SORT_URL = new URL\('\.\/library-sort\.js', import\.meta\.url\)\.href;/);
+assertions += 1;
+assert.doesNotMatch(adapter, /svyable\.github\.io\/bookself\/reader\/js\/library-sort/);
 
 // The adapter must not fork the canonical page-turn path or add controls.
 assertions += 1;
@@ -64,7 +67,7 @@ match(css, /\.nav-gesture-preview\.next \{\s*width: 28%/s);
 match(css, /data-reader-immersive="manual"/);
 match(css, /@media \(forced-colors: active\)/);
 
-const adapterScript = 'https://svyable.github.io/desk/reader/js/desk-page-tap-policy.js?v=bookself-20260905';
+const adapterScript = 'js/desk-page-tap-policy.js?v=bookself-20260905';
 const sharedNavigation = 'js/navigation.js?v=r1';
 ok(index.includes(adapterScript), 'Desk index should load the local tap policy');
 ok(index.indexOf(adapterScript) < index.indexOf(sharedNavigation), 'Desk tap policy must register before shared Shelf navigation');

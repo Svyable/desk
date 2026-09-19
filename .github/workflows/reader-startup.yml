@@ -27,3 +27,11 @@ jobs:
           cp reader/js/desk-viewport-stability-runtime.js /tmp/desk-viewport-stability-runtime.mjs
           node --check /tmp/desk-app-loader.mjs
           node --check /tmp/desk-viewport-stability-runtime.mjs
+      - name: Verify localized Reader contracts
+        run: |
+          node --test \
+            reader/js/desk-offline-runtime-contract.test.mjs \
+            reader/js/desk-page-tap-policy.test.mjs \
+            reader/js/desk-book-opening-handoff-contract.test.mjs \
+            reader/js/library-sort-model.test.mjs \
+            reader/js/reading-trail-model.test.mjs
