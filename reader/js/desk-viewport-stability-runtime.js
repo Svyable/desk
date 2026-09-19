@@ -157,7 +157,7 @@ function primeDeskLibrary() {
   const cached = fastDeskCatalogFromStorage();
   if (cached.length) renderFastDeskCatalog(cached);
 
-  fetch(new URL('../../README.md', import.meta.url), { cache: 'default' })
+  fetch(new URL('../../README.md', import.meta.url), { cache: 'no-cache' })
     .then((response) => response.ok ? response.text() : '')
     .then((markdown) => {
       const entries = parseFastDeskCatalog(markdown);
