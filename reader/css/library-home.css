@@ -485,7 +485,16 @@ body[data-stage="library"] .shelf-error {
 
 @media (max-width: 420px) {
   body[data-stage="library"] .library-actions {
-    display: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: .35rem .8rem;
+    margin: .2rem 0 .5rem;
+  }
+
+  body[data-stage="library"] .library-actions .write-link {
+    min-height: 2rem;
+    display: inline-flex;
+    align-items: center;
   }
 
   body[data-stage="library"] .library-lede {
