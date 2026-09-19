@@ -9,12 +9,12 @@ Desk is the working library for Sven Hardy Benson’s books: drafts, complete ma
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 131 book projects · 64 complete drafts · 3 in revision · 64 drafting**
+> **Desk: 132 book projects · 64 complete drafts · 3 in revision · 65 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
 > **Shelf: 58 author projects · 56 released · 2 public drafts/proofs**
-> **Where they live: 58 in both Desk + Shelf · 73 Desk-only · 0 Shelf-only**
+> **Where they live: 58 in both Desk + Shelf · 74 Desk-only · 0 Shelf-only**
 > **Release review queue: 13 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
@@ -157,6 +157,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Source Code**](books/source-code/) | ✍️ Drafting | 8 of 24 | 16,685 | The working thesis is that general AI capability will diffuse rapidly across companies, while truthful comprehension of a company's own product and tooling code remains scarce. | [Read →](https://svyable.github.io/desk/reader/#/b/source-code/) |
 | [**Subsidized Intelligence**](books/subsidized-intelligence/) | ✍️ Drafting | 6 of 20 | 16,110 | <!-- bookself-reader-links:start --> Reader links: Working edition · Desk Reader <!-- bookself-reader-links:end --> | [Read →](https://svyable.github.io/desk/reader/#/b/subsidized-intelligence/) |
 | [**Synthetic Intelligence**](books/synthetic-intelligence/) | ✍️ Drafting | 70 of 70 | 12,977 | The central thesis is that AI-generated experience becomes transformative when generation is coupled to verification, diversity, adaptive curricula, and recurring contact with real-world… | [Read →](https://svyable.github.io/desk/reader/#/b/synthetic-intelligence/) |
+| [**Surviving The Street**](books/surviving-the-street/) | ✍️ Drafting | 1 of 18 | 3,863 | The working thesis is that beating the market is less about possessing a single superior forecast than building a decision process that survives bad forecasts. | [Read →](https://svyable.github.io/desk/reader/#/b/surviving-the-street/) |
 | [**Abstraction Trap**](books/the-abstraction-trap/) | ✍️ Drafting | 23 of 23 | 48,095 | This is an unpublished Desk manuscript. Its central argument is that abstraction makes civilization scalable, but a representation becomes dangerous when institutions optimize the… | [Read →](https://svyable.github.io/desk/reader/#/b/the-abstraction-trap/) |
 | [**The Agentic Consumer Economy**](books/the-agentic-consumer-economy/) | ✅ Complete draft · Published on Shelf | 23 of 23 | 68,208 | <!-- bookself-reader-links:start --> Reader links: Working edition · Desk Reader · Published edition · Shelf Reader <!-- bookself-reader-links:end --> | [Read →](https://svyable.github.io/desk/reader/#/b/the-agentic-consumer-economy/) |
 | [**The Alliance Advantage**](books/the-alliance-advantage/) | ✅ Complete draft | 18 of 18 + prologue | 59,142 | The central thesis is that alliances create durable power only when political promises become interoperable systems. | [Read →](https://svyable.github.io/desk/reader/#/b/the-alliance-advantage/) |
