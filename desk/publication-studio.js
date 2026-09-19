@@ -57,7 +57,7 @@ function syncExportButton(button, trigger, idleLabel) {
       button.textContent = 'Downloaded';
       button.title = '';
       button.removeAttribute('aria-busy');
-      button.disabled = false;
+      button.disabled = true;
       return;
     }
     if (/failed/i.test(text)) {
@@ -65,7 +65,7 @@ function syncExportButton(button, trigger, idleLabel) {
       button.textContent = 'Export failed';
       button.title = trigger.title || 'Could not export this manuscript.';
       button.removeAttribute('aria-busy');
-      button.disabled = false;
+      button.disabled = true;
       return;
     }
     button.textContent = idleLabel;
