@@ -370,6 +370,262 @@ Preserve institutional memory about failure modes.
 
 In other words, build feedback.
 
+Outcome bias makes this harder because organizations rarely evaluate decisions in the clean way calibration requires.
+
+A project succeeds and the strategy is praised.
+
+A project fails and the strategy is condemned.
+
+The outcome becomes evidence about the quality of the decision even when chance played a large role.
+
+This feels reasonable because outcomes are what organizations ultimately care about.
+
+But if outcomes are the only feedback signal, people learn the wrong lessons.
+
+Imagine two surgeons making the same careful decision under similar conditions. One patient has an unforeseen complication. The other does not.
+
+If the institution learns only from outcome, identical reasoning receives opposite grades.
+
+Now imagine two traders taking opposite-quality risks. The reckless trade pays. The disciplined trade loses.
+
+The market has supplied information about the realized path.
+
+It has not supplied a complete verdict on process.
+
+Good learning systems separate decision quality from outcome quality without pretending outcome is irrelevant.
+
+The distinction can be captured in a decision journal.
+
+Before the result, record the state of knowledge.
+
+What did you believe?
+
+How confident were you?
+
+What alternatives did you consider?
+
+What would make you change your mind?
+
+Which variables matter most?
+
+What range of outcomes did you expect?
+
+Then wait.
+
+The value of the record appears after hindsight begins rewriting memory.
+
+People are astonishingly good at remembering their old uncertainty as if it had pointed toward the eventual result.
+
+The journal is an anti-narrative device.
+
+It preserves the person you were before you knew.
+
+This practice can feel bureaucratic if applied to every decision.
+
+Use it where feedback is otherwise ambiguous.
+
+Large investments.
+
+Major hires.
+
+Product launches.
+
+Strategic forecasts.
+
+Complex diagnoses.
+
+High-stakes investigations.
+
+The record creates a training set for the decision maker.
+
+After enough entries, patterns can emerge.
+
+You are consistently too confident at ninety percent.
+
+You underestimate implementation time.
+
+You overreact to recent failures.
+
+You assign too much weight to charismatic founders.
+
+You are good at identifying technical risk and poor at anticipating organizational resistance.
+
+This is competence becoming conscious again through measurement.
+
+The process is humbling because it attacks identity.
+
+People prefer to believe they possess one stable level of judgment.
+
+Calibration often reveals a patchwork.
+
+Excellent here.
+
+Average there.
+
+Overconfident in one class of case.
+
+Underconfident in another.
+
+This is more useful than a global label such as “good decision maker.”
+
+AI systems make decision journals easier to maintain and analyze.
+
+A system can capture forecasts, extract assumptions, remind users to revisit them, score calibration, and cluster recurring errors.
+
+This could turn everyday work into a richer learning environment.
+
+It could also create a surveillance machine if every uncertain thought becomes part of a performance record.
+
+The distinction is institutional.
+
+A private calibration tool helps a person learn.
+
+A punitive dashboard teaches the person to write safer predictions.
+
+When forecasts affect evaluation, people game the forecast.
+
+The learning signal degrades.
+
+This is why feedback systems need psychological and incentive design, not only data capture.
+
+The same problem appears in model evaluation.
+
+If a benchmark becomes the target, systems learn the benchmark.
+
+If employees know exactly which errors are audited, they optimize around the audit.
+
+If schools teach only the measured task, the score can rise while broader competence stagnates.
+
+Measurement changes behavior.
+
+Calibration should therefore use multiple windows on performance.
+
+Blind samples.
+
+Prospective forecasts.
+
+Transfer cases.
+
+Rare-event drills.
+
+External outcomes.
+
+Peer review.
+
+No single metric deserves monopoly.
+
+This may sound like a move away from unconscious competence.
+
+It is the maintenance system for it.
+
+Intuition needs periods of explicit audit.
+
+Otherwise confidence continues compounding even when the environment has changed.
+
+The audit is especially important after success.
+
+Failure naturally provokes review.
+
+Success protects assumptions.
+
+A company that wins for five years can become less curious each year.
+
+The market appears to validate the model.
+
+Talent accumulates around the winner.
+
+Media repeats the winner's explanation.
+
+Employees who disagreed leave or learn to stop.
+
+The feedback environment becomes contaminated by the success itself.
+
+Then conditions change.
+
+The organization discovers that some of what it called culture was cycle.
+
+Some of what it called judgment was position.
+
+Some of what it called inevitability was leverage to a regime that ended.
+
+This is the institutional form of unconscious confidence.
+
+It is why great companies can look most certain immediately before they become confused.
+
+The same risk exists for individuals whose careers contain long positive streaks.
+
+Correct patterns become overgeneralized.
+
+“I know how this works” migrates into situations that only resemble the old one.
+
+The cure is not performative insecurity.
+
+It is maintaining contact with evidence that can still hurt.
+
+Seek cases where your pattern failed.
+
+Keep a record of misses.
+
+Ask people with different exposure.
+
+Run pre-mortems before commitment and postmortems after outcome.
+
+Distinguish luck from repeatable mechanism where possible.
+
+Make it socially safe to update.
+
+A competent expert should be difficult to fool and easy to correct.
+
+Those properties are not opposites.
+
+The person is difficult to fool because experience has built strong expectations.
+
+The person is easy to correct because those expectations remain answerable to reality.
+
+This is the ideal relationship between conscious and unconscious cognition.
+
+Fast pattern recognition creates a prior.
+
+Evidence updates it.
+
+When the update is large enough, the pattern library changes.
+
+The next intuition arrives differently.
+
+Confidence becomes less a personality trait and more a compressed record of correction.
+
+That is the kind worth having.
+
+It also gives us a better way to think about confidence displays from AI.
+
+A model can output a probability, a score, a phrase such as “high confidence,” or no uncertainty at all.
+
+None of these should be mistaken for calibration without evaluation.
+
+The interface can make uncertainty legible.
+
+Only outcomes can make it trustworthy.
+
+An institution that deploys AI should therefore ask the same question it asks of experienced humans: where has this confidence been tested?
+
+Across which populations?
+
+Under which conditions?
+
+How does performance change when inputs shift?
+
+What happens on rare cases?
+
+Does the system know when it does not know?
+
+And when it cannot answer that last question reliably, what independent mechanism catches the miss?
+
+This is not anti-intuition.
+
+It is pro-feedback.
+
+Human expertise and machine competence both become useful by surviving contact with a world that is allowed to disagree.
+
 This is the missing infrastructure in many claims about expertise.
 
 People talk about years.
