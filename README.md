@@ -9,12 +9,12 @@ Desk is the working library for Sven Hardy Benson’s books: drafts, complete ma
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 132 book projects · 64 complete drafts · 3 in revision · 65 drafting**
+> **Desk: 133 book projects · 64 complete drafts · 3 in revision · 66 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
 > **Shelf: 58 author projects · 56 released · 2 public drafts/proofs**
-> **Where they live: 58 in both Desk + Shelf · 74 Desk-only · 0 Shelf-only**
+> **Where they live: 58 in both Desk + Shelf · 75 Desk-only · 0 Shelf-only**
 > **Release review queue: 13 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
@@ -132,6 +132,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Lightning in a Bottle**](books/lightning-in-a-bottle/) | ✍️ Drafting | 1 complete of 12 planned | 2,523 | The central argument is simple: generation without accumulation is consumption. | [Read →](https://svyable.github.io/desk/reader/#/b/lightning-in-a-bottle/) |
 | [**Look Alive**](books/look-alive/) | ✅ Complete draft | 21 of 21 | 56,297 | This book examines strategic and quasi-strategic deception in contemporary AI systems: sycophancy, specification gaming, reward hacking, hidden backdoors, capability sandbagging, alignment… | [Read →](https://svyable.github.io/desk/reader/#/b/look-alive/) |
 | [**Make Yourself Useful**](books/make-yourself-useful/) | ✍️ Drafting | 3 of 12 | 10,935 | The book follows ordinary people who notice the unclaimed problem, carry more than their official job requires, and turn small acts of usefulness into trust, access, and eventually freedom. | [Read →](https://svyable.github.io/desk/reader/#/b/make-yourself-useful/) |
+| [**Motivate & Incentivize**](books/motivate-and-incentivize/) | ✍️ Drafting | 1 of 18 | 3,697 | The working thesis is that incentives do more than change the payoff attached to an action. | [Read →](https://svyable.github.io/desk/reader/#/b/motivate-and-incentivize/) |
 | [**Neuralase**](books/neuralase/) | ✅ Complete draft | 18 of 18 | 72,400 | The book introduces neuralase as Sven Hardy Benson’s term for the mechanism that makes a reasoning loop productive: not repetition, but a return path plus a discriminating signal. | [Read →](https://svyable.github.io/desk/reader/#/b/neuralase/) |
 | [**No One Read It**](books/no-one-read-it/) | ✍️ Drafting | 5 of 21 | 15,368 | Generative systems can produce contracts, code, analysis, reports, messages, and options faster than the people named on that work can inspect it. | [Read →](https://svyable.github.io/desk/reader/#/b/no-one-read-it/) |
 | [**Nothing Counts Yet**](books/nothing-counts-yet/) | ✍️ Released working edition | 25 of 25 | 23,097 | The book argues that modern life is becoming unusually good at recording, ranking, publishing, and judging people before they have finished becoming capable. | [Read →](https://svyable.github.io/desk/reader/#/b/nothing-counts-yet/) |
