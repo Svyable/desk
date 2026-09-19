@@ -18,21 +18,22 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: "22"
-      - name: JavaScript contract tests
+      - name: Run every repository contract
         shell: bash
         run: |
-          set -euo pipefail
+          set -uo pipefail
+          status=0
+
           while IFS= read -r test; do
             echo "::group::$test"
-            node --test "$test"
+            node --test "$test" || status=1
             echo "::endgroup::"
           done < <(find desk reader -name '*.test.mjs' -print | sort)
-      - name: Python contract tests
-        shell: bash
-        run: |
-          set -euo pipefail
+
           while IFS= read -r test; do
             echo "::group::$test"
-            python3 "$test"
+            python3 "$test" || status=1
             echo "::endgroup::"
           done < <(find scripts tests -name '*.test.py' -print | sort)
+
+          exit "$status"
