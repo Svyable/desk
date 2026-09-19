@@ -368,8 +368,10 @@ function downloadBlob(filename, bytes, type) {
   const a = document.createElement('a');
   a.href = url;
   a.download = filename;
+  document.body.appendChild(a);
   a.click();
-  window.setTimeout(() => URL.revokeObjectURL(url), 0);
+  a.remove();
+  window.setTimeout(() => URL.revokeObjectURL(url), 1000);
 }
 
 async function copyText(value) {
@@ -452,7 +454,8 @@ function syncDeskLinks() {
     start.href = '#newPublicationStudio';
     start.addEventListener('click', (event) => {
       event.preventDefault();
-      $('newPublicationStudio')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      const reduced = window.matchMedia?.('(prefers-reduced-motion: reduce)').matches;
+      $('newPublicationStudio')?.scrollIntoView({ behavior: reduced ? 'auto' : 'smooth', block: 'start' });
       $('newPublicationName')?.focus({ preventScroll: true });
     });
   }
