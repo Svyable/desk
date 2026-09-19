@@ -13,9 +13,9 @@ Desk is the working library for Sven Hardy Benson’s books: drafts, complete ma
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
-> **Shelf: 57 author projects · 54 released · 3 public drafts/proofs**
-> **Where they live: 57 in both Desk + Shelf · 71 Desk-only · 0 Shelf-only**
-> **Release review queue: 15 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
+> **Shelf: 58 author projects · 56 released · 2 public drafts/proofs**
+> **Where they live: 58 in both Desk + Shelf · 73 Desk-only · 0 Shelf-only**
+> **Release review queue: 13 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
 |---|---|---|---|
@@ -30,9 +30,10 @@ Desk is the working library for Sven Hardy Benson’s books: drafts, complete ma
 | [**Commit**](books/commit/) | ✅ Complete expanded draft · publication candidate | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/commit/) |
 | [**Deceptatron**](books/deceptatron/) | ✅ Complete first draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/deceptatron/) |
 | [**Energy, Value & Intelligence**](books/energy-value-intelligence/) | ✍️ Drafting | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/energy-value-intelligence/) |
-| [**Face the Strange**](books/face-the-strange/) | ✅ Complete draft · Published on Shelf | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/face-the-strange/) |
+| [**Face The Strange**](books/face-the-strange/) | ✅ Complete draft · Published on Shelf | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/face-the-strange/) |
 | [**Fiscal Wall**](books/fiscal-wall/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/fiscal-wall/) |
 | [**Gatekeepers**](books/gatekeepers/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/gatekeepers/) |
+| [**Hallucinations**](books/hallucinations/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/hallucinations/) |
 | [**Intelligence State**](books/intelligence-state/) | ✅ Complete draft · Published on Shelf | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/intelligence-state/) |
 | [**Keep Cooking**](books/keep-cooking/) | ✅ Complete draft + living afterword | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/keep-cooking/) |
 | [**Leveraging Luck**](books/leveraging-luck/) | 🔁 Revision in progress | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/leveraging-luck/) |
@@ -45,7 +46,7 @@ Desk is the working library for Sven Hardy Benson’s books: drafts, complete ma
 | [**Public Pressure**](books/public-pressure/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/public-pressure/) |
 | [**Renegade Code**](books/renegade-code/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/renegade-code/) |
 | [**Restructuring America**](books/restructuring-america/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/restructuring-america/) |
-| [**Right to Try**](books/right-to-try/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/right-to-try/) |
+| [**Right To Try**](books/right-to-try/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/right-to-try/) |
 | [**Robust**](books/robust/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/robust/) |
 | [**Silent Cartel**](books/silent-cartel/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/silent-cartel/) |
 | [**Single Points of Failure**](books/single-points-of-failure/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/single-points-of-failure/) |
@@ -57,13 +58,13 @@ Desk is the working library for Sven Hardy Benson’s books: drafts, complete ma
 | [**The Delegation Machine**](books/the-delegation-machine/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-delegation-machine/) |
 | [**The Delete Key**](books/the-delete-key/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-delete-key/) |
 | [**The Exponentiality**](books/the-exponentiality/) | ✅ Complete draft · publication candidate | 🟡 Public draft | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-exponentiality/) |
-| [**The Hundred-Year Handoff**](books/the-hundred-year-handoff/) | ✍️ Drafting · full structural draft | 🟡 Public proof | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-hundred-year-handoff/) |
 | [**The Intelligence Dilemma**](books/the-intelligence-dilemma/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-intelligence-dilemma/) |
 | [**Built to Be Alone**](books/the-loneliness-dividend/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-loneliness-dividend/) |
 | [**The Long-Running Mind**](books/the-long-running-mind/) | ✅ First complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-long-running-mind/) |
 | [**The Mortality Discount**](books/the-mortality-discount/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-mortality-discount/) |
 | [**The Never Ending Intelligence**](books/the-never-ending-intelligence/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-never-ending-intelligence/) |
 | [**The Orphan Age**](books/the-orphan-age/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-orphan-age/) |
+| [**America’s Other 250**](books/the-other-250/) | ✅ Complete draft · publication candidate | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-other-250/) |
 | [**The Retry Generation**](books/the-retry-generation/) | ✍️ Expanded first draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-retry-generation/) |
 | [**The Risk Pool**](books/the-risk-pool/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-risk-pool/) |
 | [**The Unbounding**](books/the-unbounding/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-unbounding/) |
@@ -77,7 +78,7 @@ Desk is the working library for Sven Hardy Benson’s books: drafts, complete ma
 | [**Who Taught America?**](books/who-taught-america/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/who-taught-america/) |
 | [**Wild Speculation**](books/wild-speculation/) | ✅ Complete draft · Published on Shelf | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/wild-speculation/) |
 
-**Desk-only complete drafts awaiting an explicit release decision:** [Bookself](books/bookself/), [Hallucinations](books/hallucinations/), [The Alliance Advantage](books/the-alliance-advantage/), [The Books That Wrote America](books/the-books-that-wrote-america/), [The Crime That Made the Decade](books/the-crime-that-made-the-decade/), [The Half-Life of Now](books/the-half-life-of-now/), [The Last Human Channel](books/the-last-human-channel/), [The Longevity Moment](books/the-longevity-moment/), [America’s Other 250](books/the-other-250/), [The Taiwan Threshold](books/the-taiwan-threshold/), [Third Language](books/the-third-language/), [The Unobserved World](books/the-unobserved-world/), [Visitors](books/the-visitors/), [The Warning Problem](books/the-warning-problem/), [The World Won’t Choose Sides](books/the-world-wont-choose-sides/)
+**Desk-only complete drafts awaiting an explicit release decision:** [Bookself](books/bookself/), [The Alliance Advantage](books/the-alliance-advantage/), [The Books That Wrote America](books/the-books-that-wrote-america/), [The Crime That Made the Decade](books/the-crime-that-made-the-decade/), [The Half-Life of Now](books/the-half-life-of-now/), [The Last Human Channel](books/the-last-human-channel/), [The Longevity Moment](books/the-longevity-moment/), [The Taiwan Threshold](books/the-taiwan-threshold/), [Third Language](books/the-third-language/), [The Unobserved World](books/the-unobserved-world/), [Visitors](books/the-visitors/), [The Warning Problem](books/the-warning-problem/), [The World Won’t Choose Sides](books/the-world-wont-choose-sides/)
 <!-- SHELF_SUMMARY:END -->
 
 Some books here are only a chapter or two into existence. Others are complete manuscripts still being edited, tested, or reconsidered. That is intentional. **Desk shows the work in motion instead of pretending every book is at the same stage.**
