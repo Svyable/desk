@@ -1,5 +1,14 @@
 const RESEARCH_LINK_CLASS = 'research-action';
 
+function parseRepository(value) {
+  const raw = String(value || '').trim();
+  if (!raw) return null;
+  const github = raw.match(/github\.com\/([^/]+)\/([^/#?]+)/i);
+  const pair = github ? `${github[1]}/${github[2]}` : raw.replace(/^https?:\/\//i, '');
+  const match = pair.match(/^([^/\s]+)\/([^/\s]+)$/);
+  return match ? { owner: match[1], repo: match[2].replace(/\.git$/i, '') } : null;
+}
+
 export function researchReadmeUrl(slug, moduleUrl = import.meta.url) {
   return new URL(`../books/${encodeURIComponent(String(slug || '').trim())}/research/README.md`, moduleUrl).href;
 }
@@ -48,10 +57,13 @@ export function installResearchSurface(root = document.getElementById('manuscrip
   enhanceVisibleCards(root);
   const observer = new MutationObserver(() => enhanceVisibleCards(root));
   observer.observe(root, { childList: true });
-  document.getElementById('repoForm')?.addEventListener('submit', () => observer.disconnect(), { once: true });
+  document.getElementById('repoForm')?.addEventListener('submit', () => {
+    const value = document.getElementById('repoInput')?.value || '';
+    if (parseRepository(value)) observer.disconnect();
+  });
   return observer;
 }
 
-if (typeof document !== 'undefined' && !new URLSearchParams(location.search).has('repo')) {
+if (typeof document !== 'undefined' && !parseRepository(new URLSearchParams(location.search).get('repo'))) {
   installResearchSurface();
 }
