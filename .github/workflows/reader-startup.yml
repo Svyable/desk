@@ -32,6 +32,7 @@ jobs:
           node --test \
             reader/js/desk-offline-runtime-contract.test.mjs \
             reader/js/desk-page-tap-policy.test.mjs \
+            reader/js/contents-drawer-contract.test.mjs \
             reader/js/desk-book-opening-handoff-contract.test.mjs \
             reader/js/library-sort-model.test.mjs \
             reader/js/library-sort-contract.test.mjs \
