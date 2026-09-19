@@ -32,7 +32,7 @@ test('manuscript cards expose only the focused primary action set', async () => 
   const template = html.match(/<template id="bookCardTemplate">([\s\S]*?)<\/template>/)?.[1] || '';
 
   assert.match(template, />Preview</);
-  assert.match(template, />Publish</);
+  assert.match(template, />Prepare edition</);
   assert.match(template, />Edit hub</);
   assert.match(template, /<summary>More<\/summary>/);
   assert.match(template, /class="export-epub-action"[^>]*hidden/);
@@ -46,4 +46,10 @@ test('print editions are honest about current capability', async () => {
   assert.match(html, /Hardcover · 6 × 9/);
   assert.match(html, /Print-PDF export is not enabled yet\./);
   assert.match(html, /class="studio-export-epub"/);
+});
+
+test('export watchdog stops on terminal success or failure', async () => {
+  const source = await readFile(new URL('./publication-studio.js', import.meta.url), 'utf8');
+  assert.match(source, /if \(\/downloaded\/i\.test\(text\)\)[\s\S]*?stopWatching\(\);[\s\S]*?return;/);
+  assert.match(source, /if \(\/failed\/i\.test\(text\)\)[\s\S]*?stopWatching\(\);[\s\S]*?return;/);
 });
