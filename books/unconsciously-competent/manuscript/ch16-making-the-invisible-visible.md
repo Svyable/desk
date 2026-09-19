@@ -436,6 +436,398 @@ The dangerous expert is not the one who knows automatically.
 
 It is the one who cannot detect where automatic knowledge stopped applying.
 
+The after-action review offers one of the clearest examples of how organizations can make competence visible without pretending to extract it completely.
+
+The form is simple.
+
+What was supposed to happen?
+
+What actually happened?
+
+Why was there a difference?
+
+What should change next time?
+
+The power is not in the four questions.
+
+It is in asking them while the event is still rich enough to resist mythology.
+
+Without structured review, stories simplify quickly.
+
+The successful launch becomes evidence that the plan was right.
+
+The failed launch becomes evidence that somebody did not execute.
+
+The incident becomes the one mistake everyone remembers.
+
+The negotiation becomes the clever move the winner recounts.
+
+After-action review can preserve the uncomfortable middle.
+
+The plan may have been good and execution weak.
+
+The plan may have been wrong and luck favorable.
+
+A junior person may have noticed the decisive issue.
+
+An expert may have been right for the wrong reason.
+
+A procedure may have worked despite a hidden vulnerability.
+
+The review creates an institutional memory closer to the event.
+
+This is where expertise becomes teachable.
+
+Not as doctrine.
+
+As contrast between expectation and reality.
+
+A good review should recover the decision environment.
+
+What information existed at the time?
+
+Which cue was ignored?
+
+Which assumption looked reasonable then?
+
+When did the situation become recognizable?
+
+Which action created the next constraint?
+
+What would a competent person need to notice earlier?
+
+These questions turn an event into training material.
+
+They also protect against hindsight bias.
+
+The organization knows the ending.
+
+Future learners need access to the beginning.
+
+This is why a case should often be taught in stages.
+
+Do not hand over the final report first.
+
+Give the learner the information available at minute one.
+
+Ask for a judgment.
+
+Reveal the next development.
+
+Ask again.
+
+Let the learner experience the changing situation rather than admire the postmortem.
+
+This method is common in good professional education because it recreates uncertainty.
+
+AI can make it extraordinarily scalable.
+
+Take a documented incident.
+
+Convert it into an interactive sequence.
+
+Hide future information.
+
+Let the learner ask questions.
+
+Branch the scenario around choices.
+
+Compare the learner's attention with expert attention.
+
+Reveal the actual outcome only after commitment.
+
+The archive becomes an apprenticeship engine.
+
+This is more valuable than asking a model to summarize the incident.
+
+Summary compresses.
+
+Training often needs decompression.
+
+The learner must spend time inside the ambiguity the expert once faced.
+
+That is also how tacit cues become partially observable.
+
+Suppose several experienced technicians independently pause at the same sensor pattern before a failure.
+
+The pattern may deserve study.
+
+Suppose expert editors repeatedly flag the same kind of structural problem before they can articulate a rule.
+
+Collect the cases.
+
+Compare them.
+
+Suppose senior clinicians request one additional test in a class of cases where guidelines leave room for judgment.
+
+Investigate the cues.
+
+AI can search across these traces at scale.
+
+It can propose candidate regularities humans failed to name.
+
+This is one of the most promising forms of knowledge capture because it begins from behavior and cases rather than self-description.
+
+But candidate regularity is not truth.
+
+The model may discover correlation that reflects habit, bias, or local convention.
+
+The institution has to test whether the pattern improves outcomes.
+
+The machine can help make tacit behavior visible.
+
+Reality still has to grade it.
+
+This is why expertise elicitation should include counterexamples.
+
+The expert says, “I escalate when I see X.”
+
+Find cases with X that were not escalated.
+
+Why not?
+
+The exception reveals the hidden condition.
+
+The expert says, “I never trust that vendor's estimate.”
+
+Find a case where the estimate was right.
+
+What was different?
+
+The expert says, “This writing pattern usually signals weak reporting.”
+
+Find strong reporting with the same pattern.
+
+The boundary sharpens.
+
+Without counterexamples, knowledge capture can turn personal habits into official rules.
+
+This is especially dangerous when the expert is powerful.
+
+An organization can codify one senior person's style as institutional best practice.
+
+The person retires.
+
+The preference remains in the software.
+
+Automation can fossilize judgment.
+
+This is the opposite of learning.
+
+The tool appears modern while preserving an unexamined past.
+
+A serious knowledge-transfer project therefore needs a falsification step.
+
+Which expert practices survive data?
+
+Which survive peer challenge?
+
+Which vary by context?
+
+Which are compensations for a broken system rather than expertise worth preserving?
+
+Which should disappear when the system is fixed?
+
+That last category matters.
+
+A nurse who knows how to work around a terrible interface possesses valuable local knowledge.
+
+The goal should not necessarily be to teach every new nurse the workaround forever.
+
+Fix the interface.
+
+The expertise identified a design defect.
+
+A warehouse worker who knows a dangerous shortcut may be keeping production moving.
+
+Do not capture the shortcut as best practice.
+
+Remove the condition that made it necessary.
+
+Tacit knowledge is sometimes evidence of organizational debt.
+
+The expert has learned to carry the system's flaws invisibly.
+
+When that person leaves, the flaws become visible.
+
+This is why executives can be shocked by the departure of an “ordinary” employee.
+
+The employee had become an adapter.
+
+Every day the person corrected discrepancies the formal process did not know existed.
+
+The work looked routine because the correction was routine to the person.
+
+The organization measured output.
+
+It did not measure saved failures.
+
+AI can reveal some of these adapters by mapping exceptions.
+
+Where do humans override recommendations?
+
+Which cases take longer?
+
+Where do people leave the official system and use spreadsheets, messages, or phone calls?
+
+What information do they seek before proceeding?
+
+These deviations are clues.
+
+Do not automate them away before understanding them.
+
+A deviation can be waste.
+
+It can also be the human layer keeping the formal system connected to reality.
+
+The same discipline applies to teaching experts to teach.
+
+An expert demonstration is valuable, but demonstration alone can conceal the decision structure.
+
+Pause.
+
+Ask the learner what should happen next.
+
+Now show the expert.
+
+Compare.
+
+Ask why.
+
+Repeat with a near miss.
+
+Change one feature.
+
+Does the expert's decision change?
+
+The learner begins to acquire the conditional structure.
+
+This is better than memorizing the expert's movement.
+
+It teaches what controls the movement.
+
+AI can generate the perturbations endlessly.
+
+What if the patient were twenty years older?
+
+What if the market were illiquid?
+
+What if the customer had already tried the obvious solution?
+
+What if the code ran across three regions?
+
+What if the source were anonymous?
+
+What if the aircraft were five thousand feet lower?
+
+One variable changes.
+
+The decision changes or does not.
+
+The learner sees the boundary.
+
+This is a way to accelerate the construction of expertise without pretending experience can be downloaded.
+
+You cannot pour tacit knowledge into a novice.
+
+You can expose the novice to a better sequence of contrasts.
+
+That may be enough to shorten years of accidental learning.
+
+The technology therefore creates a strange possibility.
+
+AI could remove the apprenticeship.
+
+AI could also make apprenticeship far more efficient than it has ever been.
+
+The difference is whether the system gives answers or designs experiences.
+
+Answer systems optimize the current task.
+
+Experience systems optimize the future person.
+
+The distinction should become visible in product design.
+
+Does the tool remember errors?
+
+Does it create counterexamples?
+
+Does it revisit after delay?
+
+Does it reduce support as skill increases?
+
+Does it ask for a first judgment?
+
+Does it expose expert disagreement?
+
+Does it allow the learner to fail privately?
+
+Does it generate cases from real failure modes?
+
+These are features of an apprenticeship engine.
+
+They are not the default features of a productivity assistant.
+
+Organizations will need both.
+
+The confusion comes when one is purchased and assumed to provide the other.
+
+Making competence visible also changes succession planning.
+
+Traditional succession asks who can take the role.
+
+A better question is who has encountered enough of the role's decision distribution.
+
+Has the candidate seen routine operations?
+
+Crisis?
+
+Ambiguous cases?
+
+Stakeholder conflict?
+
+Failure?
+
+Recovery?
+
+Has the candidate made decisions with consequences and received feedback?
+
+The résumé can list responsibilities.
+
+The case history shows developmental exposure.
+
+This is a more honest account of readiness.
+
+AI can help maintain that history, but the same privacy warning returns.
+
+A case history should not become a deterministic score of a person.
+
+Experience is evidence, not destiny.
+
+A learner can make a mistake once and understand it permanently.
+
+A person can lack a case and transfer a neighboring skill brilliantly.
+
+Human capability remains more open than a dashboard will imply.
+
+This is why the final purpose of visibility is not ranking.
+
+It is allocation.
+
+What practice does this person need next?
+
+What support should be removed?
+
+What case has the person never seen?
+
+What pattern is becoming too automatic?
+
+Where has the environment changed enough to reopen the skill?
+
+The best knowledge system ends in a new experience.
+
+Not another document.
+
 Making the invisible visible is therefore not only a teaching strategy.
 
 It is a maintenance strategy for expertise itself.
