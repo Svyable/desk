@@ -13,8 +13,8 @@ function doesNotMatch(value, pattern) { assertions += 1; assert.doesNotMatch(val
 match(desk, /^import \{ parseBookReadme, parsePortalCatalog \} from '\.\/catalog-contract\.js';/m);
 doesNotMatch(desk, /https:\/\/svyable\.github\.io\/shelf\/reader\/js\/catalog\.js/);
 doesNotMatch(html, /https:\/\/svyable\.github\.io\/shelf\/reader\/js\/catalog\.js/);
-match(html, /"https:\/\/svyable\.github\.io\/shelf\/reader\/js\/presentation\.js": "\.\/reader-presentation-contract\.js"/);
-match(html, /"https:\/\/svyable\.github\.io\/shelf\/reader\/js\/cover-presentation\.js": "\.\/cover-presentation-contract\.js"/);
+doesNotMatch(html, /svyable\.github\.io\/shelf\/reader\/js\/(?:presentation|cover-presentation)\.js/);
+doesNotMatch(html, /<script type="importmap">/);
 
 // Catalog parsing is a pure local contract. Repository/network access remains in
 // desk.js; this module only interprets Markdown already acquired by the workspace.
