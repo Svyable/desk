@@ -213,6 +213,23 @@ function bookInfo(card) {
   };
 }
 
+function setDesignInteractionState({ loading = false, unavailable = false } = {}) {
+  const locked = loading || unavailable;
+  const studio = $('readerDesignStudio');
+  if (studio) studio.toggleAttribute('aria-busy', loading);
+
+  const form = $('readerDesignForm');
+  if (form) form.inert = locked;
+
+  const presets = document.querySelector('.reader-design-presets');
+  if (presets) presets.inert = locked;
+
+  for (const id of ['readerDesignReload', 'readerDesignCopy', 'readerDesignDownload']) {
+    const control = $(id);
+    if (control) control.disabled = locked;
+  }
+}
+
 function syncBooks() {
   const rows = cards().map(bookInfo);
   const select = $('readerDesignBook');
@@ -227,6 +244,7 @@ function syncBooks() {
     $('readerDesignOpenReader').href = '#';
     $('readerDesignFiles').href = '#';
     $('readerDesignLoadStatus').textContent = 'No manuscripts are available in the current view.';
+    setDesignInteractionState({ unavailable: true });
     select.dispatchEvent(new Event('change'));
     return;
   }
@@ -290,6 +308,7 @@ async function loadCurrentDesign() {
   const requestId = ++designLoadSequence;
   loadingSlug = slug;
   syncBookLinks();
+  setDesignInteractionState({ loading: true });
   $('readerDesignLoadStatus').textContent = 'Loading current publication design…';
   try {
     const response = await fetch(presentationUrl(slug), { cache: 'no-store' });
@@ -303,7 +322,10 @@ async function loadCurrentDesign() {
     applyDesign(BASE);
     $('readerDesignLoadStatus').textContent = `No readable reader.json found for ${slug}; starting from Literary book.`;
   } finally {
-    if (requestId === designLoadSequence) loadingSlug = '';
+    if (requestId === designLoadSequence) {
+      loadingSlug = '';
+      setDesignInteractionState();
+    }
   }
 }
 
@@ -411,11 +433,14 @@ async function copyJson() {
 
 function downloadJson() {
   const blob = new Blob([$('readerDesignJson').value], { type: 'application/json' });
+  const url = URL.createObjectURL(blob);
   const link = document.createElement('a');
-  link.href = URL.createObjectURL(blob);
+  link.href = url;
   link.download = 'reader.json';
+  document.body.appendChild(link);
   link.click();
-  URL.revokeObjectURL(link.href);
+  link.remove();
+  window.setTimeout(() => URL.revokeObjectURL(url), 1000);
   const slug = $('readerDesignBook').value;
   $('readerDesignLoadStatus').textContent = `Downloaded reader.json. Put it at books/${slug}/reader.json.`;
 }
