@@ -1,5 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
+import { readFile } from 'node:fs/promises';
 
 import {
   parseManuscriptChecklist,
@@ -45,4 +46,12 @@ test('buildKdpHtml creates a title page, linked contents, and chapter breaks', (
   assert.match(html, /name="copyright" content="© 2026 Ada Author\. All Rights Reserved\."/);
   assert.match(html, /id="rights-and-permissions"/);
   assert.match(html, /AI training and generative use reserved\./);
+});
+
+
+test('HTML remote reads ignore unsaved repository-switcher text', async () => {
+  const source = await readFile(new URL('./kdp-export.js', import.meta.url), 'utf8');
+  assert.doesNotMatch(source, /getElementById\(['"]repoInput['"]\)/);
+  assert.match(source, /api\.github\.com\/repos\/\$\{workspace\.owner\}\/\$\{workspace\.repo\}/);
+  assert.match(source, /raw\.githubusercontent\.com\/\$\{workspace\.owner\}\/\$\{workspace\.repo\}/);
 });
