@@ -23,10 +23,10 @@ assert.deepEqual(manifest.icons[0], {
 });
 assert.ok(manifest.categories.includes('books'));
 
-// Desk's HTML intentionally uses Shelf as its shared Reader base. Native app
-// identity must therefore be pinned to Desk explicitly rather than resolving
-// through that base to the released Shelf Reader.
-assert.match(index, /<base href="https:\/\/svyable\.github\.io\/shelf\/reader\/">/);
+// Desk now owns its document base directly. Native app identity stays pinned
+// to Desk explicitly while shared Bookself runtime assets cross the temporary
+// migration boundary through explicit URLs/imports rather than an HTML <base>.
+assert.doesNotMatch(index, /<base\b/i);
 assert.match(index, new RegExp(`<link rel="manifest" href="${deskReaderUrl.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}manifest\\.webmanifest">`));
 assert.match(index, new RegExp(`<link rel="icon" type="image/svg\\+xml" href="${deskReaderUrl.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}app-icon\\.svg" data-bookself-app-icon>`));
 assert.doesNotMatch(index, /<link rel="manifest" href="manifest\.webmanifest">/);
