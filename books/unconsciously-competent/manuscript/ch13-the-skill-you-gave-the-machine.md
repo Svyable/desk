@@ -260,6 +260,278 @@ The senior professional remains valuable because the senior professional has jud
 
 The junior professional was supposed to acquire judgment by doing work that no longer makes economic sense to give the junior.
 
+Navigation makes the trade visible because we can compare arrival with orientation.
+
+A 2020 study of regular drivers examined habitual GPS use and several measures of spatial memory. Greater reliance on GPS was associated with poorer performance on aspects of spatial memory, including cognitive mapping. The study did not prove that GPS inevitably causes spatial decline; people who prefer GPS may differ in other ways, and navigation strategies are heterogeneous.
+
+That uncertainty is important.
+
+The point is not that smartphones are destroying the hippocampus.
+
+The point is that tools can change which cognitive operations a task requires, and researchers can sometimes detect the difference outside the task itself.
+
+You can arrive successfully while encoding less of the environment.
+
+That is exactly the dissociation this book cares about.
+
+The productive metric says success.
+
+The developmental metric asks what the traveler learned.
+
+A city becomes two different objects depending on the mode.
+
+With turn-by-turn guidance, the city is a sequence.
+
+At the next light, turn left.
+
+Then right.
+
+Then exit.
+
+With self-navigation, the city has geometry.
+
+The river is west.
+
+The highway runs north-south.
+
+Downtown sits beyond the tracks.
+
+The two representations can support the same trip.
+
+Only one is useful when the route changes and the instruction disappears.
+
+This is why maps feel different from navigation prompts. A map forces the user to locate the self inside a larger structure. Turn-by-turn systems can keep the self at the center and deliver only the locally relevant command.
+
+Local command is efficient.
+
+Global structure is expensive.
+
+Automation often makes this trade.
+
+A recommendation system tells you what to watch next without teaching the catalog.
+
+A search engine returns the page without teaching where knowledge lives.
+
+A coding assistant proposes the next function without teaching the architecture.
+
+A model summarizes the document without teaching its structure.
+
+A financial dashboard delivers the metric without teaching the ledger.
+
+Again, there is no moral hierarchy.
+
+Most of the time, local command is enough.
+
+The problem appears when global structure is required for recovery, transfer, or judgment.
+
+This gives us a way to separate two kinds of cognitive offloading.
+
+One offloads storage.
+
+The other offloads structure.
+
+Writing a phone number down offloads storage.
+
+It does not usually prevent understanding what a phone number is.
+
+Using a calculator offloads arithmetic procedure.
+
+It may leave mathematical structure intact if the user already understands it.
+
+Turn-by-turn navigation can offload part of the spatial structure needed to plan a route.
+
+Generative AI can offload part of the conceptual structure needed to compose an answer.
+
+The higher the offload climbs, the more carefully we should ask what representation remains.
+
+This is also why professional expertise can coexist happily with enormous offloading.
+
+A senior accountant does not become less competent because the spreadsheet adds the column.
+
+The accountant's value may lie in understanding what belongs in the column, whether the classification is meaningful, how the statement connects to cash, and why the trend is implausible.
+
+The machine removed a lower-level operation.
+
+The representation stayed.
+
+The risk comes when the representation itself is outsourced before it is acquired.
+
+This distinction explains why the same tool can be harmless for the expert and developmental for the novice.
+
+The expert uses automation against an internal model.
+
+The novice may use automation instead of building one.
+
+A senior pilot can use autopilot while maintaining a rich model of aircraft energy, weather, flight path, modes, and limits.
+
+A student pilot who never develops those models would be operating a different cognitive system even if the panel looks identical.
+
+The FAA continues to warn about this boundary. Its 2025 safety material on automation dependence explicitly notes that automation brings substantial benefits while overreliance can reduce situational awareness and manual proficiency if pilots do not continue to practice hand flying. FAA guidance emphasizes understanding automation logic, cross-checking outputs, manual flight practice, and scenario-based training for automation failures.
+
+The lesson is not “automation bad.”
+
+The agency responsible for aviation safety uses automation everywhere.
+
+The lesson is that the operating model has to include the human capabilities needed when automation no longer behaves as expected.
+
+This creates a useful phrase: retained competence.
+
+Retained competence is not the full historical skill.
+
+It is the subset of human capability still required after automation.
+
+A modern airline pilot does not need to become a 1930s navigator.
+
+A modern accountant does not need an abacus.
+
+A modern engineer does not need to reproduce every numerical method by hand.
+
+But the pilot needs the skills required to manage the actual aircraft, including manual flight where necessary.
+
+The accountant needs enough numerical and accounting structure to detect nonsense.
+
+The engineer needs enough physical and mathematical understanding to know when the output violates constraints.
+
+Retained competence should be defined from failure backward.
+
+What can the automated system fail to do?
+
+What must the human recognize?
+
+What must the human recover?
+
+What decision remains legally, ethically, or practically human?
+
+What knowledge is necessary to make that decision more than ceremonial?
+
+This is a better approach than preserving old curricula unchanged.
+
+It allows technology to remove obsolete work.
+
+It also prevents the organization from discovering too late that the remaining human responsibility requires a skill nobody practices.
+
+There is another uncomfortable implication.
+
+Retained competence can be harder to maintain than full competence used every day.
+
+A worker performing a manual task continuously gets natural repetitions.
+
+A supervisor of automation may need the old skill only once a year.
+
+The rarer the use, the more deliberate the training must become.
+
+This is why emergency skills live in simulators, drills, and recertification programs.
+
+The operational environment is too safe, too automated, or too routine to provide enough natural practice.
+
+As knowledge work automates, more professional skills may move into this category.
+
+Rare-use cognitive emergency skills.
+
+A financial analyst may rarely need to rebuild a model manually, but should be able to diagnose a generated model when assumptions break.
+
+A lawyer may rarely need to search a whole doctrine from scratch, but should be able to recognize that the machine's authority chain is incomplete.
+
+A programmer may rarely write routine infrastructure, but should be able to reason from logs and code when the generated system fails.
+
+A clinician may use decision support constantly while needing periodic unaided case work to maintain diagnostic independence.
+
+This is an unfamiliar training model for office work.
+
+People are used to practice arriving through production.
+
+If production no longer supplies the reps, firms will need recurrent cognitive training analogous to simulator time.
+
+That sounds expensive until compared with the alternative.
+
+The alternative is pretending a skill remains because the employee once possessed it.
+
+Memory does not care about résumés.
+
+This also changes how we should interpret senior expertise in the first decades of AI adoption.
+
+Today's senior workers are unusually valuable test subjects because many learned before current automation existed.
+
+They contain legacy representations.
+
+When they use AI productively, we are seeing the combination of machine capability and pre-automation apprenticeship.
+
+That combination can be excellent.
+
+It does not tell us what happens when the next generation reaches the same role after a different developmental path.
+
+This is the legacy-expertise subsidy.
+
+A senior editor can use generation because decades of reading and rewriting let the editor detect weak prose.
+
+A senior programmer can accept large volumes of generated code because years of manual construction and debugging make structural problems visible.
+
+A senior physician can use decision support because years of patient exposure provide an independent model.
+
+The organization observes high productivity.
+
+Then it assumes the tool itself produced the safe workflow.
+
+It did not.
+
+Part of the workflow is living inside the expert.
+
+If the pipeline stops replenishing that part, performance can remain stable for years before the depletion becomes obvious.
+
+This delayed failure is what makes competence debt resemble infrastructure debt.
+
+Nothing breaks immediately.
+
+Maintenance is deferred.
+
+The system seems efficient.
+
+Then a load arrives for which the missing capacity mattered.
+
+Organizations should therefore track not only what tasks AI performs but what human competencies those tasks previously generated or maintained.
+
+This can be done without romanticizing the past.
+
+For each automated task, ask three questions.
+
+What productive value did the task create?
+
+What learning value did doing it create?
+
+What retained competence is still required after automation?
+
+The first tells you whether to automate.
+
+The second tells you what training must move.
+
+The third tells you what cannot be allowed to decay.
+
+Those answers can differ.
+
+A task may have low productive value and high learning value.
+
+Automate it in production and recreate its learning value more efficiently in simulation.
+
+A task may have low productive and low learning value.
+
+Delete it.
+
+A task may have high productive value but no reason to remain human.
+
+Automate aggressively.
+
+A task may be essential precisely because doing it keeps the human capable of supervising the larger system.
+
+Protect selected repetitions.
+
+This is competence portfolio management.
+
+It will look unnecessary until the first generation trained entirely inside the new tools reaches the point where nobody above them can supply the missing layer.
+
+By then, rebuilding a pipeline takes years.
+
+The safest time to design the apprenticeship is while the old experts are still in the building.
+
 This is the apprenticeship squeeze.
 
 It will not be solved by telling juniors to “use AI responsibly.”
