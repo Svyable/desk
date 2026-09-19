@@ -473,7 +473,10 @@ async function loadLocalWorkspace() {
     state.owner = github?.owner || '';
     state.repo = github?.repo || '';
     state.branch = state.imprint.github?.branch || 'main';
-    $('repoInput').value = repoKey();
+    // This field is for inspecting another repository. Leaving the current
+    // repo prefilled makes an accidental Enter key turn the local authoring
+    // workspace into remote inspection of itself.
+    $('repoInput').value = '';
 
     const portalMarkdown = await instanceText('README.md');
     if (requestId !== workspaceLoadSequence) return;
