@@ -1,14 +1,14 @@
 import { authoringRolePolicy, initialAuthoringRolePolicy } from './authoring-role-policy.js';
 
-import('./workspace-nav.js').catch((error) => {
+import('./workspace-nav.js?v=20260919-gui2').catch((error) => {
   console.warn('Workspace navigation could not be loaded', error);
 });
 
-import('./cover-design.js').catch((error) => {
+import('./cover-design.js?v=20260919-gui2').catch((error) => {
   console.warn('Cover design studio could not be loaded', error);
 });
 
-import('./research-surface.js').catch((error) => {
+import('./research-surface.js?v=20260919-gui2').catch((error) => {
   console.warn('Publication research surface could not be loaded', error);
 });
 
