@@ -75,8 +75,8 @@ function applyWorkspacePolicy(policy) {
   if (readyLabel) readyLabel.textContent = policy.readySummaryLabel;
 }
 
-function remoteRepository() {
-  const raw = (new URLSearchParams(location.search).get('repo') || '').trim();
+function parseRepository(value) {
+  const raw = String(value || '').trim();
   if (!raw) return null;
   const github = raw.match(/github\.com\/([^/]+)\/([^/#?]+)/i);
   const pair = github ? `${github[1]}/${github[2]}` : raw.replace(/^https?:\/\//i, '');
@@ -84,8 +84,11 @@ function remoteRepository() {
   return match ? { owner: match[1], repo: match[2].replace(/\.git$/i, '') } : null;
 }
 
-async function loadRemoteInspectionRole() {
-  const repository = remoteRepository();
+function remoteRepository() {
+  return parseRepository(new URLSearchParams(location.search).get('repo'));
+}
+
+async function loadRemoteInspectionRole(repository = remoteRepository()) {
   if (!repository) return 'instance';
 
   try {
@@ -131,9 +134,20 @@ async function applyAuthoringBoundary(remoteInspection) {
 
 function initialize() {
   installDeskPolish();
-  const remoteInspection = Boolean(remoteRepository());
+  const initialRemote = remoteRepository();
+  const remoteInspection = Boolean(initialRemote);
   applyWorkspacePolicy(initialAuthoringRolePolicy({ remoteInspection }));
-  $('repoForm')?.addEventListener('submit', hideAuthoringTools);
+
+  $('repoForm')?.addEventListener('submit', () => {
+    const repository = parseRepository($('repoInput')?.value);
+    if (!repository) return;
+    hideAuthoringTools();
+    applyWorkspacePolicy(initialAuthoringRolePolicy({ remoteInspection: true }));
+    void loadRemoteInspectionRole(repository).then((role) => {
+      applyWorkspacePolicy(authoringRolePolicy({ role, remoteInspection: true }));
+    });
+  });
+
   void applyAuthoringBoundary(remoteInspection);
 }
 
