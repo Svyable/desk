@@ -278,6 +278,176 @@ The function has vanished.
 
 We will return to this later because it is one of the defining design problems of advanced automation. For now, pressure gives us the smaller lesson.
 
+The pressure research contains an important warning against turning explicit monitoring into a universal explanation.
+
+People can choke through more than one route.
+
+Some tasks depend heavily on working memory and deliberate reasoning. Pressure can fill that working memory with worry, self-evaluation, consequences, or irrelevant thoughts. Performance suffers because the person has too little attention left for the task.
+
+Other skills have become proceduralized enough that the problem can run in the opposite direction. Pressure causes the performer to monitor mechanics that normally operate efficiently without step-by-step control.
+
+One failure is too little task attention.
+
+The other can be too much attention at the wrong level.
+
+This is why generic advice to “focus” under pressure is nearly meaningless.
+
+Focus on what?
+
+The answer depends on the architecture of the skill.
+
+Beilock's experiments with golfers made this visible. Experienced golfers could perform worse when asked to attend closely to step-by-step putting mechanics, while novices could benefit from that same kind of skill-focused attention. In other experiments, distraction that would normally sound undesirable could leave expert performance intact or even help relative to intrusive self-monitoring.
+
+The mature skill had changed the function of attention.
+
+This has consequences for coaching language.
+
+A coach who gives an expert the same technical cues used with a novice may be pulling attention backward.
+
+The cue can be correct and still mistimed.
+
+Elite coaches often respond by shifting attention toward outcome, rhythm, target, or a single external cue that organizes movement without asking the performer to consciously manage every component.
+
+The point is not that internal technical work disappears.
+
+It is scheduled.
+
+Technique is opened during practice.
+
+Performance is protected when possible.
+
+Then the video, metrics, or coach can help reopen the movement afterward.
+
+This creates a cycle:
+
+perform whole,
+
+inspect part,
+
+modify part,
+
+reintegrate whole.
+
+The cycle is one of the most useful models in the book because it shows how unconscious competence and deliberate practice coexist.
+
+The expert is not condemned to never think about technique.
+
+The expert learns when to think about it.
+
+This timing principle applies to intellectual skills too.
+
+A writer drafting an argument may need momentum and broad structure. A writer revising needs ruthless attention to sentence logic, evidence, redundancy, rhythm, and factual support. Trying to perform both modes simultaneously can create paralysis.
+
+A programmer designing an architecture may need to hold system relationships at a high level. During debugging, attention may descend into one state transition. During code review, it moves back up to interfaces, invariants, and failure modes.
+
+A doctor taking a history may move between open attention to the patient's account and focused investigation of a specific hypothesis.
+
+Competent work is not one attentional state.
+
+It is controlled switching.
+
+Pressure can damage performance by locking the person into the wrong state.
+
+So can software.
+
+Interfaces constantly compete for attentional control.
+
+Autocompletion appears before the thought is finished.
+
+Notifications arrive while the user is holding a complex representation.
+
+Dashboards expose dozens of metrics.
+
+AI assistants offer suggestions at the exact moment a person is generating.
+
+Each intervention may be locally useful.
+
+Together they can prevent sustained control over where attention sits.
+
+This suggests another design principle: expert tools should respect attentional phase.
+
+Do not interrupt generation with evaluation unless requested.
+
+Do not surface every warning with equal urgency.
+
+Do not turn every recommendation into a decision prompt.
+
+Let users defer suggestions.
+
+Let them create quiet modes.
+
+Let them decide when the machine speaks.
+
+The best tools disappear into skilled activity.
+
+The worst tools repeatedly drag the expert's attention back to the interface.
+
+This is why latency matters in strange ways.
+
+A tool can be too slow and break flow.
+
+It can also be so eager that it colonizes the pause in which the user would have thought.
+
+The half-second before the autocomplete appears is cognitively different from a blank field that waits.
+
+The absence of suggestion is sometimes developmental space.
+
+Pressure narrows this space further.
+
+Under deadline, the generated continuation is harder to resist.
+
+Under fatigue, the default is easier to accept.
+
+Under evaluation, users may prefer the machine's polished language to their own uncertain formulation.
+
+Tool dependence is therefore not only a property of the user.
+
+It is a property of the environment in which the tool is offered.
+
+If every organizational incentive rewards speed, asking employees to preserve independent reasoning becomes ceremonial.
+
+The worker who takes time to think loses to the worker who accepts.
+
+A culture can deskill people while officially encouraging critical thinking.
+
+This is why training interventions fail when production incentives point the other way.
+
+You cannot tell reviewers to verify deeply and then measure only throughput.
+
+You cannot tell programmers to understand generated code and then reward lines shipped.
+
+You cannot tell students to use AI reflectively and then assign workloads that make reflection irrational.
+
+Attention follows incentives.
+
+Pressure makes the alignment visible.
+
+The performer under pressure does what has been practiced, but also what the environment makes affordable.
+
+This is one reason experts train routines under conditions that resemble competition.
+
+The routine has to survive stress.
+
+Knowledge workers need the same realism.
+
+If the real job includes AI suggestions, practice evaluating them under deadline.
+
+If the real job includes interruptions, practice recovery after interruption.
+
+If the real job includes public challenge, rehearse explanation.
+
+If the real job includes tool failure, simulate tool failure.
+
+The objective is not to create stress for its own sake.
+
+It is to keep the attentional control policy from existing only in ideal conditions.
+
+A skill that works only when no one cares is not finished.
+
+A skill that works only when the machine behaves normally is not finished either.
+
+Competence includes the ability to protect the right level of attention when something important is trying to steal it.
+
 Competence is not merely what you can do when everything supports you.
 
 It is what remains organized when the environment begins stealing attention.
