@@ -34,4 +34,5 @@ jobs:
             reader/js/desk-page-tap-policy.test.mjs \
             reader/js/desk-book-opening-handoff-contract.test.mjs \
             reader/js/library-sort-model.test.mjs \
+            reader/js/library-sort-contract.test.mjs \
             reader/js/reading-trail-model.test.mjs
