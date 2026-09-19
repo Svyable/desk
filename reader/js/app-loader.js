@@ -164,6 +164,18 @@ function installContentsDrawerPolish() {
   const otherModalOpen = () => !!document.querySelector(
     '#progressPanel.active, #settingsPanel.active, #searchOverlay.active, #noteDialog.active, #helpOverlay.active'
   );
+  const preserveNonModalTabbing = (event) => {
+    if (event.key !== 'Tab') return;
+    if (!drawer.classList.contains('active') || otherModalOpen()) return;
+
+    // Bookself's shared GUI treats every overlay as modal and traps Tab inside
+    // the active overlay. Desk deliberately presents Contents as a non-modal
+    // drawer, so preserve native document tab order while leaving Escape and
+    // the real modal overlays under Bookself's normal focus-management rules.
+    event.stopImmediatePropagation();
+  };
+  document.addEventListener('keydown', preserveNonModalTabbing, true);
+
   const syncDrawer = () => {
     syncTop();
     const active = drawer.classList.contains('active');
