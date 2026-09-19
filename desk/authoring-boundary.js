@@ -76,8 +76,11 @@ function applyWorkspacePolicy(policy) {
 }
 
 function remoteRepository() {
-  const value = new URLSearchParams(location.search).get('repo') || '';
-  const match = value.trim().match(/^([^/\s]+)\/([^/\s]+)$/);
+  const raw = (new URLSearchParams(location.search).get('repo') || '').trim();
+  if (!raw) return null;
+  const github = raw.match(/github\.com\/([^/]+)\/([^/#?]+)/i);
+  const pair = github ? `${github[1]}/${github[2]}` : raw.replace(/^https?:\/\//i, '');
+  const match = pair.match(/^([^/\s]+)\/([^/\s]+)$/);
   return match ? { owner: match[1], repo: match[2].replace(/\.git$/i, '') } : null;
 }
 
@@ -128,7 +131,7 @@ async function applyAuthoringBoundary(remoteInspection) {
 
 function initialize() {
   installDeskPolish();
-  const remoteInspection = new URLSearchParams(location.search).has('repo');
+  const remoteInspection = Boolean(remoteRepository());
   applyWorkspacePolicy(initialAuthoringRolePolicy({ remoteInspection }));
   $('repoForm')?.addEventListener('submit', hideAuthoringTools);
   void applyAuthoringBoundary(remoteInspection);
