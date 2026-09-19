@@ -227,6 +227,7 @@ function syncBooks() {
     $('readerDesignOpenReader').href = '#';
     $('readerDesignFiles').href = '#';
     $('readerDesignLoadStatus').textContent = 'No manuscripts are available in the current view.';
+    select.dispatchEvent(new Event('change'));
     return;
   }
 
@@ -237,8 +238,7 @@ function syncBooks() {
   const previous = select.value;
   select.innerHTML = rows.map((row) => `<option value="${escapeHtml(row.slug)}">${escapeHtml(row.title)}</option>`).join('');
   if (rows.some((row) => row.slug === previous)) select.value = previous;
-  syncBookLinks();
-  loadCurrentDesign();
+  select.dispatchEvent(new Event('change'));
 }
 
 function selectedCard() {
