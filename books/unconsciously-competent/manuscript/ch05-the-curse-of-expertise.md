@@ -356,6 +356,188 @@ Capability is slower.
 
 That is the core difficulty.
 
+The curse of expertise has a mirror image that matters just as much.
+
+Novices can receive too little structure.
+
+There is a seductive idea in education that if learners are going to become independent, independence should begin immediately. Give them the authentic problem. Let them struggle. Force them to discover.
+
+Sometimes this works.
+
+Sometimes the learner is simply drowning in a task whose relevant features have not yet become visible.
+
+The 2025 meta-analysis of the expertise reversal effect is useful here because it cuts against one-size-fits-all ideology. Across dozens of experimental studies, learners with lower prior knowledge generally benefited more from higher-assistance instruction, while learners with higher prior knowledge did better with less assistance. The effect varied by context, but the directional lesson is hard to ignore.
+
+Support is not weakness.
+
+Support is stage-dependent.
+
+The novice needs scaffolding because the novice does not yet possess the schemas that make unguided search efficient.
+
+The expert needs less scaffolding because the expert already has them.
+
+This means the argument of this book cannot be reduced to “make people struggle before helping them.”
+
+That would be another slogan.
+
+The better question is what the learner is capable of constructing at the current stage.
+
+A beginning programmer staring at a blank editor may learn less from total freedom than from a worked example that reveals control flow, naming, decomposition, and test structure. Once those patterns are familiar, the same example can become an answer sheet that prevents useful generation.
+
+A new medical student may need a structured history-taking framework.
+
+An experienced clinician may become worse if forced to march through a rigid teaching script that blocks adaptive inquiry.
+
+A beginning writer may need models of paragraph structure.
+
+An experienced writer may need space to violate the model intelligently.
+
+Good pedagogy changes the amount and kind of help.
+
+This sounds like personalization, but the important variable is not preference.
+
+It is prior knowledge.
+
+A learner can prefer low friction and still need retrieval.
+
+A learner can prefer independence and still lack enough structure to make the struggle useful.
+
+Instruction should adapt to competence, not merely comfort.
+
+That distinction matters for AI systems because personalization engines have historically been very good at optimizing engagement.
+
+Engagement is not learning.
+
+A tutor that always responds in the user's favorite style may make the experience pleasant while leaving the developmental challenge untouched.
+
+A serious learning system needs a model of capability.
+
+What can the person do without help?
+
+What can the person do with a hint?
+
+What fails even with guidance?
+
+Which errors repeat?
+
+Which support has become redundant?
+
+This is closer to how expert human teachers think.
+
+They do not simply provide more explanation.
+
+They diagnose the bottleneck.
+
+The best coaches are parsimonious.
+
+They know that every additional cue competes for attention.
+
+The novice can only hold so much.
+
+This is why expert instruction often improves when experts are forced to watch novices rather than merely explain the domain.
+
+The learner's error becomes the syllabus.
+
+An experienced tennis coach sees that three visible mistakes share one underlying cause.
+
+An experienced editor sees that five sentence-level problems are symptoms of a missing argument.
+
+An experienced engineering mentor sees that the junior employee's calculations are correct but the model boundary is wrong.
+
+The expert's value is not the quantity of advice.
+
+It is selecting the advice with the highest leverage.
+
+AI can potentially become very good at this because it can retain longitudinal learning histories that no busy teacher could keep in working memory.
+
+It can notice that a student repeatedly confuses correlation and causation across different topics.
+
+It can remember that a programmer solves syntax problems but fails when state changes across asynchronous boundaries.
+
+It can see that a writer's factual errors cluster around secondary-source summaries.
+
+It can generate practice against those patterns.
+
+This is a far more interesting use of personalization than changing tone.
+
+It is adaptive apprenticeship.
+
+But there is a danger.
+
+A model can infer a learner's weakness and then compensate for it so effectively that the learner stops encountering the weakness.
+
+Suppose a writing assistant knows you routinely omit transitions.
+
+It can insert transitions forever.
+
+The documents improve.
+
+You do not.
+
+Suppose a coding assistant knows you mishandle edge cases.
+
+It can generate the missing tests.
+
+The system improves.
+
+You may remain blind to the edge.
+
+Personalization can either target weakness or hide weakness.
+
+The difference is the objective function.
+
+This gives organizations a concrete way to evaluate training technology.
+
+Ask what happens as the learner improves.
+
+Does the system reduce assistance?
+
+Does it expose the learner to harder cases?
+
+Does it force transfer?
+
+Does it measure independent capability?
+
+If assistance remains constant, the system may be optimizing partnership rather than learning.
+
+Partnership can be valuable.
+
+Call it what it is.
+
+The curse of expertise becomes especially costly when organizations let senior people design junior workflows from the assumption that the junior will always have the same tool support.
+
+Maybe the assumption is correct.
+
+Then the role has changed, and training should focus on the capabilities required in the supported environment.
+
+But if the junior will eventually be expected to supervise, adapt, recover, or teach, the organization has to preserve a path toward those capabilities.
+
+This is where senior experts need to become historians of their own competence.
+
+What failures taught you the most?
+
+Which tasks built your sense of the system?
+
+Which mistakes do you now detect instantly?
+
+What did a mentor force you to do that seemed inefficient at the time?
+
+Which old tasks taught nothing and should disappear?
+
+Which new tasks could teach the same thing faster?
+
+These questions are better than nostalgia.
+
+They treat apprenticeship as a system that can be engineered.
+
+The answer may be that the old path was wasteful.
+
+Good.
+
+Remove the waste.
+
+But do not remove the learning because the expert can no longer remember it was learning.
+
 The curse of expertise makes the future of learning especially vulnerable to good tools deployed by competent people.
 
 The people making the decisions can use the tools safely because they already know what the tools are replacing.
