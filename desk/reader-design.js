@@ -73,6 +73,7 @@ const PRESETS = {
 const $ = (id) => document.getElementById(id);
 let bookSignature = '';
 let loadingSlug = '';
+let designLoadSequence = 0;
 
 function escapeHtml(value = '') {
   return String(value)
@@ -214,11 +215,25 @@ function bookInfo(card) {
 
 function syncBooks() {
   const rows = cards().map(bookInfo);
-  if (!rows.length) return;
+  const select = $('readerDesignBook');
+  if (!select) return;
+
+  if (!rows.length) {
+    bookSignature = '';
+    designLoadSequence += 1;
+    loadingSlug = '';
+    select.replaceChildren();
+    select.disabled = true;
+    $('readerDesignOpenReader').href = '#';
+    $('readerDesignFiles').href = '#';
+    $('readerDesignLoadStatus').textContent = 'No manuscripts are available in the current view.';
+    return;
+  }
+
+  select.disabled = false;
   const signature = rows.map((row) => `${row.slug}:${row.title}`).join('|');
   if (signature === bookSignature) return;
   bookSignature = signature;
-  const select = $('readerDesignBook');
   const previous = select.value;
   select.innerHTML = rows.map((row) => `<option value="${escapeHtml(row.slug)}">${escapeHtml(row.title)}</option>`).join('');
   if (rows.some((row) => row.slug === previous)) select.value = previous;
@@ -269,6 +284,7 @@ function editorDesign(raw) {
 async function loadCurrentDesign() {
   const slug = $('readerDesignBook')?.value;
   if (!slug || slug === loadingSlug) return;
+  const requestId = ++designLoadSequence;
   loadingSlug = slug;
   syncBookLinks();
   $('readerDesignLoadStatus').textContent = 'Loading current publication design…';
@@ -276,13 +292,15 @@ async function loadCurrentDesign() {
     const response = await fetch(presentationUrl(slug), { cache: 'no-store' });
     if (!response.ok) throw new Error(String(response.status));
     const raw = JSON.parse(await response.text());
+    if (requestId !== designLoadSequence || $('readerDesignBook')?.value !== slug) return;
     applyDesign(editorDesign(raw));
     $('readerDesignLoadStatus').textContent = `Loaded books/${slug}/reader.json.`;
   } catch {
+    if (requestId !== designLoadSequence || $('readerDesignBook')?.value !== slug) return;
     applyDesign(BASE);
     $('readerDesignLoadStatus').textContent = `No readable reader.json found for ${slug}; starting from Literary book.`;
   } finally {
-    loadingSlug = '';
+    if (requestId === designLoadSequence) loadingSlug = '';
   }
 }
 
