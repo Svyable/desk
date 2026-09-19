@@ -3,6 +3,28 @@ import { pageTapIntent } from './page-tap-zones.js';
 const OVERLAY_SELECTOR = '#tocOverlay.active, #progressPanel.active, #settingsPanel.active, #searchOverlay.active, #noteDialog.active, #helpOverlay.active';
 const INTERACTIVE_SELECTOR = 'a, button, input, textarea, select, label, mark, pre, code, [contenteditable="true"], .sel-pop';
 const LIBRARY_SORT_URL = new URL('./library-sort.js', import.meta.url).href;
+const LEGACY_SHORTCUT_KEYS = new Set(['b', 'f', 's', '/', '?']);
+const LEGACY_NAV_KEYS = new Set(['ArrowLeft', 'ArrowRight', 'ArrowUp', 'ArrowDown', 'PageUp', 'PageDown', 'Home', 'End', ' ']);
+
+function modifiedKey(event) {
+  return !!(event.metaKey || event.ctrlKey || event.altKey);
+}
+
+function stopLegacyKeyboardLeaks(event) {
+  const key = String(event.key || '');
+  const shortcut = LEGACY_SHORTCUT_KEYS.has(key.toLowerCase()) || LEGACY_SHORTCUT_KEYS.has(key);
+  const modifiedNav = modifiedKey(event) && LEGACY_NAV_KEYS.has(key);
+  if (!shortcut && !modifiedNav) return;
+
+  const interactive = !!event.target?.closest?.(INTERACTIVE_SELECTOR);
+  const overlayOpen = !!document.querySelector(OVERLAY_SELECTOR);
+  if (!modifiedKey(event) && !interactive && !overlayOpen) return;
+
+  // Let the focused control/browser receive and interpret the key normally,
+  // but stop Bookself's older document-level shortcut handler from also
+  // turning a page, toggling focus/bookmark, or opening another overlay.
+  event.stopPropagation();
+}
 
 function coarseClick(event) {
   return event.pointerType === 'touch'
@@ -77,6 +99,7 @@ function initialize() {
   document.documentElement.dataset.deskPageTapPolicy = 'true';
   installStyles();
   surface.addEventListener('click', onPageClick, true);
+  document.body.addEventListener('keydown', stopLegacyKeyboardLeaks);
   window.setTimeout(tuneHint, 0);
 }
 

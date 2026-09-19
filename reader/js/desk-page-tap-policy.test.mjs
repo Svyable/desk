@@ -52,6 +52,20 @@ match(adapter, /Tap center for controls · tap an edge or swipe to turn/);
 match(adapter, /OVERLAY_SELECTOR/);
 match(adapter, /selectionActive\(\)/);
 match(adapter, /INTERACTIVE_SELECTOR/);
+ok(adapter.includes("const LEGACY_SHORTCUT_KEYS = new Set(['b', 'f', 's', '/', '?']);"), 'legacy shortcut key set should be explicit');
+ok(adapter.includes("const LEGACY_NAV_KEYS = new Set(['ArrowLeft', 'ArrowRight', 'ArrowUp', 'ArrowDown', 'PageUp', 'PageDown', 'Home', 'End', ' ']);"), 'legacy navigation key set should be explicit');
+match(adapter, /function stopLegacyKeyboardLeaks\(event\)/);
+match(adapter, /const interactive = !!event\.target\?\.closest\?\.\(INTERACTIVE_SELECTOR\)/);
+match(adapter, /const overlayOpen = !!document\.querySelector\(OVERLAY_SELECTOR\)/);
+match(adapter, /if \(!modifiedKey\(event\) && !interactive && !overlayOpen\) return/);
+match(adapter, /event\.stopPropagation\(\)/);
+match(adapter, /document\.body\.addEventListener\('keydown', stopLegacyKeyboardLeaks\)/);
+assertions += 1;
+assert.doesNotMatch(
+  adapter.slice(adapter.indexOf('function stopLegacyKeyboardLeaks'), adapter.indexOf('function coarseClick')),
+  /preventDefault\(\)/,
+  'keyboard leak guard should preserve the control/browser default action'
+);
 match(adapter, /const LIBRARY_SORT_URL = new URL\('\.\/library-sort\.js', import\.meta\.url\)\.href;/);
 assertions += 1;
 assert.doesNotMatch(adapter, /svyable\.github\.io\/bookself\/reader\/js\/library-sort/);
