@@ -338,6 +338,238 @@ But access to answers is not the same as access to a developmental environment.
 
 Learners still need tasks worth doing, time, motivation, standards, opportunities to apply knowledge, and mechanisms that prevent assistance from swallowing the practice.
 
+The debate over deliberate practice became useful again when researchers began arguing about the definition.
+
+Macnamara and colleagues' 2014 meta-analysis reported large differences in how much performance variance practice accounted for across domains: more in games and music, less in education and professions. Ericsson and colleagues later objected that the meta-analysis had grouped forms of structured practice that did not satisfy the narrower original criteria for deliberate practice and argued that stricter definitions produced stronger relationships.
+
+This is not a trivial academic quarrel over labels.
+
+It exposes the exact problem popular culture erased.
+
+Practice is not one variable.
+
+What counts as practice depends on the domain, the design of the activity, the quality of feedback, and whether the activity is actually aimed at changing performance.
+
+If researchers disagree about which hours belong in the category, a motivational speaker has no business treating all hours as interchangeable.
+
+The controversy also reveals why the search for one percentage is misguided.
+
+Different performance domains place different ceilings on practice.
+
+Height matters more in some sports than in chess.
+
+Early sensory exposure matters differently in language and music.
+
+Access to opponents matters in games.
+
+Equipment matters.
+
+Coaching matters.
+
+Health matters.
+
+Economic security matters because sustained practice requires time.
+
+A profession with noisy performance measures may make the practice-performance relation difficult to estimate even when practice matters.
+
+The interesting question is not whether practice explains everything.
+
+Nothing explains everything in a complex human outcome.
+
+The interesting question is which forms of experience reliably change the capabilities a person cares about.
+
+This moves the conversation away from nature versus nurture, one of those debates that survives by forcing interacting causes into opposing teams.
+
+Bodies differ.
+
+Opportunities differ.
+
+Motivation differs.
+
+Training histories differ.
+
+Teachers differ.
+
+Luck differs.
+
+The mature question is how they interact.
+
+A short person can practice basketball shooting and improve dramatically without becoming seven feet tall.
+
+A tall person can possess a physical advantage and still fail to develop elite skill.
+
+A musician can have exceptional auditory abilities and waste them with poor training.
+
+A learner with average starting ability can become extraordinary inside a rich environment.
+
+Practice is powerful partly because it is the cause we can design.
+
+That does not make other causes unreal.
+
+The same humility is necessary when we discuss AI as a practice multiplier.
+
+If a learner gets instant access to explanation, simulation, feedback, examples, and adaptive difficulty, one major part of the environment improves.
+
+Other constraints remain.
+
+Time.
+
+Attention.
+
+Motivation.
+
+Physical access.
+
+Prior knowledge.
+
+Social support.
+
+Health.
+
+Opportunity to apply the skill in consequential settings.
+
+The tutor in the phone does not abolish the rest of the developmental system.
+
+It can change the economics at one important layer.
+
+That is enough to matter enormously.
+
+The next question is rest.
+
+Practice culture often treats time away from the task as lost time.
+
+Memory science makes that view difficult to defend.
+
+Learning continues after the visible session ends.
+
+Newly formed memories undergo consolidation. Sleep is implicated in the stabilization and reactivation of many forms of memory, although the effects differ by task and researchers continue to debate details in motor learning.
+
+The broad point is robust enough for ordinary life: the brain is not a hard drive that saves the file the instant practice stops.
+
+The state after practice matters.
+
+This makes the cult of exhausted repetition especially strange.
+
+A student studies through the night and sacrifices sleep to create more exposure.
+
+A startup worker codes until dawn and calls the hours dedication.
+
+An athlete adds reps after movement quality has deteriorated.
+
+The accounting counts time on task.
+
+The nervous system receives something more complicated.
+
+Fatigue changes attention.
+
+Fatigue changes error.
+
+Fatigue changes movement.
+
+Sleep loss changes subsequent cognition.
+
+Additional repetitions can therefore have diminishing or negative learning value even when they increase the heroic appearance of effort.
+
+A sensible practice system includes recovery as part of practice.
+
+This is familiar in physical training because tissue makes the cost visible.
+
+It is less familiar in cognitive work because the damage is quieter.
+
+No tendon swells when a lawyer reads the same paragraph at two in the morning and retains nothing.
+
+No alarm sounds when a programmer solves a problem through exhaustion and remembers only the patch.
+
+The work product can survive while the learner does not improve.
+
+This returns us to a theme that keeps appearing from different directions.
+
+Productivity and learning have different clocks.
+
+Productivity asks what came out of the session.
+
+Learning asks what changed after the session.
+
+A productive day can leave capability unchanged.
+
+A frustrating day can reorganize it.
+
+This is why progress feels so uneven.
+
+There are plateaus during which performance looks stable while representations are changing.
+
+There are sudden jumps after rest.
+
+There are regressions when a new technique temporarily disrupts an old one.
+
+There are improvements in practice that fail to transfer under pressure.
+
+The learner who expects a smooth upward line will misread normal development as failure.
+
+Tools intensify this expectation because software gives immediate feedback.
+
+Click.
+
+Result.
+
+Prompt.
+
+Answer.
+
+Change.
+
+Update.
+
+Human learning is slower and less legible.
+
+A model can improve the artifact in seconds.
+
+The person may need weeks to internalize the distinction the model just demonstrated.
+
+This creates a motivational danger.
+
+Why spend three weeks becoming better at something the tool can fix instantly?
+
+Because the internal capability may still matter.
+
+But if it does not, perhaps you should not.
+
+That is the honest test.
+
+Every practice tradition should now defend itself against automation.
+
+What future capability does this repetition produce?
+
+If the answer is vague—discipline, character, fundamentals—push harder.
+
+Which fundamental?
+
+Needed for what?
+
+Measured how?
+
+Could a different exercise build it faster?
+
+The arrival of powerful tools is an opportunity to purge training of superstition.
+
+The burden of proof should fall on preserved difficulty.
+
+Keep only the difficulty with developmental value.
+
+Then take it seriously enough to design well.
+
+This is the opposite of the ten-thousand-hours slogan.
+
+The slogan glorifies quantity because quantity is easy to count.
+
+Real practice is an information problem.
+
+How much useful correction can a person receive, metabolize, consolidate, and later retrieve?
+
+The best hour is not necessarily the hardest or longest.
+
+It is the hour after which the learner is no longer quite the same performer.
+
 The best AI learning systems may therefore look less like answer machines and more like sparring partners.
 
 They will remember what the learner can do unaided.
