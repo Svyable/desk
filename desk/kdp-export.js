@@ -221,16 +221,14 @@ async function readText(path) {
     return response.text();
   }
 
-  const repoInput = document.getElementById('repoInput');
-  const repo = parseRepo(repoInput?.value || '') || workspace;
-  const metaResponse = await fetch(`https://api.github.com/repos/${repo.owner}/${repo.repo}`, {
+  const metaResponse = await fetch(`https://api.github.com/repos/${workspace.owner}/${workspace.repo}`, {
     headers: { Accept: 'application/vnd.github+json' },
   });
   if (!metaResponse.ok) throw new Error('Could not read repository metadata');
   const meta = await metaResponse.json();
   const branch = meta.default_branch || 'main';
   const encodedPath = path.split('/').map(encodeURIComponent).join('/');
-  const response = await fetch(`https://raw.githubusercontent.com/${repo.owner}/${repo.repo}/${branch}/${encodedPath}`, { cache: 'no-store' });
+  const response = await fetch(`https://raw.githubusercontent.com/${workspace.owner}/${workspace.repo}/${branch}/${encodedPath}`, { cache: 'no-store' });
   if (!response.ok) throw new Error(`Could not read ${path}`);
   return response.text();
 }
