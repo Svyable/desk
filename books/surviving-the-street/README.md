@@ -6,7 +6,7 @@
 |---|---|
 | **Authors** | Sven Hardy Benson |
 | **Status** | Drafting |
-| **Chapters** | 1 of 18 drafted |
+| **Chapters** | 4 of 18 drafted |
 
 Most investing books begin with the attractive question: what should I buy?
 
@@ -22,9 +22,13 @@ The book is deliberately distinct from *Sifting for Alpha*, Sven Hardy Benson's 
 
 - [x] [Front Matter](manuscript/front-matter.md)
 - [x] [Ch 1 — The First Job Is Not Dying](manuscript/ch01-the-first-job-is-not-dying.md)
+- [x] [Ch 2 — The Market Does Not Care How Smart You Are](manuscript/ch02-the-market-does-not-care-how-smart-you-are.md)
+- [x] [Ch 3 — Drawdown Changes the Trader](manuscript/ch03-drawdown-changes-the-trader.md)
+- [x] [Ch 4 — The Cost of Being Early](manuscript/ch04-the-cost-of-being-early.md)
 - [ ] [Back Matter](manuscript/back-matter.md)
 
 ## Research
 
 - [Research trail and source map](research/README.md)
 - [Book brief and chapter architecture](research/book-brief.md)
+- [Part I source notes — Survival](research/part-i-source-notes.md)
