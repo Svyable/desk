@@ -11,9 +11,11 @@ assert.match(research, /manuscript chapter, passage, claim, figure, or calculati
 assert.match(research, /limitations, assumptions, uncertainty, counterevidence, or competing views/);
 assert.match(research, /recheck before release/);
 assert.match(research, /^## Reader-facing evidence$/m);
-assert.match(research, /not automatically part of the Reader table of contents/);
+assert.match(research, /not automatically part of the Reader\s+table of contents/);
 assert.match(research, /^## Source-material rights$/m);
 assert.match(research, /provenance, not permission to republish/);
+assert.match(research, /^## Planning and editorial continuity$/m);
+assert.match(research, /reader promise, distinct\s+contribution, chapter progression/);
 assert.match(research, /^## Before release$/m);
 assert.match(research, /docs\/research\.md/);
 assert.doesNotMatch(research, /api\.github\.com|localStorage|sessionStorage|fetch\(/);
