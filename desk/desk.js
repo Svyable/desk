@@ -529,12 +529,16 @@ async function loadRemoteWorkspace(repo) {
     showLoading(`Reading ${bookDirectories.length} manuscript hub${bookDirectories.length === 1 ? '' : 's'} from this ${state.role}…`);
     const books = await mapLimit(bookDirectories, 6, (directory) => loadRemoteBook(directory, catalogSlugs));
     if (requestId !== workspaceLoadSequence) return;
-    state.books = books;
-    finishLoad(meta);
 
+    // Dependent studios observe manuscript-card rendering synchronously. Commit
+    // the loaded workspace to the URL first so their reader.json/cover fetches
+    // resolve against this remote repository rather than the previous Desk.
     const params = new URLSearchParams(location.search);
     params.set('repo', repoKey());
     history.replaceState(null, '', `${location.pathname}?${params.toString()}`);
+
+    state.books = books;
+    finishLoad(meta);
   } catch (error) {
     if (requestId !== workspaceLoadSequence) return;
     console.error('Publishing Desk could not load remote repository', error);

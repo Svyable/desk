@@ -359,3 +359,10 @@
     transition: none !important;
   }
 }
+
+
+.reader-design-studio a[aria-disabled="true"] {
+  pointer-events: none;
+  opacity: .5;
+  cursor: default;
+}

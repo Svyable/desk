@@ -45,7 +45,7 @@ test('print editions are honest about current capability', async () => {
   assert.match(html, /Paperback · 6 × 9/);
   assert.match(html, /Hardcover · 6 × 9/);
   assert.match(html, /Print-PDF export is not enabled yet\./);
-  assert.match(html, /class="studio-export-epub"/);
+  assert.match(html, /class="[^"]*studio-export-epub[^"]*"/);
 });
 
 test('export observer survives terminal state long enough to restore the idle label', async () => {
@@ -54,4 +54,22 @@ test('export observer survives terminal state long enough to restore the idle la
   assert.match(source, /if \(\/downloaded\/i\.test\(text\)\)[\s\S]*?sawTerminalState = true;[\s\S]*?return;/);
   assert.match(source, /if \(\/failed\/i\.test\(text\)\)[\s\S]*?sawTerminalState = true;[\s\S]*?return;/);
   assert.match(source, /if \(sawTerminalState\) stopWatching\(\);/);
+});
+
+
+test('terminal export states remain disabled until the hidden exporter returns idle', async () => {
+  const source = await readFile(new URL('./publication-studio.js', import.meta.url), 'utf8');
+  assert.match(source, /if \(\/downloaded\/i\.test\(text\)\)[\s\S]*?button\.disabled = true;[\s\S]*?return;/);
+  assert.match(source, /if \(\/failed\/i\.test\(text\)\)[\s\S]*?button\.disabled = true;[\s\S]*?return;/);
+  assert.match(source, /button\.textContent = idleLabel;[\s\S]*?button\.disabled = false;[\s\S]*?if \(sawTerminalState\) stopWatching\(\);/);
+});
+
+
+test('stale export observers are detached when the studio changes context', async () => {
+  const source = await readFile(new URL('./publication-studio.js', import.meta.url), 'utf8');
+  assert.match(source, /const exportUiCleanup = new WeakMap\(\)/);
+  assert.match(source, /function clearExportUi\(button\)/);
+  assert.match(source, /function syncExportButton[\s\S]*?clearExportUi\(button\)/);
+  assert.match(source, /function openStudio[\s\S]*?clearExportUi\(ui\.epub\)[\s\S]*?clearExportUi\(ui\.html\)/);
+  assert.match(source, /function closeStudio[\s\S]*?clearExportUi\(ui\.epub\)[\s\S]*?clearExportUi\(ui\.html\)/);
 });

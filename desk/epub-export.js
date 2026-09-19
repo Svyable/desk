@@ -396,11 +396,9 @@ async function readResource(path) {
     return response;
   }
 
-  const repoInput = document.getElementById('repoInput');
-  const repo = parseRepo(repoInput?.value || '') || workspace;
-  const branch = await remoteBranch(repo);
+  const branch = await remoteBranch(workspace);
   const encodedPath = path.split('/').map(encodeURIComponent).join('/');
-  const response = await fetch(`https://raw.githubusercontent.com/${repo.owner}/${repo.repo}/${branch}/${encodedPath}`, { cache: 'no-store' });
+  const response = await fetch(`https://raw.githubusercontent.com/${workspace.owner}/${workspace.repo}/${branch}/${encodedPath}`, { cache: 'no-store' });
   if (!response.ok) throw new Error(`Could not read ${path}`);
   return response;
 }
