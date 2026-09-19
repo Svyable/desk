@@ -9,6 +9,7 @@ import {
 const $ = (id) => document.getElementById(id);
 let currentCover = { ...COVER_PRESENTATION_DEFAULTS };
 let artToken = 0;
+let coverLoadToken = 0;
 
 function optionMarkup(values, labels = {}) {
   return values.map((value) => `<option value="${value}">${labels[value] || value}</option>`).join('');
@@ -174,15 +175,23 @@ async function loadArt(slug) {
 }
 
 async function loadCurrentCover() {
+  const token = ++coverLoadToken;
   const { slug } = selectedBookMeta();
-  if (!slug) return;
+  if (!slug) {
+    artToken += 1;
+    applyControls(COVER_PRESENTATION_DEFAULTS);
+    return;
+  }
   try {
     const response = await fetch(publicationUrl(slug, 'reader.json'), { cache: 'no-store' });
     const raw = response.ok ? JSON.parse(await response.text()) : {};
+    if (token !== coverLoadToken || selectedBookMeta().slug !== slug) return;
     applyControls(raw.cover || {});
   } catch {
+    if (token !== coverLoadToken || selectedBookMeta().slug !== slug) return;
     applyControls(COVER_PRESENTATION_DEFAULTS);
   }
+  if (token !== coverLoadToken || selectedBookMeta().slug !== slug) return;
   loadArt(slug);
 }
 
