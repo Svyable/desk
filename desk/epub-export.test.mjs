@@ -1,5 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
+import { readFile } from 'node:fs/promises';
 
 import {
   parsePublicationMetadata,
@@ -85,4 +86,12 @@ test('EPUB archive stores mimetype as the first ZIP entry', () => {
   assert.equal(firstName, 'mimetype');
   const firstData = new TextDecoder().decode(archive.slice(30 + nameLength, 30 + nameLength + 'application/epub+zip'.length));
   assert.equal(firstData, 'application/epub+zip');
+});
+
+
+test('EPUB remote reads ignore unsaved repository-switcher text', async () => {
+  const source = await readFile(new URL('./epub-export.js', import.meta.url), 'utf8');
+  assert.doesNotMatch(source, /getElementById\(['"]repoInput['"]\)/);
+  assert.match(source, /remoteBranch\(workspace\)/);
+  assert.match(source, /raw\.githubusercontent\.com\/\$\{workspace\.owner\}\/\$\{workspace\.repo\}/);
 });
