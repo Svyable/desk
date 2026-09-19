@@ -13,6 +13,7 @@ import('./research-surface.js').catch((error) => {
 });
 
 const $ = (id) => document.getElementById(id);
+let policyRequestSequence = 0;
 
 function installDeskPolish() {
   if (!document.querySelector('link[data-desk-polish]')) {
@@ -107,10 +108,12 @@ async function loadRemoteInspectionRole(repository = remoteRepository()) {
   }
 }
 
-async function applyAuthoringBoundary(remoteInspection) {
+async function applyAuthoringBoundary(remoteInspection, repository = remoteRepository()) {
+  const requestId = ++policyRequestSequence;
   if (remoteInspection) {
     hideAuthoringTools();
-    const role = await loadRemoteInspectionRole();
+    const role = await loadRemoteInspectionRole(repository);
+    if (requestId !== policyRequestSequence) return;
     applyWorkspacePolicy(authoringRolePolicy({ role, remoteInspection: true }));
     return;
   }
@@ -119,6 +122,7 @@ async function applyAuthoringBoundary(remoteInspection) {
     const response = await fetch(new URL('../imprint.json', import.meta.url), { cache: 'no-store' });
     if (!response.ok) return;
     const imprint = await response.json();
+    if (requestId !== policyRequestSequence) return;
     applyWorkspacePolicy(authoringRolePolicy({
       role: imprint.role,
       remoteInspection: false,
@@ -143,12 +147,10 @@ function initialize() {
     if (!repository) return;
     hideAuthoringTools();
     applyWorkspacePolicy(initialAuthoringRolePolicy({ remoteInspection: true }));
-    void loadRemoteInspectionRole(repository).then((role) => {
-      applyWorkspacePolicy(authoringRolePolicy({ role, remoteInspection: true }));
-    });
+    void applyAuthoringBoundary(true, repository);
   });
 
-  void applyAuthoringBoundary(remoteInspection);
+  void applyAuthoringBoundary(remoteInspection, initialRemote);
 }
 
 if (document.readyState === 'loading') {
