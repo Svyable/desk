@@ -3,17 +3,17 @@
 const canonicalAppUrl = 'https://svyable.github.io/bookself/reader/js/app.js?v=r6';
 const canonicalReadingSurfaceUrl = new URL('./reading-surface.js?v=20260913-first-layout', canonicalAppUrl).href;
 const canonicalNavigationCssUrl = 'https://svyable.github.io/bookself/reader/css/navigation.css?v=r2';
-const viewportStabilityUrl = new URL('./desk-viewport-stability-runtime.js', import.meta.url).href;
+const viewportStabilityUrl = new URL('./desk-viewport-stability-runtime.js?v=20260919-gui2', import.meta.url).href;
 const nativeShareUrl = new URL('./native-share.js', import.meta.url).href;
-const appShellPolishUrl = new URL('./app-shell-polish.js', import.meta.url).href;
-const libraryHomeUrl = new URL('../css/library-home.css', import.meta.url).href;
-const bookOpeningHandoffUrl = new URL('../css/desk-book-opening-handoff.css?v=bookself-20260906', import.meta.url).href;
+const appShellPolishUrl = new URL('./app-shell-polish.js?v=20260919-gui2', import.meta.url).href;
+const libraryHomeUrl = new URL('../css/library-home.css?v=20260919-gui2', import.meta.url).href;
+const bookOpeningHandoffUrl = new URL('../css/desk-book-opening-handoff.css?v=20260919-gui2', import.meta.url).href;
 
 const optionalEnhancements = [
   [nativeShareUrl, 'Native sharing'],
   ['./desk-book-interior.js?v=bookself-20260906-fail-open-1', 'Desk premium book interior'],
   [appShellPolishUrl, 'Desk Reader app-shell polish'],
-  ['./desk-book-opening-handoff.js?v=bookself-20260906', 'Desk book-opening handoff'],
+  ['./desk-book-opening-handoff.js?v=20260919-gui2', 'Desk book-opening handoff'],
   ['./desk-reading-app.js?v=bookself-20260905', 'Desk reading-app hierarchy'],
 ];
 
