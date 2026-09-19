@@ -186,6 +186,138 @@ The practice design does.
 
 That is why it matters to understand what disappears as competence grows. If we cannot see the stages being compressed, we cannot tell which ones are safe to delegate. We will automate whatever feels tedious and then discover, years later, whether the tedium was waste or tuition.
 
+The compression of skill produces another strange effect: progress can make previous effort inaccessible even to memory.
+
+Ask an adult fluent reader to remember what it felt like to decode a short word letter by letter. The person can reconstruct the idea of difficulty, but the immediate perceptual experience is gone. The word insists on being read.
+
+Ask a competent driver to look at a gear selector or pedal arrangement and imagine not knowing what it does. The knowledge arrives before the imagination can remove it.
+
+This is one reason “put yourself in the beginner's shoes” is weak advice.
+
+The expert cannot simply unlearn perception on command.
+
+The problem resembles a visual illusion that remains visible after its mechanism is explained. Knowledge changes the input. You can know that two lines are the same length and still see them differently under the illusion. Expertise changes the experienced structure of a task in the opposite direction: what once looked complicated now arrives grouped.
+
+The beginner does not need the expert to remember being stupid.
+
+The beginner needs the expert to model the missing structure.
+
+That requires evidence.
+
+Watch where novices pause.
+
+Record which instructions they reread.
+
+Count the errors that experts no longer make.
+
+Ask novices to predict the next step.
+
+Give experts the same case and compare what they notice.
+
+A teaching system can then be built around actual differences rather than nostalgia about learning.
+
+This becomes especially important in workplaces because many organizations confuse orientation with apprenticeship.
+
+Orientation explains the organization.
+
+Apprenticeship changes what the employee can see.
+
+A new employee can learn the org chart, product names, software systems, policies, and meeting cadence in a week. Months later the employee may still not understand which customer complaint signals churn, which metric is noisy, which senior stakeholder says “interesting” when the proposal is dead, which vendor delay is recoverable, or which part of the codebase should not be touched on a Friday afternoon.
+
+Those distinctions are not on the org chart.
+
+They emerge through episodes.
+
+The novice has to accumulate a history.
+
+Good organizations accelerate that history by exposing learners to cases, not merely information. They explain why a decision was made. They revisit incidents. They let new people sit in on difficult conversations. They rotate people through functions. They create opportunities to see a process fail and recover.
+
+Bad organizations hand over documentation and call the person trained.
+
+Then they complain that the person “lacks judgment.”
+
+Judgment was the missing curriculum.
+
+The same principle explains why some skills become rusty so quickly after a context change. The representation was optimized around a stable environment.
+
+Move the cups to a new cabinet and the hand reaches toward the old one.
+
+Change software shortcuts and fingers fire obsolete commands.
+
+Drive on the opposite side of the road and a lifetime of automatic lane position becomes a problem demanding deliberate supervision.
+
+The competent person has not lost intelligence.
+
+The environment invalidated part of the compression.
+
+This is what every major technological transition does to experts.
+
+A new instrument, interface, regulation, market structure, or AI system changes the environment in which old patterns were learned. Some expertise remains valuable. Some becomes less valuable. Some becomes actively misleading.
+
+The expert's advantage is not immunity to this disruption.
+
+It is the ability to identify which layer has to become conscious again.
+
+That is a skill in its own right.
+
+Consider a photographer moving from film to digital. Composition, light, timing, and visual judgment transfer. The material constraints around exposure, processing, storage, feedback, and cost change dramatically. A photographer who treats the digital camera as merely cheaper film leaves capability unused. A photographer who assumes everything old is irrelevant throws away decades of visual craft.
+
+Competence during transition is selective uncompression.
+
+Keep the deep structure.
+
+Reopen the procedures that changed.
+
+This is the same task now confronting professions adopting AI.
+
+The lawyer's understanding of argument, authority, and evidence may remain essential while research procedure changes.
+
+The programmer's causal understanding of software may remain essential while syntax generation becomes cheap.
+
+The analyst's sense of business economics may remain essential while model construction changes.
+
+The physician's knowledge of physiology and patient context may remain essential while diagnostic support improves.
+
+The writer's sense of fact, sequence, rhythm, and consequence may remain essential while text generation becomes abundant.
+
+The danger is treating the whole old skill as either sacred or obsolete.
+
+Both reactions are lazy.
+
+A competent transition decomposes the skill.
+
+Which layers were means?
+
+Which layers were foundations?
+
+Which layers were artifacts of old tools?
+
+Which layers are now more important because the tool is doing more?
+
+This decomposition is difficult because experts experience the mature skill as a whole. The layers stopped announcing themselves years ago.
+
+Automation forces them back into view.
+
+That is one reason the current moment can be intellectually productive even where it is economically disruptive. When a machine begins performing part of a profession, the profession is forced to ask what the human was actually contributing.
+
+Sometimes the answer is less impressive than the profession believed.
+
+Sometimes it is much more.
+
+A system may reproduce the visible procedure and expose how much value was routine.
+
+Then an unusual case arrives and exposes how much value was hidden.
+
+The old four-stage model ends too neatly at unconscious competence because it imagines the skill after learning rather than the skill inside history.
+
+Real competence has a fifth movement.
+
+The world changes.
+
+The expert has to notice.
+
+Then something that had become invisible must become visible again.
+
 Sometimes it was waste.
 
 Sometimes it was tuition.
