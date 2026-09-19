@@ -12,3 +12,11 @@ test('Reader search, note, and library sort controls have durable accessible nam
   assert.match(html, /id="bookSearch"[^>]*aria-label="Search this book"/);
   assert.match(html, /id="noteBody"[^>]*aria-label="Note text"/);
 });
+
+
+test('Reader toggle controls seed their inactive state honestly', async () => {
+  const html = await readFile(new URL('../index.html', import.meta.url), 'utf8');
+  assert.match(html, /id="bookmarkBtn"[^>]*aria-pressed="false"/);
+  assert.match(html, /id="nightLightBtn" aria-pressed="false" aria-label="Lamp off">Off<\/button>/);
+  assert.match(html, /id="focusBtn" aria-pressed="false">Focus mode<\/button>/);
+});
