@@ -75,8 +75,6 @@ function syncExportButton(button, trigger, idleLabel) {
 
   const observer = new MutationObserver(update);
   observer.observe(trigger, { childList: true, characterData: true, subtree: true, attributes: true, attributeFilter: ['title', 'aria-busy'] });
-  trigger.click();
-  update();
   watchdog = window.setTimeout(() => {
     observer.disconnect();
     button.textContent = idleLabel;
@@ -84,6 +82,8 @@ function syncExportButton(button, trigger, idleLabel) {
     button.removeAttribute('aria-busy');
     button.disabled = false;
   }, 60000);
+  trigger.click();
+  update();
 }
 
 function studioElements() {
