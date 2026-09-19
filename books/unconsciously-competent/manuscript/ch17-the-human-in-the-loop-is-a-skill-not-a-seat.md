@@ -496,6 +496,364 @@ Enough to know when the pattern has changed.
 
 That is the same old learning problem wearing a new interface.
 
+Human-factors research has a name for part of this problem: out of the loop.
+
+The phrase describes what happens when automation performs enough of a process that the human operator loses situational awareness, active control experience, or both. When the system fails, the human is suddenly asked to diagnose and intervene from a position of relative cognitive distance.
+
+The paradox predates generative AI by decades.
+
+Automation can improve average performance and still make the rare takeover harder.
+
+This is one reason “just have a human check it” is not a serious safety argument by itself.
+
+Checking is not one operation.
+
+It can mean glancing.
+
+Comparing against a rule.
+
+Reconstructing the work independently.
+
+Reviewing a sample.
+
+Verifying sources.
+
+Monitoring a stream.
+
+Diagnosing an anomaly.
+
+Approving a recommendation.
+
+Each demands a different level of knowledge and attention.
+
+Automation-bias research makes the distinction concrete. Systematic reviews have found that decision support often improves overall performance while introducing a tendency for users to accept automated recommendations, overlook errors, or reduce independent information seeking. Verification becomes especially difficult when the task itself is cognitively complex.
+
+This gives us a better way to think about human oversight.
+
+The human is not a magical error-correcting layer.
+
+The human is another fallible component whose performance depends on task design.
+
+If checking one AI answer requires two seconds and the error is obvious, human review may be cheap and effective.
+
+If checking one generated legal memo requires retrieving and reading every cited authority, reconstructing the doctrine, checking omissions, and evaluating whether the synthesis follows from the sources, “human review” may cost more than generation.
+
+The cost does not disappear because a workflow diagram contains an approval box.
+
+Verification complexity belongs in the economics.
+
+This is where generative AI creates a special challenge.
+
+Traditional automation often outputs a narrow signal.
+
+Temperature.
+
+Altitude.
+
+Risk score.
+
+Alarm.
+
+Generative systems can output complete arguments.
+
+The reviewer now faces a finished surface.
+
+Fluency compresses the apparent work.
+
+A thirty-page report can be generated in minutes and require hours of knowledgeable inspection.
+
+The ratio creates pressure.
+
+Production accelerates faster than verification.
+
+Organizations respond in predictable ways.
+
+Sample.
+
+Skim.
+
+Trust.
+
+Check only the strange parts.
+
+These are not necessarily bad strategies.
+
+They are informal risk allocation.
+
+The danger is leaving them informal.
+
+If full verification is impossible, the system should state which claims require stronger checking, where provenance exists, what was independently computed, and which cases trigger deeper review.
+
+Review depth should follow consequence and uncertainty.
+
+This is what mature safety systems already do.
+
+They do not inspect every component with equal intensity.
+
+They classify hazards.
+
+They set thresholds.
+
+They use redundancy where failure is costly.
+
+They accept lower controls where failure is recoverable.
+
+AI oversight needs the same proportionality.
+
+A generated lunch suggestion does not need a human committee.
+
+A generated medication recommendation should not receive the same casual review.
+
+The phrase “AI output” hides this range.
+
+So does “human in the loop.”
+
+The loop has to be designed around risk.
+
+This includes the risk created by workload.
+
+A reviewer assigned one consequential case can reason.
+
+A reviewer assigned five hundred routine cases learns to clear the queue.
+
+High accuracy makes this worse.
+
+If the automation is correct almost every time, the human receives a training distribution dominated by confirmation.
+
+The muscle being practiced is acceptance.
+
+Then the rare error requires a different behavior.
+
+This is why rare-event oversight needs simulation.
+
+Do not wait for real failures to keep reviewers calibrated.
+
+Seed test cases.
+
+Create known bad outputs.
+
+Change the failure style.
+
+Measure detection.
+
+Give feedback.
+
+The exercise reveals whether the review layer is alive.
+
+This is common sense in cybersecurity, where red teams deliberately attack systems that normally work.
+
+It should become common sense in AI-supervised knowledge work.
+
+Red-team the reviewer.
+
+Can the person catch the plausible wrong answer?
+
+Can the person identify the unsupported source?
+
+Can the person notice the model's confidence is misplaced?
+
+Can the person recognize when the case has moved outside the workflow's assumptions?
+
+These are trainable skills.
+
+They are also perishable.
+
+This suggests that human oversight should have a proficiency requirement.
+
+Not a ceremonial annual click-through.
+
+A demonstrated ability relevant to the failure modes of the system being supervised.
+
+Airline pilots undergo recurrent training because the world does not accept a license from ten years ago as evidence that every emergency skill remains sharp.
+
+Professionals overseeing advanced AI may eventually need an analogous idea, whether formal or internal to organizations.
+
+The details should vary by field.
+
+The principle is already clear.
+
+Responsibility requires maintained capability.
+
+There is another reason the human-in-the-loop phrase can mislead.
+
+Sometimes no human can actually take over the machine's task.
+
+Consider a cybersecurity system processing millions of events.
+
+A person cannot become the manual replacement.
+
+The human role is to understand the control structure, investigate escalated cases, adjust policy, test the model, and respond when assumptions fail.
+
+Or consider a large recommendation system.
+
+No person can manually rank every item for every user.
+
+Human control lives at the level of objective, constraint, audit, exception, and shutdown.
+
+This is not weaker control.
+
+It is control at the correct layer.
+
+The important question is therefore not “Can a human do the machine's job?”
+
+It is “Can a human or human institution still govern the machine's consequences?”
+
+Governance competence is different from manual competence.
+
+It includes understanding incentives, error distributions, data quality, escalation paths, downstream effects, and when local success can produce systemic harm.
+
+This is why retaining old manual skills is sometimes the wrong answer.
+
+The airplane analogy has limits.
+
+Some automated systems exceed human scale entirely.
+
+The fallback cannot be “take the wheel.”
+
+The fallback may be “stop the process safely.”
+
+“Switch to a simpler mode.”
+
+“Route cases to a slower system.”
+
+“Require independent confirmation.”
+
+“Reduce authority.”
+
+“Call a specialist.”
+
+“Roll back the model.”
+
+Competence is knowing which fallback exists before the emergency.
+
+This is architecture again.
+
+A human cannot rescue a system that offers no legible point of intervention.
+
+Therefore human oversight must influence design upstream.
+
+What information will the reviewer see?
+
+Can the model's recommendation be decomposed enough to challenge?
+
+Can the user inspect sources?
+
+Is there a safe state?
+
+Can automation be reduced?
+
+Can decisions be delayed?
+
+Who has override authority?
+
+What happens after override?
+
+Does the system learn from disagreement?
+
+The human-in-the-loop conversation often starts too late, after the automated workflow is already built.
+
+Then oversight is bolted onto the exit.
+
+Approve or reject.
+
+That is the weakest place to insert judgment because the system has already framed the problem, gathered the evidence, generated the options, and recommended the action.
+
+The human gets the end of the reasoning chain.
+
+A stronger architecture can place humans earlier.
+
+Define objectives.
+
+Choose evidence.
+
+Set constraints.
+
+Review exceptions.
+
+Audit outcomes.
+
+Analyze disagreements.
+
+Update policy.
+
+The loop becomes a governance cycle rather than a signature.
+
+Recent human-in-the-loop AI reviews emphasize exactly this broader view: effective oversight depends on where the human enters, what authority exists, the timing of intervention, workload, trust calibration, and feedback over time. A nominal reviewer under throughput pressure can become a rubber stamp; a well-designed system can use human disagreement to improve both control and the model.
+
+This should change how companies talk about “keeping a human in the loop.”
+
+The phrase should trigger questions, not reassurance.
+
+Which human?
+
+With what skill?
+
+Seeing what evidence?
+
+At which point?
+
+Under what workload?
+
+With what authority?
+
+Trained how often?
+
+Measured against which failures?
+
+What happens when the person disagrees?
+
+If those questions have no answers, the human is not a control.
+
+The human is a liability sink.
+
+This is especially dangerous ethically because responsibility can be assigned downward.
+
+The institution deploys the system.
+
+The interface presents the recommendation.
+
+The reviewer has seconds.
+
+The reviewer clicks approve.
+
+When harm occurs, the record says a human made the final decision.
+
+Responsibility has been preserved on paper while meaningful agency was removed in practice.
+
+A competent governance system does the opposite.
+
+It aligns responsibility with actual control.
+
+If the organization sets the system, the organization owns the system-level risk.
+
+If the reviewer is expected to catch a failure, the reviewer receives time, evidence, training, and authority.
+
+If the task cannot be meaningfully reviewed at scale, the system is evaluated through other controls rather than pretending each output was independently verified.
+
+This is not merely fairer.
+
+It produces better learning.
+
+When accountability follows control, failures return to the layer capable of changing them.
+
+The model team learns.
+
+The workflow changes.
+
+The training changes.
+
+The reviewer does not become the final absorber of every upstream design flaw.
+
+Human oversight is strongest when it is not the last defense.
+
+It is one part of a system that expects both human and machine error.
+
+That is what competence looks like after automation.
+
+Not a heroic human waiting for the machine to fail.
+
+A designed relationship in which both sides remain legible enough to correct.
+
 The human in the loop is not a seat.
 
 It is a maintained capacity to disagree.
