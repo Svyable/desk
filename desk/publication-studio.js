@@ -43,7 +43,7 @@ function clearExportUi(button) {
   exportUiCleanup.delete(button);
 }
 
-function syncExportButton(button, trigger, idleLabel) {
+function syncExportButton(button, trigger, idleLabel, { start = true } = {}) {
   clearExportUi(button);
   let watchdog = 0;
   let sawTerminalState = false;
@@ -87,15 +87,39 @@ function syncExportButton(button, trigger, idleLabel) {
   const observer = new MutationObserver(update);
   exportUiCleanup.set(button, stopWatching);
   observer.observe(trigger, { childList: true, characterData: true, subtree: true, attributes: true, attributeFilter: ['title', 'aria-busy'] });
-  watchdog = window.setTimeout(() => {
-    observer.disconnect();
-    button.textContent = idleLabel;
-    button.title = 'The export did not report completion. You can try again.';
-    button.removeAttribute('aria-busy');
-    button.disabled = false;
-  }, 60000);
-  trigger.click();
+  const onWatchdog = () => {
+    if (trigger.getAttribute('aria-busy') === 'true') {
+      button.textContent = /packaging|building/i.test(trigger.textContent || '')
+        ? trigger.textContent.trim()
+        : 'Still working…';
+      button.title = 'This export is still running.';
+      button.setAttribute('aria-busy', 'true');
+      button.disabled = true;
+      watchdog = window.setTimeout(onWatchdog, 60000);
+      return;
+    }
+    stopWatching();
+    update();
+  };
+  watchdog = window.setTimeout(onWatchdog, 60000);
+  if (start) trigger.click();
   update();
+}
+
+function restoreExportButton(button, trigger, idleLabel) {
+  if (!button || !trigger) return;
+  const text = trigger.textContent?.trim() || '';
+  const active = trigger.getAttribute('aria-busy') === 'true'
+    || /packaging|building|downloaded|failed/i.test(text);
+  if (active) {
+    syncExportButton(button, trigger, idleLabel, { start: false });
+    return;
+  }
+  clearExportUi(button);
+  button.textContent = idleLabel;
+  button.title = '';
+  button.disabled = false;
+  button.removeAttribute('aria-busy');
 }
 
 function studioElements() {
@@ -133,16 +157,8 @@ function openStudio(card) {
   const folder = card.querySelector('.folder-action')?.href || '#';
   ui.bookFiles.href = folder;
   ui.guide.href = sourceGuideUrl();
-  clearExportUi(ui.epub);
-  clearExportUi(ui.html);
-  ui.epub.textContent = 'Download EPUB';
-  ui.epub.title = '';
-  ui.epub.disabled = false;
-  ui.epub.removeAttribute('aria-busy');
-  ui.html.textContent = 'Download HTML';
-  ui.html.title = '';
-  ui.html.disabled = false;
-  ui.html.removeAttribute('aria-busy');
+  restoreExportButton(ui.epub, card.querySelector('.export-epub-action'), 'Download EPUB');
+  restoreExportButton(ui.html, card.querySelector('.export-kdp-action'), 'Download HTML');
 
   if (typeof ui.dialog.showModal === 'function') ui.dialog.showModal();
   else ui.dialog.setAttribute('open', '');
