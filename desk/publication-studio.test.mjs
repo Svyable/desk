@@ -63,3 +63,13 @@ test('terminal export states remain disabled until the hidden exporter returns i
   assert.match(source, /if \(\/failed\/i\.test\(text\)\)[\s\S]*?button\.disabled = true;[\s\S]*?return;/);
   assert.match(source, /button\.textContent = idleLabel;[\s\S]*?button\.disabled = false;[\s\S]*?if \(sawTerminalState\) stopWatching\(\);/);
 });
+
+
+test('stale export observers are detached when the studio changes context', async () => {
+  const source = await readFile(new URL('./publication-studio.js', import.meta.url), 'utf8');
+  assert.match(source, /const exportUiCleanup = new WeakMap\(\)/);
+  assert.match(source, /function clearExportUi\(button\)/);
+  assert.match(source, /function syncExportButton[\s\S]*?clearExportUi\(button\)/);
+  assert.match(source, /function openStudio[\s\S]*?clearExportUi\(ui\.epub\)[\s\S]*?clearExportUi\(ui\.html\)/);
+  assert.match(source, /function closeStudio[\s\S]*?clearExportUi\(ui\.epub\)[\s\S]*?clearExportUi\(ui\.html\)/);
+});
