@@ -42,6 +42,7 @@ match(handoff, /details\.addEventListener\('toggle',[\s\S]*?focus\(\{ preventScr
 match(handoff, /event\.key === 'Escape' && details\.open/);
 match(handoff, /event\.preventDefault\(\)/);
 match(handoff, /summary\.focus\(\{ preventScroll:true \}\)/);
+match(handoff, /document\.addEventListener\('pointerdown',[\s\S]*?!details\.open \|\| details\.contains\(event\.target\)[\s\S]*?details\.open = false;/);
 
 doesNotMatch(handoff, /createElement\('style'\)/, 'cover hierarchy styling should live in the handoff stylesheet');
 match(loader, /desk-book-opening-handoff\.js\?v=bookself-20260906/);
