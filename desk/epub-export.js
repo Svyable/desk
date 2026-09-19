@@ -1,4 +1,8 @@
 import { parseManuscriptChecklist, markdownToKdpHtml } from './kdp-export.js';
+import { parsePublicationMetadata } from './publication-export-metadata.js';
+import { publicationRights } from './publication-export-rights.js';
+
+export { parsePublicationMetadata } from './publication-export-metadata.js';
 
 const encoder = new TextEncoder();
 const branchCache = new Map();
@@ -20,27 +24,6 @@ function slugify(value = '') {
     .replace(/[\u0300-\u036f]/g, '')
     .replace(/[^a-z0-9]+/g, '-')
     .replace(/^-+|-+$/g, '') || 'book';
-}
-
-function cleanMetadataValue(value = '') {
-  return String(value)
-    .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
-    .replace(/\\\|/g, '|')
-    .replace(/`/g, '')
-    .trim();
-}
-
-export function parsePublicationMetadata(markdown = '') {
-  const rows = {};
-  const rowRe = /^\|\s*\*\*([^*]+)\*\*\s*\|\s*(.*?)\s*\|\s*$/gm;
-  let match;
-  while ((match = rowRe.exec(markdown))) rows[match[1].trim().toLowerCase()] = cleanMetadataValue(match[2]);
-  return {
-    authors: rows.authors || '',
-    language: rows.language || 'English',
-    isbn: rows.isbn || '',
-    publisher: rows.publisher || '',
-  };
 }
 
 function languageCode(value = '') {
@@ -156,6 +139,7 @@ export function buildEpubFiles({ title, author, chapters, assets = {}, metadata 
   const safeTitle = title || 'Untitled';
   const language = languageCode(metadata.language);
   const identifier = identifierFor(safeTitle, metadata);
+  const rights = publicationRights(metadata, author);
   const cleanModified = String(modified).replace(/\.\d{3}Z$/, 'Z');
   const files = {
     mimetype: 'application/epub+zip',
@@ -173,6 +157,7 @@ blockquote { margin: 1em 1.5em; }
 pre { white-space: pre-wrap; overflow-wrap: anywhere; }
 img { max-width: 100%; height: auto; }
 .title-page { text-align: center; margin-top: 30%; }
+.rights-page { page-break-before: always; break-before: page; font-size: .92em; }
 `,
   };
 
@@ -180,6 +165,7 @@ img { max-width: 100%; height: auto; }
   const manifestItems = [
     '<item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav" />',
     '<item id="title-page" href="title.xhtml" media-type="application/xhtml+xml" />',
+    '<item id="rights-page" href="rights.xhtml" media-type="application/xhtml+xml" />',
     '<item id="style" href="styles/book.css" media-type="text/css" />',
   ];
   const spineItems = ['<itemref idref="title-page" />'];
@@ -210,6 +196,14 @@ img { max-width: 100%; height: auto; }
     files[`EPUB/${href}`] = asset.data;
   });
 
+  navItems.push('<li><a href="rights.xhtml">Rights &amp; permissions</a></li>');
+  spineItems.push('<itemref idref="rights-page" />');
+  files['EPUB/rights.xhtml'] = xhtmlDocument({
+    title: 'Rights & permissions',
+    language,
+    body: `<section class="rights-page" epub:type="copyright-page"><h1>Rights &amp; permissions</h1><p>${escapeXml(rights.copyright)}</p><p>${escapeXml(rights.ai)}</p><p>The publication source may contain a <code>RIGHTS.md</code> file with the complete terms and permissions statement. Applicable law and separate hosting-provider terms remain controlling where they grant or preserve rights independently.</p></section>`,
+  });
+
   files['EPUB/nav.xhtml'] = xhtmlDocument({
     title: 'Contents',
     language,
@@ -217,13 +211,14 @@ img { max-width: 100%; height: auto; }
   });
 
   const publisher = metadata.publisher ? `\n    <dc:publisher>${escapeXml(metadata.publisher)}</dc:publisher>` : '';
+  const rightsMetadata = `\n    <dc:rights>${escapeXml(`${rights.copyright} ${rights.ai}`)}</dc:rights>`;
   files['EPUB/package.opf'] = `<?xml version="1.0" encoding="UTF-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="book-id">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
     <dc:identifier id="book-id">${escapeXml(identifier)}</dc:identifier>
     <dc:title>${escapeXml(safeTitle)}</dc:title>
     ${author ? `<dc:creator>${escapeXml(author)}</dc:creator>` : ''}
-    <dc:language>${escapeXml(language)}</dc:language>${publisher}
+    <dc:language>${escapeXml(language)}</dc:language>${publisher}${rightsMetadata}
     <meta property="dcterms:modified">${escapeXml(cleanModified)}</meta>
   </metadata>
   <manifest>
@@ -396,9 +391,11 @@ async function readResource(path) {
     return response;
   }
 
-  const branch = await remoteBranch(workspace);
+  const repoInput = document.getElementById('repoInput');
+  const repo = parseRepo(repoInput?.value || '') || workspace;
+  const branch = await remoteBranch(repo);
   const encodedPath = path.split('/').map(encodeURIComponent).join('/');
-  const response = await fetch(`https://raw.githubusercontent.com/${workspace.owner}/${workspace.repo}/${branch}/${encodedPath}`, { cache: 'no-store' });
+  const response = await fetch(`https://raw.githubusercontent.com/${repo.owner}/${repo.repo}/${branch}/${encodedPath}`, { cache: 'no-store' });
   if (!response.ok) throw new Error(`Could not read ${path}`);
   return response;
 }
