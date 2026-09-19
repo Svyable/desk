@@ -203,6 +203,7 @@ export function parseBookReadme(markdown, slug) {
     volume: cell(markdown, 'Volume'),
     issue: cell(markdown, 'Issue'),
     publicationDate: cell(markdown, 'Publication date') || cell(markdown, 'Date'),
+    publicationSurface: cell(markdown, 'Publication Surface'),
     frequency: cell(markdown, 'Frequency'),
     rights,
     aiUse,
