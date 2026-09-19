@@ -36,12 +36,21 @@ function sourceGuideUrl() {
   return new URL('../docs/covers-and-editions.md', location.href).href;
 }
 
+const exportUiCleanup = new WeakMap();
+
+function clearExportUi(button) {
+  exportUiCleanup.get(button)?.();
+  exportUiCleanup.delete(button);
+}
+
 function syncExportButton(button, trigger, idleLabel) {
+  clearExportUi(button);
   let watchdog = 0;
   let sawTerminalState = false;
   const stopWatching = () => {
     window.clearTimeout(watchdog);
     observer.disconnect();
+    if (exportUiCleanup.get(button) === stopWatching) exportUiCleanup.delete(button);
   };
   const update = () => {
     const text = trigger.textContent?.trim() || '';
@@ -76,6 +85,7 @@ function syncExportButton(button, trigger, idleLabel) {
   };
 
   const observer = new MutationObserver(update);
+  exportUiCleanup.set(button, stopWatching);
   observer.observe(trigger, { childList: true, characterData: true, subtree: true, attributes: true, attributeFilter: ['title', 'aria-busy'] });
   watchdog = window.setTimeout(() => {
     observer.disconnect();
@@ -123,6 +133,8 @@ function openStudio(card) {
   const folder = card.querySelector('.folder-action')?.href || '#';
   ui.bookFiles.href = folder;
   ui.guide.href = sourceGuideUrl();
+  clearExportUi(ui.epub);
+  clearExportUi(ui.html);
   ui.epub.textContent = 'Download EPUB';
   ui.epub.title = '';
   ui.epub.disabled = false;
@@ -139,6 +151,9 @@ function openStudio(card) {
 function closeStudio() {
   const dialog = document.getElementById('publicationStudio');
   if (!dialog) return;
+  const ui = studioElements();
+  clearExportUi(ui.epub);
+  clearExportUi(ui.html);
   activeCard = null;
   if (typeof dialog.close === 'function' && dialog.open) dialog.close();
   else dialog.removeAttribute('open');
