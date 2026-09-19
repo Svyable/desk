@@ -228,6 +228,14 @@ function setDesignInteractionState({ loading = false, unavailable = false } = {}
     const control = $(id);
     if (control) control.disabled = locked;
   }
+
+  for (const id of ['readerDesignOpenReader', 'readerDesignFiles']) {
+    const link = $(id);
+    if (!link) continue;
+    link.toggleAttribute('aria-disabled', unavailable);
+    if (unavailable) link.setAttribute('tabindex', '-1');
+    else link.removeAttribute('tabindex');
+  }
 }
 
 function syncBooks() {
