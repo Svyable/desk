@@ -4,7 +4,7 @@ importScripts('./js/offline-storage-budget.js');
 importScripts('./js/offline-shell-install.js');
 
 const CACHE_PREFIX = 'svyable-desk-reader-shell-';
-const CACHE = 'svyable-desk-reader-shell-v109';
+const CACHE = 'svyable-desk-reader-shell-v110';
 const KATEX_CDN = 'https://cdn.jsdelivr.net/npm/katex@0.18.4/dist/katex.min.js';
 const BOOKSELF_READER_ORIGIN = 'https://svyable.github.io';
 const BOOKSELF_READER_PATH = '/bookself/reader/';
