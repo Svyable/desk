@@ -9,12 +9,12 @@ Desk is the working library for Sven Hardy Benson’s books: drafts, complete ma
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 134 book projects · 64 complete drafts · 3 in revision · 67 drafting**
+> **Desk: 135 book projects · 64 complete drafts · 3 in revision · 68 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
 > **Shelf: 58 author projects · 56 released · 2 public drafts/proofs**
-> **Where they live: 58 in both Desk + Shelf · 76 Desk-only · 0 Shelf-only**
+> **Where they live: 58 in both Desk + Shelf · 77 Desk-only · 0 Shelf-only**
 > **Release review queue: 13 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
@@ -149,6 +149,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Right to Try**](books/right-to-try/) | ✅ Complete draft | 20 of 20 | 66,967 | The book rejects the easy story that innovation lives wherever regulation disappears. | [Read →](https://svyable.github.io/desk/reader/#/b/right-to-try/) |
 | [**Robust**](books/robust/) | ✅ Complete draft | 31 of 31 | 66,586 | The book’s central claim is that robustness is not resistance to change. | [Read →](https://svyable.github.io/desk/reader/#/b/robust/) |
 | [**Running on Full**](books/running-on-full/) | 🔁 Revision in progress | 24 of 24 | 55,623 | The working thesis is that AI compute is not the hardware you rent or buy. | [Read →](https://svyable.github.io/desk/reader/#/b/running-on-full/) |
+| [**Saturated**](books/saturated/) | ✍️ Drafting | 1 of 20 drafted | 4,660 | The working thesis is that many institutions still make consequential decisions with meters—benchmarks, exams, credentials, KPIs, and safety thresholds—whose useful range AI is rapidly outgrowing. | [Read →](https://svyable.github.io/desk/reader/#/b/saturated/) |
 | [**Scaling Laws**](books/scaling-laws/) | ✍️ Drafting | 14 of 25 | 32,637 | The working thesis is simple: scale is not just more. A system that becomes ten times larger often becomes a different kind of system. Costs bend, bottlenecks move, coordination changes… | [Read →](https://svyable.github.io/desk/reader/#/b/scaling-laws/) |
 | [**Second Guess**](books/second-guess/) | ✍️ Drafting | 20 of 20 | 77,252 | The working thesis is that automated recommendation has spread into aviation, medicine, criminal justice, finance, warehouses, and driving faster than anyone has taught the humans working… | [Read →](https://svyable.github.io/desk/reader/#/b/second-guess/) |
 | [**Shannon's Demon**](books/shannons-demon/) | ✍️ Drafting | 20 of 20 | 64,497 | The working thesis is that one obscure, playful, almost pathologically curious engineer gave modern communication a mathematical grammar: information could be quantified in bits, sources… | [Read →](https://svyable.github.io/desk/reader/#/b/shannons-demon/) |
