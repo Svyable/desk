@@ -342,6 +342,212 @@ A machine can reduce exposure by solving the case before the learner engages.
 
 The same technology can strengthen or weaken intuition depending on the practice loop.
 
+There is a practical way to test whether an intuition deserves more authority than it currently has.
+
+Ask whether the person can say what would make the intuition fail.
+
+This is different from asking for a complete explanation.
+
+A firefighter may not be able to reconstruct every cue that produced unease, but an experienced firefighter can often identify conditions under which the same visual pattern would mean something different. A physician may not be able to narrate every step of recognition, yet can name findings that would make the favored diagnosis less plausible. A mechanic may say the vibration usually points to one component, except when the machine is under a particular load.
+
+Boundary knowledge is evidence of expertise.
+
+Superstition is often boundaryless.
+
+The gambler's lucky shirt works until it does not, and the miss is explained away.
+
+The expert's intuition is conditional because the environment taught conditions.
+
+This gives us a better test than eloquence.
+
+Some experts are poor explainers.
+
+Some confident amateurs are excellent explainers.
+
+The question is whether the judgment has survived contact with disconfirming cases.
+
+Forecasting provides a useful example because forecasts eventually meet outcomes.
+
+A meteorologist does not become expert merely by talking about weather for years. The profession has instrumentation, repeated predictions, verification statistics, model comparison, and events that arrive on schedule. Tomorrow gives feedback about yesterday's forecast.
+
+Even here, local weather can be noisy and attribution imperfect.
+
+But the learning loop exists.
+
+Compare that with a person making one sweeping prediction about civilization in 2050.
+
+The forecast can be intelligent.
+
+It can be researched.
+
+It can be worth reading.
+
+It cannot be trained in the same way because the forecaster receives very few independent 2050s.
+
+The horizon outruns the feedback.
+
+This does not mean long-range judgment is impossible.
+
+It means confidence should reflect the learning environment.
+
+The farther we move from repeated, timely, valid feedback, the more heavily we should lean on explicit models, base rates, scenario analysis, diverse views, and humility.
+
+The gut's voting share should fall.
+
+This principle also clarifies a common confusion about entrepreneurship.
+
+Founders often have powerful intuitions about products and users.
+
+Some of those intuitions are earned through obsessive exposure: watching users struggle, talking to customers, shipping, measuring, failing, and iterating.
+
+Other intuitions concern macroeconomic timing, organizational psychology, geopolitics, regulation, or capital markets where the founder may have much less calibrated experience.
+
+Success in one domain creates reputational spillover.
+
+The audience hears “successful founder” and grants the intuition a passport.
+
+The environment did not.
+
+This happens to every successful profession.
+
+The brilliant surgeon is asked about hospital economics.
+
+The investor is asked about education.
+
+The athlete is asked about business.
+
+The executive is asked about public policy.
+
+Expertise becomes social status, and social status becomes assumed general intelligence.
+
+The person may indeed be intelligent.
+
+That is not the same as calibrated intuition in the new domain.
+
+A reliable system therefore separates authority from scope.
+
+Listen carefully to the surgeon about the operation.
+
+Ask different questions about hospital finance.
+
+This seems socially awkward because people prefer coherent hierarchies.
+
+The same person is either an expert or not.
+
+Reality is more granular.
+
+One person can be unconsciously competent at the core of a field, consciously competent at an adjacent task, and an articulate novice two steps away.
+
+The map matters more than the title.
+
+Organizations can make this map explicit.
+
+Not by creating endless competency matrices, but by tying decisions to evidence of learning.
+
+Who has seen this class of failure repeatedly?
+
+Who receives feedback on this decision?
+
+Whose job exposes them to the full outcome?
+
+Who sees only the input?
+
+Who sees only the aftermath?
+
+Who is closest to the signal?
+
+A junior employee can have better local intuition than a senior executive because the junior is the one touching the process every day.
+
+Hierarchy can invert the information gradient.
+
+This is why mature leaders ask the person nearest the anomaly.
+
+Not because frontline workers are always right.
+
+Because exposure creates candidate knowledge the hierarchy may lack.
+
+The decision system should then test that local knowledge against broader context.
+
+This is recognition-primed decision making at organizational scale.
+
+Someone close to the system says, “This feels different.”
+
+The organization does not obey automatically.
+
+It investigates before the category hardens.
+
+Near-miss reporting systems embody this logic. A worker notices something that did not become an accident. The event enters institutional memory. Enough near misses can reveal a failure mode before catastrophe provides the most expensive possible feedback.
+
+This is how organizations improve the learning environment beyond what individuals experience personally.
+
+They pool error.
+
+In a strong institution, one person's surprise becomes everyone else's training data.
+
+In a weak institution, surprise is treated as embarrassment and buried.
+
+The difference compounds.
+
+After ten years, the first institution contains thousands of corrected patterns.
+
+The second contains thousands of stories about why nothing was anyone's fault.
+
+Intuition grows from the archive the culture permits.
+
+This is why psychological safety, incident reporting, and postmortems are not merely cultural niceties. They alter the amount of valid feedback available to future judgment.
+
+The same logic should govern AI incidents.
+
+A model produces a plausible but wrong output.
+
+The user catches it.
+
+If the event disappears into a private chat, nobody else learns.
+
+If the organization captures the failure class, reproduces it, tests related systems, and turns it into training, one error can strengthen the whole system.
+
+AI can therefore improve human intuition indirectly by increasing the density of shareable cases.
+
+The irony is that the same tool can reduce individual case exposure if it handles the problem before the human engages.
+
+The organization has to choose where the learning occurs.
+
+This suggests a useful division of labor.
+
+Let machines aggregate cases.
+
+Let simulations distribute them.
+
+Let humans practice recognition.
+
+Let explicit systems capture what can be standardized.
+
+Let outcomes continue to correct everyone.
+
+The goal is not to preserve intuition as a mysterious human privilege.
+
+The goal is to produce intuitions that deserve trust.
+
+Kahneman and Klein's agreement remains radical because it denies both tribes their favorite certainty.
+
+The heuristics-and-biases tradition cannot say intuition is inherently unreliable.
+
+The naturalistic-decision tradition cannot say experience is inherently wisdom.
+
+The environment gets the deciding vote.
+
+That is the standard AI systems should face too.
+
+Do not ask whether the output feels intelligent.
+
+Ask what regularities the system learned, what feedback shaped it, where the environment has changed, and what evidence exists in the case at hand.
+
+Human intuition and machine prediction meet on the same ground.
+
+Both are claims about patterns.
+
+Both become dangerous when their confidence survives beyond the conditions that created them.
+
 That is the recurring pattern of this book.
 
 Tools do not merely change what people can do.
