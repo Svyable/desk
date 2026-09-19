@@ -80,8 +80,16 @@ function installStyles() {
   document.head.appendChild(link);
 }
 
+function applePlatform() {
+  return /Mac|iPhone|iPad/.test(navigator.platform || '');
+}
+
 function shortcutLabel() {
-  return /Mac|iPhone|iPad/.test(navigator.platform || '') ? '⌘K' : 'Ctrl K';
+  return applePlatform() ? '⌘K' : 'Ctrl K';
+}
+
+function textEntryTarget(target) {
+  return !!target?.closest?.('input, textarea, select, [contenteditable="true"]');
 }
 
 function installWorkspaceNav() {
@@ -113,8 +121,11 @@ function installWorkspaceNav() {
   });
 
   document.addEventListener('keydown', (event) => {
-    if (!(event.metaKey || event.ctrlKey) || event.altKey || event.key.toLowerCase() !== 'k') return;
-    if (event.defaultPrevented) return;
+    const primary = applePlatform()
+      ? event.metaKey && !event.ctrlKey
+      : event.ctrlKey && !event.metaKey;
+    if (!primary || event.altKey || event.shiftKey || event.key.toLowerCase() !== 'k') return;
+    if (event.defaultPrevented || textEntryTarget(event.target)) return;
     event.preventDefault();
     focusSearch();
   }, true);
