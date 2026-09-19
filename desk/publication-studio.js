@@ -37,21 +37,31 @@ function sourceGuideUrl() {
 }
 
 function syncExportButton(button, trigger, idleLabel) {
+  let watchdog = 0;
+  let sawTerminalState = false;
+  const stopWatching = () => {
+    window.clearTimeout(watchdog);
+    observer.disconnect();
+  };
   const update = () => {
     const text = trigger.textContent?.trim() || '';
     if (/packaging|building/i.test(text)) {
       button.textContent = text;
+      button.title = '';
       button.setAttribute('aria-busy', 'true');
       button.disabled = true;
       return;
     }
     if (/downloaded/i.test(text)) {
+      sawTerminalState = true;
       button.textContent = 'Downloaded';
+      button.title = '';
       button.removeAttribute('aria-busy');
       button.disabled = false;
       return;
     }
     if (/failed/i.test(text)) {
+      sawTerminalState = true;
       button.textContent = 'Export failed';
       button.title = trigger.title || 'Could not export this manuscript.';
       button.removeAttribute('aria-busy');
@@ -59,18 +69,23 @@ function syncExportButton(button, trigger, idleLabel) {
       return;
     }
     button.textContent = idleLabel;
+    button.title = '';
     button.removeAttribute('aria-busy');
     button.disabled = false;
+    if (sawTerminalState) stopWatching();
   };
 
   const observer = new MutationObserver(update);
   observer.observe(trigger, { childList: true, characterData: true, subtree: true, attributes: true, attributeFilter: ['title', 'aria-busy'] });
-  update();
-  trigger.click();
-  setTimeout(() => {
+  watchdog = window.setTimeout(() => {
     observer.disconnect();
-    if (!button.disabled && !/failed/i.test(button.textContent || '')) button.textContent = idleLabel;
-  }, 5000);
+    button.textContent = idleLabel;
+    button.title = 'The export did not report completion. You can try again.';
+    button.removeAttribute('aria-busy');
+    button.disabled = false;
+  }, 60000);
+  trigger.click();
+  update();
 }
 
 function studioElements() {
@@ -109,9 +124,11 @@ function openStudio(card) {
   ui.bookFiles.href = folder;
   ui.guide.href = sourceGuideUrl();
   ui.epub.textContent = 'Download EPUB';
+  ui.epub.title = '';
   ui.epub.disabled = false;
   ui.epub.removeAttribute('aria-busy');
   ui.html.textContent = 'Download HTML';
+  ui.html.title = '';
   ui.html.disabled = false;
   ui.html.removeAttribute('aria-busy');
 
@@ -165,7 +182,10 @@ function bindPublicationStudio() {
   });
 
   document.addEventListener('keydown', (event) => {
-    if (event.key === 'Escape') activeCard = null;
+    if (event.key !== 'Escape') return;
+    const dialog = document.getElementById('publicationStudio');
+    if (dialog?.open || dialog?.hasAttribute('open')) closeStudio();
+    else activeCard = null;
   });
 }
 

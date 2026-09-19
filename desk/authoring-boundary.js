@@ -13,6 +13,7 @@ import('./research-surface.js').catch((error) => {
 });
 
 const $ = (id) => document.getElementById(id);
+let policyRequestSequence = 0;
 
 function installDeskPolish() {
   if (!document.querySelector('link[data-desk-polish]')) {
@@ -75,14 +76,20 @@ function applyWorkspacePolicy(policy) {
   if (readyLabel) readyLabel.textContent = policy.readySummaryLabel;
 }
 
-function remoteRepository() {
-  const value = new URLSearchParams(location.search).get('repo') || '';
-  const match = value.trim().match(/^([^/\s]+)\/([^/\s]+)$/);
+function parseRepository(value) {
+  const raw = String(value || '').trim();
+  if (!raw) return null;
+  const github = raw.match(/github\.com\/([^/]+)\/([^/#?]+)/i);
+  const pair = github ? `${github[1]}/${github[2]}` : raw.replace(/^https?:\/\//i, '');
+  const match = pair.match(/^([^/\s]+)\/([^/\s]+)$/);
   return match ? { owner: match[1], repo: match[2].replace(/\.git$/i, '') } : null;
 }
 
-async function loadRemoteInspectionRole() {
-  const repository = remoteRepository();
+function remoteRepository() {
+  return parseRepository(new URLSearchParams(location.search).get('repo'));
+}
+
+async function loadRemoteInspectionRole(repository = remoteRepository()) {
   if (!repository) return 'instance';
 
   try {
@@ -101,10 +108,12 @@ async function loadRemoteInspectionRole() {
   }
 }
 
-async function applyAuthoringBoundary(remoteInspection) {
+async function applyAuthoringBoundary(remoteInspection, repository = remoteRepository()) {
+  const requestId = ++policyRequestSequence;
   if (remoteInspection) {
     hideAuthoringTools();
-    const role = await loadRemoteInspectionRole();
+    const role = await loadRemoteInspectionRole(repository);
+    if (requestId !== policyRequestSequence) return;
     applyWorkspacePolicy(authoringRolePolicy({ role, remoteInspection: true }));
     return;
   }
@@ -113,6 +122,7 @@ async function applyAuthoringBoundary(remoteInspection) {
     const response = await fetch(new URL('../imprint.json', import.meta.url), { cache: 'no-store' });
     if (!response.ok) return;
     const imprint = await response.json();
+    if (requestId !== policyRequestSequence) return;
     applyWorkspacePolicy(authoringRolePolicy({
       role: imprint.role,
       remoteInspection: false,
@@ -128,10 +138,19 @@ async function applyAuthoringBoundary(remoteInspection) {
 
 function initialize() {
   installDeskPolish();
-  const remoteInspection = new URLSearchParams(location.search).has('repo');
+  const initialRemote = remoteRepository();
+  const remoteInspection = Boolean(initialRemote);
   applyWorkspacePolicy(initialAuthoringRolePolicy({ remoteInspection }));
-  $('repoForm')?.addEventListener('submit', hideAuthoringTools);
-  void applyAuthoringBoundary(remoteInspection);
+
+  $('repoForm')?.addEventListener('submit', () => {
+    const repository = parseRepository($('repoInput')?.value);
+    if (!repository) return;
+    hideAuthoringTools();
+    applyWorkspacePolicy(initialAuthoringRolePolicy({ remoteInspection: true }));
+    void applyAuthoringBoundary(true, repository);
+  });
+
+  void applyAuthoringBoundary(remoteInspection, initialRemote);
 }
 
 if (document.readyState === 'loading') {

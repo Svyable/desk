@@ -12,6 +12,8 @@ const state = {
   query: '',
 };
 
+let workspaceLoadSequence = 0;
+
 const $ = (id) => document.getElementById(id);
 
 function escapeHtml(value = '') {
@@ -155,7 +157,8 @@ function isPublicRole() {
 function analyzeBook(meta, markdown, cataloged, checklist) {
   const issues = [];
   const chapters = manuscriptChapters(checklist);
-  const draftedChapters = chapters.filter((entry) => entry.checked).length;
+  const progressItems = meta.format === 'book' && chapters.length ? chapters : checklist;
+  const draftedChapters = progressItems.filter((entry) => entry.checked).length;
   const allChecklistDone = checklist.length > 0 && checklist.every((entry) => entry.checked);
   const chapterCell = parseChapterCell(meta.chaptersCell);
   const placeholder = isPlaceholderBook(meta, markdown);
@@ -170,10 +173,10 @@ function analyzeBook(meta, markdown, cataloged, checklist) {
   if (!checklist.length) issues.push({ severity: 'severe', message: 'Add manuscript files to the Contents checklist.' });
   if (placeholder) issues.push({ severity: 'warn', message: 'Template setup text is still present.' });
 
-  if (chapterCell && (chapterCell.total !== chapters.length || chapterCell.drafted !== draftedChapters)) {
+  if (chapterCell && (chapterCell.total !== progressItems.length || chapterCell.drafted !== draftedChapters)) {
     issues.push({
       severity: 'warn',
-      message: `Chapters says “${meta.chaptersCell}”, but the checklist currently shows ${draftedChapters} of ${chapters.length} drafted.`,
+      message: `Chapters says “${meta.chaptersCell}”, but the checklist currently shows ${draftedChapters} of ${progressItems.length} drafted.`,
     });
   }
 
@@ -220,7 +223,7 @@ function analyzeBook(meta, markdown, cataloged, checklist) {
     nextStep = 'Review the manuscript hub and resolve the readiness items below.';
   }
 
-  return { issues, ready, checklist, chapterCount: chapters.length, draftedChapters, allChecklistDone, nextStep };
+  return { issues, ready, checklist, chapterCount: progressItems.length, draftedChapters, allChecklistDone, nextStep };
 }
 
 async function loadBookFromMarkdown(slug, markdown, catalogSlugs) {
@@ -252,19 +255,26 @@ function unreadableBook(slug, catalogSlugs) {
     slug, title: slug, status: 'Unreadable', authors: '', tags: [], checklist: [], chapterCount: 0,
     draftedChapters: 0, allChecklistDone: false, cataloged: catalogSlugs.includes(slug), ready: false,
     unreadable: true, nextStep: 'Open the book folder and repair or add its README hub.',
-    issues: [{ severity: 'severe', message: 'The Desk could not read books/<slug>/README.md.' }],
+    issues: [{ severity: 'severe', message: `The Desk could not read books/${slug}/README.md.` }],
   };
+}
+
+function isPublicProof(book) {
+  return isPublicRole()
+    && !book.published
+    && /\b(?:public\s+)?proof\b|\bunlisted\b/i.test(book.publicationSurface || '');
 }
 
 function statusState(book) {
   if (isPublicRole() && book.published && book.cataloged) return 'published';
+  if (isPublicProof(book) || /proof/i.test(book.status)) return 'proof';
   if (book.ready) return 'ready';
-  if (/proof/i.test(book.status)) return 'proof';
   return 'drafting';
 }
 
 function statusLabel(book) {
   if (isPublicRole() && book.published && book.cataloged) return 'Published';
+  if (isPublicProof(book)) return 'Public proof';
   if (book.ready) return state.role === 'desk' ? 'Ready to release' : 'Ready';
   return book.status || 'Drafting';
 }
@@ -433,6 +443,9 @@ function resetView() {
   state.query = '';
   state.filter = 'all';
   $('bookSearch').value = '';
+  $('manuscriptList').replaceChildren();
+  $('deskEmpty').hidden = true;
+  ['repoOverview', 'summaryGrid', 'deskControls'].forEach((id) => { $(id).hidden = true; });
   document.querySelectorAll('[data-filter]').forEach((button) => {
     const active = button.dataset.filter === 'all';
     button.classList.toggle('active', active);
@@ -453,11 +466,14 @@ function finishLoad(meta = {}) {
 }
 
 async function loadLocalWorkspace() {
+  const requestId = ++workspaceLoadSequence;
   state.local = true;
   resetView();
   showLoading('Reading this instance directly.');
   try {
-    state.imprint = await loadImprint();
+    const imprint = await loadImprint();
+    if (requestId !== workspaceLoadSequence) return;
+    state.imprint = imprint;
     state.role = state.imprint.role || 'instance';
     const configured = parseRepo(`${state.imprint.github?.owner || ''}/${state.imprint.github?.repo || ''}`);
     const inferred = inferGithubFromLocation();
@@ -465,20 +481,28 @@ async function loadLocalWorkspace() {
     state.owner = github?.owner || '';
     state.repo = github?.repo || '';
     state.branch = state.imprint.github?.branch || 'main';
-    $('repoInput').value = repoKey();
+    // This field is for inspecting another repository. Leaving the current
+    // repo prefilled makes an accidental Enter key turn the local authoring
+    // workspace into remote inspection of itself.
+    $('repoInput').value = '';
 
     const portalMarkdown = await instanceText('README.md');
+    if (requestId !== workspaceLoadSequence) return;
     const slugs = parsePortalCatalog(portalMarkdown || '');
     showLoading(`Reading ${slugs.length} manuscript hub${slugs.length === 1 ? '' : 's'} from this ${state.role}…`);
-    state.books = await mapLimit(slugs, 6, (slug) => loadLocalBook(slug, slugs));
+    const books = await mapLimit(slugs, 6, (slug) => loadLocalBook(slug, slugs));
+    if (requestId !== workspaceLoadSequence) return;
+    state.books = books;
     finishLoad();
   } catch (error) {
+    if (requestId !== workspaceLoadSequence) return;
     console.error('Publishing Desk could not load local instance', error);
     showError(error);
   }
 }
 
 async function loadRemoteWorkspace(repo) {
+  const requestId = ++workspaceLoadSequence;
   state.local = false;
   state.role = 'shelf';
   state.imprint = {};
@@ -490,24 +514,29 @@ async function loadRemoteWorkspace(repo) {
 
   try {
     const meta = await api();
+    if (requestId !== workspaceLoadSequence) return;
     state.branch = meta.default_branch || 'main';
     const [directories, portalMarkdown, remoteImprint] = await Promise.all([
       api(`/contents/books?ref=${encodeURIComponent(state.branch)}`),
       remoteText('README.md').catch(() => ''),
       remoteText('imprint.json').then((text) => JSON.parse(text)).catch(() => ({})),
     ]);
+    if (requestId !== workspaceLoadSequence) return;
     state.imprint = remoteImprint;
     state.role = remoteImprint.role || 'shelf';
     const catalogSlugs = parsePortalCatalog(portalMarkdown || '');
     const bookDirectories = directories.filter((item) => item.type === 'dir' && !item.name.startsWith('_'));
     showLoading(`Reading ${bookDirectories.length} manuscript hub${bookDirectories.length === 1 ? '' : 's'} from this ${state.role}…`);
-    state.books = await mapLimit(bookDirectories, 6, (directory) => loadRemoteBook(directory, catalogSlugs));
+    const books = await mapLimit(bookDirectories, 6, (directory) => loadRemoteBook(directory, catalogSlugs));
+    if (requestId !== workspaceLoadSequence) return;
+    state.books = books;
     finishLoad(meta);
 
     const params = new URLSearchParams(location.search);
     params.set('repo', repoKey());
     history.replaceState(null, '', `${location.pathname}?${params.toString()}`);
   } catch (error) {
+    if (requestId !== workspaceLoadSequence) return;
     console.error('Publishing Desk could not load remote repository', error);
     showError(error, repoKey());
   }

@@ -23,8 +23,8 @@ assert.match(source, /research\.textContent = 'Research'/);
 assert.match(source, /research\.setAttribute\('aria-label'/);
 assert.match(source, /root\.querySelectorAll\('\.book-card\[data-slug\]'\)\.forEach\(enhanceBookCard\)/);
 assert.match(source, /observer\.observe\(root, \{ childList: true \}\)/);
-assert.match(source, /repoForm.*submit.*observer\.disconnect\(\)/s);
-assert.match(source, /URLSearchParams\(location\.search\).*has\('repo'\)/s);
+assert.match(source, /repoForm.*submit[\s\S]*parseRepository\(value\)[\s\S]*observer\.disconnect\(\)/s);
+assert.match(source, /!parseRepository\(new URLSearchParams\(location\.search\)\.get\('repo'\)\)/);
 assert.doesNotMatch(source, /localStorage|sessionStorage|\.page-inner|\.pages-wrapper/);
 assert.doesNotMatch(source, /PUT|POST|PATCH|DELETE/);
 

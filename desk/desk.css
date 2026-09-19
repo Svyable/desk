@@ -325,7 +325,7 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .manuscript-list { display: grid; gap: .75rem; }
 
 .book-card {
-  overflow: hidden;
+  overflow: visible;
   border: 1px solid var(--border);
   border-radius: 18px;
   background: linear-gradient(135deg, color-mix(in srgb, var(--surface-2) 92%, var(--accent) 1%), var(--surface));
@@ -390,7 +390,11 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .book-actions { display: flex; flex-wrap: wrap; gap: .35rem; margin-top: .95rem; }
 .primary-action, .secondary-action { min-height: 2.2rem; font-size: .67rem; }
 
-.chapter-details { border-top: 1px solid var(--border); }
+.chapter-details {
+  overflow: hidden;
+  border-top: 1px solid var(--border);
+  border-radius: 0 0 18px 18px;
+}
 .chapter-details summary {
   display: flex;
   align-items: center;
@@ -484,6 +488,7 @@ button, a { -webkit-tap-highlight-color: transparent; }
   .summary-grid { gap: .45rem; }
   .summary-card { min-height: 5.8rem; padding: .8rem; }
   .book-card { border-radius: 15px; }
+  .chapter-details { border-radius: 0 0 15px 15px; }
   .book-card-main { padding: .95rem; }
   .book-card-heading { gap: .7rem; }
   .book-completion { min-width: 4.5rem; }

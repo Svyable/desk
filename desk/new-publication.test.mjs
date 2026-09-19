@@ -113,6 +113,11 @@ assert.match(source, /observer\.observe\(rootEditLink, \{ attributes: true, attr
 assert.match(source, /catalog\.href !== target/);
 assert.match(source, /publication-research-starter\.js/);
 assert.match(source, /research\/README\.md/);
+assert.match(source, /form\.checkValidity\(\)/);
+assert.match(source, /form\.reportValidity\(\)/);
+assert.match(source, /getDirectoryHandle\(bundle\.slug\)[\s\S]*already exists[\s\S]*return;/);
+assert.match(source, /document\.body\.appendChild\(a\)[\s\S]*a\.remove\(\)[\s\S]*revokeObjectURL\(url\), 1000/);
+assert.match(source, /prefers-reduced-motion: reduce/);
 
 const researchSource = readFileSync(new URL('./publication-research-starter.js', import.meta.url), 'utf8');
 assert.doesNotMatch(researchSource, /fetch\(|localStorage|sessionStorage|document\.|window\./);

@@ -48,6 +48,7 @@ const draft = parseBookReadme(`# Working Draft
 | **Venue** | Example Lab |
 | **DOI** | 10.1234/example |
 | **Series** | Field Notes |
+| **Publication Surface** | Public, unlisted Shelf proof |
 | **Tags** | guide, git |
 | **Chapters** | 1 of 2 drafted |
 
@@ -68,6 +69,7 @@ equal(draft.formatLabel, 'Whitepaper');
 equal(draft.venue, 'Example Lab');
 equal(draft.doi, '10.1234/example');
 equal(draft.series, 'Field Notes');
+equal(draft.publicationSurface, 'Public, unlisted Shelf proof');
 deepEqual(draft.tags, ['guide', 'git']);
 equal(draft.contents.length, 2);
 equal(draft.contents[0].id, 'front-matter');

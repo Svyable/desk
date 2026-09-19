@@ -9,6 +9,7 @@ import {
 const $ = (id) => document.getElementById(id);
 let currentCover = { ...COVER_PRESENTATION_DEFAULTS };
 let artToken = 0;
+let coverLoadToken = 0;
 
 function optionMarkup(values, labels = {}) {
   return values.map((value) => `<option value="${value}">${labels[value] || value}</option>`).join('');
@@ -45,11 +46,14 @@ function markup() {
 }
 
 function remoteRepo() {
-  const repo = new URLSearchParams(location.search).get('repo') || '';
-  const match = repo.match(/^([^/]+)\/([^/]+)$/);
+  const raw = (new URLSearchParams(location.search).get('repo') || '').trim();
+  if (!raw) return null;
+  const github = raw.match(/github\.com\/([^/]+)\/([^/#?]+)/i);
+  const pair = github ? `${github[1]}/${github[2]}` : raw.replace(/^https?:\/\//i, '');
+  const match = pair.match(/^([^/\s]+)\/([^/\s]+)$/);
   if (!match) return null;
   const branch = $('repoBranch')?.textContent?.trim() || 'main';
-  return { owner: match[1], repo: match[2], branch };
+  return { owner: match[1], repo: match[2].replace(/\.git$/i, ''), branch };
 }
 
 function publicationUrl(slug, rel) {
@@ -174,15 +178,24 @@ async function loadArt(slug) {
 }
 
 async function loadCurrentCover() {
+  const token = ++coverLoadToken;
   const { slug } = selectedBookMeta();
+  artToken += 1;
+  const face = $('coverDesignFace');
+  face?.classList.remove('has-art');
+  face?.style.removeProperty('--cover-preview-art');
+  applyControls(COVER_PRESENTATION_DEFAULTS);
   if (!slug) return;
   try {
     const response = await fetch(publicationUrl(slug, 'reader.json'), { cache: 'no-store' });
     const raw = response.ok ? JSON.parse(await response.text()) : {};
+    if (token !== coverLoadToken || selectedBookMeta().slug !== slug) return;
     applyControls(raw.cover || {});
   } catch {
+    if (token !== coverLoadToken || selectedBookMeta().slug !== slug) return;
     applyControls(COVER_PRESENTATION_DEFAULTS);
   }
+  if (token !== coverLoadToken || selectedBookMeta().slug !== slug) return;
   loadArt(slug);
 }
 
