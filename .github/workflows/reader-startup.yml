@@ -4,12 +4,16 @@ on:
   pull_request:
     paths:
       - "reader/**"
+      - "desk/*export*.js"
+      - "desk/*export*.test.mjs"
       - ".github/workflows/reader-startup.yml"
   push:
     branches:
       - main
     paths:
       - "reader/**"
+      - "desk/*export*.js"
+      - "desk/*export*.test.mjs"
       - ".github/workflows/reader-startup.yml"
   workflow_dispatch:
 
@@ -35,3 +39,9 @@ jobs:
             reader/js/desk-book-opening-handoff-contract.test.mjs \
             reader/js/library-sort-model.test.mjs \
             reader/js/reading-trail-model.test.mjs
+      - name: Verify Desk publication exports
+        run: |
+          node --test \
+            desk/epub-export.test.mjs \
+            desk/kdp-export.test.mjs \
+            desk/publication-export-rights.test.mjs
