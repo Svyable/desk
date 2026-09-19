@@ -73,3 +73,19 @@ test('stale export observers are detached when the studio changes context', asyn
   assert.match(source, /function openStudio[\s\S]*?clearExportUi\(ui\.epub\)[\s\S]*?clearExportUi\(ui\.html\)/);
   assert.match(source, /function closeStudio[\s\S]*?clearExportUi\(ui\.epub\)[\s\S]*?clearExportUi\(ui\.html\)/);
 });
+
+
+test('reopening the studio mirrors an already-running hidden export without starting another', async () => {
+  const source = await readFile(new URL('./publication-studio.js', import.meta.url), 'utf8');
+  assert.match(source, /function restoreExportButton\(button, trigger, idleLabel\)/);
+  assert.match(source, /syncExportButton\(button, trigger, idleLabel, \{ start: false \}\)/);
+  assert.match(source, /restoreExportButton\(ui\.epub, card\.querySelector\('\.export-epub-action'\), 'Download EPUB'\)/);
+  assert.match(source, /restoreExportButton\(ui\.html, card\.querySelector\('\.export-kdp-action'\), 'Download HTML'\)/);
+  assert.match(source, /if \(start\) trigger\.click\(\)/);
+});
+
+test('export watchdog never re-enables a genuinely busy or terminal export', async () => {
+  const source = await readFile(new URL('./publication-studio.js', import.meta.url), 'utf8');
+  assert.match(source, /getAttribute\('aria-busy'\) === 'true'[\s\S]*?button\.disabled = true;[\s\S]*?setTimeout\(onWatchdog, 60000\)/);
+  assert.match(source, /if \(\/downloaded\|failed\/i\.test\(text\)\)[\s\S]*?update\(\);[\s\S]*?setTimeout\(onWatchdog, 5000\)/);
+});

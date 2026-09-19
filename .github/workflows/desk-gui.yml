@@ -28,4 +28,4 @@ jobs:
           node-version: "22"
       - name: Run GUI contract checks
         run: |
-          node --test desk/publication-studio.test.mjs desk/epub-export.test.mjs desk/kdp-export.test.mjs desk/reader-design-contract.test.mjs desk/workspace-switch-contract.test.mjs reader/js/reader-html-controls.test.mjs
+          node --test desk/authoring-role-policy.test.mjs desk/publication-studio.test.mjs desk/epub-export.test.mjs desk/kdp-export.test.mjs desk/reader-design-contract.test.mjs desk/workspace-switch-contract.test.mjs reader/js/reader-html-controls.test.mjs

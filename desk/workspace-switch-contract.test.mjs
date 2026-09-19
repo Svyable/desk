@@ -14,3 +14,13 @@ test('remote workspace URL is committed before manuscript cards notify dependent
   assert.ok(assignBooks > urlCommit, 'remote URL must be committed before books are assigned for rendering');
   assert.ok(finish > assignBooks, 'rendering must happen after the URL identifies the loaded workspace');
 });
+
+
+test('workspace lifecycle events distinguish successful commits from failed remote attempts', async () => {
+  const source = await readFile(new URL('./desk.js', import.meta.url), 'utf8');
+  assert.match(source, /bookself:desk-workspace-loaded/);
+  assert.match(source, /detail:\s*\{[\s\S]*?local: state\.local,[\s\S]*?role: state\.role,[\s\S]*?imprint: state\.imprint/);
+  assert.match(source, /bookself:desk-workspace-failed/);
+  const failure = source.slice(source.indexOf("bookself:desk-workspace-failed") - 450, source.indexOf("bookself:desk-workspace-failed") + 250);
+  assert.match(failure, /showError\(error, repoKey\(\)\)/);
+});

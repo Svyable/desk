@@ -40,6 +40,13 @@ function hideAuthoringTools() {
   if (studio) studio.hidden = true;
 }
 
+function showAuthoringTools() {
+  const start = $('startBookLink');
+  const studio = $('newPublicationStudio');
+  if (start) start.hidden = false;
+  if (studio) studio.hidden = false;
+}
+
 function applyWorkspaceIdentity(policy) {
   document.title = policy.documentTitle;
 
@@ -128,7 +135,8 @@ async function applyAuthoringBoundary(remoteInspection, repository = remoteRepos
       remoteInspection: false,
       identity: { owner: imprint.brandOwner || imprint.owner, name: imprint.name },
     }));
-    if (imprint.role === 'shelf') hideAuthoringTools();
+    if (String(imprint.role || '').trim().toLowerCase() === 'shelf') hideAuthoringTools();
+    else showAuthoringTools();
   } catch {
     // This repository is itself a Desk. Keep the already-applied local policy
     // if role metadata is temporarily unavailable rather than flashing generic
@@ -147,7 +155,26 @@ function initialize() {
     if (!repository) return;
     hideAuthoringTools();
     applyWorkspacePolicy(initialAuthoringRolePolicy({ remoteInspection: true }));
-    void applyAuthoringBoundary(true, repository);
+  });
+
+  document.addEventListener('bookself:desk-workspace-loaded', (event) => {
+    const detail = event.detail || {};
+    policyRequestSequence += 1;
+    const remote = detail.local === false;
+    const imprint = detail.imprint || {};
+    const role = String(detail.role || imprint.role || 'instance').trim().toLowerCase() || 'instance';
+    applyWorkspacePolicy(authoringRolePolicy({
+      role,
+      remoteInspection: remote,
+      identity: { owner: imprint.brandOwner || imprint.owner, name: imprint.name },
+    }));
+    if (remote || role === 'shelf') hideAuthoringTools();
+    else showAuthoringTools();
+  });
+
+  document.addEventListener('bookself:desk-workspace-failed', () => {
+    const committedRemote = remoteRepository();
+    void applyAuthoringBoundary(Boolean(committedRemote), committedRemote);
   });
 
   void applyAuthoringBoundary(remoteInspection, initialRemote);
