@@ -392,7 +392,17 @@ async function copyText(value) {
   }
 }
 
+function validatePublicationInput() {
+  const form = $('newPublicationForm');
+  if (!form) return true;
+  if (form.checkValidity()) return true;
+  form.reportValidity();
+  $('newPublicationName')?.focus();
+  return false;
+}
+
 async function saveStarterFolder() {
+  if (!validatePublicationInput()) return;
   const bundle = currentBundle();
   if (typeof window.showDirectoryPicker !== 'function') {
     downloadBlob(`${bundle.slug}.zip`, zipStore(bundle.files), 'application/zip');
@@ -401,6 +411,13 @@ async function saveStarterFolder() {
   }
   try {
     const books = await window.showDirectoryPicker({ mode: 'readwrite' });
+    try {
+      await books.getDirectoryHandle(bundle.slug);
+      $('newPublicationHelp').textContent = `A folder named ${bundle.slug}/ already exists. Choose a different title before saving so Bookself does not overwrite an existing publication.`;
+      return;
+    } catch (error) {
+      if (error?.name !== 'NotFoundError') throw error;
+    }
     const root = await books.getDirectoryHandle(bundle.slug, { create: true });
     for (const [path, content] of Object.entries(bundle.files)) {
       const relative = path.slice(bundle.slug.length + 1).split('/');
@@ -430,11 +447,13 @@ function bindUi() {
     else delete event.target.dataset.touched;
   });
   $('newPublicationZip')?.addEventListener('click', () => {
+    if (!validatePublicationInput()) return;
     const bundle = currentBundle();
     downloadBlob(`${bundle.slug}.zip`, zipStore(bundle.files), 'application/zip');
   });
   $('newPublicationSaveFolder')?.addEventListener('click', saveStarterFolder);
   $('newPublicationCopyCatalog')?.addEventListener('click', async () => {
+    if (!validatePublicationInput()) return;
     const copied = await copyText(currentBundle().catalog);
     $('newPublicationCopyCatalog').textContent = copied ? 'Copied' : 'Copy failed';
     window.setTimeout(() => { $('newPublicationCopyCatalog').textContent = 'Copy catalog line'; }, 1400);
