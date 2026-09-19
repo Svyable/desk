@@ -20,9 +20,7 @@ Data is the accumulated evidence a system can learn from: transactions, outcomes
 
 Talent is also easy to describe badly. It is not a synonym for headcount, credentials, celebrity, or compensation. In this book, talent means scarce judgment that changes what an organization can notice and do. Sometimes the scarce person is a scientist. Sometimes an engineer, operator, salesperson, designer, investor, editor, machinist, intelligence analyst, or manager. The relevant question is what happens to the surrounding system when that person enters it. Does the team become better at finding problems, choosing experiments, rejecting bad work, teaching others, building tools, or making decisions under uncertainty?
 
-Then comes leverage.
-
-Leverage is any mechanism that allows one decision, one artifact, one dollar, or one hour of judgment to produce effects at a larger scale. Software is leverage. Artificial intelligence is leverage. Capital is leverage. Media and distribution are leverage. A brand can be leverage. A standard can be leverage. A legal right, installed base, network, procurement contract, or scientific platform can be leverage. None guarantees good results. They multiply what is already there.
+Then comes leverage: any mechanism that allows one decision, one artifact, one dollar, or one hour of judgment to produce effects at a larger scale. Software is leverage. Artificial intelligence is leverage. Capital is leverage. Media and distribution are leverage. A brand can be leverage. A standard can be leverage. A legal right, installed base, network, procurement contract, or scientific platform can be leverage. None guarantees good results. They multiply what is already there.
 
 That last sentence is the danger hidden inside the promise.
 
@@ -40,9 +38,7 @@ Sometimes the loop works beautifully. Sometimes a company simply mistakes posses
 
 A large dataset can be useless because the outcome was never recorded. A celebrated hire can fail because the organization will not give that person authority, compute, colleagues, time, or access to customers. An expensive AI system can produce little because the workflow around it remains unchanged. A distribution advantage can decay when the platform changes its rules. Capital can keep a weak model alive long enough to look strong. Scale can hide deterioration.
 
-The book therefore has two jobs.
-
-The first is to explain how compounding advantage is actually built. The second is to show when the story people tell about compounding is false.
+The book therefore has two jobs: explain how compounding advantage is actually built, and show when the story people tell about compounding is false.
 
 That distinction matters because the phrase "data moat" can excuse almost anything. So can "talent density." So can "AI leverage." Every era develops language that lets executives describe expenditure as destiny. This book will ask for the mechanism.
 
@@ -62,8 +58,4 @@ The book will also keep several counterarguments alive. Some apparent data advan
 
 Compounding is not magic. It is a sequence of mechanisms, and mechanisms can be interrupted.
 
-The title of this book has three nouns in it. The temptation will be to turn them into three tidy sections and call the work complete.
-
-That would miss the point.
-
-The interesting part is the multiplication sign.
+The title of this book has three nouns in it. The temptation will be to turn them into three tidy sections and call the work complete. That would miss the point. The interesting part is the multiplication sign.
