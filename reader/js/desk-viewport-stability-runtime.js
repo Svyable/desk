@@ -114,20 +114,27 @@ function fastDeskCatalogFromStorage() {
   }
 }
 
-function renderFastDeskCatalog(entries) {
+function renderFastDeskCatalog(entries, { refreshPrimer = false } = {}) {
   if (parseRoute().view !== 'library' || !entries.length) return;
   const shelf = document.getElementById('shelf');
   const empty = document.getElementById('emptyShelf');
   if (!shelf || !empty) return;
-  // This is a first-paint placeholder only. Once either this primer or the
-  // canonical Reader has populated the Shelf, a later lightweight fetch may
-  // update storage but must never replace the richer rendered library.
-  if (shelf.dataset.deskFastCatalog === 'primed' || shelf.children.length) return;
+
+  const primed = shelf.dataset.deskFastCatalog === 'primed';
+  const primerStillOwnsShelf = primed
+    && shelf.children.length > 0
+    && [...shelf.children].every((child) => child.dataset.deskFastVolume === 'true');
+
+  // Never replace the canonical Reader's richer shelf. A fresh README fetch is
+  // allowed to replace only our own cached first-paint primer.
+  if (shelf.children.length && !primerStillOwnsShelf) return;
+  if (primed && !refreshPrimer) return;
 
   const fragment = document.createDocumentFragment();
   for (const entry of entries.slice().sort((a, b) => a.title.localeCompare(b.title))) {
     const link = document.createElement('a');
     link.className = 'volume';
+    link.dataset.deskFastVolume = 'true';
     link.href = `#/b/${entry.slug}/`;
     link.innerHTML = `
       <span class="volume-spine"></span>
@@ -156,7 +163,7 @@ function primeDeskLibrary() {
       const entries = parseFastDeskCatalog(markdown);
       if (!entries.length) return;
       try { localStorage.setItem(FAST_DESK_CATALOG_KEY, JSON.stringify(entries)); } catch {}
-      renderFastDeskCatalog(entries);
+      renderFastDeskCatalog(entries, { refreshPrimer: true });
     })
     .catch(() => {});
 }
