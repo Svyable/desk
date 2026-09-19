@@ -62,8 +62,13 @@ function installLibrarySort(attempt = 0) {
     });
     return;
   }
-  if (attempt >= 120) return;
-  window.setTimeout(() => installLibrarySort(attempt + 1), 25);
+
+  // The canonical app and imprint are remote during the migration boundary.
+  // Slow mobile connections can easily exceed the old three-second polling
+  // window, leaving the sort buttons visible but inert for the whole session.
+  if (attempt >= 160) return;
+  const delay = attempt < 40 ? 25 : 100;
+  window.setTimeout(() => installLibrarySort(attempt + 1), delay);
 }
 
 function initialize() {
@@ -79,4 +84,5 @@ if (typeof document !== 'undefined') {
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', initialize, { once: true });
   else initialize();
   installLibrarySort();
+  window.addEventListener('load', () => installLibrarySort(), { once: true });
 }
