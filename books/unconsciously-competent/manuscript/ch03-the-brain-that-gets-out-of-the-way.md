@@ -196,6 +196,186 @@ A great surgeon does not become great by making every hand movement conscious. T
 
 A great writer does not spend all day remembering grammar. Grammar has to become cheap enough that attention can be spent on whether a sentence is true.
 
+The separation between knowing and doing became scientifically unavoidable through patients whose memory systems had been damaged.
+
+The most famous case is the patient long known as H.M., Henry Molaison, who developed profound difficulty forming new declarative memories after experimental brain surgery for severe epilepsy in 1953. His case transformed the study of memory because it showed that the ability to remember new events could be devastated while other forms of learning remained possible.
+
+In one classic line of testing, Molaison improved at a mirror-drawing task across repeated practice despite lacking ordinary recollection of the prior training sessions. His hand could become better at a problem his autobiographical memory could not report having practiced in the usual way.
+
+No single patient proves a complete theory of memory.
+
+But the dissociation is conceptually explosive.
+
+It means “remembering” cannot be treated as one substance.
+
+A person can acquire changes in performance without acquiring the same kind of explicit narrative memory for the learning event.
+
+Once you see that, ordinary life becomes easier to understand.
+
+A basketball player can improve release timing without learning a sentence about release timing.
+
+A typist can become faster without memorizing a diagram of the keyboard.
+
+A child can acquire grammatical regularities before being able to define a grammatical rule.
+
+A driver can regulate following distance without converting every adjustment into a proposition.
+
+The nervous system is learning relations.
+
+This is why training manuals have a hard ceiling.
+
+A manual can change what the learner attends to.
+
+It can describe constraints.
+
+It can warn against known errors.
+
+It can provide a sequence.
+
+But the manual cannot directly install the timing produced by repeated coupling between perception and action.
+
+The learner has to inhabit the loop.
+
+This makes feedback physically important.
+
+Suppose a novice throws a ball toward a target.
+
+The nervous system receives visual information about where the ball landed, proprioceptive information about the movement, perhaps verbal feedback from a coach, and internal estimates about what the throw was supposed to produce. The difference between expected and actual outcome becomes information for the next attempt.
+
+The correction does not have to become a sentence.
+
+Much of learning happens below the level at which people narrate it.
+
+That creates a design challenge whenever technology inserts itself into the loop.
+
+A steering-assist system can correct lane position before the driver experiences the full consequence of drift.
+
+A grammar system can rewrite a sentence before the writer has to diagnose why it feels wrong.
+
+A code assistant can repair the function before the programmer has traced the failed assumption.
+
+A medical system can highlight the region before the trainee has searched the image.
+
+The assistance can be excellent.
+
+The error signal changes.
+
+This is a more precise way to think about deskilling than saying technology makes people “lazy.”
+
+The issue is not character.
+
+The issue is which prediction errors reach the learner.
+
+A learning system improves partly because reality contradicts it.
+
+If another system intercepts the contradiction and silently repairs the output, the person may receive less information about the mismatch.
+
+Sometimes this is exactly what we want.
+
+Anti-lock brakes should not allow a driver to practice wheel lock on public roads.
+
+Industrial safety systems should prevent catastrophe rather than preserve a worker's opportunity to learn from it.
+
+A medication system should flag a dangerous dose before the patient receives a lesson in human error.
+
+Safety is allowed to win over pedagogy.
+
+The correct response is to move the learning elsewhere.
+
+Simulation is society's way of creating informative failure without paying full price.
+
+This idea applies far beyond motor skills.
+
+A financial analyst can be given a synthetic model containing subtle assumption errors.
+
+A lawyer can review a fabricated case file containing misleading authorities.
+
+A cybersecurity trainee can investigate a simulated intrusion.
+
+A doctor can work through a virtual patient.
+
+A writer can edit a deliberately plausible but factually corrupted article.
+
+The learner needs encounters where the world pushes back.
+
+If production systems eliminate those encounters, training systems have to manufacture them.
+
+The neuroscience does not dictate how many unaided repetitions are necessary.
+
+That number will vary enormously.
+
+It does tell us something conceptually important: internal change follows experience, not aspiration.
+
+You do not become skilled because you understand that skill would be useful.
+
+You do not become skilled because a tool around you is skilled.
+
+You do not become skilled because your team produced the correct answer.
+
+The organism has to undergo the relevant learning.
+
+This seems almost insulting to state.
+
+Modern interfaces make it easy to forget.
+
+A well-designed tool makes output feel continuous with intention. You want a sentence; the sentence appears. You want code; code appears. You want a route; the next turn appears. You want an image; the image appears.
+
+The gap between desire and execution collapses.
+
+This is the triumph of interface design.
+
+It is also why agency can be misread.
+
+“I made this” can describe a spectrum of human contribution ranging from detailed construction to high-level selection.
+
+There is nothing dishonest about using tools.
+
+The developmental question is what the nervous system had to learn in order to make the result.
+
+If a person will never need the lower layer, collapsing the gap is progress.
+
+If the person will later be responsible for detecting failure at that layer, the gap matters.
+
+This is why expertise in automated environments should be defined partly by recovery.
+
+Can the person reconstruct enough of the hidden process when the abstraction leaks?
+
+Every abstraction leaks eventually.
+
+Libraries expose bugs.
+
+Spreadsheets expose formulas.
+
+Navigation systems encounter closures.
+
+Models produce nonsense.
+
+A mature user does not need to live permanently beneath the abstraction.
+
+The mature user needs enough underlying structure to know when to descend.
+
+This is what automaticity has always done internally.
+
+The brain builds abstractions over repeated operations.
+
+Consciousness stops supervising the low-level details.
+
+When trouble appears, attention can descend.
+
+Technology creates abstractions outside the brain.
+
+The same principle should apply.
+
+Stay high while the layer is stable.
+
+Know how far down you can go when it is not.
+
+The danger is a stack of abstractions in which no living person remembers the lower layers and no training system recreates them.
+
+That is not inevitable.
+
+It is a design choice made one removed repetition at a time.
+
 The purpose of automaticity is not to eliminate thought.
 
 It is to put thought where surprise lives.
