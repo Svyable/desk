@@ -463,6 +463,14 @@ function finishLoad(meta = {}) {
   $('deskControls').hidden = false;
   $('deskStatus').hidden = true;
   document.title = `Publishing Desk · ${state.imprint.name || repoKey() || 'Bookself'}`;
+  document.dispatchEvent(new CustomEvent('bookself:desk-workspace-loaded', {
+    detail: {
+      local: state.local,
+      role: state.role,
+      imprint: state.imprint,
+      repository: repoKey(),
+    },
+  }));
 }
 
 async function loadLocalWorkspace() {
@@ -543,6 +551,9 @@ async function loadRemoteWorkspace(repo) {
     if (requestId !== workspaceLoadSequence) return;
     console.error('Publishing Desk could not load remote repository', error);
     showError(error, repoKey());
+    document.dispatchEvent(new CustomEvent('bookself:desk-workspace-failed', {
+      detail: { kind: 'remote', repository: repoKey() },
+    }));
   }
 }
 
