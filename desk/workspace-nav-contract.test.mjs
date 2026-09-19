@@ -13,7 +13,9 @@ const no = (value, pattern) => { assertions += 1; assert.doesNotMatch(value, pat
 // Preserve Bookself's proven workspace map and search shortcut.
 match(boundary, /import\('\.\/workspace-nav\.js'\)/);
 match(js, /summaryGrid[\s\S]*readerDesignStudio[\s\S]*newPublicationStudio[\s\S]*manuscriptList/);
-match(js, /event\.metaKey \|\| event\.ctrlKey/);
+match(js, /const primary = applePlatform\(\)[\s\S]*event\.metaKey && !event\.ctrlKey[\s\S]*event\.ctrlKey && !event\.metaKey/);
+match(js, /event\.shiftKey/);
+match(js, /textEntryTarget\(event\.target\)/);
 match(js, /aria-current/);
 match(js, /prefers-reduced-motion/);
 
