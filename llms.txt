@@ -71,6 +71,7 @@ The canonical title, author, drafting status, chapter count, and manuscript cont
 - [Right to Try](https://svyable.github.io/desk/books/right-to-try/README.md)
 - [Robust](https://svyable.github.io/desk/books/robust/README.md)
 - [Running on Full](https://svyable.github.io/desk/books/running-on-full/README.md)
+- [Saturated](https://svyable.github.io/desk/books/saturated/README.md)
 - [Scaling Laws](https://svyable.github.io/desk/books/scaling-laws/README.md)
 - [Second Guess](https://svyable.github.io/desk/books/second-guess/README.md)
 - [Shannon's Demon](https://svyable.github.io/desk/books/shannons-demon/README.md)
