@@ -18,8 +18,8 @@ deepEqual(actionIds, ['copyPreviewBtn','citeBtn','feedbackBtn','sourceLink','his
 
 // Promote Bookself's canonical route and defensive animation model rather than
 // maintaining Desk-only regex parsing and raw DOMRect interpolation.
-match(handoff, /import \\{ parseHash \\} from '\\.\\/router\\.js';/);
-doesNotMatch(handoff, /svyable\\.github\\.io\\/bookself\\/reader\\/js\\/router\\.js/);
+match(handoff, /import \{ parseHash \} from '\.\/router\.js';/);
+doesNotMatch(handoff, /svyable\.github\.io\/bookself\/reader\/js\/router\.js/);
 match(handoff, /export function handoffFrames\(/);
 match(handoff, /function finite\(/);
 match(handoff, /Number\.isFinite/);
