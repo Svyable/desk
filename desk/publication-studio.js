@@ -38,6 +38,7 @@ function sourceGuideUrl() {
 
 function syncExportButton(button, trigger, idleLabel) {
   let watchdog = 0;
+  let sawTerminalState = false;
   const stopWatching = () => {
     window.clearTimeout(watchdog);
     observer.disconnect();
@@ -52,25 +53,26 @@ function syncExportButton(button, trigger, idleLabel) {
       return;
     }
     if (/downloaded/i.test(text)) {
+      sawTerminalState = true;
       button.textContent = 'Downloaded';
       button.title = '';
       button.removeAttribute('aria-busy');
       button.disabled = false;
-      stopWatching();
       return;
     }
     if (/failed/i.test(text)) {
+      sawTerminalState = true;
       button.textContent = 'Export failed';
       button.title = trigger.title || 'Could not export this manuscript.';
       button.removeAttribute('aria-busy');
       button.disabled = false;
-      stopWatching();
       return;
     }
     button.textContent = idleLabel;
     button.title = '';
     button.removeAttribute('aria-busy');
     button.disabled = false;
+    if (sawTerminalState) stopWatching();
   };
 
   const observer = new MutationObserver(update);
