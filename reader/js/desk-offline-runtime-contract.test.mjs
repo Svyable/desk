@@ -14,7 +14,9 @@ const helpers = [
   'offline-shell-install.js',
 ];
 
-assert.match(sw, /const CACHE = ['"]obb-shell-v104['"]/);
+assert.match(sw, /const CACHE_PREFIX = ['"]svyable-desk-reader-shell-['"]/);
+assert.match(sw, /const CACHE = ['"]svyable-desk-reader-shell-v106['"]/);
+assert.match(sw, /key\.startsWith\(CACHE_PREFIX\) && key !== CACHE/);
 assert.doesNotMatch(sw, /svyable\.github\.io|raw\.githubusercontent\.com/);
 for (const helper of helpers) {
   assert.match(sw, new RegExp(`importScripts\\(['"]\\./js/${helper.replace('.', '\\.')}`));
@@ -23,4 +25,10 @@ for (const helper of helpers) {
 }
 assert.ok(manifest.includes('sw.js'), 'service worker must be Bookself-owned in the sync manifest');
 
-console.log('Desk offline runtime contract: canonical v104 worker dependency closure is local');
+await import('./offline-fetch-policy.js');
+const policy = globalThis.BookselfOfflineFetchPolicy;
+assert.equal(policy.responsePlan('publication', true), 'network-first');
+assert.equal(policy.responsePlan('shell', true), 'network-first');
+assert.equal(policy.responsePlan('external', true), 'cache-then-network');
+
+console.log('Desk offline runtime contract: fresh-online policy and cache ownership are isolated');
