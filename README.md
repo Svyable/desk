@@ -9,12 +9,12 @@ Desk is the working library for Sven Hardy Benson’s books: drafts, complete ma
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 134 book projects · 64 complete drafts · 3 in revision · 67 drafting**
+> **Desk: 135 book projects · 64 complete drafts · 3 in revision · 68 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
 > **Shelf: 58 author projects · 56 released · 2 public drafts/proofs**
-> **Where they live: 58 in both Desk + Shelf · 76 Desk-only · 0 Shelf-only**
+> **Where they live: 58 in both Desk + Shelf · 77 Desk-only · 0 Shelf-only**
 > **Release review queue: 13 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
@@ -30,6 +30,7 @@ Desk is the working library for Sven Hardy Benson’s books: drafts, complete ma
 | [**Commit**](books/commit/) | ✅ Complete expanded draft · publication candidate | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/commit/) |
 | [**Data Talent & Leverage**](books/data-talent-leverage/) | ✍️ Drafting | 1 of 20 | 4,243 | The working thesis is that none of the three is sufficient alone. Data without judgment becomes a warehouse. Talent without leverage becomes expensive craftsmanship. Leverage without good information or good judgment scales mistakes. | [Read →](https://svyable.github.io/desk/reader/#/b/data-talent-leverage/) |
 | [**Deceptatron**](books/deceptatron/) | ✅ Complete first draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/deceptatron/) |
+| [**Economic Exploitation**](books/economic-exploitation/) | ✍️ Drafting | 3 of 20 | 6,151 | The working thesis is that economic exploitation is easiest to see by looking at the price of saying no. | [Read →](https://svyable.github.io/desk/reader/#/b/economic-exploitation/) |
 | [**Energy, Value & Intelligence**](books/energy-value-intelligence/) | ✍️ Drafting | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/energy-value-intelligence/) |
 | [**Face The Strange**](books/face-the-strange/) | ✅ Complete draft · Published on Shelf | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/face-the-strange/) |
 | [**Fiscal Wall**](books/fiscal-wall/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/fiscal-wall/) |
