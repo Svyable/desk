@@ -344,6 +344,334 @@ Work without the machine.
 
 Competence in the coming world will include knowing when each mode is appropriate.
 
+The economic problem becomes sharper when we stop treating apprenticeship as an educational side project and look at who paid for it.
+
+Professional firms historically bundled learning into client work.
+
+The junior lawyer researched, drafted, reviewed documents, attended calls, and watched senior lawyers revise the work.
+
+The junior accountant reconciled accounts, tested controls, built schedules, and survived busy seasons.
+
+The junior consultant assembled analyses and rewrote slides after managers rejected the first attempts.
+
+The young reporter covered small meetings, routine events, and stories senior reporters did not want.
+
+The apprentice engineer fixed bugs, ran tests, and maintained systems.
+
+These tasks had mixed motives.
+
+Some were genuinely developmental.
+
+Some were cheap labor.
+
+Some were hazing with a professional vocabulary.
+
+Some were necessary production distributed down a hierarchy.
+
+The important point is that the institution did not have to buy “training” separately for every hour.
+
+Production financed part of the learning.
+
+Generative AI breaks that bundle.
+
+If the machine can draft the first memo in seconds, the client has no reason to fund ten hours of novice drafting for the sentimental purpose of creating a future partner.
+
+The firm has to decide whether it will pay those developmental costs itself.
+
+This is not a small accounting change.
+
+It turns apprenticeship from a by-product into an investment decision.
+
+Investment decisions compete with quarterly margins.
+
+That is why the pipeline risk can appear even in firms that sincerely value talent.
+
+Every manager can support development in principle and still choose the faster machine on the live project.
+
+The individual choice is rational.
+
+The collective result can be a shortage of experienced people later.
+
+This resembles other forms of capital depletion.
+
+Maintenance is postponed because the asset still works.
+
+Training is postponed because senior experts still exist.
+
+The balance sheet looks fine.
+
+The liability grows off the books.
+
+Call it competence debt.
+
+Competence debt accumulates when an organization consumes expert judgment faster than it reproduces the conditions that create expert judgment.
+
+The debt is difficult to measure because the organization usually discovers it through exceptions.
+
+A senior employee leaves.
+
+A new failure appears.
+
+The remaining team cannot explain the model.
+
+A client asks an unusual question.
+
+The system produces an answer nobody can confidently challenge.
+
+Then the missing apprenticeship becomes operational.
+
+This does not mean every company should preserve a pyramid of junior labor to insure against a hypothetical future.
+
+The old pyramids themselves were often inefficient.
+
+AI creates the opportunity to redesign them.
+
+The key is to fund learning explicitly enough that efficiency does not erase it.
+
+Consider a software company.
+
+Routine code generation may eliminate hundreds of hours of boilerplate and straightforward implementation.
+
+Excellent.
+
+Instead of forcing junior engineers to recreate the boilerplate manually, the company can invest a fraction of the saved time in structured code reading, debugging, architecture walkthroughs, incident review, security exercises, and adversarial tasks in which generated code contains realistic defects.
+
+The junior may acquire deeper system knowledge faster than the old apprenticeship provided.
+
+Automation becomes the source of the training budget.
+
+But that only happens if the savings are partly reinvested.
+
+If every saved hour is converted into more output, the developmental benefit is theoretical.
+
+The same logic applies to law.
+
+AI can remove routine discovery triage, document comparison, first-pass research, and drafting.
+
+A redesigned apprenticeship could expose young lawyers to a curated set of hard records, conflicting authorities, negotiation strategy, client judgment, and supervised oral advocacy earlier than traditional practice did.
+
+That could produce better lawyers.
+
+But if juniors simply supervise generated work at higher volume, the profession may produce excellent throughput and shallow early-career learning.
+
+The technology does not choose.
+
+The business model does.
+
+This is why the 2026 programming experiment matters beyond programming. The study found that forms of AI support could improve immediate performance and reduce stress without yielding an identical increase in later learning.
+
+The result is not a verdict against AI.
+
+It is an accounting rule.
+
+Do not book assisted performance as if it were automatically human capital.
+
+They are different assets.
+
+The 2025 study of knowledge workers points in the same direction from another angle. Respondents described critical thinking shifting toward activities such as verification, integration, and stewardship. That could be exactly the right adaptation.
+
+Higher-level work should move toward judgment.
+
+But higher-level work has prerequisites.
+
+A person who verifies needs something to verify with.
+
+A person who integrates needs domain structure.
+
+A person who stewards needs enough independence to reject.
+
+This is where organizations can fool themselves with role labels.
+
+“Reviewer” sounds senior.
+
+“Supervisor” sounds responsible.
+
+“Strategist” sounds high level.
+
+The work may still be cognitively thin if the person receives polished options, weak feedback, and little opportunity to form independent models.
+
+The title moves upward faster than the competence.
+
+A robust apprenticeship therefore needs moments of authorship.
+
+Not authorship in the literary sense.
+
+Ownership of a first representation.
+
+What do you think is happening before the system tells you?
+
+How would you structure the problem?
+
+What is your estimate?
+
+Which source would you trust?
+
+What is the failure mode?
+
+Where would you look first?
+
+Commit to something.
+
+Then collaborate.
+
+This independent-first rhythm turns AI into contrastive feedback rather than invisible substitution.
+
+It also solves a problem mentors have always faced.
+
+If the learner sees the expert answer first, the learner's own model becomes difficult to observe.
+
+The answer anchors the discussion.
+
+A junior employee can nod intelligently and learn very little.
+
+Require a first view and the misconception has somewhere to appear.
+
+Then the expert or model can correct it.
+
+The same idea can improve AI interfaces.
+
+A learning mode might hide the recommendation until the user records a preliminary judgment.
+
+A coding tool might ask for the likely source of the bug before proposing a fix.
+
+A diagnostic tool might require a differential before showing ranked possibilities.
+
+A financial tool might ask the analyst to estimate the range before revealing the model output.
+
+A writing tool might ask for the claim and evidence before generating prose.
+
+The delay can be seconds.
+
+The developmental effect may be large because it preserves generation.
+
+This is not always appropriate.
+
+Emergency systems should not withhold lifesaving information to create a teachable moment.
+
+Production systems under hard deadlines may need immediate assistance.
+
+The distinction is context.
+
+Training and operations have different ethics.
+
+The apprenticeship collapse occurs when every context becomes production.
+
+Schools are vulnerable to this because assignments often imitate production.
+
+Write the essay.
+
+Solve the problem.
+
+Produce the presentation.
+
+When a machine can produce the artifact, the educational objective becomes exposed.
+
+Was the point the essay?
+
+Or was the point to learn how to build an argument?
+
+Was the point the code?
+
+Or was the point to learn decomposition and debugging?
+
+Was the point the answer?
+
+Or was the point to construct a representation?
+
+Education has to become more explicit about the capability underneath the artifact.
+
+That is uncomfortable because sometimes the answer will be that the artifact was busywork.
+
+Good.
+
+Delete it.
+
+AI can be a ruthless curriculum audit.
+
+If an assignment has no value once a machine can complete it, perhaps its value was never clear.
+
+But many assignments become more important, not less, because they reveal and exercise internal structure.
+
+The redesign should target the operation.
+
+A student can use AI to research but defend the argument orally.
+
+Use AI to generate examples but solve a transfer problem unaided.
+
+Use AI to critique a draft but explain which suggestions were rejected and why.
+
+Use AI to simulate a debate but cite primary evidence independently.
+
+The goal is not to prove the student can suffer without technology.
+
+It is to make learning legible again.
+
+Workplaces need equivalent assessments.
+
+The annual performance review is not enough.
+
+A company using AI deeply should periodically test whether people can detect model failures relevant to their roles.
+
+Not in a punitive surprise exam.
+
+In recurrent training.
+
+Can the analyst spot the unrealistic assumption?
+
+Can the lawyer detect the fabricated authority?
+
+Can the engineer identify the unsafe design choice?
+
+Can the clinician recognize the recommendation inconsistent with the patient's condition?
+
+Can the editor find the unsupported claim?
+
+The exercise tells the organization what its human safety layer can actually do.
+
+It also creates the reps the production system no longer provides.
+
+This is where the scoping review of higher-education research becomes especially useful. Across more than a hundred studies, the authors did not find one universal effect of generative AI on learner agency. They found patterns associated with both support and erosion, depending on how the technology was used and how the learning environment was structured.
+
+That is what we should expect.
+
+Agency is not a feature switch.
+
+A tool can increase agency by giving a learner feedback, examples, explanation, and access.
+
+The same tool can reduce agency by making initiation, retrieval, judgment, and persistence unnecessary.
+
+The relevant variable is not possession of AI.
+
+It is the cognitive contract around AI.
+
+What does the learner owe the task before the system helps?
+
+What does the system reveal?
+
+What remains the learner's responsibility?
+
+How is independent capability tested?
+
+What happens as competence grows?
+
+This contract can be designed.
+
+The apprenticeship collapse is therefore not inevitable.
+
+It is the default outcome if institutions capture productivity without rebuilding practice.
+
+The alternative is more ambitious than preserving old jobs.
+
+Use AI to make routine work cheaper.
+
+Then spend some of the savings building better experts than the old routine ever produced.
+
+That would be a genuine productivity revolution.
+
+Not fewer people learning.
+
+Faster learning directed at the parts that still matter.
+
 This is not nostalgia for pre-AI work.
 
 It is preparation for post-AI responsibility.
