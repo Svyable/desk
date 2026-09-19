@@ -1,3 +1,6 @@
+import { parsePublicationMetadata } from './publication-export-metadata.js';
+import { publicationRights } from './publication-export-rights.js';
+
 const CHECKLIST_RE = /^- \[([ xX])\] \[([^\]]+)\]\((manuscript\/[^)\s]+)\)/gm;
 
 function escapeHtml(value = '') {
@@ -134,9 +137,10 @@ export function markdownToKdpHtml(markdown = '') {
   return out.join('\n');
 }
 
-export function buildKdpHtml({ title, author, chapters }) {
+export function buildKdpHtml({ title, author, chapters, metadata = {} }) {
   const safeTitle = escapeHtml(title || 'Untitled');
   const safeAuthor = escapeHtml(author || '');
+  const rights = publicationRights(metadata, author);
   const toc = chapters.map((chapter, index) => {
     const id = `chapter-${index + 1}-${slugify(chapter.title)}`;
     return `<li><a href="#${id}">${escapeHtml(chapter.title)}</a></li>`;
@@ -152,6 +156,9 @@ export function buildKdpHtml({ title, author, chapters }) {
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${safeTitle}</title>
+<meta name="author" content="${safeAuthor}">
+<meta name="copyright" content="${escapeHtml(rights.copyright)}">
+<meta name="rights" content="${escapeHtml(`${rights.copyright} ${rights.ai}`)}">
 <style>
   body { font-family: Georgia, "Times New Roman", serif; line-height: 1.55; margin: 5%; max-width: 42em; }
   .title-page { text-align: center; margin: 28vh 0 18vh; }
@@ -168,6 +175,7 @@ export function buildKdpHtml({ title, author, chapters }) {
   pre { white-space: pre-wrap; overflow-wrap: anywhere; }
   img { max-width: 100%; height: auto; }
   a { color: inherit; }
+  .bookself-rights { page-break-before: always; break-before: page; margin-top: 4rem; padding-top: 1.5rem; border-top: 1px solid #bbb; font-size: .9em; }
 </style>
 </head>
 <body>
@@ -180,6 +188,12 @@ export function buildKdpHtml({ title, author, chapters }) {
   <ol>${toc}</ol>
 </nav>
 ${body}
+<section class="bookself-rights" id="rights-and-permissions">
+  <h2>Rights &amp; permissions</h2>
+  <p>${escapeHtml(rights.copyright)}</p>
+  <p>${escapeHtml(rights.ai)}</p>
+  <p>The publication source may contain a <code>RIGHTS.md</code> file with the complete terms and permissions statement. Applicable law and separate hosting-provider terms remain controlling where they grant or preserve rights independently.</p>
+</section>
 </body>
 </html>`;
 }
@@ -243,11 +257,13 @@ async function exportCard(card, trigger) {
     const hub = await readText(`books/${slug}/README.md`);
     const files = parseManuscriptChecklist(hub);
     if (!files.length) throw new Error('No manuscript checklist entries found in this book hub.');
+    const metadata = parsePublicationMetadata(hub);
+    const exportAuthor = author === 'Author not set' ? metadata.authors : author;
     const chapters = await Promise.all(files.map(async (entry) => ({
       title: entry.title,
       markdown: await readText(`books/${slug}/${entry.file}`),
     })));
-    const html = buildKdpHtml({ title, author: author === 'Author not set' ? '' : author, chapters });
+    const html = buildKdpHtml({ title, author: exportAuthor || '', metadata, chapters });
     downloadText(`${slugify(title)}-kindle.html`, html);
     trigger.textContent = 'Downloaded';
     setTimeout(() => { trigger.textContent = previous; }, 1600);

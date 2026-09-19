@@ -11,9 +11,15 @@ import {
 } from './epub-export.js';
 
 test('publication metadata feeds EPUB identity', () => {
-  const markdown = `| | |\n|---|---|\n| **Authors** | Ada Author |\n| **Language** | English |\n| **ISBN** | 978-1-2345-6789-0 |\n| **Publisher** | Example Press |\n`;
+  const markdown = `| | |\n|---|---|\n| **Authors** | Ada Author |\n| **Language** | English |\n| **ISBN** | 978-1-2345-6789-0 |\n| **Publisher** | Example Press |\n| **Publication date** | September 19, 2026 |\n| **Rights** | © 2026 Ada Author · All Rights Reserved |\n| **AI use** | AI training and generative use reserved |\n`;
   assert.deepEqual(parsePublicationMetadata(markdown), {
-    authors: 'Ada Author', language: 'English', isbn: '978-1-2345-6789-0', publisher: 'Example Press',
+    authors: 'Ada Author',
+    language: 'English',
+    isbn: '978-1-2345-6789-0',
+    publisher: 'Example Press',
+    rights: '© 2026 Ada Author · All Rights Reserved',
+    aiUse: 'AI training and generative use reserved',
+    year: '2026',
   });
 });
 
@@ -34,7 +40,14 @@ test('EPUB files include navigation, metadata, chapters, and packaged images', (
   const files = buildEpubFiles({
     title: 'A Test Book',
     author: 'Ada Author',
-    metadata: { language: 'English', isbn: '978-1-2345-6789-0', publisher: 'Example Press' },
+    metadata: {
+      language: 'English',
+      isbn: '978-1-2345-6789-0',
+      publisher: 'Example Press',
+      rights: '© 2026 Ada Author · All Rights Reserved',
+      aiUse: 'AI training and generative use reserved',
+      year: '2026',
+    },
     modified: '2026-09-12T00:00:00Z',
     chapters: [{
       title: 'First',
@@ -51,6 +64,10 @@ test('EPUB files include navigation, metadata, chapters, and packaged images', (
   assert.match(files['EPUB/package.opf'], /urn:isbn:9781234567890/);
   assert.match(files['EPUB/package.opf'], /image\/png/);
   assert.match(files['EPUB/nav.xhtml'], /chapter-001\.xhtml/);
+  assert.match(files['EPUB/nav.xhtml'], /rights\.xhtml/);
+  assert.match(files['EPUB/package.opf'], /<dc:rights>© 2026 Ada Author\. All Rights Reserved\. AI training and generative use reserved\.<\/dc:rights>/);
+  assert.match(files['EPUB/rights.xhtml'], /Rights &amp; permissions/);
+  assert.match(files['EPUB/rights.xhtml'], /© 2026 Ada Author\. All Rights Reserved\./);
   assert.match(files['EPUB/chapter-001.xhtml'], /src="assets\/001-figure\.png"/);
   assert.deepEqual(files['EPUB/assets/001-figure.png'], new Uint8Array([1, 2, 3]));
 });
