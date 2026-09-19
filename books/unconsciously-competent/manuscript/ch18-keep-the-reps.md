@@ -472,4 +472,406 @@ When the answer is yes, give it away.
 
 When the answer is no, keep the reps.
 
+Return to the Hudson for a moment.
+
+The image that survived Flight 1549 is the airplane on the river.
+
+Passengers on the wings.
+
+Ferries approaching.
+
+A machine where a machine was never supposed to be.
+
+What is harder to photograph is the developmental history that had already happened before the birds arrived.
+
+Training flights.
+
+Simulator sessions.
+
+Checklists.
+
+Crew procedures.
+
+Instrument habits.
+
+Manual flying.
+
+Thousands of ordinary decisions.
+
+A professional culture built from previous incidents.
+
+A certification system.
+
+The physical design of the aircraft.
+
+The coordination of people who had never expected to meet in that exact emergency.
+
+The visible performance was minutes long.
+
+The competence stack was decades deep.
+
+This is the stack advanced automation is now entering.
+
+It will make many layers better.
+
+Some will disappear.
+
+The mistake would be measuring only what remains visible.
+
+That is how a civilization can confuse output abundance with capability abundance.
+
+The report exists.
+
+The code runs.
+
+The diagnosis arrives.
+
+The design looks complete.
+
+The answer is persuasive.
+
+The route works.
+
+The artifact says nothing by itself about where the competence lives.
+
+Maybe the person built it.
+
+Maybe the team built it.
+
+Maybe the machine built it.
+
+Maybe the system is competent only while all three remain connected.
+
+The question is not ownership.
+
+It is resilience.
+
+Where is enough understanding stored to handle surprise?
+
+That question should become ordinary.
+
+When you adopt a tool, ask what skill it replaces.
+
+Then ask whether the replacement matters.
+
+If not, celebrate.
+
+If yes, decide where that skill will be maintained.
+
+This is a more useful posture than both technological enthusiasm and technological fear.
+
+The enthusiast sees the saved effort and assumes saved effort is pure gain.
+
+The critic sees the lost effort and assumes effort is inherently valuable.
+
+Neither has done the accounting.
+
+The developmental value of a task has to be discovered.
+
+Sometimes the answer will embarrass tradition.
+
+The old task was pointless.
+
+Its defenders mistook endurance for mastery.
+
+Automate it.
+
+Sometimes the answer will embarrass efficiency culture.
+
+The boring task was how people learned the system.
+
+Replace the task if you want, but replace the learning too.
+
+This is the competence ledger.
+
+What are we gaining now?
+
+What are we no longer practicing?
+
+What future responsibility depends on that practice?
+
+Where else will the capability be built?
+
+The ledger can be applied to a person, school, profession, company, or society.
+
+At the personal level, it changes daily tool use.
+
+Suppose you are learning something.
+
+Do not ask whether AI is allowed.
+
+Ask which part you are trying to learn.
+
+If you are learning source evaluation, let the model help you find sources but read enough originals to build standards.
+
+If you are learning code architecture, use generation but sometimes design the system before seeing its proposal.
+
+If you are learning to write, let the tool challenge and edit you but preserve stretches where language has to come from your own attempt.
+
+If you are learning a new city, use navigation when you need arrival and occasionally orient without it when you want the map.
+
+The same person can use different modes for different objectives.
+
+This is mature tool use.
+
+It is not ascetic.
+
+It is intentional.
+
+At the organizational level, the ledger becomes a talent strategy.
+
+Map the competencies required for verification, anomaly detection, recovery, transfer, and future leadership.
+
+Then inspect whether the current workflow still produces them.
+
+If not, build practice explicitly.
+
+Do not rely on “learning on the job” after the job has stopped containing the learning.
+
+This may mean simulator time for knowledge workers.
+
+It may mean case libraries.
+
+It may mean independent-first analysis on selected tasks.
+
+It may mean rotations through manual or lower-automation modes.
+
+It may mean postmortems that preserve uncertainty.
+
+It may mean red-team exercises where the AI is wrong on purpose.
+
+It may mean teaching senior experts how to expose decision boundaries rather than merely record procedures.
+
+The organization should know what its next generation of experts is doing this week that will make them experts in ten years.
+
+If the answer is “reviewing the machine's work,” inspect the review.
+
+Is it generating independent judgment?
+
+Is it providing feedback?
+
+Is the reviewer seeing hard cases?
+
+Does the reviewer ever learn why the machine was wrong?
+
+Or is the person becoming unconsciously competent at approval?
+
+That is the nightmare version of the future.
+
+Not humans becoming stupid.
+
+Humans becoming excellent at the wrong layer.
+
+A workforce can be fast, polished, and productive while its ability to reconstruct, challenge, and recover becomes thinner.
+
+The weakness may remain hidden because machines continue performing well.
+
+Then the environment changes.
+
+A new regulation.
+
+A new adversary.
+
+A new market.
+
+A new disease.
+
+A new technology.
+
+A new failure mode.
+
+The old outputs stop being reliable.
+
+The organization needs people who can reopen the problem.
+
+This is why the fifth movement of competence matters.
+
+Learn.
+
+Practice.
+
+Compress.
+
+Then reopen.
+
+The ability to reopen is what keeps expertise from becoming habit.
+
+It is also what keeps automation from becoming dependency.
+
+A mature expert can move down the stack when necessary.
+
+What does the model assume?
+
+What data produced this answer?
+
+What causal relation is hidden inside the output?
+
+What changed?
+
+Which part can I verify independently?
+
+What would make this pattern fail?
+
+The expert does not live at the lowest level.
+
+The expert can descend.
+
+That is different from memorizing everything.
+
+It is structural literacy.
+
+The skill of finding the layer where the error lives.
+
+As systems become more complex, this may be more important than manual reproduction.
+
+Nobody needs to rebuild the internet in order to use it competently.
+
+But certain people must understand protocols deeply enough to diagnose failure.
+
+Nobody needs to fabricate a semiconductor in order to write software.
+
+But somebody must understand the interfaces between layers.
+
+Civilization works because competence is distributed.
+
+Robust civilization works because not every layer is opaque to everyone.
+
+This is the societal version of keeping the reps.
+
+Preserve overlapping competence at critical boundaries.
+
+Do not let one institution, one vendor, one model, or one generation become the only place where a consequential system remains understandable.
+
+Redundancy looks inefficient in normal times.
+
+That is why normal times continuously try to remove it.
+
+The same economics operate inside a person.
+
+Knowing how to estimate a result looks redundant when the calculator works.
+
+Knowing the route looks redundant when GPS works.
+
+Knowing the doctrine looks redundant when retrieval works.
+
+Knowing how to diagnose looks redundant when the model works.
+
+The retained skill appears expensive precisely because the tool is succeeding.
+
+This is why practice has to be justified against a counterfactual failure that may never happen.
+
+Sometimes the rational answer is to surrender the skill.
+
+Humans cannot carry every backup.
+
+But where consequences are high, recovery is expected, and no alternative layer exists, redundancy is not nostalgia.
+
+It is resilience.
+
+This book began with the phrase “unconscious competence,” but the deepest argument has become almost the reverse.
+
+What matters is not simply making skill unconscious.
+
+What matters is knowing what became unconscious, how it got there, and when to call it back.
+
+Competence that cannot return to awareness can harden into routine.
+
+Competence that never reaches automaticity remains expensive.
+
+Mastery lives between them.
+
+The expert can stop thinking about the stable layer without stopping the ability to think about it.
+
+That is why a checklist can help an expert.
+
+Why a coach can reopen one movement.
+
+Why a postmortem can reopen one decision.
+
+Why a simulator can reopen one emergency.
+
+Why a model disagreement can reopen one assumption.
+
+Consciousness comes back where the system no longer fits.
+
+This is the circulation system of expertise.
+
+It offers a way through the false choice that will dominate the AI era if we let it.
+
+We do not have to choose between human skill and machine leverage.
+
+We can use machines to remove low-value work and use the saved capacity to build higher-value judgment.
+
+We can make production faster and training more deliberate.
+
+We can let machines remember what machines remember well and make humans better at interpretation.
+
+We can create simulations so rich that future experts encounter more meaningful cases in five years than older experts encountered in twenty.
+
+We can expose rare failures safely.
+
+We can compare human and machine reasoning.
+
+We can make expertise less dependent on lucky access to one mentor.
+
+That future is more ambitious than protecting old work.
+
+It requires taking learning more seriously than old work ever did.
+
+The obstacle is not technical.
+
+It is economic and cultural.
+
+Output is immediate.
+
+Competence is delayed.
+
+Organizations know how to count the first.
+
+Individuals feel the second only after it is missing.
+
+The temptation will always be to take the free-looking gain now.
+
+That is why “keep the reps” has to become a conscious choice before the skill becomes invisible.
+
+Keep the repetitions that build the representation you will later need.
+
+Keep the repetitions that expose you to reality instead of only answers.
+
+Keep the repetitions that make disagreement possible.
+
+Keep the repetitions that teach recovery.
+
+Keep enough of them that the machine remains leverage rather than life support.
+
+And give the rest away.
+
+That last part matters.
+
+Do not become a museum of obsolete competence.
+
+The purpose of mastery is not independence from civilization.
+
+It is participation in a system without surrendering the ability to know where the system ends and your responsibility begins.
+
+The best tool disappears into the work.
+
+The best expertise does too.
+
+But somewhere underneath the smooth surface, the structure remains available.
+
+The river arrives.
+
+The model fails.
+
+The context changes.
+
+The pattern breaks.
+
+There is no time to begin an apprenticeship.
+
+The reps are already there.
+
+Or they are not.
+
 One day you will need what they built.
