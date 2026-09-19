@@ -332,6 +332,308 @@ It can also make the team much stronger.
 
 The direction depends on what happens to independent judgment, shared models, feedback, and the production of new experts.
 
+There is a reason aviation became one of the places where team cognition had to stop being a metaphor.
+
+On December 28, 1978, United Airlines Flight 173 approached Portland with a landing-gear problem. The crew entered a holding pattern while they tried to understand the indication and prepare for landing. The airplane remained in the air long enough for another problem to become more important than the first one.
+
+Fuel.
+
+The National Transportation Safety Board concluded that the captain failed to monitor the aircraft's fuel state properly and respond when it became critically low. The board also identified a failure by other crew members to fully comprehend the urgency of the fuel situation or communicate that concern successfully to the captain.
+
+The aircraft ran out of fuel and crashed short of the airport.
+
+The accident became part of the history through which aviation learned that individual technical competence was not enough.
+
+A cockpit could contain qualified professionals and still fail as a cognitive system.
+
+The hierarchy mattered.
+
+The captain had formal authority and deep experience. Other crew members had information. The problem was not merely whether somebody had noticed the fuel state. The problem was whether the observation could become shared urgency soon enough to change the plan.
+
+This is one of the deepest facts about teams: information is not useful simply because it exists somewhere inside the group.
+
+It has to move.
+
+A team can collectively possess the correct answer and still behave as if it does not know.
+
+That sounds paradoxical until you have worked inside a hierarchy.
+
+A junior engineer sees a safety concern and softens the language.
+
+A nurse notices a change and waits for the physician to finish rounds.
+
+An analyst sees that the forecast no longer matches the data but assumes the portfolio manager has information the analyst lacks.
+
+A flight crew member says, “We're getting low,” when the system needs the sentence, “We must land now.”
+
+The information moves but the meaning does not.
+
+This is why crew resource management was such an important shift in aviation. It did not ask captains to become less expert.
+
+It changed the architecture through which expertise was challenged and coordinated.
+
+Subordinates needed ways to escalate.
+
+Leaders needed to invite challenge.
+
+Workload needed to be distributed.
+
+The crew needed shared awareness of the aircraft's state rather than parallel private awareness.
+
+The cockpit became a team problem.
+
+This lesson traveled because the underlying mechanism was not unique to airplanes.
+
+Hospitals have the same structure.
+
+A surgery involves different people holding different kinds of information. The surgeon may know the operative plan. The anesthesiologist may see physiological changes first. Nurses may know the workflow, equipment, medication, and practical history of the unit. A trainee may have reviewed the chart more recently than the senior clinician. A technician may know a device is behaving abnormally.
+
+The patient does not care whose information outranks whose.
+
+The system has to combine it.
+
+Software incidents have the same shape.
+
+The database engineer sees latency.
+
+The application engineer sees errors.
+
+The network team sees packet loss.
+
+Customer support sees the first cluster of complaints.
+
+The executive sees revenue impact.
+
+Nobody begins with the whole problem.
+
+A competent incident response is a temporary machine for creating shared state.
+
+Who knows what?
+
+What changed?
+
+Which hypothesis is live?
+
+What has been ruled out?
+
+What action is irreversible?
+
+Who owns the next move?
+
+The questions turn distributed observations into coordinated cognition.
+
+This is where research on transactive memory systems becomes useful. Teams do not need every member to remember everything. They benefit when members develop reliable knowledge about who knows what and when that expertise can be accessed.
+
+A strong team contains a directory inside the people.
+
+Ask Maya about the database.
+
+Ask Luis about the vendor contract.
+
+Nina remembers why that exception exists.
+
+Darius understands the customer.
+
+This distributed memory can improve performance because specialization becomes usable.
+
+The risk is that the directory can disappear with the person.
+
+An organization loses Maya and retains the documentation.
+
+Three months later somebody discovers that what Maya really held was not one fact. It was a map of who to call, which alarm mattered, which historical failure resembled the current one, and which part of the system was mislabeled.
+
+Transactive memory is more fragile than file storage because it is partly relational.
+
+It depends on trust.
+
+If the team knows who has expertise but does not trust the person, the knowledge remains inert.
+
+If the person with expertise does not feel permitted to interrupt, the directory works and the routing fails.
+
+If turnover is high, the team spends more time relearning who knows what.
+
+If communication is poor, people duplicate work or assume somebody else is covering it.
+
+Studies of team cognition repeatedly find associations among shared cognitive structures, coordination, information sharing, and performance. These results should not be turned into a slogan that “shared mental models make teams great.” Teams vary, measures vary, and causality can run in multiple directions.
+
+The practical observation is less ambitious.
+
+Coordination gets cheaper when people can predict each other accurately enough.
+
+A surgical team that has worked together knows how the room moves.
+
+A basketball team sees the cut before it fully develops.
+
+A software team knows which engineer will need to be pulled into the incident.
+
+A film crew can reset after a take with surprisingly little conversation.
+
+A kitchen line under pressure becomes a choreography.
+
+This is team automaticity.
+
+It has the same benefit and danger as individual automaticity.
+
+The benefit is speed.
+
+The danger is invisibility.
+
+The veteran team forgets how much context is shared.
+
+A new member enters and misses the shorthand.
+
+The rest of the group interprets the miss as lack of judgment.
+
+The newcomer interprets the group as opaque.
+
+Both may be correct.
+
+This is why turnover often costs more than the replacement salary suggests. The departing person takes local memory. The group also loses the predictions other people had learned about that person.
+
+Who will catch this?
+
+Who needs the early warning?
+
+Who can make this decision without escalation?
+
+Who tends to miss this category of risk?
+
+These expectations live between people.
+
+They have to be rebuilt.
+
+Automation changes the same directory.
+
+Imagine a team that once asked a senior colleague for historical context. The AI system can now answer instantly from documents, messages, tickets, and case archives.
+
+This can strengthen the team enormously.
+
+The answer no longer depends on whether the senior colleague is awake, available, or still employed.
+
+Institutional memory becomes searchable.
+
+But the team begins updating its directory.
+
+Ask the system.
+
+The colleague is consulted less.
+
+The colleague receives fewer weak signals from across the organization.
+
+Those weak signals may have been how the colleague maintained a broad model of the system.
+
+Now the AI knows the documents.
+
+The human knows less about what people are worried about.
+
+The tool improves retrieval and changes the social network through which tacit information used to travel.
+
+This is not an argument to preserve inefficient interruptions.
+
+It is a reason to study the whole cognitive system instead of measuring response time.
+
+A team can become faster at retrieving explicit history while losing the informal conversations that surfaced emerging problems before they were documented.
+
+The solution is not to force people to bother the expert.
+
+It may be to create new channels for weak signals.
+
+Incident review.
+
+Office hours.
+
+Rotations.
+
+Case discussions.
+
+Automated summaries of recurring questions.
+
+The function can move.
+
+It should not vanish accidentally.
+
+The same design issue appears when AI becomes the first teammate a junior worker consults.
+
+Previously, the junior asked a human.
+
+That interaction cost the senior time.
+
+It also gave the senior information about what the junior did not understand.
+
+The question itself was diagnostic.
+
+A mentor who heard the same confusion three times knew training had failed.
+
+An AI system can absorb all three questions privately.
+
+The junior receives faster help.
+
+The senior loses the signal.
+
+Again, the fix is not to ban the tool.
+
+The learning system needs a way to surface patterns of confusion without turning private questions into surveillance.
+
+Aggregate.
+
+Anonymize where possible.
+
+Look for curriculum gaps.
+
+Let the machine answer the individual and let the organization learn from the distribution.
+
+This is how technology can improve team cognition rather than simply replacing one node.
+
+The most dangerous team failure is often not lack of intelligence.
+
+It is lack of shared reality.
+
+Flight 173's fuel state existed in gauges, calculations, remarks, and observations.
+
+The crew did not convert those fragments into decisive collective action soon enough.
+
+Every profession has its version of fuel.
+
+The variable everybody can technically see and nobody has made collectively urgent.
+
+The customer churn that appears in separate anecdotes.
+
+The security vulnerability spread across low-priority alerts.
+
+The financial risk that lives in several models.
+
+The patient deterioration distributed across small observations.
+
+The project delay hidden inside optimistic local schedules.
+
+Competent teams have ways to aggregate weak signals before consequences perform the aggregation for them.
+
+This is one reason meetings persist despite justified hatred of meetings.
+
+Some meetings are waste.
+
+Some are synchronization.
+
+The question is whether the meeting changes the team's shared model.
+
+If nothing new is combined, eliminate it.
+
+If the system needs a place where partial views become one operational picture, preserve or improve it.
+
+An AI-generated summary cannot automatically replace this function because summary is not agreement.
+
+People may read the same facts and assign different meaning.
+
+The meeting, incident room, surgical pause, or crew briefing creates an opportunity to expose those differences.
+
+A competent team does not merely share information.
+
+It shares enough interpretation to coordinate.
+
+That is the work no org chart shows.
+
+It is also the work automation can quietly rearrange.
+
 The team remembers.
 
 The important question is whether the new workflow gives it anything worth remembering.
