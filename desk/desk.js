@@ -265,9 +265,14 @@ function isPublicProof(book) {
     && /\b(?:public\s+)?proof\b|\bunlisted\b/i.test(book.publicationSurface || '');
 }
 
+function isPublicDraft(book) {
+  return isPublicRole() && !book.published && !book.cataloged && !isPublicProof(book);
+}
+
 function statusState(book) {
   if (isPublicRole() && book.published && book.cataloged) return 'published';
   if (isPublicProof(book) || /proof/i.test(book.status)) return 'proof';
+  if (isPublicDraft(book)) return 'drafting';
   if (book.ready) return 'ready';
   return 'drafting';
 }
@@ -275,6 +280,7 @@ function statusState(book) {
 function statusLabel(book) {
   if (isPublicRole() && book.published && book.cataloged) return 'Published';
   if (isPublicProof(book)) return 'Public proof';
+  if (isPublicDraft(book)) return 'Public draft';
   if (book.ready) return state.role === 'desk' ? 'Ready to release' : 'Ready';
   return book.status || 'Drafting';
 }
@@ -525,7 +531,11 @@ async function loadRemoteWorkspace(repo) {
     state.imprint = remoteImprint;
     state.role = remoteImprint.role || 'shelf';
     const catalogSlugs = parsePortalCatalog(portalMarkdown || '');
-    const bookDirectories = directories.filter((item) => item.type === 'dir' && !item.name.startsWith('_'));
+    const bookDirectories = directories.filter((item) => (
+      item.type === 'dir'
+      && !item.name.startsWith('_')
+      && !item.name.startsWith('style-')
+    ));
     showLoading(`Reading ${bookDirectories.length} manuscript hub${bookDirectories.length === 1 ? '' : 's'} from this ${state.role}…`);
     const books = await mapLimit(bookDirectories, 6, (directory) => loadRemoteBook(directory, catalogSlugs));
     if (requestId !== workspaceLoadSequence) return;
