@@ -126,6 +126,114 @@ If the work is judged only by today's artifact, the difference can remain hidden
 
 At that point the missing repetitions become visible all at once.
 
+There is a detail in the Flight 1549 investigation that deserves more attention than it usually receives.
+
+When investigators later used simulators to test whether the aircraft could have returned to an airport, the timing assumption changed the result. A pilot in a simulator can be told in advance that both engines will fail and can begin turning almost immediately. The real crew had no such privilege. The event first had to become legible.
+
+The NTSB's human-performance work explicitly examined scenarios that included a thirty-five-second delay before a return maneuver, an attempt to account for the time required to recognize the loss of thrust, assess what had happened, maintain control, try the restart procedure, and evaluate options. Some immediate-return simulator runs reached a runway. Once the recognition interval was introduced, the picture became much less forgiving.
+
+Thirty-five seconds is not a dramatic amount of time until an airplane is descending without thrust.
+
+It is long enough to separate hindsight from work.
+
+This matters well beyond aviation because experts are routinely judged as if the correct interpretation of an event were available at time zero. A cybersecurity team is criticized for not reacting at the moment the first anomalous packet appeared. A doctor is judged from the moment the earliest symptom entered the chart. An investor is told the warning signs were obvious because the collapse later made them obvious. A manager is asked why a troubled employee was not identified before the trouble became unmistakable.
+
+Events become easier to recognize after they have acquired names.
+
+During the event, the expert's first task is often classification.
+
+What kind of problem is this?
+
+That question consumes time, and the time is part of the problem.
+
+The more unusual the event, the more dangerous hindsight becomes. Investigators, courts, boards, journalists, and managers can reconstruct the sequence with complete knowledge of the outcome. The people inside the sequence did not have that knowledge. They had cues.
+
+Expertise improves the conversion of cues into a situation model. It does not abolish the conversion.
+
+This is why the best training does not merely rehearse actions. It rehearses recognition.
+
+A simulator that announces ENGINE FAILURE in large letters teaches the response after the diagnosis. A better scenario lets the failure emerge through the same imperfect evidence an operator would have to notice in reality. The trainee has to determine which procedure has become relevant.
+
+The distinction is enormous.
+
+If training begins after classification, the person practices execution.
+
+If training includes classification, the person practices judgment.
+
+Most professional training overweights execution because execution is easier to standardize. Here is the case. Here is the correct category. Now apply the method.
+
+Real work often arrives without the category.
+
+The client says something odd.
+
+The numbers stop reconciling.
+
+The machine sounds different.
+
+The patient says the symptom is “weird.”
+
+The system slows down.
+
+A supplier misses a date.
+
+A source changes a word.
+
+Nothing announces whether the signal is noise, anomaly, or beginning.
+
+The expert has to decide when ordinary variance has become a different situation.
+
+That is why accumulated exposure to normality matters.
+
+You cannot detect departure from a pattern you never learned.
+
+The nurse who has seen hundreds of stable postoperative patients possesses a baseline the textbook cannot fully provide. The mechanic who has listened to the same machine across seasons possesses a normal acoustic history. The editor who has read thousands of competent paragraphs has a bodily sense of when a paragraph is spending words to hide that it has no thought.
+
+These forms of competence look like intuition at the moment of deviation.
+
+Before that, they looked like repetition.
+
+The repetition is easy to undervalue because normal cases are boring.
+
+But normal cases teach the boundaries of normal.
+
+This is one reason apprenticeship cannot consist entirely of spectacular problems. If every training case is a zebra, the learner becomes fascinated by zebras and ignorant of horses. A real expert needs a dense map of the ordinary because anomaly is defined against it.
+
+Flight 1549 also demonstrates another feature of expertise that celebrity narratives erase: competence is cooperative.
+
+Sullenberger was flying. Skiles was working procedures and attempting engine restart. Controllers were searching for runway options. Flight attendants were preparing the cabin. Ferry crews and first responders would soon become part of the survival system. The aircraft itself contributed engineered protections and information.
+
+The successful outcome did not come from a single mind reaching transcendence.
+
+It came from layers of trained people and designed systems sharing a shrinking problem.
+
+This is what modern competence usually looks like when viewed at the right scale.
+
+The surgeon is nested inside nursing, anesthesia, pathology, imaging, sterilization, instrumentation, pharmacy, and protocols.
+
+The software engineer is nested inside libraries, operating systems, version control, monitoring, documentation, teammates, cloud infrastructure, and decades of prior code.
+
+The writer is nested inside language, sources, editors, publishing systems, readers, and the accumulated conventions of a form.
+
+Calling one person “the expert” is convenient.
+
+The performance is usually ecological.
+
+That fact changes the central question of this book. We are not trying to decide which knowledge should remain “inside the human” as if the human were an isolated device. We are asking how competence should be distributed across people, procedures, instruments, institutions, and machines so that the whole system performs well and still knows how to recover when one layer fails.
+
+The human brain has always been part of a larger cognitive system.
+
+AI makes that system more capable.
+
+It also makes the handoffs more consequential.
+
+A handoff can preserve human attention for the exceptional case.
+
+A handoff can also remove the experience required to recognize the exceptional case.
+
+The difference is invisible during normal operations.
+
+It appears during the thirty-five seconds when the situation still has no name.
+
 Flight 1549 is therefore more than an opening story about exceptional competence. It is a reminder of where competence comes from. The river landing lasted minutes. The capacities that made those minutes survivable had been accumulating for years across training, checklists, simulations, procedures, teamwork, and actual flying.
 
 The dramatic event was short because the apprenticeship was long.
