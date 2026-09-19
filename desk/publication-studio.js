@@ -88,14 +88,18 @@ function syncExportButton(button, trigger, idleLabel, { start = true } = {}) {
   exportUiCleanup.set(button, stopWatching);
   observer.observe(trigger, { childList: true, characterData: true, subtree: true, attributes: true, attributeFilter: ['title', 'aria-busy'] });
   const onWatchdog = () => {
+    const text = trigger.textContent?.trim() || '';
     if (trigger.getAttribute('aria-busy') === 'true') {
-      button.textContent = /packaging|building/i.test(trigger.textContent || '')
-        ? trigger.textContent.trim()
-        : 'Still working…';
+      button.textContent = /packaging|building/i.test(text) ? text : 'Still working…';
       button.title = 'This export is still running.';
       button.setAttribute('aria-busy', 'true');
       button.disabled = true;
       watchdog = window.setTimeout(onWatchdog, 60000);
+      return;
+    }
+    if (/downloaded|failed/i.test(text)) {
+      update();
+      watchdog = window.setTimeout(onWatchdog, 5000);
       return;
     }
     stopWatching();
