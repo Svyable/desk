@@ -81,3 +81,8 @@ The manuscript should be willing to answer these against itself:
 *Sifting for Alpha* is an existing Desk book built around Sven Hardy Benson's documented Q23 Quantiacs result and the research process around quantitative contest strategies.
 
 *Surviving The Street* should not retell that book. It may reuse verified facts or research artifacts when they illuminate a general mechanism, but its center of gravity is different: how an investor creates and protects decision quality across analytics, public information, market structure, and behavior. The Quantiacs material is one laboratory among many, not the plot.
+
+
+## Drafted section source notes
+
+- [Part I — Survival source notes](part-i-source-notes.md)
