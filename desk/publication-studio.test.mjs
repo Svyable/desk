@@ -48,8 +48,10 @@ test('print editions are honest about current capability', async () => {
   assert.match(html, /class="studio-export-epub"/);
 });
 
-test('export watchdog stops on terminal success or failure', async () => {
+test('export observer survives terminal state long enough to restore the idle label', async () => {
   const source = await readFile(new URL('./publication-studio.js', import.meta.url), 'utf8');
-  assert.match(source, /if \(\/downloaded\/i\.test\(text\)\)[\s\S]*?stopWatching\(\);[\s\S]*?return;/);
-  assert.match(source, /if \(\/failed\/i\.test\(text\)\)[\s\S]*?stopWatching\(\);[\s\S]*?return;/);
+  assert.match(source, /let sawTerminalState = false;/);
+  assert.match(source, /if \(\/downloaded\/i\.test\(text\)\)[\s\S]*?sawTerminalState = true;[\s\S]*?return;/);
+  assert.match(source, /if \(\/failed\/i\.test\(text\)\)[\s\S]*?sawTerminalState = true;[\s\S]*?return;/);
+  assert.match(source, /if \(sawTerminalState\) stopWatching\(\);/);
 });
