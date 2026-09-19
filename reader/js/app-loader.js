@@ -25,6 +25,21 @@ function installDeskChromePolicy() {
   document.head.appendChild(style);
 }
 
+function installSkipLinkPolicy() {
+  const skip = document.querySelector('.skip-link');
+  if (!skip) return;
+  const sync = () => {
+    const library = document.body.dataset.stage === 'library';
+    skip.href = library ? '#libraryView' : '#bookStage';
+    skip.textContent = library ? 'Skip to library' : 'Skip to book';
+  };
+  new MutationObserver(sync).observe(document.body, {
+    attributes: true,
+    attributeFilter: ['data-stage'],
+  });
+  sync();
+}
+
 function installDeskStylesheet(id, href) {
   if (document.getElementById(id)) return document.getElementById(id);
   const link = document.createElement('link');
@@ -194,6 +209,7 @@ function installContentsDrawerPolish() {
 }
 
 installDeskChromePolicy();
+installSkipLinkPolicy();
 installDeskStylesheet('bookselfLibraryHome', libraryHomeUrl);
 installDeskStylesheet('deskBookOpeningHandoff', bookOpeningHandoffUrl);
 installCriticalReaderLayout();
