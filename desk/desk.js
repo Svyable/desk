@@ -258,15 +258,22 @@ function unreadableBook(slug, catalogSlugs) {
   };
 }
 
+function isPublicProof(book) {
+  return isPublicRole()
+    && !book.published
+    && /\b(?:public\s+)?proof\b|\bunlisted\b/i.test(book.publicationSurface || '');
+}
+
 function statusState(book) {
   if (isPublicRole() && book.published && book.cataloged) return 'published';
+  if (isPublicProof(book) || /proof/i.test(book.status)) return 'proof';
   if (book.ready) return 'ready';
-  if (/proof/i.test(book.status)) return 'proof';
   return 'drafting';
 }
 
 function statusLabel(book) {
   if (isPublicRole() && book.published && book.cataloged) return 'Published';
+  if (isPublicProof(book)) return 'Public proof';
   if (book.ready) return state.role === 'desk' ? 'Ready to release' : 'Ready';
   return book.status || 'Drafting';
 }
