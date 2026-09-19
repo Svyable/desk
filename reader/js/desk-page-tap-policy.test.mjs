@@ -52,6 +52,9 @@ match(adapter, /Tap center for controls · tap an edge or swipe to turn/);
 match(adapter, /OVERLAY_SELECTOR/);
 match(adapter, /selectionActive\(\)/);
 match(adapter, /INTERACTIVE_SELECTOR/);
+match(adapter, /const LIBRARY_SORT_URL = new URL\('\.\/library-sort\.js', import\.meta\.url\)\.href;/);
+assertions += 1;
+assert.doesNotMatch(adapter, /svyable\.github\.io\/bookself\/reader\/js\/library-sort/);
 
 // The adapter must not fork the canonical page-turn path or add controls.
 assertions += 1;
