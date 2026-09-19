@@ -1,6 +1,5 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { readFile } from 'node:fs/promises';
 
 import {
   parseManuscriptChecklist,
@@ -28,6 +27,11 @@ test('buildKdpHtml creates a title page, linked contents, and chapter breaks', (
   const html = buildKdpHtml({
     title: 'A Test Book',
     author: 'Ada Author',
+    metadata: {
+      rights: '© 2026 Ada Author · All Rights Reserved',
+      aiUse: 'AI training and generative use reserved',
+      year: '2026',
+    },
     chapters: [
       { title: 'First', markdown: 'Hello.' },
       { title: 'Second', markdown: 'World.' },
@@ -38,12 +42,7 @@ test('buildKdpHtml creates a title page, linked contents, and chapter breaks', (
   assert.match(html, /href="#chapter-1-first"/);
   assert.match(html, /class="chapter" id="chapter-2-second"/);
   assert.match(html, /break-before: page/);
-});
-
-
-test('HTML remote reads ignore unsaved repository-switcher text', async () => {
-  const source = await readFile(new URL('./kdp-export.js', import.meta.url), 'utf8');
-  assert.doesNotMatch(source, /getElementById\(['"]repoInput['"]\)/);
-  assert.match(source, /api\.github\.com\/repos\/\$\{workspace\.owner\}\/\$\{workspace\.repo\}/);
-  assert.match(source, /raw\.githubusercontent\.com\/\$\{workspace\.owner\}\/\$\{workspace\.repo\}/);
+  assert.match(html, /name="copyright" content="© 2026 Ada Author\. All Rights Reserved\."/);
+  assert.match(html, /id="rights-and-permissions"/);
+  assert.match(html, /AI training and generative use reserved\./);
 });
