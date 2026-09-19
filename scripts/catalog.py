@@ -154,7 +154,7 @@ def title_for(markdown: str, slug: str) -> str:
 
 
 def has_status_word(value: str, *words: str) -> bool:
-    return any(re.search(rf"\\b{re.escape(word)}\\b", value, re.IGNORECASE) for word in words)
+    return any(re.search(rf"\b{re.escape(word)}\b", value, re.IGNORECASE) for word in words)
 
 
 def status_for(markdown: str) -> str:
@@ -240,7 +240,7 @@ def load_shelf_rows(shelf_root: Path | None) -> list[ShelfRow] | None:
         released = (
             has_status_word(raw_status, "published", "released")
             and not re.search(
-                r"\\b(?:not|never)\\s+(?:published|released)\\b",
+                r"\b(?:not|never)\s+(?:published|released)\b",
                 raw_status,
                 re.IGNORECASE,
             )
