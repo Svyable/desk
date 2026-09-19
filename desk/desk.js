@@ -433,6 +433,9 @@ function resetView() {
   state.query = '';
   state.filter = 'all';
   $('bookSearch').value = '';
+  $('manuscriptList').replaceChildren();
+  $('deskEmpty').hidden = true;
+  ['repoOverview', 'summaryGrid', 'deskControls'].forEach((id) => { $(id).hidden = true; });
   document.querySelectorAll('[data-filter]').forEach((button) => {
     const active = button.dataset.filter === 'all';
     button.classList.toggle('active', active);
