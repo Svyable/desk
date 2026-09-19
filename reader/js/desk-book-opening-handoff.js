@@ -114,6 +114,10 @@ function installCoverDockHierarchy() {
       event.preventDefault(); details.open = false; summary.focus({ preventScroll:true });
     }
   });
+  document.addEventListener('pointerdown', (event) => {
+    if (!details.open || details.contains(event.target)) return;
+    details.open = false;
+  }, true);
   return details;
 }
 
