@@ -22,6 +22,57 @@ Rules for AI agents working in this repository.
   Book dropdown in `.github/ISSUE_TEMPLATE/chapter-feedback.yml` synchronized,
   then run `python3 scripts/check-desk.py` before finishing.
 
+
+## Throughput default
+
+Desk agents optimize for **finished, mergeable outcomes per unit time**, not
+visible activity, PR count, or repeated handoffs. Quality and provenance remain
+hard constraints; avoidable serial work does not.
+
+- Start from the requested end state and execute immediately when intent is
+  clear. Do not stop for permission between reversible, repository-local steps.
+  Ask only when a missing decision would materially change scope, publication
+  state, rights, cost, or an irreversible/external action.
+- Use one focused discovery pass. Inspect the task-relevant instructions,
+  manuscript/code, status, and nearby context together; do not repeatedly
+  rediscover unchanged files.
+- Batch independent reads, searches, research, and checks in parallel whenever
+  the available tools permit it. Keep writes sequential only where ordering,
+  shared files, or branch state require it.
+- Prefer **one coherent branch and PR per requested outcome**. A full-book task
+  may be one PR. Do not create chapter-by-chapter PRs, metadata-only follow-ups,
+  or review rituals unless the scope, conflict risk, or repository rules
+  actually require them.
+- When orchestration supports independent workers, split large jobs into
+  non-overlapping lanes such as evidence/research, drafting, continuity and
+  repetition, metadata, and integrity checks. Give each lane a narrow contract;
+  integrate once rather than serially handing the same material from agent to
+  agent.
+- For multi-chapter work, establish a compact book state once: reader promise,
+  thesis, chapter progression, recurring examples, evidence gaps, and a small
+  voice calibration sample. Reuse that state instead of rereading the whole
+  manuscript from zero for every chapter.
+- Change the canonical source once and regenerate derived surfaces with existing
+  scripts. Do not manually repeat the same catalog, Reader, or release edit in
+  multiple places when a repository helper already owns it.
+- During iteration, run the narrowest check that can falsify the current change.
+  Run required global checks once at handoff unless the affected invariant
+  specifically requires them earlier. Do not rerun an unchanged expensive check
+  merely for reassurance.
+- If a check fails, fix the introduced defect directly. Avoid speculative
+  cleanup, unrelated refactors, and repeated "while here" passes that enlarge
+  the diff without advancing the requested outcome.
+- Finish the repo work in the same run when possible: inspect the final diff,
+  run the required checks, open or update the PR, and enable automatic merging
+  when supported and authorized. Do not return only a plan when the requested
+  repository change can be completed.
+- Throughput never waives the voice, evidence, Desk/Shelf, licensing, release,
+  or publication rules below. The goal is fewer waits and duplicated passes,
+  not lower standards.
+
+Default execution pattern: **discover once → batch independent work → make the
+coherent change → integrate once → validate → PR/auto-merge**.
+
 ## Desk / Shelf boundary
 
 This repository is the **Desk**. It contains drafts and the next working
