@@ -148,6 +148,142 @@ Agents will often know something we do not. They will often be wrong about somet
 
 Verrocchio's real achievement, from our distance, is not diminished by the possibility that Leonardo painted a better angel. If anything, the workshop looks more impressive because Leonardo was there at all.
 
+There is another reason to resist the clean replacement reading.
+
+Verrocchio's workshop was itself a portfolio of capabilities. The National Gallery's account of his career emphasizes that the shop worked across painting, sculpture, design, and related forms of making. Leonardo's later breadth did not emerge from a narrow production line. He entered an environment in which problems crossed materials.
+
+That matters because the most interesting human-agent workshops will also be heterogeneous.
+
+The person at the center will not merely have five copies of the same assistant. One system may be good at retrieval. Another at code. Another at visual reasoning. Deterministic tools will do work where deterministic tools are better. Human specialists will enter where lived experience or accountable expertise matters. The workshop's intelligence will come partly from routing.
+
+This is a very different image from the super-assistant.
+
+The super-assistant fantasy concentrates capability in one interface. Ask anything. Receive everything. The workshop model distributes capability around an object.
+
+That distribution creates a new master skill: knowing what kind of intelligence the problem requires.
+
+A factual dispute may need primary sources, not eloquence.
+
+A software failure may need logs and tests, not a larger language model.
+
+A negotiation may need the human who knows the counterpart.
+
+A design problem may need ten visual sketches before anyone writes a paragraph explaining them.
+
+The agentic future will reward people who can distinguish these modes.
+
+This is another way the old hierarchy can invert. The "master" can become less technically capable than several components of the workshop and more capable at composition.
+
+Composition is not hand-waving. It means recognizing dependencies.
+
+If the research is weak, the prose should not proceed as if the research were strong.
+
+If the test fails, the deployment should not proceed because the explanation is persuasive.
+
+If the customer premise changes, the entire strategy may need to be redrawn.
+
+The master keeps these dependencies connected.
+
+That is why orchestration is more demanding than task assignment. A bad orchestrator distributes work and receives fragments. A good one understands how a discovery in one fragment should alter the others.
+
+This is where the painting helps again.
+
+The angel is not an independent illustration taped onto *The Baptism of Christ*. It belongs to a composition. If one passage changes the visual language of the work, the change can affect the whole. The local contribution has relational meaning.
+
+Agent outputs are relational too.
+
+A research finding changes the chapter.
+
+The chapter changes the thesis.
+
+The thesis changes what the next research question should be.
+
+A test result changes the architecture.
+
+The architecture changes what counts as a useful test.
+
+This recursive movement is the real process.
+
+People who treat agents as vending machines miss it because they experience each request as a separate transaction. They ask, receive, paste, move on.
+
+The workshop remembers that every useful answer changes the next question.
+
+That is why the highest form of human-agent collaboration may look less efficient from the outside than one-shot generation. The participants keep changing one another's assignments. The agent discovers evidence that weakens the premise. The human narrows the claim. A critic exposes an exception. The research agent returns to the sources. The object becomes less certain and more trustworthy.
+
+This is interaction as method.
+
+It also creates a better response to the fear that the machine will eventually become better than the human at orchestration itself.
+
+It may.
+
+An agent can already decompose tasks, route subtasks, compare outputs, and revise plans. Future systems will be better at all of those functions. We should expect machine orchestration to become real.
+
+The workshop model does not depend on denying that possibility.
+
+It asks a governance question instead.
+
+Which decisions do humans want to remain responsible for, even when a machine can make them competently?
+
+There are domains where the answer may be very few. If an automated system can route warehouse inventory more accurately than a human team, insisting that a person manually approve each routing decision may add nothing.
+
+There are other domains where human standing matters independently of comparative cognitive performance. A defendant may have a legitimate claim to human judicial responsibility. A patient may want a physician who can answer for a treatment. A citizen may object to public power being exercised by an optimizer whose objective cannot be challenged politically.
+
+These are not productivity questions.
+
+They are constitutional questions in miniature.
+
+The workshop lets us see them early because every workshop allocates authority.
+
+Who may act?
+
+Who may revise the commission?
+
+Who may approve?
+
+Who carries the name?
+
+When an apprentice becomes better, capability changes.
+
+Authority does not have to change automatically.
+
+That separation is one of civilization's oldest tricks. We routinely give experts influence without giving them final power. We routinely give leaders final power without pretending they know the most about every detail.
+
+Agents will make the arrangement more explicit because their competence may be easier to scale than their legitimate authority.
+
+That creates an opportunity.
+
+Instead of asking the mystical question "Who is really smarter?", we can ask the operational questions one by one.
+
+Who should search?
+
+Who should propose?
+
+Who should test?
+
+Who should decide?
+
+Who should act?
+
+Who should be able to stop the action?
+
+Who should answer for the result?
+
+A workshop is the place where those verbs acquire owners.
+
+The ownership can move.
+
+The painting can still cohere.
+
+This is what Vasari's story cannot show because its drama depends on one hierarchy collapsing in one moment. Real collaborative systems are more durable than that. They can absorb local changes in superiority without dissolving.
+
+The machine paints the better angel.
+
+Fine.
+
+Now the master has new information about the machine, the work, and perhaps himself.
+
+What happens next is the process.
+
 The master trained the apprentice who could become Leonardo.
 
 We should want our workshops to produce that kind of problem.
