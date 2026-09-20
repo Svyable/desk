@@ -200,6 +200,150 @@ The bottega did not produce Leonardo because Florence discovered a magic instruc
 
 It produced conditions in which skill could touch real work, receive correction, inherit standards, and eventually exceed them.
 
+There is a deeper organizational feature hiding here: the old workshop made feedback cheap by proximity.
+
+The apprentice did not have to schedule a quarterly performance review to discover that the hand was wrong. The correction could happen at the object. A more experienced worker could point. Demonstrate. Take the tool. Return it. The distance between attempt and feedback was short.
+
+Modern professional organizations often lengthen that distance.
+
+A junior employee produces a document. It enters a queue. A manager reviews it days later. The comments arrive after the mental state that produced the mistake has disappeared. Sometimes the final deliverable is corrected without the junior ever seeing the decisive edit because speed matters more than pedagogy.
+
+The organization gets the answer.
+
+The person loses the lesson.
+
+Agents can collapse this feedback delay.
+
+That may matter as much as their ability to generate.
+
+A learner can receive critique while the reasoning is still active. The system can ask why a choice was made, show a contrasting example, and create another attempt immediately. The loop can repeat without consuming an expert's entire afternoon.
+
+This begins to resemble deliberate practice at organizational scale.
+
+But speed alone does not create deliberate practice. The feedback has to be diagnostic and the task has to remain near the learner's edge.
+
+An agent that simply fixes everything produces no productive struggle.
+
+An agent that constantly attacks trivial mistakes creates noise.
+
+The useful system identifies the error with the highest learning value.
+
+That requires a model of the learner.
+
+Human masters build such models informally. They know which apprentice is impatient, which one overworks details, which one has a good eye and weak technique, which one can be trusted with a larger portion. Assignment becomes personalized because the master has observed performance over time.
+
+Agentic workshops can make this personalization far more explicit.
+
+A system can maintain a record of the kinds of errors a person makes, not to score the person forever, but to choose the next useful challenge. It can notice that the analyst repeatedly accepts management-adjusted metrics without reconstructing the standard definition. It can notice that the engineer writes solid code but neglects rollback. It can notice that the writer resolves ambiguity too quickly.
+
+Now training and production can reconnect.
+
+The live work supplies cases.
+
+The agent turns cases into feedback.
+
+The human master intervenes at the level where human judgment is most valuable.
+
+This could make apprenticeship better than the historical version, not merely more efficient.
+
+The old system was constrained by a master's attention and by social hierarchy. A difficult master could withhold explanation. A favored apprentice could receive opportunities others did not. Bias could determine who touched consequential work. A junior person might spend years doing tasks that served the shop more than the learner.
+
+There is nothing sacred about that.
+
+The goal is to recover the learning mechanics without the inherited inequities.
+
+Agents can help democratize access to patient explanation. They do not become impatient because the learner asks the same question three times. They can adapt examples. They can translate jargon. They can let a quiet learner practice privately before performing publicly.
+
+That is real value.
+
+It should also make us alert to a different inequality.
+
+The quality of apprenticeship may depend on access to better agents, better context, and better organizational memory.
+
+One student has a generic chatbot.
+
+Another has an agent grounded in the best examples, connected to a rich simulation environment, calibrated by expert feedback, and allowed to track development for years.
+
+These are not the same educational resource.
+
+The future apprenticeship divide may be less about who has a textbook and more about whose workshop remembers.
+
+Organizations that possess high-quality proprietary examples will be able to train both humans and agents against them. The feedback loop becomes a moat.
+
+This creates a reason to treat the artifacts of good work as educational capital.
+
+A strong code review.
+
+A great redline.
+
+A well-reasoned investment memo.
+
+A careful diagnostic note.
+
+A postmortem that actually identifies the mechanism.
+
+These should not vanish into completed projects.
+
+They are teaching objects.
+
+Renaissance workshops understood this physically through drawings, cartoons, casts, models, repeated motifs, and the presence of prior work. The shop contained examples.
+
+Modern companies often contain examples too but cannot retrieve them.
+
+Agents can change that.
+
+Ask for three prior cases where the same tradeoff appeared.
+
+Show how the senior reviewer changed the analysis.
+
+Find the incident that led to this rule.
+
+Surface a counterexample where the preferred pattern failed.
+
+Now organizational history becomes part of apprenticeship at the moment of need.
+
+This is not the same as letting the model answer from history.
+
+The apprentice should sometimes see the history directly.
+
+The difference matters because a summarized lesson can remove exactly the ambiguity that teaches judgment.
+
+"Always do X" is easy.
+
+Here are three cases. Why did X work in two and fail in one? is an apprenticeship.
+
+The workshop should know when to serve the rule and when to serve the cases.
+
+This becomes a philosophy of instruction embedded in the system.
+
+There will be no single best setting.
+
+Under deadline pressure, the agent may need to provide the answer.
+
+During protected practice, it may need to withhold it.
+
+A master learns to switch modes without confusing them.
+
+That switching is itself a form of care for the future capacity of the shop.
+
+The bottega, then, is not merely a metaphor for having many assistants. It is a topology of feedback.
+
+People and artifacts are close enough that corrections travel.
+
+Memory is close enough that precedent can be found.
+
+Authority is close enough that a novice can escalate.
+
+Standards are visible enough that imitation has a target.
+
+Real work is accessible enough that learning has consequence.
+
+This is what we should rebuild around agents.
+
+Not a pyramid of synthetic employees.
+
+A dense loop between attempt and correction.
+
 We are about to have more apprentices than any civilization has ever known.
 
 The scarce resource will be masters worth apprenticing to.
