@@ -1,15 +1,18 @@
-## Manuscript scope
+## Outcome
 
-- **Book:**
-- **Chapter(s):** (`chNN-slug`, a coherent chapter range, or front/back matter)
+- **Book / area:**
+- **Scope:** (chapter range, coherent manuscript pass, tooling change, or other complete outcome)
 
 ## What changed
 
-## Why
+## Validation
 
-## Checklist
+- [ ] The change is one intentional, cohesive outcome; unrelated cleanup is excluded
+- [ ] Author voice and existing work outside the requested scope are preserved
+- [ ] Derived metadata/TOCs/catalog surfaces were regenerated or updated when required
+- [ ] The narrowest relevant checks passed during iteration
+- [ ] Required handoff checks pass (use `python3 scripts/check-desk.py` for book-structure or catalog changes)
 
-- [ ] The manuscript scope is intentional and cohesive; unrelated chapters, tooling changes, and drive-by cleanup are not bundled
-- [ ] Author voice is preserved — no wholesale rewrites outside the requested scope
-- [ ] If chapters were added, renamed, or removed, the book README TOC and drafted count are updated
-- [ ] Book-structure or catalog changes pass `python3 scripts/check-desk.py`
+## Landing
+
+- [ ] The PR is ready to merge when objective repository checks pass; no extra human-review gate was added as a ritual
