@@ -385,6 +385,21 @@ def audit(
     listed = catalog_slugs(root_readme)
     metadata = catalog_metadata(root_readme)
 
+    shelf_start = root_readme.find(SHELF_SUMMARY_START)
+    shelf_end = root_readme.find(SHELF_SUMMARY_END)
+    if shelf_start >= 0 and shelf_end >= shelf_start:
+        shelf_block = root_readme[shelf_start:shelf_end]
+        for line in shelf_block.splitlines():
+            if not line.startswith("| [**"):
+                continue
+            if "[Shelf →](" not in line or "https://svyable.github.io/desk/reader/" in line:
+                findings.append(Finding(
+                    "error",
+                    "shelf_summary_malformed",
+                    "README",
+                    "Shelf summary contains a Desk catalog/Reader row. Regenerate the Shelf summary instead of editing it by hand.",
+                ))
+
     if shelf_rows is not None:
         expected_shelf = render_shelf_summary(rows, shelf_rows)
         start = root_readme.find(SHELF_SUMMARY_START)
