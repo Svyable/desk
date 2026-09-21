@@ -712,6 +712,50 @@ The human contribution is not to slow them all.
 
 It is to know where time becomes intelligence.
 
+Long-running agents make this question urgent because the interaction no longer has a natural turn boundary.
+
+Anthropic's 2026 Economic Index describes a shift in its own products from short chat sessions toward longer-running work in coding and computer-use environments. Whatever one thinks of that particular vendor or measurement, the interaction pattern is important.
+
+The user may not see every intermediate choice.
+
+That is the point.
+
+Autonomy saves attention by removing turns.
+
+The workshop therefore needs event boundaries instead of conversation boundaries.
+
+Do not interrupt after every action.
+
+Interrupt when state changes meaningfully.
+
+A new external commitment.
+
+A permission expansion.
+
+An irreversible operation.
+
+Evidence that invalidates the commission.
+
+A cost threshold.
+
+A conflict the agent cannot resolve under the existing standard.
+
+This is the grammar of long-running collaboration.
+
+The agent can work for an hour without asking anything and still remain under meaningful human control if the boundaries are well chosen.
+
+The opposite is also possible: an agent can ask permission constantly while the human has no real understanding of what is being approved.
+
+Control is not turn count.
+
+It is authority architecture.
+
+That distinction will become more important as agents remain active longer.
+
+The master does not need to watch every brushstroke.
+
+The master needs to know when the wall has moved.
+
 The future will be full of systems advertising zero friction.
 
 The best workshops will know where zero friction is a defect.
