@@ -55,3 +55,13 @@ test('HTML remote reads ignore unsaved repository-switcher text', async () => {
   assert.match(source, /api\.github\.com\/repos\/\$\{workspace\.owner\}\/\$\{workspace\.repo\}/);
   assert.match(source, /raw\.githubusercontent\.com\/\$\{workspace\.owner\}\/\$\{workspace\.repo\}/);
 });
+
+
+const source = await import('node:fs').then(({ readFileSync }) =>
+  readFileSync(new URL('./kdp-export.js', import.meta.url), 'utf8')
+);
+assert.match(source, /const branchCache = new Map\(\)/);
+assert.match(source, /if \(branchCache\.has\(key\)\) return branchCache\.get\(key\)/);
+assert.match(source, /branchCache\.set\(key, branch\)/);
+assert.match(source, /const branch = await remoteBranch\(workspace\)/);
+assert.equal((source.match(/https:\/\/api\.github\.com\/repos\//g) || []).length, 1, 'remote branch metadata lookup should be centralized');
