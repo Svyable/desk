@@ -37,6 +37,26 @@ Research burden: verify later benchmark replications before converting this from
 
 Research lane: pair institutional retrospective with the original AlphaGo/AlphaZero papers and independent histories before narrating specific decisions or motives.
 
+## Pretraining, scaling, and the imitation substrate
+
+- Common Crawl, public corpus overview and September 2026 crawl releases: https://commoncrawl.org/ and https://commoncrawl.org/blog  
+  Current primary source for the scale and cadence of the public web archive. The September 2026 release reported 2.17 billion pages and 361.4 TiB uncompressed. Use Common Crawl's own descriptions carefully: the corpus is a large public-web archive, not a complete copy of all online information.
+
+- Tom B. Brown et al., "Language Models are Few-Shot Learners" (2020): https://arxiv.org/abs/2005.14165  
+  Primary GPT-3 paper. Source for 175 billion parameters, 300 billion total training tokens, and the training mixture: filtered Common Crawl, WebText2, Books1, Books2, and Wikipedia. Important nuance: sources were deliberately sampled at different weights rather than proportionally to corpus size.
+
+- Jared Kaplan et al., "Scaling Laws for Neural Language Models" (2020): https://arxiv.org/abs/2001.08361  
+  Primary source for empirical power-law relationships between language-model loss and model size, dataset size, and training compute over the ranges studied. Do not convert empirical scaling regularities into a general law that every downstream capability improves predictably.
+
+- Jordan Hoffmann et al., "Training Compute-Optimal Large Language Models" / Chinchilla (2022): https://arxiv.org/abs/2203.15556  
+  Primary technical paper. Pair with DeepMind's institutional explanation: https://deepmind.google/blog/an-empirical-analysis-of-compute-optimal-large-language-model-training/  
+  Source for the comparison of Chinchilla (70B parameters, 1.3T tokens) with Gopher (280B parameters) under the same reported training compute. Use it to show that parameter count, token count, and compute are different scaling variables.
+
+- Meta, "Introducing Meta Llama 3" (April 2024): https://ai.meta.com/blog/meta-llama-3  
+  Primary institutional source for Llama 3's more-than-15T-token pretraining dataset, data filtering, the use of Llama 2 in text-quality classifiers, and Meta's statement that 8B and 70B models continued improving after training on up to 15T tokens. Treat Meta's performance characterizations as company claims; the data-pipeline disclosures are the relevant evidence here.
+
+Research burden: keep "imitation" technically precise. Next-token prediction is not literal copying, and strong generalization or in-context learning cannot be dismissed as memorization. The chapter's claim is about where the correction signal originates, not a claim that pretrained models lack abstractions or novel behavior.
+
 ## Human feedback and learned reward
 
 - OpenAI, "Learning to summarize with human feedback" (2020): https://openai.com/index/learning-to-summarize-with-human-feedback/  
