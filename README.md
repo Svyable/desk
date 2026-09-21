@@ -9,12 +9,12 @@ Desk is the working library for Sven Hardy Benson’s books: drafts, complete ma
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 135 book projects · 64 complete drafts · 3 in revision · 68 drafting**
+> **Desk: 136 book projects · 64 complete drafts · 3 in revision · 69 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
 > **Shelf: 58 author projects · 56 released · 2 public drafts/proofs**
-> **Where they live: 58 in both Desk + Shelf · 77 Desk-only · 0 Shelf-only**
+> **Where they live: 58 in both Desk + Shelf · 78 Desk-only · 0 Shelf-only**
 > **Release review queue: 13 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
@@ -97,6 +97,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Abdicating Intelligence**](books/abdicating-intelligence/) | ✍️ Released first edition source | 30 of 30 | 56,166 | Abdicating Intelligence asks a narrower and more uncomfortable question than whether artificial intelligence can think: what happens to people, professions, institutions, and democracies… | [Read →](https://svyable.github.io/desk/reader/#/b/abdicating-intelligence/) |
 | [**Adaptation Debt**](books/adaptation-debt/) | ✍️ Drafting | 20 of 20 | 53,293 | The central thesis of Adaptation Debt is therefore not that large organizations become stupid, nor that success inevitably produces failure. | [Read →](https://svyable.github.io/desk/reader/#/b/adaptation-debt/) |
 | [**Adjacency**](books/adjacency/) | ✅ Complete draft · Published on Shelf | 25 of 25 | 80,714 | <!-- bookself-reader-links:start --> Reader links: Working edition · Desk Reader · Published edition · Shelf Reader <!-- bookself-reader-links:end --> | [Read →](https://svyable.github.io/desk/reader/#/b/adjacency/) |
+| [**After Pretraining**](books/after-pretraining/) | ✍️ Drafting | 1 of 18 | 2,484 | The next training asset may be a closed loop: action, consequence, evaluation, update, and another attempt. | [Read →](https://svyable.github.io/desk/reader/#/b/after-pretraining/) |
 | [**Agentile**](books/agentile/) | ✅ Complete draft · publication candidate | 18 complete of 18 planned + interlude | 63,355 | The working thesis is that agentic software creates a new economic capability: delegated intention becoming cheap, persistent, parallel, and programmable. | [Read →](https://svyable.github.io/desk/reader/#/b/agentile/) |
 | [**Aggregate, Consolidate, Innovate**](books/aggregate-consolidate-innovate/) | ✍️ Drafting | 25 of 25 | 38,089 | <!-- bookself-reader-links:start --> Reader links: Working edition · Desk Reader <!-- bookself-reader-links:end --> | [Read →](https://svyable.github.io/desk/reader/#/b/aggregate-consolidate-innovate/) |
 | [**Algorithmic Influence**](books/algorithmic-influence/) | ✍️ Drafting | 18 of 18 | 44,524 | The working thesis is that influence has acquired a new audience. For most of human history, persuasion meant changing another person’s mind, attention, trust, or behavior. In an… | [Read →](https://svyable.github.io/desk/reader/#/b/algorithmic-influence/) |
