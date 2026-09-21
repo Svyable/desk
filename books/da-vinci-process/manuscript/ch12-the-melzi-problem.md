@@ -700,6 +700,44 @@ Leonardo's papers survived the death of the master.
 
 Our records should survive the death of an interface.
 
+The custodian also has to protect chronology.
+
+AI systems are unusually good at synthesizing across time and unusually capable of making different periods feel simultaneous.
+
+A policy from 2024.
+
+A customer preference from 2026.
+
+A strategy from 2028.
+
+All can appear together in one answer unless the system respects when each was true.
+
+Temporal context is part of meaning.
+
+What did we know then?
+
+What changed afterward?
+
+Was this document current when the decision was made?
+
+A workshop that loses chronology can manufacture contradictions that never existed or preserve obsolete beliefs as if they were current.
+
+The archive should therefore treat time as more than a timestamp.
+
+Effective date.
+
+Superseded date.
+
+Decision date.
+
+Observation date.
+
+These distinctions help the agent reconstruct the world the record belonged to.
+
+Memory without time is collage.
+
+Custodianship turns collage back into history.
+
 The future workshop needs custodians who understand both halves of that sentence.
 
 A workshop that knows why it remembers can learn.
