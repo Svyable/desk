@@ -76,3 +76,53 @@ Humans systematically underweight environmental variables outside conscious perc
 ## Defeat condition
 
 The book's broader synthesis weakens if apparently electric-mediated behaviors fail under artifact-resistant replication, if proposed receptors do not transduce ecologically realistic fields, or if removing electric information produces no measurable loss once correlated cues are controlled. The framework must allow `the field exists but the organism does not use it` as a normal outcome.
+
+## Source audit — the flower's electrical memory is measured, but its natural use is not yet closed
+
+Chapter 1's most memorable ecological claim is also one of the easiest to over-promote: a bee lands, the flower's electrical state changes, and the next bee may encounter a trace left by the first. The 2013 experiment gives that story unusually good physical footing. Clarke et al. measured a mean **25 ± 3 mV** peak change in petunia stem potential during individual free-flying bumblebee visits, with the perturbation persisting for roughly **100 seconds**. England & Robert's later review preserves the same interpretation: the persistence is long enough that a subsequent visitor could encounter an altered floral field and potentially use it as information about recent visitation and depleted nectar.
+
+Primary anchor: Clarke et al. (2013), *Science*, DOI 10.1126/science.1230883:
+https://doi.org/10.1126/science.1230883
+
+Authoritative synthesis with the measured values and explicit scope of the ecological inference: England & Robert (2022), *Biological Reviews*, DOI 10.1111/brv.12804:
+https://doi.org/10.1111/brv.12804
+
+### Separate the demonstrated chain from the attractive story
+
+The evidence supports several propositions at different strengths:
+
+1. free-flying bees carry charge and measurably perturb floral electrical state;
+2. that perturbation can outlast the visit on a timescale relevant to another bee;
+3. bumblebees can learn electrical differences between artificial flowers, and removing the electrical cue impairs the learned discrimination;
+4. electrical structure can improve learning when paired with another floral cue.
+
+The further claim — **a foraging bee in nature reads the residual electrical perturbation as a timestamp of recent visitation and therefore as evidence about nectar depletion** — is a plausible ecological interpretation, not the same experimental result as the measured stem-potential transient. Chapter 1 currently handles this reasonably by saying the trace *can* contain recent history and another organism *can exploit* such state changes, but later chapters should not quietly upgrade `could` to `does` without a field experiment tying the residual trace to natural foraging decisions.
+
+### The stronger counterexample is nearby
+
+The same review gives STATIC a useful check against turning every electrical interaction into a sense. Electrostatic forces can move pollen without any nervous system detecting the field; charged insects can deform spider webs; electrical ecology includes **physical interactions that are not sensory interactions**. That distinction should stay alive throughout the book. A biologically consequential electrical effect can stop below the transduction ladder entirely.
+
+This is especially important for the proposed `anthropocentric null`. Discovering a previously neglected physical variable does not imply that evolution built a receptor for it. Sometimes the field moves the pollen and nobody has to perceive anything.
+
+### A better denominator for the natural-history claim
+
+Before treating an electrical trace as ecologically used information, ask for:
+
+- a field-strength/time-course distribution under natural weather and plant conditions;
+- the receiving animal's threshold under those same conditions;
+- evidence that the trace covaries with the resource or event it is proposed to represent;
+- cue-isolation or cue-conflict experiments showing that behavior follows the electrical trace when odor, humidity, visual change and handling artifacts are controlled;
+- a measurable foraging consequence, not merely receptor motion.
+
+This is the ecological version of the book's transduction ladder: **a trace can physically exist, be detectable, and still not matter to the animal's decision.**
+
+### Strongest counterargument
+
+The behavioral case is already substantially stronger than a speculative mechanism. Clarke et al. did not merely observe charged bees and flowers; they manipulated artificial-flower potentials, trained bees against reward/aversive outcomes, removed the electrical cue after learning, and tested electric information alongside color. Requiring a wild-flower field demonstration before calling floral electric fields a foraging cue would understate the experiment. The narrower uncertainty concerns the specific *recent-visit / nectar-history* interpretation of the transient, not bumblebee aerial electroreception itself.
+
+### Publication holds
+
+- Do not write that a bee-induced ~100 s electrical transient has been shown to function as a natural `last visited` timestamp unless a source directly demonstrates that behavioral use.
+- Preserve the measured **25 ± 3 mV stem-potential perturbation** as a stem-potential result; do not silently convert it into a universal flower-field magnitude or a behavioral detection threshold.
+- Keep physical electric ecology distinct from electroreception. A field-mediated pollen, web or particle movement can be biologically important without being sensed.
+- Do not let `humans overlooked this variable` become evidence that an organism uses it. Physical availability, detectability and ecological use remain separate propositions.
