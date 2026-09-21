@@ -590,4 +590,74 @@ It removed our excuse for pretending collaboration was not there.
 
 A byline is not a receipt for keystrokes.
 
+The phrase "someone is home" also sets a boundary on scale.
+
+One human can put a name on more machine-assisted work than one human can meaningfully own.
+
+At some point the volume becomes incompatible with authorship.
+
+An executive can receive ten machine-generated reports and understand them.
+
+A thousand?
+
+A writer can supervise several research streams.
+
+A hundred books at once?
+
+A programmer can review generated code.
+
+Millions of lines?
+
+The possibility of output does not create the capacity for responsibility.
+
+This gives us an authorship throughput limit.
+
+How much work can one person still know well enough to answer for?
+
+The answer varies by artifact and domain.
+
+A photographer may select from thousands of machine-assisted image operations while still owning the final work.
+
+A legal signatory cannot meaningfully review ten thousand novel arguments in an afternoon.
+
+The workshop should track the difference.
+
+This matters commercially because AI makes extreme personal output plausible.
+
+People will publish more.
+
+Ship more.
+
+Advise more.
+
+Sign more.
+
+The market may reward the appearance of superhuman productivity before institutions learn to ask whether anyone actually stands behind the work.
+
+The first scandals will teach the lesson brutally.
+
+A byline, signature, certification, or professional license cannot scale at the speed of generation unless verification scales too.
+
+That creates a new economic role for evaluation systems.
+
+Tests.
+
+Audits.
+
+Independent reviewers.
+
+Provenance.
+
+Sampling.
+
+These mechanisms allow one person to own a larger workshop without pretending to inspect every atom.
+
+The authorship of the future will therefore depend partly on the quality of the verification architecture around the author.
+
+The master can paint fewer inches.
+
+The workshop can still earn the name.
+
+But only if the bond between name and responsibility remains real.
+
 It is a promise that someone is home.
