@@ -844,6 +844,36 @@ Now one of the others can be a machine.
 
 The rest of the problem remains ours.
 
+A renaissance is easier to recognize in retrospect than to manufacture in advance.
+
+That should make us modest.
+
+Most workshops will not produce masterpieces.
+
+Most agent interactions will be ordinary.
+
+They will answer questions, clean data, draft messages, fix small bugs, schedule work, and save time.
+
+That is fine.
+
+Civilizational change often arrives through ordinary repetition before exceptional work makes it visible.
+
+The standard for the individual is simpler.
+
+Did the relationship enlarge the range of work worth attempting?
+
+Did it improve the quality of judgment?
+
+Did it make correction easier?
+
+Did it preserve enough memory that the next attempt starts higher?
+
+If so, the workshop is already doing something more interesting than automation.
+
+It is turning interaction into accumulated capability.
+
+That is where renaissances begin: not with the label, but with people discovering that the next commission can be harder than the last.
+
 The workshop is open.
 
 That is enough of a renaissance for me.
