@@ -278,6 +278,176 @@ The old workshop turned imitation into independence.
 
 The new one must turn assistance into agency.
 
+The historical record also gives us a useful correction to the myth that apprenticeship means intellectual narrowness.
+
+Verrocchio's shop was not merely a painting school. The National Gallery describes a studio involved in sculpture, decorative metalwork, and painting. Getty curator Davide Gasparotto has emphasized the wide range of activities Leonardo would have encountered there: drawing, painting, terracotta modeling, bronze casting, and the practical traffic of a major Florentine workshop.
+
+That breadth matters.
+
+The apprentice did not merely learn a master's answers.
+
+He learned a way of moving among materials.
+
+This may help explain why Leonardo's later curiosity was so materially promiscuous. The important point is not to claim that Verrocchio caused every later interest. It is to notice that Leonardo's early environment did not force craft into a narrow intellectual lane.
+
+Modern organizations do this constantly.
+
+They define people by functions.
+
+Marketing.
+
+Engineering.
+
+Legal.
+
+Finance.
+
+Research.
+
+Operations.
+
+Specialization is necessary. It is also expensive. Problems routinely cross the boundaries faster than organizational charts do.
+
+Agents reduce the cost of crossing.
+
+A lawyer can interrogate a technical specification before calling the engineer.
+
+An engineer can explore regulatory vocabulary before meeting counsel.
+
+A scientist can prototype analysis code without waiting for a specialist.
+
+A writer can inspect the mechanics of a statistical claim instead of treating the methods section as foreign territory.
+
+This can create shallowness, but it can also create better questions.
+
+The difference is whether crossing the boundary ends in a conclusion or begins a conversation with the real domain.
+
+The novice mistake is to use the agent to feel interdisciplinary.
+
+The master use is to become legible to another discipline.
+
+That is a profound difference.
+
+Suppose a product leader knows very little about privacy engineering. An agent can explain threat models, data minimization, retention, consent, and access control. The weak use ends with the leader feeling informed.
+
+The stronger use ends with better questions for the privacy engineer.
+
+Which data do we truly need?
+
+What survives deletion?
+
+Which identifier becomes sensitive when combined with another?
+
+Where does consent fail if the workflow changes?
+
+Now the agent has not replaced the specialist. It has raised the quality of contact with the specialist.
+
+This is exactly how apprenticeship can expand a person's world without making the person delusional about expertise.
+
+Leonardo did not become a bronze caster, anatomist, military engineer, hydraulic theorist, architect, painter, and mathematician because somebody gave him summaries of each profession. He encountered materials, people, instruments, problems, and commissions.
+
+Breadth became physical.
+
+The human-agent version needs its own forms of contact.
+
+Run the code.
+
+Open the filing.
+
+Look at the specimen.
+
+Call the customer.
+
+Inspect the source.
+
+Ask the domain expert.
+
+The agent should shorten the distance to reality, not fill the distance with explanation.
+
+This becomes a practical rule for cross-disciplinary use: every borrowed domain should end in a harder external check.
+
+If the agent teaches you enough economics to form a thesis, test it against data.
+
+If it teaches you enough law to spot an issue, verify the jurisdiction and authority.
+
+If it teaches you enough medicine to understand a question, bring the question to the clinician.
+
+If it teaches you enough engineering to propose a design, let the system meet the load.
+
+Breadth earns itself through contact.
+
+There is another reason to recover Leonardo as apprentice rather than icon.
+
+Apprenticeship protects the right to be unfinished.
+
+Experts are punished socially for visible uncertainty because expertise is a status. Beginners have more permission to ask elementary questions.
+
+Agents can give senior people a private route back into beginnerhood.
+
+That is underrated.
+
+A chief executive can ask the question she would be embarrassed to ask in the room.
+
+A scientist can request an explanation of a neighboring field at several levels.
+
+A programmer can explore a new language without performing competence for colleagues.
+
+The machine can create a private apprenticeship layer underneath public seniority.
+
+This might make interdisciplinary learning more honest.
+
+It can also make ignorance easier to conceal.
+
+The executive learns just enough language to sound informed.
+
+The scientist repeats the model's summary.
+
+The programmer ships code in a stack he cannot debug.
+
+Again, the difference is contact.
+
+The workshop should create moments when borrowed knowledge must survive another mind.
+
+Explain it to the expert.
+
+Defend it.
+
+Revise it.
+
+Let the specialist tell you where the model flattened the field.
+
+That moment converts synthetic fluency into human learning.
+
+It also restores something apprenticeship has always needed: another person who can say, "No, that is not how this behaves."
+
+Machines can generate immense intellectual reach.
+
+Humans still need edges.
+
+The mature apprentice is not ashamed of the edge.
+
+He wants to know where it is.
+
+That may be one of the rare advantages humans retain simply by admitting limitation. A model can answer almost any question in the same interface. The interface produces an illusion of continuous competence.
+
+A person can say, "I don't know this field."
+
+That sentence can trigger the correct workflow.
+
+Find the right expert.
+
+Change the evidence standard.
+
+Reduce confidence.
+
+Slow down.
+
+The future master may be distinguished less by what he knows than by how accurately he knows the boundaries of what he knows.
+
+Leonardo's legend tends to erase boundaries.
+
+His apprenticeship reminds us that they were there.
+
 Leonardo was the apprentice.
 
 That may be the most hopeful fact about him.
