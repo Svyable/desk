@@ -48,6 +48,34 @@ Then researchers began asking whether the group could disappear too.
 
 This is where the September 2026 KLPO report becomes interesting. Its authors describe a "critic-free, single-rollout" method for asynchronous off-policy agentic reinforcement learning. The default implementation uses one complete response per prompt. Rather than requiring extra complete rollouts from the same prompt, it draws auxiliary tokens at visited prefixes to estimate a conditional score correction. Under the assumptions developed in the report, those samples recover the full-KL gradient in expectation. The method is designed so historical sampler data can be reused while a current trainer model updates against it. ([Zhang et al., 2026](https://github.com/yifanzhang-pro/KLPO))
 
+There is another reason the diagram matters. It exposes a problem that becomes unavoidable once training and data collection happen at different times.
+
+The policy that generated an old trajectory is not necessarily the policy being trained today.
+
+In the KLPO notation, the sampler and the trainer are given different symbols because they are different objects. The sampler is the historical policy that actually produced the action. The trainer is the current policy whose parameters are being updated. If a lab wants to reuse old trajectories rather than throw them away after one gradient step, it has to remember what the sampler believed when the action was taken and account for the fact that the trainer may now assign a different probability to the same action.
+
+This is the off-policy problem in practical clothing.
+
+Imagine a coding agent that tried to repair a bug on Monday. On Monday it believed one edit was highly plausible and another was unlikely. By Thursday, after thousands of updates, the current model may rank those edits differently. The Monday trajectory is still potentially valuable. It contains a real sequence of decisions, tool outputs, test failures, and perhaps a successful final patch. But the Thursday trainer cannot pretend it generated that experience under its current beliefs.
+
+One classic response is importance weighting: mathematically reweight old experience according to how much more or less likely the current policy would be to produce it. Importance sampling is powerful, but the weights can become volatile when the old and new policies disagree sharply. A rare action under the sampler that becomes common under the trainer can receive an enormous ratio. Training can become hostage to a few trajectories with extreme weights.
+
+KLPO takes a different route. It regresses a log-probability ratio toward an optimum implied by a KL-regularized local policy-improvement objective. The details matter to specialists, but the intuition is easier. Reward says "move toward what worked." The KL term says "do not move so far, so fast, that the update stops resembling a controlled improvement over the policy that produced the data." KL divergence is therefore doing two jobs at once in the story: it is a mathematical regularizer and a speed limit on forgetting where the experience came from.
+
+The "normalizer" in the diagram is part of making those relative probabilities add up to a proper distribution. Exact normalizers are usually inconvenient in large action spaces because the vocabulary may contain tens or hundreds of thousands of possible next tokens, and a long response creates a new distribution at every prefix. The paper's derivation shows how to profile that quantity out of the regression objective rather than learning a separate model to predict it.
+
+Then comes the move that makes the figure feel less like abstract optimization and more like an accounting trick for experience.
+
+At each prefix, the complete rollout contains the token the agent actually chose. The algorithm also asks: what would the historical sampler have said about other possible tokens here? It can draw auxiliary tokens from that old sampler and evaluate them under the current trainer. Those local draws help estimate the score correction needed for the gradient. They are not free—nothing in machine learning is—but they are much cheaper than replaying the entire world from the same prompt several more times.
+
+This is the distinction the figure compresses into "MC-KL."
+
+Monte Carlo methods estimate a difficult quantity by sampling. Here the algorithm samples alternative tokens rather than alternative complete lives.
+
+That sentence is technically imperfect if pushed too far, but economically useful. A full agent trajectory may include expensive computation and interactions whose cost has little to do with the price of drawing another token. Reopening a browser, compiling a repository, querying a service, or stepping a robot through a task can dwarf a local probability calculation. Methods that exchange complete trajectories for cheaper local estimates are therefore not merely rearranging symbols. They are trying to spend the training budget at a different layer of the system.
+
+That is why apparently small algorithmic changes can alter which organizations have an advantage. A ten-percent reduction in an inner-loop tensor operation is valuable. A reduction in the number of full environments that must be run may change the feasible dataset itself.
+
 The phrase "single rollout" deserves to be translated into economics.
 
 A rollout is experience. In an agent system it may be a long, expensive sequence involving model inference, tool calls, browser sessions, code execution, database queries, simulated actions, or interactions with some environment that has to be maintained and observed. If a learning algorithm needs a group of full rollouts to extract a useful update, the data cost multiplies. If it can recover a useful learning signal from one trajectory plus much cheaper local samples, the same budget may support more distinct tasks, more varied states, or more updates from experience already collected.
