@@ -346,4 +346,74 @@ A dense loop between attempt and correction.
 
 We are about to have more apprentices than any civilization has ever known.
 
+There is a practical implication for companies beginning to build agentic systems now.
+
+Do not start by counting agents.
+
+Count feedback paths.
+
+How quickly can a wrong assumption be corrected?
+
+How quickly can a useful discovery reach another worker?
+
+Can a junior person see why a senior changed the output?
+
+Can the agent surface a precedent at the exact moment it matters?
+
+Can a human interrupt before the mistake leaves the workshop?
+
+These are more important questions than whether the organization has deployed ten assistants or ten thousand.
+
+The historical bottega was powerful because the social distance between work, learner, and standard was short.
+
+Industrial bureaucracy often stretched that distance.
+
+A request moves through a ticket.
+
+The person doing the work never meets the person who needs it.
+
+The reviewer appears after the decision.
+
+The lesson arrives after the context.
+
+Agents can compress the distance again.
+
+That could make large organizations feel more like workshops if the systems are designed around shared objects instead of queues.
+
+A designer and an agent can work against the same live product state.
+
+A lawyer can comment on the actual clause the business is changing.
+
+A researcher can attach the source directly to the claim.
+
+A reviewer can see the branch before it becomes the release.
+
+The object becomes the meeting place.
+
+This matters because meetings are often substitutes for shared context.
+
+When people cannot see the work together, they discuss abstractions about it.
+
+A good agentic workshop should reduce that substitution.
+
+Bring participants to the artifact.
+
+Make the disagreement concrete.
+
+Let the system preserve what changed.
+
+This is how the old shop scaled without becoming merely a school.
+
+The commission remained real.
+
+Modern knowledge work needs the same gravity.
+
+The master should be close enough to the object that standards remain more than language.
+
+The apprentice should be close enough that correction becomes experience.
+
+The agent should be close enough to both that intelligence attaches to the work rather than floating above it as generic advice.
+
+The best workshops will feel less like software deployment and more like craft returning to the center of the organization.
+
 The scarce resource will be masters worth apprenticing to.
