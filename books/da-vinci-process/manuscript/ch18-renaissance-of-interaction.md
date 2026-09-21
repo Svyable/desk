@@ -942,4 +942,24 @@ What can this relationship now make possible that neither participant could reli
 
 When the answer keeps becoming more demanding, the workshop is alive.
 
+The test is not whether the machine looks like Leonardo.
+
+It is whether the workshop makes more people capable of doing work that deserves comparison with their own previous ceiling.
+
+That keeps the metaphor in its proper place.
+
+We do not need synthetic geniuses wearing historical costumes.
+
+We need better conditions for inquiry, craft, correction, and responsibility.
+
+The extraordinary possibility is not that every person becomes Leonardo.
+
+It is that far more people can build a workshop around the hardest question they are actually qualified to pursue, then become more qualified through pursuing it.
+
+That is a democratization of ambition rather than a democratization of genius.
+
+It is enough.
+
+Great periods are made not only by rare minds, but by systems that let rare effort travel farther.
+
 That is enough of a renaissance for me.
