@@ -630,6 +630,50 @@ The market will automate the old ladder automatically.
 
 Nobody will build the new one automatically.
 
+The new ladder also needs prestige.
+
+People will not pursue an apprenticeship path that the organization treats as leftover work for humans.
+
+If the cultural message is that important work belongs to machines and junior humans exist only to supervise edge cases, the best young people will rationally avoid the profession.
+
+Formation requires a visible future.
+
+The apprentice needs to see a path from supported contribution to meaningful authority.
+
+This is why titles, compensation, access to difficult problems, and mentorship still matter in an agentic organization.
+
+The ladder is partly economic and partly symbolic.
+
+Who gets to present the result?
+
+Who meets the client?
+
+Who owns the incident?
+
+Who is allowed to disagree with the model?
+
+Who can change the standard?
+
+These permissions tell the junior whether development is real.
+
+A company can claim to value human judgment while centralizing every consequential decision in a small senior group with increasingly powerful agents.
+
+That is not apprenticeship.
+
+It is aristocracy with software.
+
+A healthy workshop distributes growing responsibility deliberately.
+
+The novice does not merely become better at asking the machine.
+
+The novice becomes someone the institution trusts to set the commission.
+
+That is the promotion that matters.
+
+If the new middle can be rebuilt around progressive authority rather than repetitive production, the loss of old junior tasks could become a gain.
+
+But the path has to be visible enough that people will walk it.
+
 That is the master's responsibility.
 
 A system that produces great work today and nobody capable of judging it tomorrow is not productive.
