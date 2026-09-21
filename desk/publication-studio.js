@@ -179,6 +179,16 @@ function closeStudio() {
   else dialog.removeAttribute('open');
 }
 
+function activeCardIsCurrent() {
+  return !!(activeCard?.isConnected && activeCard.closest?.('#manuscriptList'));
+}
+
+function ensureActiveCardCurrent() {
+  if (activeCardIsCurrent()) return true;
+  closeStudio();
+  return false;
+}
+
 function bindPublicationStudio() {
   document.addEventListener('click', (event) => {
     const publish = event.target.closest('.publish-action');
@@ -197,16 +207,18 @@ function bindPublicationStudio() {
     }
 
     const epub = event.target.closest('.studio-export-epub');
-    if (epub && activeCard) {
+    if (epub) {
       event.preventDefault();
+      if (!ensureActiveCardCurrent()) return;
       const trigger = activeCard.querySelector('.export-epub-action');
       if (trigger) syncExportButton(epub, trigger, 'Download EPUB');
       return;
     }
 
     const html = event.target.closest('.studio-export-html');
-    if (html && activeCard) {
+    if (html) {
       event.preventDefault();
+      if (!ensureActiveCardCurrent()) return;
       const trigger = activeCard.querySelector('.export-kdp-action');
       if (trigger) syncExportButton(html, trigger, 'Download HTML');
       return;
@@ -222,6 +234,12 @@ function bindPublicationStudio() {
     if (dialog?.open || dialog?.hasAttribute('open')) closeStudio();
     else activeCard = null;
   });
+
+  for (const type of ['bookself:desk-workspace-loaded', 'bookself:desk-workspace-failed']) {
+    document.addEventListener(type, () => {
+      if (activeCard) closeStudio();
+    });
+  }
 }
 
 if (typeof document !== 'undefined') bindPublicationStudio();
