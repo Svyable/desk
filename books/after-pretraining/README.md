@@ -6,7 +6,7 @@
 |---|---|
 | **Authors** | Sven Hardy Benson |
 | **Status** | Drafting |
-| **Chapters** | 1 of 18 drafted |
+| **Chapters** | 2 of 18 drafted |
 
 For the first act of generative AI, the scarce input was text. Labs scraped, licensed, cleaned, filtered, and synthesized enormous corpora, then trained models to predict what came next.
 
@@ -26,7 +26,7 @@ This book follows both halves of that story.
 
 - [x] [Front Matter](manuscript/front-matter.md)
 - [x] [Ch 1 — One Rollout](manuscript/ch01-one-rollout.md)
-- [ ] Ch 2 — The Imitation Machine
+- [x] [Ch 2 — The Imitation Machine](manuscript/ch02-the-imitation-machine.md)
 - [ ] Ch 3 — Reward
 - [ ] Ch 4 — The Critic
 - [ ] Ch 5 — Games Without Teachers
