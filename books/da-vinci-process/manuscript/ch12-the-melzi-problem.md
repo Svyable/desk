@@ -738,6 +738,58 @@ Memory without time is collage.
 
 Custodianship turns collage back into history.
 
+There is an institutional test that follows from all of this: can memory survive disagreement about the past?
+
+Healthy organizations contain competing memories.
+
+The engineer remembers a rushed launch.
+
+The executive remembers a necessary launch.
+
+The customer remembers a broken promise.
+
+The finance team remembers the quarter that would have been missed.
+
+A single official summary may flatten all four into a sentence that satisfies nobody and teaches little.
+
+Agents make it possible to preserve the perspectives without forcing a future reader to absorb every transcript.
+
+The archive can say: these accounts agree on the event and disagree on its meaning.
+
+That is a sophisticated memory state.
+
+It allows the next decision-maker to inherit the conflict rather than a fake consensus.
+
+This is especially valuable after failures, when organizations have strong incentives to create a morally clean story.
+
+One cause.
+
+One lesson.
+
+One responsible party.
+
+Reality is often messier.
+
+The workshop should preserve enough mess to prevent the lesson from becoming mythology.
+
+A custodian does not guarantee that one story wins.
+
+A custodian guarantees that future intelligence has access to the evidence required to judge.
+
+That is why memory is not neutral storage.
+
+It is the preservation of future agency.
+
+Melzi's importance was not that he explained Leonardo once and forever.
+
+It was that enough of the material survived for later people to keep looking.
+
+The best agentic archive should have the same ambition.
+
+Not to end interpretation.
+
+To keep interpretation possible.
+
 The future workshop needs custodians who understand both halves of that sentence.
 
 A workshop that knows why it remembers can learn.
