@@ -264,4 +264,198 @@ It may be an agent.
 
 Usually it will be both.
 
+There is a further consequence of treating the notebook as part of cognition: the quality of memory changes the quality of originality.
+
+We often imagine originality as escape from precedent.
+
+In practice, original work frequently depends on remembering precedent accurately enough to depart from it on purpose.
+
+A scientist needs to know what has already been tried.
+
+A novelist needs to know the inherited form well enough to bend it.
+
+An engineer needs to know which old constraint is real and which is accidental.
+
+A strategist needs to know whether the "new" idea failed five years ago for a reason that no longer applies.
+
+Weak memory creates fake novelty.
+
+The organization rediscovers.
+
+The writer repeats.
+
+The model confidently proposes the abandoned plan.
+
+A good notebook does something more subtle than prevent repetition.
+
+It gives the future a better starting point.
+
+This is why the memory layer of an agentic workshop should preserve not only conclusions but unresolved edges.
+
+What did we not know?
+
+Which source disagreed?
+
+What experiment would have settled the question?
+
+What assumption was too expensive to test?
+
+These open loops are intellectual assets.
+
+A future agent can return when new evidence appears.
+
+A future human can recognize that an old question has become answerable.
+
+Without the unresolved state, memory becomes a cemetery of decisions.
+
+With it, memory becomes a research agenda.
+
+Leonardo's notebooks have this quality in abundance. Questions, drawings, observations, designs, and incomplete lines of inquiry sit near one another. The pages are not a clean database. That mess is part of their value because they preserve proximity among things a finished taxonomy would separate.
+
+Modern systems should not imitate the mess literally.
+
+They should preserve cross-links.
+
+A note about customer behavior may matter to pricing.
+
+A security incident may matter to product design.
+
+A legal interpretation may change the data architecture.
+
+A sentence from a user interview may invalidate a year's worth of internal assumptions.
+
+The better the agent, the more useful these latent relationships become because the machine can retrieve semantically across categories.
+
+This is one of the legitimate promises of model-mediated memory.
+
+It can surface a connection nobody remembered to index.
+
+But retrieval creates responsibility.
+
+A surprising connection is not a fact simply because the model found two similar passages.
+
+It is a hypothesis.
+
+The notebook should support serendipity without converting association into evidence.
+
+Again the distinction is status.
+
+Found.
+
+Related.
+
+Verified.
+
+Adopted.
+
+Rejected.
+
+A rich memory system should allow these states to coexist.
+
+There is another practical problem: memory has economics.
+
+Every durable record creates future review cost.
+
+Every source added to an agent's context competes with another source.
+
+Every outdated document increases the chance of stale retrieval.
+
+This means curation cannot be an afterthought performed only when the archive collapses.
+
+The workshop needs memory gardening.
+
+Merge duplicates.
+
+Mark superseded records.
+
+Delete what should expire.
+
+Promote important lessons.
+
+Archive temporary work.
+
+Reconfirm assumptions that still drive action.
+
+These are maintenance tasks, and intelligent agents are unusually suited to assisting with them because they can compare large corpora, detect contradictions, and propose consolidation.
+
+The human still needs to approve changes in meaning.
+
+An agent can notice that two policies conflict.
+
+It should not silently decide which policy survives.
+
+An agent can notice that a decision record depends on a source that has been updated.
+
+It should surface the dependency.
+
+An agent can propose that five notes represent one principle.
+
+The workshop should decide whether compression loses a useful exception.
+
+Memory work is editorial work.
+
+That is why Melzi will matter later in this book.
+
+Someone has to care what survives.
+
+The same is true at personal scale.
+
+A person using agents for years will accumulate a private body of judgments, examples, drafts, failures, and preferences. This can become a remarkable cognitive extension.
+
+It can also become a prison made of old selves.
+
+The agent remembers how you liked to write in 2026.
+
+You changed.
+
+The agent remembers the risk tolerance you had before a life event.
+
+You changed.
+
+The agent remembers a project as central because it once was.
+
+You moved on.
+
+Personal memory needs expiration and renegotiation too.
+
+The future collaborator should be able to ask: is this still true?
+
+That question is a form of respect.
+
+Human relationships work partly because people allow one another to change.
+
+Machine memory that treats past behavior as destiny can make personalization oppressive.
+
+The workshop therefore needs a right to revise identity.
+
+Standards can evolve.
+
+Preferences can be withdrawn.
+
+Old goals can be demoted.
+
+Mistakes can remain as lessons without remaining as labels.
+
+This is more than privacy, though privacy is essential.
+
+It is developmental freedom.
+
+A master is not the sum of previous prompts.
+
+A student is not the sum of previous errors.
+
+A workshop is not the sum of old process.
+
+Memory should provide continuity without eliminating becoming.
+
+That balance—continuity with revision—is one of the deepest design problems in long-running human-agent relationships.
+
+The notebook teaches it because the page is persistent while the hand keeps moving.
+
+The old mark remains.
+
+The next page can contradict it.
+
+A durable intelligence system should allow the same.
+
 The workshop begins to compound when neither has to begin again.
