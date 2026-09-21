@@ -506,6 +506,44 @@ Not new gates designed to protect incumbents.
 
 Ladders designed to make capability real.
 
+There is a final reason this matters for the agentic age.
+
+Apprenticeship makes ambition sequential.
+
+The young practitioner earns the right to attempt harder things because earlier work has changed what the practitioner can see.
+
+Agents tempt us to skip that sequence.
+
+The machine can jump immediately to the ambitious artifact.
+
+A book.
+
+An application.
+
+A legal analysis.
+
+A research plan.
+
+The human can therefore attempt work beyond prior experience before acquiring the judgment that used to precede the attempt.
+
+This is not inherently bad.
+
+It may be one of the great benefits.
+
+The safeguard is to make ambition recursive.
+
+Attempt the harder thing.
+
+Then use the harder thing to expose what you do not yet know.
+
+The project becomes the curriculum.
+
+This is closer to Leonardo's formation than any static course could be. Work opens questions. Questions demand new technique. New technique enlarges the next commission.
+
+The agent accelerates access to the next question.
+
+The human still has to become capable of carrying it.
+
 His apprenticeship reminds us that they were there.
 
 Leonardo was the apprentice.
