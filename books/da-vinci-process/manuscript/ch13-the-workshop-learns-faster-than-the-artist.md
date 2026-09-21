@@ -376,4 +376,264 @@ The artist learns.
 
 The workshop learns faster.
 
+There is a measurable version of the workshop-learning thesis beginning to appear in modern field research.
+
+The Procter & Gamble experiment often described as the "cybernetic teammate" is useful because it studied professionals doing product-development work where expertise normally lives in functions. Researchers examined hundreds of P&G employees and found that generative AI could reproduce some of the benefits associated with human collaboration and help people work beyond their usual functional boundaries.
+
+The result should be handled carefully. One company, one experimental setting, one generation of tools.
+
+Still, it points to a mechanism the workshop model predicts.
+
+AI can lower the transaction cost of accessing neighboring expertise.
+
+Organizations have always paid heavily for this.
+
+A good idea in R&D has to cross into marketing.
+
+A customer insight has to reach engineering.
+
+A legal constraint has to become product behavior.
+
+Each crossing requires translation.
+
+Translation consumes meetings.
+
+Meetings consume people.
+
+Some knowledge dies in the crossing.
+
+An agent can sit in the middle and help one function become intelligible to another.
+
+That is not glamorous.
+
+It can be enormously productive.
+
+The interesting question is what happens after enough crossings.
+
+The individual begins to internalize some of the neighboring domain.
+
+The marketing person learns which technical questions matter.
+
+The engineer learns which customer distinctions are real.
+
+The organization gets more than faster communication.
+
+It gets people with wider working models.
+
+This is how workshop intelligence can migrate into individuals.
+
+The opposite can happen too.
+
+If the agent handles every translation, the functions may become more isolated because nobody has to learn the neighbor's language.
+
+The interface becomes a diplomatic corps.
+
+The organization communicates while its people understand one another less.
+
+Once again the same technology can diffuse knowledge or route around learning.
+
+The design question is whether the translation remains inspectable.
+
+A good agent should sometimes explain the term rather than merely replace it.
+
+It should expose the assumption that one function would normally leave implicit.
+
+It should identify where two teams use the same word differently.
+
+These are semantic faults in the organization.
+
+They are common.
+
+"Customer."
+
+"Risk."
+
+"Launch."
+
+"Quality."
+
+"Revenue."
+
+"Ready."
+
+Different functions can use the same noun while referring to different realities.
+
+Human collaboration discovers this slowly through misunderstanding.
+
+Agents can discover it earlier if asked to compare the underlying definitions.
+
+This is another form of workshop learning.
+
+The organization becomes more articulate about itself.
+
+That matters because many failures attributed to communication are actually ontology failures.
+
+People are not failing to share information.
+
+They disagree about what kind of thing they are talking about.
+
+An agent that merely summarizes the meeting will preserve the confusion elegantly.
+
+An agent that identifies incompatible definitions can change the work.
+
+This is the difference between communication support and institutional cognition.
+
+The workshop model pushes toward the second.
+
+The agent should help the group notice itself thinking.
+
+This can extend to metrics.
+
+One team optimizes "active user" as daily login.
+
+Another defines active as a meaningful completed task.
+
+The dashboard combines them.
+
+The company believes a number.
+
+An agent with access to both definitions can flag the mismatch before the board sees the chart.
+
+This is learning embedded in coordination.
+
+The organization did not need a smarter individual.
+
+It needed a system able to keep meanings aligned.
+
+Renaissance workshops had a simpler but related problem. A large project required many hands to converge on one visual and material language. The work itself imposed coherence.
+
+Digital organizations need explicit equivalents because outputs can remain internally inconsistent while still looking polished.
+
+Shared schemas.
+
+Definitions.
+
+Standards.
+
+Decision records.
+
+Tests.
+
+The things dismissed as process infrastructure become cognitive infrastructure.
+
+Agents make them more valuable because agents can use them continuously.
+
+A definition written once can shape thousands of future interactions.
+
+This is leverage.
+
+It is also a reason to be careful about bad standards.
+
+An error encoded into the workshop can propagate farther than an error held by one person.
+
+This is institutional overfitting.
+
+A success becomes a template.
+
+The template becomes a rule.
+
+The rule becomes an agent instruction.
+
+The instruction generates more successes under similar conditions.
+
+The organization becomes increasingly confident in a pattern whose environment is quietly changing.
+
+A fast-learning workshop can therefore become a fast-dying one if it learns the wrong permanence.
+
+The antidote is not slower learning.
+
+It is forgetting tests.
+
+When should this lesson stop applying?
+
+What evidence would retire this rule?
+
+Which context produced the success?
+
+Where has the pattern already failed?
+
+These questions should attach to powerful internal knowledge.
+
+A rule with no retirement condition is a candidate for dogma.
+
+This is especially important when model-mediated systems turn informal culture into explicit prompts and policies.
+
+Culture used to decay naturally.
+
+People left.
+
+Stories changed.
+
+New leaders ignored old norms.
+
+This created waste and renewal.
+
+Machine memory can make culture unusually persistent.
+
+That can preserve excellence.
+
+It can also preserve yesterday's prejudice with perfect fidelity.
+
+The workshop must design renewal.
+
+External benchmarks.
+
+New hires with standing to challenge.
+
+Rotations.
+
+Different models.
+
+Independent sources.
+
+Periodic revalidation of core assumptions.
+
+These are ways to keep institutional learning from becoming institutional lock-in.
+
+The paradox is that the workshop becomes intelligent by learning and stays intelligent by remaining able to unlearn.
+
+Humans are bad at this because unlearning threatens identity.
+
+Machines can be bad at it because old context remains available.
+
+The combination will need discipline.
+
+There is one more consequence.
+
+When the workshop learns faster, the value of contribution becomes harder to assign.
+
+A lesson discovered by one worker may improve the performance of everyone through the agent layer. The original discovery creates spillovers far beyond the person's own output.
+
+Organizations should notice this.
+
+The employee who writes the excellent postmortem, creates the robust test, documents the exception, or teaches the agent a better standard may produce more value than the employee who closes one more ticket.
+
+Traditional productivity metrics can miss the contribution because the person appears slower locally.
+
+Workshop metrics should look for learning that propagates.
+
+Did this action improve future work?
+
+Did it reduce repeated error?
+
+Did it increase someone else's capability?
+
+This begins to resemble the economics of infrastructure.
+
+The bridge matters because many trips cross it.
+
+The lesson matters because many decisions inherit it.
+
+A Renaissance of interaction will need compensation and status systems that reward people who raise the floor for the whole workshop.
+
+Otherwise everyone will optimize personal output and nobody will maintain collective intelligence.
+
+That is the final requirement of the learning workshop.
+
+It must value teachers.
+
+Human and machine.
+
+Because a system that learns faster than its people and does not let the people share in the gain will eventually be resisted for good reason.
+
 The masterpiece comes from keeping both alive.
