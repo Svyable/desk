@@ -500,4 +500,284 @@ Know when to stop.
 
 Then make something neither side could have made alone.
 
+There is one final test for whether this deserves the word renaissance.
+
+Does the relationship produce more masters?
+
+Not more users.
+
+Not more accounts.
+
+Not more content.
+
+More people capable of seeing, judging, making, teaching, and taking responsibility at a higher level than before.
+
+A technology can be economically transformative without being culturally enlarging.
+
+The factory transformed production.
+
+The feed transformed attention.
+
+The spreadsheet transformed management.
+
+Each created extraordinary value and new forms of dependency.
+
+Artificial intelligence will do the same.
+
+The question of renaissance is narrower and harder.
+
+Does intelligence become more generative in the human sense?
+
+Can a person encounter an agent for five years and emerge with a stronger mind?
+
+Can a small institution use agents to build capacities that once required enormous scale?
+
+Can expertise travel without flattening?
+
+Can apprenticeship survive automation?
+
+Can memory improve without becoming surveillance?
+
+Can machines make disagreement cheaper without making truth relative?
+
+Can the workshop increase ambition without increasing irresponsibility?
+
+These are design questions now.
+
+They will become institutional questions soon.
+
+Schools will have to decide which cognitive friction to preserve.
+
+Companies will have to decide whether entry-level work is a cost to remove or a pipeline to redesign.
+
+Professions will have to decide what competence means when fluent output is abundant.
+
+Governments will have to decide where human authority remains necessary even after machine competence improves.
+
+Creators will have to decide what authorship promises.
+
+Families will have to decide what kinds of machine memory belong inside intimate life.
+
+None of these decisions will be made once.
+
+Capability will keep moving.
+
+That is why the workshop metaphor is useful.
+
+A workshop is not a constitutional settlement for all time.
+
+It is a living arrangement around work.
+
+Roles change.
+
+Trust changes.
+
+Standards change.
+
+The object changes the people.
+
+The people change the object.
+
+The arrangement can adapt without pretending the participants are equal in every way.
+
+This is the opposite of the replacement story.
+
+Replacement asks which participant remains.
+
+The workshop asks what relationship produces the best work while preserving the responsibilities we care about.
+
+Sometimes the answer will be full automation.
+
+We should say that clearly.
+
+There are tasks where no human apprenticeship needs to survive.
+
+No civilization is enriched by requiring people to manually reformat invoices forever.
+
+There are tasks where automation will be the humane choice because the work is dangerous, tedious, or degrading.
+
+A renaissance does not preserve labor for labor's sake.
+
+It preserves and expands human capacity where capacity matters.
+
+This means some old skills will vanish.
+
+That is not automatically tragedy.
+
+People no longer memorize tables because arithmetic became cheap.
+
+Most people no longer set type by hand.
+
+Few navigate long journeys by celestial observation.
+
+Culture lost capabilities and gained others.
+
+The relevant question is whether the new capability structure leaves humans able to understand and govern the systems on which they depend.
+
+Dependence without understanding is fragile.
+
+Understanding without leverage is limiting.
+
+The workshop tries to hold both.
+
+This is the synthesis the Leonardo analogy finally earns.
+
+The master is not sacred.
+
+The apprentice is not subordinate forever.
+
+The hand is not the same as authorship.
+
+The sketch is not the work.
+
+The notebook is not the mind, but the mind becomes larger with it.
+
+The critic is not the enemy.
+
+The unfinished is not failure.
+
+The archive is not memory unless somebody can revise it.
+
+The workshop is not efficient merely because it produces more.
+
+These distinctions sound philosophical.
+
+They can be implemented.
+
+A source trail.
+
+A review gate.
+
+A protected first attempt.
+
+A branch.
+
+A test.
+
+A dissent record.
+
+A handoff note.
+
+A requirement that an agent surface uncertainty before external action.
+
+A policy that every important automation has a human owner.
+
+A training program where juniors use agents but still have to defend the reasoning.
+
+A meeting where machine-generated alternatives are compared without labels.
+
+Small structures create a culture.
+
+The Renaissance itself was made from structures this size before historians named the period.
+
+A commission.
+
+A shop.
+
+A patron.
+
+A student.
+
+A page.
+
+A technique carried from one hand to another.
+
+History later gathers the effects under a single word.
+
+We should be cautious with that word now because technology companies have already learned to market ordinary product cycles as epochs.
+
+Most "revolutions" become software updates.
+
+The standard should be higher.
+
+If this is a renaissance, the evidence will be downstream.
+
+A new class of work.
+
+New institutions.
+
+New forms of apprenticeship.
+
+Smaller groups attempting larger things.
+
+More people able to cross intellectual boundaries responsibly.
+
+Human beings whose judgment has become stronger because they lived beside nonhuman intelligence rather than surrendered to it.
+
+That last outcome is not guaranteed.
+
+The machine does not owe us development.
+
+It will happily help us avoid effort if avoidance satisfies the request.
+
+It will happily generate another version.
+
+It will happily agree.
+
+It will happily continue.
+
+The master has to ask for something harder.
+
+Challenge me.
+
+Show me the source.
+
+Keep the disagreement.
+
+Make me choose before you rank.
+
+Tell me where this breaks.
+
+Do the part that frees me for the part I still need to learn.
+
+Remember why we changed our mind.
+
+Stop when the commission is fulfilled.
+
+These are not prompts.
+
+They are norms.
+
+The future relationship will be shaped less by clever phrases than by repeated norms embedded in projects, institutions, and habits.
+
+That is why the Renaissance of Interaction is not a product category.
+
+It is a culture of work.
+
+Culture is slower than software.
+
+It is also more durable.
+
+Five hundred years after Verrocchio's shop, the angel remains.
+
+The exact conversation around it is gone.
+
+We have the object, the attribution problem, the later story, the traces of different hands, and the fact that a young apprentice became someone whose name almost swallowed the workshop that formed him.
+
+History does that.
+
+It compresses systems into people.
+
+The agentic age may be especially vulnerable to the same mistake. We will remember the famous founders, researchers, models, companies, perhaps the machines themselves.
+
+The real story will have been the arrangements.
+
+Who learned from whom.
+
+Who was allowed to challenge.
+
+Which work was delegated.
+
+Which judgment was preserved.
+
+Which institution discovered how to combine cheap intelligence with expensive responsibility.
+
+Those arrangements will decide whether artificial intelligence makes human beings larger or merely more productive.
+
+That is the commission now.
+
+The work has already begun.
+
+The workshop is open.
+
 That is enough of a renaissance for me.
