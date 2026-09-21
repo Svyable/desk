@@ -622,6 +622,68 @@ The higher ceiling is not machine performance.
 
 It is the performance of a system where better evidence can change the person with the most authority.
 
+There is a practical way to train this response before status is threatened in public.
+
+Create machine-first domains where the human expects to lose.
+
+Chess players already do this.
+
+Programmers increasingly do it with narrow code tasks.
+
+Analysts can do it with retrieval and calculation.
+
+The point is psychological exposure.
+
+If a professional repeatedly sees a machine outperform them on bounded tasks, local inferiority becomes ordinary instead of existential.
+
+Then the interesting question moves upward.
+
+What did I miss?
+
+What did the system see?
+
+Does the result transfer?
+
+Where does the advantage stop?
+
+This may be an important leadership discipline because executives are rarely placed in environments where a subordinate is allowed to beat them repeatedly without social cost.
+
+Machines can create that environment.
+
+The benefit appears only if the human studies the loss.
+
+A benchmark score by itself teaches nothing.
+
+A comparison can.
+
+Why did the agent's answer dominate?
+
+More search?
+
+Different representation?
+
+Less attachment to the favored hypothesis?
+
+A pattern from another domain?
+
+If the mechanism is understood, the human can carry some of the gain forward.
+
+If the mechanism remains opaque, the workshop has learned only to defer.
+
+This is another reason explanation matters even when explanation is imperfect.
+
+The purpose is not for the model to narrate its hidden cognition.
+
+The purpose is to expose inspectable reasons: evidence used, tests passed, alternatives considered, assumptions that differ.
+
+The human can learn from those.
+
+Losing becomes productive when the difference is legible.
+
+A serious master should seek such losses.
+
+They are the cheapest signal that the workshop's ceiling has moved.
+
 The apprentice surpassing the master should not be the end of the workshop.
 
 It should be how the workshop discovers a higher ceiling.
