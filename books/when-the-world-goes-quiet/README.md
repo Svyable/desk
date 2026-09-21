@@ -12,7 +12,7 @@
 
 - [x] [Front matter](manuscript/front-matter.md)
 - [x] [01 — The Room Without Edges](manuscript/ch01-the-room-without-edges.md)
-- [ ] 02 — Hebb's Students
+- [x] [02 — Hebb's Students](manuscript/ch02-hebbs-students.md)
 - [ ] 03 — The Government Notices
 - [ ] 04 — Cameron's Rooms
 - [ ] 05 — KUBARK
