@@ -390,6 +390,248 @@ A Renaissance workshop measured success partly by whether it could continue beyo
 
 The modern workshop should too.
 
+The labor-market evidence is still early, but the pressure is no longer purely theoretical.
+
+The 2026 Stanford AI Index reports that the effects of AI are appearing unevenly and points in particular to hiring pipelines and younger workers in exposed occupations. It notes a sharp decline in employment among young software developers over the preceding period while also emphasizing that broad economy-wide job loss has not appeared in the same way.
+
+That is exactly the kind of signal that should make apprenticeship a live research problem.
+
+It does not prove AI caused every change in young developer employment. Labor markets move for many reasons. Technology hiring went through a broader cycle. The data does not allow a simple story.
+
+But the location of pressure matters.
+
+Entry points are where institutions can change first.
+
+A company does not have to fire the senior workforce to weaken the apprenticeship ladder.
+
+It can simply stop hiring the next cohort.
+
+Nothing looks broken immediately.
+
+The age distribution changes quietly.
+
+This is why organizations should track formation metrics alongside automation metrics.
+
+How many juniors are entering?
+
+What work are they doing?
+
+How quickly are they acquiring independent judgment?
+
+Which senior roles depend on experience the new pipeline no longer supplies?
+
+A workforce plan that counts only current productivity will miss the depletion.
+
+This is especially important in professions with long formation periods.
+
+Medicine.
+
+Advanced engineering.
+
+Research.
+
+Skilled trades.
+
+Law.
+
+Fields where ten years of apparent efficiency can create a future bottleneck that takes another decade to repair.
+
+The agentic workshop needs a succession model.
+
+Not because every existing job should be preserved.
+
+Because every required capability should have a formation path.
+
+This is a more precise way to think about workforce transition.
+
+Do not ask only which jobs disappear.
+
+Ask which capabilities the future system still needs humans to possess and how those humans will acquire them.
+
+Maybe the senior software engineer of 2035 writes far less code manually.
+
+Fine.
+
+How does that engineer learn architecture, debugging, operational judgment, security instinct, and the social reality of maintaining systems?
+
+Maybe the radiologist of 2035 spends less time screening normal images.
+
+Fine.
+
+How does the physician develop the perceptual model needed to challenge the system on the rare case?
+
+Maybe the lawyer generates routine research instantly.
+
+Fine.
+
+How does the lawyer learn which authority matters and how facts change doctrine?
+
+These are design questions.
+
+Professions can answer them deliberately.
+
+One method is simulation.
+
+Another is rotation through real cases with narrow responsibility.
+
+Another is apprenticeship around exceptions rather than routine.
+
+Another is periodic unaided work.
+
+Another is human review of machine failures specifically selected for training value.
+
+The future apprentice may spend less time doing the ordinary case and more time studying the boundary.
+
+This could create better experts.
+
+Routine volume has always been a crude teacher. A physician sees thousands of ordinary cases to gain enough exposure to recognize the unusual. An agent can help select and explain cases more intelligently.
+
+The training distribution can be designed.
+
+But selection creates another danger.
+
+The learner can become a connoisseur of edge cases without understanding normal reality.
+
+A security engineer who studies only attacks may design unusable systems.
+
+A doctor trained only on pathology can lose calibration about prevalence.
+
+An investor obsessed with spectacular failures may see catastrophe everywhere.
+
+The workshop needs representative experience and adversarial experience.
+
+The mix matters.
+
+Again the master becomes curriculum designer.
+
+This is one reason the phrase "AI replaces junior work" is too crude.
+
+Junior work contains several components.
+
+Some are clerical.
+
+Some are exposure.
+
+Some are repetition.
+
+Some are trust-building.
+
+Some are socialization into professional norms.
+
+Some are simply exploitation justified as training.
+
+Agents allow the components to be separated.
+
+That is an opportunity for reform.
+
+The law firm no longer needs to pretend that endless document formatting is character-building.
+
+The hospital can question whether residents need certain administrative burdens to become better doctors.
+
+The consulting firm can stop confusing sleep deprivation with apprenticeship.
+
+Remove the waste.
+
+Keep the formation.
+
+This may make early careers better.
+
+It will require institutions to pay explicitly for development rather than hiding the cost inside low-status production.
+
+That is a difficult transition because training has always been easier to fund when it also generates billable or sellable output.
+
+The economic model may need to change.
+
+Firms could treat apprenticeship as capital expenditure.
+
+Professional associations could share training infrastructure.
+
+Schools and employers could cooperate more closely.
+
+Agent-based simulation could reduce the marginal cost of practice enough to make deliberate training financially plausible.
+
+The important thing is to recognize that formation is an asset.
+
+Accounting rarely captures it well.
+
+The workshop cannot afford to ignore it.
+
+There is also a distributional question.
+
+If the best apprenticeship environments become proprietary, the labor market could split between people who have access to high-quality agentic formation and people who have access only to generic tools.
+
+The first group gets real cases, expert feedback, organizational memory, calibrated simulations, and increasingly consequential responsibility.
+
+The second gets answers.
+
+Both appear AI-enabled.
+
+Their trajectories diverge.
+
+This is the new apprenticeship inequality.
+
+It will not show up simply in who pays for a premium model. The differentiator is the surrounding workshop.
+
+Data.
+
+Examples.
+
+Mentors.
+
+Feedback.
+
+Permission to touch real work.
+
+A company with strong formation infrastructure can become a talent compounding machine.
+
+A company that uses agents only to reduce head count may become a talent liquidation machine.
+
+The short-run financial statements may favor the second.
+
+The long-run capability may favor the first.
+
+This is exactly the kind of tradeoff markets can underprice because the asset being consumed is intangible and delayed.
+
+Executives will need to make the cost visible deliberately.
+
+What expert roles are we consuming faster than we are replenishing them?
+
+What judgment depends on tacit experience?
+
+Where has the junior pipeline already narrowed?
+
+Which skills can be simulated and which require real responsibility?
+
+These questions belong in workforce planning as much as salary and head count.
+
+There is no reason to preserve a twentieth-century career ladder if a better one can be built.
+
+The new ladder may be shorter.
+
+It may be steeper.
+
+It may branch.
+
+It may allow a young worker to reach consequential problems earlier because the agent handles the clerical perimeter.
+
+That could be extraordinary.
+
+Imagine a junior scientist spending less time formatting data and more time thinking about experimental design.
+
+A young lawyer spending less time locating cases and more time understanding arguments.
+
+A new programmer spending less time on boilerplate and more time inspecting failure.
+
+The collapse of the middle can become the reconstruction of the middle.
+
+But only if the institution notices that a gap has opened.
+
+The market will automate the old ladder automatically.
+
+Nobody will build the new one automatically.
+
+That is the master's responsibility.
+
 A system that produces great work today and nobody capable of judging it tomorrow is not productive.
 
 It is liquidating.
