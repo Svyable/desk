@@ -278,6 +278,176 @@ Responsibility.
 
 Those are not seven steps. They overlap, recur, and sometimes belong to different people. They are simply places where the master can still change the fate of the work.
 
+Seeing the whole is not a mystical executive faculty.
+
+It can be designed.
+
+One useful way is to make every stream of delegated work return with a statement about what changed outside its own lane.
+
+The research agent does not merely return findings. It says which assumptions in the argument those findings weaken.
+
+The coding agent does not merely return a patch. It says which interface contracts or deployment assumptions the patch changes.
+
+The legal reviewer does not merely redline language. It explains which business behavior the redline would require.
+
+The financial model does not merely update the forecast. It identifies which strategic choice now carries a different downside.
+
+This forces local intelligence to report its global consequences.
+
+That is the missing move in many organizations.
+
+Specialists optimize the piece.
+
+The whole suffers in the seams.
+
+Agents can make the seam problem worse because they are easy to specialize. It is tempting to build one for every function, each with a narrow instruction and its own local measure of success.
+
+Soon the company has a synthetic bureaucracy.
+
+The marketing agent maximizes engagement.
+
+The support agent minimizes handle time.
+
+The sales agent maximizes conversion.
+
+The fraud agent minimizes loss.
+
+The compliance agent minimizes violations.
+
+Each can become more effective while the product becomes impossible to use.
+
+This is not an AI-specific failure. Organizations already behave this way. Agents simply allow local objectives to operate faster.
+
+The master of the whole needs conflict surfaces.
+
+Where two objectives meet, the tradeoff should become visible.
+
+Faster support may reduce learning from difficult cases.
+
+More fraud prevention may block good customers.
+
+Higher conversion may increase regret or churn.
+
+More legal caution may make a product unusable.
+
+The goal is not to resolve every tradeoff centrally.
+
+It is to keep the tradeoff from disappearing inside automation.
+
+This is why a commission should include tensions, not just targets.
+
+"Increase conversion without increasing thirty-day cancellations."
+
+"Reduce incident response time without weakening change controls."
+
+"Make the chapter more accessible without removing the uncertainty that the evidence requires."
+
+A single target invites local optimization.
+
+A tension forces judgment.
+
+Renaissance patrons often supplied tensions implicitly: magnificence under budget, devotional clarity within architectural constraints, novelty within iconographic expectation. The workshop's job was not merely to maximize one measurable variable.
+
+Human-agent systems will need the same multidimensionality.
+
+This leads to a more precise description of the master role.
+
+The master is the keeper of incompatible truths.
+
+We need speed and caution.
+
+Novelty and continuity.
+
+Scale and local knowledge.
+
+Automation and apprenticeship.
+
+Consistency and dissent.
+
+The novice response is to pick one.
+
+The managerial response is to create a process.
+
+The master response is to hold the conflict long enough for the work to find a form.
+
+Agents are useful here because they can externalize tradeoffs.
+
+Ask one to optimize for speed.
+
+Another for resilience.
+
+Another for accessibility.
+
+Another for cost.
+
+Then compare what each objective destroys.
+
+The human does not have to invent the tradeoff from scratch.
+
+The machine can make it vivid.
+
+This is a form of computational sketching at the level of values.
+
+It also exposes where the human has been vague.
+
+"Best" becomes impossible without weights.
+
+The agent can force the question: best for whom, over what time horizon, with what downside?
+
+That is not merely machine assistance.
+
+It is a discipline of authorship.
+
+The person whose name is on the work should be able to answer those questions better after using the agents than before.
+
+If not, the system has accumulated output without deepening the commission.
+
+There is an important organizational consequence.
+
+The master role may become temporary.
+
+On a surgical procedure, the surgeon owns the whole.
+
+On a software incident, the incident commander may.
+
+On a book, the author.
+
+On a complex product, no single person may possess enough context permanently, so the "master" becomes a governance structure rather than an individual.
+
+This does not break the metaphor.
+
+Historical workshops were organized around identifiable masters because the economic form favored that arrangement. Modern organizations can distribute the master function across a small group as long as responsibility is explicit.
+
+What cannot be distributed into fog is the authority to resolve the tradeoff.
+
+Committees often fail not because collective intelligence is weak, but because nobody knows who owns the irreversible decision.
+
+Agents will make it easy to produce endless analysis for such committees.
+
+The workshop needs a closer.
+
+Someone or some defined body must be able to say: this is the version we are making.
+
+That decision should leave a trace.
+
+Which alternatives existed?
+
+Which constraint dominated?
+
+Which evidence mattered?
+
+Who accepted the downside?
+
+Now authorship becomes institutional.
+
+The organization can explain why the work took this shape.
+
+This is what "seeing the whole" looks like when translated into practice.
+
+Not omniscience.
+
+Integration with authority.
+
 The future workshop will be crowded with intelligence.
 
 Its most important person may be the one who can still see the whole.
