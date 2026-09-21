@@ -26,7 +26,7 @@ Publication hold: culture from accretion ice is not direct culture from freely s
 
 Alekhina et al. characterized microbial diversity in kerosene-based drilling fluid from the Vostok borehole and identified organisms including Sphingomonas phylotypes. The paper explicitly frames drill fluid as a contamination problem for biological sampling.
 
-- *FEMS Microbiology Ecology*: https://doi.org/10.1111/j.1574-6941.2006.00234.x
+- *FEMS Microbiology Ecology*: https://doi.org/10.1111/j.1574-6941.2006.00271.x
 - Publisher page: https://academic.oup.com/femsec/article/59/2/289/550114
 
 This is central evidence. The contaminant is not hypothetical; the access system had a measurable microbiome.
@@ -112,3 +112,35 @@ For ultra-low-biomass life detection, design the contamination model before desi
 The book's central synthesis weakens if future pristine in-situ Lake Vostok samples yield abundant, spatially structured, reproducible communities whose taxa and molecular/isotopic signatures are cleanly separated from all access-system and laboratory backgrounds. That would not make contamination irrelevant, but it would move the lake far above the provenance floor.
 
 Conversely, if rigorous direct samples repeatedly collapse into the measured contaminant background, claims of a rich Vostok ecosystem should contract accordingly.
+
+## Source audit — the contaminant has a fingerprint
+
+The drilling-fluid paper gives the book something stronger than the generic warning that a drill can contaminate a sample. Alekhina et al. sampled fluid at four borehole depths and recovered six bacterial phylotypes from three samples. At 3400 and 3600 m, the two dominant phylotypes belonged to *Sphingomonas*, a genus known for degrading aromatic hydrocarbons. The remaining recovered phylotypes were associated with human or soil sources. The authors' conclusion was operational: biological work at Vostok needed a microbiological database of the drilling fluid because those organisms constituted candidate contaminants.
+
+Primary source:
+- Alekhina et al. (2007), *FEMS Microbiology Ecology* 59(2):289–299: https://doi.org/10.1111/j.1574-6941.2006.00271.x
+
+This changes the eventual scene. The rival hypothesis is not an invisible cloud called `contamination`. It has taxa, depth, chemistry and a habitat. A sequence recovered from lake-associated material should become less persuasive as an indigenous signal when it resembles organisms independently measured in the access system, especially when those organisms are ecologically suited to that system.
+
+### A correction to the existing ledger
+
+The existing citation for the drilling-fluid study used DOI suffix `00234.x`. The publisher record identifies the article as `10.1111/j.1574-6941.2006.00271.x`. Use the latter in manuscript notes and bibliography work.
+
+### The comparison must run both ways
+
+A contaminant database can exclude as well as implicate. If a lineage repeatedly appears in independently sampled lake-associated material, is absent from drilling fluid, reagent and laboratory controls, exhibits coherent spatial structure, and carries chemistry or isotopic evidence difficult to obtain from the access system, then the contamination model becomes more expensive. The book should not let `contamination` function as a universal solvent for inconvenient positives.
+
+The strongest counterargument is therefore methodological rather than rhetorical: the 2007 fluid survey itself was sparse—four depths, six recovered phylotypes, low-biomass amplification—and cannot be treated as a complete census of everything the borehole could introduce. Absence from that database is not proof of indigenous origin. The database is a measured prior, not an exhaustive blacklist.
+
+### Manuscript consequence
+
+Chapter 5, **The Contaminant List**, should make the contamination hypothesis earn specificity. For each disputed organism, ask whether it occurs in the access-system census, whether its abundance tracks borehole depth or handling history, whether it is metabolically plausible in kerosene/forane fluid, and whether independent blanks recover it. Then ask the inverse question: what observation would make the access-system explanation fail?
+
+That gives `blank-first` a harder form: **a useful blank is not merely negative; it is a positive model of the biological world the experiment itself carries into the sample.**
+
+### Publication holds
+
+- Do not describe the 2007 drilling-fluid survey as an exhaustive contaminant inventory.
+- Do not infer that every *Sphingomonas* detection in Vostok material is contamination merely because *Sphingomonas* occurred in the drilling fluid; strain-level identity, sample history and controls matter.
+- Do not use absence from the drilling-fluid survey as proof of indigenous origin.
+- Preserve the distinction between contamination demonstrated in the access system and contamination demonstrated in a particular sample.
