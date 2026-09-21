@@ -624,4 +624,36 @@ That is better.
 
 A master is someone who remembers.
 
+Taste also needs negative memory.
+
+Not only what the workshop loves.
+
+What it has learned to distrust.
+
+The argument that sounded profound and collapsed under sourcing.
+
+The interface pattern that tested well in a demo and confused real users.
+
+The beautifully abstract architecture that became impossible to operate.
+
+The sentence structure that always makes the author sound like someone else.
+
+These anti-examples create a boundary around quality.
+
+Agents are especially good at using them because a rejected pattern can be surfaced whenever a new draft begins to resemble it.
+
+The caution is obvious: old failures can become superstition.
+
+The workshop should remember why the example failed.
+
+"Never do this" is brittle.
+
+"This failed because these conditions were present" is knowledge.
+
+Taste matures when aversion becomes as articulate as preference.
+
+The master does not merely know what belongs.
+
+The master knows which seductions have already been paid for.
+
 And then, when the work proves the memory wrong, changes it.
