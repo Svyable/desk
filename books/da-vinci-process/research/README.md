@@ -158,3 +158,47 @@ Useful for adoption, productivity evidence, early workforce effects, and the sti
 - "AI makes novices experts." Some studies show disproportionate gains for less experienced workers on specific tasks; expertise is broader than task performance.
 - "AI always augments rather than automates." Usage classifications change by product, task, and period.
 - "The human will always be the master." This is exactly the proposition the book tests rather than assumes.
+
+
+### Additional 2025–2026 evidence used in the augmentation pass
+
+**National Gallery Technical Bulletin — Jill Dunkerton, "Leonardo in Verrocchio’s Workshop: Re-examining the Technical Evidence"**  
+https://www.nationalgallery.org.uk/technical-bulletin/dunkerton2011
+
+Technical/conservation evidence for Leonardo's early technique, its relationship to Verrocchio's workshop practice, and the collaborative/reworked nature of the *Baptism of Christ*. Useful for grounding the workshop argument in material evidence rather than Vasari alone.
+
+**Getty — Lives of Leonardo da Vinci (Davide Gasparotto interview)**  
+https://www.getty.edu/podcasts/art-and-ideas/lives-of-leonardo-da-vinci/
+
+Useful expert discussion of the unusually wide range of activities in Verrocchio's workshop—drawing, painting, terracotta modeling, and exposure to bronze casting—and why this mattered to Leonardo's formation.
+
+**Oreopoulos, Liut, Sungu, and Low — Making AI Tutoring Productive, NBER Working Paper 35621 (August 2026)**  
+https://www.nber.org/papers/w35621
+
+Randomized field experiment with more than 6,000 middle-school students. Useful for the book's distinction between assistance that bypasses effort and structured AI support that helps students reason through mistakes. The study population is school mathematics and should not be generalized to professional apprenticeship without qualification.
+
+**Cui et al. — The Effects of Generative AI on High-Skilled Work: Evidence from Three Field Experiments with Software Developers (2025)**  
+https://www.microsoft.com/en-us/research/publication/the-effects-of-generative-ai-on-high-skilled-work-evidence-from-three-field-experiments-with-software-developers/
+
+Randomized field experiments across Microsoft, Accenture, and another Fortune 100 company, covering 4,867 developers. The combined estimate reports higher completed-task rates with an AI coding assistant, with higher adoption and larger gains among less experienced developers. Useful for the apprenticeship/productivity tension.
+
+**U.S. Copyright Office — Copyright and Artificial Intelligence, Part 2: Copyrightability (January 2025)**  
+https://www.copyright.gov/ai/
+
+Current U.S. Copyright Office position used in the authorship chapter: AI assistance does not itself bar copyrightability, but human-authored expressive elements remain necessary; mere prompting does not automatically make generated expressive material human-authored. Legal doctrine can evolve, and the manuscript treats this as a U.S. legal reference rather than a universal theory of authorship.
+
+**Stanford HAI — AI Index Report 2026, Technical Performance and Economy**  
+https://hai.stanford.edu/ai-index/2026-ai-index-report/technical-performance  
+https://hai.stanford.edu/ai-index/2026-ai-index-report/economy
+
+Current capability and labor-market constraint. The report documents sharp gains in agentic computer-use benchmarks while agents still fail a substantial share of structured tasks. The economy chapter reports uneven labor-market effects and early pressure in some younger-worker pipelines. Use cautiously: these observations do not establish a single causal story for employment changes.
+
+**Dell'Acqua et al. / HBS AI Institute — The Cybernetic Teammate**  
+https://aiinstitute.hbs.edu/the-cybernetic-teammate-how-ai-is-reshaping-collaboration-and-expertise-in-the-workplace/
+
+Large field experiment at Procter & Gamble on AI, teamwork, expertise, and product-development work. Useful for the claim that AI may lower the transaction cost of crossing functional expertise boundaries. Keep the claim tied to the experiment's population and task design.
+
+**Anthropic Economic Index — Cadences (June 2026)**  
+https://www.anthropic.com/research/economic-index-june-2026-report
+
+Vendor telemetry showing a shift from short chat interactions toward longer-running agentic work in Claude Code and Cowork. Useful only as evidence about Anthropic's product population and interaction patterns, not as a census of the economy.
