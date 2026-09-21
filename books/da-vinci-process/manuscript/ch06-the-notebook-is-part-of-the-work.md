@@ -456,6 +456,72 @@ The old mark remains.
 
 The next page can contradict it.
 
+There is a final distinction worth making between memory and surveillance.
+
+A workshop needs enough history to improve the work.
+
+It does not need total capture of the worker.
+
+The easiest technical solution will often be to record everything because storage is cheap and future models may find the data useful.
+
+That creates a dangerous incentive.
+
+Every hesitation becomes a record.
+
+Every draft becomes evidence about the person.
+
+Every private question becomes part of a profile.
+
+A system designed to help someone learn can become a system that permanently scores the learning process.
+
+Historical apprenticeship was invasive in other ways, but it contained natural forgetting. A bad afternoon could disappear.
+
+Digital memory may not.
+
+The human-agent workshop should preserve the right to have scratch work that is genuinely scratch.
+
+Private drafts.
+
+Temporary reasoning aids.
+
+Questions that do not become identity.
+
+The project needs memory.
+
+The person needs room.
+
+This distinction can be implemented with separate scopes.
+
+Session memory.
+
+Project memory.
+
+Institutional record.
+
+Personal preference.
+
+Each should have different retention, access, and authority.
+
+Do not let the easiest database architecture decide the ethics.
+
+The notebook analogy helps because a notebook can belong to the thinker while selected conclusions enter the workshop.
+
+Leonardo's surviving pages are historically precious partly because they crossed that boundary after the fact.
+
+A modern organization should not assume the same right over every cognitive trace merely because a machine can capture it.
+
+Trust in the workshop will depend on this.
+
+People will not ask naïve questions if every question becomes a permanent evaluation.
+
+They will not experiment if every failed sketch is scored.
+
+The system that wants better learning must preserve safe incompletion.
+
+Memory should make the work smarter.
+
+It should not make the worker afraid to think.
+
 A durable intelligence system should allow the same.
 
 The workshop begins to compound when neither has to begin again.
