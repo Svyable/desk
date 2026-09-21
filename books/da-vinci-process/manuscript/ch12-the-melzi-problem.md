@@ -636,6 +636,70 @@ The archive serves the living.
 
 The living do not serve the archive.
 
+There is one more Melzi problem: format death.
+
+Ideas survive only if future systems can open them.
+
+Human history is full of records trapped in obsolete media, proprietary systems, damaged archives, lost indexes, and forgotten passwords. Agentic work will create new versions at astonishing speed.
+
+A company can build years of cognitive infrastructure inside one vendor's memory layer.
+
+Then the vendor changes.
+
+The export is partial.
+
+The retrieval behavior is different.
+
+The carefully accumulated workshop becomes a stranded asset.
+
+This is why durable memory should prefer portable evidence underneath intelligent interfaces.
+
+Plain documents where possible.
+
+Open formats.
+
+Stable identifiers.
+
+Version history.
+
+Explicit source links.
+
+Machine-readable metadata that another system can interpret.
+
+The conversational layer can change.
+
+The record should survive it.
+
+This is less exciting than model choice and may be more important over a decade.
+
+A master who builds a workshop should be able to change apprentices without burning the library.
+
+That creates negotiating power too.
+
+Organizations dependent on one model provider for memory, tooling, and workflow may discover that switching costs become cognitive rather than merely technical.
+
+The provider does not only host software.
+
+It hosts the organization's remembered way of working.
+
+Portability becomes strategic.
+
+The same is true for individuals.
+
+A writer, researcher, programmer, or small business owner may spend years building local context around an assistant.
+
+That history should not become a hostage.
+
+The workshop belongs to the work.
+
+The agent is a participant.
+
+This principle preserves continuity through technological change.
+
+Leonardo's papers survived the death of the master.
+
+Our records should survive the death of an interface.
+
 The future workshop needs custodians who understand both halves of that sentence.
 
 A workshop that knows why it remembers can learn.
