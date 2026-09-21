@@ -104,4 +104,18 @@ Avoid the easy "AI teaches itself" line. The system is always embedded in an env
 
 The broad audience hook is that the AI industry's most valuable resource may be changing. The first boom treated the internet as ore. The next may treat reality as a laboratory.
 
-That creates a book about technology, but also about ownership, work, institutions, measurement, and power.
+Two forces should carry the book.
+
+**The experience moat:** if a capable model becomes widely available, advantage can move toward the organizations that possess difficult-to-copy environments where agents can act, fail, receive credible feedback, and retain the resulting trajectories. A proprietary feedback loop can matter even when the underlying model is rented.
+
+**The measurement trap:** the same pressure that makes verifiable environments valuable gives organizations an incentive to redefine messy goals as scores. What can be scored becomes trainable. What becomes trainable attracts optimization. The danger is that the score can become easier to improve than the underlying reality.
+
+These forces create the commercial tension. Better learning from consequences can make agents dramatically more useful while increasing the value of operational access and the temptation to turn ambiguous human purposes into machine rewards.
+
+The book is therefore about technology, but also about ownership, work, institutions, measurement, and power.
+
+## Ending test
+
+The final chapter should leave the reader able to look at any new agentic system and ask five practical questions without needing the book's vocabulary: What can it actually do? What tells it that the action worked? Who owns the environment in which it learns? What does failure cost? What important part of the goal is missing from the score?
+
+If the manuscript reaches the end without changing how those questions feel, it has explained algorithms but failed as a book.
