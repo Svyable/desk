@@ -410,6 +410,218 @@ Taste is where experience becomes a standard.
 
 If the standard is outsourced completely, the world may become extraordinarily optimized for criteria nobody remembers choosing.
 
+Taste also has an economic history that becomes more important when production costs collapse.
+
+Scarce production hides weak selection.
+
+If a company can afford to make only three television commercials, almost any process will appear selective because scarcity imposes a filter. If a publisher can acquire only a certain number of books, choices become unavoidable. If a photographer has thirty-six exposures on a roll, each frame carries a small tax.
+
+Digital production removed many of these taxes.
+
+Generative production removes more.
+
+This means taste stops being partially enforced by budget.
+
+The workshop has to supply the filter consciously.
+
+That filter can become a competitive advantage.
+
+When everyone can generate competent work, the scarce institution may be the one that can refuse competent work.
+
+This is already familiar in luxury, publishing, venture capital, design, and research. Selection creates value because the field is too large to consume indiscriminately.
+
+Agents will enlarge the field.
+
+The ability to say no becomes more valuable.
+
+But "no" can harden into conservatism.
+
+A person with strong taste can become a prisoner of the canon that trained it.
+
+This is the hidden weakness of expertise.
+
+The expert recognizes quality partly because quality resembles successful precedent. Radical work may initially look incompetent.
+
+The master must therefore distinguish between violation and failure.
+
+Leonardo's own career makes the point symbolically. Techniques that now seem obviously "Leonardesque" were once deviations from local convention. A standard that cannot be violated cannot produce a new standard.
+
+This is where an agent can help the master most by locating unfamiliar precedent.
+
+Something that feels wrong may belong to another tradition.
+
+A design rejected as confusing in one domain may have a successful analogue elsewhere.
+
+A narrative move that seems too abrupt may resemble a form from journalism, theater, or oral storytelling.
+
+The agent can widen the canon faster than the human could.
+
+This does not replace taste.
+
+It gives taste more evidence before it closes.
+
+The sequence matters.
+
+First reaction.
+
+Then inquiry.
+
+Then decision.
+
+If inquiry comes first every time, the human loses the raw signal.
+
+If reaction becomes final every time, the human becomes provincial.
+
+The workshop preserves both.
+
+This suggests a richer use of recommendation systems inside creative work. Instead of asking the model to recommend "the best examples," ask it to bring examples that challenge the current standard.
+
+What respected works violate this rule?
+
+Where has the opposite choice succeeded?
+
+Which culture, field, or period solves this problem differently?
+
+Now the agent acts as an anti-canon.
+
+That can keep taste alive.
+
+Taste should have adversaries.
+
+There is another problem: machine-generated work can be optimized to human preference faster than humans can articulate why they like it.
+
+If a system produces hundreds of variants and learns from clicks, selections, edits, dwell time, and conversion, it can infer a preference surface.
+
+The human may begin seeing more of what the human tends to choose.
+
+This is convenient.
+
+It can also become aesthetic self-enclosure.
+
+A master whose workshop only serves familiar preference loses contact with surprise.
+
+The recommender becomes a mirror that gradually removes everything the mirror has not seen.
+
+This is already a problem in media and commerce.
+
+Agentic creation brings it inside the act of making.
+
+The model remembers your sentences.
+
+Your colors.
+
+Your pacing.
+
+Your argument structures.
+
+Your favored analogies.
+
+Soon "write like me" becomes easy.
+
+Then the danger is that you become easier to predict than to surprise.
+
+The workshop should deliberately inject outside influence.
+
+Another person's eye.
+
+A different model.
+
+A source from a field the current canon ignores.
+
+An adversarial constraint.
+
+A human collaborator who dislikes your defaults.
+
+Taste needs contamination.
+
+Renaissance workshops were not sealed. Artists moved. Designs circulated. Patrons imported expectations. Techniques crossed cities. Rivalries created pressure.
+
+Cultural fertility often comes from contact.
+
+The human-agent workshop can simulate some contact, but it should also seek real contact.
+
+Go look at the object.
+
+Talk to the reader.
+
+Work with the designer.
+
+Ask the scientist.
+
+Bring the agent into a world with people who do not share the prompt.
+
+This protects taste from becoming a closed-loop preference engine.
+
+There is also a moral dimension.
+
+Taste often masquerades as neutrality while encoding class, culture, training, and power.
+
+What counts as "professional" can exclude voices.
+
+What counts as "clean" design can privilege one audience.
+
+What counts as "serious" prose can erase humor, dialect, anger, or intimacy.
+
+Agents trained on broad patterns may reproduce dominant standards with extraordinary fluency.
+
+A master should know when the standard itself deserves critique.
+
+This is where taste becomes responsibility.
+
+The question is not simply: do I like this?
+
+Who is this standard serving?
+
+What does it make invisible?
+
+What does it punish?
+
+What human difference does it smooth away?
+
+This does not require turning every aesthetic decision into politics.
+
+It requires remembering that standards came from somewhere.
+
+A workshop can preserve distinctive voices only if it knows which irregularities are errors and which are identity.
+
+This is one of the hardest editorial tasks in machine-assisted writing because the model is often good at normalization.
+
+The author writes a strange but exact line.
+
+The system offers a smoother one.
+
+The smoother line receives a higher generic readability score.
+
+The book becomes worse.
+
+The master needs the courage to keep the difficult sentence.
+
+That courage comes from evidence accumulated in the craft.
+
+The sentence may be harder because the thought is harder.
+
+Or it may simply be bad.
+
+Taste is knowing which.
+
+No benchmark can settle every case.
+
+That is why taste remains a working skill rather than a final rulebook.
+
+The master keeps practicing it.
+
+The workshop keeps challenging it.
+
+The canon expands.
+
+The standard changes slowly enough to remain a standard and quickly enough to stay alive.
+
+This is not mystical.
+
+It is difficult.
+
+That is better.
+
 A master is someone who remembers.
 
 And then, when the work proves the memory wrong, changes it.
