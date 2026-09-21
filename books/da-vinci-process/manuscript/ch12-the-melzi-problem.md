@@ -406,4 +406,236 @@ A workshop that cannot remember will repeat itself.
 
 A workshop that cannot forget will fossilize.
 
+Custodianship becomes more complicated once the archive can act.
+
+A traditional archive waits.
+
+A future agentic archive can surface a warning, update a brief, reopen a task, notify a person, or prevent an action based on remembered context.
+
+Memory acquires agency.
+
+That changes the risk.
+
+A stale document sitting in a folder is a passive nuisance.
+
+A stale rule inside an active agent can become behavior.
+
+The organization decided three years ago that a certain vendor was prohibited.
+
+The vendor changed ownership and controls.
+
+Nobody updated the record.
+
+The agent continues blocking the relationship.
+
+Or the opposite: an old approval survives after the conditions that justified it have disappeared.
+
+Active memory turns maintenance into governance.
+
+Every durable instruction should therefore have an owner and, where appropriate, an expiration or review condition.
+
+This is familiar in security.
+
+Credentials expire.
+
+Certificates expire.
+
+Access can be revoked.
+
+Agentic context needs analogous concepts.
+
+A memory can be valid but no longer authoritative.
+
+A preference can remain historically true and operationally obsolete.
+
+A rule can be superseded.
+
+A decision can be reopened.
+
+These states prevent the archive from becoming a ghost executive.
+
+The ghost executive is a real organizational phenomenon even without AI.
+
+Someone once said no.
+
+Nobody remembers who.
+
+The no survives.
+
+Someone created a process after an incident.
+
+The incident disappears from memory.
+
+The process remains.
+
+A founder expressed a preference.
+
+Years later employees still repeat it as doctrine even after the founder changed her mind.
+
+Organizations are haunted by stale authority.
+
+Agents could exorcise some ghosts by showing provenance.
+
+They could also animate them.
+
+This makes custodianship a live job.
+
+Who is allowed to declare a memory superseded?
+
+Which records must be retained for legal reasons even if they should stop influencing decisions?
+
+How does an agent distinguish institutional history from current instruction?
+
+These are architecture questions.
+
+They are also political questions inside organizations.
+
+Memory confers power because remembered reasons can constrain present choices.
+
+The person who controls the archive can shape what counts as precedent.
+
+This was true of courts, churches, states, companies, and families long before machine intelligence.
+
+AI makes retrieval easier and therefore makes archival politics more consequential.
+
+A buried memo that once required hours to find can now appear in seconds.
+
+That can strengthen accountability.
+
+It can also make selective retrieval a weapon.
+
+An agent asked to justify a decision can search the archive for supporting precedent.
+
+Another agent can search for contradictions.
+
+The workshop should prefer the second posture.
+
+Memory should be interrogable from more than one direction.
+
+What supports this?
+
+What contradicts it?
+
+What changed since then?
+
+Who objected?
+
+What did the decision assume?
+
+This turns the archive from precedent machine into reasoning substrate.
+
+There is a useful analogy with legal systems. Precedent matters, but later courts distinguish cases. The old decision is not merely repeated. Its facts, reasoning, and authority are examined in relation to the current case.
+
+Agentic memory needs the ability to distinguish.
+
+A semantic match is not enough.
+
+The same phrase under different conditions can mean the opposite.
+
+The master should treat retrieved memory as an argument, not an instruction.
+
+That is another reason human cognition remains important around persistent systems. Humans are good at social and temporal context because we inhabit it. The agent may know the date. The human may know that the chief executive who wrote the memo was leaving, that the policy was politically temporary, or that everyone in the meeting understood the language as compromise.
+
+Some context will never make it into the archive.
+
+This is not a defect that can be eliminated completely.
+
+It is a reason to preserve people as living memory where possible.
+
+Succession should transfer both documents and relationships.
+
+The departing expert should be able to tell the successor which parts of the archive lie.
+
+Every archive lies a little.
+
+It contains what was recorded.
+
+Reality contained more.
+
+This humility matters when organizations become excited about "enterprise memory." No retrieval system can recover what nobody captured.
+
+The model may compensate by inference.
+
+That is precisely when it should become less confident.
+
+A blank is safer than an invented history.
+
+The Melzi function therefore includes protecting absence.
+
+We do not know.
+
+The record is incomplete.
+
+The rationale was not captured.
+
+The original participant disagrees with the written summary.
+
+These are valid memory states.
+
+An intelligent archive should be able to say them.
+
+This creates another strange role for the human custodian.
+
+The custodian preserves ignorance.
+
+That sounds absurd until one considers how often false certainty enters institutions through retrospective summary.
+
+A clean timeline is written.
+
+The unresolved debate disappears.
+
+The company now "knows" why it acted.
+
+Five years later an agent cites the summary as fact.
+
+The lie becomes durable.
+
+A good archive should preserve competing accounts when the disagreement matters.
+
+This is expensive for human readers.
+
+Agents make it more manageable because the archive can carry complexity while the interface serves the relevant slice.
+
+The future does not need one official story for every event.
+
+It can retain several and explain where they conflict.
+
+That is memory with depth.
+
+This may have cultural value beyond organizations.
+
+People increasingly live inside systems that record behavior continuously. Search histories, messages, photos, transactions, location traces, drafts, biometrics. AI can synthesize these into narratives about a person.
+
+The temptation will be to call the narrative memory.
+
+It is not.
+
+It is an interpretation of traces.
+
+A humane system must allow the person to contest it.
+
+You misunderstood.
+
+That event did not mean what the pattern suggests.
+
+I changed.
+
+I do not want this retained.
+
+The right to revise identity that appeared in the notebook chapter becomes a governance requirement here.
+
+A machine that remembers perfectly can become socially cruel if it denies the human right to move beyond an old self.
+
+Melzi preserved Leonardo's papers.
+
+He did not preserve Leonardo as a frozen prediction.
+
+That difference should remain.
+
+The archive serves the living.
+
+The living do not serve the archive.
+
+The future workshop needs custodians who understand both halves of that sentence.
+
 A workshop that knows why it remembers can learn.
