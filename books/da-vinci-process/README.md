@@ -2,6 +2,10 @@
 
 *Masters, Apprentices, and the Human-Agent Renaissance*
 
+<!-- bookself-reader-links:start -->
+**Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/da-vinci-process/)
+<!-- bookself-reader-links:end -->
+
 | | |
 |---|---|
 | **Authors** | Sven Hardy Benson |
