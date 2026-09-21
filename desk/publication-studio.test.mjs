@@ -89,3 +89,16 @@ test('export watchdog never re-enables a genuinely busy or terminal export', asy
   assert.match(source, /getAttribute\('aria-busy'\) === 'true'[\s\S]*?button\.disabled = true;[\s\S]*?setTimeout\(onWatchdog, 60000\)/);
   assert.match(source, /if \(\/downloaded\|failed\/i\.test\(text\)\)[\s\S]*?update\(\);[\s\S]*?setTimeout\(onWatchdog, 5000\)/);
 });
+
+
+test('Publication Studio refuses stale manuscript cards after workspace changes', async () => {
+  const source = await readFile(new URL('./publication-studio.js', import.meta.url), 'utf8');
+  assert.match(source, /function activeCardIsCurrent\(\)/);
+  assert.match(source, /activeCard\?\.isConnected/);
+  assert.match(source, /activeCard\.closest\?\.\('#manuscriptList'\)/);
+  assert.match(source, /function ensureActiveCardCurrent\(\)[\s\S]*?closeStudio\(\);[\s\S]*?return false;/);
+  assert.match(source, /studio-export-epub'[\s\S]*?!ensureActiveCardCurrent\(\)/);
+  assert.match(source, /studio-export-html'[\s\S]*?!ensureActiveCardCurrent\(\)/);
+  assert.match(source, /bookself:desk-workspace-loaded/);
+  assert.match(source, /bookself:desk-workspace-failed/);
+});

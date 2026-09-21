@@ -401,6 +401,10 @@ function validatePublicationInput() {
   return false;
 }
 
+export function isBooksDirectoryName(value) {
+  return String(value || '').trim().toLowerCase() === 'books';
+}
+
 async function saveStarterFolder() {
   if (!validatePublicationInput()) return;
   const bundle = currentBundle();
@@ -411,6 +415,10 @@ async function saveStarterFolder() {
   }
   try {
     const books = await window.showDirectoryPicker({ mode: 'readwrite' });
+    if (!isBooksDirectoryName(books?.name)) {
+      $('newPublicationHelp').textContent = 'Choose this repository’s books/ folder. No files were written.';
+      return;
+    }
     try {
       await books.getDirectoryHandle(bundle.slug);
       $('newPublicationHelp').textContent = `A folder named ${bundle.slug}/ already exists. Choose a different title before saving so Bookself does not overwrite an existing publication.`;

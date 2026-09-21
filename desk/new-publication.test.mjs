@@ -3,6 +3,7 @@ import { readFileSync } from 'node:fs';
 import {
   PUBLICATION_FORMATS,
   STARTER_PRESETS,
+  isBooksDirectoryName,
   buildPublicationFiles,
   catalogSnippet,
   crc32,
@@ -16,6 +17,10 @@ assert.equal(slugifyTitle('  The Café & Moon  '), 'the-cafe-and-moon');
 assert.equal(slugifyTitle('---'), 'my-publication');
 assert.ok(STARTER_PRESETS.some(([id]) => id === 'accessible'));
 assert.equal(Object.keys(PUBLICATION_FORMATS).length, 10);
+assert.equal(isBooksDirectoryName('books'), true);
+assert.equal(isBooksDirectoryName(' Books '), true);
+assert.equal(isBooksDirectoryName('desk'), false);
+assert.equal(isBooksDirectoryName(''), false);
 
 const canonicalResearch = readFileSync(new URL('../books/_TEMPLATE/research/README.md', import.meta.url), 'utf8');
 assert.equal(PUBLICATION_RESEARCH_README, canonicalResearch);
@@ -115,6 +120,7 @@ assert.match(source, /publication-research-starter\.js/);
 assert.match(source, /research\/README\.md/);
 assert.match(source, /form\.checkValidity\(\)/);
 assert.match(source, /form\.reportValidity\(\)/);
+assert.match(source, /!isBooksDirectoryName\(books\?\.name\)[\s\S]*No files were written\.[\s\S]*return;/);
 assert.match(source, /getDirectoryHandle\(bundle\.slug\)[\s\S]*already exists[\s\S]*return;/);
 assert.match(source, /document\.body\.appendChild\(a\)[\s\S]*a\.remove\(\)[\s\S]*revokeObjectURL\(url\), 1000/);
 assert.match(source, /prefers-reduced-motion: reduce/);
