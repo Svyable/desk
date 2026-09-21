@@ -52,6 +52,17 @@ test('buildKdpHtml creates a title page, linked contents, and chapter breaks', (
 test('HTML remote reads ignore unsaved repository-switcher text', async () => {
   const source = await readFile(new URL('./kdp-export.js', import.meta.url), 'utf8');
   assert.doesNotMatch(source, /getElementById\(['"]repoInput['"]\)/);
-  assert.match(source, /api\.github\.com\/repos\/\$\{workspace\.owner\}\/\$\{workspace\.repo\}/);
+  assert.match(source, /api\.github\.com\/repos\/\$\{repo\.owner\}\/\$\{repo\.repo\}/);
+  assert.match(source, /const branch = await remoteBranch\(workspace\)/);
   assert.match(source, /raw\.githubusercontent\.com\/\$\{workspace\.owner\}\/\$\{workspace\.repo\}/);
 });
+
+
+const source = await import('node:fs').then(({ readFileSync }) =>
+  readFileSync(new URL('./kdp-export.js', import.meta.url), 'utf8')
+);
+assert.match(source, /const branchCache = new Map\(\)/);
+assert.match(source, /if \(branchCache\.has\(key\)\) return branchCache\.get\(key\)/);
+assert.match(source, /branchCache\.set\(key, branch\)/);
+assert.match(source, /const branch = await remoteBranch\(workspace\)/);
+assert.equal((source.match(/https:\/\/api\.github\.com\/repos\//g) || []).length, 1, 'remote branch metadata lookup should be centralized');

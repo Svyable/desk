@@ -213,6 +213,21 @@ function currentWorkspace() {
   return { remote: false };
 }
 
+const branchCache = new Map();
+
+async function remoteBranch(repo) {
+  const key = `${repo.owner}/${repo.repo}`;
+  if (branchCache.has(key)) return branchCache.get(key);
+  const response = await fetch(`https://api.github.com/repos/${repo.owner}/${repo.repo}`, {
+    headers: { Accept: 'application/vnd.github+json' },
+  });
+  if (!response.ok) throw new Error('Could not read repository metadata');
+  const meta = await response.json();
+  const branch = meta.default_branch || 'main';
+  branchCache.set(key, branch);
+  return branch;
+}
+
 async function readText(path) {
   const workspace = currentWorkspace();
   if (!workspace.remote) {
@@ -221,12 +236,7 @@ async function readText(path) {
     return response.text();
   }
 
-  const metaResponse = await fetch(`https://api.github.com/repos/${workspace.owner}/${workspace.repo}`, {
-    headers: { Accept: 'application/vnd.github+json' },
-  });
-  if (!metaResponse.ok) throw new Error('Could not read repository metadata');
-  const meta = await metaResponse.json();
-  const branch = meta.default_branch || 'main';
+  const branch = await remoteBranch(workspace);
   const encodedPath = path.split('/').map(encodeURIComponent).join('/');
   const response = await fetch(`https://raw.githubusercontent.com/${workspace.owner}/${workspace.repo}/${branch}/${encodedPath}`, { cache: 'no-store' });
   if (!response.ok) throw new Error(`Could not read ${path}`);
