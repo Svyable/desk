@@ -286,4 +286,60 @@ What happens next is the process.
 
 The master trained the apprentice who could become Leonardo.
 
+The conservation evidence makes the story even better because it weakens the mythology and strengthens the process.
+
+National Gallery technical work on Leonardo's training has argued that several aspects of his early painting technique appear to grow directly from Verrocchio's practice, including underdrawing and methods of modelling form. It also complicates any attempt to draw a bright line through *The Baptism of Christ*. The painting was worked on over time; Leonardo's contribution was not simply a sealed exercise placed beside the master's untouched work.
+
+That is closer to how collaboration actually develops.
+
+The apprentice learns the master's method.
+
+Then modifies it.
+
+Then the object becomes difficult to partition cleanly.
+
+Human-agent work will produce the same attribution problem in another medium.
+
+The machine may begin inside the human's structure, then suggest a change that causes the human to rewrite the structure, which changes the next machine output. After several cycles, asking which side "made" the result can become less informative than reconstructing the interaction.
+
+This does not erase attribution.
+
+It changes what deserves attribution.
+
+A factual discovery can still have a source.
+
+A sentence can still have an origin.
+
+A decision can still have an owner.
+
+But the work as a whole may emerge from repeated mutual alteration.
+
+That is why the angel story is a better opening than a benchmark.
+
+A benchmark isolates performance.
+
+A workshop integrates it.
+
+The benchmark asks whether the model wins.
+
+The workshop asks whether the result becomes better and whether the humans around it become more capable of producing the next result.
+
+Those are different measures.
+
+They will sometimes disagree.
+
+A system can dominate a benchmark and create a terrible organization if people become unable to challenge it.
+
+A weaker system can create more value if its outputs expose decisions clearly and make the humans around it sharper.
+
+Capability matters.
+
+Relationship design multiplies or wastes capability.
+
+This is the central wager of the book.
+
+The next renaissance will not be caused merely by having more intelligence available.
+
+It will come, if it comes, from learning how to arrange intelligence around consequential work.
+
 We should want our workshops to produce that kind of problem.
