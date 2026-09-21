@@ -876,4 +876,70 @@ That is where renaissances begin: not with the label, but with people discoverin
 
 The workshop is open.
 
+There is a measurement problem hidden inside that hope.
+
+Productivity will show up first.
+
+Hours saved.
+
+Tasks completed.
+
+Costs reduced.
+
+Those numbers will matter and they will be easier to collect than the outcomes this book cares about most.
+
+Did the analyst become better at distinguishing evidence from confidence?
+
+Did the junior engineer become capable of owning a system sooner?
+
+Did the writer attempt a book that would otherwise have remained a notebook?
+
+Did the laboratory preserve a failed path well enough that another team did not repeat it?
+
+Did a small institution gain access to a level of craft previously available only to a large one?
+
+These are slower measures.
+
+Some are qualitative.
+
+That does not make them unreal.
+
+Organizations measure what their accounting systems can see and then begin believing that what is visible is what matters.
+
+The human-agent workshop should keep a second ledger.
+
+Capability created.
+
+Judgment transferred.
+
+Mistakes caught earlier.
+
+Ambition expanded.
+
+Knowledge preserved.
+
+People promoted into real responsibility.
+
+If those measures stay flat while output explodes, the workshop is automating rather than becoming.
+
+Automation can still be valuable.
+
+It is simply a different achievement.
+
+A renaissance should raise the ceiling of human and institutional possibility.
+
+That is the standard worth carrying forward because it resists the hype cycle.
+
+Models will change.
+
+Benchmarks will be replaced.
+
+Today's astonishing demo will become tomorrow's button.
+
+The deeper question survives technological turnover.
+
+What can this relationship now make possible that neither participant could reliably make possible before?
+
+When the answer keeps becoming more demanding, the workshop is alive.
+
 That is enough of a renaissance for me.
