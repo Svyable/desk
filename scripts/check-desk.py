@@ -215,21 +215,21 @@ hosted_workflows = sorted(
 for workflow_path in hosted_workflows:
     workflow = workflow_path.relative_to(ROOT)
     workflow_text = workflow_path.read_text(encoding="utf-8")
-    if not re.search(r"(?m)^permissions:\\s*$", workflow_text):
+    if not re.search(r"(?m)^permissions:\s*$", workflow_text):
         fail(
             f"{workflow} must declare explicit read-only permissions; "
             "hosted CI is optional verification, not part of the publishing mechanism"
         )
         continue
     if (
-        re.search(r"(?mi)^\\s*permissions:\\s*write-all\\s*$", workflow_text)
-        or re.search(r"(?mi)^\\s+[a-z0-9_-]+:\\s*write\\s*(?:#.*)?$", workflow_text)
-        or re.search(r"(?mi)^\\s*permissions:\\s*\\{[^}]*\\bwrite\\b[^}]*\\}\\s*$", workflow_text)
+        re.search(r"(?mi)^\s*permissions:\s*write-all\s*$", workflow_text)
+        or re.search(r"(?mi)^\s+[a-z0-9_-]+:\s*write\s*(?:#.*)?$", workflow_text)
+        or re.search(r"(?mi)^\s*permissions:\s*\{[^}]*\bwrite\b[^}]*\}\s*$", workflow_text)
     ):
         fail(
             f"{workflow} requests write permissions; Desk hosted workflows must remain read-only"
         )
-    if not re.search(r"(?mi)^\\s+contents:\\s*read\\s*(?:#.*)?$", workflow_text):
+    if not re.search(r"(?mi)^\s+contents:\s*read\s*(?:#.*)?$", workflow_text):
         fail(
             f"{workflow} must grant contents: read so hosted verification cannot mutate Desk"
         )
