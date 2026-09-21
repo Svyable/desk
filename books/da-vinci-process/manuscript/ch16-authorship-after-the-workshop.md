@@ -692,4 +692,58 @@ The responsible author does not merely release.
 
 The author remains capable of revising the relationship between name and object when reality pushes back.
 
+There is also a commercial reason to care.
+
+When generated work becomes abundant, trusted names become more valuable.
+
+A reader can obtain unlimited text.
+
+A company can obtain unlimited recommendations.
+
+An investor can obtain unlimited analysis.
+
+The scarce question becomes: whose judgment do I want attached to this?
+
+That is brand in its deepest sense.
+
+Not recognition.
+
+Accountable selection.
+
+The author, adviser, physician, engineer, analyst, or institution becomes valuable because the audience expects a particular standard to have survived the workshop.
+
+AI can strengthen that brand if it allows the person to apply the standard more broadly.
+
+It can destroy the brand if volume outruns judgment.
+
+This creates a temptation every successful agentic creator will face.
+
+The system can make more.
+
+The audience may buy more.
+
+At what point does expansion dilute the promise?
+
+The answer is not moralistic restraint for its own sake.
+
+It is capacity planning for trust.
+
+A master can expand the workshop only while the standard remains recognizable in the work.
+
+Beyond that point, the name becomes licensing.
+
+The economic reward may continue for a while.
+
+The authorship has changed.
+
+This distinction will matter in media, professional services, education, software, and every field where a human reputation becomes the wrapper around machine-scale production.
+
+The winning strategy may not be maximum output.
+
+It may be maximum output that can still honestly carry the name.
+
+That is a harder ceiling.
+
+It is also a more durable business.
+
 It is a promise that someone is home.
