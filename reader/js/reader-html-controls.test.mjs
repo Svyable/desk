@@ -20,3 +20,9 @@ test('Reader toggle controls seed their inactive state honestly', async () => {
   assert.match(html, /id="nightLightBtn" aria-pressed="false" aria-label="Lamp off">Off<\/button>/);
   assert.match(html, /id="focusBtn" aria-pressed="false">Focus mode<\/button>/);
 });
+
+
+test('library search results announce async updates', async () => {
+  const html = await readFile(new URL('../index.html', import.meta.url), 'utf8');
+  assert.match(html, /id="libraryHits" aria-live="polite" hidden/);
+});
