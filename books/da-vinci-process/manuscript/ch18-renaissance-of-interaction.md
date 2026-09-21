@@ -778,6 +778,72 @@ That is the commission now.
 
 The work has already begun.
 
+The current evidence gives us reason for both ambition and restraint.
+
+The 2026 Stanford AI Index describes agents making large gains on computer-use benchmarks while still failing a substantial fraction of structured tasks. Anthropic's own economic telemetry shows its users moving from short chat interactions toward longer-running agentic work, while that telemetry remains exactly what it is: evidence from one company's product population, not a census of civilization.
+
+We are early.
+
+That is an advantage.
+
+Institutions have not yet hardened every bad habit into infrastructure.
+
+The social meaning of agentic work is not settled.
+
+The apprenticeship model is not settled.
+
+Authorship norms are not settled.
+
+The division between useful friction and obsolete friction is not settled.
+
+This is the period when practice can still shape expectation.
+
+The wrong lesson would be to wait until the technology becomes perfectly reliable before learning how to work with it.
+
+The other wrong lesson would be to treat current capability as proof that the institutional questions have already been solved.
+
+They have not.
+
+The workshop is an answer precisely because it is provisional.
+
+Try.
+
+Inspect.
+
+Correct.
+
+Change the permissions.
+
+Change the standard.
+
+Preserve what happened.
+
+Let capability earn trust.
+
+Let failure remove it.
+
+Keep the purpose visible.
+
+This is how a civilization can learn around a moving technology.
+
+Not by predicting the final form.
+
+By building relationships capable of revision.
+
+Leonardo never saw the world we are building.
+
+He does not need to have predicted it for the workshop to teach us something.
+
+The lesson is human-sized.
+
+Great work rarely comes from intelligence alone.
+
+It comes from intelligence arranged around an object, disciplined by material, corrected by others, preserved across time, and driven by standards strong enough to survive surprise.
+
+Now one of the others can be a machine.
+
+The rest of the problem remains ours.
+
 The workshop is open.
 
 That is enough of a renaissance for me.
