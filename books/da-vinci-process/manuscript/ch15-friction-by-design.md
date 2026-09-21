@@ -484,6 +484,234 @@ Not slowness.
 
 Concentration.
 
+Friction also has a temporal dimension.
+
+Some decisions deserve to be slow only the first few times.
+
+An apprentice sends every draft to the master.
+
+Later the apprentice learns the standard.
+
+Eventually the work moves without interruption unless something unusual appears.
+
+The workshop should evolve this way with agents too.
+
+A review gate that remains permanent after the risk is well understood becomes drag.
+
+A review gate that disappears before the capability is understood becomes negligence.
+
+The right question is not "human in the loop or not?"
+
+It is "what evidence earns a different loop?"
+
+This is trust as an empirical variable.
+
+The agent performs a class of task.
+
+The workshop records outcomes.
+
+Errors are classified.
+
+The human discovers which failures matter.
+
+Tests are added.
+
+Permissions change.
+
+The agent's autonomy expands in areas where the evidence supports expansion.
+
+This is much closer to apprenticeship than a binary automation switch.
+
+It also creates a path for reducing human review without pretending the machine has become infallible.
+
+Trust is scoped.
+
+Maybe the agent can merge documentation changes automatically after tests.
+
+Maybe it can deploy to staging but not production.
+
+Maybe it can issue refunds below a threshold but not close an account.
+
+Maybe it can draft a legal response but not send it.
+
+The workshop's authority map should look irregular because risk is irregular.
+
+This is the opposite of the one-button dream.
+
+It is more work to design.
+
+It is also how serious systems become trustworthy.
+
+There is a useful analogy in aviation. Automation is not valuable because the pilot disappears. It is valuable because specific functions become reliable enough to delegate while the system preserves ways to detect, intervene, and recover.
+
+The analogy should not be pushed too far; aircraft systems are deterministic in ways language-model agents are not. The underlying principle survives: autonomy should be attached to bounded competence and recoverable states.
+
+Recovery is the forgotten half of friction design.
+
+People focus on preventing mistakes.
+
+Workshops also need to survive them.
+
+Can the action be undone?
+
+Can the previous version be restored?
+
+Can a message be recalled?
+
+Can a payment be reversed?
+
+Can the model's changes be isolated before integration?
+
+Can the system explain what happened after the failure?
+
+Reversibility allows lower friction because the cost of error is bounded.
+
+This is why version control is such a powerful pattern for agentic work.
+
+Let the apprentice work on a branch.
+
+Inspect the difference.
+
+Run tests.
+
+Merge.
+
+The same logic can be generalized beyond code.
+
+Draft state before publication.
+
+Simulation before live action.
+
+Sandbox before production.
+
+Proposed transaction before settlement.
+
+The agent gets freedom inside a container.
+
+The master controls the boundary.
+
+This is not distrust.
+
+It is an architecture that makes trust cheaper.
+
+The safest workshop is not the one where nobody can make mistakes.
+
+It is the one where mistakes remain legible and recoverable long enough to learn from.
+
+This principle matters because current agent benchmarks show a strange combination. Capability is improving rapidly, but structured agent tasks still contain substantial failure rates. Stanford's 2026 AI Index reports large gains on computer-use benchmarks while noting that agents still fail roughly one in three attempts on some structured evaluations.
+
+That is not a reason to dismiss the systems.
+
+It is a reason to design for retries, checkpoints, and verification.
+
+A system that succeeds two times out of three can be extremely useful in a reversible environment.
+
+It can be catastrophic in an irreversible one.
+
+Reliability is not one number.
+
+It is capability multiplied by consequence.
+
+The workshop should route tasks accordingly.
+
+This also helps resolve an argument that often becomes ideological.
+
+One group sees failure cases and says agents are not ready.
+
+Another sees impressive successes and says human review is obsolete.
+
+Both are asking for one verdict across many environments.
+
+The workshop asks a narrower question.
+
+Ready for what?
+
+Under what guardrails?
+
+With what rollback?
+
+At what cost of error?
+
+That is how engineering replaces rhetoric.
+
+Friction should follow the answers.
+
+There is a human version of rollback too.
+
+A person should be allowed to change a decision without losing status.
+
+This is important because rigid status can create irreversible psychology. A leader makes a call publicly and then defends it long after evidence changes because reversal feels like defeat.
+
+A workshop culture can lower that cost.
+
+The decision was made under these assumptions.
+
+The assumptions changed.
+
+We are reverting.
+
+This is the social equivalent of a safe rollback.
+
+Agents can help by preserving the original rationale, making the change legible rather than humiliating.
+
+This may improve leadership.
+
+A master who can reverse cleanly can make decisions earlier.
+
+The cost of commitment falls when reversal is possible.
+
+That can speed the workshop without reducing care.
+
+There is an elegant symmetry here.
+
+Good friction slows the irreversible.
+
+Good rollback speeds the reversible.
+
+The best workshop uses both.
+
+It is not uniformly cautious.
+
+It is asymmetrically cautious.
+
+This is how a human can supervise more intelligence without becoming the bottleneck.
+
+The agent runs quickly inside safe territory.
+
+The human appears where the territory changes.
+
+This is exactly the opposite of current approval fatigue, where humans are summoned for routine confirmations and then too exhausted to notice the exceptional one.
+
+The future interface should be quiet most of the time.
+
+When it interrupts, the interruption should mean something.
+
+That is a high bar.
+
+It requires the system to know what is normal, what is risky, what is ambiguous, and what has changed.
+
+It requires the workshop to keep those categories updated.
+
+Friction is therefore not a feature that gets installed.
+
+It is a living map of consequence.
+
+The map becomes part of mastery.
+
+A great operator knows where the work can flow.
+
+A great editor knows which sentence needs an hour.
+
+A great engineer knows which migration deserves a rehearsal.
+
+A great physician knows which uncertainty can wait and which cannot.
+
+Agents can increase the number of decisions in motion.
+
+The human contribution is not to slow them all.
+
+It is to know where time becomes intelligence.
+
 The future will be full of systems advertising zero friction.
 
 The best workshops will know where zero friction is a defect.
