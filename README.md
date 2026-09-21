@@ -9,13 +9,13 @@ Desk is the working library for Sven Hardy Benson’s books: drafts, complete ma
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 135 book projects · 64 complete drafts · 3 in revision · 68 drafting**
+> **Desk: 136 book projects · 65 complete drafts · 3 in revision · 68 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
 > **Shelf: 58 author projects · 56 released · 2 public drafts/proofs**
-> **Where they live: 58 in both Desk + Shelf · 77 Desk-only · 0 Shelf-only**
-> **Release review queue: 13 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
+> **Where they live: 58 in both Desk + Shelf · 78 Desk-only · 0 Shelf-only**
+> **Release review queue: 14 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
 |---|---|---|---|
@@ -28,6 +28,7 @@ Desk is the working library for Sven Hardy Benson’s books: drafts, complete ma
 | [**Artificial Identity**](books/artificial-identity/) | ✍️ Drafting | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/artificial-identity/) |
 | [**Austerity Measures**](books/austerity-measures/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/austerity-measures/) |
 | [**Commit**](books/commit/) | ✅ Complete expanded draft · publication candidate | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/commit/) |
+| [**Da Vinci Process**](books/da-vinci-process/) | ✅ Complete first draft · editorial review pending | 18 of 18 | 66,254 | Its central wager is that the next renaissance will not be measured by the quantity of automated output. | [Read →](https://svyable.github.io/desk/reader/#/b/da-vinci-process/) |
 | [**Deceptatron**](books/deceptatron/) | ✅ Complete first draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/deceptatron/) |
 | [**Energy, Value & Intelligence**](books/energy-value-intelligence/) | ✍️ Drafting | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/energy-value-intelligence/) |
 | [**Face The Strange**](books/face-the-strange/) | ✅ Complete draft · Published on Shelf | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/face-the-strange/) |
@@ -78,7 +79,7 @@ Desk is the working library for Sven Hardy Benson’s books: drafts, complete ma
 | [**Who Taught America?**](books/who-taught-america/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/who-taught-america/) |
 | [**Wild Speculation**](books/wild-speculation/) | ✅ Complete draft · Published on Shelf | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/wild-speculation/) |
 
-**Desk-only complete drafts awaiting an explicit release decision:** [Bookself](books/bookself/), [The Alliance Advantage](books/the-alliance-advantage/), [The Books That Wrote America](books/the-books-that-wrote-america/), [The Crime That Made the Decade](books/the-crime-that-made-the-decade/), [The Half-Life of Now](books/the-half-life-of-now/), [The Last Human Channel](books/the-last-human-channel/), [The Longevity Moment](books/the-longevity-moment/), [The Taiwan Threshold](books/the-taiwan-threshold/), [Third Language](books/the-third-language/), [The Unobserved World](books/the-unobserved-world/), [Visitors](books/the-visitors/), [The Warning Problem](books/the-warning-problem/), [The World Won’t Choose Sides](books/the-world-wont-choose-sides/)
+**Desk-only complete drafts awaiting an explicit release decision:** [Bookself](books/bookself/), [Da Vinci Process](books/da-vinci-process/), [The Alliance Advantage](books/the-alliance-advantage/), [The Books That Wrote America](books/the-books-that-wrote-america/), [The Crime That Made the Decade](books/the-crime-that-made-the-decade/), [The Half-Life of Now](books/the-half-life-of-now/), [The Last Human Channel](books/the-last-human-channel/), [The Longevity Moment](books/the-longevity-moment/), [The Taiwan Threshold](books/the-taiwan-threshold/), [Third Language](books/the-third-language/), [The Unobserved World](books/the-unobserved-world/), [Visitors](books/the-visitors/), [The Warning Problem](books/the-warning-problem/), [The World Won’t Choose Sides](books/the-world-wont-choose-sides/)
 <!-- SHELF_SUMMARY:END -->
 
 Some books here are only a chapter or two into existence. Others are complete manuscripts still being edited, tested, or reconsidered. That is intentional. **Desk shows the work in motion instead of pretending every book is at the same stage.**
