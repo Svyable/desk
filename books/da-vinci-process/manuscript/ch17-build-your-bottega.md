@@ -826,4 +826,52 @@ The machines will bring speed.
 
 Your job is to bring direction worth accelerating.
 
+There is an economic stopping rule for the bottega too.
+
+Add an agent only when its expected contribution exceeds the review and coordination it creates.
+
+This sounds obvious and is easy to violate because generation cost is visible while attention cost is hidden.
+
+A new agent can produce twenty analyses cheaply.
+
+The principal now has twenty analyses to reconcile.
+
+If the work requires ten minutes of generation and three hours of human comparison, the expensive resource was never compute.
+
+It was judgment.
+
+This means the one-person company of the agentic era will not necessarily be the person running the most automation.
+
+It may be the person with the best ratio of machine production to human attention.
+
+A disciplined operator keeps the number of active streams below the point where integration quality collapses.
+
+This is the personal version of organizational span of control.
+
+There is no universal number.
+
+The limit depends on how standardized the work is, how good the tests are, how independent the streams are, and how consequential the decisions become.
+
+The workshop should notice when review debt accumulates.
+
+Unread agent reports.
+
+Unmerged branches.
+
+Decisions deferred because too many options exist.
+
+Context that no longer fits in the principal's head.
+
+These are signs that synthetic capacity has outrun human integration.
+
+Do not add another apprentice.
+
+Close loops.
+
+The great promise of agents is not infinite parallelism.
+
+It is selective parallelism under coherent judgment.
+
+The bottega remains a workshop only while the work can still come back together.
+
 Then attempt something that would have been unreasonable before the workshop existed.
