@@ -446,6 +446,62 @@ This is what "seeing the whole" looks like when translated into practice.
 
 Not omniscience.
 
+There is a cost to integration that becomes visible only after delegation succeeds.
+
+Every specialist produces a local truth.
+
+The researcher knows the evidence.
+
+The lawyer knows the constraint.
+
+The engineer knows the system.
+
+The salesperson knows the customer.
+
+The agent can make each stream faster.
+
+Somebody still has to resolve contradictions among them.
+
+That work does not scale automatically with the number of contributors.
+
+In fact, it can get harder.
+
+The more intelligence the workshop contains, the more interfaces it creates.
+
+This is the coordination tax of abundance.
+
+A human principal with ten agents may produce less than one with three if the ten agents create incompatible assumptions faster than the principal can reconcile them.
+
+The relevant measure is therefore not tasks completed per hour.
+
+It is unresolved dependency.
+
+How many decisions in one stream depend on facts or choices in another?
+
+How quickly are those dependencies surfaced?
+
+Who owns the collision?
+
+A mature workshop makes dependencies explicit before they become cleanup.
+
+The research conclusion links to the chapter it changes.
+
+The security constraint links to the design decision it blocks.
+
+The budget assumption links to the scope it limits.
+
+This is how the whole remains visible without requiring the master to hold every detail in working memory.
+
+The master sees the joints.
+
+That may be the most practical definition of "seeing the whole": knowing where local excellence can no longer be evaluated locally.
+
+At the joint, authority has to appear.
+
+The workshop can automate enormous amounts of work between joints.
+
+The joints are where the human earns the name on the door.
+
 Integration with authority.
 
 The future workshop will be crowded with intelligence.
