@@ -660,4 +660,36 @@ The workshop can still earn the name.
 
 But only if the bond between name and responsibility remains real.
 
+The promise has another implication.
+
+The author must be reachable by criticism.
+
+A work that carries a human name but cannot be questioned by the human behind it is authorship in the thinnest sense.
+
+This matters as people begin publishing machine-assisted expertise at volumes no ordinary person could have produced unaided.
+
+The test should not be whether the author can recall every sentence.
+
+It should be whether criticism can travel back into the workshop.
+
+A reader identifies an error.
+
+Does the author investigate?
+
+A source disputes the interpretation.
+
+Can the evidence be reopened?
+
+A machine-generated passage turns out to reproduce a weak assumption.
+
+Can the work be corrected without blaming the tool?
+
+Authorship includes maintenance.
+
+That has always been true for living professional work, but agentic production raises the volume of possible correction.
+
+The responsible author does not merely release.
+
+The author remains capable of revising the relationship between name and object when reality pushes back.
+
 It is a promise that someone is home.
