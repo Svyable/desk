@@ -316,6 +316,272 @@ A masterpiece has always contained discarded work.
 
 The difference is that the discard pile can now become unimaginably large.
 
+There is a reason sketching belongs near the center of the human-agent workshop rather than in a chapter about creativity alone.
+
+A sketch is a risk instrument.
+
+Its job is to move uncertainty earlier.
+
+This is obvious in architecture. The expensive moment to discover that a wall is in the wrong place is after construction begins. A drawing exists partly to make certain classes of mistake cheap.
+
+Software prototypes do the same.
+
+Scientific pilots do the same.
+
+Financial scenario analysis does the same.
+
+The workshop spends a small amount of reality in order to learn before spending a large amount.
+
+Generative systems can lower the price of this risk instrument dramatically.
+
+That changes which uncertainties are worth exploring.
+
+A small company once had to choose which customer segment deserved a serious concept because producing each concept consumed scarce design and engineering time. Now an agent can help create multiple prototypes, draft landing pages, simulate common objections, generate implementation approaches, and construct test data quickly enough that more of the space can be explored before the team commits.
+
+This is not merely faster creativity.
+
+It changes option value.
+
+More options can be carried farther before one has to be selected.
+
+The economic analogy is useful because an option is valuable precisely because it postpones commitment while preserving the right to act.
+
+A sketch is an intellectual option.
+
+Agents create them cheaply.
+
+The danger is that cheap options can become addictive.
+
+If holding another option costs almost nothing, why close it?
+
+Because decisions have carrying costs.
+
+Every live branch consumes attention.
+
+Every alternative creates another comparison.
+
+Every unresolved architecture complicates downstream work.
+
+Every strategic scenario delays coordination.
+
+The price of generating options falls.
+
+The price of carrying them does not fall at the same rate.
+
+This creates an option glut.
+
+The mature workshop needs a pruning discipline.
+
+Kill branches explicitly.
+
+Record why.
+
+Do not let abandoned candidates remain psychologically alive merely because the machine can regenerate them later.
+
+This matters especially in teams. One person may think the decision is settled while another continues exploring because exploration remains so cheap. The group loses a shared sense of commitment.
+
+The workshop should therefore mark transitions.
+
+Exploration.
+
+Selection.
+
+Validation.
+
+Commitment.
+
+These are not rigid phases. Work can move backward when evidence requires it. The labels matter because the burden of proof changes.
+
+During exploration, novelty has low cost.
+
+During validation, claims need evidence.
+
+After commitment, reopening should require new information.
+
+Agents can help enforce this by asking a different question in each state.
+
+Exploration: what plausible alternatives have we not considered?
+
+Selection: what criterion separates them?
+
+Validation: what would make the preferred candidate fail?
+
+Commitment: what evidence is strong enough to justify reopening?
+
+The same intelligence behaves differently because the workshop's state has changed.
+
+This is one reason persistent project context matters. A stateless agent cannot know whether an idea is a fresh sketch or a settled decision unless the user remembers to restate it.
+
+The workshop should know where it is.
+
+There is another subtle benefit to machine-generated sketches: they can make hidden disagreement visible before social status freezes it.
+
+In many meetings, people converge too quickly because producing a concrete alternative is expensive. Someone proposes a plan. The room critiques the plan that exists rather than imagining plans that do not. The first artifact becomes an anchor.
+
+An agent can cheaply instantiate the dissent.
+
+What would this strategy look like if the company optimized for resilience rather than growth?
+
+What if the target customer were the buyer who hates our current product?
+
+What if the architecture assumed a tenfold reduction in budget?
+
+What if the chapter opened with the document rather than the person?
+
+Once the alternative exists, people can argue with an object rather than with the person who first proposed the direction.
+
+This can reduce status friction.
+
+It can also create false equivalence.
+
+The machine can produce a polished artifact for a terrible idea, giving the terrible idea more social weight than it deserves.
+
+Again the sketch needs status.
+
+A generated alternative is not evidence that the alternative is viable.
+
+It is evidence that the alternative can be represented.
+
+That is a much weaker claim.
+
+The distinction becomes important in strategic work because executives are vulnerable to visual coherence. A complete deck creates the feeling that a complete plan exists.
+
+The workshop should sometimes keep early alternatives deliberately ugly.
+
+Low fidelity protects thought.
+
+A rough wireframe invites structural criticism.
+
+A polished interface invites color comments.
+
+A rough argument invites challenge.
+
+A finished paragraph invites editing.
+
+The form of the sketch tells the group what kind of feedback is welcome.
+
+Generative tools make high fidelity so cheap that we may need to choose low fidelity intentionally.
+
+This is counterintuitive.
+
+Why ask the machine for something worse?
+
+Because finish level is a social signal.
+
+The right question is not whether the agent can render beautifully.
+
+It is whether beauty is useful yet.
+
+The same applies to numbers.
+
+A model can generate precise-looking forecasts before the assumptions deserve precision. Two decimal places can appear where the real uncertainty spans a factor of two.
+
+The sketch should carry uncertainty in its form.
+
+Ranges.
+
+Placeholders.
+
+Open questions.
+
+Competing scenarios.
+
+A visible "unknown."
+
+These are marks of intelligence, not incompleteness.
+
+Leonardo's drawings are powerful partly because the exploratory line remains visible. The page does not pretend that every contour has the same status.
+
+Our digital sketches should recover that honesty.
+
+This is especially important as agents become better at multimodal generation. The more realistic the prototype, the easier it becomes for a human observer to mistake representational quality for underlying feasibility.
+
+A photorealistic product does not prove manufacturing.
+
+A convincing interface does not prove the backend.
+
+A simulated scientific result does not prove the measurement.
+
+A persuasive policy scenario does not prove human behavior.
+
+Representation can outrun reality.
+
+The master has to track the gap.
+
+One practical way is to attach a "reality debt" to a sketch.
+
+What part of this candidate exists only because generation made it look easy?
+
+Which external constraint has not been tested?
+
+Which user has not been asked?
+
+Which component has not been built?
+
+Which assumption has no measurement?
+
+The sketch remains useful.
+
+The debt remains visible.
+
+This is better than forbidding high-fidelity generation. The workshop can enjoy the leverage without becoming hypnotized by it.
+
+There is a larger cultural implication.
+
+As generated alternatives become abundant, taste may shift from making to choosing. That does not mean making disappears. It means many people will encounter their own preferences in a field of machine-produced possibility.
+
+This can make taste more explicit.
+
+It can also homogenize it if everyone selects from options generated by similar systems.
+
+The sketch phase should therefore include human-originated moves.
+
+A strange sentence.
+
+A crude drawing.
+
+A hypothesis with no precedent.
+
+A constraint supplied by lived experience.
+
+These can seed regions of the search space the model would not prioritize.
+
+The human does not have to outperform the generator on volume.
+
+The human can perturb the space.
+
+This is another form of mastery.
+
+The master introduces the condition the system would not invent.
+
+Then the workshop explores what follows.
+
+This is how agents can increase originality rather than average it away.
+
+Not by asking the machine to "be creative."
+
+By using human particularity to define a strange commission and machine abundance to explore it seriously.
+
+That relationship has a beautiful asymmetry.
+
+The human may contribute one unlikely constraint.
+
+The agent may contribute a thousand consequences.
+
+The final work belongs to the interaction.
+
+Sketching is where we can see that most clearly because nothing is sacred yet.
+
+The page can still move.
+
+The architecture can still bend.
+
+The thesis can still fail.
+
+This is where intelligence should be cheapest.
+
+Commitment should become expensive only after the workshop has learned enough to deserve it.
+
 Do not measure the workshop by how much it can generate.
 
 Measure it by what it learns before it commits.
