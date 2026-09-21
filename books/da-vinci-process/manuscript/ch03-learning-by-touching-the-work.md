@@ -370,4 +370,54 @@ The apprentice touches more work.
 
 The master can generate more lessons.
 
+The same pattern is beginning to appear in professional software work.
+
+A 2025 study pooling randomized field experiments at Microsoft, Accenture, and another large company found that developers with access to an AI coding assistant completed more tasks on average, with larger adoption and gains among less experienced developers.
+
+Again, this is evidence about productivity under specific conditions, not proof that coding assistants make people better engineers.
+
+That distinction is the chapter.
+
+A novice can move faster because the system supplies syntax, patterns, and possible solutions.
+
+The organization should welcome the gain.
+
+Then measure whether the novice is learning the parts that matter later.
+
+Can the developer debug unfamiliar code?
+
+Can the developer identify a security flaw the assistant missed?
+
+Can the developer explain why the generated solution fits this system rather than merely compiling?
+
+Can the developer respond when the agent produces a plausible patch against a wrong model of the architecture?
+
+The tool can compress the low-level search.
+
+The apprenticeship has to move up one level.
+
+This is a recurring pattern whenever technology absorbs routine cognition.
+
+The profession does not become skill-less.
+
+The skill gradient moves.
+
+The mistake is leaving the training gradient where it was.
+
+If agents write more code, train more architecture.
+
+If agents retrieve more cases, train more interpretation.
+
+If agents draft more prose, train more judgment about structure and evidence.
+
+The apprenticeship should chase the moving bottleneck.
+
+This gives us a constructive answer to the deskilling fear.
+
+Do not preserve obsolete difficulty.
+
+Move difficulty toward the responsibility that remains.
+
+That is how assistance becomes agency.
+
 And experience, instead of being bypassed, can be accelerated.
