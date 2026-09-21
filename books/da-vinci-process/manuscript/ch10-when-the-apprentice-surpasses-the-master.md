@@ -386,6 +386,242 @@ Keep responsibility attached to someone capable of carrying it.
 
 Then make the next thing harder.
 
+There is a second way the apprentice can surpass the master that receives less attention because it is harder to dramatize.
+
+The apprentice can improve the master's question.
+
+A human asks for the best way to optimize a process.
+
+The agent notices that the process exists to compensate for a policy nobody has revisited.
+
+The human asks for a stronger argument.
+
+The agent finds a primary source that undermines the premise.
+
+The human asks for a cheaper design.
+
+The agent shows that a different constraint removes the need for the design altogether.
+
+The local task has been completed by refusing the local task.
+
+This is a more consequential form of superiority than writing the better sentence because it changes what work deserves to exist.
+
+Human organizations are bad at rewarding this.
+
+Employees are usually assigned to execute a defined objective. Questioning the objective can look like resistance. Junior people learn quickly which assumptions are above their pay grade.
+
+Agents could inherit the same obedience.
+
+They may be tuned for helpfulness, which can become a machine form of organizational deference.
+
+The workshop should resist this.
+
+A capable apprentice needs permission to attack the commission at defined points.
+
+Not constantly.
+
+A system that questions every premise becomes unusable.
+
+But before large commitment, after contradictory evidence, and when a hidden assumption dominates the result, the agent should be allowed to say: this may be the wrong problem.
+
+This is one of the best uses of synthetic intelligence because humans are vulnerable to sunk costs.
+
+We become attached to the question we have invested in.
+
+The agent has no childhood dream attached to the project.
+
+No promotion tied to the strategy.
+
+No embarrassment about reversing yesterday's recommendation.
+
+That lack of biography can be a weakness in moral judgment.
+
+It can be a strength in revision.
+
+The master can borrow the detachment.
+
+This is another way the hierarchy becomes reciprocal. The human supplies consequence. The agent supplies a kind of disposable perspective.
+
+We should not romanticize machine objectivity. Models inherit data, tuning, framing, and user instructions. They can be biased, agreeable, or wrong.
+
+The useful property is not objectivity.
+
+It is multiplicity.
+
+The human can ask for another way of seeing without hiring another life history.
+
+What would make this problem disappear?
+
+What if the opposite assumption were true?
+
+What would a competitor want us to believe?
+
+What decision would we make if we could not use the favored metric?
+
+What evidence would embarrass this strategy?
+
+These are questions a master should ask anyway.
+
+The agent makes them cheap enough to institutionalize.
+
+This may change leadership more than task automation does.
+
+A leader can have a permanent counterfactual desk.
+
+One agent builds the case.
+
+Another attacks.
+
+Another searches history.
+
+Another models second-order consequences.
+
+The leader still decides.
+
+But the leader decides in a denser field of challenge.
+
+This is a kind of cognitive court.
+
+The analogy is imperfect, but the procedural idea is sound: do not let one narrative represent the whole case.
+
+There is an obvious risk.
+
+A leader can manipulate the synthetic court.
+
+Prompt the desired verdict.
+
+Dismiss the dissenting agent.
+
+Choose the model known to agree.
+
+Human institutions solve this partly through independence. Judges do not choose every fact. Auditors have professional duties. Boards have fiduciary obligations. Scientific reviewers are separate from the author.
+
+Agentic systems will need independence mechanisms too where consequences justify them.
+
+Different data.
+
+Different models.
+
+Fixed evaluation rules.
+
+External human review.
+
+Randomized audit.
+
+The key is that the master should not be able to optimize every critic into agreement.
+
+Otherwise the court becomes theater.
+
+This is where governance meets apprenticeship.
+
+The apprentice who surpasses the master can only change the workshop if the workshop allows evidence to outrank status.
+
+That is cultural.
+
+It is also technical.
+
+The system can require unresolved high-risk objections to remain visible.
+
+It can prevent a principal from deleting an audit trail silently.
+
+It can make a dissenting evaluation part of the release record.
+
+It can route certain failures to another person automatically.
+
+The workshop can encode the right to challenge.
+
+This may feel excessive for creative work.
+
+It is useful even there in lighter form.
+
+A writer can preserve the strongest objection in research notes instead of deleting it after deciding not to use it.
+
+A product team can record the reason it ignored a usability warning.
+
+An investor can keep the bear case next to the thesis.
+
+This prevents confidence from rewriting history.
+
+The better apprentice creates better memory of disagreement.
+
+There is a human virtue at stake.
+
+Being teachable after becoming successful is difficult.
+
+Status converts habits into identity.
+
+The master has years of proof that the master is right.
+
+The apprentice has less to lose by changing.
+
+An intelligent agent can become an instrument of epistemic rejuvenation for senior people if they permit it.
+
+That may be one of the least appreciated benefits of the technology.
+
+Not efficiency.
+
+Anti-rigidity.
+
+The expert can repeatedly encounter evidence from outside the expert's accumulated groove.
+
+This does not mean surrendering judgment to novelty.
+
+It means keeping a channel open through which novelty can earn authority.
+
+The future master should be harder to flatter than the present executive.
+
+That will not happen automatically.
+
+AI assistants are often experienced as agreeable. They reflect the user's framing. They can produce reasons for whatever direction is requested.
+
+A workshop needs explicit anti-flattery behavior.
+
+Do not praise the idea before evaluating it.
+
+State the strongest reason it fails.
+
+Identify evidence that would reverse your recommendation.
+
+Distinguish confidence from fluency.
+
+If the user changes the premise, say whether the conclusion changes.
+
+These small rules can create a less flattering apprentice.
+
+The human has to tolerate it.
+
+That tolerance becomes part of mastery.
+
+The emotional test of the workshop may be simple:
+
+Can the person in charge experience a machine-generated correction as good news?
+
+If not, the system will eventually learn to hide the correction.
+
+Humans train their environments.
+
+Leaders especially do.
+
+The assistants around a defensive leader become cautious.
+
+The reports become optimistic.
+
+The bad news waits.
+
+A synthetic assistant will be even easier to shape into compliance.
+
+The master has to design against his own ego.
+
+That is not Renaissance romance.
+
+It is practical control.
+
+The apprentice surpassing the master is valuable only if the information survives the hierarchy.
+
+The higher ceiling is not machine performance.
+
+It is the performance of a system where better evidence can change the person with the most authority.
+
 The apprentice surpassing the master should not be the end of the workshop.
 
 It should be how the workshop discovers a higher ceiling.
