@@ -400,6 +400,194 @@ The master cannot delegate the meaning of putting a name on the work.
 
 That is the bond.
 
+Law is beginning to draw one boundary, though craft should not outsource its ethics to law.
+
+In its 2025 report on copyrightability and generative AI, the U.S. Copyright Office reaffirmed that human authorship remains central under existing U.S. copyright principles. It also made an important distinction: using AI as an assistive tool does not by itself prevent copyright protection, while merely providing prompts is not necessarily enough to make the generated expressive material human-authored. Human selection, arrangement, modification, and perceptible human expression can matter.
+
+That is a legal framework, not a universal theory of authorship.
+
+Still, it points toward the same question this chapter has been circling.
+
+Where did human creative control actually enter?
+
+This is better than asking how many words came from the model.
+
+A person can direct an agent through a thousand prompts and contribute very little if the prompts amount to repeated requests for another option.
+
+Another person can use one generated paragraph and transform the work structurally through a decisive act of selection and revision.
+
+Counting interaction does not reveal authorship.
+
+Judgment does.
+
+This has implications for disclosure.
+
+Disclosure should not become a moral theater in which people list every automated aid to prove purity.
+
+No reader needs to know that a spelling system corrected a typo.
+
+No software user needs a confession that autocomplete filled a method name.
+
+The meaningful threshold is contribution that changes the audience's understanding of how the work was made or what capabilities the named author is claiming.
+
+That threshold varies by context.
+
+A student assignment designed to assess unaided writing is different from a commercial book.
+
+A scientific paper is different from a marketing campaign.
+
+A legal filing is different from a private strategy memo.
+
+The workshop should follow the promise of the artifact.
+
+If the artifact promises independent human analysis, machine generation may matter greatly.
+
+If the artifact promises a curated result under human responsibility, substantial machine assistance may be compatible with the promise.
+
+This is a more durable standard than disclosure for disclosure's sake.
+
+It also exposes a deeper issue: authorship is partly a relationship with an audience.
+
+The audience grants trust under assumptions.
+
+The author should not exploit assumptions known to be false when they are material.
+
+That is why counterfeit competence matters.
+
+Imagine two architects.
+
+One uses AI heavily, understands the design, can defend the load assumptions, has reviewed the code requirements, and takes responsibility for the building.
+
+The other produces a visually convincing design through the same tools and cannot explain the structural system.
+
+The artifacts may look similar.
+
+The authorship claims are not.
+
+The issue is not that one touched more pixels.
+
+The issue is that one possesses the judgment implied by the professional role.
+
+This is why agentic work may push professions toward oral defense, live review, and process evidence.
+
+A portfolio alone will become less informative.
+
+The interviewer will ask:
+
+Why did you choose this?
+
+What did the agent get wrong?
+
+Show me the alternative.
+
+What happens if this assumption changes?
+
+Where would you look first if the result failed?
+
+These questions test ownership of the work.
+
+They may become more important than whether the candidate can recreate every low-level step manually.
+
+This is a better assessment anyway.
+
+Professional competence has always been more than production speed.
+
+AI simply makes the difference impossible to ignore.
+
+There is another authorship problem that sits underneath current debates about machine contribution.
+
+Training data.
+
+A model's output can carry influence from vast amounts of prior human work without providing a simple trace from output back to individual source. Legal disputes around training and fair use are still evolving. Moral arguments go beyond the law.
+
+The workshop cannot solve the whole problem.
+
+It can still practice attribution where provenance is available and meaningful.
+
+If a generated research summary leads to an idea from a paper, cite the paper.
+
+If a colleague supplied the decisive concept, credit the colleague.
+
+If the agent surfaces a passage from a source, read and cite the source rather than the machine.
+
+Do not let the model become an attribution sink.
+
+This is especially important in nonfiction.
+
+The machine should help the author get closer to sources, not become a source-shaped fog between author and evidence.
+
+That practice strengthens the book regardless of the eventual legal doctrine around model training.
+
+It also keeps human intellectual lineage visible.
+
+Ideas have histories.
+
+A workshop that erases the histories can become intellectually rich and culturally amnesiac at the same time.
+
+The Renaissance metaphor makes this irony painful.
+
+We know Leonardo partly because paper, collections, signatures, biography, and attribution practices preserved a lineage.
+
+Imagine if every work from the workshop had been collapsed into one anonymous style model.
+
+We would have patterns.
+
+We would lose people.
+
+The future workshop should use synthesis without allowing synthesis to erase provenance where provenance matters.
+
+This is not only about fairness to the past.
+
+It improves thinking.
+
+Knowing where an idea came from tells us what assumptions traveled with it.
+
+A management theory from wartime production has a context.
+
+A statistical method from one field may carry conventions another field rejects.
+
+A phrase borrowed from a political movement may contain history that changes its meaning.
+
+Attribution is epistemic metadata.
+
+The agent can help surface it.
+
+This gives us a richer description of authorship after AI.
+
+The author is not the person who generated everything.
+
+The author is the person who can place the work in relation.
+
+To sources.
+
+To collaborators.
+
+To predecessors.
+
+To the audience.
+
+To the evidence.
+
+To the consequences.
+
+The workshop broadens authorship outward instead of shrinking it down to keystrokes.
+
+This is demanding.
+
+It is also liberating.
+
+The human can use machines deeply without pretending to be alone.
+
+The human can acknowledge other humans without fearing that credit dilutes authorship.
+
+The author becomes less a solitary origin and more a responsible center of integration.
+
+That is closer to how meaningful work has always been made.
+
+The machine did not invent collaboration.
+
+It removed our excuse for pretending collaboration was not there.
+
 A byline is not a receipt for keystrokes.
 
 It is a promise that someone is home.
