@@ -1,18 +1,16 @@
 # One Rollout
 
-On September 18, 2026, a technical report appeared with a title that sounded like another piece of reinforcement-learning machinery: *KL-Regularized Policy Optimization for Critic-Free Agentic Reinforcement Learning*. The paper came with equations, implementation notes, a toy example, and a flow diagram dense enough to make most readers decide that whatever mattered here could safely be left to the specialists.
+On September 18, 2026, a technical report appeared with a title built to repel civilians: *KL-Regularized Policy Optimization for Critic-Free Agentic Reinforcement Learning*. Its central figure was nine boxes of notation joined by arrows. Gibbs optimum. Exact normalizer. Fixed-normalizer regression. Backprop surrogate. Monte Carlo KL. It looked like the sort of diagram a reader is trained to skip.
 
-The diagram is worth looking at anyway.
+Read the labels rather than the equations and the paper makes a stranger claim. It is trying to remove things.
 
-Across nine boxes, the authors move from a local policy objective through a Gibbs optimum, an exact normalizer, a regression target, score centering, an exact backpropagation surrogate, and finally a Monte Carlo estimate of a KL correction. The notation is compact and the vocabulary belongs to a field that has been accumulating abstractions for decades. Yet the most consequential phrases in the paper are almost ordinary: one complete rollout; no same-prompt response group; no learned critic; no learned normalizer.
+One complete rollout. No same-prompt response group. No learned critic. No learned normalizer. The authors call the method KL-Regularized Policy Optimization, or KLPO, and present it as a critic-free, single-rollout route for asynchronous off-policy agentic reinforcement learning. Whether KLPO itself becomes important is still an empirical question; the project's own release notes are careful about what had and had not been validated at scale. What matters for this book is the direction of effort. Researchers are spending serious mathematical energy trying to extract more learning from each expensive encounter between an agent and an environment. ([Zhang et al., 2026](https://github.com/yifanzhang-pro/KLPO))
 
-Something is being removed.
+The nine-box diagram is therefore less interesting as an algorithm than as an X-ray. It shows what the field has started to regard as scaffolding.
 
-That is the story hiding in the algebra.
+A modern language model begins with prediction. Give it a sequence of tokens and ask it to predict the next one. Repeat that exercise across an absurd quantity of text and code. The resulting system absorbs patterns of language, facts, styles, procedures, fragments of mathematics, software conventions, arguments, jokes, and the broad statistical debris of human culture. This is pretraining, and it is the foundation beneath the systems that made generative AI feel sudden even though the engineering lineage was long.
 
-A modern language model is first trained by prediction. Give it a sequence of tokens and ask it to predict the next one. Repeat that exercise across an absurd quantity of text and code. The resulting system absorbs patterns of language, facts, styles, procedures, fragments of mathematics, software conventions, arguments, jokes, and the broad statistical debris of human culture. This is pretraining, and it is the foundation beneath the systems that made generative AI feel sudden even though the engineering lineage was long.
-
-Prediction, however, has an obvious limitation once the machine is expected to do something in the world.
+Prediction becomes a different problem once the machine is expected to do something in the world.
 
 Suppose an agent has to fix a software bug. The final result may require hundreds of small choices: inspect a repository, search for a symbol, read tests, form a hypothesis, edit a file, run a command, notice a failure, revise the hypothesis, try again, and stop only when the tests pass for the right reason. The internet contains examples of all of those actions. What it does not contain in sufficient quantity is the exact trajectory needed for every new repository, every new failure, every new dependency, every new state of the world.
 
@@ -80,11 +78,9 @@ The phrase "single rollout" deserves to be translated into economics.
 
 A rollout is experience. In an agent system it may be a long, expensive sequence involving model inference, tool calls, browser sessions, code execution, database queries, simulated actions, or interactions with some environment that has to be maintained and observed. If a learning algorithm needs a group of full rollouts to extract a useful update, the data cost multiplies. If it can recover a useful learning signal from one trajectory plus much cheaper local samples, the same budget may support more distinct tasks, more varied states, or more updates from experience already collected.
 
-One paper does not settle that future. KLPO's own release notes are careful about scope. The repository provides theory, a loss implementation, CPU verification, and native training integration; it explicitly says paper-scale GPU benchmark reproduction had not yet been validated in the release available at the time of writing. Some of its equivalence claims depend on assumptions about the sampler, the draws, the transition structure, and how data is reused. Fixed historical records can become an empirical surrogate rather than an exact unbiased estimator once the conditions change.
+One paper does not settle that future. KLPO's own release notes are careful about scope. The repository provides theory, a loss implementation, CPU verification, and native training integration; it explicitly says paper-scale GPU benchmark reproduction had not yet been validated in the release available at the time of writing. Some equivalence claims depend on assumptions about the sampler, the draws, the transition structure, and how data is reused. Fixed historical records can become an empirical surrogate rather than an exact unbiased estimator once those conditions change.
 
-That caution is a reason to pay attention, not a reason to look away.
-
-Research fields reveal their priorities in what they spend effort trying to eliminate.
+That uncertainty is part of the evidence. Research fields reveal their priorities in what they spend effort trying to eliminate.
 
 The history of computing is full of components that began as necessary scaffolding and later became bottlenecks. Handwritten features gave way to representation learning. Carefully constructed game knowledge gave way, in some domains, to systems that learned more from self-play and search. Human demonstrations remain enormously important, but researchers keep testing how much of their role can be replaced by cheaper signals, synthetic data, environmental feedback, or computation.
 
@@ -134,24 +130,8 @@ The valuable object is not the log file.
 
 It is the right to act, the instrumentation to observe what happened, the verifier or evaluator that can distinguish useful outcomes, and the machinery to turn those outcomes into another policy update.
 
-This is why the next competition over "training data" may look less like scraping and more like operations.
+This is why the next competition over "training data" may look less like scraping and more like operations. An environment that can teach an agent is not merely a place to run software. It is a controlled feedback asset: permission to act, enough instrumentation to observe the result, a credible way to judge success, a budget for failed attempts, and contractual or technical rights to preserve and reuse the trajectory.
 
-Who has the environment?
+Those requirements pull machine learning into corporate strategy, regulation, labor, science, and infrastructure. A company may own no uniquely brilliant algorithm and still possess something a rival cannot download: millions of consequential interactions inside a codebase, laboratory, marketplace, browser workflow, factory, simulation, or customer operation. The data appears because the system was allowed to act.
 
-Who has permission to let agents act inside it?
-
-Who can measure success without reducing the objective to nonsense?
-
-Who can afford failed attempts?
-
-Who owns the trajectories after they are generated?
-
-Who can replay them?
-
-These questions sound less like machine learning than like corporate strategy, regulation, labor, science, and infrastructure. That is because the boundary is moving.
-
-The frontier model does not learn only from a library. It learns from a laboratory, a game, a codebase, a marketplace, a browser, a factory, a simulation, a conversation, a failure.
-
-The public story of generative AI began with a machine that had read the internet.
-
-The more interesting machine may be the one that gets another attempt.
+That is the boundary this book follows. The public story of generative AI began with a machine that had read the internet. The more interesting machine may be the one that gets another attempt.
