@@ -636,4 +636,62 @@ Human and machine.
 
 Because a system that learns faster than its people and does not let the people share in the gain will eventually be resisted for good reason.
 
+There is one final metric the learning workshop should watch: time-to-propagation.
+
+How long does it take a useful correction discovered in one place to change behavior somewhere else?
+
+In weak organizations, the answer can be years.
+
+A team learns.
+
+A report is written.
+
+The report is stored.
+
+Another team repeats the failure.
+
+Eventually the two stories meet at an offsite and are converted into a principle everyone already paid to learn twice.
+
+Agentic systems can shorten this dramatically.
+
+A failure can become a test.
+
+A test can become a warning.
+
+A warning can become an example in training.
+
+The next person can encounter the lesson during the next task.
+
+That is organizational compounding.
+
+It also creates a burden of speed.
+
+A wrong lesson can propagate just as fast.
+
+This is why high-speed learning needs a quarantine concept.
+
+New lesson.
+
+Locally observed.
+
+Needs replication.
+
+Validated broadly.
+
+Retired.
+
+The workshop should not distribute a single anecdote as law merely because distribution is easy.
+
+The faster knowledge travels, the more important its maturity state becomes.
+
+This is the same epistemic status problem appearing at institutional scale.
+
+A fast workshop is not one where every discovery spreads immediately.
+
+It is one where the right discovery can travel quickly without losing the conditions that made it true.
+
+That is a harder achievement than communication.
+
+It is collective judgment.
+
 The masterpiece comes from keeping both alive.
