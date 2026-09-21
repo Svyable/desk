@@ -406,6 +406,238 @@ Sometimes it is the last surviving record of the moment when a mind changed dire
 
 The master's job is to know which one is in front of him.
 
+There is a modern version of the unfinished panel that appears every day in machine-assisted work.
+
+The generated artifact that nobody can quite explain.
+
+A strategy memo arrives with a market estimate assembled from several sources, some strong, some weak. The number is copied into a presentation. The presentation becomes the basis for a budget. Three months later the number has the authority of an institutional fact.
+
+Nobody remembers that it began as a provisional estimate inside a research session.
+
+The sketch became policy without crossing a visible boundary.
+
+This is why status needs to travel with information.
+
+Draft.
+
+Estimated.
+
+Verified.
+
+Measured.
+
+Approved.
+
+Deprecated.
+
+The words seem administrative until one disappears.
+
+Then the organization begins treating possibility as fact.
+
+Agentic systems intensify this because they can transform rough material into polished form instantly. A speculative note can become a board-ready paragraph in seconds. A weak source can become a confident sentence. The typography does not carry the epistemic history.
+
+The workshop must.
+
+One method is to require provenance at promotion.
+
+An idea can remain cheap and messy in scratch space.
+
+The moment it enters a consequential artifact, the system asks where it came from.
+
+A claim moves from hypothesis to supported only when evidence is attached.
+
+A number moves from estimate to metric only when its definition and source are recorded.
+
+A decision moves from discussion to commitment only when authority is explicit.
+
+This is version control for epistemic status.
+
+The principle is more important than the software.
+
+A workshop should be able to answer not only "what is the current version?" but "what kind of thing is this?"
+
+This becomes valuable under pressure because crises collapse distinctions.
+
+People grab the nearest number.
+
+The nearest plan.
+
+The most polished document.
+
+A visible maturity state slows the wrong transfer.
+
+It also protects exploration.
+
+If early material is clearly marked as provisional, people can think more freely. The draft does not have to defend itself as policy. The hypothesis can be strange. The sketch can be incomplete.
+
+This is another way transparency and creativity can support each other.
+
+The problem is not unfinished work.
+
+The problem is unfinished work pretending to be finished.
+
+There is a symmetrical problem at the other end.
+
+Finished work can pretend to be final.
+
+A published model.
+
+An approved policy.
+
+A shipped system.
+
+A book.
+
+Completion creates social inertia. People stop asking whether the conditions changed.
+
+Agentic systems can help by making finality softer without making commitment meaningless.
+
+The artifact is final for this decision.
+
+The assumptions remain watchable.
+
+A later agent can monitor whether the evidence that justified the decision still holds.
+
+If the environment changes, the system can reopen the question.
+
+This creates a distinction between completion and permanence.
+
+A master finishes.
+
+A living workshop revisits only when reality earns the interruption.
+
+That discipline matters because continuous monitoring can become continuous doubt. The organization that reopens every decision every day cannot act.
+
+The threshold should be material change.
+
+What new evidence would justify another pass?
+
+Write it down at the moment of commitment.
+
+Then the future does not have to guess.
+
+This is common in serious forecasting and investing: a thesis should contain disconfirming conditions, not merely a prediction. The same idea belongs in creative and operational work.
+
+What would make us reopen the design?
+
+What user behavior would invalidate the strategy?
+
+What new source would force a correction to the chapter?
+
+Which failure rate would make the automation unacceptable?
+
+The finished work contains its own reopening criteria.
+
+That is a sophisticated form of humility because it accepts commitment without pretending certainty.
+
+Leonardo's unfinished work gives us process because he stopped before concealment.
+
+Our digital systems can preserve process even after finishing.
+
+That is better.
+
+It means we do not have to choose between a clean object and an honest history.
+
+We can have both.
+
+The history also creates a powerful defense against hindsight.
+
+Hindsight is one of the enemies of learning.
+
+After success, the path looks inevitable.
+
+After failure, the warning signs look obvious.
+
+The archive can show what the workshop actually knew at the time.
+
+Which alternatives looked credible.
+
+Which risk was visible.
+
+Which uncertainty was ignored.
+
+Which critic was right for the wrong reason.
+
+This changes postmortems from stories into evidence.
+
+Agents can help reconstruct these decision states automatically if the underlying traces are preserved.
+
+They can compare the approved plan with later events.
+
+They can identify assumptions that failed.
+
+They can surface the exact point where the evidence changed.
+
+The result is not only accountability.
+
+It is better training for the next commission.
+
+This is how unfinished traces compound.
+
+A failed project becomes a case.
+
+A bad draft becomes an editorial example.
+
+A rejected architecture becomes a warning attached to a pattern.
+
+The workshop gets to keep the value of work that did not survive.
+
+This can change attitudes toward failure.
+
+Organizations often delete failed work psychologically even when the files remain. Nobody wants to be associated with the abandoned project. The lessons are reduced to a generic slide.
+
+A workshop culture asks a different question.
+
+What did this failure buy us?
+
+If the answer is nothing, the failure was expensive.
+
+If it revealed a constraint that prevents ten future failures, the failure became infrastructure.
+
+Agents can make those lessons easier to retrieve, but only if the record contains enough detail to distinguish signal from self-justification.
+
+This is another reason not to let the machine write the postmortem as a soothing narrative.
+
+The postmortem should preserve friction.
+
+What did people disagree about?
+
+Which evidence was unavailable?
+
+Which decision was made under time pressure?
+
+Which warning existed and lacked standing?
+
+The ugly detail is the lesson.
+
+A smooth summary can become another finishing layer.
+
+There is a literary analogue.
+
+The best revision does not erase every seam.
+
+Sometimes the seam is where the reader feels a mind encounter difficulty.
+
+Over-polished prose can lose epistemic texture. Every transition becomes perfect. Every paragraph lands. Every ambiguity is resolved. The result can feel less true than the rougher draft because actual investigation contains resistance.
+
+The master must know which roughness belongs.
+
+This book itself should be judged by that standard.
+
+If every chapter uses Leonardo as a neat proof of a modern framework, the metaphor has become dishonest.
+
+History should push back.
+
+The evidence should complicate the analogy.
+
+The reader should occasionally see the argument revise itself.
+
+That is the visible underdrawing of investigation.
+
+Unfinished is evidence when it shows how understanding changed.
+
+Finished work earns trust when it does not pretend the change never happened.
+
 Finish what needs to be finished.
 
 Preserve what needs to be remembered.
