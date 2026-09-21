@@ -242,6 +242,130 @@ If the end state of human-agent collaboration is a person who can do less, judge
 
 If the end state is a person who can reach farther because the machine increases the number of high-quality encounters with the work, then we may have rediscovered something old in a form no workshop ever had.
 
+There is another problem hidden inside the dream of perfectly personalized assistance.
+
+The better the assistant becomes at meeting the learner exactly where the learner is, the easier it becomes to confuse comfort with development.
+
+A human teacher has limits. The explanation is not always tuned perfectly. The student sometimes has to cross a gap. A supervisor gives an example from a different context. A client explains the problem badly. A primary source uses unfamiliar language. The learner has to adapt.
+
+Some of that friction is needless.
+
+Some of it is transfer.
+
+If an AI tutor always reformulates difficulty into the learner's preferred style, the learner may become highly competent inside an environment that bends toward him. The world will not.
+
+The customer will be unclear.
+
+The regulator will write badly.
+
+The patient will describe symptoms out of order.
+
+The codebase will contain someone else's mental model.
+
+The opposing lawyer will not scaffold the argument.
+
+Expertise includes the ability to enter foreign structure.
+
+The apprentice has to adapt too.
+
+This complicates personalization. The ideal agent should know when to meet the learner and when to make the learner travel.
+
+That is not a feature setting. It is a theory of formation.
+
+One recent field experiment makes the tension unusually concrete. In 2026, researchers studied more than six thousand middle-school students using a computer-assisted math platform. AI support did not simply make students move faster. Students with the AI progressed more slowly through questions but were more accurate on the attempts they reached, and after mistakes the AI helped them return to correct answers with fewer additional tries. The useful part was structured support around error, not effortless completion.
+
+That matters because the valuable intervention came after the learner had done something wrong.
+
+The mistake existed.
+
+The system had something to teach against.
+
+Remove the attempt and the signal disappears.
+
+This gives us a design principle for apprenticeship with agents: protect the diagnostic value of error.
+
+Not every error. Nobody needs to misspell a command fifty times to become a professional. But the errors that reveal a model of the problem deserve to surface before they are silently corrected.
+
+A novice analyst who confuses revenue with cash flow has exposed a conceptual gap.
+
+A programmer who reaches for a global variable has exposed an architectural instinct.
+
+A writer who resolves uncertainty too quickly has exposed a narrative habit.
+
+A physician-in-training who anchors on the first diagnosis has exposed a reasoning pattern.
+
+If the agent corrects the artifact without making the pattern visible, output improves and the learner stays the same.
+
+The workshop should sometimes preserve the bad move long enough to inspect it.
+
+That can be uncomfortable. Good. Apprenticeship has always contained controlled embarrassment: not humiliation, but the moment when the gap between intention and result becomes undeniable.
+
+The role of the master is to keep that moment useful.
+
+Agents can make this safer than historical apprenticeship because the learner can fail privately before failing publicly. A student can rehearse. A junior employee can confront ten synthetic edge cases before meeting the real one. The agent can increase the density of mistakes while reducing the social cost of each.
+
+This is a remarkable opportunity.
+
+It also creates the risk of human overfitting.
+
+A person can become excellent at working with one assistant, one style of hint, one interface, one model's habits. Then the system changes.
+
+The next model asks different questions.
+
+The tool disappears.
+
+The organization moves to another provider.
+
+A crisis removes access.
+
+Suddenly the competence turns out to have been partly environmental.
+
+Civilization has always contained environmental competence. Nobody expects a modern accountant to operate without arithmetic tools, databases, tax software, and legal references. The goal is not self-sufficiency.
+
+The goal is knowing where capability lives.
+
+Some skill is internal.
+
+Some lives in the tool.
+
+Some lives in the team.
+
+Some lives in the archive.
+
+A master understands the dependency.
+
+This suggests another apprenticeship test: tool removal should be occasional and purposeful.
+
+Can the person still frame the problem without the agent?
+
+Can the person explain the core reasoning after the assistant is gone?
+
+Can the person move to a different system without losing the craft?
+
+Can the person identify what the original tool was doing on their behalf?
+
+These are not purity tests. They are resilience tests.
+
+The distinction becomes especially important in professional settings because employers may accidentally train employees into vendor dependence. A worker becomes productive inside one proprietary assistant and is then evaluated as if the productivity belongs entirely to the person.
+
+The company may not know which capability it has hired.
+
+The worker may not know either.
+
+A healthy workshop is explicit about this.
+
+We do not need every skill to reside in the person.
+
+We do need the person to understand the system well enough to carry responsibility for the part assigned to them.
+
+That is the mature version of apprenticeship.
+
+The apprentice touches the work so that some judgment becomes portable.
+
+The agent carries other capability so that the apprentice can reach farther.
+
+The workshop decides which is which.
+
 The apprentice touches more work.
 
 The master can generate more lessons.
