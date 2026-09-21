@@ -446,6 +446,66 @@ The future master may be distinguished less by what he knows than by how accurat
 
 Leonardo's legend tends to erase boundaries.
 
+By 1472, according to the National Gallery's biographical account, Leonardo had joined the Florentine artists' brotherhood associated with Saint Luke.
+
+That date is a useful marker.
+
+He had entered a professional world before history turned him into a universal symbol.
+
+Professional formation is not a mystical transition from student to genius. It is a sequence of permissions.
+
+You may touch this work.
+
+You may take this commission.
+
+You may sign.
+
+You may open your own shop.
+
+Modern agentic work needs equivalent transitions.
+
+A junior analyst may be allowed to use an agent for research before being trusted to make an investment recommendation.
+
+A developer may be allowed to merge low-risk changes before controlling production architecture.
+
+A doctor in training may use decision support long before independently carrying responsibility for a patient's course.
+
+Permission should expand with demonstrated judgment.
+
+This creates a path through the age of borrowed capability.
+
+The novice does not have to wait until all performance is internal.
+
+The workshop can say: you may use powerful tools now, but the responsibility you carry will grow only as your ability to understand and challenge those tools grows.
+
+This is more realistic than pretending assisted work is invalid.
+
+It is also more demanding than treating assisted performance as mastery.
+
+Professional status has always been partly about trusted autonomy.
+
+Agentic systems make the trust boundary harder to read because output can leap ahead of formation.
+
+The answer is to make the boundary explicit.
+
+What can this person approve?
+
+What can this person change?
+
+What kind of agent action can they supervise?
+
+What evidence of judgment earns the next level?
+
+The old guild systems were exclusionary and should not be romanticized.
+
+The underlying idea—that responsibility expands through demonstrated practice—still matters.
+
+A renaissance of interaction needs new ladders of trust.
+
+Not new gates designed to protect incumbents.
+
+Ladders designed to make capability real.
+
 His apprenticeship reminds us that they were there.
 
 Leonardo was the apprentice.
