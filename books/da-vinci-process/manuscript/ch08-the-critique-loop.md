@@ -404,6 +404,278 @@ Leonardo's pages preserve corrections because the correction belonged to the wor
 
 Our systems should too.
 
+There is a temptation to formalize critique until it becomes another checkbox.
+
+That would miss the point.
+
+Critique is valuable because it introduces a different model of the work.
+
+The maker asks: how do I make this succeed?
+
+The critic asks: how might this fail?
+
+The historian asks: what are we repeating?
+
+The user asks: why should I care?
+
+The regulator asks: what harm becomes possible?
+
+The accountant asks: where is the number coming from?
+
+The editor asks: what is this paragraph doing here?
+
+These are not stages on a conveyor belt.
+
+They are competing descriptions of the object.
+
+A serious workshop gives some of them standing.
+
+This word—standing—is useful because a criticism can exist without being able to change anything. Organizations collect feedback constantly. Surveys, reviews, retrospectives, audits, employee concerns. Much of it dies because nobody has authority to act on it.
+
+Agentic systems can generate infinite criticism.
+
+That makes authority even more important.
+
+Which critique can block?
+
+Which can only recommend?
+
+Which must be answered before proceeding?
+
+Which can be logged and ignored?
+
+Without this hierarchy, the workshop either drowns in objections or treats critique as decorative.
+
+A good system makes the answer explicit.
+
+Tests can block.
+
+A source failure can block a factual claim.
+
+A safety boundary can block an external action.
+
+A style critique may not block anything.
+
+A speculative counterargument may simply travel with the draft.
+
+The point is not to make the workshop bureaucratic.
+
+It is to distinguish signal from veto.
+
+This becomes especially important in multi-agent systems. One agent can always be found to disagree with another if the prompt asks hard enough. If every disagreement triggers escalation, the human becomes a full-time referee.
+
+The critique loop must be calibrated by consequence.
+
+High-consequence claims deserve stronger opposition.
+
+Low-consequence choices can move.
+
+This is the same reason a newsroom spends more time verifying an accusation than choosing the wording of a routine weather update.
+
+Not every sentence deserves a trial.
+
+Some do.
+
+The master must recognize them.
+
+There is another problem: critics can optimize against the work.
+
+Anyone who has spent time around compliance, peer review, security, or editorial processes knows this. A reviewer who is rewarded only for finding defects can make the object impossible to finish.
+
+Every ambiguity becomes a problem.
+
+Every exception becomes a blocker.
+
+Every novel move is penalized because novelty lacks precedent.
+
+The critic becomes the enemy of ambition.
+
+This failure will be easy to automate.
+
+An agent can produce hundreds of plausible objections to any plan.
+
+The solution is not weaker criticism.
+
+It is criticism that shares the commission.
+
+The critic should know what the work is trying to accomplish.
+
+Then the question changes from "What is wrong?" to "What threatens the purpose?"
+
+This makes criticism selective.
+
+A strange sentence may be fine if the book needs strangeness.
+
+A security exception may be unacceptable if the system handles secrets.
+
+A costly process may be justified if failure is catastrophic.
+
+A statistical limitation may require narrowing the claim rather than abandoning the study.
+
+Good critique preserves the object while changing its weaknesses.
+
+This is why the editor is part of authorship.
+
+The editor does not merely subtract.
+
+The editor protects the work from its easiest version.
+
+Agents can learn to do this better when given positive examples of successful criticism.
+
+Show the before.
+
+Show the comment.
+
+Show the after.
+
+Show why the change mattered.
+
+A corpus of great corrections may be more valuable than a corpus of great final outputs because it reveals the workshop's judgment in motion.
+
+This is another reason organizations should preserve review history.
+
+The final object teaches what good looks like.
+
+The revision teaches how good was recognized.
+
+That is apprenticeship material.
+
+It can also improve the agent.
+
+A model grounded in a project's accepted and rejected changes can become more aligned to local standards than one grounded only in finished documents.
+
+The rejects define the boundary.
+
+This is how style becomes more than imitation.
+
+A finished text says: this belongs.
+
+A rejected edit says: this nearly belonged and failed for this reason.
+
+The second example carries more information about the edge.
+
+There is a broader epistemic lesson here.
+
+Knowledge grows through correction.
+
+Science advances not because every paper is right but because claims become exposed to methods that can prove them wrong.
+
+Engineering advances because failures leave designs behind.
+
+Markets update because bets encounter prices.
+
+Human judgment becomes stronger when it experiences being wrong in ways that are legible.
+
+Agentic systems could accelerate this process if they make correction denser and less socially costly.
+
+They could also destroy it if they make every answer so smooth that nobody feels the error.
+
+The critique loop should keep error visible long enough to matter.
+
+This principle is especially important when the model itself is the source of the error.
+
+The agent should not silently rewrite its previous claim and behave as if the contradiction never happened.
+
+The workshop needs revision memory.
+
+You said X.
+
+The evidence now supports Y.
+
+What changed?
+
+This is not about shaming the system.
+
+It is about maintaining epistemic continuity.
+
+Humans need the same treatment.
+
+A master who changes position should not be punished for updating. But the change should have a reason.
+
+We believed the market was too small.
+
+New data arrived.
+
+We thought the source was credible.
+
+A primary document contradicted it.
+
+We assumed the system required this architecture.
+
+The load test disproved the assumption.
+
+Correction becomes trustworthy when the cause is visible.
+
+This is one of the places where agentic work can improve organizations that currently suffer from executive amnesia.
+
+A decision changes and everyone acts as if the new decision was always obvious.
+
+The record says otherwise.
+
+That record makes learning possible.
+
+It also makes humility operational.
+
+The workshop can celebrate a caught mistake.
+
+This sounds cultural and soft until one considers the alternative.
+
+If people are punished for being caught wrong, errors move underground.
+
+If agents are tuned never to contradict the user, the same thing happens technically.
+
+The system becomes pleasant and brittle.
+
+A high-performing workshop creates status around correction.
+
+Who found the hidden assumption?
+
+Who caught the unsupported claim?
+
+Who stopped the bad deployment?
+
+Who noticed the commission had changed?
+
+These are achievements.
+
+The apprentice who catches the master should gain trust.
+
+The agent that repeatedly identifies a class of failure should be routed toward more of that review.
+
+The critic that generates noise should lose standing.
+
+Critique itself needs evaluation.
+
+This creates a second-order loop.
+
+Which criticisms were useful?
+
+Which were false alarms?
+
+Which changed outcomes?
+
+Which arrived too late?
+
+Over time the workshop learns how to challenge itself better.
+
+That is an extraordinary possibility.
+
+We are accustomed to evaluating the maker.
+
+Agentic systems let us evaluate the evaluator.
+
+A good critic becomes an asset that can be replicated across the organization.
+
+A bad review pattern can be identified and removed.
+
+The workshop becomes more corrigible not by moral aspiration, but by engineering the path through which objections change work.
+
+That is the deeper function of the loop.
+
+Not criticism.
+
+Correction with memory.
+
 The first answer is not the product.
 
 It is the beginning of the relationship.
