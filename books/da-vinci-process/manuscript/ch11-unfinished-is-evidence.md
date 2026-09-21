@@ -638,6 +638,50 @@ Unfinished is evidence when it shows how understanding changed.
 
 Finished work earns trust when it does not pretend the change never happened.
 
+This also changes how release should be understood.
+
+Release is not the moment when uncertainty reaches zero.
+
+That moment never comes.
+
+Release is the moment when the workshop decides the remaining uncertainty is compatible with the promise being made.
+
+A book can publish with interpretive uncertainty if the uncertainty is stated.
+
+Software can ship with known limitations if users are not misled and risks are bounded.
+
+A scientific result can be published with wide confidence intervals if the claim respects them.
+
+The dishonest move is not imperfection.
+
+It is compression of uncertainty after the decision to finish.
+
+Agents make that compression seductive because they are excellent at producing the tone of closure.
+
+The closing paragraph appears.
+
+The caveat becomes elegant.
+
+The unresolved question becomes "future work."
+
+The master should resist narrative pressure when the evidence has not resolved.
+
+Sometimes the strongest ending is a boundary.
+
+We know this.
+
+We do not know that.
+
+Here is what would change the conclusion.
+
+That shape can feel less satisfying than a flourish.
+
+It is often more durable.
+
+The unfinished trace has then done its job.
+
+It taught the final artifact where to stop claiming.
+
 Finish what needs to be finished.
 
 Preserve what needs to be remembered.
