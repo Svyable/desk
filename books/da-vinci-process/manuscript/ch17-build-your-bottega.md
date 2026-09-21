@@ -534,4 +534,296 @@ Invite correction.
 
 Protect the human's ability to see.
 
+A workshop becomes real when the first surprising failure changes its design.
+
+Until then, it is architecture on paper.
+
+Suppose the research agent repeatedly returns high-quality secondary summaries and weak primary sourcing.
+
+Do not simply correct the outputs forever.
+
+Change the role.
+
+Require primary-source-first retrieval for claims above a certain consequence.
+
+Suppose the coding agent writes excellent features and weak tests.
+
+Do not add a generic instruction to "be careful."
+
+Separate testing into another function with different incentives.
+
+Suppose the critic agent rewrites everything toward blandness.
+
+Restrict its authority. Ask it to diagnose before proposing language.
+
+The bottega evolves from observed failure.
+
+This is how local process becomes craft.
+
+There is no universal agent org chart because the right decomposition depends on where the work breaks.
+
+This should make leaders skeptical of prefabricated "AI workforce" diagrams with dozens of named agents.
+
+A diagram can be useful for imagination.
+
+It is not evidence that the roles are necessary.
+
+Start with the friction.
+
+Where does the human repeatedly lose time?
+
+Where does quality repeatedly fail?
+
+Where does important context disappear?
+
+Where does review arrive too late?
+
+Those failures define the first agents.
+
+Then watch.
+
+A mature bottega will probably contain fewer permanent roles than the early enthusiasm suggests.
+
+Many capabilities will be summoned on demand.
+
+One research process can behave differently under different commissions.
+
+One critic can adopt several evaluation lenses.
+
+Specialization should be earned by persistent context, permission, tool access, or evaluation—not by giving every prompt a job title.
+
+This keeps the workshop legible.
+
+Legibility matters because the human principal needs a model of the system.
+
+If you cannot explain what your agents are doing, you cannot meaningfully supervise them.
+
+This becomes a practical limit on scale.
+
+The question is not how many agents the platform can run.
+
+The question is how many distinct responsibilities the workshop can keep coherent.
+
+An orchestra can contain a hundred musicians because the roles, score, rehearsal culture, and conductor create shared structure.
+
+One hundred agents with overlapping mandates and no shared state are not an orchestra.
+
+They are noise with invoices.
+
+The bottega needs a score.
+
+In knowledge work, that score is the project state.
+
+The commission.
+
+Current decisions.
+
+Standards.
+
+Open questions.
+
+Permissions.
+
+Definitions.
+
+Source of truth.
+
+Every agent should encounter the relevant slice of that state.
+
+Not a giant prompt containing the whole organization.
+
+The relevant slice.
+
+Context quality is another form of routing.
+
+Too little context and the agent becomes generic.
+
+Too much and the signal disappears.
+
+The master curates context the way a painter chooses a palette.
+
+This is one of the new skills that will feel trivial until people see the difference it makes.
+
+A good context package is not a data dump.
+
+It contains what the task needs to become local.
+
+The current file.
+
+The relevant standards.
+
+A few strong examples.
+
+Known constraints.
+
+Recent decisions.
+
+The source trail.
+
+What not to change.
+
+This is the working table.
+
+Everything else stays in the studio until needed.
+
+There is another discipline: name the canonical object.
+
+A workshop with multiple agents can accidentally create several realities.
+
+One agent edits a copy.
+
+Another analyzes an older version.
+
+A third updates a plan whose assumptions have changed.
+
+The human receives three coherent answers from three different worlds.
+
+Version confusion becomes epistemic confusion.
+
+The system should know which artifact is current.
+
+This sounds like mundane file hygiene.
+
+It is central.
+
+The intelligence of the workshop cannot exceed the coherence of its state.
+
+A brilliant model working on the wrong version is worse than a mediocre model working on the right one.
+
+This is why source-of-truth discipline becomes more valuable as intelligence scales.
+
+Then comes cadence.
+
+Human-agent work can become exhausting if every capability is active continuously.
+
+A good bottega develops rhythms.
+
+Research burst.
+
+Synthesis.
+
+Critique.
+
+Revision.
+
+Verification.
+
+Rest.
+
+The phases overlap, but the workshop should know when attention has shifted.
+
+This protects against a common pathology: permanent ideation.
+
+The agent always has another thought.
+
+Another source.
+
+Another option.
+
+The project never experiences silence.
+
+Humans need silence because selection often requires integration that does not look productive.
+
+The master should be willing to turn the workshop off.
+
+Read the chapter without assistance.
+
+Walk away from the design.
+
+Sit with the contradiction.
+
+The machine's availability should not become a demand to use it.
+
+This is perhaps the strangest discipline of abundance.
+
+Restraint.
+
+The historical master had natural limits. Apprentices went home. Materials ran out. Light changed. Communication took time.
+
+The agentic master must create some limits voluntarily.
+
+Otherwise the workshop colonizes every gap.
+
+This is not anti-technology.
+
+It is protection of the human process the technology is supposed to extend.
+
+A good bottega should make a person more capable of attention, not less capable of being alone.
+
+That includes knowing when the agent has become a reflex.
+
+Before asking, pause.
+
+Do I need retrieval?
+
+Generation?
+
+Critique?
+
+Execution?
+
+Or am I trying to avoid deciding?
+
+That question will save more time than any prompt library.
+
+Because the biggest waste in an agentic workshop will not be slow models.
+
+It will be high-speed avoidance.
+
+Generating instead of choosing.
+
+Researching instead of committing.
+
+Optimizing instead of asking whether the goal still matters.
+
+The master has to feel those substitutions.
+
+This is why building a bottega is ultimately a practice of self-management as much as system design.
+
+The workshop amplifies the operator.
+
+A curious operator becomes more curious.
+
+A disciplined operator becomes more leveraged.
+
+An insecure operator can become buried in options.
+
+A careless operator can produce mistakes at industrial speed.
+
+The agents inherit the shape of the principal's attention.
+
+That is not destiny. Good process can compensate for personality. Critics can challenge. Gates can slow. Memory can preserve.
+
+But the master remains part of the system.
+
+You cannot automate yourself out of the workshop and still call it yours.
+
+The point is not to stand above the agents.
+
+It is to remain present where the work becomes consequential.
+
+That presence can be light.
+
+A question.
+
+A selection.
+
+A refusal.
+
+A change in the commission.
+
+The smallest human intervention can redirect enormous machine effort.
+
+That is leverage in its purest form.
+
+It deserves care.
+
+Build the workshop so your attention lands where it has the highest consequence.
+
+Then protect that attention as fiercely as any other scarce resource.
+
+The machines will bring speed.
+
+Your job is to bring direction worth accelerating.
+
 Then attempt something that would have been unreasonable before the workshop existed.
