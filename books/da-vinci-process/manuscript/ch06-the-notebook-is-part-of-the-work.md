@@ -522,6 +522,42 @@ Memory should make the work smarter.
 
 It should not make the worker afraid to think.
 
+This suggests a deceptively simple test for workshop memory.
+
+Could a capable stranger continue?
+
+Not perfectly.
+
+Not without asking questions.
+
+But could someone new enter the project, understand what matters, identify what is current, see where the evidence lives, and know what remains unresolved?
+
+If the answer is no, the workshop has private intelligence rather than institutional intelligence.
+
+Agents can hide this weakness because the current operator can rely on personal history plus a model that has accumulated conversational context.
+
+Everything feels connected until the operator disappears.
+
+The handoff reveals the truth.
+
+A good notebook is therefore written partly for the next mind.
+
+That next mind may be tomorrow's version of you.
+
+A colleague.
+
+A successor.
+
+An auditor.
+
+An agent running under a different model.
+
+Continuity should not depend on one memory system being immortal.
+
+The work deserves a record that can outlive its current collaborators.
+
+That is how the workshop becomes larger than the session.
+
 A durable intelligence system should allow the same.
 
 The workshop begins to compound when neither has to begin again.
