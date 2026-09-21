@@ -52,7 +52,8 @@ test('buildKdpHtml creates a title page, linked contents, and chapter breaks', (
 test('HTML remote reads ignore unsaved repository-switcher text', async () => {
   const source = await readFile(new URL('./kdp-export.js', import.meta.url), 'utf8');
   assert.doesNotMatch(source, /getElementById\(['"]repoInput['"]\)/);
-  assert.match(source, /api\.github\.com\/repos\/\$\{workspace\.owner\}\/\$\{workspace\.repo\}/);
+  assert.match(source, /api\.github\.com\/repos\/\$\{repo\.owner\}\/\$\{repo\.repo\}/);
+  assert.match(source, /const branch = await remoteBranch\(workspace\)/);
   assert.match(source, /raw\.githubusercontent\.com\/\$\{workspace\.owner\}\/\$\{workspace\.repo\}/);
 });
 
