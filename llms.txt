@@ -21,6 +21,7 @@ The canonical title, author, drafting status, chapter count, and manuscript cont
 - [Abdicating Intelligence](https://svyable.github.io/desk/books/abdicating-intelligence/README.md)
 - [Adaptation Debt](https://svyable.github.io/desk/books/adaptation-debt/README.md)
 - [Adjacency](https://svyable.github.io/desk/books/adjacency/README.md)
+- [After Pretraining](https://svyable.github.io/desk/books/after-pretraining/README.md)
 - [Agentile](https://svyable.github.io/desk/books/agentile/README.md)
 - [Aggregate, Consolidate, Innovate](https://svyable.github.io/desk/books/aggregate-consolidate-innovate/README.md)
 - [Algorithmic Influence](https://svyable.github.io/desk/books/algorithmic-influence/README.md)
