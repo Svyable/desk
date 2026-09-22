@@ -50,3 +50,40 @@ No evidence checked here supports an intelligence/disinformation explanation for
 ## Defeat condition for the book's strongest synthesis
 
 The `stacking ambiguity` thesis weakens if the original candidate biosignatures can be shown to arise from genuinely independent physical histories and a joint biological model predicts their co-occurrence substantially better than tested abiotic models. Future returned samples with preserved cellular organization, biological polymers, diagnostic isotopic fractionation and geological context that jointly defeat abiotic countermodels would force the manuscript to retire its ALH84001-centered caution for that sample rather than move the goalposts.
+
+## Source audit — the counterfeit can be a history, not a clue
+
+The opening currently explains `stacking ambiguity` mainly by asking whether several observations share an abiotic parent. ALH84001 offers a harder version: the competing model can be a **sequence of geological events** that manufactures several apparently biological observations at different stages.
+
+Edward Scott's 1999 *Journal of Geophysical Research: Planets* reconstruction argues that the carbonates formed from aqueous fluids and that later shock heating generated or modified the associated magnetite/sulfide assemblages. Allan Treiman's 2003 *Astrobiology* paper goes further: hydrothermal carbonate deposition is followed by impact shock/thermal metamorphism; iron-rich carbonate decomposes into fine magnetite, and carbon-bearing gas plus water can then generate organics through Fischer–Tropsch-like chemistry. Those papers disagree in details with other reconstructions, but that disagreement is useful. The abiotic alternative is not necessarily one reaction impersonating four biomarkers. It can be a rock's biography.
+
+Primary/peer-reviewed anchors:
+- Scott (1999), *Origin of carbonate-magnetite-sulfide assemblages in Martian meteorite ALH84001*: https://doi.org/10.1029/1998JE900034
+- Treiman (2003), *Submicron Magnetite Grains and Carbon Compounds in Martian Meteorite ALH84001: Inorganic, Abiotic Formation by Shock and Thermal Metamorphism*: https://doi.org/10.1089/153110703769016451
+- Bell (2007), experimental shock decomposition of siderite; NASA NTRS record: https://ntrs.nasa.gov/citations/20070018211
+
+Bell's shock-recovery experiments add a useful mechanistic constraint. At 49 GPa, shocked siderite produced magnetite spanning sizes, compositions and morphologies overlapping ALH84001 and magnetotactic-bacterial magnetites. But Bell also notes a problem for simple transfer to the meteorite: estimates cited there put ALH84001's bulk shock near 32 GPa and roughly 100–110 °C, while the 49 GPa experiment required local heating above roughly 470 °C. Evidence for localized melting keeps shock decomposition physically available, but the experiment is an **existence proof for a pathway**, not proof that this exact pathway generated every disputed ALH84001 grain.
+
+### Strongest counterevidence: the rock does not have one uncontested thermal history
+
+The shock model must be allowed to lose. Kirschvink, Maine & Vali (1997) reported paleomagnetic evidence they interpreted as showing that the carbonate globules formed at low temperature and that the meteorite had not been significantly reheated after an ancient crushed zone formed. Scott, Yamaguchi & Krot (1997), by contrast, reported petrological evidence for carbonate shock melting. Later work continued to argue over which components record which thermal events.
+
+Primary anchors:
+- Kirschvink, Maine & Vali (1997), *Science*: https://doi.org/10.1126/science.275.5306.1629
+- Scott, Yamaguchi & Krot (1997), *Nature*: https://doi.org/10.1038/387377a0
+
+**Manuscript consequence:** do not replace a biological just-so story with an abiotic just-so story. The better chapter follows the rock through candidate event histories and asks which observations each history jointly predicts. `One abiotic parent` should be broadened to **causal dependence across a shared geological history**. Two clues can be dependent even when they were not created by the same instantaneous mechanism.
+
+### Strongest counterargument to the book's skeptical direction
+
+Thomas-Keprta and colleagues continued to argue that a subpopulation of ALH84001 magnetites has a conjunction of properties characteristic of magnetotactic-bacterial magnetite and not adequately reproduced by the proposed inorganic routes. Their 2002 review estimated roughly one-quarter of the magnetites as belonging to that disputed population while acknowledging likely inorganic origins for the remainder: https://doi.org/10.1128/AEM.68.8.3663-3672.2002
+
+The manuscript should therefore avoid the lazy sentence `geology learned the trick`. Laboratory reproduction of overlapping morphology destroys a simple claim of visual exclusivity; it does **not** automatically reproduce every chemical, crystallographic, spatial and population-level property invoked by the biogenic case. The fair test is joint likelihood under competing histories, not whether one counterfeit crystal can be made.
+
+### Publication holds
+
+- Do not present shock decomposition as the settled origin of all ALH84001 magnetite.
+- Do not imply that the 49 GPa Bell experiment recreated ALH84001's bulk shock conditions; preserve the pressure/temperature mismatch and the localized-heating argument.
+- Do not present low-temperature carbonate formation and later shock modification as mutually exclusive unless the specific chronology requires it.
+- When using `stacking ambiguity`, distinguish **shared mechanism** from **shared causal history**.
+- Preserve the Thomas-Keprta magnetite argument in its strongest form before explaining why the exclusivity claim remains disputed.
