@@ -69,3 +69,39 @@ No classified-program or state-disinformation claim is needed for the core thesi
 ## Defeat condition
 
 The book's strongest astrobiology claim weakens if broad, well-characterized abiotic systems routinely generate stable, polymer-scale, mutually compatible homochiral networks indistinguishable from metabolism-capable biology across molecular families. Conversely, the claim that opposite-handed coherent biochemistry would be unusually diagnostic weakens as human mirror-biochemistry production becomes common enough that engineered contamination is a serious mission-level alternative.
+
+## Source audit — the Murchison result has a contamination history
+
+The clean sentence `meteorites can be asymmetric` is defensible now, but it was not born clean. The book should preserve the argument that made the result expensive.
+
+Early Murchison amino-acid work found chiral amino acids close to racemic and treated that as evidence for abiotic extraterrestrial synthesis. A 1982 report of L-excesses in several familiar protein amino acids then triggered a direct contamination objection: Cronin and Pizzarello argued in 1983 that terrestrial contamination could account for much of those particular excesses. That dispute matters because `L excess in a meteorite` is exactly the pattern terrestrial biology is most capable of faking.
+
+Primary/authoritative trail:
+- Pollock et al. (1975), isovaline reported approximately racemic in Murchison: https://ntrs.nasa.gov/citations/19760028105
+- Cronin & Pizzarello (1983), contamination critique of reported Murchison amino-acid optical activity: https://ntrs.nasa.gov/citations/19830042065
+
+The later case became stronger by changing the molecules and adding orthogonal provenance evidence. Cronin & Pizzarello's 1997 result focused on alpha-methyl amino acids that are unknown or uncommon in terrestrial biology and reported L-excesses of about 7.0% and 9.1% in the two alpha-methylisoleucine stereoisomer pairs, with related excesses in isovaline and alpha-methylnorvaline. Subsequent compound-specific work found isovaline excesses varying between and even within Murchison samples, with carbon-isotope evidence and no indication that the more abundant L-isovaline was terrestrial contamination. Broader Murchison amino-acid isotope measurements also show strongly non-terrestrial isotope compositions.
+
+Primary/authoritative trail:
+- Cronin & Pizzarello (1997): https://ntrs.nasa.gov/citations/20040173025
+- Cronin (2001), isovaline heterogeneity, carbon isotope evidence, and contamination check: https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20010102851.pdf
+- Pizzarello et al. (1991), unusual carbon and hydrogen isotope ratios in Murchison amino acids: https://ntrs.nasa.gov/citations/19910046583
+
+### Manuscript consequence
+
+Chapter 1 currently gets the headline right but can make the evidentiary sequence do more work. The important story is not merely that Murchison `ruined the easy test`. It is that chirality itself once generated an easy false positive, researchers attacked contamination, and the stronger extraterrestrial-asymmetry case emerged by selecting harder-to-contaminate compounds and demanding isotope/provenance evidence. The case therefore demonstrates the book's thesis from inside its own history: **a biosignature becomes useful when the alternatives are forced to pay additional evidentiary costs.**
+
+This also sharpens the proposed `chirality stack`. Magnitude alone is not enough. For a returned extraterrestrial sample, the stack should ask at minimum: which molecule carries the excess; how common that molecule is in terrestrial biology and laboratory chemistry; whether both enantiomers have extraterrestrial isotope signatures; whether the excess varies coherently across independently handled subsamples; and whether plausible contamination can reproduce the molecular distribution rather than merely one ratio.
+
+### Strongest counterargument
+
+The historical contamination dispute should not be used to cast generic doubt on the 1997 alpha-methyl-amino-acid result. It concerned earlier excesses in familiar protein amino acids and helped motivate better discriminants. The later result deliberately used unusual compounds, and subsequent isotope work strengthened extraterrestrial provenance. The lesson is not `Murchison might just be contaminated`; it is that **contamination is a hypothesis that can be made progressively more expensive with compound choice, isotopes, sampling and replication.**
+
+There is a second useful complication: Murchison does not contain one universal chirality value. Reported isovaline excesses vary across samples, and earlier work found it approximately racemic. Any chapter that turns `Murchison` into a single fixed percentage will erase the chemistry the book is trying to teach.
+
+### Publication holds
+
+- Do not merge the 1983 contamination critique of familiar protein amino acids with the 1997 alpha-methyl-amino-acid result; they concern different analytical claims.
+- Do not describe every Murchison amino acid as L-enriched. Several compounds/samples are racemic, and reported excesses are heterogeneous.
+- Do not use `rare on Earth` as sole proof of extraterrestrial provenance when isotope or sample-context evidence is available.
+- If Chapter 1 retains the 7% and 9% figures, identify them as the two alpha-methylisoleucine stereoisomer pairs reported by Cronin & Pizzarello rather than as a generic Murchison chirality measurement.
