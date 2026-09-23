@@ -65,3 +65,51 @@ That countermodel loses sufficiency if preregistered, independently replicated, 
 - Donald Hebb / McGill primary experimental papers and funding provenance.
 - Ewen Cameron primary papers, surviving grant/program records and Canadian/U.S. official investigations.
 - Full study-level extraction of the modern Ganzfeld meta-analysis, with independent skeptical analyses and prospective replications.
+
+
+## Source audit — deprivation can impair the product an interrogator wants
+
+### KUBARK: effect is not truth
+
+The July 1963 CIA **KUBARK Counterintelligence Interrogation** manual is useful precisely because it does not support the easy claim that sensory deprivation is a truth technology. In its section on deprivation of sensory stimuli, the manual treats arrest, detention and especially solitary confinement as removal of familiar sensory input. It cites isolation literature for anxiety and hallucinations, then says the resulting theories are suggested **“but by no means prove[d]”**. The operational aim described there is to make the subject more dependent on the interrogator and more susceptible to suggestion.
+
+Primary-source target: CIA, *KUBARK Counterintelligence Interrogation*, July 1963; stable document index and declassified scans preserved by the National Security Archive:
+https://nsarchive2.gwu.edu/NSAEBB/NSAEBB122/
+
+**Manuscript consequence:** Chapter 5 should not move from `deprivation changes cognition` to `deprivation improves intelligence collection`. Those are different dependent variables. KUBARK itself is evidence that the institution contemplated and operationalized disruption; it is not outcome evidence that the disruption produced more accurate reports.
+
+### Cameron: dramatic change is still not programmable output
+
+A surviving CIA record on Cameron describes LSD and related agents, intensive repetition of prearranged verbal signals, partial sensory isolation and subsequent continuous sleep. It also records “dramatic results” while noting that the file did not indicate whether patients were witting. This is strong evidence for sponsorship, protocol and institutional interest. It is weak evidence for **what information or behavior could be selected reliably by the operator**.
+
+Primary source: CIA Reading Room, `CIA-RDP80M00165A000700140066-1`:
+https://www.cia.gov/readingroom/document/cia-rdp80m00165a000700140066-1
+
+A useful later cross-check is Cameron's own published chronology. Modern historical review of those papers finds that psychic-driving ideas predated the CIA funding and that later published work continued to frame the procedures as psychiatric treatment. That does not excuse the treatment or establish informed consent. It does prevent the manuscript from narrating every Cameron technique as though CIA sponsorship invented it.
+
+Secondary map to the primary Cameron papers: Torbay (2023), *History of Psychiatry*:
+https://doi.org/10.1177/0957154X231163763
+
+### A denominator the book should demand
+
+For any interrogation/deprivation claim, separate at least four outputs:
+
+1. **state change** — anxiety, confusion, hallucination, dependency, exhaustion;
+2. **compliance** — willingness to speak or follow instructions;
+3. **report volume** — how much material the subject produces;
+4. **report accuracy** — how much independently verified information improves.
+
+A method can succeed spectacularly on the first three and make the fourth worse. That is not semantic caution; it is the difference between changing a person and collecting intelligence.
+
+### Strongest counterargument
+
+The absence of a clean truth-yield denominator in surviving public records does **not** establish that isolation had no operational value. Interrogators may value dependency, disruption, rapport leverage or willingness to talk even when the technique does not mechanically increase truthfulness. Some useful intelligence could also have been obtained in mixed-method interrogations whose causal contribution cannot now be separated.
+
+That counterargument narrows the durable claim: **deprivation's documented ability to alter cognition does not, by itself, establish an improvement in accurate intelligence output.** The book should test the latter directly whenever it moves from behavioral effect to interrogation efficacy.
+
+### Publication holds
+
+- Do not call KUBARK an MKULTRA product unless a documentary chain is recovered; treat research program, doctrine and field practice as separate historical objects.
+- Do not turn KUBARK's discussion of sensory deprivation into experimental proof of efficacy. It is a doctrine/manual source citing research, not a controlled interrogation trial.
+- Do not use “dramatic results” in the Cameron record as a synonym for successful mind control, truthful disclosure or programmable behavior.
+- Preserve the possibility that a coercive technique can have operational utility without being a truth machine.
