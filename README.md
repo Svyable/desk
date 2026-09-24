@@ -29,6 +29,7 @@ Desk is the working library for Sven Hardy Benson’s books: drafts, complete ma
 | [**Austerity Measures**](books/austerity-measures/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/austerity-measures/) |
 | [**Commit**](books/commit/) | ✅ Complete expanded draft · publication candidate | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/commit/) |
 | [**Deceptatron**](books/deceptatron/) | ✅ Complete first draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/deceptatron/) |
+| [**Economic Exploitation**](books/economic-exploitation/) | ✍️ Drafting | 3 of 20 | 6,151 | The working thesis is that economic exploitation is easiest to see by looking at the price of saying no. | [Read →](https://svyable.github.io/desk/reader/#/b/economic-exploitation/) |
 | [**Energy, Value & Intelligence**](books/energy-value-intelligence/) | ✍️ Drafting | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/energy-value-intelligence/) |
 | [**Face The Strange**](books/face-the-strange/) | ✅ Complete draft · Published on Shelf | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/face-the-strange/) |
 | [**Fiscal Wall**](books/fiscal-wall/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/fiscal-wall/) |

@@ -42,6 +42,7 @@ The canonical title, author, drafting status, chapter count, and manuscript cont
 - [Data Talent & Leverage](https://svyable.github.io/desk/books/data-talent-leverage/README.md)
 - [Deceptatron](https://svyable.github.io/desk/books/deceptatron/README.md)
 - [DemocrAIcy](https://svyable.github.io/desk/books/democraicy/README.md)
+- [Economic Exploitation](https://svyable.github.io/desk/books/economic-exploitation/README.md)
 - [Energy, Value & Intelligence](https://svyable.github.io/desk/books/energy-value-intelligence/README.md)
 - [Exponential Compression](https://svyable.github.io/desk/books/exponential-compression/README.md)
 - [Face the Strange](https://svyable.github.io/desk/books/face-the-strange/README.md)
