@@ -13,15 +13,14 @@ Desk is the working library for Sven Hardy Benson’s books: drafts, complete ma
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
-> **Shelf: 58 author projects · 56 released · 2 public drafts/proofs**
-> **Where they live: 58 in both Desk + Shelf · 77 Desk-only · 0 Shelf-only**
-> **Release review queue: 13 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
+> **Shelf: 57 author projects · 57 released · 0 public drafts/proofs**
+> **Where they live: 57 in both Desk + Shelf · 78 Desk-only · 0 Shelf-only**
+> **Release review queue: 12 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
 |---|---|---|---|
 | [**Abdicating Intelligence**](books/abdicating-intelligence/) | ✍️ Released first edition source | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/abdicating-intelligence/) |
 | [**Adjacency**](books/adjacency/) | ✅ Complete draft · Published on Shelf | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/adjacency/) |
-| [**Agentile**](books/agentile/) | ✅ Complete draft · publication candidate | 🟡 Public proof | [Shelf →](https://svyable.github.io/shelf/reader/#/b/agentile/) |
 | [**Allocating Intelligence**](books/allocating-intelligence/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/allocating-intelligence/) |
 | [**America's Got a Spending Problem**](books/americas-got-a-spending-problem/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/americas-got-a-spending-problem/) |
 | [**Appeal**](books/appeal/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/appeal/) |
@@ -57,7 +56,6 @@ Desk is the working library for Sven Hardy Benson’s books: drafts, complete ma
 | [**The Compatibility Dividend**](books/the-compatibility-dividend/) | ✅ Complete draft · Published on Shelf | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-compatibility-dividend/) |
 | [**The Delegation Machine**](books/the-delegation-machine/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-delegation-machine/) |
 | [**The Delete Key**](books/the-delete-key/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-delete-key/) |
-| [**The Exponentiality**](books/the-exponentiality/) | ✅ Complete draft · publication candidate | 🟡 Public draft | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-exponentiality/) |
 | [**The Intelligence Dilemma**](books/the-intelligence-dilemma/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-intelligence-dilemma/) |
 | [**Built to Be Alone**](books/the-loneliness-dividend/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-loneliness-dividend/) |
 | [**The Long-Running Mind**](books/the-long-running-mind/) | ✅ First complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-long-running-mind/) |
@@ -68,6 +66,7 @@ Desk is the working library for Sven Hardy Benson’s books: drafts, complete ma
 | [**The Retry Generation**](books/the-retry-generation/) | ✍️ Expanded first draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-retry-generation/) |
 | [**The Risk Pool**](books/the-risk-pool/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-risk-pool/) |
 | [**The Unbounding**](books/the-unbounding/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-unbounding/) |
+| [**The Unobserved World**](books/the-unobserved-world/) | ✅ Complete draft · Published on Shelf | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-unobserved-world/) |
 | [**The Vanishing Bid**](books/the-vanishing-bid/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-vanishing-bid/) |
 | [**The Weather We Build**](books/the-weather-we-build/) | ✍️ Expanded working draft · publication edit | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-weather-we-build/) |
 | [**The World Beneath the World**](books/the-world-beneath-the-world/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-world-beneath-the-world/) |
@@ -78,7 +77,7 @@ Desk is the working library for Sven Hardy Benson’s books: drafts, complete ma
 | [**Who Taught America?**](books/who-taught-america/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/who-taught-america/) |
 | [**Wild Speculation**](books/wild-speculation/) | ✅ Complete draft · Published on Shelf | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/wild-speculation/) |
 
-**Desk-only complete drafts awaiting an explicit release decision:** [Bookself](books/bookself/), [The Alliance Advantage](books/the-alliance-advantage/), [The Books That Wrote America](books/the-books-that-wrote-america/), [The Crime That Made the Decade](books/the-crime-that-made-the-decade/), [The Half-Life of Now](books/the-half-life-of-now/), [The Last Human Channel](books/the-last-human-channel/), [The Longevity Moment](books/the-longevity-moment/), [The Taiwan Threshold](books/the-taiwan-threshold/), [Third Language](books/the-third-language/), [The Unobserved World](books/the-unobserved-world/), [Visitors](books/the-visitors/), [The Warning Problem](books/the-warning-problem/), [The World Won’t Choose Sides](books/the-world-wont-choose-sides/)
+**Desk-only complete drafts awaiting an explicit release decision:** [Bookself](books/bookself/), [The Alliance Advantage](books/the-alliance-advantage/), [The Books That Wrote America](books/the-books-that-wrote-america/), [The Crime That Made the Decade](books/the-crime-that-made-the-decade/), [The Half-Life of Now](books/the-half-life-of-now/), [The Last Human Channel](books/the-last-human-channel/), [The Longevity Moment](books/the-longevity-moment/), [The Taiwan Threshold](books/the-taiwan-threshold/), [Third Language](books/the-third-language/), [Visitors](books/the-visitors/), [The Warning Problem](books/the-warning-problem/), [The World Won’t Choose Sides](books/the-world-wont-choose-sides/)
 <!-- SHELF_SUMMARY:END -->
 
 Some books here are only a chapter or two into existence. Others are complete manuscripts still being edited, tested, or reconsidered. That is intentional. **Desk shows the work in motion instead of pretending every book is at the same stage.**
@@ -177,7 +176,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Negative Assets**](books/the-deletion-economy/) | ✍️ Drafting | 19 of 19 | 38,128 | The modern economy knows how to celebrate beginnings. This book argues that endings—wells plugged, platforms removed, reactors dismantled, mines reclaimed, lead pipes excavated, persistent… | [Read →](https://svyable.github.io/desk/reader/#/b/the-deletion-economy/) |
 | [**Built to End**](books/the-expiration-economy/) | ✍️ Drafting | 30 of 30; late-chapter evidence pass complete | 92,160 | The working thesis of Built to End is that this imbalance becomes economically decisive when creation gets cheap. | [Read →](https://svyable.github.io/desk/reader/#/b/the-expiration-economy/) |
 | [**Trust With a Fuse**](books/the-expiration-machine/) | ✍️ Drafting | 21 of 21 + prologue + epilogue | 45,842 | The central thesis is that expiration is one of civilization's hidden control primitives. | [Read →](https://svyable.github.io/desk/reader/#/b/the-expiration-machine/) |
-| [**The Exponentiality**](books/the-exponentiality/) | ✅ Complete draft · publication candidate | Prologue + Chapters 1–12 + back matter | 35,963 | <!-- bookself-reader-links:start --> Reader links: Working edition · Desk Reader · Published edition · Shelf Reader <!-- bookself-reader-links:end --> | [Read →](https://svyable.github.io/desk/reader/#/b/the-exponentiality/) |
+| [**The Exponentiality**](books/the-exponentiality/) | ✅ Complete draft · publication candidate | Prologue + Chapters 1–12 + back matter | 35,963 | <!-- bookself-reader-links:start --> Reader links: Working edition · Desk Reader <!-- bookself-reader-links:end --> | [Read →](https://svyable.github.io/desk/reader/#/b/the-exponentiality/) |
 | [**The Half-Life of Now**](books/the-half-life-of-now/) | ✅ Complete Desk draft | 24 of 24 | 49,845 | This is the complete Desk edition of The Half-Life of Now. Its central argument is that modern civilization is accumulating freshness debt: the gap between the world as it is and the… | [Read →](https://svyable.github.io/desk/reader/#/b/the-half-life-of-now/) |
 | [**Hundred-Year Career**](books/the-hundred-year-career/) | ✍️ Drafting | 10 of 10 | 2,217 | The working thesis is that the future will reward people less for choosing one profession correctly than for becoming unusually good at rebuilding themselves as technology, institutions… | [Read →](https://svyable.github.io/desk/reader/#/b/the-hundred-year-career/) |
 | [**The Hundred-Year Handoff**](books/the-hundred-year-handoff/) | ✍️ Drafting · full structural draft | 21 of 21 + back matter | 47,597 | Some of civilization's hardest projects have a peculiar customer: a person who is not alive yet. | [Read →](https://svyable.github.io/desk/reader/#/b/the-hundred-year-handoff/) |
@@ -209,7 +208,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Ten-Year Republic**](books/the-ten-year-republic/) | ✍️ Expanded working draft · length audit | 25 / 25 + epilogue | 82,000 | America is usually told as a continuous story: founding, expansion, Civil War, industrialization, world power, civil rights, digital age. | [Read →](https://svyable.github.io/desk/reader/#/b/the-ten-year-republic/) |
 | [**Third Language**](books/the-third-language/) | ✅ Complete first draft | 20 of 20 | 60,261 | This book argues that the most consequential communication between species often works differently. | [Read →](https://svyable.github.io/desk/reader/#/b/the-third-language/) |
 | [**The Unbounding**](books/the-unbounding/) | ✅ Complete draft | 19 of 19 | 30,009 | <!-- bookself-reader-links:start --> Reader links: Working edition · Desk Reader · Published edition · Shelf Reader <!-- bookself-reader-links:end --> | [Read →](https://svyable.github.io/desk/reader/#/b/the-unbounding/) |
-| [**The Unobserved World**](books/the-unobserved-world/) | ✅ Complete draft | 20 of 20 | 76,442 | The Unobserved World is about that missing half of modern evidence. Its central argument is that prediction systems do not merely forecast a future that exists independently of them. When… | [Read →](https://svyable.github.io/desk/reader/#/b/the-unobserved-world/) |
+| [**The Unobserved World**](books/the-unobserved-world/) | ✅ Complete draft · Published on Shelf | 20 of 20 | 76,442 | The Unobserved World is about that missing half of modern evidence. Its central argument is that prediction systems do not merely forecast a future that exists independently of them. When… | [Read →](https://svyable.github.io/desk/reader/#/b/the-unobserved-world/) |
 | [**Value Stack**](books/the-value-stack/) | ✍️ Drafting | 19 of 19 | 36,753 | The central thesis is that value creation and value capture occur at different layers of economic systems, and that bargaining power migrates toward necessary layers that are difficult to… | [Read →](https://svyable.github.io/desk/reader/#/b/the-value-stack/) |
 | [**The Vanishing Bid**](books/the-vanishing-bid/) | ✅ Complete draft | 11 of 11 | 16,212 | The working thesis is that liquidity is not a property of an asset but a behavior of the people and machines currently willing to trade it — a standing offer, renewed voluntarily every few… | [Read →](https://svyable.github.io/desk/reader/#/b/the-vanishing-bid/) |
 | [**Visitors**](books/the-visitors/) | ✅ Complete first draft | 26 of 26 | 73,455 | Desk is the canonical working edition. This book has not been released to Sven Hardy Benson’s Shelf. | [Read →](https://svyable.github.io/desk/reader/#/b/the-visitors/) |
