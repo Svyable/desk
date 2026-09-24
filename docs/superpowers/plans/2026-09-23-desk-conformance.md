@@ -211,18 +211,20 @@ Design contract (from the approved design doc):
    - `{author_or_institution, book_use, source_type, title, url, year, id}` (the-swarm)
    - `{author_or_institution, book_use, notes, source_type, title, url, year}` (the-convergence richer)
    - `{caveat, claims_used, date, id, publisher, source_type, title, url}` (the-swarm perspectives)
-   - `{chapter, checked, sources, title}` where `sources` is a list of flat objects (the-mortality-discount). Nested `sources` entries must each match the flat shape `{author_or_institution, book_use, source_type, title, url, year}` and must each be non-empty.
+   - `{chapter, checked, sources, title}` (top level; the-mortality-discount) where `sources` is a non-empty list of nested objects whose key set must match `{id, limits, publisher, supports, title, type, url}` with `date` OPTIONAL. (Verified against all 16 actual mortality files: nested `sources[i]` keys are `{id, limits, publisher, supports, title, type, url}`; exactly one file adds `date`. Do NOT require the flat `author_or_institution` shape here.)
 
 3. **Invariants that matter** (validated per book across ledger rows AND fragment records):
    - **id uniqueness** (id-scoped): extract the id from the schema's id column (or `Path.stem` for fragments — note fragments already use the filename as id). Duplicate id → error.
    - **locator/url presence**: for every record, the schema's locator role column (or fragment `url`) must be a non-empty string, EXCEPT records whose `source_type` is exactly `Author research archive` (sifting-for-alpha rows 11-12): for these, the locator may be empty IF `book_use` mentions an existing path under that book's `research/` directory (validated with `path.exists()`).
-   - **locator (URL) reuse**: a locator may be reused across DIFFERENT chapters (legit cross-chapter reference), but the SAME locator in the SAME chapter flagged as a duplicate. Determine each record's chapter set from the schema's chapter column (`chapter`/`chapters`) when present, else by regex `\bChapter\s+([\d., and-]+)` over the schema's use/claim column (e.g. `book_use`, `use`, `claim_or_use`, `claim_supported`); if no chapter is derivable, the record's scope is `ALL`. Two records with the same locator are a TRUE duplicate iff their chapter sets overlap. (This makes chokepoint/solar-century/waiting-list/artificial-abundance cross-chapter reuse PASS while waiting-list 26/27 same-chapter failure still FAILS.)
+   - **locator (URL) reuse** within a book: dedupe records by normalized URL across ledger rows AND fragment records (for the-mortality-discount, dedupe over the nested `sources[].url` values too). Two records with the same URL are a TRUE duplicate iff either:
+     (a) one record is a ledger row and the other is a fragment (fragment↔ledger URL duplication is always consolidated; verified only the-convergence has any), OR
+     (b) their chapter sets are EQUAL. Determine each record's chapter set from the schema's chapter column (`chapter`/`chapters`) when present (numeric, or a `"4, 12, and 13"` style list — collapse to a set of ints), else by regex `\bChapters?\s+(\d+(?:[,\s]+\d+)*)` over the schema's use/claim column (e.g. `book_use`, `use`, `claim_or_use`, `claim_supported`), capturing only the leading numeric run (a trailing `"and 13"` clause is dropped, which is fine — partial capture still discriminates). A record with no derivable chapter gets the sentinel scope `ALL`, which equals ONLY itself. (Equality — not overlap — is the rule. This makes chokepoint/solar-century cross-chapter reuse PASS, e.g. solar data rows 7/13 share a URL but derive {4,12} vs {12} → not equal → PASS, while waiting-list data rows 25/26 both {5} → FAIL, republic-in-motion data rows 11/52 both {5} → FAIL, and the-visitors data rows 33/34 both {17} → FAIL.)
    - **required non-empty cells**: for flat/canonical schemas, the fields that must be non-empty are `id`, `author_or_institution`, `title`, `source_type`, and at least one of {use/claim/book_use/used_for}; `year`/`date`/`publication_date` are OPTIONAL (may be empty — the-other-250 has 26 legitimately undated historical rows). For role-specialized schemas, the non-empty requirement applies to every column except `notes`/`caveat`/`status`/`checked`/`date_*` (optional annotation columns).
    - **fragment id collision**: fragment filename is the source id; it must be unique against ledger ids and other fragment ids in the same book. (Retains the current id-scoped behavior.)
    - **too many CSV fields** (a `None` key row) is still an error per row.
 
 4. **CLI**:
-   - `python3 scripts/check-research-sources.py` — exit 0 if every `books/*/` research source set passes, else exit 1; prints `ERROR: <location> <message>` lines plus a trailing summary `Research sources OK: 84 books, N records.` on success.
+   - `python3 scripts/check-research-sources.py` — exit 0 if every `books/*/` research source set passes, else exit 1; prints `ERROR: <location> <message>` lines plus a trailing summary `Research sources OK: <N> books, <M> records.` on success where `<N>` is the DYNAMIC count of books inspected (book dirs with a `research/` set: 129 dirs hold research data out of 136 book dirs) and `<M>` the total records scanned (84 ledgers + fragment records). Do NOT hardcode the count.
    - `python3 scripts/check-research-sources.py --list-schemas` — prints the authorized ledger header signatures and fragment shapes, one per line, and exits 0.
    - `--root ROOT` override (defaults to repo root via `Path(__file__).resolve().parents[1]`).
    - Reuses the failure style of `check-desk.py` (`fail(message)` -> global flag -> exit code).
@@ -242,12 +244,13 @@ Follow the existing `scripts/check-book-length.test.py` pattern: `unittest.TestC
    - one richer schema passes
    - cross-chapter URL reuse passes (same url in chapter 2 and chapter 5 rows)
    - same-chapter same-URL duplicate fails
+   - fragment↔ledger same-URL duplicate fails even when chapter sets differ
    - missing required cell (empty title) fails
    - duplicate fragment id vs ledger id fails
    - fragment with unknown field fails
    - `author research archive` row with empty locator + existing research path passes; with nonexistent path fails
-   - fragment structured `{chapter,checked,sources,title}` shape passes when nested sources are flat
-   - `--list-schemas` exits 0 and prints at least 12 header signatures
+   - fragment structured `{chapter,checked,sources,title}` shape passes when nested `sources[i]` match the `{id,limits,publisher,supports,title,type,url}` (optional `date`) shape, and fails when they use the flat `{author_or_institution,…}` shape instead
+   - `--list-schemas` exits 0 and prints at least 12 ledger header signatures and 5 fragment shapes
 
 - [ ] **Step 3: Run the new tests**
 
@@ -263,7 +266,7 @@ Run:
 ```bash
 cd ~/GitHub/desk && python3 scripts/check-research-sources.py; echo "exit=$?"
 ```
-Expected: still exits 1 (data fixes happen in Chunk 3) but now reports genuine issues only: the-other-250 undated rows PASS, chokepoint/solar-century/artificial-abundance cross-chapter reuse PASS, waiting-list 26/27 still FAIL, convergence fragment↔ledger duplicates still FAIL, mortality-discount and swarm shapes PASS (or their genuine problems only).
+Expected: still exits 1 (data fixes happen in Chunk 3) but now reports genuine issues only: the-other-250 undated rows PASS, chokepoint/solar-century/artificial-abundance cross-chapter reuse PASS (solar 7/13 pass because {4,12} ≠ {12}), waiting-list data 25/26 STILL FAIL, republic-in-motion data 11/52 STILL FAIL, the-visitors data 33/34 STILL FAIL (a newly surfaced genuine dup: both ch 17, same URL, previously masked by the unexpected-columns failure), convergence fragment↔ledger duplicates STILL FAIL, mortality-discount and swarm shapes PASS (their genuine problems only).
 
 - [ ] **Step 5: Commit**
 
@@ -287,11 +290,11 @@ Run:
 ```bash
 cd ~/GitHub/desk && python3 scripts/check-research-sources.py 2>&1 | grep the-convergence
 ```
-Expected: ~16 errors: 10 fragment↔ledger URL dups, 2 `notes` field issues (replaced by the authorized `notes` shape in Chunk 2), and the usgs/nber fragment↔fragment dupes.
+Expected: findings limited to the-convergence URL duplication: fragment↔ledger overlap on 9 distinct URLs — ledger file lines 8, 15, 16, 22, 42, 66, 67, 68, 69 (= data rows 7, 14, 15, 21, 41, 65, 66, 67, 68) each collide with at least one fragment, and `doi-10.3386-w32041` + `nber-working-paper-32041` BOTH hit ledger file line 67 (10 fragment findings total) — plus the fragment↔fragment dupes: the usgs-mcs triple (`mcs2026` url in 3 fragments) and the nber↔doi pair. Do NOT expect the three `notes` fragments to appear: Chunk 2 already authorizes the richer `notes` shape, so `iea-energy-vital-water-sector-2024.json`, `iea-global-energy-review-2026-battery-storage.json`, and `irena-renewable-power-generation-costs-2024.json` pass field checks — only their URL dups (if any) may still fire.
 
 - [ ] **Step 2: Remove the redundant ledger rows**
 
-For each URL present in BOTH the ledger and a fragment, delete the ledger row and keep the fragment. Confirm with the script until only the two fragment↔fragment dupes remain (usgs-mcs triple, nber/doi-3386 pair).
+For each URL present in BOTH the ledger and a fragment (9 distinct URLs across ledger rows 8/15/16/22/42/66/67/68/69), delete the ledger row and keep the fragment. Confirm with the script until only the fragment↔fragment dupes remain (usgs-mcs triple, nber/doi-3386 pair).
 
 - [ ] **Step 3: Resolve fragment↔fragment duplicates**
 
@@ -304,7 +307,7 @@ Run:
 ```bash
 cd ~/GitHub/desk && python3 scripts/check-research-sources.py; echo "exit=$?"
 ```
-Expected: no `the-convergence` findings for sources; real-tree exit still 1 only if other books remain (waiting-list, republic-in-motion, sifting, and the 2 author-archive rows).
+Expected: no `the-convergence` findings for sources; real-tree exit still 1 only if other books remain (waiting-list, republic-in-motion, the-visitors, sifting, and the 2 author-archive rows).
 
 - [ ] **Step 5: Commit**
 
@@ -314,15 +317,16 @@ cd ~/GitHub/desk && git add books/the-convergence/research && git commit -m "Con
 
 ### Task 3.2: Fix the genuine same-URL/same-chapter duplicates
 
-From the original `check-desk.py` output these are TRUE duplicates under the Chunk-2 invariant (same locator, overlapping chapter):
+Under the Chunk-2 invariant (equal chapter sets, or fragment↔ledger), exactly THREE ledgers hold a genuine same-URL/same-chapter duplication. (The pubmed pairs check-desk.py historically reported for waiting-list — file lines 7/19, 8/20, 28/42 → data rows 6/18, 7/19, 27/41 — are legit cross-chapter reuse: chapters differ, so they correctly PASS under the new checker and need NO change.)
 
 **Files:**
-- Modify: `books/the-waiting-list/research/source-ledger.csv` (rows 26/27)
-- Modify: `books/the-republic-in-motion/research/source-ledger.csv` (row 53 vs row 12)
+- Modify: `books/the-waiting-list/research/source-ledger.csv` (data rows 25/26, file lines 26/27)
+- Modify: `books/the-republic-in-motion/research/source-ledger.csv` (data rows 11/52, file lines 12/53)
+- Modify: `books/the-visitors/research/source-ledger.csv` (data rows 33/34, file lines 34/35)
 
-- [ ] **Step 1: waiting-list rows 26 and 27**
+- [ ] **Step 1: waiting-list data rows 25 and 26**
 
-Both are ch05 and both point to the DOJ Live Nation case landing page (`https://www.justice.gov/atr/case/us-and-plaintiff-states-v-live-nation-entertainment-inc-and-ticketmaster-llc`), but they are two distinct documents (2024 Antitrust Complaint, and Proposed Final Judgment + Competitive Impact Statement 2026). Fix by pointing the 2026 row at the specific PFJ/CIS page. If the exact sub-URL cannot be verified offline, keep one row with the canonical case URL and fold the other row's evidence into its `book_use` (do NOT keep two same-URL same-chapter rows).
+`ch05-doj2024` (row 25) and `ch05-doj2026` (row 26) are both scoped to chapter 5 and both point to the DOJ Live Nation case landing page (`https://www.justice.gov/atr/case/us-and-plaintiff-states-v-live-nation-entertainment-inc-and-ticketmaster-llc`), but they are two distinct documents (2024 Antitrust Complaint, and Proposed Final Judgment + Competitive Impact Statement 2026). Fix by pointing the 2026 row at the specific PFJ/CIS page. If the exact sub-URL cannot be verified offline, keep one row with the canonical case URL and fold the other row's evidence into its `book_use` (do NOT keep two same-URL same-chapter rows).
 
 After the edit, run:
 ```bash
@@ -330,9 +334,9 @@ cd ~/GitHub/desk && python3 scripts/check-research-sources.py 2>&1 | grep the-wa
 ```
 Expected: no `the-waiting-list` duplicate findings.
 
-- [ ] **Step 2: republic-in-motion row 53 vs row 12**
+- [ ] **Step 2: republic-in-motion data rows 11 and 52**
 
-`rim-ch05-004` (line 53) and `rim-ch05-001` (line 12) both point to the Smithsonian `artificial-river-erie-canal` page but describe different sub-pages (Erie Canal vs Canal Builders). Fix by setting row 53's URL to the correct Canal Builders sub-page URL; if that URL cannot be confirmed, set the row's `url` to the top-level exhibition page that canonicalizes both sub-topics.
+`rim-ch05-001` (row 11, file line 12) and `rim-ch05-004` (row 52, file line 53) are both scoped to chapter 5 and both point to the Smithsonian `artificial-river-erie-canal` page but describe different sub-topics (Erie Canal overview vs Canal Builders labor). Fix by setting row 52's URL to the correct Canal Builders sub-page URL; if that URL cannot be confirmed, set the row's `url` to the top-level exhibition page only if it canonicalizes both sub-topics, otherwise keep the row's distinct evidence merged into row 11's `book_use` and delete row 52.
 
 Run:
 ```bash
@@ -340,10 +344,20 @@ cd ~/GitHub/desk && python3 scripts/check-research-sources.py 2>&1 | grep the-re
 ```
 Expected: no duplicate findings for the book.
 
-- [ ] **Step 3: Commit**
+- [ ] **Step 3: the-visitors data rows 33 and 34**
+
+`S033` (row 33, file line 34) and `S034` (row 34, file line 35) are BOTH scoped to chapter 17 and point to the same FDR Library `royal-visit` page; `S034`'s caveat already says "Same institutional collection as S033; not independent evidence". These were previously masked: the book's `id,chapters,type,source,url,use,caveat` schema failed the old column check, so the URL duplicate was never reported. Remove row 34 (fold its evidence — King George VI memorandum, state-dinner/picnic material — into row 33's `use`), which resolves the duplicate.
+
+Run:
+```bash
+cd ~/GitHub/desk && python3 scripts/check-research-sources.py 2>&1 | grep the-visitors
+```
+Expected: no duplicate findings for the book.
+
+- [ ] **Step 4: Commit**
 
 ```bash
-cd ~/GitHub/desk && git add books/the-waiting-list/research/source-ledger.csv books/the-republic-in-motion/research/source-ledger.csv && git commit -m "Fix same-chapter duplicate source URLs in waiting-list and republic-in-motion ledgers"
+cd ~/GitHub/desk && git add books/the-waiting-list/research/source-ledger.csv books/the-republic-in-motion/research/source-ledger.csv books/the-visitors/research/source-ledger.csv && git commit -m "Fix same-chapter duplicate source URLs in three ledgers"
 ```
 
 ### Task 3.3: Author research archive rows (sifting-for-alpha)
@@ -441,7 +455,7 @@ In `scripts/check-desk.py`, the `app_boundaries` tuple currently contains:
 ```python
 "const canonicalAppUrl = 'https://svyable.github.io/bookself/reader/js/app.js?v=r10';",
 ```
-Keep the relative form (`new URL('./app.js', import.meta.url)`) as the second accepted boundary.
+Keep the relative form — the second accepted boundary is exactly `const canonicalAppUrl = new URL('./app.js', import.meta.url).href;` (with `.href`) — as it already appears at `check-desk.py:373`.
 
 - [ ] **Step 2: Update the matching marker in the regression test**
 
