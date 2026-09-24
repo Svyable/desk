@@ -9,3 +9,10 @@
 | rsd-232 | https://www.baseballacropolis.org/photos.htm | Visual retrieval leads involving Burns, federation, MLB and Orioles personnel | Captions do not independently authenticate date, rights, identities, or Red Sox involvement |
 
 Promotion decision: the connector chain is usable with attribution. The evidence supports Orioles and MLB assistance, not Boston Red Sox organizational assistance. No first-person material is attributed to Libby Baylies.
+
+
+## Addendum 27A — promotion notes
+
+- **rsd-228 promotion:** The *Christian Science Monitor* interview supports direct, attributed use of Burns’s description of the project as a U.S.–Greek “joint venture” and as “one of the best things I ever did as ambassador.” This is authenticated published first-person material from Burns; it is not attributable to Libby Baylies.
+- **rsd-230 refinement:** the preserved *Athens News* text reports Orioles participation since 1999, Rob Derksen’s assignment, and approximately $500,000 in anticipated MLB International support. Treat the amount and exact program details as provisional until the original *Athens News* issue is retrieved.
+- **Institution boundary:** Boston Red Sox fandom and Boston Red Sox institutional assistance are separate propositions. Current evidence establishes the former and does not establish the latter.
