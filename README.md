@@ -33,6 +33,7 @@ Desk is the working library for Sven Hardy Benson’s books: drafts, complete ma
 | [**Face The Strange**](books/face-the-strange/) | ✅ Complete draft · Published on Shelf | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/face-the-strange/) |
 | [**Fiscal Wall**](books/fiscal-wall/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/fiscal-wall/) |
 | [**Gatekeepers**](books/gatekeepers/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/gatekeepers/) |
+| [**Group Psychosis Therapy**](books/group-psychosis-therapy/) | ✍️ Drafting | 3 of 20 | 5,117 | The most dangerous property of a crowd is not that it is usually wrong. It is that a crowd can change the cost of seeing clearly. | [Read →](https://svyable.github.io/desk/reader/#/b/group-psychosis-therapy/) |
 | [**Hallucinations**](books/hallucinations/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/hallucinations/) |
 | [**Intelligence State**](books/intelligence-state/) | ✅ Complete draft · Published on Shelf | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/intelligence-state/) |
 | [**Keep Cooking**](books/keep-cooking/) | ✅ Complete draft + living afterword | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/keep-cooking/) |
