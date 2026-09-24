@@ -3,15 +3,17 @@
 *How Prediction Shrinks the Future by Erasing the Roads We Never Try*
 
 <!-- bookself-reader-links:start -->
-**Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/the-unobserved-world/)
+**Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/the-unobserved-world/) · [Published edition · Shelf Reader](https://svyable.github.io/shelf/reader/#/b/the-unobserved-world/)
 <!-- bookself-reader-links:end -->
 
 | | |
 |---|---|
 | **Authors** | Sven Hardy Benson |
-| **Status** | Complete draft |
+| **Status** | Complete draft · Published on Shelf |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
+| **Publication** | September 23, 2026 |
+| **Public Reader** | [Read the published Shelf edition →](https://svyable.github.io/shelf/reader/#/b/the-unobserved-world/) |
 | **Chapters** | 20 of 20 drafted |
 | **Method** | Narrative nonfiction + causal-inference research + domain case studies + falsification notes |
 | **Release Review** | Substantive review and candidate-specific Desk integration are clear; literal full-book length and full `check-desk.py` results remain required. See [research/release-review.md](research/release-review.md) and [research/integrity-audit-2026-09-07.md](research/integrity-audit-2026-09-07.md). |
@@ -28,7 +30,7 @@ This is not an argument against prediction. It is an argument for recognizing a 
 
 The book follows that problem from the fundamental problem of causal inference into hiring, lending, medicine, education, recommendation systems, science funding, public policy, and organizational strategy. It asks when randomization is not indecision but instrumentation, when fairness requires exploration rather than equal treatment of a frozen model, and how institutions can preserve enough variation to discover people, treatments, ideas, and policies that their existing evidence has not yet learned how to value.
 
-The complete Desk draft includes front matter, twenty chapters, back matter, a documented research trail with falsification notes, and matching rights metadata. Shelf publication remains a separate release decision.
+The complete Desk draft includes front matter, twenty chapters, back matter, a documented research trail with falsification notes, and matching rights metadata. A published snapshot was released to Shelf on September 23, 2026; later Desk work remains the next working edition unless deliberately released again.
 
 ## Editorial principles
 
