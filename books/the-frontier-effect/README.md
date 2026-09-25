@@ -6,7 +6,7 @@
 |---|---|
 | **Authors** | Sven Hardy Benson |
 | **Status** | Drafting |
-| **Chapters** | 4 of 20 drafted |
+| **Chapters** | 5 of 20 drafted |
 
 ## Contents
 
@@ -15,7 +15,8 @@
 - [x] [Ch 2 — Hilbert's List](manuscript/ch02-hilberts-list.md)
 - [x] [Ch 3 — The Erdős Market](manuscript/ch03-the-erdos-market.md)
 - [x] [Ch 4 — Seventy Million](manuscript/ch04-seventy-million.md)
-- [ ] Ch 5 — After Fermat
+- [x] [Ch 5 — The Margin That Ate Number Theory](manuscript/ch05-the-margin-that-ate-number-theory.md)
+- [x] [Interlude — Cross Out This Problem](manuscript/interlude-01-cross-out-this-problem.md)
 - [ ] Ch 6 — Perelman's Vacancy
 - [ ] Ch 7 — What a Famous Problem Organizes
 - [ ] Ch 8 — The Neighboring Problems Wake Up
@@ -51,3 +52,4 @@ Its distinct contribution relative to *Search Frontier* is temporal and collecti
 - [Research brief](research/README.md)
 - [Source ledger](research/source-ledger.md)
 - [Measurement plan](research/measurement-plan.md)
+- [Voice lab](research/voice-lab.md)
