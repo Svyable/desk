@@ -1,0 +1,21 @@
+name: Outsourcing Divinity length check
+
+on:
+  push:
+    branches:
+      - book/outsourcing-divinity
+    paths:
+      - '.github/workflows/outsourcing-divinity-length.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  length:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: book/outsourcing-divinity
+      - name: Run Desk full-book length gate
+        run: python3 scripts/check-book-length.py outsourcing-divinity
