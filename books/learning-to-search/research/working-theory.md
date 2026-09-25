@@ -60,7 +60,7 @@ This matters because full state identification can be much more expensive than d
 
 Suppose the current channel set leaves some decision-changing pairs indistinguishable.
 
-Let (U) be the set of those unresolved pairs.
+Let $U$ be the set of those unresolved pairs.
 
 Now suppose there is a menu of candidate new channels $b \in B$. Each candidate channel separates a subset
 
