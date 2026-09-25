@@ -9,12 +9,12 @@ Desk is the working library for Sven Hardy Benson’s books: drafts, complete ma
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 135 book projects · 64 complete drafts · 3 in revision · 68 drafting**
+> **Desk: 136 book projects · 64 complete drafts · 3 in revision · 69 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
 > **Shelf: 57 author projects · 57 released · 0 public drafts/proofs**
-> **Where they live: 57 in both Desk + Shelf · 78 Desk-only · 0 Shelf-only**
+> **Where they live: 57 in both Desk + Shelf · 79 Desk-only · 0 Shelf-only**
 > **Release review queue: 12 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
@@ -127,6 +127,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Imenent**](books/imenent/) | ✍️ Drafting | 20 of 20 + interlude | 66,135 | This book calls the decisive boundary the re-entry threshold: the point at which humans retain formal authority over a system but can no longer return to meaningful operational control… | [Read →](https://svyable.github.io/desk/reader/#/b/imenent/) |
 | [**Intelligence State**](books/intelligence-state/) | ✅ Complete draft · Published on Shelf | 17 of 17 + prologue + conclusion | 43,255 | Intelligence State follows that transformation across the Americas and asks a harder question than who builds the best model: who can make intelligence abundant without making sovereignty… | [Read →](https://svyable.github.io/desk/reader/#/b/intelligence-state/) |
 | [**Keep Cooking**](books/keep-cooking/) | ✅ Complete draft + living afterword | 25 of 25 | 65,845 | <!-- bookself-reader-links:start --> Reader links: Working edition · Desk Reader · Published edition · Shelf Reader <!-- bookself-reader-links:end --> | [Read →](https://svyable.github.io/desk/reader/#/b/keep-cooking/) |
+| [**Learning To Search**](books/learning-to-search/) | ✍️ Drafting | 3 of 20 | 8,195 | The working thesis is that the next large capability gain in agents will come partly from treating search itself as a learned policy. | [Read →](https://svyable.github.io/desk/reader/#/b/learning-to-search/) |
 | [**Leveraging Luck**](books/leveraging-luck/) | 🔁 Revision in progress | 10 of 10; first integrated narrative pass underway | 25,970 | <!-- bookself-reader-links:start --> Reader links: Working edition · Desk Reader · Published edition · Shelf Reader <!-- bookself-reader-links:end --> | [Read →](https://svyable.github.io/desk/reader/#/b/leveraging-luck/) |
 | [**Lightning in a Bottle**](books/lightning-in-a-bottle/) | ✍️ Drafting | 1 complete of 12 planned | 2,523 | The central argument is simple: generation without accumulation is consumption. | [Read →](https://svyable.github.io/desk/reader/#/b/lightning-in-a-bottle/) |
 | [**Look Alive**](books/look-alive/) | ✅ Complete draft | 21 of 21 | 56,297 | This book examines strategic and quasi-strategic deception in contemporary AI systems: sycophancy, specification gaming, reward hacking, hidden backdoors, capability sandbagging, alignment… | [Read →](https://svyable.github.io/desk/reader/#/b/look-alive/) |
