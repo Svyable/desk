@@ -40,6 +40,10 @@
 
 19. J. D. Benck et al., **Producing high concentrations of hydrogen in palladium via electrochemical insertion from aqueous and solid electrolytes**, *Chemistry of Materials* (2019): https://doi.org/10.1021/acs.chemmater.9b01243
 
+20. B. P. MacLeod et al., **Calorimetry under non-ideal conditions using system identification**, *Journal of Thermal Analysis and Calorimetry* 138, 3139–3157 (2019): https://doi.org/10.1007/s10973-019-08271-z
+
+21. *Nature* editorial, **A Google programme failed to detect cold fusion — but is still a success**, May 27, 2019. Useful contemporary boundary on the null: the programme found no evidence of cold fusion but did not attain all material conditions speculated to be most conducive to it: https://doi.org/10.1038/d41586-019-01675-9
+
 ## Research priorities
 
 A publication pass should add the original University of Utah press materials and patent chronology; laboratory-by-laboratory 1989 replication logs; complete DOE reviewer comments where lawfully archived; Japanese government New Hydrogen Energy program records in original language; EPRI/SRI contracts and raw calorimetry; original tritium and helium measurements with blank handling; Google-project supplementary data; all ARPA-E project closeout reports available after 2026; and independent raw-data reanalysis for any positive modern result.
