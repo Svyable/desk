@@ -89,25 +89,25 @@ That converts a vague demand for "more context" into an instrumentation problem.
 
 ### 2. A baseline where adaptivity has no value
 
-Suppose action $a$ costs $c_a$ and independently discovers a fixed target with probability $\\pi_a$ each time it is used. Failures do not change any future probability and reveal nothing except that the target was not found on that draw.
+Suppose action $a$ costs $c_a$ and independently discovers a fixed target with probability $\pi_a$ each time it is used. Failures do not change any future probability and reveal nothing except that the target was not found on that draw.
 
 For a sequence using action $a$ exactly $n_a$ times, the survival probability is
 
-$
+$$
 \Pr(\text{no discovery})=\prod_a(1-\pi_a)^{n_a}.
-$
+$$
 
 The cost-normalized exponential discovery rate of action (a) is
 
-$
+$$
 \lambda_a=\frac{-\log(1-\pi_a)}{c_a}.
-$
+$$
 
 Any mixture achieves a cost-weighted average of these rates, so it cannot beat the best fixed action:
 
-$
+$$
 \Lambda^*=\max_a \lambda_a.
-$
+$$
 
 Under these assumptions, adaptive cleverness is theater. The policy learns nothing useful from failure.
 
