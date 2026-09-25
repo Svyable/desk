@@ -120,7 +120,7 @@ Fermat took a year from announcement to repaired proof, then much longer to beco
 
 AI can increase the supply of claims faster than it increases trust.
 
-This is where the Frontier Effect separates from the simpler story that AI will “solve math.” The consequential variable is not the count of solved problems. It is the velocity with which attention has to relocate.
+A machine could raise the theorem count without moving the right frontier at all. The consequential variable is not how many problems disappear from a list. It is how fast mathematical attention has to relocate after one of them does.
 
 A frontier does several jobs while it is open. It coordinates effort. It concentrates prestige. It provides a training ground. It forces methods to improve. It tells outsiders where ignorance still lives. Solving it removes the obstacle and removes those functions at the same time.
 
@@ -128,7 +128,7 @@ The next problem therefore inherits more than researchers.
 
 It inherits methods built for the previous problem. It inherits disappointed competitors, liberated specialists, new software, fresh notation, newly credible approaches, and an audience whose sense of what is possible has just changed.
 
-This is why breakthroughs cluster without requiring anything mystical. The solution to one hard problem can alter the expected return on effort nearby. A technique that looked specialized turns out to travel. A computational tool becomes cheap enough to use elsewhere. A young researcher watches a supposedly impossible object fall and updates what deserves a decade.
+Breakthroughs can cluster without anything mystical happening. Solve one hard problem and the expected return on nearby effort changes. A specialized technique travels. A computational tool becomes cheap enough to use elsewhere. A young researcher watches a supposedly impossible object fall and revises what deserves a decade.
 
 A third movement follows later, when the result becomes pedagogy. The theorem enters lecture notes. Its machinery gets separated into reusable parts. Students learn techniques without experiencing the original uncertainty that made those techniques necessary. At that point the frontier has not merely moved. The old frontier has become infrastructure.
 
