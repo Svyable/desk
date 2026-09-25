@@ -588,7 +588,7 @@ A frontier can therefore be financed before, during and after its motion, but mo
 
 The theorem never cashed the check.
 
-The people who came after it spent the time, and moved the machinery farther.
+The people who came after it spent the time, understood the machinery, and moved it farther.
 
 And that may be the cleanest way to separate mathematical value from mathematical celebrity.
 
