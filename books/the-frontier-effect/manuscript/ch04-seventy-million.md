@@ -124,7 +124,7 @@ Bad ideas arrive in the same feed as good ones. Partial calculations circulate b
 
 That tax is manageable when the participants are a small group of experts.
 
-At machine scale, it may become the dominant cost.
+At machine scale, it may become the dominant cost. Then the decisive system will not be the one that produces the most candidate improvements. It will be the one that keeps a clean, shared frontier state without throwing away the strange idea that later changes the architecture.
 
 
 
