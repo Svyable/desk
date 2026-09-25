@@ -568,4 +568,24 @@ Perelman moved that boundary.
 
 Then he refused the prize.
 
+The story leaves us with an inversion worth keeping.
+
+The million-dollar prize looked like the valuable object.
+
+The valuable object was time.
+
+Hamilton needed years to build Ricci flow.
+
+Perelman needed years to push it through the singularities.
+
+Kleiner, Lott, Morgan, Tian and others needed time to make the argument portable.
+
+Later mathematicians needed time to turn the proof into a research platform.
+
+The prize money eventually funded more of exactly that scarce resource for other researchers.
+
+A frontier can therefore be financed before, during and after its motion, but money only matters when it becomes sustained attention.
+
+The theorem never cashed the check.
+
 The boundary did not move back.
