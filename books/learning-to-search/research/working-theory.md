@@ -6,35 +6,35 @@ They should be treated as working derivations under the assumptions stated here,
 
 ## 1. Static hidden state and evidence channels
 
-Let the hidden state be (s\in S), where (S) is finite.
+Let the hidden state be $s \\in S$, where $S$ is finite.
 
-An agent can choose an evidence channel (a\in A). Conditional on hidden state (s) and channel (a), it receives observation (Y) according to distribution
+An agent can choose an evidence channel $a \\in A$. Conditional on hidden state $s$ and channel $a$, it receives observation $Y$ according to distribution
 
-[
+$
 P_a(\cdot\mid s).
-]
+$
 
 Assume for this section that the hidden state does not change while the agent observes it, and that the channel law is fully described by the current state and chosen channel. A policy may be adaptive: the next channel can depend on the entire history of earlier actions and observations.
 
 ### Proposition 1 — policy-level indistinguishability
 
-If two states (s_i) and (s_j) satisfy
+If two states $s_i$ and $s_j$ satisfy
 
-[
+$
 P_a(\cdot\mid s_i)=P_a(\cdot\mid s_j)
-]
+$
 
-for every available channel (a\in A), then every adaptive policy induces the same distribution over complete action-observation histories under (s_i) and (s_j).
+for every available channel $a \\in A$, then every adaptive policy induces the same distribution over complete action-observation histories under $s_i$ and $s_j$.
 
-The converse is immediate in the useful engineering sense: if some channel (a) has different observation laws in the two states, then a policy that selects (a) can produce evidence whose distribution depends on which state is true.
+The converse is immediate in the useful engineering sense: if some channel $a$ has different observation laws in the two states, then a policy that selects $a$ can produce evidence whose distribution depends on which state is true.
 
 ### Proof sketch
 
 At time zero the policy has seen the same empty history in either state, so it chooses the same distribution over first actions.
 
-For any selected action, the observation law is identical under (s_i) and (s_j) by assumption. Therefore the distribution of the first action-observation pair is identical.
+For any selected action, the observation law is identical under $s_i$ and $s_j$ by assumption. Therefore the distribution of the first action-observation pair is identical.
 
-Inductively, suppose the complete history through step (t) has the same distribution under both states. Because the policy is a function of that history, it chooses the same conditional distribution over the next action. The selected channel again has the same observation law in both states. The extended history therefore remains identically distributed.
+Inductively, suppose the complete history through step $t$ has the same distribution under both states. Because the policy is a function of that history, it chooses the same conditional distribution over the next action. The selected channel again has the same observation law in both states. The extended history therefore remains identically distributed.
 
 Adaptivity cannot manufacture a statistical difference that no available channel contains.
 
@@ -42,13 +42,13 @@ Adaptivity cannot manufacture a statistical difference that no available channel
 
 An agent often does not need to recover the exact hidden state. It needs to make the correct terminal decision.
 
-Let (d^*(s)) denote the decision that would be correct if state (s) were known.
+Let $d^*$s$$ denote the decision that would be correct if state $s$ were known.
 
 Only pairs
 
-[
-(s_i,s_j) \quad \text{with}\quad d^*(s_i)\neq d^*(s_j)
-]
+$
+(s_i,s_j) \quad \text{with}\quad d^*$s_i$\neq d^*$s_j$
+$
 
 must be distinguished.
 
@@ -62,27 +62,27 @@ Suppose the current channel set leaves some decision-changing pairs indistinguis
 
 Let (U) be the set of those unresolved pairs.
 
-Now suppose there is a menu of candidate new channels (b\in B). Each candidate channel separates a subset
+Now suppose there is a menu of candidate new channels $b \\in B$. Each candidate channel separates a subset
 
-[
+$
 H_b\subseteq U,
-]
+$
 
-where a pair belongs to (H_b) when the channel's observation laws differ for the two states in that pair.
+where a pair belongs to $H_b$ when the channel's observation laws differ for the two states in that pair.
 
-Assign channel (b) acquisition or operating weight (w_b>0).
+Assign channel $b$ acquisition or operating weight $w_b>0$.
 
-To make every decision-changing pair distinguishable, select a subset (B'\subseteq B) such that
+To make every decision-changing pair distinguishable, select a subset $B' \\subseteq B$ such that
 
-[
+$
 \bigcup_{b\in B'} H_b = U.
-]
+$
 
 The minimum-cost instrumentation problem is
 
-[
+$
 \min_{B'}\sum_{b\in B'} w_b
-]
+$
 
 subject to that coverage constraint.
 
@@ -114,11 +114,11 @@ Those complications are where adaptive experimental design re-enters.
 
 Now consider a different problem.
 
-There is a target to be discovered. Search action (a) costs (c_a>0). Every time action (a) is used before discovery, it independently hits the target with fixed probability
+There is a target to be discovered. Search action $a$ costs $c_a>0$. Every time action $a$ is used before discovery, it independently hits the target with fixed probability
 
-[
+$
 \pi_a\in[0,1).
-]
+$
 
 A failure does not change the target, the action set, the future hit probabilities, or the information value of any later action. Costs add linearly.
 
@@ -126,52 +126,52 @@ This is deliberately stripped of learning.
 
 ### Survival probability
 
-Suppose an action sequence uses action (a) exactly (n_a) times.
+Suppose an action sequence uses action $a$ exactly $n_a$ times.
 
 The probability of no discovery is
 
-[
+$
 \Pr(\text{no hit})=\prod_a(1-\pi_a)^{n_a}.
-]
+$
 
 Taking negative logs gives
 
-[
+$
 -\log \Pr(\text{no hit})
 =\sum_a n_a[-\log(1-\pi_a)].
-]
+$
 
 Total cost is
 
-[
+$
 C=\sum_a n_a c_a.
-]
+$
 
 Define each action's discovery exponent per unit cost as
 
-[
+$
 \lambda_a
 =\frac{-\log(1-\pi_a)}{c_a}.
-]
+$
 
 Then the sequence-level exponent per unit cost is
 
-[
+$
 \frac{-\log \Pr(\text{no hit})}{C}
 =
 \sum_a
 \frac{n_a c_a}{C}
 \lambda_a.
-]
+$
 
-The coefficients (n_a c_a/C) are nonnegative and sum to one. The achieved rate is therefore a cost-weighted average of the individual action rates.
+The coefficients $n_a c_a/C$ are nonnegative and sum to one. The achieved rate is therefore a cost-weighted average of the individual action rates.
 
 So
 
-[
+$
 \Lambda^*=\max_a \lambda_a
 =\max_a\frac{-\log(1-\pi_a)}{c_a}.
-]
+$
 
 Repeatedly using any maximizing action attains this rate.
 
