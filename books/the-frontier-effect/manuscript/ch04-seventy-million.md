@@ -138,7 +138,7 @@ It is a historical example of mathematical state becoming public quickly enough 
 
 An improvement could be posted, checked, corrected, incorporated and used by somebody else without waiting for a paper to complete the old publishing cycle.
 
-The frontier acquired a faster clock.
+The frontier acquired a faster clock, and everyone could see the clock.
 
 And once the clock sped up, mathematical coordination became part of the theorem's afterlife.
 
