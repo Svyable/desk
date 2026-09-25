@@ -108,6 +108,12 @@ Hilbert gives us another useful clue in the way he discussed the source of probl
 
 Frontiers breed frontiers.
 
+One can see this in the afterlife of Hilbert's own questions. The first problem became a continuing argument about axioms rather than a historical curiosity. The tenth became a template that mathematicians now ask over other rings and fields. The eighth did not collapse into a single Riemann-hypothesis industry; it radiated into explicit estimates, zero-density results, analogues over function fields, computational verification, random-matrix heuristics and a vast surrounding literature.
+
+A list meant to mark ignorance ended up manufacturing research programs.
+
+This makes problem choice path-dependent. Once a question becomes canonical, generations build tools around it. Those tools make nearby questions cheaper to ask. The nearby questions justify training new specialists. The specialists find new questions. The original problem is now responsible for attention it could never have named in advance.
+
 There is no fixed inventory of hard problems waiting for civilization to exhaust it.
 
 That point becomes more important when thinking about AI. A naive picture of machine mathematics imagines a queue. Put the Riemann hypothesis at the top. Then P versus NP. Then Birch and Swinnerton-Dyer. Give the machine enough compute, let it solve them, move down the queue.
