@@ -202,6 +202,42 @@ Taste is not mystical. It is a compressed forecast. A mathematician looks at a s
 
 A dollar sign was a tiny public bet on mathematical fertility.
 
+But the bet was not a ranking table.
+
+A five-hundred-dollar Erdős problem was not objectively five times as important as a hundred-dollar problem. The amounts changed, and Erdős's judgments were personal. Anyone trying to reconstruct a clean difficulty index from the prizes would be doing violence to the thing that made them useful.
+
+They were signals from a particular mind.
+
+That is exactly why they mattered.
+
+Research communities rely on people whose taste is trusted because attention cannot be allocated from first principles. There is no theorem that tells a graduate student which open problem will repay five years. There is no universal metric for fertility. Bibliometrics arrive too late. Citations measure what has already happened.
+
+Taste is a forward estimate under uncertainty.
+
+Erdős externalized his estimates in a form people could remember.
+
+Modern mathematics externalizes taste differently: invited talks, problem lists, survey articles, conjecture sections, prize lectures, seminar invitations, advisor recommendations, MathOverflow questions, benchmark suites, and increasingly machine-generated rankings.
+
+Every one of those mechanisms can fail.
+
+Prestige can become self-reinforcing. Fashion can starve unfashionable but fertile problems. Famous researchers can be wrong. A benchmark can optimize a field toward what is easy to score.
+
+That failure mode becomes acute with AI.
+
+A machine can rank one million conjectures.
+
+The existence of the ranking does not create taste.
+
+It creates the appearance of taste.
+
+The difference is empirical. Do the highly ranked problems produce useful mathematics? Do strong researchers adopt them? Do methods developed around them transfer? Do the problems remain interesting after obvious attacks are exhausted?
+
+Erdős's prizes had decades to reveal whether his taste traveled.
+
+Machine taste will need the same kind of audit, only faster.
+
+
+
 Erdős made his forecasts unusually visible.
 
 The Frontier Effect therefore has an upstream problem.
