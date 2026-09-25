@@ -438,7 +438,9 @@ Do not rewrite neighboring material merely for consistency.
 
 ## Final checks
 
-Before returning or committing prose, ask:
+Before presenting prose as finished or handing it off as ready, ask the
+following. Intermediate checkpoint commits may come earlier; a save point is not
+a claim that the prose has completed its editorial pass.
 
 - Could this passage belong to almost any self-help, business, technology, or popular-science book? If yes, make it more specific to this author, subject, evidence, and moment.
 - What unresolved question, pressure, contradiction, mechanism, or consequence is carrying the reader into the next paragraph?
