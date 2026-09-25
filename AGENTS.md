@@ -25,7 +25,7 @@ Rules for AI agents working in this repository.
 
 ## Throughput default
 
-Desk agents optimize for **finished, mergeable outcomes per unit time**, not
+Desk agents optimize for **finished, persisted outcomes per unit time**, not
 visible activity, PR count, or repeated handoffs. Quality and provenance remain
 hard constraints; avoidable serial work does not.
 
@@ -39,10 +39,12 @@ hard constraints; avoidable serial work does not.
 - Batch independent reads, searches, research, and checks in parallel whenever
   the available tools permit it. Keep writes sequential only where ordering,
   shared files, or branch state require it.
-- Prefer **one coherent branch and PR per requested outcome**. A full-book task
-  may be one PR. Do not create chapter-by-chapter PRs, metadata-only follow-ups,
-  or review rituals unless the scope, conflict risk, or repository rules
-  actually require them.
+- Use the **simplest safe persistence path**. Routine authorized Desk-local
+  writing, editing, research-note, and documentation changes may be committed
+  directly to the current branch or to `main`. Use a branch/PR when it adds real
+  value: concurrent work may overlap, the change is broad or risky, multiple
+  books or global surfaces are involved, repository protection requires it, or a
+  release/publication boundary is being crossed.
 - When orchestration supports independent workers, split large jobs into
   non-overlapping lanes such as evidence/research, drafting, continuity and
   repetition, metadata, and integrity checks. Give each lane a narrow contract;
@@ -62,16 +64,45 @@ hard constraints; avoidable serial work does not.
 - If a check fails, fix the introduced defect directly. Avoid speculative
   cleanup, unrelated refactors, and repeated "while here" passes that enlarge
   the diff without advancing the requested outcome.
-- Finish the repo work in the same run when possible: inspect the final diff,
-  run the required checks, open or update the PR, and enable automatic merging
-  when supported and authorized. Do not return only a plan when the requested
-  repository change can be completed.
+- Finish the repo work in the same run when possible: persist the useful change,
+  inspect the final diff, and run the checks required for the state being handed
+  off. If a PR is useful, open or update it and enable automatic merging when
+  supported and authorized. Do not create a PR merely to turn a reversible Desk
+  save point into process ceremony.
 - Throughput never waives the voice, evidence, Desk/Shelf, licensing, release,
   or publication rules below. The goal is fewer waits and duplicated passes,
   not lower standards.
 
 Default execution pattern: **discover once → batch independent work → make the
-coherent change → integrate once → validate → PR/auto-merge**.
+coherent change → persist it → validate for the claimed state → stop or land**.
+
+## Commit and landing model
+
+A Desk commit is a reversible working save point. It is not publication and does
+not by itself claim that a chapter, book, or release is finished.
+
+- Repository owners, named book authors working on their own books, and agents
+  explicitly authorized to perform a Desk task may commit routine reversible
+  changes directly to `main` when there is no known conflicting work and the
+  change does not cross a publication, rights, cost, or irreversible external
+  boundary.
+- A branch or pull request is preferred when the change is broad, risky,
+  concurrent, cross-book, affects shared tooling or global catalogs, changes a
+  release/publication transaction, or benefits from an isolated reviewable diff.
+  Repository protection may also require one.
+- Intermediate checkpoint commits are allowed. They do not need to satisfy every
+  finish-line editorial or global validation check. Keep their scope coherent
+  and do not label unfinished work release-ready or complete.
+- Run the checks appropriate to the state you are claiming. A working prose
+  checkpoint does not need release validation; a catalog change still needs its
+  catalog check; a release candidate still needs the release gates.
+- Do not block a useful commit because optional CI is absent, a prose pass is not
+  yet final, or a PR has not been created. Do block or redirect a write that
+  would overwrite unrelated/newer work, expose secrets, knowingly corrupt a
+  required invariant on `main`, or perform an irreversible/external action
+  without the needed authorization.
+- PRs are collaboration and risk-isolation tools, not mandatory proof that a
+  Desk change is safe.
 
 ## Desk / Shelf boundary
 
@@ -171,10 +202,10 @@ not a prerequisite for writing or releasing. The normal release helper and
 - Do not substitute synonyms "for clarity" unless the author asked for that.
 - Do not add headings, lists, or emphasis the surrounding chapter does not
   already use.
-- Before committing voice-sensitive prose, perform a dedicated anti-slop pass
-  and a paragraph pass using `docs/prose-authoring-standard.md`. If the chapter
-  still reads like an expanded outline, repeated framework, slide deck, or
-  generic model performance, it is not ready.
+- Before treating voice-sensitive prose as finished or handing it off as ready,
+  perform a dedicated anti-slop pass and a paragraph pass using
+  `docs/prose-authoring-standard.md`. Intermediate checkpoint commits may
+  precede that pass; they are save points, not claims of editorial completion.
 
 ## Book identity and completion checks
 
@@ -191,9 +222,10 @@ not a prerequisite for writing or releasing. The normal release helper and
   failures reproduced on its base revision. Fix new defects; report unrelated
   existing failures accurately. Do not weaken a check or claim a full pass merely
   because a focused check passes.
-- Keep PRs mergeable. Use objective checks and the repository's existing merge
-  rules; enable automatic merging when supported and authorized. Do not add a
-  human-review blocker solely as a workflow ritual or bypass required checks.
+- When using a PR, keep it mergeable. Use objective checks and the repository's
+  existing merge rules; enable automatic merging when supported and authorized.
+  Do not add a human-review blocker solely as a workflow ritual or bypass
+  required checks.
 
 ## Markdown
 
@@ -239,10 +271,11 @@ change may contain one chapter or a coherent batch. Before drafting, read enough
 surrounding manuscript to know the current voice, argument, recurring examples,
 and what earlier chapters have already earned. Use the project's research where
 it exists rather than filling gaps with unsupported general knowledge. Draft
-for argument and narrative movement, then perform the required anti-slop and
-paragraph passes before committing. If you add, rename, or remove chapters,
-update that book's README TOC and Chapters count in the same change. Keep
-unrelated prose and tooling out of the batch.
+for argument and narrative movement. Persist coherent checkpoint work when
+useful, then perform the required anti-slop and paragraph passes before calling
+the prose finished or ready for handoff. If you add, rename, or remove chapters,
+update that book's README TOC and Chapters count in the same finished change.
+Keep unrelated prose and tooling out of the batch.
 
 **Check Desk.** Run `python3 scripts/check-desk.py`. It verifies that real book
 folders, Reader catalog rows, direct Reader slugs, the feedback dropdown, and
