@@ -110,6 +110,12 @@ A hundred correct theorems are not automatically a hundred units of progress. So
 
 The hard problem then becomes editorial in the deepest sense: what deserves to enter the shared map?
 
+There is a second asymmetry buried in that delay. The person who produces a proof and the people who must absorb it face different tasks. Discovery can be idiosyncratic. Assimilation cannot remain so. A result becomes infrastructure only when other mathematicians can reproduce enough of the route, teach it, modify it, and know which parts are load-bearing. The frontier may move for the discoverer before it moves for the field.
+
+That gap is easy to ignore in retrospective history because textbooks erase it. Finished mathematics is reorganized by dependency rather than chronology. The failed lemmas disappear. The private notation disappears. The week when experts were unsure whether a crucial estimate actually closed the argument disappears. What remains is a clean path that no one had while the problem was still open.
+
+The Frontier Effect lives partly inside that erased interval.
+
 Fermat took a year from announcement to repaired proof, then much longer to become ordinary mathematical background. An AI system could generate candidate proofs on a different timescale entirely. The human community may discover that proving and knowing have become separate industries.
 
 AI can increase the supply of claims faster than it increases trust.
