@@ -88,6 +88,30 @@ Use `we` only when the referent is honest and reasonably clear: author and reade
 
 Do not automatically replace `we` with `you`; generic second person can be just as synthetic. Often the sentence needs an actual subject.
 
+## Hard anti-slop patterns
+
+Apply the Desk's canonical anti-slop rules in
+`docs/prose-authoring-standard.md` during drafting and editing, not as a late
+cleanup ritual. In particular, treat the following as warning patterns that
+require a deliberate reason to survive:
+
+- binary contrast scaffolding such as `It's not X. It's Y.`
+- throat-clearing openers such as `Here's the thing` or `Let me be clear`
+- faux-insight setups such as `What nobody tells you` or `The part everyone misses`
+- colon reveals used as a drumroll rather than for real syntax
+- dramatic fragments such as `That's it. That's the whole thing.`
+- superficial analysis that attaches generic virtues to events without evidence
+- importance puffery such as `marks a pivotal moment` or `a testament to`
+- weasel attribution such as `experts agree` or `studies show`
+- synonym cycling that renames a stable referent only to avoid repetition
+- fake-profound endings that substitute inevitability or a slogan for consequence
+
+Four fundamentals outrank ornamental polish: lead with the point when that makes
+the passage clearer, prefer active voice when the actor matters, untangle syntax
+that makes the reader reread for the basic relationship, and prefer concrete
+supported details over abstraction. Apply these as judgment rules rather than
+mechanical quotas.
+
 ## Trope audit
 
 A familiar narrative shape is not automatically wrong, but it must be earned by the evidence. Investigate rather than default to:

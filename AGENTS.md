@@ -126,6 +126,10 @@ not a prerequisite for writing or releasing. The normal release helper and
 - The prose standard is an authoring requirement, not merely a cleanup rubric.
   Do not knowingly hand downstream a draft full of problems that a later
   anti-slop pass is expected to repair.
+- The anti-slop rules in `docs/prose-authoring-standard.md` are canonical for
+  all drafting, revision, review, and scheduled enhancement passes. Automated
+  enhancement rounds must read and apply the current standard rather than rely
+  on a copied or stale prompt summary.
 - For new books and substantial expansions, establish the reader promise,
   distinct contribution, competing explanation, and chapter progression before
   drafting. Use the planning and revision guidance in the prose standard.
