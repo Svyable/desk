@@ -9,12 +9,12 @@ Desk is the working library for Sven Hardy Benson’s books: drafts, complete ma
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 135 book projects · 64 complete drafts · 3 in revision · 68 drafting**
+> **Desk: 136 book projects · 64 complete drafts · 3 in revision · 69 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
 > **Shelf: 57 author projects · 57 released · 0 public drafts/proofs**
-> **Where they live: 57 in both Desk + Shelf · 78 Desk-only · 0 Shelf-only**
+> **Where they live: 57 in both Desk + Shelf · 79 Desk-only · 0 Shelf-only**
 > **Release review queue: 12 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
