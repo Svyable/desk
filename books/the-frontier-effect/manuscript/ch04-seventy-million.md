@@ -140,6 +140,8 @@ An improvement could be posted, checked, corrected, incorporated and used by som
 
 The frontier acquired a faster clock.
 
+And once the clock sped up, mathematical coordination became part of the theorem's afterlife.
+
 That is the first reason bounded gaps belongs in this book.
 
 The second reason is James Maynard.
