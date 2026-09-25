@@ -30,6 +30,64 @@ The word *consciousness* is tempting here because the movement can feel species-
 
 The hard part is seeing the movement.
 
+There is another way to see it: watch the verbs.
+
+An open problem is *conjectured*.
+
+A manuscript *claims*.
+
+Experts *check*.
+
+A journal *accepts*.
+
+A field *uses*.
+
+A prize committee *recognizes*.
+
+Those verbs are often collapsed into *solved*, but they do not describe the same event.
+
+That collapse is harmless when the mathematics is old. Nobody needs a status dashboard for the Pythagorean theorem. It becomes dangerous at a live frontier, where the social velocity of a claim can outrun the mathematical velocity of verification.
+
+The internet made this visible before AI did. A preprint can become globally famous in hours. Specialists may need months to understand it. A theorem can acquire a public reputation before the people capable of checking it have converged.
+
+That mismatch creates a strange object: the famous unverified proof.
+
+Mathematics has always had these. What is new is the speed and scale of the audience.
+
+AI can increase the mismatch again.
+
+If a machine generates candidate solutions faster than experts can check them, the front of mathematics may fill with objects that are neither ordinary conjectures nor ordinary theorems. They will be claims with varying amounts of machine verification, formal verification, human understanding, independent reproduction and institutional acceptance.
+
+A single solved/unsolved bit will become ridiculous.
+
+The frontier will need provenance.
+
+Who produced the argument?
+
+Which parts were machine searched?
+
+Which parts were formally checked?
+
+Which dependencies are trusted?
+
+Has a human expert reconstructed the central mechanism?
+
+Can another system reproduce the proof independently?
+
+Has the result been used downstream without breaking?
+
+The history of mathematics already contains versions of every one of those questions. AI changes their frequency.
+
+The future frontier may look less like a list of open problems and more like a queue of differently verified objects.
+
+That would alter attention before it alters truth.
+
+A mathematician deciding what to work on would need to ask not only whether a problem is open, but whether the apparent solution is worth spending a month understanding.
+
+The problem allocation problem would acquire a proof allocation problem.
+
+
+
 Consider Poincaré. In 1904 Henri Poincaré asked whether the three-dimensional sphere could be characterized by a topological property called simple connectivity. The question survived for almost a century. Richard Hamilton's Ricci flow program changed the terms of attack. In 2002 and 2003, Grigory Perelman posted three preprints that supplied the decisive ideas. The result did not merely place a check beside an old conjecture. Clay's own retrospective describes the proof through the larger geometrization program: the solution showed how three-manifolds can be decomposed into standard geometric pieces.
 
 The famous problem had acted as a compression device. It made a vast region of mathematics legible to outsiders as one sentence: solve Poincaré. Once solved, the compression reversed. Attention could spread back into the machinery, consequences, refinements and neighboring spaces that the headline had hidden.
