@@ -38,6 +38,10 @@ None of this was negotiation, and Libby did not acquire delegated authority by p
 
 The pandemic and political deterioration had meanwhile reduced ordinary movement between the two societies. American students were far less present in China than they had once been. Academic and cultural exchange had become harder, and political suspicion attached itself to institutions that might previously have been treated as routine bridges. Burns argued publicly for rebuilding some of those connections. Students do not solve Taiwan; a cultural event does not remove export controls; a visiting scholar does not create military confidence. Direct contact does something smaller. It makes the other society harder to reduce entirely to an abstraction.
 
+In April 2024, Secretary of State Antony Blinken, Burns and U.S. Consul General Scott Walker attended a Chinese Basketball Association playoff game at Shanghai Indoor Stadium between the Shanghai Sharks and Zhejiang Golden Bulls. Voice of America reporter Nike Ching placed the stop inside the visit's people-to-people agenda. The game resolved nothing waiting for Blinken in Beijing. Its value is smaller and more defensible: senior American officials spent part of an official trip in a public Chinese setting organized around a scoreboard rather than a negotiating text.
+
+*ARCHIVE NOTE — Nike Ching's April 24, 2024 Voice of America report identifies Blinken, Burns and Walker at the Shanghai Indoor Stadium and describes the Sharks–Golden Bulls playoff game within the visit's emphasis on people-to-people ties. It does not establish a policy effect. [Voice of America, April 24, 2024.](https://www.voanews.com/a/blinken-looks-to-boost-people-to-people-ties-during-second-visit-to-china-/7583417.html)*
+
 > **NICK / BALLAST**
 >
 > ### “you need ballast in the relationship and you need the societies to remain connected”
