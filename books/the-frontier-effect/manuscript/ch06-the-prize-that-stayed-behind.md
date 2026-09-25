@@ -600,7 +600,7 @@ The method can migrate into problems Perelman never worked on.
 
 The theorem is unusually indifferent to biography once it has become public mathematics.
 
-Its afterlife belongs to whoever can use it.
+Its afterlife belongs to whoever can use it. That is a severe standard for the chapters ahead. When AI produces a theorem, the question cannot stop at whether the theorem is correct. We will need to know whether the result can enter this same afterlife: checked by others, compressed, taught, reused, challenged, and eventually treated as ordinary equipment. A theorem that cannot travel is a solved problem with no frontier effect.
 
 
 
