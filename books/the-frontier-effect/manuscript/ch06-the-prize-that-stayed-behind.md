@@ -588,4 +588,20 @@ A frontier can therefore be financed before, during and after its motion, but mo
 
 The theorem never cashed the check.
 
+And that may be the cleanest way to separate mathematical value from mathematical celebrity.
+
+The person can reject the ceremony.
+
+The institution can redirect the money.
+
+The proof can be rewritten by other people.
+
+The method can migrate into problems Perelman never worked on.
+
+The theorem is unusually indifferent to biography once it has become public mathematics.
+
+Its afterlife belongs to whoever can use it.
+
+
+
 The boundary did not move back.
