@@ -102,6 +102,28 @@ The original frontier had been: prove Poincaré.
 
 The new frontier was: understand the proof well enough that Poincaré becomes infrastructure.
 
+Clay's own institutional history makes the lag unusually concrete.
+
+Perelman's decisive preprints appeared in 2002 and 2003. Consensus formed through years of checking and exposition. But the Millennium Prize rules required a refereed publication and a waiting period before formal prize consideration. Perelman himself had not converted the preprints into a conventional journal article. Morgan and Tian produced a detailed monograph; it went through refereeing; committees then considered correctness and attribution. Clay announced the prize in March 2010.
+
+Eight years separated the first preprint from the award.
+
+The theorem did not spend eight years oscillating between true and false.
+
+The institution spent eight years converting an extraordinary mathematical event into a status it could certify under its own rules.
+
+That difference is exactly why the three clocks matter.
+
+Discovery had happened.
+
+Verification was distributed.
+
+Institutional recognition arrived later.
+
+Assimilation kept going after all three.
+
+
+
 That is a phase transition in mathematical labor.
 
 Before the proof, uncertainty concentrates around truth.
