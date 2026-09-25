@@ -18,6 +18,36 @@ Hilbert's second problem met Gödel from a different direction. A broad program 
 
 Hilbert's tenth received an answer that was, in a way, an anti-algorithm. The Davis-Putnam-Robinson-Matiyasevich line of work established that there is no general algorithm of the kind Hilbert requested for integer solutions of arbitrary Diophantine equations. A request for a method produced a theorem about the impossibility of a method.
 
+That inversion deserves to sit on the page for a while.
+
+Hilbert asked for a procedure.
+
+Mathematics answered: no such procedure exists.
+
+This is not failure in the ordinary sense. The problem did not remain open. It was closed by destroying the premise that a positive solution should exist.
+
+That kind of answer changes attention differently.
+
+If the theorem says an algorithm cannot exist, researchers stop searching for the universal algorithm and begin mapping the boundary of impossibility. Which restricted cases are decidable? Which rings behave differently? What happens if the coefficients come from another domain? Can practical subclasses still be solved efficiently? How hard is the undecidability itself?
+
+The impossibility theorem does not empty the field.
+
+It gives the field a coastline.
+
+This is one of the deepest reasons famous problems matter. They can return information even when the requested object turns out not to exist.
+
+The same pattern appears elsewhere in mathematics and theoretical computer science. A construction problem becomes a nonexistence theorem. A decision problem becomes undecidable. A hoped-for proof within one axiom system becomes an independence result. A question about computation becomes a lower bound.
+
+The frontier does not always move because somebody reaches the destination.
+
+Sometimes mathematics proves that the road cannot be built.
+
+That kind of result can be more organizing than a positive solution because it prevents whole generations from spending effort on the wrong universal claim.
+
+A good impossibility theorem reallocates attention by force.
+
+
+
 This is what makes the list more interesting than a scoreboard.
 
 A problem can be solved affirmatively. It can be solved negatively. It can be shown independent of the axioms in play. It can fracture into more precise problems. It can generate a technique whose descendants matter more than the original question. It can survive for a century while entire fields grow around the attempts. The phrase "solving a problem" hides too many possible events.
