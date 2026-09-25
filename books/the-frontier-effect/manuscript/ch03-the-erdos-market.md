@@ -250,6 +250,16 @@ If everyone searches the same ranked list, an error in taste becomes infrastruct
 
 The frontier narrows because the allocator looked authoritative.
 
+Human mathematical culture has a useful inefficiency here: disagreement.
+
+One mathematician thinks a problem is beautiful. Another thinks it is sterile. A third thinks both are asking the wrong question. The resulting duplication and friction can look wasteful, but it prevents a single taste function from owning the frontier.
+
+Diversity of judgment is not noise to be optimized away automatically.
+
+It is part of the search.
+
+
+
 Machine taste will need the same kind of audit, only faster.
 
 
