@@ -104,7 +104,7 @@ This was not just a better coefficient in Zhang's proof.
 
 The shape of the attack changed.
 
-That distinction is essential to the Frontier Effect. There are at least two ways a frontier can move. One is parameter compression: keep the architecture, improve the constants, sharpen the estimates, remove waste. The other is architectural substitution: find a different mechanism that makes the old bottleneck less important.
+Two different motions are hiding inside the falling number. One is parameter compression: keep the architecture, improve the constants, sharpen the estimates, remove waste. The other is architectural substitution: find a different mechanism that makes the old bottleneck less important.
 
 Polymath8a was spectacular parameter compression.
 
@@ -140,7 +140,7 @@ The stopping point is not mathematically ordained.
 
 It is social judgment about marginal returns.
 
-This is where the number 246 becomes as revealing as seventy million.
+At 246, the number stops behaving like a scoreboard and starts behaving like a map of resistance.
 
 A bound can stop moving while the problem remains open.
 
@@ -250,7 +250,7 @@ It is a claim that proof changes the expected value of nearby work.
 
 Sometimes the expected value rises.
 
-A breakthrough can make a previously hopeless problem look attackable. That recruits talent. The result is an attention surge, not an attention release.
+A breakthrough can make a previously hopeless problem look attackable. Talent arrives. Attention surges instead of dispersing.
 
 Later, when marginal improvements become expensive, the flow can reverse.
 
@@ -284,7 +284,7 @@ A formal proof library changes the cost of verification.
 
 An AI system may change the cost of searching a parameter space.
 
-The result is a redistribution of attention.
+The arrows move.
 
 This is the bridge to the era now arriving.
 
