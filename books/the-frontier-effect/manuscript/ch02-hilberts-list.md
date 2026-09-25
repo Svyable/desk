@@ -186,6 +186,18 @@ It is to remember that every list has a shadow: the problems not selected, the m
 
 A frontier has visible peaks and invisible passes.
 
+The list is therefore both map and intervention.
+
+Once published, it changes the terrain it claims merely to describe. Young mathematicians learn the names. Advisors use them to orient students. Survey articles organize themselves around them. A problem's canonical status becomes one of the facts later researchers must account for.
+
+Hilbert did not simply record the frontier.
+
+He helped manufacture its coordinates.
+
+That reflexive effect will matter again when AI systems begin generating and ranking problem lists at machine scale.
+
+
+
 The list outlived its author because the questions were strong enough to keep recruiting new mathematics long after the original audience disappeared.
 
 Erdős had one answer, or rather thousands of them. He carried problems with him.
