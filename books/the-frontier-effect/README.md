@@ -15,13 +15,13 @@
 - [x] [Ch 2 — Hilbert's List](manuscript/ch02-hilberts-list.md)
 - [x] [Ch 3 — The Erdős Market](manuscript/ch03-the-erdos-market.md)
 - [x] [Ch 4 — Seventy Million](manuscript/ch04-seventy-million.md)
-- [ ] Ch 5 — Two Hundred Forty-Six
-- [ ] Ch 6 — After Fermat
-- [ ] Ch 7 — Perelman's Vacancy
-- [ ] Ch 8 — What a Famous Problem Organizes
-- [ ] Ch 9 — The Neighboring Problems Wake Up
-- [ ] Ch 10 — Problems Create Fields
-- [ ] Ch 11 — Polymath
+- [ ] Ch 5 — After Fermat
+- [ ] Ch 6 — Perelman's Vacancy
+- [ ] Ch 7 — What a Famous Problem Organizes
+- [ ] Ch 8 — The Neighboring Problems Wake Up
+- [ ] Ch 9 — When the Method Escapes the Problem
+- [ ] Ch 10 — A Problem Can Create a Field
+- [ ] Ch 11 — Mathematics in Public
 - [ ] Ch 12 — The Proof Becomes Infrastructure
 - [ ] Ch 13 — Formal Mathematics
 - [ ] Ch 14 — FunSearch
