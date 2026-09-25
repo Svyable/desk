@@ -5,11 +5,13 @@ you like to work.
 
 ## Two ways to contribute
 
-### 1. Propose an edit (pull request)
+### 1. Make or propose an edit
 
-Change the Markdown, then open a pull request. This is the path for editors
-and co-authors. See [the editor guide](docs/editor-guide.md) for the
-branch → edit → PR walkthrough.
+Authorized authors, repository owners, and agents working on an explicitly
+assigned Desk task may commit routine reversible changes directly. Use a pull
+request when isolation or review is useful: overlapping work, broad or risky
+changes, cross-book/global changes, tooling changes, or publication/release work.
+See [the editor guide](docs/editor-guide.md) for both paths.
 
 If you have never used GitHub, you can still propose an edit from the
 browser. See [the author guide](docs/author-guide.md).
@@ -41,13 +43,20 @@ unrelated tooling changes into a manuscript PR. Book-specific automation may
 set a narrower scope for its own runs; those local rules do not impose a
 global one-chapter cap on the Desk.
 
-## Direct-to-main for lead authors
+## Direct-to-main for routine Desk work
 
-The people named as authors on a book's README may commit directly to `main`
-for that book — small fixes should not need ceremony. Everyone else uses a
-pull request.
+A commit on the Desk is a reversible working save point, not publication.
+Repository owners, authors named on a book's README, and agents explicitly
+authorized for the current Desk task may commit routine, coherent, reversible
+changes directly to `main` when there is no known overlap with concurrent work.
 
-If you are a lead author editing someone else's book, still open a PR.
+Use a pull request when the change is broad, risky, cross-book, touches shared
+tooling or global catalog surfaces, overlaps active work, or crosses a
+publication/release boundary. External contributors without write authorization
+should still propose changes through a branch or fork.
+
+Intermediate commits may be unfinished. Run the checks required for the state
+you are actually claiming before calling the work complete or release-ready.
 
 ## Review expectations
 
