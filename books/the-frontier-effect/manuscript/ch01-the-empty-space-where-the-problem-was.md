@@ -68,6 +68,50 @@ Another is disorientation. Prestige systems, graduate training and human special
 
 There is also a verification problem. Generating candidate answers faster does not mean society can absorb them faster. Clay's two-year rule is an institutional expression of a deeper constraint: mathematical knowledge is not complete when an answer exists. Somebody has to understand the argument, check it, locate its dependencies, discover whether hidden assumptions matter, and integrate the result into the rest of mathematics.
 
+The cleanest control case is Fermat's Last Theorem.
+
+Andrew Wiles announced the proof in Cambridge in June 1993. For a moment the frontier appeared to have moved. The statement was three and a half centuries old, the public story was irresistible, and the mathematical strategy was serious enough that experts did not dismiss it as another crank proof. Then the checking did what checking is supposed to do.
+
+A gap emerged.
+
+That gap is one of the most useful facts in the history of famous proofs because it separates several events that popular accounts compress into one. There was the moment a mathematician believed the problem was solved. There was the moment other mathematicians heard the argument and judged the architecture plausible. There was the later discovery that a critical part did not yet work. There was the repair, achieved with Richard Taylor by changing the route around the obstruction. Then there were the final papers in the 1995 Annals of Mathematics.
+
+Which date did Fermat's frontier move?
+
+June 1993 is too early if "move" means accepted theorem. September 1994 is closer if we mean the successful repair. May 1995 is another candidate if publication matters. And even after publication, the proof continued to diffuse through seminars, expositions, graduate training and later modularity-lifting work.
+
+The answer is that a frontier has more than one clock.
+
+Discovery time is when the decisive mathematical object first exists.
+
+Verification time is how long it takes competent outsiders to decide that the object survives scrutiny.
+
+Assimilation time is how long it takes the result to become usable infrastructure for other work.
+
+Those clocks can separate.
+
+Mathematics has always known this in practice. A theorem may be "known" to a handful of experts months before the proof is readable to the field. A long proof can be accepted socially before every line has been independently rederived. A formalized proof can be mechanically checked while remaining conceptually opaque to most mathematicians. Acceptance is not one bit flipping from zero to one.
+
+The Wiles episode also shows why verification is productive rather than bureaucratic. The gap did not merely delay a celebration. It forced the proof architecture to change. Taylor and Wiles found a different way around the failing part. The eventual method became part of the mathematics that mattered afterward.
+
+So when this book talks about a solution releasing attention, it cannot treat verification as dead time between discovery and impact. Verification can alter the artifact itself.
+
+This becomes more consequential under AI.
+
+Suppose a machine proposes ten thousand lemmas around an open problem. If each can be formally checked, one kind of trust problem gets easier. But formal validity does not answer every question mathematicians care about. Which lemmas are important? Which proof reveals the reusable mechanism? Which formalization captured the intended statement rather than a convenient surrogate? Which solution is robust enough that a human can build on it without rerunning an opaque search?
+
+An automated verifier can collapse one part of verification time while leaving assimilation time untouched.
+
+That asymmetry may produce a new kind of frontier congestion.
+
+Results could arrive faster than mathematical culture can metabolize them.
+
+A hundred correct theorems are not automatically a hundred units of progress. Some may be isolated curiosities. Some may encode the same idea in different clothes. Some may depend on monstrous computations that no human has learned to compress. Some may matter enormously but sit unread because attention has already moved elsewhere.
+
+The hard problem then becomes editorial in the deepest sense: what deserves to enter the shared map?
+
+Fermat took a year from announcement to repaired proof, then much longer to become ordinary mathematical background. An AI system could generate candidate proofs on a different timescale entirely. The human community may discover that proving and knowing have become separate industries.
+
 AI can increase the supply of claims faster than it increases trust.
 
 This is where the Frontier Effect separates from the simpler story that AI will “solve math.” The consequential variable is not the count of solved problems. It is the velocity with which attention has to relocate.
