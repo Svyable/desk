@@ -6,7 +6,7 @@ Checked September 10, 2026.
    - Primary source for the 1986 composition-correlated fifth-force claim. Treat as historical positive claim, not established force.
 
 2. Chu & Dicke, **New Force or Thermal Gradient in the Eötvös Experiment?**, *Physical Review Letters* 57, 1823 (1986). https://doi.org/10.1103/PhysRevLett.57.1823
-   - Primary counterargument proposing thermal-gradient systematics.
+   - Primary counterargument. The authors calculate that thermal-gradient systematics can account for the Eötvös-Pekár-Fekete data; this is an explanatory challenge to the fifth-force interpretation, not by itself an experimental proof that temperature caused the historical residual.
 
 3. Bennett, **Modulated-Source Eötvös Experiment at Little Goose Lock**, *Physical Review Letters* 62, 365 (1989). https://doi.org/10.1103/PhysRevLett.62.365
    - Direct experimental test using a large movable water mass; null fifth-force result.
@@ -43,3 +43,9 @@ Checked September 10, 2026.
 
 17. Eöt-Wash Group, **Cryogenic Balance**. https://www.npl.washington.edu/eotwash/cryogenic-balance
    - Current apparatus/program context; institutional rather than independent evidence.
+
+18. Neufeld, **Upper Limit on Any Intermediate-Range Force Associated with Baryon Number**, *Physical Review Letters* 56, 2344 (1986). https://doi.org/10.1103/PhysRevLett.56.2344
+   - Contemporary counterevidence using Kreuzer's 1968 experiment: an upper limit about half the strength inferred in the Fischbach reanalysis, while still statistically compatible with it at roughly two standard deviations under Neufeld's interpretation.
+
+19. Fischbach et al., **Long-range forces and the Eötvös experiment**, *Annals of Physics* 182, 1–89 (1988). https://doi.org/10.1016/0003-4916(88)90294-1
+   - Detailed defense and expansion of the EPF reanalysis. Important counterweight to a too-clean retrospective story: the authors argued that no known conventional mechanism, including proposed alternatives, adequately explained the composition correlation.

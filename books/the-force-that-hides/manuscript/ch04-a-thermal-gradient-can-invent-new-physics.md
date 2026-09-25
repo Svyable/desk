@@ -1,19 +1,31 @@
 # 4. A Thermal Gradient Can Invent New Physics
 
-In October 1986, Steven Chu and Robert Dicke published a short paper with a devastating title: “New Force or Thermal Gradient in the Eötvös Experiment?”
+On October 13, 1986, Steven Chu and Robert Dicke published a two-page paper whose title did most of the damage: “New Force or Thermal Gradient in the Eötvös Experiment?”
 
-They showed that thermal-gradient systematics could account for the composition-correlated structure that had helped motivate the fifth-force interpretation.
+Nine months earlier, Ephraim Fischbach and his collaborators had returned to the old Eötvös-Pekár-Fekete torsion-balance data and found something generations of readers had missed. The measured fractional acceleration differences correlated with composition. They argued that the pattern could be produced by an intermediate-range interaction coupled to baryon number or hypercharge. The paper helped launch the fifth-force rush.
 
-This is the chapter I wish more anomaly debates began with.
+Chu and Dicke did not answer it with a better fifth-force model. They asked whether the apparatus could manufacture the correlation.
 
-A systematic is not merely “noise.” Noise scatters. A systematic can imitate theory. It can carry the same sign, track the same variable, and become more convincing as the analysis grows more elaborate. If a temperature gradient correlates with test-body configuration, the instrument may produce a material-dependent signal even though nature does not.
+Their candidate was temperature.
 
-Precision gravity is especially vulnerable because the desired accelerations are tiny and the apparatus is macroscopic. Heat produces expansion, convection, radiometric forces, fiber drift, and geometry changes. Electrostatics creates patch potentials. Magnetism couples to impurities. Tilt moves gravitational backgrounds. Mechanical relaxation remembers yesterday's configuration.
+That sounds almost insulting until one remembers what a torsion balance is being asked to do. A suspended macroscopic object must reveal accelerations so small that an ordinary room becomes an active participant in the measurement. A temperature difference across the apparatus can create forces and torques through several routes; if those temperature differences also change with the arrangement of the samples, the resulting error need not look random. Chu and Dicke's calculation showed that thermal-gradient systematics could account for the Eötvös data.
 
-This is why a claimed fifth force should not be judged only by statistical significance. It should be judged by whether the experiment can reverse or modulate the proposed signal independently of the dominant backgrounds.
+This is the dangerous kind of systematic. Noise makes a plot ugly. A systematic can make it beautiful.
 
-The best modern designs are almost theatrical about this. Source masses rotate. Composition dipoles are reversed. Interferometer pulse sequences are alternated. The signal is moved to a known frequency. Calibration masses are inserted. Same-composition control pairs are flown beside different-composition pairs. The apparatus is asked to generate its own counterfactual.
+The distinction matters because the original reanalysis had found a correlation, not merely a few wayward points. Composition changed from sample to sample; the measured residual changed with it. That is exactly the sort of structure a new composition-dependent force ought to produce. But it is also exactly the sort of structure an apparatus can produce if composition, geometry, handling, thermal response, or observing sequence are entangled. More elaborate analysis then risks polishing the imitation.
 
-This is also why screened forces create a special problem. A normal systematic can be removed by changing the environment. A screened signal may also change when the environment changes. Put a shield in front of an electrostatic background and you may change the scalar boundary condition. Change the vacuum pressure and you may change the effective field profile. Move from a laboratory to orbit and the source and detector can become differently screened.
+The thermal explanation was not, by itself, a mathematical burial of the fifth force. Fischbach and colleagues continued to argue that known conventional mechanisms did not adequately explain the old data, and the 1986 literature quickly filled with comments, replies, alternative explanations, and new experiments. A separate constraint published that June from Kreuzer's 1968 experiment already put an upper limit on a baryon-coupled intermediate-range force at about half the strength inferred by Fischbach's group, although the results were still statistically compatible at roughly two standard deviations. The historical record did not resolve itself in one neat rebuttal.
 
-The old thermal-gradient fight therefore points directly toward the modern frontier. The experiment must not only control its environment. It must know when the environment is part of the hypothesis.
+What changed was the value of a new experiment.
+
+If the Eötvös residue came from a real force, one should be able to arrange matter so that the hypothesized signal changes while the troublesome laboratory conditions do not change in the same way. That is a much harder demand than asking whether a regression line has a small p-value. It asks the apparatus to separate cause from companionship.
+
+Three years later, the Little Goose Lock experiment did something close to that. A large movable water mass supplied a modulated source. The attraction being sought could therefore be driven on command instead of reconstructed from an old set of samples whose composition and experimental history arrived already entangled. The result was null for the proposed fifth force.
+
+Modern precision-gravity experiments have pushed this logic almost to choreography. Source masses rotate. Composition dipoles reverse. Signals are translated to chosen frequencies. Atom-interferometer sequences are alternated. The point is not theatrical fussiness. It is to create transformations under which the proposed force and the dominant backgrounds behave differently.
+
+Screened forces complicate that strategy in an interesting way. In an ordinary background study, changing the environment is supposed to expose the nuisance. For a chameleon-like scalar, the environment may also change the signal. A shield can alter more than electrostatics; a vacuum chamber can be part of the scalar boundary condition. Test-body size can affect screening. Moving from a laboratory to orbit can change the field configuration one is trying to measure.
+
+So the old thermal-gradient dispute leaves a more precise inheritance than “watch your systematics.” A useful control must not merely perturb the experiment. It must perturb competing explanations differently.
+
+That is why the fifth-force story did not end when a temperature gradient entered it. It became an experimental-design problem.
