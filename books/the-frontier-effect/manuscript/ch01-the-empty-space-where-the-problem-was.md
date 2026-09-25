@@ -204,4 +204,8 @@ A leaderboard tells you who got there first.
 
 A provenance graph tells you what moved because they did.
 
+It also makes a different kind of credit possible. A famous proof can sit at the center while the graph still shows the hundreds of earlier results that made the proof legible. Hero stories flatten ancestry. Provenance restores it.
+
+
+
 The second movement is harder to see because it is distributed across thousands of choices. It is also where the future happens.
