@@ -1,0 +1,43 @@
+# The Bird That Would Not Die
+
+The ivory-billed woodpecker has been rediscovered, not rediscovered, proposed extinct, left federally endangered, photographed, not photographed, heard, misheard, modeled, and mourned. The bird is either one of the most extraordinary survivors in North American conservation or one of the most productive machines ever built for turning ambiguous evidence into additional ambiguous evidence.
+
+That sentence sounds cruel until the institutional chronology is laid out.
+
+The last universally accepted United States sighting is generally placed in 1944 in Louisiana's Singer Tract. The old-growth bottomland forest on which the bird depended was being cut. For decades after, reports continued. In 2004 a kayaker in Arkansas saw a large woodpecker he believed was an ivory-bill. Subsequent observers and a Cornell-led team gathered sightings, audio, and brief video. On April 28, 2005, Cornell and the U.S. government publicly announced rediscovery. The Fish and Wildlife Service described the bird as present in Arkansas's Big Woods and a federal conservation response followed. ([USFWS 2005 announcement](https://www.fws.gov/story/2005-04/once-thought-extinct-ivory-billed-woodpecker-rediscovered-arkansas).)
+
+The evidentiary problem did not end with the press conference. It became the story.
+
+The video was short and distant. Identification hinged on wing pattern, size, flight behavior, and exclusion of the pileated woodpecker. Skeptics argued the evidence did not uniquely support ivory-bill. Searches expanded. Possible double-knock sounds and calls were recorded. More sightings were reported. Definitive images did not materialize. The strange thing about the case is not that experts disagreed over a blurry bird. Experts disagree over difficult data all the time. The strange thing is that enormous additional search effort failed to close the dispute.
+
+By 2019 the U.S. Fish and Wildlife Service's five-year review recommended delisting due to extinction. In September 2021 the agency proposed removing the ivory-bill along with twenty-two other species from federal lists because the best available information indicated extinction. The agency's announcement noted that the last commonly agreed sighting was in 1944 and that decades of extensive searches had not relocated the species. ([USFWS, 29 September 2021](https://www.fws.gov/press-release/2021-09/us-fish-and-wildlife-service-proposes-delisting-23-species-endangered-species).)
+
+Then the proposal itself encountered the same ambiguity. Public comments and new claimed evidence led the Service to extend review. In 2023, when twenty-one of the originally proposed species were finally delisted as extinct, the ivory-billed woodpecker was not among them; the Service said it would continue analyzing the information before deciding. ([USFWS, 16 October 2023 context](https://www.fws.gov/press-release/2023-10/21-species-delisted-endangered-species-act-due-extinction).) As of 2026 the species remains federally endangered while the extinction question remains unresolved at the rulemaking level.
+
+There are two lazy ways to read this. One is that government hesitation proves the bird survives. The other is that scientific skepticism proves every post-1944 witness was mistaken. Neither follows.
+
+The case becomes more interesting when treated as an inference problem instead of a referendum on optimism.
+
+Andrew Solow and collaborators developed methods for using sighting records to infer extinction. A 2012 Conservation Biology paper explicitly addressed the ivory-billed record, separating sightings classified as certain from those classified as uncertain. The paper analyzed records from 1897 through 2010 and reported a Bayes factor of 4.03 in favor of extinction under its model, with posterior modes for extinction time in 1944, 1952, and 1988. ([Solow et al. 2012, PubMed record](https://pubmed.ncbi.nlm.nih.gov/21967229/).) That is not a magical statistical declaration that the bird is dead. It is a formal statement of what follows from a particular sighting record and a particular model of how true and false sightings arise.
+
+Two years later, Solow and Beet revisited the treatment of uncertain sightings and showed how model structure could change the result. One plausible model did not favor extinction; another did. Their conclusion was less satisfying than a verdict and more useful: inference depends on the natural history of the sighting record. ([Solow & Beet 2014](https://pubmed.ncbi.nlm.nih.gov/24779551/).)
+
+This is the point cryptid arguments almost never reach. A witness report is not simply "evidence" or "not evidence." It belongs to a process. Who reports? How often? Under what conditions? What common species can be mistaken for the target? Does publicity increase reports? Are later reports independent, or do they inherit a search image from earlier media? Is the same ambiguous field mark repeated because the animal is real or because observers have learned what an ivory-bill story sounds like?
+
+The ivory-bill is an almost perfect natural experiment because the species is not biologically absurd. It unquestionably existed. Suitable habitat remains. The historic bird was large and distinctive. A remnant population after 1944 is not equivalent to a plesiosaur in a Scottish lake. The prior probability was never zero. Yet even here, where survival began as a serious conservation possibility, decades of searching matter.
+
+Search effort also creates a subtle trap. The more people search, the more ambiguous events they collect. A rare pileated woodpecker seen badly does not become less likely merely because the observer is hoping for an ivory-bill. Bark sounds, gunshots, tree knocks, distant calls, compression artifacts, wing flashes, and brief silhouettes accumulate. If evidence quality does not improve with search effort, the archive can grow while the probability of survival falls. More data can make a controversy culturally larger and scientifically weaker at the same time.
+
+That is the false-evidentiary ecology of the almost-extinct animal.
+
+A 2023 Ecology and Evolution paper by Steven Latta and colleagues presented multiple lines of evidence that they argued suggested persistence in Louisiana, including imagery and field observations. ([Latta et al. 2023](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.10017).) Critics have disputed whether the images are diagnostic. The correct move is not to settle that disagreement by adjective. "Blurry" is not a statistical method and "multiple lines" is not automatically independence. If several lines arise from the same observer expectations, same sites, same target image, or same low-resolution instruments, they may share failure modes.
+
+The strongest possible evidence would be boring in the best way: a clear photograph with location and raw metadata, followed by repeat detection; a feather with defensible custody and diagnostic DNA; a nest with recoverable material; multiple independent camera angles; an identifiable carcass. None requires belief in expert testimony. Each can be checked by people who were not present.
+
+This does not make witnesses worthless. Witnesses tell us where to look. They can identify patterns and habitat. Expert observers sometimes see correctly what cameras miss. But testimony should usually move search effort before it moves taxonomy.
+
+The ivory-bill has already taught one expensive lesson. In 2005, ambiguous but serious evidence was strong enough to trigger major conservation action because the downside of failing to protect a surviving remnant could have been irreversible. That is a policy decision under uncertainty, not the same as a taxonomic proof. Precaution can rationally set a lower threshold than scientific declaration.
+
+This distinction is worth preserving. We can protect a swamp because there might be an ivory-bill without asserting that the bird definitely lives there. We can search because the claim is plausible without pretending the search itself confirms the claim. We can eventually conclude that continued non-detection makes survival increasingly improbable without claiming omniscience.
+
+The bird that would not die may, in fact, be dead. Or perhaps a camera will settle it tomorrow. The scientific achievement is not choosing the emotionally correct ending. It is building an evidentiary system that can survive either one.
