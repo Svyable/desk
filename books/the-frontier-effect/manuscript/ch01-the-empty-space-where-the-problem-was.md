@@ -196,4 +196,12 @@ The frontier moves twice: once in knowledge, once in attention.
 
 Those choices leave traces: citations, new collaborations, course notes, grant language, software dependencies, problem lists, and the quiet disappearance of old phrases from seminar titles. The traces are imperfect. They are still better than pretending attention cannot be measured.
 
+Those choices can eventually be represented as a provenance graph: claims linked to proofs, proofs linked to dependencies, dependencies linked to people, software, formal libraries and earlier results. The graph will never capture taste or understanding perfectly, but it can expose when a celebrated result rests on one fragile edge or when a supposedly local theorem has become infrastructure across many fields.
+
+That is a better object for AI mathematics than a leaderboard.
+
+A leaderboard tells you who got there first.
+
+A provenance graph tells you what moved because they did.
+
 The second movement is harder to see because it is distributed across thousands of choices. It is also where the future happens.
