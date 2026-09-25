@@ -256,7 +256,7 @@ One mathematician thinks a problem is beautiful. Another thinks it is sterile. A
 
 Diversity of judgment is not noise to be optimized away automatically.
 
-It is part of the search.
+It is part of the search. A frontier with one taste function is efficient right up until the taste function is wrong. Mathematics has survived many bad forecasts because other people kept working on the unfashionable thing anyway. That redundancy looks expensive only before the neglected idea turns out to matter.
 
 
 
