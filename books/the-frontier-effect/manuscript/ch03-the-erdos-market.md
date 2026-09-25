@@ -206,6 +206,18 @@ Erdős did it with hundreds.
 
 Modern mathematics does it through papers, seminars, conjectures, prizes, online collaborations, benchmark problems, formal libraries and the reputations of people whose taste others trust.
 
+The prize system gives a crude historical baseline for that coming abundance.
+
+Erdős could remember and circulate hundreds of questions because a human mind was doing the curation. The scale was large by individual standards and tiny by machine standards. Even then, value came from exclusion. A problem made the traveling collection because it had survived his taste.
+
+Modern databases can preserve far more, but storage is not curation. A million open questions with no reliable ordering may be less useful to a working mathematician than ten questions chosen by somebody whose judgment they trust.
+
+This suggests a quantity the AI discussion usually skips: the ratio of generated problems to adopted problems.
+
+If models make conjecture generation nearly free, that ratio could explode. The meaningful signal would not be how many conjectures appear, but how many attract sustained expert effort, connect previously separate techniques, survive first contact with counterexamples, and still look important after the novelty wears off.
+
+Erdős's little dollar amounts were imperfect estimates of exactly that kind of durability.
+
 AI may increase the number of proposed frontiers by orders of magnitude.
 
 That does not automatically make the frontier move faster.
