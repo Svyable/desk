@@ -130,6 +130,10 @@ It inherits methods built for the previous problem. It inherits disappointed com
 
 This is why breakthroughs cluster without requiring anything mystical. The solution to one hard problem can alter the expected return on effort nearby. A technique that looked specialized turns out to travel. A computational tool becomes cheap enough to use elsewhere. A young researcher watches a supposedly impossible object fall and updates what deserves a decade.
 
+A third movement follows later, when the result becomes pedagogy. The theorem enters lecture notes. Its machinery gets separated into reusable parts. Students learn techniques without experiencing the original uncertainty that made those techniques necessary. At that point the frontier has not merely moved. The old frontier has become infrastructure.
+
+That conversion may be the most important one to measure in an AI-rich mathematical culture, because infrastructure is what lets the next generation begin farther out.
+
 The frontier moves twice: once in knowledge, once in attention.
 
 The second movement is harder to see because it is distributed across thousands of choices. It is also where the future happens.
