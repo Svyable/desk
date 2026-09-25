@@ -1,0 +1,21 @@
+# The Rain That Carries Its Own Seed
+
+A bacterium on a leaf can make water freeze several degrees warmer than it otherwise would. That sentence sounds small until the leaf becomes a cloud.
+
+This book began with an irritation about scale. We are accustomed to biology changing weather in the aggregate. Forests transpire water. Plankton alter chemistry. Vegetation changes albedo and roughness. Those are large things doing large things. Ice-nucleating bacteria are stranger. Their meteorological importance, if it exists at meaningful scale, begins with molecular surfaces arranging a few water molecules into the first stable architecture of ice.
+
+The established facts are already good enough without embellishment. Certain bacteria, especially strains of *Pseudomonas syringae*, carry exceptionally efficient ice-nucleating machinery. Plant pathologists showed that these bacteria can promote frost damage. Atmospheric scientists found biological ice nuclei in precipitation and traced remarkably active material back to decaying vegetation, oceanic material, microorganisms, and eventually bacteria. *P. syringae* has been recovered from rain, snow, streams, lakes, plants and other parts of the water cycle. The same trait that can hurt a crop became useful enough to manufacture snow and provocative enough that an ice-nucleation-deficient derivative helped turn a California field into an early battleground over environmental release of genetically engineered organisms.
+
+Then comes the stronger claim. Perhaps ice nucleation is not merely a property that happens to work in clouds. Perhaps some microorganisms gain an ecological advantage by helping initiate the precipitation that returns them from atmosphere to surface. In its most ambitious form, the idea becomes a biological feedback loop: vegetation emits microbial ice nuclei; clouds incorporate them; some alter freezing; precipitation deposits microbes into habitats where they multiply; the landscape reloads the atmosphere.
+
+That is an arresting idea. It is also not established simply because each arrow in the loop has a paper attached to it.
+
+The manuscript therefore keeps four evidence classes throughout. Class 1 is direct, replicated or otherwise well-documented physical and biological fact: measured ice-nucleation activity, cultured organisms, molecular mechanisms, field releases, precipitation isolates. Class 2 is credible but incomplete evidence: atmospheric abundance measurements, associations between biological particles and warm-temperature freezing, cloud-relevant laboratory behavior, ecological enrichment. Class 3 contains disputed or overextended interpretations: claims that particular rainfall events were caused by microbes, that cloud seeding with living material can reliably control weather, or that correlation between vegetation and biological nuclei closes a causal precipitation loop. Class 4 is the synthesis worth testing: biological ice nucleation may be an evolved atmospheric dispersal strategy and, under some conditions, a feedback from ecosystem to precipitation.
+
+The book will occasionally use the phrase bioprecipitation. It should not be read as a magic word. It is a hypothesis family, not a verdict.
+
+What makes the subject worth the trouble is that it has become more testable, not less. High-speed cryomicroscopy can now watch bacterial ice nucleation begin at interfaces. Genomics can separate organisms and pathways. Modern aerosol instruments can count and characterize particles. Aircraft can sample cloud layers. Satellite and radar products can observe precipitation evolution. Isotopic and genomic tracers can follow sources. And in 2026 a new complication arrived: microplastics colonized by *P. syringae* showed substantially warmer freezing behavior than uncolonized particles, suggesting that an anthropogenic particle can acquire biological ice-nucleating properties rather than remaining a cleanly separable category of pollution.
+
+There is a temptation to tell that as a planetary twist: plastic has joined the rain cycle. The experiment does not justify that sentence yet. It just makes the sentence testable.
+
+That distinction is the book's method. The beautiful hypothesis has to keep earning the next verb.
