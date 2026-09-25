@@ -1,0 +1,28 @@
+# Evidentiary Matrix
+
+The book uses four evidence classes. Classification attaches to the specific claim, not to the prestige of the source.
+
+| Claim | Class | Current basis | What would strengthen it | What would defeat or materially narrow it |
+|---|---|---|---|---|
+| Ordinary meteor sonic booms/infrasound arrive well after the optical event over large source-observer distances. | 1 — verified/documented | Atmospheric acoustics; instrumented bolide/infrasound literature including the 1998 Leonid work. | Event-specific propagation reconstructions. | Only a radical revision of acoustic propagation at atmospheric conditions, which is not remotely indicated. |
+| Some people have historically reported sounds apparently concurrent with bright meteors. | 1 for existence of reports; 2 for physical accuracy of individual reports | Historical catalogs and modern surveys. | Contemporaneous timestamps, independent witnesses, calibrated audio. | Demonstration that the report corpus is fully explained by delayed sound, prompting, coincidence or documentation error. |
+| The 1998 Mongolia campaign recorded two low-frequency acoustic events associated with Leonid fireballs. | 1 — documented | Zgrablić et al. 2002, synchronized video/audio and multiple witnesses. | Independent raw-data reanalysis; replication with modern sensors. | Discovery of an environmental/instrumental artifact matching both events and controls. |
+| Those two sounds were driven by an ELF/VLF field. | 2/3 — credible mechanism but not demonstrated for the events | Keay framework; acoustic spectra below receiver cutoff; broader meteor EM literature. | Broadband synchronized field detection with sufficient energy budget and transducer response. | Well-characterized audible events with comprehensive field nulls plus positive competing mechanism. |
+| Keay's turbulent-wake model is the general source of electrophonic meteor sound. | 3 — disputed/unresolved | Published model and some reported VLF correlations. | Prospective predictions across meteor classes; calibrated field measurements matching model scaling. | Systematic mismatch of predicted altitude/brightness/spectrum; alternate mechanism explaining positives and nulls. |
+| Bright, rapidly modulated meteor light can create local audible sound by photoacoustic heating. | 1 for mechanism in controlled conditions; 2 for natural prevalence | Spalding et al. 2017 laboratory measurements and modeling. | Natural events with high-speed photometry predicting measured local acoustic response. | Failure under realistic irradiance/modulation/material conditions or systematic natural-event mismatch. |
+| Meteors can interact with upper-atmospheric electrical phenomena. | 1 in broad sense; 2 for specific trigger generalization | Meteor trails/radar physics; Suszcynsky et al. 1999 meteor/sprite/jet sequence. | Replicated event population with causal geometry and timing. | Large controlled datasets showing apparent associations at background coincidence rates. |
+| Kelley–Price Hall-current pathway can supply an audible electrophonic field. | 2 — quantitative theoretical proposal | GRL 2017 calculation. | Direct measurement of predicted field amplitude, polarization, timing and geomagnetic dependence. | Field strengths consistently far below model requirement in otherwise qualifying events. |
+| Chelyabinsk produced genuine concurrent electrophonic sounds. | 2 — credible but incomplete testimony | Retrospective interview/survey reports before the delayed shock. | Raw synchronized audio with source controls; contemporaneous unprompted records. | Demonstrated survey contamination or local causes accounting for reports. |
+| Concurrent meteor sounds form more than one physical subclass. | 4 — speculative synthesis | Different phenomenology, meteor regimes, RF and photoacoustic mechanisms, positive/null patterns. | Clustered prospective data linking subclasses to distinct measured channels. | A single mechanism predicting essentially all well-characterized events including silent controls. |
+| The history shows that some “impossible” observations are conflicts with an assumed channel rather than with physics itself. | 4 — interpretive synthesis grounded in this case | Travel-time mismatch plus later local-transduction mechanisms. | Similar carefully reconstructed cases; explicit philosophy-of-science comparison. | If the best electrophonic events collapse into artifact, the broader analogy must be sharply narrowed. |
+
+## Defeat conditions for the book-level thesis
+
+The central argument should be abandoned or substantially rewritten if any of the following occurs:
+
+1. Reanalysis of the Mongolia raw data identifies a mundane environmental or instrumental source that explains both recorded events under the campaign controls.
+2. Modern preregistered observing networks accumulate a large sample of bright fireballs with comprehensive photometric, acoustic and electromagnetic coverage and find no concurrent acoustic events above environmental false-positive rates.
+3. The historical timing category proves to be a documentation artifact produced by retrospective interpretation rather than a recurring observation.
+4. One mechanism becomes so strongly confirmed across well-characterized events that the book's plural-mechanism posture is no longer defensible.
+
+The thesis survives a change in favored mechanism. It does **not** require Keay's source model, photoacoustic dominance or an ionospheric trigger. It requires only that at least some concurrent-sound events are physically real and that their timing is best understood by separating long-distance energy propagation from local acoustic generation.
