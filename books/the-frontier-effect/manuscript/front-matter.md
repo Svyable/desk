@@ -1,6 +1,6 @@
 # The Frontier Effect
 
-*What Happens When the Hard Problem Moves*
+*Problems, Proofs, and the Motion of Mathematical Attention*
 
 **Sven Hardy Benson**
 
