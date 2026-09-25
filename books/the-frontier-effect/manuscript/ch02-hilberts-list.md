@@ -140,6 +140,8 @@ This is where the phrase "the hardest problems" becomes unstable. Hardest by wha
 
 That is the practical legacy of Hilbert's wager: a mathematical problem can be designed well enough to coordinate people who will never meet, using methods that do not yet exist, across a time horizon longer than any research career. Very few institutions achieve that kind of persistence.
 
+The list outlived its author because the questions were strong enough to keep recruiting new mathematics long after the original audience disappeared.
+
 Erdős had one answer, or rather thousands of them. He carried problems with him.
 
 Hilbert used a congress and a printed list. Erdős used conversation, collaboration and cash. He turned problem selection into something almost liquid.
