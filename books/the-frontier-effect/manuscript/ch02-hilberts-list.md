@@ -170,6 +170,22 @@ Now the phrase "the hardest problems" starts to wobble. Hardest by what measure?
 
 That is the practical legacy of Hilbert's wager: a mathematical problem can be designed well enough to coordinate people who will never meet, using methods that do not yet exist, across a time horizon longer than any research career. Very few institutions achieve that kind of persistence.
 
+That is a rare kind of authorship.
+
+Most writing tries to preserve an answer.
+
+A problem list preserves a useful ignorance.
+
+It says: here is where the map still tears.
+
+The danger is that canonical lists can become too successful. Once a problem acquires enough prestige, other open questions can look smaller merely because they lack a famous name. A list directs attention and therefore distorts it.
+
+The answer is not to stop making lists.
+
+It is to remember that every list has a shadow: the problems not selected, the methods not fashionable, the questions that do not compress into a sentence dramatic enough for a prize committee.
+
+A frontier has visible peaks and invisible passes.
+
 The list outlived its author because the questions were strong enough to keep recruiting new mathematics long after the original audience disappeared.
 
 Erdős had one answer, or rather thousands of them. He carried problems with him.
