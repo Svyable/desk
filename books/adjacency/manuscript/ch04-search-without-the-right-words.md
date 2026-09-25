@@ -38,9 +38,7 @@ Paste a paragraph describing a machine vibration and retrieve a maintenance bull
 
 Ask a research database for papers about “models that retrieve external documents before answering” and find work on retrieval-augmented generation even if your query never contains the canonical acronym.
 
-The ability is not mind reading.
-
-It is robust matching under imperfect wording.
+The ability is robust matching under imperfect wording.
 
 That robustness changed what could be built.
 
@@ -232,9 +230,7 @@ Authority, freshness, provenance and applicability can outrank semantic closenes
 
 This is why serious discovery systems will not become pure vector spaces. They will become composite systems in which vectors supply candidates and other forms of structure discipline them.
 
-The future of search is therefore not a replacement of strings by vectors.
-
-It is a richer negotiation between exactness and meaning.
+The future of search is a richer negotiation between exactness and meaning.
 
 Exact search says: show me what matches.
 
@@ -254,9 +250,7 @@ The structure reveals a different neighborhood.
 
 A search system that tolerates imperfect language makes the first step easier, but its greater contribution may be psychological.
 
-It lets us begin before we know what to call the thing.
-
-That is the threshold where many discoveries used to die.
+It lets us begin before we know what to call the thing—the threshold where many discoveries used to die.
 
 People are excellent at recognizing gaps and poor at naming unfamiliar territory. We sense that something is wrong, interesting, related or missing before we possess the vocabulary that experts use.
 
@@ -282,9 +276,7 @@ This architecture exists because no single representation captures relevance wel
 
 Dense passage retrieval research made the power of learned retrieval obvious in open-domain question answering. A question and a passage could be represented independently and then matched efficiently at scale. But even a strong dense retriever does not eliminate the old information-retrieval virtues. Rare proper nouns, identifiers and exact phrases can carry enormous signal. Sparse retrieval remains excellent at them.
 
-The sensible response is not a philosophical war between lexical and semantic search.
-
-It is candidate pluralism.
+The sensible response is candidate pluralism, not a philosophical war between lexical and semantic search.
 
 Let different retrieval methods nominate possibilities.
 
@@ -364,20 +356,10 @@ That is a recurring engineering lesson in intelligent systems. Generalization is
 
 The same principle applies to chunking. A retriever can search small passages for precision while preserving links to larger sections for context. It can retrieve at multiple resolutions: a paragraph, then the parent document; a function, then the file; a slide, then the deck. The initial embedding locates a local match. The system reconstructs the larger object before asking a model or person to reason.
 
-This is another form of hybrid retrieval.
-
-Precision chooses the doorway.
-
-Context restores the room.
+This is another form of hybrid retrieval: precision chooses the doorway; context restores the room.
 
 As semantic search becomes normal infrastructure, the most important quality improvements may increasingly come from these surrounding decisions rather than a dramatic breakthrough in embedding models. Better document parsing. Better deduplication. Better permission handling. Better reranking. Better authority signals. Better tests for absence. Better links back to sources.
 
-The glamour moves upstream to the model.
+The glamour moves upstream to the model; reliability accumulates in the plumbing.
 
-Reliability accumulates in the plumbing.
-
-This is appropriate because search has always been an infrastructure discipline disguised as a text box.
-
-The vector did not replace that discipline.
-
-It gave the stack another exceptionally powerful way to nominate what might matter.
+That is appropriate because search has always been an infrastructure discipline disguised as a text box. The vector gave the stack another exceptionally powerful way to nominate what might matter.
