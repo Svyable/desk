@@ -86,6 +86,24 @@ That is the Frontier Effect in its strongest form.
 
 The important event is not that one more statement changes from UNKNOWN to TRUE or FALSE. The important event is that the map used to assign difficulty, relevance and possibility gets revised.
 
+There is another reason to linger on the list itself.
+
+Twenty-three is small enough to remember and large enough to constitute a portfolio.
+
+That portfolio property matters. If Hilbert had announced one supreme problem, the mathematical century would have inherited a monument. By naming many, he implicitly acknowledged that frontier mathematics is diversified. Different problems fail for different reasons. Axioms fail in one place, algorithms in another, analytic estimates somewhere else. Progress does not require every frontier to move at once.
+
+This creates resilience.
+
+A field organized around one impossible objective can stall. A community with many serious problems can redirect effort when one route becomes barren. Techniques developed against one target can migrate to another. A negative result does not end the program because the program was never one question.
+
+In that sense the list resembles an option set more than a syllabus.
+
+The same feature explains why later grand-challenge lists are so powerful. They package ignorance. A list says that these open questions are distinct enough to matter independently, connected enough to represent a frontier, and legible enough that outsiders can orient themselves. The act of selection becomes part of research infrastructure.
+
+That is also where judgment enters.
+
+There were unsolved problems in 1900 that Hilbert did not choose. There are open problems today that no prize committee will ever anoint. A list is not a census of ignorance. It is an argument about which ignorance deserves a name.
+
 Hilbert gives us another useful clue in the way he discussed the source of problems. Some questions come from physical experience. Others are generated internally by mathematics through generalization, specialization, analogy and recombination. The boundary between those sources is porous. A question born from geometry may require algebra. A problem born from physics may create pure mathematics that later returns to physics under another name.
 
 Frontiers breed frontiers.
