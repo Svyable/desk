@@ -160,6 +160,26 @@ Go home.
 
 Poincaré did the opposite.
 
+This is the part a prize announcement cannot capture.
+
+Once a proof becomes reliable, researchers stop treating every component as sacred. They simplify it. Generalize it. Break it. Rebuild it under different hypotheses. Replace technical steps with cleaner ones. Extract estimates. Ask whether a singularity classification survives in another dimension. Ask whether a surgery argument can be reformulated so that surgery disappears from the final object. Turn a once-exotic method into a seminar topic.
+
+That process can make the original proof look less miraculous over time.
+
+This is success.
+
+A theorem is fully absorbed when younger mathematicians can use its descendants without feeling the historical drama that produced them.
+
+Euclid has no suspense left.
+
+Neither does the fundamental theorem of calculus.
+
+Their frontiers have disappeared so completely into infrastructure that the modern student meets the road before learning there was wilderness underneath it.
+
+Poincaré is not there yet.
+
+But it moved in that direction the moment the proof became reusable.
+
 The solution made Ricci flow more central.
 
 Clay now describes Perelman's breakthrough as having inspired twenty years of rapid progress in geometry and topology.
