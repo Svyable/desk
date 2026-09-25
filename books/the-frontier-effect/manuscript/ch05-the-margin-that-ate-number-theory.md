@@ -468,6 +468,22 @@ A famous problem is not important because people stare at it.
 
 It remains important when staring at it changes what people can see.
 
+There is a useful test for every later case in this book.
+
+Ask whether the problem was solved in the language in which it was originally famous.
+
+Fermat: no.
+
+That single answer already tells us more about frontier motion than the date 1995 does. It says the decisive progress came from expanding the representational world around the problem until the original statement became reachable from somewhere else.
+
+When AI systems begin contributing more deeply to research mathematics, I want to know whether they can do that.
+
+Not just search faster.
+
+Leave the language.
+
+Find the elsewhere.
+
 The margin was small.
 
 The consequences were not.
