@@ -1,23 +1,28 @@
 # Editor guide
 
-This is the path if you are comfortable with branches and pull requests.
-Lead authors of a book may still commit directly to `main` for that book;
-everyone else uses this flow.
+This is the path if you are comfortable editing the repository directly.
+Routine authorized Desk work can be committed straight to `main`; branches and
+pull requests are available when isolation, coordination, or review adds value.
 
 If you have never used GitHub, start with the [author guide](author-guide.md)
 instead.
 
-## Branch → edit → pull request
+## Choose the lightest workflow that fits
 
-1. Create a branch named after the book or manuscript scope, for example
-   `book/example-book-ch02-05` or `fix/example-book-ch02-typos`.
-2. Edit the chapter or coherent run of chapters the task calls for. If the
-   table of contents must change to match (added, renamed, or removed
-   chapters), edit that book's `README.md` in the same branch.
-3. Open a pull request against `main`. The PR template asks for the book,
-   manuscript scope, what changed, and why.
-4. Review the diff as a unit: the chapters should belong together, the TOC and
-   drafted count should match, and unrelated cleanup should not have slipped in.
+For routine reversible work on a book you are authorized to edit, make the
+change, review the diff, and commit it. A direct commit is a save point; it is
+not publication and it does not need a pull request merely for ceremony.
+
+Use a branch and pull request when the change is broad, risky, concurrent,
+cross-book, touches shared tooling or global catalog surfaces, crosses a
+publication/release boundary, or benefits from an isolated reviewable diff. A
+branch name such as `book/example-book-ch02-05` or
+`fix/example-book-ch02-typos` is sufficient.
+
+Whether direct or through a PR, keep each change coherent. If the table of
+contents must change to match added, renamed, or removed chapters, edit the
+book's `README.md` in the same finished change. Intermediate checkpoint
+commits may precede the final cleanup and checks.
 
 A PR may contain one chapter, several related chapters, or a whole-book writing
 pass. Prefer the largest scope that remains coherent and reviewable. Do not
@@ -79,12 +84,13 @@ proposal.
 - If the TOC or chapter count in the book README is stale, say so and block
   merge until it is fixed.
 
-## Merge etiquette
+## Landing etiquette
 
-- The lead author named on the book's README merges that book's PRs.
-- Do not squash away a carefully written chapter history unless the author
-  asks. A regular merge (or squash of a messy fixup branch, if the author
-  agrees) is fine.
-- After merge, confirm the live README contents list still matches the
-  files in `manuscript/`.
+- Direct commits are acceptable for authorized routine Desk work.
+- When a PR is used, merge it once its actual required checks and conflict state
+  are satisfactory; do not add review ceremony solely because a PR exists.
+- Do not squash away a carefully written chapter history unless there is a good
+  reason. A regular merge or a squash of noisy fixups is fine.
+- After landing a finished structural change, confirm the live README contents
+  list still matches the files in `manuscript/`.
 - Do not enable branch protection or CODEOWNERS as part of ordinary editing.
