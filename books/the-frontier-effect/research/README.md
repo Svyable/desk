@@ -35,6 +35,11 @@ On 11 September 2026, Clay Mathematics Institute said the Navier–Stokes Millen
 - Romera-Paredes et al., “Mathematical discoveries from program search with large language models,” *Nature* 625 (2024): https://www.nature.com/articles/s41586-023-06924-6
 - Google DeepMind, AlphaEvolve: https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/
 
+## Working files
+
+- [Source ledger](source-ledger.md)
+- [Measurement plan](measurement-plan.md)
+
 ## Research queue
 
 Quantify the post-solution attention shift around Fermat, Poincaré and bounded prime gaps using bibliometrics and conference/program changes. Reconstruct the Polymath projects as deliberate attention-pooling infrastructure. Find primary accounts from mathematicians who changed research direction after a major proof. Separate “solution creates a field” from “solution empties a field.” Track formal proof assistants and AI systems by what they actually verified or discovered, not promotional category labels.
