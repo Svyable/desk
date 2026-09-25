@@ -172,7 +172,7 @@ Polymath made a piece of that graph public.
 
 Instead of a problem moving through private conversations and letters, the conversation itself became readable. Ideas, failed ideas, corrections, numerical improvements and tactical shifts accumulated in public threads. The problem did not simply have a solver. It had a visible metabolism.
 
-This matters in the AI era for an obvious reason and a less obvious one.
+Machines change both sides of the problem at once.
 
 The obvious reason is that machines can participate in pieces of problem solving.
 
