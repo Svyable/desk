@@ -234,6 +234,22 @@ The difference is empirical. Do the highly ranked problems produce useful mathem
 
 Erdős's prizes had decades to reveal whether his taste traveled.
 
+There is also a social correction mechanism human taste enjoys that machine rankings may lack.
+
+A respected mathematician can recommend a problem and watch nobody care.
+
+That silence is information.
+
+The community can decline the allocation.
+
+A recommendation competes with hundreds of other signals from other researchers. Taste is distributed enough that one bad forecast rarely determines the whole field.
+
+A centralized machine ranking could be more efficient and more dangerous.
+
+If everyone searches the same ranked list, an error in taste becomes infrastructure.
+
+The frontier narrows because the allocator looked authoritative.
+
 Machine taste will need the same kind of audit, only faster.
 
 
