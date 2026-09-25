@@ -118,7 +118,7 @@ And again.
 
 The shortest path to Fermat turned out to be a long detour through mathematics that did not look like Fermat at all.
 
-This is where the book needs a map.
+Draw the dependency instead.
 
 Not a geographical map. A dependency map.
 
@@ -280,7 +280,7 @@ Almost everything around it survived.
 
 Some of it accelerated.
 
-This is why the phrase "a solved problem releases attention" is too simple.
+Fermat refuses the simple accounting in which a solved problem merely releases attention.
 
 Fermat did not behave like a construction site after the building was finished, workers packing up and moving to the next address.
 
@@ -372,7 +372,7 @@ Fermat is just unusually clean because the starting statement is so elementary a
 
 The distance between statement and proof is part of the theorem's meaning.
 
-This is why attempts to find an "elementary proof" of Fermat remain psychologically attractive.
+The desire for an "elementary proof" survives because the statement still looks as though it belongs to elementary arithmetic.
 
 The theorem looks as though it should belong to elementary arithmetic.
 
