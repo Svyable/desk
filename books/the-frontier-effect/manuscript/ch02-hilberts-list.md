@@ -138,6 +138,8 @@ A century-old list is therefore not merely a collection of problems. It is a tim
 
 This is where the phrase "the hardest problems" becomes unstable. Hardest by what measure? Time open? Depth of prerequisites? Number of failed attempts? Importance of consequences? Resistance to existing methods? Prestige? The amount of new machinery apparently required?
 
+That is the practical legacy of Hilbert's wager: a mathematical problem can be designed well enough to coordinate people who will never meet, using methods that do not yet exist, across a time horizon longer than any research career. Very few institutions achieve that kind of persistence.
+
 Erdős had one answer, or rather thousands of them. He carried problems with him.
 
 Hilbert used a congress and a printed list. Erdős used conversation, collaboration and cash. He turned problem selection into something almost liquid.
