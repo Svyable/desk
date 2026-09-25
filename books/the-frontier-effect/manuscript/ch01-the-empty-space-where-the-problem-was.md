@@ -204,7 +204,7 @@ A leaderboard tells you who got there first.
 
 A provenance graph tells you what moved because they did.
 
-It also makes a different kind of credit possible. A famous proof can sit at the center while the graph still shows the hundreds of earlier results that made the proof legible. Hero stories flatten ancestry. Provenance restores it.
+It also makes a different kind of credit possible. A famous proof can sit at the center while the graph still shows the hundreds of earlier results that made the proof legible. Hero stories flatten ancestry. Provenance restores it. Mathematics remembers results more reliably than it remembers routes; the graph can keep both.
 
 
 
