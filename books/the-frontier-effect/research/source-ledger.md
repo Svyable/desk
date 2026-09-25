@@ -104,3 +104,30 @@ This ledger records the source posture behind the manuscript. Links are included
 - Do not say algebraic number theory exists *because* of Fermat. Attempts on Fermat were an important driver in the development of ideal-number/ideal machinery, but those subjects have broader ancestry and motivations.
 - Do not collapse Frey, Serre, Ribet, Wiles, and Taylor into a single “Wiles insight.” The bridge was built in stages.
 - Treat “discovery / verification / assimilation” as this book’s analytic vocabulary, not standard formal statuses.
+
+
+## Chapter 6 — The Prize That Stayed Behind
+
+- Clay Mathematics Institute, “Poincaré Conjecture,” for the 1904 problem, Perelman’s 2002–2003 preprints, Hamilton’s Ricci-flow program, geometrization, and the 2010 Millennium Prize. Class 1 institutional source.  
+  https://www.claymath.org/millennium/poincare-conjecture/
+- Grigori Perelman, “The entropy formula for the Ricci flow and its geometric applications,” arXiv:math/0211159 (2002). Class 1 primary mathematical source.  
+  https://arxiv.org/abs/math/0211159
+- Grigori Perelman, “Ricci flow with surgery on three-manifolds,” arXiv:math/0303109 (2003). Class 1 primary mathematical source.  
+  https://arxiv.org/abs/math/0303109
+- Grigori Perelman, “Finite extinction time for the solutions to the Ricci flow on certain three-manifolds,” arXiv:math/0307245 (2003). Class 1 primary mathematical source.  
+  https://arxiv.org/abs/math/0307245
+- Bruce Kleiner and John Lott, “Notes on Perelman’s papers,” arXiv:math/0605667. Class 1/2 detailed expert reconstruction and exposition.  
+  https://arxiv.org/abs/math/0605667
+- John Morgan and Gang Tian, *Ricci Flow and the Poincaré Conjecture*, Clay Mathematics Institute. Class 1/2 detailed expert exposition of the proof.  
+  https://www.claymath.org/resource/ricci-flow-and-the-poincare-conjecture/
+- International Mathematical Union, Fields Medal records, documenting that Perelman declined the 2006 Fields Medal. Class 1 institutional source.  
+  https://www.mathunion.org/imu-awards/fields-medal
+- Clay Mathematics Institute, “Poincaré Chair,” documenting that Perelman declined the Millennium Prize money and that the prize funds supported the Poincaré Chair. Class 1 institutional source.  
+  https://www.claymath.org/news/poincare-chair/
+
+### Chapter 6 evidence guardrails
+
+- Do not infer Perelman’s motives for declining either award.
+- Do not imply that later expository accounts supplied a missing proof in the sense of correcting a false result; characterize them as detailed verification, reconstruction, exposition, and assimilation.
+- Distinguish the Poincaré conjecture from the broader geometrization conjecture; Perelman’s work establishes the latter, of which Poincaré is a special case.
+- Treat claims about “assimilation” and “frontier phases” as this book’s analytic vocabulary.
