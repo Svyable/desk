@@ -24,7 +24,7 @@ A problem can be solved affirmatively. It can be solved negatively. It can be sh
 
 Hilbert understood at least the first-order version of this. His published address is not a list tossed onto the page. It begins with an argument about what problems do to mathematics. Problems, in his account, are not embarrassments to be cleared away. They are signs of life. Mathematics advances by finding questions precise enough to resist it.
 
-That distinction matters for the Frontier Effect because a famous problem is a piece of infrastructure before it is an answer.
+Before it is an answer, a famous problem is infrastructure.
 
 It tells a community where resistance lives.
 
@@ -136,7 +136,7 @@ The instability is productive. A problem list freezes a moment long enough for l
 
 A century-old list is therefore not merely a collection of problems. It is a time series with one very coarse initial observation.
 
-This is where the phrase "the hardest problems" becomes unstable. Hardest by what measure? Time open? Depth of prerequisites? Number of failed attempts? Importance of consequences? Resistance to existing methods? Prestige? The amount of new machinery apparently required?
+Now the phrase "the hardest problems" starts to wobble. Hardest by what measure? Time open? Depth of prerequisites? Number of failed attempts? Importance of consequences? Resistance to existing methods? Prestige? The amount of new machinery apparently required?
 
 That is the practical legacy of Hilbert's wager: a mathematical problem can be designed well enough to coordinate people who will never meet, using methods that do not yet exist, across a time horizon longer than any research career. Very few institutions achieve that kind of persistence.
 
