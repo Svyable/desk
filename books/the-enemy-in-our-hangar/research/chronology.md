@@ -1,0 +1,23 @@
+# Chronology
+
+- **1950s–1960s** — U.S. technical intelligence institutions expand systematic exploitation of Soviet and other foreign military technology.
+- **16 Aug. 1966** — Iraqi Air Force Capt. Munir Redfa defects to Israel in a MiG-21. The broad fact of Israeli acquisition is established; many operational details of the recruitment story come from later histories.
+- **1966–1967** — Israel evaluates the MiG-21 against its own fighters.
+- **23 Jan.–8 Apr. 1968** — Israel loans the MiG-21 to the United States. The aircraft is evaluated at Groom Lake under **HAVE DOUGHNUT**.
+- **1 Aug. 1969** — Date of the DIA/FTD HAVE DOUGHNUT tactical evaluation report FTD-CR-20-13-69-INT, Volume II.
+- **17 Feb. 1969** — HAVE DRILL MiG-17 flight evaluation begins at Groom Lake; National Security Archive summary reports 172 sorties over 55 days.
+- **9 Apr. 1969** — HAVE FERRY activity begins; summary reports 52 sorties over 20 days.
+- **5 Jun. 1969** — CIA record on acquisition of Soviet MiG-21PFM technical manuals.
+- **1970** — HAVE GLIB-era foreign radar exploitation contributes to a Nevada threat-system complex; exact program boundaries remain partly public and partly redacted.
+- **Early–mid 1970s** — Post-Vietnam training reforms expand: Topgun, aggressor concepts, Red Flag and related tactical changes.
+- **1977** — Constant Peg is established; 4477th begins building an operational foreign-aircraft training capability.
+- **Late 1970s** — Tonopah Test Range becomes the principal Constant Peg base.
+- **1980** — MiG-23 joins the Red Eagles’ threat-aircraft inventory.
+- **1982** — Aging MiG-17s are retired from Constant Peg operations because of obsolescence/safety concerns, according to USAF Museum history.
+- **1980s** — Red Eagles expand from familiarization and one-on-one work into complex multi-aircraft training and Red Flag participation.
+- **1988** — Constant Peg flying program ends.
+- **1990** — 4477th Test and Evaluation Squadron is inactivated.
+- **1991** — Operation Desert Storm provides a later combat context in which U.S. official histories credit realistic adversary training as one contributing factor among many.
+- **13 Nov. 2006** — U.S. Air Force publicly declassifies/acknowledges Constant Peg.
+- **29 Oct. 2013** — National Security Archive publishes a major documentary Area 51 collection including HAVE DOUGHNUT, HAVE DRILL/HAVE FERRY and foreign-radar exploitation records.
+- **2017** — A former Constant Peg MiG-23MS is transferred to the National Museum of the U.S. Air Force, illustrating the shift from special-access asset to public artifact.
