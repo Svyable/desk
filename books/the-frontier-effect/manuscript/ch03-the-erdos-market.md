@@ -196,6 +196,12 @@ The amount said: I have seen many problems. This one is worth remembering.
 
 AI can produce an ocean of mathematically valid questions. If it cannot distinguish the sterile from the fertile, abundance becomes noise.
 
+And that upstream problem has a name mathematicians rarely formalize: taste.
+
+Taste is not mystical. It is a compressed forecast. A mathematician looks at a statement and estimates, often without being able to articulate the whole calculation, whether the problem is deep, fertile, premature, ugly, trivial in disguise, technically blocked, connected to good machinery, or likely to expose something larger than itself. Experts disagree. They are often wrong. But research communities cannot function without these forecasts because proof effort is finite.
+
+Erdős made his forecasts unusually visible.
+
 The Frontier Effect therefore has an upstream problem.
 
 Before attention can move efficiently from one frontier to the next, someone or something has to identify the next frontier.
