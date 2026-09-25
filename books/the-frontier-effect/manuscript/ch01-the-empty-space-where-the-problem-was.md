@@ -136,4 +136,6 @@ That conversion may be the most important one to measure in an AI-rich mathemati
 
 The frontier moves twice: once in knowledge, once in attention.
 
+Those choices leave traces: citations, new collaborations, course notes, grant language, software dependencies, problem lists, and the quiet disappearance of old phrases from seminar titles. The traces are imperfect. They are still better than pretending attention cannot be measured.
+
 The second movement is harder to see because it is distributed across thousands of choices. It is also where the future happens.
