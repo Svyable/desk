@@ -588,6 +588,8 @@ A frontier can therefore be financed before, during and after its motion, but mo
 
 The theorem never cashed the check.
 
+The people who came after it spent the time.
+
 And that may be the cleanest way to separate mathematical value from mathematical celebrity.
 
 The person can reject the ceremony.
