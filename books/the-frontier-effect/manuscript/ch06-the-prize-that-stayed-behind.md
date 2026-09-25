@@ -54,7 +54,7 @@ The mathematician leaves and, if the proof is good enough, other people can make
 
 Not immediately.
 
-This is where the romance of proof collides with the mechanics of proof.
+Now proof splits into an idea and a public object.
 
 Perelman's papers were not a textbook.
 
@@ -64,7 +64,7 @@ The proof existed.
 
 The proof still had to become mathematics.
 
-That distinction is one of the main subjects of this book.
+The distance between those two states is one of the places this book lives.
 
 A theorem is not assimilated when the author types QED.
 
@@ -148,7 +148,7 @@ What new theorems become reachable because Ricci flow with surgery now works?
 
 What was once a yes-or-no problem becomes a research program.
 
-This is why I am suspicious of the phrase "problem solved."
+"Problem solved" is too small a phrase for what happened next.
 
 It makes mathematics sound like a murder mystery.
 
@@ -246,7 +246,7 @@ Good.
 
 The full proof should not fit in one paragraph any more than Fermat's should fit in one margin.
 
-What matters here is the architecture.
+The architecture is the part worth carrying forward.
 
 The topological problem became a dynamical-geometric process.
 
@@ -308,7 +308,7 @@ A prize can point at a frontier.
 
 It cannot substitute for the mathematics required to cross it.
 
-Perelman's refusal exposes that distinction with unusual clarity.
+Perelman's refusal makes the separation unusually visible.
 
 Prestige was detachable from proof.
 
@@ -366,7 +366,7 @@ Money rarely buys a theorem directly.
 
 It buys conditions under which sustained attention becomes possible.
 
-That distinction is important in the AI era.
+AI will put pressure on exactly that separation.
 
 Compute is also purchased time.
 
@@ -482,7 +482,7 @@ The prize belonged to none of those lives exactly.
 
 It was attached to the public event of resolution.
 
-This is why the prize could be refused without changing the theorem.
+The prize could be refused because it was never part of the theorem.
 
 The mathematics had already crossed the frontier.
 
