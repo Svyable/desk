@@ -55,3 +55,18 @@ The refunds and settlement also should not be turned into an unsupported claim t
 ## What would weaken the chapter’s thesis
 
 The argument should narrow further if robust public-sector evaluations consistently show that automated administrative systems reduce total government cost and citizen burden after appeals, correction, remediation, vendor lifecycle costs and unusual-case handling are included. The chapter is about incomplete accounting boundaries, not a presumption that automation produces hidden losses.
+
+
+## CBO / IRS control case
+
+A second control makes the accounting-boundary point without Robodebt's legal and institutional pathology.
+
+Congressional Budget Office, **“How Changes in Funding for the IRS Affect Revenues”** (February 29, 2024): https://www.cbo.gov/publication/60037
+
+CBO modeled illustrative rescissions over 2024–2034. A $20 billion rescission produced about $44 billion less revenue and about $24 billion more cumulative deficit; a $35 billion rescission produced about $89 billion less revenue and about $54 billion more deficit. The estimates are nonlinear because CBO assumed the IRS would preserve higher-return enforcement first.
+
+For enacted-budget context, CBO's 2026 review reports that the 2025 full-year continuing appropriations law rescinded $20.2 billion of enforcement-related IRS funding and that the law's net deficit increase was driven almost entirely by lower revenues associated with those rescissions: https://www.cbo.gov/publication/62240
+
+Counterevidence matters. CBO's 2026 oversight Q&A says earlier projections of revenue from the 2022 IRS funding increase were revised downward in part because hiring and training auditors took longer than expected: https://www.cbo.gov/publication/62053
+
+**Claim boundary:** this does not establish a universal return on IRS spending. It shows that an agency-budget reduction and a government-wide fiscal saving are different propositions, and that execution capacity can change the realized return.
