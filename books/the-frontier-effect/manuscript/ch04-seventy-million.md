@@ -84,6 +84,38 @@ It did not create the prior work of Goldston, Pintz and Yıldırım, Bombieri, V
 
 What the public collaboration changed was latency.
 
+Latency is an underrated variable in mathematics because the finished paper hides it.
+
+In the old rhythm, an idea could spend months inside a notebook, then months inside a draft, then more months in circulation before another group built on it. That pace was not universal, and mathematicians have always exchanged letters, preprints and seminar arguments quickly when a problem became hot. But the Polymath format made the intermediate layer unusually visible.
+
+A partial calculation could become someone else's input before it had become anyone's paper.
+
+That changes the combinatorics of collaboration.
+
+Suppose ten researchers each have an improvement that depends on seeing the other nine first. Under a slow publication cycle, many of those improvements arrive too late to compose. Under a rapid shared workspace, the chain can form while everyone is still thinking about the same object.
+
+The result is not merely parallelism.
+
+It is serial depth produced by many people.
+
+That distinction matters for AI agents.
+
+The naive model of machine-accelerated mathematics is ten thousand agents trying ten thousand ideas at once.
+
+The more interesting model is a continuously shared frontier state in which every verified improvement immediately changes what the other agents search next.
+
+Now collaboration latency becomes part of effective intelligence.
+
+A weaker mathematician with immediate access to the current frontier may contribute more than a stronger mathematician working from last month's state.
+
+A weaker model embedded in a fast verification-and-update loop may outperform a stronger isolated model for the same reason.
+
+Polymath is therefore not just a story about crowdsourcing.
+
+It is a historical example of mathematical state becoming public quickly enough to change the search.
+
+
+
 An improvement could be posted, checked, corrected, incorporated and used by somebody else without waiting for a paper to complete the old publishing cycle.
 
 The frontier acquired a faster clock.
