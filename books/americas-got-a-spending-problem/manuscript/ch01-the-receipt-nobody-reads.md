@@ -1,18 +1,16 @@
 # The Receipt Nobody Reads
 
-In fiscal year 2026, the United States government was projected to spend about $7.4 trillion.
+In February 2026, the Congressional Budget Office projected that the United States government would spend about $7.4 trillion during the fiscal year and collect about $5.6 trillion. The gap was roughly $1.9 trillion.
 
-The Congressional Budget Office expected federal revenues of about $5.6 trillion.
-
-The difference was roughly $1.9 trillion.
+By August, the estimate had moved. CBO put the full-year deficit at about $2.1 trillion, largely because expected revenues had fallen while projected outlays remained close to the February baseline. Then, on September 9, with eleven months of the fiscal year in the books, CBO estimated that the government had already run a $2.0 trillion deficit.
 
 A number that large does not feel like money. It feels like weather.
 
-Divide it by 365 and the projected deficit works out to a little more than $5 billion per day. That is still too large to picture. Divide again and it is roughly $60,000 per second, every second of the year, in spending above revenue.
+Take the $2.1 trillion full-year estimate and divide it by 365: about $5.8 billion per day. Divide again and the gap is roughly $67,000 per second. The arithmetic is vivid and not quite real. The federal government does not run a cash register in a basement where a red counter advances at a constant rate. Taxes arrive unevenly. Spending arrives unevenly. Treasury securities mature and are refinanced. Economic growth changes the denominator. Inflation changes nominal values. A recession can expand deficits automatically just when borrowing is most useful. A war, financial panic, pandemic, or natural disaster can make yesterday's fiscal target irrelevant by lunchtime.
 
-Even that exercise is slightly misleading. The federal government does not run a cash register in a basement where a red counter advances at a constant rate. Taxes arrive unevenly. Spending arrives unevenly. Treasury securities mature and are refinanced. Economic growth changes the denominator. Inflation changes nominal values. A recession can expand deficits automatically just when borrowing is most useful. A war, financial panic, pandemic, or natural disaster can make yesterday's fiscal target irrelevant by lunchtime.
+The revision itself carries a warning for a book called *America's Got a Spending Problem*. A deficit is not a synonym for spending. It is the distance between spending and revenue, and that distance can widen from either side. In CBO's August update, the larger 2026 gap was principally a revenue story after tariff-policy changes, not evidence that federal outlays had suddenly jumped by another $200 billion. The argument of this book is therefore narrower than its title: durable commitments require durable financing. A country can get that equation wrong by promising too much, collecting too little, or arranging both choices so that nobody has to confront them together.
 
-But the translation is useful for one reason.
+The translation into dollars per second is useful for one reason.
 
 It restores scale.
 
