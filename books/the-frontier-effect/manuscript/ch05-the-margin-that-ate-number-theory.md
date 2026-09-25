@@ -66,6 +66,20 @@ That failure is not a technical nuisance. It is a crack in the floor.
 
 Kummer's response involved what he called ideal numbers, machinery that helped restore the behavior required for arithmetic in cyclotomic settings. Later work, especially Dedekind's reformulation in terms of ideals, became part of the architecture of algebraic number theory.
 
+The episode is worth slowing down because it reverses the ordinary scorekeeping.
+
+Suppose Kummer's machinery had immediately proved Fermat in full. The story would be easier to tell. Great problem, great method, great victory.
+
+Instead the method solved large classes of exponents and exposed a structural obstruction. It made arithmetic in larger number systems behave more reliably. It gave later algebra a durable object. The famous problem remained famous.
+
+By the shallow metric, incomplete.
+
+By the metric of mathematical fertility, extraordinary.
+
+This is one reason prize problems are dangerous to evaluate only by whether the prize gets claimed. The scoreboard hides the spillovers. A failed assault can alter the language of a field. A partial theorem can reveal the correct abstraction. An obstruction can be worth more than a special-case proof because it tells everyone why an entire family of attacks will not work.
+
+Fermat spent centuries teaching mathematicians how to fail more intelligently.
+
 The theorem was still open.
 
 The attack had failed to finish the job.
