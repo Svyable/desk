@@ -78,6 +78,22 @@ John Morgan and Gang Tian wrote a detailed account of the Ricci-flow proof.
 
 Other mathematicians worked through the arguments, filled expository gaps, compared approaches, and made the machinery legible enough for a community to certify what had happened.
 
+There is a subtlety here that matters.
+
+A long proof can be correct without being portable.
+
+Portability requires compression. Someone has to know which lemmas are local plumbing and which ones will be reused. Someone has to discover a notation that makes the mechanism visible. Someone has to decide what can be black-boxed and what every future reader must understand. Someone has to turn the proof from an event into a tool.
+
+This is what exposition does at its best.
+
+It changes the cost of entry.
+
+A result that only five people can reconstruct is mathematically real but socially narrow. A result that a generation of graduate students can learn enters a different phase of existence. It can be cited casually. Its methods can be borrowed by people who were not present at the discovery. It can become a prerequisite rather than a destination.
+
+That transition is not glamorous enough to receive a Millennium Prize.
+
+It may matter longer than the prize.
+
 This was not clerical work.
 
 It was frontier work of a different kind.
@@ -427,6 +443,20 @@ It was attached to the public event of resolution.
 This is why the prize could be refused without changing the theorem.
 
 The mathematics had already crossed the frontier.
+
+There is an institutional inversion hiding in that sequence.
+
+A prize is designed to concentrate attention before a problem is solved.
+
+Afterward, the proof disperses attention.
+
+People study the method for different reasons. Some care about three-manifold topology. Some care about geometric analysis. Some care about Ricci flow as a dynamical process. Some care about singularities. Some care about extensions in higher dimensions. The single named problem fractures into many local research agendas.
+
+That fracture is healthy.
+
+A mature theorem should not require everyone to care about it for the same reason.
+
+The famous problem coordinates attention while open. The solved theorem differentiates attention after closure.
 
 The medal stayed in Madrid.
 
