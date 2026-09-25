@@ -1,0 +1,35 @@
+# Iron in the Brain
+
+In 1992 Joseph Kirschvink, Atsuko Kobayashi-Kirschvink and Barbara Woodford reported something that made an old biological speculation suddenly anatomical: magnetite existed in human brain tissue.
+
+The result was not obtained by holding a refrigerator magnet to a skull. The group used sensitive magnetic measurements and electron microscopy to characterize ferromagnetic material in postmortem human tissue. They reported magnetite particles with crystal forms they interpreted as consistent with biological formation. The paper was careful about what this meant. It established the presence of a mineral known to participate in magnetoreception in other organisms. It did not identify a human receptor organ.
+
+That distinction has spent three decades being ignored in both directions.
+
+One camp treats human brain magnetite as if a compass had been found under the skull. The other treats it as irrelevant mineral dirt. Both readings are too easy. The existence of magnetite removes one objection to a ferromagnetic sensory mechanism: humans do possess material that can couple strongly to magnetic fields. But the sensory problem is architectural. A useful receptor must place magnetic particles where force or torque can be converted into a controlled biological signal. Particle size, shape, domain state, anchoring, membrane coupling, location and innervation all matter.
+
+A free particle that rotates inside a cell may do nothing useful. A chain of particles mechanically linked to an ion channel could do a great deal. Nature solved a version of this problem spectacularly in magnetotactic bacteria, which synthesize membrane-bound magnetite or greigite crystals organized into chains. The chain behaves like a compass needle, aligning the bacterium with the geomagnetic field and simplifying movement through chemically stratified environments. The bacterial solution is not evidence that the human brain copies it. It demonstrates what functional organization looks like.
+
+Human tissue complicates the story further because not all magnetite in the brain is necessarily biological in origin. In 2016 Barbara Maher and colleagues reported abundant magnetite nanoparticles in human brain samples with rounded morphologies and associated metals consistent with high-temperature combustion particles. Their interpretation was that airborne pollution nanoparticles could enter the brain, including through the olfactory route. They also distinguished those particles from a population of angular, euhedral crystals more consistent with endogenous formation.
+
+This creates a problem almost too perfect for the subject. A mineral proposed as a sensory transducer is present in the brain, but some of it may be industrial contamination accumulated from the environment.
+
+If magnetic particles contribute to a receptor, bulk measurement is therefore not enough. Researchers need provenance and anatomy. Where are the candidate particles? Are they consistently located in a particular peripheral structure, cranial nerve pathway or specialized cell type? Are they organized rather than scattered? Are they associated with membranes or cytoskeletal elements capable of transducing motion? Do candidate structures appear across people who show physiological magnetic responses and differ in people who do not? Can they be perturbed without destroying unrelated tissue function?
+
+This is harder than it sounds. Iron is everywhere in biology, and magnetic contamination is easy. Surgical tools, dust, laboratory equipment and environmental particles can all compromise sensitive magnetic measurements. Histological identification is difficult because the candidate receptor may be tiny and rare. A negative search across kilograms of irrelevant tissue tells us less than a positive result in the right microscopic structure, but we do not yet know where “right” is.
+
+The 2019 human EEG result made magnetite newly interesting because its response pattern appeared polarity-sensitive. In the authors' interpretation, the neural response distinguished magnetic field configurations in a way inconsistent with a pure inclination compass. A permanent ferromagnetic element has polarity. Reverse north and south and its mechanical state can change. Radical-pair compasses in their canonical avian form are often described as axial or inclination-sensitive rather than polar. The EEG pattern therefore became an indirect mechanism test.
+
+Indirect is the key word. A polarity-sensitive physiological response does not physically show a magnetite receptor. Other unknown mechanisms could produce polarity sensitivity, and experimental artifacts can have polarity too. Coil wiring, induced fields or environmental asymmetries may interact with stimulus direction in ways that masquerade as biology. The 2019 team designed controls against several of these possibilities, but mechanism remains an inference.
+
+The strongest version of the magnetite hypothesis would eventually connect four levels that are currently separated. First, anatomists would identify a reproducible magnetically specialized structure. Second, materials work would show that its particles have the magnetic properties required at geomagnetic field strength. Third, physiology would show that manipulating the structure changes neural responses. Fourth, behavior would show a predictable consequence. At present, human research has pieces from levels one and three only in the broadest sense: magnetite exists somewhere in the brain, and magnetic stimuli have been reported to alter neural activity.
+
+There is also a health-science complication worth keeping separate. Pollution-derived magnetite nanoparticles have been discussed as possible contributors to oxidative stress and neurodegenerative pathology because magnetite can participate in redox chemistry and because combustion particles carry other metals. That literature concerns exposure and disease, not sensory function. A polluted brain containing magnetic particles is not evidence for magnetoreception. It may actually make receptor searches harder by creating a background population of magnetic material unrelated to sensory biology.
+
+The metaphor of “iron in the brain” encourages a primitive picture: a tiny compass needle buried somewhere behind the eyes. Real magnetite-based transduction, if it exists in humans, is likely to be less theatrical. Nanometer- to micrometer-scale particles could bias a mechanosensitive structure. The forces are small, but biology routinely amplifies small energies when receptors are organized near thermal-noise limits.
+
+The crucial question is not whether a magnetite particle can respond to a magnetic field. Physics answers that easily. The question is whether evolution built a reliable transducer from those particles and wired it into us.
+
+The mineral is real. The organ is missing.
+
+That missing organ is one of the most important absences in the entire story.
