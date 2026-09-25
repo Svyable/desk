@@ -1,43 +1,45 @@
 # The Frontier Effect
 
-*What Happens When the Hard Problem Moves*
+*Problems, Proofs, and the Motion of Mathematical Attention*
 
 | | |
 |---|---|
 | **Authors** | Sven Hardy Benson |
 | **Status** | Drafting |
-| **Chapters** | 1 of 20 drafted |
+| **Chapters** | 4 of 20 drafted |
 
 ## Contents
 
 - [x] [Front Matter](manuscript/front-matter.md)
 - [x] [Ch 1 — The Empty Space Where the Problem Was](manuscript/ch01-the-empty-space-where-the-problem-was.md)
-- [ ] Ch 2 — Hilbert's List
-- [ ] Ch 3 — What a Famous Problem Organizes
-- [ ] Ch 4 — After Fermat
-- [ ] Ch 5 — Perelman's Vacancy
-- [ ] Ch 6 — The Prize Is a Lighthouse
-- [ ] Ch 7 — Attention Has Mass
-- [ ] Ch 8 — Proof Changes the Map
+- [x] [Ch 2 — Hilbert's List](manuscript/ch02-hilberts-list.md)
+- [x] [Ch 3 — The Erdős Market](manuscript/ch03-the-erdos-market.md)
+- [x] [Ch 4 — Seventy Million](manuscript/ch04-seventy-million.md)
+- [ ] Ch 5 — Two Hundred Forty-Six
+- [ ] Ch 6 — After Fermat
+- [ ] Ch 7 — Perelman's Vacancy
+- [ ] Ch 8 — What a Famous Problem Organizes
 - [ ] Ch 9 — The Neighboring Problems Wake Up
-- [ ] Ch 10 — When a Frontier Becomes a Field
+- [ ] Ch 10 — Problems Create Fields
 - [ ] Ch 11 — Polymath
-- [ ] Ch 12 — Machines Enter the Proof Room
-- [ ] Ch 13 — FunSearch
-- [ ] Ch 14 — AlphaGeometry
-- [ ] Ch 15 — AlphaEvolve
-- [ ] Ch 16 — The Verification Bottleneck
-- [ ] Ch 17 — Frontier Whiplash
-- [ ] Ch 18 — Collective Attention as Infrastructure
-- [ ] Ch 19 — The Human Problem After the Hard Problem
-- [ ] Ch 20 — Keep Moving
+- [ ] Ch 12 — The Proof Becomes Infrastructure
+- [ ] Ch 13 — Formal Mathematics
+- [ ] Ch 14 — FunSearch
+- [ ] Ch 15 — AlphaProof
+- [ ] Ch 16 — AlphaEvolve
+- [ ] Ch 17 — The Half-Life of an Open Problem
+- [ ] Ch 18 — Frontier Whiplash
+- [ ] Ch 19 — What Humans Do After the Hard Problem
+- [ ] Ch 20 — The Problems Worth Having
 - [ ] Back Matter
 
 ## Reader promise
 
-A solved hard problem does more than add one fact to mathematics. It releases attention, changes prestige, exposes methods, creates adjacent questions, and alters what thousands of people consider worth attempting. This book follows that redistribution of effort from Hilbert and Poincaré through collaborative mathematics and AI-assisted discovery.
+A hard problem is not only an absence in mathematics. While it remains open, it organizes attention: careers, seminars, techniques, prizes, collaborations, computational searches and the prestige of neighboring questions. When the problem moves, that surrounding ecology moves too.
 
-Its distinct contribution relative to *Search Frontier* is temporal and collective: *Search Frontier* asks how systems choose among possibilities under constraint; *The Frontier Effect* asks what happens to the whole attention landscape when a previously organizing frontier moves.
+This book follows that motion from Hilbert's problem list and Erdős's portable problem market through Fermat, Poincaré, bounded prime gaps, Polymath, formal proof and AI-assisted mathematical discovery. The central question is not whether machines will “solve mathematics.” It is what happens when the rate at which important frontiers move begins to outrun the rate at which human mathematical culture can redirect, verify and absorb them.
+
+Its distinct contribution relative to *Search Frontier* is temporal and collective: *Search Frontier* asks how systems choose among possibilities under constraint; *The Frontier Effect* asks how the distribution of mathematical effort changes after a major barrier falls.
 
 ## Rights
 
@@ -46,4 +48,6 @@ Its distinct contribution relative to *Search Frontier* is temporal and collecti
 
 ## Research
 
-- [Research brief and source ledger](research/README.md)
+- [Research brief](research/README.md)
+- [Source ledger](research/source-ledger.md)
+- [Measurement plan](research/measurement-plan.md)
