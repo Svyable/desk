@@ -192,6 +192,8 @@ Once published, it changes the terrain it claims merely to describe. Young mathe
 
 Hilbert did not simply record the frontier.
 
+He also changed what later mathematicians could see as a frontier.
+
 He helped manufacture its coordinates.
 
 That reflexive effect will matter again when AI systems begin generating and ranking problem lists at machine scale. A machine-generated list will not be neutral merely because the ranking was computed. Selection is still selection. The ordering will encode training data, evaluator design, formalizability, available proof libraries, and whatever proxies the system uses for mathematical interest. Hilbert's subjectivity was visible because Hilbert had a name. Algorithmic subjectivity may arrive wearing the costume of measurement.
