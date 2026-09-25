@@ -30,6 +30,20 @@ It helps decide what they look for.
 
 That matters most when the environment changes in a way that alters the value of the old cues.
 
+A chessboard makes the point unusually clean.
+
+Merim Bilalić, Peter McLeod, and Fernand Gobet gave strong chess players positions with two possible routes: a familiar solution that was good but not best, and a better solution that was less familiar. Once players found the familiar route, many had trouble finding the better one. In follow-up work using eye movements, the first idea kept pulling attention toward features that supported it even while players believed they were searching for alternatives. The old solution did not merely win an argument in the player’s head. It helped decide where the eyes went.
+
+That sounds like a tidy demonstration that expertise makes people rigid. The result is less convenient than that.
+
+The strongest players were less vulnerable to the trap than weaker experts. And in a different controlled judgment study, Mark Spence and Merrie Brucks found experts selecting fewer pieces of information than novices but choosing more diagnostic ones and making more accurate judgments. Selective attention was not the defect. It was part of the advantage.
+
+The empirical boundary matters. A familiar pattern can capture expert search, but deeper expertise can also supply the knowledge needed to escape it. The risk is not that experience narrows attention. Useful expertise has to narrow attention. The risk appears when yesterday’s useful filter remains highly accessible after the structure of the problem has changed.
+
+That is a better fit for adaptation debt. The debt is not the knowledge. It is the lag between a changing environment and the pattern of attention that experience taught people to trust.
+
+The distinction matters before leaving the chessboard for a company. A laboratory problem can isolate a cognitive mechanism. Polaroid cannot. Its response to digital imaging involved technology, capital, customers, incentives, business models, and managerial interpretation at the same time.
+
 Mary Tripsas and Giovanni Gavetti studied this problem through Polaroid’s response to digital imaging.
 
 The company was not ignorant of digital technology. It had scientific and technical capability. Management recognized that digital imaging mattered. The harder issue was how managers understood the emerging business and where that understanding directed investment.
@@ -110,11 +124,11 @@ At what stage of development?
 
 Compared with which alternative?
 
-Expertise becomes adaptation debt when conclusions formed under one structure of constraints continue to govern after those constraints begin to move.
+Expertise can become adaptation debt when conclusions formed under one structure of constraints continue to govern after those constraints begin to move.
 
 This is not primarily a problem of stubborn personalities.
 
-It is a problem of trained attention.
+One part of the problem is trained attention.
 
 William Ocasio’s attention-based view of the firm is useful here. Organizations cannot attend to everything. What decision-makers notice and act on is shaped by roles, procedures, communication channels, agendas, and the issues considered legitimate inside the organization.
 
