@@ -78,3 +78,29 @@ This ledger records the source posture behind the manuscript. Links are included
 - Navier–Stokes: maintain “apparently settled” / proposed-solution language until CMI's acceptance conditions have actually been satisfied.
 - Bounded prime gaps 240: maintain “2026 preprint claims” language until peer review and expert uptake justify stronger wording.
 - AI: never infer general mathematical creativity from IMO scores or isolated open-problem improvements. State the task, evaluator, formalization requirements and human contribution.
+
+
+## Chapter 5 — The Margin That Ate Number Theory
+
+- MacTutor, “Fermat’s last theorem,” for the history of Fermat’s marginal note, special cases, Germain, Kummer, and the later modularity route. Class 2 historical synthesis; use original mathematical papers where a precise theorem matters.  
+  https://mathshistory.st-andrews.ac.uk/HistTopics/Fermat%27s_last_theorem/
+- Kenneth Ribet, “Wiles Proves Taniyama's Conjecture; Fermat's Last Theorem Follows,” *Notices of the AMS* 40 (1993). Class 1/2 contemporaneous mathematical exposition of the Frey–Serre–Ribet bridge and Wiles announcement.  
+  https://www.ams.org/journals/notices/199307/199307FullIssue.pdf
+- Andrew Wiles, “Modular elliptic curves and Fermat’s Last Theorem,” *Annals of Mathematics* 141 (1995). Class 1 primary mathematical source.  
+  https://annals.math.princeton.edu/1995/141-3/p01
+- Richard Taylor and Andrew Wiles, “Ring-theoretic properties of certain Hecke algebras,” *Annals of Mathematics* 141 (1995), 553–572. Class 1 primary source for the repaired argument.  
+  https://annals.math.princeton.edu/1995/141-3
+- Kenneth Ribet, “A 2020 View of Fermat’s Last Theorem,” *Notices of the AMS*, for retrospective discussion of the 1993 proof gap and later closure. Class 2 expert retrospective.  
+  https://www.ams.org/journals/notices/202001/rnoti-p82.pdf
+- MacTutor, “Ring Theory,” for the historical relationship among failed unique factorization approaches, Kummer’s ideal numbers, and later ideal theory. Class 2 historical synthesis; do not claim Kummer invented ideal numbers solely to repair Lamé’s Fermat argument, a popular story the source specifically cautions against.  
+  https://mathshistory.st-andrews.ac.uk/HistTopics/Ring_theory/
+- MacTutor, “Sophie Germain,” and AMS/MAA material on Germain’s theorem. Class 2 historical/educational source for her program and Case 1 contribution.  
+  https://mathshistory.st-andrews.ac.uk/Biographies/Germain/  
+  https://www.ams.org/books/spec/073/spec073-endmatter.pdf
+
+### Chapter 5 evidence guardrails
+
+- Do not state that Fermat possessed a valid proof. No surviving general proof exists, and modern historical consensus is skeptical.
+- Do not say algebraic number theory exists *because* of Fermat. Attempts on Fermat were an important driver in the development of ideal-number/ideal machinery, but those subjects have broader ancestry and motivations.
+- Do not collapse Frey, Serre, Ribet, Wiles, and Taylor into a single “Wiles insight.” The bridge was built in stages.
+- Treat “discovery / verification / assimilation” as this book’s analytic vocabulary, not standard formal statuses.
