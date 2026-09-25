@@ -336,6 +336,8 @@ The right response is not to chase every preprint number as if this were a sport
 
 Even in pure mathematics, frontier reporting needs epistemology.
 
+The arithmetic distance was enormous. The strategic distance had changed sign.
+
 Seventy million was not close to two.
 
 It was close to everything that happened next.
