@@ -1,0 +1,22 @@
+# Chronology
+
+- **1940s–1960s** — Modern experimental work accumulates evidence that birds can orient to geomagnetic cues under controlled conditions.
+- **1972** — Wolfgang and Roswitha Wiltschko publish the classic European robin compass experiments showing an inclination rather than simple polarity compass.
+- **1970s–1990s** — Behavioral literature expands across birds and other taxa; magnetic particles and photochemical mechanisms develop as major mechanism classes.
+- **2000** — Ritz, Adem and Schulten publish a photoreceptor-based radical-pair compass model linking spin chemistry to possible visual modulation.
+- **2004** — Ritz et al. report RF resonance/broadband disruption of European robin magnetic orientation, strengthening radical-pair interpretation.
+- **2004–2006** — Oldenburg group struggles with robin magnetic disorientation on campus; grounded aluminum screening becomes key experimental control.
+- **2009** — Zapka et al. report cluster N dependence but not ophthalmic trigeminal dependence for robin magnetic compass orientation.
+- **2012** — Treiber et al. identify the widely discussed iron-rich pigeon upper-beak cells as macrophages rather than magnetosensitive neurons.
+- **2013** — Putman et al. report geomagnetic-imprinting evidence in Fraser River sockeye route choice correlated with secular variation.
+- **2014** — Engels et al. publish double-blind evidence that anthropogenic electromagnetic noise disrupts robin magnetic-compass orientation; Putman et al. report inherited magnetic-map responses in juvenile Pacific salmon.
+- **2015** — Reed warbler virtual magnetic displacement work strengthens evidence for magnetic position information independent of physical displacement.
+- **2016** — Hore & Mouritsen publish major radical-pair review; Hiscock et al. publish “quantum needle” theoretical work.
+- **2018** — CRY4 retinal expression/localization papers strengthen molecular candidacy; reed-warbler work shows trigeminal dependence for a magnetic-map task.
+- **2019** — Wang et al. report human alpha-band EEG responses to selected Earth-strength magnetic field rotations.
+- **2020** — CRY4 isoform, interaction and photochemistry work deepens candidate mechanism; garden-warbler local-eye RF null result complicates simple retinal perturbation expectations.
+- **2021** — Xu et al. report magnetic sensitivity of purified European robin CRY4 and mutation-sensitive radical chemistry.
+- **2022** — Broadband 75–85 MHz RF fields reported to disrupt blackcap magnetic-compass orientation; modern comparative magnetic-map review synthesizes map evidence.
+- **2023** — Low-level RF work reports experience/training-dependent complexity rather than a pure on/off compass lesion.
+- **12 February 2025** — Goforth et al. publish learned magnetic map cues in loggerhead turtles and an RF dissociation between map and compass mechanisms.
+- **2026** — A *Journal of Experimental Biology* study reports head-localized magnetic perturbation effects in the turtle map assay, supporting a cephalic receptor search; current *Physiological Reviews* synthesis emphasizes that receptor mechanisms remain incompletely solved.
