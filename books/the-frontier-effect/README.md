@@ -6,7 +6,7 @@
 |---|---|
 | **Authors** | Sven Hardy Benson |
 | **Status** | Drafting |
-| **Chapters** | 5 of 20 drafted |
+| **Chapters** | 6 of 20 drafted |
 
 ## Contents
 
@@ -17,7 +17,7 @@
 - [x] [Ch 4 — Seventy Million](manuscript/ch04-seventy-million.md)
 - [x] [Ch 5 — The Margin That Ate Number Theory](manuscript/ch05-the-margin-that-ate-number-theory.md)
 - [x] [Interlude — Cross Out This Problem](manuscript/interlude-01-cross-out-this-problem.md)
-- [ ] Ch 6 — Perelman's Vacancy
+- [x] [Ch 6 — The Prize That Stayed Behind](manuscript/ch06-the-prize-that-stayed-behind.md)
 - [ ] Ch 7 — What a Famous Problem Organizes
 - [ ] Ch 8 — The Neighboring Problems Wake Up
 - [ ] Ch 9 — When the Method Escapes the Problem
