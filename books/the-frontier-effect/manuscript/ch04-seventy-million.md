@@ -110,6 +110,16 @@ A weaker mathematician with immediate access to the current frontier may contrib
 
 A weaker model embedded in a fast verification-and-update loop may outperform a stronger isolated model for the same reason.
 
+It is a story about state synchronization.
+
+That phrase sounds like software engineering because the problem is similar.
+
+If collaborators carry different versions of the frontier in their heads, effort is lost reconciling them. Someone improves a bound another person has already beaten. Someone pursues a branch killed three days earlier. Someone proves a lemma using assumptions the group has stopped trusting.
+
+A shared public thread reduced that drift.
+
+Future machine mathematics may care about this more than raw model size. A hundred agents that continually inherit one verified frontier state are not merely one hundred searchers. They are a system whose memory updates at the speed of proof checking.
+
 Polymath is therefore not just a story about crowdsourcing.
 
 It is a historical example of mathematical state becoming public quickly enough to change the search.
