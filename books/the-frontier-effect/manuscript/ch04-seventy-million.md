@@ -330,6 +330,12 @@ We know where diminishing returns were declared.
 
 That makes this one of the best places to ask what changes when machine search joins the collaboration.
 
+There is a useful irony in writing this chapter now. A bound that looked settled enough to serve as history moved again while the book was being drafted. That does not make 240 sacred. It makes the timeline alive.
+
+The right response is not to chase every preprint number as if this were a sports score. It is to preserve the state of evidence. Zhang's 70,000,000 is established. Polymath8b's 246 is established in the literature. The 2026 claim of 240 is a recent preprint and belongs in a different evidentiary box until it has been digested.
+
+Even in pure mathematics, frontier reporting needs epistemology.
+
 Seventy million was not close to two.
 
 It was close to everything that happened next.
