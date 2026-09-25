@@ -118,6 +118,16 @@ If collaborators carry different versions of the frontier in their heads, effort
 
 A shared public thread reduced that drift.
 
+The tradeoff is that public state is noisy.
+
+Bad ideas arrive in the same feed as good ones. Partial calculations circulate before they are polished. A reader has to distinguish tentative from settled. The gain in latency creates a tax in filtering.
+
+That tax is manageable when the participants are a small group of experts.
+
+At machine scale, it may become the dominant cost.
+
+
+
 Future machine mathematics may care about this more than raw model size. A hundred agents that continually inherit one verified frontier state are not merely one hundred searchers. They are a system whose memory updates at the speed of proof checking.
 
 Polymath is therefore not just a story about crowdsourcing.
