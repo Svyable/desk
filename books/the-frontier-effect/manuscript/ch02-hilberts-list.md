@@ -132,6 +132,10 @@ Mathematicians already know this emotionally. Learn a subject and ignorance grow
 
 A civilization with stronger mathematical tools should experience the same effect at scale.
 
+The instability is productive. A problem list freezes a moment long enough for later mathematicians to see what changed. Which questions became easy because a field matured? Which became impossible in the sense of undecidability or independence? Which survived every new language? Which ceased to be central because the surrounding mathematics found better questions?
+
+A century-old list is therefore not merely a collection of problems. It is a time series with one very coarse initial observation.
+
 This is where the phrase "the hardest problems" becomes unstable. Hardest by what measure? Time open? Depth of prerequisites? Number of failed attempts? Importance of consequences? Resistance to existing methods? Prestige? The amount of new machinery apparently required?
 
 Erdős had one answer, or rather thousands of them. He carried problems with him.
