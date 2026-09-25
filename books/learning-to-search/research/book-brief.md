@@ -97,7 +97,7 @@ $$
 \Pr(\text{no discovery})=\prod_a(1-\pi_a)^{n_a}.
 $$
 
-The cost-normalized exponential discovery rate of action (a) is
+The cost-normalized exponential discovery rate of action $a$ is
 
 $$
 \lambda_a=\frac{-\log(1-\pi_a)}{c_a}.
