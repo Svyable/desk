@@ -2,7 +2,7 @@
 
 ## Status
 
-**Promotable with attribution.** This note strengthens the Greece/public-diplomacy thread but does **not** establish institutional assistance from the Boston Red Sox.
+**Promotable with attribution.** This note documents the more specific Orioles/MLB assistance chain. Separate contemporaneous 1999 and 2000 reporting also establishes Boston Red Sox organizational help or pledged support, while the exact Red Sox deliverable remains unresolved.
 
 ## Strongest sourced account
 
@@ -30,13 +30,22 @@ https://georgewbush-whitehouse.archives.gov/government/nburns-bio.html
 ## Manuscript-safe conclusions
 
 * Burns’s baseball fandom was not merely private background during his Greece posting; a contemporaneous 2004 account attributes to him direct diplomatic/institutional involvement in helping Greek baseball organizers connect with U.S. baseball institutions.
-* The documented institutional chain in the strongest source runs through **Peter Angelos/the Baltimore Orioles and Major League Baseball’s International Division**, not the Boston Red Sox.
+* The most specifically documented institutional chain in this source runs through **Peter Angelos/the Baltimore Orioles and Major League Baseball’s International Division**. Separate contemporaneous Washington Post (1999) and AP/Los Angeles Times (2000) reports also name the Boston Red Sox as helping or pledging support; those reports do not identify a concrete Red Sox deliverable.
 * Burns’s own retrospective description supports treating the episode as a meaningful example of people-to-people diplomacy, but claims about diplomatic effect beyond what the sources demonstrate should remain analytical and carefully framed.
-* The Red Sox connection here is Burns’s identity as a fan, explicitly stated by Burns in the CSM interview. Do not convert that identity into Red Sox organizational participation.
+* Burns’s Red Sox identity is explicitly stated in the CSM interview, but it is not the sole Red Sox connection to the Greece project: separate 1999/2000 contemporaneous reports establish club-level help or pledged support. Keep personal fandom, reported institutional support, and the still-unknown Boston deliverable analytically separate.
 
-## Important negative finding
+## Corrected Red Sox boundary
 
-This pass did **not** locate reliable evidence that the Boston Red Sox organization materially assisted the Greek baseball project. Until a primary or strong contemporaneous source establishes otherwise, references to “Greece/Red Sox institutional assistance” should be corrected to the documented **Greece/Burns/MLB/Orioles** assistance chain.
+A later source pass recovered two strong contemporaneous reports that supersede the earlier negative finding in this file:
+
+- *The Washington Post*, September 8, 1999, reported that Peter Angelos's Greek baseball effort was being helped by the commissioner's office **and the Boston Red Sox**.
+- Associated Press / *Los Angeles Times*, January 2, 2000, reported that support had also been pledged by the Boston Red Sox.
+
+Accordingly, the safe conclusion is **not** “no Red Sox institutional role.” The safe conclusion is that Red Sox organizational help or pledged support was contemporaneously reported, while the responsible club employee, exact contribution, and evidence of fulfillment remain unresolved.
+
+Sources:
+https://www.washingtonpost.com/archive/sports/1999/09/08/injuries-to-teens-are-still-a-concern/fe2eb9f0-7fc2-4b43-80a4-a9cb6ac94670/
+https://www.latimes.com/archives/la-xpm-2000-jan-02-mn-49873-story.html
 
 ## Retrieval targets
 
@@ -50,6 +59,6 @@ This pass did **not** locate reliable evidence that the Boston Red Sox organizat
 
 ## Attribution boundaries
 
-Do not invent meetings, calls, dialogue, motives, reactions, or a Red Sox institutional role. The CSM article says Burns “roped in” Angelos and rallied MLB; unless primary correspondence is recovered, narrate that action as the newspaper’s reported account or Burns’s attributed recollection, not as a reconstructed scene.
+Do not invent meetings, calls, dialogue, motives, reactions, or a specific Red Sox deliverable beyond the contemporaneously reported help/pledged support. The CSM article says Burns “roped in” Angelos and rallied MLB; unless primary correspondence is recovered, narrate that action as the newspaper’s reported account or Burns’s attributed recollection, not as a reconstructed scene.
 
 No claim about Libby Baylies follows from this material. Do not place her in Greece baseball events, assign her baseball preferences or reactions, or use unauthenticated first-person material to do so.
