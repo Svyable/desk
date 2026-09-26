@@ -2,7 +2,7 @@
 
 ## Status
 
-Research note. This file separates contemporaneous reporting from later/community-hosted material and preserves the manuscript's documentary boundary. It does **not** establish Boston Red Sox institutional participation.
+Research note. This file separates contemporaneous reporting from later/community-hosted material and preserves the manuscript's documentary boundary. Separate 1999/2000 contemporaneous reporting establishes Boston Red Sox organizational help or pledged support, but not the exact club deliverable.
 
 ## Verified / strong evidence
 
@@ -12,7 +12,7 @@ Contemporaneous reporting says the Hellenic Amateur Baseball Federation asked U.
 
 Source: https://www.csmonitor.com/2004/0818/p02s01-woeu.html
 
-**Safe use:** Burns's Red Sox allegiance is documented personal context; the assistance chain identified by this source runs through Burns, Angelos/Orioles, and MLB International. Do not convert Burns's fandom into Red Sox organizational participation.
+**Safe use:** Burns's Red Sox allegiance is documented personal context; the assistance chain identified by this source runs through Burns, Angelos/Orioles, and MLB International. Separate 1999/2000 reports establish Red Sox organizational help or pledged support. Do not infer the form or fulfillment of that support from Burns's fandom.
 
 ### Washington Post, 12 April 2004
 
@@ -43,16 +43,26 @@ A community archive reproduces an Athens News story by Robert Bruce stating that
 
 Source: https://www.helleniccomserve.com/baseball.html
 
-## Correction / attribution boundary
+## Corrected Red Sox / attribution boundary
 
-Current evidence does **not** justify saying that the Boston Red Sox organization assisted Greek baseball. The best contemporaneous sources instead identify:
+Two contemporaneous reports recovered in a later pass establish a narrow Boston Red Sox institutional role:
+
+- *The Washington Post*, September 8, 1999: the Angelos-led effort was being helped by the commissioner's office and the Boston Red Sox.
+- Associated Press / *Los Angeles Times*, January 2, 2000: support had also been pledged by the Boston Red Sox.
+
+Sources:
+https://www.washingtonpost.com/archive/sports/1999/09/08/injuries-to-teens-are-still-a-concern/fe2eb9f0-7fc2-4b43-80a4-a9cb6ac94670/
+https://www.latimes.com/archives/la-xpm-2000-jan-02-mn-49873-story.html
+
+The evidentiary chain therefore includes:
 1. the Hellenic federation / Panos Mitsiopoulos;
 2. Nicholas Burns;
 3. Peter Angelos and the Baltimore Orioles;
 4. Major League Baseball / MLB International;
-5. later U.S. Ambassador Thomas Miller on passport facilitation.
+5. reported Boston Red Sox organizational help or pledged support;
+6. later U.S. Ambassador Thomas Miller on passport facilitation.
 
-The Red Sox connection is Burns's documented fandom unless and until a club record, named Red Sox employee, authenticated correspondence, or reliable contemporaneous report establishes an institutional Red Sox role.
+The exact Red Sox employee, contribution, value, timing, and fulfillment remain unresolved. Do not turn the two reports into a specific delivery of money, equipment, personnel, scouting, coaching, or facilities without further evidence.
 
 ## New retrieval targets
 
