@@ -136,7 +136,7 @@ Boston College's institutional history identifies Burns's senior-year residence 
 Source:  
 https://www.bc.edu/bc-web/bcnews/campus-community/alumni/r--nicholas-burns-2002-commencement-address.html
 
-Burns later publicly identified **Kevin Donahue** as a high-school friend and college roommate. Do not assume Donahue lived in Mod 36A unless a separate record places him there.
+Burns later publicly identified **Kevin Donahue** as a high-school friend and college roommate. His 2002 Boston College commencement remarks also identify **Father Jack Hanwell** as a college roommate. Do not assume either man lived in Mod 36A unless a separate record places him there.
 
 The John J. Burns Library has a specific 1978 commencement archival route:
 
@@ -163,6 +163,8 @@ Boston College varsity baseball records during Burns's undergraduate period have
 These team records do **not** show that Burns played, attended, or followed BC baseball.
 
 The 1975 World Series ran October 11–22, with Games 6 and 7 at Fenway on October 21–22. October 2, 1978 remains a major Red Sox chronology point. Neither chronology creates a Burns scene.
+
+Burns's 2002 Boston College address also mentions “little league coaches” among ordinary examples of civic service. That language is useful for his public vocabulary of community service but is **not** evidence that Burns himself played or coached Little League; the stronger youth-playing evidence is the 2024 Bates School statement.
 
 ## Negative boundary
 
@@ -265,6 +267,8 @@ A likely baseball-date candidate is April 25, 2004, when Martínez started again
 ## Other NATO visual/context evidence
 
 An official Department of Defense/DVIDS photograph places Donald Rumsfeld, NATO Secretary General George Robertson, and Burns at NATO Headquarters in Brussels on **December 1, 2003**. Useful institutional visual; not a baseball scene.
+
+A 2026 Harvard Kennedy School transcript also preserves Burns's first-person recollection of being at NATO Headquarters with the military/diplomatic team on September 11, 2001. It is useful institutional and personal context for the NATO chapter, but it contains no baseball evidence and should not be used to manufacture one.
 
 A NATO transcript dated October 30, 2003 documents an organized public-diplomacy effort and names Burns among senior speakers. This supports the institutional public-diplomacy environment, not the proposition that baseball was a NATO instrument.
 
