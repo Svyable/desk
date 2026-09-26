@@ -414,9 +414,32 @@ Before assigning any new ID, scan the live branch for collisions. Do not assume 
 
 # 12. PR / workflow state
 
-Historical PR #1786 was merged and closed on 2026-09-14. It cannot now be kept in draft or have a draft state restored. Continue research on `book/red-sox-diplomacy-20260912-sol` as requested, but do not describe #1786 as currently open/draft.
+Historical PR #1786 was merged and closed on 2026-09-14. It cannot now be kept in draft or have a draft state restored.
 
-The original PR description itself records the correct Greece boundary: contemporaneous reports establish that the Red Sox were described as helping or pledging support, while the exact responsible club employee and Boston deliverable remain unresolved.
+A continuation draft PR now provides the active review surface for post-merge research on the same branch:
+
+- **PR #2400 — Draft: Red Sox Diplomacy research continuation**
+- Head: `book/red-sox-diplomacy-20260912-sol`
+- Base: `main`
+- State at creation: open / draft
+- URL: https://github.com/Svyable/desk/pull/2400
+
+Treat #2400 as the active draft PR for continued research while preserving #1786 as historical provenance.
+
+The original #1786 description itself records the correct Greece boundary: contemporaneous reports establish that the Red Sox were described as helping or pledging support, while the exact responsible club employee and Boston deliverable remain unresolved.
+
+## GitHub write reliability protocol
+
+For existing-file edits on this branch:
+
+1. fetch the target file immediately before writing;
+2. use the freshly returned blob SHA;
+3. replace the file through the contents API;
+4. refetch the file after the commit and verify the intended marker is present;
+5. do not describe a failed write as a policy/safety block unless the connector explicitly returns that diagnosis;
+6. if a large existing-file replacement repeatedly fails, save the coherent research as a new focused note first, then reconcile the larger file in a later fresh-SHA update.
+
+This avoids stale-SHA failures and keeps Desk research in reversible save points instead of leaving it stranded in chat.
 
 ---
 
