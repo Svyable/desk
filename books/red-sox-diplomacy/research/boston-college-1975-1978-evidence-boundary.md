@@ -95,3 +95,24 @@ Nothing in this research establishes any statement, reaction, memory, viewing ha
 **Context only:** the coincidence of Burns's undergraduate years with the 1975 and 1978 Red Sox seasons.
 
 **Open:** every Burns-specific baseball scene from Boston College.
+
+
+## Archive refinement: Mod 36A and athletics photographs
+
+Boston College's institutional history identifies Burns's senior-year residence as **Mod 36A**. Burns's preserved 2002 commencement address separately says that he and his roommates lived in the Mods and that three former roommates were present for the ceremony. These facts narrow the witness search without creating a baseball scene.
+
+The John J. Burns Library also holds the **Boston College athletic photographs collection (BC-1986-019)**, a substantial visual archive that includes material from the 1970s. It is a concrete place to look for dated and captioned Boston College baseball imagery, campus sports context, photographer information, and potential publication-rights metadata.
+
+### What this permits
+
+- Treat Mod 36A as an authenticated senior-year residential location.
+- Search housing, directory, yearbook, alumni, and archival records for the six residents of that unit.
+- Inspect the athletic-photograph collection for 1975–78 baseball images and metadata.
+- Use contemporary campus imagery to establish BC baseball atmosphere only when captions/dates support it.
+
+### What this does not permit
+
+- Do not place the October 2, 1978 Yankees tiebreaker, the 1975 World Series, a television, radio, or any specific roommate inside Mod 36A without direct evidence.
+- Do not assume Kevin Donahue lived in Mod 36A merely because Burns later identified him as a college roommate.
+- Do not infer Burns attended a BC baseball game from the existence of athletics photographs.
+- Nothing here authenticates any first-person baseball material from Libby Baylies.
