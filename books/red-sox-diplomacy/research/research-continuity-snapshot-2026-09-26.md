@@ -48,7 +48,10 @@ A Washington Post report dated April 12, 2004 says Burns asked Angelos to lead t
 Source:  
 https://www.washingtonpost.com/archive/sports/2004/04/12/it-appears-that-baseball-isnt-all-greek-to-the-greeks/0d5fc3ca-536e-4df4-8712-c260367f6e51/
 
-The project also has Cynthia P. Schneider's 2003 cultural-diplomacy paper as retrospective context. Use its evaluative claims as Schneider's analysis, not narrator fact.
+The project also has Cynthia P. Schneider's 2003 cultural-diplomacy paper as retrospective context. It identifies Burns as a lifelong Red Sox fan, discusses Friends of Greek Baseball, describes a growing network of baseball/softball/Little League activity, and places the effort against the hostile political climate around the Kosovo war. Schneider treats the project as people-to-people diplomacy. Use those evaluative effect claims as Schneider's analysis, not narrator fact.
+
+Source:
+https://www.interarts.net/descargas/interarts645.pdf
 
 ### Visual/archive leads
 
@@ -149,6 +152,11 @@ https://findingaids.bc.edu/repositories/2/archival_objects/162944
 
 Commencement collection:  
 https://findingaids.bc.edu/repositories/2/resources/11
+
+The **Boston College alumni papers (BC-1988-060)** are another retrieval route. The 48-linear-foot collection includes correspondence, interviews, newspaper clippings, scrapbooks, speeches, student papers, photographs, and related student-experience material, organized by graduation year/alumni name. Its existence does not establish that Burns material is present; search Class of 1978 holdings and verified roommate/classmate names.
+
+Alumni papers:
+https://findingaids.bc.edu/repositories/2/resources/13
 
 The archived White House biography gives the degree/academic credential chronology: B.A. in European History from Boston College in 1978, summa cum laude / Phi Beta Kappa, with a Sorbonne credential in 1977.
 
