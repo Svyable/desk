@@ -116,3 +116,20 @@ The John J. Burns Library also holds the **Boston College athletic photographs c
 - Do not assume Kevin Donahue lived in Mod 36A merely because Burns later identified him as a college roommate.
 - Do not infer Burns attended a BC baseball game from the existence of athletics photographs.
 - Nothing here authenticates any first-person baseball material from Libby Baylies.
+
+
+## Additional archive route: Boston College alumni papers
+
+The John J. Burns Library's **Boston College alumni papers (BC-1988-060)** is a 48-linear-foot collection organized by graduation year and alumni name. Its scope includes correspondence, interviews, newspaper clippings, scrapbooks, speeches, student papers, photographs, and other student-experience material.
+
+Finding aid:
+https://findingaids.bc.edu/repositories/2/resources/13
+
+This is a **retrieval route**, not evidence that the collection currently contains Nicholas Burns material. Search the Class of 1978 holdings and adjacent roommate/classmate names before drawing any conclusion from the collection's existence.
+
+High-value uses:
+- identify surviving Class of 1978 student-experience material;
+- locate photographs, correspondence, clippings, interviews, or ephemera tied to verified Burns roommates/classmates;
+- test Mod 36A and campus-life leads against contemporaneous material.
+
+Do not treat generic Class of 1978 material as Burns-specific evidence unless he or an authenticated associate is actually identified.
