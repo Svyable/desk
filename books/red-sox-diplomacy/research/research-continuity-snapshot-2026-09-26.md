@@ -92,15 +92,20 @@ A later Burns interview provides a strong non-baseball Wellesley formation point
 
 A 2025 Harvard/Belfer transcript records Burns's own account of Wellesley public schools, Wellesley High School, Boston College, study in Paris, and meeting his future wife there. Burns's testimony authenticates Burns's chronology only; it does not authenticate Libby Baylies first-person material.
 
-## Candidate primary-source lead requiring exact source preservation
+## Verified first-person youth-baseball source
 
-A previously surfaced **July 4, 2024 Beijing Independence Day speech/remarks** was reported in research as Burns connecting Wellesley, Katharine Lee Bates / “America the Beautiful,” and a first-person childhood statement that he and friends played Little League at Bates School.
+The **July 4, 2024 Beijing Independence Day remarks** provide direct first-person evidence. Burns connected Wellesley, Katharine Lee Bates / “America the Beautiful,” and his childhood by saying that he and his friends played Little League at Bates School.
 
-This is potentially the strongest direct youth-baseball source in the project. The exact official page/transcript should be recovered and preserved before relying on a verbatim quotation. Until then:
+Original U.S. Mission China page:
+https://china.usembassy-china.org.cn/ambassador-nicholas-burns-remarks-on-independence-day/
 
-- do not globally state that “there is no evidence Burns played Little League”;
-- do not infer team, coach, position, season, exact diamond, uniform, or game;
-- do not convert present-day Bates/Kelly field layouts into proof of which field existed or which diamond Burns used.
+Contemporaneous Chinese-language preservation:
+https://www.sina.cn/news/detail/5052829243279266.html
+
+A contemporaneous LinkedIn post by James Zimmerman points readers to the same official Mission China page:
+https://www.linkedin.com/posts/james-zimmerman-b3b1a313_ambassador-nicholas-burns-remarks-on-independence-activity-7214682257557442561-GTkq
+
+This is the strongest direct youth-baseball source in the project and is already reflected in Chapter 1. It establishes Little League, friends, and Bates School. It does **not** establish team, coach, position, season, exact diamond, uniform, statistics, or a particular game. Present-day Bates/Kelly field layouts remain location context only.
 
 ## Local geography lead
 
@@ -108,7 +113,7 @@ Modern Wellesley youth-baseball and town facility records identify baseball diam
 
 ## Highest-value next retrievals
 
-- Exact July 4, 2024 official Mission China remarks/transcript.
+- Preserve redundant copies / archival captures of the July 4, 2024 Mission China remarks because the official page can be difficult to retrieve directly.
 - Wellesley Townsman youth rosters, game reports, photos, and recreation notices, approximately 1964–1974.
 - Wellesley Recreation records and Little League records.
 - Bates School archival material and historical photographs.
