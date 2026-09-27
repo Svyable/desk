@@ -68,3 +68,12 @@ The exact length run must establish both the numbered-chapter total and every pe
 Only after both commands pass should a matched Desk/Shelf publication pair be created from the same frozen Desk commit, with Desk remaining the working edition and Shelf receiving the intentional publication snapshot.
 
 No additional human-review gate is imposed.
+
+
+## Mechanical recheck — September 27, 2026
+
+Frozen Desk base: `b680e777106560895fb4f8973c6005c0a1282306`.
+
+A fresh chapter-by-chapter replay of the repository length rule found **18 numbered chapters and 61,612 chapter-only words**. Four chapters remain below the 3,000-word floor: Chapter 4 (**2,718**), Chapter 12 (**2,678**), Chapter 13 (**1,874**), and Chapter 18 (**1,897**). Bringing those four chapters only to the floor requires **2,833 substantive words**, while the book also needs to reach the 65,000-word chapter-only minimum; therefore the controlling aggregate deficit is **3,388 words**.
+
+The title remains **release-cleared on factual/research/rights/editorial grounds but mechanically blocked**. This is the closest current candidate in the 12-book release-review queue. The next pass should add at least 3,388 words of genuine evidence, countercase, mechanism, or scene-level depth—concentrated first in Chapters 4, 12, 13, and 18—then run the literal length checker and full Desk integrity checker on one frozen source before any Shelf release transaction.
