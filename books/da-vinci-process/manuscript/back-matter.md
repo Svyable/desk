@@ -18,17 +18,17 @@ The narrower claim is intended to survive either future: whenever work contains 
 
 The complete working source ledger is maintained in research/README.md. Key institutions and research programs used throughout the manuscript include:
 
-- Uffizi Galleries — *The Baptism of Christ* and conservation material on Leonardo's unfinished *Adoration of the Magi*
-- National Gallery, London — Verrocchio workshop research, technical conservation evidence, workshop and pupil glossaries, and Francesco Melzi material
-- The Metropolitan Museum of Art — Verrocchio workshop collection material
-- Royal Collection Trust — Leonardo's drawings, notebooks, and anatomical studies
-- Biblioteca Ambrosiana — the Codex Atlanticus
-- National Bureau of Economic Research and Stanford Graduate School of Business — *Generative AI at Work*
-- Harvard Business School AI Institute — *Navigating the Jagged Technological Frontier* and *The Cybernetic Teammate*
-- Microsoft Research — studies of generative AI, critical thinking, changing work patterns, and software-developer productivity
-- Stanford HAI — *AI Index Report 2026*
-- U.S. Copyright Office — *Copyright and Artificial Intelligence*, Part 2
-- Anthropic Economic Index — product-population telemetry on automation, augmentation, and longer-running agentic use
+- [Uffizi Galleries — *The Baptism of Christ*](https://www.uffizi.it/en/artworks/verrocchio-leonardo-baptism-of-christ) and [conservation material on Leonardo's unfinished *Adoration of the Magi*](https://www.uffizi.it/en/events/leonardo-s-magic-cosmos-the-adoration-of-the-magi-restored)
+- [National Gallery, London — technical evidence on Leonardo in Verrocchio's workshop](https://www.nationalgallery.org.uk/technical-bulletin/dunkerton2011), workshop/pupil material, and Francesco Melzi research
+- [The Metropolitan Museum of Art — Verrocchio workshop collection material](https://www.metmuseum.org/art/collection/search/437892)
+- [Royal Collection Trust — Leonardo's drawings, notebooks, and anatomical studies](https://www.rct.uk/collection/stories/leonardo-in-the-royal-collection/the-life-of-leonardo-da-vinci)
+- [Biblioteca Ambrosiana — the Codex Atlanticus](https://www.ambrosiana.it/en/discover/masterpieces/codex-atlanticus/)
+- [National Bureau of Economic Research — *Generative AI at Work*](https://www.nber.org/papers/w31161)
+- Harvard Business School AI Institute — [*Navigating the Jagged Technological Frontier*](https://aiinstitute.hbs.edu/navigating-the-jagged-technological-frontier/) and [*The Cybernetic Teammate*](https://aiinstitute.hbs.edu/the-cybernetic-teammate-how-ai-is-reshaping-collaboration-and-expertise-in-the-workplace/)
+- Microsoft Research — [critical thinking in generative-AI work](https://www.microsoft.com/en-us/research/publication/the-impact-of-generative-ai-on-critical-thinking-self-reported-reductions-in-cognitive-effort-and-confidence-effects-from-a-survey-of-knowledge-workers/) and [software-developer field experiments](https://www.microsoft.com/en-us/research/publication/the-effects-of-generative-ai-on-high-skilled-work-evidence-from-three-field-experiments-with-software-developers/)
+- Stanford HAI — [*AI Index Report 2026*](https://hai.stanford.edu/ai-index/2026-ai-index-report)
+- U.S. Copyright Office — [*Copyright and Artificial Intelligence*, Part 2](https://www.copyright.gov/ai/)
+- [Anthropic Economic Index — *Cadences* (June 2026)](https://www.anthropic.com/research/economic-index-june-2026-report), used as vendor telemetry rather than economy-wide evidence
 
 ## Acknowledgments
 
