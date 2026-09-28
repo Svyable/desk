@@ -80,9 +80,15 @@ That observation belongs naturally in the age of frontier AI because benchmark r
 
 A major model launch can move a company's narrative. A coding score can become evidence in a sales pitch. An academic benchmark can appear in procurement material. Safety evaluations can affect deployment decisions. A few percentage points can become a headline.
 
-The incentive to optimize is not hidden.
+The incentive to optimize is not hidden. It would be strange if developers ignored the tests by which the world compares them.
 
-It would be strange if developers ignored the tests by which the world compares them.
+The important boundary is between **using a benchmark as curriculum** and **using it as an audit**. A curriculum is supposed to shape behavior. If a coding benchmark reveals that models routinely fail to inspect repository context, developers should train systems to inspect context. If a safety evaluation reveals a recurring failure mode, fixing that failure is the point.
+
+An audit asks a different question: after all that improvement work, how well does the system perform on evidence that has not itself become part of the improvement loop?
+
+When the same dataset tries to perform both jobs indefinitely, pressure accumulates. Every public failure becomes a lesson. Every lesson changes the next system. Eventually the test measures a mixture of broad capability and familiarity with the curriculum it helped create.
+
+This is one reason serious evaluation programs need fresh or independent evidence even when public benchmarks remain valuable. The public benchmark can coordinate research. The fresh evidence can test transfer.
 
 This is why the phrase "teaching to the test" needs more care than it usually gets.
 
@@ -124,11 +130,15 @@ A different study prevents the lesson from becoming a slogan.
 
 Victor Lavy examined a teacher performance-pay program in Israel. Teachers received financial rewards tied to students' matriculation outcomes. The study found improvements in test participation, conditional pass rates, and scores. Lavy traced the gains to changes that included teaching methods, after-school instruction, and increased responsiveness to students. He found no evidence that teachers manipulated the grades.
 
-The metric came under pressure.
+The metric came under pressure and the underlying process improved. That case matters because Goodhart's law is often used lazily, as if every target automatically self-destructs. It does not.
 
-The underlying process improved.
+A third education result complicates the picture further. Uri Gneezy and colleagues studied low-stakes standardized testing in two American high schools and four Shanghai high schools. When the researchers offered incentives for effort, American students' scores rose substantially while the Shanghai students, already high performers on the assessments, did not show the same response. The authors' point was not that the American students had acquired more knowledge during the test. The incentive changed how much of their existing capability appeared in the measurement.
 
-That case matters because Goodhart's law is often used lazily, as if every target automatically self-destructs. It does not.
+Now the causal arrow runs the other way.
+
+The target did not corrupt the skill being measured. It changed the effort devoted to displaying that skill.
+
+That distinction matters for AI because evaluation settings also allocate effort. A system given more inference time, a stronger prompt, more retries, or a higher reward for benchmark success may reveal capability that a weaker setup leaves dormant. An observed score can move because the underlying competence improved, because optimization narrowed toward the test, or because the evaluation finally elicited more of what was already there. Goodhart's law does not identify which mechanism occurred. It tells the evaluator to look for the mechanism once the measure becomes consequential.
 
 A target works better when the measured variable is tightly connected to the real objective, when the agents cannot cheaply improve the measure without improving the objective, when the task distribution is broad enough to resist narrow rehearsal, and when independent evidence can detect divergence.
 
@@ -287,6 +297,12 @@ The pattern is not an argument for complexity as virtue. Adding ten metrics can 
 The real defense is harder.
 
 Keep enough distance between what is observed and what is optimized.
+
+That distance does not require secrecy everywhere. It can come from task generation, rotating item pools, independent evaluators, delayed release, multiple measures, or outcome checks that were not used as the optimization target. The common idea is to preserve some evidence that the optimizer has not already consumed.
+
+The design resembles financial auditing more than school testing. An auditor does not ask management to choose the only evidence that will determine whether management performed well. The evidence can still be sampled, imperfect, and contestable. Independence changes the incentive structure around it.
+
+AI evaluation is moving toward the same realization. A benchmark can be technically sophisticated and still lose value if every development decision is conditioned on its score. Independence is not ceremonial purity. It is one way to keep measurement from becoming another training channel.
 
 Use independent evidence.
 
