@@ -10,7 +10,7 @@
 |---|---|
 | **Authors** | Sven Hardy Benson |
 | **Status** | Drafting |
-| **Chapters** | 4 complete of 20 planned |
+| **Chapters** | 7 complete of 20 planned |
 | **Method** | Narrative physics + primary-source reconstruction + falsification ledger |
 
 Every modern computer performs the same magic trick.
@@ -56,9 +56,9 @@ The wager of **Bytes vs Bosons** is that the argument becomes more interesting, 
 
 ### Part II — Physics Starts Keeping Score
 
-- [ ] Chapter 5 — The Black Hole With a Memory Problem
-- [ ] Chapter 6 — Entropy on the Surface
-- [ ] Chapter 7 — Hawking Burns the Ledger
+- [x] [Chapter 5 — The Black Hole With a Memory Problem](manuscript/ch05-the-black-hole-with-a-memory-problem.md)
+- [x] [Chapter 6 — Entropy on the Surface](manuscript/ch06-entropy-on-the-surface.md)
+- [x] [Chapter 7 — Hawking Burns the Ledger](manuscript/ch07-hawking-burns-the-ledger.md)
 - [ ] Chapter 8 — No Cloning
 - [ ] Chapter 9 — The Qubit Refuses to Be a Byte
 - [ ] Chapter 10 — The Holographic Temptation
@@ -136,7 +136,8 @@ The title’s “bosons” are a narrative device, not a claim that bosons are s
 - [Working book state](research/book-state.md)
 - [Evidence ledger and source trail](research/evidence-ledger.md)
 - [Part I evidence note](research/part-i-evidence.md)
+- [Black-hole thermodynamics evidence note](research/black-hole-thermodynamics-evidence.md)
 
 ## Current draft status
 
-Part I is now complete at roughly 10,000 manuscript words across four chapters. The conceptual foundation is locked around four distinctions: Shannon information is not meaning; logical state is not physical substrate; information thermodynamics charges specific irreversible operations rather than every act of computation; and Shannon entropy is not interchangeable with thermodynamic entropy without an explicit bridge. The project remains an early Desk draft, not a publication candidate. The next drafting pass moves methodically into black-hole thermodynamics: Bekenstein first, Hawking second, and the information problem only after the entropy/temperature machinery is clear.
+Part I is complete and the first black-hole sequence is now drafted. Chapters 1–7 total roughly 16,400 manuscript words. The conceptual foundation separates Shannon information, physical embodiment, thermodynamic erasure, black-hole entropy and quantum-state information rather than letting one overloaded word do all the work. Bekenstein’s entropy proposal, the horizon-area laws and Hawking radiation now establish the problem that Part II has to solve next: what changes when the information under dispute is quantum information rather than a classical record? The project remains a Desk draft, not a publication candidate. Next drafting priority is Chapters 8–10: no-cloning, qubits, then the holographic temptation.
