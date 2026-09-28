@@ -9,13 +9,13 @@ Desk is the working library for Sven Hardy Benson’s books: drafts, complete ma
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 136 book projects · 64 complete drafts · 3 in revision · 69 drafting**
+> **Desk: 138 book projects · 65 complete drafts · 3 in revision · 70 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
 > **Shelf: 57 author projects · 57 released · 0 public drafts/proofs**
-> **Where they live: 57 in both Desk + Shelf · 79 Desk-only · 0 Shelf-only**
-> **Release review queue: 12 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
+> **Where they live: 57 in both Desk + Shelf · 81 Desk-only · 0 Shelf-only**
+> **Release review queue: 13 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
 |---|---|---|---|
@@ -77,7 +77,7 @@ Desk is the working library for Sven Hardy Benson’s books: drafts, complete ma
 | [**Who Taught America?**](books/who-taught-america/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/who-taught-america/) |
 | [**Wild Speculation**](books/wild-speculation/) | ✅ Complete draft · Published on Shelf | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/wild-speculation/) |
 
-**Desk-only complete drafts awaiting an explicit release decision:** [Bookself](books/bookself/), [The Alliance Advantage](books/the-alliance-advantage/), [The Books That Wrote America](books/the-books-that-wrote-america/), [The Crime That Made the Decade](books/the-crime-that-made-the-decade/), [The Half-Life of Now](books/the-half-life-of-now/), [The Last Human Channel](books/the-last-human-channel/), [The Longevity Moment](books/the-longevity-moment/), [The Taiwan Threshold](books/the-taiwan-threshold/), [Third Language](books/the-third-language/), [Visitors](books/the-visitors/), [The Warning Problem](books/the-warning-problem/), [The World Won’t Choose Sides](books/the-world-wont-choose-sides/)
+**Desk-only complete drafts awaiting an explicit release decision:** [Bookself](books/bookself/), [Da Vinci Process](books/da-vinci-process/), [The Alliance Advantage](books/the-alliance-advantage/), [The Books That Wrote America](books/the-books-that-wrote-america/), [The Crime That Made the Decade](books/the-crime-that-made-the-decade/), [The Half-Life of Now](books/the-half-life-of-now/), [The Last Human Channel](books/the-last-human-channel/), [The Longevity Moment](books/the-longevity-moment/), [The Taiwan Threshold](books/the-taiwan-threshold/), [Third Language](books/the-third-language/), [Visitors](books/the-visitors/), [The Warning Problem](books/the-warning-problem/), [The World Won’t Choose Sides](books/the-world-wont-choose-sides/)
 <!-- SHELF_SUMMARY:END -->
 
 Some books here are only a chapter or two into existence. Others are complete manuscripts still being edited, tested, or reconsidered. That is intentional. **Desk shows the work in motion instead of pretending every book is at the same stage.**
@@ -115,6 +115,8 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Chiptastrophy**](books/chiptastrophy/) | ✍️ Drafting | 4 of 24 | 10,890 | <!-- bookself-reader-links:start --> Reader links: Working edition · Desk Reader <!-- bookself-reader-links:end --> | [Read →](https://svyable.github.io/desk/reader/#/b/chiptastrophy/) |
 | [**Chokepoint**](books/chokepoint/) | ✍️ Drafting | 20 of 20 | 36,487 | The working thesis is that the twenty-first century is being rebuilt around a short list of elements — copper, lithium, cobalt, nickel, and the seventeen rare earths — the way the… | [Read →](https://svyable.github.io/desk/reader/#/b/chokepoint/) |
 | [**Commit**](books/commit/) | ✅ Complete expanded draft · publication candidate | 22 of 22 + 4 interludes | 67,327 | The working thesis is that Git became dominant because it made a few unusually durable bets: content should have identity independent of location, history should be a graph rather than a… | [Read →](https://svyable.github.io/desk/reader/#/b/commit/) |
+| [**Da Vinci Process**](books/da-vinci-process/) | ✅ Complete first draft · editorial review pending | 18 of 18 | 66,377 | Its central wager is that the next renaissance will not be measured by the quantity of automated output. | [Read →](https://svyable.github.io/desk/reader/#/b/da-vinci-process/) |
+| [**Data Talent & Leverage**](books/data-talent-leverage/) | ✍️ Drafting | 1 of 20 | 4,243 | The working thesis is that none of the three is sufficient alone. Data without judgment becomes a warehouse. Talent without leverage becomes expensive craftsmanship. Leverage without good information… | [Read →](https://svyable.github.io/desk/reader/#/b/data-talent-leverage/) |
 | [**Deceptatron**](books/deceptatron/) | ✅ Complete first draft | 20 of 20 | 67,283 | This book calls the resulting system a Deceptatron: not a single supercomputer and not a science-fiction mind-control ray, but a closed-loop persuasion stack that can observe a person… | [Read →](https://svyable.github.io/desk/reader/#/b/deceptatron/) |
 | [**DemocrAIcy**](books/democraicy/) | ✍️ Drafting | 11 of 11 | 2,596 | The working thesis is not government by artificial intelligence. It is a democracy in which humans remain sovereign while increasingly governing through, alongside, and against artificial… | [Read →](https://svyable.github.io/desk/reader/#/b/democraicy/) |
 | [**Energy, Value & Intelligence**](books/energy-value-intelligence/) | ✍️ Drafting | 22 of 22 | 74,545 | <!-- bookself-reader-links:start --> Reader links: Working edition · Desk Reader · Published edition · Shelf Reader <!-- bookself-reader-links:end --> | [Read →](https://svyable.github.io/desk/reader/#/b/energy-value-intelligence/) |
@@ -178,6 +180,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Built to End**](books/the-expiration-economy/) | ✍️ Drafting | 30 of 30; late-chapter evidence pass complete | 92,160 | The working thesis of Built to End is that this imbalance becomes economically decisive when creation gets cheap. | [Read →](https://svyable.github.io/desk/reader/#/b/the-expiration-economy/) |
 | [**Trust With a Fuse**](books/the-expiration-machine/) | ✍️ Drafting | 21 of 21 + prologue + epilogue | 45,842 | The central thesis is that expiration is one of civilization's hidden control primitives. | [Read →](https://svyable.github.io/desk/reader/#/b/the-expiration-machine/) |
 | [**The Exponentiality**](books/the-exponentiality/) | ✅ Complete draft · publication candidate | Prologue + Chapters 1–12 + back matter | 35,963 | <!-- bookself-reader-links:start --> Reader links: Working edition · Desk Reader <!-- bookself-reader-links:end --> | [Read →](https://svyable.github.io/desk/reader/#/b/the-exponentiality/) |
+| [**The Formula**](books/the-formula/) | ✍️ Drafting | Chapter 1 · Chapters 2–15 planned | 2,591 | A book about a deceptively simple geometric stack — square, crescent, downward triangle, interpenetrating triangles, circle, Ajna/Om — and the possibility that its real usefulness is neither… | [Read →](https://svyable.github.io/desk/reader/#/b/the-formula/) |
 | [**The Half-Life of Now**](books/the-half-life-of-now/) | ✅ Complete Desk draft | 24 of 24 | 49,845 | This is the complete Desk edition of The Half-Life of Now. Its central argument is that modern civilization is accumulating freshness debt: the gap between the world as it is and the… | [Read →](https://svyable.github.io/desk/reader/#/b/the-half-life-of-now/) |
 | [**Hundred-Year Career**](books/the-hundred-year-career/) | ✍️ Drafting | 10 of 10 | 2,217 | The working thesis is that the future will reward people less for choosing one profession correctly than for becoming unusually good at rebuilding themselves as technology, institutions… | [Read →](https://svyable.github.io/desk/reader/#/b/the-hundred-year-career/) |
 | [**The Hundred-Year Handoff**](books/the-hundred-year-handoff/) | ✍️ Drafting · full structural draft | 21 of 21 + back matter | 47,597 | Some of civilization's hardest projects have a peculiar customer: a person who is not alive yet. | [Read →](https://svyable.github.io/desk/reader/#/b/the-hundred-year-handoff/) |
