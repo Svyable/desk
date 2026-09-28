@@ -6,7 +6,7 @@
 |---|---|
 | **Authors** | Sven Hardy Benson |
 | **Status** | Drafting |
-| **Chapters** | 1 of 20 drafted |
+| **Chapters** | 4 of 20 drafted |
 
 A meter is useful only while it can still tell two different things apart.
 
@@ -24,9 +24,9 @@ The book follows a simple question through AI, economics, education, software, s
 
 - [x] [Front Matter](manuscript/front-matter.md)
 - [x] [Ch 1 — The Last Exam](manuscript/ch01-the-last-exam.md)
-- [ ] Ch 2 — 100 Percent Means Nothing
-- [ ] Ch 3 — The Meter Is Part of the Machine
-- [ ] Ch 4 — Goodhart Gets a GPU
+- [x] [Ch 2 — 100 Percent Means Nothing](manuscript/ch02-100-percent-means-nothing.md)
+- [x] [Ch 3 — The Meter Is Part of the Machine](manuscript/ch03-the-meter-is-part-of-the-machine.md)
+- [x] [Ch 4 — Goodhart Gets a GPU](manuscript/ch04-goodhart-gets-a-gpu.md)
 - [ ] Ch 5 — Contamination
 - [ ] Ch 6 — The Answer Key Is Online
 - [ ] Ch 7 — The Harness Chooses the Winner
@@ -50,6 +50,7 @@ The book follows a simple question through AI, economics, education, software, s
 - [Research brief](research/README.md)
 - [Book brief and chapter architecture](research/book-brief.md)
 - [Source ledger](research/source-ledger.csv)
+- [Part I measurement/control research controls](research/ch02-04-measurement-control.md)
 
 ## Rights
 
