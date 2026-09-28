@@ -8,7 +8,7 @@ The book begins from a narrow empirical observation: several widely used AI eval
 
 A saturated benchmark does **not** establish generalized superhuman intelligence. It establishes that the benchmark has lost some ability to distinguish systems in the range now being tested.
 
-## Opening evidence spine
+## Evidence spine
 
 Chapter 1 currently relies on:
 
@@ -20,7 +20,9 @@ Chapter 1 currently relies on:
 - METR’s time-horizon methodology, limitations, saturation notes, and frontier-risk report;
 - NIST’s ARIA and TEVV work on application-specific evaluation.
 
-See [source-ledger.csv](source-ledger.csv) for URLs and claim boundaries.
+Chapters 2–4 add the measurement foundations needed before the book moves into contamination and test failure: ETS test theory and item-response theory, adaptive-testing practice, benchmark-saturation research, GDPval and capability-elicitation evidence on setup sensitivity, NIST measurement-method guidance, the original Goodhart/Campbell lineage, leaderboard overfitting, and education incentive studies that supply both failure cases and counterevidence.
+
+See [ch02-04-measurement-control.md](ch02-04-measurement-control.md) for the bounded Part I research pass and [source-ledger.csv](source-ledger.csv) for URLs and claim boundaries.
 
 ## Research rule
 
@@ -42,11 +44,9 @@ The book should actively collect examples in which:
 
 ## Near-term research queue
 
-1. Build a dated benchmark lifecycle table.
-2. Add psychometrics sources on ceiling effects and item-response theory.
-3. Add formal measurement-science sources on dynamic range, calibration, uncertainty, and validity.
-4. Audit the history and correct interpretation of Goodhart’s and Campbell’s laws.
-5. Find primary evidence that evaluation scores enter procurement, governance, investment, or safety decisions.
-6. Build education and hiring case studies around signal degradation rather than generic “AI changes work” claims.
-7. Find concrete AI assurance, audit, underwriting, and insurance examples.
-8. Identify cases where benchmark difficulty and real-world relevance move in opposite directions.
+1. Build a dated benchmark lifecycle table before Chapters 5–9.
+2. Separate training contamination, web retrieval, repeated-public-benchmark optimization, and evaluation-aware behavior with case-level evidence.
+3. Find primary evidence that evaluation scores enter procurement, governance, investment, or safety decisions.
+4. Build education and hiring case studies around signal degradation rather than generic “AI changes work” claims.
+5. Find concrete AI assurance, audit, underwriting, and insurance examples.
+6. Identify cases where benchmark difficulty and real-world relevance move in opposite directions.
