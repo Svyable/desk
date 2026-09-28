@@ -133,6 +133,6 @@ The book should be revised or narrowed if:
 
 Publication target: 70,000–85,000 words.
 
-Current state: opening chapter plus full architecture. Roughly 4% of a publication-ready manuscript.
+Current state: Part I complete — four substantive chapters, roughly 10,000 manuscript words, plus the full twenty-chapter architecture and research controls. Roughly 13–14% of a 70,000–85,000-word publication-ready manuscript by raw word target, with a lower editorial-completion percentage because later chapters carry heavier technical verification.
 
-Next drafting priority: Chapters 2–4 as a tightly controlled conceptual foundation. Do not draft the holography chapters until those distinctions are stable.
+Next drafting priority: Chapters 5–7 as one controlled black-hole sequence: Bekenstein’s entropy argument, the horizon-area accounting problem, then Hawking radiation and the information-loss stakes. Do not draft holography until the black-hole thermodynamics chain is complete and source-stable.
