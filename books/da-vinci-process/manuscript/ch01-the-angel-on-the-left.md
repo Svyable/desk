@@ -22,11 +22,7 @@ What survives more securely is the object.
 
 The Uffizi dates *The Baptism of Christ* to roughly 1470–1475 and attributes it to Andrea del Verrocchio and Leonardo da Vinci. The young Leonardo is associated especially with the angel on the left. Other workshop participation has also been discussed around the painting. The work does not look like the modern fantasy of authorship in which an idea moves unbroken from one sovereign mind through one sovereign hand into a finished object. It looks like what it came from: a workshop.
 
-That is the part of the story I care about.
-
-We have spent the first years of generative artificial intelligence asking the wrong Verrocchio question.
-
-Will the apprentice replace the master?
+That is the part of the story I care about. We have spent the first years of generative artificial intelligence asking the wrong Verrocchio question. Will the apprentice replace the master?
 
 It is an understandable question because replacement produces clean headlines. One worker, one task, one machine, one before-and-after. If a model can write a passable legal memo, design a logo, diagnose a bug, summarize a filing, draft a sales email, or produce a working chunk of software, then the drama seems to be about who still deserves a chair.
 
@@ -82,11 +78,7 @@ That is uncomfortable because it exposes how vague our idea of "doing the work" 
 
 Verrocchio's shop had a commercial answer. The workshop could contain multiple hands, but the master's name carried a promise. That promise could be abused. Assistants could produce more than patrons imagined. Attribution could become muddy. Workshop pieces still create headaches for curators because the very system that produced them dispersed execution across people trained to converge on related styles.
 
-But the arrangement also enabled scale, learning, continuity, and ambition.
-
-The master could attempt projects larger than one person's day.
-
-This is where the analogy with agents becomes economically explosive.
+But the arrangement also enabled scale, learning, continuity, and ambition. The master could attempt projects larger than one person's day. This is where the analogy with agents becomes economically explosive.
 
 Human apprentices are scarce. They need years. They have schedules, ambitions, moods, competing opportunities, and the entirely reasonable desire not to spend their lives inside someone else's shadow. A master can train only so many people closely. Every additional person adds coordination cost.
 
@@ -160,29 +152,13 @@ This is a very different image from the super-assistant.
 
 The super-assistant fantasy concentrates capability in one interface. Ask anything. Receive everything. The workshop model distributes capability around an object.
 
-That distribution creates a new master skill: knowing what kind of intelligence the problem requires.
+That distribution creates a new master skill: knowing what kind of intelligence the problem requires. A factual dispute may need primary sources, not eloquence. A software failure may need logs and tests, not a larger language model. A negotiation may need the human who knows the counterpart.
 
-A factual dispute may need primary sources, not eloquence.
-
-A software failure may need logs and tests, not a larger language model.
-
-A negotiation may need the human who knows the counterpart.
-
-A design problem may need ten visual sketches before anyone writes a paragraph explaining them.
-
-The agentic future will reward people who can distinguish these modes.
+A design problem may need ten visual sketches before anyone writes a paragraph explaining them. The agentic future will reward people who can distinguish these modes.
 
 This is another way the old hierarchy can invert. The "master" can become less technically capable than several components of the workshop and more capable at composition.
 
-Composition is not hand-waving. It means recognizing dependencies.
-
-If the research is weak, the prose should not proceed as if the research were strong.
-
-If the test fails, the deployment should not proceed because the explanation is persuasive.
-
-If the customer premise changes, the entire strategy may need to be redrawn.
-
-The master keeps these dependencies connected.
+Composition is not hand-waving. It means recognizing dependencies. If the research is weak, the prose should not proceed as if the research were strong. If the test fails, the deployment should not proceed because the explanation is persuasive. If the customer premise changes, the entire strategy may need to be redrawn. The master keeps these dependencies connected.
 
 That is why orchestration is more demanding than task assignment. A bad orchestrator distributes work and receives fragments. A good one understands how a discovery in one fragment should alter the others.
 
@@ -190,19 +166,9 @@ This is where the painting helps again.
 
 The angel is not an independent illustration taped onto *The Baptism of Christ*. It belongs to a composition. If one passage changes the visual language of the work, the change can affect the whole. The local contribution has relational meaning.
 
-Agent outputs are relational too.
+Agent outputs are relational too. A research finding changes the chapter. The chapter changes the thesis. The thesis changes what the next research question should be.
 
-A research finding changes the chapter.
-
-The chapter changes the thesis.
-
-The thesis changes what the next research question should be.
-
-A test result changes the architecture.
-
-The architecture changes what counts as a useful test.
-
-This recursive movement is the real process.
+A test result changes the architecture. The architecture changes what counts as a useful test. This recursive movement is the real process.
 
 People who treat agents as vending machines miss it because they experience each request as a separate transaction. They ask, receive, paste, move on.
 
@@ -218,33 +184,15 @@ It may.
 
 An agent can already decompose tasks, route subtasks, compare outputs, and revise plans. Future systems will be better at all of those functions. We should expect machine orchestration to become real.
 
-The workshop model does not depend on denying that possibility.
-
-It asks a governance question instead.
-
-Which decisions do humans want to remain responsible for, even when a machine can make them competently?
+The workshop model does not depend on denying that possibility. It asks a governance question instead. Which decisions do humans want to remain responsible for, even when a machine can make them competently?
 
 There are domains where the answer may be very few. If an automated system can route warehouse inventory more accurately than a human team, insisting that a person manually approve each routing decision may add nothing.
 
 There are other domains where human standing matters independently of comparative cognitive performance. A defendant may have a legitimate claim to human judicial responsibility. A patient may want a physician who can answer for a treatment. A citizen may object to public power being exercised by an optimizer whose objective cannot be challenged politically.
 
-These are not productivity questions.
+These are not productivity questions. They are constitutional questions in miniature. The workshop lets us see them early because every workshop allocates authority. Who may act?
 
-They are constitutional questions in miniature.
-
-The workshop lets us see them early because every workshop allocates authority.
-
-Who may act?
-
-Who may revise the commission?
-
-Who may approve?
-
-Who carries the name?
-
-When an apprentice becomes better, capability changes.
-
-Authority does not have to change automatically.
+Who may revise the commission? Who may approve? Who carries the name? When an apprentice becomes better, capability changes. Authority does not have to change automatically.
 
 That separation is one of civilization's oldest tricks. We routinely give experts influence without giving them final power. We routinely give leaders final power without pretending they know the most about every detail.
 
@@ -254,92 +202,36 @@ That creates an opportunity.
 
 Instead of asking the mystical question "Who is really smarter?", we can ask the operational questions one by one.
 
-Who should search?
+Who should search? Who should propose? Who should test? Who should decide?
 
-Who should propose?
+Who should act? Who should be able to stop the action? Who should answer for the result? A workshop is the place where those verbs acquire owners.
 
-Who should test?
-
-Who should decide?
-
-Who should act?
-
-Who should be able to stop the action?
-
-Who should answer for the result?
-
-A workshop is the place where those verbs acquire owners.
-
-The ownership can move.
-
-The painting can still cohere.
+The ownership can move. The painting can still cohere.
 
 This is what Vasari's story cannot show because its drama depends on one hierarchy collapsing in one moment. Real collaborative systems are more durable than that. They can absorb local changes in superiority without dissolving.
 
-The machine paints the better angel.
+The machine paints the better angel. Fine. Now the master has new information about the machine, the work, and perhaps himself. What happens next is the process.
 
-Fine.
-
-Now the master has new information about the machine, the work, and perhaps himself.
-
-What happens next is the process.
-
-The master trained the apprentice who could become Leonardo.
-
-The conservation evidence makes the story even better because it weakens the mythology and strengthens the process.
+The master trained the apprentice who could become Leonardo. The conservation evidence makes the story even better because it weakens the mythology and strengthens the process.
 
 National Gallery technical work on Leonardo's training has argued that several aspects of his early painting technique appear to grow directly from Verrocchio's practice, including underdrawing and methods of modelling form. It also complicates any attempt to draw a bright line through *The Baptism of Christ*. The painting was worked on over time; Leonardo's contribution was not simply a sealed exercise placed beside the master's untouched work.
 
-That is closer to how collaboration actually develops.
-
-The apprentice learns the master's method.
-
-Then modifies it.
-
-Then the object becomes difficult to partition cleanly.
-
-Human-agent work will produce the same attribution problem in another medium.
+That is closer to how collaboration actually develops. The apprentice learns the master's method. Then modifies it. Then the object becomes difficult to partition cleanly. Human-agent work will produce the same attribution problem in another medium.
 
 The machine may begin inside the human's structure, then suggest a change that causes the human to rewrite the structure, which changes the next machine output. After several cycles, asking which side "made" the result can become less informative than reconstructing the interaction.
 
-This does not erase attribution.
+This does not erase attribution. It changes what deserves attribution. A factual discovery can still have a source. A sentence can still have an origin.
 
-It changes what deserves attribution.
+A decision can still have an owner. But the work as a whole may emerge from repeated mutual alteration. That is why the angel story is a better opening than a benchmark. A benchmark isolates performance.
 
-A factual discovery can still have a source.
-
-A sentence can still have an origin.
-
-A decision can still have an owner.
-
-But the work as a whole may emerge from repeated mutual alteration.
-
-That is why the angel story is a better opening than a benchmark.
-
-A benchmark isolates performance.
-
-A workshop integrates it.
-
-The benchmark asks whether the model wins.
+A workshop integrates it. The benchmark asks whether the model wins.
 
 The workshop asks whether the result becomes better and whether the humans around it become more capable of producing the next result.
 
-Those are different measures.
-
-They will sometimes disagree.
-
-A system can dominate a benchmark and create a terrible organization if people become unable to challenge it.
+Those are different measures. They will sometimes disagree. A system can dominate a benchmark and create a terrible organization if people become unable to challenge it.
 
 A weaker system can create more value if its outputs expose decisions clearly and make the humans around it sharper.
 
-Capability matters.
+Capability matters. Relationship design multiplies or wastes capability. This is the central wager of the book. The next renaissance will not be caused merely by having more intelligence available.
 
-Relationship design multiplies or wastes capability.
-
-This is the central wager of the book.
-
-The next renaissance will not be caused merely by having more intelligence available.
-
-It will come, if it comes, from learning how to arrange intelligence around consequential work.
-
-We should want our workshops to produce that kind of problem.
+It will come, if it comes, from learning how to arrange intelligence around consequential work. We should want our workshops to produce that kind of problem.
