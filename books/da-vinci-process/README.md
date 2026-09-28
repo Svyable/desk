@@ -52,4 +52,4 @@ Its central wager is that the next renaissance will not be measured by the quant
 
 ## Draft note
 
-This first full draft clears Desk's commissioned full-book scope gate: 18 chapters, every chapter above 3,000 words, and more than 65,000 chapter words. That quantitative gate is not a literary verdict. The book remains in editorial review on Desk until the whole-manuscript continuity, repetition, sourcing, and anti-slop passes are completed.
+This first full draft clears Desk's commissioned full-book scope gate: 18 chapters, every chapter above 3,000 words, and more than 65,000 chapter words. The whole-manuscript paragraph and anti-slop passes are complete against the current Desk prose standard. That quantitative and stylistic gate is not a literary verdict: continuity, repetition, sourcing, and whole-book editorial review remain before any release decision.
