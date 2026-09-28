@@ -9,12 +9,12 @@ Desk is the working library for Sven Hardy Benson’s books: drafts, complete ma
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 136 book projects · 64 complete drafts · 3 in revision · 69 drafting**
+> **Desk: 138 book projects · 65 complete drafts · 3 in revision · 70 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
 > **Shelf: 59 author projects · 57 released · 2 public drafts/proofs**
-> **Where they live: 59 in both Desk + Shelf · 77 Desk-only · 0 Shelf-only**
+> **Where they live: 59 in both Desk + Shelf · 79 Desk-only · 0 Shelf-only**
 > **Release review queue: 13 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
@@ -117,6 +117,8 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Chiptastrophy**](books/chiptastrophy/) | ✍️ Drafting | 4 of 24 | 10,890 | <!-- bookself-reader-links:start --> Reader links: Working edition · Desk Reader <!-- bookself-reader-links:end --> | [Read →](https://svyable.github.io/desk/reader/#/b/chiptastrophy/) |
 | [**Chokepoint**](books/chokepoint/) | ✍️ Drafting | 20 of 20 | 36,487 | The working thesis is that the twenty-first century is being rebuilt around a short list of elements — copper, lithium, cobalt, nickel, and the seventeen rare earths — the way the… | [Read →](https://svyable.github.io/desk/reader/#/b/chokepoint/) |
 | [**Commit**](books/commit/) | ✅ Complete expanded draft · publication candidate | 22 of 22 + 4 interludes | 67,327 | The working thesis is that Git became dominant because it made a few unusually durable bets: content should have identity independent of location, history should be a graph rather than a… | [Read →](https://svyable.github.io/desk/reader/#/b/commit/) |
+| [**Da Vinci Process**](books/da-vinci-process/) | ✅ Complete first draft · editorial review pending | 18 of 18 | 66,254 | Its central wager is that the next renaissance will not be measured by the quantity of automated output. | [Read →](https://svyable.github.io/desk/reader/#/b/da-vinci-process/) |
+| [**Data Talent & Leverage**](books/data-talent-leverage/) | ✍️ Drafting | 1 of 20 | 4,243 | The working thesis is that none of the three is sufficient alone. Data without judgment becomes a warehouse. Talent without leverage becomes expensive craftsmanship. Leverage without good information… | [Read →](https://svyable.github.io/desk/reader/#/b/data-talent-leverage/) |
 | [**Deceptatron**](books/deceptatron/) | ✅ Complete first draft | 20 of 20 | 67,283 | This book calls the resulting system a Deceptatron: not a single supercomputer and not a science-fiction mind-control ray, but a closed-loop persuasion stack that can observe a person… | [Read →](https://svyable.github.io/desk/reader/#/b/deceptatron/) |
 | [**DemocrAIcy**](books/democraicy/) | ✍️ Drafting | 11 of 11 | 2,596 | The working thesis is not government by artificial intelligence. It is a democracy in which humans remain sovereign while increasingly governing through, alongside, and against artificial… | [Read →](https://svyable.github.io/desk/reader/#/b/democraicy/) |
 | [**Energy, Value & Intelligence**](books/energy-value-intelligence/) | ✍️ Drafting | 22 of 22 | 74,545 | <!-- bookself-reader-links:start --> Reader links: Working edition · Desk Reader · Published edition · Shelf Reader <!-- bookself-reader-links:end --> | [Read →](https://svyable.github.io/desk/reader/#/b/energy-value-intelligence/) |
