@@ -86,7 +86,7 @@ This is not hypothetical in the banal sense that anyone who has reviewed machine
 
 Masters will need to become better diagnosticians.
 
-A good workshop will not ask only, "Is this output correct?" It will ask, "What did the person learn by producing it? What did the agent do? Where did judgment enter? Can the human detect a subtle failure without the model announcing it? If the agent disappeared tomorrow, which parts of the task would still be understood?"
+A good workshop asks more than whether the output is correct. It tracks what the person learned in producing it, what the agent contributed, where judgment entered, whether the human can detect a subtle failure without being told, and which parts of the task would still be understood if the agent disappeared tomorrow.
 
 Those questions sound educational, but they are operational.
 
@@ -216,7 +216,7 @@ Real work is accessible enough that learning has consequence. This is what we sh
 
 We are about to have more apprentices than any civilization has ever known. There is a practical implication for companies beginning to build agentic systems now. Do not start by counting agents. Count feedback paths.
 
-How quickly can a wrong assumption be corrected? How quickly can a useful discovery reach another worker? Can a junior person see why a senior changed the output? Can the agent surface a precedent at the exact moment it matters?
+The useful measures are latency measures: the time from a wrong assumption to correction, from a useful discovery to another worker, from a senior edit to junior understanding, and from an old precedent to the moment it becomes relevant again.
 
 Can a human interrupt before the mistake leaves the workshop? These are more important questions than whether the organization has deployed ten assistants or ten thousand. The historical bottega was powerful because the social distance between work, learner, and standard was short. Industrial bureaucracy often stretched that distance.
 
