@@ -1,0 +1,11 @@
+# A Red Line in White Country
+
+Griffith Taylor reached the valley during the British Antarctic expedition of 1910–1913 and encountered a glacier whose terminus carried a stain so red that later generations would call it Blood Falls. The name survives because the visual is almost offensively simple. White ice. Red discharge. A landscape that appears lifeless producing something that looks biological.
+
+Taylor did not have to solve it for the object to become scientifically useful. A good anomaly begins as a stubborn mismatch between what the landscape seems to be and what an observation insists upon. The McMurdo Dry Valleys are among the coldest, driest environments on Earth. Their apparent sterility made them useful first as geological extremes and later as planetary analogues. Yet the valley contains sealed lakes, hypersaline pockets, microbial mats, buried water, chemical gradients and histories of marine intrusion that complicate the easy adjective barren.
+
+The stain is episodic rather than a permanent waterfall. That matters. A continuous stream would suggest one kind of plumbing; a pressurized brine that escapes intermittently suggests another. What appears on the surface is a terminal event in a buried system. The scientific problem is therefore not simply why the ice is red. It is where the liquid came from, how it remains liquid, what lives in it, what reactions occur before and after discharge, and how far the hidden system extends.
+
+Blood Falls also presents a recurring trap in frontier science: the visible anomaly attracts explanations at the wrong scale. Redness is dramatic, so people ask what makes it red. But redness is only the easiest variable to see. The more consequential facts are invisible: salt concentration, iron speciation, isotopes, microbial genes, hydraulic pressure, subsurface connectivity, and time.
+
+That shift—from spectacle to system—is the organizing move of this book. The fall itself is evidence of a reservoir. The reservoir is evidence of a history. The chemistry is evidence of reactions. The microbes are evidence that some of those reactions can support metabolism. None of those sentences, however, licenses the next one automatically. The discipline lies in not letting a red stain do more epistemic work than a red stain can do.
