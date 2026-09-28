@@ -12,11 +12,11 @@ Frederic Lord's early ETS work on test theory provides the historical spine. His
 
 Samuel Livingston's 2020 ETS introduction to IRT is particularly useful because it states the practical design implication cleanly. A pass/fail test should concentrate information near its cut point. A test intended to distinguish people across a wide ability range needs informative items spread across that range. There is no requirement that every test separate the best performers indefinitely.
 
-That is the counterweight Chapter 2 needs. A ceiling effect is a defect **relative to the decision being made**. If the only decision is whether a minimum competence threshold has been crossed, a test can remain useful after high performers bunch at the top. If the decision is which frontier system is better, the same ceiling can destroy the ranking information buyers and researchers want.
+That is the counterweight Chapter 2 needs. Adaptive-testing practice supplies the operational extension: when the goal is precise measurement across a wide range, later items can be selected to be informative near the test taker's estimated ability rather than spending fixed questions where little uncertainty remains. A ceiling effect is a defect **relative to the decision being made**. If the only decision is whether a minimum competence threshold has been crossed, a test can remain useful after high performers bunch at the top. If the decision is which frontier system is better, the same ceiling can destroy the ranking information buyers and researchers want.
 
 The 2022 *Nature Communications* benchmark study gives the AI-scale context. Ott et al. curated 3,765 benchmarks across computer vision and NLP and found that a large fraction quickly trended toward near-saturation. The authors explicitly warn that near-saturated benchmarks can continue to be used while becoming misleading because real capability progress is no longer reflected well and small remaining differences are harder to establish statistically.
 
-A 2026 preprint, *When AI Benchmarks Plateau*, analyzes 60 LLM benchmarks selected from major developer technical reports and reports that nearly half met its saturation definition, with saturation more common as benchmarks aged. Treat this as current preprint evidence, not a settled population estimate.
+A 2026 study, *When AI Benchmarks Plateau*, analyzes 60 LLM benchmarks selected from major developer technical reports and reports that nearly half met its saturation definition, with saturation more common as benchmarks aged. Treat the 60-benchmark sample as current evidence about developer-used evaluations, not a population estimate for all AI measurement.
 
 OpenAI's GPT-5 system card adds an uncertainty control useful for the final third of the chapter: the authors warn that their bootstrap confidence intervals can be too tight on very small evaluation sets, particularly when per-problem success rates lie near zero or one. This is a reminder that a visually precise leaderboard difference near a ceiling can combine instrument-range loss with ordinary sampling uncertainty.
 
@@ -68,7 +68,7 @@ Education supplies an important real-world pair of cases.
 
 Glewwe, Ilias, and Kremer's randomized teacher-incentive study in Kenya found gains concentrated on exams linked to the reward system, not unrelated exams. Teacher attendance and homework assignment did not improve, while test-preparation sessions increased. That is a strong example of rational effort moving toward the measured target without requiring fraud.
 
-Victor Lavy's 2009 *American Economic Review* study in Israel is necessary counterevidence. Teacher performance pay improved exam participation, pass rates, and scores through changes including teaching methods, after-school teaching, and responsiveness to student needs, and the paper found no evidence of score manipulation. Metrics under pressure do not mechanically become corrupt. Incentives can improve the underlying process when the measure and objective are sufficiently aligned.
+Uri Gneezy and colleagues' 2019 *American Economic Review: Insights* experiment adds a different mechanism: incentives changed U.S. students' performance on low-stakes tests, suggesting observed scores can change because test-taking effort changes even without new underlying knowledge. Victor Lavy's 2009 *American Economic Review* study in Israel is necessary counterevidence. Teacher performance pay improved exam participation, pass rates, and scores through changes including teaching methods, after-school teaching, and responsiveness to student needs, and the paper found no evidence of score manipulation. Metrics under pressure do not mechanically become corrupt. Incentives can improve the underlying process when the measure and objective are sufficiently aligned.
 
 The 2022 *Nature Communications* benchmark-saturation paper gives the direct AI connection: benchmarks do not merely observe AI progress; they steer research by conferring recognition on state-of-the-art results. Near saturation can make remaining gains increasingly dependent on optimization for benchmark-specific characteristics that need not generalize.
 
@@ -90,6 +90,7 @@ Only after those distinctions are earned should Part II turn to contamination, o
 
 - Frederic M. Lord, *A Theory of Test Scores and Their Relation to the Trait Measured* (ETS, 1951): https://www.ets.org/research/policy_research_reports/publications/report/1951/hnwb.html
 - Samuel A. Livingston, *Basic Concepts of Item Response Theory* (ETS, 2020): https://www.ets.org/Media/Research/pdf/RM-20-06.pdf
+- ETS, *Standards for Quality and Fairness* (current edition; adaptive testing definition): https://www.ets.org/pdfs/about/standards-quality-fairness.pdf
 - Simon Ott et al., *Mapping global dynamics of benchmark creation and saturation in artificial intelligence* (*Nature Communications*, 2022): https://www.nature.com/articles/s41467-022-34591-0
 - Mubashara Akhtar et al., *When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation* (preprint, 2026): https://arxiv.org/abs/2602.16763
 - OpenAI, GPT-5 System Card: https://deploymentsafety.openai.com/gpt-5
@@ -103,3 +104,4 @@ Only after those distinctions are earned should Part II turn to contamination, o
 - Avrim Blum and Moritz Hardt, *The Ladder: A Reliable Leaderboard for Machine Learning Competitions* (ICML 2015): https://proceedings.mlr.press/v37/blum15.html
 - Paul Glewwe, Nauman Ilias, and Michael Kremer, *Teacher Incentives* (*AEJ: Applied Economics*, 2010): https://doi.org/10.1257/app.2.3.205
 - Victor Lavy, *Performance Pay and Teachers' Effort, Productivity, and Grading Ethics* (*American Economic Review*, 2009): https://doi.org/10.1257/aer.99.5.1979
+- Uri Gneezy et al., *Measuring Success in Education: The Role of Effort on the Test Itself* (*American Economic Review: Insights*, 2019): https://doi.org/10.1257/aeri.20180633
