@@ -62,7 +62,9 @@ The current generation has shortened it.
 
 There is a danger in overreading that acceleration. Faster saturation can mean capability is rising. It can also reflect small item pools, homogeneous task formats, public exposure, or a ceiling defined by the benchmark rather than the domain. A short-lived test is not automatically evidence of a runaway technology. It may be evidence that the test designer underestimated the range.
 
-A 2026 preprint led by Mubashara Akhtar examined sixty language-model benchmarks that appeared in technical reports from major model developers. Under the authors' saturation criteria, nearly half were classified as saturated, and older benchmarks were more likely to have reached that condition. It is a preprint, not a final census of all evaluation, and its definitions matter. But the result fits the broader historical record: benchmark retirement is not an edge case.
+A 2026 study led by Mubashara Akhtar examined sixty language-model benchmarks that appeared in technical reports from major model developers. Under the authors' saturation criteria, nearly half were classified as saturated, and older benchmarks were more likely to have reached that condition. Its definitions matter, and sixty developer-used benchmarks are not a census of AI evaluation. The useful move in the study is conceptual: saturation is not reserved for the moment every model reaches one hundred. A benchmark can lose discriminating power earlier, when differences among leading systems become small relative to the uncertainty in those differences.
+
+That is a more demanding standard than staring at the top score. A benchmark can have thirty percentage points of theoretical headroom left and still be poor at ranking the frontier if the surviving errors are noisy, idiosyncratic, or too sparse. Conversely, a test with a nominal maximum can remain useful below that maximum if its hard items continue to separate the systems being compared. The relevant question is information, not empty space on the axis.
 
 The measurement industry is being forced to refresh its rulers.
 
