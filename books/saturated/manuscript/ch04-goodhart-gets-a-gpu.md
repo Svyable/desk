@@ -64,11 +64,7 @@ Artificial intelligence accelerates that drift because optimization cycles are f
 
 Agent scaffolds can be tuned. A model can generate candidate prompts for itself. A judge model can grade the candidates. The loop between target and optimizer becomes partially automated.
 
-The mechanism is less dramatic than the phrase attached to it: the feedback loop has become faster. In older institutions, metrics might shape behavior over a school year, a budget cycle, or a central-bank policy regime. AI development can compress the same cycle into hours.
-
-Measure. Change. Measure again. Select.
-
-Repeat. Optimization pressure that once required a bureaucracy can become a script. The consequences depend heavily on what the script is optimizing. This is where the distinction between benchmark development and benchmark exploitation matters.
+The mechanism is less dramatic than the phrase attached to it: the feedback loop has become faster. In older institutions, metrics might shape behavior over a school year, a budget cycle, or a central-bank policy regime. AI development can compress the same cycle into hours: measure a system, change it, measure again, select the better result, and repeat. Optimization pressure that once required a bureaucracy can become a script. The consequences depend heavily on what the script is optimizing, which makes the distinction between benchmark development and benchmark exploitation consequential.
 
 Researchers often test against a development set while preserving a hidden final test set. Competitions limit submissions. Private evals rotate questions. Some benchmarks use held-out pools. Security evaluations generate fresh challenges. These are attempts to maintain a gap between improvement work and final measurement. Blum and Hardt's Ladder belongs to the same family of ideas. Do not let the score leak enough information to become a training signal. The principle becomes harder to enforce when the benchmark itself is public and prestigious. A developer cannot unsee MMLU. A research team cannot forget SWE-bench exists. The existence of the benchmark changes what people build even if nobody commits a single act that deserves the word cheating.
 
