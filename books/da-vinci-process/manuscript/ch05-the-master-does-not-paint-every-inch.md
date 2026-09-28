@@ -122,7 +122,7 @@ The agent may be excellent at making a contract clause sound conventional while 
 
 It may summarize ten sources accurately and still miss that all ten trace back to the same weak original claim.
 
-The bottleneck moves from production toward epistemology. What do we know? How do we know it? Who checked? What would make us revise the conclusion?
+The bottleneck moves from production toward epistemology: what is known, how it was established, who checked it, and what evidence would force a revision.
 
 Those questions are ancient. The number of artifacts that can now be produced before anyone asks them is not.
 
@@ -138,7 +138,7 @@ The more agents participate, the more dangerous this context loss becomes.
 
 A serious workshop records enough process that another capable person can understand why the work is shaped as it is.
 
-Not every token. Not a surveillance log of cognition. The relevant evidence. What source supports the claim? Which alternative was rejected? Which test failed?
+The record does not need every token or a surveillance log of cognition. It needs the evidence that bears on the decision: the source behind the claim, the alternative that was rejected, and the test that failed.
 
 What permission did the agent have? What changed after review? Who accepted the risk? These records are not administrative exhaust. They are the equivalent of visible underdrawing. They make authorship inspectable.
 
