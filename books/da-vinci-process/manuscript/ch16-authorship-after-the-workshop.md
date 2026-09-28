@@ -12,11 +12,7 @@ They are also honesty about production.
 
 Art history has spent generations trying to reconstruct who touched what because the name on the object changes meaning, value, interpretation, and price. A painting by Leonardo is not economically equivalent to a painting made by someone in his orbit, even if the images are superficially close.
 
-The obsession with the hand can look quaint in an era when digital work is infinitely reproducible. Then generative AI arrives and everyone becomes an attribution scholar. Who made this? How much?
-
-Which model? What was the prompt? Was it edited? Does the human deserve the byline?
-
-Did the machine copy someone else's style? Should the result be protected? Should it be disclosed? We are back in the workshop, except the apprentice is software and the traces are harder to see.
+The obsession with the hand can look quaint in an era when digital work is infinitely reproducible. Then generative AI makes attribution practical again: who made the thing, which model participated, what the human selected or edited, whether the machine contribution changes rights or disclosure obligations, and whether the byline still describes the work honestly. We are back in the workshop, except the apprentice is software and the traces are harder to see.
 
 The legal answers vary by jurisdiction and are changing. This chapter is not an attempt to settle copyright doctrine.
 
@@ -34,19 +30,9 @@ The person with the first idea is not automatically the author of every result d
 
 But control can be superficial. A person can click "accept" on machine output without understanding it. Technically the human had final authority. Practically the human contributed little.
 
-The next answer is responsibility. Now we have something. The author is the person who can answer for the work. Not only legally.
+Responsibility gets closer. An author should be able to answer for the work intellectually as well as legally: why a claim appears, why a source was trusted, why this structure won, what alternatives were rejected, and what evidence would trigger revision. If the person cannot do that because the machine did the thinking and the result was never inspected, the byline becomes thin.
 
-Intellectually. Why is this claim here? Why was this source trusted? Why did this structure win?
-
-What was rejected? What would cause you to revise it? What do you mean by this sentence?
-
-If the person cannot answer because the machine did the thinking and the person never inspected it, the byline becomes weak.
-
-Responsibility alone is still insufficient. A corporate executive can be responsible for a document without being its author. Add intention. The author sets the work's purpose. Add selection.
-
-The author chooses among possibilities. Add integration. The author maintains coherence across contributions. Add revision.
-
-The author changes the work in response to evidence and judgment. Now authorship begins to look less like typing and more like a workshop role. This is not a legal test. It is a craft standard.
+Responsibility alone is still insufficient; a corporate executive can be responsible for a document without being its author. Authorship thickens when the person also sets the purpose, selects among possibilities, integrates contributions into a coherent whole, and revises when evidence changes. At that point authorship looks less like typing and more like a workshop role. This is not a legal test. It is a craft standard.
 
 A person can satisfy it while using enormous machine assistance. A person can fail it while personally typing every word. This second fact is important. Human execution does not guarantee authorship in the meaningful sense.
 
