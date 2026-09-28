@@ -10,7 +10,7 @@
 |---|---|
 | **Authors** | Sven Hardy Benson |
 | **Status** | Drafting |
-| **Chapters** | 1 complete of 20 planned |
+| **Chapters** | 4 complete of 20 planned |
 | **Method** | Narrative physics + primary-source reconstruction + falsification ledger |
 
 Every modern computer performs the same magic trick.
@@ -50,9 +50,9 @@ The wager of **Bytes vs Bosons** is that the argument becomes more interesting, 
 ### Part I — The Medium Disappears
 
 - [x] [Chapter 1 — The Heat of Forgetting](manuscript/ch01-the-heat-of-forgetting.md)
-- [ ] Chapter 2 — Shannon Escapes the Wire
-- [ ] Chapter 3 — Maxwell Hires an Accountant
-- [ ] Chapter 4 — A Bit Is Not a Thing
+- [x] [Chapter 2 — Shannon Escapes the Wire](manuscript/ch02-shannon-escapes-the-wire.md)
+- [x] [Chapter 3 — Maxwell Hires an Accountant](manuscript/ch03-maxwell-hires-an-accountant.md)
+- [x] [Chapter 4 — A Bit Is Not a Thing](manuscript/ch04-a-bit-is-not-a-thing.md)
 
 ### Part II — Physics Starts Keeping Score
 
@@ -135,7 +135,8 @@ The title’s “bosons” are a narrative device, not a claim that bosons are s
 
 - [Working book state](research/book-state.md)
 - [Evidence ledger and source trail](research/evidence-ledger.md)
+- [Part I evidence note](research/part-i-evidence.md)
 
 ## Current draft status
 
-The project contains a substantive opening chapter and a complete twenty-chapter architecture. It is an early Desk draft, not a publication candidate. The next drafting pass should complete Part I before expanding the black-hole sequence, because the book needs the distinction between Shannon information, thermodynamic entropy and physical state nailed down before it is allowed anywhere near quantum gravity.
+Part I is now complete at roughly 10,000 manuscript words across four chapters. The conceptual foundation is locked around four distinctions: Shannon information is not meaning; logical state is not physical substrate; information thermodynamics charges specific irreversible operations rather than every act of computation; and Shannon entropy is not interchangeable with thermodynamic entropy without an explicit bridge. The project remains an early Desk draft, not a publication candidate. The next drafting pass moves methodically into black-hole thermodynamics: Bekenstein first, Hawking second, and the information problem only after the entropy/temperature machinery is clear.
