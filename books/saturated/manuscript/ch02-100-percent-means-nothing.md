@@ -68,4 +68,4 @@ The regulator wants evidence about a risk threshold. The investor wants a proxy 
 
 No psychometric theory promises that it can. Lord's old problem returns in modern form. The score depends on the items. The items determine where the test has information. The test's information matters only in relation to a decision someone intends to make. Artificial intelligence makes this feel new because the capability frontier is moving quickly and the numbers are public. The underlying discipline is older and less glamorous. Before interpreting a score, find out where the instrument can still see.
 
-The top of the scale is a property of the test. It is not the edge of the world.
+A perfect score therefore establishes that the test has no harder item left to offer. It does not establish that the domain has no harder problem.
