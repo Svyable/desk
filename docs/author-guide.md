@@ -68,14 +68,19 @@ Scroll to the bottom of the edit page, to **Commit changes**.
 1. In the first box, write a short note in plain language:
    `Fix the river image caption in chapter 2`.
 2. Choose how to save:
-   - **Commit directly to the `main` branch** — use this only if you are a
-     named author of this book (see the book's README).
-   - **Create a new branch for this commit and start a pull request** — use
-     this otherwise. It is the "propose changes" path.
+   - **Commit directly to the `main` branch** — use this for routine,
+     reversible Desk work when you are the repository owner, a named author of
+     the book, or otherwise explicitly authorized to make the change.
+   - **Create a new branch for this commit and start a pull request** — use this
+     when you are proposing someone else's change, work may overlap, or the edit
+     is broad, risky, cross-book, tooling-related, or publication/release
+     sensitive.
 3. Click **Commit changes** (or **Propose changes**).
 
 A commit is a saved version with a note. It is not publication. It is a dated
-save point on the Desk.
+save point on the Desk, so ordinary work does not need to wait for every
+finish-line check before it can be saved. Run the checks appropriate to the
+state you are actually calling complete.
 
 ## 5. Ticking checkboxes in the table of contents
 

@@ -46,3 +46,12 @@ This is a schema/integrity migration, not a factual deletion. The broader suppor
 1. Run the literal full-book length checker on the frozen candidate and require a pass.
 2. Regenerate/reconcile the root Desk dashboard and run the literal full Desk integrity checker on that same frozen candidate.
 3. If both pass and no newer blocker appears, create the matched Desk/Shelf release pair naming the same frozen Desk source commit.
+
+
+## Mechanical recheck — September 27, 2026
+
+Frozen Desk base: `b680e777106560895fb4f8973c6005c0a1282306`.
+
+A fresh chapter-by-chapter replay of the repository length rule found **25 numbered chapters and 66,930 chapter-only words**. The total-word threshold is satisfied, but **all 25 chapters are below the 3,000-word per-chapter floor**. The aggregate minimum substantive expansion required merely to lift every chapter to 3,000 words is **8,070 words**.
+
+This means the title remains **substantively release-cleared but mechanically blocked**. Do not create a Shelf release from this source. The next authoring pass should deepen the short chapters with additional primary-source scenes, runner-up comparisons, causal counterevidence, institutional afterlife, or other book-specific material rather than padding. After that work lands, run the literal repository checker on one frozen source and require a clean result before the matched Desk/Shelf transaction.

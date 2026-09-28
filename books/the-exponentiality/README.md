@@ -1,7 +1,7 @@
 # The Exponentiality
 
 <!-- bookself-reader-links:start -->
-**Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/the-exponentiality/) · [Published edition · Shelf Reader](https://svyable.github.io/shelf/reader/#/b/the-exponentiality/)
+**Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/the-exponentiality/)
 <!-- bookself-reader-links:end -->
 
 | | |

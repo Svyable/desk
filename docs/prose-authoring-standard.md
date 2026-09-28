@@ -131,6 +131,72 @@ Prefer exactness over elevated diction. `Transformative`, `powerful`, `profound`
 
 A useful test is transplantability: if a sentence can move unchanged into a book about AI, leadership, health, investing, education, or spirituality, it probably needs more of this book's material in it.
 
+## Anti-slop fundamentals
+
+These rules apply during drafting as well as revision. They target recurring
+model habits that can make accurate prose sound prefabricated. Do not preserve
+one merely because the sentence is grammatical or superficially punchy.
+
+Avoid these defaults:
+
+- **Binary contrasts.** Do not build paragraphs from repeated `It's not X. It's
+  Y.` or equivalent `not X but Y` pivots. Use a contrast only when the
+  distinction itself carries information; otherwise state the positive claim
+  directly and explain the mechanism or evidence.
+- **Throat-clearing openers.** Cut setups such as `Here's the thing`, `Let me be
+  clear`, `The truth is`, or similar stage directions when the next sentence can
+  simply make the point.
+- **Faux-insight setups.** Avoid `What nobody tells you`, `The part everyone
+  misses`, `What people don't understand`, and related claims of privileged
+  insight unless the prose can name who missed what and on what evidence.
+- **Colon reveals.** Do not use a colon merely to manufacture a reveal or mini
+  drumroll, as in `The best part: it learns.` Use a colon when the grammar and
+  information structure actually call for one.
+- **Dramatic fragments.** Avoid clipped emphasis such as `That's it. That's the
+  whole thing.` or strings of sentence fragments whose only job is to sound
+  decisive. A fragment should belong to the established voice and change the
+  pace for a reason.
+- **Superficial analysis.** Delete commentary such as `highlighting the team's
+  commitment to innovation` when it only labels an event with a generic virtue.
+  Name the decision, tradeoff, result, or evidence that supports the analysis.
+- **Importance puffery.** Cut phrases such as `marks a pivotal moment`, `a
+  testament to`, `underscores the significance of`, or similar importance claims
+  unless the consequence is made concrete in the same passage.
+- **Weasel attribution.** Do not write `experts agree`, `studies show`,
+  `observers say`, or equivalent anonymous consensus claims. Name the source,
+  study, institution, population, date, or disagreement that actually supports
+  the sentence.
+- **Synonym cycling.** Do not rename the same person, system, or concept merely
+  to avoid repeating a noun, as in `The agent handles your email. The assistant
+  drafts replies.` Keep terminology stable when the referent is stable; vary it
+  only when the distinction is real.
+- **Fake-profound endings.** Do not close with slogans such as `The future isn't
+  coming. It's already here.` End on a consequence, unresolved tension, concrete
+  return, changed fact, or earned judgment instead of synthetic inevitability.
+
+Apply four fundamentals before polishing for voice:
+
+1. **Lead with the point when that helps the reader.** Put the claim, action, or
+   consequential fact early when suspense, chronology, or necessary setup does
+   not justify delay. Do not bury a simple point under scene-setting or caveats.
+2. **Prefer active voice.** Name who or what acts when the actor matters. Use
+   passive voice deliberately when the actor is unknown, irrelevant, or the
+   object of the action is genuinely the focus.
+3. **Untangle hard-to-follow sentences.** Preserve complexity of thought, not
+   complexity of syntax. Split, reorder, or recast sentences whose clauses,
+   pronouns, chronology, or qualifications force rereading to recover the basic
+   relationship.
+4. **Prefer concrete details over abstractions.** Give the reader the person,
+   institution, document, number, date, mechanism, decision, constraint, or
+   consequence that makes the abstract claim true. Abstraction should compress
+   evidence already on the page, not replace it.
+
+These are editing diagnostics, not prompts for mechanical opposite behavior.
+Do not force every sentence into active voice, every paragraph to begin with its
+conclusion, or every idea into a concrete anecdote. The test is whether the prose
+becomes clearer, more specific, more truthful, and more recognizably part of this
+book.
+
 ## Refuse prefab narrative tropes
 
 Do not let a familiar story shape choose the evidence.
