@@ -1,0 +1,13 @@
+# Chapter 1 — October 1966
+
+On October 1, 1966, the State Council of the Socialist Republic of Romania issued Decree 770. Its first substantive sentence was brutally efficient: termination of pregnancy was prohibited. The decree then listed exceptions—danger to the woman's life, severe hereditary disease, grave disability, age over forty-five, four children already in care, rape or incest—and placed authorized abortions inside specialist medical units and commissions.
+
+The language matters because the later mythology can make the policy look simultaneously simpler and more omnipotent than it was. It was not a one-line command that automatically controlled every pregnancy. It was a legal architecture. Article 5 required authorization by a medical commission. Article 6 required a doctor performing an emergency termination to notify the prosecutor in writing before the intervention or, when impossible, within twenty-four hours. Article 7 made abortions outside the decree's conditions criminal.
+
+That prosecutor clause is the hinge of this book. It shows how quickly a demographic objective entered clinical judgment. A physician deciding whether a pregnancy endangered a patient was no longer operating only inside medicine. The decision had a second audience. The state wanted to know whether the exception was real.
+
+Romania's policy would later expand beyond the original decree into tighter eligibility, restrictions on contraception, monitoring, workplace and medical pressure, and a political culture in which fertility became a state performance indicator. But the essential structure is already visible in 1966: prohibition, narrow exception, administrative authorization, criminal sanction, and mandatory reporting.
+
+The policy worked immediately in one sense. Births surged. The birth cohort of 1967 became famously large. That first success helped create the central illusion of coercive pronatalism: that a government had found a lever connected directly to population. Yet fertility is not a factory output. Families learn. Networks adapt. Doctors improvise or resist. Illegal markets emerge. Risks move from public institutions into private rooms.
+
+The history of Decree 770 is therefore not a story about whether law can affect birth rates. It plainly can. It is about what must happen next when a government mistakes the first-year effect of coercion for a sustainable demographic system.
