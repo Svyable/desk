@@ -104,7 +104,7 @@ Useful for Melzi joining Leonardo's Milanese workshop around 1508, following him
 https://www.nber.org/papers/w31161  
 https://www.gsb.stanford.edu/faculty-research/publications/generative-ai-work
 
-Study population: customer-support agents. The published Stanford summary reports a roughly 15 percent average productivity increase, with larger gains among less experienced and lower-skilled workers and smaller gains among the most experienced. The authors find evidence consistent with AI helping disseminate patterns associated with stronger workers. This is highly relevant to apprenticeship and knowledge diffusion, but it is not a universal estimate for knowledge work.
+Study population: 5,179 customer-support agents. The NBER working paper reports a 14 percent average productivity increase and a 34 percent improvement for novice and low-skilled workers, with minimal impact on experienced and highly skilled workers. The authors describe the evidence for learning and best-practice diffusion as suggestive. This is highly relevant to apprenticeship and knowledge diffusion, but it is not a universal estimate for knowledge work.
 
 **Dell'Acqua et al. — Navigating the Jagged Technological Frontier**  
 https://aiinstitute.hbs.edu/navigating-the-jagged-technological-frontier/
@@ -180,7 +180,7 @@ Randomized field experiment with more than 6,000 middle-school students. Useful 
 **Cui et al. — The Effects of Generative AI on High-Skilled Work: Evidence from Three Field Experiments with Software Developers (2025)**  
 https://www.microsoft.com/en-us/research/publication/the-effects-of-generative-ai-on-high-skilled-work-evidence-from-three-field-experiments-with-software-developers/
 
-Randomized field experiments across Microsoft, Accenture, and another Fortune 100 company, covering 4,867 developers. The combined estimate reports higher completed-task rates with an AI coding assistant, with higher adoption and larger gains among less experienced developers. Useful for the apprenticeship/productivity tension.
+Randomized field experiments across Microsoft, Accenture, and another Fortune 100 company, covering 4,867 developers. The combined estimate reports a 26.08 percent increase in completed tasks (SE 10.3 percent) among developers with the AI coding assistant, with higher adoption and larger gains among less experienced developers. Useful for the apprenticeship/productivity tension.
 
 **U.S. Copyright Office — Copyright and Artificial Intelligence, Part 2: Copyrightability (January 2025)**  
 https://www.copyright.gov/ai/
@@ -191,7 +191,7 @@ Current U.S. Copyright Office position used in the authorship chapter: AI assist
 https://hai.stanford.edu/ai-index/2026-ai-index-report/technical-performance  
 https://hai.stanford.edu/ai-index/2026-ai-index-report/economy
 
-Current capability and labor-market constraint. The report documents sharp gains in agentic computer-use benchmarks while agents still fail a substantial share of structured tasks. The economy chapter reports uneven labor-market effects and early pressure in some younger-worker pipelines. Use cautiously: these observations do not establish a single causal story for employment changes.
+Current capability and labor-market constraint. The technical chapter reports OSWorld agent accuracy rising from roughly 12 percent to 66.3 percent while agents still fail roughly one in three attempts on structured benchmarks. The economy chapter reports that U.S. employment for software developers ages 22–25 fell nearly 20 percent from 2024, while emphasizing uneven labor-market effects. Use cautiously: those labor observations do not establish a single causal story for employment changes.
 
 **Dell'Acqua et al. / HBS AI Institute — The Cybernetic Teammate**  
 https://aiinstitute.hbs.edu/the-cybernetic-teammate-how-ai-is-reshaping-collaboration-and-expertise-in-the-workplace/
@@ -201,4 +201,4 @@ Large field experiment at Procter & Gamble on AI, teamwork, expertise, and produ
 **Anthropic Economic Index — Cadences (June 2026)**  
 https://www.anthropic.com/research/economic-index-june-2026-report
 
-Vendor telemetry showing a shift from short chat interactions toward longer-running agentic work in Claude Code and Cowork. Useful only as evidence about Anthropic's product population and interaction patterns, not as a census of the economy.
+Vendor telemetry reporting a shift from short chat interactions toward longer-running agentic work, especially around Claude Code and Cowork. Anthropic explicitly notes that its survey is not representative of the general population. Use this only as evidence about Anthropic's product population and interaction patterns, not as a census of the economy.
