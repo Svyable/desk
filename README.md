@@ -13,8 +13,8 @@ Desk is the working library for Sven Hardy Benson’s books: drafts, complete ma
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
-> **Shelf: 59 author projects · 57 released · 2 public drafts/proofs**
-> **Where they live: 59 in both Desk + Shelf · 79 Desk-only · 0 Shelf-only**
+> **Shelf: 57 author projects · 57 released · 0 public drafts/proofs**
+> **Where they live: 57 in both Desk + Shelf · 81 Desk-only · 0 Shelf-only**
 > **Release review queue: 13 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
@@ -27,8 +27,6 @@ Desk is the working library for Sven Hardy Benson’s books: drafts, complete ma
 | [**Artificial Identity**](books/artificial-identity/) | ✍️ Drafting | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/artificial-identity/) |
 | [**Austerity Measures**](books/austerity-measures/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/austerity-measures/) |
 | [**Commit**](books/commit/) | ✅ Complete expanded draft · publication candidate | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/commit/) |
-| [**Da Vinci Process**](books/da-vinci-process/) | ✅ Complete first draft · editorial review pending | 18 of 18 | 66,254 | Its central wager is that the next renaissance will not be measured by the quantity of automated output. | [Read →](https://svyable.github.io/desk/reader/#/b/da-vinci-process/) |
-| [**Data Talent & Leverage**](books/data-talent-leverage/) | ✍️ Drafting | 1 of 20 | 4,243 | The working thesis is that none of the three is sufficient alone. Data without judgment becomes a warehouse. Talent without leverage becomes expensive craftsmanship. Leverage without good information… | [Read →](https://svyable.github.io/desk/reader/#/b/data-talent-leverage/) |
 | [**Deceptatron**](books/deceptatron/) | ✅ Complete first draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/deceptatron/) |
 | [**Energy, Value & Intelligence**](books/energy-value-intelligence/) | ✍️ Drafting | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/energy-value-intelligence/) |
 | [**Face The Strange**](books/face-the-strange/) | ✅ Complete draft · Published on Shelf | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/face-the-strange/) |
