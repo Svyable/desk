@@ -28,37 +28,19 @@ The system did not turn a novice into an experienced worker. It allowed the novi
 
 If a new employee can borrow the surface behavior of experience, an organization can improve service immediately. The worker may also learn. The researchers found evidence consistent with learning and with the AI disseminating patterns associated with stronger workers. This is one of the most encouraging findings in the early economics of generative AI because it points beyond substitution. The machine can become a channel through which practical knowledge moves.
 
-But the channel can work two ways.
-
-It can carry knowledge into the worker.
-
-Or it can carry the worker around the knowledge.
-
-Those two outcomes can look identical on this afternoon's dashboard.
+But the channel can work two ways. It can carry knowledge into the worker. Or it can carry the worker around the knowledge. Those two outcomes can look identical on this afternoon's dashboard.
 
 Suppose a junior analyst receives an assignment to evaluate a company. Without an agent, she has to decide where to start, which filings matter, how to reconcile conflicting definitions, what to do when the reported segment structure changes, and whether management's preferred metric deserves to be trusted. She will waste time. Some of the waste is merely waste. Some of it is where she discovers the shape of the problem.
 
 Give her a capable research agent and the first hour changes. The filings are collected. Tables are extracted. Competitors appear. A chronology forms. The model proposes questions. Suddenly the junior analyst is standing where an experienced analyst might have reached after a morning.
 
-That can be wonderful.
-
-It can also be cognitively fraudulent if the worker cannot tell which staircase she skipped.
-
-The skill of using agents well will depend partly on knowing the shape of the missing experience.
+That can be wonderful. It can also be cognitively fraudulent if the worker cannot tell which staircase she skipped. The skill of using agents well will depend partly on knowing the shape of the missing experience.
 
 This is why I dislike the phrase "AI literacy" when it is used to mean familiarity with features. Literacy is too weak a word for the problem. The professional needs a theory of delegated cognition.
 
-What did I ask the system to know for me?
+What did I ask the system to know for me? What did I ask it to notice for me? What did I ask it to decide for me? Which of those decisions am I still capable of reconstructing?
 
-What did I ask it to notice for me?
-
-What did I ask it to decide for me?
-
-Which of those decisions am I still capable of reconstructing?
-
-Where did I lose contact with the work?
-
-These are not moral questions. They are design questions.
+Where did I lose contact with the work? These are not moral questions. They are design questions.
 
 A Renaissance master did not need every apprentice to rediscover the chemistry of every pigment independently. The point of a workshop was to prevent civilization from restarting at zero every generation. Knowledge should transfer. Technique should compress experience. The apprentice should benefit from the dead and the living.
 
@@ -82,17 +64,9 @@ It is a generator of training situations.
 
 That is one of the most underdeveloped possibilities in human-agent work. We are so excited by answers that we underuse artificial intelligence as a producer of deliberate difficulty.
 
-A chess player improves by facing positions.
+A chess player improves by facing positions. A doctor improves by cases. A lawyer improves by fact patterns. A security engineer improves by attacks.
 
-A doctor improves by cases.
-
-A lawyer improves by fact patterns.
-
-A security engineer improves by attacks.
-
-A writer improves by sentences that almost work.
-
-A manager improves by decisions whose consequences arrive later.
+A writer improves by sentences that almost work. A manager improves by decisions whose consequences arrive later.
 
 Agents can manufacture variations of these situations at a scale no human mentor could supply, then adapt them to the learner's weakness. The old workshop had one canvas and a handful of people. The new workshop can generate rehearsal worlds.
 
@@ -108,29 +82,13 @@ The more capable they become, the more important it will be to decide where assi
 
 This is where workshop architecture becomes practical. A master can set a "first-touch rule": on certain tasks, the human must frame the problem before the agent sees it. In another class of tasks, the agent goes first because broad search is the bottleneck. In another, human and agent produce independent answers before comparison. In another, the agent is used only after the human commits to a hypothesis. In another, the human never performs the low-level work because preserving that skill has little value.
 
-Different tasks deserve different learning arrangements.
-
-The mistake is treating convenience as the default.
-
-Convenience has no theory of what the person is becoming.
-
-A good apprenticeship does.
+Different tasks deserve different learning arrangements. The mistake is treating convenience as the default. Convenience has no theory of what the person is becoming. A good apprenticeship does.
 
 This also complicates the usual debate about whether AI will "deskilling" or "upskill" workers. Both can happen inside the same occupation. A tool can remove one skill while increasing the value of another. It can make drafting easier and editing harder. It can make retrieval trivial and source evaluation more important. It can make syntax cheap and architecture expensive. It can make a first answer abundant and a good question scarce.
 
-The question is not whether a job becomes more or less skilled in some aggregate sense.
+The question is not whether a job becomes more or less skilled in some aggregate sense. The question is which muscles atrophy and which are forced to grow. That is why the workshop needs an anatomy of the work. Before delegating heavily, separate at least three layers.
 
-The question is which muscles atrophy and which are forced to grow.
-
-That is why the workshop needs an anatomy of the work.
-
-Before delegating heavily, separate at least three layers.
-
-There is production: making the artifact.
-
-There is diagnosis: seeing what is wrong with the artifact.
-
-There is direction: deciding what artifact should exist.
+There is production: making the artifact. There is diagnosis: seeing what is wrong with the artifact. There is direction: deciding what artifact should exist.
 
 Agents can help at all three. But removing the human from production before diagnosis is developed can be dangerous because diagnosis is often trained through production. And removing the human from diagnosis while leaving responsibility behind is worse.
 
@@ -138,15 +96,7 @@ The order matters.
 
 Traditional apprenticeship understood this intuitively. One learned enough production to become a credible judge. A master who could no longer physically execute every operation still knew what good execution looked like because he had lived through it.
 
-Modern organizations are about to create managers of machine work who have never done the underlying work themselves.
-
-Some will be excellent.
-
-Others will be unable to distinguish a surprising insight from a polished hallucination.
-
-The labor market may reward them identically for a while.
-
-That gap will become a source of spectacular failures.
+Modern organizations are about to create managers of machine work who have never done the underlying work themselves. Some will be excellent. Others will be unable to distinguish a surprising insight from a polished hallucination. The labor market may reward them identically for a while. That gap will become a source of spectacular failures.
 
 Consider software. A young developer using an advanced coding agent can now build systems that would have required far more experience a few years ago. This is real leverage. It also means the developer can accumulate architectural decisions faster than he accumulates the scars that teach why certain decisions deserve suspicion. The application works. Users arrive. Dependencies multiply. Then the system hits a condition never represented in the happy-path conversation with the agent.
 
@@ -164,19 +114,9 @@ We need new ways to supply winters.
 
 Simulation will help. Red teams will help. Automated adversaries will help. Better tests will help. But there is also a cultural requirement: organizations must stop treating agent-generated speed as evidence that apprenticeship is complete.
 
-Fast work deserves more curiosity, not less.
+Fast work deserves more curiosity, not less. How did you know? What did you check? What would change your mind?
 
-How did you know?
-
-What did you check?
-
-What would change your mind?
-
-Where is the weak joint?
-
-What part of this system do you understand least?
-
-Those questions turn output back into learning.
+Where is the weak joint? What part of this system do you understand least? Those questions turn output back into learning.
 
 They also change the relationship between senior and junior workers. There is a plausible future in which the senior's main value is no longer supplying answers but constructing the conditions under which a junior and an agent can discover reliable answers together.
 
@@ -192,19 +132,11 @@ The next generation of master has to notice at machine speed.
 
 That means learning to inspect traces rather than just deliverables. If an agent presents a conclusion, the human may need the sources, the rejected alternatives, the test results, the uncertainty, and the chain of decisions. The work product must contain enough evidence to train judgment.
 
-Opaque excellence is useful in low-stakes tasks.
-
-In apprenticeship, opaque excellence is a nutritional deficiency.
-
-The learner needs to see the joints.
+Opaque excellence is useful in low-stakes tasks. In apprenticeship, opaque excellence is a nutritional deficiency. The learner needs to see the joints.
 
 This requirement may push agent systems toward a surprising design principle: the best assistant is not always the one that minimizes human effort. Sometimes the best assistant exposes the right amount of work.
 
-A good teacher does not solve every step.
-
-A good spotter does not lift the whole bar.
-
-A good workshop does not hide every correction.
+A good teacher does not solve every step. A good spotter does not lift the whole bar. A good workshop does not hide every correction.
 
 This is not an argument for artificial inefficiency. There is no virtue in making people manually transcribe data, reformat citations, or repeat clerical operations that teach nothing. The point is to identify the cognitive work that produces durable capability and protect it from accidental automation.
 
@@ -216,11 +148,7 @@ The workshop can personalize the boundary.
 
 That is another advantage over industrial education. The old apprenticeship was individualized because the master saw the apprentice work. AI can make that observation continuous, but only if the system is designed to remember errors, not just correct them.
 
-Imagine an agent that knows the kinds of mistakes you repeatedly make.
-
-Not your preferences for bullet points.
-
-Your mistakes.
+Imagine an agent that knows the kinds of mistakes you repeatedly make. Not your preferences for bullet points. Your mistakes.
 
 It notices that you accept causal explanations too quickly when the chart is clean. It knows that you underweight base rates. It knows you write around the hardest paragraph. It knows you fail to test timezone boundaries. It knows you are seduced by elegant architectures. It knows you stop researching once the argument feels coherent.
 
@@ -230,13 +158,7 @@ It could also become an extraordinary crutch.
 
 The difference would depend on whether it quietly compensates for the weakness or repeatedly turns the weakness back into a task the human must learn to perform.
 
-That is why "personalization" is too small a frame. What matters is formation.
-
-What kind of practitioner is this system forming?
-
-The Renaissance workshop had an answer embedded in its social structure: ideally, another master.
-
-Our systems need one too.
+That is why "personalization" is too small a frame. What matters is formation. What kind of practitioner is this system forming? The Renaissance workshop had an answer embedded in its social structure: ideally, another master. Our systems need one too.
 
 If the end state of human-agent collaboration is a person who can do less, judge less, remember less, and take responsibility for more, we will have built a very efficient failure machine.
 
@@ -254,19 +176,9 @@ Some of it is transfer.
 
 If an AI tutor always reformulates difficulty into the learner's preferred style, the learner may become highly competent inside an environment that bends toward him. The world will not.
 
-The customer will be unclear.
+The customer will be unclear. The regulator will write badly. The patient will describe symptoms out of order. The codebase will contain someone else's mental model.
 
-The regulator will write badly.
-
-The patient will describe symptoms out of order.
-
-The codebase will contain someone else's mental model.
-
-The opposing lawyer will not scaffold the argument.
-
-Expertise includes the ability to enter foreign structure.
-
-The apprentice has to adapt too.
+The opposing lawyer will not scaffold the argument. Expertise includes the ability to enter foreign structure. The apprentice has to adapt too.
 
 This complicates personalization. The ideal agent should know when to meet the learner and when to make the learner travel.
 
@@ -274,25 +186,11 @@ That is not a feature setting. It is a theory of formation.
 
 One recent field experiment makes the tension unusually concrete. In 2026, researchers studied more than six thousand middle-school students using a computer-assisted math platform. AI support did not simply make students move faster. Students with the AI progressed more slowly through questions but were more accurate on the attempts they reached, and after mistakes the AI helped them return to correct answers with fewer additional tries. The useful part was structured support around error, not effortless completion.
 
-That matters because the valuable intervention came after the learner had done something wrong.
-
-The mistake existed.
-
-The system had something to teach against.
-
-Remove the attempt and the signal disappears.
-
-This gives us a design principle for apprenticeship with agents: protect the diagnostic value of error.
+That matters because the valuable intervention came after the learner had done something wrong. The mistake existed. The system had something to teach against. Remove the attempt and the signal disappears. This gives us a design principle for apprenticeship with agents: protect the diagnostic value of error.
 
 Not every error. Nobody needs to misspell a command fifty times to become a professional. But the errors that reveal a model of the problem deserve to surface before they are silently corrected.
 
-A novice analyst who confuses revenue with cash flow has exposed a conceptual gap.
-
-A programmer who reaches for a global variable has exposed an architectural instinct.
-
-A writer who resolves uncertainty too quickly has exposed a narrative habit.
-
-A physician-in-training who anchors on the first diagnosis has exposed a reasoning pattern.
+A novice analyst who confuses revenue with cash flow has exposed a conceptual gap. A programmer who reaches for a global variable has exposed an architectural instinct. A writer who resolves uncertainty too quickly has exposed a narrative habit. A physician-in-training who anchors on the first diagnosis has exposed a reasoning pattern.
 
 If the agent corrects the artifact without making the pattern visible, output improves and the learner stays the same.
 
@@ -310,114 +208,36 @@ It also creates the risk of human overfitting.
 
 A person can become excellent at working with one assistant, one style of hint, one interface, one model's habits. Then the system changes.
 
-The next model asks different questions.
-
-The tool disappears.
-
-The organization moves to another provider.
-
-A crisis removes access.
-
-Suddenly the competence turns out to have been partly environmental.
+The next model asks different questions. The tool disappears. The organization moves to another provider. A crisis removes access. Suddenly the competence turns out to have been partly environmental.
 
 Civilization has always contained environmental competence. Nobody expects a modern accountant to operate without arithmetic tools, databases, tax software, and legal references. The goal is not self-sufficiency.
 
-The goal is knowing where capability lives.
+The goal is knowing where capability lives. Some skill is internal. Some lives in the tool. Some lives in the team.
 
-Some skill is internal.
+Some lives in the archive. A master understands the dependency. This suggests another apprenticeship test: tool removal should be occasional and purposeful. Can the person still frame the problem without the agent?
 
-Some lives in the tool.
-
-Some lives in the team.
-
-Some lives in the archive.
-
-A master understands the dependency.
-
-This suggests another apprenticeship test: tool removal should be occasional and purposeful.
-
-Can the person still frame the problem without the agent?
-
-Can the person explain the core reasoning after the assistant is gone?
-
-Can the person move to a different system without losing the craft?
-
-Can the person identify what the original tool was doing on their behalf?
-
-These are not purity tests. They are resilience tests.
+Can the person explain the core reasoning after the assistant is gone? Can the person move to a different system without losing the craft? Can the person identify what the original tool was doing on their behalf? These are not purity tests. They are resilience tests.
 
 The distinction becomes especially important in professional settings because employers may accidentally train employees into vendor dependence. A worker becomes productive inside one proprietary assistant and is then evaluated as if the productivity belongs entirely to the person.
 
-The company may not know which capability it has hired.
-
-The worker may not know either.
-
-A healthy workshop is explicit about this.
-
-We do not need every skill to reside in the person.
+The company may not know which capability it has hired. The worker may not know either. A healthy workshop is explicit about this. We do not need every skill to reside in the person.
 
 We do need the person to understand the system well enough to carry responsibility for the part assigned to them.
 
-That is the mature version of apprenticeship.
+That is the mature version of apprenticeship. The apprentice touches the work so that some judgment becomes portable. The agent carries other capability so that the apprentice can reach farther. The workshop decides which is which.
 
-The apprentice touches the work so that some judgment becomes portable.
-
-The agent carries other capability so that the apprentice can reach farther.
-
-The workshop decides which is which.
-
-The apprentice touches more work.
-
-The master can generate more lessons.
-
-The same pattern is beginning to appear in professional software work.
+The apprentice touches more work. The master can generate more lessons. The same pattern is beginning to appear in professional software work.
 
 A 2025 study pooling randomized field experiments at Microsoft, Accenture, and another large company found that developers with access to an AI coding assistant completed more tasks on average, with larger adoption and gains among less experienced developers.
 
-Again, this is evidence about productivity under specific conditions, not proof that coding assistants make people better engineers.
+Again, this is evidence about productivity under specific conditions, not proof that coding assistants make people better engineers. That distinction is the chapter. A novice can move faster because the system supplies syntax, patterns, and possible solutions. The organization should welcome the gain.
 
-That distinction is the chapter.
+Then measure whether the novice is learning the parts that matter later. Can the developer debug unfamiliar code? Can the developer identify a security flaw the assistant missed? Can the developer explain why the generated solution fits this system rather than merely compiling?
 
-A novice can move faster because the system supplies syntax, patterns, and possible solutions.
+Can the developer respond when the agent produces a plausible patch against a wrong model of the architecture? The tool can compress the low-level search. The apprenticeship has to move up one level. This is a recurring pattern whenever technology absorbs routine cognition.
 
-The organization should welcome the gain.
+The profession does not become skill-less. The skill gradient moves. The mistake is leaving the training gradient where it was. If agents write more code, train more architecture.
 
-Then measure whether the novice is learning the parts that matter later.
+If agents retrieve more cases, train more interpretation. If agents draft more prose, train more judgment about structure and evidence. The apprenticeship should chase the moving bottleneck. This gives us a constructive answer to the deskilling fear.
 
-Can the developer debug unfamiliar code?
-
-Can the developer identify a security flaw the assistant missed?
-
-Can the developer explain why the generated solution fits this system rather than merely compiling?
-
-Can the developer respond when the agent produces a plausible patch against a wrong model of the architecture?
-
-The tool can compress the low-level search.
-
-The apprenticeship has to move up one level.
-
-This is a recurring pattern whenever technology absorbs routine cognition.
-
-The profession does not become skill-less.
-
-The skill gradient moves.
-
-The mistake is leaving the training gradient where it was.
-
-If agents write more code, train more architecture.
-
-If agents retrieve more cases, train more interpretation.
-
-If agents draft more prose, train more judgment about structure and evidence.
-
-The apprenticeship should chase the moving bottleneck.
-
-This gives us a constructive answer to the deskilling fear.
-
-Do not preserve obsolete difficulty.
-
-Move difficulty toward the responsibility that remains.
-
-That is how assistance becomes agency.
-
-And experience, instead of being bypassed, can be accelerated.
+Do not preserve obsolete difficulty. Move difficulty toward the responsibility that remains. That is how assistance becomes agency. And experience, instead of being bypassed, can be accelerated.
