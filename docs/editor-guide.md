@@ -1,19 +1,27 @@
 # Editor guide
 
 This is the path if you are comfortable editing the repository directly.
-Routine authorized Desk work can be committed straight to `main`; branches and
-pull requests are available when isolation, coordination, or review adds value.
+Repository owners and named authors may commit routine authorized Desk work
+straight to `main`. Automated/background agents should use a task branch and
+pull request by default unless direct landing was explicitly requested and their
+execution environment supports it.
 
 If you have never used GitHub, start with the [author guide](author-guide.md)
 instead.
 
 ## Choose the lightest workflow that fits
 
-For routine reversible work on a book you are authorized to edit, make the
-change, review the diff, and commit it. A direct commit is a save point; it is
-not publication and it does not need a pull request merely for ceremony.
+For routine reversible work on a book you are authorized to edit, a repository
+owner or named author may make the change, review the diff, and commit it
+directly. A direct commit is a save point; it is not publication and it does not
+need a pull request merely for ceremony.
 
-Use a branch and pull request when the change is broad, risky, concurrent,
+Automated/background agents should instead create one coherent task branch,
+commit there, and open or update a pull request. This preserves a durable landing
+path across agent credentials and lets objective checks and auto-merge operate
+without assuming the agent can write `main` directly.
+
+Use a branch and pull request whenever the change is broad, risky, concurrent,
 cross-book, touches shared tooling or global catalog surfaces, crosses a
 publication/release boundary, or benefits from an isolated reviewable diff. A
 branch name such as `book/example-book-ch02-05` or
@@ -86,9 +94,11 @@ proposal.
 
 ## Landing etiquette
 
-- Direct commits are acceptable for authorized routine Desk work.
+- Direct commits are acceptable for authorized routine human Desk work.
+- Automated/background agent work should normally arrive through one coherent PR.
 - When a PR is used, merge it once its actual required checks and conflict state
-  are satisfactory; do not add review ceremony solely because a PR exists.
+  are satisfactory; enable auto-merge when supported and do not add review
+  ceremony solely because a PR exists.
 - Do not squash away a carefully written chapter history unless there is a good
   reason. A regular merge or a squash of noisy fixups is fine.
 - After landing a finished structural change, confirm the live README contents
