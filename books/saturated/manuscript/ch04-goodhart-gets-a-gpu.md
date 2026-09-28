@@ -4,7 +4,7 @@ Charles Goodhart was not thinking about artificial intelligence when he gave the
 
 Goodhart's warning was that the relationship could change once policy began leaning on it. The observation is usually repeated today in a polished sentence about a measure becoming a target and ceasing to be a good measure. That wording is later than Goodhart's original formulation. The original problem was narrower and more interesting: a statistical regularity that survives observation may not survive pressure applied for control. Measurement changes the system when people have reason to respond to the measurement.
 
-That is where this book stops being about broken rulers. A ceiling can make an instrument uninformative even if nobody tries to game it. Chapter 2 was that problem. A harness can change a score because the apparatus changes. Chapter 3 was that problem. Goodhart's problem begins when the score itself changes behavior.
+That is where the measurement problem changes category. A ceiling can make an instrument uninformative even if nobody tries to game it, and a harness can change a score simply by changing the apparatus. Goodhart's problem begins when the score itself changes behavior.
 
 Once a number controls money, status, access, regulation, promotion, publication, or product reputation, people optimize around it. Sometimes that optimization improves the thing the number was meant to represent. Sometimes it improves the number. Those outcomes are not guaranteed to be the same. Donald Campbell reached a related conclusion from another direction. Campbell was studying social indicators and program evaluation. In 1976 he warned that quantitative indicators used for consequential social decisions become exposed to pressures that can corrupt the indicator and distort the process it was supposed to monitor. The point was never that numbers are uniquely evil. The problem was incentive pressure.
 
@@ -64,7 +64,7 @@ Artificial intelligence accelerates that drift because optimization cycles are f
 
 Agent scaffolds can be tuned. A model can generate candidate prompts for itself. A judge model can grade the candidates. The loop between target and optimizer becomes partially automated.
 
-Goodhart got a GPU. That line sounds more dramatic than the mechanism. The mechanism is simply faster feedback. In older institutions, metrics might shape behavior over a school year, a budget cycle, or a central-bank policy regime. AI development can compress the same cycle into hours.
+The mechanism is less dramatic than the phrase attached to it: the feedback loop has become faster. In older institutions, metrics might shape behavior over a school year, a budget cycle, or a central-bank policy regime. AI development can compress the same cycle into hours.
 
 Measure. Change. Measure again. Select.
 
@@ -102,4 +102,4 @@ The Kenya teacher experiment was informative because the unrelated exams moved d
 
 Goodhart saw that in monetary policy because policymakers were trying to control an economy through measurable aggregates. Campbell saw it in social programs because institutions were making decisions through indicators. Educators saw it when accountability changed classroom behavior. Machine-learning researchers saw it when leaderboards became adaptive channels into holdout sets. AI has not invented the problem. It has connected the optimizer directly to the scoreboard. That changes the tempo.
 
-The test can still be useful. It just cannot be innocent.
+The test can still be useful. What changed is that its score has become part of the incentive system it was meant to observe.
