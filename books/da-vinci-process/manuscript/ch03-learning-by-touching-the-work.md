@@ -38,7 +38,7 @@ That can be wonderful. It can also be cognitively fraudulent if the worker canno
 
 This is why I dislike the phrase "AI literacy" when it is used to mean familiarity with features. Literacy is too weak a word for the problem. The professional needs a theory of delegated cognition.
 
-What did I ask the system to know for me? What did I ask it to notice for me? What did I ask it to decide for me? Which of those decisions am I still capable of reconstructing?
+The professional needs to track what the system was asked to know, notice, and decide on the human's behalf—and which of those decisions can still be reconstructed without the system doing the reconstruction too.
 
 Where did I lose contact with the work? These are not moral questions. They are design questions.
 
@@ -114,7 +114,7 @@ We need new ways to supply winters.
 
 Simulation will help. Red teams will help. Automated adversaries will help. Better tests will help. But there is also a cultural requirement: organizations must stop treating agent-generated speed as evidence that apprenticeship is complete.
 
-Fast work deserves more curiosity, not less. How did you know? What did you check? What would change your mind?
+Fast work deserves more curiosity, not less: how the conclusion was reached, what was checked, and what evidence would force a revision.
 
 Where is the weak joint? What part of this system do you understand least? Those questions turn output back into learning.
 
