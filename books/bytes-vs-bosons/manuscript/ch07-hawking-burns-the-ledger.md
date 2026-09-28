@@ -297,7 +297,7 @@ This expected rise-and-fall behavior became associated with the Page curve.
 
 Hawking’s original semiclassical calculation gives the wrong qualitative story if interpreted as continuously producing independent thermal radiation with no information-bearing correlations capable of purifying the final state.
 
-Modern quantum-gravity calculations involving generalized entropy and “islands” have reproduced Page-curve behavior in important model settings.
+Modern quantum-gravity calculations involving generalized entropy and “islands” have reproduced Page-curve behavior in important model settings.[^5]
 
 That is a major theoretical advance.
 
@@ -390,3 +390,6 @@ He made the accounting impossible to ignore.
 [^3]: Stephen W. Hawking, “Breakdown of Predictability in Gravitational Collapse,” *Physical Review D* 14 (1976), 2460–2473. Hawking argues for pure-to-mixed evolution in black-hole formation and evaporation within the semiclassical framework he adopted. https://doi.org/10.1103/PhysRevD.14.2460
 
 [^4]: Stephen W. Hawking, “Black holes and thermodynamics,” *Physical Review D* 13 (1976), 191–197. https://doi.org/10.1103/PhysRevD.13.191
+
+
+[^5]: Geoff Penington, Stephen H. Shenker, Douglas Stanford and Zhenbin Yang, “Replica wormholes and the black hole interior,” arXiv:1911.11977, https://arxiv.org/abs/1911.11977 ; Ahmed Almheiri et al., “Replica Wormholes and the Entropy of Hawking Radiation,” arXiv:1911.12333, https://arxiv.org/abs/1911.12333
