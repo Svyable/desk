@@ -39,12 +39,12 @@ hard constraints; avoidable serial work does not.
 - Batch independent reads, searches, research, and checks in parallel whenever
   the available tools permit it. Keep writes sequential only where ordering,
   shared files, or branch state require it.
-- Use the **simplest safe persistence path**. Routine authorized Desk-local
-  writing, editing, research-note, and documentation changes may be committed
-  directly to the current branch or to `main`. Use a branch/PR when it adds real
-  value: concurrent work may overlap, the change is broad or risky, multiple
-  books or global surfaces are involved, repository protection requires it, or a
-  release/publication boundary is being crossed.
+- Use the **simplest safe persistence path**. Human repository owners and named
+  authors may commit routine reversible Desk work directly to `main`.
+  Automated/background agents should default to one coherent task branch and PR
+  unless the execution environment explicitly confirms direct-`main` write
+  support and the human request specifically calls for direct landing. A task
+  branch is still a reversible save point, not process ceremony.
 - When orchestration supports independent workers, split large jobs into
   non-overlapping lanes such as evidence/research, drafting, continuity and
   repetition, metadata, and integrity checks. Give each lane a narrow contract;
@@ -66,26 +66,32 @@ hard constraints; avoidable serial work does not.
   the diff without advancing the requested outcome.
 - Finish the repo work in the same run when possible: persist the useful change,
   inspect the final diff, and run the checks required for the state being handed
-  off. If a PR is useful, open or update it and enable automatic merging when
-  supported and authorized. Do not create a PR merely to turn a reversible Desk
-  save point into process ceremony.
+  off. For automated/background agent work, open or update the task PR and enable
+  automatic merging when supported and authorized. Human direct-to-`main` work
+  does not need a PR merely to turn a reversible Desk save point into ceremony.
 - Throughput never waives the voice, evidence, Desk/Shelf, licensing, release,
   or publication rules below. The goal is fewer waits and duplicated passes,
   not lower standards.
 
 Default execution pattern: **discover once → batch independent work → make the
 coherent change → persist it → validate for the claimed state → stop or land**.
+For automated/background agents, "land" normally means **task branch → PR →
+objective checks → auto-merge/merge**.
 
 ## Commit and landing model
 
 A Desk commit is a reversible working save point. It is not publication and does
 not by itself claim that a chapter, book, or release is finished.
 
-- Repository owners, named book authors working on their own books, and agents
-  explicitly authorized to perform a Desk task may commit routine reversible
-  changes directly to `main` when there is no known conflicting work and the
-  change does not cross a publication, rights, cost, or irreversible external
-  boundary.
+- Repository owners and named book authors working on their own books may commit
+  routine reversible changes directly to `main` when there is no known
+  conflicting work and the change does not cross a publication, rights, cost,
+  or irreversible external boundary.
+- Automated/background agents must not infer direct-`main` permission merely
+  from being authorized to perform a Desk task. They should commit to a task
+  branch and open or update a PR by default. Direct-`main` landing is allowed
+  only when the execution environment explicitly supports it and the human
+  request specifically selects that path.
 - A branch or pull request is preferred when the change is broad, risky,
   concurrent, cross-book, affects shared tooling or global catalogs, changes a
   release/publication transaction, or benefits from an isolated reviewable diff.
@@ -96,13 +102,16 @@ not by itself claim that a chapter, book, or release is finished.
 - Run the checks appropriate to the state you are claiming. A working prose
   checkpoint does not need release validation; a catalog change still needs its
   catalog check; a release candidate still needs the release gates.
-- Do not block a useful commit because optional CI is absent, a prose pass is not
-  yet final, or a PR has not been created. Do block or redirect a write that
-  would overwrite unrelated/newer work, expose secrets, knowingly corrupt a
-  required invariant on `main`, or perform an irreversible/external action
-  without the needed authorization.
+- Do not block a useful checkpoint commit to a working branch because optional CI
+  is absent or a prose pass is not yet final. Automated/background agents should
+  not stop at an orphaned branch: open or update the task PR unless direct-`main`
+  landing was explicitly selected. Do block or redirect a write that would
+  overwrite unrelated/newer work, expose secrets, knowingly corrupt a required
+  invariant on `main`, or perform an irreversible/external action without the
+  needed authorization.
 - PRs are collaboration and risk-isolation tools, not mandatory proof that a
-  Desk change is safe.
+  human direct commit is safe. For automated/background agents they are the
+  default durable handoff and merge path.
 
 ## Desk / Shelf boundary
 
