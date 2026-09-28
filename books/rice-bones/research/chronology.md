@@ -1,0 +1,21 @@
+# Working Chronology
+
+- Early twentieth century — agricultural damage and later severe illness are remembered/reported in the Jinzū basin; exact earliest-case claims require source-by-source checking.
+- 1950s — the unexplained disease is brought into formal medical discussion; Noboru Hagino becomes central to investigation.
+- 1960s — cadmium-source hypothesis and environmental/clinical investigation strengthen.
+- 1967 — Toyama begins its own patient-recognition/relief program.
+- March 1968 — patients and families sue Mitsui Mining and Smelting.
+- May 1968 — Ministry of Health and Welfare issues official causal view linking chronic cadmium poisoning, renal injury, osteomalacia, and Kamioka wastewater.
+- 1971 — Toyama District Court rules for plaintiffs.
+- 1972 — appellate victory; compensation, soil, and pollution-control commitments negotiated; recurring source inspections begin.
+- 1970s — extensive environmental epidemiology and source-control research.
+- 1979 — large contaminated-paddy land-restoration program begins.
+- 1998 — Japanese scholarship documents the role of resident participation, facility access, and corporate information disclosure in source control.
+- 2012 — Toyama marks completion of the main 33-year public contaminated-paddy restoration project; 40.7 billion yen reported cost.
+- 2015 — medical review reports 200 certified patients, 195 women and five men, by October 2015.
+- End 2023 — Toyama reports cumulative 201 certified patients.
+- August 2024 — last living certified patient dies.
+- March 2025 — last living designated observer dies; living counts in both categories reach zero.
+- October 2025 — fifty-fourth source inspection reported; participants describe movement toward more collaborative oversight.
+- July 2026 — Toyama again promotes student field education linking museum, Kamioka site, restored paddy, and victim-history locations.
+- August 2026 — review board reports no newly recognized patient or observer among the examined cohort; cumulative totals remain 201 patients and 345 observers.
