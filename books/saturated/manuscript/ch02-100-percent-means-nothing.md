@@ -60,6 +60,8 @@ The life cycle was visible years before the current generation of reasoning mode
 
 The current generation has shortened it.
 
+There is a danger in overreading that acceleration. Faster saturation can mean capability is rising. It can also reflect small item pools, homogeneous task formats, public exposure, or a ceiling defined by the benchmark rather than the domain. A short-lived test is not automatically evidence of a runaway technology. It may be evidence that the test designer underestimated the range.
+
 A 2026 preprint led by Mubashara Akhtar examined sixty language-model benchmarks that appeared in technical reports from major model developers. Under the authors' saturation criteria, nearly half were classified as saturated, and older benchmarks were more likely to have reached that condition. It is a preprint, not a final census of all evaluation, and its definitions matter. But the result fits the broader historical record: benchmark retirement is not an edge case.
 
 The measurement industry is being forced to refresh its rulers.
@@ -70,9 +72,17 @@ Every public benchmark acquires a history. Researchers publish methods tuned aga
 
 That process belongs mainly to later chapters because it introduces contamination and control pressure. For now, the simpler point is enough. Even a perfectly clean benchmark can lose information if the tested population moves to the top.
 
-The raw score conceals this because raw scores are seductive.
+The raw score conceals this because raw scores are seductive. Ten correct answers out of ten feels complete. Ninety-nine correct out of one hundred feels almost complete. The numerator and denominator appear to tell the whole story.
 
-Ten correct answers out of ten feels complete. Ninety-nine correct out of one hundred feels almost complete. The numerator and denominator appear to tell the whole story.
+They also impose a hard granularity on what the test can show. On a hundred-item benchmark, one additional miss moves the raw percentage by a full point. If two frontier systems differ in their underlying probability of success by a few tenths of a percentage point, the test may be too short to reveal that difference reliably. Run the systems repeatedly and stochastic variation enters as well. The precision printed after the decimal can exceed the resolution supplied by the task set.
+
+This is why a hundred questions can be enough for one decision and laughably inadequate for another. A licensing test can be designed to classify people around a threshold. A research leaderboard trying to order ten systems that all clear ninety-eight questions needs far more information in the upper tail. The numerical scale looks identical. The inferential burden is different.
+
+Testing organizations have spent decades designing around this problem. Computerized adaptive testing does not hand every examinee the same fixed sequence. It uses earlier responses to estimate where the person sits on the ability scale, then selects later items that are informative near that estimate. Correct answers tend to move the test toward harder material; wrong answers can move it toward easier material. The point is not to torture strong test takers. It is to stop wasting questions in regions where the instrument already knows enough.
+
+AI evaluation has only begun to exploit the equivalent idea. A fixed public benchmark spends the same questions on a weak model and a frontier model even after the weak model's failure pattern and the strong model's ceiling behavior are obvious. A genuinely adaptive evaluation could push systems toward the boundary where uncertainty remains: harder coding tasks after easy ones are passed, longer plans after short tasks succeed, more adversarial conditions after ordinary cases stop separating models. That buys information efficiency, but it also makes evaluation infrastructure more complicated and makes identical-score comparisons across runs less intuitive.
+
+The trade is familiar to psychometrics. Efficient measurement often requires the instrument to respond to the subject.
 
 But a raw score contains no built-in statement about how much more difficult the next unasked question might have been.
 
