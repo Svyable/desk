@@ -24,7 +24,7 @@ Human memory does not. The same three people wake up the next morning. This is t
 
 The obvious answer is the agent. Let the system remember. That answer contains truth and hides several different problems. Which system?
 
-Under whose control? Remember what? In what format? For how long?
+The obvious answer—let the system remember—immediately opens governance problems: who controls the memory, what deserves to persist, what format survives, and how long any part of it should remain active.
 
 With what provenance? Can the memory survive a provider change? Can a successor understand it? Can the agent distinguish a decision from a discarded idea?
 
@@ -76,7 +76,7 @@ Relationship to other records. Confidence. Permissions. These small labels deter
 
 A folder named "final_final_v3_reallyfinal" is funny because everyone recognizes the failure. Agentic systems cannot build a renaissance on that.
 
-We need durable identity for knowledge objects. What is canonical? What supersedes what? Which record is a draft?
+Knowledge objects need durable identity: a canonical state, a visible supersession chain, a clear draft or approved status, and enough lineage that a later reader can tell which record displaced which.
 
 Which claim was retracted? Which source is primary? Which agent created the summary? Which human approved the decision?
 
