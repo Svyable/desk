@@ -192,7 +192,7 @@ There are other domains where human standing matters independently of comparativ
 
 These are not productivity questions. They are constitutional questions in miniature. The workshop lets us see them early because every workshop allocates authority. Who may act?
 
-Who may revise the commission? Who may approve? Who carries the name? When an apprentice becomes better, capability changes. Authority does not have to change automatically.
+Authority becomes clearer when the workshop names who may revise the commission, who may approve the work, and whose name carries the result. An apprentice can become more capable without automatically inheriting final authority; capability and authority are related, but they are not the same thing.
 
 That separation is one of civilization's oldest tricks. We routinely give experts influence without giving them final power. We routinely give leaders final power without pretending they know the most about every detail.
 
@@ -202,7 +202,7 @@ That creates an opportunity.
 
 Instead of asking the mystical question "Who is really smarter?", we can ask the operational questions one by one.
 
-Who should search? Who should propose? Who should test? Who should decide?
+The useful allocation is operational rather than metaphysical: one participant can search, another can propose, another can test, and someone still has to decide.
 
 Who should act? Who should be able to stop the action? Who should answer for the result? A workshop is the place where those verbs acquire owners.
 
