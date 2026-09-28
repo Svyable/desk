@@ -90,7 +90,7 @@ The workshop should not spend an hour reviewing a reversible formatting change a
 
 Yet organizations do exactly this because review processes are inherited from old workflows rather than allocated by risk. Agents give us a reason to redesign them. The master becomes an allocator of friction. Where should the work slow down?
 
-Where should it flow? Where should two independent processes agree? Where should only a named human be allowed to decide? Where should the system force a fresh look because the consequences have changed?
+The master becomes an allocator of friction: deciding where work can flow, where independent processes must agree, where only a named human can decide, and where a change in consequences should force a fresh look.
 
 This is not merely compliance. It is composition.
 
@@ -154,7 +154,7 @@ That is dangerous for the person too. A nominal master can become responsible fo
 
 We need limits. A master should know how many consequential threads can be held at once. Organizations will be tempted to discover the maximum by increasing agent count until something breaks. A better approach is to measure review load.
 
-How many escalations? How many unique domains? How much unresolved uncertainty? How many decisions require integration across agents?
+Review load is better measured by the number of escalations, the number of distinct domains in play, the unresolved uncertainty, and the decisions that require integration across several agents.
 
 The bottleneck is not number of agents. It is number of meaningfully distinct judgments. That is the true span of control.
 
