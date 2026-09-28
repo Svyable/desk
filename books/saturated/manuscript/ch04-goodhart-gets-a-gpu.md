@@ -358,9 +358,11 @@ A rolling benchmark remains fresh and makes year-to-year comparisons less clean.
 
 A real-world outcome is meaningful and can be slow, noisy, confounded, or ethically impossible to collect at scale.
 
-Every defense against Goodhart creates another measurement problem.
+Every defense against Goodhart creates another measurement problem. That is not a reason to give up.
 
-That is not a reason to give up.
+It does suggest a practical rule: consequential measures need a second source of evidence that is not rewarded in exactly the same way. In education that can mean an unrelated assessment. In model development it can mean fresh private tasks, transfer evaluations, field performance, or an independently maintained audit set. The point is not to average more numbers until disagreement disappears. It is to notice when the rewarded measure rises while evidence outside the reward loop does not.
+
+The Kenya teacher experiment was informative because the unrelated exams moved differently from the incentivized ones. Without that comparison, the higher rewarded-test score would have been easy to read as a broad learning gain. The second meter changed the interpretation of the first.
 
 It is a reason to stop treating measurement as clerical work performed after the real engineering is finished.
 
