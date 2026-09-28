@@ -118,9 +118,7 @@ The goal is to create high-quality cycles. That can mean using the agent constan
 
 This sounds simple and will be difficult to preserve because the providers of intelligent systems have incentives to increase usage. Organizations have incentives to demonstrate adoption. Workers have incentives to look productive.
 
-The workshop needs its own measure. Did the work get better? Did the people get better? Did the project learn?
-
-Did the ambition increase? Did the evidence improve? Did responsibility remain real? Those are harder metrics. They are closer to the point.
+The workshop needs its own ledger: quality of the work, capability gained by the people, knowledge retained by the project, ambition attempted, evidence improved, and responsibility preserved. Those are harder metrics than usage or throughput. They are also closer to the point.
 
 A Renaissance is remembered through the works that survived and the ideas that changed what came after. We should apply the same severity to our own claims.
 
@@ -148,17 +146,9 @@ The stable object is the work. Put the work in the center. Let evidence move upw
 
 Let correction travel in every direction. Keep the human awake. Keep the memory. Know when to stop.
 
-Then make something neither side could have made alone. There is one final test for whether this deserves the word renaissance. Does the relationship produce more masters? Not more users.
+Then make something neither side could have made alone. One final test determines whether the word renaissance deserves to survive: does the relationship produce more masters rather than merely more users, accounts, or content? The relevant people would become better at seeing, judging, making, teaching, and taking responsibility than they were before the relationship began. A technology can be economically transformative without being culturally enlarging.
 
-Not more accounts. Not more content. More people capable of seeing, judging, making, teaching, and taking responsibility at a higher level than before. A technology can be economically transformative without being culturally enlarging.
-
-The factory transformed production. The feed transformed attention. The spreadsheet transformed management. Each created extraordinary value and new forms of dependency.
-
-Artificial intelligence will do the same. The question of renaissance is narrower and harder. Does intelligence become more generative in the human sense? Can a person encounter an agent for five years and emerge with a stronger mind?
-
-Can a small institution use agents to build capacities that once required enormous scale? Can expertise travel without flattening? Can apprenticeship survive automation? Can memory improve without becoming surveillance?
-
-Can machines make disagreement cheaper without making truth relative? Can the workshop increase ambition without increasing irresponsibility? These are design questions now. They will become institutional questions soon.
+The factory transformed production, the feed transformed attention, and the spreadsheet transformed management. Each created extraordinary value alongside new dependencies. Artificial intelligence will do the same. The narrower renaissance question is whether intelligence becomes more generative in the human sense—whether a person can work beside an agent for years and emerge with a stronger mind, whether small institutions can acquire capacities once reserved for large ones, whether expertise can travel without flattening, and whether apprenticeship and memory can improve without becoming automation and surveillance. Those are design questions now. They will become institutional questions soon.
 
 Schools will have to decide which cognitive friction to preserve. Companies will have to decide whether entry-level work is a cost to remove or a pipeline to redesign. Professions will have to decide what competence means when fluent output is abundant. Governments will have to decide where human authority remains necessary even after machine competence improves.
 
