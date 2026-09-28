@@ -88,6 +88,14 @@ I am not proving that the relationship can be repaired. I am making the call.
 
 A smaller claim creates a different relationship to evidence. The first result can be information rather than identity catastrophe.
 
+There is another reason to keep the claim small: the first trace is evidence about a situation, not a laboratory assay of a permanent self. If you write badly at six in the morning after four hours of sleep, you have learned something about that attempt. You have not discovered your ceiling as a writer. If ten customers decline an offer, you have learned something about the offer, the customers you chose, the price, the timing, or the problem as they understood it. You have not obtained a clean measurement of whether you are “an entrepreneur.” Action is valuable because it reduces uncertainty, but the evidence it produces still needs interpretation.
+
+That qualification protects the bookself from becoming another machine for premature labels. A beginning can update identity without dictating it. Bandura’s work on self-efficacy is useful here because capability beliefs are shaped partly by mastery experience, yet the point is not that one performance settles capability forever. Experience changes the evidence available to a person. Further experience can change it again. The shelf is therefore closer to a case file than a verdict: dated traces, conditions, repetitions, reversals, and results that become more informative as they accumulate.
+
+This also changes what counts as a good first attempt. The best beginning is not necessarily the attempt most likely to produce a flattering result. It is the attempt that can teach something without making the cost of being wrong absurd. A founder who asks only friends whether an idea is brilliant has begun socially but learned very little commercially. A would-be teacher who volunteers to explain one difficult idea to an actual learner has created a more diagnostic trace. A person considering a new city learns more from living an ordinary week there than from spending a spectacular weekend there. Good beginnings contain enough reality to answer back.
+
+That answer can be no. It can be not yet. It can be yes, but not in this form. Those are not defective outputs. They are the reason to leave the protected world of possibility in the first place.
+
 This sounds like a tactical trick, but it points toward something deeper. A first step should be sized not merely to be easy enough to complete. It should be sized to answer a useful question.
 
 There is a difference between a tiny action and a diagnostic action.
