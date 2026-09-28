@@ -278,9 +278,11 @@ The practical evaluator should want to know which.
 
 This is also why benchmark comparisons can become unstable across laboratories. Two teams can use the same published task set and implement the surrounding system differently. One reports an apparent leap. Another cannot reproduce it. The dispute may look like a disagreement about the model when the real disagreement is about the apparatus.
 
-Reproducibility requires more than the question file.
+Reproducibility requires more than the question file. It requires enough of the evaluation environment to reconstruct the measured system.
 
-It requires enough of the evaluation environment to reconstruct the measured system.
+This is one reason benchmark papers increasingly read like systems papers. The task set may be fixed, but an agent rollout is an interaction among model, environment, tools, and evaluator policy. A reproduction can use the identical repository and still change the result by changing a timeout, a tool version, the number of permitted attempts, or the rule for deciding that the agent is finished. The benchmark name survives while the effective experiment drifts.
+
+For static multiple-choice evaluation, this problem is comparatively small. For agents, it becomes part of the scientific record. A useful result therefore needs something closer to an execution manifest: enough information to know what the system could see, what it could do, how much it could spend, and what counted as success.
 
 That includes mundane details. Tool versions. Timeouts. Network policy. Seed handling. Retry logic. Judge prompts. Parser behavior. Whether invalid outputs count as failures or get repaired. Whether a file-format error is fatal. Whether the agent can see its own test results.
 
