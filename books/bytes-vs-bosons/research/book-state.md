@@ -133,6 +133,6 @@ The book should be revised or narrowed if:
 
 Publication target: 70,000–85,000 words.
 
-Current state: Part I complete — four substantive chapters, roughly 10,000 manuscript words, plus the full twenty-chapter architecture and research controls. Roughly 13–14% of a 70,000–85,000-word publication-ready manuscript by raw word target, with a lower editorial-completion percentage because later chapters carry heavier technical verification.
+Current state: seven substantive chapters, roughly 16,400 manuscript words, plus the full twenty-chapter architecture and research controls. Part I is complete; the Bekenstein → area-law → Hawking sequence is complete and has a dedicated evidence note. This is roughly 19–23% of the 70,000–85,000-word publication target by raw word count, with a lower editorial-completion percentage because the quantum-information and holography sections carry heavier verification risk.
 
-Next drafting priority: Chapters 5–7 as one controlled black-hole sequence: Bekenstein’s entropy argument, the horizon-area accounting problem, then Hawking radiation and the information-loss stakes. Do not draft holography until the black-hole thermodynamics chain is complete and source-stable.
+Next drafting priority: Chapters 8–10 as one controlled transition from classical information to quantum information: no-cloning first, qubit state structure second, holography only after those rules are stable. Do not let the black-hole paradox become evidence for a specific resolution merely because one resolution is elegant.
