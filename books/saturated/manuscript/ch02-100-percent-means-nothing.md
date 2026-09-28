@@ -1,0 +1,195 @@
+# 100 Percent Means Nothing
+
+In 1951, Frederic Lord published a research bulletin with a title that sounded narrow enough to disappear into a filing cabinet: *A Theory of Test Scores and Their Relation to the Trait Measured*.
+
+The problem inside it was larger.
+
+A test score looks like a property of the person who took the test. Eighty-seven. Ninety-four. One hundred. The number arrives with the psychological force of a measurement. But Lord was interested in the machinery underneath it. Change the items and the distribution changes. Change their difficulty and the meaning of a raw score changes. A test is not a transparent window onto some underlying ability. It is a constructed instrument whose questions decide where the instrument has resolution.
+
+That observation became part of the intellectual foundation of modern psychometrics. It also explains one of the easiest mistakes to make when reading an artificial-intelligence leaderboard.
+
+A perfect score is not an upper bound on the thing being tested.
+
+It is an upper bound on the score.
+
+Those sentences look almost too obvious to bother writing. They matter because public arguments regularly slide from one to the other without noticing the move. A model answers every question in a benchmark. The benchmark is described as solved. Then the domain itself is treated as if it has been solved. An exam has run out of harder items, and the absence of harder items is mistaken for evidence that harder performance no longer exists.
+
+Psychometrics has a name for the practical version of this problem: a ceiling effect.
+
+If a test is too easy for the population taking it, high performers bunch at or near the maximum score. That bunching does not show that the high performers are identical. It shows that the test no longer contains enough difficult, discriminating items to separate them. The instrument has compressed multiple levels of underlying performance into the same visible result.
+
+The trouble begins before everybody reaches one hundred.
+
+Suppose four systems score 96, 97, 98, and 99 percent. The ranking appears wonderfully clear. The table can be sorted. The numbers can be given to one decimal place. A product launch can print the difference in bold.
+
+Yet the remaining errors may be too few to support the confidence readers place in the ordering. One system may miss a single ambiguous question. Another may get lucky on an item it would fail on the next run. A third may have encountered something unusually similar during training. A fourth may really be better, but the test now contains too little information in the relevant range to show by how much.
+
+The numbers are close to the top. The uncertainty around their meaning can be getting larger.
+
+Item response theory was built, in part, to make that problem visible.
+
+The useful intuition does not require the mathematics. Questions differ in difficulty. They also differ in how well they discriminate among test takers at particular levels of ability. A question that nearly everyone answers correctly is useful if the purpose is to identify people who have not learned the basics. It is much less useful for distinguishing among the strongest people in the room.
+
+A test therefore has an information profile.
+
+Samuel Livingston, writing for Educational Testing Service in 2020, explains the practical point with unusual economy. The information provided by a test varies across the ability range. If the test is used for a pass-fail decision, designers want high information near the cut point. If the test is supposed to measure across a wide range, the items need to provide information across that wider range.
+
+This is the first important correction to the title of this chapter.
+
+Sometimes one hundred percent means exactly enough.
+
+A licensing exam does not need to identify which successful applicant is the greatest practitioner who has ever lived. It may need only to establish that an applicant clears a minimum standard. A safety checklist is not improved merely because it can distinguish the finest operator from the second-finest operator. A classroom quiz can be useful even if the best students all receive full marks, provided the teacher's immediate question was whether everybody learned yesterday's material.
+
+A ceiling becomes a problem when somebody asks the instrument to make decisions above the ceiling.
+
+Frontier AI evaluation does this constantly.
+
+The first reason is competition. Model developers are not merely asking whether a system has achieved a minimum level of competence. They are trying to compare systems clustered near the top of benchmarks that once spread them across the scale.
+
+The second reason is extrapolation. A score designed to summarize performance on a finite question set is often used to support claims about research ability, coding ability, professional expertise, autonomy, or economic substitution. The number travels into a much larger claim than the one the test was built to support.
+
+The third reason is speed. An exam for human students can be calibrated against a relatively stable population. A frontier benchmark can encounter a new population every few months. The distribution moves while the instrument is still being discussed.
+
+This is not a hypothetical concern invented for large language models.
+
+In 2022, Simon Ott and colleagues published an unusually broad map of AI benchmark dynamics in *Nature Communications*. They curated 3,765 benchmarks across computer vision and natural-language processing. A large fraction moved quickly toward near-saturation. The authors were careful to distinguish saturation from stagnation: a benchmark can stop improving because research interest disappears, because technical progress stalls, or because the benchmark itself has little room left.
+
+Their warning about the last category was sharper. A benchmark can continue circulating after its useful range has narrowed. Progress in the underlying systems may continue while the benchmark stops reflecting it well. Small differences become harder to establish statistically. The remaining gains can increasingly come from optimization to the peculiarities of that benchmark rather than improvements that transfer elsewhere.
+
+The life cycle was visible years before the current generation of reasoning models.
+
+The current generation has shortened it.
+
+A 2026 preprint led by Mubashara Akhtar examined sixty language-model benchmarks that appeared in technical reports from major model developers. Under the authors' saturation criteria, nearly half were classified as saturated, and older benchmarks were more likely to have reached that condition. It is a preprint, not a final census of all evaluation, and its definitions matter. But the result fits the broader historical record: benchmark retirement is not an edge case.
+
+The measurement industry is being forced to refresh its rulers.
+
+That sentence risks making the process sound simpler than it is. A ruler does not care that somebody measured it yesterday. A benchmark does.
+
+Every public benchmark acquires a history. Researchers publish methods tuned against it. Developers study failure modes. Papers reproduce questions. Blog posts discuss hard examples. Evaluation libraries standardize prompts. The test becomes part of the culture surrounding the capability it measures.
+
+That process belongs mainly to later chapters because it introduces contamination and control pressure. For now, the simpler point is enough. Even a perfectly clean benchmark can lose information if the tested population moves to the top.
+
+The raw score conceals this because raw scores are seductive.
+
+Ten correct answers out of ten feels complete. Ninety-nine correct out of one hundred feels almost complete. The numerator and denominator appear to tell the whole story.
+
+But a raw score contains no built-in statement about how much more difficult the next unasked question might have been.
+
+Imagine two chess puzzles. The first is routinely solved by strong club players. The second requires world-class calculation. A person who solves both gets two points. Now add eight easy puzzles that nearly everyone solves. A grandmaster and a competent amateur may both score ten out of ten. The score is accurate. The conclusion that follows from it depends on what the test designer hoped to learn.
+
+The same issue appears in medicine, rehabilitation, and patient-reported outcome measures, where ceiling effects can make scales insensitive to improvement among people already scoring well. Researchers sometimes respond by adding harder items or redesigning response categories. The scale was not lying before. It had become poorly matched to the range of the population.
+
+AI benchmarks often respond the same way.
+
+MMLU was useful because it distributed model performance across a broad set of academic questions. As scores rose, harder benchmarks appeared. GPQA recruited graduate-level science questions. Humanity's Last Exam pushed farther toward expert knowledge. FrontierMath moved toward difficult mathematical problems. Agent benchmarks moved away from static questions toward software repositories, browsers, terminals, and long sequences of action.
+
+Each move widens the range in a different direction.
+
+That phrase matters: a different direction.
+
+There is no single ladder on which every benchmark is just one rung higher than the last. Making a test harder can change what is being tested. A more obscure factual question may increase difficulty while reducing relevance to ordinary work. A long-horizon coding task may reveal planning and recovery behavior that a static exam cannot see, while becoming more sensitive to tool configuration. A private benchmark can reduce direct leakage while making independent scrutiny harder.
+
+Difficulty is not validity.
+
+Psychometricians knew this problem long before AI evaluation. Livingston's introduction to item response theory makes an important caution explicit: the mathematics can describe how items provide information about the trait defined by the test, but it cannot decide whether the test is measuring the trait the designer intended. That part remains a content and validity problem.
+
+A beautifully calibrated test of the wrong thing is still a beautifully calibrated test of the wrong thing.
+
+The AI version is especially tempting because benchmarks can produce exact-looking percentages. If one model scores 92.4 and another 94.1, the decimals create an impression of scientific intimacy with the underlying capability.
+
+Those decimals may be honest summaries of observed trials. They do not automatically supply the interpretation.
+
+OpenAI's GPT-5 system card contains a useful warning from inside the machinery. For several evaluations, the company reports bootstrap confidence intervals around pass rates. The authors note that on very small datasets those intervals can understate uncertainty, particularly when a problem's observed pass rate sits near zero or one. The calculation captures some sources of variation, not every uncertainty about the difficulty and representativeness of the problems themselves.
+
+A leaderboard can therefore have at least two different uncertainty problems at once.
+
+One is statistical: given this set of tasks and these repeated attempts, how stable is the observed difference?
+
+The other is measurement validity: even if the observed difference is stable, how much should anyone infer from it about the capability they actually care about?
+
+The first can often be narrowed by running more trials.
+
+The second cannot.
+
+If every question in an exam concerns tax law and the buyer wants a model to perform emergency surgery, no confidence interval repairs the mismatch. That example is intentionally absurd. Real benchmark interpretation fails by smaller steps. A coding benchmark becomes a claim about software engineering. A professional-document benchmark becomes a claim about an occupation. An academic reasoning benchmark becomes a claim about intelligence.
+
+Each step may be reasonable enough to investigate.
+
+None is free.
+
+This is why a perfect benchmark score can tell us less than a merely good score on a better-designed test.
+
+One hundred percent on an easy, narrow, old, heavily optimized question set may establish a floor: the system can do this. Eighty percent on a difficult, fresh, representative, well-audited evaluation may reveal far more about where the system fails, how reliably it operates, and what kind of assistance changes the outcome.
+
+The public language around AI often rewards the first number because it is easier to explain.
+
+Perfect.
+
+Solved.
+
+Human level.
+
+Superhuman.
+
+Those words convert a measurement artifact into a story about the system.
+
+The quieter work of evaluation asks a less satisfying question: what decisions can this instrument support?
+
+That question changes how a ceiling should be handled.
+
+If the benchmark exists to certify a minimum, reaching the ceiling may be fine. Keep the test. Stop pretending it can rank the leaders.
+
+If the benchmark exists to distinguish frontier systems, the item bank needs to move toward the part of the capability distribution where uncertainty remains.
+
+If the benchmark exists to predict deployment performance, adding harder questions is useful only when the harder questions resemble the failures that matter in deployment.
+
+If the benchmark exists to track progress over time, constantly replacing items creates a different problem: the ruler itself moves, and longitudinal comparison becomes harder.
+
+There is no free measurement regime.
+
+A fixed test gives continuity and invites saturation.
+
+A changing test restores range and complicates comparison.
+
+A public test enables scrutiny and invites optimization.
+
+A private test protects some information and asks outsiders to trust more of the evaluation process.
+
+A broad test may cover many capabilities shallowly.
+
+A narrow test can measure one capability deeply and tempt people to generalize from it.
+
+The serious question is not which compromise disappears. It is which compromise fits the decision.
+
+That is why the phrase "benchmark saturation" should make a buyer slower, not more excited.
+
+A ceiling does not tell us how far above it the subject may be. The strongest model may sit one millimeter beyond the top of the scale or a kilometer beyond it. Once the instrument has stopped discriminating, the score cannot settle the distance.
+
+The opposite mistake is also possible. A benchmark near its ceiling may still contain enough information to answer a narrower operational question. If three models all score above ninety-eight percent on a certification test and the deployment requires only ninety-five, the ranking among them may not matter. The benchmark can be useless for marketing and useful for procurement at the same time.
+
+This is one reason measurement debates become confused. People are often arguing about different decisions while staring at the same number.
+
+The scientist wants to know whether capability improved.
+
+The vendor wants to show leadership.
+
+The customer wants to know whether the product will work.
+
+The regulator wants evidence about a risk threshold.
+
+The investor wants a proxy for technological position.
+
+The journalist wants a compact comparison.
+
+A single score is asked to serve all of them.
+
+No psychometric theory promises that it can.
+
+Lord's old problem returns in modern form. The score depends on the items. The items determine where the test has information. The test's information matters only in relation to a decision someone intends to make.
+
+Artificial intelligence makes this feel new because the capability frontier is moving quickly and the numbers are public. The underlying discipline is older and less glamorous. Before interpreting a score, find out where the instrument can still see.
+
+The top of the scale is a property of the test.
+
+It is not the edge of the world.
