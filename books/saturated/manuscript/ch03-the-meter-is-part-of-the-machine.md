@@ -20,11 +20,11 @@ The score moved.
 
 For o3, additional reasoning effort improved performance by as much as 4.3 percentage points in the reported experiments. For GPT-5, the gain reached 6.1 points. Other changes to the surrounding system improved the quality of the artifacts further. A prompt that told GPT-5 to inspect its deliverables for correctness and layout problems eliminated a particular black-square rendering failure that had been showing up in more than half of generated PDFs. Best-of-four sampling with a judge added another layer of selection.
 
-None of this required pretending that a new model had arrived every time the number changed.
+None of this required pretending that a new model had arrived every time the number changed. The model was part of the experiment, and so was the apparatus.
 
-The model was part of the experiment.
+GDPval's design makes the point unusually hard to dismiss because the apparatus was not a minor formatting layer. Professional deliverables fail in ways that do not show up in a language-model answer box. A spreadsheet can contain a correct calculation and still be unusable because references broke. A deck can contain accurate claims and still fail the job because charts are unreadable. A report can have the right analysis and still look unfinished because the final file was never inspected. The scaffold that opens, renders, checks, and revises those artifacts is performing part of the work.
 
-So was the apparatus.
+That does not make the benchmark invalid. It makes the system boundary consequential. A company buying an agent may care intensely about the larger boundary. If the delivered system catches its own formatting failures, the customer receives the benefit regardless of whether the correction came from neural weights, a scripted validator, a judge model, or a retry loop. A researcher comparing base models may want those differences held fixed. The same score cannot silently answer both questions.
 
 This sounds like a technicality until a leaderboard turns the result into a noun.
 
@@ -174,9 +174,13 @@ Another stops after fifteen minutes.
 
 The final score can still appear in adjacent cells.
 
-The cells look commensurable because the metric is the same.
+The cells look commensurable because the metric is the same. The experiments may not be.
 
-The experiments may not be.
+Resource budgets make the ambiguity worse. Best-of-four is easy to describe as a reliability technique, but it is also four generations plus a selection step. High reasoning effort can improve task performance while consuming more inference. Browsing can improve factual work while adding latency and network dependence. A benchmark that ranks only by task success may be doing exactly what its designers intended. A buyer making a cost-sensitive deployment decision needs another axis.
+
+This is the same reason vehicle testing distinguishes fuel economy, acceleration, payload, and towing instead of asking for one number called car capability. An evaluation can isolate one property. Trouble begins when readers import the number into a decision whose constraints were excluded from the test.
+
+OpenAI's 2026 playbook for third-party evaluations treats setup as part of trustworthy evaluation for this reason. Tool access, task environment, scaffolding, and the permissions that let a system act are no longer peripheral implementation notes. They can determine which actions are available to the system.
 
 This is not unique to AI. Athletic records specify equipment and conditions for similar reasons. Drug trials specify dosage, population, and protocol. Financial backtests become meaningless when one strategy gets information unavailable to another.
 
