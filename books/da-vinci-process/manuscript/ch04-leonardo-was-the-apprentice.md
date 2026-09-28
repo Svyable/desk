@@ -46,7 +46,7 @@ If machines can perform imitation for us, what happens to the human development 
 
 Consider a writer trying to learn investigative narrative. One path is to ask an agent, "Write this like a bestselling journalist." That produces a caricature because the instruction collapses a body of craft into a vibe. The model reaches for recognizable tokens: clipped openings, dramatic reveals, confident transitions, theatrical stakes.
 
-The better apprenticeship begins with analysis. What did the writer delay? Where did the explanation enter? Which detail carried the scene?
+The better apprenticeship begins with analysis: notice what the writer delayed, where the explanation entered, and which concrete detail carried the scene.
 
 How long did uncertainty survive? What changed between the opening and the first explicit claim? Where did the author refuse an easy villain? Which sentence earned the abstraction that followed? These questions turn imitation into decomposition.
 
@@ -180,7 +180,7 @@ The novice mistake is to use the agent to feel interdisciplinary. The master use
 
 Suppose a product leader knows very little about privacy engineering. An agent can explain threat models, data minimization, retention, consent, and access control. The weak use ends with the leader feeling informed.
 
-The stronger use ends with better questions for the privacy engineer. Which data do we truly need? What survives deletion? Which identifier becomes sensitive when combined with another?
+The stronger use ends with better questions for the privacy engineer: which data are actually necessary, what survives deletion, and which harmless-looking identifier becomes sensitive when combined with something else.
 
 Where does consent fail if the workflow changes? Now the agent has not replaced the specialist. It has raised the quality of contact with the specialist. This is exactly how apprenticeship can expand a person's world without making the person delusional about expertise.
 
