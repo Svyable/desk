@@ -28,7 +28,6 @@ Desk is the working library for Sven Hardy Benson’s books: drafts, complete ma
 | [**Artificial Identity**](books/artificial-identity/) | ✍️ Drafting | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/artificial-identity/) |
 | [**Austerity Measures**](books/austerity-measures/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/austerity-measures/) |
 | [**Commit**](books/commit/) | ✅ Complete expanded draft · publication candidate | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/commit/) |
-| [**Da Vinci Process**](books/da-vinci-process/) | ✅ Complete first draft · editorial review pending | 18 of 18 | 66,254 | Its central wager is that the next renaissance will not be measured by the quantity of automated output. | [Read →](https://svyable.github.io/desk/reader/#/b/da-vinci-process/) |
 | [**Deceptatron**](books/deceptatron/) | ✅ Complete first draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/deceptatron/) |
 | [**Energy, Value & Intelligence**](books/energy-value-intelligence/) | ✍️ Drafting | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/energy-value-intelligence/) |
 | [**Face The Strange**](books/face-the-strange/) | ✅ Complete draft · Published on Shelf | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/face-the-strange/) |
