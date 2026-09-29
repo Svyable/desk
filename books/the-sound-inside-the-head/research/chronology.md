@@ -1,0 +1,23 @@
+# Chronology
+
+- **1961–1962** — Allan H. Frey reports and publishes human auditory perception induced by modulated RF energy.
+- **1970s** — Guy, Chou, Lin and collaborators reproduce and model microwave-induced acoustic effects; thermoelastic explanation gains strong support.
+- **1979** — Chou and Guy report guinea-pig auditory thresholds consistent with thermal-expansion theory.
+- **2003** — Elder/Chou review describes thermoelastic microwave hearing as a well-established effect with a known mechanism.
+- **2003–2004** — U.S. military-linked MEDUSA research reportedly explores use of microwave auditory effects for deterrence/incapacitation; public evidence supports research interest, not operational deployment.
+- **Late 2016** — U.S. personnel in Havana begin reporting abrupt auditory/sensory phenomena and health symptoms.
+- **2017** — U.S. response expands; personnel are medically evaluated and embassy staffing is reduced.
+- **2018** — Penn team publishes JAMA clinical case series; GAO later documents State Department internal communication failures around the incidents.
+- **2019** — Penn team publishes advanced neuroimaging group differences of uncertain clinical significance.
+- **2020** — National Academies report judges directed pulsed RF the most plausible mechanism among those considered for distinctive early cases, while emphasizing heterogeneity and uncertainty.
+- **2021** — HAVANA Act becomes law; Foster, Garrett and Ziskin publish a skeptical engineering analysis of weaponizing classic microwave auditory effects.
+- **2 Feb 2022** — ODNI/CIA release IC Experts Panel findings: pulsed electromagnetic energy plausibly explains core characteristics of a subset; panel does not assess attribution.
+- **1 Mar 2023** — Intelligence Community Assessment says most reported AHIs are very unlikely to be caused by a foreign adversary.
+- **18 Mar 2024** — NIH publishes studies finding severe symptoms but no consistent MRI-detectable brain injury or broad biological abnormalities across its AHI cohort.
+- **29 Jul 2024** — GAO reports care coordination and registry problems; only a small fraction of eligible AHI patients had entered the DOD registry by May 2024.
+- **10 Jan 2025** — Updated ICA preserves majority “very unlikely” foreign-responsibility judgment; two components shift with low confidence toward roughly even odds that a foreign actor developed/deployed a relevant novel capability in a small subset.
+- **2025** — Senate intelligence authorization language calls for renewed AHI review and declassification.
+- **15 Jan 2026** — House Homeland Security Committee publicly seeks information about reports that HSI acquired an expensive foreign-made device allegedly linked to AHI.
+- **14 Feb 2026** — *Washington Post* reports a secret Norwegian pulsed-energy self-experiment and separately acquired foreign-made U.S.-tested device; claims remain technically unverified in public.
+- **11 Jun 2026** — House Intelligence Committee chairman states DNI Gabbard has recalled the prior AHI ICAs and alleges analytic-integrity failures.
+- **Sep 2026** — Public record remains unresolved; no fully declassified replacement assessment or event-level causal chain has established device → exposure → injury → operator for a specific case.
