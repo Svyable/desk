@@ -1,0 +1,31 @@
+# Chronology
+
+- **373 BCE** — Later historical accounts describe animals leaving Helike before a destructive Greek earthquake. The story becomes a durable ancestor of animal-prediction claims; it is not an instrumental record.
+- **Late nineteenth / early twentieth centuries** — Earthquake prediction becomes entangled with emerging instrumental seismology, strain measurement, groundwater observations and geomagnetism. Many proposed precursors appear before networks can supply useful denominators.
+- **1960s–1970s** — Prediction optimism grows. Dilatancy, groundwater chemistry, radon, tilt, resistivity and electrical methods attract serious institutional attention in the United States, Soviet Union, China, Japan and elsewhere.
+- **1974** — Johnston and Mortensen report tilt changes associated with small earthquakes on the San Andreas fault. Dense monitoring raises the possibility that deformation could precede rupture.
+- **1980–1981** — USGS-linked radon monitoring in Iceland and animal-behavior studies illustrate the era's willingness to instrument proposed precursors prospectively rather than rely only on anecdotes.
+- **Early 1980s** — Varotsos, Alexopoulos and Nomicos develop what becomes known as the VAN method in Greece, using transient electrical potential changes interpreted as Seismic Electric Signals.
+- **1983** — Lockner, Johnston and Byerlee publish a proposed mechanism for earthquake lights based on fault/frictional processes.
+- **1985** — The Parkfield prediction experiment formally crystallizes around the expectation of another roughly M6 characteristic event on a well-studied San Andreas segment.
+- **1986** — North Palm Springs earthquake produces documented coseismic seismomagnetic offsets. This matters because it proves earthquakes can generate magnetic effects without proving a magnetic precursor exists.
+- **1989** — Loma Prieta earthquake. A magnetometer at Corralitos records unusual low-frequency magnetic activity that is subsequently promoted as one of the strongest pre-seismic electromagnetic cases.
+- **1989** — Ito seismic swarm and submarine eruption in Japan are associated with reported pre-event electromagnetic signals.
+- **1990** — Fraser-Smith and colleagues publish the Corralitos/Loma Prieta magnetic precursor claim.
+- **1993** — Savage publishes “The Parkfield prediction fallacy,” criticizing statistical and selection assumptions before the awaited event occurs.
+- **1994** — Roeloffs and Langbein review Parkfield after its original high-probability window has already expired and document both the experiment and its unresolved departures.
+- **1996** — The VAN controversy receives an unusually public treatment in *Geophysical Research Letters*, forcing questions about how predictions are logged and scored.
+- **1997** — Geller, Jackson, Kagan and Mulargia argue in *Science* that earthquakes cannot be reliably and accurately predicted; the debate sharpens distinctions among prediction, forecast and research on preparatory physics.
+- **2004** — The anticipated M6 Parkfield earthquake finally occurs on September 28, years outside the original prediction window. The dense instrumentation produces valuable rupture data but no decisive short-term precursor.
+- **2004–2010** — France's DEMETER satellite flies, specifically designed in part to investigate ionospheric perturbations associated with earthquakes and other geophysical phenomena.
+- **2006** — St-Laurent, Derr and Freund publish a positive-hole model for earthquake lights and stress-activated charge in rocks.
+- **2009** — Thomas, Love and Johnston publish a detailed reanalysis of the Corralitos record and conclude the famous Loma Prieta magnetic anomaly is best explained by sensor-system malfunction.
+- **2009** — The L'Aquila earthquake follows a seismic swarm and public controversy over radon-based prediction claims and official risk communication. The later prosecutions become internationally famous, often inaccurately summarized as scientists being punished for “failing to predict” the quake.
+- **2011** — ICEF publishes its operational-earthquake-forecasting report after L'Aquila, emphasizing probabilistic methods, prospective testing and disciplined communication.
+- **2011** — Heki reports an approximately 40-minute pre-Tohoku enhancement in GPS-derived ionospheric total electron content, reopening a high-profile argument over immediate precursors.
+- **2012** — Thomas and colleagues reanalyze a claimed ionospheric precursor to the 1999 Hector Mine earthquake and find the proposed anomaly to be ordinary global TEC variation.
+- **2013–2017** — Statistical DEMETER studies report ion/electron-density deviations associated with earthquakes under selected conditions, moving parts of the satellite literature from anecdotes toward superposed-epoch datasets.
+- **2015** — Oh and Kim propose paired radon/thoron measurement as a way to reduce ambiguity from longer-lived radon transport.
+- **2021** — Eisenbeis and colleagues argue that the reported pre-Tohoku TEC enhancement can be generated by the choice of reference curve and is likely an artifact. USGS-linked work also continues re-examining claimed ULF pulses with explicit attention to threshold flexibility and cultural noise.
+- **2025** — Sahoo and colleagues report a large radon anomaly preceding the March 28 Myanmar M7.7 event and pooled correlations across an Indian network. The result is scientifically interesting but does not by itself supply a prospective false-alarm denominator.
+- **2026** — Earthquake prediction remains unvalidated as an operational capability. Research continues in dense geodesy, boreholes, hydrogeochemistry, electromagnetic networks, GNSS ionospheric monitoring, satellite constellations and machine-learning approaches. The central methodological problem remains prospective scoring against the enormous number of times the planet produces anomalies without a damaging earthquake.
