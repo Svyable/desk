@@ -1,41 +1,37 @@
 # The Nuclear-Test Correlation
 
-In October 2025, Scientific Reports published a paper by Stephen Bruehl and Beatriz Villarroel testing whether Palomar transient detections were statistically associated with dates near atmospheric nuclear weapons tests and with historical UAP reports.
+The oddest number in the 2025 paper is not a spacecraft count. It is 1.45.
 
-The result is exactly the kind of thing this book must handle without flinching in either direction.
+Stephen Bruehl and Beatriz Villarroel assembled 2,718 days from the first Palomar Observatory Sky Survey era and asked whether dates carrying candidate transients fell unusually close to atmospheric nuclear tests. A transient appeared on 15.6 percent of dates inside their test window, defined as the test day plus or minus one day, and on 10.8 percent of dates outside it. The resulting relative risk was 1.45, with a reported p-value of .008. In a follow-up split by day, only the day after a test reached significance.
 
-The authors assembled daily data across the first Palomar survey era and reported that identified transients were more likely on dates within roughly one day of nuclear testing. They also reported associations between the number of transients and the number of UAP reports on dates with transients.
+That is a real published association. It is also a modest one, and by 2026 it had acquired something more valuable than a dramatic interpretation: an argument about whether the association survives better controls.
 
-Those are published statistical findings.
+The first serious objection is almost embarrassingly terrestrial. Telescopes do not observe every night. Palomar's schedule changed with weather, Moon, season, maintenance, target choice, and the ordinary inconvenience of having an atmosphere above California. A January 2026 critique by Wesley Andrés Watters and colleagues argued that the nuclear-test result largely disappears when the transient data are normalized by actual observing days. They also reported troubling structure in the underlying feature catalogues: plate-edge gradients, geometric voids, catalog stars mixed into candidate sets, and disagreement over which dataset was being tested. In their most vetted sample, they did not recover the reported Earth-shadow deficit either.
 
-They are not evidence that nuclear detonations produced spacecraft.
+That critique attacks the denominator. If nuclear tests happen on calendar days but transients can only be found on nights when Palomar actually exposed useful plates, a day is not automatically an independent opportunity to detect a transient. Counting the wrong opportunities can manufacture significance without manufacturing a single mark on glass.
 
-The distinction sounds ridiculous until one watches how quickly correlation stories mutate online.
+Then came the counter-counterevidence. A March 2026 independent reanalysis by Brian Doherty used the authors' released data, reproduced the basic nuclear-window association, and extended it with negative-binomial models that included precipitation, cloud cover, and lunar illumination. The association survived those controls. A permutation test also found the observed timing unusual relative to shuffled test dates. In April, Kevin Cann reported that adding geomagnetic activity and lunar phase did not erase the nuclear-window result. In August, Bruehl, Doherty, Alina Streblyanska, and Villarroel published a machine-learning pass in *Scientific Reports*. Their classifier was trained on 250 expert-reviewed image pairs and reached an out-of-fold AUC of 0.81; after artifact probability was incorporated, the nuclear-window elevation remained significant.
 
-A temporal association has several possible origins. There may be a causal physical mechanism. There may be a common cause affecting both datasets. There may be selection effects in which observation schedules, reporting intensity or archival completeness vary over time. There may be multiple-testing flexibility. The event catalogues themselves may contain classification uncertainty.
+None of that settles the matter. It changes what a fair skeptical chapter has to say.
 
-Nuclear tests are particularly interesting because they offer at least one mundane physical pathway to photographic effects: ionizing radiation and radioactive contamination can expose or alter photographic emulsions. If transient-like plate marks occurred more often near test dates, contamination is a hypothesis before anything aerospace is.
+The easy version of skepticism was that the 2025 result needed independent replication. It got some. The harder question is whether those replications are independent enough in the dimensions that matter. Reanalyzing a released catalogue with a better regression can test statistics while inheriting the catalogue's selection errors. A classifier trained on expert labels can improve consistency while inheriting the experts' concept of a real transient. Weather controls can improve the observing model without reconstructing every plate's actual exposure opportunity. The Watters critique and the later positive analyses can therefore both be informative without canceling each other like votes.
 
-But even that hypothesis needs geography and timing. Fallout transport depends on yield, altitude, location, winds and precipitation. A test in the Pacific does not instantaneously dust Palomar with a spatially coherent pattern. Plate storage and development dates matter. If the relevant plate was already sealed or processed before fallout could arrive, the mechanism fails.
+This is why the plate itself matters more than the p-value.
 
-The statistical paper therefore opens an archival experiment rather than closing one.
+One mundane mechanism deserves special care because the original chapter treated it too casually: fallout. Radioactive material can fog photographic emulsions, and the United States' atmospheric-test archive contains an enormous documentary record of fallout detection and transport. A new 2026 reconstruction of fallout from U.S. atmospheric tests in New Mexico and Nevada makes the physical point vivid: deposition is a geographic and meteorological field, not a calendar label. Winds, precipitation, source altitude, particle size, yield, and travel time decide where material goes.
 
-One should recover the exact plates contributing events, their exposure and development metadata, test locations and times, atmospheric transport conditions, emulsion batches and matched control plates. A causal contamination model should predict which tests matter more strongly and with what delay.
+So a useful fallout hypothesis cannot merely say that a plate was exposed one day after a bomb went off somewhere on Earth. It has to predict which Palomar plates should be affected, from which test, after what transport delay, and with what morphology. The 2025 authors themselves argued that known fallout fogging looks unlike the point-like candidates and noted that their strongest timing signal fell one day after tests. Those are legitimate objections. They are not the same as a transport calculation.
 
-The UAP correlation adds a different set of problems. Historical UAP reports are not generated by a stable sensor network. Reporting intensity depends on media attention, military awareness, cultural contagion, geographic population and archival practices. A day with many reports may reflect one widely seen stimulus or many independent events. Treating report counts as independent measurements can exaggerate evidence.
+There is a pleasingly old-fashioned experiment hiding here. Take the exact Palomar exposure and development times. Add official test times and locations. Reconstruct plausible fallout trajectories for the tests capable of contributing material to southern California. Include matched plates from the same emulsion batches and nearby nights. Then ask whether the nuclear-window effect follows the physics of fallout better than it follows the blunt plus-or-minus-one-day indicator.
 
-This does not mean the association is meaningless. It means the observation process is part of the data.
+If it does, the mystery becomes less extraterrestrial and more interesting historically. Atmospheric weapons tests would have left a measurable fingerprint inside an astronomical archive built for an entirely different purpose.
 
-The strongest use of the 2025 study is methodological. It suggests a surprising relationship that can now be tested on held-out material. Define the transient-detection pipeline before looking at test dates. Search additional photographic archives from other observatories. Use exposure dates hidden from classifiers. Test nuclear-event windows preregistered in advance. Include weather and observing cadence. Separate nuclear-test correlations from UAP-report correlations rather than bundling them into one narrative.
+If it does not, the correlation still has to survive the denominator problem. The cleanest next step is not another ingenious regression on the same catalogue. It is a held-out archive. Freeze the candidate-detection rules before revealing nuclear-test dates. Use an independently scanned plate collection from another observatory. Normalize by actual exposure opportunity. Blind human vetting to dates. Predeclare the time windows and the handling of clustered tests. A signal that survives that procedure has earned a different conversation.
 
-If the association replicates across independent archives, the problem becomes more interesting even if the explanation is photographic contamination.
+The UAP correlation should be kept separate. Historical sighting catalogues are not observatories. Their rate changes with population, press attention, military reporting practice, duplicate witnesses, cultural contagion, and what later collectors chose to preserve. The 2025 paper found a small same-day association between transient counts and UAP-report counts, but its own discussion acknowledged substantial noise in the UAP catalogue. Combining that result with the nuclear-test result into a single story adds narrative voltage faster than it adds causal identification.
 
-That last clause matters.
+There is no need to do that. The nuclear-test correlation is already strange enough.
 
-Anomalous research often undervalues mundane mechanisms when the statistical pattern survives. But discovering that atmospheric nuclear tests measurably contaminated astronomical photographic plates would itself be a remarkable historical result. It would connect weapons testing, atmospheric transport and astronomical archives in a way worth documenting.
+As of September 2026, the defensible position is no longer simply “interesting association, independent replication needed.” The statistical association has survived several follow-up analyses, including one peer-reviewed machine-learning study, while a substantial methodological critique argues that observing cadence and catalogue validity can account for much of the apparent effect. What has not happened is the decisive thing: independent reproduction from raw or independently scanned plates with the observing denominator, candidate definition, and test window fixed in advance.
 
-The exotic interpretation should have to beat that.
-
-The 2025 paper belongs in evidence class three for its more dramatic implications: peer-reviewed association, causal interpretation unresolved, independent replication needed. The underlying nuclear-test dates and Palomar exposures are class one. The statistical result itself is documented. Claims about what caused it remain open.
-
-This is what epistemology looks like when it has dates attached.
+That is a better mystery than a premature answer. The claim has become harder to dismiss and harder to believe cheaply at the same time.
