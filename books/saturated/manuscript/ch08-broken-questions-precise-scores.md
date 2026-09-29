@@ -382,6 +382,14 @@ The result should be predictable.
 
 When the number becomes important, people discover the missing layer.
 
+Task-level disagreement can itself become a useful signal. If human reviewers repeatedly split on whether a prompt is well specified, the right response may not be to force a majority label and move on. The disagreement can reveal that the task contains tacit knowledge the benchmark failed to encode.
+
+Professional work is full of those cases. A senior engineer reads an issue and infers a convention from years in the repository. A newcomer cannot. A benchmark that assumes the convention without stating it may be measuring repository familiarity in addition to coding. That can be legitimate if the intended construct is contribution inside that project. It is misleading if the result is sold as general software-engineering ability.
+
+Item audits should therefore record reasons, not just keep/drop decisions. Was the problem missing information? Was the grader too strict? Did experts disagree about acceptable output? Did the environment fail? Those categories let future benchmark designers see which kinds of task complexity produce measurement failure.
+
+Over time, the audit trail becomes part of the benchmark's scientific value. A mature instrument is not one that never had defects. It is one whose defects are discoverable, versioned, and incorporated into the interpretation of results.
+
 This is also why benchmark audits deserve more prestige than they receive.
 
 Finding that thirty percent of a celebrated evaluation is broken is not housekeeping.
