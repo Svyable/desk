@@ -1,26 +1,12 @@
 # Chapter 1 — The Notes Are Not the Song
 
-There is a seductive way to use artificial intelligence badly.
+There is a seductive way to use artificial intelligence badly: have a very productive afternoon.
 
-You ask a good question.
-
-You get a good answer.
-
-Then you ask another good question.
-
-The answers pile up.
-
-At the end of the afternoon you have twelve tabs, five conversations, three drafts, a hundred interesting claims, two contradictory recommendations, and the pleasant exhaustion of having been intellectually busy.
+By five o’clock you have twelve tabs, five conversations, three drafts, a hundred interesting claims, two contradictory recommendations, and the pleasant exhaustion of having been intellectually busy. The machine has done exactly what you asked. It produced.
 
 What you do not necessarily have is a better object.
 
-This is the first distinction to get right.
-
-**Generation is not accumulation.**
-
-A model can generate indefinitely without the system around it becoming more intelligent.
-
-That is not an indictment of the model. It is a description of the workflow.
+Generation and accumulation are different jobs. A model can generate indefinitely while the system around it learns almost nothing. That is not a defect in the model. It is a defect in the workflow.
 
 A guitar player can play indefinitely too.
 
@@ -182,33 +168,13 @@ Agentic intelligence makes that commitment step more important, not less.
 
 Because the machine can generate so much material that the uncommitted pile can grow faster than a human can understand it.
 
-This creates a strange failure mode: **AI can increase intellectual entropy.**
+This creates a strange failure mode: AI can increase intellectual entropy. It can give you more versions, facts, framings, branches, plausible next steps, overlapping summaries, code, notes, and options until the work is simultaneously richer and harder to hold.
 
-It can give you more versions, more facts, more framings, more branches, more plausible next steps, more partially overlapping summaries, more code, more notes, more options.
+The cure is not less intelligence. It is a compaction cycle: generate, aggregate, synthesize, persist, then generate again from the persisted state. The next pass should begin where the previous synthesis ended. Otherwise the system is running laps.
 
-Everything becomes richer and harder to hold.
+There is a catch. Once agent output becomes input to other agents, repetition can masquerade as evidence. One agent states a claim. A second summarizes it. A third cites the summary. A fourth encounters the claim in three places and mistakes copying for corroboration. The system has manufactured consensus without manufacturing a second source.
 
-The user feels powerful and buried at the same time.
-
-The answer is not less intelligence.
-
-The answer is a compaction cycle.
-
-Generate.
-
-Aggregate.
-
-Synthesize.
-
-Persist.
-
-Then generate again from the persisted state.
-
-That last part is what changes everything.
-
-The next generation should begin where the previous synthesis ended.
-
-If it does not, you are running laps.
+So the persisted state needs lineage as well as conclusions. A useful claim carries its source, its last verification date, the uncertainty attached to it, and enough history to distinguish independent evidence from recycled language. Contradictions should survive when the evidence has not resolved them. Superseded conclusions should remain traceable without remaining current. A canonical document that forgets where its confidence came from is not institutional memory. It is a rumor with version control.
 
 Imagine writing a book with an agent.
 
@@ -301,6 +267,10 @@ There is nothing wrong with renting brilliance.
 But do not confuse it with owning an asset.
 
 The asset is the synthesis that remains.
+
+There is also a point at which synthesis stops earning its keep. Cheap generation makes another research pass, another critique, another rewrite, another scenario almost frictionless. That can look like rigor while postponing contact with the world. A loop needs a stopping rule: did the last pass materially change the working state, resolve a decision-relevant uncertainty, improve a test, or change what should happen next? If not, another pass may be cheaper than ever and still not be worth its price.
+
+Eventually reality gets a turn. Ship the feature. Call the customer. Run the experiment. Put the revised manuscript in front of a reader. The most valuable new input is often not another model’s opinion but evidence produced by consequence. Bring that back into the state, and the loop can learn something language alone could not supply.
 
 The musician knows this instinctively.
 
