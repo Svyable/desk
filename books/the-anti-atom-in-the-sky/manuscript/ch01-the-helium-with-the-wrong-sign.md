@@ -1,0 +1,23 @@
+# 1 — The Helium With the Wrong Sign
+
+A helium nucleus is not exotic. Two protons and one or two neutrons, depending on the isotope, are among the most ordinary pieces of nuclear furniture in the universe. Helium is what stars make when hydrogen fusion finally begins paying its energy bill. Cosmic rays carry helium nuclei through the Galaxy in staggering numbers. AMS has measured tens of millions of them with exquisite rigidity spectra.
+
+Reverse every baryon in the nucleus and the epistemology changes.
+
+An antihelium-3 nucleus contains two antiprotons and an antineutron. Antihelium-4 adds a second antineutron. These objects are allowed. They have been made in high-energy collisions. The difficulty is not whether antimatter nuclei can exist. The difficulty is making them in a sparse astrophysical environment in quantities large enough that one survives propagation through a matter-dominated Galaxy and crosses a detector near Earth.
+
+That last clause matters. A cosmic antiproton is no longer shocking. Ordinary high-energy cosmic rays strike interstellar gas and produce antiprotons as secondaries. The astrophysical background is measurable and, with enough care, calculable. An antideuteron is harder. Antihelium is harder again. Each additional antinucleon has to emerge from the same hadronic mess with sufficiently similar momentum and sufficiently close phase-space coordinates to bind rather than fly apart.
+
+This is why antihelium acquired its reputation as a smoking gun. The phrase is useful only until it becomes lazy. A background that is tiny is not a background that is exactly zero. Theoretical predictions depend on antinucleus coalescence models, cosmic-ray transport, collision cross sections, solar modulation, and detector acceptance. Collider data can constrain some of these ingredients but not perfectly reproduce the production environment of galactic cosmic rays. In 2026, work on more universal coalescence descriptions is still improving the translation from collider measurements to cosmic flux predictions.
+
+The instrument problem is equally sharp. AMS measures the sign of rigidity by bending charged particles in a magnetic field. A helium nucleus and an antihelium nucleus with the same momentum bend in opposite directions. That sounds almost embarrassingly decisive. It is not. Track reconstruction can fail. A very high-rigidity positive particle can be assigned negative curvature if the measured sagitta is tiny and detector hits are imperfect. Interactions inside the detector can create confusing topologies. A rare-event search is therefore not just looking for a negative helium-like track. It is trying to prove that an extraordinarily abundant positive-helium population cannot leak into the negative side at the required rate.
+
+The ratio is brutal. When the putative signal is a handful of events among billions of ordinary nuclei, the tail of the reconstruction-error distribution becomes the experiment. You do not get to call it background just because it is inconvenient, and you do not get to call it discovery just because it is hard to simulate.
+
+This is where the antihelium story becomes more interesting than its headline. It sits at the intersection of three kinds of scarcity: physical scarcity, because antinuclei are hard to make; observational scarcity, because only a few candidates have been discussed; and inferential scarcity, because each candidate can carry enormous theoretical weight if accepted. A single well-reconstructed antihelium-4 nucleus from a direction and energy incompatible with ordinary production could force cosmology, dark-matter physics, or antimatter astrophysics to move. That leverage is exactly why standards have to rise as event counts fall.
+
+There is a seduction in counting. One event feels anecdotal. Nine feels like a pattern. Twelve feels like evidence. But twelve events are not twelve votes. Their value depends on how the candidate selection was defined, whether the reconstruction variables are independent, whether the background distribution is trusted in the tail, whether the same events survive alternate pipelines, whether the isotope assignments are stable, and whether a second detector architecture sees compatible flux.
+
+By September 2026, that last possibility is no longer hypothetical. GAPS has flown.
+
+So the book begins with a nucleus and immediately refuses to stay nuclear. The question is not merely whether antihelium is in the data. The question is what chain of reasoning would deserve to move a minus sign in a tracker into a statement about the composition of the universe.
