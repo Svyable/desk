@@ -116,6 +116,28 @@ A model can reconstruct text for reasons other than direct memorization. Some be
 
 The important point is that contamination changes what the evaluator is trying to prove.
 
+Detection becomes harder as soon as exposure stops being verbatim. Early decontamination pipelines often relied on string overlap: remove a training document if it shares a long sequence of tokens with a benchmark question. That catches copies. It is weaker against translations, paraphrases, worked solutions, or synthetic examples that preserve the same problem while changing the surface form.
+
+Research by Shuo Yang and colleagues demonstrated how large that gap can become. They showed that ordinary string-matching defenses can miss benchmark variants created through rewriting or translation, and that a model exposed to transformed test material can still gain a large evaluation advantage. The unsettling part is not one reported score. It is that "not an exact duplicate" does not mean "not exposed to the answer structure."
+
+This turns contamination detection into a semantic problem.
+
+Did the model see these exact words?
+
+Did it see the same mathematical object with different numbers?
+
+Did it see a worked solution whose method transfers almost mechanically?
+
+Did it see a translation of the question?
+
+Did it see synthetic data generated from a model that had already absorbed the benchmark?
+
+Those questions describe a continuum rather than a clean binary label.
+
+The stricter the evaluator becomes, the closer contamination starts to resemble ordinary learning. A student who studies one thousand calculus examples is expected to recognize the structure of a new derivative problem. A model that trains on one thousand benchmark-derived variants may also have learned something general. The evaluation challenge is deciding whether the held-out item still demands meaningful transfer beyond the training examples.
+
+This is why benchmark contamination cannot be diagnosed only by provenance. It also needs a claim about novelty.
+
 Suppose a model answers a difficult chemistry question correctly.
 
 If the item is clean, the answer provides evidence that the system can produce the result on an unseen problem of that type.
@@ -174,6 +196,16 @@ It may also be a different question.
 
 LiveBench takes a more aggressive approach.
 
+Its architecture is worth lingering on because it treats contamination as a scheduling problem as much as a data-cleaning problem. Questions are drawn from recent materials, new releases arrive regularly, and the most recent questions can be held back before full public disclosure. The benchmark is trying to create an evaluation window: a period in which the task exists, ground truth exists, but widespread exposure is less likely.
+
+That window can never be perfectly sealed. A model provider may have access to recent sources. A benchmark contributor can leak material. A search-enabled model may retrieve the source at evaluation time. The method reduces one route of exposure without claiming to solve every route.
+
+The objective scoring design matters too. Many attempts to create fresh benchmarks rely on human preference or another language model as judge because fresh questions are expensive to grade. LiveBench instead emphasizes questions with verifiable answers where possible. This limits one source of judge drift while constraining the kinds of tasks the benchmark can include.
+
+Freshness, objectivity, breadth, and realism pull in different directions.
+
+The current LiveBench site says the full question set refreshes over a six-month cycle. That policy turns benchmark maintenance into an operating cadence rather than a one-time publication event. A model's score should therefore be attached not only to the benchmark name but to the dated release.
+
 Instead of expecting one static benchmark to remain clean indefinitely, the project was designed around renewal. It uses questions derived from recent sources, objective ground-truth answers, regular updates, and delayed release of some current questions. The benchmark refreshes completely over time.
 
 The original paper called the design contamination-free.
@@ -199,6 +231,12 @@ Dynamic benchmarks reduce exposure and sacrifice some comparability.
 The evaluator chooses which risk matters more.
 
 There are more radical options.
+
+One is to create one-time exams. Freeze a model version, commission or generate a fresh test after the training process is complete, evaluate once, then publish the material for scrutiny. The method resembles a sealed clinical endpoint more than a permanent leaderboard. It can provide unusually clean evidence at one moment and almost no reusable infrastructure for continuous public comparison.
+
+Another is to maintain paired public and private forms of the same construct. The public set lets researchers debug and compare methods. The private set estimates how much of the public gain transfers when the exact items have not circulated. If the two move together, contamination becomes a less plausible explanation. If the public score races ahead while the private score stalls, the divergence itself is evidence worth investigating.
+
+Neither design needs a perfect forensic answer about what entered pretraining. They use experimental structure to make exposure less decisive.
 
 Keep the test private.
 
