@@ -1,0 +1,17 @@
+# The Year in the Wood
+
+Solar Superstorms, Tree Rings, and the Atomic Calendar Hidden in History
+
+Sven Hardy Benson
+
+There are dates we know because somebody wrote them down. There are dates we infer because pottery changed, coins changed, kings changed, ice thickened, a volcanic ash layer arrived, or enough carbon-14 remained in a piece of wood to place it inside a century. And then there are dates the Sun wrote for us.
+
+A handful of years in the past contain abrupt, globally detectable increases in cosmogenic radionuclides. The best known are 774/775 CE and 993/994 CE, first recognized in annual tree rings by Fusa Miyake and colleagues. Related signatures appear in beryllium-10 and chlorine-36 in polar ice. The leading interpretation is that these were extreme solar energetic particle events, stronger than anything directly measured in the modern instrumental era. The exact astrophysical details remain active science. The existence of the isotope excursions does not.
+
+This book is about the accident hidden inside that distinction. A solar event violent enough to alter atmospheric isotope production also creates a timestamp. Once the year of the spike is known in an absolutely dated tree-ring chronology, an undated timber containing the same spike can be tied to that year. If the outer bark or waney edge survives, the rings between the spike and the tree's felling can be counted. A storm becomes a calendar mark.
+
+That is how wood from L'Anse aux Meadows helped establish Norse activity in North America in 1021 CE. It is how timbers from Por-Bajin in Tuva were used to place construction in the summer of 777. It is how a 5259 BCE event helped anchor the Neolithic pile-dwelling chronology at Dispilio in northern Greece to calendar years. The Sun's bad day became archaeology's good ruler.
+
+The evidence in these pages is kept in four bins. The first contains directly measured and independently replicated facts: isotope spikes in annual rings, matching radionuclide excursions in ice, dated tree-ring chronologies, published archaeological applications. The second contains strong but model-dependent inference: spectral reconstruction, event magnitude, precise season, and the extent to which a particular excursion was caused by one solar event rather than a more complicated sequence. The third contains disputed or incompletely supported claims: historical chronicles proposed as eyewitness records of particular events, exact recurrence intervals inferred from sparse and non-randomly sampled archives, and confident statements about what an equivalent event would do to modern civilization. The fourth contains synthesis: treating Miyake events as a distributed natural timestamp network, designing deliberate searches for new event years, and asking whether archaeology and space-weather risk science should share an observing program.
+
+I am not interested in turning the Sun into an apocalypse machine. I am interested in the stranger thing the evidence already gives us: trees that quietly kept an annual record of particle radiation from space, long before anyone had a detector, and archaeologists who can now use those invisible scars to date human acts to the year. That is enough.
