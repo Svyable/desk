@@ -86,6 +86,14 @@ From the agent's perspective, both are pages.
 
 The instrument therefore has to decide which routes to an answer count.
 
+That decision becomes easier when sources have lineage. Imagine a web benchmark in which every cited page is timestamped relative to the benchmark's creation. A source published before the test was written is presumptively independent. A source published later may still be legitimate, but it deserves inspection. If it quotes the benchmark itself, the provenance graph exposes the circularity.
+
+This is not perfect. A preexisting source can contain the answer by coincidence. A later source can independently establish the fact. Publication dates can be misleading, and mirrors can preserve old content under new URLs. The value is not a mechanical guilty-or-innocent rule. It is visibility into how the answer traveled.
+
+Agentic systems make that possible because they leave action traces. Search queries, fetched URLs, document timestamps, and cited passages can be logged. The evaluator can distinguish a model that found a primary source from one that found a paper discussing the benchmark, even when both final answers are identical.
+
+That suggests an important change in scoring. For open-world tasks, provenance may need to be part of correctness.
+
 This question is older than artificial intelligence.
 
 Open-book exams permit resources and closed-book exams do not.
@@ -300,6 +308,10 @@ The evaluator has to encode it.
 
 One option is provenance-aware scoring.
 
+That produces a hierarchy of evidence rather than a binary contamination flag. A primary record that predates the benchmark can carry more weight than a benchmark-analysis paper published afterward. A source whose wording exactly matches the test question can trigger review. An answer assembled independently from several old sources can remain valid even if a leaked answer also exists somewhere on the web.
+
+This approach changes the benchmark's labor economics. Answer matching is cheap. Source review is expensive. Automated provenance checks can flag suspicious paths, but human reviewers may still need to decide whether a page is derivative. A benchmark with one thousand questions and thousands of agent runs can generate a mountain of source traces. The cost is real. So is the cost of not knowing why the agent was right.
+
 Do not score only the final answer.
 
 Record which sources were used.
@@ -315,6 +327,10 @@ A final answer can be correct for the wrong evidentiary reason.
 A trace can show how the answer was obtained.
 
 That creates a new class of meter.
+
+It also creates a temporal problem. A web benchmark can be valid on Monday and compromised on Friday if a solution post becomes searchable in between. Evaluators may need to record not only which model and harness were used but the search date and, ideally, enough of the environment to reconstruct what was available. A score without a time stamp can outlive the web state that made it meaningful.
+
+This resembles market data more than a school exam. Nobody expects last month's bid-ask spread to describe today's market. Web-agent benchmarks may need the same instinct: the environment is part of the observation, and the observation has a date.
 
 Instead of asking only whether the answer matches, the evaluator can ask whether the search process stayed inside an acceptable evidentiary boundary.
 
