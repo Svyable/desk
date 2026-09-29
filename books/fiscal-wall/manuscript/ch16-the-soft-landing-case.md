@@ -144,21 +144,17 @@ A baseline is current law plus economic assumptions.
 
 Politics can surprise in both directions.
 
-The soft-landing case also benefits from a property unique to nominal debt.
-
-Time can shrink its burden if nominal income grows.
+The soft-landing case also benefits from a property of nominal debt: the burden is a ratio, not a household balance due on one date.
 
 Suppose the debt stock rises by three percent a year while nominal GDP rises by five. The debt ratio falls even though the government never writes a giant principal check.
 
-This was part of the postwar U.S. experience.
+After World War II, that arithmetic became dramatic. [CBO's historical series](https://www.cbo.gov/publication/56309) puts debt held by the public at 106 percent of GDP in 1946 and 23 percent in 1974. The nominal debt did not vanish. The denominator grew much faster.
 
-Inflation contributed, but so did real growth and fiscal balances. The debt was not “paid off” in a household sense. The economy grew around it.
+But “the economy grew around it” is too clean a description of how. A 2023 decomposition by Julien Acalin and Laurence Ball asks what the path would have looked like without primary surpluses, surprise-inflation effects, and the unusually low real borrowing costs associated with the pre-1951 interest-rate peg. In their counterfactual, debt still falls, but only to about 74 percent of GDP in 1974 rather than the observed 23 percent. The early postwar years also began under a [Treasury-Federal Reserve arrangement](https://www.federalreservehistory.org/essays/treasury-fed-accord) that held short Treasury bill rates at 3/8 percent and implicitly capped long bond yields at 2.5 percent before the 1951 Accord restored monetary-policy independence. ([Acalin and Ball, 2023](https://www.nber.org/papers/w31577))
 
-The same route remains available in principle.
+That decomposition is a model, not a time machine. Its quantitative shares depend on assumptions about the interest rate that would otherwise have prevailed, the fiscal balance, inflation, and the maturity structure of the debt. It would be just as misleading to replace “growth did it” with “financial repression did it.”
 
-The challenge is achieving enough nominal growth without relying on high inflation that raises future borrowing costs and damages real incomes.
-
-Healthy nominal growth is real growth plus modest stable inflation.
+The useful precedent is narrower. A very high debt ratio can fall without a household-style payoff when several mechanisms reinforce one another: real growth, fiscal adjustment, inflation, and financing conditions. A present-day soft landing should not depend on recreating a wartime rate peg or surprising bondholders with inflation. It needs the less theatrical combination this chapter has been building toward—productive growth, a primary balance that improves, and borrowing costs that do not outrun the economy indefinitely.
 
 That is a softer path than explicit default, surprise inflation, or severe austerity.
 
