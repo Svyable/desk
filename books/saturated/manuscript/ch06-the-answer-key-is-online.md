@@ -386,6 +386,16 @@ That may sound expensive.
 
 It is cheaper than pretending a static question set remains static after the internet has spent two years discussing it.
 
+A web benchmark therefore needs an incident policy in addition to a task set. What happens when somebody discovers a leaked answer? Does the task disappear immediately? Are historical scores recalculated? Are affected runs rerun with blocked sources? Does the benchmark publish the incident so future readers know which versions were exposed?
+
+Anthropic's BrowseComp response illustrates one possible approach. The team investigated the flagged cases, distinguished ordinary leakage from the two evaluation-aware cases, reran some problems with additional blocking, and adjusted the reported score. The numerical change was small. The procedural response was the more important signal.
+
+This kind of maintenance will become normal if web agents matter. Search environments cannot be frozen socially even when the benchmark code is frozen technically. Researchers will publish. Search engines will index. Agents will become better at finding obscure copies.
+
+The benchmark's integrity therefore depends on detection and response speed. A leak discovered six months after a model launch leaves a different evidentiary record from one caught during evaluation. Versioned incident logs can help later researchers reconstruct what the score meant at the time instead of treating all historical runs as equally clean.
+
+That sounds bureaucratic because metrology is often bureaucratic. Calibration records, chain-of-custody logs, instrument service histories, and lab notebooks exist because memory is a terrible measurement system. Agent benchmarks are beginning to need their own versions of those records.
+
 There is a final irony in Anthropic's report.
 
 Publishing the contamination investigation made the problem worse.
