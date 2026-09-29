@@ -1,45 +1,33 @@
 # Loma Prieta's Broken Sensor
 
-The Corralitos magnetometer looked like the kind of evidence everyone in this field wanted.
+The Corralitos magnetometer had almost everything an earthquake precursor could ask for: proximity, timing, and a signal strange enough to remember.
 
-Before the magnitude 6.9 Loma Prieta earthquake of October 18, 1989, researchers reported anomalous ultra-low-frequency magnetic noise at a station only a few kilometers from the epicenter. The timing was seductive. The location was seductive. The frequency band was exactly the sort of place one might expect slow geophysical processes to leave a mark.
+At 5:04 p.m. local time on October 17, 1989, the Loma Prieta earthquake struck the Santa Cruz Mountains. Seven kilometers from the epicenter, a Stanford ultra-low-frequency instrument had already recorded unusual magnetic behavior. The original 1990 paper described a narrow-band signal beginning around September 12, a broad rise in background noise beginning October 5, a dip across part of the spectrum one day before the earthquake, and, most dramatically, exceptionally high activity between roughly 0.01 and 0.5 hertz starting about three hours before the shock.
 
-For years the result became one of the canonical examples of a possible electromagnetic earthquake precursor.
+The authors were not simply staring at one twitching needle. Their experiment covered twenty-five frequency bands from 0.01 hertz to 32 kilohertz using two monitoring systems. The second system, on the Stanford campus about fifty-two kilometers away, showed no precursor they could identify. They also considered obvious alternatives for the Corralitos rise, including upper-atmospheric magnetic activity and local seismic shaking. What remained was local, timed to the earthquake, and physically suggestive enough that they wrote that the anomalies “may have been magnetic precursors.”
 
-Then somebody read the logbook.
+That restraint matters. The famous claim did not begin as a declaration that earthquake prediction had been solved. It began as a difficult-looking residual.
 
-In 2009, Jeffrey Love, Jeremy Thomas and Malcolm Johnston reexamined twenty-one months of Corralitos data, compared them with records from Fresno and Japan, and studied the station's operational history. They found baseline shifts and other anomalies not confined to the pre-earthquake period. Their conclusion was brutal: the famous signal was not a precursor. It was an artifact of sensor-system malfunction.
+Nineteen years later, the residual changed identity.
 
-This is one of the best stories in the book because nothing supernatural happens.
+Jeremy Thomas, Jeffrey Love, and Malcolm Johnston went back through all twenty-one months of available Corralitos data, from January 1989 through October 1990. They did something less glamorous than proposing a new crustal mechanism: they read the station logbook and compared Corralitos with independent records from Fresno, Japan, and the global Kp magnetic-activity index. The wider record showed baseline changes and other problems not confined to the weeks before Loma Prieta. Their conclusion was unambiguous. The reported precursor was an artifact of sensor-system malfunction.
 
-An instrument lied.
+The correction is more interesting than the slogan “the sensor was broken.” A broken instrument does not have to produce gibberish. It can produce structure. Baselines jump. Gain changes. grounding problems appear intermittently. Local interference comes and goes. Maintenance changes behavior. Components age. A bad instrument can generate a time series coherent enough to invite physics.
 
-More precisely, an instrument behaved in ways that became meaningful only because a major earthquake later occurred nearby.
+Then an earthquake happens nearby and hindsight supplies the plot.
 
-That possibility should haunt every anomaly field. Sensors fail with personality. They drift. Saturate. Ground poorly. Pick up local interference. Change after maintenance. Develop temperature dependence. A malfunction rarely announces itself as random white noise. It can create coherent patterns that look physical.
+This is the dangerous geometry of anomaly research. The more exceptional the later event, the more aggressively the earlier record gets searched for something that looks like anticipation. A feature that would have been filed as an instrument problem in an ordinary month can acquire enormous narrative weight when it sits three hours before a magnitude-6.9 earthquake.
 
-The closer a suspicious pattern sits to an extraordinary event, the more reluctant researchers become to discard it. The event supplies narrative pressure.
+The original investigators had a reasonable counterargument available: a genuine crustal signal might be local. The absence of a matching anomaly fifty-two kilometers away does not, by itself, kill the precursor interpretation. Nor does later equipment trouble prove that every feature in the record came from the same cause. A local physical source and a local instrument fault can both produce the spatial pattern “Corralitos only.”
 
-Loma Prieta shows why long baseline data matter more than dramatic windows. If investigators had examined only the days before the earthquake, the anomaly would look exceptional. Across twenty-one months, similar baseline behavior appeared at other times. The denominator returned and the miracle shrank.
+That is precisely why the long baseline matters. Thomas, Love, and Johnston did not defeat the precursor by demanding that a local signal appear globally. They showed that the instrument itself had a history capable of producing suspicious baseline behavior outside the famous window. Once the machine has demonstrated that behavior when no major nearby earthquake follows, the burden shifts. The extraordinary three-hour coincidence still exists as a coincidence, but it no longer arrives from an instrument we are entitled to treat as stable.
 
-The Japanese comparison was also important. A genuine large-scale geomagnetic phenomenon should obey spatial logic. Local equipment trouble does not have to.
+This distinction is easy to lose because published plots look cleaner than instruments feel. A figure arrives with axes, labels, and a smooth caption. The cable, battery, amplifier, grounding, clock, enclosure, maintenance history, and operator notes disappear. Yet those mundane things are part of the measurement. The detector is not a transparent window onto the planet. It is another physical system in the experiment.
 
-This is not an argument that every reported pre-earthquake magnetic signal is broken hardware. It is an argument that hardware failure belongs inside the physical model until eliminated.
+That lesson becomes more important, not less, when the detector moves into orbit. Satellite particle sensors age. Spacecraft charge. Local time drifts with the orbit. Calibration changes. Processing pipelines get revised. Solar and geomagnetic conditions supply backgrounds that are neither stationary nor polite. A statistically unusual feature can begin in the crust, the ionosphere, the spacecraft, or the software that turns telemetry into a plotted variable.
 
-The same principle applies to satellites. Particle detectors age. Orbit local time changes. Instrument response shifts. Spacecraft charge. Data pipelines update. A statistically significant anomaly can originate inside the machine observing the planet.
+Loma Prieta therefore does not prove that electromagnetic earthquake precursors are imaginary. It proves something more useful: a plausible mechanism and a striking temporal coincidence cannot rescue a signal from an inadequately characterized instrument.
 
-Engineers understand this instinctively because anomalies are their daily weather. Science sometimes forgets because published figures have already passed through calibration software and arrive looking clean.
+The case also explains why corrections deserve their own infrastructure. The 1990 result became canonical because it was memorable. The 2009 reanalysis is less cinematic. No prediction succeeds, no mystery deepens, no new force appears. A logbook and a longer time series make a famous anomaly smaller.
 
-There is an ethical dimension too. A precursor claim attached to a famous disaster can become immortal long after the underlying data are discredited. Review articles cite review articles. Popular books cite old papers. Search engines preserve the exciting claim more efficiently than the correction.
-
-The original result accumulates cultural mass.
-
-Corrections do not travel at the same speed.
-
-That asymmetry is why evidence ledgers matter. A field should maintain explicit status for its canonical cases: replicated, unresolved, explained, instrument artifact, co-seismic, post-seismic, contested. Otherwise the literature becomes a museum where every anomaly remains on display forever.
-
-Loma Prieta also offers a healthier reading. The failure was productive. The reanalysis improved standards for magnetic precursor work. It forced attention onto instrument health, long baselines and global geomagnetic comparison. A beloved result died and the science became better equipped to recognize a real one.
-
-That is not suppression.
-
-That is what scientific memory is supposed to do.
+But that is scientific progress too. Sometimes the Earth becomes less mysterious because somebody finally studies the machine that was listening to it.
