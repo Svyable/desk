@@ -1,0 +1,33 @@
+# Chronology
+
+- **1945** — Soviet schoolchildren present U.S. Ambassador Averell Harriman with the carved Great Seal containing the passive resonant-cavity listening device later known as “the Thing.” The device demonstrates an operational Soviet use of externally supplied RF energy for espionage.
+- **1952** — The Great Seal bug is discovered.
+- **1953 onward** — U.S. monitoring detects microwave/RF energy directed at the U.S. Embassy in Moscow. Later records describe long-running exposure with changes in level and source geometry over time.
+- **June 1964** — Jerome Wiesner reports to Clark Clifford after a security review of the embassy and urges greater effort to understand or stop the unexplained microwave signal.
+- **May 1965** — ARPA scientist Samuel Koslov recommends biomedical investigation of Moscow-type waveforms in higher primates.
+- **October 15, 1965** — Richard Cesaro writes the TOP SECRET justification memorandum for Project PANDORA. The wider multiagency effort is identified as TUMS, Technical Unidentified Moscow Signal.
+- **1965-1966** — State Department medical personnel arrange blood sampling connected to the Moscow exposure question under a “Moscow Viral Study” cover; George Washington University receives a cytogenetics contract.
+- **June 25, 1967** — At the Glassboro summit, Secretary of State Dean Rusk raises the electromagnetic signal with Soviet Foreign Minister Andrei Gromyko.
+- **September 1967** — CIA/ARPA memoranda record materially lower TUMS power-density estimates after improved on-site measurements. The earlier provocative primate result had been obtained under a stronger exposure assumption; work at corrected lower levels does not show overt performance degradation.
+- **December 31, 1968 / January 2, 1969** — Herbert Pollack visits USS *Saratoga* and reports on plans for the BIG BOY occupational comparison of RF-exposed and less-exposed personnel.
+- **April-May 1969** — PANDORA meetings record negative early BIG BOY comparisons, insufficient evidence from primate work, and planning for a controlled human exposure program. Minutes discuss six-month exposure, blinding, shielding, classification, and cover.
+- **November 4, 1969** — Samuel Koslov's RAND review concludes that PANDORA primate data do not establish behavioral change caused by the special signal within reasonable scientific criteria.
+- **March 1970** — PANDORA ends, according to later DARPA reporting.
+- **August 16, 1971** — A RAND-led panel reviewing related Navy chronic low-level animal work finds no scientifically credible material supporting the claimed effects and criticizes experimental management and animal care.
+- **1975** — U.S. monitors detect additional/stronger signals at the Moscow embassy, increasing concern and political pressure.
+- **1975-1976** — Ambassador Walter Stoessel pushes Washington to protest more forcefully and inform embassy employees.
+- **Early 1976** — Embassy personnel are briefed on the microwave exposure; information quickly becomes public and produces controversy.
+- **1977** — Congressional attention intensifies. DARPA Director George Heilmeier later reports that PANDORA cost about $4.615 million and ended in 1970.
+- **1978** — Lilienfeld and colleagues complete the Foreign Service Health Status Study comparing Moscow personnel/dependents with other Eastern European Foreign Service populations.
+- **April 1, 1979** — Senate Commerce Committee staff review concludes that employees should have been informed earlier and finds no convincing evidence at that time directly implicating Moscow microwave exposure in adverse health effects, while noting unresolved long-term questions.
+- **1984-1985** — Historical and scientific debate around microwave safety and the Moscow episode becomes more accessible through Nicholas Steneck's work and FOIA-driven public reporting.
+- **2012** — J. Mark Elwood publishes a methodological review of the Moscow cohort supporting the broad interpretation of the original study.
+- **2016 onward** — U.S. personnel in Havana and later other locations report anomalous health incidents, reviving public interest in Moscow as a possible historical precedent.
+- **2020** — National Academies committee judges directed pulsed RF energy the most plausible among mechanisms considered for distinctive acute features in some AHI cases, while stressing major information gaps.
+- **February 2022** — IC Experts Panel states that pulsed electromagnetic energy, particularly RF, plausibly explains core characteristics of a subset of AHIs; ultrasound is plausible in more constrained scenarios.
+- **September 13, 2022** — National Security Archive publishes a major declassified Moscow Signal/PANDORA document collection.
+- **March 1, 2023** — Intelligence Community assessment says most agencies judge a foreign adversary very unlikely to be responsible for reported AHIs overall.
+- **July 29, 2024** — GAO reports on treatment-access and coordination problems affecting AHI patients, separating care obligations from unresolved causation.
+- **January 10, 2025** — ODNI releases an updated AHI assessment covering new information through December 2024. Most of the IC maintains that foreign responsibility is very unlikely overall, while some components retain narrower concerns and capability questions.
+- **July 17, 2025** — Senate intelligence committee-reported FY2026 authorization language calls for further review and declassification involving AHI, known-cause comparison incidents, foreign weapons research, and intelligence detection capability.
+- **September 13, 2026** — Current manuscript source check. No later public intelligence assessment located in this run supersedes the January 2025 AHI ICA as the principal current unclassified IC judgment.
