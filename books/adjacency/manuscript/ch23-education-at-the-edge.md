@@ -346,9 +346,7 @@ Good teachers already understand this. They model a process, guide practice, red
 
 AI tutors need an equivalent discipline.
 
-Sometimes the correct next action is not to retrieve more help.
-
-It is to wait.
+Sometimes the correct next action is to wait rather than retrieve more help.
 
 Ask the student to recall the principle before showing it. Ask for a prediction before revealing the worked example. Delay the hint. Return to the concept a day later without the previous context. Change the surface form. Remove the calculator. Ask the learner to explain why an answer is wrong.
 
@@ -410,10 +408,6 @@ If AI can personalize the route while common standards preserve the destination,
 
 One student may need more examples before abstraction. Another may need a harder transfer problem sooner. Another may need the same concept translated across language or modality. The system can vary the bridge without quietly deciding that different students deserve different intellectual horizons.
 
-That is a demanding design principle because personalization systems naturally optimize local fit.
+Personalization systems naturally optimize local fit; education requires local fit in service of a shared future capability.
 
-Education requires local fit in service of a shared future capability.
-
-The learner's current neighborhood matters.
-
-It should never be mistaken for the boundary of the learner's world.
+The learner's current neighborhood matters. It should never be mistaken for the boundary of the learner's world.

@@ -262,9 +262,7 @@ This brings us back to discovery as search economics.
 
 Suppose a model does not invent a drug. Suppose it merely reduces the number of compounds a team must synthesize from ten thousand to one hundred while preserving most of the promising candidates.
 
-That is not a cinematic breakthrough.
-
-It can transform a program.
+That may not be a cinematic breakthrough, and it can still transform a program.
 
 Suppose a protein representation helps a researcher identify a remote family member that conventional sequence search missed. Suppose a molecular embedding surfaces a structurally different compound worth testing. Suppose a materials model finds an underexplored region where several independent signals agree.
 
@@ -304,13 +302,7 @@ The scientist decides where an expedition is worth mounting.
 
 Chemistry makes the lesson unusually clear because no amount of semantic elegance changes the final standard.
 
-The molecule has to work.
-
-That is the advantage of fields with stubborn reality.
-
-A nearest neighbor can persuade a person.
-
-It cannot persuade a protein to fold.
+The molecule has to work. That is the advantage of fields with stubborn reality: a nearest neighbor can persuade a person; it cannot persuade a protein to fold.
 
 ## The Edge of Chemical Space
 
@@ -328,7 +320,7 @@ A discovery program asks a harder question.
 
 Can the model remain useful when the scaffold changes, the chemistry shifts or the candidate occupies a sparse region of the learned space?
 
-That is why evaluation schemes that separate chemical families can be more revealing than easy random splits. The goal is not to punish the model. It is to measure the regime that matters for discovery.
+That is why evaluation schemes that separate chemical families can be more revealing than easy random splits: they measure the regime that matters for discovery.
 
 Recent work examining molecular deep learning at the edge of chemical space reinforces this caution. Models can degrade when asked to make predictions far from their training support. The exact behavior depends on task, representation and dataset, but the larger point is durable: every model has an applicability domain, whether or not the interface exposes it.
 
