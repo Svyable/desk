@@ -1,0 +1,19 @@
+# Back Matter
+
+The remote-viewing archive is unusually vulnerable to source collapse. A single sentence can migrate from an operational transcript into a contractor summary, from the summary into a participant memoir, from the memoir into a documentary, and from the documentary back into online discussion as if four independent sources now exist. They do not.
+
+The research files accompanying this manuscript therefore privilege contemporaneous and near-primary records: CIA’s electronic reading room; declassified Army/DIA session reports; the 1974 Nature paper by Russell Targ and Harold Puthoff; skeptical replies and cue analyses by David Marks, Richard Kammann, and collaborators; the National Research Council’s 1988 review of paranormal human-performance techniques; and the 1995 American Institutes for Research evaluation commissioned by CIA, including the differing assessments associated with Jessica Utts and Ray Hyman.
+
+Readers should preserve several distinctions when following sources out of the book. A declassified document proves the document existed and that its author or institution recorded the claim. It does not automatically prove the underlying event or interpretation. A participant’s firsthand recollection is valuable testimony but remains vulnerable to memory, selection, and later feedback. A patent documents a filing, not efficacy. Government interest documents interest, not validation. A low probability value documents a statistical result under a model, not an identified paranormal mechanism.
+
+The manuscript’s most important unresolved research task is consecutive-case reconstruction. Famous sessions should be placed back into the sequence from which they came, with original tasking, complete transcripts, timestamps, target feedback, evaluator comments, and neighboring misses. Until that work is substantially complete, claims about operational hit rates should remain conservative.
+
+The same discipline applies to claims that a successor program continued after the publicly documented termination. Such continuation is possible in the abstract because classified programs continue to exist. Possibility is not evidence. A credible claim would require authenticated program records, budgets, tasking, official testimony, or other independently checkable documentation.
+
+The strongest future scientific work would be adversarial and preregistered. It would use automated target selection, cryptographic commitments, complete blinding, predeclared scoring, independent laboratories, full data release, prospective identification of high-performing viewers, and operational-like tasks that measure information gain rather than post hoc resemblance. A real anomaly should benefit from such pressure. An artifact should not.
+
+The strongest future historical work would be less glamorous: page-index the AIR report; build a session-level denominator for selected operational periods; separate government program names and sponsors by year; reconstruct Soviet- and East-European-threat assessments from their original evidence; compare customer evaluations with raw transcripts; and distinguish what the program knew internally from what later participants remembered.
+
+The book’s thesis is intentionally defeasible. If authenticated records show sustained prospective operational accuracy with known false-positive rates and material decision value, the claim that remote viewing remained an untaskable signal must narrow or fail. If consecutive-case reconstruction shows that celebrated hits dissolve systematically under full-context scoring, the scientific residue likewise narrows.
+
+That is the desired outcome of an evidentiary history: not a story protected from contradiction, but a story with places where contradiction can enter.
