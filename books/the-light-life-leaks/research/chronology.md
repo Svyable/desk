@@ -1,0 +1,29 @@
+# Chronology
+
+- **1920s** — Alexander Gurwitsch develops the concept of “mitogenetic radiation,” proposing that dividing biological tissue emits ultraviolet radiation capable of influencing mitosis in nearby tissue.
+- **1934** — E. Lorenz publishes a photoelectric search for mitogenetic radiation in the *Journal of General Physiology* and reports no detectable radiation from the tested biological materials at the stated sensitivity.
+- **1970s–1980s** — Fritz-Albert Popp and collaborators develop a research program around biological ultraweak photon emission, coherence, delayed luminescence, and DNA-source hypotheses.
+- **1984** — Popp et al. publish “Biophoton emission. New evidence for coherence and DNA as source.”
+- **1986–1991** — Japan's ERATO program funds the INABA Biophoton Project under Humio Inaba, emphasizing ultraweak-light detection, spectroscopy, biological imaging, singlet-oxygen measurement, and related optical technology.
+- **1987** — INABA-project researchers report ultra-high-sensitivity detection work for biological photon emission.
+- **1988** — Project researchers report weak photon measurements from human breath and sputum.
+- **1990** — Project-affiliated work reports measurements from the human body surface and ultrasensitive near-infrared chemiluminescence methods for singlet oxygen.
+- **1991** — Devaraj et al. publish oxygen-dependent ultraweak emission from rat liver nuclei with evidence supporting oxidative/peroxidative origins and possible singlet-oxygen involvement.
+- **1991** — Scott et al. use intrinsic ultraweak emission to monitor a phase transition in mammalian nuclear membranes through lipid-peroxidation kinetics.
+- **1991** — Hideg, Kobayashi, and Inaba report spontaneous ultraweak emission from respiring spinach mitochondria, with effects of respiratory inhibitors and evidence implicating lipid peroxidation/singlet oxygen.
+- **1997** — Kobayashi and colleagues publish two-dimensional UPE imaging of germinating soybean seedlings using a highly sensitive CCD camera.
+- **2005** — A study reports localized ultraweak photon emission from herbivory-injured maize and effects of caterpillar oral secretions on wound-associated emission.
+- **2009** — Winkler, Guttenberger, and Klima report changes in spontaneous and induced photon emission after plant wounding.
+- **2009** — Kobayashi, Kikuchi, and Okamura publish human-body UPE imaging showing a diurnal rhythm.
+- **2016** — Shi, Galvez, and Alfano report that externally prepared entangled photons can retain measurable quantum correlations after transmission through brain tissue; the study does not show endogenous brain photon entanglement.
+- **2020** — Tsuchida et al. report characteristic UVA-induced UPE spectra from skin-related biomolecules and human skin tissue, supporting multiple molecular contributors to oxidative emission.
+- **2023** — A paper reports altered respiration in physically/chemically separated mitochondrial preparations when an adjacent preparation is stressed, with effects dependent on preparation type and ambient-light condition; optical mediation remains unisolated.
+- **2023** — A rat study reports methamphetamine-associated increases in ROS and UPE in multiple brain regions and discusses possible relevance to metabolic optical signals.
+- **2024** — Mould et al. publish a modern review of UPE mechanism, measurement, history, and biomedical possibilities.
+- **2024** — Babcock revisits Gurwitsch's onion experiment through open quantum systems theory; the work is theoretical rather than an experimental replication of mitogenetic signaling.
+- **2024** — Pietruszka and Marzec report ultraweak emission from barley genomic DNA and interpret additional observations in terms of non-equilibrium/coherent phenomena; independent confirmation remains needed.
+- **2024 Nov.** — Salari et al. post a preprint describing UPE imaging of living/dead mice and stressed plants.
+- **2025 Apr. 24 / May 1** — The Salari et al. study is published in *Journal of Physical Chemistry Letters*, reporting strong live-versus-dead mouse contrast and plant UPE changes with temperature, injury, and chemical treatment.
+- **2025 Jun.** — A Frontiers perspective develops a biophotonic-signaling concept for body and brain while acknowledging unresolved mechanism and evidence gaps.
+- **2026 Feb.** — A review in *International Review of Neurobiology* surveys proposed roles for biophotons in cellular communication.
+- **2026 Jun.** — A *Neurology* conference review summarizes emerging neural-UPE biomarker literature and highlights disease/metabolic associations while calling for further translational work.
