@@ -1,0 +1,22 @@
+# Chronology
+
+- **1944–45** — Allied aircrews report luminous “foo fighter” phenomena in European and Pacific theaters. Later UFO literature absorbs some of these reports, but their causes remain heterogeneous and unresolved.
+- **24 June 1947** — Kenneth Arnold’s Mount Rainier report helps popularize the modern “flying saucer” wave.
+- **1947–48** — The U.S. Air Force begins formal study through Project SIGN; concern includes the possibility of foreign technology.
+- **1949** — Project GRUDGE succeeds SIGN, with a more skeptical institutional posture.
+- **1951–52** — Reporting rises again; the Air Force establishes Project BLUE BOOK in 1952 under Air Technical Intelligence Center.
+- **19–20 July 1952** — Washington National Airport / Andrews-area radar reports and visual claims trigger attention and interceptor activity.
+- **26–27 July 1952** — A second Washington-area episode renews national press attention.
+- **Summer–autumn 1952** — CIA Office of Scientific Intelligence and Office of Current Intelligence examine the UFO problem amid concern over the volume and national-security implications of reporting.
+- **14–17 January 1953** — CIA-sponsored Scientific Advisory Panel on Unidentified Flying Objects, later known as the Robertson Panel, meets.
+- **17 January 1953** — Panel report concludes no direct physical national-security threat is shown by the evidence presented, while warning that continued emphasis on UFO reporting could clog communications, generate false-alarm effects, and be exploited by an adversary. It recommends training/public education and reduction of the subject’s “aura of mystery.”
+- **1953 onward** — CIA’s intensive UFO interest declines, though monitoring continues intermittently. BLUE BOOK remains the Air Force’s public-facing investigative machinery.
+- **Mid-1950s onward** — U-2 and later OXCART/A-12 reconnaissance create a new classified-aircraft complication: observers can sincerely report objects whose real identity officials cannot publicly disclose.
+- **1966** — Air Force commissions an outside scientific study at the University of Colorado under Edward Condon.
+- **1968** — The Condon Report is published; National Academy review broadly endorses its conclusion that further extensive UFO study is unlikely to yield major scientific advances.
+- **17 December 1969** — Air Force announces termination of Project BLUE BOOK.
+- **1970s–1990s** — Declassification, FOIA releases, memoirs, archival research, and CIA historical work reveal more of the government’s internal concern and the classified-aircraft overlap.
+- **1997** — CIA historian Gerald K. Haines publishes a major institutional history of CIA UFO involvement in *Studies in Intelligence*.
+- **2016** — CIA publishes a public retrospective on investigative methods, explicitly restating the Robertson-era concern that hostile actors could exploit UFO reporting to overload warning systems.
+- **2020s** — “UAP” becomes a renewed official intelligence/defense category with new reporting structures, congressional requirements, AARO, and a dedicated National Archives collection under Record Group 615.
+- **2024–26** — NARA expands centralized UAP archival access and bulk-download infrastructure, making the old secrecy-versus-analysis problem newly inspectable at scale.
