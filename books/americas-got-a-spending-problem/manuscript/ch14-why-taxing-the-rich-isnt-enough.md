@@ -146,29 +146,13 @@ Rich people can afford accountants precisely because the stakes are high.
 
 That makes tax administration part of the policy rather than an afterthought.
 
-The Internal Revenue Service's projected gross tax gap for tax year 2022 was about $696 billion.
+The Internal Revenue Service projects a $696 billion gross tax gap for tax year 2022: federal tax liability it estimates was not paid voluntarily and on time. Gross matters here. The IRS projects that about $90 billion will arrive later through enforcement and other late payments, leaving a $606 billion net gap.
 
-That figure covered taxes across the system, not merely taxes owed by the wealthy, and it is not a bag of cash waiting to be collected with perfect enforcement. Some noncompliance is difficult to detect. Some estimates rely on assumptions. Enforcement has costs. Disputes take time. Some liabilities are never collectible.
+Neither number is a cash drawer waiting for a better lockpick. The 2022 figure is a projection built largely by carrying forward compliance behavior estimated from completed audits of tax years 2014 through 2016. It covers the federal tax system broadly—individual, corporate, employment, and estate taxes—not merely wealthy households. And even the $606 billion net figure is not a score for some hypothetical enforcement bill. What can actually be recovered depends on which noncompliance can be detected, proved, litigated, and collected, at what administrative cost, and how taxpayers respond.
 
-Still, the scale matters.
+That distinction makes the number more useful, not less. The IRS consistently finds much higher compliance when someone besides the taxpayer reports the income, and higher still when tax is withheld before the money arrives. A wage reported on a W-2 leaves less room for invention than income that must be reconstructed from a complicated business or asset position.
 
-A tax system that writes rules without investing enough in compliance creates a quiet spending program for people who are best able or most willing to evade them.
-
-The legal tax rate becomes less relevant than the collected tax rate.
-
-This is one place where fairness and fiscal capacity align.
-
-Third-party reporting and withholding produce high compliance because the government receives information independently of the taxpayer.
-
-Complex business and investment income can be harder to observe.
-
-That makes information systems, reporting rules, audit capacity, and international cooperation fiscal infrastructure.
-
-A country can raise statutory taxes on the wealthy and still undercollect them if the administrative system is weak.
-
-It can also enforce aggressively and still fail to close a structural deficit if the underlying legal tax base is too narrow relative to spending.
-
-These are separate problems.
+So tax administration is fiscal infrastructure. Reporting rules, audit capacity, usable data, and international cooperation determine how much of a statutory tax becomes collected revenue. A country can raise statutory taxes on the wealthy and still undercollect them if the administrative system is weak. It can also build an excellent collection system and still fail to close a structural deficit if the legal tax base is too narrow relative to spending. Those are different failures, and a large tax-gap estimate should not be allowed to blur them.
 
 The fourth limit is political rather than economic.
 

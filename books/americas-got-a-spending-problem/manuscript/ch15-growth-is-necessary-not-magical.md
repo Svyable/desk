@@ -1,68 +1,14 @@
 # Growth Is Necessary, Not Magical
 
-If America could grow fast enough, many of its spending problems would become easier without anybody receiving a smaller check or paying a higher tax rate.
+If America could grow fast enough, many of its spending problems would become easier without anybody receiving a smaller check or paying a higher tax rate. That is why growth is the most attractive fiscal policy in the room. A larger economy produces more taxable income, makes a given debt smaller relative to national capacity, and can turn expensive constraints into cheaper ones. More housing can reduce the subsidy required to make shelter affordable. More workers can support more retirees. More productivity can let wages rise without requiring the same increase in prices.
 
-That is why growth is the most attractive fiscal policy in the room.
+Growth is not a side issue in fiscal policy. It is one of the main ways societies escape old constraints.
 
-A larger economy produces more income.
-
-More income produces more tax revenue at the same tax rates.
-
-A larger denominator makes a given debt look smaller relative to national capacity.
-
-Higher wages make fixed debts easier for households to carry.
-
-More productivity lets workers consume more while supplying the same labor.
-
-More housing supply can reduce the amount of subsidy required to make shelter affordable.
-
-More energy can lower constraints across the economy.
-
-More workers can support more retirees.
-
-More innovation can turn an expensive problem into a cheap technology.
-
-Growth is not a side issue in fiscal policy.
-
-It is one of the main ways societies escape old constraints.
-
-The danger begins when growth moves from policy objective to accounting assumption.
-
-Then the forecast becomes whatever number the budget needs.
-
-A tax cut will pay for itself through growth.
-
-A spending program will pay for itself through growth.
-
-A tariff will rebuild industry and raise growth.
-
-A subsidy will create a strategic sector and raise growth.
-
-A deregulation package will unlock growth.
-
-An industrial policy will unlock growth.
-
-Immigration will unlock growth.
-
-Automation will unlock growth.
-
-Every coalition eventually discovers a preferred form of free money called future GDP.
+The danger begins when growth moves from policy objective to accounting assumption. Then every coalition eventually discovers a preferred form of free money called future GDP. Tax cuts, subsidies, tariffs, deregulation, industrial policy, immigration, automation: the mechanisms differ, sometimes radically, but the sales pitch eventually reaches the same convenient place. The policy will make the economy larger, and the larger economy will make the price disappear.
 
 The economy is less cooperative.
 
-CBO's 2026 baseline projected real GDP growth averaging about 1.8 percent annually from 2027 through 2036.
-
-That estimate was not a claim that faster growth is impossible.
-
-It reflected a set of forces moving in opposite directions.
-
-Productivity improvements and technology can raise output.
-
-Investment can raise the capital available per worker.
-
-A larger labor force can raise total output.
-
-At the same time, population aging slows labor-force growth. Lower immigration slows it further. Large federal deficits can crowd out private investment. Trade restrictions can reduce efficiency and raise input costs. Existing technologies diffuse at uneven rates. Productivity breakthroughs arrive unpredictably.
+CBO's 2026 baseline projected real GDP growth averaging about 1.8 percent annually from 2027 through 2036. That estimate was not a claim that faster growth is impossible, or that policy cannot change the path. CBO explicitly modeled forces pushing in both directions: investment incentives and wider adoption of generative AI supporting output, while population aging, lower net immigration, tariffs, and federal borrowing restrained labor supply, productivity, or private investment. In the same projection, debt held by the public still rose from 101 percent of GDP in 2026 to 120 percent in 2036. The denominator was growing. The numerator was growing faster. [CBO, *The Budget and Economic Outlook: 2026 to 2036*](https://www.cbo.gov/publication/62105)
 
 Growth is the result of many systems rather than one dial in the Oval Office.
 
@@ -162,47 +108,17 @@ Public investment needs evaluation strong enough to learn without demanding that
 
 There is another way growth gets oversold: dynamic scoring by slogan.
 
-Every major policy changes behavior.
+The 2017 tax act is a useful test because CBO did not pretend the law had no growth effects. Its analysis projected more investment, employment, and output. Over 2018 through 2028, CBO estimated that the act would add about $2.56 trillion to cumulative GDP. The resulting increase in taxable income was large enough to reduce the act's projected primary-deficit effect by roughly $550 billion. That is not rounding error. It is exactly the kind of macroeconomic feedback advocates mean when they say policy can change the size of the economy. [CBO, “How the 2017 Tax Act Affects CBO's Projections”](https://www.cbo.gov/publication/53787)
 
-Tax rates affect incentives and timing.
+Then came the rest of the arithmetic. Before macroeconomic feedback, CBO estimated that the act would increase the primary deficit by about $1.8 trillion over the period. Growth and other economic feedback reduced that amount substantially, but the law was also projected to raise interest rates and debt-service costs. After those effects, CBO still estimated about $1.9 trillion in additional total deficits. Its later summary put the feedback at roughly 30 percent of the projected primary-deficit effect and about 20 percent after debt-service costs were counted. [CBO, “How the 2017 Tax Act Has Affected CBO's GDP and Budget Projections Since January 2017”](https://www.cbo.gov/publication/54994)
 
-Spending affects demand and sometimes supply.
+That is a more interesting result than either slogan permits. The growth mechanism worked in CBO's model. It mattered by hundreds of billions of dollars. It still did not erase the price.
 
-Regulation affects costs and risks.
+One episode cannot supply a universal self-financing percentage. Dynamic estimates depend on the policy, the starting economy, labor and capital responses, monetary conditions, international flows, financing, and the model doing the estimating. A low-cost reform with an unusually large supply effect could in principle generate fiscal gains larger than its conventional cost. The burden is to demonstrate those conditions, not to write them into the premise.
 
-Immigration affects labor supply, consumption, housing demand, and public finances.
+Every major policy changes behavior. Tax rates affect incentives and timing. Spending affects demand and sometimes supply. Regulation affects costs and risks. Immigration affects labor supply, consumption, housing demand, and public finances. Trade policy affects domestic production, input costs, exchange rates, and foreign retaliation. Infrastructure changes location and productivity. A serious fiscal estimate should include those effects when they are material.
 
-Trade policy affects domestic production, input costs, exchange rates, and foreign retaliation.
-
-Infrastructure changes location and productivity.
-
-A full fiscal estimate therefore should include economic effects when they are material.
-
-But the existence of feedback does not mean the feedback is whatever advocates hope.
-
-A policy can partly pay for itself.
-
-It can more than pay for itself in unusual cases.
-
-It can also cost more than its static estimate once economic effects are included.
-
-The direction is empirical.
-
-The temptation is ideological.
-
-Tax-cut advocates often emphasize the growth effects of lower marginal rates while minimizing the revenue loss.
-
-Public-investment advocates emphasize spillovers and multipliers while minimizing implementation risk and financing cost.
-
-Industrial-policy advocates emphasize learning and strategic resilience while minimizing capture and misallocation.
-
-Trade advocates emphasize efficiency while minimizing adjustment costs and geopolitical dependence.
-
-Protectionists emphasize domestic capacity while minimizing higher input prices and retaliation.
-
-All of these arguments contain real mechanisms.
-
-None gets to choose only the mechanism that points in the preferred direction.
+But the existence of feedback does not mean the feedback is whatever advocates hope. Growth feedback can repay part of a policy's budget cost. Whether it repays all of it is an empirical result.
 
 This matters because the fiscal outlook is already sensitive to small changes in growth.
 
