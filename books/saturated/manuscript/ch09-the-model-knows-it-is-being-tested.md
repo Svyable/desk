@@ -118,6 +118,4 @@ The direction is right. Name the mechanism. Build a test for the mechanism. Meas
 
 Then ask whether it transfers to deployment. That procedure is less cinematic than saying the model knows it is being watched. It is also the only version that can support decisions. A benchmark can survive contamination.
 
-It can survive a bad harness. It can survive broken questions if somebody fixes them. Evaluation awareness poses a different challenge because the act of measuring can itself become information available to the measured system. At that point the evaluator is no longer outside the experiment.
-
-The evaluator is one of the inputs.
+It can survive a bad harness. It can survive broken questions if somebody fixes them. Evaluation awareness poses a different challenge because the act of measuring can itself become information available to the measured system. At that point the evaluation context is no longer background. It is another input whose effect on behavior has to be measured.
