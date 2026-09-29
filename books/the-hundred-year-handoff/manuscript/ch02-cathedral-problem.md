@@ -2,600 +2,132 @@
 
 In 1842, a king laid a foundation stone for a cathedral that was already almost six hundred years old.
 
-That sentence sounds wrong because we prefer buildings to have one beginning.
+The sentence sounds wrong because we prefer buildings to have one beginning. A foundation is laid, a project starts, a design becomes a structure, and eventually the structure is finished.
 
-A foundation is laid.
+Cologne Cathedral refuses the sequence.
 
-A project starts.
+Its present Gothic building began in 1248. The choir was consecrated in 1322. Work continued in stages and then, by the early sixteenth century, largely stopped. For more than three hundred years the unfinished cathedral stood over Cologne with a wooden crane still perched on one incomplete tower. The crane became part of the skyline. Incompleteness became normal.
 
-A design becomes a structure.
+Then construction resumed.
 
-Then the building is complete.
+Friedrich Wilhelm IV of Prussia took part in the ceremonial restart in 1842. Citizens organized to help finance the work. Architects and craftspeople returned to a design problem whose original builders had been dead for centuries.
 
-Cologne Cathedral does not fit the sequence.
+They did not have the medieval builders. They had evidence.
 
-Its present Gothic structure was begun in 1248. The choir was consecrated in 1322. Work continued in stages. By the early sixteenth century, construction had effectively stopped. For more than three hundred years, the unfinished cathedral stood in the city with a wooden crane on one of its incomplete towers.
+Some of it was standing in front of them: stone, foundations, joints, dimensions, unfinished edges, later repairs. Some survived on parchment. The most famous piece, Riss F, is a west-façade drawing made around 1280, more than four meters high, depicting a façade that would not be completed until roughly six centuries later.
 
-The crane became part of the skyline.
+The drawing matters precisely because it was not enough.
 
-The unfinished state became normal.
+Much of the medieval workshop archive had disappeared. The old building lodge was gone. No original mason could explain which line on the drawing represented principle, which represented convenience, and which reflected a constraint that no longer existed. The nineteenth-century builders worked inside a different economy, a different political order, and a different technological world.
 
-Then, in 1842, work began again.
-
-King Friedrich Wilhelm IV of Prussia participated in the ceremonial restart. A civic association was formed to help finance the completion. Architects and craftspeople returned to a design problem whose original builders had been dead for centuries.
-
-The new builders did not have the old builders.
-
-They had fragments.
-
-They had the existing stone.
-
-They had archaeological evidence embedded in the building.
-
-They had surviving drawings.
-
-They had the religious and cultural meaning that had accumulated around the site.
-
-They had a nineteenth-century economy, nineteenth-century politics, nineteenth-century machines, and nineteenth-century engineering.
-
-They also had one astonishing artifact from the medieval design process: a large parchment drawing, known as the western façade plan or Riss F, made around 1280 or 1290.
-
-The drawing was more than four meters high.
-
-It depicted a façade that would not be finished until roughly six hundred years after the drawing was made.
-
-When work resumed, the builders followed the medieval plan closely enough that modern descriptions of Cologne Cathedral emphasize the visual and formal unity of the result. UNESCO notes that the nineteenth-century work followed medieval forms and techniques with remarkable fidelity.
-
-But the usual telling of this story misses the interesting part.
-
-The drawing did not survive as an instruction packet that could simply be opened and executed.
-
-The medieval archive of the cathedral workshop had largely disappeared. The old building lodge was gone. The original builders were not available to explain which line on a plan represented principle and which represented convenience. The economy that had supported the first phase no longer existed. The technologies of lifting, transport, structural analysis, administration, and financing had changed.
-
-The nineteenth-century builders did not continue an uninterrupted project.
-
-They reconstructed a handoff after a break of centuries.
-
-That difference matters.
-
-We often imagine intergenerational continuity as a relay race.
-
-One runner hands a baton to the next.
-
-Then the next.
-
-Then the next.
-
-No gap.
-
-No uncertainty.
-
-No one drops the baton.
-
-That is the cleanest kind of succession.
-
-It is also not the only kind.
-
-Cologne demonstrates a harsher possibility.
-
-The baton can lie on the ground for three hundred years.
-
-A future generation can still pick it up.
+They did not continue an uninterrupted project. They reconstructed a handoff after a break of centuries.
 
 That is the cathedral problem.
 
-A project expected to outlive its builders has to survive more than turnover.
+We like to imagine succession as a relay race: one runner hands a baton to the next, then the next, with the chain intact. Cologne offers the less reassuring model. The baton can lie on the ground for three hundred years. A later generation may still be able to pick it up.
 
-It has to survive interruption.
+Projects meant to outlive their builders therefore need more than continuity. They need **recoverability**.
 
-The next steward may arrive late.
+Continuity asks whether the next steward can keep going tomorrow. Recoverability asks whether a competent stranger can restart after the chain has broken.
 
-Very late.
+Old buildings make this visible because the artifact is partly its own archive. Foundations record earlier structural assumptions. Tool marks reveal methods. Joints suggest construction sequence. Changes in material reveal repair. Unfinished edges preserve clues about intention. Archaeology at Cologne has shown that different foundation sections reflect different structural approaches and accumulated experience.
 
-The institution that commissioned the work may change.
+The building does not explain itself completely, but it gives the successor somewhere to begin.
 
-The reason for caring may change.
+Modern systems can be more exact and less recoverable. A software service may leave a binary and a dead vendor endpoint. A financial model may preserve values with no record of assumptions. A database may preserve tables while the meaning of its columns disappears. The output survives; the construction logic does not.
 
-The technology may change.
+Recoverability improves when the thing leaves clues about its own state, dependencies, interfaces, and uncertainties. Cologne had parchment, stone, and something less formal but equally important: a city that spent centuries looking at an unfinished cathedral.
 
-The financing may change.
+The crane on the south tower was not a documentation system. It functioned like one. The city never had to rediscover that the building was unfinished because the unfinished work was visible on the skyline.
 
-The language of expertise may change.
+That is a different kind of memory. A record can tell a researcher what happened. A visible unfinished tower can tell a population that something remains to be done.
 
-The successor may be reconstructing the project from evidence rather than receiving it from a mentor.
+Long projects often need both technical memory and social memory. The first answers what is this? The second answers why do we still care?
 
-The handoff therefore cannot depend on continuity alone.
+The second question is harder because value does not sit obediently inside a drawing. Thousands of old plans survive for things nobody intends to finish. The remarkable fact about Cologne is not only that medieval drawings survived. It is that a nineteenth-century society decided the old project was worth adopting.
 
-It needs recoverability.
+By then, completion carried meanings the medieval builders could not have predicted. The cathedral remained a religious project, but it had also become entangled with civic identity and German nationalism. New sponsors supplied new money for new reasons.
 
-That is a different design goal.
+The handoff therefore was not pure fidelity. It was reinterpretation wrapped around continuity.
 
-Continuity asks whether the next person can keep going tomorrow.
+This is one place where romantic accounts of cathedral building become misleading. There was no single, unbroken medieval intention flowing serenely through six centuries. There were gaps, lost records, changed technologies, new politics, and successors who had to decide which parts of the inheritance still mattered.
 
-Recoverability asks whether a competent stranger can restart after the chain has broken.
+That is more useful than the romance because it describes how real long-lived systems survive.
 
-The distinction becomes obvious in old buildings because their evidence is partly physical.
+Instructions alone cannot force a future generation to care. A successor can understand perfectly why a system was built and still decide the reason no longer applies. A century-old bridge may no longer serve the transport network around it. A scientific instrument may be surpassed. A software interface can be beautifully documented and still not deserve another decade of support.
 
-A cathedral is its own archive.
+The goal of intergenerational design is not to make later people obedient. It is to make their choices informed.
 
-Foundations record earlier structural assumptions.
+Cologne's nineteenth-century builders chose completion. They made the project theirs.
 
-Tool marks reveal methods.
+That required more than admiration. It required an institution capable of turning admiration into money and labor. The Zentral-Dombau-Verein, founded in 1842, raised a large share of the money needed to complete the cathedral and still helps finance preservation work today.
 
-Joints reveal construction sequence.
+This is where the cathedral story stops being sentimental and becomes operational.
 
-Unfinished edges reveal intentions.
+A future generation can admire an inheritance without maintaining it. Admiration does not repair stone. Value has to become a budget; a budget has to become an organization; an organization has to become recurring work.
 
-Stone dimensions reveal modular logic.
+The nineteenth-century builders also complicated the idea of fidelity in another way: they used modern technology. Cologne's own history records the use of contemporary construction methods, including rail-mounted lifting systems and a steam engine. They were not reenacting the Middle Ages. They were using nineteenth-century capability to complete a medieval design.
 
-Changes in material reveal repairs.
+That is a useful distinction for every long-lived system. **Continuity of purpose does not require continuity of method.**
 
-The building contains information even when paperwork disappears.
+The old supply chain may disappear. Original tools may no longer exist. A material may become unavailable or unacceptable. A safer process may supersede the old one. A procedure may have depended on labor or legal conditions a later generation rejects.
 
-Cologne's foundations, for example, show that different construction phases used different structural approaches. The cathedral's own archaeological work notes that older foundation sections can be much more massive than later ones, reflecting changing experience and better adaptation between substructure and architecture.
+The successor therefore needs to know what must remain true and what can change.
 
-The artifact does not merely sit there.
+Most inherited systems do not label the difference. They hand forward essential constraints, arbitrary conventions, temporary workarounds, and aesthetic preferences in one undifferentiated bundle. The next steward is left to choose between two bad instincts: change too much and destroy something important; change too little and preserve an obsolete accident forever.
 
-It tells the successor something.
+Legibility is more useful than reverence. The better a successor understands why a constraint exists, the more intelligently they can decide whether to keep it.
 
-Not everything.
+Milan Cathedral offers a useful countercase because its continuity took a different form. Construction began around 1386. In 1387, Gian Galeazzo Visconti established the Veneranda Fabbrica del Duomo to oversee design and construction. More than six centuries later, the institution still works on conservation, restoration, archives, fundraising, and the marble yard associated with the cathedral.
 
-Enough to investigate.
+Cologne demonstrates recoverability after discontinuity. Milan demonstrates continuity through a long-lived steward.
 
-That is the first principle of recoverable handoff:
+Neither cathedral survives by freezing.
 
-**the thing should contain clues about itself.**
-
-Modern systems often make this harder than medieval buildings did accidentally.
-
-A physical machine has wear patterns.
-
-A bridge has inspectable members.
-
-A stone wall has layers.
-
-A software service may leave only a binary and a dead vendor endpoint.
-
-A financial model may leave values with no record of assumptions.
-
-A database may preserve tables without the meaning of the columns.
-
-A public rule may preserve text without the operating history that made the text intelligible.
-
-A digital system can be more exact than stone and less self-explanatory.
-
-The successor sees the output without the construction logic.
-
-The answer is not to carve everything into buildings.
-
-The answer is to treat self-description as part of durability.
-
-A future steward should be able to infer state, dependencies, intended interfaces, known constraints, and points of uncertainty from more than one source.
-
-Cologne's builders had parchment.
-
-They also had stone.
-
-They also had a living city that had spent centuries looking at the unfinished cathedral.
-
-The project survived partly because its incompleteness remained visible.
-
-That wooden crane on the south tower was not a formal information system.
-
-It functioned like one.
-
-The city never forgot that the building was unfinished because the unfinished work was literally on the skyline.
-
-The incomplete project maintained social legibility.
-
-That is different from archival legibility.
-
-A record can tell a researcher what happened.
-
-A visible unfinished tower can tell a population that something remains to be done.
-
-Long projects need both kinds of memory more often than planners admit.
-
-Technical memory answers: what is this?
-
-Social memory answers: why do we still care?
-
-The second question is harder to preserve because value is not stored in drawings.
-
-A plan can survive perfectly and become irrelevant.
-
-There are thousands of old plans nobody intends to finish.
-
-The remarkable fact about Cologne is not that a drawing survived.
-
-It is that a later society decided the drawing still mattered.
-
-By the nineteenth century, completion had acquired meanings that the medieval builders could not have predicted. It remained a religious project, but it also became entangled with civic identity and emerging German nationalism. The project acquired new sponsors, new politics, and new reasons.
-
-The handoff was therefore not pure fidelity.
-
-It was reinterpretation wrapped around continuity.
-
-That is the second principle:
-
-**a successor needs a reason to continue, not merely instructions.**
-
-This creates a problem for every founder who tries to design for the future.
-
-You can preserve the how.
-
-You cannot guarantee the why.
-
-The why has to be renewed.
-
-This is where many long-lived institutions become confused.
-
-They assume that preserving the original rationale is enough.
-
-It is necessary.
-
-It is not sufficient.
-
-A successor can understand why a system was built and decide that the reason no longer applies.
-
-A hundred-year bridge may no longer serve the transport network around it.
-
-A scientific instrument may be surpassed by a new method.
-
-A legal institution may preserve a rule whose social assumptions have changed.
-
-A software interface may be perfectly documented and still not deserve another decade of support.
-
-The goal of intergenerational design is not to make later people obedient.
-
-It is to make their choice informed.
-
-Cologne's nineteenth-century builders inherited enough to choose completion.
-
-They did not inherit an obligation enforced by the dead.
-
-They made the project theirs.
-
-That is why the story belongs in this book.
-
-The cathedral was not merely passed down.
-
-It was adopted.
-
-Adoption is a stronger form of handoff than inheritance.
-
-Inheritance can be passive.
-
-Something becomes yours because somebody else is gone.
-
-Adoption requires renewed commitment.
-
-You spend current money.
-
-You recruit current workers.
-
-You accept current tradeoffs.
-
-You choose to take responsibility for an old object in a new world.
-
-The Cologne completion required exactly that.
-
-The king did not pay for everything.
-
-Citizens organized.
-
-The Zentral-Dombau-Verein, founded in 1842, raised a large share of the money needed to finish the cathedral. The association still exists and today helps finance preservation work.
-
-The financing mechanism became part of the succession mechanism.
-
-This is the point where the cathedral story stops being romantic and becomes operational.
-
-A future generation can admire an inheritance without maintaining it.
-
-Admiration does not repair stone.
-
-A value has to become a budget.
-
-A cultural priority has to become an organization.
-
-An organization has to become recurring work.
-
-The cathedral survived not because everyone agreed it was beautiful.
-
-It survived because beauty was repeatedly converted into labor and money.
-
-That conversion is the unglamorous center of long-term stewardship.
-
-The builders of 1842 also did something else that complicates the popular story of perfect medieval fidelity.
-
-They used modern technology.
-
-The cathedral's own history records the use of then-current construction methods, including rail-mounted lifting systems and a steam engine. Hundreds of workers participated in the nineteenth-century completion.
-
-The goal was not historical reenactment.
-
-They were trying to produce a medieval design with contemporary capability.
-
-That is the third principle:
-
-**continuity of purpose does not require continuity of method.**
-
-In fact, insisting on old methods can make a handoff impossible.
-
-The successor may not possess the old supply chain.
-
-The original tools may no longer exist.
-
-The original material may be unavailable or environmentally unacceptable.
-
-The old procedure may be less safe.
-
-The old measurement system may be obsolete.
-
-The old process may have depended on unpaid labor, legal privileges, or social conditions a later generation rejects.
-
-A long-lived system needs to preserve invariants while allowing implementation to change.
-
-That sentence is familiar in software engineering.
-
-It belongs equally to cathedrals.
-
-What must remain true?
-
-What can change?
-
-The problem becomes easier if the builder knows the difference.
-
-Most builders do not.
-
-They hand forward a mixture of essential constraints, arbitrary conventions, temporary workarounds, and aesthetic preference without labeling which is which.
-
-The successor then faces two symmetrical dangers.
-
-Change too much and destroy something important.
-
-Change too little and preserve an obsolete accident forever.
-
-The cathedral problem is not solved by reverence.
-
-It is solved by legibility.
-
-The better the successor can see why a constraint exists, the more intelligently the successor can decide whether to preserve it.
-
-This is where another cathedral becomes useful.
-
-Milan's Duomo began in the late fourteenth century, around 1386. In 1387, Gian Galeazzo Visconti established the Veneranda Fabbrica del Duomo to oversee the design and construction.
-
-The organization still exists.
-
-More than six centuries later, it remains responsible for conservation, restoration, and stewardship of the cathedral.
-
-Cologne shows recoverability after discontinuity.
-
-Milan shows institutional continuity.
-
-The contrast is important because the two systems solved succession differently.
-
-At Milan, the handoff includes a persistent steward.
-
-The Veneranda Fabbrica operates restoration sites, archives, a marble workshop, conservation programs, and fundraising. It continues to work with Candoglia marble, replacing architectural and sculptural elements that can no longer safely remain on the cathedral. Its own description of the construction site emphasizes skills accumulated and handed down across generations while also incorporating new technologies and scientific research.
-
-This is not preservation by freezing.
-
-Stone is removed.
-
-Stone is replaced.
-
-Systems are updated.
-
-Scaffolding returns.
-
-Craft changes.
+At Milan, stone is removed and replaced. Systems are updated. Scaffolding returns. Craft changes. The institution's own account emphasizes skills accumulated across generations alongside newer technology and scientific research.
 
 The cathedral remains because parts of it do not.
 
-This is the Ship of Theseus with payroll, scaffolding, quarries, archives, inspections, donors, and safety obligations.
+This is the Ship of Theseus with payroll, quarries, scaffolding, archives, donors, inspections, and safety obligations. Maintainers find the paradox ordinary: a thing that lasts for centuries may require continuous local replacement.
 
-The paradox is ordinary to maintainers and surprising to everyone else.
+Originality and continuity are different properties.
 
-A thing that lasts for centuries can require continuous replacement.
+That creates a governance problem as much as a conservation problem. Who decides that a stone must be replaced? Who decides that modern electrical or safety systems can be installed? What counts as preserving the cathedral rather than redesigning it?
 
-Originality and continuity are not the same property.
+The answer cannot be one founder's instruction from six hundred years ago. It has to be a living authority with current expertise and current legitimacy.
 
-The artifact survives because stewardship permits local loss.
+This is why institutions matter in long handoffs. Documentation can tell you what previous people wanted. Only a present authority can decide what to do now.
 
-That is the fourth principle:
+The longer the horizon, the less plausible it becomes to treat a plan as the final answer. A plan is a snapshot. An institution, at its best, is a mechanism for making the next snapshot.
 
-**long-lived systems need sanctioned change.**
+“At its best” matters. Institutions can become self-protective. They can preserve themselves after their mission weakens, mistake longevity for virtue, or accumulate rituals whose reasons are forgotten. A six-hundred-year organization is not wise merely because it survived six hundred years.
 
-If every component is sacred, maintenance becomes impossible.
+The cathedral evidence supports a narrower claim: physical continuity requires repeated social decisions. Those decisions need memory, authority, resources, and skill. If one succession mechanism disappears, another may sometimes reconstruct the chain.
 
-If no component is sacred, identity dissolves.
+Cologne lost much of its medieval organizational continuity and still recovered through surviving plans, physical evidence, renewed financing, and a new civic project. Milan retained a long-lived steward and keeps adapting through continuous work.
 
-The steward's job is to know the difference.
+Two different succession architectures. The same building lesson: the stone does not hand itself forward.
 
-This is not only a conservation problem.
+Completion also turns out to be a misleading word.
 
-It is a governance problem.
+A cathedral finished in the ceremonial sense immediately enters another phase. Rain begins. Freeze and thaw continue. Pollution, settlement, corrosion, biological growth, tourism, changing safety requirements, and new technologies keep working on the structure. Construction becomes maintenance; the project becomes a practice.
 
-Who decides that a stone must be replaced?
+Our language tends to rank those phases. Capital investment sounds generative. Upkeep sounds secondary. For a century-scale system, the hierarchy is backwards. Construction may last a decade. Stewardship may last ten generations.
 
-Who decides that a new electrical system can be installed?
+A society that excels at openings and neglects maintenance will produce impressive ruins.
 
-Who decides which restoration method is acceptable?
+This is why the myth of the master builder is so unhelpful. There was no single person who built Cologne or Milan Cathedral, no single uninterrupted team, technology stack, political order, or budget. There were sequences of people who repeatedly made the project actionable.
 
-Who decides what counts as preserving the cathedral rather than redesigning it?
+Sometimes the chain held. Sometimes it broke. Sometimes plans survived. Sometimes archives disappeared. Successors preserved old forms in some places and introduced new methods in others.
 
-The answer is not one founder's instruction six hundred years ago.
+The object we call a cathedral is the visible residue of those decisions.
 
-It is a living institution with current expertise and current legitimacy.
+So the better question for any project claiming a long horizon is not simply whether it will last.
 
-Authority has been renewed repeatedly.
+Ask how many times it can be handed off.
 
-That is why institutions matter in long handoffs.
+Can another steward understand it? Can work resume after interruption? Can critical intent survive a lost archive? Can methods change without destroying purpose? Can a successor decide not to continue? Can the system remain legible after the founder's voice disappears?
 
-Documentation can tell you what previous people wanted.
+A century-scale project is not one long execution. It is a repeated restart.
 
-Only a current authority can decide what to do now.
-
-The longer the time horizon, the more important this becomes.
-
-Founders like to design rules.
-
-Successors need institutions capable of interpreting rules under changed conditions.
-
-A one-time instruction ages badly.
-
-A legitimate process can adapt.
-
-This is one of the reasons durable institutions often outlive specific technical plans.
-
-The plan is a snapshot.
-
-The institution is a mechanism for making the next snapshot.
-
-Of course, institutions can fail too.
-
-They can become self-protective.
-
-They can preserve themselves after their mission disappears.
-
-They can mistake continuity of organization for continuity of purpose.
-
-They can accumulate rituals whose reasons are forgotten.
-
-They can become captured by insiders who benefit from the maintenance work itself.
-
-A six-hundred-year organization is not automatically wise because it is old.
-
-Longevity is evidence of survival, not evidence of virtue.
-
-This book has to keep that distinction sharp.
-
-The lesson from the cathedral is not "build permanent institutions."
-
-It is that physical continuity requires repeated social decisions.
-
-Those decisions need memory, authority, resources, and skill.
-
-If one mechanism disappears, another may reconstruct the chain.
-
-Cologne lost much of its medieval organizational continuity and still recovered through surviving plans, physical evidence, renewed financing, and a new civic project.
-
-Milan preserved an institutional steward and keeps adapting through continuous work.
-
-Two different succession architectures.
-
-One common truth.
-
-The building does not hand itself forward.
-
-People do.
-
-This becomes more obvious after completion.
-
-A finished cathedral is not finished in the operational sense.
-
-Rain begins immediately.
-
-Freeze and thaw begin immediately.
-
-Pollution, salt, wind, biological growth, settlement, corrosion, vibration, tourism, liturgical use, changing safety requirements, and changing technologies begin immediately.
-
-The completion ceremony marks the transition from one kind of work to another.
-
-Construction becomes maintenance.
-
-The project becomes a practice.
-
-This is where our language misleads us.
-
-We call one phase capital investment.
-
-We call the next phase upkeep.
-
-The first sounds generative.
-
-The second sounds secondary.
-
-For a century-scale system, the second phase is the system.
-
-The capital project may last ten years.
-
-The stewardship may last ten generations.
-
-A society that is good at openings and bad at maintenance will produce impressive ruins.
-
-A society good at handoff produces living infrastructure.
-
-The cathedral makes that difference visible because it compresses so many generations into one object.
-
-You can stand in front of Cologne Cathedral and see a design whose west façade was imagined in the thirteenth century and completed with nineteenth-century machinery.
-
-You can stand in Milan and look at stone worked by an institution that began in 1387 and still operates workshops today.
-
-The object appears singular.
-
-The labor behind it is plural.
-
-Hundreds of years of plural.
-
-This is why the metaphor of the master builder is dangerous.
-
-There was no one person who built these cathedrals.
-
-There was no one team.
-
-There was no one uninterrupted technology stack.
-
-There was no one budget.
-
-There was no one political order.
-
-There was a sequence of people who kept making the project actionable.
-
-Sometimes the chain was continuous.
-
-Sometimes it broke.
-
-Sometimes plans survived.
-
-Sometimes archives disappeared.
-
-Sometimes successors preserved old form.
-
-Sometimes they introduced new methods.
-
-The artifact we call a cathedral is the visible residue of those decisions.
-
-The cathedral problem therefore gives us a better question for every ambitious project that claims a long horizon.
-
-Not: will this last?
-
-Ask: **how many times can this be handed off?**
-
-Can the next steward understand it?
-
-Can the next institution finance it?
-
-Can the next generation repair it?
-
-Can work resume after an interruption?
-
-Can critical intent survive a lost archive?
-
-Can methods change without destroying purpose?
-
-Can a successor decide not to continue?
-
-Can a system remain legible after its founder's voice disappears?
-
-A century-scale project is not one long execution.
-
-It is a repeated restart.
-
-Every new steward has to reconstruct enough of the past to act in the present.
-
-The best builders do not merely leave a monument.
-
-They leave a path back into the work.
+The best builders leave more than a monument. They leave a path back into the work.
