@@ -412,7 +412,7 @@ That is not a reason to hide the research.
 
 It is a reason to build tests that assume disclosure.
 
-A benchmark that depends on nobody talking about it is living on borrowed time.
+A benchmark that depends on nobody talking about it is living on borrowed time. A durable design has to assume that questions, examples, and postmortems will eventually circulate, then preserve a fresh measurement surface despite that circulation. That means leakage planning belongs in the benchmark architecture before the first score is published, not only after an answer appears in search results.
 
 The answer key does not need to be handed to the model.
 
