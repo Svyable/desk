@@ -51,3 +51,4 @@
 - [Chapter briefs and falsification notes](research/chapter-briefs.md)
 - [Source ledger](research/source-ledger.csv)
 - [Chapter 8 — California recovery counterevidence (2026-09-06)](research/ch08-california-recovery-counterevidence-2026-09-06.md)
+- [Chapter 8 — Florida depopulation boundary (2026-09-15)](research/ch08-florida-depopulation-boundary-2026-09-15.md)
