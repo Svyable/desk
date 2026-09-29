@@ -1,0 +1,17 @@
+# The Man Who Wanted a Belt
+
+Nicholas Christofilos arrived in American physics from an unusual direction. He was an electrical engineer, self-taught in accelerator physics, who had independently developed the strong-focusing principle while working outside the institutions that normally conferred authority. By the time ARGUS took shape, his appetite for large physical systems matched the scale of the Cold War.
+
+The Christofilos proposal is often compressed into a sentence about creating an artificial radiation belt. Compression hides the audacity. A nuclear device would inject beta-decay electrons from fission products into the geomagnetic field. Some fraction, if the geometry and particle energies cooperated, would be trapped. Those particles might persist long enough to affect charged-particle environments over enormous distances from the detonation point.
+
+The military question was whether that environment could become useful as an effect. The scientific question was whether the field would behave as the calculations suggested. Neither question should be romanticized. ARGUS was not a pure science mission wearing a military badge, nor was the science incidental. It was exactly the kind of hybrid program that secrecy makes difficult to remember correctly: a real physical hypothesis tested because several institutions wanted different things from the result.
+
+Christofilos’s idea also belongs to a particular intellectual moment. Nuclear weapons had made it possible to deposit energy into geophysical systems at scales previously unavailable to experimenters. The atmosphere had already become a laboratory for blast, fallout, thermal effects, and radio propagation. High altitude opened another medium: plasma threaded by Earth’s magnetic field.
+
+What followed is sometimes described as an attempt at a “space shield.” That phrase is too blunt for the public evidence. It encourages a reader to imagine a mature defensive technology where there was an exploratory effects hypothesis. The evidence is stronger for a deliberate experiment in artificial particle trapping than for a deployable magnetic barrier against enemy weapons.
+
+That distinction matters because the experiment succeeded in the narrow physical sense. Success of a mechanism can inflate later stories about the capability built from it. ARGUS demonstrated that artificial trapped populations could be made and measured. It did not demonstrate precise, durable, switchable control of those populations at will.
+
+Christofilos is useful here precisely because he does not fit the cartoon of either military mad scientist or neglected visionary. He was a technically serious person whose idea sat at the border between accelerator physics, magnetospheric physics, and weapons effects. Borders like that are productive. They are also where language becomes dangerous. “Artificial belt” can mean a measured population of trapped electrons. In a different paragraph it can begin to sound like a planetary engineering technology.
+
+The book will keep returning to that gap: between an effect that is real and a system that is controllable. ARGUS crossed the first line. Starfish Prime would reveal how far the second line remained away.
