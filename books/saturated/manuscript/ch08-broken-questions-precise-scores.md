@@ -50,6 +50,16 @@ Print the percentage.
 
 The final score can have perfect arithmetic and defective semantics.
 
+The failure is easiest to see at the item level. Suppose the benchmark asks for a function that sorts customer records by date. The prompt does not say whether equal dates must preserve their original order. A hidden test requires stable sorting anyway. One agent writes a perfectly reasonable unstable sort and fails. Another happens to choose the implementation assumed by the hidden test and passes.
+
+The leaderboard records one point of separation.
+
+The task may have measured convention matching rather than software capability.
+
+Now flip the error. The hidden tests check only that the first ten records are sorted. An agent writes code that mishandles the rest of the file. The benchmark awards the point. The test is objective and weak.
+
+These toy examples are simpler than the real repository tasks OpenAI audited, but they show why test validity has directions. A grader can create false negatives by rejecting acceptable work or false positives by accepting incomplete work. Both distort comparisons, and different systems can be affected differently depending on how they approach the task.
+
 This is a different problem from contamination.
 
 A clean model can fail a broken task.
@@ -131,6 +141,12 @@ Nearly a third of the task set needed correction.
 The changes were not cosmetic.
 
 Reported performance moved differently for different model-agent pairs.
+
+This is an underappreciated consequence of benchmark repair. If every system's score shifted by exactly the same amount, the old leaderboard might still preserve the ordering even if the absolute values were wrong. Differential movement means task defects interacted with system behavior. A benchmark bug can favor one style of solving over another.
+
+That makes result migration scientifically important. When a task set is corrected, maintainers should not merely publish a new leaderboard and leave the old one floating in the literature as if the versions were equivalent. Where practical, representative systems should be rerun or historical results should be annotated with the version that produced them.
+
+Terminal-Bench's move toward semantic versioning and migrations treats the benchmark like an evolving measurement package. That is an unusually useful mental model for AI evaluation.
 
 One Opus 4.6 configuration using Claude Code rose from 58.0 percent on Terminal-Bench 2.0 to 70.1 percent on version 2.1, a gain of more than twelve percentage points without changing the model.
 
@@ -266,6 +282,12 @@ The AI patches were largely judged statically.
 
 The study therefore does not establish that agents are incapable of producing mergeable software at the rate implied by future interactive workflows.
 
+It also exposes a measurement choice that rarely makes the headline: what should count as a correct patch? The automated grader privileges executable behavior. Maintainers add maintainability, repository conventions, architectural judgment, and local knowledge. Neither criterion is automatically "the truth." They represent different stages of the software-production process.
+
+A company using an agent to clear a backlog of internal scripts may accept code that an open-source maintainer would reject. A safety-critical library may demand more. A benchmark can therefore be valid for one deployment standard and optimistic for another.
+
+The real-world comparator needs a named population. "Human standard" is too broad. Which maintainers, in which repositories, under which review rules, with what opportunity to request changes? The moment that context is specified, the benchmark claim becomes narrower and more defensible.
+
 It establishes that a naive reading of the automated score overstates one specific real-world standard in the studied setting.
 
 That is enough.
@@ -349,6 +371,12 @@ Production telemetry catches what both missed.
 No single gate is expected to represent the whole system.
 
 AI evaluation often asks one benchmark to do all four jobs.
+
+There is another reason the distinction matters: development benchmarks and decision benchmarks have different tolerance for error. A noisy internal eval can still be useful if it cheaply tells a research team whether yesterday's change probably helped. A benchmark used in a safety case, procurement decision, or public capability claim carries a higher evidentiary burden.
+
+The field sometimes treats popularity as validation. A benchmark appears in many model cards, so its number begins to feel institutionally real. Widespread use can reveal flaws through scrutiny, but it can also lock a weak metric into reporting conventions. Repetition is not calibration.
+
+A consequential benchmark needs a maintenance record: task audits, version history, known exclusions, scoring changes, and evidence about correspondence with the deployment outcome people keep using it to represent.
 
 The result should be predictable.
 
