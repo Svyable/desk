@@ -124,6 +124,12 @@ Which underlying model is most capable under a controlled common harness?
 
 Which available agent system completes the most real tasks for an acceptable cost?
 
+Terminal-Bench's own tables show why the distinction cannot remain theoretical. In its 2.0 results, the same frontier model appears under multiple agents, and the rows do not collapse to one score. The spread is sometimes modest and sometimes meaningful. A few points can decide a leaderboard position, while a large gap can reveal that the agent layer is wasting or recovering a substantial fraction of the model's potential.
+
+The exact values age quickly, so the book should resist turning one version's leaderboard into a permanent ranking. The stable fact is structural: Terminal-Bench treats **model** and **agent** as separate columns because both vary.
+
+That table layout may end up more important than any one row.
+
 Those questions should not be forced into one leaderboard.
 
 The first rewards comparability.
@@ -133,6 +139,12 @@ The second rewards engineering.
 Terminal-Bench's separation of model and agent at least makes the distinction visible.
 
 A 2026 research project called Harness-Bench tried to isolate it more deliberately.
+
+The benchmark is designed around a question leaderboards often blur: hold the task environment and resource rules stable, vary the model-harness pairing, and record not only whether the final artifact passes but how the system used tools, time, tokens, state, and recovery. The authors constructed 106 sandboxed tasks derived from realistic agent workflows and ran 5,194 execution trajectories across combinations of models and harness configurations.
+
+That process data matters because two systems can reach the same pass rate by different routes. One may finish efficiently. Another may burn its budget recovering from repeated execution mistakes. A third may reason plausibly in text while failing to reconcile its plan with the actual workspace. Final accuracy collapses those failure modes into one bit.
+
+Harness-Bench calls some of these failures execution-alignment problems: the system's reasoning can drift away from tool feedback, file state, evidence, or the output contract. The label is specific to that work and should not be inflated into a theory of alignment generally. It names an engineering fact familiar to anyone who has watched an agent continue confidently after a command failed.
 
 The authors constructed 106 sandboxed tasks derived from realistic agent workflows and ran thousands of trajectories across combinations of models and harness configurations. Their reported result was not that one harness always won. It was that performance varied materially across pairings: completion, efficiency, failure behavior, and process quality could shift when the model stayed similar and the execution layer changed.
 
@@ -280,6 +292,12 @@ Those interests can conflict while everybody uses the word "performance."
 
 The most commercially useful evaluation may be the least scientifically clean.
 
+This can be handled by reporting a frontier rather than a winner. Suppose one agent resolves 80 percent of tasks at four times the token cost of a system that resolves 76 percent. For a multimillion-dollar engineering incident, the expensive system can be the obvious choice. For thousands of routine tickets, the cheaper system may create more value. Add latency and human-review burden and the ranking can flip again.
+
+Terminal-Bench's more recent interfaces increasingly expose cost and token use alongside resolution rate for exactly this reason. Once inference-time computation and multi-agent search become strategic choices, success rate alone rewards systems for spending resources without showing the bill.
+
+A scientifically controlled benchmark can hold the budget fixed to isolate capability. A buyer may instead want the best achievable outcome under a budget constraint. These are different optimization problems.
+
 Imagine two agent products attempting a hundred enterprise tasks.
 
 Agent A uses a stronger model with a minimal wrapper.
@@ -405,6 +423,12 @@ Both are real.
 This is why attributing an agent score to a model can produce bad forecasts.
 
 The stack has its own learning curve.
+
+That curve can be surprisingly fast because harness changes are software changes. A team does not need to train a frontier model to add a validator, repair context truncation, change a retry policy, or improve tool descriptions. Product performance can move between model releases.
+
+This creates attribution risk in historical charts. If a benchmark shows a steep jump after a new agent version launches, the underlying model may deserve only part of the credit. Conversely, a model release can look disappointing inside a harness built around the quirks of its predecessor. The wrapper needs its own adaptation period.
+
+Longitudinal evaluation should therefore version both layers. "Claude Opus 4.6" or "GPT-5.3-Codex" is not a complete identifier for an agent run if the harness changed around it. The model version and agent version form a pair.
 
 People learn how to prompt new models.
 
