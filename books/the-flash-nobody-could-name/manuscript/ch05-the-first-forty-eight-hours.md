@@ -1,0 +1,29 @@
+# The First Forty-Eight Hours
+
+A secret sensor alarm creates a peculiar kind of time pressure. The physical event is already over. The political event is just beginning.
+
+Within days of September 22, U.S. officials were trying to answer questions that belonged to different clocks. Satellite analysts could inspect the recorded optical traces immediately. Atmospheric sampling depended on aircraft, winds, and the decay of radionuclides. Seismic and hydroacoustic stations had archives to search, but only where coverage existed. Diplomats needed to decide which allies to inform before rumors escaped. Intelligence agencies had to ask who could have conducted a test without allowing that question to become a substitute for proving that a test occurred.
+
+A September 25 State Department memorandum records how quickly the issue moved into allied channels. British officials were already in the loop; French and West German officials were to be told. Before Australia was briefed on the Vela detection, American officials wanted to know whether Australian seismic stations had been operating at the relevant time. The choreography reveals the central anxiety. Asking too specifically could disclose what the United States had seen. Asking too vaguely might waste the short window in which corroboration was recoverable.
+
+This is one reason retrospective accounts that imagine a single hidden committee deciding “what happened” are misleading. The investigation was distributed. Different organizations controlled different evidence. The Air Force Technical Applications Center had experience with nuclear-event monitoring and atmospheric sampling. The intelligence community held information about proliferant states. National laboratories understood weapon phenomenology. The Navy could examine hydroacoustic data. Civilian observatories had measurements never collected for intelligence purposes. The White House had to integrate the whole thing without necessarily possessing a common evidentiary language.
+
+The first interpretation appears to have been serious enough that officials considered a low-yield nuclear explosion plausible. Yet the government did not immediately accuse anyone. That restraint is sometimes presented as the beginning of a cover-up. It can also be explained more simply. An accusation of clandestine nuclear testing requires more than an alarm, particularly when the alleged actors are politically sensitive and the sensor record contains anomalies.
+
+The distinction between secrecy and suppression matters here. Secrecy was inherent in the detection system. Publicly announcing the exact capabilities and uncertainties of Vela could teach future testers what American satellites could and could not see. Suppression would be the stronger claim: that officials knowingly buried decisive evidence for political reasons. The declassified record establishes the former. It contains arguments that make the latter imaginable. It does not establish it cleanly.
+
+The early search also demonstrates how quickly evidentiary pathways close. Radioactive debris disperses. Short-lived isotopes decay. Weather changes. Ships leave areas. Human memories become contaminated by news. A satellite's transient optical record cannot be revisited by pointing the instrument back at the scene. The investigation was therefore a race against entropy in the ordinary forensic sense, not the cosmological one: evidence physically degrades and administratively disappears.
+
+This creates a harsh asymmetry. A real nuclear event can fail to produce recoverable corroboration if it is small, remote, meteorologically unlucky, or deliberately designed to minimize signatures. A false optical alarm can also attract apparently supporting coincidences simply because enough environmental data are searched after the fact. If you scan seismic records, ocean acoustics, radionuclide measurements, meteorological anomalies, and intelligence reporting across a sufficiently broad window, something will look interesting.
+
+Good analysis has to account for the search process itself. Was a hydroacoustic signal identified because its location and timing were predicted in advance, or because analysts searched a large archive after the optical alert? Was an isotope measurement unusual relative to a known baseline, or merely unusual once a narrative existed that made it worth noticing? Did an ionospheric disturbance arrive at the physically expected time from a candidate source region, or was the association built retrospectively?
+
+These are not skeptical tricks. They are what prevent corroboration from becoming a pile of coincidences.
+
+The first forty-eight hours also mattered because they fixed the institutional framing. Once officials treated the event as potentially nuclear, the investigation naturally prioritized nuclear correlates and nuclear actors. That was rational. There was no reason to launch a global inquiry into every possible cause of a flash before checking the explanation the satellite was designed to detect. But framing has inertia. When the White House later assembled a panel explicitly to investigate natural or technical alternatives, it was in part correcting for the initial asymmetry.
+
+The correction created its own asymmetry. A panel asked whether the event could be non-nuclear will become expert in ways it could be non-nuclear. This is why adversarial analysis works best when competing teams have to make predictions against the same evidence rather than merely produce narratives that can absorb it.
+
+In September 1979, the United States did not have the luxury of a clean prospective experiment. It had a flash, a satellite, disappearing traces, and a set of institutions moving at different speeds.
+
+The evidence started aging before the argument had a name.
