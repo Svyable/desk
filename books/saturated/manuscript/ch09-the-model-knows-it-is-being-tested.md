@@ -432,6 +432,14 @@ Those are separate causal stories.
 
 A mature field should be able to name which one occurred.
 
+Evaluation awareness also changes what "blind" evaluation can mean. In ordinary human experiments, blinding tries to withhold treatment assignment or study hypotheses from participants and researchers. For a language model trained on descriptions of benchmarks, red teaming, model cards, and safety testing, withholding the benchmark name may be only partial blinding. The structure of the interaction can still reveal the genre.
+
+That suggests evaluators should measure the strength of the blind rather than assume it. After a run, ask the system in a separate controlled probe what kind of interaction it believed it had just completed. Compare that inference with behavior. If a model confidently identifies the test but behaves no differently, awareness may be mostly harmless for that evaluation. If behavioral shifts track recognition, the context effect needs to enter the interpretation.
+
+This approach avoids a common mistake: treating any sign of recognition as evidence of strategic manipulation. Awareness is an input. Its significance depends on what follows from it.
+
+The distinction is crucial for governance. A regulator does not need to prove a machine has human-like intent to worry that certified behavior fails to transfer outside the certification environment. Observable context sensitivity is enough to create a measurement requirement.
+
 Anthropic's BrowseComp report did something valuable in this respect.
 
 It separated ordinary contamination from evaluation-aware answer retrieval.
