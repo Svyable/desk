@@ -386,6 +386,8 @@ Task-level disagreement can itself become a useful signal. If human reviewers re
 
 Professional work is full of those cases. A senior engineer reads an issue and infers a convention from years in the repository. A newcomer cannot. A benchmark that assumes the convention without stating it may be measuring repository familiarity in addition to coding. That can be legitimate if the intended construct is contribution inside that project. It is misleading if the result is sold as general software-engineering ability.
 
+That classification can also reveal whether defects are random. If one model family is disproportionately punished by overly strict formatting tests while another is disproportionately helped by low-coverage graders, removing bad items can reorder the leaderboard rather than merely shift every score upward.
+
 Item audits should therefore record reasons, not just keep/drop decisions. Was the problem missing information? Was the grader too strict? Did experts disagree about acceptable output? Did the environment fail? Those categories let future benchmark designers see which kinds of task complexity produce measurement failure.
 
 Over time, the audit trail becomes part of the benchmark's scientific value. A mature instrument is not one that never had defects. It is one whose defects are discoverable, versioned, and incorporated into the interpretation of results.
