@@ -36,6 +36,7 @@ Artificial intelligence can make public administration dramatically cheaper. The
 ## Research
 
 - [Book-wide source notes](research/source-notes.md)
+- [The Fiscal Mirage — source notes](research/fiscal-mirage-sources.md)
 - [The Capacity Budget — source notes](research/capacity-budget-sources.md)
 - [The Geography of Capacity — source notes](research/geography-of-capacity-sources.md)
 - [Release review — 2026-09-01](research/release-review-2026-09-01.md)
