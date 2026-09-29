@@ -6,7 +6,7 @@
 |---|---|
 | **Authors** | Sven Hardy Benson |
 | **Status** | Drafting |
-| **Chapters** | 4 of 20 drafted |
+| **Chapters** | 9 of 20 drafted |
 
 A meter is useful only while it can still tell two different things apart.
 
@@ -27,11 +27,11 @@ The book follows a simple question through AI, economics, education, software, s
 - [x] [Ch 2 — 100 Percent Means Nothing](manuscript/ch02-100-percent-means-nothing.md)
 - [x] [Ch 3 — The Meter Is Part of the Machine](manuscript/ch03-the-meter-is-part-of-the-machine.md)
 - [x] [Ch 4 — Goodhart Gets a GPU](manuscript/ch04-goodhart-gets-a-gpu.md)
-- [ ] Ch 5 — Contamination
-- [ ] Ch 6 — The Answer Key Is Online
-- [ ] Ch 7 — The Harness Chooses the Winner
-- [ ] Ch 8 — Broken Questions, Precise Scores
-- [ ] Ch 9 — The Model Knows It Is Being Tested
+- [x] [Ch 5 — Contamination](manuscript/ch05-contamination.md)
+- [x] [Ch 6 — The Answer Key Is Online](manuscript/ch06-the-answer-key-is-online.md)
+- [x] [Ch 7 — The Harness Chooses the Winner](manuscript/ch07-the-harness-chooses-the-winner.md)
+- [x] [Ch 8 — Broken Questions, Precise Scores](manuscript/ch08-broken-questions-precise-scores.md)
+- [x] [Ch 9 — The Model Knows It Is Being Tested](manuscript/ch09-the-model-knows-it-is-being-tested.md)
 - [ ] Ch 10 — Time, Not Trivia
 - [ ] Ch 11 — Reliability at N
 - [ ] Ch 12 — The Cost of One More Nine
@@ -51,6 +51,7 @@ The book follows a simple question through AI, economics, education, software, s
 - [Book brief and chapter architecture](research/book-brief.md)
 - [Source ledger](research/source-ledger.csv)
 - [Part I measurement/control research controls](research/ch02-04-measurement-control.md)
+- [Part II evaluation-integrity research controls](research/ch05-09-eval-integrity.md)
 
 ## Rights
 

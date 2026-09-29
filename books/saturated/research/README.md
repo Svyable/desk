@@ -22,7 +22,9 @@ Chapter 1 currently relies on:
 
 Chapters 2–4 add the measurement foundations needed before the book moves into contamination and test failure: ETS test theory and item-response theory, adaptive-testing practice, benchmark-saturation research, GDPval and capability-elicitation evidence on setup sensitivity, NIST measurement-method guidance, the original Goodhart/Campbell lineage, leaderboard overfitting, and education incentive studies that supply both failure cases and counterevidence.
 
-See [ch02-04-measurement-control.md](ch02-04-measurement-control.md) for the bounded Part I research pass and [source-ledger.csv](source-ledger.csv) for URLs and claim boundaries.
+Chapters 5–9 separate five evaluation-integrity mechanisms that are easy to collapse into a single story: training-data contamination, live retrieval of leaked benchmark material, model-harness interactions, invalid or narrow tasks/graders, and evaluation awareness. The evidence spine includes controlled contamination studies, LiveBench’s rolling design, Anthropic’s BrowseComp incident analysis, Terminal-Bench/Harness-Bench, SWE-bench task audits, METR maintainer review, and bounded evaluation-awareness/alignment-faking research.
+
+See [ch02-04-measurement-control.md](ch02-04-measurement-control.md) for Part I, [ch05-09-eval-integrity.md](ch05-09-eval-integrity.md) for Part II, and [source-ledger.csv](source-ledger.csv) for URLs and claim boundaries.
 
 ## Research rule
 
@@ -44,9 +46,9 @@ The book should actively collect examples in which:
 
 ## Near-term research queue
 
-1. Build a dated benchmark lifecycle table before Chapters 5–9.
-2. Separate training contamination, web retrieval, repeated-public-benchmark optimization, and evaluation-aware behavior with case-level evidence.
-3. Find primary evidence that evaluation scores enter procurement, governance, investment, or safety decisions.
-4. Build education and hiring case studies around signal degradation rather than generic “AI changes work” claims.
-5. Find concrete AI assurance, audit, underwriting, and insurance examples.
-6. Identify cases where benchmark difficulty and real-world relevance move in opposite directions.
+1. Build the Part III evidence spine around long-horizon tasks, compounded reliability, recovery and human intervention.
+2. Audit METR time-horizon methodology and current limitations before Chapter 10; do not paraphrase time horizon as continuous unattended work duration.
+3. Add reliability-engineering sources for sequential failure, redundancy and recovery before Chapters 11–12.
+4. Identify real-work studies where benchmark success and deployment productivity diverge.
+5. Build a bounded account of tacit context and underspecification for Chapter 13 without romanticizing human messiness.
+6. Audit human-baseline construction across AI benchmarks before Chapter 14.
