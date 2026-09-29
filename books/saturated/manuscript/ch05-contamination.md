@@ -340,6 +340,16 @@ The second sentence is less exciting.
 
 It is also more useful.
 
+The practical consequence is that a serious benchmark report needs an exposure statement. Not a theatrical certificate of purity, but a dated account of what is known. When were the questions created? When did they become public? Which versions of the evaluated model could plausibly have trained after that date? Were benchmark repositories excluded from later fine-tuning? Are private or post-cutoff items available as a comparison?
+
+This does not solve closed-model uncertainty. It improves the quality of the uncertainty.
+
+A developer who cannot disclose training data can still report performance on fresh held-out tasks. An independent evaluator can compare public and private forms. A benchmark maintainer can publish the dates when items entered circulation. Researchers can look for divergence between old public questions and newer analogues.
+
+The strongest evidence against a contamination explanation is not an assurance that nobody ever saw the test. It is transfer. If the system performs similarly on fresh problems that require the same underlying skill, the public score becomes easier to interpret. If performance collapses when the surface form and provenance change, familiarity becomes a stronger competing explanation.
+
+That logic also protects against the opposite mistake. Benchmark skeptics sometimes treat any possible exposure as grounds to discard an entire result. That throws away information too aggressively. A contaminated item may still reveal something about execution, formatting, tool use, or reliability even if it can no longer establish unseen-task generalization. The evaluator should narrow the claim rather than pretend the observation vanished.
+
 SWE-bench Verified did not become worthless because somebody forgot how to verify software tasks. Its lifecycle exposed a different problem. The field improved the questions, then improved the systems, then published enough about both that the old test could no longer carry the same evidentiary weight.
 
 A benchmark can be well designed and still expire.
