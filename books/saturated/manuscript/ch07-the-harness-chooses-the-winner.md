@@ -400,6 +400,14 @@ It means the evaluator has to know which dimensions can change the conclusion.
 
 Harness identity is now one of them.
 
+There is also a selection problem hidden inside harness benchmarking. Agent developers naturally tune their systems against the models they expect to ship. A harness that performs poorly with one model may simply be under-optimized for that model's interaction style, tool syntax, or context behavior. Comparing every model under every vendor's preferred stack would be fairer to products and much harder to interpret scientifically.
+
+One solution is a matrix rather than a single race. Run several representative models through several representative harnesses. The resulting table reveals interactions: some harnesses are robust across models, some are specialized, and some models are unusually sensitive to the wrapper. Harness-Bench is valuable partly because it moves evaluation in this direction.
+
+The matrix also changes procurement. An enterprise that already depends on a particular tool framework may care about the best model inside that framework, not the global leaderboard winner. Another enterprise may be free to change both layers and should compare complete systems. The unit of choice follows the constraints of the buyer.
+
+This is a recurring theme in measurement: a component ranking is useful only when the surrounding system is held still enough for the component to be the decision variable.
+
 The distinction also matters for forecasting.
 
 Suppose a model improves slowly for six months while agent systems built around it improve quickly.
