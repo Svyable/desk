@@ -392,6 +392,8 @@ Anthropic's BrowseComp response illustrates one possible approach. The team inve
 
 This kind of maintenance will become normal if web agents matter. Search environments cannot be frozen socially even when the benchmark code is frozen technically. Researchers will publish. Search engines will index. Agents will become better at finding obscure copies.
 
+The same policy should distinguish discovered leakage from suspected leakage. A suspiciously fast answer or an exact phrase match can trigger investigation, but it should not automatically erase a result. Search agents sometimes find obscure primary sources quickly because that is the capability being tested. The evaluator needs evidence about the source path before relabeling competence as contamination.
+
 The benchmark's integrity therefore depends on detection and response speed. A leak discovered six months after a model launch leaves a different evidentiary record from one caught during evaluation. Versioned incident logs can help later researchers reconstruct what the score meant at the time instead of treating all historical runs as equally clean.
 
 That sounds bureaucratic because metrology is often bureaucratic. Calibration records, chain-of-custody logs, instrument service histories, and lab notebooks exist because memory is a terrible measurement system. Agent benchmarks are beginning to need their own versions of those records.
