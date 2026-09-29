@@ -54,7 +54,7 @@ Now reverse it. Suppose the model proposes a bad action. The harness validates t
 
 Did the model solve the task? The product did. The distinction sounds philosophical until money enters the picture. An enterprise buying agents cares about delivered outcomes, auditability, security boundaries, latency, and cost. A lab studying scaling laws may care about the base model. A safety evaluator may need both views because a strong harness can increase useful capability and dangerous capability at the same time.
 
-Measurement has to follow the decision. This is where a neutral harness earns its value. If every model runs through the same simple agent, differences in the leaderboard are easier to attribute to the model. But neutrality has limits.
+Measurement has to follow the decision. A neutral harness earns its value when the goal is to isolate differences among models. If every model runs through the same simple agent, differences in the leaderboard are easier to attribute to the model. But neutrality has limits.
 
 A common harness may fit one model family better than another. Models are trained with different tool conventions. Some handle long context differently. Some expect particular interaction patterns.
 
@@ -124,6 +124,4 @@ The temptation will be to solve the naming problem by picking one layer and call
 
 Manufacturing output is not only the machine tool. Organizations create capability by arranging components. Agent systems do the same. The evaluator's job is not to strip away every arrangement.
 
-It is to state which arrangement was measured. This gives a cleaner way to read the leaderboard. When the same model appears multiple times with different agents, the duplicate rows are not redundant. They are evidence.
-
-They show how much capability the surrounding system can create, expose, waste, or recover. The harness does not merely carry the model to the benchmark. Sometimes it decides who wins.
+It is to state which arrangement was measured. This gives a cleaner way to read the leaderboard. When the same model appears multiple times with different agents, the duplicate rows show how much measured performance moved with the surrounding system. The model name alone no longer identifies the thing that won the task.
