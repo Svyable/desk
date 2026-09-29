@@ -34,15 +34,15 @@ This is why the argument is not science versus preference. Morning light has par
 
 The United States has already run a rough political experiment in what happens when that allocation becomes visible.
 
-Congress imposed year-round daylight saving time beginning in January 1974 during the energy crisis. The goal was not to test sleep biology. It was to conserve energy by shifting usable daylight later in the day.
+On January 6, 1974, during the energy crisis, the country began an emergency experiment with continuous daylight saving time. Congress had authorized it through April 27, 1975. The point was to conserve energy by shifting usable daylight later, not to test circadian biology.
 
-Then winter arrived.
+The politics changed almost immediately. On January 28, Senator Lawton Chiles introduced a bill to end the experiment and cited reports that eight Florida schoolchildren had been killed in predawn traffic crashes. The deaths made dark school mornings brutally concrete. They did not constitute a controlled experiment showing that daylight saving time caused the crashes, and the Congressional Record cannot turn them into one. What it does show is how quickly the morning side of the daylight bargain acquired names, families, and political force.
 
-In northern parts of the country, schoolchildren waited for buses in darkness and commuters began their days before sunrise. Public support deteriorated, and Congress shortened the experiment before its intended end.
+By March, senators were already proposing ways out. Congress did not wait for the original experiment to expire: in October it amended the law, returning the country to standard time for the winter beginning October 27 before daylight saving time resumed the following February.
 
-That history is often compressed into a neat lesson: America tried permanent daylight saving time and hated it. The real episode is messier. It happened during an oil crisis, under 1970s transportation patterns, with schools and workplaces built around the previous clock. It is not a controlled forecast of what Americans would choose now.
+That history is often compressed into a neat lesson: America tried permanent daylight saving time and hated it. The real episode is messier. It happened during an oil crisis, under 1970s transportation patterns, with schools and workplaces built around the previous clock. Accident reports, expectations about energy savings, and the inconveniences of dark mornings all entered the political argument at once. It is not a controlled forecast of what Americans would choose now.
 
-It does establish one durable point. Ending the clock change does not end the argument over which side of the day gets the light.
+It establishes something narrower and more durable. Moving an hour of winter light changes who waits for a bus, drives to work, opens a store, or walks to school in darkness. Ending the clock change does not end the argument over who gets that hour.
 
 Current federal law preserves that distinction. States can exempt themselves from daylight saving time and remain on standard time; Hawaii and most of Arizona do. States that observe daylight saving time cannot simply decide, under existing law, to make the advanced clock permanent on their own.
 
