@@ -2,7 +2,7 @@
 
 **Books in the act of becoming books.**
 
-Desk is the working library for Sven Hardy Benson’s books: drafts, complete manuscripts, research, revision history, and the next edition before it becomes a deliberate release. **Desk is where the work moves. [Shelf](https://github.com/Svyable/shelf) is where an edition lands. [Bookself](https://github.com/Svyable/bookself) is the publishing system underneath both.**
+Desk is the working library for Sven Hardy Benson’s books and screen projects: drafts, complete manuscripts, research, screenplay and teleplay source, revision history, and the next edition before it becomes a deliberate release. **Desk is where the work moves. [Shelf](https://github.com/Svyable/shelf) is where an edition lands. [Bookself](https://github.com/Svyable/bookself) is the publishing system underneath both.**\n\nMovie and show scripts live in [`screenplays/`](screenplays/) as Fountain source with treatments, series bibles, and continuity alongside them. See [`docs/screenplay-authoring-standard.md`](docs/screenplay-authoring-standard.md).
 
 **[📖 Open the Desk Reader →](https://svyable.github.io/desk/reader/)** · **[📚 Read released editions →](https://svyable.github.io/shelf/reader/)** · **[🛠 Explore Bookself →](https://github.com/Svyable/bookself)**
 
