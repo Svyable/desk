@@ -23,6 +23,21 @@ here means work in motion, not publication.
 
 The rest of this guide is the same path, slower.
 
+### Movie and show scripts
+
+Screenplays live separately under [`screenplays/`](../screenplays/). Copy
+`screenplays/_TEMPLATE/` to a new lowercase slug, fill its README metadata,
+and write canonical pages in Fountain:
+
+- feature, short, or standalone pilot: `script/main.fountain`
+- series or limited series: `episodes/epNN-title.fountain`
+
+Treatments, series bibles, and continuity ledgers sit beside the script. See
+[`docs/screenplay-authoring-standard.md`](screenplay-authoring-standard.md)
+for the writing/file contract. Before handing off screenplay work, run
+`python3 scripts/check-screenplays.py <slug>`. The full
+`python3 scripts/check-desk.py` check includes screenplay integrity too.
+
 ## 1. What this place is
 
 The repository is a stack of books. Open [`books/`](../books/). The folder

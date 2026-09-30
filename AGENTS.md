@@ -236,6 +236,16 @@ not a prerequisite for writing or releasing. The normal release helper and
   Do not add a human-review blocker solely as a workflow ritual or bypass
   required checks.
 
+## Screenwriting
+
+- For feature films, shorts, pilots, series, adaptations, treatments, bibles, or continuity work under `screenplays/`, read and apply `.agents/skills/screenwriting/SKILL.md` and `docs/screenplay-authoring-standard.md` before substantial drafting or revision.
+- Canonical screenplay pages are Fountain (`.fountain`), not Markdown disguised as screenplay layout. Keep single-script formats at `script/main.fountain` and produced series episodes at `episodes/epNN-title.fountain` or `episodes/epNNN-title.fountain`.
+- Do not apply book chapter length gates, book title-page conventions, paragraph diagnostics, or manuscript heading rules to Fountain script pages. Treatments, bibles, and continuity notes are prose support files and should still avoid generic AI language, false quotation, unsupported claims, and synthetic polish.
+- Treat a scene as dramatic work, not exposition storage: know who is driving it, what resists them, and what changes before the cut. Preserve character-specific dialogue, knowledge state, timeline, props, injuries, relationships, and other continuity.
+- When a script change establishes a durable continuity fact, update `continuity.md` when the project uses it. For episodic projects, use `bible.md` for the repeatable series engine and stable world/character rules rather than trusting chat memory.
+- Adaptations must preserve provenance: source-book truth, adaptation choices, and screen-project continuity are different things. Do not rewrite `books/` from a screenplay task unless explicitly asked, and do not treat a source reference as rights clearance.
+- Run `python3 scripts/check-screenplays.py <slug>` for screenplay handoff. Repo-level `python3 scripts/check-desk.py` includes the screenplay audit.
+
 ## Markdown
 
 - Chapters are a single `# Title` heading, then paragraphs. No YAML front
@@ -285,6 +295,12 @@ useful, then perform the required anti-slop and paragraph passes before calling
 the prose finished or ready for handoff. If you add, rename, or remove chapters,
 update that book's README TOC and Chapters count in the same finished change.
 Keep unrelated prose and tooling out of the batch.
+
+**Start a screenplay.** Copy `screenplays/_TEMPLATE/` to `screenplays/<slug>/`, fill the required README metadata, choose the canonical Fountain path for the format, and follow `docs/screenplay-authoring-standard.md`.
+
+**Write / edit screenplay.** Work in the canonical `.fountain` file, read the relevant treatment/bible/continuity context first, and update durable continuity when the change establishes it. Preserve source/adaptation distinctions for adapted work.
+
+**Check screenplays.** Run `python3 scripts/check-screenplays.py` for the full screenplay tree or add a slug for a focused project check.
 
 **Check Desk.** Run `python3 scripts/check-desk.py`. It verifies that real book
 folders, Reader catalog rows, direct Reader slugs, the feedback dropdown, and

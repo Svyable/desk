@@ -1,0 +1,51 @@
+name: Screenplay feedback
+description: Give scene, episode, character, structure, dialogue, or continuity feedback on a Desk screen project.
+title: "[Screenplay] "
+labels: []
+body:
+  - type: input
+    id: project
+    attributes:
+      label: Screen project
+      description: Use the screenplay slug from screenplays/<slug>/.
+      placeholder: working-title
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: File / scene / episode
+      description: Point to the Fountain file and scene heading, page reference, or sequence.
+      placeholder: episodes/ep01-pilot.fountain — INT. KITCHEN - NIGHT
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Feedback type
+      options:
+        - Story engine / premise
+        - Structure / sequence
+        - Scene objective / turn
+        - Character
+        - Dialogue
+        - Action / filmability
+        - Continuity
+        - Adaptation / source fidelity
+        - Fountain formatting
+        - Production practicality
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: observation
+    attributes:
+      label: What is not working or could be stronger?
+      description: Be concrete about the current page rather than prescribing a total rewrite by default.
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested direction
+      description: Optional. Describe the dramatic result you want; exact replacement dialogue is welcome when useful.

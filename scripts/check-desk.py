@@ -258,6 +258,36 @@ if catalog_manifest_check.returncode:
         + (catalog_manifest_check.stdout.strip() or catalog_manifest_check.stderr.strip())
     )
 
+screenplay_check = subprocess.run(
+    [sys.executable, str(ROOT / "scripts" / "check-screenplays.py"), "--root", str(ROOT), "--json"],
+    check=False,
+    capture_output=True,
+    text=True,
+)
+try:
+    screenplay_report = json.loads(screenplay_check.stdout)
+except json.JSONDecodeError:
+    screenplay_report = {"projects": 0, "warnings": 0, "findings": []}
+    fail(
+        "screenplay audit did not return valid JSON: "
+        + (screenplay_check.stderr.strip() or screenplay_check.stdout.strip())
+    )
+else:
+    if screenplay_check.returncode:
+        errors = [
+            item
+            for item in screenplay_report.get("findings", [])
+            if item.get("level") == "error"
+        ]
+        if not errors:
+            fail("screenplay audit failed without structured error findings")
+        for item in errors:
+            location = f" ({item.get('path')})" if item.get("path") else ""
+            fail(
+                f"screenplay {item.get('project', 'Desk')}: "
+                f"{item.get('message', 'unknown error')}{location}"
+            )
+
 readme_text = README.read_text(encoding="utf-8")
 cover_check = subprocess.run(
     [sys.executable, str(ROOT / "scripts" / "check-book-cover-metadata.py"), "--root", str(ROOT), "--json"],
@@ -388,6 +418,7 @@ if FAILED:
 
 print(
     f"Desk integrity check passed: {len(book_dirs)} books are cataloged consistently; "
+    f"{int(screenplay_report.get('projects', 0))} screenplay project(s) validated; "
     f"{ledger_count} legacy source ledgers plus source fragments contain "
     f"{source_count} unique records."
 )

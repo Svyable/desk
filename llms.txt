@@ -1,6 +1,6 @@
 # Sven Hardy Benson’s Desk
 
-> Working drafts of Sven Hardy Benson’s books. Desk is a writing and revision surface; released editions live on Sven Hardy Benson’s Shelf.
+> Working drafts of Sven Hardy Benson’s books and screen projects. Desk is a writing and revision surface; released book editions live on Sven Hardy Benson’s Shelf.
 
 This file is the low-noise machine-readable map of the Desk. Working drafts can change at any time. Do not infer publication from presence here.
 
@@ -13,6 +13,14 @@ This file is the low-noise machine-readable map of the Desk. Working drafts can 
 - [Crawler policy](https://svyable.github.io/desk/robots.txt) — crawl policy for the public Pages surface.
 - [Sitemap](https://svyable.github.io/desk/sitemap.xml) — canonical public discovery URLs.
 - [Released Shelf Reader](https://svyable.github.io/shelf/reader/) — deliberately released editions.
+
+## Screenplays
+
+Movie and television projects live under `screenplays/`. Fountain (`.fountain`) is canonical screenplay source; treatments, series bibles, and continuity files live beside it.
+
+- [Screenplay workspace](https://svyable.github.io/desk/screenplays/README.md) — project layout, formats, canonical paths, and validation.
+- [Screenplay authoring standard](https://svyable.github.io/desk/docs/screenplay-authoring-standard.md) — scene, dialogue, episodic, adaptation, continuity, and Fountain rules.
+- [Screenwriting agent skill](https://svyable.github.io/desk/.agents/skills/screenwriting/SKILL.md) — agent workflow for drafting and revision.
 
 ## Books
 
