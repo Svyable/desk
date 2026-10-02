@@ -6,7 +6,7 @@ const source = readFileSync(fileURLToPath(new URL('./app-loader.js', import.meta
 
 assert.match(source, /const canonicalAppUrl = (?:'https:\/\/svyable\.github\.io\/bookself\/reader\/js\/app\.js\?v=r6'|new URL\('\.\/app\.js', import\.meta\.url\)\.href);/);
 assert.match(source, /const canonicalReadingSurfaceUrl = new URL\('\.\/reading-surface\.js\?v=20260913-first-layout', canonicalAppUrl\)\.href;/);
-assert.match(source, /const canonicalNavigationCssUrl = 'https:\/\/svyable\.github\.io\/bookself\/reader\/css\/navigation\.css\?v=r2';/);
+assert.ok(source.includes("const canonicalNavigationCssUrl = new URL('../css/navigation.css', import.meta.url).href;"));
 assert.match(source, /const viewportStabilityUrl = new URL\('\.\/desk-viewport-stability-runtime\.js', import\.meta\.url\)\.href;/);
 assert.match(source, /const nativeShareUrl = new URL\('\.\/native-share\.js', import\.meta\.url\)\.href;/);
 assert.match(source, /const libraryHomeUrl = new URL\('\.\.\/css\/library-home\.css', import\.meta\.url\)\.href;/);
