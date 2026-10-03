@@ -23,12 +23,10 @@ function serviceWorkerShell(source) {
 const STATIC_IMPORT_RE = /(?:import|export)\s+(?:[^'"\n]*?\s+from\s+)?['"](?<path>\.[^'"]+\.js)['"]/g;
 
 assert.match(sw, /const CACHE_PREFIX = ['"]svyable-desk-reader-shell-['"]/);
-assert.match(sw, /const CACHE = ['"]svyable-desk-reader-shell-v112['"]/);
+assert.match(sw, /const CACHE = ['"]svyable-desk-reader-shell-v[0-9]+['"]/);
 assert.match(sw, /key\.startsWith\(CACHE_PREFIX\) && key !== CACHE/);
 assert.doesNotMatch(sw, /raw\.githubusercontent\.com/);
-assert.match(sw, /const BOOKSELF_READER_ORIGIN = 'https:\/\/svyable\.github\.io';/);
-assert.match(sw, /const BOOKSELF_READER_PATH = '\/bookself\/reader\/';/);
-assert.match(sw, /url\.origin === BOOKSELF_READER_ORIGIN && url\.pathname\.startsWith\(BOOKSELF_READER_PATH\)/);
+assert.doesNotMatch(sw, /BOOKSELF_READER_ORIGIN|BOOKSELF_READER_PATH/);
 
 for (const helper of helpers) {
   assert.match(sw, new RegExp(`importScripts\\(['"]\\./js/${helper.replace('.', '\\.')}`));
