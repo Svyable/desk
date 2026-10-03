@@ -1,172 +1,42 @@
 # The Politics of Visible Pain
 
-Every durable spending problem eventually becomes a problem of pain distribution.
+A budget can lose an argument before anyone has compared the numbers.
 
-Not suffering in the abstract.
+Close a military base and the loss has an address. The mayor knows which payroll disappears. The employees know which gate may close. Contractors, restaurants, landlords, school districts, and members of Congress can draw the affected community on a map. The national saving is real, but it arrives as a thin film spread across millions of taxpayers and as military resources that might be used better somewhere else.
 
-Visible pain.
+The same asymmetry appears all over public life. A benefit cut changes a deposit. A hospital closure removes a building from a town. A zoning change puts a proposed apartment block at the end of somebody's street. A pension reform alters a retirement calculation. The alternative often lives in a counterfactual: debt service that never rises, housing that might have been built, taxes that need not be collected later, capacity that could have gone elsewhere.
 
-A tax increase appears on a paycheck.
+Counterfactuals do not testify at hearings.
 
-A benefit cut appears in a deposit.
+That is the political problem underneath much of this book. It is tempting to reduce it to a slogan: concentrated benefits beat diffuse costs, or voters hate losses more than they value gains. Both ideas contain something useful. Neither is a law of politics.
 
-A hospital closure appears on a map.
+Kahneman and Tversky's original prospect-theory experiments showed that people evaluate outcomes relative to reference points and, in their experiments, losses generally weighed more heavily than comparable gains. They did not study pension votes, base closures, tax expenditures, housing hearings, or deficit packages. The jump from laboratory choice to fiscal politics requires institutions, information, organization, and blame. ([Kahneman and Tversky, 1979](https://www.jstor.org/stable/1914185))
 
-A military cancellation appears in a factory town.
+The political-science evidence is more awkward, and therefore more useful. Comparative studies of welfare-state retrenchment have not found a simple rule that governments imposing visible cuts are reliably punished at the next election. Some effects are weak; some depend on whether the reform becomes salient; some depend on which voters are paying attention and whether they know whom to blame. In one comparative analysis, some governing parties even gained votes after retrenchment. ([Armingeon and Giger, 2008](https://doi.org/10.1080/01402380801939834); [Giger and Nelson, 2011](https://doi.org/10.1111/j.1475-6765.2010.01922.x); [Giger, 2012](https://doi.org/10.1093/esr/jcr039))
 
-A zoning change appears at the end of a block.
+So visibility is not enough. Pain becomes politically binding when several things line up: people experience a change as a loss against an established baseline; the loss is noticeable; responsibility can be assigned; and the affected group can organize while the issue is still alive. Timing can weaken or strengthen every one of those conditions.
 
-A pension reform appears in a worker's retirement calculation.
+That helps explain why borrowing can be easier than taxation without pretending voters are irrational. A dollar financed by an immediate tax increase makes the payer part of today's coalition problem. A dollar financed by borrowing can separate the benefit from part of its eventual financing. The future taxpayer is not merely diffuse. She may not exist yet.
 
-A tuition increase appears in an aid letter.
+Later is unusually bad at calling a congressional office.
 
-A higher insurance premium appears in an enrollment portal.
+The same mechanism appears outside Washington. Consider a city deciding whether to allow a new apartment building. Nearby residents can see the proposal and may have legitimate concerns about traffic, shadows, parking, school crowding, construction noise, or neighborhood change. The people who might eventually live in the apartments are harder to identify. They may live across town, in another state, with their parents, or in an overcrowded unit. They cannot appear at the hearing as residents of a building that has not been built.
 
-The fiscal benefit of avoiding those decisions is harder to see.
+That does not mean the neighbors always win. Cities approve unpopular projects; renters organize; state governments override local restrictions; housing scarcity itself can become salient. The point is narrower. Existing residents begin with an easier path from consequence to attention to organization than unknown future residents do.
 
-The crisis that does not happen has no photograph.
+A military base makes the same structure easier to see because the local constituency is so legible. The national-security value of one installation may be debatable. The payroll is not. A proposed closure can immediately align mayors, unions, contractors, employees, suppliers, and legislators. Yet even here visible loss is not destiny. The Base Realignment and Closure process was designed partly to change the unit of political decision: installations were evaluated through a common process and Congress faced a package rather than an ordinary sequence of one-base fights. Earlier BRAC rounds closed bases despite intense local opposition, and GAO later found that many affected communities recovered substantial employment, though outcomes varied widely. The loss could be visible without being politically fatal.
 
-The interest payment that does not rise has no beneficiary standing at a podium.
+That distinction matters. The politics is not simply that losers are seen and winners are not. Institutions can change salience, attribution, sequencing, and the ability to rescue one favored case from a broader decision.
 
-The apartment building that would have existed under different rules cannot testify at a hearing.
+Tax preferences add another wrinkle: the baseline itself moves. A deduction that has existed for years can stop feeling like a policy and start feeling like part of the taxpayer's property. Removing it may then be experienced as a loss even if a reform lowers rates elsewhere. Temporary benefits can acquire the same quality. Expiration is written into law, but households and firms may still build plans around continuation.
 
-The future taxpayer who inherits less debt is not organized yet.
+Prospect theory gives one language for that reference point. Policy-feedback research gives another. Mature programs can create expectations, organizations, information, and constituencies that change the politics of later reform. Paul Pierson's work on welfare-state retrenchment made precisely this point: taking apart an established program is politically different from creating one because the program has already changed the world in which the later decision occurs. ([Pierson, 1996](https://doi.org/10.1353/wp.1996.0004))
 
-The program never created does not have a trade association.
+That is a better explanation than saying people simply adapt to benefits and refuse to surrender them. Sometimes they do surrender them. Sometimes they vote for governments that cut them. Sometimes responsibility is blurred, the change is phased in, the affected group is small, or the reform is attached to a purpose voters accept. R. Kent Weaver called attention to the politics of blame avoidance: officials can limit agendas, shift responsibility, use rules, or otherwise alter who owns a painful decision. ([Weaver, 1986](https://doi.org/10.1017/S0143814X00004219))
 
-The price increase prevented by competition leaves no invoice showing the higher price that never arrived.
+The practical consequence is still uncomfortable. A future Social Security benefit is not cash in a worker's bank account today, but it can be part of a real retirement plan. Change the formula and the worker may reasonably experience a loss. People make life decisions around government rules. A reform imposed suddenly on someone with little time to adjust can be unfair even if the old formula is fiscally unsustainable.
 
-This is the political asymmetry underneath much of the book.
-
-Spending creates identifiable benefits.
-
-Restraint often creates invisible option value.
-
-The first can vote.
-
-The second mostly cannot.
-
-This is why fiscal arguments often sound irrational when they are actually responding to a different accounting system.
-
-The federal budget counts dollars.
-
-Politics counts people who notice.
-
-A policy that saves ten billion dollars by imposing a noticeable loss on one million organized people may be harder to enact than a policy that costs fifty billion dollars by spreading five dollars of monthly burden across millions of people who barely identify the cause.
-
-The budget prefers the first.
-
-The political system may prefer the second.
-
-Neither preference is mysterious once visibility enters the model.
-
-The phrase concentrated benefits and diffuse costs is an old piece of public-choice economics because it describes a durable political fact.
-
-A small group receiving a large benefit per member has a strong reason to organize around it.
-
-A very large group paying a small amount per member has less reason to organize against it.
-
-The dynamic appears in subsidies, tax preferences, procurement, licensing, tariffs, local land-use rules, occupational protections, agricultural programs, and thousands of other policies.
-
-But the modern spending problem adds another dimension.
-
-Costs can also be shifted through time.
-
-That makes them diffuse twice.
-
-A current voter may receive the benefit while the financing appears partly as debt service paid by future taxpayers.
-
-The future taxpayer is not merely unorganized.
-
-She may not exist yet.
-
-This does not make borrowing illegitimate.
-
-It explains why borrowing is politically easier than taxation.
-
-A dollar of spending financed by an immediate tax increase forces the coalition to defend both sides of the transaction.
-
-A dollar financed by borrowing lets the coalition discuss the benefit first and the payer later.
-
-Later is a powerful constituency.
-
-Later never calls the office today.
-
-The same political structure appears outside Washington.
-
-Consider a city deciding whether to allow a new apartment building.
-
-The people who can see the proposed building live nearby.
-
-They may worry about traffic, shadows, parking, school crowding, construction noise, or neighborhood change.
-
-Those concerns can be real.
-
-The people who would have lived in the apartments are harder to identify.
-
-They may currently live across town, in another state, with their parents, in an overcrowded unit, or nowhere near the public hearing.
-
-They do not know the exact building that would have housed them.
-
-They cannot show up as its residents because the building does not exist.
-
-The visible constituency represents the existing world.
-
-The invisible constituency represents the possible world.
-
-Political systems systematically hear the first more clearly.
-
-Now consider a military base.
-
-The national-security value of one installation may be debatable.
-
-The local payroll is not.
-
-A proposed closure immediately creates mayors, unions, contractors, employees, suppliers, and legislators with a common interest in stopping it.
-
-The national taxpayer saving a tiny amount per person is less motivated.
-
-The strategic resources that could have been moved elsewhere are hypothetical.
-
-The base is concrete.
-
-Or consider a tax expenditure.
-
-A deduction has beneficiaries who have built decisions around it.
-
-Removing it can be described as a tax increase even if the reform lowers rates elsewhere.
-
-The old preference is experienced as baseline reality.
-
-The replacement is experienced as policy.
-
-People adapt quickly to benefits and slowly to their removal.
-
-This is one reason temporary fiscal measures have a habit of becoming permanent.
-
-Expiration is politically described as loss.
-
-The fact that the benefit was originally temporary becomes a historical footnote.
-
-Baselines are psychological before they are budgetary.
-
-The same mechanism makes benefit reform difficult.
-
-A future Social Security benefit is not cash in a worker's bank account today.
-
-It is still part of the worker's mental retirement plan.
-
-Change the formula and the policy is experienced as taking away something expected.
-
-That expectation deserves respect.
-
-People make life decisions around government rules.
-
-A reform imposed suddenly on someone with little time to adjust can be genuinely unfair even if the old formula was fiscally unsustainable.
-
-This is why early reform is not merely easier arithmetic.
-
-It is more humane politics.
+Early reform therefore has an advantage beyond arithmetic. It creates room for expectations to move before the adjustment becomes a shock.
 
 Time allows expectations to adjust gradually.
 
