@@ -169,4 +169,13 @@ For every recurring character, build a source packet before drafting the full sc
 
 ## Sources
 
-No external sources have been approved for the manuscript yet. Research should begin by identifying five to seven recurring people with strong evidence rather than by searching for anecdotes that merely fit a predetermined moral.
+Sources are approved and recorded **chapter by chapter**, with separate source-quality and falsification notes. A reported example is not license to invent missing dialogue or to treat a retrospective account as a verified causal history. Each packet should separate primary reportage, peer-reviewed findings, company statements, and editorial inference.
+
+- [Chapter 1 — Find the Uncarried Bag](ch01-find-the-uncarried-bag.md): Ana Melendez, patient navigation, administrative burden, invisible work.
+- [Chapter 2 — Be Early, Not Loud](ch02-be-early-not-loud.md): Tonya Hicks, initiative, construction lookahead planning, safety and social boundaries.
+- [Chapter 3 — The Two-Minute Favor](ch03-the-two-minute-favor.md): digital navigation, libraries, capability-building, prosocial behavior and fatigue.
+- [Chapter 4 — Learn the Whole Machine](ch04-learn-the-whole-machine.md): Tonya Hicks, boundary spanning, cross-domain support and role stress.
+- [Chapter 5 — Keep Your Word Small](ch05-keep-your-word-small.md): Amanda Perry, trust, wait information, promise calibration and repair.
+- [Chapter 6 — Become Fluent in Other People's Problems](ch06-become-fluent-in-other-peoples-problems.md): Jannette Navarro, schedule uncertainty, controlled scheduling experiments, clinic waiting and the cost absent from optimization.
+
+The book currently uses a small recurring cast where evidence supports it, but Chapter 6 introduces Navarro for a distinctive institutional problem rather than forcing a previous character into the role. The prologue and later returns should be developed from verifiable material, not imagined scenes.
