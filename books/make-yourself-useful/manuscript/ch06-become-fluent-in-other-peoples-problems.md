@@ -59,3 +59,33 @@ That detail matters because averages can make disruption sound manageable. Thirt
 In the daily data, unexpected changes were associated with worse mood and sleep quality on those days. Some estimated effects were statistically marginal, and the sample was small. The study is strongest as a close view of how schedule changes occur, not as a universal coefficient for unhappiness.
 
 This is where usefulness requires more than kindness. A manager might sympathize with an employee whose childcare has fallen apart and still make the same schedule the following week. If the staffing process rewards managers for matching hours to a forecast while punishing them for excess labor, sympathy may produce a pleasant conversation without a changed decision. The manager's intentions matter, but the rules under which the manager works matter too.
+
+It is tempting to say that the answer is simply to give people stable schedules. For some jobs this is straightforward. For others, real uncertainty remains. A restaurant loses its lunch crowd when a storm arrives. A hospital staffs for emergencies that cannot be booked in advance. A small shop cannot buy unlimited excess coverage. Employees also want different things. One person needs the same hours every week; another values picking up shifts around classes or another job. A rigid schedule can be its own trap.
+
+The more interesting question is how much instability is unavoidable, and how much comes from the way the business is organized.
+
+A remarkable experiment with Gap stores put that question under pressure. From late 2015 through 2016, researchers working with the retailer studied scheduling across twenty-eight stores in the Chicago and San Francisco areas. Nineteen were randomly assigned to a treatment and nine served as controls. The project combined several changes: easier shift swaps, more consistent start and end times, some stronger expectations about weekly hours, and carefully targeted additional staffing. Both groups had already adopted two-week advance notice and eliminated on-call shifts across the company.
+
+The researchers did not ask stores to ignore demand. They tested whether more stable scheduling could coexist with a business that still needed to sell clothes.
+
+Their first report found median sales up about seven percent in treatment stores and labor productivity up around five percent. A later peer-reviewed analysis used a different statistical measure, reporting a 5.1 percent increase in productivity driven by higher sales and somewhat lower labor use. These are different estimates of different outcomes. They should not be blended into a miraculous number. The intervention was also a package of practices in a modest number of stores; it cannot establish that any one reform will increase profits in every restaurant or retailer.
+
+Its most interesting result may lie elsewhere. Among those stores, changes in customer traffic explained only about thirty percent of week-to-week variation in payroll hours. Store managers cited inaccurate shipment information, promotional decisions arriving late, and visits from company leaders as other sources of instability.
+
+Employees had been living with the uncertainty. Not all of it had begun with customers.
+
+An organization can ask workers to be endlessly adaptable while treating its own last-minute decisions as natural events. The schedule ends up absorbing disruptions created by procurement, marketing, headquarters, and management, while the person working hourly wages is expected to arrange the rest of life around the result.
+
+The experiment does not settle what Starbucks should have done in 2014. The stores sold clothing rather than coffee, and the changes required managerial effort, not merely a software setting. It establishes a possibility: the tradeoff between employee stability and business performance may be less fixed than the company assumes. Some of the flexibility managers believe they need could be flexibility the company has manufactured.
+
+A different piece of research offered a modest view from the policy side. When Emeryville, California, adopted a fair-workweek ordinance requiring large food-service and retail employers to give earlier notice and compensation for certain last-minute changes, researchers followed workers with young children. Their before-and-after comparison found greater stability and improved well-being relative to similar workers at smaller, exempt businesses. Employees tended to work fewer days with longer shifts; their total hours remained roughly unchanged. Fewer commutes and childcare handoffs are plausible reasons these patterns might matter.
+
+It was a small study, not a randomized trial. A city ordinance is neither a universal cure nor a complete account of the costs it imposes on employers. But it is evidence against the idea that chaos is simply the unavoidable price of serving customers.
+
+Notice where the argument has moved. It began with an apparently personal problem, a mother struggling to organize her life. It has reached the organization's information supply chain, its scheduling incentives, the distribution of business risk, and the possibility that a different management process could help workers without harming the store. Navarro had not failed to appreciate flexibility. The employer had an incomplete account of the costs associated with it.
+
+Listening becomes economically useful when it changes the model.
+
+This is also why a popular prescription to train employees in customer empathy can be so disappointing. The person closest to the problem may already know precisely what is wrong and have no authority to change it. An assistant manager may spend an hour trying to reconcile competing requests, only for a regional staffing target to undo the solution. A compassionate supervisor still operates inside a system that allocates resources and decides which results are rewarded. Care is a real human quality. It is not a substitute for permission, time, staffing, or money.
+
+There are costs of doing nothing as well. Continual turnover destroys local knowledge, forcing coworkers to train replacements. Unreliable shifts can create absences that look like lack of commitment. A plan that minimizes payroll on paper may make the store less capable at the exact moments when customers arrive. Good managers have to make choices among such costs. They cannot make those choices honestly while half of them remain invisible.
