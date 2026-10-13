@@ -18,6 +18,10 @@
 | Google DeepMind (2026), Co-Scientist | Updated public architecture and reported applications | Company primary source | https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/ |
 | Lu et al. (2024), The AI Scientist | End-to-end automated ML research and its verification/safety limitations | Research paper | https://arxiv.org/abs/2408.06292 |
 
+| Q Labs (2026), *Dust: Pretraining Transformers Without Backpropagation* | Forward-only tokenwise activation perturbations and learning credit; adjacent to, not identical with, evidence-search policies | Primary research report; experimental, not proof of compute parity | https://qlabs.sh/research/dust |
+| Q Labs (2026), *Noise* benchmark | Restricted fixed-model, one-epoch benchmark of forward-only learning; includes conventional backprop baselines | Primary repository and benchmark records (October 12, 2026) | https://github.com/qlabs-eng/noise |
+| SOTAAZ Lab (Oct. 8, 2026), *Pretraining Without Backprop, Rerun* | Narrow independent rerun and compute/baseline critique at 1M tokens | Independent rerun report, limited to stated setup | https://sotaaz.com/post/dust-backprop-free-rerun-en |
+
 ## Notes
 
 - Do not quote benchmark scores from memory. Re-open the source and attach the model, date, benchmark version and metric.
