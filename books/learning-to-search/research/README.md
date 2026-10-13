@@ -127,3 +127,7 @@ Before a case enters polished manuscript prose, record:
 **Stop:** What condition makes another observation not worth acquiring?
 
 **Countermodel:** Could the same performance gain be explained by stronger priors, more compute, a better tool, or an easier evaluator?
+## Forward-only credit assignment as an adjacent research lead (October 2026)
+
+[Noise / Dust: mechanism, comparators, and falsifiable agent-policy experiments](noise-dust-2026.md). This is adjacent to learned evidence acquisition, not evidence that activation perturbations improve a tool-using agent.
+
