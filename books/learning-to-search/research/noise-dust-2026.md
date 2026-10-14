@@ -54,6 +54,14 @@ If there is a funded GPU allocation, independently reproduce the Noise benchmark
 
 A compelling result would show **loss, total FLOPs, GPU-hours, peak memory, variance across seeds, and evaluation leakage controls**, not just a final rank. Keep conventional SGD/Adam backprop and a simple random-search baseline visible. Do not claim competitiveness on larger models or new architectures from this benchmark.
 
+## Follow-up: our discrete search-policy pilot (October 14, 2026)
+
+A [standard-library synthetic benchmark](../../../experiments/search-policy/README.md) now implements the proposed **Experiment A**, with [reproducible code and tests](../../../experiments/search-policy/controller.py). It evaluates four evidence-selection strategies (fixed, random, contextual bandit, outcome-guided perturb-and-select) using a disjoint training/development/held-out split, identical possible observations per task, and a maximum test-time evidence-cost budget of 4.
+
+In an initial five-seed pilot (96 synthetic training cases, 48 development cases, 128 held-out cases per seed), the fixed heuristic averaged **83.9%** accuracy, perturb-and-select **83.8%**, contextual bandit **83.4%**, and random search **76.9%**. In a separately generated *research* domain test after training on *incident* examples, the fixed heuristic averaged **86.1%** and perturb-and-select **84.4%**. These are **synthetic simulation measurements**, not claims of real LLM-agent gains or Dust replication. The perturbation policy **did not beat the fixed baseline**. All methods share the same per-task budget, but the gradient-free search incurs substantially more **training** simulations; cost accounting and limitations are in the experiment README.
+
+The logical next gate is an independent, permissioned and replayable evidence-search evaluation with real retrieval traces, blind verification, and matched total budget. Do not promote the synthetic result into proof of generalization or production readiness.
+
 ## Editorial use across Desk
 
 - **Learning To Search:** example of credit assignment through costly experiments, with an explicit warning that hidden-state training search and external evidence search are different tasks.
