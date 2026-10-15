@@ -348,5 +348,6 @@ There is a **new project hypothesis**, not a novelty-certified theorem, hidden i
 - [Physics Today, Landauer's eraser](https://physicstoday.aip.org/features/information-from-maxwells-demon-to-landauers-eraser); [Physical Review Research on finite-time erasure](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.023084).
 - [Blackwell sufficiency and value of information](https://www.sciencedirect.com/science/article/abs/pii/S0165489603000040).
 - [Wolpert & Macready, *No free lunch theorems for optimization*](https://research.ibm.com/publications/no-free-lunch-theorems-for-optimization), important caution about universal compression/optimization promises.
+- [Kleitman and Rothschild (1975), *Asymptotic Enumeration of Partial Orders on a Finite Set*](https://doi.org/10.2307/1997200), classic prior art on the ≈2^(k²/4) scale of the number of labeled partial orders. The two-layer counting lower bound above is elementary, and must not be characterized as a newly discovered poset theorem.
 
 **State of the work:** the founding board and this pass supply known theorems, rigorously derived consequences and falsifiable research questions. The mathematical novelty challenge remains deliberately open. Next substantive result should be a theorem **about a specified query family** rather than an especially clever abbreviation of classical notation.
