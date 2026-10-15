@@ -207,3 +207,147 @@ Before adding an entry:
 **Priority problem C:** Turn C1 into a benchmark: paired decision tasks, full evidence versus summaries, numerical conditional-information estimator (with uncertainty calibration), and post-hoc truth checks. Treat zero measured error as finite evidence, not universal proof.
 
 The board is a challenge to discover more, not permission to call a familiar theorem ours.
+
+
+---
+
+## Edition 002 — When a few symbols describe hard limits
+
+**14 October 2026 · additional research pass**
+
+The original board collected compact laws and a quantitative regret bound for agent memory. This pass introduces three new collisions: **computation vs verification; task-specific vs task-universal compression; and causal auditability vs bandwidth**. The mathematical claims below are classical or elementary deductions. No priority claim is made for their underlying facts. The packaging into an adversarial knowledge-packet research programme is a proposed application.
+
+### A. More ≤10-token contenders (tested under v0.1 tokenizer)
+
+| Canonical expression | Tokens | Actual proposition, including domain | Status |
+|---|---:|---|---|
+| `P⊆NP` | **3** | Deterministic polynomial-time decidable languages admit nondeterministic polynomial-time decision procedures. Equality P=NP is **open**. | Established |
+| `P⊆NP⊆PSPACE` | **5** | Polynomial-time computation is contained in nondeterministic polynomial-time computation, which is contained in deterministic polynomial space. | Established |
+| `∂*∂=0` | **5** | The boundary operator on an oriented simplicial chain complex composed with itself is zero. | Established |
+| `R>=1-h(e)` | **8** | For independent unbiased input bits, fixed binary summary rate R, reconstructed average Hamming-error rate e∈[0,½], and binary entropy h, every encoder-decoder satisfies this bound. | Established rate-distortion converse |
+| `I(H;S)=0` | **8** | Example, **not universal proposition**: if H is XOR of n≥2 independent fair bits, then a summary of any proper subset of those bits has zero mutual information with H. | Established synergy example |
+| `KL(P||Q)>=0` | **9** | Relative entropy is nonnegative for probability distributions P,Q (taking value +∞ if necessary). | Gibbs inequality |
+| `∇·J+∂tρ=0` | **9** | In differentiable continuum descriptions, local conservation law for density ρ and current J, with ∂tρ denoting time derivative. | Continuity equation |
+| `C(x)<=|x|+c` | **10** | **Plain** Kolmogorov complexity C of binary string x does not exceed its length plus a machine-dependent constant c. **Not the same as prefix-free K.** | Algorithmic information theory |
+| `Q>=k*T*ln(2)` | **10** | Landauer lower bound for mean heat expelled to an isothermal reservoir when irreversibly resetting one initially unbiased, uncorrelated memory bit under standard assumptions (k = Boltzmann constant). Correlations, side information, free-energy and protocol details matter. | Thermodynamics of information |
+
+The symbols' shortness is not their proof length. For `P⊆NP` the entire Turing-machine definition is decoder debt. For `∂*∂=0` the topological chain-group construction is decoder debt. The board explicitly rejects shorthand inflation of physical claims.
+
+#### Two proofs that fit on a page
+
+**A1 — Boundary of a boundary vanishes.** For an oriented triangle [a,b,c], its boundary is [b,c]−[a,c]+[a,b]. Apply ∂ again: ([c]−[b])−([c]−[a])+([b]−[a])=0. In any oriented simplex, each codimension-two face appears twice with opposite sign; linearity then gives ∂²=0 on the entire chain group. Its consequences include the possibility of defining homology as cycles modulo boundaries, since all boundaries are cycles. This statement does **not** say arbitrary derivatives of scalar functions square to zero; it is the chain boundary operator.
+
+**A2 — Why KL cannot be negative.** If P is absolutely continuous relative to Q, write KL(P||Q)=E_P[log(P/Q)]. Jensen's inequality applied to −log gives KL(P||Q)≥−log E_P[Q/P]≥0 (the last expectation is ≤1, allowing Q-support outside P-support). Equality iff P=Q almost everywhere. If P has mass where Q is zero, divergence is +∞. Natural logarithms give nats. This is Gibbs inequality, not a novel theorem.
+
+### B. A surprising compression trilemma: zero local evidence, perfect global answer
+
+Let X₁,…,Xₙ be independent uniform bits, n≥2, and H=X₁ XOR ... XOR Xₙ. For every single coordinate i, I(H;Xᵢ)=0. In fact, **every proper subset** of the n bits carries zero information about H: conditioning on those bits leaves at least one independent fair bit to toggle the parity. But I(H;X₁,…,Xₙ)=1 bit.
+
+There are two opposite compressions:
+
+- S=H retains the target answer perfectly in **one bit**, despite forgetting almost all features; I(H;D|S)=0 when D=(X₁,…,Xₙ).
+- S=(X₁,…,Xₙ₋₁), the first n−1 features, retains almost the *entire source*, but I(H;S)=0. It is useless for the parity target.
+
+This is standard information synergy / secret-sharing logic, **not a new discovery**. But the operational lesson is unusually sharp: **a summary of n−1 source bits can be worthless for one task while a one-bit summary of all n is perfect**. It is a disproof of any unconditional "more retained features ⇒ more intelligence about every task" claim. It also cautions that unconditional pairwise independence is **not** privacy against someone with n−1 other features as side information.
+
+**Tiny candidate packet:** `I(H;S)=0` — eight tokens; the exact assumptions supply its actual meaning.
+
+**Executable mini-check:** enumerate all 2ⁿ binary inputs (n=2,…,6), compute parity, and verify that conditional parity distribution given any fixed proper subset is always (½,½). This is falsifiable and exhaustively checkable at those sizes; the elementary proof covers all n.
+
+### C. Another wall: preserving *all bits* is categorically different from preserving *one answer*
+
+Let X∈{0,1}ⁿ be independent fair bits. Encode X into a fixed-length b-bit summary and let the decoder produce a reconstruction with average bit error e≤½. Define normalized rate R=b/n and binary entropy h(e)=−e log₂(e)−(1−e)log₂(1−e).
+
+**Eight-token theorem packet: `R>=1-h(e)`.**
+
+〈1〉1. Fixed b bits have entropy at most b: H(S)≤b, hence I(X;S)≤b.
+
+〈1〉2. The source has H(X)=n, thus b≥n−H(X|S).
+
+〈1〉3. If the decoder's coordinate error probabilities are eᵢ, a binary form of Fano's inequality and conditioning give H(X|S)≤Σᵢ h(eᵢ).
+
+〈1〉4. By concavity of binary entropy, Σᵢ h(eᵢ)≤n h(Σᵢ eᵢ/n)=n h(e).
+
+〈1〉5. Combine and divide by n: R≥1−h(e). QED.
+
+This is the classical converse for the fair Bernoulli source under Hamming distortion, not a new rate-distortion theorem. Operational achievability at the threshold is asymptotic, not a promise of finite-block optimal coding. At e=.1 it forces R≥.5310044 bits per source bit. This constraint holds because the goal is approximately to reconstruct **all** coordinates; it does not apply to the parity-only task in section B.
+
+**The packet that matters:** *compression rate is a function of which questions the receiver must still answer*.
+
+### D. New-to-this-notebook derived bound: the quadratic price of universal causal replay
+
+We can prove an exact, sharp-for-the-family counting lower bound with no probabilistic approximation.
+
+**Seven-token packet (k even):**
+
+```text
+b>=k^2/4
+```
+
+**Ten-token generalization (all integers k):**
+
+```text
+b>=floor(k^2/4)
+```
+
+**Interpretation:** b is the fixed-length binary description budget for a lossless encoder that must recover **every pairwise order relation** in any labeled, two-layer partial order on k events, where cross-layer relations are unconstrained. k≥2. This does not claim that all real distributed executions require this many bits; the lower bound is **worst-case over the constructed unrestricted family**. A simpler model can have far fewer possibilities and compress much better.
+
+**Lamport-style finite proof:**
+
+〈1〉1. Split the k labeled events into layers A and B of sizes floor(k/2) and ceil(k/2).
+
+〈1〉2. For each ordered cross-layer pair (a,b)∈A×B, independently decide whether a precedes b. No within-layer order is allowed.
+
+〈1〉3. Every selection of cross-layer precedences is a valid strict partial order: it is irreflexive and transitive, since no two nontrivial cross-layer edges concatenate.
+
+〈1〉4. Different selections give different complete answers to pairwise precedence queries. The number of distinct such labeled orders is 2^(|A||B|)=2^floor(k²/4).
+
+〈1〉5. An exactly decodable fixed-length b-bit representation has at most 2^b codewords, so it can represent all of them only when b≥floor(k²/4). QED.
+
+**Checkpoints:** k=4 gives 2^4=16 possible orders, at least 4 bits. k=6 gives 2^9=512 possible orders, at least 9 bits. k=8 gives 2^16=65,536 possible orders, at least 16 bits. These are elementary counts. No claim of mathematical priority: the construction is a standard counting lower-bound argument for bipartite/two-level posets.
+
+**Why this has bite:** If the user asks only "did event a precede b?", **one bit** can answer. If they might later ask *any* pairwise causal question about an unconstrained two-layer order, a worst-case Ω(k²) transcript is unavoidable. Exact auditability carries a query-dependent memory price just as decision accuracy does.
+
+**Scope caution:** arbitrary mathematical two-layer posets are not automatically the exact set of realizable event histories under a fixed process/message protocol. To apply this to Lamport traces, first define the process model, allowed message transmissions, which events are recorded, and whether intermediate send/receive events count; then prove an embedding or derive a model-specific lower bound. Without that bridge, market it as a poset-encoding theorem, **not** a network-vector-clock lower bound.
+
+### E. The actual frontier: causal + semantic sufficiency as a *query-family* problem
+
+The apparent paradox dissolves once we specify the questions. Let D be full evidence. Let ℋ be a family of future decision questions and ℭ a family of causal/provenance queries. A summary S has to be sufficient only for the queries the receiver is required to answer.
+
+Define a provisional research object:
+
+```text
+B*(e,ℋ,ℭ)
+```
+
+Meaning: the infimum (or minimum for finite encodings) of summary bits b needed for a specified source and encoding protocol to answer every target decision in ℋ with error at most e and every query in ℭ under an explicit causal-error requirement. The notation is a **proposal**, not yet a canonical theorem; as written, its definition still needs source distribution, loss conventions and separate causal error tolerance. A serious paper must refine it before deriving general claims.
+
+The extremal demonstrations now fall into place:
+
+- ℋ={parity}, ℭ=∅: one summary bit can suffice for n independent inputs.
+- ℋ={all n coordinate-reconstruction tasks}, ℭ=∅: b/n≥1−h(e).
+- ℋ=∅, ℭ={all pairwise precedence queries on two-layer k-event posets}, exact answers: b≥floor(k²/4).
+- ℋ includes arbitrary Boolean queries of an unrestricted n-bit record, exact answers: b≥n by injectivity.
+
+There is a **new project hypothesis**, not a novelty-certified theorem, hidden in those four cases: the best knowledge packet is not a universal synopsis of facts. It is a **minimal verified interface for a declared future query family**. This could become an actionable standard for agent memory, scientific provenance, research summaries and compressed audit logs. Compare existing work on sufficient statistics, Blackwell comparison of experiments, information bottleneck, rate-distortion, communication complexity, event structures and poset counting before claiming precedence.
+
+### F. Adversarial tests for the next round
+
+1. **Task flip:** A perfect parity summary S=H should become catastrophically inadequate if the next question is "what was X₁?" for n≥2 independent fair bits. Demonstrates non-universal sufficiency.
+2. **Decoder alias trap:** The three-token packet `P⊆NP` cannot be scored as three *total* knowledge tokens when the complexity class definitions are absent from the decoder dictionary.
+3. **Finite block:** At n=1, e=.1, R≥.531 is a valid bound but does not supply an actual ~0.531-bit fixed-length code. Asymptotic claims need limits.
+4. **Causal model mismatch:** Simulate event histories, not arbitrary posets, before treating section D as a lower bound for a specific distributed protocol.
+5. **Independent versus correlated erasure:** Side information, initial memory bias, correlations and thermal work accounting complicate a naive interpretation of `Q>=k*T*ln(2)`.
+6. **Classical, not claimed original:** The causal counting proof is elementary. What might be original is a tight joint bound for a rigorously specified task+provenance query family or a measured application to AI agent handoff design.
+
+### Sources and priority
+
+- [Columbia CS theory notes on P and NP](https://www.cs.columbia.edu/~aho/cs3261/Lectures/L19-P_and_NP.html); [MIT algorithms lecture on P, NP, reductions](https://www.ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/resources/lecture-16-complexity-p-np-np-completeness-reductions/).
+- [Cover and Thomas, *Elements of Information Theory*, rate-distortion chapter](https://doi.org/10.1002/047174882X.ch10); [MIT fair-Bernoulli/Hamming rate-distortion example](https://sia.mit.edu/wp-content/uploads/2015/04/2004-martinian-wornell-allerton.pdf).
+- [Information synergy and the XOR example](https://www.mdpi.com/1099-4300/26/8/708).
+- [Physics Today, Landauer's eraser](https://physicstoday.aip.org/features/information-from-maxwells-demon-to-landauers-eraser); [Physical Review Research on finite-time erasure](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.023084).
+- [Blackwell sufficiency and value of information](https://www.sciencedirect.com/science/article/abs/pii/S0165489603000040).
+- [Wolpert & Macready, *No free lunch theorems for optimization*](https://research.ibm.com/publications/no-free-lunch-theorems-for-optimization), important caution about universal compression/optimization promises.
+- [Kleitman and Rothschild (1975), *Asymptotic Enumeration of Partial Orders on a Finite Set*](https://doi.org/10.2307/1997200), classic prior art on the ≈2^(k²/4) scale of the number of labeled partial orders. The two-layer counting lower bound above is elementary, and must not be characterized as a newly discovered poset theorem.
+
+**State of the work:** the founding board and this pass supply known theorems, rigorously derived consequences and falsifiable research questions. The mathematical novelty challenge remains deliberately open. Next substantive result should be a theorem **about a specified query family** rather than an especially clever abbreviation of classical notation.
