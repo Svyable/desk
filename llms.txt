@@ -44,6 +44,7 @@ The canonical title, author, drafting status, chapter count, and manuscript cont
 - [Autonomy Half-Life](https://svyable.github.io/desk/books/autonomy-half-life/README.md)
 - [Beyond the Veil](https://svyable.github.io/desk/books/beyond-the-veil/README.md)
 - [Bookself](https://svyable.github.io/desk/books/bookself/README.md)
+- [Chips, Lies, & Chinese Spies](https://svyable.github.io/desk/books/chips-lies-and-chinese-spies/README.md)
 - [Chiptastrophy](https://svyable.github.io/desk/books/chiptastrophy/README.md)
 - [Chokepoint](https://svyable.github.io/desk/books/chokepoint/README.md)
 - [Commit](https://svyable.github.io/desk/books/commit/README.md)
