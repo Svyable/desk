@@ -11,12 +11,12 @@ Movie and show scripts live in [`screenplays/`](screenplays/) as Fountain source
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 137 book projects · 65 complete drafts · 3 in revision · 69 drafting**
+> **Desk: 138 book projects · 65 complete drafts · 3 in revision · 70 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
 > **Shelf: 57 author projects · 57 released · 0 public drafts/proofs**
-> **Where they live: 57 in both Desk + Shelf · 80 Desk-only · 0 Shelf-only**
+> **Where they live: 57 in both Desk + Shelf · 81 Desk-only · 0 Shelf-only**
 > **Release review queue: 13 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
@@ -113,6 +113,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Autonomy Half-Life**](books/autonomy-half-life/) | ✍️ Drafting | 20 of 20 | 66,547 | Every grant of autonomy is made inside a particular world: a purpose, a set of facts, a risk level, a counterpart, a budget, a model of what might happen, and an understanding of who… | [Read →](https://svyable.github.io/desk/reader/#/b/autonomy-half-life/) |
 | [**Beyond the Veil**](books/beyond-the-veil/) | ✍️ Drafting | 20 of 20 | 64,981 | The book names the narrower phenomenon non-sapient intellect: adaptive competence that can preserve state, use history, correct deviations, reallocate resources, and solve constrained… | [Read →](https://svyable.github.io/desk/reader/#/b/beyond-the-veil/) |
 | [**Bookself**](books/bookself/) | ✅ Complete expanded draft | 28 of 28 | 63,893 | The book names the accumulation of that evidence a bookself: the shelf of selves authored by what we have actually begun. | [Read →](https://svyable.github.io/desk/reader/#/b/bookself/) |
+| [**Chips, Lies, & Chinese Spies**](books/chips-lies-and-chinese-spies/) | ✍️ Drafting | 6 of 18 | 7,919 | The scandal around Jensen Huang exposed the collision of founder power, disputed intelligence claims, and the export-controlled GPU economy. | [Read →](https://svyable.github.io/desk/reader/#/b/chips-lies-and-chinese-spies/) |
 | [**Chiptastrophy**](books/chiptastrophy/) | ✍️ Drafting | 4 of 24 | 10,890 | <!-- bookself-reader-links:start --> Reader links: Working edition · Desk Reader <!-- bookself-reader-links:end --> | [Read →](https://svyable.github.io/desk/reader/#/b/chiptastrophy/) |
 | [**Chokepoint**](books/chokepoint/) | ✍️ Drafting | 20 of 20 | 36,487 | The working thesis is that the twenty-first century is being rebuilt around a short list of elements — copper, lithium, cobalt, nickel, and the seventeen rare earths — the way the… | [Read →](https://svyable.github.io/desk/reader/#/b/chokepoint/) |
 | [**Commit**](books/commit/) | ✅ Complete expanded draft · publication candidate | 22 of 22 + 4 interludes | 67,327 | The working thesis is that Git became dominant because it made a few unusually durable bets: content should have identity independent of location, history should be a graph rather than a… | [Read →](https://svyable.github.io/desk/reader/#/b/commit/) |
