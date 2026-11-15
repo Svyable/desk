@@ -11,7 +11,7 @@ Movie and show scripts live in [`screenplays/`](screenplays/) as Fountain source
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 138 book projects · 65 complete drafts · 3 in revision · 70 drafting**
+> **Desk: 139 book projects · 65 complete drafts · 3 in revision · 71 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
@@ -128,6 +128,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Gatekeepers**](books/gatekeepers/) | ✅ Complete draft | 21 of 21 | 72,980 | The book's central argument is that modern power often sits at transitions: between outside and inside, applicant and approved, developer and customer, patient and treatment, worker and… | [Read →](https://svyable.github.io/desk/reader/#/b/gatekeepers/) |
 | [**Gradient Ascent**](books/gradient-ascent/) | ✍️ Drafting | 16 of 24 | 35,471 | The working thesis is that generative AI changes the information problem from scarcity to saturation. | [Read →](https://svyable.github.io/desk/reader/#/b/gradient-ascent/) |
 | [**Hallucinations**](books/hallucinations/) | ✅ Complete draft | 29 of 29 | 60,150 | The popular story says AI hallucination is a defect inside a model: a machine makes something up, a human catches it, engineers reduce the error rate, and progress resumes. | [Read →](https://svyable.github.io/desk/reader/#/b/hallucinations/) |
+| [**Ideas From The Future & Other Odd Things In My Head**](books/ideas-from-the-future-and-other-odd-things-in-my-head/) | ✍️ Drafting · expansion and fact review pending | 20 of 20 drafted · length gate pending | ~42,625 | Strange future artifacts and neglected possibilities, tested against science, law, public institutions, costs and human needs. | [Read →](https://svyable.github.io/desk/reader/#/b/ideas-from-the-future-and-other-odd-things-in-my-head/) |
 | [**Imenent**](books/imenent/) | ✍️ Drafting | 20 of 20 + interlude | 66,135 | This book calls the decisive boundary the re-entry threshold: the point at which humans retain formal authority over a system but can no longer return to meaningful operational control… | [Read →](https://svyable.github.io/desk/reader/#/b/imenent/) |
 | [**Intelligence State**](books/intelligence-state/) | ✅ Complete draft · Published on Shelf | 17 of 17 + prologue + conclusion | 43,255 | Intelligence State follows that transformation across the Americas and asks a harder question than who builds the best model: who can make intelligence abundant without making sovereignty… | [Read →](https://svyable.github.io/desk/reader/#/b/intelligence-state/) |
 | [**Keep Cooking**](books/keep-cooking/) | ✅ Complete draft + living afterword | 25 of 25 | 65,845 | <!-- bookself-reader-links:start --> Reader links: Working edition · Desk Reader · Published edition · Shelf Reader <!-- bookself-reader-links:end --> | [Read →](https://svyable.github.io/desk/reader/#/b/keep-cooking/) |
