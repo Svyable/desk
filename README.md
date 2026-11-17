@@ -11,12 +11,12 @@ Movie and show scripts live in [`screenplays/`](screenplays/) as Fountain source
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 140 book projects · 66 complete drafts · 3 in revision · 71 drafting**
+> **Desk: 141 book projects · 66 complete drafts · 3 in revision · 72 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
 > **Shelf: 56 author projects · 56 released · 0 public drafts/proofs**
-> **Where they live: 56 in both Desk + Shelf · 84 Desk-only · 0 Shelf-only**
+> **Where they live: 56 in both Desk + Shelf · 85 Desk-only · 0 Shelf-only**
 > **Release review queue: 16 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
@@ -180,6 +180,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**The Delegation Machine**](books/the-delegation-machine/) | ✅ Complete draft | 21 of 21 | 60,206 | Civilization advances by learning how to let one person, office, market, machine, or model act for another. | [Read →](https://svyable.github.io/desk/reader/#/b/the-delegation-machine/) |
 | [**The Delete Key**](books/the-delete-key/) | ✅ Complete draft | Front matter, 25 of 25 chapters, back matter | 33,623 | Modern civilization is structurally better at adding than removing. Rules, code, permissions, data, infrastructure, procedures, and institutions enter the world with visible acts of… | [Read →](https://svyable.github.io/desk/reader/#/b/the-delete-key/) |
 | [**Negative Assets**](books/the-deletion-economy/) | ✍️ Drafting | 19 of 19 | 38,128 | The modern economy knows how to celebrate beginnings. This book argues that endings—wells plugged, platforms removed, reactors dismantled, mines reclaimed, lead pipes excavated, persistent… | [Read →](https://svyable.github.io/desk/reader/#/b/the-deletion-economy/) |
+| [**The Evidence Is Ridiculous**](books/the-evidence-is-ridiculous/) | ✍️ Drafting · full-length source-led first draft; final fact and literary review pending | 20 of 20 drafted · minimum length met | 66,070 | Twenty documented stories where real postal regulations, military experiments, animal behavior, deep-sea physics and natural reactors outdo invention—without the folklore. | [Read →](https://svyable.github.io/desk/reader/#/b/the-evidence-is-ridiculous/) |
 | [**Built to End**](books/the-expiration-economy/) | ✍️ Drafting | 30 of 30; late-chapter evidence pass complete | 92,160 | The working thesis of Built to End is that this imbalance becomes economically decisive when creation gets cheap. | [Read →](https://svyable.github.io/desk/reader/#/b/the-expiration-economy/) |
 | [**Trust With a Fuse**](books/the-expiration-machine/) | ✍️ Drafting | 21 of 21 + prologue + epilogue | 45,842 | The central thesis is that expiration is one of civilization's hidden control primitives. | [Read →](https://svyable.github.io/desk/reader/#/b/the-expiration-machine/) |
 | [**The Exponentiality**](books/the-exponentiality/) | ✅ Complete draft · publication candidate | Prologue + Chapters 1–12 + back matter | 35,441 | <!-- bookself-reader-links:start --> Reader links: Working edition · Desk Reader <!-- bookself-reader-links:end --> | [Read →](https://svyable.github.io/desk/reader/#/b/the-exponentiality/) |
