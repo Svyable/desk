@@ -39,4 +39,4 @@ The entry's **status** applies to its narrow central event; it does not certify 
 
 ## Counting and integrity
 
-The connected-branch word audit (20 chapter files, using the regex defined in `scripts/check-book-length.py`) returned **66,070 chapter-only words**: every chapter met 3,000; four fell in the preferred 3,500–4,500 range. These numbers exclude front/back matter and research. This was a branch-text audit, not a local checkout running all repository scripts; do not claim `check-desk.py` or cover metadata validation has run.
+The connected-branch word audit (20 chapter files, using the regex defined in `scripts/check-book-length.py`) returned **66,121 chapter-only words**: every chapter met 3,000; four fell in the preferred 3,500–4,500 range. These numbers exclude front/back matter and research. This was a branch-text audit, not a local checkout running all repository scripts; do not claim `check-desk.py` or cover metadata validation has run.
