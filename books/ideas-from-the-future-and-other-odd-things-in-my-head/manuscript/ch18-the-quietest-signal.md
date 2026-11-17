@@ -64,6 +64,14 @@ This would not make a thrilling poster. It could be extraordinary scientific inf
 
 Without records of non-detections, it is difficult to distinguish a genuinely neglected region of the search from a region studied repeatedly. An absence documented with a sensitivity threshold is different from an absence assumed because no headline announced a discovery. The ledger could help researchers plan observations and avoid claiming broad conclusions from narrow evidence.
 
+The telescope's observing time also has an opportunity cost that belongs in a credible search proposal. An hour spent checking one intriguing direction is an hour unavailable for a different target or frequency range. A candidate with a very low prior probability can still be worth following up if the possible information gain is large and the cost is reasonable. A proposed search should therefore explain its selection rule and the circumstances under which further observation would no longer be justified. Curiosity has to coexist with scheduling.
+
+An archive containing rejected candidates could help estimate how many false alarms a particular procedure produces and which kinds consume disproportionate follow-up time. A high false-alarm rate can make investigators less responsive to genuine anomalies; a filter made too restrictive might eliminate the rare event it was intended to detect. This is not a simple numerical optimization, because the true population of extraterrestrial technological signals is unknown. But recording the criteria before looking at results would reduce the freedom to change the standards after something exciting appears.
+
+Even the expression we found nothing should be used with care. An observation may rule out a signal above a stated sensitivity in a defined band during a defined period. That is useful information. It does not establish that a distant system lacks technology. The careful statement may be longer and less dramatic, but it gives the next observer a record they can build upon instead of another story they must first untangle.
+
+
+
 There is another challenge. A signal can be real and its origin uncertain. A radio telescope measures electromagnetic activity. The instrument does not label a signal extraterrestrial or technological. A narrowband pattern may be suspicious in one context and mundane in another. Human technology surrounds observing instruments with potential interference. Satellite constellations, ground transmitters, aircraft, electronic equipment, and the observing system itself can complicate analysis. An apparent source in the sky may need careful localization and repeated observation.
 
 The more surprising the interpretation, the longer the list of alternative explanations should become.
