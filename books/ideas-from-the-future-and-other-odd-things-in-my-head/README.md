@@ -3,8 +3,8 @@
 | | |
 |---|---|
 | **Authors** | Sven Hardy Benson |
-| **Status** | Drafting · 20-chapter narrative first pass; expansion and fact review pending |
-| **Chapters** | 20 of 20 drafted · length gate pending |
+| **Status** | Drafting · full-length expanded manuscript; literary and final fact review pending |
+| **Chapters** | 20 of 20 expanded · minimum length met |
 
 ## Contents
 
@@ -35,4 +35,4 @@
 
 A book of strange but disciplined proposals from the future: inventions, institutions, practices, and seemingly absurd ideas whose real-world components already exist. This is neither a prediction calendar nor an AI futurism sequel. Each essay starts from an object or a problem, follows the evidence as far as it will go, and makes room for the possibility that the best future idea is the one that fails a good test today. The imagined future episodes are explicitly thought experiments, not reported events.
 
-**Editorial state:** Working manuscript; not an authorized Shelf release. The Desk's one-shot length target is at least 65,000 chapter words, at least 18 chapters, and at least 3,000 words per chapter. Do not label this book complete until those checks and a substantive editorial/fact review pass.
+**Editorial state:** Working manuscript; not an authorized Shelf release. The expanded chapter files now meet the quantitative full-length thresholds: 20 chapters, each at least 3,000 words, with 67,692 chapter-only words under the repository's counting regex. This is a necessary length check, not an editorial sign-off. Read the updated research ledger and perform the whole-manuscript literary, continuity and final source review before assigning Complete draft or releasing an edition.
