@@ -6,7 +6,7 @@
 |---|---|
 | **Authors** | Sven Hardy Benson |
 | **Status** | Drafting · full-length source-led first draft; literary and final fact review pending |
-| **Chapters** | 20 of 20 drafted · minimum length met · 66,121 words |
+| **Chapters** | 20 of 20 drafted · minimum length met · 66,167 words |
 
 ## Contents
 
@@ -39,4 +39,4 @@ Twenty absurd-sounding events in which the strange thing actually happened: chil
 
 **Evidence rule:** Existence, performance, proposal, rumor and later interpretation are different states. Every chapter should tell readers which state its central claim occupies, why we know it, and what popular embellishments remain unproved. This is narrative nonfiction, not a stack of trivia or a catalogue of conspiracies.
 
-**Editorial status:** Source-led working draft, **66,121 chapter-only words** across 20 chapters, each at least 3,000 words under the Desk word-count regex. This clears the *minimum quantitative gate*, not the preferred depth target (only 4 of 20 chapters are in the 3,500–4,500 word band), and does not constitute a publication sign-off. Complete the whole-book literary read, primary-source/URL verification, permissions review and repository validation before considering a release. All claims remain subject to the research ledger. No Shelf publication is authorized.
+**Editorial status:** Source-led working draft, **66,167 chapter-only words** across 20 chapters, each at least 3,000 words under the Desk word-count regex. This clears the *minimum quantitative gate*, not the preferred depth target (only 4 of 20 chapters are in the 3,500–4,500 word band), and does not constitute a publication sign-off. Complete the whole-book literary read, primary-source/URL verification, permissions review and repository validation before considering a release. All claims remain subject to the research ledger. No Shelf publication is authorized.
