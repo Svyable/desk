@@ -54,6 +54,7 @@ The canonical title, author, drafting status, chapter count, and manuscript cont
 - [Deceptatron](https://svyable.github.io/desk/books/deceptatron/README.md)
 - [DemocrAIcy](https://svyable.github.io/desk/books/democraicy/README.md)
 - [Energy, Value & Intelligence](https://svyable.github.io/desk/books/energy-value-intelligence/README.md)
+- [EXPLAIN YOURSELF, EARTH](https://svyable.github.io/desk/books/explain-yourself-earth/README.md)
 - [Exponential Compression](https://svyable.github.io/desk/books/exponential-compression/README.md)
 - [Face the Strange](https://svyable.github.io/desk/books/face-the-strange/README.md)
 - [Fiscal Wall](https://svyable.github.io/desk/books/fiscal-wall/README.md)

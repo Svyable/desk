@@ -11,13 +11,13 @@ Movie and show scripts live in [`screenplays/`](screenplays/) as Fountain source
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 142 book projects · 67 complete drafts · 3 in revision · 72 drafting**
+> **Desk: 143 book projects · 67 complete drafts · 3 in revision · 73 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
-> **Shelf: 57 author projects · 57 released · 0 public drafts/proofs**
-> **Where they live: 57 in both Desk + Shelf · 85 Desk-only · 0 Shelf-only**
-> **Release review queue: 16 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
+> **Shelf: 58 author projects · 58 released · 0 public drafts/proofs**
+> **Where they live: 58 in both Desk + Shelf · 85 Desk-only · 0 Shelf-only**
+> **Release review queue: 15 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
 |---|---|---|---|
@@ -76,10 +76,11 @@ Movie and show scripts live in [`screenplays/`](screenplays/) as Fountain source
 | [**Triumph of the Commons**](books/triumph-of-the-commons/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/triumph-of-the-commons/) |
 | [**Ubiquitous**](books/ubiquitous/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/ubiquitous/) |
 | [**Useful Noise**](books/useful-noise/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/useful-noise/) |
+| [**WE STOLE THE NIGHT**](books/we-stole-the-night/) | ✅ First complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/we-stole-the-night/) |
 | [**Who Taught America?**](books/who-taught-america/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/who-taught-america/) |
 | [**Wild Speculation**](books/wild-speculation/) | ✅ Complete draft · Published on Shelf | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/wild-speculation/) |
 
-**Desk-only complete drafts awaiting an explicit release decision:** [Agentile](books/agentile/), [Bookself](books/bookself/), [Da Vinci Process](books/da-vinci-process/), [The Alliance Advantage](books/the-alliance-advantage/), [The Books That Wrote America](books/the-books-that-wrote-america/), [The Crime That Made the Decade](books/the-crime-that-made-the-decade/), [The Exponentiality](books/the-exponentiality/), [The Half-Life of Now](books/the-half-life-of-now/), [The Last Human Channel](books/the-last-human-channel/), [The Longevity Moment](books/the-longevity-moment/), [The Taiwan Threshold](books/the-taiwan-threshold/), [Third Language](books/the-third-language/), [Visitors](books/the-visitors/), [The Warning Problem](books/the-warning-problem/), [The World Won’t Choose Sides](books/the-world-wont-choose-sides/), [WE STOLE THE NIGHT](books/we-stole-the-night/)
+**Desk-only complete drafts awaiting an explicit release decision:** [Agentile](books/agentile/), [Bookself](books/bookself/), [Da Vinci Process](books/da-vinci-process/), [The Alliance Advantage](books/the-alliance-advantage/), [The Books That Wrote America](books/the-books-that-wrote-america/), [The Crime That Made the Decade](books/the-crime-that-made-the-decade/), [The Exponentiality](books/the-exponentiality/), [The Half-Life of Now](books/the-half-life-of-now/), [The Last Human Channel](books/the-last-human-channel/), [The Longevity Moment](books/the-longevity-moment/), [The Taiwan Threshold](books/the-taiwan-threshold/), [Third Language](books/the-third-language/), [Visitors](books/the-visitors/), [The Warning Problem](books/the-warning-problem/), [The World Won’t Choose Sides](books/the-world-wont-choose-sides/)
 <!-- SHELF_SUMMARY:END -->
 
 Some books here are only a chapter or two into existence. Others are complete manuscripts still being edited, tested, or reconsidered. That is intentional. **Desk shows the work in motion instead of pretending every book is at the same stage.**
@@ -123,6 +124,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Deceptatron**](books/deceptatron/) | ✅ Complete first draft | 20 of 20 | 67,283 | This book calls the resulting system a Deceptatron: not a single supercomputer and not a science-fiction mind-control ray, but a closed-loop persuasion stack that can observe a person… | [Read →](https://svyable.github.io/desk/reader/#/b/deceptatron/) |
 | [**DemocrAIcy**](books/democraicy/) | ✍️ Drafting | 11 of 11 | 2,596 | The working thesis is not government by artificial intelligence. It is a democracy in which humans remain sovereign while increasingly governing through, alongside, and against artificial… | [Read →](https://svyable.github.io/desk/reader/#/b/democraicy/) |
 | [**Energy, Value & Intelligence**](books/energy-value-intelligence/) | ✍️ Drafting | 22 of 22 | 74,545 | <!-- bookself-reader-links:start --> Reader links: Working edition · Desk Reader · Published edition · Shelf Reader <!-- bookself-reader-links:end --> | [Read →](https://svyable.github.io/desk/reader/#/b/energy-value-intelligence/) |
+| [**EXPLAIN YOURSELF, EARTH**](books/explain-yourself-earth/) | ✍️ Drafting · full-length source-led first draft; literary and final science review pending | 20 of 20 · 67,070 chapter words; minimum length met | 67,862 | The natural phenomenon is the protagonist. A chapter may feature a particular paper, expedition, specimen, conservation dispute, or changed model, but it must not suggest nature intended… | [Read →](https://svyable.github.io/desk/reader/#/b/explain-yourself-earth/) |
 | [**Exponential Compression**](books/exponential-compression/) | ✍️ Drafting | Front matter; 26 chapters planned | 887 | <!-- bookself-reader-links:start --> Reader links: Working edition · Desk Reader <!-- bookself-reader-links:end --> | [Read →](https://svyable.github.io/desk/reader/#/b/exponential-compression/) |
 | [**Face the Strange**](books/face-the-strange/) | ✅ Complete draft · Published on Shelf | 25 of 25 | 63,594 | Face The Strange is about the human moment of meeting advanced intelligence. | [Read →](https://svyable.github.io/desk/reader/#/b/face-the-strange/) |
 | [**Fiscal Wall**](books/fiscal-wall/) | ✅ Complete draft | 18 of 18 | 62,271 | <!-- bookself-reader-links:start --> Reader links: Working edition · Desk Reader · Published edition · Shelf Reader <!-- bookself-reader-links:end --> | [Read →](https://svyable.github.io/desk/reader/#/b/fiscal-wall/) |

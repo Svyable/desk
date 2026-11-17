@@ -11,6 +11,7 @@
 | **Authors** | Sven Hardy Benson |
 | **Status** | Complete first draft · editorial review pending |
 | **Chapters** | 18 of 18 drafted |
+| **Release Review** | [Screened November 16, 2026 — hold; editorial and Desk integrity gates pending](research/release-review-2026-11-16.md) |
 
 The lone-genius version of Leonardo da Vinci is almost perfectly wrong for the age arriving now.
 
