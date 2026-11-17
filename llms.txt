@@ -47,6 +47,7 @@ The canonical title, author, drafting status, chapter count, and manuscript cont
 - [Chips, Lies, & Chinese Spies](https://svyable.github.io/desk/books/chips-lies-and-chinese-spies/README.md)
 - [Chiptastrophy](https://svyable.github.io/desk/books/chiptastrophy/README.md)
 - [Chokepoint](https://svyable.github.io/desk/books/chokepoint/README.md)
+- [CHORD](https://svyable.github.io/desk/books/chord/README.md)
 - [Commit](https://svyable.github.io/desk/books/commit/README.md)
 - [Da Vinci Process](https://svyable.github.io/desk/books/da-vinci-process/README.md)
 - [Data Talent & Leverage](https://svyable.github.io/desk/books/data-talent-leverage/README.md)
