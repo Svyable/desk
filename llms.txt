@@ -163,6 +163,7 @@ The canonical title, author, drafting status, chapter count, and manuscript cont
 - [Useful Noise](https://svyable.github.io/desk/books/useful-noise/README.md)
 - [Vectors](https://svyable.github.io/desk/books/vectors/README.md)
 - [Vibecariously](https://svyable.github.io/desk/books/vibecariously/README.md)
+- [WE STOLE THE NIGHT](https://svyable.github.io/desk/books/we-stole-the-night/README.md)
 - [Who Taught America?](https://svyable.github.io/desk/books/who-taught-america/README.md)
 - [Wild Speculation](https://svyable.github.io/desk/books/wild-speculation/README.md)
 
