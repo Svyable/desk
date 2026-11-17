@@ -64,6 +64,20 @@ There is a more mischievous idea hiding here. What if people could hear the oper
 
 I like the thought of an orchestra for public infrastructure, but I would not want it to become a substitute for fixing the pipes.
 
+A listening test could make the question of uncertainty wonderfully concrete. Give a visitor an audio display of a signal whose measured intensity rises and falls. In one version, the mapping exaggerates small variations so they are easier to detect. In another, it preserves relative differences more faithfully but makes the smallest changes hard to hear. Ask listeners to compare two periods and decide whether a meaningful change occurred. Some will prefer the dramatic mapping and hear patterns that are not statistically persuasive. Others may miss a genuine but quiet change. A designer has to decide which error matters for the task.
+
+The problem resembles the choice of scale on a graph. A vertical axis starting near the observed values can emphasize differences; an axis covering a wide range can make the same differences look negligible. Neither scale is inherently fraudulent. Their suitability depends on the question and the explanation offered. An auditory mapping can hide equivalent choices in pitch range, loudness, duration, rhythm and timbre. These choices need documentation when a scientific conclusion depends on what listeners perceive.
+
+If the sound is used to detect anomalies, a system might deliberately emphasize rare changes. That could help an operator notice an unusual event. It could also create false alarms. A narrow signal may be buried under louder activity, and a noisy instrument can produce fluctuations that sound important after being converted into dramatic notes. The evaluation should include how often listeners are right, how often they miss the relevant event, and whether an ordinary graph or automated analysis would perform as well or better.
+
+This raises a delicate question for public understanding. A presentation can be scientifically accurate about its input data and emotionally misleading in its output. A tragic-sounding chord progression attached to neutral measurements may make a listener believe the data show disaster. A cheerful rhythm attached to dangerous conditions could imply comfort. The composer does not have to suppress emotion, but an exhibit should distinguish the decision to make a piece of art from the claim that the data possess the emotion themselves.
+
+My imaginary museum would ask visitors to design a sound mapping, then exchange it with another visitor who has not seen the underlying data. The second person would attempt a small, specified task: identify when a signal peaks, distinguish one instrument's observations from another's, or estimate whether a change is larger than the background variation. The first person might discover that the mapping which seemed obvious to its designer was deeply confusing to somebody else.
+
+That would be a useful discovery in its own right. Human perception is not a transparent window into numbers. It is a collection of strengths, limits, habits and expectations. A good scientific display takes those properties seriously instead of assuming that sound automatically gives more direct access to reality than sight.
+
+
+
 The temptation to confuse the representation with reality grows as the technology becomes more sophisticated. A generative model could turn the same data into a lush symphony, adding musical continuity, harmony, and dynamics that never existed in the source. The result might make extraordinary art. It could also conceal which parts of the experience are data-driven. The responsible label would say so.
 
 There is no shame in an artwork inspired by scientific measurements. There is a problem when the art is described as evidence.
