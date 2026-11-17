@@ -98,6 +98,14 @@ The outbox is a reminder that an idea becomes more serious when it leaves the im
 
 That does not make the notebook useless.
 
+The test should include the book itself. A future idea can remain tempting because the author selects examples that make it look better than it is. A report may measure a promising effect and still leave out the cost that determines whether people can use the method. A government might establish a legal right whose practical machinery is too weak to enforce it. A scientist may obtain a striking result under conditions that cannot yet be reproduced outside a laboratory. Writing the idea down clearly does not eliminate these problems. It can make them easier to notice, if the author allows contrary evidence to change the page.
+
+I would want a skeptical reader to ask where each proposal becomes vulnerable. Which measurement is doing too much work? Which institution is expected to perform a service it has not been funded or trained to provide? Which ordinary person must surrender a choice for everyone else to enjoy the marvelous invention? And what would convince an advocate to abandon the preferred device in favor of a less exciting one?
+
+The answers might make a book about the future less confident. They should make it more useful. An idea that survives a serious objection is no longer quite the same idea that first appeared in the notebook. It has had to make room for other people and for a world that does not arrange itself around a single clever thought.
+
+
+
 There is one last object I want to put in the envelope, and it is not from the future. It is a blank sheet of paper. There is no drawing on it, no patent number, no forecast, no promise that the contents will change the world. The sheet represents the possibility that the best idea is one that none of the preceding chapters managed to imagine.
 
 A reader may have encountered an overlooked problem that makes my proposals seem trivial. They may understand a technical constraint that renders one of them impossible. They may know a better version of the library, the repair tag, or the shade receipt already operating somewhere. I hope they can point to the evidence. I hope they tell me when an argument fails.
