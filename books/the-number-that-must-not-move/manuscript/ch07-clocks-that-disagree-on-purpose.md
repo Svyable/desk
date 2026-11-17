@@ -29,6 +29,16 @@ That is not evidence alpha moved. The estimate is compatible with zero. The numb
 
 The result is reported by Lange and colleagues in *Physical Review Letters* (2021): https://doi.org/10.1103/PhysRevLett.126.011102. It is a secular, multi-year constraint obtained from repeated comparisons. It cannot be put on the same numerical axis as the one-day Allan deviation of a clock.
 
+The more stringent published follow-up matters more for a present-tense comparison. Filzinger and colleagues added about 235 measurement-days of interleaved Yb+ E3/E2 data collected over 26 months (2020–2022) to their earlier series, extending the combined record from May 2016 to November 2022. The resulting *ratio* slope was \((-1.2\pm1.8)\times10^{-18}\ {\rm yr}^{-1}\). Dividing by the E3/E2 alpha response gives
+
+\[
+\frac{\dot\alpha}{\alpha}=(1.8\pm2.5)\times10^{-19}\ {\rm yr}^{-1},
+\]
+
+again consistent with zero and about four times tighter in uncertainty than the 2021 result. That is the stronger published secular benchmark used here, not the older \(1.1\times10^{-18}\) uncertainty. The same paper also investigated oscillations in E3/E2 and E3/Sr ratios; their different noise spectra and servo limits make the frequency-dependent constraints separate products. Source: Filzinger et al., *Physical Review Letters* 130, 253001 (2023), https://doi.org/10.1103/PhysRevLett.130.253001.
+
+
+
 ### Four kinds of number that are routinely mistaken for one another
 
 A 2026 BACON Collaboration measurement compared Al+, Yb and Sr optical clocks with total fractional *ratio uncertainties* at or below \(3.2\times10^{-18}\). The clocks shared an ultrastable optical reference over 3.6 kilometres of phase-stabilized fibre. Yet comparisons to earlier measurements revealed discrepancies of roughly \(10^{-16}\) in Sr-containing ratios and \(1.6\times10^{-17}\) for Al+/Yb. Those are differences between measurement campaigns, not a discovery of drifting constants. They are a warning that extremely small uncertainty budgets need independent repetition. The 2026 source is https://doi.org/10.1103/g865-9mk1.
@@ -38,6 +48,7 @@ A useful comparison ledger is therefore not a ranking of impressive exponents:
 | Clock evidence | Reported observable | Time axis | What the number cannot mean by itself |
 | --- | --- | --- | --- |
 | Yb+ E3/E2, Lange et al. (2021) | \(\dot\alpha/\alpha=(1.0\pm1.1)\times10^{-18}\ {\rm yr}^{-1}\); \(\Delta K_\alpha=-6.95\) | Repeated measurements across more than four years | A detection of nonzero drift, or an oscillation bound at all frequencies |
+| Yb+ E3/E2, Filzinger et al. (2023) | \(\dot\alpha/\alpha=(1.8\pm2.5)\times10^{-19}\ {\rm yr}^{-1}\); ratio slope \((-1.2\pm1.8)\times10^{-18}\ {\rm yr}^{-1}\) | Combined 2016–2022 record | A detection of drift, or a bound at every oscillation frequency |
 | Sr/Yb+/Cs, Sherrill et al. (2023) | Ratio time series analyzed for alpha and mass-ratio variations | Roughly one minute to nearly one day | A general model-independent bound on every scalar-field coupling |
 | Al+/Yb/Sr, BACON (2026) | Ratio uncertainty \(\leq3.2\times10^{-18}\); historical inter-campaign offsets also reported | Comparison campaigns; not itself a yearly slope | A drift bound of \(3.2\times10^{-18}\ {\rm yr}^{-1}\) |
 | Th-229:CaF2, Ooi et al. (2026) | 220 Hz, or \(1.1\times10^{-13}\) fractional, cross-crystal frequency reproducibility | Two differently doped crystals across seven months | A seven-month limit on alpha drift |
