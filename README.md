@@ -11,12 +11,12 @@ Movie and show scripts live in [`screenplays/`](screenplays/) as Fountain source
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 141 book projects · 66 complete drafts · 3 in revision · 72 drafting**
+> **Desk: 142 book projects · 66 complete drafts · 3 in revision · 73 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
 > **Shelf: 56 author projects · 56 released · 0 public drafts/proofs**
-> **Where they live: 56 in both Desk + Shelf · 85 Desk-only · 0 Shelf-only**
+> **Where they live: 56 in both Desk + Shelf · 86 Desk-only · 0 Shelf-only**
 > **Release review queue: 16 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
@@ -122,6 +122,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Deceptatron**](books/deceptatron/) | ✅ Complete first draft | 20 of 20 | 67,283 | This book calls the resulting system a Deceptatron: not a single supercomputer and not a science-fiction mind-control ray, but a closed-loop persuasion stack that can observe a person… | [Read →](https://svyable.github.io/desk/reader/#/b/deceptatron/) |
 | [**DemocrAIcy**](books/democraicy/) | ✍️ Drafting | 11 of 11 | 2,596 | The working thesis is not government by artificial intelligence. It is a democracy in which humans remain sovereign while increasingly governing through, alongside, and against artificial… | [Read →](https://svyable.github.io/desk/reader/#/b/democraicy/) |
 | [**Energy, Value & Intelligence**](books/energy-value-intelligence/) | ✍️ Drafting | 22 of 22 | 74,545 | <!-- bookself-reader-links:start --> Reader links: Working edition · Desk Reader · Published edition · Shelf Reader <!-- bookself-reader-links:end --> | [Read →](https://svyable.github.io/desk/reader/#/b/energy-value-intelligence/) |
+| [**EXPLAIN YOURSELF, EARTH**](books/explain-yourself-earth/) | ✍️ Drafting · full-length source-led first draft; final science and literary review pending | 20 of 20 drafted · minimum length met | 67,070 | Twenty documented natural phenomena—from Blood Falls and moving stones to glass frogs, icefish, giant viruses, and life deep underground—examined through field measurements and science. | [Read →](https://svyable.github.io/desk/reader/#/b/explain-yourself-earth/) |
 | [**Exponential Compression**](books/exponential-compression/) | ✍️ Drafting | Front matter; 26 chapters planned | 887 | <!-- bookself-reader-links:start --> Reader links: Working edition · Desk Reader <!-- bookself-reader-links:end --> | [Read →](https://svyable.github.io/desk/reader/#/b/exponential-compression/) |
 | [**Face the Strange**](books/face-the-strange/) | ✅ Complete draft · Published on Shelf | 25 of 25 | 63,594 | Face The Strange is about the human moment of meeting advanced intelligence. | [Read →](https://svyable.github.io/desk/reader/#/b/face-the-strange/) |
 | [**Fiscal Wall**](books/fiscal-wall/) | ✅ Complete draft | 18 of 18 | 62,271 | <!-- bookself-reader-links:start --> Reader links: Working edition · Desk Reader · Published edition · Shelf Reader <!-- bookself-reader-links:end --> | [Read →](https://svyable.github.io/desk/reader/#/b/fiscal-wall/) |
