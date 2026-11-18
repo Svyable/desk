@@ -1,6 +1,6 @@
 # Reporting brief — Chips, Lies, & Chinese Spies
 
-**State:** Opening draft and source map, as of 2026-11-14. Do not present as complete, legally vetted, or ready for publication.
+**State:** Seven-chapter working draft with November 18, 2026 primary-evidence pass. Do not present as complete, legally vetted, or ready for publication.
 
 ## Reader promise
 
@@ -36,6 +36,10 @@ Competing account: a personally embarrassing affair, intense political opportuni
 9. **China strategy:** examine competing assessments of long-term restriction effects, domestic substitution, and the strategic value of delayed compute access. Interview former BIS officials and Chinese AI hardware researchers.
 10. **Continuity:** after Nov 17, compare Nvidia's investor communication, customer orders, engineering roadmap, and interim-governance process with the company's prior commitments.
 
+## November 18 verified developments
+
+The new [evidence pass](evidence-pass-2026-11-18.md) documents Commerce's 2024–25 Megaspeed chronology (published November 17), Nvidia's new standing national-security/export-control committee, the 2026 proxy's preexisting oversight arrangements, the BIS remote-access regulation's prospective publication timing, Q3 fiscal 2027 results, and the November 18 House briefing requests. It also corrects the Hsu guilty-plea versus DOJ-announcement dates in Chapter 4. The new material changes what can be documented; it still does not prove an intelligence role, secret transfer, or a crime by Megaspeed or Huang.
+
 ## Defeat conditions / correction triggers
 
 - Independent inquiry finds no security compromise: retain it prominently and revise any passage that implies otherwise.
@@ -47,6 +51,6 @@ Competing account: a personally embarrassing affair, intense political opportuni
 
 ## Editorial work remaining
 
-Expand each drafted chapter into a developed 3,000–4,500-word narrative; seek documents and interviews before replacing open questions with prose; draft Chapters 7–18; perform a full-book continuity pass and systematic line/paragraph anti-slop review. The one-shot book standard calls for at least 18 chapters and 65,000 chapter words. This checkpoint does **not** meet that threshold. Do not publish or release based on this manuscript alone.
+Expand Chapters 1–6 against original records to at least the developed 3,000–4,500-word target; seek documents and interviews before replacing open questions with prose; draft Chapters 8–18; perform a full-book continuity pass and systematic line/paragraph anti-slop review. The one-shot book standard calls for at least 18 chapters and 65,000 chapter words. This checkpoint does **not** meet that threshold. Do not publish or release based on this manuscript alone.
 
 Use the [source ledger](source-ledger.csv) as the living bibliography. Document-level sources are more valuable than recursive summaries of other outlets.
