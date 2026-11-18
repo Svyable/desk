@@ -40,7 +40,7 @@
 
 - Nvidia said Nov 8 it had no reason to believe secrets or national security were compromised.
 - The government has publicly described an investigation, not established that Alice Huang was an intelligence operative.
-- Megaspeed has denied wrongdoing and reported that Huang left the company in 2025.
+- Megaspeed has denied wrongdoing and reported that Alice Huang left the company in 2025.
 - Hsu's guilty plea is evidence about a separately prosecuted diversion scheme, not evidence of Huang's or Megaspeed's participation.
 - Nvidia's old proxy described risk oversight mechanisms; the new committee's creation is not, on its own, proof of past negligence.
 
